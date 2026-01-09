@@ -14,10 +14,9 @@ const testsToLoad = [
     { name: "1-Autonomic Nervous System (L10)", data: window.Test_L10 },
     { name: "1-Hypothalamus (L11)", data: window.Test_L11 },
     { name: "1-Thalamus Anatomy & Phys (L12)", data: window.Test_L12 },
-    { name: "1-L13 (Cranial Nerves?)", data: window.Test_L13 }, // Clarify L13 title if needed
+    { name: "1-L13 (Cranial Nerves?)", data: window.Test_L13 },
 
     // --- Week 2 (L14-26) ---
-    // Note: L14 Transcript missing, skipped
     { name: "2-General Sensory System (L15)", data: window.Test_L15 },
     { name: "2-Visual System (L16)", data: window.Test_L16 },
     { name: "2-Auditory System (L17)", data: window.Test_L17 },
@@ -53,8 +52,5 @@ const testsToLoad = [
     { name: "4-Pharm: Multiple Sclerosis (L43)", data: window.Test_L43 },
     { name: "4-Ophtho: Introduction (L44)", data: window.Test_L44 },
     { name: "4-Neuro: Structure-Function Integration (L45)", data: window.Test_L45 },
-    { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 },
-    
-    // Legacy mapping removed - Pathology test deleted per user request
-    // ... Add more as we generate them ...
+    { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 }
 ];

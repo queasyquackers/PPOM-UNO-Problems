@@ -538,9 +538,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const testsInGroup = grouped[groupName];
             testsInGroup.forEach(testObj => {
                 const button = document.createElement('button');
+                button.className = 'test-selector-btn test-selector-btn-inactive test-item-btn';
                 button.textContent = testObj.displayName;
                 button.dataset.name = testObj.name;
-                button.className = 'test-selector-btn test-selector-btn-inactive test-item-btn';
 
                 const originalTestObj = testsToLoad.find(t => t.name === testObj.name);
                 button.onclick = () => {
