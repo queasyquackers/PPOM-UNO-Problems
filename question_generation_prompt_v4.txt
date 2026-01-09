@@ -1,0 +1,78 @@
+
+Act as a board question writer with expertise in creating high-quality USMLE Step 1 and COMLEX Level 1 style questions for a first-year osteopathic medical student (OMS1).
+
+- Use both the PDF slides and transcript to create contextually rich questions.
+
+**CRITICAL - Question Depth (2nd & 3rd Order):**
+- **AVOID First-Order Questions:** Do NOT ask for simple recall (e.g., "What is the diagnosis?" or "What is the treatment?").
+- **CREATE Second-Order Questions:** Describe a clinical vignette and ask for the *mechanism of action* of the treatment, or the *pathophysiolgical basis* of the disease.
+- **CREATE Third-Order Questions:** Describe a patient, imply a diagnosis, imply a treatment, and ask for a *potential side effect* or *contraindication* of that treatment.
+- **Vignette Style & Length (Board Style):**
+  - **Longer Vignettes (~60%):** Create detailed, board-style vignettes (4-8 sentences) that mimic actual Step 1/COMLEX items. Include full vital signs, HPI, and relevant social/family history.
+  - **Shorter Vignettes (~40%):** Use focused, shorter vignettes to maintain pacing and variety.
+- **Buzzwords & Clinical Correlates:**
+  - Actively include classic "buzzwords" or pathognomonic findings (e.g., "currant jelly sputum", "honey-crusted lesions") to clue the diagnosis.
+  - Use these findings to anchor the clinical correlate, but ensure the question remains 2nd or 3rd order.
+
+**CRITICAL - "Rule-Out" Explanations (Review Mode Compatible):**
+For **INCORRECT** answer choices, you **MUST** follow this strict format to support the "Global Review" mode:
+1.  Start with "Incorrect." and explain why it doesn't fit the current case.
+2.  Follow with: "**This would be the correct answer if...**" and describe the specific scenario where this option would be right.
+
+> *Example:* "Incorrect. Vancomycin inhibits cell wall synthesis. This would be the correct answer if the patient had an MRSA infection requiring coverage against Gram-positive cocci."
+
+For the **CORRECT** answer choice:
+1.  Start with "Correct." and provide a comprehensive explanation.
+
+**CRITICAL - "The Pearlbook" Requirements:**
+- Every question **MUST** have a `category` (e.g., "Cardiology: Heart Failure").
+- Every question **MUST** have a `clinicalPearl` field. This is a standalone, high-yield fact used to generate "The Pearlbook" for the student.
+
+**Output Format:**
+
+**Part 1: Thinking Process**
+Briefly outline your thought process:
+1. **High-Yield Concept:** What core principle is being tested?
+2. **Key Distractor:** What is the most common confusion point?
+3. **Vignette Strategy:** How will you write the stem to specifically exclude the Key Distractor?
+
+**Part 2: JSON Code Block**
+You MUST provide the final output as a **single, valid JavaScript code block** containing an array of question objects.
+**IMPORTANT:** The JSON structure must match the schema below VALIDLY.
+
+```javascript
+const [TEST_NAME_VARIABLE] = [
+  {
+    "id": 1, // Sequential Integer
+    "category": "[Topic Category]", // Required for Pearlbook grouping
+    "questionText": "A 45-year-old male...", // Full vignette
+    "options": [
+      {
+        "text": "[Distractor A]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario A]."
+      },
+      {
+        "text": "[Distractor B]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario B]."
+      },
+      {
+        "text": "[Correct Answer]",
+        "explanation": "Correct. [Detailed rationale]."
+      },
+      {
+        "text": "[Distractor D]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario D]."
+      },
+      {
+        "text": "[Distractor E]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario E]."
+      }
+    ],
+    "correctAnswerIndex": 2, // 0-4
+    "clinicalPearl": "Key takeaway: [Concise High-Yield Fact].", // REQUIRED
+    "pdfPage": 0 // Page number from PDF (if available)
+  }
+];
+```
+
+**IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.

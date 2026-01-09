@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PracticeOS</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        orange: {
+                            50: '#fff7ed',
+                            100: '#ffedd5',
+                            500: '#f97316',
+                            600: '#ea580c',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script>
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    </script>
+
+    <style>
+        :root {
+            --bg-main: #fdf6e3;
+            --bg-card: #eee8d5;
+            --bg-card-subtle: #fdf6e3;
+            --bg-hover: #e0e0ce;
+            --bg-selected: #d6e4e6;
+            --text-primary: #586e75;
+            --text-secondary: #93a1a1;
+            --border-color: #d3d0c8;
+            --border-accent: #268bd2;
+            --accent-color: #268bd2;
+            --accent-hover: #2aa198;
+            --accent-text: #268bd2;
+            --correct-bg: #e4f0d6;
+            --correct-border: #859900;
+            --correct-text: #859900;
+            --incorrect-bg: #f5d6d5;
+            --incorrect-border: #dc322f;
+            --incorrect-text: #dc322f;
+            --shadow-sm: 0 1px 2px 0 rgb(38 139 210 / 0.05);
+            --shadow-md: 0 4px 6px -1px rgb(38 139 210 / 0.1), 0 2px 4px -2px rgb(38 139 210 / 0.06);
+            --shadow-lg: 0 10px 15px -3px rgb(38 139 210 / 0.1), 0 4px 6px -4px rgb(38 139 210 / 0.05);
+            --font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        }
+
+        .dark-mode {
+            --bg-main: #002b36;
+            --bg-card: #073642;
+            --bg-card-subtle: #002b36;
+            --bg-hover: #0b404d;
+            --bg-selected: #0e4857;
+            --text-primary: #839496;
+            --text-secondary: #586e75;
+            --border-color: #0b404d;
+            --border-accent: #268bd2;
+            --accent-color: #268bd2;
+            --accent-hover: #2aa198;
+            --accent-text: #268bd2;
+            --correct-bg: #073642;
+            --correct-border: #859900;
+            --correct-text: #859900;
+            --incorrect-bg: #073642;
+            --incorrect-border: #dc322f;
+            --incorrect-text: #dc322f;
+        }
+
+        body {
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            box-shadow: var(--shadow-md);
+        }
+
+        .subtle-card {
+            background-color: var(--bg-card-subtle);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+        }
+
+        .btn-primary {
+            background-color: var(--accent-color);
+            color: white;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: background-color 0.2s;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--bg-hover);
+            border-color: var(--text-secondary);
+        }
+
+        .tab-btn {
+            font-weight: 600;
+            color: var(--text-secondary);
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .tab-btn:hover {
+            color: var(--text-primary);
+        }
+
+        .tab-active {
+            color: var(--accent-color);
+            border-bottom-color: var(--accent-color);
+        }
+
+        .option-btn {
+            background-color: var(--bg-card);
+            border: 2px solid var(--border-color);
+            padding: 1rem;
+            border-radius: 0.75rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .option-btn:hover {
+            border-color: var(--accent-color);
+            background-color: var(--bg-hover);
+        }
+
+        .option-btn-selected {
+            border-color: var(--accent-color);
+            background-color: var(--bg-selected);
+            box-shadow: 0 0 0 2px var(--accent-color);
+        }
+
+        .option-btn-correct {
+            border-color: var(--correct-border);
+            background-color: var(--correct-bg);
+            color: var(--correct-text);
+        }
+
+        .option-btn-incorrect {
+            border-color: var(--incorrect-border);
+            background-color: var(--incorrect-bg);
+            color: var(--incorrect-text);
+        }
+
+        .explanation {
+            display: none;
+            background-color: var(--bg-card-subtle);
+            border-left: 4px solid var(--accent-color);
+            padding: 1rem;
+            margin-top: 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: var(--text-primary);
+        }
+
+        .explanation-correct {
+            background-color: var(--correct-bg);
+            border-left-color: var(--correct-border);
+            color: var(--correct-text);
+        }
+
+        .explanation-incorrect {
+            background-color: var(--incorrect-bg);
+            border-left-color: var(--incorrect-border);
+            color: var(--incorrect-text);
+        }
+
+        .q-grid-btn {
+            width: 100%;
+            aspect-ratio: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid var(--border-color);
+            background-color: var(--bg-card);
+            color: var(--text-secondary);
+        }
+
+        .q-grid-btn:hover {
+            border-color: var(--accent-color);
+            transform: scale(1.05);
+        }
+
+        .q-grid-btn-current {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px var(--bg-selected);
+            color: var(--accent-text);
+        }
+
+        .q-grid-btn-correct {
+            font-weight: 700;
+        }
+
+        .q-grid-btn-flagged {
+            background-color: #f97316 !important;
+            border-color: #ea580c !important;
+            color: white !important;
+        }
+
+        .week-dropdown-panel {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            transform-origin: top;
+            animation: dropdownFadeIn 0.2s ease-out forwards;
+            position: absolute;
+            z-index: 50;
+            min-width: 220px;
+            margin-top: 0.5rem;
+        }
+
+        .week-toggle-btn {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: all 0.2s;
+            display: flex;
+            border-color: var(--accent-color);
+        }
+    </style>
+    <link rel="stylesheet" href="enhancements.css">
+</head>
+
+<body class="antialiased min-h-screen pb-12">
+    <script>
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-mode');
+        }
+    </script>
+
+    <div id="app-container" class="container mx-auto max-w-7xl p-4 lg:p-8">
+
+        <nav
+            class="card mb-8 p-4 flex flex-col lg:flex-row justify-between items-center gap-4 relative z-20 glass-panel rounded-2xl">
+            <div class="flex flex-col md:flex-row items-center gap-6 w-full lg:w-auto">
+                <div class="flex items-center gap-3">
+                    <div class="nav-logo-box w-10 h-10 rounded-xl flex items-center justify-center text-white font-bold text-xl"
+                        style="background-color: var(--accent-color);">
+                        B3
+                    </div>
+                    <h1 class="text-2xl font-bold tracking-tight">Practice<span
+                            style="color: var(--accent-color)">OS</span></h1>
+                </div>
+
+                <div class="h-8 w-px bg-gray-300 dark:bg-gray-700 hidden md:block"></div>
+
+                <div id="test-selector-nav" class="flex flex-wrap justify-center md:justify-start gap-2"></div>
+            </div>
+
+            <div class="flex items-center gap-4">
+                <button id="flashcard-mode-btn" class="btn-secondary flex items-center gap-2 hidden md:flex">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                        </path>
+                    </svg>
+                    Flashcards
+                </button>
+                <button id="time-attack-btn"
+                    class="btn-secondary flex items-center gap-2 text-red-600 border-red-200 hover:bg-red-50">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    Time Attack
+                </button>
+                <button id="master-review-btn"
+                    class="btn-secondary flex items-center gap-2 text-purple-600 border-purple-200 hover:bg-purple-50">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
+                        </path>
+                    </svg>
+                    Master Review
+                </button>
+                <button id="dark-mode-toggle"
+                    class="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition text-secondary">
+                    <svg id="theme-icon-light" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z">
+                        </path>
+                    </svg>
+                    <svg id="theme-icon-dark" class="w-6 h-6 hidden" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z">
+                        </path>
+                    </svg>
+                </button>
+            </div>
+        </nav>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+
+            <aside class="lg:col-span-3 space-y-6">
+                <div class="card p-6 mb-6 glass-panel rounded-2xl">
+                    <div class="flex justify-between items-center mb-6">
+                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Study Modes</h2>
+                    </div>
+                    <div class="space-y-2">
+                        <div class="space-y-3">
+                            <div class="grid grid-cols-1 xl:grid-cols-2 gap-3 mb-6">
+                                <button id="flashcard-mode-btn-sidebar"
+                                    class="flex flex-col items-center justify-center p-4 rounded-xl border border-indigo-200 bg-indigo-50 dark:bg-indigo-900/20 dark:border-indigo-800 hover:shadow-md hover:scale-[1.02] transition-all group h-24">
+                                    <svg class="w-8 h-8 mb-2 text-indigo-500 dark:text-indigo-400 group-hover:text-indigo-600 dark:group-hover:text-indigo-300 transition-colors"
+                                        fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                                        </path>
+                                    </svg>
+                                    <span
+                                        class="font-bold text-sm tracking-wide text-indigo-800 dark:text-indigo-200 group-hover:text-indigo-900 dark:group-hover:text-indigo-100">Flashcards</span>
+                                </button>
+
+                                <button id="time-attack-btn-sidebar"
+                                    class="flex flex-col items-center justify-center p-4 rounded-xl border border-red-200 bg-red-50 dark:bg-red-900/20 dark:border-red-800 hover:shadow-md hover:scale-[1.02] transition-all group h-24">
+                                    <svg class="w-8 h-8 mb-2 text-red-500 dark:text-red-400 group-hover:text-red-600 dark:group-hover:text-red-300 transition-colors"
+                                        fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                    </svg>
+                                    <span
+                                        class="font-bold text-sm tracking-wide text-red-800 dark:text-red-200 group-hover:text-red-900 dark:group-hover:text-red-100">Time
+                                        Attack</span>
+                                </button>
+
+                                <button id="master-review-btn-sidebar"
+                                    class="flex flex-col items-center justify-center p-4 rounded-xl border border-purple-200 bg-purple-50 dark:bg-purple-900/20 dark:border-purple-800 hover:shadow-md hover:scale-[1.02] transition-all group h-24">
+                                    <svg class="w-8 h-8 mb-2 text-purple-500 dark:text-purple-400 group-hover:text-purple-600 dark:group-hover:text-purple-300 transition-colors"
+                                        fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
+                                        </path>
+                                    </svg>
+                                    <span
+                                        class="font-bold text-sm tracking-wide text-purple-800 dark:text-purple-200 group-hover:text-purple-900 dark:group-hover:text-purple-100">Master
+                                        Review</span>
+                                </button>
+
+                                <button id="global-review-btn-sidebar"
+                                    class="hidden flex flex-col items-center justify-center p-4 rounded-xl border border-teal-200 bg-teal-50 dark:bg-teal-900/20 dark:border-teal-800 hover:shadow-md hover:scale-[1.02] transition-all group h-24">
+                                    <svg class="w-8 h-8 mb-2 text-teal-500 dark:text-teal-400 group-hover:text-teal-600 dark:group-hover:text-teal-300 transition-colors"
+                                        fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15">
+                                        </path>
+                                    </svg>
+                                    <span
+                                        class="font-bold text-sm tracking-wide text-teal-800 dark:text-teal-200 group-hover:text-teal-900 dark:group-hover:text-teal-100">Review
+                                        (<span id="global-review-count">0</span>)</span>
+                                </button>
+                            </div>
+
+                            <div class="subtle-card text-center p-6 mb-6">
+                                <div class="text-xs font-semibold text-secondary uppercase mb-2">Time Elapsed</div>
+                                <div id="timer-display" class="text-4xl font-mono font-bold tracking-tighter"
+                                    style="color: var(--accent-color)">00:00</div>
+                                <div class="flex justify-center space-x-3 mt-4">
+                                    <button id="timer-start-btn" class="btn-primary py-1 px-4 text-sm">Start</button>
+                                    <button id="timer-pause-btn"
+                                        class="hidden bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-1 px-4 rounded-lg text-sm transition">Pause</button>
+                                </div>
+                            </div>
+
+                            <h3 class="font-semibold mb-3 text-sm text-secondary">Question Navigator</h3>
+                            <div id="question-grid" class="grid grid-cols-5 gap-2 mb-6"></div>
+
+                            <div class="space-y-2 text-xs text-secondary mb-6 subtle-card p-3">
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-gray-300 mr-2"></span>Unanswered</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-green-500 mr-2"></span>Correct</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-red-500 mr-2"></span>Incorrect</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-orange-500 mr-2"></span>Flagged</div>
+                            </div>
+
+                            <button id="finish-test-btn"
+                                class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
+                                Finish & Grade
+                            </button>
+                            <button id="reset-progress-btn"
+                                class="w-full mt-3 text-sm text-center text-secondary hover:text-red-500 transition">
+                                Reset Progress
+                            </button>
+                        </div>
+            </aside>
+
+            <main class="lg:col-span-9">
+                <div class="card shadow-lg min-h-[600px] flex flex-col glass-panel rounded-2xl">
+                    <header class="p-6 border-b border-default bg-opacity-50 backdrop-blur-sm rounded-t-2xl">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h1 id="exam-title" class="text-3xl font-bold tracking-tight mb-2">Practice Exam</h1>
+                                <p class="text-secondary text-sm">Block 3 • Medical Sciences</p>
+                            </div>
+                        </div>
+                        <div class="flex gap-6 mt-6">
+                            <button id="tab-test" class="tab-btn tab-active pb-2 px-1">Practice Test</button>
+                            <button id="tab-summary" class="tab-btn pb-2 px-1 disabled:opacity-30" disabled>Performance
+                                Summary</button>
+                            <button id="pearlbook-btn"
+                                class="ml-auto hidden md:flex items-center gap-2 text-orange-600 bg-orange-50 hover:bg-orange-100 border border-orange-200 px-3 py-1.5 rounded-lg text-sm font-bold transition-all">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                                    </path>
+                                </svg>
+                                The Pearlbook
+                            </button>
+                        </div>
+                    </header>
+
+                    <div id="main-content-area" class="p-6 lg:p-10 flex-grow">
+                        <div id="test-view" class="animate-fade-in">
+                            <div class="progress-container mb-6">
+                                <div id="exam-progress-bar" class="progress-bar"></div>
+                            </div>
+                            <div id="question-header" class="flex justify-between items-center mb-8">
+                                <span id="question-counter"
+                                    class="text-sm font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full"
+                                    style="background-color: var(--bg-card-subtle)">Question 1</span>
+                                <button id="flag-question-btn"
+                                    class="flex items-center gap-2 text-secondary hover:text-orange-500 transition font-medium text-sm">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6H8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9">
+                                        </path>
+                                    </svg>
+                                    <span id="flag-btn-text">Flag</span>
+                                </button>
+                            </div>
+
+                            <div id="question-container" class="max-w-3xl mx-auto"></div>
+
+                            <!-- Flashcard Container (Hidden by default) -->
+                            <div id="flashcard-container"
+                                class="max-w-3xl mx-auto hidden perspective-1000 h-[500px] cursor-pointer group">
+                                <div id="flashcard-inner"
+                                    class="relative w-full h-full transition-transform duration-700 transform-style-3d">
+                                    <!-- Front -->
+                                    <div
+                                        class="flashcard-front absolute w-full h-full backface-hidden card p-8 flex flex-col justify-center items-center text-center rounded-2xl shadow-xl border-2 border-transparent hover:border-accent">
+                                        <div class="text-xs font-bold uppercase tracking-wider text-secondary mb-4">
+                                            Question</div>
+                                        <div id="flashcard-front-content" class="text-xl font-medium leading-relaxed">
+                                        </div>
+                                        <div class="mt-8 text-sm text-accent font-semibold animate-pulse">Click to Flip
+                                            ↻</div>
+                                    </div>
+
+                                    <!-- Back -->
+                                    <div
+                                        class="flashcard-back absolute w-full h-full backface-hidden rotate-y-180 card p-8 flex flex-col rounded-2xl shadow-xl overflow-y-auto">
+                                        <div class="text-xs font-bold uppercase tracking-wider text-green-600 mb-2">
+                                            Answer</div>
+                                        <div id="flashcard-back-answer" class="text-lg font-bold mb-6 text-green-700">
+                                        </div>
+
+                                        <div class="w-full h-px bg-gray-200 dark:bg-gray-700 mb-6"></div>
+
+
+                                        <div id="flashcard-back-explanation"
+                                            class="text-base text-secondary leading-relaxed"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="slide-display-container" class="mt-8 p-6 rounded-xl subtle-card hidden border-l-4"
+                                style="border-color: var(--accent-color)">
+                                <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                                        </path>
+                                    </svg>
+                                    Visual Aid
+                                </h3>
+                                <div id="slide-image-placeholder"></div>
+                            </div>
+
+                            <div id="navigation-container"
+                                class="mt-12 flex justify-between items-center pt-8 border-t border-default"></div>
+                        </div>
+
+                        <div id="summary-view" class="hidden animate-fade-in">
+                            <div id="summary-dashboard">
+                                <div class="text-center mb-10">
+                                    <div
+                                        class="inline-block p-3 rounded-full bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400 mb-4">
+                                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                        </svg>
+                                    </div>
+                                    <h2 class="text-3xl font-bold">Exam Completed</h2>
+                                    <p class="text-secondary mt-2">Here is how you performed</p>
+                                </div>
+
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-12">
+                                    <div class="flex flex-col items-center justify-center p-6 subtle-card rounded-2xl">
+                                        <div class="w-48 h-48"><canvas id="performance-chart"></canvas></div>
+                                    </div>
+                                    <div class="space-y-6">
+                                        <div>
+                                            <h3 class="text-sm font-bold text-secondary uppercase tracking-wider">Total
+                                                Score</h3>
+                                            <div class="flex items-baseline gap-3">
+                                                <p id="final-score" class="text-6xl font-bold"
+                                                    style="color: var(--accent-color)"></p>
+                                                <p id="final-percentage" class="text-2xl font-semibold text-secondary">
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div id="performance-overview" class="space-y-4"></div>
+                                    </div>
+                                </div>
+
+                                <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                                    <button id="view-all-btn" class="btn-secondary py-3 px-8">Review All
+                                        Questions</button>
+                                    <button id="view-incorrect-btn"
+                                        class="btn-primary py-3 px-8 bg-red-500 hover:bg-red-600 border-none">Review
+                                        Incorrect Only</button>
+                                </div>
+                            </div>
+
+                            <div id="detailed-review-view" class="hidden">
+                                <button id="back-to-summary-btn"
+                                    class="mb-8 flex items-center gap-2 text-secondary hover:text-primary transition font-medium">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                                    </svg>
+                                    Back to Summary
+                                </button>
+                                <div id="detailed-questions-container" class="space-y-8"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <div id="finish-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4">
+        <div id="modal-backdrop" class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity"></div>
+        <div id="modal-content" class="card shadow-2xl p-8 w-full max-w-md z-10 transform transition-all scale-100">
+            <div class="text-center mb-6">
+                <div class="inline-block p-3 rounded-full bg-red-100 text-red-500 mb-4">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z">
+                        </path>
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold">Finish Exam?</h3>
+                <p id="modal-text" class="text-secondary mt-2">Are you sure you want to finish?</p>
+            </div>
+            <div class="flex gap-3">
+                <button id="modal-cancel-btn" class="flex-1 btn-secondary py-3">Cancel</button>
+                <button id="modal-confirm-btn"
+                    class="flex-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition">Finish
+                    Exam</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- PEARLBOOK MODAL -->
+    <div id="pearlbook-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4">
+        <div id="pearlbook-backdrop" class="absolute inset-0 bg-slate-900/60 backdrop-blur-md transition-opacity"></div>
+        <div
+            class="card shadow-2xl w-full max-w-4xl h-[85vh] z-10 flex flex-col rounded-2xl overflow-hidden glass-panel">
+            <div class="flex justify-between items-center p-6 border-b border-default bg-white/50 dark:bg-black/20">
+                <div class="flex items-center gap-3">
+                    <div class="p-2 bg-orange-100 dark:bg-orange-900/30 text-orange-600 rounded-lg">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                            </path>
+                        </svg>
+                    </div>
+                    <div>
+                        <h2 class="text-2xl font-bold font-heading">The Pearlbook</h2>
+                        <p class="text-sm text-secondary">High-Yield Clinical Takeaways</p>
+                    </div>
+                </div>
+                <button id="close-pearlbook-btn"
+                    class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full transition">
+                    <svg class="w-6 h-6 text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12">
+                        </path>
+                    </svg>
+                </button>
+            </div>
+            <div id="pearlbook-content" class="flex-1 overflow-y-auto p-6 space-y-6 bg-gray-50/50 dark:bg-gray-900/50">
+                <!-- Content injected via JS -->
+            </div>
+        </div>
+    </div>
+
+    <script src="Test1.js"></script>
+    <script src="Test2.js"></script>
+    <script src="Test3.js"></script>
+    <script src="Test4.js"></script>
+    <script src="Test5.js"></script>
+    <script src="Test6.js"></script>
+    <script src="Test7.js"></script>
+    <script src="Test8.js"></script>
+    <script src="Test9.js"></script>
+    <script src="Test10.js"></script>
+    <script src="Test11.js"></script>
+    <script src="Test12.js"></script>
+    <script src="Test13.js"></script>
+    <script src="Test14.js"></script>
+    <script src="Test15.js"></script>
+    <script src="Test16.js"></script>
+    <script src="Test17.js"></script>
+    <script src="Test18.js"></script>
+    <script src="Test19.js"></script>
+    <script src="Test20.js"></script>
+    <script src="Test21.js"></script>
+    <script src="Test22.js"></script>
+    <script src="Test23.js"></script>
+    <script src="Test24.js"></script>
+    <script src="Test25.js"></script>
+    <script src="Test26.js"></script>
+    <script src="Test27.js"></script>
+    <script src="Test28.js"></script>
+    <script src="Test29.js"></script>
+    <script src="Test30.js"></script>
+    <script src="Test31.js"></script>
+    <script src="Test32.js"></script>
+
+    <script src="Test33.js"></script>
+    <script src="Test34.js"></script>
+    <script src="Test35.js"></script>
+    <script src="Test36.js"></script>
+    <script src="Test37.js"></script>
+    <script src="Test_L1a.js"></script>
+    <script src="Test_L1b.js"></script>
+    <script src="Test_L2.js"></script>
+    <script src="Test_L3.js"></script>
+    <script src="TestPathology.js"></script>
+
+    <script src="scripts/pdf_mapping.js"></script>
+    <script src="config.js"></script>
+    <script src="app.js?v=6"></script>
+    <script src="scripts/welcome-screen.js"></script>
+</body>
+
+</html>
