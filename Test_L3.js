@@ -28,7 +28,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Tight Junctions (Claudins/Occludins) = The Seal.",
-        "pdfPage": 0
+        "pdfPage": 4
     },
     {
         "id": 2,
@@ -58,7 +58,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Area Postrema = Emetic Center (vomiting).",
-        "pdfPage": 0
+        "pdfPage": 16
     },
     {
         "id": 3,
@@ -88,7 +88,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Epidural = MMA (Lens shape). Subdural = Bridging Veins (Crescent shape).",
-        "pdfPage": 0
+        "pdfPage": 24
     },
     {
         "id": 4,
@@ -118,7 +118,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Stenosis of the Aqueduct is a common cause of non-communicating hydrocephalus.",
-        "pdfPage": 0
+        "pdfPage": 38
     },
     {
         "id": 5,
@@ -148,7 +148,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Polar molecules (like Dopamine) need carriers or precursors (L-Dopa) to cross the BBB.",
-        "pdfPage": 0
+        "pdfPage": 12
     },
     {
         "id": 6,
@@ -178,7 +178,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Arachnoid Granulations act as one-way valves for CSF to enter venous blood.",
-        "pdfPage": 0
+        "pdfPage": 6
     },
     {
         "id": 7,
@@ -238,7 +238,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Pineal tumors can compress the midbrain (Parinaud syndrome).",
-        "pdfPage": 0
+        "pdfPage": 13
     },
     {
         "id": 9,
@@ -268,7 +268,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Subdural = Crescent, Bridging Veins, Elderly/Alcoholics.",
-        "pdfPage": 0
+        "pdfPage": 24
     },
     {
         "id": 10,
@@ -298,7 +298,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Astrocytes provide the 'instruction' for the BBB.",
-        "pdfPage": 0
+        "pdfPage": 4
     },
     {
         "id": 11,
@@ -328,7 +328,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Aqueductal stenosis implies ventricles above (Lat + 3rd) dilate, 4th remains small.",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 12,
@@ -358,7 +358,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: SAH = Thunderclap headache + Bloody Spinal Tap (Xanthochromia).",
-        "pdfPage": 0
+        "pdfPage": 30
     },
     {
         "id": 13,
@@ -388,7 +388,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: 3rd Ventricle is the 'slit' between the thalami.",
-        "pdfPage": 0
+        "pdfPage": 37
     },
     {
         "id": 14,
@@ -418,7 +418,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Drug choice depends on BBB permeability.",
-        "pdfPage": 0
+        "pdfPage": 6
     },
     {
         "id": 15,
@@ -448,7 +448,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Dural sinuses drain blood + CSF (via granulations).",
-        "pdfPage": 0
+        "pdfPage": 22
     },
     {
         "id": 16,
@@ -478,7 +478,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Normal enhancement of CVOs must not be mistaken for tumors.",
-        "pdfPage": 0
+        "pdfPage": 15
     },
     {
         "id": 17,
@@ -508,7 +508,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: CSF flows Down and Out.",
-        "pdfPage": 0
+        "pdfPage": 38
     },
     {
         "id": 18,
@@ -538,7 +538,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Dural reflections (Falx Cerebri, Tentorium Cerebelli) partition the cranial cavity.",
-        "pdfPage": 0
+        "pdfPage": 25
     },
     {
         "id": 19,
@@ -568,7 +568,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Only unconjugated (lipid soluble) bilirubin crosses, especially in neonates.",
-        "pdfPage": 0
+        "pdfPage": 18
     },
     {
         "id": 20,
@@ -598,7 +598,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Choroid Plexus = CSF Factory.",
-        "pdfPage": 0
+        "pdfPage": 39
     },
     {
         "id": 21,
@@ -628,7 +628,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Subdural space is 'potential' until blood fills it (Subdural Hematoma).",
-        "pdfPage": 0
+        "pdfPage": 24
     },
     {
         "id": 22,
@@ -658,7 +658,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Communicating = Problem is outside the ventricles (absorption). Non-communicating = Problem is inside (blockage).",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 23,
@@ -688,7 +688,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: CVOs are sensory windows for the brain.",
-        "pdfPage": 0
+        "pdfPage": 14
     },
     {
         "id": 24,
@@ -718,7 +718,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: LP is safe at L3/L4 or L4/L5 because the cord is gone, only roots (cauda equina) exist there.",
-        "pdfPage": 0
+        "pdfPage": 22
     },
     {
         "id": 25,
@@ -748,7 +748,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Herniation across the tentorium (Uncal herniation) is a life-threatening emergency.",
-        "pdfPage": 0
+        "pdfPage": 25
     },
     {
         "id": 26,
@@ -778,7 +778,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: No pores in the BBB.",
-        "pdfPage": 0
+        "pdfPage": 6
     },
     {
         "id": 27,
@@ -808,7 +808,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Constant production + blockage = Rapid pressure increase.",
-        "pdfPage": 0
+        "pdfPage": 16
     },
     {
         "id": 28,
@@ -838,7 +838,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Aneurysms are usually at branch points in the Circle of Willis.",
-        "pdfPage": 0
+        "pdfPage": 24
     },
     {
         "id": 29,
@@ -868,7 +868,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: The brain depends on glucose; GLUT1 ensures it gets in.",
-        "pdfPage": 0
+        "pdfPage": 1
     },
     {
         "id": 30,
@@ -898,7 +898,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Vasogenic = Vessel leak (BBB broken). Cytotoxic = Cell death (Stroke).",
-        "pdfPage": 0
+        "pdfPage": 9
     },
     {
         "id": 31,
@@ -928,7 +928,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Enlarged VR spaces can be seen on MRI.",
-        "pdfPage": 0
+        "pdfPage": 3
     },
     {
         "id": 32,
@@ -958,7 +958,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Xanthochromia distinguishes SAH from a Traumatic Tap.",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 33,
@@ -988,7 +988,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Absence of Septum Pellucidum is associated with midline defects (SOD).",
-        "pdfPage": 0
+        "pdfPage": 36
     },
     {
         "id": 34,
@@ -1018,7 +1018,7 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: OVLT senses 'thirst'.",
-        "pdfPage": 0
+        "pdfPage": 14
     },
     {
         "id": 35,
@@ -1048,6 +1048,6 @@ window.Test_L3 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Tonsillar herniation involves the cerebellar tonsils pushing through the Foramen Magnum, compressing the Medulla.",
-        "pdfPage": 0
+        "pdfPage": 29
     }
 ];

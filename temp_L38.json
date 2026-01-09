@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "category": "Sacral Anatomy",
+    "questionText": "The dural attachment of the spinal cord is clinically significant as it creates a direct mechanical link between the sacrum and the cranium. This attachment anchor point on the sacrum is located at:",
+    "options": [
+      {
+        "text": "S1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "S2",
+        "explanation": "Correct. The dura mater attaches firmly at the foramen magnum, C2, C3, and S2 (and coccyx). Sacral dysfunction can thus transmit tension to the cranium, causing headaches."
+      },
+      {
+        "text": "S3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "S4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "S5",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Core Link = Foramen Magnum to S2. Fall on sacrum -> Headache."
+  },
+  {
+    "id": 2,
+    "category": "Sacral Axes",
+    "questionText": "Respiratory and Craniosacral motion of the sacrum occurs primarily around which axis?",
+    "options": [
+      {
+        "text": "Superior Transverse Axis",
+        "explanation": "Correct. The Superior Transverse Axis (at S2) is the axis for respiratory/CRI motion. Inhalation = Base Posterior (Counter-nutation)."
+      },
+      {
+        "text": "Middle Transverse Axis",
+        "explanation": "Incorrect (Postural motion - Flexion/Extension associated with bending)."
+      },
+      {
+        "text": "Inferior Transverse Axis",
+        "explanation": "Incorrect (Innominate rotation)."
+      },
+      {
+        "text": "Left Oblique Axis",
+        "explanation": "Incorrect (Torsional motion)."
+      },
+      {
+        "text": "Right Oblique Axis",
+        "explanation": "Incorrect (Torsional motion)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Superior Axis = Respiratory/Craniosacral. Middle = Postural. Inferior = Innominate."
+  },
+  {
+    "id": 3,
+    "category": "Sacral Biomechanics",
+    "questionText": "During the swing phase of the gait cycle (walking), as the right leg moves forward, the sacrum rotates:",
+    "options": [
+      {
+        "text": "Left on a Left Oblique Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right on a Right Oblique Axis",
+        "explanation": "Correct. As the right leg swings forward, the right innominate rotates posteriorly, 'pulling' the right sacral base forward (wait, weight bearing side is the axis). Actually, the rule is: Sacrum rotates TOWARD the weight-bearing leg (axis side) and looks toward the moving leg? No. Check lecture: 'As right leg moves forward, sacrum rotates right over right oblique axis'."
+      },
+      {
+        "text": "Left on a Right Oblique Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right on a Left Oblique Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Transversely around the Middle Axis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Walking induces Forward Torsions (R on R, L on L). Right leg forward -> R on R."
+  },
+  {
+    "id": 4,
+    "category": "Diagnosis: L5 Rules",
+    "questionText": "According to the L5 rules, if L5 is rotated to the Left, the Sacrum will typically be:",
+    "options": [
+      {
+        "text": "Rotated Left",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rotated Right",
+        "explanation": "Correct. L5 rotates OPPOSITE to the sacrum. If L5 is rotated Left, Sacrum is rotated Right."
+      },
+      {
+        "text": "Flexed Bilaterally",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Extended Bilaterally",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neutral",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: L5 rotates opposite to the Sacrum. L on L torsion (Sacrum Rot Left) -> L5 Rotated Right."
+  },
+  {
+    "id": 5,
+    "category": "Special Tests",
+    "questionText": "A positive Lumbosacral Spring Test (resistance/no springing) suggests:",
+    "options": [
+      {
+        "text": "The sacral base is moved anteriorly (Flexed)",
+        "explanation": "Incorrect (This would spring/be negative)."
+      },
+      {
+        "text": "The sacral base is moved posteriorly (Extended)",
+        "explanation": "Correct. A positive spring test indicates the sacral base is posterior (extended/backward torsion), resisting anterior compression."
+      },
+      {
+        "text": "A physiologic dysfunction",
+        "explanation": "Incorrect (Physiologic dysfunctions like forward torsions usually spring)."
+      },
+      {
+        "text": "Normal mechanics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Unilateral Sacral Flexion",
+        "explanation": "Incorrect (This has a negative spring test)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Positive Spring = No Spring = Stiff = Posterior Base (Extension/Backward Torsion)."
+  },
+  {
+    "id": 6,
+    "category": "Diagnosis: Torsions",
+    "questionText": "A patient has a positive Seated Flexion Test on the Right. The Seral Sulcus is deep on the Right. The ILA is posterior/inferior on the Left. The Sphinx Test is negative (symmetry improves). The diagnosis is:",
+    "options": [
+      {
+        "text": "Right on Right Forward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left on Left Forward Sacral Torsion",
+        "explanation": "Correct. Findings: Deep Sulcus Right (Anterior Right Base) -> Rotation Left (Face turns Left). Seated Flexion + Right -> Axis on Left. Diagnosis: Left Rotation on Left Axis (L on L). Sphinx Negative confirms Forward Torsion (Physiologic)."
+      },
+      {
+        "text": "Right on Left Backward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left on Right Backward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Unilateral Sacral Flexion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: L on L: Face Left (Deep R Sulcus, Post L ILA), Axis Left (SFT+ Right), Negative Sphinx."
+  },
+  {
+    "id": 7,
+    "category": "Diagnosis: Torsions",
+    "questionText": "A patient has a positive Seated Flexion Test on the Left. The Sacral Sulcus is deep on the Left. The ILA is posterior/inferior on the Right. The Sphinx test is positive (asymmetry worsens). The diagnosis is:",
+    "options": [
+      {
+        "text": "Right on Left Backward Sacral Torsion",
+        "explanation": "Correct. Findings: Deep Sulcus Left (Anterior Left Base) -> Rotation Right (Face turns Right). Seated Flexion + Left -> Axis on Right. Wait. Axis is opposite SFT. SFT + Left -> Axis Right. Rotation Right on Right Axis (R on R)? No. Let's re-eval: Deep Sulcus Left = Face turns Left? No. Face turns toward the Deep Sulcus? No... Face turns toward the Anterior surface. If Left Base is Anterior (Deep), Face turns Right. Diagnosis: R on R? But Sphinx is Positive (Backward). R on L? Let's check rotation again. Deep Sulcus Left = Left Base Anterior. R on L has Right Base Posterior and Left Base Anterior? No. RonL (Rot Right on Left Axis). BWD Torsion. Right Base Posterior (Shallow). Left Base Anterior (Deep). Face turns Right. SFT + Right (Axis Left). Sphinx Positive. Patient data: SFT + Left (Axis Right). Deep Sulcus Left (Left Base anterior). R on R? That's a forward torsion. Let's re-read the options. Maybe my rotation mapping is flipped. Let's use the ILA. Post/Inf Right ILA -> Face turns Left? (Right ILA is back/down -> Face looks Left). So Rotation is Left. Axis is Right (SFT + Left). L on R. Backward Torsion. Fits."
+      },
+      {
+        "text": "Left on Right Backward Sacral Torsion",
+        "explanation": "Correct. Re-eval: Post/Inf Right ILA -> Sacral apex moves Right -> Base rotates Left. (Face looks Left). SFT + Left -> Axis Right. L on R. Backward Torsion. Sphinx Positive confirms Backward."
+      },
+      {
+        "text": "Right on Right Forward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left on Left Forward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Unilateral Sacral Extension",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Posterior ILA defines rotation often easier. Post/Inf Right ILA = Rotated Left. SFT + Left = Axis Right. L on R = Backward."
+  },
+  {
+    "id": 8,
+    "category": "Diagnosis: Shears",
+    "questionText": "A patient has a deep sacral sulcus on the Left and a posterior/inferior ILA on the Left. The Seated Flexion Test is positive on the Left. The Spring Test is negative. The diagnosis is:",
+    "options": [
+      {
+        "text": "Left Unilateral Sacral Extension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Unilateral Sacral Flexion",
+        "explanation": "Correct. 'Deep Sulcus Left + Low ILA Left' = Whole Left side is Anterior/Inferior (Sheared down/forward). Findings match unilateral flexion. SFT + Left (side of dysfunction). Spring Negative (because it's a Flexion, despite being non-physiologic)."
+      },
+      {
+        "text": "Left on Left Forward Sacral Torsion",
+        "explanation": "Incorrect (L on L has Deep Right Sulcus, Post Left ILA)."
+      },
+      {
+        "text": "Right on Right Forward Sacral Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Unilateral Sacral Flexion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Unilateral Flexion (Shear): Deep Sulcus + Low ILA on SAME side. SFT + Same side. Negative Spring."
+  },
+  {
+    "id": 9,
+    "category": "Clinical Correlation",
+    "questionText": "In a patient with a Backward Sacral Torsion (e.g., R on L), the L5 vertebra will typically follow which pattern?",
+    "options": [
+      {
+        "text": "Rotated SAME direction as sacrum, Sidebent OPPOSITE to axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rotated OPPOSITE to sacrum, Sidebent SAME side as axis",
+        "explanation": "Correct. L5 Rules: Rotation opposite sacrum. Sidebending same side as oblique axis. For R on L (Rot Right, Axis Left): L5 Rot Left, Sidebent Left. (Type II mechanics mostly)."
+      },
+      {
+        "text": "Rotated SAME direction as sacrum, Sidebent SAME side as axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rotated OPPOSITE to sacrum, Sidebent OPPOSITE to axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No predictable pattern",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: L5 Rules: Sidebend Same (as axis), Rotate Opposite (to sacrum)."
+  },
+  {
+    "id": 10,
+    "category": "Sacral Axes",
+    "questionText": "The Middle Transverse Axis of the sacrum passes through S2 and is primarily the axis for:",
+    "options": [
+      {
+        "text": "Respiratory motion",
+        "explanation": "Incorrect (Superior)."
+      },
+      {
+        "text": "Postural Flexion/Extension",
+        "explanation": "Correct. This axis is used during standing/bending mechanics."
+      },
+      {
+        "text": "Walking gait",
+        "explanation": "Incorrect (Oblique)."
+      },
+      {
+        "text": "Innominate rotation",
+        "explanation": "Incorrect (Inferior)."
+      },
+      {
+        "text": "Craniosacral mechanism",
+        "explanation": "Incorrect (Superior)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Middle Axis = Postural."
+  },
+  {
+    "id": 11,
+    "category": "Diagnosis: Shears",
+    "questionText": "A patient presents with a Right Unilateral Sacral Extension. Which of the following findings would be expected?",
+    "options": [
+      {
+        "text": "Deep Sulcus Right, Posterior ILA Right, Negative Spring",
+        "explanation": "Incorrect (Unilateral Extension has Positive Spring)."
+      },
+      {
+        "text": "Shallow Sulcus Right, Anterior ILA Right, Positive Spring",
+        "explanation": "Correct. Right Extension Shear (Right side stuck in extension/posterior). Sulcus Shallow (Posterior base). ILA Anterior/Superior. SFT + Right. Spring Positive (Resistance)."
+      },
+      {
+        "text": "Deep Sulcus Right, Posterior ILA Right, Positive Spring",
+        "explanation": "Incorrect (Deep sulcus = Flexion)."
+      },
+      {
+        "text": "Shallow Sulcus Right, Anterior ILA Right, Negative Spring",
+        "explanation": "Incorrect (Extension has Positive Spring)."
+      },
+      {
+        "text": "Shallow Sulcus Left, Anterior ILA Right, Negative Spring",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Unilateral Extension: Shallow Sulcus + High ILA on SAME side. Positive Spring."
+  },
+  {
+    "id": 12,
+    "category": "Anatomy",
+    "questionText": "The piriformis muscle, strictly an external rotator of the hip in neutral, attaches to the:",
+    "options": [
+      {
+        "text": "Posterior surface of the sacrum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior surface of the sacrum",
+        "explanation": "Correct. Anterior face of S2-S4."
+      },
+      {
+        "text": "Sacral Base",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Coccyx",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ischial Tuberosity",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Piriformis attaches to Anterior Sacrum. Dysfunction can cause sacral issues."
+  },
+  {
+    "id": 13,
+    "category": "Terminology",
+    "questionText": "If the sacral base moves anteriorly (forward) around the middle transverse axis, this motion is called:",
+    "options": [
+      {
+        "text": "Counter-nutation",
+        "explanation": "Incorrect (Base Posterior)."
+      },
+      {
+        "text": "Nutation",
+        "explanation": "Correct. Nutation (nodding forward) is anterior movement of the sacral base."
+      },
+      {
+        "text": "Extension",
+        "explanation": "Incorrect (Base Posterior)."
+      },
+      {
+        "text": "Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sidebending",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Nutation = Base Anterior. Counter-nutation = Base Posterior."
+  },
+  {
+    "id": 14,
+    "category": "Diagnosis: Torsions",
+    "questionText": "A Left-on-Left Sacral Torsion is classified as a:",
+    "options": [
+      {
+        "text": "Backward Torsion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Non-physiologic dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Forward Torsion (Physiologic)",
+        "explanation": "Correct. Rotation and Axis are same side (L on L). Occurs during walking (physiologic). Negative Sphinx."
+      },
+      {
+        "text": "Unilateral Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral Extension",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Same letters (L on L, R on R) = Forward/Physiologic. Diff letters = Backward/Non-physiologic."
+  },
+  {
+    "id": 15,
+    "category": "Diagnosis: Static Landmarks",
+    "questionText": "When diagnosing a sacral torsion, if the Seated Flexion Test is positive on the Right, the engaged oblique axis is:",
+    "options": [
+      {
+        "text": "The Right Oblique Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Left Oblique Axis",
+        "explanation": "Correct. The axis is typically on the side OPPOSITE to the positive Seated Flexion Test. (SFT + Right -> stuck right SI -> motion occurs around Left axis)."
+      },
+      {
+        "text": "The Middle Transverse Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Superior Transverse Axis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cannot be determined",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Axis is OPPOSITE the positive SFT."
+  }
+]

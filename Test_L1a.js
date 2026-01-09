@@ -28,7 +28,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Always lateralize the dysfunction (Standing Flexion Test) before diagnosing the specific innominate somatic dysfunction.",
-        "pdfPage": 0
+        "pdfPage": 23
     },
     {
         "id": 2,
@@ -58,7 +58,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Positive Standing Flexion Test = Iliosacral dysfunction on the side where the PSIS moves MOST superiorly.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 3,
@@ -88,7 +88,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Always 'reset' the pelvis before palpating landmarks to ensure accuracy.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 4,
@@ -118,7 +118,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: PSIS is at the level of S2. Iliac Crest is at L4.",
-        "pdfPage": 0
+        "pdfPage": 31
     },
     {
         "id": 5,
@@ -148,7 +148,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Anterior Rotation: ASIS Low, PSIS High. Posterior Rotation: ASIS High, PSIS Low.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 6,
@@ -178,7 +178,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Posterior Innominate Rotation is often associated with tight Hamstrings. Anterior Innominate Rotation is associated with tight Quadriceps/Hip Flexors.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 7,
@@ -208,7 +208,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Iliolumbar ligament tenderness is a sensitive screening sign for L5/S1/Iliosacral pathology.",
-        "pdfPage": 0
+        "pdfPage": 3
     },
     {
         "id": 8,
@@ -238,7 +238,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Posterior Rotation = ASIS High, PSIS Low, Pubis High. Anterior Rotation = ASIS Low, PSIS High, Pubis Low.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 9,
@@ -268,7 +268,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Superior Innominate Shear (Upslip) = ALL landmarks on that side are SUPERIOR (High).",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 10,
@@ -298,7 +298,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Short Leg Syndrome causes Sacral Base Declination (drop) towards the SHORT side.",
-        "pdfPage": 0
+        "pdfPage": 57
     },
     {
         "id": 11,
@@ -328,7 +328,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Standing Flexion Test isolates Iliosacral dysfunction.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 12,
@@ -358,7 +358,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: True Leg Length = ASIS to Medial Malleolus. Apparent Leg Length = Umbilicus to Medial Malleolus.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 13,
@@ -388,7 +388,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Treat Anterior Innominate with Hamstrings (Flexion). Treat Posterior Innominate with Quadriceps (Extension).",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 14,
@@ -418,7 +418,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Adductors -> Inferior Pubic Shear. Rectus Abdominis -> Superior Pubic Shear.",
-        "pdfPage": 0
+        "pdfPage": 10
     },
     {
         "id": 15,
@@ -448,7 +448,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Inflare = ASIS Medial. Outflare = ASIS Lateral.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 16,
@@ -478,7 +478,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Innominates rotate on the Inferior Transverse Axis.",
-        "pdfPage": 0
+        "pdfPage": 36
     },
     {
         "id": 17,
@@ -508,7 +508,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Diagnosis logic: 1. Lateralize (SFT). 2. Check ASIS/PSIS. 3. Name rotation.",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 18,
@@ -538,7 +538,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Look for scar tissue or tight rectus abdominis in Superior Pubic Shear.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 19,
@@ -568,7 +568,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Innominate = Ilium + Ischium + Pubis.",
-        "pdfPage": 0
+        "pdfPage": 5
     },
     {
         "id": 20,
@@ -598,7 +598,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: ASIS Compression lateralizes dysfunction based on resistance/stiffness.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 21,
@@ -628,7 +628,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Trauma (fall/step in hole) is the classic history for Innominate Shears (Upslip/Downslip).",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 22,
@@ -658,7 +658,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Treat Upslip with Traction (Leg Tug).",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 23,
@@ -688,7 +688,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: A Posterior Innominate effectively SHORTENS the leg (medial malleolus superior). Anterior Innominate LENGTHENS the leg.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 24,
@@ -718,7 +718,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Posterior Rotation = Functional Short Leg. Anterior Rotation = Functional Long Leg.",
-        "pdfPage": 0
+        "pdfPage": 42
     },
     {
         "id": 25,
@@ -748,7 +748,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Check Structural Leg Length with X-ray or tape measure (ASIS-Malleolus). Treat Functional with OMM, Structural with Lift.",
-        "pdfPage": 0
+        "pdfPage": 3
     },
     {
         "id": 26,
@@ -778,7 +778,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Seated Flexion Test = Sacral Dysfunction. Standing Flexion Test = Innominate Dysfunction.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 27,
@@ -808,7 +808,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Visualize the wheel turning forward: Front goes down, Back goes up.",
-        "pdfPage": 0
+        "pdfPage": 37
     },
     {
         "id": 28,
@@ -838,7 +838,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Posterior Innominate -> Need to rotate Anteriorly -> Use Hip Extension (Quads/Flexors).",
-        "pdfPage": 0
+        "pdfPage": 11
     },
     {
         "id": 29,
@@ -868,7 +868,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Monitor PSIS movement for SFT.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 30,
@@ -898,7 +898,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Inflare implies medial position of ASIS.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 31,
@@ -928,7 +928,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Rotations are physiologic. Shears are non-physiologic (traumatic).",
-        "pdfPage": 0
+        "pdfPage": 17
     },
     {
         "id": 32,
@@ -958,7 +958,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Shears are often painful and history usually involves trauma (e.g., missing a step).",
-        "pdfPage": 0
+        "pdfPage": 17
     },
     {
         "id": 33,
@@ -988,7 +988,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Treat Outflare with Adduction/Internal Rotation. Treat Inflare with Abduction/External Rotation (Pigeon pose).",
-        "pdfPage": 0
+        "pdfPage": 31
     },
     {
         "id": 34,
@@ -1018,7 +1018,7 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Palpate superior aspect of Pubic Tubercles.",
-        "pdfPage": 0
+        "pdfPage": 40
     },
     {
         "id": 35,
@@ -1048,6 +1048,6 @@ window.Test_L1a = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Belt-line pain = Iliolumbar ligament.",
-        "pdfPage": 0
+        "pdfPage": 3
     }
 ];

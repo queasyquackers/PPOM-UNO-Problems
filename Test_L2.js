@@ -28,7 +28,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Notochord = Mesoderm. CNS = Ectoderm.",
-        "pdfPage": 0
+        "pdfPage": 17
     },
     {
         "id": 2,
@@ -58,7 +58,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Neural Tube -> CNS. Neural Crest -> PNS.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 3,
@@ -88,7 +88,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 3,
         "clinicalPearl": "Key takeaway: Motor Neurons (CNS) come from the Neural Tube. Sensory Ganglia (PNS) come from Neural Crest.",
-        "pdfPage": 0
+        "pdfPage": 19
     },
     {
         "id": 4,
@@ -118,7 +118,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Spina Bifida Occulta = Vertebral defect only, often asymptomatic + hair tuft.",
-        "pdfPage": 0
+        "pdfPage": 1
     },
     {
         "id": 5,
@@ -148,7 +148,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Rostral Neuropore Failure -> Anencephaly. Caudal Neuropore Failure -> Spina Bifida.",
-        "pdfPage": 0
+        "pdfPage": 12
     },
     {
         "id": 6,
@@ -178,7 +178,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Ventricular -> Ependymal. Mantle -> Gray Matter. Marginal -> White Matter.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 7,
@@ -208,7 +208,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Alar = Dorsal = Sensory. Basal = Ventral = Motor.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 8,
@@ -238,7 +238,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Ventral (Motor) <- Shh. Dorsal (Sensory) <- BMP.",
-        "pdfPage": 0
+        "pdfPage": 17
     },
     {
         "id": 9,
@@ -268,7 +268,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Prosencephalon -> Telencephalon + Diencephalon.",
-        "pdfPage": 0
+        "pdfPage": 22
     },
     {
         "id": 10,
@@ -298,7 +298,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Metencephalon -> Pons + Cerebellum.",
-        "pdfPage": 0
+        "pdfPage": 28
     },
     {
         "id": 11,
@@ -328,7 +328,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Diencephalon <-> Third Ventricle.",
-        "pdfPage": 0
+        "pdfPage": 32
     },
     {
         "id": 12,
@@ -358,7 +358,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Holoprosencephaly = Failure of forebrain cleavage (midline defects).",
-        "pdfPage": 0
+        "pdfPage": 27
     },
     {
         "id": 13,
@@ -388,7 +388,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Retina is CNS tissue (Diencephalon).",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 14,
@@ -418,7 +418,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Midbrain = CN 3, 4. Pons = CN 5, 6, 7, 8. Medulla = CN 9, 10, 11, 12.",
-        "pdfPage": 0
+        "pdfPage": 15
     },
     {
         "id": 15,
@@ -448,7 +448,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Cord ends at L3 at birth, L1/L2 in adults.",
-        "pdfPage": 0
+        "pdfPage": 20
     },
     {
         "id": 16,
@@ -478,7 +478,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Tethered cord causes progressive neurological deficits as the child grows.",
-        "pdfPage": 0
+        "pdfPage": 20
     },
     {
         "id": 17,
@@ -508,7 +508,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Aqueduct runs through the Midbrain.",
-        "pdfPage": 0
+        "pdfPage": 27
     },
     {
         "id": 18,
@@ -538,7 +538,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Neural Crest defects can cause Conotruncal heart defects (e.g., Tetralogy of Fallot) + Craniofacial issues.",
-        "pdfPage": 0
+        "pdfPage": 15
     },
     {
         "id": 19,
@@ -568,7 +568,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Myelomeningocele is the most common significant form of Spina Bifida and involves neural deficits.",
-        "pdfPage": 0
+        "pdfPage": 20
     },
     {
         "id": 20,
@@ -598,7 +598,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Spinal Cord: Gray inside (Mantle), White outside (Marginal).",
-        "pdfPage": 0
+        "pdfPage": 34
     },
     {
         "id": 21,
@@ -628,7 +628,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Sulcus Limitans = Sensory/Motor border.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 22,
@@ -658,7 +658,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Folic Acid prevents Neural Tube Defects.",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 23,
@@ -688,7 +688,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Myelencephalon = Medulla.",
-        "pdfPage": 0
+        "pdfPage": 30
     },
     {
         "id": 24,
@@ -718,7 +718,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Neural crest migrates to form Enteric Nervous System. Failure = Hirschsprung.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 25,
@@ -748,7 +748,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Separation from surface ectoderm allows mesoderm to migrate between and form vertebrae.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 26,
@@ -778,7 +778,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Encephaloceles are typically occipital.",
-        "pdfPage": 0
+        "pdfPage": 11
     },
     {
         "id": 27,
@@ -808,7 +808,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: Neural Crest creates the 'Face'.",
-        "pdfPage": 0
+        "pdfPage": 15
     },
     {
         "id": 28,
@@ -838,7 +838,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: BMP = Dorsalizing signal.",
-        "pdfPage": 0
+        "pdfPage": 17
     },
     {
         "id": 29,
@@ -868,7 +868,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Telencephalon -> Lateral Ventricles (1 and 2).",
-        "pdfPage": 0
+        "pdfPage": 27
     },
     {
         "id": 30,
@@ -898,7 +898,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Pons + Cerebellum are a unit (Metencephalon).",
-        "pdfPage": 0
+        "pdfPage": 2
     },
     {
         "id": 31,
@@ -928,7 +928,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: All CNS cells (except microglia) come from Ventricular Zone neuroepithelium.",
-        "pdfPage": 0
+        "pdfPage": 45
     },
     {
         "id": 32,
@@ -958,7 +958,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Cephalic flexure is the reason 'Rostral' is anterior in the forebrain but superior in the brainstem.",
-        "pdfPage": 0
+        "pdfPage": 22
     },
     {
         "id": 33,
@@ -988,7 +988,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Key takeaway: Rule of 4s (rough guide): 4 above pons, 4 in pons, 4 in medulla.",
-        "pdfPage": 0
+        "pdfPage": 20
     },
     {
         "id": 34,
@@ -1018,7 +1018,7 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Key takeaway: Cranial end develops first (bigger brain).",
-        "pdfPage": 0
+        "pdfPage": 4
     },
     {
         "id": 35,
@@ -1048,6 +1048,6 @@ window.Test_L2 = [
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Key takeaway: High AFP = Open NTD (or abdominal wall defect).",
-        "pdfPage": 0
+        "pdfPage": 46
     }
 ];

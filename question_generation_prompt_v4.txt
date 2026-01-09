@@ -70,9 +70,16 @@ const [TEST_NAME_VARIABLE] = [
     ],
     "correctAnswerIndex": 2, // 0-4
     "clinicalPearl": "Key takeaway: [Concise High-Yield Fact].", // REQUIRED
-    "pdfPage": 0 // Page number from PDF (if available)
+    "pdfPage": 15 // **REQUIRED** - Page number in the lecture PDF where this concept is taught
   }
 ];
 ```
+
+**CRITICAL - PDF Slide Mapping:**
+- Every question **MUST** include a `pdfPage` property
+- Set `pdfPage` to the specific slide number in the lecture PDF where the tested concept is primarily taught
+- If the concept spans multiple slides, use the slide where it's introduced or most clearly explained
+- Review the PDF to identify the correct page number - this enables students to click "Open Lecture Source PDF (Page X)" and jump directly to the relevant slide
+- For questions covering broad topics, use the overview/summary slide number
 
 **IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.
