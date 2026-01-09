@@ -130,8 +130,6 @@ const PDF_MAPPING = {
     "Drug Interactions & Pharmacogenomics": "pdfs/L117L118.pdf",
     "Antimicrobials": "pdfs/L119.pdf",
     "Beta Lactams Pt1": "pdfs/L120.pdf",
-    "Pathology-Lecture 128 Review": "pdfs/Lecture #128. M. Plummer, M.D. (Pathology Review Handout).pdf",
-    "Pathology-Pathology Review Sheet": "pdfs/Lecture #128. M. Plummer, M.D. (Pathology Review Handout).pdf",
     
     // Full Test Name Mappings (from config.js)
     "OMM: Basics of Diagnosis (L1a)": "pdfs/Lecture # 1a. T. Li, D.O. (PPT).pdf",

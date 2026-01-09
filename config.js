@@ -55,11 +55,6 @@ const testsToLoad = [
     { name: "4-Neuro: Structure-Function Integration (L45)", data: window.Test_L45 },
     { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 },
     
-    // Legacy mapping (Keeping original tests accessible but organized if needed, or commenting out if replaced)
-    // The user asked to load *their* lectures into weeks.
-    // Assuming the "Test1", "Test2" etc are older versions or different content. 
-    // I will keep the explicit Pathology one.
-    { name: "Pathology-Pathology Review Sheet", data: window.TestPathology },
-
+    // Legacy mapping removed - Pathology test deleted per user request
     // ... Add more as we generate them ...
 ];
