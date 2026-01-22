@@ -448,5 +448,605 @@ window.Test_L16 = [
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: High visual acuity in the fovea is due to a high density of cones and a 1:1 ratio of cones to ganglion cells.",
     "pdfPage": 17
+  },
+  {
+    "id": 16,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "The primary visual cortex (V1) is organized into columns. What is the functional significance of an 'orientation column'?",
+    "options": [
+      {
+        "text": "It receives input from only one eye",
+        "explanation": "Incorrect. This describes an Ocular Dominance Column."
+      },
+      {
+        "text": "It processes color information",
+        "explanation": "Incorrect. Color is processed in 'blobs' (patches rich in cytochrome oxidase)."
+      },
+      {
+        "text": "It responds best to a bar of light oriented at a specific angle",
+        "explanation": "Correct. Neurons within a vertical column in V1 all respond preferentially to stimuli (like edges or bars) with a specific orientation (e.g., vertical, horizontal, or oblique). Adjacent columns prefer slightly different orientations."
+      },
+      {
+        "text": "It detects motion direction",
+        "explanation": "Incorrect. While some cells are direction-selective, the defining feature of the column is orientation preference."
+      },
+      {
+        "text": "It maps the fovea",
+        "explanation": "Incorrect. This is retinotopy, which maps location, not stimulus features like orientation."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V1 is organized into orientation columns, where neurons respond to edges of a specific angle.",
+    "pdfPage": 36
+  },
+  {
+    "id": 17,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "A 50-year-old patient presents with papilledema (swelling of the optic disc) visible on fundoscopy. This finding is most indicative of:",
+    "options": [
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect. Glaucoma typically causes 'cupping' of the optic disc, not swelling."
+      },
+      {
+        "text": "Detached retina",
+        "explanation": "Incorrect. This appears as a folding or grey curtain, not disc swelling."
+      },
+      {
+        "text": "Increased Intracranial Pressure (ICP)",
+        "explanation": "Correct. The subarachnoid space surrounds the optic nerve. Increased ICP is transmitted through this space, compressing the optic nerve and impairing axoplasmic transport, leading to swelling of the optic disc (papilledema)."
+      },
+      {
+        "text": "Macular degeneration",
+        "explanation": "Incorrect. Affects the macula, not the optic disc."
+      },
+      {
+        "text": "Cataracts",
+        "explanation": "Incorrect. Opacity of the lens."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Papilledema is a sign of increased intracranial pressure transmitted along the optic nerve sheath.",
+    "pdfPage": 34
+  },
+  {
+    "id": 18,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Lesions of the Meyer's Loop (temporal radiations) result in which specific visual field defect?",
+    "options": [
+      {
+        "text": "Contralateral Homonymous Hemianopsia",
+        "explanation": "Incorrect. This suggests damage to the entire optic tract or total radiation/cortex."
+      },
+      {
+        "text": "Contralateral Inferior Quadrantanopia ('Pie in the Floor')",
+        "explanation": "Incorrect. This is caused by lesions of the parietal loop (Baum's loop)."
+      },
+      {
+        "text": "Contralateral Superior Quadrantanopia ('Pie in the Sky')",
+        "explanation": "Correct. Meyer's loop carries fibers representing the contralateral SUPERIOR visual field (from the inferior retina) through the temporal lobe. Damage here causes a 'Pie in the Sky' defect."
+      },
+      {
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect. Chiasmal lesion."
+      },
+      {
+        "text": "Monocular blindness",
+        "explanation": "Incorrect. Optic nerve lesion."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Meyer's Loop (temporal lobe) damage causes a Contralateral Superior Quadrantanopia ('Pie in the Sky').",
+    "pdfPage": 29
+  },
+  {
+    "id": 19,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "The Superior Colliculus receives visual input and is primarily involved in:",
+    "options": [
+      {
+        "text": "Conscious visual perception",
+        "explanation": "Incorrect. This is the function of the Geniculo-Calcarine pathway (LGN to V1)."
+      },
+      {
+        "text": "Circadian rhythms",
+        "explanation": "Incorrect. This is the Suprachiasmatic Nucleus (SCN)."
+      },
+      {
+        "text": "Orienting heat and eye movements toward visual stimuli",
+        "explanation": "Correct. The Superior Colliculus coordinates reflexive eye and head movements (saccades) to bring peripheral objects into foveal focus."
+      },
+      {
+        "text": "Pupillary light reflex",
+        "explanation": "Incorrect. This involves the Pretectal Nucleus."
+      },
+      {
+        "text": "Face recognition",
+        "explanation": "Incorrect. Ventral stream (temporal lobe)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The Superior Colliculus directs reflexive eye and head movements toward objects of interest.",
+    "pdfPage": 35
+  },
+  {
+    "id": 20,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Which artery is the primary blood supply to the visual cortex (V1) in the occipital lobe?",
+    "options": [
+      {
+        "text": "Middle Cerebral Artery (MCA)",
+        "explanation": "Incorrect. Supplies the lateral surface (optic radiations), but not the primary visual cortex (medial)."
+      },
+      {
+        "text": "Anterior Cerebral Artery (ACA)",
+        "explanation": "Incorrect. Supplies the medial frontal and parietal lobes."
+      },
+      {
+        "text": "Posterior Cerebral Artery (PCA)",
+        "explanation": "Correct. The Posterior Cerebral Artery supplies the medial aspect of the occipital lobe, including the calcarine sulcus where V1 is located."
+      },
+      {
+        "text": "Ophthalmic Artery",
+        "explanation": "Incorrect. Supplies the eye and orbit."
+      },
+      {
+        "text": "Basilar Artery",
+        "explanation": "Incorrect. The PCA branches off the basilar, but PCA is the specific vessel."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The Posterior Cerebral Artery (PCA) supplies the primary visual cortex.",
+    "pdfPage": 30
+  },
+  {
+    "id": 21,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Describe the phenomenon of 'Macular Sparing' in the context of a PCA stroke affecting the visual cortex.",
+    "options": [
+      {
+        "text": "The entire visual field is lost including the macula",
+        "explanation": "Incorrect. This would be a complete homonymous hemianopsia without sparing."
+      },
+      {
+        "text": "Only the peripheral vision is lost, but the central 5-10 degrees (macula) is preserved",
+        "explanation": "Correct. In PCA occlusions, the pole of the occipital cortex (foveal representation) often receives collateral blood supply from the Middle Cerebral Artery (MCA), sparing central vision despite the hemianopsia."
+      },
+      {
+        "text": "Only the macula is blind, periphery is intact",
+        "explanation": "Incorrect. This is a central scotoma."
+      },
+      {
+        "text": "Color vision is lost but form is preserved",
+        "explanation": "Incorrect. Achromatopsia."
+      },
+      {
+        "text": "Motion perception is lost",
+        "explanation": "Incorrect. Akinetopsia."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Macular Sparing in PCA strokes is due to dual blood supply (MCA and PCA) to the occipital pole.",
+    "pdfPage": 33
+  },
+  {
+    "id": 22,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "A patient with damage to the 'Where' pathway (Dorsal stream) might exhibit:",
+    "options": [
+      {
+        "text": "Prosopagnosia",
+        "explanation": "Incorrect. 'What' pathway deficit."
+      },
+      {
+        "text": "Achromatopsia",
+        "explanation": "Incorrect. 'What' pathway deficit."
+      },
+      {
+        "text": "Visual Agnosia",
+        "explanation": "Incorrect. 'What' pathway deficit."
+      },
+      {
+        "text": "Motion Blindness (Akinetopsia) and difficulty with spatial relationships",
+        "explanation": "Correct. The Dorsal stream (Parietal lobe) processes motion and spatial location. Damage can cause deficits in motion perception or visually guided reaching (optic ataxia)."
+      },
+      {
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect. Chiasm lesion."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Dorsal stream lesions impair motion perception and spatial awareness.",
+    "pdfPage": 39
+  },
+  {
+    "id": 23,
+    "category": "Physiology: Visual System",
+    "questionText": "In the phototransduction cascade, light hitting rhodopsin leads to:",
+    "options": [
+      {
+        "text": "Opening of Na+ channels",
+        "explanation": "Incorrect. Darkness keeps Na+ channels open."
+      },
+      {
+        "text": "Increase in cGMP",
+        "explanation": "Incorrect. cGMP decreases."
+      },
+      {
+        "text": "Activation of Transducin and Phosphodiesterase (PDE)",
+        "explanation": "Correct. Light isomerizes retinal, activating opsin, which activates Transducin. Transducin activates PDE, which breaks down cGMP."
+      },
+      {
+        "text": "Depolarization of the photoreceptor",
+        "explanation": "Incorrect. Light causes hyperpolarization."
+      },
+      {
+        "text": "Release of more glutamate",
+        "explanation": "Incorrect. Light reduces glutamate release."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Light activates PDE, lowering cGMP levels.",
+    "pdfPage": 15
+  },
+  {
+    "id": 24,
+    "category": "Physiology: Visual System",
+    "questionText": "The physiological 'Dark Current' in photoreceptors is caused by:",
+    "options": [
+      {
+        "text": "K+ efflux",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ca2+ influx only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Uninterrupted influx of Na+ and Ca2+ through cGMP-gated channels",
+        "explanation": "Correct. In the dark, high cGMP levels keep cation channels open, allowing a constant influx of Na+ and Ca2+ (Dark Current), keeping the cell depolarized."
+      },
+      {
+        "text": "Active pumping of Na+ out of the cell",
+        "explanation": "Incorrect. That maintains the gradient but isn't the current itself."
+      },
+      {
+        "text": "Cl- influx",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: In the dark, photoreceptors are depolarized by the 'Dark Current' (Na+/Ca2+ influx).",
+    "pdfPage": 15
+  },
+  {
+    "id": 25,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Age-Related Macular Degeneration (AMD) primarily results in:",
+    "options": [
+      {
+        "text": "Loss of peripheral vision",
+        "explanation": "Incorrect. This is typical of Glaucoma or Retinitis Pigmentosa."
+      },
+      {
+        "text": "Loss of central vision",
+        "explanation": "Correct. AMD affects the macula/fovea, destroying the high-acuity central vision needed for reading and face recognition, while often sparing peripheral vision."
+      },
+      {
+        "text": "Total blindness",
+        "explanation": "Incorrect. Usually peripheral vision remains."
+      },
+      {
+        "text": "Night blindness",
+        "explanation": "Incorrect. Typical of rod dysfunction (Retinitis Pigmentosa)."
+      },
+      {
+        "text": "Color blindness only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: AMD causes loss of central vision (scotoma).",
+    "pdfPage": 21
+  },
+  {
+    "id": 26,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "A patient with a lesion in the Right Parietal Lobe (Dorsal Stream) is asked to draw a clock. He draws a circle but puts all the numbers (1-12) on the right side of the face, leaving the left side empty. This behavior is consistent with:",
+    "options": [
+      {
+        "text": "Simultanagnosia",
+        "explanation": "Incorrect. Inability to perceive more than one object at a time."
+      },
+      {
+        "text": "Hemineglect (Left-sided)",
+        "explanation": "Correct. Lesions of the non-dominant (usually Right) parietal lobe cause hemineglect, where the patient ignores the contralateral (Left) side of space. Crowding numbers on the right is a classic sign."
+      },
+      {
+        "text": "Object Agnosia",
+        "explanation": "Incorrect. He knows it's a clock."
+      },
+      {
+        "text": "Constructional Apraxia",
+        "explanation": "Incorrect. While drawing is impaired, the specific spatial neglect defines this."
+      },
+      {
+        "text": "Gerstmann Syndrome",
+        "explanation": "Incorrect. Associated with Left parietal lesions (acalculia, agraphia, etc.)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Right parietal lesions cause Left Hemineglect.",
+    "pdfPage": 44
+  },
+  {
+    "id": 27,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Which structure in the visual pathway is responsible for the 'filling in' of the blind spot?",
+    "options": [
+      {
+        "text": "Retina",
+        "explanation": "Incorrect. The retina *has* the blind spot."
+      },
+      {
+        "text": "LGN",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual Cortex",
+        "explanation": "Correct. The brain (visual cortex) interpolates information from the surrounding visual field to 'fill in' the gap caused by the optic disc (blind spot), so we don't perceive a hole in our vision."
+      },
+      {
+        "text": "Cornea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lens",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The cortex fills in the blind spot.",
+    "pdfPage": 18
+  },
+  {
+    "id": 28,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "What describes the 'Retinotopic Map' in the primary visual cortex?",
+    "options": [
+      {
+        "text": "The fovea is represented by a small area proportional to its size",
+        "explanation": "Incorrect. The fovea has a huge magnification factor."
+      },
+      {
+        "text": "The peripheral retina is over-represented",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adjacent points on the retina are mapped to adjacent neurons in the cortex",
+        "explanation": "Correct. The spatial arrangement of the retina is preserved in V1, with a disproportionately large area dedicated to the fovea (Cortical Magnification)."
+      },
+      {
+        "text": "The map is inverted and ipsilateral",
+        "explanation": "Incorrect. Inverted and CONTRALATERAL."
+      },
+      {
+        "text": "There is no map",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V1 maintains a retinotopic map with foveal magnification.",
+    "pdfPage": 30
+  },
+  {
+    "id": 29,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Blindsight is a phenomenon where patients with V1 damage can still respond to visual stimuli (e.g., motion) without conscious awareness. This is thought to be mediated by:",
+    "options": [
+      {
+        "text": "The Lateral Geniculate Nucleus alone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Retino-Tectal Pathway (Superior Colliculus)",
+        "explanation": "Correct. The primitive pathway from the retina to the Superior Colliculus (and Pulvinar to Extrastriate cortex) bypasses V1, allowing for subconscious localization and motion detection."
+      },
+      {
+        "text": "The Ventral Stream",
+        "explanation": "Incorrect. Requires V1 input."
+      },
+      {
+        "text": "The Frontal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Blindsight is mediated by subcortical pathways (Superior Colliculus) bypassing the damaged visual cortex.",
+    "pdfPage": 45
+  },
+  {
+    "id": 30,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "The magnocellular layers of the LGN (Layers 1 and 2) project primarily to which layer of the primary visual cortex (V1)?",
+    "options": [
+      {
+        "text": "Layer 1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Layer 2/3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Layer 4C-alpha",
+        "explanation": "Correct. Magnocellular inputs terminate in layer 4C-alpha, while Parvocellular inputs terminate in 4C-beta."
+      },
+      {
+        "text": "Layer 5",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Layer 6",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Thalamic inputs enter V1 at Layer 4.",
+    "pdfPage": 28
+  },
+  {
+    "id": 31,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "A pituitary adenoma compressing the optic chiasm typically affects fibers from:",
+    "options": [
+      {
+        "text": "The temporal hemiretinas",
+        "explanation": "Incorrect. These do not cross."
+      },
+      {
+        "text": "The nasal hemiretinas",
+        "explanation": "Correct. The axons from the nasal hemiretinas (carrying temporal field info) decussate at the chiasm and are compressed by the midline tumor."
+      },
+      {
+        "text": "The macula only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The superior retina only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The inferior retina only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Compressing the chiasm affects crossing nasal fibers.",
+    "pdfPage": 26
+  },
+  {
+    "id": 32,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "In the visual pathway, where does the first binocular processing (interaction between eyes) occur?",
+    "options": [
+      {
+        "text": "Retina",
+        "explanation": "Incorrect. Monocular."
+      },
+      {
+        "text": "Optic Nerve",
+        "explanation": "Incorrect. Monocular."
+      },
+      {
+        "text": "LGN",
+        "explanation": "Incorrect. Layers are monocular (segregated)."
+      },
+      {
+        "text": "Primary Visual Cortex (V1)",
+        "explanation": "Correct. While Layer 4 is segregated (Ocular Dominance Columns), cells in other layers of V1 (and extrastriate cortex) receive input from both eyes, enabling stereopsis (depth perception)."
+      },
+      {
+        "text": "Optic Tract",
+        "explanation": "Incorrect. Fibers are from both eyes but do not synapse/mix."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Binocularity (and depth perception) first arises in the Visual Cortex.",
+    "pdfPage": 26
+  },
+  {
+    "id": 33,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "The 'What' pathway projects to the ________ lobe, while the 'Where' pathway projects to the ________ lobe.",
+    "options": [
+      {
+        "text": "Parietal; Temporal",
+        "explanation": "Incorrect. Reversed."
+      },
+      {
+        "text": "Temporal; Parietal",
+        "explanation": "Correct. Ventral ('What') -> Temporal; Dorsal ('Where') -> Parietal."
+      },
+      {
+        "text": "Frontal; Occipital",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital; Frontal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temporal; Frontal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ventral = Temporal (Object ID); Dorsal = Parietal (Spatial).",
+    "pdfPage": 37
+  },
+  {
+    "id": 34,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "A patient cannot perceive motion (Akinetopsia). They see life as a series of snapshots. Which cortical area is likely damaged?",
+    "options": [
+      {
+        "text": "V1",
+        "explanation": "Incorrect. Would cause blindness."
+      },
+      {
+        "text": "V4",
+        "explanation": "Incorrect. Associated with color."
+      },
+      {
+        "text": "V5 / MT (Middle Temporal)",
+        "explanation": "Correct. Area V5 (or MT) is specialized for motion processing. Bilateral damage here causes akinetopsia."
+      },
+      {
+        "text": "Fusiform Face Area",
+        "explanation": "Incorrect. Faces."
+      },
+      {
+        "text": "Broca's Area",
+        "explanation": "Incorrect. Speech."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V5 (MT) is the motion center of the visual cortex.",
+    "pdfPage": 39
+  },
+  {
+    "id": 35,
+    "category": "Neuroanatomy: Visual System",
+    "questionText": "Visual information from the inferior visual field travels in which part of the optic radiations?",
+    "options": [
+      {
+        "text": "Meyer's Loop (Temporal)",
+        "explanation": "Incorrect. Carries Superior field info."
+      },
+      {
+        "text": "Baum's Loop (Parietal)",
+        "explanation": "Correct. Fibers representing the Inferior visual field (from superior retina) travel through the Parietal lobe (Baum's loop) to the Cuneus gyrus."
+      },
+      {
+        "text": "Optic Nerve",
+        "explanation": "Incorrect. Not radiation."
+      },
+      {
+        "text": "Inferior Colliculus",
+        "explanation": "Incorrect. Auditory."
+      },
+      {
+        "text": "Internal Capsule",
+        "explanation": "Incorrect. Motor/Sensory."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Inferior visual field -> Superior Retina -> Parietal Loop -> Cuneus.",
+    "pdfPage": 29
   }
 ];

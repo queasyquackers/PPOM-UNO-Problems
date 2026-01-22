@@ -448,5 +448,605 @@ window.Test_L20 = [
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Miotics cause poor night vision because the pupil cannot dilate.",
     "pdfPage": 11
+  },
+  {
+    "id": 16,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Physostigmine is a tertiary amine, whereas Neostigmine is a quaternary amine. What clinical significance does this structural difference have?",
+    "options": [
+      {
+        "text": "Neostigmine is better absorbed orally",
+        "explanation": "Incorrect. Quaternary amines are poorly absorbed."
+      },
+      {
+        "text": "Physostigmine can cross the blood-brain barrier",
+        "explanation": "Correct. Being an uncharged tertiary amine, Physostigmine can penetrate the CNS, making it useful for treating central anticholinergic toxicity, but also carrying a risk of seizures."
+      },
+      {
+        "text": "Neostigmine has a shorter half-life",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Physostigmine is irreversible",
+        "explanation": "Incorrect. Both are reversible carbamates."
+      },
+      {
+        "text": "Neostigmine is exclusively metabolized by the liver",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tertiary amines (Physostigmine) cross the BBB; Quaternary amines (Neostigmine) do not.",
+    "pdfPage": 8
+  },
+  {
+    "id": 17,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "The 'Isolate and Validate' step in drug development is analogous to which diagnostic test using Edrophonium?",
+    "options": [
+      {
+        "text": "The Tensilon Test",
+        "explanation": "Correct. While rarely used now, the Tensilon test used Edrophonium (Tensilon) to transiently improve muscle strength, 'isolating' the diagnosis of Myasthenia Gravis from other causes of weakness."
+      },
+      {
+        "text": "The Methacholine Challenge",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Dexamethasone Suppression Test",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Glucose Tolerance Test",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Ames Test",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Edrophonium (Tensilon) was used to diagnose Myasthenia Gravis.",
+    "pdfPage": 20
+  },
+  {
+    "id": 18,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Organophosphate insecticides (e.g., Malathion) are highly toxic to insects but less toxic to mammals (unless ingested in large quantities) because:",
+    "options": [
+      {
+        "text": "Mammals lack acetylcholinesterase",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mammals rapidly detoxify them via plasma esterases",
+        "explanation": "Correct. Mammals (and birds) have esterases that rapidly hydrolyze malathion to inactive metabolites, whereas insects oxidize it to the toxic metabolite (Malaoxon). However, massive exposure can overwhelm this detoxification."
+      },
+      {
+        "text": "They do not bind to mammalian AChE",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They are not absorbed through mammalian skin",
+        "explanation": "Incorrect. They are highly lipid soluble."
+      },
+      {
+        "text": " mammals have alternative pathways for ACh synthesis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Malathion is safer in mammals due to rapid detoxification by plasma esterases.",
+    "pdfPage": 12
+  },
+  {
+    "id": 19,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "A 75-year-old male with Alzheimer's disease is started on Donepezil. He presents to the clinic complaining of dizziness and fainting episodes. An ECG reveals sinus bradycardia and 1st-degree AV block. This adverse effect is mediated by:",
+    "options": [
+      {
+        "text": "M3 receptor activation in the vasculature",
+        "explanation": "Incorrect. Cause vasodilation."
+      },
+      {
+        "text": "M2 receptor activation in the heart",
+        "explanation": "Correct. Increased Vagal tone (from increased ACh) activates cardiac M2 receptors, leading to bradycardia and slowed AV conduction. This involves Gi coupling (inhibition of cAMP)."
+      },
+      {
+        "text": "Nicotinic receptor blockade in ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha-1 blockade",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Beta-1 blockade",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: AChE inhibitors can cause vagotonic effects on the heart (bradycardia/AV block) via M2 receptors.",
+    "pdfPage": 11
+  },
+  {
+    "id": 20,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Which of the following agents acts as a 'chemical wapon' or nerve gas by irreversibly inhibiting acetylcholinesterase?",
+    "options": [
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sarin",
+        "explanation": "Correct. Sarin (and Soman, VX) is a potent organophosphate nerve agent that irreversibly inhibits AChE, leading to rapid, fatal cholinergic crisis."
+      },
+      {
+        "text": "Tubocurarine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Botulinum Toxin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dantrolene",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sarin is an irreversible organophosphate nerve agent.",
+    "pdfPage": 27
+  },
+  {
+    "id": 21,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "The phenomenon of 'Aging' in organophosphate poisoning involves:",
+    "options": [
+      {
+        "text": "Oxidation of the drug by the liver",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of an alkyl group from the phosphorylated enzyme",
+        "explanation": "Correct. 'Aging' is the scission of an alkyl group from the phosphate-enzyme complex. Once this occurs, the bond becomes extremely stable and resistant to nucleophilic attack by oximes (Pralidoxime), making the inhibition permanent."
+      },
+      {
+        "text": "Reactivation of the enzyme over time",
+        "explanation": "Incorrect. Aging PREVENTS reactivation."
+      },
+      {
+        "text": "Desensitization of the receptor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Accumulation of the drug in fat",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aging stabilizes the organophosphate-AChE bond, rendering Pralidoxime ineffective.",
+    "pdfPage": 19
+  },
+  {
+    "id": 22,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Why is Atropine given along with Pralidoxime in organophosphate poisoning?",
+    "options": [
+      {
+        "text": "To regenerate the enzyme",
+        "explanation": "Incorrect. That's Pralidoxime's job."
+      },
+      {
+        "text": "To block the muscarinic effects of excess Acetylcholine",
+        "explanation": "Correct. Pralidoxime takes time to work (and doesn't work after aging). Atropine is a muscarinic antagonist that immediately blocks the life-threatening muscarinic effects (bronchorrhea, bronchoconstriction, bradycardia) ('drying' the patient)."
+      },
+      {
+        "text": "To block nicotinic receptors",
+        "explanation": "Incorrect. Atropine has no effect on nicotinic receptors (neuromuscular blockade)."
+      },
+      {
+        "text": "To prevent seizures",
+        "explanation": "Incorrect. While it crosses the BBB, benzodiazepines are the primary treatment for seizures."
+      },
+      {
+        "text": "To sedate the patient",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Atropine manages the muscarinic symptoms; Pralidoxime fixes the enzyme.",
+    "pdfPage": 28
+  },
+  {
+    "id": 23,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Which of the following adverse effects is SPECIFIC to the nicotinic actions of cholinesterase inhibitors (and not muscarinic)?",
+    "options": [
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect. Muscarinic."
+      },
+      {
+        "text": "Fasciculations",
+        "explanation": "Correct. Fasciculations (muscle twitches) are caused by the overstimulation of Nicotinic (Nm) receptors on skeletal muscle. This can progress to weakness and paralysis (depolarizing block)."
+      },
+      {
+        "text": "Salivation",
+        "explanation": "Incorrect. Muscarinic."
+      },
+      {
+        "text": "Bradycardia",
+        "explanation": "Incorrect. Muscarinic."
+      },
+      {
+        "text": "Miosis",
+        "explanation": "Incorrect. Muscarinic."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fasciculations are a sign of nicotinic receptor overstimulation.",
+    "pdfPage": 25
+  },
+  {
+    "id": 24,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Donepezil is generally preferred over Tacrine for Alzheimer's disease because Tacrine:",
+    "options": [
+      {
+        "text": "Is not effective",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Causes significant hepatotoxicity",
+        "explanation": "Correct. Tacrine was the first AChE inhibitor for Alzheimer's but was withdrawn/replaced due to a high risk of drug-induced liver injury (hepatotoxicity)."
+      },
+      {
+        "text": "Must be injected",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Does not cross the BBB",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Causes renal failure",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tacrine is hepatotoxic and no longer used.",
+    "pdfPage": 32
+  },
+  {
+    "id": 25,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "A patient with myasthenia gravis is stable on pyridostigmine. They develop an infection and are prescribed Gentamicin. Why might their weakness worsen?",
+    "options": [
+      {
+        "text": "Gentamicin inhibits Acetylcholine synthesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gentamicin has neuromuscular blocking properties",
+        "explanation": "Correct. Aminoglycosides (like Gentamicin) can inhibit presynaptic calcium influx and Acetylcholine release, effectively acting as a mild neuromuscular blocker. This can precipitate a myasthenic crisis in susceptible patients."
+      },
+      {
+        "text": "Gentamicin induces cytochrome P450",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gentamicin competes for the ACh receptor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gentamicin causes hypokalemia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aminoglycosides can worsen neuromuscular weakness (Myasthenia Gravis).",
+    "pdfPage": 2
+  },
+  {
+    "id": 26,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Which drug is used for the treatment of 'Ogilvie Syndrome' (Acute Colonic Pseudo-obstruction)?",
+    "options": [
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect. Contraindicated."
+      },
+      {
+        "text": "Neostigmine",
+        "explanation": "Correct. Neostigmine (IV) is used to treat acute colonic pseudo-obstruction by stimulating colonic motility via increased ACh at muscarinic receptors."
+      },
+      {
+        "text": "Edrophonium",
+        "explanation": "Incorrect. Too short acting."
+      },
+      {
+        "text": "Physostigmine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pralidoxime",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neostigmine treats Ogilvie Syndrome (colonic pseudo-obstruction).",
+    "pdfPage": 20
+  },
+  {
+    "id": 27,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "The duration of action of 'irreversible' organophosphate inhibitors depends primarily on:",
+    "options": [
+      {
+        "text": "Renal elimination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Synthesis of new enzyme molecules",
+        "explanation": "Correct. Since the inhibition is irreversible (especially after aging), recovery of function requires the body to synthesize new acetylcholinesterase enzyme molecules, which can take weeks."
+      },
+      {
+        "text": "Hepatic metabolism",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Redistribution",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dissociation from the receptor",
+        "explanation": "Incorrect. It doesn't dissociate."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Recovery from irreversible AChE inhibition requires synthesis of new enzyme.",
+    "pdfPage": 19
+  },
+  {
+    "id": 28,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "A patient with Myasthenia Gravis presents with increasing weakness. You perform an Edrophonium test. The patient's strength WORSENS. This indicates:",
+    "options": [
+      {
+        "text": "Myasthenic Crisis",
+        "explanation": "Incorrect. In Myasthenic Crisis (too little ACh), Edrophonium would IMPROVE strength."
+      },
+      {
+        "text": "Cholinergic Crisis",
+        "explanation": "Correct. A Cholinergic Crisis is caused by excessive medication (AChE inhibitors). Adding more inhibitor (Edrophonium) increases depolarization block and worsens the weakness. The treatment is to WITHHOLD the drug and give Atropine."
+      },
+      {
+        "text": "Wrong diagnosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Need for higher dose of pyridostigmine",
+        "explanation": "Incorrect. Need to lower dose."
+      },
+      {
+        "text": "Tensilon allergy",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Worsening strength with Edrophonium indicates Cholinergic Crisis (overmedication).",
+    "pdfPage": 22
+  },
+  {
+    "id": 29,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Which part of the Acetylcholinesterase enzyme does the quaternary ammonium group of Acetylcholine (or Edrophonium) bind to?",
+    "options": [
+      {
+        "text": "The Esteratic site",
+        "explanation": "Incorrect. The acetyl/carbamyl/phosphoryl group binds here."
+      },
+      {
+        "text": "The Anionic site",
+        "explanation": "Correct. The positively charged quaternary nitrogen binds to the negatively charged Anionic site of the enzyme."
+      },
+      {
+        "text": "The zinc pocket",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The allosteric rim",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The peripheral site",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The positive ammonium binds to the anionic site.",
+    "pdfPage": 18
+  },
+  {
+    "id": 30,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Why are AChE inhibitors useful in Alzheimer's disease?",
+    "options": [
+      {
+        "text": "They regenerate dead neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They prevent amyloid plaque formation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They compensate for the loss of cholinergic neurons by increasing ACh concentration",
+        "explanation": "Correct. Alzheimer's involves the loss of cholinergic neurons in the basal forebrain (Nucleus Basalis of Meynert). AChE inhibitors boost the level of ACh available from the remaining neurons, improving cognitive function symptomatically."
+      },
+      {
+        "text": "They block glutamate excitotoxicity",
+        "explanation": "Incorrect. Memantine does this."
+      },
+      {
+        "text": "They reduce neuroinflammation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: AChE inhibitors boost cholinergic transmission in the CNS to treat Alzheimer's symptoms.",
+    "pdfPage": 31
+  },
+  {
+    "id": 31,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "A key difference between the mechanism of Neostigmine and Organophosphates is:",
+    "options": [
+      {
+        "text": "Neostigmine binds to the anionic site only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Organophosphates carbamylate the enzyme",
+        "explanation": "Incorrect. They phosphorylate it."
+      },
+      {
+        "text": "Neostigmine is hydrolyzed by the enzyme (slowly), whereas organophosphates are not",
+        "explanation": "Correct. Neostigmine forms a carbamyl-enzyme intermediate that is hydrolyzed over hours (reversible). Organophosphates form a phosphoryl-enzyme intermediate that is extremely stable and essentially irreversible."
+      },
+      {
+        "text": "Organophosphates are competitive inhibitors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neostigmine does not affect the neuromuscular junction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Neostigmine is slowly hydrolyzed (hours); Organophoshates are stable (irreversible).",
+    "pdfPage": 19
+  },
+  {
+    "id": 32,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Of the following, which is a sign of central nervous system (CNS) toxicity from organophosphates?",
+    "options": [
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect. Peripheral muscarinic."
+      },
+      {
+        "text": "Fasciculations",
+        "explanation": "Incorrect. Peripheral nicotinic."
+      },
+      {
+        "text": "Respiratory depression/Apnea",
+        "explanation": "Correct. Toxic levels of ACh in the brainstem respiratory centers can cause central apnea, contributing to death. Other CNS signs include confusion, seizures, and coma."
+      },
+      {
+        "text": "Miosis",
+        "explanation": "Incorrect. Peripheral (though also central control)."
+      },
+      {
+        "text": "Bronchospasm",
+        "explanation": "Incorrect. Peripheral."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Death from organophosphates is often due to respiratory failure (central apnea + peripheral paralysis + secretions).",
+    "pdfPage": 25
+  },
+  {
+    "id": 33,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Galantamine is metabolized primarily by:",
+    "options": [
+      {
+        "text": "Plasma cholinesterases",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Kidney excretion unchanged",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CYP2D6 and CYP3A4 in the liver",
+        "explanation": "Correct. Galantamine undergoes significant hepatic metabolism by cytochrome P450 enzymes."
+      },
+      {
+        "text": "Spontaneous hydrolysis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MAO-B",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Galantamine is metabolized by CYP2D6/3A4.",
+    "pdfPage": 32
+  },
+  {
+    "id": 34,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Use of AChE inhibitors in patients with COPD requires caution because they cause:",
+    "options": [
+      {
+        "text": "Respiratory suppression",
+        "explanation": "Incorrect. That's opioids."
+      },
+      {
+        "text": "Bronchodilation",
+        "explanation": "Incorrect. That would be good."
+      },
+      {
+        "text": "Bronchoconstriction and increased secretions",
+        "explanation": "Correct. Activation of M3 receptors in the lungs causes smooth muscle contraction (bronchoconstriction) and increased mucus secretion, which can exacerbate COPD or asthma."
+      },
+      {
+        "text": "Pulmonary hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cough suppression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Cholinergics worsen Asthma/COPD via bronchoconstriction.",
+    "pdfPage": 11
+  },
+  {
+    "id": 35,
+    "category": "Pharmacology: Indirect Acting Cholinomimetics",
+    "questionText": "Which finding discriminates a Cholinergic Crisis from a Myasthenic Crisis before a pharmacological test is done?",
+    "options": [
+      {
+        "text": "Muscle weakness",
+        "explanation": "Incorrect. Present in both."
+      },
+      {
+        "text": "Respiratory distress",
+        "explanation": "Incorrect. Present in both."
+      },
+      {
+        "text": "Presence of Muscarinic signs (Miosis, Salivation, Diarrhea)",
+        "explanation": "Correct. A Cholinergic Crisis is due to DRUG OVERDOSE, so the patient will have systemic signs of cholinergic excess (DUMBBELSS). A Myasthenic Crisis is due to disease progression (lack of ACh effect), so they will NOT have these signs (pupils may be normal or dilated due to sympathetic stress, skin dry). The presence of miosis/wetness points to Cholinergic Crisis."
+      },
+      {
+        "text": "Ptosis",
+        "explanation": "Incorrect. Present in both."
+      },
+      {
+        "text": "Dysphagia",
+        "explanation": "Incorrect. Present in both."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Look for DUMBBELSS (muscarinic excess) to identify Cholinergic Crisis.",
+    "pdfPage": 22
   }
 ];

@@ -1,278 +1,257 @@
 window.Test_L39 = [
   {
     "id": 1,
-    "category": "Pharmacodynamics",
-    "questionText": "A researcher is studying the effects of autonomic drugs on blood pressure. Pre-treatment with which of the following agents would convert the pressor (hypertensive) effect of epinephrine into a depressor (hypotensive) effect (Epinephrine Reversal)?",
+    "category": "Mechanism",
+    "questionText": "A non-selective alpha-adrenergic antagonist like Phenoxybenzamine will maintain its blockade even in the presence of high concentrations of agonist because:",
     "options": [
       {
-        "text": "Propranolol",
-        "explanation": "Incorrect. Propranolol is a beta blocker. Blocking beta receptors would leave alpha-1 unopposed, potentiating the pressor effect."
-      },
-      {
-        "text": "Phentolamine",
-        "explanation": "Correct. Phentolamine is a non-selective alpha blocker. By blocking alpha-1 receptors, it prevents epinephrine-induced vasoconstriction. Epinephrine then acts mainly on beta-2 receptors, causing vasodilation and a drop in blood pressure."
-      },
-      {
-        "text": "Atropine",
+        "text": "It is a competitive antagonist",
         "explanation": "Incorrect."
       },
       {
-        "text": "Phenylephrine",
+        "text": "It binds irreversibly (covalently) to the receptor",
+        "explanation": "Correct. It is an irreversible antagonist (alkylating agent).",
+        "isCorrect": true
+      },
+      {
+        "text": "It has a very short half-life",
+        "explanation": "Incorrect. Long duration."
+      },
+      {
+        "text": "It is an inverse agonist",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cocaine",
+        "text": "It is metabolized rapidly",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Epinephrine Reversal occurs when Alpha-1 is blocked, leaving Beta-2 vasodilation unopposed.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Phenoxybenzamine = Irreversible/Covalent bond.",
+    "pdfPage": 13
   },
   {
     "id": 2,
-    "category": "Clinical Management: Pheochromocytoma",
-    "questionText": "A patient with a pheochromocytoma is being prepared for surgery. To manage hypertension and prevent hypertensive crisis during tumor manipulation, which irreversible alpha-blocker is the standard of care for pre-operative management?",
+    "category": "Concept",
+    "questionText": "The phenomenon of 'Epinephrine Reversal' describes the fall in blood pressure seen when Epinephrine is administered AFTER a non-selective alpha blocker. This occurs because:",
     "options": [
       {
-        "text": "Phentolamine",
-        "explanation": "Incorrect (Competitive, short-acting)."
-      },
-      {
-        "text": "Phenoxybenzamine",
-        "explanation": "Correct. Phenoxybenzamine covalently binds to alpha receptors (irreversible), providing long-lasting blockade essential for preventing hypertensive crises caused by massive catecholamine release."
-      },
-      {
-        "text": "Prazosin",
+        "text": "Epinephrine no longer releases norepinephrine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Propranolol",
-        "explanation": "Incorrect. Beta blockers should NEVER be given alone vs pheochromocytoma (unopposed alpha effect -> hypertensive crisis)."
+        "text": "Alpha-1 vasoconstriction is blocked, unmasking Beta-2 vasodilation",
+        "explanation": "Correct. Epi hits both alpha and beta. Block alpha, and you are left with beta-2 (dilation).",
+        "isCorrect": true
       },
       {
-        "text": "Tamsulosin",
+        "text": "Beta-1 receptor activation causes hypotension",
+        "explanation": "Incorrect. Tachycardia."
+      },
+      {
+        "text": "The alpha blocker itself causes hypotension",
+        "explanation": "Incorrect. It explains the REVERSAL of Epi's pressor effect.",
+        "isCorrect": false
+      },
+      {
+        "text": "Epinephrine becomes an antagonist",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Phenoxybenzamine = Irreversible Alpha Blockade. Drug of choice for Pheochromocytoma pre-op.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Epi Reversal = Unopposed Beta-2 Vasodilation.",
+    "pdfPage": 10
   },
   {
     "id": 3,
-    "category": "Adverse Effects",
-    "questionText": "A 65-year-old male is prescribed Prazosin for hypertension. To minimize the risk of a specific adverse effect, the physician advises him to take the first dose at bedtime. This precaution is intended to prevent:",
+    "category": "Drug Property",
+    "questionText": "Phentolamine differs from Phenoxybenzamine in that Phentolamine is:",
     "options": [
       {
-        "text": "Urinary incontinence",
+        "text": "Irreversible",
         "explanation": "Incorrect."
       },
       {
-        "text": "Reflex bradycardia",
-        "explanation": "Incorrect (Reflex tachycardia occurs)."
+        "text": "An Alpha-1 selective antagonist",
+        "explanation": "Incorrect. Non-selective."
       },
       {
-        "text": "Syncope due to orthostatic hypotension",
-        "explanation": "Correct. Alpha-1 blockers can cause severe 'first-dose' orthostatic hypotension and syncope by blocking venoconstriction upon standing."
+        "text": "Competitive (Reversible)",
+        "explanation": "Correct. Short acting, reversible.",
+        "isCorrect": true
       },
       {
-        "text": "Bronchoconstriction",
+        "text": "Only effective orally",
         "explanation": "Incorrect."
       },
       {
-        "text": "Floppy Iris Syndrome",
+        "text": "A beta blocker",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: First-dose effect of Alpha-1 blockers -> Orthostatic Hypotension. Dosing at bedtime mitigates risk.",
-    "pdfPage": 26
+    "clinicalPearl": "Key takeaway: Phentolamine = Competitive/Short.",
+    "pdfPage": 13
   },
   {
     "id": 4,
-    "category": "BPH treatment",
-    "questionText": "Which of the following agents is an 'uroselective' alpha-1A antagonist, making it effective for Benign Prostatic Hyperplasia (BPH) with less risk of significant hypotension compared to non-selective agents?",
+    "category": "Therapeutic Use",
+    "questionText": "Phenoxybenzamine is primarily used clinically for the preoperative management of:",
     "options": [
       {
-        "text": "Prazosin",
+        "text": "Essential Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Terazosin",
+        "text": "Benign Prostatic Hyperplasia (BPH)",
+        "explanation": "Incorrect. Prazosin/Tamsulosin used."
+      },
+      {
+        "text": "Pheochromocytoma",
+        "explanation": "Correct. Controls catecholamine surge during surgery.",
+        "isCorrect": true
+      },
+      {
+        "text": "Raynaud's Phenomenon",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tamsulosin",
-        "explanation": "Correct. Tamsulosin has high affinity for Alpha-1A receptors (prostate/bladder neck) and less for Alpha-1B (vasculature), reducing hypotensive side effects."
-      },
-      {
-        "text": "Phenoxybenzamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Yohimbine",
+        "text": "Congestive Heart Failure",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Tamsulosin = Uroselective (Alpha-1A). Good for BPH, less BP effect. Watch for Intraoperative Floppy Iris Syndrome.",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Phenoxybenzamine = Pheochromocytoma.",
+    "pdfPage": 17
   },
   {
     "id": 5,
-    "category": "Therapeutic Uses",
-    "questionText": "A musician complains of severe performance anxiety (stage fright) that manifests as tachycardia and tremors. Which drug is commonly used off-label to manage these somatic symptoms?",
+    "category": "Adverse Effect",
+    "questionText": "A major adverse effect common to alpha-blockers, particularly upon the first dose, is:",
     "options": [
       {
-        "text": "Alprazolam",
-        "explanation": "Incorrect (Benzodiazepine, causes sedation)."
+        "text": "Bradycardia",
+        "explanation": "Incorrect. Reflex Tachycardia."
       },
       {
-        "text": "Propranolol",
-        "explanation": "Correct. Non-selective beta blockers like Propranolol reduce the peripheral somatic symptoms of anxiety (tremor, tachycardia) without significant sedation, favored by performers."
+        "text": "Bronchospasm",
+        "explanation": "Incorrect. Beta blocker effect."
       },
       {
-        "text": "Prazosin",
+        "text": "Orthostatic Hypotension (Syncope)",
+        "explanation": "Correct. Loss of venous tone -> pooling -> fainting.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Physostigmine",
+        "text": "Urinary Retention",
+        "explanation": "Incorrect. They treat retention."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: First dose syncope = Alpha Blockers.",
+    "pdfPage": 19
+  },
+  {
+    "id": 6,
+    "category": "Drug Class",
+    "questionText": "Prazosin, Terazosin, and Doxazosin belong to which class of drugs?",
+    "options": [
+      {
+        "text": "Non-selective alpha blockers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Atropine",
+        "text": "Selective Alpha-1 antagonists",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Selective Alpha-2 antagonists",
+        "explanation": "Incorrect. Yohimbine."
+      },
+      {
+        "text": "Beta-1 selective blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mixed Alpha/Beta blockers",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Beta blockers (Propranolol) treat performance anxiety and essential tremor.",
-    "pdfPage": 6
-  },
-  {
-    "id": 6,
-    "category": "Beta Blockers",
-    "questionText": "Which of the following is a cardioselective (beta-1 selective) antagonist, making it safer than non-selective agents for a patient with comorbid asthma?",
-    "options": [
-      {
-        "text": "Propranolol",
-        "explanation": "Incorrect (Non-selective, blocks Beta-2 causing bronchoconstriction)."
-      },
-      {
-        "text": "Timolol",
-        "explanation": "Incorrect (Non-selective)."
-      },
-      {
-        "text": "Metoprolol",
-        "explanation": "Correct. Metoprolol (and Atenolol) are Beta-1 selective. They target the heart and spare Beta-2 receptors in the lungs at normal doses, though selectivity can be lost at high doses."
-      },
-      {
-        "text": "Nadolol",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pindolol",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: A-M rules: Atenolol, Metoprolol = Cardioselective. Propranolol, Timolol = Non-selective.",
-    "pdfPage": 3
+    "clinicalPearl": "Key takeaway: -osins are Alpha-1 selective.",
+    "pdfPage": 25
   },
   {
     "id": 7,
-    "category": "Beta Blockers: 3rd Generation",
-    "questionText": "Carvedilol is distinct from traditional beta blockers because it also possesses:",
+    "category": "Therapeutic Use",
+    "questionText": "Tamsulosin (Flomax) is favored for BPH because it has selectivity for which receptor subtype found in the prostate?",
     "options": [
       {
-        "text": "Alpha-1 blocking activity",
-        "explanation": "Correct. Carvedilol and Labetalol block Beta-1, Beta-2, AND Alpha-1 receptors. The alpha blockade provides additional vasodilation, beneficial in Heart Failure and Hypertensive Emergencies."
+        "text": "Alpha-1B",
+        "explanation": "Incorrect. Blood vessels."
       },
       {
-        "text": "Muscarinic agonist activity",
+        "text": "Alpha-1A",
+        "explanation": "Correct. Prostate smooth muscle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha-2",
         "explanation": "Incorrect."
       },
       {
-        "text": "Significant intrinsic sympathomimetic activity (ISA)",
+        "text": "Beta-2",
         "explanation": "Incorrect."
       },
       {
-        "text": "Alpha-2 agonist activity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Calcium channel blocking activity",
+        "text": "Muscarinic M3",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Carvedilol & Labetalol = Non-selective Beta Block + Alpha-1 Block.",
-    "pdfPage": 3
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tamsulosin = Alpha-1A = Prostate.",
+    "pdfPage": 26
   },
   {
     "id": 8,
-    "category": "Glaucoma",
-    "questionText": "Timolol is a non-selective beta blocker commonly used topically to treat open-angle glaucoma. Its primary mechanism of action in this condition is:",
+    "category": "Adverse Effect",
+    "questionText": "Intraoperative Floppy Iris Syndrome (IFIS) during cataract surgery is a complication associated with:",
     "options": [
       {
-        "text": "Increasing uveoscleral outflow",
-        "explanation": "Incorrect (Prostaglandins do this)."
-      },
-      {
-        "text": "Constricting the pupil (miosis) to open the angle",
-        "explanation": "Incorrect (Cholinomimetics/Pilocarpine do this)."
-      },
-      {
-        "text": "Decreasing aqueous humor secretion",
-        "explanation": "Correct. Beta blockers decrease the production of aqueous humor by the ciliary epithelium."
-      },
-      {
-        "text": "Contracting the ciliary muscle",
+        "text": "Beta Blockers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dilating the canal of Schlemm",
+        "text": "Alpha-1 Blockers (e.g., Tamsulosin)",
+        "explanation": "Correct. Relaxes iris dilator muscle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cholinergic Agonists",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anticholinergics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diuretics",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Timolol treats glaucoma by decreasing aqueous humor production.",
-    "pdfPage": 9
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tamsulosin + Cataract Surgery = Floppy Iris.",
+    "pdfPage": 32
   },
   {
     "id": 9,
-    "category": "Adverse Effects",
-    "questionText": "Diabetic patients taking beta blockers should be educated that these medications can mask most signs of hypoglycemia, EXCEPT for:",
-    "options": [
-      {
-        "text": "Tachycardia",
-        "explanation": "Incorrect (Masked)."
-      },
-      {
-        "text": "Tremor",
-        "explanation": "Incorrect (Masked)."
-      },
-      {
-        "text": "Sweating (Diaphoresis)",
-        "explanation": "Correct. Sweating is mediated by sympathetic CHOLINERGIC fibers, which are not blocked by adrenergic antagonists (beta blockers)."
-      },
-      {
-        "text": "Palpitations",
-        "explanation": "Incorrect (Masked)."
-      },
-      {
-        "text": "Anxiety",
-        "explanation": "Incorrect (Partially masked)."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Beta blockers mask hypoglycemic tachycardia/tremor but NOT sweating (cholinergic).",
-    "pdfPage": 35
-  },
-  {
-    "id": 10,
-    "category": "Alpha-2 Selective",
-    "questionText": "Yohimbine is a component of many herbal supplements for erectile dysfunction and weight loss. Its primary mechanism is antagonism of:",
+    "category": "Drug",
+    "questionText": "Yohimbine is a selective antagonist for:",
     "options": [
       {
         "text": "Alpha-1 receptors",
@@ -280,7 +259,8 @@ window.Test_L39 = [
       },
       {
         "text": "Alpha-2 receptors",
-        "explanation": "Correct. Yohimbine is a selective Alpha-2 antagonist. By blocking presynaptic alpha-2 autoinhibition, it increases sympathetic outflow (NE release)."
+        "explanation": "Correct. Presynaptic blocker -> Increases NE release.",
+        "isCorrect": true
       },
       {
         "text": "Beta-1 receptors",
@@ -296,59 +276,216 @@ window.Test_L39 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Yohimbine = Alpha-2 Antagonist. Increases NE release.",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Yohimbine = Alpha-2 Blocker.",
+    "pdfPage": 33
   },
   {
-    "id": 11,
-    "category": "Ophthalmology Complications",
-    "questionText": "A patient scheduled for cataract surgery should be screened for prior use of Tamsulosin because it is associated with:",
+    "id": 10,
+    "category": "Beta Blockers",
+    "questionText": "Propranolol is classified as a:",
     "options": [
       {
-        "text": "Increased intraocular pressure during surgery",
+        "text": "Selective Beta-1 Blocker",
         "explanation": "Incorrect."
       },
       {
-        "text": "Intraoperative Floppy Iris Syndrome (IFIS)",
-        "explanation": "Correct. Tamsulosin relaxes the iris dilator muscle, leading to a floppy iris that complicates cataract extraction."
+        "text": "Non-selective Beta Blocker (Beta-1 and Beta-2)",
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
-        "text": "Corneal detachment",
+        "text": "Mixed Alpha/Beta Blocker",
         "explanation": "Incorrect."
       },
       {
-        "text": "Retinal hemorrhage",
+        "text": "Beta-2 Selective Blocker",
         "explanation": "Incorrect."
       },
       {
-        "text": "Optic neuritis",
+        "text": "Partial Agonist",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tamsulosin causes Floppy Iris Syndrome. Alert ophthalmologist.",
-    "pdfPage": 26
+    "clinicalPearl": "Key takeaway: Propranolol = Non-selective prototype.",
+    "pdfPage": 38
+  },
+  {
+    "id": 11,
+    "category": "Beta Blockers",
+    "questionText": "Metoprolol and Atenolol are preferred in asthmatics (if necessary) because they are:",
+    "options": [
+      {
+        "text": "Non-selective",
+        "explanation": "Incorrect. Would block beta-2 and cause bronchospasm."
+      },
+      {
+        "text": "Beta-1 Selective (Cardioselective)",
+        "explanation": "Correct. Less effect on bronchial Beta-2.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Beta-2 Selective",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscarinic antagonists",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: A-M (Atenolol to Metoprolol) are Beta-1 Selection.",
+    "pdfPage": 38
   },
   {
     "id": 12,
-    "category": "Pharmacokinetics",
-    "questionText": "Which of the following beta blockers is highly lipophilic, readily crosses the blood-brain barrier, and is associated with CNS side effects like vivid dreams and depression?",
+    "category": "Mechanism",
+    "questionText": "Beta blockers lower blood pressure by all of the following mechanisms EXCEPT:",
     "options": [
       {
-        "text": "Atenolol",
-        "explanation": "Incorrect (Hydrophilic)."
+        "text": "Decreasing Heart Rate",
+        "explanation": "Incorrect. True."
       },
       {
-        "text": "Nadolol",
-        "explanation": "Incorrect (Hydrophilic)."
+        "text": "Decreasing Contractility",
+        "explanation": "Incorrect. True."
       },
+      {
+        "text": "Decreasing Renin Release",
+        "explanation": "Incorrect. True (Beta-1 JG cells).",
+      },
+      {
+        "text": "Direct vasodilation of peripheral arterioles",
+        "explanation": "Correct. Pure beta blockers do not dilate directly; they may cause initial vasoconstriction due to unopposed alpha.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreasing Cardiac Output",
+        "explanation": "Incorrect. True."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Beta Blockers work on Heart + Kidney (Renin), not vessels directly.",
+    "pdfPage": 43
+  },
+  {
+    "id": 13,
+    "category": "Adverse Effect",
+    "questionText": "Beta blockers should be used with caution in diabetics because:",
+    "options": [
+      {
+        "text": "They cause hyperglycemia directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They mask the signs of hypoglycemia (tachycardia, tremor)",
+        "explanation": "Correct. Also impair glycogenolysis.",
+        "isCorrect": true
+      },
+      {
+        "text": "They increase insulin resistance significantly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They cause ketoacidosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They block insulin release",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta blockers hide the 'low sugar' alarm.",
+    "pdfPage": 53
+  },
+  {
+    "id": 14,
+    "category": "Adverse Effect",
+    "questionText": "Abrupt withdrawal of beta blockers after chronic use can lead to:",
+    "options": [
+      {
+        "text": "Severe hypotension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rebound hypertension, angina, or sudden death",
+        "explanation": "Correct. Due to receptor upregulation (supersensitivity).",
+        "isCorrect": true
+      },
+      {
+        "text": "Bradycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypoglycemia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bronchospasm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Always taper beta blockers.",
+    "pdfPage": 55
+  },
+  {
+    "id": 15,
+    "category": "Mixed Antagonists",
+    "questionText": "Labetalol and Carvedilol differ from Propranolol because they:",
+    "options": [
+      {
+        "text": "Are beta-1 selective",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Have both Alpha-1 and Beta blocking activity",
+        "explanation": "Correct. Labetalol = alpha1 + beta1/2. Carvedilol same.",
+        "isCorrect": true
+      },
+      {
+        "text": "Are only alpha blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Have no cardiovascular effects",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Do not cross the BBB",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Labetalol/Carvedilol = Mixed Alpha/Beta Blockade.",
+    "pdfPage": 56
+  },
+  {
+    "id": 16,
+    "category": "Therapeutic Use",
+    "questionText": "Which beta blocker has shown mortality benefit in heart failure and is a scavenger of free radicals?",
+    "options": [
       {
         "text": "Propranolol",
-        "explanation": "Correct. Propranolol is highly lipophilic, giving it high CNS penetration. This makes it useful for migraine/anxiety but prone to CNS side effects."
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Atenolol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Carvedilol",
+        "explanation": "Correct. Antioxidant properties + Mixed blockade.",
+        "isCorrect": true
       },
       {
         "text": "Timolol",
-        "explanation": "Incorrect (Less lipophilic than Propranolol)."
+        "explanation": "Incorrect."
       },
       {
         "text": "Esmolol",
@@ -356,97 +493,599 @@ window.Test_L39 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Propranolol crosses BBB. Side effects: Nightmares, depression.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Carvedilol = CHF + Antioxidant.",
+    "pdfPage": 56
   },
   {
-    "id": 13,
-    "category": "Hypertensive Emergencies",
-    "questionText": "Labetalol is commonly indicated for hypertensive emergencies. Its efficacy is due to simultaneous blockade of:",
+    "id": 17,
+    "category": "Therapeutic Use",
+    "questionText": "Labetalol is particularly useful for treating hypertension in:",
     "options": [
       {
-        "text": "Beta-1 and Beta-2 only",
+        "text": "Asthmatics",
+        "explanation": "Incorrect. Non-selective beta block.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pregnancy",
+        "explanation": "Correct. Safe for fetus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diabetics",
         "explanation": "Incorrect."
       },
       {
-        "text": "Alpha-1, Beta-1, and Beta-2 receptors",
-        "explanation": "Correct. Labetalol blocks alpha-1 (vasodilation) and non-selective beta receptors (prevents reflex tachycardia), powerfully lowering BP."
-      },
-      {
-        "text": "Alpha-1 and Alpha-2 only",
+        "text": "Heart block",
         "explanation": "Incorrect."
       },
       {
-        "text": "Calcium channels and Beta-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Angiotensin receptors and Alpha-1 receptors",
+        "text": "Raynaud's",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Labetalol = Alpha-1 + Beta Blocker. Good for HTN emergencies.",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: Labetalol = Safe for Baby (Pregnancy).",
+    "pdfPage": 56
   },
   {
-    "id": 14,
-    "category": "Clinical Contraindications",
-    "questionText": "Non-selective beta blockers like Propranolol are generally contraindicated in patients with:",
+    "id": 18,
+    "category": "Glaucoma",
+    "questionText": "Timolol is commonly used topically to treat glaucoma because it:",
     "options": [
       {
+        "text": "Constricts the pupil (Miosis)",
+        "explanation": "Incorrect. Pilocarpine does that."
+      },
+      {
+        "text": "Decreases aqueous humor production",
+        "explanation": "Correct. Ciliary body beta receptors.",
+        "isCorrect": true
+      },
+      {
+        "text": "Increases uveoscleral outflow",
+        "explanation": "Incorrect. Prostaglandins."
+      },
+      {
+        "text": "Dilates the pupil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Has anesthetic properties",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta blockers decrease production (Tap off).",
+    "pdfPage": 51
+  },
+  {
+    "id": 19,
+    "category": "Mechanism",
+    "questionText": "Pindolol and Acebutolol are known as 'Partial Agonists' or having:",
+    "options": [
+      {
+        "text": "Intrinsic Sympathomimetic Activity (ISA)",
+        "explanation": "Correct. Less bradycardia/lipid effects.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha blocking activity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Membrane stabilizing activity",
+        "explanation": "Incorrect. Local anesthetic effect.",
+        "isCorrect": false
+      },
+      {
+        "text": "Irreversible binding",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No clinical use",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: ISA = Partial Agonist (Don't use in MI/Heart Failure).",
+    "pdfPage": 38
+  },
+  {
+    "id": 20,
+    "category": "Drug Interaction",
+    "questionText": "Concomitant use of NSAIDs (like Ibuprofen) with beta blockers may:",
+    "options": [
+      {
+        "text": "Enhance the hypotensive effect",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Attenuate (reduce) the antihypertensive effect",
+        "explanation": "Correct. NSAIDs cause Na/Water retention and block protective prostaglandins.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cause severe bradycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increase bleeding risk primarily",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Have no interaction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: NSAIDs fight BP meds (Salt retention).",
+    "pdfPage": 57
+  },
+  {
+    "id": 21,
+    "category": "Receptor",
+    "questionText": "The Alpha-2 adrenergic receptor is primarily located presynaptically and functions to:",
+    "options": [
+      {
+        "text": "Increase Norepinephrine release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibit/Regulate Norepinephrine release (Negative Feedback)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cause bronchodilation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increase Heart Rate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulate Renin release",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alpha-2 = The 'Off' Switch.",
+    "pdfPage": 5
+  },
+  {
+    "id": 22,
+    "category": "Effect",
+    "questionText": "Blockade of Alpha-2 receptors by a non-selective agent like Phentolamine contributes to tachycardia by:",
+    "options": [
+      {
+        "text": "Direct stimulation of the heart",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increasing Norepinephrine release from nerve terminals",
+        "explanation": "Correct. Removing the 'brake' leads to more NE hitting beta-1.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking vagal tone centrally only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Causing direct vasoconstriction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decreasing Renin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Block Alpha-2 -> More NE -> More Tachycardia.",
+    "pdfPage": 16
+  },
+  {
+    "id": 23,
+    "category": "Therapy",
+    "questionText": "Esmolol is a unique beta blocker because it:",
+    "options": [
+      {
+        "text": "Has a very long half-life",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Is an ultra-short acting IV agent",
+        "explanation": "Correct. Used for intraoperative/acute arrhythmias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Is orally active only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Is irreversible",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Is a partial agonist",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Esmolol = Extremely Short (Esterase metabolism).",
+    "pdfPage": 38
+  },
+  {
+    "id": 24,
+    "category": "Side Effect",
+    "questionText": "Which medication is associated with cold extremities and worsening of Raynaud's phenomenon?",
+    "options": [
+      {
+        "text": "Prazosin",
+        "explanation": "Incorrect. Helps Raynaud's (vasodilator)."
+      },
+      {
+        "text": "Nifedipine",
+        "explanation": "Incorrect. Helps."
+      },
+      {
+        "text": "Propranolol",
+        "explanation": "Correct. Beta blockade allows unopposed alpha constriction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lisinopril",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Losartan",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Beta blockers freeze the fingers.",
+    "pdfPage": 51
+  },
+  {
+    "id": 25,
+    "category": "Therapeutic Use",
+    "questionText": "Beta blockers are effective in Hyperthyroidism (Thyroid Storm) because they:",
+    "options": [
+      {
+        "text": "Block thyroid hormone synthesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Control cardiac manifestations (tachycardia) and block peripheral conversion of T4 to T3 (Propranolol)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Are sedative only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reduce goiter size",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increase TSH",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Propranolol calms the thyroid heart.",
+    "pdfPage": 50
+  },
+  {
+    "id": 26,
+    "category": "Metabolism",
+    "questionText": "Metoprolol is metabolized by which enzyme, leading to pharmacogenetic variability?",
+    "options": [
+      {
+        "text": "CYP3A4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CYP2D6",
+        "explanation": "Correct. Poor metabolizers have higher levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "CYP2C9",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CYP1A2",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Renal excretion only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Metoprolol = CYP2D6.",
+    "pdfPage": 61
+  },
+  {
+    "id": 27,
+    "category": "Contraindication",
+    "questionText": "Non-selective beta blockers are generally contraindicated in:",
+    "options": [
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect."
+      },
+      {
         "text": "Migraine",
-        "explanation": "Incorrect (Indicated for prophylaxis)."
+        "explanation": "Incorrect."
       },
       {
-        "text": "Asthma",
-        "explanation": "Correct. Blockade of bronchial Beta-2 receptors can cause life-threatening bronchoconstriction in asthmatics."
-      },
-      {
-        "text": "Hyperthyroidism",
-        "explanation": "Incorrect (Indicated for symptom control)."
-      },
-      {
-        "text": "Essential Tremor",
-        "explanation": "Incorrect (Indicated)."
+        "text": "Asthma / COPD",
+        "explanation": "Correct. Bronchoconstriction.",
+        "isCorrect": true
       },
       {
         "text": "Glaucoma",
-        "explanation": "Incorrect (Indicated)."
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stage fright",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Avoid non-selective beta blockers in Asthma/COPD.",
-    "pdfPage": 32
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Asthma? Don't block Beta-2.",
+    "pdfPage": 52
   },
   {
-    "id": 15,
-    "category": "Alpha Blockers: Mechanism",
-    "questionText": "Phentolamine can cause tachycardia. This is due to reflex sympathetic activation from hypotension AND:",
+    "id": 28,
+    "category": "Clinical",
+    "questionText": "A patient with pheochromocytoma requires surgery. The correct drug sequence is:",
     "options": [
       {
-        "text": "Direct stimulation of Beta-1 receptors",
+        "text": "Beta blocker first, then Alpha blocker",
+        "explanation": "Incorrect. Dangerous (unopposed alpha)."
+      },
+      {
+        "text": "Alpha blocker (Phenoxybenzamine) first, then Beta blocker",
+        "explanation": "Correct. Block vasoconstriction first, then control rate.",
+        "isCorrect": true
+      },
+      {
+        "text": "Simultaneous administration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blockade of presynaptic Alpha-2 receptors",
-        "explanation": "Correct. Phentolamine blocks the 'brake' (Alpha-2 autoreceptors) on presynaptic nerve terminals, increasing norepinephrine release which further stimulates cardiac Beta-1 receptors."
-      },
-      {
-        "text": "Blockade of Muscarinic receptors",
+        "text": "Beta blocker only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Stimulation of Alpha-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Release of Renin",
+        "text": "Alpha agonist first",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Non-selective alpha blockers cause MORE tachycardia than selective ones due to Alpha-2 blockade (blocking the feedback loop).",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: A before B (Alpha before Beta) for Pheo.",
+    "pdfPage": 39
+  },
+  {
+    "id": 29,
+    "category": "Adverse Effect",
+    "questionText": "Nebivolol is a unique Beta-1 selective blocker that also causes vasodilation via:",
+    "options": [
+      {
+        "text": "Alpha blockade",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nitric Oxide (NO) release",
+        "explanation": "Correct. Bystolic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Calcium channel blockade",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Angiotensin blockade",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Potassium opening",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Nebivolol = NO (Nitric Oxide).",
+    "pdfPage": 38
+  },
+  {
+    "id": 30,
+    "category": "Treatment",
+    "questionText": "For extravasation of a vasoconstrictor (like Norepinephrine) leading to tissue ischemia, the local antidote is:",
+    "options": [
+      {
+        "text": "Epinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Phentolamine",
+        "explanation": "Correct. Infiltrate to vasodilate.",
+        "isCorrect": true
+      },
+      {
+        "text": "Propranolol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Saline only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Phentolamine saves the skin.",
+    "pdfPage": 18
+  },
+  {
+    "id": 31,
+    "category": "Drug",
+    "questionText": "Which agent is an alpha-1 selective blocker with a long half-life, allowing once-daily dosing?",
+    "options": [
+      {
+        "text": "Prazosin",
+        "explanation": "Incorrect. Short half-life."
+      },
+      {
+        "text": "Phentolamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Doxazosin",
+        "explanation": "Correct. Long acting.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yohimbine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Esmolol",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Doxazosin = Daily (Long).",
+    "pdfPage": 25
+  },
+  {
+    "id": 32,
+    "category": "Mechanism",
+    "questionText": "Beta blockers reduce intraocular pressure in glaucoma by:",
+    "options": [
+      {
+        "text": "Increasing outflow via Schlemm's canal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decreasing synthesis of aqueous humor by the ciliary epithelium",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Constricting the pupil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dilating the pupil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anti-inflammatory effects",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta block = Less fluid made.",
+    "pdfPage": 51
+  },
+  {
+    "id": 33,
+    "category": "Adverse Effect",
+    "questionText": "Central Nervous System (CNS) side effects such as vivid dreams, nightmares, and depression are most associated with lipophilic beta blockers like:",
+    "options": [
+      {
+        "text": "Atenolol",
+        "explanation": "Incorrect. Hydrophilic."
+      },
+      {
+        "text": "Propranolol",
+        "explanation": "Correct. Lipophilic, crosses BBB.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nadolol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Esmolol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Timolol (systemic use)",
+        "explanation": "Incorrect. Mostly Propranolol is cited.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Propranolol = Penetrates CNS (Nightmares).",
+    "pdfPage": 54
+  },
+  {
+    "id": 34,
+    "category": "Use",
+    "questionText": "Which beta blocker is often used for 'Stage Fright' (performance anxiety)?",
+    "options": [
+      {
+        "text": "Carvedilol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Propranolol",
+        "explanation": "Correct. Controls tremor/tachycardia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sotalol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Labetalol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Timolol",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Propranolol for Performance.",
+    "pdfPage": 51
+  },
+  {
+    "id": 35,
+    "category": "Toxicity",
+    "questionText": "In beta blocker overdose, the specific antidote used to increase cAMP independent of beta receptors is:",
+    "options": [
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glucagon",
+        "explanation": "Correct. Stimulates heart via glucagon receptors -> cAMP.",
+        "isCorrect": true
+      },
+      {
+        "text": "Naloxone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Flumazenil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Phentolamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glucagon bypasses the blocked Beta receptor.",
+    "pdfPage": 62
   }
 ];

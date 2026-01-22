@@ -1,166 +1,48 @@
 window.Test_L29 = [
   {
     "id": 1,
-    "category": "Neuroembryology: Cell Types",
-    "questionText": "During neocortical development, excitatory glutamatergic neurons are primarily derived from which progenitor cells located in the ventricular zone?",
+    "category": "Brain Development",
+    "questionText": "The 'Three Ps' of brain development as described in the lecture are:",
     "options": [
       {
-        "text": "Microglia",
-        "explanation": "Incorrect (Immune cells from mesoderm)."
-      },
-      {
-        "text": "Radial Glia",
-        "explanation": "Correct. Radial glial cells serve as the primary neural progenitor cells and also provide the scaffold for radial migration."
-      },
-      {
-        "text": "Oligodendrocytes",
+        "text": "Proliferation, Plasticity, Pruning",
         "explanation": "Incorrect."
       },
       {
-        "text": "Schwann Cells",
-        "explanation": "Incorrect (PNS)."
+        "text": "Production, Placement, Performance",
+        "explanation": "Correct. Production (Proliferation), Placement (Migration), Performance (Circuitry/Physiology).",
+        "isCorrect": true
       },
       {
-        "text": "Cajal-Retzius Cells",
-        "explanation": "Incorrect (They secrete Reelin in Layer 1)."
+        "text": "Planning, Processing, Perception",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Progenitors, Proteins, Pathways",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Polarity, Position, Potency",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Radial Glia = Progenitors + Scaffold.",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: Production -> Placement -> Performance.",
+    "pdfPage": 2
   },
   {
     "id": 2,
-    "category": "Neuroembryology: Migration",
-    "questionText": "The neocortex is formed in an 'Inside-Out' pattern. This means that the earliest born neurons (the first to migrate) will eventually reside in which layer of the mature cortex?",
+    "category": "Neocortical Progenitors",
+    "questionText": "Which cell type serves as the primary progenitor cell for cortical neurons and also provides the scaffold for migration?",
     "options": [
-      {
-        "text": "Layer II",
-        "explanation": "Incorrect (Latest born)."
-      },
-      {
-        "text": "Layer VI (Deepest)",
-        "explanation": "Correct. The first born neurons form the deepest layers (VI), and subsequent waves migrate past them to form more superficial layers (V, IV, III, II)."
-      },
-      {
-        "text": "Layer I (Marginal Zone)",
-        "explanation": "Incorrect (Mostly Cajal-Retzius cells, few neurons)."
-      },
-      {
-        "text": "Layer IV",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "White matter",
-        "explanation": "Incorrect (Axons)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cortical Lamination = Inside-Out (Oldest Deep, Youngest Superficial).",
-    "pdfPage": 27
-  },
-  {
-    "id": 3,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Primary Microcephaly (autosomal recessive) can be caused by mutations in genes like ASPM. The underlying cellular defect in these cases is typically:",
-    "options": [
-      {
-        "text": "Failed neuronal migration",
-        "explanation": "Incorrect (Lissencephaly/Heterotopia)."
-      },
-      {
-        "text": "Deficient neuronal proliferation / mitosis",
-        "explanation": "Correct. Mutations in mitotic spindle proteins or cytokinesis regulators (ASPM, Citron Kinase) lead to a reduced pool of neurons, resulting in a small but architecturally normal brain."
-      },
-      {
-        "text": "Excessive apoptosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Failed myelination",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Overproduction of astrocytes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Microcephaly (ASPM) = Proliferation Defect (Not enough neurons).",
-    "pdfPage": 9
-  },
-  {
-    "id": 4,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Periventricular Nodular Heterotopia (PVNH) is characterized by nodules of gray matter lining the lateral ventricles. This condition is caused by a failure of:",
-    "options": [
-      {
-        "text": "Neuronal Proliferation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Initiation of Neuronal Migration",
-        "explanation": "Correct. Neurons fail to leave the ventricular zone and start their migration, often due to mutations in Filament A (FLNA)."
-      },
-      {
-        "text": "Synaptogenesis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Termination of Migration",
-        "explanation": "Incorrect (Cobblestone Lissencephaly)."
-      },
-      {
-        "text": "Neuronal Differentiation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PVNH = Stuck at the start (Ventricle lining).",
-    "pdfPage": 21
-  },
-  {
-    "id": 5,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Double Cortex Syndrome (Subcortical Band Heterotopia) involves a band of gray matter trapped within the white matter. This is frequently associated with mutations in 'Doublecortin' (DCX) or LIS1, which affect:",
-    "options": [
-      {
-        "text": "DNA replication",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Microtubule stability and dynamics",
-        "explanation": "Correct. DCX and LIS1 are microtubule-associated proteins essential for the cytoskeletal changes required for neuronal migration."
-      },
-      {
-        "text": "Neurotransmitter release",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Apoptosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myelin formation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Double Cortex (Band Heterotopia) = Microtubule Defect (DCX).",
-    "pdfPage": 22
-  },
-  {
-    "id": 6,
-    "category": "Neuroembryology: Molecules",
-    "questionText": "Reelin is a critical extracellular matrix protein involved in organizing the cortical layers. It is secreted by which cell type located in the Marginal Zone (Layer I)?",
-    "options": [
-      {
-        "text": "Radial Glia",
-        "explanation": "Incorrect."
-      },
       {
         "text": "Cajal-Retzius Cells",
-        "explanation": "Correct. Cajal-Retzius cells in the marginal zone secrete Reelin, which provides a 'stop signal' or organizational cue for migrating neurons."
+        "explanation": "Incorrect. Reelin secretion."
+      },
+      {
+        "text": "Radial Glial Cells",
+        "explanation": "Correct. Located in VZ, divide to make neurons, and provide the radial fiber.",
+        "isCorrect": true
       },
       {
         "text": "Pyramidal Neurons",
@@ -168,66 +50,37 @@ window.Test_L29 = [
       },
       {
         "text": "Astrocytes",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. Later development."
       },
       {
-        "text": "Oligodendrocytes",
+        "text": "Microglia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cajal-Retzius cells -> Reelin -> Proper Lamination.",
-    "pdfPage": 26
+    "clinicalPearl": "Key takeaway: Radial Glia = Progenitors + Scaffold.",
+    "pdfPage": 9
   },
   {
-    "id": 7,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Type I Lissencephaly ('Smooth Brain') is characterized by a lack of gyri and sulci and a thickened, disorganized cortex (often 4 layers instead of 6). A key genetic cause involves mutations in:",
+    "id": 3,
+    "category": "Neocortical Development",
+    "questionText": "The Ventricular Zone (VZ) is located next to the:",
     "options": [
       {
-        "text": "ASPM",
-        "explanation": "Incorrect (Microcephaly)."
-      },
-      {
-        "text": "LIS1 or DCX",
-        "explanation": "Correct. LIS1 mutations cause classic lissencephaly, where migration is severely impaired, leading to a smooth brain surface."
-      },
-      {
-        "text": "Hox genes",
+        "text": "Pial surface",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sonic Hedgehog",
-        "explanation": "Incorrect (Holoprosencephaly)."
+        "text": "Lateral Ventricle",
+        "explanation": "Correct. Where proliferation occurs.",
+        "isCorrect": true
       },
       {
-        "text": "Folate receptors",
-        "explanation": "Incorrect (NTDs)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lissencephaly = Smooth Brain = Migration Failure (LIS1).",
-    "pdfPage": 5
-  },
-  {
-    "id": 8,
-    "category": "Neuroembryology: Anatomy",
-    "questionText": "The Intermediate Zone of the developing neural tube eventually becomes which structure in the mature brain?",
-    "options": [
-      {
-        "text": "Cerebral Cortex (Gray Matter)",
-        "explanation": "Incorrect (Cortical Plate)."
-      },
-      {
-        "text": "White Matter",
-        "explanation": "Correct. The Intermediate Zone contains the axons of developing neurons and becomes the subcortical white matter."
-      },
-      {
-        "text": "Lateral Ventricles",
+        "text": "Cortical Plate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia",
+        "text": "Marginal Zone",
         "explanation": "Incorrect."
       },
       {
@@ -236,28 +89,29 @@ window.Test_L29 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Intermediate Zone -> White Matter.",
-    "pdfPage": 22
+    "clinicalPearl": "Key takeaway: VZ lines the Ventricle.",
+    "pdfPage": 9
   },
   {
-    "id": 9,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Cobblestone Lissencephaly (Type II) is distinct from Classic Lissencephaly. In Cobblestone Lissencephaly, neurons migrate TOO FAR, piercing through the external limiting membrane into the subarachnoid space. This is often due to defects in:",
+    "id": 4,
+    "category": "Microcephaly",
+    "questionText": "Primary Microcephaly is typically caused by a failure in which developmental process?",
     "options": [
       {
-        "text": "Microtubules",
-        "explanation": "Incorrect (Type I)."
+        "text": "Neuronal Migration",
+        "explanation": "Incorrect. Heterotopia/Lissencephaly."
       },
       {
-        "text": "O-mannosylation of alpha-dystroglycan (interaction with basement membrane)",
-        "explanation": "Correct. Defects in the linkage between the radial glial endfeet and the pial basement membrane allow neurons to 'over-migrate'."
+        "text": "Neuronal Production (Proliferation)",
+        "explanation": "Correct. Not enough neurons produced = small brain.",
+        "isCorrect": true
       },
       {
-        "text": "Mitosis",
-        "explanation": "Incorrect (Microcephaly)."
+        "text": "Synaptogenesis",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Synapse formation",
+        "text": "Myelination",
         "explanation": "Incorrect."
       },
       {
@@ -266,187 +120,970 @@ window.Test_L29 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cobblestone Lissencephaly = Over-migration (pial barrier breach).",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Microcephaly = Proliferation Defect.",
+    "pdfPage": 13
+  },
+  {
+    "id": 5,
+    "category": "Genetics",
+    "questionText": "Mutations in the ASPM gene are a common cause of microcephaly. The ASPM protein is critical for:",
+    "options": [
+      {
+        "text": " neurotransmitter release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mitotic spindle function during cell division",
+        "explanation": "Correct. 'Abnormal Spindle-like Microcephaly associated'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Actin filament crosslinking",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium signaling",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "DNA transcription",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ASPM = Spindles = Mitosis.",
+    "pdfPage": 14
+  },
+  {
+    "id": 6,
+    "category": "Genetics",
+    "questionText": "Citron Kinase (CIT) mutations lead to microcephaly with binucleated neurons because the protein is essential for:",
+    "options": [
+      {
+        "text": "DNA replication",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cytokinesis (separation of daughter cells)",
+        "explanation": "Correct. Failure leads to multi-nucleated cells and apoptosis/failure to proliferate.",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Axon guidance",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Synapse formation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Citron Kinase = Cytokinesis.",
+    "pdfPage": 16
+  },
+  {
+    "id": 7,
+    "category": "Migration",
+    "questionText": "The pattern of neocortical lamination is established in a(n) ___________ sequence.",
+    "options": [
+      {
+        "text": "Outside-In",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inside-Out (Deep layers formed first, Superficial layers last)",
+        "explanation": "Correct. Layer 6 is born first, Layer 2 is born last.",
+        "isCorrect": true
+      },
+      {
+        "text": "Random",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral-Medial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rostral-Caudal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Inside-Out Migration (Younger cells on top).",
+    "pdfPage": 27
+  },
+  {
+    "id": 8,
+    "category": "Migration",
+    "questionText": "In the Inside-Out model, neurons destined for Layer 2 must migrate:",
+    "options": [
+      {
+        "text": "Without crossing any other layers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Past the previously formed layers (6, 5, 4, 3)",
+        "explanation": "Correct. They climb over their older sisters.",
+        "isCorrect": true
+      },
+      {
+        "text": "Underneath the previously formed layers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To the spinal cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To the thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Late born neurons migrate farthest.",
+    "pdfPage": 27
+  },
+  {
+    "id": 9,
+    "category": "Cell Biology",
+    "questionText": "During localized migration in the Intermediate Zone, neurons temporarily change from a bipolar shape to a ________ shape before resuming radial migration.",
+    "options": [
+      {
+        "text": "Pyramidal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Multipolar",
+        "explanation": "Correct. They do a 'dynamic dance' here.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spherical",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Flat",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cuboidal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bipolar -> Multipolar (IZ) -> Bipolar (CP).",
+    "pdfPage": 22
   },
   {
     "id": 10,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Filament A (FLNA) mutations are X-linked dominant. In females, this mutation typically causes Periventricular Nodular Heterotopia. In males, the mutation is usually:",
+    "category": "Heterotopia",
+    "questionText": "Periventricular Nodular Heterotopia is characterized by:",
     "options": [
       {
-        "text": "Asymptomatic",
-        "explanation": "Incorrect."
+        "text": "Smooth brain surface",
+        "explanation": "Incorrect. Lissencephaly."
       },
       {
-        "text": "Lethal (embryonic death)",
-        "explanation": "Correct. FLNA is essential for vascular development and other systems; complete loss (hemizygous males) is typically lethal."
+        "text": "Nodules of neurons lining the lateral ventricles",
+        "explanation": "Correct. Failure to initiate migration from VZ.",
+        "isCorrect": true
       },
       {
-        "text": "Associated with mild dyslexia",
-        "explanation": "Incorrect."
+        "text": "Band of gray matter in white matter",
+        "explanation": "Incorrect. Double Cortex.",
+        "isCorrect": false
       },
       {
-        "text": "Causing Schizophrenia",
-        "explanation": "Incorrect."
+        "text": "Neurons in Layer 1",
+        "explanation": "Incorrect. Molecular Heterotopia."
       },
       {
-        "text": "Causing Anencephaly",
-        "explanation": "Incorrect."
+        "text": "Large brain size",
+        "explanation": "Incorrect. Megalencephaly."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: FLNA mutation = PVNH in females, Lethal in males.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: Periventricular Nodules = Failed migration start.",
+    "pdfPage": 36
   },
   {
     "id": 11,
-    "category": "Neuroembryology: Development",
-    "questionText": "Which major sulcus is one of the earliest to develop, typically visible around 26 weeks of gestation?",
+    "category": "Genetics",
+    "questionText": "Mutations in ______ (Filamin A) are associated with Periventricular Nodular Heterotopia.",
     "options": [
       {
-        "text": "Inferior Temporal Sulcus",
+        "text": "ASPM",
         "explanation": "Incorrect."
       },
       {
-        "text": "Central Sulcus",
-        "explanation": "Correct. The Central Sulcus (along with the Sylvian fissure/Lateral sulcus) is a primary landmark that appears early in gyrification."
+        "text": "FLNA",
+        "explanation": "Correct. Actin-binding protein.",
+        "isCorrect": true
       },
       {
-        "text": "Intraparietal Sulcus",
+        "text": "RELN",
         "explanation": "Incorrect."
       },
       {
-        "text": "Superior Frontal Sulcus",
+        "text": "DCX",
         "explanation": "Incorrect."
       },
       {
-        "text": "Orbital Sulci",
+        "text": "LIS1",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Central Sulcus & Sylvian Fissure are early landmarks.",
-    "pdfPage": 19
+    "clinicalPearl": "Key takeaway: FLNA mutation = Periventricular Heterotopia.",
+    "pdfPage": 37
   },
   {
     "id": 12,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Hemimegalencephaly involves the overgrowth of one cerebral hemisphere. This is best described as a disorder of:",
+    "category": "Heterotopia",
+    "questionText": "Subcortical Band Heterotopia is also famously known as:",
     "options": [
       {
-        "text": "Neuronal Migration",
+        "text": "Double Cortex Syndrome",
+        "explanation": "Correct. Gray matter-White matter-Gray matter-White matter appearance.",
+        "isCorrect": true
+      },
+      {
+        "text": "Split Brain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Neuronal Proliferation (Excessive)",
-        "explanation": "Correct. This is due to somatic mosaic mutations in the mTOR pathway (e.g., PI3K-AKT-mTOR), leading to uncontrolled cell growth and proliferation on one side."
-      },
-      {
-        "text": "Neuronal Death",
+        "text": "Smooth Brain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Axonal Guidance",
+        "text": "Small Brain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Synaptic Pruning",
+        "text": "Hollow Brain",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Megalencephaly = Too much proliferation (mTOR pathway).",
-    "pdfPage": 12
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Band Heterotopia = Double Cortex.",
+    "pdfPage": 39
   },
   {
     "id": 13,
-    "category": "Neuroembryology: Genetics",
-    "questionText": "Mutations in the CIT (Citron Kinase) gene lead to microcephaly with multinucleated neurons. This protein functions primarily at which stage of the cell cycle?",
+    "category": "Genetics",
+    "questionText": "Doublecortin (DCX) and LIS1 are genes encoding for ________-associated proteins, which explains their role in neuronal migration disorders.",
     "options": [
       {
-        "text": "DNA Replication (S phase)",
+        "text": "Actin",
+        "explanation": "Incorrect. Filamin A is actin."
+      },
+      {
+        "text": "Microtubule",
+        "explanation": "Correct. Essential for the cytoskeleton during migration.",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cytokinesis (Cleavage Furrow)",
-        "explanation": "Correct. Citron Kinase is required for the final separation of daughter cells. Failure leads to binucleate cells and apoptosis."
-      },
-      {
-        "text": "G1 Checkpoint",
+        "text": "Lipid",
         "explanation": "Incorrect."
       },
       {
-        "text": "Prophase",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Metaphase alignment",
+        "text": "Ribosome",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Citron Kinase = Cytokinesis -> Binucleate neurons.",
-    "pdfPage": 11
+    "clinicalPearl": "Key takeaway: DCX/LIS1 = Microtubules.",
+    "pdfPage": 41
   },
   {
     "id": 14,
-    "category": "Neuroembryology: Migration",
-    "questionText": "During radial migration, excitatory neurons use the radial glial fiber as a scaffold. In contrast, inhibitory GABAergic interneurons originate from the ______ and migrate tangentially.",
+    "category": "Lissencephaly",
+    "questionText": "Lissencephaly literally translates to:",
     "options": [
       {
+        "text": "Hard Brain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smooth Brain",
+        "explanation": "Correct. Loss of sulci and gyri.",
+        "isCorrect": true
+      },
+      {
+        "text": "Small Brain",
+        "explanation": "Incorrect. Microcephaly."
+      },
+      {
+        "text": "Big Brain",
+        "explanation": "Incorrect. Megalencephaly."
+      },
+      {
+        "text": "Split Brain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lissencephaly = Smooth Brain.",
+    "pdfPage": 48
+  },
+  {
+    "id": 15,
+    "category": "Cell Types",
+    "questionText": "Which cells in the Marginal Zone (Layer 1) secrete Reelin?",
+    "options": [
+      {
+        "text": "Radial Glia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cajal-Retzius Cells",
+        "explanation": "Correct. They orchestrate lamination from the top.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pyramidal Neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Oligodendrocytes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Astrocytes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cajal-Retzius cells secrete Reelin.",
+    "pdfPage": 49
+  },
+  {
+    "id": 16,
+    "category": "Reelin",
+    "questionText": "The function of Reelin in cortical development is to:",
+    "options": [
+      {
+        "text": "Stimulate cell division",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Signal migrating neurons to stop and form layers",
+        "explanation": "Correct. It's a 'stop' or 'detach' signal for proper inside-out stacking.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kill neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enhance myelination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Form the blood-brain barrier",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Reelin = Stop Signal for Lamination.",
+    "pdfPage": 50
+  },
+  {
+    "id": 17,
+    "category": "Reelin Pathology",
+    "questionText": "In 'Reeler' mice (Reelin mutation) or humans with RELN mutations, the cortical lamination is:",
+    "options": [
+      {
+        "text": "Normal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inverted or Disorganized (Outside-In)",
+        "explanation": "Correct. The newer neurons can't pass the older ones, so they pile up underneath or randomly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Missing completely",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thicker than normal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only 3 layers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: No Reelin = Scrambled/Inverted Layers.",
+    "pdfPage": 51
+  },
+  {
+    "id": 18,
+    "category": "Development",
+    "questionText": "Which lobe of the brain is generally the LAST to fully develop its sulci and gyri?",
+    "options": [
+      {
+        "text": "Occipital",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Frontal",
+        "explanation": "Correct. Gyrification finishes last here.",
+        "isCorrect": true
+      },
+      {
+        "text": "Temporal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Frontal lobe gyrification is late.",
+    "pdfPage": 34
+  },
+  {
+    "id": 19,
+    "category": "Pathology",
+    "questionText": "Molecular Layer Heterotopia refers to:",
+    "options": [
+      {
+        "text": "Neurons trapped in the ventricle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neurons migrating too far into Layer 1 (Marginal Zone)",
+        "explanation": "Correct. They breach the 'stop' signal boundary.",
+        "isCorrect": true
+      },
+      {
+        "text": "White matter neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar neurons in the cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lack of Layer 1",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Molecular Layer Heterotopia = Overshooting into Layer 1.",
+    "pdfPage": 43
+  },
+  {
+    "id": 20,
+    "category": "Megalencephaly",
+    "questionText": "Megalencephaly (large brain) is caused by:",
+    "options": [
+      {
+        "text": "Reduced proliferation",
+        "explanation": "Incorrect. Microcephaly."
+      },
+      {
+        "text": "Prolonged or excessive proliferation of radial glia",
+        "explanation": "Correct. Can be unilateral (Hemi-megalencephaly).",
+        "isCorrect": true
+      },
+      {
+        "text": "Excessive apoptosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Shrinkage of neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of glia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Megalencephaly = Too much proliferation.",
+    "pdfPage": 18
+  },
+  {
+    "id": 21,
+    "category": "Development",
+    "questionText": "The presence of sulci and gyri (folding) allows for:",
+    "options": [
+      {
+        "text": "Less surface area",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "More surface area and cortical neurons within the same skull volume",
+        "explanation": "Correct. Packing more computing power.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thicker skull",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Faster blood flow",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Less white matter",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Folding increases surface area.",
+    "pdfPage": 4
+  },
+  {
+    "id": 22,
+    "category": "Layering",
+    "questionText": "Layer 1 of the neocortex is also known as the:",
+    "options": [
+      {
+        "text": "Cortical Plate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Marginal Zone / Molecular Layer",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subplate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Intermediate Zone",
+        "explanation": "Incorrect."
+      },
+      {
         "text": "Ventricular Zone",
-        "explanation": "Incorrect (Excitatory)."
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Layer 1 = Marginal Zone.",
+    "pdfPage": 6
+  },
+  {
+    "id": 23,
+    "category": "Development Timeline",
+    "questionText": "At 6 weeks gestation, the developing cortex consists primarily of:",
+    "options": [
+      {
+        "text": "6 layers",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Ganglionic Eminences",
-        "explanation": "Correct. Interneurons originate in the Medial and Lateral Ganglionic Eminences (MGE/LGE) and migrate tangentially to enter the cortex."
+        "text": "2 layers (Marginal Zone and Neuroepithelium)",
+        "explanation": "Correct. 6 layers come later via the cortical plate.",
+        "isCorrect": true
       },
       {
-        "text": "Neural Crest",
-        "explanation": "Incorrect (PNS)."
+        "text": "10 layers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only the Ventricular Zone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only White Matter",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Early cortex is 2-layered.",
+    "pdfPage": 6
+  },
+  {
+    "id": 24,
+    "category": "Clinical",
+    "questionText": "Patients with neuronal migration disorders (Heterotopia, Lissencephaly) commonly present with:",
+    "options": [
+      {
+        "text": "Only cardiac issues",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Epilepsy and Cognitive Disability",
+        "explanation": "Correct. Abnormal circuitry -> Seizures.",
+        "isCorrect": true
+      },
+      {
+        "text": "Perfect cognitive function",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of hearing only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased height",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Migration disorders -> Seizures/ID.",
+    "pdfPage": 38
+  },
+  {
+    "id": 25,
+    "category": "Microcephaly",
+    "questionText": "A ferret with an ASPM knockout would exhibit:",
+    "options": [
+      {
+        "text": "Lissencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Microcephaly (Small Brain)",
+        "explanation": "Correct. Conserved mechanism.",
+        "isCorrect": true
+      },
+      {
+        "text": "Megalencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Heterotopia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal brain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ASPM knockout = Small Brain.",
+    "pdfPage": 15
+  },
+  {
+    "id": 26,
+    "category": "Cell Biology",
+    "questionText": "Radial Glial cells are unique because they contact:",
+    "options": [
+      {
+        "text": "Only the ventricle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only the pial surface",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Both the Ventricular surface and the Pial surface",
+        "explanation": "Correct. Spanning the entire thickness.",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only blood vessels",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Radial Glia span the whole cortex.",
+    "pdfPage": 11
+  },
+  {
+    "id": 27,
+    "category": "Intermediate Zone",
+    "questionText": "The Intermediate Zone of the developing brain eventually becomes the:",
+    "options": [
+      {
+        "text": "Cortical Plate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "White Matter",
+        "explanation": "Correct. Contains axons.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ventricles",
+        "explanation": "Incorrect."
       },
       {
         "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
+        "text": "Skull",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Excitatory = Radial Migration (VZ); Inhibitory = Tangential Migration (Ganglionic Eminences).",
-    "pdfPage": 27
+    "clinicalPearl": "Key takeaway: Intermediate Zone -> White Matter.",
+    "pdfPage": 23
   },
   {
-    "id": 15,
-    "category": "Neuroembryology: Pathology",
-    "questionText": "Molecular Layer Heterotopia refers to the presence of ectopic neurons in which layer?",
+    "id": 28,
+    "category": "Definitions",
+    "questionText": "Pachygyria refers to:",
     "options": [
       {
-        "text": "Layer VI",
+        "text": "No gyri (Agryia)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Layer I (Marginal Zone)",
-        "explanation": "Correct. Neurons bypass their stop signal and migrate all the way into the molecular layer (Layer I)."
+        "text": "Large, broad, few gyri",
+        "explanation": "Correct. 'Incomplete Lissencephaly'.",
+        "isCorrect": true
       },
       {
-        "text": "Layer IV",
+        "text": "Many small gyri (Polymicrogyria)",
         "explanation": "Incorrect."
       },
       {
-        "text": "White Matter",
+        "text": "Normal gyri",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ventricles",
+        "text": "Missing brain",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Molecular Layer Heterotopia = Neurons in Layer 1 (Overshoot).",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Pachygyria = Broad Gyri.",
+    "pdfPage": 48
+  },
+  {
+    "id": 29,
+    "category": "Genetics",
+    "questionText": "Doublecortin (DCX) is located on the X chromosome. Therefore, Double Cortex Syndrome (Band Heterotopia) is most often seen in:",
+    "options": [
+      {
+        "text": "Males",
+        "explanation": "Incorrect. Males have Lissencephaly (no backup X). Females have heterotopia (mosaicism)."
+      },
+      {
+        "text": "Females",
+        "explanation": "Correct. X-inactivation leads to two populations of cells (mutant and normal), forming a double cortex. Males usually die or have severe lissencephaly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Both equally",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neither",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mice only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: DCX (X-linked) -> Females get Double Cortex.",
+    "pdfPage": 41
+  },
+  {
+    "id": 30,
+    "category": "Radial Glia",
+    "questionText": "In addition to producing neurons, Radial Glia eventually produce:",
+    "options": [
+      {
+        "text": "Blood vessels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Astrocytes",
+        "explanation": "Correct. They transform into astrocytes after neurogenesis is complete.",
+        "isCorrect": true
+      },
+      {
+        "text": "Microglia",
+        "explanation": "Incorrect. From yolk sac.",
+        "isCorrect": false
+      },
+      {
+        "text": "Meninges",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CSF",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Radial Glia become Astrocytes post-development.",
+    "pdfPage": 54
+  },
+  {
+    "id": 31,
+    "category": "Cell Biology",
+    "questionText": "The shape change of a migrating neuron from bipolar to multipolar allows it to:",
+    "options": [
+      {
+        "text": "Stop migrating immediately",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Explore the intermediate zone for cues before resuming radial migration",
+        "explanation": "Correct. The 'dynamic dance'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Divide",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Die",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Form synapses immediately",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Multipolar phase allows ease of lateral movement/cue finding.",
+    "pdfPage": 22
+  },
+  {
+    "id": 32,
+    "category": "Brain Size",
+    "questionText": "Humans have much larger brains than mice primarily due to:",
+    "options": [
+      {
+        "text": "Larger neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased duration and capacity of neuronal proliferation",
+        "explanation": "Correct. More rounds of division.",
+        "isCorrect": true
+      },
+      {
+        "text": "More layers (10 vs 6)",
+        "explanation": "Incorrect. Both have 6."
+      },
+      {
+        "text": "Less cell death",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "More ventricles",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: More proliferation = Bigger brain.",
+    "pdfPage": 15
+  },
+  {
+    "id": 33,
+    "category": "Gene Function",
+    "questionText": "Filamin A helps link ______ to the cell membrane, essential for locomotion.",
+    "options": [
+      {
+        "text": "Microtubules",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Actin filaments",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ribosomes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Golgi",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Filamin A = Actin.",
+    "pdfPage": 37
+  },
+  {
+    "id": 34,
+    "category": "Clinical",
+    "questionText": "The onset of sulcation (folding) typically begins around:",
+    "options": [
+      {
+        "text": "8 weeks",
+        "explanation": "Incorrect. Cortical plate forming."
+      },
+      {
+        "text": "26 weeks",
+        "explanation": "Correct. Central sulcus appears.",
+        "isCorrect": true
+      },
+      {
+        "text": "Birth",
+        "explanation": "Incorrect. Too late."
+      },
+      {
+        "text": "2 years old",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "10 weeks",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sulcation starts ~2nd trimester (26w).",
+    "pdfPage": 33
+  },
+  {
+    "id": 35,
+    "category": "Cajal Retzius",
+    "questionText": "Cajal-Retzius cells are NOT born in the Ventricular Zone. They migrate _______ from other sources.",
+    "options": [
+      {
+        "text": "Radially",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tangentially",
+        "explanation": "Correct. From Cortical Hem, etc.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vertically",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They don't migrate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Backwards",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cajal-Retzius migration is tangential.",
+    "pdfPage": 49
   }
 ];

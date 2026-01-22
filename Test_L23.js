@@ -2,451 +2,1059 @@ window.Test_L23 = [
   {
     "id": 1,
     "category": "Pathology: Vestibular System",
-    "questionText": "A 40-year-old female presents with complaint of 'room spinning' dizziness that occurs only when she reaches for a high shelf or rolls over in bed. The episodes last less than 1 minute. She has no hearing loss. The Dix-Hallpike maneuver triggers rotatory nystagmus. What is the most appropriate first-line treatment?",
+    "questionText": "A 60-year-old female presents with sudden onset of severe dizziness that worsens when she turns her head. She reports that the room feels like it is spinning. Which of the following features would most strongly suggest that her vertigo is of PERIPHERAL origin rather than central?",
     "options": [
       {
-        "text": "MRI of the Brain",
-        "explanation": "Incorrect. This clinical picture is classic for BPPV, which is peripheral and benign. MRI is reserved for central signs."
+        "text": "Nystagmus that changes direction with gaze",
+        "explanation": "Incorrect. Direction-changing nystagmus is a sign of Central vertigo."
       },
       {
-        "text": "Epley Maneuver",
-        "explanation": "Correct. This is Benign Paroxysmal Positional Vertigo (BPPV), caused by otoconia dislodged into the posterior semicircular canal. The Epley maneuver (canalith repositioning) is curative."
+        "text": "Nystagmus that extinguishes with visual fixation",
+        "explanation": "Correct. In peripheral vertigo (like BPPV or Vestibular Neuritis), the brain can suppress the nystagmus when the patient focuses on a fixed object. In central vertigo (Stroke, MS), fixation does NOT suppress the nystagmus.",
+        "isCorrect": true
       },
       {
-        "text": "Oral Meclizine",
-        "explanation": "Incorrect. Vestibular suppressants are not curative for BPPV and may delay compensation."
+        "text": "Vertical nystagmus",
+        "explanation": "Incorrect. Pure vertical nystagmus is a red flag for Central pathology."
       },
       {
-        "text": "Intratympanic Gentamicin",
-        "explanation": "Incorrect. Used for Meniere's, not BPPV."
+        "text": "Severe postural instability (unable to stand)",
+        "explanation": "Incorrect. While present in both, inability to stand/walk at all is more concerning for Central lesions (Cerebellum)."
       },
       {
-        "text": "Salt restriction and diuretics",
-        "explanation": "Incorrect. Treatment for Meniere's."
+        "text": "No hearing loss",
+        "explanation": "Incorrect. Peripheral often has hearing loss (Meniere's, Labyrinthitis)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: BPPV = Short episodic vertigo (<1 min) with position change. Tx: Epley Maneuver.",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Peripheral nystagmus is suppressed by visual fixation; Central nystagmus is not.",
+    "pdfPage": 6
   },
   {
     "id": 2,
     "category": "Pathology: Vestibular System",
-    "questionText": "A 50-year-old male presents with acute onset of severe continuous vertigo, nausea, and vomiting that has persisted for 2 days. He reports a recent upper respiratory infection. Hearing is NORMAL. Nystagmus is present but suppresses with visual fixation. What is the most likely diagnosis?",
+    "questionText": "A 40-year-old female complains of brief episodes of room-spinning dizziness triggered by looking up potential reaching for a high shelf. The episodes last less than 1 minute. She has no hearing loss. The Dix-Hallpike maneuver is positive. What is the underlying pathophysiology?",
     "options": [
       {
-        "text": "Meniere's Disease",
-        "explanation": "Incorrect. Meniere's causes episodic vertigo (hours) and hearing loss."
+        "text": "Excess endolymphatic fluid pressure",
+        "explanation": "Incorrect. Meniere's."
       },
       {
-        "text": "Vestibular Neuritis",
-        "explanation": "Correct. Vestibular Neuritis (or Vestibulitis) is inflammation of the vestibular nerve, often viral. It causes sustained vertigo (days), nausea, and nystagmus, but notably hearing is PRESERVED."
+        "text": "Viral inflammation of the vestibular nerve",
+        "explanation": "Incorrect. Vestibular Neuritis."
       },
       {
-        "text": "Labyrinthitis",
-        "explanation": "Incorrect. Labyrinthitis presents identically to Vestibular Neuritis BUT includes HEARING LOSS."
+        "text": "Dislodged calcium carbonate crystals (Otoconia) in the posterior semicircular canal",
+        "explanation": "Correct. This is Benign Paroxysmal Positional Vertigo (BPPV). Otoconia migrate into the canal (canalithiasis), causing inappropriate fluid movement and vertigo with head position changes."
       },
       {
-        "text": "BPPV",
-        "explanation": "Incorrect. BPPV is episodic (<1 min) and provoked by movement, not continuous for days."
+        "text": "Demyelination of the vestibular pathways",
+        "explanation": "Incorrect. MS."
       },
       {
-        "text": "Acoustic Neuroma",
-        "explanation": "Incorrect. Slow growing tumor, progressive symptoms."
+        "text": "Tumor of the cerebellopontine angle",
+        "explanation": "Incorrect. Acoustic Neuroma."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vestibular Neuritis = Continuous Vertigo + Normal Hearing. Labyrinthitis = Continuous Vertigo + Hearing Loss.",
-    "pdfPage": 8
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: BPPV is caused by canalithiasis (otoconia) in the semicircular canals, usually posterior.",
+    "pdfPage": 13
   },
   {
     "id": 3,
     "category": "Pathology: Vestibular System",
-    "questionText": "A 58-year-old male presents with episodic vertigo lasting 2-4 hours, accompanied by nausea, a sense of aural fullness, and \"roaring\" tinnitus in the right ear. Audiogram shows low-frequency sensorineural hearing loss on the right. The underlying pathophysiology involves:",
+    "questionText": "You suspect a patient has Meniere's Disease. Which classic triad of symptoms supports this diagnosis?",
     "options": [
       {
-        "text": "Displaced otoconia",
-        "explanation": "Incorrect (BPPV)."
+        "text": "Vertigo, Headache, Photophobia",
+        "explanation": "Incorrect. Migraine."
       },
       {
-        "text": "Endolymphatic Hydrops",
-        "explanation": "Correct. This is the classic triad of Meniere's Disease (Vertigo, Tinnitus, Hearing Loss). It is caused by excess endolymph fluid distending the membranous labyrinth (Endolymphatic Hydrops)."
+        "text": "Vertigo, Tinnitus, Fluctuating Sensorineural Hearing Loss",
+        "explanation": "Correct. Meniere's (Endolymphatic Hydrops) presents with episodic vertigo (hours), roaring tinnitus, and low-frequency hearing loss (fullness)."
       },
       {
-        "text": "Demyelination of the vestibular nerve",
-        "explanation": "Incorrect (MS)."
+        "text": "Vertigo, Fever, Ear Pain",
+        "explanation": "Incorrect. Otitis Media/Labyrinthitis."
       },
       {
-        "text": "Schwannoma of CN VIII",
-        "explanation": "Incorrect."
+        "text": "Vertigo, Diplopia, Dysarthria",
+        "explanation": "Incorrect. Brainstem stroke (Vertebrobasilar insufficiency)."
       },
       {
-        "text": "Perilymphatic Fistula",
-        "explanation": "Incorrect."
+        "text": "Vertigo, Syncope, Palpitations",
+        "explanation": "Incorrect. Cardiac."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Meniere's Disease = Triad of Vertigo, Tinnitus, Hearing Loss. Pathophys: Endolymphatic Hydrops.",
-    "pdfPage": 34
+    "clinicalPearl": "Key takeaway: Meniere's Triad: Episodic Vertigo + Tinnitus + Hearing Loss.",
+    "pdfPage": 16
   },
   {
     "id": 4,
-    "category": "Pathology: Auditory System",
-    "questionText": "A patient presents with hearing loss in the Right ear. Weber test lateralizes to the Right ear. Rinne test assesses Bone Conduction > Air Conduction on the Right. What type of hearing loss is this?",
+    "category": "Pathology: Vestibular System",
+    "questionText": "A 50-year-old male presents with continuous severe vertigo, nausea, and vomiting for the past 2 days. He had a recent upper respiratory infection. He has NO hearing loss. The head thrust impulse test is abnormal. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Right Sensorineural Hearing Loss",
-        "explanation": "Incorrect. In SNHL, Weber lateralizes to the GOOD ear (Left), and Rinne is AC > BC (Normal pattern)."
+        "text": "Meniere's Disease",
+        "explanation": "Incorrect. Episodes last hours, not days."
       },
       {
-        "text": "Left Sensorineural Hearing Loss",
-        "explanation": "Incorrect. While Weber lateralizes to the good ear in SNHL, the Rinne findings on the right (BC > AC) specifically indicate a conductive problem on the right."
+        "text": "BPPV",
+        "explanation": "Incorrect. Episodes last seconds."
       },
       {
-        "text": "Right Conductive Hearing Loss",
-        "explanation": "Correct. In Conductive Hearing Loss (CHL), Weber lateralizes to the AFFECTED ear (Right), and Bone Conduction is greater than Air Conduction (Rinne Negative)."
+        "text": "Vestibular Neuritis",
+        "explanation": "Correct. Viral inflammation of the vestibular nerve causes continuous vertigo for days. Key distinction from Labyrinthitis is the ABSENCE of hearing loss."
       },
       {
-        "text": "Normal Hearing",
-        "explanation": "Incorrect."
+        "text": "Labyrinthitis",
+        "explanation": "Incorrect. Involves hearing loss."
       },
       {
-        "text": "Left Conductive Hearing Loss",
-        "explanation": "Incorrect."
+        "text": "Acoustic Neuroma",
+        "explanation": "Incorrect. Slow onset."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Conductive HL: Weber -> Bad Ear, Rinne BC > AC. Sensorineural HL: Weber -> Good Ear, Rinne AC > BC.",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: Vestibular Neuritis = Continuous Vertigo + No Hearing Loss (post-viral). Labyrinthitis = Vertigo + Hearing Loss.",
+    "pdfPage": 10
   },
   {
     "id": 5,
-    "category": "Pathology: Vestibular System",
-    "questionText": "Which clinical feature strongly suggests a CENTRAL cause of vertigo (e.g., Cerebellar stroke, MS) rather than a peripheral cause?",
+    "category": "Pathology: Auditory System",
+    "questionText": "A patient undergoing Weber testing hears the sound louder in their RIGHT ear. Rinne testing shows Air Conduction > Bone Conduction on both sides. What is the interpretation?",
     "options": [
       {
-        "text": "Nystagmus that suppresses with visual fixation",
-        "explanation": "Incorrect. This is a hallmark of Peripheral vertigo."
+        "text": "Right conductive hearing loss",
+        "explanation": "Incorrect. Rinne would be BC > AC on the right."
       },
       {
-        "text": "Severe nausea and vomiting",
-        "explanation": "Incorrect. Common in peripheral (actually often more severe in peripheral)."
+        "text": "Left sensorineural hearing loss",
+        "explanation": "Correct. Weber localizes to the GOOD ear in sensorineural loss (or the BAD ear in conductive). Since Rinne is normal (AC>BC) bilaterally, there is no conductive component. Therefore, the deficit must be sensorineural on the LEFT (sound travels to the better right ear)."
       },
       {
-        "text": "Vertical Nystagmus that does NOT fatigue or suppress",
-        "explanation": "Correct. Central vertigo signs include: Vertical nystagmus, direction-changing nystagmus, nystagmus that does not suppress with fixation, and associated neurological deficits (Diplopia, Dysarthria, Dysphagia, etc.)."
-      },
-      {
-        "text": "Unilateral hearing loss",
-        "explanation": "Incorrect. Suggests Peripheral (CN VIII)."
-      },
-      {
-        "text": "Positive Dix-Hallpike maneuver",
-        "explanation": "Incorrect. Suggests Peripheral (BPPV)."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Central Vertigo = Vertical/Non-fatigable Nystagmus, No suppression w/ fixation, Neuro signs (4 D's).",
-    "pdfPage": 9
-  },
-  {
-    "id": 6,
-    "category": "Pathology: Vestibular System",
-    "questionText": "A 35-year-old female complains of ringing in her ears (tinnitus) and dizziness. Upon history taking, she mentions taking high doses of an over-the-counter medication for chronic headaches. Which medication is a well-known cause of reversible tinnitus and ototoxicity?",
-    "options": [
-      {
-        "text": "Acetaminophen",
+        "text": "Right sensorineural hearing loss",
         "explanation": "Incorrect."
       },
       {
-        "text": "Aspirin (Salicylates)",
-        "explanation": "Correct. High-dose Aspirin/Salicylates are a classic cause of tinnitus and temporary hearing loss. Symptoms are usually reversible upon discontinuation."
+        "text": "Left conductive hearing loss",
+        "explanation": "Incorrect. Weber would go to left."
       },
       {
-        "text": "Diphenhydramine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ranitidine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Loratadine",
-        "explanation": "Incorrect."
+        "text": "Normal hearing",
+        "explanation": "Incorrect. Weber should be midline."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Aspirin toxicity causes Tinnitus.",
-    "pdfPage": 48
+    "clinicalPearl": "Key takeaway: Weber lateralizes to the normal ear in Sensorineural loss, and to the affected ear in Conductive loss.",
+    "pdfPage": 25
+  },
+  {
+    "id": 6,
+    "category": "Pathology: Auditory System",
+    "questionText": "A 30-year-old female presents with progressive hearing loss. Pneumatic otoscopy reveals a stiff, non-mobile tympanic membrane despite no signs of infection or fluid. There is a family history of hearing loss. Diagnosis?",
+    "options": [
+      {
+        "text": "Otitis Media with Effusion",
+        "explanation": "Incorrect. Would see fluid."
+      },
+      {
+        "text": "Cholesteatoma",
+        "explanation": "Incorrect. Keratin debris/mass."
+      },
+      {
+        "text": "Otosclerosis",
+        "explanation": "Correct. Fixation of the stapes footplate (sclerosis) prevents vibration transmission. It causes conductive hearing loss and stiff TM."
+      },
+      {
+        "text": "Tympanosclerosis",
+        "explanation": "Incorrect. scarring of drum, usually sequela of tubes/infection."
+      },
+      {
+        "text": "Presbycusis",
+        "explanation": "Incorrect. Age related, sensorineural."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Otosclerosis causes conductive hearing loss due to stapes fixation.",
+    "pdfPage": 21
   },
   {
     "id": 7,
     "category": "Pathology: Auditory System",
-    "questionText": "A patient with Meniere's disease has failed conservative management (low salt diet). Which class of medication is commonly prescribed as first-line pharmacotherapy for maintenance?",
+    "questionText": "Presbycusis, the age-related hearing loss, is typically characterized by:",
+    "options": [
+      {
+        "text": "Low-frequency conductive loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "High-frequency sensorineural loss",
+        "explanation": "Correct. Degeneration of hair cells at the base of the cochlea leads to bilateral, symmetric, high-frequency hearing loss."
+      },
+      {
+        "text": "Unilateral fluctuating loss",
+        "explanation": "Incorrect. Meniere's."
+      },
+      {
+        "text": "Rapidly progressive loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bone conduction greater than air conduction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Presbycusis affects high frequencies first (Sensorineural).",
+    "pdfPage": 21
+  },
+  {
+    "id": 8,
+    "category": "Pathology: Vestibular System",
+    "questionText": "What is the primary treatment maneuver used for BPPV affecting the posterior canal?",
+    "options": [
+      {
+        "text": "Valsalva maneuver",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Epley maneuver",
+        "explanation": "Correct. The Epley maneuver (canalith repositioning procedure) moves the otoliths out of the semicircular canal back into the utricle."
+      },
+      {
+        "text": "Dix-Hallpike maneuver",
+        "explanation": "Incorrect. This is DIAGNOSTIC, not therapeutic."
+      },
+      {
+        "text": "HINTS exam",
+        "explanation": "Incorrect. Diagnostic."
+      },
+      {
+        "text": "Romberg test",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dix-Hallpike DIAGNOSES BPPV; Epley TREATS BPPV.",
+    "pdfPage": 13
+  },
+  {
+    "id": 9,
+    "category": "Pathology: Auditory System",
+    "questionText": "Which medication class is notorious for causing potentially irreversible sensorineural hearing loss and tinnitus (Ototoxicity)?",
+    "options": [
+      {
+        "text": "Beta-lactams (Penicillin)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aminoglycosides (Gentamicin)",
+        "explanation": "Correct. Aminoglycosides and Loop Diuretics (Furosemide) and Platinum chemo (Cisplatin) are classic ototoxins. Aspirin causes reversible tinnitus."
+      },
+      {
+        "text": "ACE Inhibitors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Statins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium Channel Blockers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aminoglycosides cause permanent ototoxicity (hair cell death). Monitor levels.",
+    "pdfPage": 29
+  },
+  {
+    "id": 10,
+    "category": "Pathology: Vestibular System",
+    "questionText": "The 'HINTS' exam is used to rule out stroke in acute vestibular syndrome. Which finding suggests a CENTRAL cause (Stroke)?",
+    "options": [
+      {
+        "text": "Unidirectional nystagmus",
+        "explanation": "Incorrect. Peripheral."
+      },
+      {
+        "text": "Abnormal Head Impulse Test",
+        "explanation": "Incorrect. An abnormal HIT (saccade catch-up) suggests a PERIPHERAL vestibular nerve problem (Neuritis). A NORMAL HIT in a patient with continuous vertigo suggests the nerve is working, so the problem must be CENTRAL (Brain).",
+        "isCorrect": true
+      },
+      {
+        "text": "Absence of Skew Deviation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing loss",
+        "explanation": "Incorrect. Can be either (AICA stroke vs Labyrinthitis)."
+      },
+      {
+        "text": "Resolution of symptoms in minutes",
+        "explanation": "Incorrect. TIA maybe, but HINTS is for continuous symptoms."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: In acute vertigo, a Normal Head Impulse Test is BAD (suggests Central/Stroke). 'Head Impulse Normal, Fast-phase Alternating, Refixation (skew) = INFARCT'.",
+    "pdfPage": 8
+  },
+    {
+    "id": 11,
+    "category": "Pathology: Auditory System",
+    "questionText": "A 45-year-old male presents with unilateral sensorineural hearing loss and tinnitus on the left side. He has also noticed mild unsteadiness. MRI reveals a mass at the cerebellopontine angle. What is the most likely diagnosis?",
+    "options": [
+      {
+        "text": "Meniere's Disease",
+        "explanation": "Incorrect. No mass."
+      },
+      {
+        "text": "Vestibular Schwannoma (Acoustic Neuroma)",
+        "explanation": "Correct. Benign tumor of CN VIII. Classic presentation is unilateral SNHL, tinnitus, and disequilibrium. Can impinge CN V (facial numbness) or CN VII (palsy) if large."
+      },
+      {
+        "text": "Meningioma",
+        "explanation": "Incorrect. Possible, but Schwannoma is more common for hearing loss."
+      },
+      {
+        "text": "Cholesteatoma",
+        "explanation": "Incorrect. Middle ear."
+      },
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Unilateral sensorineural hearing loss is an Acoustic Neuroma until proven otherwise (MRI).",
+    "pdfPage": 17
+  },
+  {
+    "id": 12,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Which dietary modification is the first-line management for Meniere's Disease?",
+    "options": [
+      {
+        "text": "High protein diet",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Low Sodium (<2g/day) and caffeine restriction",
+        "explanation": "Correct. Reducing salt reduces endolymphatic fluid pressure (Hydrops). Diuretics (HCTZ) are also used."
+      },
+      {
+        "text": "Gluten free diet",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ketogenic diet",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased fluid intake",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Low salt diet is the mainstay of Meniere's treatment.",
+    "pdfPage": 18
+  },
+  {
+    "id": 13,
+    "category": "Pathology: Auditory System",
+    "questionText": "In a Rinne test, if the patient hears the sound louder when the tuning fork is placed on the mastoid bone than when placed in front of the ear (BC > AC), this indicates:",
+    "options": [
+      {
+        "text": "Normal hearing",
+        "explanation": "Incorrect. Normal is AC > BC."
+      },
+      {
+        "text": "Sensorineural hearing loss",
+        "explanation": "Incorrect. SNHL usually maintains AC > BC (reduced overall)."
+      },
+      {
+        "text": "Conductive hearing loss",
+        "explanation": "Correct. Bone conduction bypassing the middle ear is better than air conduction, meaning there is a blockage in the outer/middle ear (wax, fluid, otosclerosis).",
+        "isCorrect": true
+      },
+      {
+        "text": "Central auditory processing disorder",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tinnitus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Rinne Negative (BC > AC) = Conductive Hearing Loss.",
+    "pdfPage": 25
+  },
+  {
+    "id": 14,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Oscillopsia (the visual world jumping/bouncing when walking) is a symptom of:",
+    "options": [
+      {
+        "text": "Unilateral vestibular loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral vestibular loss",
+        "explanation": "Correct. Loss of the Vestibulo-Ocular Reflex (VOR) bilaterally means the eyes cannot stabilize during head movement (walking). This is often due to ototoxicity (Gentamicin)."
+      },
+      {
+        "text": "BPPV",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Meniere's disease",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acoustic Neuroma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bilateral VOR loss causes Oscillopsia (Dandy's Syndrome).",
+    "pdfPage": 7
+  },
+  {
+    "id": 15,
+    "category": "Pathology: Auditory System",
+    "questionText": "Sudden Sensorineural Hearing Loss (SSNHL) is considered an otologic emergency. Treatment should be started immediately with:",
     "options": [
       {
         "text": "Antibiotics",
         "explanation": "Incorrect."
       },
       {
-        "text": "Diuretics (e.g., Hydrochlorothiazide/Triamterene)",
-        "explanation": "Correct. Diuretics reduce endolymphatic fluid pressure, addressing the underlying hydrops."
+        "text": "Systemic Corticosteroids",
+        "explanation": "Correct. High dose steroids (Prednisone) offer the best chance of recovery for idiopathic sudden SNHL.",
+        "isCorrect": true
       },
       {
-        "text": "Beta Blockers",
+        "text": "Diuretics",
         "explanation": "Incorrect."
       },
       {
-        "text": "Calcium Channel Blockers",
+        "text": "Antihistamines",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anticonvulsants",
+        "text": "Hearing aids",
+        "explanation": "Incorrect. Too early."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sudden SNHL requires urgent steroids.",
+    "pdfPage": 12
+  },
+  {
+    "id": 16,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Hyperventilation can induce dizziness/lightheadedness primarily by:",
+    "options": [
+      {
+        "text": "Increasing cerebral blood flow",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Causing hypocapnia and cerebral vasoconstriction",
+        "explanation": "Correct. Blowing off CO2 causes respiratory alkalosis and profound cerebral vasoconstriction, reducing oxygen delivery to the brain."
+      },
+      {
+        "text": "Stimulating the vestibular nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lowering blood pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocking ear drums",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat Meniere's with Diuretics (HCTZ/Triamterene) and salt restriction.",
-    "pdfPage": 37
+    "clinicalPearl": "Key takeaway: Hyperventilation causes cerebral vasoconstriction via low CO2.",
+    "pdfPage": 3
   },
   {
-    "id": 8,
+    "id": 17,
     "category": "Pathology: Vestibular System",
-    "questionText": "In the HINTS exam for ruling out stroke in acute vestibular syndrome, which finding is concerning for a CENTRAL cause (Stroke)?",
+    "questionText": "Vertical nystagmus is a pathognomonic sign of:",
     "options": [
       {
-        "text": "Unidirectional nystagmus",
-        "explanation": "Incorrect (Peripheral)."
+        "text": "BPPV",
+        "explanation": "Incorrect. BPPV is usually rotary/torsional."
       },
       {
-        "text": "Abnormal Head Impulse Test (catch-up saccade)",
-        "explanation": "Incorrect. An ABNORMAL Head Impulse Test suggests a Peripheral vestibular lesion (Neuritis). A NORMAL Head Impulse Test in a constantly dizzy patient is DANGEROUS/CENTRAL (because the VOR is intact, implying the problem is in the cerebellum/brainstem)."
+        "text": "Central nervous system pathology (Brainstem/Cerebellum)",
+        "explanation": "Correct. Pure vertical (upbeat/downbeat) nystagmus is almost always Central (Stroke, MS, Tumor). Peripheral is usually horizontal-rotary."
       },
       {
-        "text": "Normal Head Impulse Test (no saccade)",
-        "explanation": "Correct. A Normal Head Impulse Test in a patient with acute continuous vertigo is highly specific for a Central cause (Stroke). 'Head Impulse Normal, Fast-phase alternating, Refixation on Cover Test' = Stroke."
-      },
-      {
-        "text": "Horizontal nystagmus",
+        "text": "Meniere's disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "Absence of skew deviation",
+        "text": "Vestibular neuritis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Otitis media",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vertical nystagmus = Central pathology (Red Flag).",
+    "pdfPage": 3
+  },
+  {
+    "id": 18,
+    "category": "Pathology: Auditory System",
+    "questionText": "A child presents with a 'swimmer's ear' - pain on pulling the pinna, erythema of the canal, and discharge. This conductive hearing loss is caused by:",
+    "options": [
+      {
+        "text": "Otitis Media",
+        "explanation": "Incorrect. Middle ear."
+      },
+      {
+        "text": "Otitis Externa",
+        "explanation": "Correct. Inflammation of the ear canal (swimmer's ear) causes swelling and debris, blocking sound conduction."
+      },
+      {
+        "text": "Labyrinthitis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mastoiditis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Foreign body",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Otitis Externa causes conductive loss via canal occlusion/swelling.",
+    "pdfPage": 21
+  },
+  {
+    "id": 19,
+    "category": "Pathology: Vestibular System",
+    "questionText": "The Romberg test primarily assesses:",
+    "options": [
+      {
+        "text": "Cerebellar function",
+        "explanation": "Incorrect. Cerebellar ataxia presents with eyes OPEN too."
+      },
+      {
+        "text": "Proprioception (Dorsal Columns)",
+        "explanation": "Correct. A positive Romberg (sway with eyes closed) indicates loss of proprioception. The patient relies on vision to stand; taking away vision reveals the sensory deficit. Vestibular dysfunction can also cause it, but it's classic for dorsal column sensory ataxia."
+      },
+      {
+        "text": "Muscle strength",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Romberg tests Proprioception (and Vestibular function), NOT Cerebellum.",
+    "pdfPage": 7
+  },
+  {
+    "id": 20,
+    "category": "Pathology: Auditory System",
+    "questionText": "Tinnitus that is 'Pulsatile' (synchronous with heartbeat) requires evaluation for:",
+    "options": [
+      {
+        "text": "Vascular anomalies (Glomus tumor, AVM, Carotid stenosis)",
+        "explanation": "Correct. Pulsatile tinnitus suggests a vascular origin (turbulent flow) and needs imaging (MRA/CTA)."
+      },
+      {
+        "text": "Noise exposure",
+        "explanation": "Incorrect. Continuous ringing."
+      },
+      {
+        "text": "Presbycusis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ear wax",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vitamin deficiency",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Pulsatile tinnitus needs Vascular workup.",
+    "pdfPage": 27
+  },
+  {
+    "id": 21,
+    "category": "Pathology: Vestibular System",
+    "questionText": "A patient with Meniere's disease is prescribed Hydrochlorothiazide. What is the mechanism of benefit?",
+    "options": [
+      {
+        "text": "Anti-inflammatory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reduction of endolymph volume",
+        "explanation": "Correct. Diuretics reduce overall fluid volume, theoretically reducing the endolymphatic hydrops pressure."
+      },
+      {
+        "text": "Sedation of the vestibular nerve",
+        "explanation": "Incorrect. That's Benzodiazepines."
+      },
+      {
+        "text": "Antibiotic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vasodilation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Diuretics treat Meniere's by reducing fluid.",
+    "pdfPage": 18
+  },
+  {
+    "id": 22,
+    "category": "Pathology: Auditory System",
+    "questionText": "Type of noise-induced hearing loss typified by:",
+    "options": [
+      {
+        "text": "Conductive loss at all frequencies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensorineural 'Notch' at 4000 Hz",
+        "explanation": "Correct. Noise damage typically affects the hair cells responding to ~4kHz first, creating a characteristic dip or notch on the audiogram."
+      },
+      {
+        "text": "Low frequency loss only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Total deafness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Improved hearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Noise induced hearing loss is a 4kHz Notch (Sensorineural).",
+    "pdfPage": 29
+  },
+  {
+    "id": 23,
+    "category": "Pathology: Auditory System",
+    "questionText": "Why should irrigation of the ear be avoided if the tympanic membrane is perforated?",
+    "options": [
+      {
+        "text": "It hurts",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Risk of introducing infection into the middle ear and causing vertigo",
+        "explanation": "Correct. Cold/warm water entering the middle ear can stimualte the horizontal canal (caloric effect) causing intense vertigo and vomiting, plus infection risk."
+      },
+      {
+        "text": "It washes away the perforation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes hearing gain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It stains the ear",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Check for TM perforation before irrigating.",
+    "pdfPage": 23
+  },
+  {
+    "id": 24,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Vestibular Neuritis vs Labyrinthitis: The key distinguishing feature is:",
+    "options": [
+      {
+        "text": "Duration of vertigo",
+        "explanation": "Incorrect. Both days."
+      },
+      {
+        "text": "Presence of Hearing Loss",
+        "explanation": "Correct. Vestibular Neuritis affects ONLY the vestibular nerve (Vertigo only). Labyrinthitis affects the whole labyrinth/cochlea (Vertigo + Hearing Loss).",
+        "isCorrect": true
+      },
+      {
+        "text": "Nausea",
+        "explanation": "Incorrect. Both."
+      },
+      {
+        "text": "Nystagmus",
+        "explanation": "Incorrect. Both."
+      },
+      {
+        "text": "Age",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neuritis = Vertigo. Labyrinthitis = Vertigo + Hearing Loss.",
+    "pdfPage": 10
+  },
+  {
+    "id": 25,
+    "category": "Pathology: Auditory System",
+    "questionText": "Which is a 'safe' medication to use for vertigo in the elderly, avoiding the anticholinergic side effects of Meclizine?",
+    "options": [
+      {
+        "text": "Scopolamine",
+        "explanation": "Incorrect. Anticholinergic."
+      },
+      {
+        "text": "Benzodiazepines",
+        "explanation": "Incorrect. Fall risk."
+      },
+      {
+        "text": "Physical Therapy (Epley/Rehab)",
+        "explanation": "Correct. For BPPV, Epley is curative and drug-free. For other causes, vestibular rehab is safer than sedating drugs."
+      },
+      {
+        "text": "Promethazine",
+        "explanation": "Incorrect. Sedating."
+      },
+      {
+        "text": "Amitriptyline",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: In Acute Vestibular Syndrome: Normal Head Impulse Test = Stroke (Central). abnormal = Neuritis (Peripheral).",
-    "pdfPage": 15
-  },
-  {
-    "id": 9,
-    "category": "Pathology: Auditory System",
-    "questionText": "A 45-year-old male presents with progressive unilateral hearing loss in the left ear and tinnitus. He also reports mild unsteadiness but no acute vertigo attacks. MRI reveals a mass in the Cerebellopontine Angle (CPA). This is most likely:",
-    "options": [
-      {
-        "text": "Cholesteatoma",
-        "explanation": "Incorrect. Middle ear mass."
-      },
-      {
-        "text": "Vestibular Schwannoma (Acoustic Neuroma)",
-        "explanation": "Correct. Acoustic Neuromas are slow-growing tumors of CN VIII. They typically present with Unilateral Sensorineural Hearing Loss and Tinnitus. Vertigo is often mild/absent due to slow compensation."
-      },
-      {
-        "text": "Meniere's Disease",
-        "explanation": "Incorrect. Not a mass."
-      },
-      {
-        "text": "Glioblastoma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pituitary Adenoma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Unilateral SNHL + Tinnitus = Rule out Acoustic Neuroma (Vestibular Schwannoma).",
-    "pdfPage": 34
-  },
-  {
-    "id": 10,
-    "category": "Pathology: Auditory System",
-    "questionText": "Presbycusis is the most common cause of sensorineural hearing loss in the elderly. It is characterized by:",
-    "options": [
-      {
-        "text": "Unilateral low-frequency loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bilateral high-frequency loss",
-        "explanation": "Correct. Presbycusis involves the loss of hair cells at the base of the cochlea, resulting in symmetric, bilateral, high-frequency hearing loss."
-      },
-      {
-        "text": "Conductive hearing loss due to ossicle stiffness",
-        "explanation": "Incorrect (Otosclerosis)."
-      },
-      {
-        "text": "Fluctuating hearing loss",
-        "explanation": "Incorrect (Meniere's)."
-      },
-      {
-        "text": "Vertigo and tinnitus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Presbycusis = Bilateral High-Frequency SNHL.",
-    "pdfPage": 2
-  },
-  {
-    "id": 11,
-    "category": "Pathology: Vestibular System",
-    "questionText": "Which antibiotic class is notorious for causing irreversible ototoxicity (Sensorineural hearing loss and vestibulopathy), requiring monitoring of peak/trough levels?",
-    "options": [
-      {
-        "text": "Penicillins",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cephalosporins",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Aminoglycosides (e.g., Gentamicin)",
-        "explanation": "Correct. Aminoglycosides destroy hair cells in the cochlea and vestibular system. This ototoxicity can be permanent."
-      },
-      {
-        "text": "Macrolides",
-        "explanation": "Incorrect (usually reversible)."
-      },
-      {
-        "text": "Fluoroquinolones",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Aminoglycosides = Irreversible Ototoxicity.",
-    "pdfPage": 49
-  },
-  {
-    "id": 12,
-    "category": "Pathology: Auditory System",
-    "questionText": "Otosclerosis is a common cause of conductive hearing loss in young adults. The pathophysiology involves:",
-    "options": [
-      {
-        "text": "Cerumen impaction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fixation of the Stapes bone",
-        "explanation": "Correct. Abnormal bone growth causes the footplate of the stapes to become fixed/immobile, preventing sound transmission to the inner ear."
-      },
-      {
-        "text": "Destruction of cochlear hair cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Perforation of the tympanic membrane",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Discontinuity of the incudostapedial joint",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Otosclerosis = Stapes fixation = Conductive Hearing Loss.",
-    "pdfPage": 2
-  },
-  {
-    "id": 13,
-    "category": "Pathology: Vestibular System",
-    "questionText": "During the caloric test (COWS), irrigation of the ear with Cold water in a normal patient should elicit:",
-    "options": [
-      {
-        "text": "Nystagmus with fast phase to the Same side",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nystagmus with fast phase to the Opposite side",
-        "explanation": "Correct. COWS: Cold Opposite, Warm Same. Cold water mimics turning the head away, causing fast nystagmus to the Opposite ear."
-      },
-      {
-        "text": "No nystagmus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vertical nystagmus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hearing improvement",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: COWS: Cold Opposite, Warm Same (Fast phase nystagmus).",
+    "clinicalPearl": "Key takeaway: Non-pharmacologic maneuvers (Epley) are preferred in elderly to avoid sedation/falls.",
     "pdfPage": 13
   },
   {
-    "id": 14,
-    "category": "Pathology: Vestibular System",
-    "questionText": "The vestibular ocular reflex (VOR) allows for:",
+    "id": 26,
+    "category": "Pathology: Auditory System",
+    "questionText": "Tinnitus is often the first symptom of:",
     "options": [
       {
-        "text": "Hearing localization",
+        "text": "Aspirin toxicity",
+        "explanation": "Correct. Salicylate toxicity often presents with ringing in the ears and respiratory alkalosis."
+      },
+      {
+        "text": "Acetaminophen toxicity",
+        "explanation": "Incorrect. Liver."
+      },
+      {
+        "text": "Opiate overdose",
         "explanation": "Incorrect."
       },
       {
-        "text": "Maintenance of stable gaze during head movement",
-        "explanation": "Correct. The VOR moves the eyes equal and opposite to head movement to keep the image stable on the retina."
-      },
-      {
-        "text": "Dilation of the pupil in dim light",
+        "text": "Iron deficiency",
         "explanation": "Incorrect."
       },
       {
-        "text": "Convergence of eyes for near vision",
+        "text": "Gout",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Postural stability with eyes closed",
-        "explanation": "Incorrect (Vestibulospinal)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: VOR stabilizes gaze during head movement.",
-    "pdfPage": 11
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Aspirin toxicity = Tinnitus.",
+    "pdfPage": 29
   },
   {
-    "id": 15,
-    "category": "Pathology: Auditory System",
-    "questionText": "A patient notices hearing loss after a scuba diving trip. Pneumoscopy shows a tympanic membrane that moves ONLY with negative pressure. This finding suggests:",
+    "id": 27,
+    "category": "Pathology: Vestibular System",
+    "questionText": "In a patient with peripheral vertigo, the fast component of the nystagmus beats:",
     "options": [
       {
-        "text": "Normal ear",
+        "text": "Towards the AFFECTED ear",
         "explanation": "Incorrect."
       },
       {
-        "text": "Eustachian tube dysfunction/blockage",
-        "explanation": "Correct. As per the lecture, if the TM is retracted or only moves with negative pressure, it implies the Eustachian tube is blocked and cannot equalize pressure (vacuum in middle ear)."
+        "text": "Away from the AFFECTED ear",
+        "explanation": "Correct. The slow phase drifts towards the weak/affected side (vestibular imbalance), and the brain corrects with a fast jerk to the healthy side. 'Fast phase beats away from the lesion'.",
+        "isCorrect": true
       },
       {
-        "text": "Ossicular chain disruption",
-        "explanation": "Incorrect (Hypermobile)."
+        "text": "Vertically",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Fluid in middle ear",
-        "explanation": "Incorrect (Non-mobile)."
+        "text": "Randomly",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Perforation",
+        "text": "It doesn't beat",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: TM mobile only with negative pressure = Blocked Eustachian Tube.",
-    "pdfPage": 43
+    "clinicalPearl": "Key takeaway: Nystagmus beats AWAY from the hypofunctioning (sick) ear.",
+    "pdfPage": 6
+  },
+  {
+    "id": 28,
+    "category": "Pathology: Auditory System",
+    "questionText": "Cerumen impaction causes:",
+    "options": [
+      {
+        "text": "Sensorineural hearing loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Conductive hearing loss",
+        "explanation": "Correct. It physically blocks sound waves from reaching the TM."
+      },
+      {
+        "text": "Central heating loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperacusis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ear wax is a common reversible cause of conductive loss.",
+    "pdfPage": 21
+  },
+  {
+    "id": 29,
+    "category": "Pathology: Vestibular System",
+    "questionText": "A positive 'Head Impulse Test' involving a catch-up saccade implies:",
+    "options": [
+      {
+        "text": "Central pathology",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral vestibular weakness on that side",
+        "explanation": "Correct. When the head is thrust towards the weak side, the VOR fails to move the eyes, so they move with the head. The patient then makes a corrective saccade back to the target. This indicates a peripheral lesion (Neuritis).",
+        "isCorrect": true
+      },
+      {
+        "text": "Normal function",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "BPPV",
+        "explanation": "Incorrect. HIT is usually normal in BPPV."
+      },
+      {
+        "text": "Meniere's",
+        "explanation": "Incorrect. Usually normal between attacks."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Positive HIT = Peripheral Lesion.",
+    "pdfPage": 8
+  },
+  {
+    "id": 30,
+    "category": "Pathology: Auditory System",
+    "questionText": "Which anatomy is NOT involved in the vestibular system?",
+    "options": [
+      {
+        "text": "Semicircular Canals",
+        "explanation": "Incorrect. Rotational accel."
+      },
+      {
+        "text": "Utricle and Saccule",
+        "explanation": "Incorrect. Linear accel."
+      },
+      {
+        "text": "Cochlea",
+        "explanation": "Correct. The cochlea is the organ of HEARING. While connected via fluids, it is not part of the vestibular (balance) apparatus directly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vestibular Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Scarpa's Ganglion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Cochlea = Hearing; Vestibule = Balance.",
+    "pdfPage": 5
+  },
+  {
+    "id": 31,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Intratympanic Gentamicin is used in intractable Meniere's disease to:",
+    "options": [
+      {
+        "text": "Treat infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Chemically ablate the vestibular hair cells",
+        "explanation": "Correct. It is a 'Chemical Labyrinthectomy'. It destroys the function of the sick ear to stop the vertigo attacks, sacrificing balance function on that side to stop the spinning."
+      },
+      {
+        "text": "Reduce inflammation",
+        "explanation": "Incorrect. Steroids do that."
+      },
+      {
+        "text": "Increase blood flow",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regenerate nerves",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Chemical ablation with Gentamicin is a last resort for Meniere's.",
+    "pdfPage": 19
+  },
+  {
+    "id": 32,
+    "category": "Pathology: Auditory System",
+    "questionText": "What frequency tuning fork is standard for Weber and Rinne tests?",
+    "options": [
+      {
+        "text": "128 Hz",
+        "explanation": "Incorrect. Vibration."
+      },
+      {
+        "text": "512 Hz",
+        "explanation": "Correct. 512 Hz falls in the speech frequency range and is optimal for distinguishing conductive vs sensorineural loss."
+      },
+      {
+        "text": "1024 Hz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "2048 Hz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "10 Hz",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Use a 512 Hz fork for hearing tests.",
+    "pdfPage": 23
+  },
+  {
+    "id": 33,
+    "category": "Pathology: Vestibular System",
+    "questionText": "The Test of Skew (part of HINTS) checks for:",
+    "options": [
+      {
+        "text": "Vertical misalignment of the eyes",
+        "explanation": "Correct. Vertical skew deviation (one eye higher than the other) is a sensitive sign of brainstem stroke."
+      },
+      {
+        "text": "Horizontal misalignment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blind spots",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Color blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pupil size",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Skew deviation = Brainstem Stroke.",
+    "pdfPage": 8
+  },
+  {
+    "id": 34,
+    "category": "Pathology: Auditory System",
+    "questionText": "A 2-year-old with delayed speech is found to have fluid in both middle ears (Otitis Media with Effusion). What type of hearing loss does this cause?",
+    "options": [
+      {
+        "text": "Sensorineural",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Conductive",
+        "explanation": "Correct. Fluid dampens TM vibration."
+      },
+      {
+        "text": "Permanent",
+        "explanation": "Incorrect. Usually reversible with tubes."
+      },
+      {
+        "text": "Central",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "None",
+        "explanation": "Incorrect. It causes 20-30dB loss."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Middle ear fluid is a common cause of conductive loss and speech delay in kids.",
+    "pdfPage": 21
+  },
+  {
+    "id": 35,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Meclizine works by blocking which receptors?",
+    "options": [
+      {
+        "text": "H1 (Histamine) and M1 (Muscarinic)",
+        "explanation": "Correct. It is an antihistamine with anticholinergic properties, suppressing the vestibular system."
+      },
+      {
+        "text": "Beta-2 adrenergic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GABA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Vestibular suppressants are anticholinergics/antihistamines.",
+    "pdfPage": 13
   }
 ];

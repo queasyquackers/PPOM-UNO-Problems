@@ -1,286 +1,197 @@
 window.Test_L18 = [
   {
     "id": 1,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "A medical student is spinning in a rotating chair to demonstrate vestibular function. When the chair stops spinning abruptly, the student experiences a sensation of spinning in the opposite direction. This post-rotatory nystagmus and vertigo are due to:",
+    "category": "Physiology: Vestibular System",
+    "questionText": "The vestibular system detects both rotational and linear acceleration. Which structure is primarily responsible for detecting angular acceleration (rotation of the head)?",
     "options": [
       {
-        "text": "The otoliths continuing to move due to gravity",
-        "explanation": "Incorrect. Otoliths detect linear acceleration and gravity, not rotation."
+        "text": "Utricle",
+        "explanation": "Incorrect. The utricle detects linear acceleration and head tilt."
       },
       {
-        "text": "Inertia of the endolymph causing it to continue moving in the semicircular canals",
-        "explanation": "Correct. When the head stops rotating, the endolymph continues to move due to inertia, deflecting the cupula in the opposite direction relative to the head stop, causing the sensation of spinning and nystagmus."
+        "text": "Saccule",
+        "explanation": "Incorrect. The saccule detects linear acceleration (primarily vertical)."
       },
       {
-        "text": "Depolarization of the utricle hair cells",
-        "explanation": "Incorrect. The utricle detects linear acceleration."
+        "text": "Semicircular Canals",
+        "explanation": "Correct. The three semicircular canals (horizontal, anterior, posterior) are orthogonal to each other and detect rotational (angular) acceleration via the movement of endolymph against the cupula."
       },
       {
-        "text": "Fatigue of the vestibular nerve",
-        "explanation": "Incorrect. The phenomenon is mechanical (fluid inertia), not neural fatigue."
+        "text": "Cochlea",
+        "explanation": "Incorrect. The cochlea detects sound."
       },
       {
-        "text": "Activation of the stretch reflex in neck muscles",
-        "explanation": "Incorrect. While neck proprioceptors interact with the vestibular system, the primary cause of rotatory vertigo is canal fluid dynamics."
+        "text": "Vestibulocochlear Nerve",
+        "explanation": "Incorrect. This is the nerve that carries the signal, not the detector itself."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Angular rotation is detected by the Semicircular Canals via endolymph inertia acting on the cupula.",
-    "pdfPage": 3
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Semicircular canals detect rotation; Otolith organs (Utricle/Saccule) detect linear acceleration and gravity.",
+    "pdfPage": 5
   },
   {
     "id": 2,
     "category": "Physiology: Vestibular System",
-    "questionText": "The hair cells of the vestibular system have a single large kinocilium and multiple stereocilia. Depolarization of the hair cell occurs when:",
+    "questionText": "When the stereocilia of a vestibular hair cell are deflected TOWARD the kinocilium, the result is:",
     "options": [
       {
-        "text": "Stereocilia bend away from the kinocilium",
-        "explanation": "Incorrect. This closes ion channels and causes hyperpolarization."
+        "text": "Hyperpolarization and decreased firing rate",
+        "explanation": "Incorrect. This occurs when deflected AWAY from the kinocilium."
       },
       {
-        "text": "Stereocilia bend toward the kinocilium",
-        "explanation": "Correct. Deflection of stereocilia toward the kinocilium stretches the tip links, opening mechanically gated K+ channels, leading to K+ influx and depolarization."
+        "text": "Depolarization and increased firing rate",
+        "explanation": "Correct. Deflection toward the kinocilium opens mechanically gated K+ channels, causing K+ influx (from endolymph), depolarization, Ca2+ influx, and increased neurotransmitter release."
       },
       {
-        "text": "The cell is exposed to perilymph",
-        "explanation": "Incorrect. The apical surface is bathed in endolymph (high K+). Perilymph (low K+) would not favor K+ influx."
+        "text": "No change in firing rate",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Calcium channels close",
-        "explanation": "Incorrect. Depolarization opens voltage-gated Ca2+ channels."
+        "text": "Apoptosis of the cell",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The otoconia dissolve",
-        "explanation": "Incorrect. Otoconia (otoliths) provide mass; their dissolution is pathological (or non-existent in this context)."
+        "text": "Release of GABA",
+        "explanation": "Incorrect. Detailed neurotransmitter release increases (usually glutamate)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bending stereocilia TOWARD the Kinocilium causes depolarization; AWAY causes hyperpolarization.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Toward Kinocilium = Depolarization (Excitation). Away = Hyperpolarization (Inhibition).",
+    "pdfPage": 9
   },
   {
     "id": 3,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "A 65-year-old female presents with brief episodes of severe vertigo precipitated by rolling over in bed or looking up. The Dix-Hallpike maneuver elicits rotatory nystagmus. The most likely cause is:",
+    "category": "Pathology: Vestibular System",
+    "questionText": "Benign Paroxysmal Positional Vertigo (BPPV) is most commonly caused by otoconia dislodging and entering which structure?",
     "options": [
       {
-        "text": "Meniere's Disease",
-        "explanation": "Incorrect. Meniere's presents with spontaneous vertigo (lasting minutes to hours), hearing loss, and tinnitus."
+        "text": "Utricle",
+        "explanation": "Incorrect. Otoconia normally reside here."
       },
       {
-        "text": "Vestibular Neuritis",
-        "explanation": "Incorrect. This causes continuous vertigo for days, not brief positional episodes."
+        "text": "Posterior Semicircular Canal",
+        "explanation": "Correct. Due to gravity, dislodged otoconia most often fall into the Posterior Semicircular Canal (canalithiasis), causing brief episodes of vertigo triggered by head position changes."
       },
       {
-        "text": "Benign Paroxysmal Positional Vertigo (BPPV)",
-        "explanation": "Correct. BPPV is caused by displaced otoconia (otoliths) from the utricle falling into a semicircular canal (usually the posterior). Head movement causes these stones to move fluid, creating false vertigo signals."
+        "text": "Horizontal Semicircular Canal",
+        "explanation": "Incorrect. Less common."
       },
       {
-        "text": "Acoustic Neuroma",
-        "explanation": "Incorrect. This is a slow-growing tumor causing progressive hearing loss and disequilibrium."
+        "text": "Anterior Semicircular Canal",
+        "explanation": "Incorrect. Rare."
       },
       {
-        "text": "Stroke",
-        "explanation": "Incorrect. Central vertigo usually presents with other neurological signs and non-fatigable nystagmus."
+        "text": "Cochlear Duct",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: BPPV presents with brief, position-dependent vertigo caused by otoliths (canalithiasis) in the semicircular canals.",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Posterior canal BPPV is the most common form, treated with the Epley maneuver.",
+    "pdfPage": 29
   },
   {
     "id": 4,
     "category": "Neuroanatomy: Vestibular System",
-    "questionText": "Which vestibular organ is primarily responsible for detecting linear acceleration in the vertical plane (e.g., riding inside an elevator)?",
+    "questionText": "The Vestibulo-Ocular Reflex (VOR) relies on the connection between the vestibular nuclei and the oculomotor nuclei. Which fiber tract carries these signals?",
     "options": [
       {
-        "text": "Utricle",
-        "explanation": "Incorrect. The Utricle primarily detects linear acceleration in the horizontal plane (e.g., car accelerating)."
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect. Sensory (touch/proprioception)."
       },
       {
-        "text": "Saccule",
-        "explanation": "Correct. The Saccule's macula is oriented vertically and detects linear acceleration in the vertical plane (gravity, elevator)."
+        "text": "Lateral Lemniscus",
+        "explanation": "Incorrect. Auditory."
       },
       {
-        "text": "Horizontal Semicircular Canal",
-        "explanation": "Incorrect. Detects angular rotation (yaw)."
+        "text": "Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Correct. The MLF connects the vestibular nuclei to the nuclei of CN III, IV, and VI, enabling coordinated eye movements like the VOR."
       },
       {
-        "text": "Posterior Semicircular Canal",
-        "explanation": "Incorrect. Detects angular rotation (roll)."
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect. Motor."
       },
       {
-        "text": "Cochlea",
-        "explanation": "Incorrect. Detects sound."
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect. Pain/Temp."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Saccule detects vertical linear acceleration; the Utricle detects horizontal linear acceleration.",
-    "pdfPage": 7
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The MLF is critical for conjugate eye movements and the VOR.",
+    "pdfPage": 16
   },
   {
     "id": 5,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "During caloric testing, warm water is irrigated into the Right ear of a comatose patient with an intact brainstem. What represents the normal VOR response (slow phase)?",
+    "category": "Physiology: Vestibular System",
+    "questionText": "Meniere's Disease is characterized by a specific triad of symptoms. Which of the following is NOT part of the classic triad?",
     "options": [
       {
-        "text": "Eyes deviate to the Right",
-        "explanation": "Incorrect. Warm water mimics head turn to the SAME side (Right). The VOR moves eyes OPPOSITE (Left). (Note: COWS refers to the FAST phase/nystagmus)."
+        "text": "Episodic Vertigo",
+        "explanation": "Incorrect. This IS part of the triad."
       },
       {
-        "text": "Eyes deviate to the Left",
-        "explanation": "Correct. Warm water stimulates the Right horizontal canal (mimicking a Right head turn). The Vestibulo-Ocular Reflex (VOR) moves the eyes smoothly to the LEFT to maintain gaze. (In a conscious patient, the corrective fast phase/nystagmus would be to the Right - Warm Same)."
+        "text": "Sensorineural Hearing Loss (fluctuating)",
+        "explanation": "Incorrect. This IS part of the triad."
       },
       {
-        "text": "Eyes deviate Upward",
-        "explanation": "Incorrect."
+        "text": "Tinnitus (roaring)",
+        "explanation": "Incorrect. This IS part of the triad."
       },
       {
-        "text": "Eyes deviate Downward",
-        "explanation": "Incorrect."
+        "text": "Aural Fullness",
+        "explanation": "Incorrect. Often associated, sometimes considered a 4th symptom (tetrad)."
       },
       {
-        "text": "No eye movement",
-        "explanation": "Incorrect. Indicates brainstem damage."
+        "text": "Visual Hallucinations",
+        "explanation": "Correct. Visual hallucinations are not associated with Meniere's. The classic triad is Vertigo, Hearing Loss, and Tinnitus.",
+        "isCorrect": true
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: In Caloric testing, Warm water mimics excitement of that side (head turn to that side). The VOR moves eyes to the OPPOSITE side (Slow phase). COWS (Cold Opposite Warm Same) refers to the FAST phase (Nystagmus).",
-    "pdfPage": 39
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Key takeaway: Meniere's Triad: Vertigo, Hearing Loss, Tinnitus (often + Aural Fullness). Caused by Endolymphatic Hydrops.",
+    "pdfPage": 30
   },
   {
     "id": 6,
     "category": "Neuroanatomy: Vestibular System",
-    "questionText": "The Medial Longitudinal Fasciculus (MLF) is crucial for coordinating eye movements. In the Vestibulo-Ocular Reflex (VOR), fibers from the vestibular nuclei travel via the MLF to activate which cranial nerve nucleus to abduct the contralateral eye?",
+    "questionText": "The Lateral Vestibulospinal Tract (LVST) originates in the lateral vestibular nucleus and is primarily involved in:",
     "options": [
       {
-        "text": "Oculomotor Nucleus (CN III)",
-        "explanation": "Incorrect. The VOR pathway activates the CONTRALATERAL Abducens (VI) to abduct that eye, and the IPSILATERAL Oculomotor (III) via the MLF to adduct the other eye. But the specific question asks about abduction."
-      },
-      {
-        "text": "Trochlear Nucleus (CN IV)",
+        "text": "Controlling eye movements",
         "explanation": "Incorrect."
       },
       {
-        "text": "Abducens Nucleus (CN VI)",
-        "explanation": "Correct. The vestibular nuclei project to the contralateral Abducens nucleus (CN VI), which innervates the Lateral Rectus to abduct the eye. (Note: CN VI also sends interneurons via MLF to the contralateral CN III for adduction of the other eye, enforcing conjugate gaze)."
+        "text": "Stabilizing the head and neck",
+        "explanation": "Incorrect. Primarily Medial VST."
       },
       {
-        "text": "Facial Nucleus (CN VII)",
+        "text": "Maintaining upright posture (extensor tone)",
+        "explanation": "Correct. The LVST projects to ipsilateral anti-gravity (extensor) muscles in the legs and trunk to maintain balance and upright posture."
+      },
+      {
+        "text": "Fine motor control of hands",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hypoglossal Nucleus (CN XII)",
+        "text": "Conscious perception of balance",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The VOR coordinates conjugate eye movements via the MLF connecting CN III, IV, and VI nuclei.",
+    "clinicalPearl": "Key takeaway: LVST = Legs/Posture (Extensor tone). MVST = Neck/Head stability.",
     "pdfPage": 16
   },
   {
     "id": 7,
-    "category": "Pathology: Vestibular System",
-    "questionText": "A patient presents with the triad of episodic vertigo, tinnitus (ringing), and sensorineural hearing loss. They describe a sensation of 'fullness' in the ear. The most likely pathophysiology is:",
-    "options": [
-      {
-        "text": "Dislodged otoconia",
-        "explanation": "Incorrect. This causes BPPV (vertigo only, no hearing loss)."
-      },
-      {
-        "text": "Viral inflammation of the vestibular nerve",
-        "explanation": "Incorrect. This causes Vestibular Neuritis (vertigo only)."
-      },
-      {
-        "text": "Endolymphatic Hydrops (Meniere's Disease)",
-        "explanation": "Correct. Meniere's disease is caused by excessive accumulation of endolymph (hydrops), leading to increased pressure that distorts the membranous labyrinth, affecting both cochlear (hearing/tinnitus) and vestibular (vertigo) function."
-      },
-      {
-        "text": "Demyelination of the MLF",
-        "explanation": "Incorrect. This causes Internuclear Ophthalmoplegia (INO), seen in MS."
-      },
-      {
-        "text": "Schwannoma on CN VIII",
-        "explanation": "Incorrect. Presents with progressive, not typically episodic, symptoms."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Meniere's Disease (Endolymphatic Hydrops) presents with the triad: Vertigo, Tinnitus, and Hearing Loss.",
-    "pdfPage": 29
-  },
-  {
-    "id": 8,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "Which descending tract originates from the Lateral Vestibular Nucleus and plays a major role in maintaining upright posture by activating anti-gravity extensor muscles?",
-    "options": [
-      {
-        "text": "Medial Vestibulospinal Tract",
-        "explanation": "Incorrect. The MVST projects bilaterally to the cervical spinal cord to control head and neck position."
-      },
-      {
-        "text": "Lateral Vestibulospinal Tract",
-        "explanation": "Correct. The Lateral Vestibulospinal Tract projects ipsilaterally down the entire spinal cord to facilitate extensor (anti-gravity) muscles in the legs and trunk, maintaining upright balance."
-      },
-      {
-        "text": "Rubrospinal Tract",
-        "explanation": "Incorrect. Involved in flexor tone of upper extremities."
-      },
-      {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect. Voluntary motor control."
-      },
-      {
-        "text": "Tectospinal Tract",
-        "explanation": "Incorrect. Head orientation to visual/auditory stimuli."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Lateral Vestibulospinal Tract controls antigravity extensor muscles for posture; the Medial Vestibulospinal Tract controls head/neck position.",
-    "pdfPage": 16
-  },
-  {
-    "id": 9,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "The gelatinous structure within the ampulla of the semicircular canals that encases the hair cell stereocilia is called the:",
-    "options": [
-      {
-        "text": "Otoconia",
-        "explanation": "Incorrect. These are crystals in the macula."
-      },
-      {
-        "text": "Macula",
-        "explanation": "Incorrect. This is the sensory organ of the otoliths."
-      },
-      {
-        "text": "Cupula",
-        "explanation": "Correct. The Cupula is the gelatinous sail-like structure in the ampulla that is deflected by endolymph flow."
-      },
-      {
-        "text": "Tectorial membrane",
-        "explanation": "Incorrect. Found in the Cochlea."
-      },
-      {
-        "text": "Basilar membrane",
-        "explanation": "Incorrect. Found in the Cochlea."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The Cupula detects fluid motion in the semicircular canals.",
-    "pdfPage": 14
-  },
-  {
-    "id": 10,
     "category": "Physiology: Vestibular System",
-    "questionText": "A patient has a lesion of the Right Vestibular Nerve. In the dark (without visual fixation), which way will their nystagmus fast phase beat?",
+    "questionText": "Caloric testing uses water irrigation to assess vestibular function. In a normal patient, warm water irrigation of the RIGHT ear causes nystagmus with the fast phase beating towards:",
     "options": [
       {
-        "text": "To the Right (Lesion side)",
-        "explanation": "Incorrect."
+        "text": "The Right",
+        "explanation": "Correct. Remember the mnemonic COWS (Cold Opposite, Warm Same). Warm water in the Right ear mimics head turn to the Right, causing Right-beating nystagmus."
       },
       {
-        "text": "To the Left (Healthy side)",
-        "explanation": "Correct. The brain interprets the lack of firing from the Right ear as a head turn to the LEFT. The VOR moves eyes slowly to the Right. The corrective FAST phase (nystagmus) beats to the LEFT (Healthy side)."
+        "text": "The Left",
+        "explanation": "Incorrect. Cold water in the Right ear would cause Left-beating nystagmus (Opposite)."
       },
       {
         "text": "Upward",
@@ -292,161 +203,852 @@ window.Test_L18 = [
       },
       {
         "text": "No nystagmus",
-        "explanation": "Incorrect. Acute vestibular asymmetry causes nystagmus."
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: COWS: Cold Opposite, Warm Same (named for the Fast Phase).",
+    "pdfPage": 24
+  },
+  {
+    "id": 8,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Describe the physiological basis of motion sickness.",
+    "options": [
+      {
+        "text": "Overstimulation of the cochlea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory Mismatch/Conflict",
+        "explanation": "Correct. Motion sickness arises when there is a conflict between visual/proprioceptive inputs and vestibular inputs (e.g., reading in a car: eyes say 'stationary', vestibular says 'moving')."
+      },
+      {
+        "text": "Low intracranial pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Damage to the MLF",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Excessive endolymph production",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Peripheral vestibular nystagmus beats AWAY from the lesion (toward the active/healthy side).",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Motion sickness is caused by a sensory mismatch (visual vs. vestibular).",
+    "pdfPage": 2
   },
   {
-    "id": 11,
+    "id": 9,
     "category": "Neuroanatomy: Vestibular System",
-    "questionText": "The vestibular nuclei project to the cerebellum to coordinate balance. Which part of the cerebellum is known as the 'Vestibulocerebellum'?",
+    "questionText": "Which structure produces the endolymph in the vestibular labyrinth?",
     "options": [
       {
-        "text": "Vermis",
-        "explanation": "Incorrect. Associated with spinocerebellum (trunk)."
+        "text": "Spiral Ganglion",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Paravermis",
-        "explanation": "Incorrect. Associated with spinocerebellum (limbs)."
+        "text": "Dark Cells",
+        "explanation": "Correct. In the vestibular system, Dark Cells (analogous to the Stria Vascularis in the cochlea) produce endolymph and maintain its high K+ concentration."
       },
       {
-        "text": "Flocculonodular Lobe",
-        "explanation": "Correct. The Flocculonodular lobe receives direct input from the vestibular nerve/nuclei and is essential for maintaining equilibrium and coordinating eye movements."
+        "text": "Hair Cells",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Lateral Hemispheres",
-        "explanation": "Incorrect. Associated with cerebrocerebellum (motor planning)."
+        "text": "Support Cells",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Dentate Nucleus",
-        "explanation": "Incorrect. Output of lateral hemispheres."
+        "text": "Scarpa's Ganglion",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The Flocculonodular Lobe is the Vestibulocerebellum.",
-    "pdfPage": 35
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dark cells produce vestibular endolymph.",
+    "pdfPage": 5
+  },
+  {
+    "id": 10,
+    "category": "Pathology: Vestibular System",
+    "questionText": "A patient with a classic 'Wallenberg Syndrome' (Lateral Medullary Syndrome) presents with vertigo and nystagmus. This stroke typically involves occlusion of which artery?",
+    "options": [
+      {
+        "text": "Anterior Cerebral Artery (ACA)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Inferior Cerebellar Artery (PICA)",
+        "explanation": "Correct. PICA supplies the lateral medulla, including the vestibular nuclei. Occlusion causes Wallenberg syndrome (vertigo, ataxia, Horner's, etc.)."
+      },
+      {
+        "text": "Middle Cerebral Artery (MCA)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Inferior Cerebellar Artery (AICA)",
+        "explanation": "Incorrect. AICA syndrome (Lateral Pontine) also causes vertigo but typically with hearing loss (labyrinthine artery)."
+      },
+      {
+        "text": "Ophthalmic Artery",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Wallenberg Syndrome (PICA infarct) affects the vestibular nuclei, causing vertigo.",
+    "pdfPage": 34
+  },
+    {
+    "id": 11,
+    "category": "Physiology: Vestibular System",
+    "questionText": "The otolith organs (Utricle and Saccule) contain calcium carbonate crystals that add mass to the otolithic membrane, making it sensitive to gravity. These crystals are called:",
+    "options": [
+      {
+        "text": "Kinocilia",
+        "explanation": "Incorrect. These are the large hair bundles."
+      },
+      {
+        "text": "Otoconia (Otoliths)",
+        "explanation": "Correct. Otoconia (or otoliths) are the calcium carbonate crystals."
+      },
+      {
+        "text": "Ampullae",
+        "explanation": "Incorrect. Structural swelling of canals."
+      },
+      {
+        "text": "Cupulae",
+        "explanation": "Incorrect. The gelatinous cap in the canals (no crystals)."
+      },
+      {
+        "text": "Maculae",
+        "explanation": "Incorrect. The sensory epithelium itself."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Otoconia provide the inertia for the otolith organs to detect gravity and linear acceleration.",
+    "pdfPage": 5
   },
   {
     "id": 12,
-    "category": "Neuroanatomy: Vestibular System",
-    "questionText": "Which antibiotic class is well-known for its ototoxicity, potentially damaging cochlear and vestibular hair cells?",
+    "category": "Pathology: Vestibular System",
+    "questionText": "A patient complains that 'the room spins' whenever they roll over in bed to the right side. The episodes last less than a minute. What is the gold standard maneuver to diagnose this condition?",
     "options": [
       {
-        "text": "Penicillins",
-        "explanation": "Incorrect."
+        "text": "Romberg Test",
+        "explanation": "Incorrect. Tests static balance/proprioception."
       },
       {
-        "text": "Aminoglycosides (e.g., Gentamicin)",
-        "explanation": "Correct. Aminoglycosides can concentrate in the endolymph and are toxic to hair cells, causing permanent sensorineural hearing loss and vestibular dysfunction (oscillopsia)."
+        "text": "Dix-Hallpike Maneuver",
+        "explanation": "Correct. The Dix-Hallpike maneuver is used to diagnose Posterior Canal BPPV by attempting to provoke the nystagmus/vertigo."
       },
       {
-        "text": "Macrolides",
-        "explanation": "Incorrect. Can cause reversible hearing loss but less common."
+        "text": "HINTS Exam",
+        "explanation": "Incorrect. Used to differentiate stroke vs neuritis in acute continuous vertigo."
       },
       {
-        "text": "Fluoroquinolones",
-        "explanation": "Incorrect."
+        "text": "Weber Test",
+        "explanation": "Incorrect. Hearing test."
       },
       {
-        "text": "Tetracyclines",
-        "explanation": "Incorrect. Associated with tooth discoloration/bone growth issues in children."
+        "text": "Epley Maneuver",
+        "explanation": "Incorrect. This is the TREATMENT, not the diagnostic test."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Aminoglycosides are ototoxic and can damage vestibular hair cells.",
-    "pdfPage": 2
+    "clinicalPearl": "Key takeaway: Dix-Hallpike diagnoses BPPV; Epley treats it.",
+    "pdfPage": 29
   },
   {
     "id": 13,
     "category": "Neuroanatomy: Vestibular System",
-    "questionText": "The crystals found in the macula of the utricle and saccule are composed of:",
+    "questionText": "Which part of the cerebellum receives direct input from the vestibular nerve and nuclei (the 'Vestibulocerebellum')?",
     "options": [
       {
-        "text": "Sodium chloride",
+        "text": "Flocculonodular Lobe",
+        "explanation": "Correct. The Flocculonodular lobe (and vermis) constitutes the Vestibulocerebellum, regulating balance and eye movements."
+      },
+      {
+        "text": "Anterior Lobe",
+        "explanation": "Incorrect. Spinocerebellum."
+      },
+      {
+        "text": "Lateral Hemispheres",
+        "explanation": "Incorrect. Cerebrocerebellum (planning)."
+      },
+      {
+        "text": "Dentate Nucleus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Calcium phosphate",
-        "explanation": "Incorrect. Bone mineral."
-      },
-      {
-        "text": "Calcium carbonate (Calcite)",
-        "explanation": "Correct. Otoconia (otoliths) are calcium carbonate crystals."
-      },
-      {
-        "text": "Uric acid",
-        "explanation": "Incorrect. Gout."
-      },
-      {
-        "text": "Cholesterol",
+        "text": "Cerebral Peduncles",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Otoliths are made of Calcium Carbonate.",
-    "pdfPage": 6
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: The Flocculonodular lobe is the Vestibulocerebellum.",
+    "pdfPage": 17
   },
   {
     "id": 14,
     "category": "Physiology: Vestibular System",
-    "questionText": "A patient with a vestibular lesion complains of 'oscillopsia'. What does this term describe?",
+    "questionText": "During a rapid head turn to the left, the Vestibulo-Ocular Reflex (VOR) moves the eyes to the right. Ideally, the velocity of the eye movement matches the velocity of the head movement. This ratio is called the:",
     "options": [
       {
-        "text": "Ringing in the ears",
-        "explanation": "Incorrect. This is Tinnitus."
-      },
-      {
-        "text": "Inability to localize sound",
+        "text": "Saccadic Interval",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual blurring with head movement",
-        "explanation": "Correct. Oscillopsia is the illusion that the environment is moving when the patient moves their head, due to failure of the Vestibulo-Ocular Reflex (VOR) to stabilize gaze."
+        "text": "VOR Gain",
+        "explanation": "Correct. VOR Gain is the ratio of Eye Velocity / Head Velocity. Ideally, it is -1 (equal and opposite). A low gain suggests vestibular hypofunction (oscillopsia)."
       },
       {
-        "text": "Double vision",
-        "explanation": "Incorrect. This is Diplopia."
+        "text": "Nystagmus Frequency",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Loss of color vision",
-        "explanation": "Incorrect. This is Achromatopsia."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Oscillopsia is the visual blurring during head movement caused by VOR failure.",
-    "pdfPage": 15
-  },
-  {
-    "id": 15,
-    "category": "Physiology: Vestibular System",
-    "questionText": "The Romberg test is positive when a patient:",
-    "options": [
-      {
-        "text": "Falls with eyes open",
-        "explanation": "Incorrect. This suggests cerebellar ataxia."
+        "text": "Accommodation Index",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Falls only with eyes closed",
-        "explanation": "Correct. A positive Romberg sign indicates sensory ataxia (loss of proprioception or vestibular function). With eyes open, vision compensates. With eyes closed, the loss of the other senses causes instability."
-      },
-      {
-        "text": "Cannot touch their nose with their finger",
-        "explanation": "Incorrect. Dysmetria (cerebellar)."
-      },
-      {
-        "text": "Has nystagmus",
-        "explanation": "Incorrect. Nystagmus is a separate sign."
-      },
-      {
-        "text": "Cannot hear the tuning fork",
-        "explanation": "Incorrect. Auditory test."
+        "text": "Damping Factor",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: A positive Romberg (sway with eyes closed) indicates a sensory (proprioceptive or vestibular) deficit, not cerebellar.",
+    "clinicalPearl": "Key takeaway: VOR Gain should be 1 (eyes move at same speed as head, opposite direction).",
+    "pdfPage": 16
+  },
+  {
+    "id": 15,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "A 40-year-old female presents with unsteadiness. She sways when standing with her feet together and eyes closed, but is stable with eyes open. This is a positive:",
+    "options": [
+      {
+        "text": "Babinski Sign",
+        "explanation": "Incorrect. UMN lesion."
+      },
+      {
+        "text": "Romberg Test",
+        "explanation": "Correct. A positive Romberg sign (sway with eyes closed) indicates a deficit in Proprioception or Vestibular function (Sensory Ataxia). Vision compensates when eyes are open. (Cerebellar ataxia causes sway with eyes open OR closed)."
+      },
+      {
+        "text": "Lhermitte's Sign",
+        "explanation": "Incorrect. Electric shock sensation."
+      },
+      {
+        "text": "Hoffman's Sign",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Kernig's Sign",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: A positive Romberg test (loss of balance with eyes closed) indicates sensory ataxia (vestibular or proprioceptive dysfunction).",
     "pdfPage": 3
+  },
+  {
+    "id": 16,
+    "category": "Physiology: Vestibular System",
+    "questionText": "During the VOR, if the head turns to the Left, the Left Horizontal Canal is excited. Which muscles are contracted to move the eyes to the Right?",
+    "options": [
+      {
+        "text": "Left Lateral Rectus, Right Medial Rectus",
+        "explanation": "Incorrect. Moves eyes Left."
+      },
+      {
+        "text": "Right Lateral Rectus, Left Medial Rectus",
+        "explanation": "Correct. To look Right (compensating for Left head turn), the Right Lateral Rectus (CN VI) and Left Medial Rectus (CN III) must contract."
+      },
+      {
+        "text": "Both Medial Recti",
+        "explanation": "Incorrect. Convergence."
+      },
+      {
+        "text": "Both Lateral Recti",
+        "explanation": "Incorrect. Divergence."
+      },
+      {
+        "text": "Superior Recti",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: VOR activates Contralateral Lateral Rectus and Ipsilateral Medial Rectus.",
+    "pdfPage": 16
+  },
+  {
+    "id": 17,
+    "category": "Physiology: Vestibular System",
+    "questionText": "Nystagmus is usually described by the direction of its fast phase. The slow phase represents:",
+    "options": [
+      {
+        "text": "The corrective saccade",
+        "explanation": "Incorrect. That is the fast phase."
+      },
+      {
+        "text": "The vestibular component (VOR)",
+        "explanation": "Correct. The slow phase is the direct VOR output attempting to keep the eyes on target. The fast phase is the CNS resetting the eye position."
+      },
+      {
+        "text": "Voluntary tracking",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fatigue",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar inhibition",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Slow phase = VOR (Pathological component); Fast phase = Saccade (Naming convention).",
+    "pdfPage": 3
+  },
+  {
+    "id": 18,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "The Medial Vestibulospinal Tract (MVST) projects to the cervical spinal cord. Its primary function is:",
+    "options": [
+      {
+        "text": "Control of leg muscles",
+        "explanation": "Incorrect. LVST."
+      },
+      {
+        "text": "Stabilization of Head and Neck position",
+        "explanation": "Correct. The MVST controls neck muscles to stabilize the head in space during movement (Vestibulo-Collic Reflex)."
+      },
+      {
+        "text": "Eye movements",
+        "explanation": "Incorrect. MLF."
+      },
+      {
+        "text": "Autonomic functions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing modulation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: MVST = Head/Neck stability.",
+    "pdfPage": 16
+  },
+  {
+    "id": 19,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "The Labyrinthine Artery, which supplies the inner ear, typically branches from the:",
+    "options": [
+      {
+        "text": "Basilar Artery directly",
+        "explanation": "Incorrect. Possible but less common."
+      },
+      {
+        "text": "Anterior Inferior Cerebellar Artery (AICA)",
+        "explanation": "Correct. In most people (85%), the Labyrinthine artery branches from AICA. Occlusion of AICA therefore causes hearing loss and vertigo."
+      },
+      {
+        "text": "Posterior Inferior Cerebellar Artery (PICA)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Superior Cerebellar Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Internal Carotid Artery",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: AICA supplies the Labyrinthine artery -> Inner Ear.",
+    "pdfPage": 29
+  },
+  {
+    "id": 20,
+    "category": "Physiology: Vestibular System",
+    "questionText": "In the horizontal semicircular canals, ampullopetal flow (towards the ampulla/utricle) is excitatory. In the vertical canals (Anterior/Posterior), ampullopetal flow is:",
+    "options": [
+      {
+        "text": "Excitatory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibitory",
+        "explanation": "Correct. The hair cell orientation is reversed in the vertical canals compared to the horizontal ones. In vertical canals, flow AWAY from the ampulla (ampullofugal) is excitatory.",
+        "isCorrect": true
+      },
+      {
+        "text": "Neutral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Variable",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dependent on sound",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Horizontal: Toward = Excitatory. Vertical: Away = Excitatory.",
+    "pdfPage": 11
+  },
+  {
+    "id": 21,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "The Strioloa divides the hair cells in the maculae. In the Utricle, hair cells are oriented:",
+    "options": [
+      {
+        "text": "Toward the Striola",
+        "explanation": "Correct. In the Utricle, kinocilia face TOWARD the striola."
+      },
+      {
+        "text": "Away from the Striola",
+        "explanation": "Incorrect. This is the Saccule."
+      },
+      {
+        "text": "Randomly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parallel to the Striola",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In a spiral",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Utricle = Toward Striola. Saccule = Away from Striola.",
+    "pdfPage": 9
+  },
+  {
+    "id": 22,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Vestibular Neuritis can be distinguished from Labyrinthitis by:",
+    "options": [
+      {
+        "text": "Duration of vertigo",
+        "explanation": "Incorrect. Both can be continuous/acute."
+      },
+      {
+        "text": "Presence of Hearing Loss",
+        "explanation": "Correct. Neuritis affects only the vestibular nerve (vertigo only). Labyrinthitis affects the entire labyrinth (vertigo + hearing loss)."
+      },
+      {
+        "text": "Presence of Nystagmus",
+        "explanation": "Incorrect. Both have nystagmus."
+      },
+      {
+        "text": "Nausea",
+        "explanation": "Incorrect. Both have nausea."
+      },
+      {
+        "text": "Response to steroids",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neuritis = Vertigo only. Labyrinthitis = Vertigo + Hearing Loss.",
+    "pdfPage": 29
+  },
+  {
+    "id": 23,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Oscillopsia (bouncing vision while walking) is a hallmark sign of:",
+    "options": [
+      {
+        "text": "Unilateral Vestibular Loss",
+        "explanation": "Incorrect. Usually compensated well."
+      },
+      {
+        "text": "Bilateral Vestibular Hypofunction/Loss",
+        "explanation": "Correct. If both VORs fail (e.g., Gentamicin toxicity), the eyes cannot stabilize during head movement, causing the world to appear to jump or bounce (Oscillopsia) with every step."
+      },
+      {
+        "text": "BPPV",
+        "explanation": "Incorrect. Episodic vertigo."
+      },
+      {
+        "text": "Meniere's",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Migraine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bilateral VOR loss causes Oscillopsia.",
+    "pdfPage": 32
+  },
+  {
+    "id": 24,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "Lesions of the cerebellar vermis (e.g. alcohol damage) typically result in:",
+    "options": [
+      {
+        "text": "Limb Ataxia",
+        "explanation": "Incorrect. Lateral hemispheres."
+      },
+      {
+        "text": "Truncal Ataxia (Gait Ataxia)",
+        "explanation": "Correct. The vermis controls the trunk. Damage causes a wide-based, unsteady gait."
+      },
+      {
+        "text": "Intention Tremor",
+        "explanation": "Incorrect. Lateral/Dentate."
+      },
+      {
+        "text": "Dysdiadochokinesia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aphasia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vermis lesions = Truncal Ataxia.",
+    "pdfPage": 35
+  },
+  {
+    "id": 25,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "Vestibular information reaches the cortex via the thalamus. The primary cortical area for vestibular sensation (Parieto-Insular Vestibular Cortex - PIVC) is located in the:",
+    "options": [
+      {
+        "text": "Frontal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal/Insular/Temporal junction",
+        "explanation": "Correct. The PIVC is located at the junction of the posterior parietal and insular cortex."
+      },
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cingulate Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brainstem",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The PIVC is the primary vestibular cortex.",
+    "pdfPage": 17
+  },
+  {
+    "id": 26,
+    "category": "Physiology: Vestibular System",
+    "questionText": "Internuclear Ophthalmoplegia (INO) presents with an inability to adduct the ipsilateral eye on lateral gaze. This is caused by a lesion of the:",
+    "options": [
+      {
+        "text": "Oculomotor Nerve",
+        "explanation": "Incorrect. Would affect other muscles too."
+      },
+      {
+        "text": "Abducens Nerve",
+        "explanation": "Incorrect. Cannot abduct."
+      },
+      {
+        "text": "Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Correct. The MLF carries the signal from the Abducens nucleus to the contralateral Oculomotor nucleus (Medial Rectus subnucleus). A lesion blocks the signal to adduct, causing INO (often seen in MS)."
+      },
+      {
+        "text": "Optic Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular Nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: INO = MLF lesion (Adduction lag + Contralateral Nystagmus).",
+    "pdfPage": 36
+  },
+  {
+    "id": 27,
+    "category": "Pathology: Vestibular System",
+    "questionText": "An Acoustic Neuroma (Vestibular Schwannoma) typically grows in the Cerebellopontine Angle. Which two cranial nerves are most commonly compressed first?",
+    "options": [
+      {
+        "text": "CN V and VI",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII and VIII",
+        "explanation": "Correct. Both run through the Internal Auditory Canal. Compression causes hearing loss/vertigo (VIII) and facial weakness (VII)."
+      },
+      {
+        "text": "CN IX and X",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN III and IV",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN XI and XII",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Acoustic Neuromas affect CN VIII (Hearing/Balance) and CN VII (Face).",
+    "pdfPage": 35
+  },
+  {
+    "id": 28,
+    "category": "Physiology: Vestibular System",
+    "questionText": "Canalithiasis describes the mechanism of BPPV where:",
+    "options": [
+      {
+        "text": "Otoconia are stuck to the cupula",
+        "explanation": "Incorrect. This is Cupulolithiasis."
+      },
+      {
+        "text": "Otoconia are free-floating in the canal",
+        "explanation": "Correct. Canalithiasis means the debris is free-floating in the endolymph loops, creating a drag/plunger effect that causes delayed, transient vertigo."
+      },
+      {
+        "text": "Endolymph pressure is high",
+        "explanation": "Incorrect. Hydrops."
+      },
+      {
+        "text": "Fistula is present",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nerve is inflamed",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Canalithiasis = Free floating debris (Latency, Fatigue). Cupulolithiasis = Adherent (Immediate, Persistent).",
+    "pdfPage": 29
+  },
+  {
+    "id": 29,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "The primary blood supply to the lateral medulla (and vestibular nuclei) is the PICA. Where does the PICA originate from?",
+    "options": [
+      {
+        "text": "Basilar Artery",
+        "explanation": "Incorrect. AICA/SCA/PCA come from Basilar."
+      },
+      {
+        "text": "Vertebral Artery",
+        "explanation": "Correct. PICA branches off the Vertebral Artery just before it joins to form the Basilar."
+      },
+      {
+        "text": "Internal Carotid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "External Carotid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Circle of Willis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PICA comes from the Vertebral Artery.",
+    "pdfPage": 34
+  },
+  {
+    "id": 30,
+    "category": "Physiology: Vestibular System",
+    "questionText": "A patient with acute right-sided vestibular loss will have nystagmus beating to the:",
+    "options": [
+      {
+        "text": "Right (Lesioned side)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left (Healthy side)",
+        "explanation": "Correct. The brain interprets the lack of firing on the Right as a head turn to the Left (Push-Pull imbalance). Eyes drift Right (slow phase), and snap back Left (Fast Phase). Hence, Left-beating nystagmus."
+      },
+      {
+        "text": "Up",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Down",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rotatory only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Nystagmus beats AWAY from the lesion (towards the active/healthy side).",
+    "pdfPage": 11
+  },
+  {
+    "id": 31,
+    "category": "Physiology: Vestibular System",
+    "questionText": "Which neurotransmitter is primarily released by vestibular hair cells?",
+    "options": [
+      {
+        "text": "GABA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glutamate",
+        "explanation": "Correct. Glutamate is the primary excitatory neurotransmitter between hair cells and afferent nerve fibers."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. Used in efferent modulation."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glutamate is the hair cell neurotransmitter.",
+    "pdfPage": 9
+  },
+  {
+    "id": 32,
+    "category": "Pathology: Vestibular System",
+    "questionText": "Why does alcohol cause positional vertigo (the 'spins')?",
+    "options": [
+      {
+        "text": "Alcohol acts as an ototoxin destroying hair cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alcohol changes the density (specific gravity) of the cupula relative to endolymph",
+        "explanation": "Correct. Alcohol diffuses into the cupula making it lighter than endolymph (buoyant), so the cupula floats/deflects with gravity even without rotation, causing nystagmus."
+      },
+      {
+        "text": "Alcohol suppresses cerebellar function only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alcohol increases endolymph pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alcohol dilates the labyrinthine artery",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alcohol-induced vertigo is due to cupula buoyancy.",
+    "pdfPage": 2
+  },
+  {
+    "id": 33,
+    "category": "Pathology: Vestibular System",
+    "questionText": "A perilymphatic fistula (leak of perilymph) can cause vertigo triggered by loud sounds. This sign is called:",
+    "options": [
+      {
+        "text": "Romberg Sign",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tullio Phenomenon",
+        "explanation": "Correct. The Tullio phenomenon is sound-induced vertigo/nystagmus, classic for superior canal dehiscence or perilymphatic fistula."
+      },
+      {
+        "text": "Hennebert's Sign",
+        "explanation": "Incorrect. Pressure-induced vertigo (can coexist)."
+      },
+      {
+        "text": "Lhermitte's Sign",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brudzinski's Sign",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tullio Phenomenon = Sound-induced vertigo.",
+    "pdfPage": 30
+  },
+  {
+    "id": 34,
+    "category": "Neuroanatomy: Vestibular System",
+    "questionText": "Which vestibular nucleus is the primary recipient of input from the semicircular canals?",
+    "options": [
+      {
+        "text": "Lateral",
+        "explanation": "Incorrect. Otoliths/Utricle."
+      },
+      {
+        "text": "Superior and Medial",
+        "explanation": "Correct. The Superior and Medial vestibular nuclei primarily receive canal inputs and project to the MLF (VOR)."
+      },
+      {
+        "text": "Inferior (Descending)",
+        "explanation": "Incorrect. Integration."
+      },
+      {
+        "text": "Anterior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Superior/Medial Nuclei -> VOR (Canals).",
+    "pdfPage": 11
+  },
+  {
+    "id": 35,
+    "category": "Physiology: Vestibular System",
+    "questionText": "What is the function of the Vestibulo-Collic Reflex (VCR)?",
+    "options": [
+      {
+        "text": "To stabilize the eyes",
+        "explanation": "Incorrect. VOR."
+      },
+      {
+        "text": "To stabilize the head",
+        "explanation": "Correct. The VCR acts on neck muscles to stabilize the head position in space."
+      },
+      {
+        "text": "To stabilize the body",
+        "explanation": "Incorrect. VSR."
+      },
+      {
+        "text": "To detect sound",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To regulate blood pressure",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: VCR stabilizes the head (Neck muscles).",
+    "pdfPage": 16
   }
 ];

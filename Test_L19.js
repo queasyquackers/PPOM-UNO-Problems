@@ -449,5 +449,605 @@ window.Test_L19 = [
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Muscarinic agonists cause meiosis (pinpoint pupils).",
     "pdfPage": 13
+  },
+  {
+    "id": 16,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Varenicline (Chantix) is effectively used for smoking cessation because it acts as:",
+    "options": [
+      {
+        "text": "A full agonist at muscarinic M3 receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A partial agonist at nicotinic alpha-4/beta-2 receptors",
+        "explanation": "Correct. Varenicline is a partial agonist at neuronal nicotinic receptors (alpha-4/beta-2). It reduces cravings (agonist effect) while preventing the full euphoric effect of nicotine (antagonist-like effect), helping patients quit smoking."
+      },
+      {
+        "text": "A full antagonist at nicotinic receptors",
+        "explanation": "Incorrect. This would cause withdrawal."
+      },
+      {
+        "text": "An acetylcholinesterase inhibitor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A muscarinic antagonist",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Varenicline is a partial nicotinic agonist used for smoking cessation.",
+    "pdfPage": 48
+  },
+  {
+    "id": 17,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "A farmer is brought to the ER with symptoms of organophosphate poisoning (insecticide exposure). Which of the following is NOT a sign of this toxicity?",
+    "options": [
+      {
+        "text": "Bradycardia",
+        "explanation": "Incorrect. This is a muscarinic sign (M2)."
+      },
+      {
+        "text": "Mydriasis (Pupil Dilation)",
+        "explanation": "Correct. Organophosphates cause cholinergic crisis (DUMBBELSS), which includes MIOSIS (constriction), not mydriasis. Mydriasis would be seen with anticholinergics (like Atropine)."
+      },
+      {
+        "text": "Bronchorrhea (fluid in lungs)",
+        "explanation": "Incorrect. This is a killer sign (drowning in secretions)."
+      },
+      {
+        "text": "Fasciculations",
+        "explanation": "Incorrect. This is a nicotinic sign (neuromuscular blockade)."
+      },
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect. This is a muscarinic sign."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cholinergic toxicity causes Miosis (constriction).",
+    "pdfPage": 34
+  },
+  {
+    "id": 18,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Which receptor subtype is primarily responsible for the negative chronotropic (decreased heart rate) and dromotropic (decreased conduction velocity) effects of the parasympathetic nervous system?",
+    "options": [
+      {
+        "text": "M1",
+        "explanation": "Incorrect. Neural/Gastric."
+      },
+      {
+        "text": "M2",
+        "explanation": "Correct. M2 receptors are coupled to Gi proteins in the heart (SA/AV nodes). Activation opens K+ channels (hyperpolarization) and inhibits cAMP, slowing heart rate and conduction."
+      },
+      {
+        "text": "M3",
+        "explanation": "Incorrect. Smooth muscle/Glands."
+      },
+      {
+        "text": "Nm",
+        "explanation": "Incorrect. Skeletal muscle."
+      },
+      {
+        "text": "Alpha-1",
+        "explanation": "Incorrect. Vasoconstriction."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: M2 receptors decrease heart rate (make the heart go 'Mmm-mm'.... slow down).",
+    "pdfPage": 9
+  },
+  {
+    "id": 19,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "A patient is prescribed Pilocarpine. Which of the following is a potential systemic adverse effect they should be warned about?",
+    "options": [
+      {
+        "text": "Dry mouth",
+        "explanation": "Incorrect. It causes excessive salivation."
+      },
+      {
+        "text": "Constipation",
+        "explanation": "Incorrect. It causes diarrhea."
+      },
+      {
+        "text": "Sweating (Diaphoresis)",
+        "explanation": "Correct. Pilocarpine activates muscarinic receptors on sweat glands, leading to potentially profuse sweating."
+      },
+      {
+        "text": "Urinary retention",
+        "explanation": "Incorrect. It causes frequency/urgency."
+      },
+      {
+        "text": "Tachycardia",
+        "explanation": "Incorrect. Usually bradycardia."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Pilocarpine causes sweating (diaphoresis).",
+    "pdfPage": 34
+  },
+  {
+    "id": 20,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "The endothelial cells of blood vessels contain M3 receptors, even though they lack parasympathetic innervation. If Acetylcholine is injected IV, it causes vasodilation via the release of:",
+    "options": [
+      {
+        "text": "Norepinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nitric Oxide (NO)",
+        "explanation": "Correct. M3 activation on endothelial cells increases calcium (Gq), activating eNOS to produce Nitric Oxide. NO diffuses to smooth muscle cells, increasing cGMP and causing relaxation (vasodilation)."
+      },
+      {
+        "text": "Histamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prostaglandins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vascular M3 receptors mediated vasodilation via Nitric Oxide (endothelium-dependent relaxation).",
+    "pdfPage": 10
+  },
+  {
+    "id": 21,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "A child ingests some berries from a plant in the garden and presents with 'hot as a hare, dry as a bone, red as a beet, blind as a bat, mad as a hatter'. This is anticholinergic toxicity. Which drug mechanism would REVERSE this?",
+    "options": [
+      {
+        "text": "Muscarinic Antagonist",
+        "explanation": "Incorrect. This is what caused it."
+      },
+      {
+        "text": "Acetylcholinesterase Inhibitor (Indirect Agonist)",
+        "explanation": "Correct. Physostigmine (drug of choice for central changes) inhibits AChE, increasing synaptic ACh levels, which can outcompete the competitive antagonist (like Atropine) at the receptor."
+      },
+      {
+        "text": "Nicotinic Agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Beta Blocker",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium Channel Blocker",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anticholinergic toxicity is treated with Physostigmine (Acetylcholinesterase inhibitor).",
+    "pdfPage": 34
+  },
+  {
+    "id": 22,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Nicotine in high doses can cause a biphasic response at autonomic ganglia (stimulation followed by depression). What is the mechanism of the 'depression' (blockade) phase?",
+    "options": [
+      {
+        "text": "Competitive antagonism",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Persistent depolarization (Depolarizing Blockade)",
+        "explanation": "Correct. Nicotine initially opens the channel (depolarization). With persistent exposure, the channel enters a desensitized state or creates a localized depolarization block where the Na+ channels cannot reset, preventing further action potentials."
+      },
+      {
+        "text": "Receptor down-regulation",
+        "explanation": "Incorrect. Too slow."
+      },
+      {
+        "text": "Depletion of Acetylcholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibition of ACh release",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Nicotine causes Depolarizing Blockade at high/persistent doses.",
+    "pdfPage": 48
+  },
+  {
+    "id": 23,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Which muscarinic receptor subtype is predominantly associated with increased gastric acid secretion?",
+    "options": [
+      {
+        "text": "M1",
+        "explanation": "Correct. M1 receptors on ECL cells (and parietal cells) stimulate gastric acid secretion. This is why Pirenzepine (M1 antagonist) was once used for ulcers."
+      },
+      {
+        "text": "M2",
+        "explanation": "Incorrect. Heart."
+      },
+      {
+        "text": "M3",
+        "explanation": "Incorrect. M3 also plays a role on parietal cells, but M1 is the classic 'gastric' subtype often cited in this context (neural-gastric)."
+      },
+      {
+        "text": "M4",
+        "explanation": "Incorrect. CNS."
+      },
+      {
+        "text": "M5",
+        "explanation": "Incorrect. CNS."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: M1 receptors regulate gastric acid secretion.",
+    "pdfPage": 9
+  },
+  {
+    "id": 24,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Why is Bethanechol preferred over Carbachol for treating urinary retention?",
+    "options": [
+      {
+        "text": "Bethanechol is more potent",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bethanechol lacks nicotinic activity",
+        "explanation": "Correct. Carbachol has significant nicotinic activity (ganglion stimulating), which leads to widespread cardiovascular side effects. Bethanechol is a selective MUSCARINIC agonist, making it safer for systemic use to target the bladder/bowel."
+      },
+      {
+        "text": "Bethanechol is shorter acting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bethanechol can be given IV",
+        "explanation": "Incorrect. NEVER give Bethanechol IV (cardiac arrest). Only PO or SQ."
+      },
+      {
+        "text": "Bethanechol crosses the BBB",
+        "explanation": "Incorrect. It is quaternary."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bethanechol is preferred systemically because it lacks nicotinic side effects.",
+    "pdfPage": 29
+  },
+  {
+    "id": 25,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "The 'Second Brain' refers to which part of the autonomic nervous system?",
+    "options": [
+      {
+        "text": "Sympathetic Nervous System",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parasympathetic Nervous System",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enteric Nervous System",
+        "explanation": "Correct. The Enteric Nervous System contains 100 million neurons (more than the spinal cord) and can function independently of external input, hence 'Second Brain'."
+      },
+      {
+        "text": "Somatic Nervous System",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Central Nervous System",
+        "explanation": "Incorrect. That's the first brain."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The Enteric Nervous System is the 'Second Brain'.",
+    "pdfPage": 6
+  },
+  {
+    "id": 26,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Edrophonium is a short-acting agent used in the diagnosis of Myasthenia Gravis (Tensilon Test). It works by:",
+    "options": [
+      {
+        "text": "Activating Nicotinic receptors directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting Acetylcholinesterase",
+        "explanation": "Correct. Edrophonium is a rapid-onset, short-duration Reversible Acetylcholinesterase Inhibitor. It transiently increases ACh, improving muscle strength in MG patients."
+      },
+      {
+        "text": "Blocking Muscarinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Preventing ACh release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regenerating AChE",
+        "explanation": "Incorrect. Pralidoxime does this."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Edrophonium (Tensilon) is a short-acting AChE inhibitor used to diagnose Myasthenia Gravis.",
+    "pdfPage": 49
+  },
+  {
+    "id": 27,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Succinylcholine is a neuromuscular blocker used for intubation. It is unique because it is a:",
+    "options": [
+      {
+        "text": "Competitive Antagonist",
+        "explanation": "Incorrect. That describes Curare derivatives (Rocuronium)."
+      },
+      {
+        "text": "Depolarizing Neuromuscular Blocker",
+        "explanation": "Correct. Succinylcholine acts like 'two acetylcholines' joined together. It activates the receptor causing initial depolarization (fasciculations) and then stays bound, preventing repolarization (flaccid paralysis)."
+      },
+      {
+        "text": "Muscarinic Agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ganglionic Blocker",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Direct Muscle Relaxant",
+        "explanation": "Incorrect. Dantrolene."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Succinylcholine is a Depolarizing Neuromuscular Blocker.",
+    "pdfPage": 25
+  },
+  {
+    "id": 28,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Which of the following is an effect of parasympathetic stimulation on the eye?",
+    "options": [
+      {
+        "text": "Contraction of the Radial muscle (Dilation)",
+        "explanation": "Incorrect. Sympathetic (Alpha-1)."
+      },
+      {
+        "text": "Relaxation of the Ciliary muscle (Far vision)",
+        "explanation": "Incorrect. Sympathetic (Beta-2)."
+      },
+      {
+        "text": "Contraction of the Ciliary Muscle (Accommodation)",
+        "explanation": "Correct. Parasympathetic stimulation (M3) contracts the ciliary muscle, relaxing the zonule fibers and allowing the lens to round up for NEAR vision (Accommodation)."
+      },
+      {
+        "text": "Decreased lacrimation",
+        "explanation": "Incorrect. Promotes lacrimation."
+      },
+      {
+        "text": "Decreased aqueous outflow",
+        "explanation": "Incorrect. Increases outflow."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Parasympathetic (M3) causes accommodation for near vision (Ciliary muscle contraction).",
+    "pdfPage": 13
+  },
+  {
+    "id": 29,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Sympathetic postganglionic neurons that innervate the adrenal medulla release:",
+    "options": [
+      {
+        "text": "Norepinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Epinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. Trick question. The nerve to the adrenal medulla is PRE-ganglionic (splanchnic nerve). It releases ACh causing the release of Epi/NE from the chromaffin cells. There are no post-ganglionic neurons 'innervating' the medulla; the medulla cells ARE the modified post-ganglionic cells."
+      },
+      {
+        "text": "They are Pre-ganglionic fibers",
+        "explanation": "Correct. The Adrenal Medulla is directly innervated by sympathetic PRE-ganglionic fibers releasing Acetylcholine onto Nicotinic receptors on Chromaffin cells."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: The Adrenal Medulla is innervated by PRE-ganglionic sympathetic fibers (ACh).",
+    "pdfPage": 6
+  },
+  {
+    "id": 30,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "What is the primary location of M2 receptors?",
+    "options": [
+      {
+        "text": "Gastric Parietal Cells",
+        "explanation": "Incorrect. M1/M3."
+      },
+      {
+        "text": "Bronchial Smooth Muscle",
+        "explanation": "Incorrect. M3."
+      },
+      {
+        "text": "Heart (SA/AV nodes)",
+        "explanation": "Correct. M2 is the cardiac muscarinic receptor."
+      },
+      {
+        "text": "Pupillary Sphincter",
+        "explanation": "Incorrect. M3."
+      },
+      {
+        "text": "Bladder Detrusor",
+        "explanation": "Incorrect. M3."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: M2 is found in the Heart (and inhibits it).",
+    "pdfPage": 9
+  },
+  {
+    "id": 31,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Which Choline Ester is the most susceptible to hydrolysis by Acetylcholinesterase?",
+    "options": [
+      {
+        "text": "Bethanechol",
+        "explanation": "Incorrect. Resistant."
+      },
+      {
+        "text": "Carbachol",
+        "explanation": "Incorrect. Resistant."
+      },
+      {
+        "text": "Methacholine",
+        "explanation": "Incorrect. Reduced susceptibility compared to ACh."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Correct. ACh is rapidly hydrolyzed by AChE and plasma cholinesterase (t1/2 in seconds)."
+      },
+      {
+        "text": "Succinylcholine",
+        "explanation": "Incorrect. Hydrolyzed by plasma butyrylcholinesterase, but slower than ACh."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Acetylcholine is the most rapidly degraded choline ester.",
+    "pdfPage": 26
+  },
+  {
+    "id": 32,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "The mechanism of Acetylcholine release involves the influx of which ion into the presynaptic terminal?",
+    "options": [
+      {
+        "text": "Sodium",
+        "explanation": "Incorrect. Causes depolarization but not release directly."
+      },
+      {
+        "text": "Potassium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Correct. Voltage-gated N-type Calcium channels open upon depolarization, allowing Ca2+ influx. Calcium binds to Synaptotagmin, triggering vesicle fusion (SNARE complex) and exocytosis of ACh."
+      },
+      {
+        "text": "Chloride",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Magnesium",
+        "explanation": "Incorrect. Blocks Ca2+ channels."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Calcium influx triggers neurotransmitter release.",
+    "pdfPage": 7
+  },
+  {
+    "id": 33,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Botulinum Toxin causes flaccid paralysis by:",
+    "options": [
+      {
+        "text": "Blocking Nicotinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cleaving SNARE proteins",
+        "explanation": "Correct. Botox acts as a protease that cleaves SNARE proteins (SNAP-25, Syntaxin, Synaptobrevin), preventing the fusion of ACh vesicles with the presynaptic membrane, thus blocking ACh release."
+      },
+      {
+        "text": "Inhibiting Acetylcholinesterase",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocking Calcium channels",
+        "explanation": "Incorrect. Lambert-Eaton syndrome does this (via antibodies)."
+      },
+      {
+        "text": "Destroying ACh vesicles",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Botulinum toxin prevents ACh release by cleaving SNARE proteins.",
+    "pdfPage": 7
+  },
+  {
+    "id": 34,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "Which of the following is an adverse effect of Nicotine overdose?",
+    "options": [
+      {
+        "text": "Bronchodilation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypotension initially",
+        "explanation": "Incorrect. Usually Hypertension due to sympathoadrenal stimulation."
+      },
+      {
+        "text": "Respiratory paralysis",
+        "explanation": "Correct. High doses can cause depolarizing blockade of the diaphragm and intercostal muscles (Nm receptors), leading to respiratory failure."
+      },
+      {
+        "text": "Urinary Retention",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dry Mouth",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Severe nicotine toxicity can cause respiratory paralysis via neuromuscular blockade.",
+    "pdfPage": 48
+  },
+  {
+    "id": 35,
+    "category": "Pharmacology: Cholinomimetics",
+    "questionText": "The rate-limiting step in the synthesis of Acetylcholine is:",
+    "options": [
+      {
+        "text": "Choline Acetyltransferase (ChAT) activity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Uptake of Choline into the nerve terminal",
+        "explanation": "Correct. High-affinity choline uptake (CHT1) is the rate-limiting step. Hemicholinium blocks this step."
+      },
+      {
+        "text": "Production of Acetyl-CoA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vesicular transport (VAChT)",
+        "explanation": "Incorrect. Blocked by Vesamicol."
+      },
+      {
+        "text": "Release of ACh",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Choline uptake is the rate-limiting step in ACh synthesis.",
+    "pdfPage": 7
   }
 ];

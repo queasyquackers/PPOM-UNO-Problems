@@ -1,114 +1,770 @@
 window.Test_L28 = [
   {
     "id": 1,
-    "category": "Neuroanatomy: Histology",
-    "questionText": "The neocortex is typically described as having six layers. Which cell type composes approximately 85% of the cortical neurons and uses glutamate as its primary neurotransmitter?",
+    "category": "Neocortex Anatomy",
+    "questionText": "The neocortex is typically organized into how many distinct layers of cytoarchitecture?",
+    "options": [
+      {
+        "text": "3 layers",
+        "explanation": "Incorrect. Allocortex/Archicortex."
+      },
+      {
+        "text": "6 layers",
+        "explanation": "Correct. From Layer I (superficial) to Layer VI (deep).",
+        "isCorrect": true
+      },
+      {
+        "text": "4 layers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "10 layers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "2 layers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neocortex = 6 layers.",
+    "pdfPage": 3
+  },
+  {
+    "id": 2,
+    "category": "Neocortex Physiology",
+    "questionText": "Which cell type makes up approximately 85% of cortical neurons and is primarily excitatory (glutamatergic)?",
     "options": [
       {
         "text": "Stellate cells",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pyramidal cells",
-        "explanation": "Correct. Pyramidal cells are the primary excitatory neurons of the cortex, releasing glutamate and accounting for ~85% of cortical neurons."
-      },
-      {
-        "text": "GABAergic interneurons",
-        "explanation": "Incorrect (Make up ~15%)."
-      },
-      {
-        "text": "Astrocytes",
-        "explanation": "Incorrect (Glial cells, though they outnumber neurons)."
+        "text": "Pyramidal neurons",
+        "explanation": "Correct. They have triangular cell bodies and spiny dendrites.",
+        "isCorrect": true
       },
       {
         "text": "Oligodendrocytes",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. Glial cells."
+      },
+      {
+        "text": "Microglia",
+        "explanation": "Incorrect. Glial cells."
+      },
+      {
+        "text": "Purkinje cells",
+        "explanation": "Incorrect. In Cerebellum."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cortex = 85% Pyramidal (Glutamate) + 15% Interneurons (GABA).",
-    "pdfPage": 5
-  },
-  {
-    "id": 2,
-    "category": "Neuroanatomy: Frontal Lobe",
-    "questionText": "Phineas Gage is a famous historical case of a man who survived an iron rod passing through his brain. His subsequent personality changes (impulsivity, profanity, poor planning) highlighted the role of which specific region in executive function and personality?",
-    "options": [
-      {
-        "text": "Occipital lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Orbitofrontal cortex / Prefrontal cortex",
-        "explanation": "Correct. Damage to the prefrontal cortex (specifically orbitofrontal) leads to 'Frontal Lobe Syndrome' characterized by disinhibition, personality changes, and poor judgment."
-      },
-      {
-        "text": "Primary Motor Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Somatosensory Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fusiform Gyrus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Phineas Gage = Prefrontal/Orbitofrontal damage = Disinhibition.",
-    "pdfPage": 10
+    "clinicalPearl": "Key takeaway: Pyramidal Neurons = Excitatory (85%).",
+    "pdfPage": 4
   },
   {
     "id": 3,
-    "category": "Neuroanatomy: Parietal Lobe",
-    "questionText": "A patient presents with 'Hemineglect', where they completely ignore the left side of their world (e.g., only shaving the right side of their face, drawing only the right side of a clock). This typically results from a lesion to:",
+    "category": "Neocortex Physiology",
+    "questionText": "What cell type constitutes the majority (75%) of ALL cells in the neocortex, outnumbering neurons?",
     "options": [
       {
-        "text": "Left Frontal Lobe",
+        "text": "Pyramidal neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Posterior Parietal Lobe",
-        "explanation": "Correct. The non-dominant (usually Right) posterior parietal lobe is responsible for spatial attention to BOTH sides (but predominantly the left). A lesion here causes profound neglect of the contralateral (Left) side."
+        "text": "Glial cells (Astrocytes, Oligodendrocytes, Microglia)",
+        "explanation": "Correct. Supporting cells outnumber neurons.",
+        "isCorrect": true
       },
       {
-        "text": "Right Occipital Lobe",
-        "explanation": "Incorrect (Visual field cut, not neglect)."
-      },
-      {
-        "text": "Left Temporal Lobe",
+        "text": "Interneurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bilateral Hippocampi",
+        "text": "Betz cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Endothelial cells",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hemineglect = Right (Non-dominant) Parietal Lobe lesion.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Glia > Neurons in number.",
+    "pdfPage": 4
   },
   {
     "id": 4,
-    "category": "Neuroanatomy: Temporal Lobe",
-    "questionText": "Prosopagnosia, the inability to recognize faces (even of close family members or oneself in a mirror) while retaining the ability to recognize objects and voices, is caused by damage to the:",
+    "category": "Motor Cortex",
+    "questionText": "Betz cells are giant pyramidal neurons unique to which specific area and layer?",
     "options": [
       {
-        "text": "Broca's Area",
+        "text": "Primary Visual Cortex, Layer 4",
         "explanation": "Incorrect."
       },
       {
-        "text": "Fusiform Face Area (Fusiform Gyrus)",
-        "explanation": "Correct. The Fusiform Face Area (FFA) in the inferior temporal lobe is specialized for facial recognition."
+        "text": "Primary Motor Cortex, Layer 5b",
+        "explanation": "Correct. They project long axons down the corticospinal tract.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prefrontal Cortex, Layer 2",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somatosensory Cortex, Layer 3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory Cortex, Layer 6",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Betz Cells = Motor Cortex Layer 5b.",
+    "pdfPage": 6
+  },
+  {
+    "id": 5,
+    "category": "Frontal Lobe",
+    "questionText": "Phineas Gage is a famous case study of injury to the ___________, resulting in profound personality changes (disinhibition, poor planning).",
+    "options": [
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Orbitofrontal Cortex (Prefrontal Cortex)",
+        "explanation": "Correct. Executive function and social behavior area.",
+        "isCorrect": true
+      },
+      {
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla Oblongata",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Phineas Gage = Orbitofrontal Injury = Personality Change.",
+    "pdfPage": 10
+  },
+  {
+    "id": 6,
+    "category": "Frontal Lobe Pathologies",
+    "questionText": "Frontotemporal Dementia (FTD) is often associated with the aggregation of which protein due to MAPT mutations?",
+    "options": [
+      {
+        "text": "Amyloid beta",
+        "explanation": "Incorrect. Alzheimer's plaque."
+      },
+      {
+        "text": "Tau",
+        "explanation": "Correct. FTD is a 'Tauopathy'. Symptoms include loss of inhibition, empathy, and executive function.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha-synuclein",
+        "explanation": "Incorrect. Parkinson's/Lewy Body."
+      },
+      {
+        "text": "Prion protein",
+        "explanation": "Incorrect. CJD."
+      },
+      {
+        "text": "Huntingtin",
+        "explanation": "Incorrect. Huntington's."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: FTD = Tau aggregation = Behavioral/Exec Dysfunction.",
+    "pdfPage": 11
+  },
+  {
+    "id": 7,
+    "category": "Frontal Lobe",
+    "questionText": "Frontal Eye Field (Area 8) is critical for driving:",
+    "options": [
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rapid, voluntary saccadic eye movements",
+        "explanation": "Correct. Projects to PPRF to drive eyes to the contralateral side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pupillary light reflex",
+        "explanation": "Incorrect. Midbrain."
+      },
+      {
+        "text": "Smooth pursuit",
+        "explanation": "Incorrect. Parietal/occipital."
+      },
+      {
+        "text": "Closing the eyes",
+        "explanation": "Incorrect. Facial nerve."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: FEF (Area 8) = Saccades.",
+    "pdfPage": 13
+  },
+  {
+    "id": 8,
+    "category": "Frontal Lobe Pathologies",
+    "questionText": "Broca's Area is located in the ________ gyrus and a lesion here results in ________ aphasia.",
+    "options": [
+      {
+        "text": "Superior Temporal; Receptive",
+        "explanation": "Incorrect. Wernicke's."
+      },
+      {
+        "text": "Inferior Frontal; Expressive (Motor)",
+        "explanation": "Correct. Can understand, but cannot speak/write fluently.",
+        "isCorrect": true
+      },
+      {
+        "text": "Postcentral; Sensory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital; Visual",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cingulate; Emotional",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Broca's = Inferior Frontal = Expressive Aphasia.",
+    "pdfPage": 15
+  },
+  {
+    "id": 9,
+    "category": "Parietal Lobe",
+    "questionText": "The Postcentral Gyrus corresponds to:",
+    "options": [
+      {
+        "text": "Primary Motor Cortex (M1)",
+        "explanation": "Incorrect. Precentral."
+      },
+      {
+        "text": "Primary Somatosensory Cortex (S1)",
+        "explanation": "Correct. Processes touch, pain, temperature, proprioception.",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary Visual Cortex (V1)",
+        "explanation": "Incorrect. Occipital."
+      },
+      {
+        "text": "Primary Auditory Cortex (A1)",
+        "explanation": "Incorrect. Temporal."
+      },
+      {
+        "text": "Broca's Area",
+        "explanation": "Incorrect. Frontal."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Postcentral = S1 (Sensory).",
+    "pdfPage": 16
+  },
+  {
+    "id": 10,
+    "category": "Parietal Lobe Pathologies",
+    "questionText": "A lesion to the Right Posterior Parietal Lobe (non-dominant hemisphere) typically results in:",
+    "options": [
+      {
+        "text": "Right-sided blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Contralateral (Left) Hemispatial Neglect",
+        "explanation": "Correct. The patient ignores the left side of the world (eats half of plate, draws half of clock).",
+        "isCorrect": true
+      },
+      {
+        "text": "Aphasia",
+        "explanation": "Incorrect. Left hemisphere."
+      },
+      {
+        "text": "Amusia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prosopagnosia",
+        "explanation": "Incorrect. Temporal."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Right Parietal Lesion = Left Hemi-Neglect.",
+    "pdfPage": 16
+  },
+  {
+    "id": 11,
+    "category": "Parietal Lobe Pathologies",
+    "questionText": "Gerstmann Syndrome is caused by a lesion to the _____ and includes which tetrad of symptoms?",
+    "options": [
+      {
+        "text": "Right Parietal Lobe; Neglect, Anosognosia, Apraxia, Aphasia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Angular Gyrus (Dominant Parietal); Agraphia, Acalculia, Finger Agnosia, Right-Left Disorientation",
+        "explanation": "Correct. Classic tetrad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Frontal Lobe; Apathy, Disinhibition, Broca's aphasia, Amnesia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brainstem; Vertigo, Nystagmus, Ataxia, Dysphagia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temporal Lobe; Wernicke's aphasia, Amnesia, Prosopagnosia, Agnosia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Gerstmann = Left Angular Gyrus = Agraphia + Acalculia + Finger Agnosia + R/L Disorientation.",
+    "pdfPage": 18
+  },
+  {
+    "id": 12,
+    "category": "Temporal Lobe",
+    "questionText": "Wernicke's Area is located in the ________ and its primary function is ________.",
+    "options": [
+      {
+        "text": "Inferior Frontal Gyrus; Speech Production",
+        "explanation": "Incorrect. Broca's."
+      },
+      {
+        "text": "Superior Temporal Gyrus; Language Comprehension",
+        "explanation": "Correct. Lesion = Receptive Aphasia (Fluent nonsense).",
+        "isCorrect": true
+      },
+      {
+        "text": "Occipital Lobe; Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal Lobe; Sensation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula; Taste",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Wernicke's = Superior Temporal = Comprehension.",
+    "pdfPage": 20
+  },
+  {
+    "id": 13,
+    "category": "Temporal Lobe Pathologies",
+    "questionText": "Prosopagnosia (Face Blindness) is caused by damage to which specific area?",
+    "options": [
+      {
+        "text": "Primary Visual Cortex (V1)",
+        "explanation": "Incorrect. Cortical blindness."
+      },
+      {
+        "text": "Fusiform Face Area (Inferior Temporal Lobe)",
+        "explanation": "Correct. Specialized for face recognition.",
+        "isCorrect": true
       },
       {
         "text": "Wernicke's Area",
         "explanation": "Incorrect."
       },
       {
-        "text": "Primary Visual Cortex (V1)",
-        "explanation": "Incorrect (Cortical blindness)."
+        "text": "Amygdala",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hippocampus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Prosopagnosia = Lesion to Fusiform Face Area.",
+    "pdfPage": 21
+  },
+  {
+    "id": 14,
+    "category": "Temporal Lobe",
+    "questionText": "The Medial Temporal Lobe contains the ________, which is critical for ________.",
+    "options": [
+      {
+        "text": "Amygdala; Motor control",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hippocampus; Formation of new episodic memories",
+        "explanation": "Correct. Lesion (e.g. HM) -> Anterograde Amnesia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Basal Ganglia; Movement",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus; Sensory relay",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum; Coordination",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Medial Temporal Lobe (Hippocampus) = Memory.",
+    "pdfPage": 23
+  },
+  {
+    "id": 15,
+    "category": "Insula",
+    "questionText": "The Insular Cortex is known to play a role in all of the following EXCEPT:",
+    "options": [
+      {
+        "text": "Gustation (Taste)",
+        "explanation": "Incorrect. It is the primary gustatory cortex."
+      },
+      {
+        "text": "Interoception (sensing internal bodily states)",
+        "explanation": "Incorrect. Key function."
+      },
+      {
+        "text": "Moral Disgust",
+        "explanation": "Incorrect. Anterior Insula activates.",
+        "isCorrect": false
+      },
+      {
+        "text": "Primary Motor Control of the Leg",
+        "explanation": "Correct. That's the Precentral Gyrus (Paracentral Lobule).",
+        "isCorrect": true
+      },
+      {
+        "text": "Addiction/Urge to Smoke",
+        "explanation": "Incorrect. Insula damage reduces urge."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Insula = Taste, Disgust, Interoception, Addiction. NOT Motor.",
+    "pdfPage": 26
+  },
+  {
+    "id": 16,
+    "category": "Cingulate Cortex",
+    "questionText": "The Anterior Cingulate Cortex helps regulate emotion and pain. A 'Cingulotomy' refers to:",
+    "options": [
+      {
+        "text": "Removing the entire brain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Surgical lesioning of the anterior cingulate to treat intractable depression, OCD, or chronic pain",
+        "explanation": "Correct. Last resort treatment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stimulating the occipital lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Removing a tumor from the cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Severing the corpus callosum",
+        "explanation": "Incorrect. Callosotomy."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cingulotomy treats Chronic Pain / OCD / Depression.",
+    "pdfPage": 27
+  },
+  {
+    "id": 17,
+    "category": "Connectivity",
+    "questionText": "The Arcuate Fasciculus is a major white matter tract that connects:",
+    "options": [
+      {
+        "text": "The two hemispheres",
+        "explanation": "Incorrect. Corpus Callosum."
+      },
+      {
+        "text": "Broca's Area and Wernicke's Area",
+        "explanation": "Correct. Essential for repeating words (Conduction Aphasia if damaged).",
+        "isCorrect": true
+      },
+      {
+        "text": "Visual cortex to Motor cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hippocampus to Mammillary bodies",
+        "explanation": "Incorrect. Fornix."
+      },
+      {
+        "text": "Thalamus to Cortex",
+        "explanation": "Incorrect. Internal Capsule."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Arcuate Fasciculus connects Wernicke's to Broca's.",
+    "pdfPage": 20
+  },
+  {
+    "id": 18,
+    "category": "Research Methods",
+    "questionText": "Functional MRI (fMRI) measures brain activity by detecting changes in:",
+    "options": [
+      {
+        "text": "Electrical voltage directly",
+        "explanation": "Incorrect. EEG."
+      },
+      {
+        "text": "Blood Oxygenation (BOLD signal)",
+        "explanation": "Correct. Blood Oxygen Level Dependent signal. Active areas use more oxygen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Glucose metabolism",
+        "explanation": "Incorrect. PET."
+      },
+      {
+        "text": "Neurotransmitter levels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Skull thickness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: fMRI = BOLD signal (hemodynamics).",
+    "pdfPage": 8
+  },
+  {
+    "id": 19,
+    "category": "Neuroplasticity/BCI",
+    "questionText": "Brain-Computer Interfaces (BCIs) in paralyzed patients primarily record signals from which area to control a prosthetic limb?",
+    "options": [
+      {
+        "text": "Primary Visual Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary Motor Cortex",
+        "explanation": "Correct. They decode the 'intent' to move.",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditory Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Amygdala",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: BCI uses Motor Cortex signals.",
+    "pdfPage": 14
+  },
+  {
+    "id": 20,
+    "category": "Cingulate Cortex",
+    "questionText": "Stimulation of the Anterior Cingulate Cortex has been shown to induce:",
+    "options": [
+      {
+        "text": "Rage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Laughter/Smiling",
+        "explanation": "Correct. As seen in the lecture video example.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Deafness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Paralysis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Cingulate Stimulation -> Laughter.",
+    "pdfPage": 27
+  },
+  {
+    "id": 21,
+    "category": "Insula Pathologies",
+    "questionText": "Damage to the Insula was found to help patients quit which habit effortlessly?",
+    "options": [
+      {
+        "text": "Gambling",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smoking",
+        "explanation": "Correct. The urge/craving was abolished.",
+        "isCorrect": true
+      },
+      {
+        "text": "Overeating",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alcohol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Heroin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Insula Lesion = Stops Smoking urge.",
+    "pdfPage": 26
+  },
+  {
+    "id": 22,
+    "category": "Occipital Lobe",
+    "questionText": "The Primary Visual Cortex (V1) is located in the _______ lobe.",
+    "options": [
+      {
+        "text": "Frontal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital",
+        "explanation": "Correct. At the Calcarine Sulcus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Parietal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temporal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Visual Cortex = Occipital Lobe.",
+    "pdfPage": 19
+  },
+  {
+    "id": 23,
+    "category": "Parietal Lobe",
+    "questionText": "In a patient with Right Hemispatial Neglect, the lesion is in the RIGHT parietal lobe. This phenomenon confirms that the Right Parietal Lobe is responsible for attending to:",
+    "options": [
+      {
+        "text": "Only the Right visual field",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Both Left and Right spatial fields (Global attention)",
+        "explanation": "Correct. The Left Parietal lobe only attends to the Right. The Right Parietal lobe attends to BOTH. Thus, a Right lesion kills attention to the Left (no backup), while a Left lesion is compensated by the Right lobe (no neglect).",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the Left visual field",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neither field",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory information only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Right Parietal attends to BOTH sides. Left Parietal only Right.",
+    "pdfPage": 17
+  },
+  {
+    "id": 24,
+    "category": "Temporal Lobe",
+    "questionText": "Spatial navigation (e.g., taxi drivers navigating a city) strongly activates the:",
+    "options": [
+      {
+        "text": "Prefrontal Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Hippocampus/Temporal Lobe",
+        "explanation": "Correct. 'Place cells' in hippocampus map space.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Broca's Area",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spatial Navigation = Hippocampus (Temporal Lobe).",
+    "pdfPage": 20
+  },
+  {
+    "id": 25,
+    "category": "Frontal Lobe",
+    "questionText": "The Primary Motor Cortex corresponds to the:",
+    "options": [
+      {
+        "text": "Postcentral Gyrus",
+        "explanation": "Incorrect. Sensory."
+      },
+      {
+        "text": "Precentral Gyrus",
+        "explanation": "Correct. Anterior to central sulcus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Temporal Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cingulate Gyrus",
+        "explanation": "Incorrect."
       },
       {
         "text": "Angular Gyrus",
@@ -116,234 +772,242 @@ window.Test_L28 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Prosopagnosia = Fusiform Gyrus lesion.",
+    "clinicalPearl": "Key takeaway: Precentral = Motor.",
+    "pdfPage": 14
+  },
+  {
+    "id": 26,
+    "category": "Association Areas",
+    "questionText": "The Angular Gyrus is considered a ______ association area because it integrates multiple modalities (vision, hearing, touch).",
+    "options": [
+      {
+        "text": "Unimodal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Heteromodal",
+        "explanation": "Correct. Integrates distinct types of info.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Limbic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Angular Gyrus = Heteromodal Association.",
+    "pdfPage": 18
+  },
+  {
+    "id": 27,
+    "category": "Temporal Lobe Pathology",
+    "questionText": "In Chronic Traumatic Encephalopathy (CTE), tau accumulation and atrophy are particularly prominent in the:",
+    "options": [
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial Temporal Lobe (Hippocampus/Amygdala) and Frontal Cortex",
+        "explanation": "Correct. Leading to memory loss and behavioral aggression.",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary Motor Cortex only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CTE affects Medial Temporal Lobe significantly.",
     "pdfPage": 23
   },
   {
-    "id": 5,
-    "category": "Neuroanatomy: Parietal Lobe",
-    "questionText": "Gerstmann Syndrome is characterized by the tetrad of Agraphia, Acalculia, Finger Agnosia, and Right-Left Disorientation. This cluster of symptoms points to a lesion in the:",
+    "id": 28,
+    "category": "Anatomy",
+    "questionText": "Which sulcus separates the Frontal Lobe from the Parietal Lobe?",
     "options": [
       {
-        "text": "Right Parietal Lobe",
-        "explanation": "Incorrect (Neglect)."
+        "text": "Lateral Sulcus (Sylvian Fissure)",
+        "explanation": "Incorrect. Separates Temporal from Frontal/Parietal."
       },
       {
-        "text": "Dominant (Left) Angular Gyrus / Inferior Parietal Lobe",
-        "explanation": "Correct. Gerstmann Syndrome is a specific disconnection syndrome caused by a lesion in the dominant (usually Left) Angular Gyrus."
+        "text": "Central Sulcus",
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
-        "text": "Frontal Eye Fields",
+        "text": "Calcarine Sulcus",
+        "explanation": "Incorrect. Occipital."
+      },
+      {
+        "text": "Parieto-occipital Sulcus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Primary Auditory Cortex",
+        "text": "Longitudinal Fissure",
+        "explanation": "Incorrect. Separates Hemispheres."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Central Sulcus divides Frontal/Parietal (Motor/Sensory).",
+    "pdfPage": 3
+  },
+  {
+    "id": 29,
+    "category": "Connectivity",
+    "questionText": "The Corpus Callosum is an example of which type of connection?",
+    "options": [
+      {
+        "text": "Local",
         "explanation": "Incorrect."
       },
       {
-        "text": "Insular Cortex",
+        "text": "Interhemispheric (Commissural)",
+        "explanation": "Correct. Connects left and right.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subcortical",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamocortical",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Projection",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Gerstmann Syndrome = Left Angular Gyrus = Math, Writing, Fingers, R/L.",
+    "clinicalPearl": "Key takeaway: Corpus Callosum = Interhemispheric.",
+    "pdfPage": 5
+  },
+  {
+    "id": 30,
+    "category": "Frontal Lobe",
+    "questionText": "Symptoms of 'Executive Dysfunction' include all EXCEPT:",
+    "options": [
+      {
+        "text": "Poor planning/organization",
+        "explanation": "Incorrect. This is a symptom."
+      },
+      {
+        "text": "Impulsivity",
+        "explanation": "Incorrect. This is a symptom."
+      },
+      {
+        "text": "Blindness",
+        "explanation": "Correct. Blindness is an Occipital/Pathway deficit, not executive function.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inability to shift cognitive sets",
+        "explanation": "Incorrect. Symptom."
+      },
+      {
+        "text": "Poor working memory",
+        "explanation": "Incorrect. Symptom."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Blindness is NOT executive dysfunction.",
+    "pdfPage": 9
+  },
+  {
+    "id": 31,
+    "category": "Insula",
+    "questionText": "Stimulating the Insula at high intensity can cause the patient to experience:",
+    "options": [
+      {
+        "text": "Visual flashes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Unpleasant tastes or sensations of disgust",
+        "explanation": "Correct. 'Bad chocolate' example.",
+        "isCorrect": true
+      },
+      {
+        "text": "Laughter",
+        "explanation": "Incorrect. Cingulate."
+      },
+      {
+        "text": "Movement of the foot",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing music",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Insula Stimulation = Taste/Disgust.",
+    "pdfPage": 26
+  },
+  {
+    "id": 32,
+    "category": "Temporal Lobe",
+    "questionText": "The Primary Auditory Cortex is located in the:",
+    "options": [
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temporal Lobe (Superior Temporal Gyrus)",
+        "explanation": "Correct. Heschl's Gyrus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Frontal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Limbic Lobe",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Primary Auditory = Temporal Lobe.",
     "pdfPage": 20
   },
   {
-    "id": 6,
-    "category": "Neuroanatomy: Insula",
-    "questionText": "The Insular Cortex is a multimodal integration hub. Recent research suggests that damage to the Insula can lead to the abrupt cessation of which behavior?",
+    "id": 33,
+    "category": "Parietal Lobe",
+    "questionText": "Visual-Spatial attention is dominantly processed in which hemisphere for most people?",
     "options": [
       {
-        "text": "Gambling",
-        "explanation": "Incorrect."
+        "text": "Left Hemisphere",
+        "explanation": "Incorrect. Left focuses on language/details."
       },
       {
-        "text": "Smoking (Nicotine Addiction)",
-        "explanation": "Correct. Lesions to the insula have been associated with a sudden and easy cessation of smoking, linking the insula to the conscious urge/craving aspect of addiction."
+        "text": "Right Hemisphere",
+        "explanation": "Correct. Right parietal lobe creates the map of the whole visual world.",
+        "isCorrect": true
       },
       {
-        "text": "Overeating",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sleepwalking",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hand flapping",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Insula lesion = 'Forgot to smoke' (Addiction/Cravings).",
-    "pdfPage": 28
-  },
-  {
-    "id": 7,
-    "category": "Neuroanatomy: Frontal Lobe",
-    "questionText": "Frontotemporal Dementia (FTD) is a neurodegenerative disorder often presenting with personality changes and disinhibition in patients younger than typical Alzheimer's cases (45-65yo). Pathologically, it is often associated with the accumulation of:",
-    "options": [
-      {
-        "text": "Alpha-synuclein",
-        "explanation": "Incorrect (Parkinson's/Lewy Body)."
-      },
-      {
-        "text": "Tau protein (MAPT mutations)",
-        "explanation": "Correct. FTD (Pick's Disease) is a Tauopathy. Unlike Alzheimer's (Amyloid + Tau), FTD is primarily driven by Tau inclusions."
-      },
-      {
-        "text": "Amyloid beta only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Prions",
-        "explanation": "Incorrect (CJD)."
-      },
-      {
-        "text": "Lewy Bodies",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: FTD = Personality Change + Tau.",
-    "pdfPage": 11
-  },
-  {
-    "id": 8,
-    "category": "Neuroanatomy: Motor Cortex",
-    "questionText": "In the Primary Motor Cortex (Precentral Gyrus), giant pyramidal cells found in Layer 5b that project long axons down into the spinal cord are known as:",
-    "options": [
-      {
-        "text": "Purkinje Cells",
-        "explanation": "Incorrect (Cerebellum)."
-      },
-      {
-        "text": "Betz Cells",
-        "explanation": "Correct. Betz cells are the largest neurons in the CNS, unique to the primary motor cortex, and send axons via the corticospinal tract."
-      },
-      {
-        "text": "Granule Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Renshaw Cells",
-        "explanation": "Incorrect (Spinal cord)."
-      },
-      {
-        "text": "Von Economo Neurons",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Betz Cells = Giant Pyramidal Motor Neurons.",
-    "pdfPage": 13
-  },
-  {
-    "id": 9,
-    "category": "Neuroanatomy: Frontal Lobe",
-    "questionText": "Area 8 in the frontal lobe constitutes the Frontal Eye Fields (FEF). Stimulation of the RIGHT FEF will cause the eyes to deviate to the:",
-    "options": [
-      {
-        "text": "Right",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left",
-        "explanation": "Correct. The FEF pushes the eyes to the CONTRALATERAL side. Right FEF -> PPRF -> Left gaze."
-      },
-      {
-        "text": "Upward",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Downward",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They will not move",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Frontal Eye Fields 'Push' eyes to opposite side. Lesion = Eyes look TOWARDS the lesion.",
-    "pdfPage": 12
-  },
-  {
-    "id": 10,
-    "category": "Neuroanatomy: Language",
-    "questionText": "The white matter tract that connects Wernicke's Area (comprehension) to Broca's Area (production) is called the:",
-    "options": [
-      {
-        "text": "Corpus Callosum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Arcuate Fasciculus",
-        "explanation": "Correct. Damage to this tract causes Conduction Aphasia, where fluency and comprehension are intact, but repetition is impaired."
-      },
-      {
-        "text": "Internal Capsule",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cingulum Bundle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Commissure",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Arcuate Fasciculus connects Wernicke's and Broca's.",
-    "pdfPage": 16
-  },
-  {
-    "id": 11,
-    "category": "Neuroanatomy: Insula",
-    "questionText": "The Insula is evolutionarily ancient and was originally involved in detecting rancid food (gustation). Interestingly, fMRI studies show this same area activates when a human experiences:",
-    "options": [
-      {
-        "text": "Moral Disgust",
-        "explanation": "Correct. The feeling of 'disgust' generated by morally reprehensible acts hijacks the same neural circuitry used for biological disgust (bad food)."
-      },
-      {
-        "text": "Romantic Love",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mathematical calculation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Facial recognition",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor planning",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Insula = Visceral Disgust AND Moral Disgust.",
-    "pdfPage": 28
-  },
-  {
-    "id": 12,
-    "category": "Neuroanatomy: Temporal Lobe",
-    "questionText": "Chronic Traumatic Encephalopathy (CTE), seen in contact sports athletes, involves the accumulation of Tau protein, particularly in which area deeply involved in memory?",
-    "options": [
-      {
-        "text": "Primary Visual Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medial Temporal Lobe / Hippocampus",
-        "explanation": "Correct. The medial temporal lobe is highly vulnerable to trauma and is a primary site of Tau pathology in CTE, correlating with memory deficits."
-      },
-      {
-        "text": "Primary Motor Cortex",
+        "text": "Both equally",
         "explanation": "Incorrect."
       },
       {
@@ -351,102 +1015,75 @@ window.Test_L28 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Medulla",
+        "text": "Brainstem",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hippocampus/Medial Temporal Lobe is vulnerable in CTE.",
-    "pdfPage": 23
+    "clinicalPearl": "Key takeaway: Spatial Attention = Right Hemisphere Dominance.",
+    "pdfPage": 16
   },
   {
-    "id": 13,
-    "category": "Neuroanatomy: Language",
-    "questionText": "A patient can speak fluently, but their speech is word salad (nonsensical) and they cannot comprehend what you are saying to them. This is classic for:",
+    "id": 34,
+    "category": "Pathology",
+    "questionText": "Achromatopsia (loss of color vision) would most likely result from a lesion to the cortical processing area in the:",
     "options": [
       {
-        "text": "Broca's Aphasia",
-        "explanation": "Incorrect (Non-fluent, intact comprehension)."
+        "text": "Primary Motor Cortex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Wernicke's Aphasia",
-        "explanation": "Correct. Sensory/Receptive aphasia due to lesion in the Superior Temporal Gyrus."
+        "text": "Inferior Occipital/Temporal area (V4)",
+        "explanation": "Correct. Ventral stream 'What' pathway.",
+        "isCorrect": true
       },
       {
-        "text": "Global Aphasia",
-        "explanation": "Incorrect (No speech, no comprehension)."
+        "text": "Broca's Area",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Conduction Aphasia",
-        "explanation": "Incorrect (Intact comprehension, poor repetition)."
+        "text": "Frontal Eye Fields",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Transcortical Motor Aphasia",
+        "text": "Somatosensory Cortex",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Wernicke's = Fluent but meaningless (Word Salad).",
-    "pdfPage": 22
+    "clinicalPearl": "Key takeaway: Color processing is in the Ventral Stream (Occipito-temporal).",
+    "pdfPage": 19
   },
   {
-    "id": 14,
-    "category": "Neuroanatomy: Cell Types",
-    "questionText": "Glia outnumber neurons in the cortex. Which glial cell type is primarily responsible for maintaining the blood-brain barrier and regulating the chemical environment?",
+    "id": 35,
+    "category": "Neocortex",
+    "questionText": "The functions of 'Feeding, Fighting, Flighting, and Fornicating' are often attributed to the:",
     "options": [
       {
-        "text": "Oligodendrocytes",
-        "explanation": "Incorrect (Myelin)."
-      },
-      {
-        "text": "Astrocytes",
-        "explanation": "Correct. Astrocytes provide structural support, nutrient transfer, and maintain the BBB."
-      },
-      {
-        "text": "Microglia",
-        "explanation": "Incorrect (Immune/Phagocytosis)."
-      },
-      {
-        "text": "Schwann Cells",
-        "explanation": "Incorrect (PNS Myelin)."
-      },
-      {
-        "text": "Ependymal Cells",
-        "explanation": "Incorrect (CSF)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Astrocytes = Support/BBB.",
-    "pdfPage": 5
-  },
-  {
-    "id": 15,
-    "category": "Neuroanatomy: Functional Imaging",
-    "questionText": "Functional MRI (fMRI) measures brain activity by detecting changes in:",
-    "options": [
-      {
-        "text": "Electrical voltage",
-        "explanation": "Incorrect (EEG)."
-      },
-      {
-        "text": "Blood flow / Oxygenation (BOLD signal)",
-        "explanation": "Correct. fMRI relies on the Blood Oxygen Level Dependent (BOLD) signal, as active neurons require more blood flow."
-      },
-      {
-        "text": "Glucose metabolism",
-        "explanation": "Incorrect (PET)."
-      },
-      {
-        "text": "Neurotransmitter levels",
+        "text": "Occipital Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Water diffusion",
-        "explanation": "Incorrect (DTI)."
+        "text": "Limbic System / Cingulate Cortex",
+        "explanation": "Correct. Basic survival drives integration.",
+        "isCorrect": true
+      },
+      {
+        "text": "Primary Motor Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsolateral Prefrontal Cortex",
+        "explanation": "Incorrect. Executive function.",
+        "isCorrect": false
+      },
+      {
+        "text": "Auditory Cortex",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: fMRI = Blood Flow/Oxygenation.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: 4 Fs = Limbic/Cingulate.",
+    "pdfPage": 27
   }
 ];
