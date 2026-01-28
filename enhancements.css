@@ -155,11 +155,15 @@ h6 {
 /* Cards */
 .card,
 .subtle-card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
 .card:hover {
-  box-shadow: var(--shadow-lg), 0 0 20px rgba(38, 139, 210, 0.05);
+  box-shadow:
+    var(--shadow-lg),
+    0 0 20px rgba(38, 139, 210, 0.05);
   /* Added glow */
 }
 
@@ -200,6 +204,11 @@ h6 {
 
 .option-btn:active {
   transform: scale(0.98);
+}
+
+.btn-primary:active,
+.btn-secondary:active {
+  transform: scale(0.95);
 }
 
 /* Dark Mode Contrast Improvements for Options */
@@ -277,7 +286,10 @@ body.dark-mode .explanation-incorrect {
   color: var(--text-primary);
   border: 1px solid var(--border-color);
   box-shadow: var(--shadow-sm);
-  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  transition:
+    background-color 0.3s,
+    color 0.3s,
+    border-color 0.3s;
 }
 
 #slide-display-container h3 {
@@ -320,7 +332,8 @@ body.dark-mode .explanation-incorrect {
   border-left: 5px solid var(--accent-color) !important;
 
   /* POP EFFECT: Stronger shadow */
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
 
   color: var(--text-primary) !important;
@@ -428,7 +441,9 @@ body.dark-mode .image-context-header {
   border-color: var(--accent-color) !important;
   background-color: var(--bg-selected) !important;
   transform: scale(1.15);
-  box-shadow: 0 0 15px rgba(38, 139, 210, 0.4), 0 0 0 2px var(--accent-color);
+  box-shadow:
+    0 0 15px rgba(38, 139, 210, 0.4),
+    0 0 0 2px var(--accent-color);
   z-index: 2;
 }
 
@@ -526,7 +541,8 @@ body.dark-mode .week-dropdown-panel .test-item-btn:hover {
   border-left: 5px solid var(--accent-color) !important;
 
   /* POP EFFECT: Stronger shadow */
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
 
   color: var(--text-primary) !important;
@@ -678,7 +694,8 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 }
 /* Theme Toggle Animation */
 #dark-mode-toggle {
-  transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55),
+  transition:
+    transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55),
     background-color 0.3s;
 }
 
@@ -696,7 +713,8 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 
 /* Theme Toggle Animation */
 #dark-mode-toggle {
-  transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55),
+  transition:
+    transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55),
     background-color 0.3s;
 }
 
@@ -723,9 +741,10 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 .flashcard-front,
 .flashcard-back {
   /* Solarized Base3 (#fdf6e3) - Creamy/lighter than the Base2 container for "lift" without being white */
-  background-color: #fdf6e3 !important; 
+  background-color: #fdf6e3 !important;
   border: 1px solid #d3d0c8 !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+  box-shadow:
+    0 10px 25px -5px rgba(0, 0, 0, 0.1),
     0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
 }
 
@@ -737,9 +756,8 @@ body.dark-mode .flashcard-back {
 
 /* PEARLBOOK STYLES */
 .pearl-category-header {
-    top: 0;
-    z-index: 10;
-    backdrop-filter: blur(8px);
-    border-bottom: 2px solid var(--accent-color);
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+  border-bottom: 2px solid var(--accent-color);
 }
-
