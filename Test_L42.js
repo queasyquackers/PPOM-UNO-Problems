@@ -1,1035 +1,608 @@
 window.Test_L42 = [
   {
     "id": 1,
-    "category": "Basic Science",
-    "questionText": "In demyelinating diseases, what is typically the primary structural change observed in the nervous system?",
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "A 6-month-old infant presents with irritability, stiffness, and developmental regression. A brain biopsy (rarely done) shows the presence of multinucleated 'globoid cells' which are engorged macrophages. Biochemical testing reveals a deficiency in Galactocerebroside beta-galactosidase. What is the diagnosis?",
     "options": [
       {
-        "text": "Loss of axons with preservation of myelin",
-        "explanation": "Incorrect."
+        "text": "Metachromatic Leukodystrophy",
+        "explanation": "Incorrect (Arylsulfatase A)."
       },
       {
-        "text": "Loss of myelin sheaths with relative preservation of axons",
-        "explanation": "Correct. Conduction block occurs due to loss of insulation.",
-        "isCorrect": true
+        "text": "Krabbe Disease",
+        "explanation": "Correct. Globoid cells + Galactocerebrosidase deficiency."
       },
       {
-        "text": "Neuronal cell body death",
-        "explanation": "Incorrect."
+        "text": "Adrenoleukodystrophy",
+        "explanation": "Incorrect (ABCD1/VLCFA)."
       },
       {
-        "text": "Proliferation of Schwann cells in the CNS",
-        "explanation": "Incorrect."
+        "text": "Tay-Sachs Disease",
+        "explanation": "Incorrect (Hexosaminidase A)."
       },
       {
-        "text": "Fibrosis of the meninges",
-        "explanation": "Incorrect."
+        "text": "Niemann-Pick Disease",
+        "explanation": "Incorrect (Sphingomyelinase)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Demyelination = Myelin lost, Wire (Axon) usually saved.",
-    "pdfPage": 4
+    "clinicalPearl": "Key takeaway: Krabbe Disease = Globoid Cells + Galactocerebrosidase deficiency.",
+    "pdfPage": 63
   },
   {
     "id": 2,
-    "category": "Pathophysiology",
-    "questionText": "Multiple Sclerosis (MS) is considered an autoimmune disorder initiated by which cell types?",
+    "category": "Neuro: Multiple Sclerosis",
+    "questionText": "A 30-year-old female presents with optic neuritis. MRI shows periventricular white matter plaques. Analysis of her CSF would most likely reveal:",
     "options": [
       {
-        "text": "B cells only",
-        "explanation": "Incorrect."
+        "text": "Xanthochromia",
+        "explanation": "Incorrect (Subarachnoid Hemorrhage)."
       },
       {
-        "text": "Th1 and Th17 T-cells",
-        "explanation": "Correct. They secrete Interferon-gamma and recruit macrophages.",
-        "isCorrect": true
+        "text": "Oligoclonal IgG bands",
+        "explanation": "Correct. Indicates intrathecal antibody production, hallmark of MS."
       },
       {
-        "text": "Neutrophils",
-        "explanation": "Incorrect."
+        "text": "Neutrophilic pleocytosis",
+        "explanation": "Incorrect (Bacterial Meningitis)."
       },
       {
-        "text": "Eosinophils",
-        "explanation": "Incorrect."
+        "text": "Low glucose",
+        "explanation": "Incorrect (Meningitis)."
       },
       {
-        "text": "Basophils",
-        "explanation": "Incorrect."
+        "text": "14-3-3 protein",
+        "explanation": "Incorrect (CJD)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS = T-cell mediated (Th1/Th17) attack on myelin.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: MS = Oligoclonal Bands in CSF.",
+    "pdfPage": 34
   },
   {
     "id": 3,
-    "category": "Genetics",
-    "questionText": "There is a strong genetic association in Multiple Sclerosis with which HLA haplotype?",
+    "category": "Neuro: Infections/Demyelination",
+    "questionText": "Progressive Multifocal Leukoencephalopathy (PML) is caused by reactivation of which virus in immunocompromised patients?",
     "options": [
       {
-        "text": "HLA-B27",
-        "explanation": "Incorrect. Ankylosing Spondylitis."
+        "text": "Herpes Simplex Virus 1",
+        "explanation": "Incorrect (Temporal lobe encephalitis)."
       },
       {
-        "text": "HLA-DR (MHC Class II)",
-        "explanation": "Correct. DR2/DR15 specifically.",
-        "isCorrect": true
+        "text": "JC Polyomavirus",
+        "explanation": "Correct. Infects oligodendrocytes (ground glass nuclei)."
       },
       {
-        "text": "HLA-A3",
+        "text": "Measles Virus",
+        "explanation": "Incorrect (SSPE)."
+      },
+      {
+        "text": "West Nile Virus",
         "explanation": "Incorrect."
       },
       {
-        "text": "HLA-DQ2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "HLA-C",
+        "text": "Cytomegalovirus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS is linked to HLA-DR alleles.",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: PML = JC Virus in oligodendrocytes.",
+    "pdfPage": 71
   },
   {
     "id": 4,
-    "category": "Environmental Factors",
-    "questionText": "A well-known environmental risk factor distribution for Multiple Sclerosis is:",
+    "category": "Neuro: Multiple Sclerosis",
+    "questionText": "The pathogenesis of Multiple Sclerosis is primarily driven by which immune cells?",
     "options": [
       {
-        "text": "Higher incidence near the equator",
+        "text": "Neutrophils and Eosinophils",
         "explanation": "Incorrect."
       },
       {
-        "text": "Higher incidence further from the equator (Latitudinal gradient)",
-        "explanation": "Correct. Linked to low Vitamin D.",
-        "isCorrect": true
+        "text": "Th1 and Th17 T-Cells",
+        "explanation": "Correct. Autoimmune attack against myelin antigens."
       },
       {
-        "text": "Higher incidence in desert climates",
+        "text": "Mast Cells and Basophils",
         "explanation": "Incorrect."
       },
       {
-        "text": "No geographic variation",
-        "explanation": "Incorrect."
+        "text": "Purely B-Cell mediated",
+        "explanation": "Incorrect (T-cells drive the response)."
       },
       {
-        "text": "Highest incidence in tropical rainforests",
+        "text": "Natural Killer Cells only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Low Vitamin D/Sunlight = Higher MS risk.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: MS = Th1/Th17 mediated autoimmunity.",
+    "pdfPage": 13
   },
   {
     "id": 5,
-    "category": "Pathology",
-    "questionText": "Gross examination of a fresh brain with Multiple Sclerosis typically reveals plaque lesions that are:",
+    "category": "Neuro: Demyelination",
+    "questionText": "Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) is classically caused by:",
     "options": [
       {
-        "text": "Soft and necrotic",
+        "text": "Rapid correction of Hypernatremia",
+        "explanation": "Incorrect (Cerebral edema)."
+      },
+      {
+        "text": "Rapid correction of Hyponatremia",
+        "explanation": "Correct. 'From Low to High, your Pons will die'."
+      },
+      {
+        "text": "Vitamin B12 Deficiency",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hemorrhagic and red",
+        "text": "Lead poisoning",
         "explanation": "Incorrect."
       },
       {
-        "text": "Firm (sclerotic) and gray-tan",
-        "explanation": "Correct. Sclerosis = Hard.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cystic and fluid-filled",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Calcified",
+        "text": "Alcohol withdrawal",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Multiple Sclerosis = Many Hard Scars.",
-    "pdfPage": 10
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rapid Hyponatremia correction = Central Pontine Myelinolysis.",
+    "pdfPage": 45
   },
   {
     "id": 6,
-    "category": "Pathology",
-    "questionText": "In an 'active' MS plaque, which cell type is most abundant and implicated in myelin destruction/cleanup?",
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "Adrenoleukodystrophy is an X-linked disorder characterized by the accumulation of:",
     "options": [
       {
-        "text": "Neutrophils",
-        "explanation": "Incorrect."
+        "text": "Galactocerebroside",
+        "explanation": "Incorrect (Krabbe)."
       },
       {
-        "text": "Foamy Macrophages",
-        "explanation": "Correct. They eat the lipid-rich myelin.",
-        "isCorrect": true
+        "text": "Very Long Chain Fatty Acids (VLCFA)",
+        "explanation": "Correct. Defect in ABCD1 transporter prevents peroxisomal entry/breakdown."
       },
       {
-        "text": "Fibroblasts",
-        "explanation": "Incorrect."
+        "text": "Sphingomyelin",
+        "explanation": "Incorrect (Niemann-Pick)."
       },
       {
-        "text": "Neurons",
-        "explanation": "Incorrect."
+        "text": "Sulfatides",
+        "explanation": "Incorrect (Metachromatic)."
       },
       {
-        "text": "Ependymal cells",
-        "explanation": "Incorrect."
+        "text": "Glucocerebroside",
+        "explanation": "Incorrect (Gaucher)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Active plaque = Lipid-laden macrophages.",
-    "pdfPage": 12
+    "clinicalPearl": "Key takeaway: Adrenoleukodystrophy = VLCFA accumulation.",
+    "pdfPage": 65
   },
   {
     "id": 7,
-    "category": "Diagnosis",
-    "questionText": "The presence of Oligoclonal Bands in the CSF of an MS patient represents:",
+    "category": "Neuro: Peripheral Neuropathy",
+    "questionText": "A 40-year-old male develops ascending paralysis and areflexia two weeks after a Campylobacter jejuni infection. CSF shows high protein but normal cell count. The underlying pathology involves:",
     "options": [
       {
-        "text": "Intrathecal production of IgG (Antibodies)",
-        "explanation": "Correct. B-cell clones in CNS.",
-        "isCorrect": true
+        "text": "Loss of anterior horn cells",
+        "explanation": "Incorrect (ALS/Polio)."
       },
       {
-        "text": "Blood-brain barrier breakdown allowing serum proteins in",
-        "explanation": "Incorrect."
+        "text": "Segmental demyelination of peripheral nerves/roots",
+        "explanation": "Correct. Guillain-Barre Syndrome (AIDP)."
       },
       {
-        "text": "Bacterial infection",
-        "explanation": "Incorrect."
+        "text": "Necrosis of the excessive muscle fibers",
+        "explanation": "Incorrect (Rhabdomyolysis)."
       },
       {
-        "text": "Viral capsid proteins",
-        "explanation": "Incorrect."
+        "text": "Blockade of Acetylcholine receptors",
+        "explanation": "Incorrect (Myasthenia Gravis)."
       },
       {
-        "text": "Myelin basic protein",
+        "text": "Infarction of the spinal cord",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Oligoclonal bands = CNS immune activity.",
-    "pdfPage": 11
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Guillain-Barre = Segmental Demyelination + Inflammation.",
+    "pdfPage": 51
   },
   {
     "id": 8,
-    "category": "Clinical Sign",
-    "questionText": "Lhermitte's sign, a shock-like sensation running down the back upon neck flexion, is suggestive of:",
+    "category": "Neuro: Multiple Sclerosis",
+    "questionText": "Uhthoff's phenomenon in Multiple Sclerosis refers to:",
     "options": [
       {
-        "text": "Lumbar radiculopathy",
-        "explanation": "Incorrect."
+        "text": "Electric shock sensation with neck flexion",
+        "explanation": "Incorrect (Lhermitte's sign)."
       },
       {
-        "text": "Cervical spinal cord demyelination",
-        "explanation": "Correct. Common in MS.",
-        "isCorrect": true
+        "text": "Worsening of symptoms with heat/increased body temperature",
+        "explanation": "Correct. Heat slows conduction further in demyelinated fibers."
       },
       {
-        "text": "Optic neuritis",
-        "explanation": "Incorrect."
+        "text": "Visual loss with eye movement paint",
+        "explanation": "Incorrect (Optic Neuritis symptoms)."
       },
       {
-        "text": "Cerebellar lesion",
-        "explanation": "Incorrect."
+        "text": "Improvement of weakness with rest",
+        "explanation": "Incorrect (Myasthenia Gravis)."
       },
       {
-        "text": "Brainstem stroke",
-        "explanation": "Incorrect."
+        "text": "Inability to adduct the eye on lateral gaze",
+        "explanation": "Incorrect (INO)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Neck flexion shock = Lhermitte's.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Uhthoff's = Heat sensitivity.",
+    "pdfPage": 33
   },
   {
     "id": 9,
-    "category": "Clinical Sign",
-    "questionText": "Uhthoff's phenomenon refers to the worsening of neurologic symptoms in MS patients precipitated by:",
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "Metachromatic Leukodystrophy is caused by a deficiency in:",
     "options": [
       {
-        "text": "Cold temperatures",
-        "explanation": "Incorrect."
+        "text": "Galactocerebrosidase",
+        "explanation": "Incorrect (Krabbe)."
       },
       {
-        "text": "Heat or elevated body temperature",
-        "explanation": "Correct. Conduction slows down in heat.",
-        "isCorrect": true
+        "text": "Arylsulfatase A",
+        "explanation": "Correct. Leads to accumulation of sulfatides."
       },
       {
-        "text": "Sleep deprivation",
-        "explanation": "Incorrect."
+        "text": "Hexosaminidase A",
+        "explanation": "Incorrect (Tay-Sachs)."
       },
       {
-        "text": "High altitude",
-        "explanation": "Incorrect."
+        "text": "Alpha-galactosidase A",
+        "explanation": "Incorrect (Fabry)."
       },
       {
-        "text": "Loud noises",
-        "explanation": "Incorrect."
+        "text": "Glucocerebrosidase",
+        "explanation": "Incorrect (Gaucher)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Heat makes MS worse (Uhthoff).",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Metachromatic Leukodystrophy = Arylsulfatase A.",
+    "pdfPage": 60
   },
   {
     "id": 10,
-    "category": "Variant",
-    "questionText": "Neuromyelitis Optica (NMO) is distinguished from MS by the presence of antibodies against:",
+    "category": "Neuro: Demyelination",
+    "questionText": "Neuromyelitis Optica (NMO) is distinct from MS and is associated with antibodies against:",
     "options": [
       {
         "text": "Myelin Basic Protein",
         "explanation": "Incorrect."
       },
       {
-        "text": "Aquaporin-4 (Water channels)",
-        "explanation": "Correct. Astrocyte foot process target.",
-        "isCorrect": true
+        "text": "Aquaporin-4",
+        "explanation": "Correct. Water channel on astrocyte foot processes."
       },
       {
-        "text": "Acetylcholine receptors",
-        "explanation": "Incorrect."
+        "text": "Acetylcholine Receptor",
+        "explanation": "Incorrect (MG)."
       },
       {
-        "text": "Voltage-gated calcium channels",
-        "explanation": "Incorrect."
+        "text": "Voltage-gated Calcium Channels",
+        "explanation": "Incorrect (LEMS)."
       },
       {
         "text": "GM1 Ganglioside",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect (GBS)."
       }
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: NMO = Anti-Aquaporin 4.",
-    "pdfPage": 25
+    "pdfPage": 42
   },
   {
     "id": 11,
-    "category": "Clinical",
-    "questionText": "Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) is classically caused by:",
+    "category": "Neuro: MS Pathology",
+    "questionText": "An 'Active' MS plaque is characterized histologically by:",
     "options": [
       {
-        "text": "Rapid correction of Hypernatremia",
-        "explanation": "Incorrect. Causes cerebral edema.",
-        "isCorrect": false
+        "text": "Dense glial scarring and no inflammation",
+        "explanation": "Incorrect (Inactive plaque)."
       },
       {
-        "text": "Rapid correction of Hyponatremia",
-        "explanation": "Correct. Low to High your Pons will die.",
-        "isCorrect": true
+        "text": "Abundant lipid-laden macrophages and myelin breakdown",
+        "explanation": "Correct. Macrophages cleaning up myelin debris."
       },
       {
-        "text": "Vitamin B12 deficiency",
+        "text": "Neutrophilic abscess formation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Thiamine deficiency",
-        "explanation": "Incorrect."
+        "text": "Granulomas",
+        "explanation": "Incorrect (Sarcoid/TB)."
       },
       {
-        "text": "Lead poisoning",
-        "explanation": "Incorrect."
+        "text": "Lewy bodies",
+        "explanation": "Incorrect (Parkinson's)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Correct Sodium SLOWLY to save the Pons.",
-    "pdfPage": 27
+    "clinicalPearl": "Key takeaway: Active Plaque = Macrophages + Myelin breakdown.",
+    "pdfPage": 20
   },
   {
     "id": 12,
-    "category": "PNS Pathology",
-    "questionText": "Guillain-Barré Syndrome (AIDP) primarily affects:",
+    "category": "Neuro: Demyelination",
+    "questionText": "Acute Disseminated Encephalomyelitis (ADEM) typically presents:",
     "options": [
       {
-        "text": "Oligodendrocytes in the CNS",
+        "text": "As a chronic progressive disease in elderly",
         "explanation": "Incorrect."
       },
       {
-        "text": "Schwann cells and myelin in the Peripheral Nervous System",
-        "explanation": "Correct. Peripheral demyelination.",
-        "isCorrect": true
+        "text": "After a viral infection or vaccination in children",
+        "explanation": "Correct. Monophasic, multifocal, rapid onset."
       },
       {
-        "text": "Astrocytes",
+        "text": "As a purely peripheral neuropathy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Horn Cells",
-        "explanation": "Incorrect. Polio/SMA.",
-        "isCorrect": false
+        "text": "With only spinal cord findings",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Neuromuscular Junction",
-        "explanation": "Incorrect."
+        "text": "With adrenal insufficiency",
+        "explanation": "Incorrect (Adrenoleukodystrophy)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GBS = Peripheral myelin loss (Schwann cells).",
-    "pdfPage": 30
+    "clinicalPearl": "Key takeaway: ADEM = Post-viral/Vaccine in kids.",
+    "pdfPage": 43
   },
   {
     "id": 13,
-    "category": "Infection",
-    "questionText": "Which infectious agent is most commonly associated with triggering Guillain-Barré Syndrome?",
+    "category": "Neuro: MS Clinical",
+    "questionText": "Lhermitte's sign is described as:",
     "options": [
       {
-        "text": "Escherichia coli",
+        "text": "Pain behind the eye",
         "explanation": "Incorrect."
       },
       {
-        "text": "Campylobacter jejuni",
-        "explanation": "Correct. Molecular mimicry.",
-        "isCorrect": true
+        "text": "Electric shock sensation down the spine with neck flexion",
+        "explanation": "Correct. Indicates cervical cord demyelination."
       },
       {
-        "text": "Staphylococcus aureus",
+        "text": "Vertigo with head turning",
         "explanation": "Incorrect."
       },
       {
-        "text": "Streptococcus pneumoniae",
+        "text": "Hand tremor with movement",
         "explanation": "Incorrect."
       },
       {
-        "text": "Treponema pallidum",
-        "explanation": "Incorrect."
+        "text": "Weakness after a hot bath",
+        "explanation": "Incorrect (Uhthoff)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Campylobacter diarrhea -> GBS paralysis.",
-    "pdfPage": 30
-  },
-  {
-    "id": 14,
-    "category": "Diagnosis",
-    "questionText": "The classic CSF finding in Guillain-Barré Syndrome is 'Albuminocytologic Dissociation', defined as:",
-    "options": [
-      {
-        "text": "Elevated protein, elevated WBCs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Elevated protein, normal WBCs (<10)",
-        "explanation": "Correct. High albumin, low cyto (cells).",
-        "isCorrect": true
-      },
-      {
-        "text": "Normal protein, elevated WBCs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Low glucose",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red blood cells present",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GBS = Thick protein soup, no cells.",
+    "clinicalPearl": "Key takeaway: Lhermitte's = Barber Chair Sign = Neck Flexion Shock.",
     "pdfPage": 33
   },
   {
-    "id": 15,
-    "category": "Leukodystrophy",
-    "questionText": "Metachromatic Leukodystrophy is caused by a deficiency in which lysosomal enzyme?",
+    "id": 14,
+    "category": "Neuro: MS Pathology",
+    "questionText": "In chronic MS plaques, the firmness or 'sclerosis' is due to:",
     "options": [
       {
-        "text": "Galactocerebrosidase",
-        "explanation": "Incorrect. Krabbe."
+        "text": "Calcification",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Arylsulfatase A",
-        "explanation": "Correct. Accumulates sulfatides.",
-        "isCorrect": true
+        "text": "Astrocytic Gliosis",
+        "explanation": "Correct. Reactive astrocytes form a glial scar."
       },
       {
-        "text": "Hexosaminidase A",
-        "explanation": "Incorrect. Tay-Sachs."
+        "text": "Fibrosis (Collagen)",
+        "explanation": "Incorrect (No fibroblasts in CNS brain parenchyma usually)."
       },
       {
-        "text": "Glucocerebrosidase",
-        "explanation": "Incorrect. Gaucher."
+        "text": "Amyloid deposition",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Sphingomyelinase",
-        "explanation": "Incorrect. Niemann-Pick."
+        "text": "Bone formation",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Metachromatic = Arylsulfatase A.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Sclerosis in MS = Gliosis.",
+    "pdfPage": 23
+  },
+  {
+    "id": 15,
+    "category": "Neuro: Peripheral Neuropathy",
+    "questionText": "Albuminocytologic dissociation in Guillain-Barre CSF means:",
+    "options": [
+      {
+        "text": "High Cells, Normal Protein",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "High Protein, Normal Cell count",
+        "explanation": "Correct. The classic finding."
+      },
+      {
+        "text": "Low Glucose, High Protein",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Presence of RBCs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Presence of Oligoclonal bands",
+        "explanation": "Incorrect (MS)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Albuminocytologic dissociation = High Protein / Normal Cells.",
+    "pdfPage": 56
   },
   {
     "id": 16,
-    "category": "Leukodystrophy",
-    "questionText": "Krabbe Disease is histologically characterized by the presence of:",
+    "category": "Neuro: PML",
+    "questionText": "Histologically, PML viral inclusions are found in:",
     "options": [
-      {
-        "text": "Lewy Bodies",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Globoid cells (engorged multinucleated macrophages)",
-        "explanation": "Correct. Globoid Cell Leukodystrophy.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rosenthal fibers",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neurofibrillary tangles",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Negri bodies",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Krabbe = Globoid cells.",
-    "pdfPage": 40
-  },
-  {
-    "id": 17,
-    "category": "Leukodystrophy",
-    "questionText": "Adrenoleukodystrophy (ALD) is an X-linked disorder involving the accumulation of:",
-    "options": [
-      {
-        "text": "Copper",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Very Long Chain Fatty Acids (VLCFAs)",
-        "explanation": "Correct. Peroxisomal transporter defect.",
-        "isCorrect": true
-      },
-      {
-        "text": "Glycogen",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Iron",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Uric acid",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ALD = VLCFA buildup (Lorenzo's Oil).",
-    "pdfPage": 41
-  },
-  {
-    "id": 18,
-    "category": "Infection",
-    "questionText": "Progressive Multifocal Leukoencephalopathy (PML) is caused by the reactivation of which virus?",
-    "options": [
-      {
-        "text": "Herpes Simplex Virus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "JC Polyomavirus",
-        "explanation": "Correct. John Cunningham virus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Measles",
-        "explanation": "Incorrect. SSPE."
-      },
-      {
-        "text": "Rabies",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "West Nile Virus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PML = JC Virus.",
-    "pdfPage": 45
-  },
-  {
-    "id": 19,
-    "category": "Pathology",
-    "questionText": "In PML, the JC virus preferentially infects and lyses which CNS cell type, causing demyelination?",
-    "options": [
-      {
-        "text": "Astrocytes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Oligodendrocytes",
-        "explanation": "Correct. They make the myelin.",
-        "isCorrect": true
-      },
       {
         "text": "Neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Microglia",
-        "explanation": "Incorrect."
+        "text": "Oligodendrocyte nuclei",
+        "explanation": "Correct. Enlarged, glassy, amphophilic nuclei."
       },
       {
         "text": "Endothelial cells",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: JC Virus kills Oligodendrocytes.",
-    "pdfPage": 45
-  },
-  {
-    "id": 20,
-    "category": "Histology",
-    "questionText": "A hallmark histologic finding in PML is:",
-    "options": [
-      {
-        "text": "Neutrophilic abscesses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glassy amphophilic viral inclusions in oligodendrocyte nuclei and bizarre astrocytes",
-        "explanation": "Correct. Look like tumors but are viral.",
-        "isCorrect": true
-      },
-      {
-        "text": "Granulomas",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lewy bodies",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Amyloid plaques",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PML = Bizarre astrocytes + Viral inclusions.",
-    "pdfPage": 45
-  },
-  {
-    "id": 21,
-    "category": "Diagnosis",
-    "questionText": "In Multiple Sclerosis, the term 'dissemination in space and time' refers to:",
-    "options": [
-      {
-        "text": "The psychological impact of the disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Clinical or MRI evidence of lesions in different CNS regions occurring at different times",
-        "explanation": "Correct. Diagnostic criteria.",
-        "isCorrect": true
-      },
-      {
-        "text": "Spread to other organs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rapid progression to death",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contagious nature of the disease",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS = Different spots, Different times.",
-    "pdfPage": 6
-  },
-  {
-    "id": 22,
-    "category": "Treatment",
-    "questionText": "Which therapy is indicated for Guillain-Barré Syndrome?",
-    "options": [
-      {
-        "text": "High dose oral steroids",
-        "explanation": "Incorrect. Not effective.",
-        "isCorrect": false
-      },
-      {
-        "text": "Plasmapheresis (Plasma Exchange) or IVIG",
-        "explanation": "Correct. Removes/blocks antibodies.",
-        "isCorrect": true
-      },
-      {
-        "text": "Antibiotics",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Surgery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Radiation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GBS = Wash the blood (Plasma exchange) or IVIG.",
-    "pdfPage": 34
-  },
-  {
-    "id": 23,
-    "category": "ADEM",
-    "questionText": "Acute Disseminated Encephalomyelitis (ADEM) is typically:",
-    "options": [
-      {
-        "text": "A chronic progressive disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A monophasic demyelinating illness following a viral infection or vaccination",
-        "explanation": "Correct. One hit, diffuse.",
-        "isCorrect": true
-      },
-      {
-        "text": "Caused by a bacteria",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Strictly localized to the spine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Always fatal",
-        "explanation": "Incorrect. 20% mortality.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ADEM = Post-viral burst of demyelination.",
-    "pdfPage": 26
-  },
-  {
-    "id": 24,
-    "category": "Anatomy",
-    "questionText": "Multiple sclerosis is primarily a disease of:",
-    "options": [
-      {
-        "text": "Gray matter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "White matter",
-        "explanation": "Correct. Myelinated tracts.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dura mater",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Choroid plexus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Peripheral nerves",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS = White Matter disease.",
-    "pdfPage": 10
-  },
-  {
-    "id": 25,
-    "category": "Cells",
-    "questionText": "In the CNS, the cell responsible for creating and maintaining the myelin sheath is the:",
-    "options": [
-      {
-        "text": "Schwann cell",
-        "explanation": "Incorrect. PNS."
-      },
-      {
-        "text": "Oligodendrocyte",
-        "explanation": "Correct. Oligo = CNS.",
-        "isCorrect": true
-      },
-      {
-        "text": "Astrocyte",
-        "explanation": "Incorrect."
       },
       {
         "text": "Microglia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Neuron",
+        "text": "Schwann cells",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CNS = Oligo, PNS = Schwann.",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: PML affects Oligodendrocytes.",
+    "pdfPage": 73
   },
   {
-    "id": 26,
-    "category": "Symptom",
-    "questionText": "A common presentation of Adrenoleukodystrophy in young boys includes:",
+    "id": 17,
+    "category": "Neuro: MS Imaging",
+    "questionText": "Which imaging modality is most sensitive for detecting MS plaques?",
     "options": [
       {
-        "text": "Liver failure",
+        "text": "CT Scan",
+        "explanation": "Incorrect (Often normal)."
+      },
+      {
+        "text": "MRI",
+        "explanation": "Correct. Shows active and inactive lesions."
+      },
+      {
+        "text": "X-ray",
         "explanation": "Incorrect."
       },
       {
-        "text": "Adrenal insufficiency (Addison's) and cognitive/behavioral decline",
-        "explanation": "Correct. Adrenal + Brain.",
-        "isCorrect": true
-      },
-      {
-        "text": "Kidney stones",
+        "text": "Ultrasound",
         "explanation": "Incorrect."
       },
       {
-        "text": "Rash",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Heart failure",
+        "text": "PET Scan",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ALD = Bronze skin (Adrenal) + Brain failure.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: MRI is the gold standard for MS.",
+    "pdfPage": 37
   },
   {
-    "id": 27,
-    "category": "Pathology",
-    "questionText": "Astrocytes in demyelinated plaques become cellularly enlarged and fibrous, a process known as:",
+    "id": 18,
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "Metachromatic Leukodystrophy gets its name because sulfatides cause dyes (like cresyl violet) to:",
     "options": [
       {
-        "text": "Apoptosis",
+        "text": "Fade rapidly",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gliosis (Astrogliosis)",
-        "explanation": "Correct. CNS scarring.",
-        "isCorrect": true
+        "text": "Change color (e.g., Blue to Red)",
+        "explanation": "Correct. This is metachromasia."
       },
       {
-        "text": "Metaplasia",
+        "text": "Fluoresce",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dysplasia",
+        "text": "Precipitate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Neoplasia",
+        "text": "Disappear",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Gliosis = Brain scar tissue.",
-    "pdfPage": 11
+    "clinicalPearl": "Key takeaway: Metachromasia = Color change.",
+    "pdfPage": 61
   },
   {
-    "id": 28,
-    "category": "Mechanism",
-    "questionText": "Why does demyelination slow down nerve impulses?",
+    "id": 19,
+    "category": "Neuro: MS Pathology",
+    "questionText": "In MS, axons are typically:",
     "options": [
       {
-        "text": "It destroys the neurotransmitters",
+        "text": "Destroyed early in the disease process",
+        "explanation": "Incorrect (Can happen, but less common early)."
+      },
+      {
+        "text": "Preserved relative to myelin",
+        "explanation": "Correct. Though axonal loss occurs late/severe, relative preservation distinguishes it from infarcts."
+      },
+      {
+        "text": "Hypertrophied",
         "explanation": "Incorrect."
       },
       {
-        "text": "It disrupts Saltatory Conduction",
-        "explanation": "Correct. Can't jump from node to node.",
-        "isCorrect": true
-      },
-      {
-        "text": "It kills the mitochondria",
+        "text": "Replaced by fibrosis",
         "explanation": "Incorrect."
       },
       {
-        "text": "It blocks calcium channels",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It increases axon diameter",
-        "explanation": "Incorrect."
+        "text": "Unaffected completely forever",
+        "explanation": "Incorrect (Eventually are lost)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Myelin allows jumping (Saltatory).",
-    "pdfPage": 3
+    "clinicalPearl": "Key takeaway: Demyelination spares axons initially.",
+    "pdfPage": 14
   },
   {
-    "id": 29,
-    "category": "Clinical",
-    "questionText": "A 22-year-old female presents with unilateral vision loss and pain with eye movement. This is most likely:",
+    "id": 20,
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "Adrenoleukodystrophy involves atrophy of which gland?",
     "options": [
       {
-        "text": "Glaucoma",
+        "text": "Thyroid",
         "explanation": "Incorrect."
       },
       {
-        "text": "Optic Neuritis",
-        "explanation": "Correct. First sign of MS usually.",
-        "isCorrect": true
+        "text": "Adrenal Cortex",
+        "explanation": "Correct. Leading to adrenal insufficiency (Addisonian symptoms)."
       },
       {
-        "text": "Cataracts",
+        "text": "Pituitary",
         "explanation": "Incorrect."
       },
       {
-        "text": "Retinal detachment",
+        "text": "Pancreas",
         "explanation": "Incorrect."
       },
       {
-        "text": "Conjunctivitis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Painful vision loss in young woman = MS.",
-    "pdfPage": 20
-  },
-  {
-    "id": 30,
-    "category": "Genetics",
-    "questionText": "Which leukodystrophy is inherited in an X-linked recessive pattern?",
-    "options": [
-      {
-        "text": "Metachromatic Leukodystrophy",
-        "explanation": "Incorrect. Autosomal Recessive."
-      },
-      {
-        "text": "Adrenoleukodystrophy",
-        "explanation": "Correct. Boys affected.",
-        "isCorrect": true
-      },
-      {
-        "text": "Krabbe Disease",
-        "explanation": "Incorrect. Autosomal Recessive."
-      },
-      {
-        "text": "MS",
-        "explanation": "Incorrect. Polygenic/Complex."
-      },
-      {
-        "text": "GBS",
-        "explanation": "Incorrect. Sporadic/Acquired."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ALD is X-linked.",
-    "pdfPage": 41
-  },
-  {
-    "id": 31,
-    "category": "CSF",
-    "questionText": "In MS, the protein level in CSF is usually:",
-    "options": [
-      {
-        "text": "Significantly decreased",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mildly to moderately elevated",
-        "explanation": "Correct. Along with oligoclonal bands.",
-        "isCorrect": true
-      },
-      {
-        "text": "Extremely high (>1000)",
-        "explanation": "Incorrect. Seen in Froin syndrome or bacterial meningitis."
-      },
-      {
-        "text": "Absent",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Completely normal always",
+        "text": "Thymus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mild protein elevation in MS.",
-    "pdfPage": 11
+    "clinicalPearl": "Key takeaway: Adrenoleukodystrophy = Brain + Adrenal.",
+    "pdfPage": 66
   },
   {
-    "id": 32,
-    "category": "Stain",
-    "questionText": "Luxol Fast Blue is a histological stain used specifically to visualize:",
-    "options": [
-      {
-        "text": "DNA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myelin",
-        "explanation": "Correct. Stains myelin blue.",
-        "isCorrect": true
-      },
-      {
-        "text": "Amyloid",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Iron",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glycogen",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Luxol Fast Blue = Myelin Stain.",
-    "pdfPage": 12
-  },
-  {
-    "id": 33,
-    "category": "Pathology",
-    "questionText": "Metachromasia in Metachromatic Leukodystrophy refers to:",
-    "options": [
-      {
-        "text": "Rapid color change of the skin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A shift in the color spectrum of a dye (e.g. blue to red) due to sulfatide binding",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Loss of color vision",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Change in eye color",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Staining of the liver",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Metachromatic = Color changing dye.",
-    "pdfPage": 39
-  },
-  {
-    "id": 34,
-    "category": "Course",
-    "questionText": "The most common clinical course pattern for Multiple Sclerosis at onset is:",
+    "id": 21,
+    "category": "Neuro: Demyelination",
+    "questionText": "Which is the most common clinical course of Multiple Sclerosis?",
     "options": [
       {
         "text": "Primary Progressive",
@@ -1037,55 +610,443 @@ window.Test_L42 = [
       },
       {
         "text": "Relapsing-Remitting",
-        "explanation": "Correct. Attacks with recovery.",
-        "isCorrect": true
+        "explanation": "Correct. Discrete attacks with full or partial recovery."
       },
       {
         "text": "Secondary Progressive",
+        "explanation": "Incorrect (Usually follows RRMS)."
+      },
+      {
+        "text": "Progressive Relapsing",
+        "explanation": "Incorrect (Obsolete term)."
+      },
+      {
+        "text": "Fulminant/Marburg",
+        "explanation": "Incorrect (Rare)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: RRMS is the most common form (85%).",
+    "pdfPage": 40
+  },
+  {
+    "id": 22,
+    "category": "Neuro: PML",
+    "questionText": "High power microscopy of PML bizarre astrocytes can be confused with:",
+    "options": [
+      {
+        "text": "Malignant tumor cells (Glioblastoma)",
+        "explanation": "Correct. They look very atypical but are reactive."
+      },
+      {
+        "text": "Neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Acute Fulminant",
+        "text": "Lymphocytes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Asymptomatic",
+        "text": "Plasma cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bacteria",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: PML astrocytes look bizarre/malignant.",
+    "pdfPage": 74
+  },
+  {
+    "id": 23,
+    "category": "Neuro: Peripheral Neuropathy",
+    "questionText": "The primary target of autoimmune attack in Guillain-Barre is:",
+    "options": [
+      {
+        "text": "Oligodendrocytes",
+        "explanation": "Incorrect (CNS)."
+      },
+      {
+        "text": "Schwann Cells / Peripheral Myelin",
+        "explanation": "Correct. Or the axon itself in variants."
+      },
+      {
+        "text": "Astrocytes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ependymal Cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Meninges",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Relapsing-Remitting is most common start.",
-    "pdfPage": 23
+    "clinicalPearl": "Key takeaway: GBS = Peripheral nerve/Schwann cell attack.",
+    "pdfPage": 52
   },
   {
-    "id": 35,
-    "category": "Risk",
-    "questionText": "Progressive Multifocal Leukoencephalopathy (PML) is a significant risk in patients with:",
+    "id": 24,
+    "category": "Neuro: Multiple Sclerosis",
+    "questionText": "Periventricular plaques in MS classically orient perpendicular to the ventricles. These are called:",
+    "options": [
+      {
+        "text": "Dawson's Fingers",
+        "explanation": "Correct. Follow the path of periventricular veins."
+      },
+      {
+        "text": "Rosenthal Fibers",
+        "explanation": "Incorrect (Pilocytic Astrocytoma)."
+      },
+      {
+        "text": "Negri Bodies",
+        "explanation": "Incorrect (Rabies)."
+      },
+      {
+        "text": "Lisch Nodules",
+        "explanation": "Incorrect (NF1)."
+      },
+      {
+        "text": "Neurofibrillary Tangles",
+        "explanation": "Incorrect (Alzheimer's)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Dawson's Fingers = Periventricular MS plaques.",
+    "pdfPage": 17
+  },
+  {
+    "id": 25,
+    "category": "Neuro: Demyelination",
+    "questionText": "Acute necrotizing hemorrhagic encephalomyelitis is essentially a fulminant form of:",
+    "options": [
+      {
+        "text": "MS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ADEM",
+        "explanation": "Correct. Very aggressive, high mortality."
+      },
+      {
+        "text": "PML",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "SSPE",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GBS",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ANHE = Severe ADEM.",
+    "pdfPage": 44
+  },
+  {
+    "id": 26,
+    "category": "Neuro: Leukodystrophies",
+    "questionText": "Psychosine toxicity is a proposed mechanism for cell death in:",
+    "options": [
+      {
+        "text": "MS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Krabbe Disease",
+        "explanation": "Correct. Galactosylsphingosine (psychosine) accumulates."
+      },
+      {
+        "text": "Metachromatic Leukodystrophy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adrenoleukodystrophy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Canavan Disease",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Psychosine destroys oligodendrocytes in Krabbe.",
+    "pdfPage": 64
+  },
+  {
+    "id": 27,
+    "category": "Neuro: MS Pathology",
+    "questionText": "Luxol Fast Blue stain is used to visualize:",
+    "options": [
+      {
+        "text": "Amyloid",
+        "explanation": "Incorrect (Congo Red)."
+      },
+      {
+        "text": "Myelin",
+        "explanation": "Correct. Normal myelin is blue; demyelinated areas are white/pale."
+      },
+      {
+        "text": "Iron",
+        "explanation": "Incorrect (Prussian Blue)."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect (Von Kossa)."
+      },
+      {
+        "text": "DNA",
+        "explanation": "Incorrect (Feulgen)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Luxol Fast Blue = Myelin stain.",
+    "pdfPage": 21
+  },
+  {
+    "id": 28,
+    "category": "Neuro: MS",
+    "questionText": "Separation of lesions in 'Time and Space' is the diagnostic hallmark of:",
+    "options": [
+      {
+        "text": "Stroke",
+        "explanation": "Incorrect (Acute, focal)."
+      },
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Correct. Different neurological deficits occurring at different times."
+      },
+      {
+        "text": "GBS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alzheimer's",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: MS = Time and Space.",
+    "pdfPage": 11
+  },
+  {
+    "id": 29,
+    "category": "Neuro: Demyelination",
+    "questionText": "Internuclear Ophthalmoplegia (INO) is caused by a lesion in the:",
+    "options": [
+      {
+        "text": "Optic Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Correct. Disconnects CN VI and CN III nuclei. Eye cannot adduct (look in)."
+      },
+      {
+        "text": "Lateral Geniculate Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Oculomotor Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Abducens Nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: INO = MLF lesion.",
+    "pdfPage": 33
+  },
+  {
+    "id": 30,
+    "category": "Neuro: Pathogenesis",
+    "questionText": "Saltatory conduction refers to:",
+    "options": [
+      {
+        "text": "Continuous conduction down an unmyelinated axon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Jumping of action potentials between Nodes of Ranvier",
+        "explanation": "Correct. Myelin speeds this up."
+      },
+      {
+        "text": "Synaptic transmission",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Retrograde transport",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle contraction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Myelin allows saltatory (jumping) conduction.",
+    "pdfPage": 5
+  },
+  {
+    "id": 31,
+    "category": "Neuro: MS CSF",
+    "questionText": "The IgG Index in Multiple Sclerosis is typically:",
+    "options": [
+      {
+        "text": "Decreased",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Elevated",
+        "explanation": "Correct. Reflects intrathecal synthesis of IgG."
+      },
+      {
+        "text": "Normal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Zero",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Variable",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: High IgG Index supports MS diagnosis.",
+    "pdfPage": 34
+  },
+  {
+    "id": 32,
+    "category": "Neuro: Pathology",
+    "questionText": "Oil Red O stain is used on fresh frozen tissue in active MS plaques to demonstrate:",
+    "options": [
+      {
+        "text": "Amyloid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lipid-laden macrophages",
+        "explanation": "Correct. Stains neutral fats red."
+      },
+      {
+        "text": "Iron deposits",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bacteria",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Oil Red O = Fat/Lipids.",
+    "pdfPage": 22
+  },
+  {
+    "id": 33,
+    "category": "Neuro: PML",
+    "questionText": "The major risk factor for developing PML is:",
     "options": [
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Severe immunosuppression (e.g., AIDS, Transplant)",
-        "explanation": "Correct. Immune system keeps JC virus in check normally.",
-        "isCorrect": true
+        "text": "Immunosuppression (e.g., AIDS, Transplant)",
+        "explanation": "Correct. Allows reactivation of dormant JC virus."
       },
       {
-        "text": "Hyperlipidemia",
+        "text": "Smoking",
         "explanation": "Incorrect."
       },
       {
-        "text": "Osteoporosis",
+        "text": "High cholesterol",
         "explanation": "Incorrect."
       },
       {
-        "text": "Migraines",
+        "text": "Alcohol use",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: No T-cells? JC virus wakes up.",
-    "pdfPage": 44
+    "clinicalPearl": "Key takeaway: PML requires Immunosuppression.",
+    "pdfPage": 72
+  },
+  {
+    "id": 34,
+    "category": "Neuro: MS Genetic",
+    "questionText": "Which genetic haplotype has the strongest association with Multiple Sclerosis?",
+    "options": [
+      {
+        "text": "HLA-B27",
+        "explanation": "Incorrect (Ankylosing Spondylitis)."
+      },
+      {
+        "text": "HLA-DR2 (DRB1*1501)",
+        "explanation": "Correct. MHC Class II association."
+      },
+      {
+        "text": "HLA-DQ2",
+        "explanation": "Incorrect (Celiac)."
+      },
+      {
+        "text": "HLA-A3",
+        "explanation": "Incorrect (Hemochromatosis)."
+      },
+      {
+        "text": "HLA-B51",
+        "explanation": "Incorrect (Behcet's)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: HLA-DR2 is associated with MS.",
+    "pdfPage": 12
+  },
+  {
+    "id": 35,
+    "category": "Neuro: Demyelination",
+    "questionText": "Locked-in Syndrome can be a devastating consequence of:",
+    "options": [
+      {
+        "text": "Optic Neuritis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Central Pontine Myelinolysis",
+        "explanation": "Correct. Demyelination of the basis pontis disrupts motor tracts but spares reticular formation (consciousness)."
+      },
+      {
+        "text": "GBS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MS",
+        "explanation": "Incorrect (Usually less catastrophic focal lesions)."
+      },
+      {
+        "text": "Polio",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CPM can cause Locked-in Syndrome.",
+    "pdfPage": 48
   }
 ];

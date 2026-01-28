@@ -1,28 +1,59 @@
 window.Test_L27 = [
   {
     "id": 1,
+    "category": "Diagnosis: Innominate",
+    "questionText": "A 25-year-old female presents with right-sided low back pain. evaluation reveals a positive Standing Flexion Test on the right. The right ASIS is lower than the left, and the right PSIS is higher than the left. The right leg appears longer than the left. What is the most likely diagnosis?",
+    "options": [
+      {
+        "text": "Right Posterior Innominate Rotation",
+        "explanation": "Incorrect. Posterior rotation presents with High ASIS, Low PSIS, Short Leg."
+      },
+      {
+        "text": "Right Anterior Innominate Rotation",
+        "explanation": "Correct. Anterior rotation = ASIS Low, PSIS High, Long Leg. +SFT lateralizes to Right.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Superior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Inferior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Anterior Innominate Rotation",
+        "explanation": "Incorrect. SFT is positive on the Right."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Innominate = ASIS Low / PSIS High / Long Leg.",
+    "pdfPage": 16
+  },
+  {
+    "id": 2,
     "category": "Counterstrain Basics",
-    "questionText": "Counterstrain is classified as which type of osteopathic manipulative technique?",
+    "questionText": "Counterstrain is defined as an osteopathic technique that is:",
     "options": [
       {
         "text": "Direct and Active",
-        "explanation": "Incorrect. This describes Muscle Energy."
+        "explanation": "Incorrect. (Muscle Energy)."
       },
       {
         "text": "Indirect and Passive",
-        "explanation": "Correct. We move the patient AWAY from the barrier (to ease/comfort) and the patient remains relaxed (Passive).",
+        "explanation": "Correct. Moves away from the barrier (Indirect) and the patient does no work (Passive).",
         "isCorrect": true
       },
       {
         "text": "Direct and Passive",
-        "explanation": "Incorrect. HVLA/Articulatory."
+        "explanation": "Incorrect. (HVLA/Articulatory)."
       },
       {
         "text": "Indirect and Active",
         "explanation": "Incorrect."
       },
       {
-        "text": "Combined method",
+        "text": "Combined Method",
         "explanation": "Incorrect."
       }
     ],
@@ -31,311 +62,184 @@ window.Test_L27 = [
     "pdfPage": 3
   },
   {
-    "id": 2,
-    "category": "Counterstrain Steps",
-    "questionText": "After identifying a tender point and assigning it a pain scale of 10/10, the next step in Counterstrain is to:",
+    "id": 3,
+    "category": "Diagnosis: Innominate",
+    "questionText": "A 40-year-old male has a positive Standing Flexion Test on the LEFT. His Left ASIS is superior (high) and his Left PSIS is inferior (low). His left leg appears shorter than the right. What is the diagnosis?",
     "options": [
       {
-        "text": "Apply a rapid thrust",
-        "explanation": "Incorrect. HVLA."
+        "text": "Left Anterior Innominate Rotation",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Place the patient in a position of comfort (ease) to reduce tenderness",
-        "explanation": "Correct. The goal is to reduce tenderness by at least 70% (pain score < 3/10).",
+        "text": "Left Posterior Innominate Rotation",
+        "explanation": "Correct. Posterior rotation = ASIS High, PSIS Low, Short Leg.",
         "isCorrect": true
       },
       {
-        "text": "Hold pressure for 90 seconds immediately",
-        "explanation": "Incorrect. Must position first.",
-        "isCorrect": false
+        "text": "Right Posterior Innominate Rotation",
+        "explanation": "Incorrect. SFT is positive on Left."
       },
       {
-        "text": "Ask the patient to contract their muscles",
-        "explanation": "Incorrect. Muscle Energy."
+        "text": "Left Superior Innominate Shear",
+        "explanation": "Incorrect. Landmarks would be all high."
       },
       {
-        "text": "Apply ice",
+        "text": "Right Anterior Innominate Rotation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Step 2: Position to comfort (Mobile Point).",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: Posterior Innominate = ASIS High / PSIS Low / Short Leg.",
+    "pdfPage": 17
   },
   {
-    "id": 3,
-    "category": "Counterstrain Steps",
-    "questionText": "The standard duration for holding a Counterstrain position for a somatic dysfunction (ribs/spine/pelvis) is typically:",
+    "id": 4,
+    "category": "Counterstrain Protocol",
+    "questionText": "What is the standard duration to hold a somatic dysfunction in the treatment position during Counterstrain?",
     "options": [
-      {
-        "text": "10 seconds",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "90 seconds",
-        "explanation": "Correct. 90 seconds is the standard hold time to allow the proprioceptor (muscle spindle) reflex to reset.",
-        "isCorrect": true
-      },
-      {
-        "text": "3 minutes",
-        "explanation": "Incorrect."
-      },
       {
         "text": "30 seconds",
         "explanation": "Incorrect."
       },
       {
-        "text": "5 minutes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hold time = 90 seconds.",
-    "pdfPage": 6
-  },
-  {
-    "id": 4,
-    "category": "Counterstrain Steps",
-    "questionText": "After holding the position for 90 seconds, the final critical step is to:",
-    "options": [
-      {
-        "text": "Ask the patient to jump off the table",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Passively return the patient to neutral",
-        "explanation": "Correct. The patient must NOT help (Passive return) to avoid re-triggering the gamma gain/muscle spindle reflex.",
+        "text": "90 seconds",
+        "explanation": "Correct. Required to reset the muscle spindle reflex.",
         "isCorrect": true
       },
       {
-        "text": "Perform HVLA",
+        "text": "5 minutes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Actively have the patient return to neutral",
-        "explanation": "Incorrect. NEVER active return in CS.",
-        "isCorrect": false
+        "text": "10 seconds",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Apply heat",
+        "text": "3 minutes",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Passive Return to Neutral is mandatory.",
+    "clinicalPearl": "Key takeaway: Hold CS for 90 seconds.",
     "pdfPage": 6
   },
   {
     "id": 5,
-    "category": "HVLA Basics",
-    "questionText": "HVLA stands for:",
+    "category": "Treatment: HVLA",
+    "questionText": "You are setting up to treat a Right Superior Innominate Shear (Upslip). The most appropriate setup involves placing the leg in:",
     "options": [
       {
-        "text": "High Volume Low Amplitude",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "High Velocity Low Amplitude",
-        "explanation": "Correct. Quick thrust (High Velocity) over a short distance (Low Amplitude).",
+        "text": "Abduction and Internal Rotation",
+        "explanation": "Correct. This 'closest packs' the hip to transmit traction force effectively to the SI joint.",
         "isCorrect": true
       },
       {
-        "text": "High Velocity Long Axis",
+        "text": "Adduction and External Rotation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Heavy Velocity Low Action",
+        "text": "Flexion and External Rotation",
         "explanation": "Incorrect."
       },
       {
-        "text": "High Voltage Low Amperage",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: HVLA = High Velocity Low Amplitude.",
-    "pdfPage": 13
-  },
-  {
-    "id": 6,
-    "category": "HVLA Anterior Innominate",
-    "questionText": "An Anterior Innominate Rotation implies the ASIS is _____ and the PSIS is _____ on the affected side.",
-    "options": [
-      {
-        "text": "Superior, Inferior",
-        "explanation": "Incorrect. Posterior rotation."
-      },
-      {
-        "text": "Inferior, Superior",
-        "explanation": "Correct. The innominate rotates forward, bringing the front (ASIS) down and the back (PSIS) up.",
-        "isCorrect": true
-      },
-      {
-        "text": "Inferior, Inferior",
-        "explanation": "Incorrect. Downslip."
-      },
-      {
-        "text": "Superior, Superior",
-        "explanation": "Incorrect. Upslip."
-      },
-      {
-        "text": "Medial, Lateral",
-        "explanation": "Incorrect. Inflare/Outflare."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Rot = ASIS Low, PSIS High.",
-    "pdfPage": 16
-  },
-  {
-    "id": 7,
-    "category": "HVLA Anterior Innominate",
-    "questionText": "To treat an ANTERIOR Innominate Rotation with HVLA (Sims position/Lateral recumbent), the thrust vector is directed:",
-    "options": [
-      {
-        "text": "Posteriorly and Superiorly",
+        "text": "Extension and Internal Rotation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anteriorly and Inferiorly (towards the hip/leg)",
-        "explanation": "Incorrect. Wait, re-reading transcript. Transcript says for LEFT picture (Anterior Innominate): 'vector force is directed in an anterior but also inferior direction'. WAIT. If it's anteriorly rotated, you want to rotate it POSTERIORLY. Usually, you pull the ischial tuberosity forward or push the ASIS back. Let's check the transcript logic. 'The thrust is aimed at rotating the right innominate in a posterior direction'. To rotate posteriorly, you need to bring the PSIS DOWN or the ASIS UP. In lateral recumbent setup, you often contact the PSIS/Iliac crest. If you push the posterior crest ANTERIORLY and INFERIORLY? No, pushing PSIS anteriorly rotates it anteriorly. Pushing Ischial Tuberosity anteriorly rotates it posteriorly. Transcript says: 'contact ... posterior iliac crest'. Pushing posterior crest ANTERIORLY would worsen an anterior rotation. \n\nLet's re-read carefully. 'Picture on Left... arrow... directed in an anterior but also inferior direction... towards hip and leg... setup for an Anteriorly rotated innominate'. \n\nActually, standard HVLA for Anterior Innominate involves flexing the hip (to rotate innominate posterior) and thrusting. Or contacting the ischial tuberosity and thrusting anteriorly. \n\nLet's prioritize the transcript's specific visual description if possible. 'Provider forearm... on upper buttock posterior iliac crest'. If you push the top of the pelvis forward, it rotates anteriorly. That treats a POSTERIOR innominate. \n\nTranscript Correction: \nLine 822 (Picture on LEFT): 'Vector force... Anterior but also Inferior'. Line 849: 'This is setup for an Anteriorly rotated innominate'. \nThis sounds contradictory to biomechanics if contacting the crest. UNLESS the patient is prone? No, lateral recumbent. \nLet's look at Picture on RIGHT: 'Vector force... Anterior and Superior... towards provider's abdomen'. \n\nMaybe the transcript flipped them? \nStandard Protocol: \n- Posterior Innominate (ASIS High): Need to rotate Anteriorly. Setup: Extension of leg. Thrust: Push PSIS/Crest Anteriorly. \n- Anterior Innominate (ASIS Low): Need to rotate Posteriorly. Setup: Flexion of leg. Thrust: Pull Ischial Tuberosity Anteriorly/Inferiorly. \n\nTranscript says: \nLeft Pic: Anterior/Inferior vector -> for Anterior Innominate. \nRight Pic: Anterior/Superior vector -> for ??? Posterior Innominate. \n\nLet's stick to the CLINICAL GOAL stated in the transcript: 'The thrust is aimed at rotating the right innominate in a POSTERIOR direction.' (for the Anterior Innominate). To rotate Posteriorly, you normally Flex the hip. \n\nLet's ask a generic question about the GOAL of the treatment rather than the confusing vector description.",
-        "isCorrect": false
-      },
-      {
-        "text": "To rotate the innominate Posteriorly",
-        "explanation": "Correct. An anterior innominate is stuck stuck forward, so you must rotate it backward (Posteriorly).",
-        "isCorrect": true
-      },
-      {
-        "text": "To rotate the innominate Anteriorly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To pull the leg straight down",
-        "explanation": "Incorrect. Inferior Shear."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Treat Anterior Innominate by rotating it Posteriorly.",
-    "pdfPage": 16
-  },
-  {
-    "id": 8,
-    "category": "HVLA Inferior Innominate Shear",
-    "questionText": "For an Inferior Innominate Shear (Downslip) HVLA, the provider places a forearm under the ischial tuberosity and the patient's foot is placed:",
-    "options": [
-      {
-        "text": "Off the side of the table",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "In the popliteal fossa of the opposite leg",
-        "explanation": "Correct. 'Park the foot in the popliteal fossa'. This locks the leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "Straight up in the air",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Against the provider's chest",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "On the table prone",
+        "text": "Neutral Position",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Downslip HVLA: Foot in Popliteal Fossa, Impulse Cephalad (Upwards) on Ischial Tuberosity.",
-    "pdfPage": 21
-  },
-  {
-    "id": 9,
-    "category": "HVLA Inferior Innominate Shear",
-    "questionText": "The thrust vector for an Inferior Innominate Shear (Downslip) HVLA is directed:",
-    "options": [
-      {
-        "text": "Caudad (towards the feet)",
-        "explanation": "Incorrect. That would worsen it."
-      },
-      {
-        "text": "Cephalad (towards the head)",
-        "explanation": "Correct. You want to push the 'down-slipped' innominate back UP (superiorly).",
-        "isCorrect": true
-      },
-      {
-        "text": "Anteriorly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posteriorly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medially",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Downslip = Thrust Centrally/Cephalad.",
-    "pdfPage": 22
-  },
-  {
-    "id": 10,
-    "category": "HVLA Superior Innominate Shear",
-    "questionText": "For a Superior Innominate Shear (Upslip) HVLA, the provider applies traction to the leg in a(n) ________ direction.",
-    "options": [
-      {
-        "text": "Posterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior (Caudad)",
-        "explanation": "Correct. Often called the 'leg tug' technique. You pull the up-slipped innominate DOWN.",
-        "isCorrect": true
-      },
-      {
-        "text": "Superior",
-        "explanation": "Incorrect. Would worsen it."
-      },
-      {
-        "text": "Anterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Upslip = Thrust Inferiorly (Traction).",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Upslip Tx = Traction with Abduction + Internal Rotation.",
     "pdfPage": 20
   },
   {
-    "id": 11,
-    "category": "Counterstrain Points",
-    "questionText": "The Psoas Counterstrain point is clinically correlated with which muscle?",
+    "id": 6,
+    "category": "Counterstrain Protocol",
+    "questionText": "After holding the Counterstrain position for 90 seconds, the most critical next step is:",
     "options": [
+      {
+        "text": "Patient actively returns to neutral",
+        "explanation": "Incorrect. Engaging muscles re-triggers the reflex loop."
+      },
+      {
+        "text": "Passive return to neutral by the provider",
+        "explanation": "Correct. Must be passive to maintain the reset.",
+        "isCorrect": true
+      },
+      {
+        "text": "Perform HVLA immediately",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Applying ice",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stretching the muscle vigorously",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Return to neutral MUST be Passive.",
+    "pdfPage": 6
+  },
+  {
+    "id": 7,
+    "category": "Diagnosis: Innominate",
+    "questionText": "In a Right Inferior Innominate Shear (Downslip), you would expect which of the following landmark findings on the RIGHT?",
+    "options": [
+      {
+        "text": "ASIS High, PSIS High",
+        "explanation": "Incorrect. That's an Upslip (Superior)."
+      },
+      {
+        "text": "ASIS Low, PSIS Low",
+        "explanation": "Correct. The entire bone has slipped down, so both landmarks are lower than the left.",
+        "isCorrect": true
+      },
+      {
+        "text": "ASIS High, PSIS Low",
+        "explanation": "Incorrect. Posterior Rotation."
+      },
+      {
+        "text": "ASIS Low, PSIS High",
+        "explanation": "Incorrect. Anterior Rotation."
+      },
+      {
+        "text": "ASIS Level, PSIS Level",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Downslip (Inferior Shear) = All landmarks LOW.",
+    "pdfPage": 21
+  },
+  {
+    "id": 8,
+    "category": "Counterstrain Points",
+    "questionText": "The Anterior Pelvic Counterstrain point 'Psoas' is clinically correlated with which muscle?",
+    "options": [
+      {
+        "text": "Iliacus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Psoas Major",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Psoas Minor",
+        "explanation": "Incorrect. (Low Ilium point)."
+      },
       {
         "text": "Rectus Femoris",
         "explanation": "Incorrect."
       },
       {
-        "text": "Psoas Major",
-        "explanation": "Correct. Treatment involves significant hip flexion (bilateral or unilateral) and sidebending towards.",
-        "isCorrect": true
-      },
-      {
-        "text": "Iliacus",
-        "explanation": "Incorrect. Iliacus point."
-      },
-      {
-        "text": "Piriformis",
-        "explanation": "Incorrect. Posterior point."
-      },
-      {
-        "text": "Gluteus Maximus",
+        "text": "Sartorius",
         "explanation": "Incorrect."
       }
     ],
@@ -344,29 +248,122 @@ window.Test_L27 = [
     "pdfPage": 11
   },
   {
+    "id": 9,
+    "category": "Treatment: HVLA",
+    "questionText": "A patient has a Left Anterior Innominate Rotation. To treat this with HVLA in the lateral recumbent position, you want to rotate the innominate:",
+    "options": [
+      {
+        "text": "Anteriorly",
+        "explanation": "Incorrect. It is already stuck anterior."
+      },
+      {
+        "text": "Posteriorly",
+        "explanation": "Correct. You reverse the dysfunction. This typically involves flexing the hip/knee to end range.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superiorly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferiorly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medially",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Treat Anterior Innominate by rotating it Posteriorly.",
+    "pdfPage": 16
+  },
+  {
+    "id": 10,
+    "category": "Counterstrain General",
+    "questionText": "The goal of positioning in Counterstrain is to reduce the tenderness of the point by at least:",
+    "options": [
+      {
+        "text": "100%",
+        "explanation": "Incorrect. Ideal but not the minimum standard."
+      },
+      {
+        "text": "70%",
+        "explanation": "Correct. Getting the pain score from 10/10 to 3/10 or less.",
+        "isCorrect": true
+      },
+      {
+        "text": "50%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "10%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "90%",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CS Goal = Reduce pain by 70%.",
+    "pdfPage": 5
+  },
+  {
+    "id": 11,
+    "category": "Treatment: HVLA",
+    "questionText": "During HVLA for a Right Inferior Innominate Shear (Downslip), you place the patient's right foot in the popliteal fossa of the left leg. Your thrust is directed:",
+    "options": [
+      {
+        "text": "Caudad (Inferiorly)",
+        "explanation": "Incorrect. Would push it down further."
+      },
+      {
+        "text": "Cephalad (Superiorly) on the Ischial Tuberosity",
+        "explanation": "Correct. Pushing the bone back up into place.",
+        "isCorrect": true
+      },
+      {
+        "text": "Anterior on the PSIS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior on the ASIS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medially",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Downslip Tx = Cephalad thrust on Ischial Tuberosity.",
+    "pdfPage": 22
+  },
+  {
     "id": 12,
     "category": "Counterstrain Points",
-    "questionText": "The 'Low Ilium' Counterstrain point is thought to represent which muscle?",
+    "questionText": "The 'Low Ilium' Counterstrain point corresponds clinically to the:",
     "options": [
+      {
+        "text": "Psoas Major",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Psoas Minor",
+        "explanation": "Correct per lecture notes.",
+        "isCorrect": true
+      },
       {
         "text": "Iliacus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Psoas Minor",
-        "explanation": "Correct. According to the lecture/lab manual context.",
-        "isCorrect": true
-      },
-      {
-        "text": "Psoas Major",
-        "explanation": "Incorrect. Psoas point."
-      },
-      {
-        "text": "Inguinal Ligament",
+        "text": "Piriformis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sartorius",
+        "text": "Gluteus Medius",
         "explanation": "Incorrect."
       }
     ],
@@ -376,721 +373,719 @@ window.Test_L27 = [
   },
   {
     "id": 13,
-    "category": "Diagnosis",
-    "questionText": "The Standing Flexion Test (SFT) localizes somatic dysfunction to the:",
+    "category": "Diagnosis: Innominate",
+    "questionText": "A positive Standing Flexion Test on the Right implies:",
     "options": [
       {
-        "text": "Lumbar Spine",
+        "text": "Ilio-sacral dysfunction on the Left",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ilio-sacral Joint (Innominate on Sacrum)",
-        "explanation": "Correct. A positive SFT (one PSIS moves superiorly) indicates restricted motion on that side.",
+        "text": "Ilio-sacral dysfunction on the Right",
+        "explanation": "Correct. The PSIS moves more superiorly on the restricted side.",
         "isCorrect": true
       },
       {
-        "text": "Hip Joint (Femoral-Acetabular)",
-        "explanation": "Incorrect. Drop foot test/Patrick's test."
-      },
-      {
-        "text": "Pubic Symphysis",
-        "explanation": "Incorrect. ASIS compression."
-      },
-      {
-        "text": "Thoracic Spine",
+        "text": "L5 radiculopathy",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Hip dislocation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacro-ilial dysfunction",
+        "explanation": "Incorrect. (SFT = Ilio-sacral/Innominate; Seated Flexion = Sacro-iliac).",
+        "isCorrect": false
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: SFT = Ilansacral/Innominate Dysfunction.",
+    "clinicalPearl": "Key takeaway: SFT positive side = Side of Innominate Dysfunction.",
     "pdfPage": 23
   },
   {
     "id": 14,
-    "category": "Diagnosis",
-    "questionText": "Before assessing pelvic landmarks (ASIS, PSIS) with the patient supine, it is essential to:",
+    "category": "Counterstrain Mechanism",
+    "questionText": "Counterstrain aims to reset which sensory receptor?",
     "options": [
       {
-        "text": "Perform HVLA immediately",
+        "text": "Golgi Tendon Organ",
         "explanation": "Incorrect."
       },
       {
-        "text": "Reseat the pelvis (have patient bend knees, lift hips, set down, straighten legs)",
-        "explanation": "Correct. This resets soft tissue tension and ensures landmarks are representative of the bony alignment.",
+        "text": "Muscle Spindle (Annulospiral endings)",
+        "explanation": "Correct. Reduces gamma gain/aberrant proprioception.",
         "isCorrect": true
       },
       {
-        "text": "Ask the patient to hold their breath",
+        "text": "Pacinian Corpuscle",
         "explanation": "Incorrect."
       },
       {
-        "text": "Stand on the left side only",
+        "text": "Merkel Disc",
         "explanation": "Incorrect."
       },
       {
-        "text": "Palpate the cranium",
+        "text": "Ruffini Ending",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Always reseat the pelvis before checking supine landmarks.",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Counterstrain resets the Muscle Spindle.",
+    "pdfPage": 3
   },
   {
     "id": 15,
-    "category": "Counterstrain Treatment",
-    "questionText": "Generally, anterior pelvic counterstrain points (like Psoas, Iliacus) require which treatment position?",
+    "category": "Treatment: HVLA",
+    "questionText": "When treating a Posterior Innominate Rotation with HVLA (Lateral Recumbent), the thrust vector aims to rotate the innominate anteriorly. Common contact points include pressing the PSIS/Iliac Crest Anteriorly OR:",
     "options": [
       {
-        "text": "Marked Extension",
-        "explanation": "Incorrect. Stretches anterior muscles."
+        "text": "Pulling the ASIS posterior",
+        "explanation": "Incorrect. Would worsen it."
       },
       {
-        "text": "Marked Flexion (often with sidebending/rotation)",
-        "explanation": "Correct. Flexion shortens the anterior tissues (Fold and Hold).",
+        "text": "Pulling the Ischial Tuberosity anterior",
+        "explanation": "Incorrect. Used for Anterior Innominate."
+      },
+      {
+        "text": "Thrusting the extended leg anteriorly (Extension moment)",
+        "explanation": "Correct. Extension brings the innominate anteriorly.",
         "isCorrect": true
       },
       {
-        "text": "Neutral Spine",
-        "explanation": "Incorrect."
+        "text": "Flexing the hip maximally",
+        "explanation": "Incorrect. Moves it posterior."
       },
       {
-        "text": "Prone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Standing",
+        "text": "Abducting the leg",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Points = Flexion.",
-    "pdfPage": 10
-  },
-  {
-    "id": 16,
-    "category": "HVLA Posterior Innominate",
-    "questionText": "To treat a Posterior Innominate (ASIS high, PSIS low) with HVLA, the goal is to rotate the innominate:",
-    "options": [
-      {
-        "text": "Posteriorly",
-        "explanation": "Incorrect. It's already posterior."
-      },
-      {
-        "text": "Anteriorly",
-        "explanation": "Correct. You need to bring the ASIS down or PSIS up.",
-        "isCorrect": true
-      },
-      {
-        "text": "Superiorly",
-        "explanation": "Incorrect. Upslip."
-      },
-      {
-        "text": "Inferiorly",
-        "explanation": "Incorrect. Downslip."
-      },
-      {
-        "text": "Laterally",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Innominate -> Rotate Anteriorly.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Posterior Innominate tx = Extension force (rotates Anteriorly).",
     "pdfPage": 17
   },
   {
-    "id": 17,
-    "category": "HVLA Technique",
-    "questionText": "When setting up an innominate HVLA in the lateral recumbent position, the patient's torso is rotated:",
+    "id": 16,
+    "category": "HVLA Contraindications",
+    "questionText": "Which is an ABSOLUTE contraindication to HVLA?",
     "options": [
       {
-        "text": "To align the spine flat",
-        "explanation": "Incorrect."
+        "text": "Acute muscle spasm",
+        "explanation": "Incorrect. Relative."
       },
       {
-        "text": "To lock out the spinal segments above the lumbosacral junction",
-        "explanation": "Correct. You wind up the torso/shoulders to localize force to the pelvis/SI joint.",
+        "text": "Osteoporosis / Bone Metastasis",
+        "explanation": "Correct. Risk of fracture is too high.",
         "isCorrect": true
       },
       {
-        "text": "To cause dizziness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To stretch the neck",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To comfortable position only",
-        "explanation": "Incorrect. Need a lockout.",
+        "text": "Pregnancy",
+        "explanation": "Incorrect. Relative (avoid compression).",
         "isCorrect": false
+      },
+      {
+        "text": "Chronic Somatic Dysfunction",
+        "explanation": "Incorrect. Indication."
+      },
+      {
+        "text": "Mild arthritis",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: HVLA Setup: Rotate torso to lock out spine.",
-    "pdfPage": 16
+    "clinicalPearl": "Key takeaway: Fracture/Bone Dz = Absolute Contraindication.",
+    "pdfPage": 4
+  },
+  {
+    "id": 17,
+    "category": "Diagnosis: Innominate",
+    "questionText": "A patient with a Left Superior Innominate Shear (Upslip) will typically present with:",
+    "options": [
+      {
+        "text": "Left ASIS High, Left PSIS Low",
+        "explanation": "Incorrect. Posterior Rotation."
+      },
+      {
+        "text": "Left ASIS High, Left PSIS High",
+        "explanation": "Correct. The whole bone is up. Also, Left leg will be short.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left ASIS Low, Left PSIS Low",
+        "explanation": "Incorrect. Downslip."
+      },
+      {
+        "text": "Left ASIS Low, Left PSIS High",
+        "explanation": "Incorrect. Anterior Rotation."
+      },
+      {
+        "text": "Left ASIS Level, Left PSIS Level",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Upslip = All landmarks HIGH.",
+    "pdfPage": 20
   },
   {
     "id": 18,
-    "category": "HVLA Technique",
-    "questionText": "The respiratory phase typically used for the HVLA thrust is:",
+    "category": "HVLA Principles",
+    "questionText": "The respiratory phase for delivering an HVLA thrust is typically:",
     "options": [
       {
-        "text": "Full Inhalation",
+        "text": "End of Inhalation",
         "explanation": "Incorrect."
       },
       {
         "text": "End of Exhalation",
-        "explanation": "Correct. The patient is most relaxed, and functional residual capacity is reached.",
+        "explanation": "Correct. Patient is most relaxed.",
         "isCorrect": true
       },
       {
-        "text": "Mid-Inhalation",
+        "text": "During deep inspiration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Holding breath",
-        "explanation": "Incorrect. Valsalva fights the tx."
+        "text": "While holding breath (Valsalva)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Coughing",
+        "text": "Randomly",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Thrust at End Exhalation.",
+    "clinicalPearl": "Key takeaway: Thrust at end-exhalation.",
     "pdfPage": 14
   },
   {
     "id": 19,
-    "category": "Preparation",
-    "questionText": "Prior to performing HVLA, it is recommended to:",
+    "category": "Counterstrain Treatment",
+    "questionText": "The treatment position for Anterior Pelvic counterstrain points generally involves:",
     "options": [
       {
-        "text": "Apply ice only",
+        "text": "Extension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pre-treat with Soft Tissue or Articulatory techniques",
-        "explanation": "Correct. Relaxing the tissues reduces resistance and makes the thrust safer and easier.",
+        "text": "Flexion",
+        "explanation": "Correct. Folding/shortening the anterior body wall.",
         "isCorrect": true
       },
       {
-        "text": "Give the patient NSAIDs",
+        "text": "Abduction only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Have the patient exercise",
+        "text": "External Rotation only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Do nothing",
+        "text": "Prone position",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Soft Tissue Prep enhances HVLA success.",
-    "pdfPage": 12
+    "clinicalPearl": "Key takeaway: Anterior points = Flexion.",
+    "pdfPage": 10
   },
   {
     "id": 20,
-    "category": "Contraindications",
-    "questionText": "Which of the following is an ABSOLUTE contraindication to HVLA?",
-    "options": [
-      {
-        "text": "Mild muscle spasm",
-        "explanation": "Incorrect. Relative/Indication."
-      },
-      {
-        "text": "Severe Osteoporosis or Bone metastasis",
-        "explanation": "Correct. Risk of fracture.",
-        "isCorrect": true
-      },
-      {
-        "text": "Chronic pain",
-        "explanation": "Incorrect. Indication."
-      },
-      {
-        "text": "Pregnancy (early)",
-        "explanation": "Incorrect. Relative/Precaution.",
-        "isCorrect": false
-      },
-      {
-        "text": "Obesity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fracture/Cancer/Osteoporosis = No HVLA.",
-    "pdfPage": 4
-  },
-  {
-    "id": 21,
     "category": "Counterstrain Technique",
-    "questionText": "A 'Maverick' counterstrain point is one that:",
+    "questionText": "A 'Maverick' point in Counterstrain refers to:",
     "options": [
       {
-        "text": "Does not tender",
+        "text": "A point that is always treated with HVLA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Requires positioning OPPOSITE to the typical mechanism (e.g., positioned in Extension instead of Flexion for an anterior point)",
-        "explanation": "Correct. Approx 5% of points work this way.",
+        "text": "A point treated in a position opposite to the typical biomechanics (e.g., Extension for an anterior point)",
+        "explanation": "Correct. ~5% of points.",
         "isCorrect": true
       },
       {
-        "text": "Is located on the head",
+        "text": "A point that requires surgery",
         "explanation": "Incorrect."
       },
       {
-        "text": "Requires 5 minutes hold",
+        "text": "A point found only in athletes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Is treated with HVLA",
+        "text": "A point with no tenderness",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Maverick Point = Opposite Position.",
+    "clinicalPearl": "Key takeaway: Maverick = Opposite Position.",
     "pdfPage": 5
   },
   {
-    "id": 22,
-    "category": "HVLA Superior Innominate",
-    "questionText": "When treating a Superior Innominate Shear (Upslip), the leg is typically placed in slight _____ and _____ rotation to lock the hip joint.",
+    "id": 21,
+    "category": "Safety: HVLA",
+    "questionText": "Before attempting HVLA, it is recommended to treat with soft tissue techniques primarily to:",
     "options": [
       {
-        "text": "Adduction, External",
+        "text": "Increase pain threshold",
         "explanation": "Incorrect."
       },
       {
-        "text": "Abduction, Internal",
-        "explanation": "Correct. This closes pack the hip joint to transmit force to the SI joint.",
+        "text": "Reduce tissue tension/resistance to make the thrust safer and easier",
+        "explanation": "Correct. Prepares the tissues.",
         "isCorrect": true
       },
       {
-        "text": "Abduction, External",
+        "text": "Diagnose the patient",
         "explanation": "Incorrect."
       },
       {
-        "text": "Flexion, External",
+        "text": "Distract the patient",
         "explanation": "Incorrect."
       },
       {
-        "text": "Extension, External",
+        "text": "Warm up your hands",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Upslip Tx: Internal Rot + Abduction -> Tug.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Soft Tissue Prep enhances HVLA safety/success.",
+    "pdfPage": 12
+  },
+  {
+    "id": 22,
+    "category": "Diagnosis Methods",
+    "questionText": "To ensure accurate assessment of pelvic landmark heights, the provider must first:",
+    "options": [
+      {
+        "text": "Perform the Standing Flexion Test",
+        "explanation": "Incorrect (Done standing)."
+      },
+      {
+        "text": "Perform a 'Pelvic Reseat' (Bridge)",
+        "explanation": "Correct. Patient lifts hips and sets them down to neutralize soft tissue tension.",
+        "isCorrect": true
+      },
+      {
+        "text": "Treat with HVLA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Take an X-ray",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Measure leg length with a tape",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Reseat Pelvis before checking landmarks.",
+    "pdfPage": 24
   },
   {
     "id": 23,
-    "category": "Safety",
-    "questionText": "After HVLA treatment, it is common and benign for a patient to experience:",
+    "category": "Treatment: HVLA",
+    "questionText": "You have a patient with a Right Posterior Innominate. You are treating it in the left lateral recumbent position (patient on left side). Your goal is to rotate the Right Innominate Anteriorly. You achieve this by:",
     "options": [
       {
-        "text": "Radicular pain down the leg",
-        "explanation": "Incorrect. Nerve root impingement (bad)."
+        "text": "Flexing the right hip",
+        "explanation": "Incorrect. Flexion -> Posterior Rotation."
       },
       {
-        "text": "Mild soreness for 1-2 days",
-        "explanation": "Correct. 'Treatment reaction'.",
+        "text": "Extending the right hip",
+        "explanation": "Correct. Extension of the femur pulls the innominate anteriorly.",
         "isCorrect": true
       },
       {
-        "text": "Loss of bladder control",
-        "explanation": "Incorrect. Cauda Equina (Medical Emergency)."
+        "text": "Adducting the right hip",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Foot drop",
-        "explanation": "Incorrect. Nerve damage."
+        "text": "Thrusting superiorly",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Severe headache",
+        "text": "Applying counterstrain",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mild soreness is normal. Drink water.",
-    "pdfPage": 4
+    "clinicalPearl": "Key takeaway: Posterior Innominate = Extension Tx.",
+    "pdfPage": 17
   },
   {
     "id": 24,
-    "category": "Counterstrain Mechanism",
-    "questionText": "Counterstrain is theorized to treat somatic dysfunction by resetting the:",
+    "category": "HVLA Terminology",
+    "questionText": "HVLA stands for:",
     "options": [
       {
-        "text": "Golgi Tendon Organ",
-        "explanation": "Incorrect. Muscle Energy (post-isometric relaxation)."
+        "text": "High Volume Low Action",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Muscle Spindle (Gamma Gain)",
-        "explanation": "Correct. By shortening the muscle, the aberrant spindle reporting strain stops firing (silencing the proprioceptor).",
+        "text": "High Velocity Low Amplitude",
+        "explanation": "Correct. Quick, short thrust.",
         "isCorrect": true
       },
       {
-        "text": "Nociceptors directly",
+        "text": "High Voltage Low Amperage",
         "explanation": "Incorrect."
       },
       {
-        "text": "Joint Capsule",
+        "text": "Heavy Velocity Long Axis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Intervertebral Disc",
+        "text": "High Viscosity Low Adhesion",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Counterstrain -> Resets Muscle Spindle.",
-    "pdfPage": 3
+    "clinicalPearl": "Key takeaway: HVLA = High Velocity Low Amplitude.",
+    "pdfPage": 13
   },
   {
     "id": 25,
-    "category": "Diagnosis",
-    "questionText": "In an Anterior Innominate Rotation, the leg on the affected side will appear functionally _____ when supine.",
+    "category": "Diagnosis: Leg Length",
+    "questionText": "In the supine assessment, a Right Anterior Innominate Rotation typically presents with:",
     "options": [
       {
-        "text": "Longer",
-        "explanation": "Correct. The acetabulum moves inferiorly/anteriorly, pushing the leg down.",
+        "text": "A functionally Short Right Leg",
+        "explanation": "Incorrect. (Posterior Innominate)."
+      },
+      {
+        "text": "A functionally Long Right Leg",
+        "explanation": "Correct. Because the acetabulum rotates inferiorly/anteriorly, pushing the leg down.",
         "isCorrect": true
       },
       {
-        "text": "Shorter",
-        "explanation": "Incorrect. Posterior Innominate (Acetabulum moves superiorly).",
-        "isCorrect": false
-      },
-      {
-        "text": "Same length",
+        "text": "No change in leg length",
         "explanation": "Incorrect."
       },
       {
-        "text": "Internally rotated",
+        "text": "External rotation of the leg",
         "explanation": "Incorrect."
       },
       {
-        "text": "Externally rotated",
+        "text": "Knee pain only",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior Innominate = Long Leg. Posterior = Short Leg.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Innominate = Long Leg.",
     "pdfPage": 16
   },
   {
     "id": 26,
-    "category": "Innominate Diagnosis",
-    "questionText": "If the Standing Flexion Test is positive on the RIGHT, and the ASIS is higher on the RIGHT and the PSIS is lower on the RIGHT, the diagnosis is:",
+    "category": "Post-Treatment",
+    "questionText": "A common, benign side effect after HVLA treatment is:",
     "options": [
       {
-        "text": "Right Anterior Innominate",
-        "explanation": "Incorrect. Anterior = ASIS Low."
-      },
-      {
-        "text": "Right Posterior Innominate",
-        "explanation": "Correct. ASIS High + PSIS Low = Posterior Rotation. Pos SFT localizes it to Right.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Anterior Innominate",
+        "text": "Nerve damage",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Superior Shear",
-        "explanation": "Incorrect. All landmarks would be high.",
-        "isCorrect": false
+        "text": "Mild soreness for 24-48 hours",
+        "explanation": "Correct. 'Treatment reaction'.",
+        "isCorrect": true
       },
       {
-        "text": "Right Inferior Shear",
+        "text": "Fracture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stroke",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Incontinence",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ASIS High/PSIS Low = Posterior Innominate.",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Mild soreness ('treatment reaction') is normal.",
+    "pdfPage": 4
   },
   {
     "id": 27,
-    "category": "Innominate Diagnosis",
-    "questionText": "If the ASIS is Higher on the Right and the PSIS is Higher on the Right (both landmarks moved superiorly), the diagnosis is likely:",
+    "category": "Diagnosis: Pubic Shear",
+    "questionText": "A patient complains of groin pain. You find the Right Pubic Bone is significantly superior to the Left. Standing Flexion Test is positive on the Right. Diagnosis?",
     "options": [
       {
-        "text": "Right Posterior Innominate",
-        "explanation": "Incorrect. PSIS would be low."
+        "text": "Left Inferior Pubic Shear",
+        "explanation": "Incorrect. SFT points to Right.",
+        "isCorrect": false
       },
       {
-        "text": "Right Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. The whole bone moved up.",
+        "text": "Right Superior Pubic Shear",
+        "explanation": "Correct. SFT on Right = Right dysfx. Pubic bone high on Right = Superior Shear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Pubic Compression",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Superior Pubic Shear",
+        "explanation": "Incorrect. SFT is Right."
+      },
+      {
+        "text": "Right Anterior Innominate",
+        "explanation": "Incorrect. Pubic height defines pubic shear."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pubic Shear named for height on positive SFT side.",
+    "pdfPage": 23
+  },
+  {
+    "id": 28,
+    "category": "HVLA Technique",
+    "questionText": "Locking out the spine (localization) in lateral recumbent HVLA is primarily achieved by:",
+    "options": [
+      {
+        "text": "Flexing the knees",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rotating the torso/shoulders",
+        "explanation": "Correct. Rotates segments down to the lumbosacral junction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Taking a deep breath",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tiling the table",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pressing on the head",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rotary lockout localizes force.",
+    "pdfPage": 16
+  },
+  {
+    "id": 29,
+    "category": "Treatment: HVLA",
+    "questionText": "To treat a Left Inferior Innominate Shear (Downslip), the provider thrusts on the ___ in a ___ direction.",
+    "options": [
+      {
+        "text": "ASIS; Posterior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ischial Tuberosity; Cephalad (Superior)",
+        "explanation": "Correct. While leg is locked in popliteal fossa.",
+        "isCorrect": true
+      },
+      {
+        "text": "PSIS; Anterior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Iliac Crest; Inferior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic symphysis; Lateral",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Downslip Tx = Push Ischium Up.",
+    "pdfPage": 22
+  },
+  {
+    "id": 30,
+    "category": "Counterstrain Points",
+    "questionText": "The Iliacus counterstrain point is typically found:",
+    "options": [
+      {
+        "text": "On the posterior spine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Deep in the iliac fossa medial to the ASIS",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "On the pubic tubercle",
+        "explanation": "Incorrect. (Psoas Minor/Low Ilium area).",
+        "isCorrect": false
+      },
+      {
+        "text": "On the greater trochanter",
+        "explanation": "Incorrect. (Piriformis/Glute)."
+      },
+      {
+        "text": "On the rib cage",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Iliacus CS Point = Medial to ASIS in fossa.",
+    "pdfPage": 11
+  },
+  {
+    "id": 31,
+    "category": "Diagnosis: Innominate",
+    "questionText": "A patient has a positive Standing Flexion Test on the LEFT. Left ASIS is Low, Left PSIS is High. Diagnosis?",
+    "options": [
+      {
+        "text": "Left Posterior Innominate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Anterior Innominate",
+        "explanation": "Correct. ASIS Low + PSIS High = Anterior.",
         "isCorrect": true
       },
       {
         "text": "Right Anterior Innominate",
+        "explanation": "Incorrect (SFT Left)."
+      },
+      {
+        "text": "Left Downslip",
+        "explanation": "Incorrect (Both low)."
+      },
+      {
+        "text": "Left Upslip",
+        "explanation": "Incorrect (Both high)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ASIS Low/PSIS High = Anterior.",
+    "pdfPage": 16
+  },
+  {
+    "id": 32,
+    "category": "HVLA Technique",
+    "questionText": "The final corrective force in HVLA is described as:",
+    "options": [
+      {
+        "text": "Slow and rhythmic",
+        "explanation": "Incorrect (Articulatory)."
+      },
+      {
+        "text": "Rapid, low distance (thrust)",
+        "explanation": "Correct. High Velocity, Low Amplitude.",
+        "isCorrect": true
+      },
+      {
+        "text": "Static pressure",
+        "explanation": "Incorrect (Inhibition/CS)."
+      },
+      {
+        "text": "Active resistance",
+        "explanation": "Incorrect (Muscle Energy)."
+      },
+      {
+        "text": "Light touch",
+        "explanation": "Incorrect (Cranial/BLT)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: HVLA = Rapid Thrust.",
+    "pdfPage": 13
+  },
+  {
+    "id": 33,
+    "category": "Treatment: HVLA",
+    "questionText": "For a Superior Innominate Shear (Upslip), the setup involves 'tug' tracking on the leg. This works because:",
+    "options": [
+      {
+        "text": "It rotates the pelvis",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "It pulls the innominate inferiorly via tension on the hip ligaments",
+        "explanation": "Correct. Traction brings the bone down.",
+        "isCorrect": true
+      },
+      {
+        "text": "It compresses the joint",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It fractures the femur",
+        "explanation": "Incorrect (Hopefully not)."
+      },
+      {
+        "text": "It releases psoas",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tug = Pulls Innominate Down.",
+    "pdfPage": 20
+  },
+  {
+    "id": 34,
+    "category": "Counterstrain Feedback",
+    "questionText": "If a patient cannot verbally communicate, physical signs of tenderness during point monitoring include:",
+    "options": [
+      {
+        "text": "Grimacing or 'Jump Sign'",
+        "explanation": "Correct. Wincing, withdrawal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Smiling",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Falling asleep",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decreased heart rate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Deep breathing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Watch for Grimace/Jump Sign.",
+    "pdfPage": 3
+  },
+  {
+    "id": 35,
+    "category": "Diagnosis: Innominate",
+    "questionText": "A positive SFT on the Right with All Landmarks (ASIS, PSIS, Pubes, ILA) appearing HIGH on the Right suggests:",
+    "options": [
+      {
+        "text": "Right Anterior Innominate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Superior Innominate Shear (Upslip)",
+        "explanation": "Correct. Whole bone shifted up.",
+        "isCorrect": true
       },
       {
         "text": "Right Inferior Innominate Shear",
         "explanation": "Incorrect."
       },
       {
-        "text": "Left Upslip",
+        "text": "Right Posterior Innominate",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Downslip",
+        "explanation": "Incorrect. SFT is on Right."
       }
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: All landmarks High = Upslip.",
     "pdfPage": 20
-  },
-  {
-    "id": 28,
-    "category": "Counterstrain Points",
-    "questionText": "The Inguinal Counterstrain point (mediomedial to ASIS) is typically treated with:",
-    "options": [
-      {
-        "text": "Flexion, Adduction, Internal Rotation (F-ADD-IR)",
-        "explanation": "Correct. Often associated with Pectineus. Good mnemonic: Good dog (Pectin) gets FED (Flex/Add/IR) - wait, that's piriformis/glute. For Inguinal, F-ADD-IR (Crossing ankles) is common.",
-        "isCorrect": true
-      },
-      {
-        "text": "Flexion, Abduction, External Rotation (F-ABD-ER)",
-        "explanation": "Incorrect. Iliacus/Sartorius (Frog leg).",
-        "isCorrect": false
-      },
-      {
-        "text": "Extension",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sidebending away",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Straining",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Inguinal Point: Flex/Add/Internal Rot (Cross ankles).",
-    "pdfPage": 11
-  },
-  {
-    "id": 29,
-    "category": "HVLA Technique",
-    "questionText": "During the setup for HVLA, 'taking up the slack' refers to:",
-    "options": [
-      {
-        "text": "Asking the patient to relax",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Moving the joint to the restrictive barrier until resistance is felt",
-        "explanation": "Correct. Removing lost motion so the thrust acts on the restriction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tightening the table strap",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pulling on the skin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Applying ice",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Take up slack = Engage Barrier.",
-    "pdfPage": 14
-  },
-  {
-    "id": 30,
-    "category": "Pubic Dysfunction",
-    "questionText": "A complete pelvic diagnosis includes evaluating the ______ for tenderness or asymmetry, which implies shear dysfunction.",
-    "options": [
-      {
-        "text": "Knee",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pubic Symphysis / Pubic Ramus",
-        "explanation": "Correct. Pubic shears (superior/inferior) often accompany innominate dysfunctions.",
-        "isCorrect": true
-      },
-      {
-        "text": "Xiphoid",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Clavicle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Navicular",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Check Pubes for Shear.",
-    "pdfPage": 23
-  },
-  {
-    "id": 31,
-    "category": "Preparation",
-    "questionText": "Ergonomics for the provider during Pelvic counterstrain is important because:",
-    "options": [
-      {
-        "text": "It looks professional",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It prevents provider injury and allows for better relaxation of the patient (using legs to support patient weight)",
-        "explanation": "Correct. Holding a leg up for 90s is heavy. Use a stool or your thigh.",
-        "isCorrect": true
-      },
-      {
-        "text": "It is required for billing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It speeds up the 90 seconds",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It looks cool",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Good Ergonomics = Effective Treatment.",
-    "pdfPage": 9
-  },
-  {
-    "id": 32,
-    "category": "Safety",
-    "questionText": "If while monitoring a Counterstrain point during the 90 second hold, the arterial pulse diminishes significantly (neurovascular compromise), you should:",
-    "options": [
-      {
-        "text": "Ignore it",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Adjust the position slightly to restore flow while maintaining comfort",
-        "explanation": "Correct. Do not occlude arteries.",
-        "isCorrect": true
-      },
-      {
-        "text": "Push harder",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stop the treatment entirely immediately",
-        "explanation": "Incorrect. Just adjusting is usually sufficient.",
-        "isCorrect": false
-      },
-      {
-        "text": "Thrust",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Avoid Neurovascular compromise.",
-    "pdfPage": 4
-  },
-  {
-    "id": 33,
-    "category": "Counterstrain Point Location",
-    "questionText": "The Iliacus Counterstrain point is typically found:",
-    "options": [
-      {
-        "text": "Deep in the iliac fossa",
-        "explanation": "Correct. Medial to the ASIS, deep.",
-        "isCorrect": true
-      },
-      {
-        "text": "On the PSIS",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "On the greater trochanter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "On the Ischial Tuberosity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mid-sacrum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Iliacus Point = Deep in Fossa (Frog leg position).",
-    "pdfPage": 11
-  },
-  {
-    "id": 34,
-    "category": "HVLA Technique",
-    "questionText": "Springing the joint at the barrier prior to thrusting helps to:",
-    "options": [
-      {
-        "text": "Crack the bone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gauge resistance and relax soft tissues slightly",
-        "explanation": "Correct. It confirms the barrier is solid and prepares the tissue.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increase pain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Wake the patient up",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Break adhesions",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Springing assesses barrier quality.",
-    "pdfPage": 13
-  },
-  {
-    "id": 35,
-    "category": "Post-Treatment",
-    "questionText": "After performing OMT (Counterstrain or HVLA), it is standard advice to tell the patient to:",
-    "options": [
-      {
-        "text": "Run a marathon",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hydrate (Drink water) to help flush metabolic waste and reduce soreness",
-        "explanation": "Correct. Standard OMM advice.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stop taking all medications",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sleep for 24 hours",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Drink alcohol",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hydrate after OMT.",
-    "pdfPage": 4
   }
 ];

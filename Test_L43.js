@@ -1,486 +1,1036 @@
 window.Test_L43 = [
   {
     "id": 1,
-    "category": "Acute Management",
-    "questionText": "What is the first-line treatment for acute optic neuritis in a patient with Multiple Sclerosis?",
+    "category": "Pharm: MS Acute Attack",
+    "questionText": "A 28-year-old female with known Multiple Sclerosis presents with acute unilateral eye pain and vision loss (optic neuritis). What is the appropriate initial pharmacologic management?",
     "options": [
       {
-        "text": "Oral prednisone",
-        "explanation": "Incorrect. IV is preferred for acute flares."
+        "text": "Oral Prednisone 10 mg daily",
+        "explanation": "Incorrect (Dose too low)."
       },
       {
         "text": "IV Methylprednisolone",
-        "explanation": "Correct. High-dose IV glucocorticoid for acute MS exacerbations.",
-        "isCorrect": true
+        "explanation": "Correct. High dose IV steroids are the standard for acute exacerbations."
       },
       {
-        "text": "Interferon beta",
-        "explanation": "Incorrect. Long-term disease modification, not acute."
+        "text": "Interferon Beta-1a",
+        "explanation": "Incorrect (Disease modifying therapy, not for acute attack)."
       },
       {
-        "text": "Natalizumab",
-        "explanation": "Incorrect. Maintenance therapy."
+        "text": "Glatiramer Acetate",
+        "explanation": "Incorrect (Disease modifying therapy)."
       },
       {
-        "text": "Glatiramer",
-        "explanation": "Incorrect. Maintenance therapy."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: IV Methylprednisolone = Acute MS flare.",
-    "pdfPage": 8
-  },
-  {
-    "id": 2,
-    "category": "Mechanism",
-    "questionText": "Glucocorticoids exert their anti-inflammatory effect in MS by inhibiting which enzyme?",
-    "options": [
-      {
-        "text": "Cyclooxygenase",
-        "explanation": "Incorrect. That's NSAIDs."
-      },
-      {
-        "text": "Phospholipase A2 (via lipocortin)",
-        "explanation": "Correct. Blocks arachidonic acid synthesis → no prostaglandins or leukotrienes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lipoxygenase",
-        "explanation": "Incorrect. That's zileuton."
-      },
-      {
-        "text": "ACE",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Xanthine oxidase",
+        "text": "Methotrexate",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glucocorticoids shut down the whole inflammatory cascade at the start.",
+    "clinicalPearl": "Key takeaway: Acute MS Attack = IV Methylprednisolone.",
     "pdfPage": 10
   },
   {
-    "id": 3,
-    "category": "Adverse Effects",
-    "questionText": "Why must glucocorticoids be tapered slowly rather than stopped abruptly?",
+    "id": 2,
+    "category": "Pharm: MS Disease Modifying",
+    "questionText": "Which MS medication works by shifting the immune response from a pro-inflammatory Th1 phenotype to an anti-inflammatory Th2 phenotype?",
     "options": [
       {
-        "text": "To avoid rebound infections",
+        "text": "Natalizumab",
+        "explanation": "Incorrect (Integrin blocker)."
+      },
+      {
+        "text": "Glatiramer Acetate",
+        "explanation": "Correct. Synthetic polypeptide resembling myelin basic protein."
+      },
+      {
+        "text": "Fingolimod",
+        "explanation": "Incorrect (S1P modulator)."
+      },
+      {
+        "text": "Teriflunomide",
+        "explanation": "Incorrect (Pyrimidine synthesis inhibitor)."
+      },
+      {
+        "text": "Mitoxantrone",
+        "explanation": "Incorrect (DNA intercalator)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glatiramer = Th1 to Th2 shift.",
+    "pdfPage": 29
+  },
+  {
+    "id": 3,
+    "category": "Pharm: Monoclonal Antibodies",
+    "questionText": "Natalizumab is associated with an increased risk of Progressive Multifocal Leukoencephalopathy (PML) because it involves the reactivation of which virus?",
+    "options": [
+      {
+        "text": "Herpes Simplex Virus",
         "explanation": "Incorrect."
       },
       {
-        "text": "To prevent HPA axis suppression/adrenal crisis",
-        "explanation": "Correct. Body needs time to restart natural cortisol production.",
-        "isCorrect": true
+        "text": "JC Virus (John Cunningham Virus)",
+        "explanation": "Correct. Normally dormant, reactivates with immunosuppression."
       },
       {
-        "text": "To avoid liver damage",
+        "text": "Cytomegalovirus",
         "explanation": "Incorrect."
       },
       {
-        "text": "To prevent kidney failure",
+        "text": "Epstein-Barr Virus",
         "explanation": "Incorrect."
       },
       {
-        "text": "To reduce GI upset",
+        "text": "Varicella Zoster Virus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Never stop steroids cold turkey!",
-    "pdfPage": 9
+    "clinicalPearl": "Key takeaway: Natalizumab -> PML (JC Virus).",
+    "pdfPage": 47
   },
   {
     "id": 4,
-    "category": "Adverse Effects",
-    "questionText": "Long-term glucocorticoid use in pediatric patients is most concerning because it can cause:",
+    "category": "Pharm: MS Mechanism",
+    "questionText": "Fingolimod acts by sequestering lymphocytes in lymph nodes. It achieves this by modulating which receptor?",
     "options": [
       {
-        "text": "Hyperkalemia",
-        "explanation": "Incorrect."
+        "text": "Alpha-4 Integrin",
+        "explanation": "Incorrect (Natalizumab)."
       },
       {
-        "text": "Decreased growth hormone → growth suppression",
-        "explanation": "Correct. Kids don't grow as tall.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypoglycemia",
-        "explanation": "Incorrect. Causes hyperglycemia."
-      },
-      {
-        "text": "Hypothyroidism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anemia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Steroids stunt growth in kids.",
-    "pdfPage": 13
-  },
-  {
-    "id": 5,
-    "category": "Adverse Effects",
-    "questionText": "A patient on chronic glucocorticoid therapy develops 'moon facies,' central obesity, and thin extremities. This is due to:",
-    "options": [
-      {
-        "text": "Hypoaldosteronism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cushingoid effects (fat redistribution, muscle wasting)",
-        "explanation": "Correct. Looks like Cushing's syndrome.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypothyroidism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Growth hormone excess",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diabetes insipidus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Long-term steroids = Cushing appearance.",
-    "pdfPage": 14
-  },
-  {
-    "id": 6,
-    "category": "Adverse Effects",
-    "questionText": "Glucocorticoids negatively affect bone health by:",
-    "options": [
-      {
-        "text": "Decreasing osteoblast activity only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increasing osteoclasts + impairing Vitamin D absorption → osteoporosis",
-        "explanation": "Correct. Double hit on bone.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increasing parathyroid hormone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking calcitonin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Enhancing calcium excretion only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Steroids eat your bones.",
-    "pdfPage": 15
-  },
-  {
-    "id": 7,
-    "category": "Mechanism",
-    "questionText": "Alemtuzumab depletes T and B cells by binding to which surface marker?",
-    "options": [
-      {
-        "text": "CD4",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CD52",
-        "explanation": "Correct. Monoclonal antibody target.",
-        "isCorrect": true
+        "text": "Sphingosine-1-Phosphate (S1P) Receptor",
+        "explanation": "Correct. Prevents lymphocyte egress from lymph nodes."
       },
       {
         "text": "CD20",
-        "explanation": "Incorrect. Rituximab."
+        "explanation": "Incorrect (Ocrelizumab/Rituximab)."
       },
       {
-        "text": "CD25",
-        "explanation": "Incorrect."
+        "text": "CD52",
+        "explanation": "Incorrect (Alemtuzumab)."
       },
       {
-        "text": "CD3",
-        "explanation": "Incorrect."
+        "text": "GABA-B",
+        "explanation": "Incorrect (Baclofen)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alemtuzumab = Anti-CD52.",
-    "pdfPage": 16
+    "clinicalPearl": "Key takeaway: Fingolimod = S1P Receptor Modulator.",
+    "pdfPage": 23
   },
   {
-    "id": 8,
-    "category": "Mechanism",
-    "questionText": "Alemtuzumab destroys lymphocytes through which THREE mechanisms?",
+    "id": 5,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "A patient started on Fingolimod requires observation for at least 6 hours after the first dose due to the risk of:",
     "options": [
       {
-        "text": "Direct toxicity only",
+        "text": "Hypertensive crisis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Complement-dependent cytotoxicity, ADCC, and apoptosis",
-        "explanation": "Correct. Triple-threat cell killing.",
-        "isCorrect": true
+        "text": "Bradycardia / AV Block",
+        "explanation": "Correct. S1P receptors are also on cardiac atrial tissue."
       },
       {
-        "text": "Phagocytosis only",
+        "text": "Anaphylaxis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Necrosis",
+        "text": "Acute liver failure",
         "explanation": "Incorrect."
       },
       {
-        "text": "Autophagy",
+        "text": "Seizures",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alemtuzumab kills 3 ways.",
-    "pdfPage": 17
-  },
-  {
-    "id": 9,
-    "category": "Mechanism",
-    "questionText": "Fingolimod works by modulating which receptor to trap lymphocytes in lymph nodes?",
-    "options": [
-      {
-        "text": "Adenosine receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sphingosine-1-phosphate (S1P) receptor",
-        "explanation": "Correct. Prevents lymphocyte egress.",
-        "isCorrect": true
-      },
-      {
-        "text": "GABA receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dopamine receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alpha-4 integrin",
-        "explanation": "Incorrect. That's natalizumab."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fingolimod keeps T-cells locked in lymph nodes.",
-    "pdfPage": 24
-  },
-  {
-    "id": 10,
-    "category": "Adverse Effects",
-    "questionText": "A major cardiac adverse effect of Fingolimod that requires EKG monitoring is:",
-    "options": [
-      {
-        "text": "Tachycardia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bradycardia (slow heart rate <60 bpm)",
-        "explanation": "Correct. S1P receptors in SA/AV nodes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypertension",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myocardial infarction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Atrial fibrillation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fingolimod slows the heart.",
+    "clinicalPearl": "Key takeaway: Fingolimod = First-dose Bradycardia.",
     "pdfPage": 26
   },
   {
-    "id": 11,
-    "category": "Screening",
-    "questionText": "Before starting Fingolimod, patients should be screened and potentially vaccinated against:",
+    "id": 6,
+    "category": "Pharm: MS Symptom Management",
+    "questionText": "Which medication is indicated to improve walking speed in patients with MS by blocking potassium channels?",
     "options": [
       {
-        "text": "Influenza",
+        "text": "Baclofen",
+        "explanation": "Incorrect (Spasticity)."
+      },
+      {
+        "text": "Dalfampridine",
+        "explanation": "Correct. Increases action potential duration by preventing K+ efflux."
+      },
+      {
+        "text": "Amantadine",
+        "explanation": "Incorrect (Fatigue)."
+      },
+      {
+        "text": "Oxybutynin",
+        "explanation": "Incorrect (Bladder)."
+      },
+      {
+        "text": "Modafinil",
+        "explanation": "Incorrect (Fatigue)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dalfampridine = K+ Channel Blocker = Improved Walking.",
+    "pdfPage": 74
+  },
+  {
+    "id": 7,
+    "category": "Pharm: Teratogenicity",
+    "questionText": "Teriflunomide inhibits pyrimidine synthesis and is strictly contraindicated in pregnancy due to:",
+    "options": [
+      {
+        "text": "Neonatal hypoglycemia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Varicella Zoster Virus (VZV/Shingles) with Shingrix",
-        "explanation": "Correct. Risk of reactivation.",
-        "isCorrect": true
+        "text": "Neural Tube Defects / Teratogenicity",
+        "explanation": "Correct. Pregnancy category X. Requires washout."
       },
       {
-        "text": "Hepatitis A",
+        "text": "Ototoxicity",
         "explanation": "Incorrect."
       },
       {
-        "text": "Measles",
+        "text": "Teeth discoloration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tetanus",
+        "text": "Gray Baby Syndrome",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vaccinate for shingles before fingolimod.",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Teriflunomide causes Neural Tube Defects.",
+    "pdfPage": 41
   },
   {
-    "id": 12,
-    "category": "Mechanism",
-    "questionText": "Glatiramer acetate works by enhancing which T helper cell subset that has anti-inflammatory properties?",
+    "id": 8,
+    "category": "Pharm: Mechanism",
+    "questionText": "Dimethyl Fumarate exerts its neuroprotective and anti-inflammatory effects primarily by activating which pathway?",
     "options": [
-      {
-        "text": "Th1",
-        "explanation": "Incorrect. Pro-inflammatory."
-      },
-      {
-        "text": "Th2",
-        "explanation": "Correct. Anti-inflammatory cytokines.",
-        "isCorrect": true
-      },
-      {
-        "text": "Th17",
-        "explanation": "Incorrect. Pro-inflammatory."
-      },
-      {
-        "text": "Th9",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Th22",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glatiramer boosts Th2 (good guys).",
-    "pdfPage": 28
-  },
-  {
-    "id": 13,
-    "category": "Mechanism",
-    "questionText": "Glatiramer also increases which neurotrophic factor that promotes neuronal survival?",
-    "options": [
-      {
-        "text": "NGF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "BDNF (Brain-Derived Neurotrophic Factor)",
-        "explanation": "Correct. Protects neurons.",
-        "isCorrect": true
-      },
-      {
-        "text": "GDNF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CNTF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "NT-3",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glatiramer = Th2 + BDNF (neuroprotection).",
-    "pdfPage": 28
-  },
-  {
-    "id": 14,
-    "category": "Adverse Effects",
-    "questionText": "A common adverse effect of subcutaneous glatiramer injection is:",
-    "options": [
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect. That's fingolimod."
-      },
-      {
-        "text": "Injection site reaction and lipoatrophy",
-        "explanation": "Correct. Fat loss at injection sites.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hepatotoxicity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Renal failure",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neutropenia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Rotate injection sites to prevent lipoatrophy.",
-    "pdfPage": 30
-  },
-  {
-    "id": 15,
-    "category": "Mechanism",
-    "questionText": "Interferon beta-1a works through which intracellular signaling pathway?",
-    "options": [
-      {
-        "text": "cAMP/PKA",
-        "explanation": "Incorrect."
-      },
       {
         "text": "JAK/STAT",
-        "explanation": "Correct. Janus Kinase / Signal Transducer and Activator of Transcription.",
-        "isCorrect": true
+        "explanation": "Incorrect (Interferon)."
       },
       {
-        "text": "PI3K/AKT",
-        "explanation": "Incorrect."
+        "text": "NRF2 (Nuclear factor-like 2)",
+        "explanation": "Correct. Increases antioxidant response (Glutathione)."
       },
       {
-        "text": "MAPK/ERK",
+        "text": "NF-kB",
         "explanation": "Incorrect."
       },
       {
         "text": "mTOR",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcineurin",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Interferon → JAK/STAT → Gene transcription.",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: Dimethyl Fumarate = NRF2 activation.",
+    "pdfPage": 19
+  },
+  {
+    "id": 9,
+    "category": "Pharm: Monoclonal Antibodies",
+    "questionText": "Alemtuzumab targets which cell surface protein, leading to depletion of both T and B lymphocytes?",
+    "options": [
+      {
+        "text": "CD20",
+        "explanation": "Incorrect (Rituximab)."
+      },
+      {
+        "text": "CD52",
+        "explanation": "Correct. Causes profound lymphopenia via lysis."
+      },
+      {
+        "text": "CD3",
+        "explanation": "Incorrect (Muromonab - defunct)."
+      },
+      {
+        "text": "CD4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CD25",
+        "explanation": "Incorrect (Daclizumab)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alemtuzumab = Anti-CD52.",
+    "pdfPage": 15
+  },
+  {
+    "id": 10,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "A major concern with Mitoxantrone, requiring lifetime cumulative dose monitoring, is:",
+    "options": [
+      {
+        "text": "Pulmonary Fibrosis",
+        "explanation": "Incorrect (Bleomycin)."
+      },
+      {
+        "text": "Cardiotoxicity (Dilated Cardiomyopathy)",
+        "explanation": "Correct. Like Doxorubicin."
+      },
+      {
+        "text": "Hemorrhagic Cystitis",
+        "explanation": "Incorrect (Cyclophosphamide)."
+      },
+      {
+        "text": "Peripheral Neuropathy",
+        "explanation": "Incorrect (Vincristine)."
+      },
+      {
+        "text": "Nephrotoxicity",
+        "explanation": "Incorrect (Cisplatin)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mitoxantrone = Cardiotoxicity.",
+    "pdfPage": 44
+  },
+  {
+    "id": 11,
+    "category": "Pharm: Spasticity",
+    "questionText": "Baclofen reduces spasticity in MS patients by acting as an agonist at which receptor?",
+    "options": [
+      {
+        "text": "GABA-A",
+        "explanation": "Incorrect (Benzodiazepines)."
+      },
+      {
+        "text": "GABA-B",
+        "explanation": "Correct. G-protein coupled, increases K+ efflux, hyperpolarizes."
+      },
+      {
+        "text": "NMDA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha-2",
+        "explanation": "Incorrect (Tizanidine)."
+      },
+      {
+        "text": "Nicotinic ACh",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Baclofen = GABA-B Agonist.",
+    "pdfPage": 59
+  },
+  {
+    "id": 12,
+    "category": "Pharm: Bladder",
+    "questionText": "Which receptor subtype is the primary target for treating detrusor overactivity (incontinence) in MS?",
+    "options": [
+      {
+        "text": "Alpha-1 Adrenergic",
+        "explanation": "Incorrect (Prostate)."
+      },
+      {
+        "text": "M3 Muscarinic",
+        "explanation": "Correct. M3 blockade prevents bladder contraction (Oxybutynin)."
+      },
+      {
+        "text": "Beta-2 Adrenergic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "H1 Histamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine D2",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Incontinence = M3 Antagonists.",
+    "pdfPage": 51
+  },
+  {
+    "id": 13,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "Patients taking Interferon Beta usually experience which common side effect that can be managed with NSAIDs?",
+    "options": [
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Flu-like symptoms",
+        "explanation": "Correct. Fever, chills, myalgia."
+      },
+      {
+        "text": "Hair loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Weight gain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insomnia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Interferon Beta causes Flu-like symptoms.",
+    "pdfPage": 33
+  },
+  {
+    "id": 14,
+    "category": "Pharm: Mechanism",
+    "questionText": "Botulinum Toxin A (Botox) reduces spasticity by:",
+    "options": [
+      {
+        "text": "Blocking postsynaptic ACh receptors",
+        "explanation": "Incorrect (Curare)."
+      },
+      {
+        "text": "Cleaving SNAP-25 and preventing vesicle fusion",
+        "explanation": "Correct. Prevents presynaptic release of ACh."
+      },
+      {
+        "text": "Inhibiting acetylcholinesterase",
+        "explanation": "Incorrect (Neostigmine)."
+      },
+      {
+        "text": "Blocking Calcium channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Depleting presynaptic NE",
+        "explanation": "Incorrect (Reserpine)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Botox cleaves SNARE proteins (SNAP-25).",
+    "pdfPage": 62
+  },
+  {
+    "id": 15,
+    "category": "Pharm: Monoclonals",
+    "questionText": "Ocrelizumab and Rituximab deplete B-cells by binding to:",
+    "options": [
+      {
+        "text": "CD3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CD20",
+        "explanation": "Correct. Present on B-cells."
+      },
+      {
+        "text": "CD52",
+        "explanation": "Incorrect (Alemtuzumab)."
+      },
+      {
+        "text": "CD4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CD19",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ocrelizumab/Rituximab = Anti-CD20.",
+    "pdfPage": 36
   },
   {
     "id": 16,
-    "category": "Adverse Effects",
-    "questionText": "A common adverse effect of Interferon beta therapy that resembles a viral infection is:",
+    "category": "Pharm: Spasticity",
+    "questionText": "Tizanidine is structurally and mechanistically similar to which antihypertensive drug?",
     "options": [
       {
-        "text": "Seizures",
+        "text": "Lisinopril",
         "explanation": "Incorrect."
       },
       {
-        "text": "Flu-like symptoms (fever, fatigue, myalgia)",
-        "explanation": "Correct. Cytokine effects.",
-        "isCorrect": true
+        "text": "Clonidine",
+        "explanation": "Correct. Both are Alpha-2 Agonists."
       },
       {
-        "text": "Rash",
+        "text": "Amlodipine",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Metoprolol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hydrochlorothiazide",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tizanidine = Alpha-2 Agonist like Clonidine.",
+    "pdfPage": 57
+  },
+  {
+    "id": 17,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "Which adverse effect is unique to Glatiramer Acetate injections?",
+    "options": [
+      {
+        "text": "Lipoatrophy at injection site",
+        "explanation": "Correct. Permanent loss of fat tissue. Rotate sites."
+      },
+      {
+        "text": "Macular Edema",
+        "explanation": "Incorrect (Fingolimod)."
+      },
+      {
+        "text": "Thyroiditis",
+        "explanation": "Incorrect (Alemtuzumab)."
+      },
+      {
+        "text": "Basal Cell Carcinoma",
+        "explanation": "Incorrect (Fingolimod)."
+      },
+      {
+        "text": "Blue-green urine",
+        "explanation": "Incorrect (Mitoxantrone)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Glatiramer causes Lipoatrophy.",
+    "pdfPage": 30
+  },
+  {
+    "id": 18,
+    "category": "Pharm: Mechanism",
+    "questionText": "Natalizumab binds to the alpha-4 subunit of integrin molecules, preventing interaction with:",
+    "options": [
+      {
+        "text": "ICAM-1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "VCAM-1",
+        "explanation": "Correct. Vascular Cell Adhesion Molecule 1 on endothelial cells."
+      },
+      {
+        "text": "Selectins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cadherins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Connexins",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Natalizumab blocks Integrin-VCAM interaction.",
+    "pdfPage": 45
+  },
+  {
+    "id": 19,
+    "category": "Pharm: Contraindications",
+    "questionText": "Sildenafil (for erectile dysfunction) is absolutely contraindicated in patients taking which class of medications due to the risk of severe hypotension?",
+    "options": [
+      {
+        "text": "Beta Blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nitrates",
+        "explanation": "Correct. Synergistic cGMP accumulation causes massive vasodilation."
+      },
+      {
+        "text": "Statins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ACE Inhibitors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diuretics",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sildenafil + Nitrates = Unsafe Hypotension.",
+    "pdfPage": 71
+  },
+  {
+    "id": 20,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "Alemtuzumab therapy requires monitoring for autoimmune conditions primarily affecting:",
+    "options": [
+      {
+        "text": "The Pancreas",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Thyroid (Graves/Hashimoto)",
+        "explanation": "Correct. Also ITP (platelets) and Goodpasture's (kidney - rare)."
+      },
+      {
+        "text": "The Adrenals",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Joints",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Liver",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alemtuzumab causes autoimmune Thyroiditis.",
+    "pdfPage": 16
+  },
+  {
+    "id": 21,
+    "category": "Pharm: Fatigue Management",
+    "questionText": "Which of the following is beneficial for MS-related fatigue?",
+    "options": [
+      {
+        "text": "Lorazepam",
+        "explanation": "Incorrect (Sedative)."
+      },
+      {
+        "text": "Modafinil",
+        "explanation": "Correct. A wakefulness-promoting agent."
+      },
+      {
+        "text": "Diphenhydramine",
+        "explanation": "Incorrect (Sedative)."
+      },
+      {
+        "text": "Tizanidine",
+        "explanation": "Incorrect (Sedative)."
+      },
+      {
+        "text": "Baclofen",
+        "explanation": "Incorrect (Sedative)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fatigue is managed with Modafinil.",
+    "pdfPage": 68
+  },
+  {
+    "id": 22,
+    "category": "Pharm: Mechanism",
+    "questionText": "Cladribine is an analog of which base, leading to inhibition of DNA synthesis?",
+    "options": [
+      {
+        "text": "Thymidine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Purine (Adenosine)",
+        "explanation": "Correct. It is a synthetic purine nucleoside analog."
+      },
+      {
+        "text": "Cytosine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Uracil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Guanine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cladribine = Purine Analog.",
+    "pdfPage": 48
+  },
+  {
+    "id": 23,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "Before starting a patient on any anti-CD20 therapy (e.g., Rituximab), it is mandatory to screen for:",
+    "options": [
+      {
+        "text": "Hepatitis B",
+        "explanation": "Correct. Risk of fulminant reactivation."
+      },
+      {
+        "text": "Influenza",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Malaria",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lyme Disease",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Syphilis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Screen for Hepatitis B before Anti-CD20 therapy.",
+    "pdfPage": 38
+  },
+  {
+    "id": 24,
+    "category": "Pharm: Steroids",
+    "questionText": "Abrupt cessation of high-dose corticosteroids can lead to:",
+    "options": [
+      {
+        "text": "Thyroid storm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adrenal Insufficiency (Addisonian Crisis)",
+        "explanation": "Correct. HPA axis is suppressed; glands cannot produce cortisol immediately."
+      },
+      {
+        "text": "Hyperglycemia",
+        "explanation": "Incorrect (Steroid use causes this, not withdrawal)."
+      },
+      {
+        "text": "Cushing Syndrome",
+        "explanation": "Incorrect (Caused by use)."
+      },
+      {
+        "text": "Polycythemia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Taper steroids to avoid Adrenal Crisis.",
+    "pdfPage": 8
+  },
+  {
+    "id": 25,
+    "category": "Pharm: Mechanism",
+    "questionText": "Interferon Beta works primarily by:",
+    "options": [
+      {
+        "text": "Directly lysing T cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting T-cell migration across the Blood Brain Barrier",
+        "explanation": "Correct. Downregulates adhesion molecules and MMPs."
+      },
+      {
+        "text": "Increasing Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blockade of Calcium channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increasing Serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Interferon Beta seals the BBB.",
+    "pdfPage": 31
+  },
+  {
+    "id": 26,
+    "category": "Pharm: Bladder",
+    "questionText": "To minimize cognitive side effects in elderly patients requiring bladder control, which agent is preferred over Oxybutynin?",
+    "options": [
+      {
+        "text": "Diphenhydramine",
+        "explanation": "Incorrect (Highly anticholinergic)."
+      },
+      {
+        "text": "Darifenacin / Tolterodine",
+        "explanation": "Correct. More selective for M3/Bladder, less CNS penetration."
+      },
+      {
+        "text": "Amitriptyline",
+        "explanation": "Incorrect (Strong anticholinergic)."
+      },
+      {
+        "text": "Benztropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Avoid Oxybutynin in elderly; use Darifenacin/Solifenacin.",
+    "pdfPage": 52
+  },
+  {
+    "id": 27,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "A patient on Mitoxantrone calls panic-stricken because their urine has turned blue-green. You explain:",
+    "options": [
+      {
+        "text": "This indicates renal failure.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "This is a harmless, expected side effect of the drug's color.",
+        "explanation": "Correct. Mitoxantrone is a blue dye."
+      },
+      {
+        "text": "This is a sign of internal bleeding.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "This indicates liver toxicity.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "This is a sign of infection.",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mitoxantrone turns urine/sclera Blue-Green.",
+    "pdfPage": 44
+  },
+  {
+    "id": 28,
+    "category": "Pharm: Mechanism",
+    "questionText": "Teriflunomide acts by inhibiting which enzyme?",
+    "options": [
+      {
+        "text": "Dihydrofolate Reductase",
+        "explanation": "Incorrect (Methotrexate)."
+      },
+      {
+        "text": "Dihydroorotate Dehydrogenase",
+        "explanation": "Correct. Rate limiting step in de novo pyrimidine synthesis."
+      },
+      {
+        "text": "Xanthine Oxidase",
+        "explanation": "Incorrect (Allopurinol)."
+      },
+      {
+        "text": "Thymidylate Synthase",
+        "explanation": "Incorrect (5-FU)."
+      },
+      {
+        "text": "Ribonucleotide Reductase",
+        "explanation": "Incorrect (Hydroxyurea)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Teriflunomide inhibits Dihydroorotate Dehydrogenase.",
+    "pdfPage": 40
+  },
+  {
+    "id": 29,
+    "category": "Pharm: Pregnancy",
+    "questionText": "Which MS medication is generally considered the safest option if treatment must be continued during pregnancy?",
+    "options": [
+      {
+        "text": "Teriflunomide",
+        "explanation": "Incorrect (Category X)."
+      },
+      {
+        "text": "Glatiramer Acetate",
+        "explanation": "Correct. Category B. Does not cross placenta significantly."
+      },
+      {
+        "text": "Methotrexate",
+        "explanation": "Incorrect (Abortifacient)."
+      },
+      {
+        "text": "Fingolimod",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mitoxantrone",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glatiramer is safest in pregnancy.",
+    "pdfPage": 30
+  },
+  {
+    "id": 30,
+    "category": "Pharm: Adverse Effects",
+    "questionText": "Flushing and GI upset are the most common side effects of which oral MS therapy?",
+    "options": [
+      {
+        "text": "Interferon Beta",
+        "explanation": "Incorrect (Injectable)."
+      },
+      {
+        "text": "Dimethyl Fumarate",
+        "explanation": "Correct. Can be mitigated by taking with food or aspirin."
+      },
+      {
+        "text": "Glatiramer",
+        "explanation": "Incorrect (Injectable)."
+      },
+      {
+        "text": "Natalizumab",
+        "explanation": "Incorrect (Infusion)."
+      },
+      {
+        "text": "Mitoxantrone",
+        "explanation": "Incorrect (Infusion)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dimethyl Fumarate = Flushing.",
+    "pdfPage": 20
+  },
+  {
+    "id": 31,
+    "category": "Pharm: Spasticity Mechanism",
+    "questionText": "Dantrolene (though less used in MS) works by:",
+    "options": [
+      {
+        "text": "Blocking GABA receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting Calcium release from the Sarcoplasmic Reticulum",
+        "explanation": "Correct. RyR1 receptor antagonist."
+      },
+      {
+        "text": "Blocking Acetylcholine release",
+        "explanation": "Incorrect (Botox)."
+      },
+      {
+        "text": "Activating Alpha-2 receptors",
+        "explanation": "Incorrect (Tizanidine)."
+      },
+      {
+        "text": "Inhibiting Glycine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dantrolene works directly on the muscle (SR Calcium).",
+    "pdfPage": 62
+  },
+  {
+    "id": 32,
+    "category": "Pharm: Antibodies",
+    "questionText": "The suffix '-zumab' (e.g., Natalizumab, Alemtuzumab) indicates the monoclonal antibody is:",
+    "options": [
+      {
+        "text": "Murine (Mouse)",
+        "explanation": "Incorrect (-momab)."
+      },
+      {
+        "text": "Humanized",
+        "explanation": "Correct. mostly human, some mouse CDRs."
+      },
+      {
+        "text": "Chimeric",
+        "explanation": "Incorrect (-ximab)."
+      },
+      {
+        "text": "Fully Human",
+        "explanation": "Incorrect (-umab)."
+      },
+      {
+        "text": "Bacterial",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: -zumab = Humanized (90-95% human).",
+    "pdfPage": 18
+  },
+  {
+    "id": 33,
+    "category": "Pharm: Vaccination",
+    "questionText": "Patients starting Fingolimod or Cladribine should be screened for immunity to:",
+    "options": [
+      {
+        "text": "Rubella",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Varicella Zoster (Chickenpox/Shingles)",
+        "explanation": "Correct. Vaccination recommended if non-immune."
+      },
+      {
+        "text": "Tetanus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Polio",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rabies",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Check Varicella titers for Fingolimod/Cladribine.",
+    "pdfPage": 25
+  },
+  {
+    "id": 34,
+    "category": "Pharm: Mechanism",
+    "questionText": "The mechanism of Methylprednisolone involves inhibition of Phospholipase A2 via induction of:",
+    "options": [
+      {
+        "text": "Cyclooxygenase",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lipocortin (Annexin-1)",
+        "explanation": "Correct. Inhibits the release of arachidonic acid."
+      },
+      {
+        "text": "Thromboxane",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Leukotrienes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Histamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Steroids induce Lipocortin.",
+    "pdfPage": 198
+  },
+  {
+    "id": 35,
+    "category": "Pharm: Symptom Management",
+    "questionText": "Tricyclic Antidepressants (like Amitriptyline) can be useful in MS patients for treating both depression and:",
+    "options": [
+      {
+        "text": "Constipation",
+        "explanation": "Incorrect (Causes constipation)."
+      },
+      {
+        "text": "Urinary Incontinence (Overactive Bladder)",
+        "explanation": "Correct. Due to their anticholinergic side effects.",
       },
       {
         "text": "Diarrhea",
@@ -489,599 +1039,14 @@ window.Test_L43 = [
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Interferon = Flu-like symptoms.",
-    "pdfPage": 33
-  },
-  {
-    "id": 17,
-    "category": "Adverse Effects",
-    "questionText": "Interferon beta can cause depression due to decreased levels of which neurotransmitter?",
-    "options": [
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect."
       },
       {
-        "text": "Serotonin",
-        "explanation": "Correct. Mood regulation.",
-        "isCorrect": true
-      },
-      {
-        "text": "GABA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glutamate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acetylcholine",
+        "text": "Tachycardia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Interferon lowers serotonin → depression.",
-    "pdfPage": 33
-  },
-  {
-    "id": 18,
-    "category": "Adverse Effects",
-    "questionText": "Interferon beta can suppress erythropoiesis leading to:",
-    "options": [
-      {
-        "text": "Polycythemia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anemia",
-        "explanation": "Correct. Decreased RBC production.",
-        "isCorrect": true
-      },
-      {
-        "text": "Thrombocytosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Leukocytosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Eosinophilia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Monitor CBC - interferon can cause anemia.",
-    "pdfPage": 34
-  },
-  {
-    "id": 19,
-    "category": "Mechanism",
-    "questionText": "Natalizumab prevents T-cell migration into the CNS by blocking which molecule?",
-    "options": [
-      {
-        "text": "CD52",
-        "explanation": "Incorrect. Alemtuzumab."
-      },
-      {
-        "text": "Alpha-4 integrin (VLA-4)",
-        "explanation": "Correct. Prevents adhesion to endothelium.",
-        "isCorrect": true
-      },
-      {
-        "text": "S1P receptor",
-        "explanation": "Incorrect. Fingolimod."
-      },
-      {
-        "text": "ICAM-1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Selectin",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Natalizumab blocks the door to the brain.",
-    "pdfPage": 7
-  },
-  {
-    "id": 20,
-    "category": "Adverse Effects",
-    "questionText": "A serious opportunistic infection associated with Natalizumab is:",
-    "options": [
-      {
-        "text": "Tuberculosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Progressive Multifocal Leukoencephalopathy (PML) from JC virus",
-        "explanation": "Correct. Fatal demyelinating brain infection.",
-        "isCorrect": true
-      },
-      {
-        "text": "Candidiasis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pneumocystis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Toxoplasmosis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Natalizumab → PML risk.",
-    "pdfPage": 35
-  },
-  {
-    "id": 21,
-    "category": "Clinical Use",
-    "questionText": "Mitoxantrone is an antineoplastic agent reserved for which form of Multiple Sclerosis?",
-    "options": [
-      {
-        "text": "Clinically isolated syndrome",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Secondary Progressive MS (worsening despite treatment)",
-        "explanation": "Correct. Last resort.",
-        "isCorrect": true
-      },
-      {
-        "text": "Relapsing-Remitting (first line)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Primary Progressive (first line)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Optic neuritis only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mitoxantrone = Secondary Progressive MS.",
-    "pdfPage": 9
-  },
-  {
-    "id": 22,
-    "category": "Monitoring",
-    "questionText": "Before starting most MS immunosuppressive therapies, which lab tests should be performed?",
-    "options": [
-      {
-        "text": "Urinalysis only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CBC and CMP (liver/kidney function)",
-        "explanation": "Correct. Baseline and serial monitoring.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lipid panel only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thyroid function only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No labs needed",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Monitor CBC/CMP for immunosuppressants.",
-    "pdfPage": 3
-  },
-  {
-    "id": 23,
-    "category": "Pathophysiology",
-    "questionText": "In MS pathophysiology, which T helper cells are pathological and drive demyelination?",
-    "options": [
-      {
-        "text": "Th2 only",
-        "explanation": "Incorrect. Protective."
-      },
-      {
-        "text": "Th1 and Th17",
-        "explanation": "Correct. Pro-inflammatory.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tregs",
-        "explanation": "Incorrect. Regulatory."
-      },
-      {
-        "text": "Th9",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Th22",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Th1/Th17 = Bad guys in MS.",
-    "pdfPage": 4
-  },
-  {
-    "id": 24,
-    "category": "Epidemiology",
-    "questionText": "Multiple Sclerosis is more common in which demographic?",
-    "options": [
-      {
-        "text": "Males over 60",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Females aged 20-30",
-        "explanation": "Correct. 2:1 female to male ratio.",
-        "isCorrect": true
-      },
-      {
-        "text": "Children under 10",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Elderly only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Equal in all demographics",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS = Young women.",
-    "pdfPage": 5
-  },
-  {
-    "id": 25,
-    "category": "Risk Factor",
-    "questionText": "Which infection has been strongly implicated in increasing MS risk?",
-    "options": [
-      {
-        "text": "HIV",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Epstein-Barr Virus (EBV)",
-        "explanation": "Correct. Antibodies found in many MS patients.",
-        "isCorrect": true
-      },
-      {
-        "text": "Herpes Simplex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Influenza",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cytomegalovirus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: EBV linked to MS risk.",
-    "pdfPage": 6
-  },
-  {
-    "id": 26,
-    "category": "Goal of Therapy",
-    "questionText": "The primary goal of disease-modifying therapy in Relapsing-Remitting MS is to:",
-    "options": [
-      {
-        "text": "Cure the disease",
-        "explanation": "Incorrect. No cure exists."
-      },
-      {
-        "text": "Keep the patient in remission and slow progression",
-        "explanation": "Correct. Prevent relapses.",
-        "isCorrect": true
-      },
-      {
-        "text": "Reduce blood pressure",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Improve mood only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increase muscle mass",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Goal = Maintain remission.",
-    "pdfPage": 4
-  },
-  {
-    "id": 27,
-    "category": "Adverse Effects",
-    "questionText": "Why can chronic glucocorticoid use lead to hyperglycemia?",
-    "options": [
-      {
-        "text": "Increases insulin secretion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increases gluconeogenesis in the liver",
-        "explanation": "Correct. Makes more glucose.",
-        "isCorrect": true
-      },
-      {
-        "text": "Decreases glucose absorption",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocks glycogen breakdown",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increases cellular glucose uptake",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Steroids raise blood sugar.",
-    "pdfPage": 13
-  },
-  {
-    "id": 28,
-    "category": "Adverse Effects",
-    "questionText": "Glucocorticoids can cause hypertension and edema by increasing:",
-    "options": [
-      {
-        "text": "Renin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Aldosterone (salt and water retention)",
-        "explanation": "Correct. Mineralocorticoid effect.",
-        "isCorrect": true
-      },
-      {
-        "text": "ADH only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Erythropoietin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Insulin",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Steroids → Salt retention → HTN.",
-    "pdfPage": 14
-  },
-  {
-    "id": 29,
-    "category": "Clinical Use",
-    "questionText": "Cladribine can be used for which form of MS?",
-    "options": [
-      {
-        "text": "Only Secondary Progressive",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Relapsing-Remitting MS",
-        "explanation": "Correct. Oral purine analog.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only Primary Progressive",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acute flares only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Not approved for MS",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cladribine = Relapsing-Remitting.",
-    "pdfPage": 9
-  },
-  {
-    "id": 30,
-    "category": "Symptom Management",
-    "questionText": "MS patients may experience various symptoms beyond demyelination. Which is NOT typically addressed with MS symptom management?",
-    "options": [
-      {
-        "text": "Depression",
-        "explanation": "Incorrect. Commonly treated with SSRIs."
-      },
-      {
-        "text": "Urinary incontinence",
-        "explanation": "Incorrect. Anticholinergics used."
-      },
-      {
-        "text": "Erectile dysfunction",
-        "explanation": "Incorrect. PDE5 inhibitors."
-      },
-      {
-        "text": "Hypertension (primary disease)",
-        "explanation": "Correct. Not a direct MS symptom.",
-        "isCorrect": true
-      },
-      {
-        "text": "Spasticity",
-        "explanation": "Incorrect. Baclofen used."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: MS causes neurologic symptoms, not HTN.",
-    "pdfPage": 3
-  },
-  {
-    "id": 31,
-    "category": "Mechanism",
-    "questionText": "Glucocorticoids work through which type of receptor?",
-    "options": [
-      {
-        "text": "G-protein coupled receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nuclear receptor (affects gene transcription)",
-        "explanation": "Correct. GRE = Glucocorticoid Response Element.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tyrosine kinase receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ion channel",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Enzyme-linked receptor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Steroids → Nucleus → Gene changes.",
-    "pdfPage": 11
-  },
-  {
-    "id": 32,
-    "category": "Adverse Effects",
-    "questionText": "What should be given pre-emptively to manage infusion reactions (flushing, dyspnea, palpitations) with MS biologics like glatiramer?",
-    "options": [
-      {
-        "text": "Antibiotics",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Antihistamine (e.g., diphenhydramine)",
-        "explanation": "Correct. Blocks histamine from IgE response.",
-        "isCorrect": true
-      },
-      {
-        "text": "Aspirin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Warfarin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "NSAIDs",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pre-treat infusion reactions with antihistamines.",
-    "pdfPage": 29
-  },
-  {
-    "id": 33,
-    "category": "Mechanism",
-    "questionText": "Mitoxantrone is classified as which type of drug?",
-    "options": [
-      {
-        "text": "Antibiotic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Antineoplastic/Chemotherapy (immunosuppressant)",
-        "explanation": "Correct. Cytotoxic agent.",
-        "isCorrect": true
-      },
-      {
-        "text": "Monoclonal antibody",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cytokine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Small molecule kinase inhibitor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mitoxantrone is a chemo drug for severe MS.",
-    "pdfPage": 9
-  },
-  {
-    "id": 34,
-    "category": "Risk Factor",
-    "questionText": "Which environmental factor may protect against MS (low levels increase risk)?",
-    "options": [
-      {
-        "text": "Vitamin C",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vitamin D (sunlight exposure)",
-        "explanation": "Correct. Higher latitude = lower Vit D = more MS.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vitamin B12",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Folate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Iron",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Low Vitamin D linked to MS risk.",
-    "pdfPage": 6
-  },
-  {
-    "id": 35,
-    "category": "Adverse Effects",
-    "questionText": "Post-injection reaction with glatiramer (flushing, palpitations, dyspnea) typically occurs:",
-    "options": [
-      {
-        "text": "With every injection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only once, self-limited",
-        "explanation": "Correct. Rare, benign, one-time event.",
-        "isCorrect": true
-      },
-      {
-        "text": "Never",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only in the first year",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Daily",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glatiramer post-injection reaction is rare and self-limited.",
-    "pdfPage": 30
+    "clinicalPearl": "Key takeaway: TCAs help depression and incontinence.",
+    "pdfPage": 72
   }
 ];

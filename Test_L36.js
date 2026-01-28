@@ -1,452 +1,543 @@
 window.Test_L36 = [
   {
     "id": 1,
-    "category": "CN V",
-    "questionText": "The Trigeminal Mesencephalic Nucleus is unique because:",
+    "category": "Neuroanatomy: CN V",
+    "questionText": "The Trigeminal Nerve (CN V) has three sensory nuclei. Which nucleus processes pain and temperature from the face?",
     "options": [
       {
-        "text": "It contains second-order sensory neurons",
-        "explanation": "Incorrect."
+        "text": "Trigeminal Mesencephalic Nucleus",
+        "explanation": "Incorrect (Proprioception)."
       },
       {
-        "text": "It contains the cell bodies of first-order proprioceptive afferents (like a dorsal root ganglion inside the CNS)",
-        "explanation": "Correct. It mediates the jaw-**** reflex.",
+        "text": "Trigeminal Pontine (Main Sensory) Nucleus",
+        "explanation": "Incorrect (Discriminative touch)."
+      },
+      {
+        "text": "Trigeminal Spinal Nucleus",
+        "explanation": "Correct. Pain and temperature for the face. Extends into cervical spinal cord.",
         "isCorrect": true
       },
       {
-        "text": "It is a motor nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It processes pain and temperature",
-        "explanation": "Incorrect. That's Spinal Trigeminal."
-      },
-      {
-        "text": "It is located in the medulla",
-        "explanation": "Incorrect. Mesencephalon = Midbrain."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mesencephalic nucleus = CNS Ganglion for Proprioception.",
-    "pdfPage": 12
-  },
-  {
-    "id": 2,
-    "category": "CN V",
-    "questionText": "Loss of pain and temperature sensation on the ipsilateral face involves the:",
-    "options": [
-      {
-        "text": "Pontine Trigeminal Nucleus",
-        "explanation": "Incorrect. Touch/Pressure."
-      },
-      {
-        "text": "Spinal Trigeminal Nucleus",
-        "explanation": "Correct. Processes pain/temp, extends into cervical cord.",
-        "isCorrect": true
-      },
-      {
-        "text": "Mesencephalic Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor Nucleus of V",
-        "explanation": "Incorrect."
+        "text": "Trigeminal Motor Nucleus",
+        "explanation": "Incorrect (Motor, not sensory)."
       },
       {
         "text": "Solitary Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinal V = Pain/Temp.",
-    "pdfPage": 14
-  },
-  {
-    "id": 3,
-    "category": "CN VII",
-    "questionText": "A patient presents with paralysis of the entire right side of the face (forehead and lower face). This indicates:",
-    "options": [
-      {
-        "text": "A Right Upper Motor Neuron lesion (Cortical stroke)",
-        "explanation": "Incorrect. Would spare the forehead."
-      },
-      {
-        "text": "A Left Upper Motor Neuron lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A Right Lower Motor Neuron lesion (Bell's Palsy/CN VII)",
-        "explanation": "Correct. LMN lesion affects the entire ipsilateral face.",
-        "isCorrect": true
-      },
-      {
-        "text": "A Left Lower Motor Neuron lesion",
-        "explanation": "Incorrect. Ipsilateral symptoms."
-      },
-      {
-        "text": "Trigeminal Neuralgia",
-        "explanation": "Incorrect. Sensory issue."
+        "explanation": "Incorrect (CN VII, IX, X - taste/visceral)."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Bell's Palsy = Whole face. Stroke = Spares forehead.",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Spinal Nucleus = Pain/Temp (like spinothalamic). Pontine = Touch. Mesencephalic = Proprioception.",
+    "pdfPage": 5
+  },
+  {
+    "id": 2,
+    "category": "Neuroanatomy: CN V",
+    "questionText": "Of the three divisions of the Trigeminal Nerve, which one is mixed (carries both sensory and motor fibers)?",
+    "options": [
+      {
+        "text": "V1 (Ophthalmic)",
+        "explanation": "Incorrect (Sensory only)."
+      },
+      {
+        "text": "V2 (Maxillary)",
+        "explanation": "Incorrect (Sensory only)."
+      },
+      {
+        "text": "V3 (Mandibular)",
+        "explanation": "Correct. V3 carries sensory AND motor (muscles of mastication).",
+        "isCorrect": true
+      },
+      {
+        "text": "All three are mixed",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "None are mixed",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V1 and V2 = Sensory only. V3 = Mixed (sensory + motor to jaw muscles).",
+    "pdfPage": 6
+  },
+  {
+    "id": 3,
+    "category": "Neuroanatomy: CN V",
+    "questionText": "The Trigeminal Motor Nucleus innervates which muscles?",
+    "options": [
+      {
+        "text": "Muscles of facial expression",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Muscles of mastication (Masseter, Temporalis, Pterygoids)",
+        "explanation": "Correct. Chewing muscles. Motor travels via V3.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tongue muscles",
+        "explanation": "Incorrect (CN XII)."
+      },
+      {
+        "text": "Extraocular muscles",
+        "explanation": "Incorrect (CN III, IV, VI)."
+      },
+      {
+        "text": "SCM and Trapezius",
+        "explanation": "Incorrect (CN XI)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN V motor = Chewing (Mastication). Think 'jive' for 'five' (chewing gum).",
+    "pdfPage": 6
   },
   {
     "id": 4,
-    "category": "CN VII",
-    "questionText": "The Superior Salivatory Nucleus provides parasympathetic innervation to:",
+    "category": "Neuroanatomy: CN VII",
+    "questionText": "How many nuclei are associated with Cranial Nerve VII (Facial)?",
     "options": [
       {
-        "text": "The Parotid Gland",
-        "explanation": "Incorrect. Inferior Salivatory (IX)."
+        "text": "One",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The Lacrimal, Submandibular, and Sublingual Glands",
-        "explanation": "Correct. \"Tears and Drool\".",
+        "text": "Two",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Three",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Four (Facial Motor, Superior Salivatory, Gustatory/Solitary, Trigeminal Sensory)",
+        "explanation": "Correct. CN VII is complex - multiple functions.",
         "isCorrect": true
       },
       {
-        "text": "The Heart",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Stomach",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Pupil",
+        "text": "Five",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Superior Salivatory = Tears + Spit (except Parotid).",
-    "pdfPage": 23
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: CN VII = 4 nuclei. Motor (face), Salivatory (saliva/tears), Taste (anterior 2/3 tongue), Sensory (ear skin).",
+    "pdfPage": 8
   },
   {
     "id": 5,
-    "category": "CN VII",
-    "questionText": "Hyperacusis (increased sensitivity to loud sounds) can result from damage to CN VII because it innervates which muscle?",
+    "category": "Neuroanatomy: CN VII",
+    "questionText": "The Superior Salivatory Nucleus (via CN VII) innervates which glands?",
     "options": [
       {
-        "text": "Tensor Tympani",
-        "explanation": "Incorrect. CN V3."
+        "text": "Parotid gland",
+        "explanation": "Incorrect (Inferior Salivatory via CN IX)."
       },
       {
-        "text": "Stapedius",
-        "explanation": "Correct. Dampens sound by stabilizing the stapes.",
+        "text": "Lacrimal gland, Submandibular and Sublingual glands",
+        "explanation": "Correct. Superior = Tears + 2 salivary glands (sub-mandibular, sub-lingual).",
         "isCorrect": true
-      },
-      {
-        "text": "Digastric",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Masseter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stylopharyngeus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN VII dampens loud sounds (Stapedius).",
-    "pdfPage": 26
-  },
-  {
-    "id": 6,
-    "category": "Reflex",
-    "questionText": "The Corneal Reflex (blinking when cornea is touched) involves:",
-    "options": [
-      {
-        "text": "Afferent CN II, Efferent CN III",
-        "explanation": "Incorrect. Light reflex."
-      },
-      {
-        "text": "Afferent CN V1, Efferent CN VII",
-        "explanation": "Correct. Feel with V, Blink with VII.",
-        "isCorrect": true
-      },
-      {
-        "text": "Afferent CN VII, Efferent CN V1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Afferent CN IX, Efferent CN X",
-        "explanation": "Incorrect. Gag reflex."
-      },
-      {
-        "text": "Afferent CN VIII, Efferent CN III",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Corneal Reflex: V in, VII out.",
-    "pdfPage": 18
-  },
-  {
-    "id": 7,
-    "category": "CN IX",
-    "questionText": "The Stylopharyngeus muscle is the only muscle innervated by:",
-    "options": [
-      {
-        "text": "CN X (Vagus)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN IX (Glossopharyngeal)",
-        "explanation": "Correct. From Nucleus Ambiguus.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN VII (Facial)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN V (Trigeminal)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN XI (Accessory)",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Stylopharyngeus = The only motor job of CN IX.",
-    "pdfPage": 31
-  },
-  {
-    "id": 8,
-    "category": "CN IX",
-    "questionText": "The Inferior Salivatory Nucleus provides parasympathetic innervation to:",
-    "options": [
-      {
-        "text": "Submandibular gland",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parotid Gland",
-        "explanation": "Correct. Via CN IX.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lacrimal gland",
-        "explanation": "Incorrect."
       },
       {
         "text": "Thyroid gland",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pancreas",
+        "text": "Adrenal gland",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sweat glands",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inferior Salivatory -> Parotid.",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Superior Salivatory = Tears (lacrimal) + Submandibular/Sublingual saliva.",
+    "pdfPage": 8
+  },
+  {
+    "id": 6,
+    "category": "Neuroanatomy: CN VII",
+    "questionText": "The 'Greek olive vignette' mnemonic for CN VII involves: tasting, smiling, drooling, tears, and ear pain. Which nucleus is responsible for tears?",
+    "options": [
+      {
+        "text": "Facial Motor Nucleus",
+        "explanation": "Incorrect (Facial muscles)."
+      },
+      {
+        "text": "Superior Salivatory Nucleus",
+        "explanation": "Correct. Tears = Lacrimal gland via superior salivatory.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gustatory (Solitary) Nucleus",
+        "explanation": "Incorrect (Taste)."
+      },
+      {
+        "text": "Trigeminal Nucleus",
+        "explanation": "Incorrect (Ear pain sensation)."
+      },
+      {
+        "text": "Inferior Salivatory Nucleus",
+        "explanation": "Incorrect (CN IX)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Greek olive mnemonic = All CN VII functions in one story.",
+    "pdfPage": 9
+  },
+  {
+    "id": 7,
+    "category": "Neuroanatomy: CN VII",
+    "questionText": "Taste from the anterior 2/3 of the tongue is relayed via CN VII to which nucleus?",
+    "options": [
+      {
+        "text": "Facial Motor Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gustatory Nucleus (Nucleus Solitarius)",
+        "explanation": "Correct. Taste information goes to solitary nucleus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Salivatory Nucleus",
+        "explanation": "Incorrect (Motor - saliva/tears)."
+      },
+      {
+        "text": "Trigeminal Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypoglossal Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN VII = Anterior 2/3 tongue taste. CN IX = Posterior 1/3 taste.",
+    "pdfPage": 8
+  },
+  {
+    "id": 8,
+    "category": "Clinical Correlation: CN VII UMN vs LMN",
+    "questionText": "A patient with a STROKE (UMN lesion) affecting the right motor cortex presents with left facial weakness. Which finding distinguishes this from Bell's Palsy (LMN)?",
+    "options": [
+      {
+        "text": "Entire left face paralyzed (including forehead)",
+        "explanation": "Incorrect (LMN/Bell's)."
+      },
+      {
+        "text": "Left lower face weak, but forehead spared (can raise eyebrows)",
+        "explanation": "Correct. UMN = Forehead spared (bilateral cortical input). LMN = Entire face affected.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right facial weakness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral facial weakness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No facial weakness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: UMN (Stroke) = Forehead spared. LMN (Bell's) = Entire face paralyzed.",
+    "pdfPage": 10
   },
   {
     "id": 9,
-    "category": "Taste",
-    "questionText": "Taste sensation from the POSTERIOR 1/3 of the tongue is carried by:",
+    "category": "Clinical Correlation: CN VII",
+    "questionText": "A patient has complete right-sided facial paralysis (upper and lower face). Additionally, they have loss of taste on the anterior 2/3 of the tongue, decreased salivation, and hyperacusis (sounds too loud) on the right. This suggests:",
     "options": [
       {
-        "text": "CN VII (Chorda Tympani)",
-        "explanation": "Incorrect. Anterior 2/3."
+        "text": "Right cortical stroke (UMN)",
+        "explanation": "Incorrect (Would spare forehead and not affect taste/saliva/hearing)."
       },
       {
-        "text": "CN IX (Glossopharyngeal)",
-        "explanation": "Correct.",
+        "text": "CN VII nerve lesion (LMN) affecting all functions",
+        "explanation": "Correct. Complete CN VII palsy = All 4 nuclei affected (motor, taste, saliva, stapedius).",
         "isCorrect": true
       },
       {
-        "text": "CN X (Vagus)",
-        "explanation": "Incorrect. Epiglottis/Pharynx."
+        "text": "Isolated Facial Motor Nucleus lesion",
+        "explanation": "Incorrect (Would only affect facial muscles)."
       },
       {
-        "text": "CN V (Trigeminal)",
-        "explanation": "Incorrect. Somatosensation only."
+        "text": "CN V lesion",
+        "explanation": "Incorrect."
       },
       {
-        "text": "CN XII (Hypoglossal)",
-        "explanation": "Incorrect. Motor only."
+        "text": "CN IX lesion",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Taste: VII (front), IX (back), X (throat).",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: Complete CN VII nerve lesion = Face, Taste, Saliva, Hyperacusis (Stapedius paralysis).",
+    "pdfPage": 10
   },
   {
     "id": 10,
-    "category": "Reflex",
-    "questionText": "The afferent limb of the Gag Reflex is CN __, and the efferent limb is CN __.",
+    "category": "Neuroanatomy: CN VII",
+    "questionText": "The Stapedius muscle is innervated by CN VII. Paralysis of this muscle causes:",
     "options": [
       {
-        "text": "IX; X",
-        "explanation": "Correct. Feel it with IX, gag (motor) with X.",
+        "text": "Inability to close the eye",
+        "explanation": "Incorrect (Orbicularis oculi)."
+      },
+      {
+        "text": "Loss of taste",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperacusis (sounds perceived as too loud)",
+        "explanation": "Correct. Stapedius dampens loud sounds. Paralysis = Louder perception.",
         "isCorrect": true
       },
       {
-        "text": "X; IX",
+        "text": "Hearing loss",
         "explanation": "Incorrect."
       },
       {
-        "text": "V; VII",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "VII; V",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "IX; XII",
+        "text": "Vertigo",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Gag Reflex: IX in, X out.",
-    "pdfPage": 45
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Stapedius = Smallest striated muscle. Dampens sound. Paralysis = Hyperacusis.",
+    "pdfPage": 8
   },
   {
     "id": 11,
-    "category": "CN X",
-    "questionText": "Deviation of the Uvula to the RIGHT indicates a lesion of:",
+    "category": "Neuroanatomy: CN VIII",
+    "questionText": "The Vestibulocochlear Nerve (CN VIII) is associated with how many nuclei?",
     "options": [
       {
-        "text": "Right CN X",
-        "explanation": "Incorrect. Deviates AWAY from lesion.",
-        "isCorrect": false
+        "text": "One",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Left CN X",
-        "explanation": "Correct. Why? The healthy side (Right) pulls the uvula over. The weak side (Left) fails to lift.",
+        "text": "Two (Vestibular and Cochlear)",
+        "explanation": "Correct. Simple: Vestibular = Balance. Cochlear = Hearing.",
         "isCorrect": true
       },
       {
-        "text": "Right CN IX",
+        "text": "Three",
         "explanation": "Incorrect."
       },
       {
-        "text": "Left CN XII",
+        "text": "Four",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right CN V",
+        "text": "None (purely peripheral)",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Uvula points AWAY from the lesion.",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: CN VIII = 2 nuclei. Vestibular (balance/vertigo) + Cochlear (hearing).",
+    "pdfPage": 11
   },
   {
     "id": 12,
-    "category": "CN XII",
-    "questionText": "Deviation of the Tongue to the RIGHT upon protrusion indicates a lesion of:",
+    "category": "Neuroanatomy: CN VIII",
+    "questionText": "The Vestibular Nucleus is one of the largest cranial nerve nuclei and communicates with:",
     "options": [
       {
-        "text": "Right CN XII (Lower Motor Neuron)",
-        "explanation": "Correct. Tongue points TOWARD the weak side (the lesion side). 'Lick your wounds'.",
+        "text": "Cerebellum only",
+        "explanation": "Incorrect (Also others)."
+      },
+      {
+        "text": "Cerebellum, Ocular motor nuclei (via MLF), Spinal cord (vestibulospinal tract)",
+        "explanation": "Correct. Vestibular = Balance, so connects to: cerebellum (coordination), eyes (VOR), spine (posture).",
         "isCorrect": true
       },
       {
-        "text": "Left CN XII (Lower Motor Neuron)",
+        "text": "Cortex only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right CN X",
+        "text": "No other structures",
         "explanation": "Incorrect."
       },
       {
-        "text": "Left Motor Cortex (Upper Motor Neuron)",
-        "explanation": "Incorrect. Would deviate Left (contralateral weakness) or Right? UMN causes contralateral weakness, so tongue deviates AWAY from lesion. Left Cortex -> Right deviation. Wait. Let's clarify. LMN: Toward lesion. UMN: Away from lesion. So Right Deviation could be Right LMN or Left UMN. The question usually implies nerve lesion unless specified. Let's stick to LMN as the classic sign.",
-        "isCorrect": false
-      },
-      {
-        "text": "Right CN VII",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Tongue points TOWARD the LMN lesion.",
-    "pdfPage": 51
-  },
-  {
-    "id": 13,
-    "category": "Syndrome",
-    "questionText": "Wallenberg Syndrome (Lateral Medullary Syndrome) is caused by occlusion of the:",
-    "options": [
-      {
-        "text": "Anterior Spinal Artery (ASA)",
-        "explanation": "Incorrect. Medial Medullary Syndrome."
-      },
-      {
-        "text": "PICA (Posterior Inferior Cerebellar Artery)",
-        "explanation": "Correct. Affects Nucleus Ambiguus, Vestibular, Spinal Trigeminal, Spinothalamic.",
-        "isCorrect": true
-      },
-      {
-        "text": "AICA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "PCA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "MCA",
+        "text": "Thalamus only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Wallenberg = PICA infarct.",
-    "pdfPage": 54
+    "clinicalPearl": "Key takeaway: Vestibular nucleus = Massive, connects to cerebellum, eyes (MLF), spine.",
+    "pdfPage": 12
   },
   {
-    "id": 14,
-    "category": "Syndrome",
-    "questionText": "Medial Medullary Syndrome (ASA Occlusion) classically involves which three structures?",
+    "id": 13,
+    "category": "Clinical Correlation: CN VIII",
+    "questionText": "Meniere's Disease is characterized by a classic triad of symptoms:",
     "options": [
       {
-        "text": "Hypoglossal N, Medial Lemniscus, Corticospinal Tract",
-        "explanation": "Correct. LMN Tongue deviation (Lesion side), Loss of Proprioception/Touch (Contra), Hemiparesis (Contra).",
+        "text": "Hearing loss, tinnitus, facial paralysis",
+        "explanation": "Incorrect (Facial paralysis is CN VII)."
+      },
+      {
+        "text": "Vertigo, sensorineural hearing loss (high frequency), aural fullness",
+        "explanation": "Correct. Classic Meniere's triad. Disruptive, episodic, lasts hours.",
         "isCorrect": true
       },
       {
-        "text": "Nucleus Ambiguus, Spinothalamic Tract, Vestibular N",
-        "explanation": "Incorrect. Wallenberg."
+        "text": "Diplopia, ptosis, pupil dilation",
+        "explanation": "Incorrect (CN III)."
       },
       {
-        "text": "Facial N, Abducens N, Corticospinal Tract",
-        "explanation": "Incorrect. Pons."
+        "text": "Facial pain, hearing loss, vertigo",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Oculomotor N, Red Nucleus, Medial Lemniscus",
-        "explanation": "Incorrect. Midbrain."
+        "text": "Ataxia, nystagmus, dysarthria",
+        "explanation": "Incorrect (Cerebellar)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Meniere's = Vertigo + Hearing loss (high freq) + Aural fullness. Rare but well-known.",
+    "pdfPage": 12
+  },
+  {
+    "id": 14,
+    "category": "Clinical Correlation: CN VIII",
+    "questionText": "Acute ethanol intoxication can cause vertigo by:",
+    "options": [
+      {
+        "text": "Directly damaging the cochlear nucleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Trigeminal N, Spinothalamic Tract",
+        "text": "Changing the osmolarity of endolymph in semicircular canals, causing false motion signals",
+        "explanation": "Correct. Alcohol affects fluid balance → false vestibular signals → vertigo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking the auditory canal",
+        "explanation":  "Incorrect."
+      },
+      {
+        "text": "Paralyzing the stapedius",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increasing cerebellar activity",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Medial Medullary = Hypoglossal + Pyramids + ML.",
-    "pdfPage": 53
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alcohol → Endolymph osmolarity change → False motion perception → Vertigo.",
+    "pdfPage": 12
   },
   {
     "id": 15,
-    "category": "CN X",
-    "questionText": "Hoarseness and difficulty swallowing (Dysphagia) are most characteristic of a lesion to:",
+    "category": "Neuroanatomy: CN IX",
+    "questionText": "Cranial Nerve IX (Glossopharyngeal) is associated with which of the following nuclei? (Select the most complete answer)",
     "options": [
       {
-        "text": "CN IX only",
+        "text": "Only the Solitary Nucleus",
+        "explanation": "Incorrect (Partial)."
+      },
+      {
+        "text": "Nucleus Ambiguus, Inferior Salivatory Nucleus, Solitary Nucleus (Taste/Visceral)",
+        "explanation": "Correct. CN IX = Motor (swallow), Parasympathetic (parotid saliva), Sensory (taste posterior 1/3 tongue, carotid body/sinus).",
+        "isCorrect": true
+      },
+      {
+        "text": "Facial Motor Nucleus",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Hypoglossal Nucleus",
+        "explanation": "Incorrect (CN XII)."
+      },
+      {
+        "text": "Superior Salivatory Nucleus",
+        "explanation": "Incorrect (CN VII)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN IX = 3 nuclei. Ambiguus (swallow), Inferior Salivatory (parotid), Solitary (taste/BP).",
+    "pdfPage": 13
+  },
+  {
+    "id": 16,
+    "category": "Neuroanatomy: CN IX",
+    "questionText": "The Inferior Salivatory Nucleus (via CN IX) innervates which gland?",
+    "options": [
+      {
+        "text": "Lacrimal gland",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Submandibular gland",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Parotid gland",
+        "explanation": "Correct. Inferior Salivatory → Parotid (largest salivary gland).",
+        "isCorrect": true
+      },
+      {
+        "text": "Sublingual gland",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Thyroid gland",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Superior Salivatory (VII) = Submandibular/Sublingual. Inferior Salivatory (IX) = Parotid.",
+    "pdfPage": 13
+  },
+  {
+    "id": 17,
+    "category": "Neuroanatomy: CN IX",
+    "questionText": "CN IX carries taste information from which part of the tongue?",
+    "options": [
+      {
+        "text": "Anterior 2/3",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Posterior 1/3",
+        "explanation": "Correct. CN IX = Back of tongue taste.",
+        "isCorrect": true
+      },
+      {
+        "text": "Entire tongue",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nucleus Ambiguus (CN IX, X)",
-        "explanation": "Correct. Innervates laryngeal and pharyngeal muscles.",
+        "text": "Tip only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No taste function",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN VII = Anterior 2/3 taste. CN IX = Posterior 1/3 taste. Both to Solitary Nucleus.",
+    "pdfPage": 13
+  },
+  {
+    "id": 18,
+    "category": "Neuroanatomy: CN X",
+    "questionText": "The Vagus Nerve (CN X) is associated with which nuclei? (Most complete)",
+    "options": [
+      {
+        "text": "Only Dorsal Motor Nucleus",
+        "explanation": "Incorrect (Partial)."
+      },
+      {
+        "text": "Nucleus Ambiguus, Dorsal Motor Nucleus, Solitary Nucleus",
+        "explanation": "Correct. CN X = Motor (swallow/larynx), Parasympathetic (thoracic/abdominal viscera), Sensory (visceral/taste epiglottis).",
         "isCorrect": true
       },
       {
@@ -454,406 +545,283 @@ window.Test_L36 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Trigeminal Nucleus",
+        "text": "Facial Motor Nucleus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vestibular Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Nucleus Ambiguus = Swallowing & Speech.",
-    "pdfPage": 38
-  },
-  {
-    "id": 16,
-    "category": "Function",
-    "questionText": "The Nucleus Solitarius (Solitary Nucleus) receives which type of information?",
-    "options": [
-      {
-        "text": "Somatic Motor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visceral Sensory (Taste, Baroreceptors, Gut distension)",
-        "explanation": "Correct. Input from VII, IX, X.",
-        "isCorrect": true
-      },
-      {
-        "text": "Somatic Sensory (Touch, Pain)",
-        "explanation": "Incorrect. Trigeminal."
-      },
-      {
-        "text": "Branchial Motor",
-        "explanation": "Incorrect. Ambiguus."
-      },
-      {
-        "text": "Special Sensory (Hearing)",
+        "text": "Trigeminal Nucleus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Solitary Nucleus = Visceral Sensory hub.",
-    "pdfPage": 40
-  },
-  {
-    "id": 17,
-    "category": "CN XI",
-    "questionText": "A patient cannot shrug their right shoulder or turn their head to the left. This indicates damage to:",
-    "options": [
-      {
-        "text": "Right CN XI (Accessory Nerve)",
-        "explanation": "Correct. Supplies Right Trapezius (Shrug) and Right SCM (Turns head Left).",
-        "isCorrect": true
-      },
-      {
-        "text": "Left CN XI",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right CN X",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cervical Spinal Cord C5-C8",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem Stroke",
-        "explanation": "Incorrect. Would likely be more complex."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: CN XI: Ipsilateral Shoulder, Contralateral Head Turn.",
-    "pdfPage": 47
-  },
-  {
-    "id": 18,
-    "category": "Anatomy",
-    "questionText": "CN XI (Spinal Accessory) enters the skull through the __ and exits through the __.",
-    "options": [
-      {
-        "text": "Foramen Ovale; Jugular Foramen",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Foramen Magnum; Jugular Foramen",
-        "explanation": "Correct. Roots ascend from cord into skull, then leave with IX and X.",
-        "isCorrect": true
-      },
-      {
-        "text": "Jugular Foramen; Foramen Magnum",
-        "explanation": "Incorrect. Backwards."
-      },
-      {
-        "text": "Internal Acoustic Meatus; Stylomastoid Foramen",
-        "explanation": "Incorrect. CN VII."
-      },
-      {
-        "text": "Hypoglossal Canal; Foramen Magnum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN XI takes a detour into the skull.",
-    "pdfPage": 48
+    "clinicalPearl": "Key takeaway: CN X = 3 nuclei. Ambiguus (swallow/larynx), Dorsal Motor (viscera), Solitary (visceral sensory).",
+    "pdfPage": 14
   },
   {
     "id": 19,
-    "category": "CN V",
-    "questionText": "Trigeminal Neuralgia is characterized by:",
+    "category": "Neuroanatomy: Nucleus Ambiguus",
+    "questionText": "The Nucleus Ambiguus provides motor innervation to muscles of swallowing and phonation via which cranial nerves?",
     "options": [
       {
-        "text": "Numbness of the face",
+        "text": "CN V and VII",
         "explanation": "Incorrect."
       },
       {
-        "text": "Recurrent, intense shooting pain in the distribution of CN V",
-        "explanation": "Correct. Often triggered by touch.",
+        "text": "CN VII and VIII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN IX and X (and XI accessory fibers)",
+        "explanation": "Correct. Ambiguus = Swallow/talk. Shared by IX, X, (XI).",
         "isCorrect": true
       },
       {
-        "text": "Paralysis of facial muscles",
+        "text": "CN XI and XII",
         "explanation": "Incorrect."
       },
       {
-        "text": "Loss of taste",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Deafness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Trigeminal Neuralgia = Suicide Disease (Pain).",
-    "pdfPage": 17
-  },
-  {
-    "id": 20,
-    "category": "Structure",
-    "questionText": "The Nucleus Ambiguus provides Motor innervation to the muscles of the:",
-    "options": [
-      {
-        "text": "Eye",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tongue",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pharynx, Larynx, and Soft Palate",
-        "explanation": "Correct. Via CN IX and X.",
-        "isCorrect": true
-      },
-      {
-        "text": "Face",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mastication",
+        "text": "CN I and II",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Ambiguus = Throat Motor.",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: Nucleus Ambiguus = Shared motor nucleus for CN IX, X (and cranial XI). Pharynx/larynx.",
+    "pdfPage": 14
+  },
+  {
+    "id": 20,
+    "category": "Neuroanatomy: CN XI",
+    "questionText": "The Spinal Accessory Nerve (CN XI) has TWO components. The cranial component joins CN X, while the spinal component innervates:",
+    "options": [
+      {
+        "text": "Muscles of mastication",
+        "explanation": "Incorrect (CN V)."
+      },
+      {
+        "text": "Sternocleidomastoid (SCM) and Trapezius",
+        "explanation": "Correct. Spinal XI = SCM + Traps. Cranial XI merges with X.",
+        "isCorrect": true
+      },
+      {
+        "text": "Facial muscles",
+        "explanation": "Incorrect (CN VII)."
+      },
+      {
+        "text": "Tongue muscles",
+        "explanation": "Incorrect (CN XII)."
+      },
+      {
+        "text": "Laryngeal muscles",
+        "explanation": "Incorrect (CN X)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN XI = Cranial (joins X) + Spinal (SCM + Trapezius). Pure motor.",
+    "pdfPage": 15
   },
   {
     "id": 21,
-    "category": "CN XII",
-    "questionText": "The Hypoglossal Nucleus is located in the:",
+    "category": "Neuroanatomy: CN XII",
+    "questionText": "The Hypoglossal Nucleus innervates:",
     "options": [
       {
-        "text": "Medulla",
-        "explanation": "Correct. Medial dorsal medulla.",
+        "text": "Muscles of the pharynx",
+        "explanation": "Incorrect (CN IX, X)."
+      },
+      {
+        "text": "Intrinsic and extrinsic muscles of the tongue",
+        "explanation": "Correct. CN XII = Tongue motor control. Simple 1:1 nerve:nucleus.",
         "isCorrect": true
       },
       {
-        "text": "Pons",
-        "explanation": "Incorrect."
+        "text": "Muscles of the soft palate",
+        "explanation": "Incorrect (CN X)."
       },
       {
-        "text": "Midbrain",
-        "explanation": "Incorrect."
+        "text": "Muscles of the larynx",
+        "explanation": "Incorrect (CN X)."
       },
       {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diencephalon",
-        "explanation": "Incorrect."
+        "text": "Muscles of the face",
+        "explanation": "Incorrect (CN VII)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypoglossal = Medulla.",
-    "pdfPage": 50
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN XII = Hypoglossal = Tongue movement. LMN lesion → Tongue deviates TO weak side.",
+    "pdfPage": 15
   },
   {
     "id": 22,
-    "category": "Reflex",
-    "questionText": "The Jaw-Jerk Reflex involves which nucleus for the afferent limb?",
+    "category": "Neuroanatomy: Solitary Nucleus",
+    "questionText": "The Solitary Nucleus (Gustatory + Visceral) receives afferent input from which cranial nerves?",
     "options": [
       {
-        "text": "Principal Sensory Nucleus",
+        "text": "CN V, VII, VIII",
         "explanation": "Incorrect."
       },
       {
-        "text": "Mesencephalic Nucleus",
-        "explanation": "Correct. Proprioception -> Motor Nucleus.",
+        "text": "CN VII, IX, X",
+        "explanation": "Correct. Taste (VII, IX, X) + Visceral sensory (IX, X) all to Solitary Nucleus.",
         "isCorrect": true
       },
       {
-        "text": "Spinal Trigeminal Nucleus",
+        "text": "CN I, II, III",
         "explanation": "Incorrect."
       },
       {
-        "text": "Solitary Nucleus",
-        "explanation": "Incorrect."
+        "text": "CN XI and XII",
+        "explanation": "Incorrect (Motor nerves)."
       },
       {
-        "text": "Vestibular Nucleus",
+        "text": "Only CN VII",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Jaw Jerk is the only monosynaptic reflex in the brainstem.",
-    "pdfPage": 12
+    "clinicalPearl": "Key takeaway: Solitary Nucleus = Taste + Visceral sensory. CN VII, IX, X converge here.",
+    "pdfPage": 14
   },
   {
     "id": 23,
-    "category": "CN VIII",
-    "questionText": "Meniere's Disease presents with the triad of:",
+    "category": "Neuroanatomy: Brainstem Organization",
+    "questionText": "Which cranial nerve nucleus extends the farthest caudally (most inferior) in the brainstem?",
     "options": [
       {
-        "text": "Blindness, Pain, Numbness",
+        "text": "Edinger-Westphal (CN III)",
+        "explanation": "Incorrect (Most rostral)."
+      },
+      {
+        "text": "Facial Motor Nucleus (CN VII)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vertigo, Hearing Loss (low frequency), and Tinnitus/Aural Fullness",
-        "explanation": "Correct.",
+        "text": "Trigeminal Spinal Nucleus (CN V)",
+        "explanation": "Correct. Extends into upper cervical spinal cord (C1-C2).",
         "isCorrect": true
       },
       {
-        "text": "Ataxia, Nystagmus, Tremor",
+        "text": "Hypoglossal Nucleus (CN XII)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Headache, Vomiting, Papilledema",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Paralysis, Aphasia, Neglect",
+        "text": "Abducens Nucleus (CN VI)",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Meniere's = Vertigo + Tinnitus + Hearing Loss.",
-    "pdfPage": 29
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Trigeminal Spinal Nucleus = Longest. Extends from pons to C2 spinal cord.",
+    "pdfPage": 4
   },
   {
     "id": 24,
-    "category": "CN X",
-    "questionText": "The Dorsal Motor Nucleus of the Vagus provides:",
+    "category": "Neuroanatomy: Color Coding",
+    "questionText": "In the organizational diagrams, motor nuclei are color-coded in what scheme?",
     "options": [
       {
-        "text": "Somatic Motor to the Pharynx",
-        "explanation": "Incorrect. Ambiguus."
+        "text": "Green, blue, purple",
+        "explanation": "Incorrect (Sensory)."
       },
       {
-        "text": "Parasympathetic innervation to Thoracic and Abdominal Viscera",
-        "explanation": "Correct. GI tract, Heart, Lungs.",
+        "text": "Yellow, orange, red",
+        "explanation": "Correct. Motor = Warm colors. Sensory = Cool colors.",
         "isCorrect": true
       },
       {
-        "text": "Sensory from the ear",
+        "text": "Black and white",
         "explanation": "Incorrect."
       },
       {
-        "text": "Taste",
+        "text": "All blue",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sympathetic innervation",
+        "text": "No color coding",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dorsal Motor Vagus = Parasympathetic to the gut.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Motor = Warm (yellow/orange/red). Sensory = Cool (green/blue/purple).",
+    "pdfPage": 3
   },
   {
     "id": 25,
-    "category": "CN VII",
-    "questionText": "Which reflex is lost in a CN VII lesion?",
+    "category": "Neuroanatomy: Nucleus vs Nerve",
+    "questionText": "A cranial nerve NUCLEUS can be:",
     "options": [
       {
-        "text": "Pupillary Light Reflex",
-        "explanation": "Incorrect."
+        "text": "Both sensory and motor",
+        "explanation": "Incorrect. Nuclei are ALWAYS purely sensory OR purely motor.",
+        "isCorrect": false
       },
       {
-        "text": "Corneal Reflex (Efferent limb)",
-        "explanation": "Correct. Eye won't blink.",
+        "text": "Only sensory OR only motor (never both)",
+        "explanation": "Correct. Nuclei are specialized. NERVES can be mixed.",
         "isCorrect": true
       },
       {
-        "text": "Jaw Jerk",
-        "explanation": "Incorrect."
+        "text": "Connected to multiple nerves",
+        "explanation": "Incorrect (Some nuclei serve multiple nerves, but question is about sensory/motor)."
       },
       {
-        "text": "Gag Reflex",
-        "explanation": "Incorrect."
+        "text": "Located in the cortex",
+        "explanation": "Incorrect (Brainstem)."
       },
       {
-        "text": "Patellar Reflex",
-        "explanation": "Incorrect."
+        "text": "Peripheral structures",
+        "explanation": "Incorrect (Central)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: No blink = CN VII or CN V issue.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Nuclei = Pure (sensory OR motor). Nerves = Can be mixed.",
+    "pdfPage": 2
   },
   {
     "id": 26,
-    "category": "Location",
-    "questionText": "CN IX, X, and XI exit the skull through the:",
+    "category": "Clinical Correlation: Complexity",
+    "questionText": "According to the lecture, which cranial nerve is considered the MOST complex due to multiple nuclei and functions?",
     "options": [
       {
-        "text": "Superior Orbital Fissure",
-        "explanation": "Incorrect."
+        "text": "CN V (Trigeminal)",
+        "explanation": "Incorrect (Complex, but not the most)."
       },
       {
-        "text": "Jugular Foramen",
-        "explanation": "Correct. Together.",
+        "text": "CN VII (Facial)",
+        "explanation": "Incorrect (Complex, 4 nuclei)."
+      },
+      {
+        "text": "CN X (Vagus)",
+        "explanation": "Correct. Vagus = Most complex, widespread visceral + motor + sensory functions.",
         "isCorrect": true
       },
       {
-        "text": "Foramen Rotundum",
-        "explanation": "Incorrect."
+        "text": "CN VIII (Vestibulocochlear)",
+        "explanation": "Incorrect (Simple - 2 nuclei)."
       },
       {
-        "text": "Foramen Ovale",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypoglossal Canal",
-        "explanation": "Incorrect."
+        "text": "CN XII (Hypoglossal)",
+        "explanation": "Incorrect (Simplest - 1 nucleus, 1 function)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Jugular Foramen = 9, 10, 11 (+ Jugular Vein).",
-    "pdfPage": 48
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: CN X (Vagus) = Most complex. Widespread parasympathetic + swallow/voice + visceral sensory.",
+    "pdfPage": 1
   },
   {
     "id": 27,
-    "category": "Syndrome",
-    "questionText": "Dysarthria (difficulty speaking) and Dysphagia (difficulty swallowing) combined usually implicate:",
-    "options": [
-      {
-        "text": "CN I and II",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN IX, X, and XII",
-        "explanation": "Correct. Bulbar palsy symptoms.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN III, IV, VI",
-        "explanation": "Incorrect. Eye movements."
-      },
-      {
-        "text": "CN VIII",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN XI",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bulbar = Tongue/Throat nerves.",
-    "pdfPage": 38
-  },
-  {
-    "id": 28,
-    "category": "Anatomy",
-    "questionText": "The Spinal Trigeminal Nucleus extends caudally to the:",
+    "category": "Neuroanatomy: CN location",
+    "questionText": "The Facial Motor Nucleus is located in which part of the brainstem?",
     "options": [
       {
         "text": "Midbrain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Upper Cervical Spinal Cord (C3)",
-        "explanation": "Correct. Where it merges with the dorsal horn (Substantia Gelatinosa).",
+        "text": "Pons (Mid-Pons)",
+        "explanation": "Correct. CN VII nucleus in pons. Nerve exits at ponto-medullary junction.",
         "isCorrect": true
       },
       {
-        "text": "Lumbar Cord",
+        "text": "Medulla",
         "explanation": "Incorrect."
       },
       {
@@ -861,231 +829,260 @@ window.Test_L36 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Pons only",
+        "text": "Spinal cord",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pain nucleus descends into the neck.",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: CN VII motor nucleus = Pons. Wraps around CN VI nucleus (internal genu).",
+    "pdfPage": 9
+  },
+  {
+    "id": 28,
+    "category": "Neuroanatomy: Corticobulbar",
+    "questionText": "Upper motor neurons from the motor cortex descend to cranial nerve nuclei via which tract?",
+    "options": [
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect (Limbs/trunk)."
+      },
+      {
+        "text": "Corticobulbar Tract",
+        "explanation": "Correct. 'Bulbar' = Brainstem. Controls cranial nerve motor nuclei.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect (Sensory)."
+      },
+      {
+        "text": "Rubrospinal Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect (Sensory)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cortico-BULBAR = Cortex to Brainstem (CN motor nuclei). Cortico-SPINAL = Cortex to Spine.",
+    "pdfPage": 10
   },
   {
     "id": 29,
-    "category": "Viscera",
-    "questionText": "Baroreceptor mechanoreceptor information from the Carotid Sinus is carried by __, while from the Aortic Arch is carried by __.",
+    "category": "Clinical Correlation: Bilateral Innervation",
+    "questionText": "Which portion of the face receives bilateral cortical input (from both motor cortices)?",
     "options": [
       {
-        "text": "CN X; CN IX",
-        "explanation": "Incorrect."
+        "text": "Lower face",
+        "explanation": "Incorrect (Contralateral only)."
       },
       {
-        "text": "CN IX; CN X",
-        "explanation": "Correct. Carotid = IX, Aortic = X.",
+        "text": "Upper face (forehead, orbicularis oculi)",
+        "explanation": "Correct. Upper face = Bilateral → Forehead spared in stroke.",
         "isCorrect": true
       },
       {
-        "text": "CN VII; CN V",
+        "text": "Entire face",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN V; CN VII",
+        "text": "No part of the face",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sympathetics; Parasympathetics",
+        "text": "Only the lips",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sinus = 9, Arch = 10.",
-    "pdfPage": 40
+    "clinicalPearl": "Key takeaway: Upper face = Bilateral cortical control → Spared in UMN stroke.",
+    "pdfPage": 10
   },
   {
     "id": 30,
-    "category": "CN VII",
-    "questionText": "A central (Cortical/UMN) lesion of the Facial nerve pathway preserves forehead movement because:",
+    "category": "Neuroanatomy: Vestibular Projections",
+    "questionText": "The Vestibular Nucleus sends projections to the spinal cord via which tract?",
     "options": [
       {
-        "text": "The forehead has no muscles",
+        "text": "Corticospinal Tract",
         "explanation": "Incorrect."
       },
       {
-        "text": "The Facial Nucleus for the upper face receives Bilateral Cortical Input",
-        "explanation": "Correct. The lower face only receives Contralateral input.",
+        "text": "Vestibulospinal Tract",
+        "explanation": "Correct. Controls posture, head orientation, leg extension.",
         "isCorrect": true
       },
       {
-        "text": "The forehead is innervated by CN V",
-        "explanation": "Incorrect. Sensation is V, Motor is VII.",
-        "isCorrect": false
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect (Sensory)."
       },
       {
-        "text": "The nerve fibers don't cross",
+        "text": "Dorsal Column",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is a reflex",
+        "text": "Rubrospinal Tract",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Forehead sparing = Stroke (UMN).",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Vestibulospinal Tract = Balance/posture. Vestibular nucleus → Spinal cord.",
+    "pdfPage": 12
   },
   {
     "id": 31,
-    "category": "Syndrome",
-    "questionText": "Lateral Medullary Syndrome (Wallenberg) causes loss of pain/temp on the __ face and __ body.",
+    "category": "Neuroanatomy: Mesencephalic Nucleus",
+    "questionText": "The Trigeminal Mesencephalic Nucleus is unique because it contains:",
     "options": [
       {
-        "text": "Ipsilateral; Ipsilateral",
+        "text": "Motor neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Contralateral; Contralateral",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ipsilateral; Contralateral",
-        "explanation": "Correct. Ipsilateral Spinal V nucleus + Contralateral Spinothalamic tract.",
+        "text": "Primary sensory neurons (pseudounipolar neurons with cell bodies in the CNS)",
+        "explanation": "Correct. ONLY cranial nerve nucleus with 1st-order sensory neurons in CNS (not in ganglion).",
         "isCorrect": true
       },
       {
-        "text": "Contralateral; Ipsilateral",
+        "text": "Parasympathetic neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "None; None",
+        "text": "Interneurons only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No neurons",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mesencephalic Nucleus = Unique. 1st-order proprioceptive neurons IN the brainstem.",
+    "pdfPage": 5
+  },
+  {
+    "id": 32,
+    "category": "Neuroanatomy: Carotid Sinus",
+    "questionText": "Baroreceptor information from the carotid sinus is relayed to the brainstem via:",
+    "options": [
+      {
+        "text": "CN V",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN IX (Glossopharyngeal)",
+        "explanation": "Correct. CN IX = Carotid sinus (baroreceptors - BP). CN X = Aortic arch baroreceptors.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN X",
+        "explanation": "Incorrect (Aortic arch)."
+      },
+      {
+        "text": "CN XII",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Alternating Hemianesthesia = Brainstem lesion.",
-    "pdfPage": 54
-  },
-  {
-    "id": 32,
-    "category": "CN VIII",
-    "questionText": "Intoxication with ethanol can cause vertigo by:",
-    "options": [
-      {
-        "text": "Destroying hair cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Changing the density/osmolarity of the endolymph in semicircular canals",
-        "explanation": "Correct. 'The spins'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Severing the nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking the cochlear nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unknown mechanism",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alcohol changes fluid density in the ear.",
-    "pdfPage": 28
-  },
-  {
-    "id": 33,
-    "category": "CN XI",
-    "questionText": "The Spinal Accessory Nucleus is located in the:",
-    "options": [
-      {
-        "text": "Dorsal Horn of C1-C5",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ventral Horn of C1-C5",
-        "explanation": "Correct. It is a motor nucleus comparable to spinal motor neurons.",
-        "isCorrect": true
-      },
-      {
-        "text": "Medulla only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Midbrain",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN XI starts in the neck (spinal cord).",
-    "pdfPage": 47
-  },
-  {
-    "id": 34,
-    "category": "CN V",
-    "questionText": "Touch and proprioception from the face is processed by the:",
-    "options": [
-      {
-        "text": "Spinal Trigeminal Nucleus",
-        "explanation": "Incorrect. Pain."
-      },
-      {
-        "text": "Principal (Pontine) Sensory Nucleus",
-        "explanation": "Correct. Analogous to DCML.",
-        "isCorrect": true
-      },
-      {
-        "text": "Motor Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Solitary Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Accessory Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pontine Nucleus = Facial Touch.",
+    "clinicalPearl": "Key takeaway: CN IX = Carotid sinus/body (BP, O2). CN X = Aortic arch. Both to Solitary Nucleus.",
     "pdfPage": 13
   },
   {
-    "id": 35,
-    "category": "CN X",
-    "questionText": "Unilateral lesion of the Vagus nerve results in:",
+    "id": 33,
+    "category": "Neuroanatomy: Simplicity Ranking",
+    "questionText": "According to the lecture, which cranial nerves are the 'easiest' to understand due to simple 1:1 nerve-to-nucleus-to-function relationships?",
     "options": [
       {
-        "text": "Hyperactive gag reflex",
-        "explanation": "Incorrect."
+        "text": "CN V and VII",
+        "explanation": "Incorrect (Complex)."
       },
       {
-        "text": "Hoarseness and deviation of the uvula to the HEALTHY side",
-        "explanation": "Correct. The weak side drops, healthy side pulls.",
+        "text": "CN VIII and XII",
+        "explanation": "Correct. CN VIII (2 simple nuclei), CN XII (1 nucleus, 1 function - tongue).",
         "isCorrect": true
       },
       {
-        "text": "Tongue deviation to the LESION side",
-        "explanation": "Incorrect. That's CN XII.",
-        "isCorrect": false
+        "text": "CN IX and X",
+        "explanation": "Incorrect (Complex)."
       },
       {
-        "text": "Loss of taste on anterior tongue",
-        "explanation": "Incorrect. CN VII."
+        "text": "CN I and II",
+        "explanation": "Incorrect (Not covered in this lecture)."
       },
       {
-        "text": "Inability to shrug shoulder",
-        "explanation": "Incorrect. CN XI."
+        "text": "CN III, IV, VI",
+        "explanation": "Incorrect (Not covered in this lecture)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vagus lesion = Hoarse + Uvula away.",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: CN XII = Simplest (1:1). CN VIII = Easy (2 nuclei). CN VII, IX, X = Complex.",
+    "pdfPage": 2
+  },
+  {
+    "id": 34,
+    "category": "Neuroanatomy: Dorsal Motor Nucleus",
+    "questionText": "The Dorsal Motor Nucleus of the Vagus (CN X) provides parasympathetic innervation to:",
+    "options": [
+      {
+        "text": "Salivary glands",
+        "explanation": "Incorrect (CN VII, IX)."
+      },
+      {
+        "text": "Thoracic and abdominal viscera (heart, lungs, GI tract to splenic flexure)",
+        "explanation": "Correct. Dorsal Motor = Widespread visceral parasympathetic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pelvic organs",
+        "explanation": "Incorrect (Pelvic splanchnic nerves)."
+      },
+      {
+        "text": "Pupils",
+        "explanation": "Incorrect (CN III)."
+      },
+      {
+        "text": "Lacrimal gland",
+        "explanation": "Incorrect (CN VII)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dorsal Motor Nucleus (X) = Thoracic/Abdominal viscera parasympathetic. Longest autonomic reach.",
+    "pdfPage": 14
+  },
+  {
+    "id": 35,
+    "category": "Clinical Correlation: Study Strategy",
+    "questionText": "The lecturer recommends which study strategy for mastering this complex material?",
+    "options": [
+      {
+        "text": "Memorize the chart verbatim",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pause the slides, make notes, and understand patterns before proceeding",
+        "explanation": "Correct. Lecturer emphasizes prep work and pattern recognition.",
+        "isCorrect": true
+      },
+      {
+        "text": "Skip the overview slides",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Focus only on clinical correlations",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Study nerves in reverse order",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pause, prep, pattern-seek. Don't let the chart cause panic - much is simple.",
+    "pdfPage": 2
   }
 ];

@@ -12,14 +12,18 @@ You MUST write questions that mimic the length and detail of actual board exams.
     - **Vitals:** T, BP, HR, RR, O2 sat (use realistic values).
     - **Physical Exam:** Inspection, palpation, auscultation, special tests.
     - **Diagnostic Data:** Labs, imaging, OMM findings (if applicable).
-- **Length:** Vignettes should be **4-8 sentences** on average.
-- **AVOID Short Questions:** Do not write 1-2 sentence questions. Even for basic science concepts, wrap them in a clinical presentation (e.g., instead of "What nerve innervates X?", describe a patient with a specific nerve deficit and ask for the nerve or the muscle affected).
+- **Length:** Vignettes should be **4-8 sentences** on average for Board Style questions.
 
-**CRITICAL - Question Depth (2nd & 3rd Order):**
-- **AVOID First-Order Questions:** Do NOT ask for simple recall (e.g., "What is the diagnosis?" or "What is the treatment?").
-- **CREATE Second-Order Questions:** Describe a clinical vignette and ask for the *mechanism of action* of the treatment, or the *pathophysiolgical basis* of the disease.
-- **CREATE Third-Order Questions:** Describe a patient, imply a diagnosis, imply a treatment, and ask for a *potential side effect* or *contraindication* of that treatment.
-- **Osteopathic Connection (for COMLEX style):** If relevant, include structural exam findings (T.A.R.T. changes, somatic dysfunctions, Chapman's points).
+**CRITICAL - Question Mix Strategy (50/50 Split):**
+To ensure a high-yield exam that balances depth with breadth, you MUST follow this distribution:
+1.  **Type A - Full Clinical Vignette (50%):** 4-8 sentences. Full demographics, HPI, Vitals, Physical Exam findings. used for 2nd/3rd order diagnosis and management.
+2.  **Type B - Rapid Concept Check (50%):** 2-3 sentences. Shorter, focused clinical context or direct anatomy/physiology application. Used to test specific facts (axes, landmarks, attachments).
+
+**CRITICAL - Consistency & Interleaving:**
+- You **MUST** interleave these types (e.g., A, B, A, B...).
+- **DO NOT** front-load the vignettes and let the quality drop at the end.
+- The 35th question must be as high-quality as the 1st.
+- **Osteopathic Connection:** Continue to include structural exam findings in both types where relevant.
 
 **Examples of Board Style Detail:**
 *   *Weak:* "A patient has pneumonia. What is the cause?"

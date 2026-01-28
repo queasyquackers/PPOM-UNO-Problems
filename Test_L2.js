@@ -1,1053 +1,1057 @@
-
 window.Test_L2 = [
-    {
-        "id": 1,
-        "category": "Neuroembryology: Basics",
-        "questionText": "During gastrulation, the notochord is formed from which germ layer?",
-        "options": [
-            {
-                "text": "Ectoderm",
-                "explanation": "Incorrect. Ectoderm forms the neural plate/skin."
-            },
-            {
-                "text": "Mesoderm",
-                "explanation": "Correct. The notochord is a distinct cylinder of mesodermal cells that condenses at the midline."
-            },
-            {
-                "text": "Endoderm",
-                "explanation": "Incorrect. Endoderm forms the gut tube."
-            },
-            {
-                "text": "Neural Crest",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Surface Ectoderm",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Notochord = Mesoderm. CNS = Ectoderm.",
-        "pdfPage": 17
-    },
-    {
-        "id": 2,
-        "category": "Neuroembryology: Basics",
-        "questionText": "The entire central nervous system (brain and spinal cord) is derived from which embryonic structure?",
-        "options": [
-            {
-                "text": "Neural Crest",
-                "explanation": "Incorrect. Neural crest forms the PNS ganglia, Schwann cells, etc."
-            },
-            {
-                "text": "Neural Tube",
-                "explanation": "Correct. The Neural Tube gives rise to the CNS (Brain and Spinal Cord)."
-            },
-            {
-                "text": "Notochord",
-                "explanation": "Incorrect. Notochord induces the neural plate but becomes the nucleus pulposus."
-            },
-            {
-                "text": "Somites",
-                "explanation": "Incorrect. Form bone/muscle/dermis."
-            },
-            {
-                "text": "Yolk Sac",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Neural Tube -> CNS. Neural Crest -> PNS.",
-        "pdfPage": 45
-    },
-    {
-        "id": 3,
-        "category": "Neuroembryology: Neural Crest",
-        "questionText": "Which of the following is NOT a derivative of Neural Crest cells?",
-        "options": [
-            {
-                "text": "Dorsal Root Ganglia",
-                "explanation": "Incorrect. DRGs are a classic neural crest derivative."
-            },
-            {
-                "text": "Melanocytes",
-                "explanation": "Incorrect. Pigment cells are neural crest derived."
-            },
-            {
-                "text": "Schwann Cells",
-                "explanation": "Incorrect. PNS glia are neural crest derived."
-            },
-            {
-                "text": "Motor Neurons (Ventral Horn)",
-                "explanation": "Correct. Motor neurons in the ventral horn are derived from the Neural Tube (Basal Plate), not the Neural Crest."
-            },
-            {
-                "text": "Adrenal Medulla",
-                "explanation": "Incorrect. Chromaffin cells are neural crest derived."
-            }
-        ],
-        "correctAnswerIndex": 3,
-        "clinicalPearl": "Key takeaway: Motor Neurons (CNS) come from the Neural Tube. Sensory Ganglia (PNS) come from Neural Crest.",
-        "pdfPage": 19
-    },
-    {
-        "id": 4,
-        "category": "Neuroembryology: Defects",
-        "questionText": "A newborn presents with a hair tuft over the lumbar spine. Imaging reveals a small defect in the vertebral arch (L5), but the spinal cord and meninges are intact and in their normal position. What is the diagnosis?",
-        "options": [
-            {
-                "text": "Spina Bifida Occulta",
-                "explanation": "Correct. The mildest form, characterized by a vertebral arch defect covered by skin, often marked by a tuft of hair."
-            },
-            {
-                "text": "Meningocele",
-                "explanation": "Incorrect. Involves protrusion of meninges (cyst)."
-            },
-            {
-                "text": "Myelomeningocele",
-                "explanation": "Incorrect. Involves protrusion of meninges AND spinal cord."
-            },
-            {
-                "text": "Myeloschisis",
-                "explanation": "Incorrect. Open neural tube/spinal cord."
-            },
-            {
-                "text": "Anencephaly",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Spina Bifida Occulta = Vertebral defect only, often asymptomatic + hair tuft.",
-        "pdfPage": 1
-    },
-    {
-        "id": 5,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Failure of the rostral (anterior) neuropore to close results in which incompatible-with-life condition?",
-        "options": [
-            {
-                "text": "Spina Bifida",
-                "explanation": "Incorrect. Caudal neuropore defect."
-            },
-            {
-                "text": "Anencephaly",
-                "explanation": "Correct. Failure of the anterior neuropore to close results in failure of the brain to form (Anencephaly/Meroencephaly)."
-            },
-            {
-                "text": "Holoprosencephaly",
-                "explanation": "Incorrect. Failure of cleavage/separation, not closure."
-            },
-            {
-                "text": "Hydrocephalus",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Meningocele",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Rostral Neuropore Failure -> Anencephaly. Caudal Neuropore Failure -> Spina Bifida.",
-        "pdfPage": 12
-    },
-    {
-        "id": 6,
-        "category": "Neuroembryology: Cellular Layers",
-        "questionText": "In the developing neural tube, the Mantle Layer gives rise to:",
-        "options": [
-            {
-                "text": "Gray Matter",
-                "explanation": "Correct. The Mantle Layer contains the cell bodies and becomes the Gray Matter."
-            },
-            {
-                "text": "White Matter",
-                "explanation": "Incorrect. Marginal Layer becomes White Matter."
-            },
-            {
-                "text": "Ependymal Cells",
-                "explanation": "Incorrect. Ventricular Layer becomes Ependymal cells."
-            },
-            {
-                "text": "Meninges",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Ventricles",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Ventricular -> Ependymal. Mantle -> Gray Matter. Marginal -> White Matter.",
-        "pdfPage": 45
-    },
-    {
-        "id": 7,
-        "category": "Neuroembryology: Plates",
-        "questionText": "The Alar Plate of the developing spinal cord is associated with which function?",
-        "options": [
-            {
-                "text": "Motor",
-                "explanation": "Incorrect. Basal Plate is Motor."
-            },
-            {
-                "text": "Sensory",
-                "explanation": "Correct. The Alar Plate (Dorsal) processes Sensory information."
-            },
-            {
-                "text": "Autonomic only",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Structural support",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Glia only",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Alar = Dorsal = Sensory. Basal = Ventral = Motor.",
-        "pdfPage": 45
-    },
-    {
-        "id": 8,
-        "category": "Neuroembryology: Signaling",
-        "questionText": "Which signaling molecule is secreted by the notochord to induce ventral patterning (Basal Plate/Motor neurons) of the neural tube?",
-        "options": [
-            {
-                "text": "Bone Morphogenic Protein (BMP)",
-                "explanation": "Incorrect. BMPs from overlying ectoderm induce dorsal (sensory) patterning."
-            },
-            {
-                "text": "Sonic Hedgehog (Shh)",
-                "explanation": "Correct. Shh is secreted by the notochord and floor plate to induce ventral (motor) differentiation."
-            },
-            {
-                "text": "Wnt",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "FGF",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Retinoic Acid",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Ventral (Motor) <- Shh. Dorsal (Sensory) <- BMP.",
-        "pdfPage": 17
-    },
-    {
-        "id": 9,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Telencephalon is a secondary vesicle derived from which primary vesicle?",
-        "options": [
-            {
-                "text": "Prosencephalon",
-                "explanation": "Correct. Prosencephalon (Forebrain) divides into Telencephalon and Diencephalon."
-            },
-            {
-                "text": "Mesencephalon",
-                "explanation": "Incorrect. Mesencephalon remains Mesencephalon."
-            },
-            {
-                "text": "Rhombencephalon",
-                "explanation": "Incorrect. Divides into Metencephalon and Myelencephalon."
-            },
-            {
-                "text": "Metencephalon",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Myelencephalon",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Prosencephalon -> Telencephalon + Diencephalon.",
-        "pdfPage": 22
-    },
-    {
-        "id": 10,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "Which adult brain structure is derived from the Metencephalon?",
-        "options": [
-            {
-                "text": "Medulla Oblongata",
-                "explanation": "Incorrect. Myelencephalon."
-            },
-            {
-                "text": "Cerebellum",
-                "explanation": "Correct. The Metencephalon gives rise to the Pons and Cerebellum."
-            },
-            {
-                "text": "Thalamus",
-                "explanation": "Incorrect. Diencephalon."
-            },
-            {
-                "text": "Midbrain",
-                "explanation": "Incorrect. Mesencephalon."
-            },
-            {
-                "text": "Cerebral Hemispheres",
-                "explanation": "Incorrect. Telencephalon."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Metencephalon -> Pons + Cerebellum.",
-        "pdfPage": 28
-    },
-    {
-        "id": 11,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Third Ventricle is the cavity associated with which secondary vesicle?",
-        "options": [
-            {
-                "text": "Telencephalon",
-                "explanation": "Incorrect. Lateral Ventricles."
-            },
-            {
-                "text": "Diencephalon",
-                "explanation": "Correct. The Diencephalon (Thalamus/Hypothalamus) surrounds the Third Ventricle."
-            },
-            {
-                "text": "Mesencephalon",
-                "explanation": "Incorrect. Cerebral Aqueduct."
-            },
-            {
-                "text": "Metencephalon",
-                "explanation": "Incorrect. Upper Fourth Ventricle."
-            },
-            {
-                "text": "Myelencephalon",
-                "explanation": "Incorrect. Lower Fourth Ventricle."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Diencephalon <-> Third Ventricle.",
-        "pdfPage": 32
-    },
-    {
-        "id": 12,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Holoprosencephaly results from a failure of:",
-        "options": [
-            {
-                "text": "The caudal neuropore to close",
-                "explanation": "Incorrect. Spina Bifida."
-            },
-            {
-                "text": "The prosencephalon to divide into two hemispheres",
-                "explanation": "Correct. Failure of the forebrain (prosencephalon) to cleave/divide results in Holoprosencephaly (midline defects)."
-            },
-            {
-                "text": "The neural crest cells to migrate",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "The cerebellum to form",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "The ventricular system to open",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Holoprosencephaly = Failure of forebrain cleavage (midline defects).",
-        "pdfPage": 27
-    },
-    {
-        "id": 13,
-        "category": "Neuroembryology: Cranial Nerves",
-        "questionText": "The Optic Nerve (CN II) and retina are outgrowths of which vesicle?",
-        "options": [
-            {
-                "text": "Telencephalon",
-                "explanation": "Incorrect. CN I."
-            },
-            {
-                "text": "Diencephalon",
-                "explanation": "Correct. The eye and optic nerve form as direct outgrowths of the Diencephalon."
-            },
-            {
-                "text": "Mesencephalon",
-                "explanation": "Incorrect. CN III, IV."
-            },
-            {
-                "text": "Metencephalon",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Myelencephalon",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Retina is CNS tissue (Diencephalon).",
-        "pdfPage": 2
-    },
-    {
-        "id": 14,
-        "category": "Neuroembryology: Cranial Nerves",
-        "questionText": "Which cranial nerves are associated with the Mesencephalon (Midbrain)?",
-        "options": [
-            {
-                "text": "CN I, II",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "CN III, IV",
-                "explanation": "Correct. Oculomotor (III) and Trochlear (IV) arise from the Midbrain."
-            },
-            {
-                "text": "CN V, VI, VII",
-                "explanation": "Incorrect. Pons (Metencephalon)."
-            },
-            {
-                "text": "CN VIII, IX, X",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "CN XI, XII",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Midbrain = CN 3, 4. Pons = CN 5, 6, 7, 8. Medulla = CN 9, 10, 11, 12.",
-        "pdfPage": 15
-    },
-    {
-        "id": 15,
-        "category": "Neuroembryology: Spinal Cord",
-        "questionText": "At birth, the conus medullaris (end of spinal cord) is typically located at which vertebral level?",
-        "options": [
-            {
-                "text": "T12",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "L1-L2",
-                "explanation": "Incorrect. This is the adult level."
-            },
-            {
-                "text": "L3",
-                "explanation": "Correct. At birth, the cord ends around L3. It recedes effectively to L1-L2 by adulthood due to differential growth."
-            },
-            {
-                "text": "S1",
-                "explanation": "Incorrect. 24 weeks gestation."
-            },
-            {
-                "text": "Coccyx",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: Cord ends at L3 at birth, L1/L2 in adults.",
-        "pdfPage": 20
-    },
-    {
-        "id": 16,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Tethered Cord Syndrome occurs when:",
-        "options": [
-            {
-                "text": "The filum terminale is thickened or the cord is stuck, preventing ascent",
-                "explanation": "Correct. The cord gets stuck to surrounding tissue, causing stretching/damage as the vertebrae grow."
-            },
-            {
-                "text": "The neural pore fails to close",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "The notochord persists",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "There is too much CSF",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "The cerebellum herniates",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Tethered cord causes progressive neurological deficits as the child grows.",
-        "pdfPage": 20
-    },
-    {
-        "id": 17,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Cerebral Aqueduct connects:",
-        "options": [
-            {
-                "text": "Lateral Ventricles to Third Ventricle",
-                "explanation": "Incorrect. Foramen of Monro."
-            },
-            {
-                "text": "Third Ventricle to Fourth Ventricle",
-                "explanation": "Correct. The Aqueduct (Mesencephalon) connects the Third (Diencephalon) and Fourth (Rhombencephalon) ventricles."
-            },
-            {
-                "text": "Fourth Ventricle to Central Canal",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Fourth Ventricle to Subarachnoid Space",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Left and Right Lateral Ventricles",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Aqueduct runs through the Midbrain.",
-        "pdfPage": 27
-    },
-    {
-        "id": 18,
-        "category": "Neuroembryology: Neural Crest",
-        "questionText": "Which of the following cardiac structures is derived from Neural Crest cells?",
-        "options": [
-            {
-                "text": "Myocardium",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Pericardium",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Aorticopulmonary Septum",
-                "explanation": "Correct. Neural crest cells participate in septation of the outflow tract (Truncus Arteriosus)."
-            },
-            {
-                "text": "Mitral Valve",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Left Atrium",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: Neural Crest defects can cause Conotruncal heart defects (e.g., Tetralogy of Fallot) + Craniofacial issues.",
-        "pdfPage": 15
-    },
-    {
-        "id": 19,
-        "category": "Neuroembryology: Defects",
-        "questionText": "In a Meningomyelocele, what structures are protruding through the vertebral defect?",
-        "options": [
-            {
-                "text": "Meninges only",
-                "explanation": "Incorrect. Meningocele."
-            },
-            {
-                "text": "Meninges and Spinal Cord/Nerve Roots",
-                "explanation": "Correct. Myelo = Cord. Meningo = Meninges. Both are outside the canal."
-            },
-            {
-                "text": "Skin only",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Vertebral body",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Brain tissue",
-                "explanation": "Incorrect. Encephalocele."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Myelomeningocele is the most common significant form of Spina Bifida and involves neural deficits.",
-        "pdfPage": 20
-    },
-    {
-        "id": 20,
-        "category": "Neuroembryology: Layers",
-        "questionText": "The Marginal Layer of the spinal cord is located:",
-        "options": [
-            {
-                "text": "Deep to the Mantle Layer",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Superficial (external) to the Mantle Layer",
-                "explanation": "Correct. The marginal layer forms the outer white matter of the cord."
-            },
-            {
-                "text": "Surrounding the central canal",
-                "explanation": "Incorrect. Ventricular layer."
-            },
-            {
-                "text": "In the dorsal horn only",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "It disappears after birth",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Spinal Cord: Gray inside (Mantle), White outside (Marginal).",
-        "pdfPage": 34
-    },
-    {
-        "id": 21,
-        "category": "Neuroembryology: Basics",
-        "questionText": "Which structure divides the Alar (Sensory) and Basal (Motor) plates in the developing neural tube?",
-        "options": [
-            {
-                "text": "Sulcus Limitans",
-                "explanation": "Correct. The Sulcus Limitans is the longitudinal groove separating dorsal (sensory) and ventral (motor) regions."
-            },
-            {
-                "text": "Central Canal",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Floor Plate",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Roof Plate",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Notochord",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Sulcus Limitans = Sensory/Motor border.",
-        "pdfPage": 45
-    },
-    {
-        "id": 22,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Which substance reduces the risk of Neural Tube Defects if taken prior to conception?",
-        "options": [
-            {
-                "text": "Vitamin C",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Folic Acid (Folate)",
-                "explanation": "Correct. Folate supplementation significantly reduces the risk of NTDs (Anencephaly/Spina Bifida)."
-            },
-            {
-                "text": "Iron",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Calcium",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Vitamin D",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Folic Acid prevents Neural Tube Defects.",
-        "pdfPage": 2
-    },
-    {
-        "id": 23,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Medulla Oblongata arises from the:",
-        "options": [
-            {
-                "text": "Metencephalon",
-                "explanation": "Incorrect. Pons."
-            },
-            {
-                "text": "Myelencephalon",
-                "explanation": "Correct. Myelencephalon -> Medulla."
-            },
-            {
-                "text": "Mesencephalon",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Diencephalon",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Telencephalon",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Myelencephalon = Medulla.",
-        "pdfPage": 30
-    },
-    {
-        "id": 24,
-        "category": "Neuroembryology: Neural Crest",
-        "questionText": "Hirschsprung disease (congenital megacolon) results from:",
-        "options": [
-            {
-                "text": "Failure of Neural Tube closure",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Failure of Neural Crest migration to the gut",
-                "explanation": "Correct. Absence of enteric ganglia (derived from Neural Crest) causes the colon to lose motility."
-            },
-            {
-                "text": "Defect in the notochord",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Spina Bifida",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Holoprosencephaly",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Neural crest migrates to form Enteric Nervous System. Failure = Hirschsprung.",
-        "pdfPage": 45
-    },
-    {
-        "id": 25,
-        "category": "Neuroembryology: Basics",
-        "questionText": "The separation of the neural tube from the overlying ectoderm is essential to prevent:",
-        "options": [
-            {
-                "text": "Tethered cord",
-                "explanation": "Correct. If it doesn't separate, it remains attached to skin/tissue, leading to tethering or open defects."
-            },
-            {
-                "text": "Anencephaly",
-                "explanation": "Incorrect. Result of non-closure."
-            },
-            {
-                "text": "Gastrulation",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Neural crest migration",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Ventricle formation",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Separation from surface ectoderm allows mesoderm to migrate between and form vertebrae.",
-        "pdfPage": 45
-    },
-    {
-        "id": 26,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Encephalocele refers to:",
-        "options": [
-            {
-                "text": "Herniation of intracranial contents through a skull defect",
-                "explanation": "Correct. Encephalo- (brain) -cele (herniation/cyst)."
-            },
-            {
-                "text": "Herniation of spinal cord",
-                "explanation": "Incorrect. Myelocele."
-            },
-            {
-                "text": "Absence of brain",
-                "explanation": "Incorrect. Anencephaly."
-            },
-            {
-                "text": "Small brain",
-                "explanation": "Incorrect. Microcephaly."
-            },
-            {
-                "text": "Fluid in the brain",
-                "explanation": "Incorrect. Hydrocephalus."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Encephaloceles are typically occipital.",
-        "pdfPage": 11
-    },
-    {
-        "id": 27,
-        "category": "Neuroembryology: Neural Crest",
-        "questionText": "Pharyngeal arch structures (bone, cartilage) are largely derived from:",
-        "options": [
-            {
-                "text": "Paraxial Mesoderm only",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Neural Crest Cells",
-                "explanation": "Correct. Neural crest cells migrate into the pharyngeal arches to form the skeletal components of the face/neck."
-            },
-            {
-                "text": "Endoderm",
-                "explanation": "Incorrect. Lining."
-            },
-            {
-                "text": "Nerves",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Notochord",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: Neural Crest creates the 'Face'.",
-        "pdfPage": 15
-    },
-    {
-        "id": 28,
-        "category": "Neuroembryology: Signaling",
-        "questionText": "What structure produces BMPs to induce dorsal (sensory) differentiation?",
-        "options": [
-            {
-                "text": "Notochord",
-                "explanation": "Incorrect. Shh."
-            },
-            {
-                "text": "Floor Plate",
-                "explanation": "Incorrect. Shh."
-            },
-            {
-                "text": "Surface Ectoderm / Roof Plate",
-                "explanation": "Correct. The overlying ectoderm and subsequent roof plate secrete BMPs."
-            },
-            {
-                "text": "Somites",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Neural Crest",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: BMP = Dorsalizing signal.",
-        "pdfPage": 17
-    },
-    {
-        "id": 29,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Lateral Ventricles are found within the:",
-        "options": [
-            {
-                "text": "Telencephalon",
-                "explanation": "Correct. The cavity of the Telencephalon forms the two lateral ventricles."
-            },
-            {
-                "text": "Diencephalon",
-                "explanation": "Incorrect. Third."
-            },
-            {
-                "text": "Mesencephalon",
-                "explanation": "Incorrect. Aqueduct."
-            },
-            {
-                "text": "Rhombencephalon",
-                "explanation": "Incorrect. Fourth."
-            },
-            {
-                "text": "Spinal Cord",
-                "explanation": "Incorrect. Central Canal."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Telencephalon -> Lateral Ventricles (1 and 2).",
-        "pdfPage": 27
-    },
-    {
-        "id": 30,
-        "category": "Neuroembryology: Brain Vesicles",
-        "questionText": "The Pons arises from the same secondary vesicle as the:",
-        "options": [
-            {
-                "text": "Medulla",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Midbrain",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Cerebellum",
-                "explanation": "Correct. Both Pons and Cerebellum come from the Metencephalon."
-            },
-            {
-                "text": "Thalamus",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Spinal Cord",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: Pons + Cerebellum are a unit (Metencephalon).",
-        "pdfPage": 2
-    },
-    {
-        "id": 31,
-        "category": "Neuroembryology: Cellular Layers",
-        "questionText": "Glioblasts and Spongioblasts (supporting cells) differentiate from which layer?",
-        "options": [
-            {
-                "text": "Ventricular Zone",
-                "explanation": "Correct. Neuroepithelial cells in the ventricular zone give rise to Neuroblasts (neurons) and Glioblasts (glia)."
-            },
-            {
-                "text": "Marginal Zone",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Mantle Zone",
-                "explanation": "Incorrect. They migrate TO here, but originate from the VZ."
-            },
-            {
-                "text": "Neural Crest",
-                "explanation": "Incorrect. CNS glia are from Neural Tube (except microglia)."
-            },
-            {
-                "text": "Mesoderm",
-                "explanation": "Incorrect. Microglia are mesoderm."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: All CNS cells (except microglia) come from Ventricular Zone neuroepithelium.",
-        "pdfPage": 45
-    },
-    {
-        "id": 32,
-        "category": "Neuroembryology: Flexures",
-        "questionText": "Which flexure occurs between the midbrain and the forebrain, causing the 90-degree rotation of the neuraxis?",
-        "options": [
-            {
-                "text": "Cervical Flexure",
-                "explanation": "Incorrect. Junction of hindbrain/cord."
-            },
-            {
-                "text": "Pontine Flexure",
-                "explanation": "Incorrect. Dorsal bend in metencephalon."
-            },
-            {
-                "text": "Cephalic (Mesencephalic) Flexure",
-                "explanation": "Correct. Occurs in the midbrain region, responsible for the 'bend' in the brain axis."
-            },
-            {
-                "text": "Lumbar Flexure",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Dorsal Flexure",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: Cephalic flexure is the reason 'Rostral' is anterior in the forebrain but superior in the brainstem.",
-        "pdfPage": 22
-    },
-    {
-        "id": 33,
-        "category": "Neuroembryology: Cranial Nerves",
-        "questionText": "CN XII (Hypoglossal) nuclei are located in the:",
-        "options": [
-            {
-                "text": "Midbrain",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Pons",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Medulla",
-                "explanation": "Correct. CN 9, 10, 11, 12 associate with the Medulla (Myelencephalon)."
-            },
-            {
-                "text": "Diencephalon",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Spinal Cord",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 2,
-        "clinicalPearl": "Key takeaway: Rule of 4s (rough guide): 4 above pons, 4 in pons, 4 in medulla.",
-        "pdfPage": 20
-    },
-    {
-        "id": 34,
-        "category": "Neuroembryology: Basics",
-        "questionText": "The neural plate forms at which end of the embryo first?",
-        "options": [
-            {
-                "text": "Cranial (Rostral)",
-                "explanation": "Correct. Development proceeds cranio-caudally (head to tail)."
-            },
-            {
-                "text": "Caudal",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Simultaneously",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Lateral",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Ventral",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 0,
-        "clinicalPearl": "Key takeaway: Cranial end develops first (bigger brain).",
-        "pdfPage": 4
-    },
-    {
-        "id": 35,
-        "category": "Neuroembryology: Defects",
-        "questionText": "Elevated levels of Alpha-Fetoprotein (AFP) in amniotic fluid or maternal blood often indicate:",
-        "options": [
-            {
-                "text": "Closed Neural Tube Defect (Spina Bifida Occulta)",
-                "explanation": "Incorrect. Defect is covered by skin, no leak."
-            },
-            {
-                "text": "Open Neural Tube Defect (e.g., Anencephaly, Myelomeningocele)",
-                "explanation": "Correct. Open defects allow AFP to leak from fetal circulation/CSF into amniotic fluid/maternal serum."
-            },
-            {
-                "text": "Down Syndrome",
-                "explanation": "Incorrect. Low AFP."
-            },
-            {
-                "text": "Holoprosencephaly",
-                "explanation": "Incorrect."
-            },
-            {
-                "text": "Normal Development",
-                "explanation": "Incorrect."
-            }
-        ],
-        "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: High AFP = Open NTD (or abdominal wall defect).",
-        "pdfPage": 46
-    }
+  {
+    "id": 1,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A newborn is delivered via C-section. Physical examination reveals a hairy patch over the lumbar spine with no cystic protrusion or open defect. The neurological exam is normal. What is the most likely underlying embryological defect?",
+    "options": [
+      {
+        "text": "Failure of the rostral neuropore to close",
+        "explanation": "Incorrect. Causes anencephaly."
+      },
+      {
+        "text": "Failure of the caudal neuropore to close fully (Spina Bifida Occulta)",
+        "explanation": "Correct. Spina Bifida Occulta (hidden) presents with a tuft of hair or dimple over the defect. It is a failure of the vertebral arch (mesoderm/ectoderm induction) to close over the tube, but the neural tube itself is closed."
+      },
+      {
+        "text": "Herniation of meninges only (Meningocele)",
+        "explanation": "Incorrect. Would see a cyst."
+      },
+      {
+        "text": "Herniation of meninges and spinal cord (Myelomeningocele)",
+        "explanation": "Incorrect. Would see a cyst with neural elements."
+      },
+      {
+        "text": "Agenesis of the cerebellar vermis",
+        "explanation": "Incorrect. Dandy-Walker."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spina Bifida Occulta = Hairy tuft, no cyst, usually asymptomatic.",
+    "pdfPage": 11
+  },
+  {
+    "id": 2,
+    "category": "Neuroembryology: Brain Vesicles",
+    "questionText": "Which secondary brain vesicle gives rise to the Thalamus and Hypothalamus?",
+    "options": [
+      {
+        "text": "Telencephalon",
+        "explanation": "Incorrect. Cerebrum."
+      },
+      {
+        "text": "Diencephalon",
+        "explanation": "Correct. The Diencephalon forms the Thalamus, Hypothalamus, and Retina/Optic nerve."
+      },
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect. Midbrain."
+      },
+      {
+        "text": "Metencephalon",
+        "explanation": "Incorrect. Pons/Cerebellum."
+      },
+      {
+        "text": "Myelencephalon",
+        "explanation": "Incorrect. Medulla."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Diencephalon = Thalamus + Hypothalamus + Eye (Optic Cup).",
+    "pdfPage": 30
+  },
+  {
+    "id": 3,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A prenatal ultrasound of a 20-week fetus reveals a large, single midline ventricle instead of two lateral ventricles. The fetus also appears to have a single midline eye (cyclopia) and a proboscis. This presentation is consistent with a failure of:",
+    "options": [
+      {
+        "text": "Closure of the caudal neuropore",
+        "explanation": "Incorrect. Spina Bifida."
+      },
+      {
+        "text": "Division of the Prosencephalon (Holoprosencephaly)",
+        "explanation": "Correct. Failure of the Prosencephalon to divide into left and right hemispheres (Telencephalon) and Diencephalon results in Holoprosencephaly. Associated with midline facial defects."
+      },
+      {
+        "text": "Migration of neural crest cells to the gut",
+        "explanation": "Incorrect. Hirschsprung's."
+      },
+      {
+        "text": "Formation of the Metencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Closure of the rostral neuropore",
+        "explanation": "Incorrect. Anencephaly."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Holoprosencephaly = Failure of forebrain cleavage. Single Ventricle + Midline defects.",
+    "pdfPage": 34
+  },
+  {
+    "id": 4,
+    "category": "Neuroembryology: Neural Crest",
+    "questionText": "Which structure is derived from Neural Crest cells?",
+    "options": [
+      {
+        "text": "Motor neurons of the spinal cord (Ventral horn)",
+        "explanation": "Incorrect. Neural Tube (Basal Plate)."
+      },
+      {
+        "text": "Dorsal Root Ganglia",
+        "explanation": "Correct. Neural Crest cells migrate to form the DRG, autonomic ganglia, Schwann cells, and melanocytes."
+      },
+      {
+        "text": "Retina",
+        "explanation": "Incorrect. Neural Tube (Diencephalon)."
+      },
+      {
+        "text": "Epidermis of the skin",
+        "explanation": "Incorrect. Surface Ectoderm."
+      },
+      {
+        "text": "Vertebral Body",
+        "explanation": "Incorrect. Mesoderm (Sclerotome)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neural Crest = PNS (Ganglia, Schwann cells) + Melanocytes + Adrenal Medulla.",
+    "pdfPage": 9
+  },
+  {
+    "id": 5,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "An infant presents with a progressively enlarging head circumference and irritability. MRI reveals dilated lateral and third ventricles, but a normal sized fourth ventricle. Where is the most likely location of the blockage (Non-communicating Hydrocephalus)?",
+    "options": [
+      {
+        "text": "Interventricular Foramen of Monro",
+        "explanation": "Incorrect. Would only dilate lateral ventricles."
+      },
+      {
+        "text": "Cerebral Aqueduct (Aqueduct of Sylvius)",
+        "explanation": "Correct. Blockage at the Aqueduct (between 3rd and 4th) causes upstream dilation (Lateral + 3rd) and normal downstream (4th)."
+      },
+      {
+        "text": "Foramen of Magendie",
+        "explanation": "Incorrect. Outflow of 4th."
+      },
+      {
+        "text": "Arachnoid Granulations",
+        "explanation": "Incorrect. Communicating hydrocephalus (all ventricles large)."
+      },
+      {
+        "text": "Central Canal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aqueductal Stenosis leads to dilated Lateral & 3rd ventricles.",
+    "pdfPage": 52
+  },
+  {
+    "id": 6,
+    "category": "Neuroembryology: Brain Vesicles",
+    "questionText": "The Pons and Cerebellum are derived from which secondary vesicle?",
+    "options": [
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect. Midbrain."
+      },
+      {
+        "text": "Metencephalon",
+        "explanation": "Correct. The Metencephalon forms the Pons (ventral) and Cerebellum (dorsal)."
+      },
+      {
+        "text": "Myelencephalon",
+        "explanation": "Incorrect. Medulla."
+      },
+      {
+        "text": "Diencephalon",
+        "explanation": "Incorrect. Thalamus."
+      },
+      {
+        "text": "Telencephalon",
+        "explanation": "Incorrect. Cerebrum."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Metencephalon -> Pons + Cerebellum.",
+    "pdfPage": 29
+  },
+  {
+    "id": 7,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A newborn has a cyst-like protrusion in the lumbar region. Surgical exploration reveals the cyst contains meninges and cerebrospinal fluid, but NO neural tissue (spinal cord is in proper position). What is the diagnosis?",
+    "options": [
+      {
+        "text": "Spina Bifida Occulta",
+        "explanation": "Incorrect. No cyst."
+      },
+      {
+        "text": "Meningocele",
+        "explanation": "Correct. Meninges + CSF only = Meningocele."
+      },
+      {
+        "text": "Meningomyelocele",
+        "explanation": "Incorrect. Contains neural tissue (cord/nerves)."
+      },
+      {
+        "text": "Myeloschisis",
+        "explanation": "Incorrect. Open cord."
+      },
+      {
+        "text": "Rachischisis",
+        "explanation": "Incorrect. Open spine."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Meningocele = Cyst with CSF/Meninges ONLY.",
+    "pdfPage": 12
+  },
+  {
+    "id": 8,
+    "category": "Neuroembryology: Development Mechanics",
+    "questionText": "During the development of the myelencephalon (medulla), the roof plate expands laterally. This causes the Alar plates (sensory) to move to which position relative to the Basal plates (motor)?",
+    "options": [
+      {
+        "text": "Medial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral",
+        "explanation": "Correct. The 'opening' of the neural tube like a book pushes the dorsal (Alar) plates laterally. Thus, in the brainstem, sensory nuclei are Lateral and motor nuclei are Medial.",
+        "verified": "The Sulcus Limitans separates them. Sensory is Lateral (Side), Motor is Medial."
+      },
+      {
+        "text": "Ventral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsal",
+        "explanation": "Incorrect. Relative to Basal."
+      },
+      {
+        "text": "Rostral",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Brainstem Rule: Sensory Lateral (Alar), Motor Medial (Basal).",
+    "pdfPage": 38
+  },
+  {
+    "id": 9,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "A 1-year-old child presents with ataxia and delayed motor development. MRI reveals a large cyst in the posterior fossa and absence (agenesis) of the cerebellar vermis. The fourth ventricle is enlarged. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Arnold-Chiari Malformation Type I",
+        "explanation": "Incorrect. Tonsillar herniation."
+      },
+      {
+        "text": "Arnold-Chiari Malformation Type II",
+        "explanation": "Incorrect. Vermis herniation + Myelomeningocele."
+      },
+      {
+        "text": "Dandy-Walker Malformation",
+        "explanation": "Correct. Classic triad: Agenesis of Vermis + Cystic dilation of 4th Ventricle + Enlarged Posterior Fossa.",
+        "verified": "Lecture confirms: Agenesis of vermis + Cystic 4th ventricle."
+      },
+      {
+        "text": "Holoprosencephaly",
+        "explanation": "Incorrect. Forebrain."
+      },
+      {
+        "text": "Anencephaly",
+        "explanation": "Incorrect. No brain."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Dandy-Walker = No Vermis + Big 4th Ventricle Cyst.",
+    "pdfPage": 42
+  },
+  {
+    "id": 10,
+    "category": "Neuroembryology: Cranial Nerves",
+    "questionText": "The Optic Nerve (CN II) is derived from which embryological structure?",
+    "options": [
+      {
+        "text": "Telencephalon",
+        "explanation": "Incorrect. CN I."
+      },
+      {
+        "text": "Diencephalon",
+        "explanation": "Correct. The optic vesicle grows out of the Diencephalon."
+      },
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect. CN III, IV."
+      },
+      {
+        "text": "Metencephalon",
+        "explanation": "Incorrect. CN V, VI, VII, VIII."
+      },
+      {
+        "text": "Surface Ectoderm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN II is an outgrowth of the Diencephalon (CNS tract, not true nerve).",
+    "pdfPage": 31
+  },
+  {
+    "id": 11,
+    "category": "Neuroembryology: Development Mechanics",
+    "questionText": "Folic acid deficiency during pregnancy significantly increases the risk of which class of defects?",
+    "options": [
+      {
+        "text": "Holoprosencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neural Tube Defects (e.g., Spina Bifida, Anencephaly)",
+        "explanation": "Correct. Failure of neuropore closure."
+      },
+      {
+        "text": "Cerebellar Hypoplasia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hydrocephalus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Craniosynostosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Folic Acid prevents Neural Tube Defects.",
+    "pdfPage": 33
+  },
+  {
+    "id": 12,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The cerebral aqueduct connects which two ventricles?",
+    "options": [
+      {
+        "text": "Lateral and Third",
+        "explanation": "Incorrect. Foramen of Monro."
+      },
+      {
+        "text": "Third and Fourth",
+        "explanation": "Correct. Runs through the Mesencephalon (Midbrain)."
+      },
+      {
+        "text": "Fourth and Subarachnoid space",
+        "explanation": "Incorrect. Luschka/Magendie."
+      },
+      {
+        "text": "Left and Right Lateral",
+        "explanation": "Incorrect. Do not connect directly."
+      },
+      {
+        "text": "Fourth and Central Canal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aqueduct connects 3rd -> 4th.",
+    "pdfPage": 29
+  },
+  {
+    "id": 13,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A newborn has a sac-like protrusion in the lumbosacral region. It is thin-walled and leaks fluid. MRI shows the spinal cord is displaced into the sac. The infant has paralysis of the lower limbs. Diagnosis?",
+    "options": [
+      {
+        "text": "Meningocele",
+        "explanation": "Incorrect. No paralysis usually."
+      },
+      {
+        "text": "Myelomeningocele (Meningomyelocele)",
+        "explanation": "Correct. Cord in cyst + Neurological deficit."
+      },
+      {
+        "text": "Spina Bifida Occulta",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tethered Cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anencephaly",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Myelomeningocele = Severe Spina Bifida with cord herniation and deficits.",
+    "pdfPage": 13
+  },
+  {
+    "id": 14,
+    "category": "Neuroembryology: Brain Vesicles",
+    "questionText": "Which cranial nerve nuclei are located in the region derived from the Mesencephalon?",
+    "options": [
+      {
+        "text": "CN I, II",
+        "explanation": "Incorrect. Forebrain."
+      },
+      {
+        "text": "CN III, IV",
+        "explanation": "Correct. Oculomotor and Trochlear nuclei are in the Midbrain."
+      },
+      {
+        "text": "CN V, VI, VII",
+        "explanation": "Incorrect. Pons."
+      },
+      {
+        "text": "CN IX, X, XII",
+        "explanation": "Incorrect. Medulla."
+      },
+      {
+        "text": "CN VIII",
+        "explanation": "Incorrect. Pons/Medulla junction."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Midbrain = CN III, IV.",
+    "pdfPage": 31
+  },
+  {
+    "id": 15,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "Failure of the ROSTRAL (Anterior) neuropore to close at day 25 results in:",
+    "options": [
+      {
+        "text": "Spina Bifida",
+        "explanation": "Incorrect. Caudal pore."
+      },
+      {
+        "text": "Anencephaly",
+        "explanation": "Correct. Failure of brain formation. Incompatible with life."
+      },
+      {
+        "text": "Holoprosencephaly",
+        "explanation": "Incorrect. Failure of division, not closure."
+      },
+      {
+        "text": "Hydrocephalus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dandy-Walker",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rostral pore failure = Anencephaly.",
+    "pdfPage": 15
+  },
+  {
+    "id": 16,
+    "category": "Neuroembryology: Histology",
+    "questionText": "In the developing neural tube, the Mantle Layer gives rise to which adult structure?",
+    "options": [
+      {
+        "text": "White Matter",
+        "explanation": "Incorrect. Marginal Layer."
+      },
+      {
+        "text": "Gray Matter",
+        "explanation": "Correct. Mantle -> Gray Matter (Cell Bodies). Marginal -> White Matter (Axons). Ventricular -> Ependyma."
+      },
+      {
+        "text": "Ependymal lining",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Meninges",
+        "explanation": "Incorrect. Mesoderm/Neural Crest."
+      },
+      {
+        "text": "Ventricles",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mantle Layer = Gray Matter.",
+    "pdfPage": 44
+  },
+  {
+    "id": 17,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A 5-year-old child presents with bedwetting and gait difficulties. MRI shows the Conus Medullaris is located at L4 (abnormally low) and the filum terminale is thickened. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Spina Bifida Occulta",
+        "explanation": "Incorrect. Often associated, but the syndrome is Tethered Cord."
+      },
+      {
+        "text": "Tethered Cord Syndrome",
+        "explanation": "Correct. Failure of the cord to ascend relative to the spinal column. Conus should be L1-L2. Low conus + Symptoms = Tethered Cord.",
+        "verified": "Lecture mentions this specifically."
+      },
+      {
+        "text": "Meningocele",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Syringomyelia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hirschsprung Disease",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Low Conus Medullaris (>L2) = Tethered Cord.",
+    "pdfPage": 25
+  },
+  {
+    "id": 18,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The Rhombic Lip corresponds to the dorsal part of the Alar plate in the Metencephalon. It gives rise to:",
+    "options": [
+      {
+        "text": "Cerebellum",
+        "explanation": "Correct. Specifically the Vermis and hemispheres."
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect. Basal/Alar plates Ventrally."
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain Tectum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Rhombic Lip = Cerebellum precursor.",
+    "pdfPage": 40
+  },
+  {
+    "id": 19,
+    "category": "Neuroembryology: Development Mechanics",
+    "questionText": "At which day of development does the Caudal Neuropore typically close?",
+    "options": [
+      {
+        "text": "Day 18",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Day 25",
+        "explanation": "Incorrect. Rostral closes ~25."
+      },
+      {
+        "text": "Day 27-28",
+        "explanation": "Correct. Caudal closes ~2 days after Rostral.",
+        "verified": "Rostral 25, Caudal 27/28."
+      },
+      {
+        "text": "Day 40",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Day 10",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Caudal pore closes Day 28 (End of Neurulation).",
+    "pdfPage": 9
+  },
+  {
+    "id": 20,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The choroid plexus, which produces CSF, is found in:",
+    "options": [
+      {
+        "text": "Lateral Ventricles only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral and Third Ventricles only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "All four ventricles (Lateral, 3rd, 4th)",
+        "explanation": "Correct. All parts of the ventricular system contain choroid plexus, except the aqueduct/canal?"
+      },
+      {
+        "text": "Subarachnoid space",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dural sinus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Choroid Plexus is in Lateral, 3rd, and 4th ventricles.",
+    "pdfPage": 50
+  },
+  {
+    "id": 21,
+    "category": "Neuroembryology: Teratogens",
+    "questionText": "Exposure to which substance is a known cause of Microcephaly (secondary to impaired neuronal migration/proliferation)?",
+    "options": [
+      {
+        "text": "Folic Acid",
+        "explanation": "Incorrect. Protective."
+      },
+      {
+        "text": "Alcohol",
+        "explanation": "Correct. Fetal Alcohol Syndrome is a major cause of microcephaly."
+      },
+      {
+        "text": "Vitamin C",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Magnesium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alcohol/Zika/Radiation -> Microcephaly.",
+    "pdfPage": 48
+  },
+  {
+    "id": 22,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The Telencephalon gives rise to which adult structures?",
+    "options": [
+      {
+        "text": "Thalamus and Hypothalamus",
+        "explanation": "Incorrect. Diencephalon."
+      },
+      {
+        "text": "Cerebral Hemispheres and Basal Ganglia",
+        "explanation": "Correct. Telencephalon = 'End Brain' = Cerebrum.",
+        "verified": "Telencephalon -> Cortex, Basal Ganglia, Lateral Ventricles."
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons and Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Telencephalon = Cerebral Hemispheres.",
+    "pdfPage": 27
+  },
+  {
+    "id": 23,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "A baby is born with part of the brain protruding through a defect in the occipital bone of the skull. This is called:",
+    "options": [
+      {
+        "text": "Anencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Encephalocele",
+        "explanation": "Correct. Herniation of brain tissue through skull defect."
+      },
+      {
+        "text": "Meningocele",
+        "explanation": "Incorrect. Fluid only."
+      },
+      {
+        "text": "Spina Bifida",
+        "explanation": "Incorrect. Spine."
+      },
+      {
+        "text": "Craniosynostosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Brain herniation through skull = Encephalocele.",
+    "pdfPage": 14
+  },
+  {
+    "id": 24,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The Sulcus Limitans separates which two structures in the developing neural tube?",
+    "options": [
+      {
+        "text": "Roof plate and Floor plate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alar Plate and Basal Plate",
+        "explanation": "Correct. A longitudinal groove separating dorsal sensory (Alar) from ventral motor (Basal)."
+      },
+      {
+        "text": "Telencephalon and Diencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain and Hindbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "White and Gray matter",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sulcus Limitans divides Sensory (Alar) and Motor (Basal).",
+    "pdfPage": 36
+  },
+  {
+    "id": 25,
+    "category": "Neuroembryology: Histology",
+    "questionText": "Migrating neuroblasts from the Alar plate of the Mesencephalon form which structure?",
+    "options": [
+      {
+        "text": "Superior and Inferior Colliculi (Tectum)",
+        "explanation": "Correct. Alar = Sensory. Tectum (Colliculi) are sensory relay centers (Vision/Hearing) on the dorsal aspect of Midbrain."
+      },
+      {
+        "text": "Oculomotor Nucleus",
+        "explanation": "Incorrect. Basal (Motor)."
+      },
+      {
+        "text": "Red Nucleus",
+        "explanation": "Incorrect. Basal."
+      },
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect. Basal."
+      },
+      {
+        "text": "Pyramids",
+        "explanation": "Incorrect. Axons."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Tectum (Colliculi) comes from Alar Plate.",
+    "pdfPage": 43
+  },
+  {
+    "id": 26,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "Which defect is characterized by the brainstem and cerebellum being pushed down into the foramen magnum?",
+    "options": [
+      {
+        "text": "Dandy-Walker",
+        "explanation": "Incorrect. Cystic large posterior fossa."
+      },
+      {
+        "text": "Arnold-Chiari Malformation",
+        "explanation": "Correct. Herniation of tonsils/vermis through foramen magnum. Type II is associated with myelomeningocele."
+      },
+      {
+        "text": "Holoprosencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anencephaly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lissencephaly",
+        "explanation": "Incorrect. Smooth brain."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Chiari = Herniation through Foramen Magnum.",
+    "pdfPage": 42
+  },
+  {
+    "id": 27,
+    "category": "Neuroembryology: General",
+    "questionText": "What structure induces the overlying ectoderm to form the neural plate?",
+    "options": [
+      {
+        "text": "Yolk Sack",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Notochord",
+        "explanation": "Correct. The Notochord (Mesoderm) releases signaling molecules (Sonic Hedgehog) to induce neurulation in the Ectoderm."
+      },
+      {
+        "text": "Endoderm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neural Crest",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somites",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Notochord induces induction of Neural Plate.",
+    "pdfPage": 4
+  },
+  {
+    "id": 28,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "The Hypothalamus is a derivative of:",
+    "options": [
+      {
+        "text": "Alar Plate of Diencephalon",
+        "explanation": "Correct. Hypothalamus is sensory/integrative, derived from Alar plate of Diencephalon."
+      },
+      {
+        "text": "Basal Plate of Diencephalon",
+        "explanation": "Incorrect. Diencephalon is mostly Alar."
+      },
+      {
+        "text": "Telencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Myelencephalon",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Hypothalamus comes from Alar Diencephalon.",
+    "pdfPage": 30
+  },
+  {
+    "id": 29,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "In Spina Bifida, which vertebral structure fails to form/fuse?",
+    "options": [
+      {
+        "text": "Vertebral Body",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pedicle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vertebral Arch (Lamina/Spinous Process)",
+        "explanation": "Correct. The neural arch fails to fuse dorsally."
+      },
+      {
+        "text": "Transverse Process",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Intervertebral Disc",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Spina Bifida = Defect in Vertebral Arch/Lamina.",
+    "pdfPage": 11
+  },
+  {
+    "id": 30,
+    "category": "Neuroembryology: Brain Vesicles",
+    "questionText": "The cavity of the Rhombencephalon becomes:",
+    "options": [
+      {
+        "text": "Lateral Ventricles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Third Ventricle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fourth Ventricle",
+        "explanation": "Correct. Hindbrain -> 4th Ventricle."
+      },
+      {
+        "text": "Cerebral Aqueduct",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Central Canal ONLY",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Hindbrain = 4th Ventricle.",
+    "pdfPage": 29
+  },
+  {
+    "id": 31,
+    "category": "Neuroembryology: Histology",
+    "questionText": "Cerebral Cortex formation involves neuroblasts migrating to:",
+    "options": [
+      {
+        "text": "The inner ventricular surface",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The outer surface (Marginal zone)",
+        "explanation": "Correct. Unlike spinal cord (Gray inner), Brain moves Gray matter to the OUTSIDE (Cortex). Cells migrate outward past the white matter."
+      },
+      {
+        "text": "The spinal cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The basal ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They do not migrate",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cortical Gray Matter is superficial because cells migrate OUTWARD.",
+    "pdfPage": 45
+  },
+  {
+    "id": 32,
+    "category": "Neuroembryology: Cranial Nerves",
+    "questionText": "Which cranial nerve is associated with the 1st Pharyngeal Arch and derived from the Metencephalon (Pons)?",
+    "options": [
+      {
+        "text": "Trigeminal (CN V)",
+        "explanation": "Correct. CN V is the nerve of the 1st Arch and exits the Pons."
+      },
+      {
+        "text": "Facial (CN VII)",
+        "explanation": "Incorrect. 2nd Arch."
+      },
+      {
+        "text": "Glossopharyngeal (CN IX)",
+        "explanation": "Incorrect. 3rd Arch."
+      },
+      {
+        "text": "Vagus (CN X)",
+        "explanation": "Incorrect. 4th/6th Arch."
+      },
+      {
+        "text": "Hypoglossal (CN XII)",
+        "explanation": "Incorrect. Medulla."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: CN V = Pons (Metencephalon).",
+    "pdfPage": 31
+  },
+  {
+    "id": 33,
+    "category": "Neuroembryology: Congenital Defects",
+    "questionText": "Meroschisis (or Rachischisis) refers to:",
+    "options": [
+      {
+        "text": "A covered cystic defect",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A cleft in the neural plate where the tube failed to fold/fuse at all",
+        "explanation": "Correct. Most severe form. Exposed neural tissue. No skin/bone cover."
+      },
+      {
+        "text": "Missing brain",
+        "explanation": "Incorrect. Anencephaly."
+      },
+      {
+        "text": "Missing Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fused hemispheres",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rachischisis/Meroschisis = Open neural tube slit.",
+    "pdfPage": 13
+  },
+  {
+    "id": 34,
+    "category": "Neuroembryology: Brain Vesicles",
+    "questionText": "The Corpus Callosum, which connects the two hemispheres, develops in the:",
+    "options": [
+      {
+        "text": "Telencephalon",
+        "explanation": "Correct. Commisure of the cerebrum."
+      },
+      {
+        "text": "Diencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Metencephalon",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Myelencephalon",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Corpus Callosum = Telencephalon.",
+    "pdfPage": 34
+  },
+  {
+    "id": 35,
+    "category": "Neuroembryology: Anatomy",
+    "questionText": "In the mature spinal cord, the marginal layer becomes the:",
+    "options": [
+      {
+        "text": "Gray Matter",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "White Matter",
+        "explanation": "Correct. Marginal layer -> White Matter (Funiculi)."
+      },
+      {
+        "text": "Central Canal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsal Horn",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ventral Horn",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Marginal Layer = White Matter.",
+    "pdfPage": 44
+  }
 ];

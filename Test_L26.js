@@ -1,483 +1,513 @@
 window.Test_L26 = [
   {
     "id": 1,
-    "category": "Neuro Exam",
-    "questionText": "When assessing mental status as the first part of the neurological exam, which of the following is NOT typically included in the initial 'Screening' mental status exam?",
+    "category": "Clinical Skills: Mental Status",
+    "questionText": "A 68-year-old man is brought to the ER after a head injury. He opens his eyes to verbal commands, displays confused conversation, and localizes to painful stimuli. What is his Glasgow Coma Scale (GCS) score?",
     "options": [
       {
-        "text": "Level of alertness",
-        "explanation": "Incorrect. This is part of it."
+        "text": "15",
+        "explanation": "Incorrect (Perfect score)."
       },
       {
-        "text": "Detailed IQ testing",
-        "explanation": "Correct. A screening mental status includes appearance, behavior, speech, mood, affect, and orientation. Detailed IQ testing is a specialized neuropsychological test.",
+        "text": "13",
+        "explanation": "Correct. Eyes to verbal (3) + Confused conversation (4) + Localizes pain (5) + Motor (1) = 13.",
         "isCorrect": true
       },
       {
-        "text": "Orientation to person, place, and time",
-        "explanation": "Incorrect. This is foundational (A&Ox3)."
-      },
-      {
-        "text": "Appropriateness of responses",
-        "explanation": "Incorrect. Part of behavior/thought process."
-      },
-      {
-        "text": "Appearance and Behavior",
+        "text": "10",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "8",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "3",
+        "explanation": "Incorrect (Lowest score, unconscious)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Screening Neuro Exam = Mental Status (Alertness, Orientation) + CN + Motor + Sensory + Reflexes + Coordination + Gait.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: GCS = Eye + Verbal + Motor. 15 = Normal, 3 = Deepest Coma.",
+    "pdfPage": 2
   },
   {
     "id": 2,
-    "category": "Cranial Nerves",
-    "questionText": "The Glasgow Coma Scale (GCS) is used to assess level of consciousness. What are the three components scored?",
+    "category": "Clinical Skills: CN I",
+    "questionText": "Which substance is commonly used in clinical practice to test olfaction (CN I)?",
     "options": [
       {
-        "text": "Eye opening, Motor response, Verbal response",
-        "explanation": "Correct. EVM (Eye, Verbal, Motor). Max score 15, Min score 3.",
+        "text": "Ammonia",
+        "explanation": "Incorrect (Irritant, stimulates CN V not CN I)."
+      },
+      {
+        "text": "Coffee grounds or beans",
+        "explanation": "Correct. Non-irritating familiar scent.",
         "isCorrect": true
       },
       {
-        "text": "Pupils, Reflexes, Breathing",
+        "text": "Peppermint oil",
+        "explanation": "Incorrect (Can irritate )."
+      },
+      {
+        "text": "Pure oxygen",
         "explanation": "Incorrect."
       },
       {
-        "text": "Heart rate, Blood pressure, Respiration",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Speech, Strength, Sensation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vision, Hearing, Touch",
+        "text": "Saline",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: GCS = EVM (Eye, Verbal, Motor).",
-    "pdfPage": 9
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Coffee is the go-to. Avoid ammonia (irritates trigeminal, not true smell).",
+    "pdfPage": 5
   },
   {
     "id": 3,
-    "category": "Cranial Nerve I",
-    "questionText": "To test Cranial Nerve I (Olfactory), you should:",
+    "category": "Clinical Skills: Visual Acuity",
+    "questionText": "A patient's visual acuity is documented as 20/40 OD. This means:",
     "options": [
       {
-        "text": "Use a noxious stimulus like ammonia",
-        "explanation": "Incorrect. Ammonia stimulates CN V (pain), not just CN I."
-      },
-      {
-        "text": "Test each nostril individually with a non-irritating scent (e.g., coffee, vanilla)",
-        "explanation": "Correct. Occlude one nostril, test, then switch. Avoid irritants.",
+        "text": "The patient can see at 20 feet what a normal person can see at 40 feet in the right eye",
+        "explanation": "Correct. OD = Oculus Dexter (Right Eye). Patient has worse vision than normal.",
         "isCorrect": true
       },
       {
-        "text": "Test both nostrils simultaneously",
+        "text": "The patient can see perfectly with the right eye",
+        "explanation": "Incorrect (20/20 is perfect)."
+      },
+      {
+        "text": "The patient is legally blind in the right eye",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ask the patient if they can smell usually, without testing",
-        "explanation": "Incorrect. Examination requires objective testing."
+        "text": "The patient can see at 40 feet what a normal person sees at 20 feet",
+        "explanation": "Incorrect (Backwards)."
       },
       {
-        "text": "Shine a light in the nose",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN I Test = One nostril at a time, non-irritating smell.",
-    "pdfPage": 10
-  },
-  {
-    "id": 4,
-    "category": "Cranial Nerve II",
-    "questionText": "Visual Acuity (CN II) is typically reported as a fraction (e.g., 20/20). The numerator '20' represents:",
-    "options": [
-      {
-        "text": "The size of the letter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The distance the patient is standing from the chart",
-        "explanation": "Correct. 20 feet. The denominator is the distance at which a normal eye can read that line.",
-        "isCorrect": true
-      },
-      {
-        "text": "The patient's age",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The number of errors made",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The diopter correction needed",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Numerator = Distance from chart (20 ft).",
-    "pdfPage": 12
-  },
-  {
-    "id": 5,
-    "category": "Eye Exam",
-    "questionText": "Myopia refers to:",
-    "options": [
-      {
-        "text": "Farsightedness (Globe too short)",
-        "explanation": "Incorrect. Hyperopia."
-      },
-      {
-        "text": "Nearsightedness (Globe too long)",
-        "explanation": "Correct. Light focuses IN FRONT of the retina. Distant objects are blurry.",
-        "isCorrect": true
-      },
-      {
-        "text": "Loss of accommodation with age",
-        "explanation": "Incorrect. Presbyopia."
-      },
-      {
-        "text": "Irregular corneal curvature",
-        "explanation": "Incorrect. Astigmatism."
-      },
-      {
-        "text": "double vision",
-        "explanation": "Incorrect. Diplopia."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Myopia = Nearsighted = Globe too Long.",
-    "pdfPage": 13
-  },
-  {
-    "id": 6,
-    "category": "Cranial Nerve II",
-    "questionText": "The 'Static Finger Wiggle' test is used to assess:",
-    "options": [
-      {
-        "text": "Visual Acuity",
-        "explanation": "Incorrect. Snellen chart."
-      },
-      {
-        "text": "Visual Fields by Confrontation",
-        "explanation": "Correct. It tests the boundaries of the patient's peripheral vision in four quadrants.",
-        "isCorrect": true
-      },
-      {
-        "text": "Extraocular Movements",
-        "explanation": "Incorrect. H-test."
-      },
-      {
-        "text": "Pupillary Reaction",
-        "explanation": "Incorrect. Pen light."
-      },
-      {
-        "text": "Color Vision",
-        "explanation": "Incorrect. Ishihara."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Finger Wiggle = Visual Fields.",
-    "pdfPage": 15
-  },
-  {
-    "id": 7,
-    "category": "Eye Exam",
-    "questionText": "Anisocoria is defined as:",
-    "options": [
-      {
-        "text": "Drooping of the eyelid",
-        "explanation": "Incorrect. Ptosis."
-      },
-      {
-        "text": "Unequal pupil sizes",
-        "explanation": "Correct. A difference of >0.4mm is clinically significant, though physiologic anisocoria exists.",
-        "isCorrect": true
-      },
-      {
-        "text": "Involuntary eye shaking",
-        "explanation": "Incorrect. Nystagmus."
-      },
-      {
-        "text": "Loss of vision in one eye",
-        "explanation": "Incorrect. Anopsia."
-      },
-      {
-        "text": "Double vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anisocoria = Unequal Pupils.",
-    "pdfPage": 19
-  },
-  {
-    "id": 8,
-    "category": "Cranial Nerve III",
-    "questionText": "When checking the pupillary light reflex, shining light into the RIGHT eye causes constriction of both the RIGHT pupil (Direct) and the LEFT pupil (Consensual). This is mediated by which cranial nerves?",
-    "options": [
-      {
-        "text": "CN II (Afferent) and CN III (Efferent)",
-        "explanation": "Correct. Optic nerve senses light, Oculomotor nerve constricts pupil.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN III (Afferent) and CN II (Efferent)",
-        "explanation": "Incorrect. Backwards."
-      },
-      {
-        "text": "CN V and CN VII",
-        "explanation": "Incorrect. Corneal reflex."
-      },
-      {
-        "text": "CN IV and CN VI",
-        "explanation": "Incorrect. Eye movement."
-      },
-      {
-        "text": "CN IX and CN X",
-        "explanation": "Incorrect. Gag reflex."
+        "text": "The left eye is affected",
+        "explanation": "Incorrect (OD = right, OS = left)."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pupillary Reflex: In via II, Out via III.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: OD = Right, OS = Left, OU = Both. 20/X: Higher denominator = Worse vision.",
+    "pdfPage": 8
+  },
+  {
+    "id": 4,
+    "category": "Clinical Skills: Visual Fields",
+    "questionText": "The 'static finger wiggle test' for visual field assessment by confrontation requires:",
+    "options": [
+      {
+        "text": "The patient to close one eye",
+        "explanation": "Incorrect (Initial test is binocular)."
+      },
+      {
+        "text": "The patient to look directly into the examiner's eyes while fingers are wiggled in peripheral fields",
+        "explanation": "Correct. Test all 4 quadrants bilaterally.",
+        "isCorrect": true
+      },
+      {
+        "text": "A penlight shined into the eye",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Complete darkness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The patient to follow the finger with their eyes",
+        "explanation": "Incorrect (Static = no eye movement)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Confrontation testing = Peripheral vision screen. Test all 4 quadrants.",
+    "pdfPage": 10
+  },
+  {
+    "id": 5,
+    "category": "Clinical Correlation: Refractive Errors",
+    "questionText": "Myopia is:",
+    "options": [
+      {
+        "text": "Farsightedness; eyeball too short",
+        "explanation": "Incorrect (Hyperopia)."
+      },
+      {
+        "text": "Nearsightedness; eyeball too long",
+        "explanation": "Correct. Light focuses in front of the retina. Near vision preserved.",
+        "isCorrect": true
+      },
+      {
+        "text": "Astigmatism",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Age-related loss of accommodation",
+        "explanation": "Incorrect (Presbyopia)."
+      },
+      {
+        "text": "Perfect vision",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Myopia = My-opia = MY (near) vision is good. Can't see far.",
+    "pdfPage": 9
+  },
+  {
+    "id": 6,
+    "category": "Clinical Correlation: Pupil Size",
+    "questionText": "A patient presents with bilaterally constricted, 'pinpoint' pupils (miosis). This physical finding is most consistent with intoxication from:",
+    "options": [
+      {
+        "text": "Methamphetamines",
+        "explanation": "Incorrect (Causes mydriasis/dilation)."
+      },
+      {
+        "text": "Cocaine",
+        "explanation": "Incorrect (Causes mydriasis)."
+      },
+      {
+        "text": "Opioids (e.g., heroin, fentanyl)",
+        "explanation": "Correct. Classic triad: Miosis, CNS depression, respiratory depression.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alcohol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Marijuana",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Pinpoint pupils = Opioids. Dilated pupils = Stimulants.",
+    "pdfPage": 13
+  },
+  {
+    "id": 7,
+    "category": "Clinical Skills: Pupillary Reflex",
+    "questionText": "When performing the pupillary light reflex, shining light in the right eye causes constriction of the right pupil. This is called the:",
+    "options": [
+      {
+        "text": "Consensual response",
+        "explanation": "Incorrect (Opposite eye constricts)."
+      },
+      {
+        "text": "Direct response",
+        "explanation": "Correct. Ipsilateral pupil constricts.",
+        "isCorrect": true
+      },
+      {
+        "text": "Accommodation reflex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Near response",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Convergence",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Direct = Same eye. Consensual = Opposite eye. Both should constrict.",
+    "pdfPage": 14
+  },
+  {
+    "id": 8,
+    "category": "Clinical Skills: Pupillary Reflex",
+    "questionText": "During pupillary light reflex testing, light is shone in the left eye, and only the left pupil constricts. The right pupil does not react. This suggests a lesion in:",
+    "options": [
+      {
+        "text": "Left Optic Nerve (CN II)",
+        "explanation": "Incorrect (Both pupils would fail to constrict when light is shone in the left eye)."
+      },
+      {
+        "text": "Right Oculomotor Nerve (CN III) - Efferent limb",
+        "explanation": "Correct. Right pupil cannot constrict (efferent defect). Consensual response is lost.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pretectal area",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: No consensual response = Efferent problem (CN III) on the non-reacting side.",
+    "pdfPage": 14
   },
   {
     "id": 9,
-    "category": "Cranial Nerve III, IV, VI",
-    "questionText": "To test Extraocular Movements (EOMs), you ask the patient to follow your finger in which pattern?",
+    "category": "Clinical Skills: CN III, IV, VI",
+    "questionText": "The 'H-pattern' test for extraocular movements tests which cranial nerves?",
     "options": [
       {
-        "text": "A circle",
+        "text": "CN II, V, VII",
         "explanation": "Incorrect."
       },
       {
-        "text": "A wide 'H' pattern",
-        "explanation": "Correct. This isolates the rectus and oblique muscles in the six cardinal directions of gaze.",
+        "text": "CN III, IV, VI (Oculomotor, Trochlear, Abducens)",
+        "explanation": "Correct. All six cardinal gazes in one smooth test.",
         "isCorrect": true
       },
       {
-        "text": "A square",
+        "text": "CN I, II, III",
         "explanation": "Incorrect."
       },
       {
-        "text": "A figure 8",
+        "text": "CN V and VII",
         "explanation": "Incorrect."
       },
       {
-        "text": "Up and Down only",
+        "text": "CN IX and X",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: EOM Test = 'H' Pattern.",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: H-pattern tests all eye movements (III, IV, VI) in 10-20 seconds. Efficient!",
+    "pdfPage": 17
   },
   {
     "id": 10,
-    "category": "Cranial Nerve IV",
-    "questionText": "The Trochlear Nerve (CN IV) innervates which muscle?",
+    "category": "Clinical Correlation: Inspection",
+    "questionText": "A patient presents with bilateral bulging, protruding eyes. This finding is called exophthalmos and is classically associated with:",
     "options": [
       {
-        "text": "Lateral Rectus",
-        "explanation": "Incorrect. CN VI (LR6)."
+        "text": "Myasthenia Gravis",
+        "explanation": "Incorrect (Ptosis, not exophthalmos)."
       },
       {
-        "text": "Superior Oblique",
-        "explanation": "Correct. SO4 (Superior Oblique - CN 4). It moves the eye down and in.",
+        "text": "Graves' Disease (Hyperthyroidism)",
+        "explanation": "Correct. Thyroid eye disease causes orbital tissue expansion.",
         "isCorrect": true
       },
       {
-        "text": "Superior Rectus",
-        "explanation": "Incorrect. CN III."
+        "text": "Horner's Syndrome",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Oblique",
-        "explanation": "Incorrect. CN III."
+        "text": "Bell's Palsy",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Medial Rectus",
-        "explanation": "Incorrect. CN III."
+        "text": "CN III Palsy",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mnemonics: LR6, SO4, R3 (Rest are 3).",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Exophthalmos (proptosis) = Think Graves' Disease.",
+    "pdfPage": 12
   },
   {
     "id": 11,
-    "category": "Eye Exam",
-    "questionText": "During the Fundoscopic (Ophthalmoscopic) exam, you first look for the 'Red Reflex' from a distance of about 15 inches. Absence of the red reflex may indicate:",
+    "category": "Clinical Correlation: CN III Palsy",
+    "questionText": "Ptosis (drooping eyelid) is a sign of dysfunction in which cranial nerve?",
     "options": [
       {
-        "text": "Conjunctivitis",
+        "text": "CN II (Optic)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cataracts or Retinoblastoma",
-        "explanation": "Correct. Any opacity in the lens (cataract) or tumor in the vitreous/retina (retinoblastoma) will block the reflection.",
+        "text": "CN III (Oculomotor)",
+        "explanation": "Correct. CN III innervates the levator palpebrae superioris.",
         "isCorrect": true
       },
       {
-        "text": "Glaucoma",
-        "explanation": "Incorrect. Cupping of disc."
-      },
-      {
-        "text": "Macular Degeneration",
-        "explanation": "Incorrect. Retinal pigment changes."
-      },
-      {
-        "text": "Far-sightedness",
+        "text": "CN IV (Trochlear)",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VI (Abducens)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII (Facial)",
+        "explanation": "Incorrect (Closes eye, doesn't lift lid)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: No Red Reflex = Cataract, Tumor, or Hemorrhage.",
-    "pdfPage": 28
+    "clinicalPearl": "Key takeaway: CN III opens the eye (levator). CN VII closes it (orbicularis oculi).",
+    "pdfPage": 12
   },
   {
     "id": 12,
-    "category": "Eye Exam",
-    "questionText": "Papilledema seen on fundoscopy is a sign of:",
+    "category": "Clinical Skills: Near Reaction",
+    "questionText": "The 'near reaction' (accommodation) involves three simultaneous events:",
     "options": [
       {
-        "text": "Glaucoma",
-        "explanation": "Incorrect."
+        "text": "Pupil dilation, lens flattening, divergence",
+        "explanation": "Incorrect (Far vision)."
       },
       {
-        "text": "Increased Intracranial Pressure (ICP)",
-        "explanation": "Correct. The optic disc margins become blurred, and the disc swells due to axoplasmic flow stasis.",
+        "text": "Pupil constriction (miosis), lens thickening, convergence",
+        "explanation": "Correct. The 'Near Triad' for focusing on close objects.",
         "isCorrect": true
       },
       {
-        "text": "Retinal Detachment",
+        "text": "Pupil constriction only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Diabetic Retinopathy",
+        "text": "Eye abduction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cataracts",
+        "text": "Eyelid elevation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Papilledema = Increased ICP.",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: Near Triad = Constrict, Converge, Lens Curves (rounds up).",
+    "pdfPage": 15
   },
   {
     "id": 13,
-    "category": "Cranial Nerve V",
-    "questionText": "Which cranial nerve provides SENSORY innervation to the face (V1, V2, V3) and MOTOR innervation to the muscles of mastication (Temporalis, Masseter)?",
+    "category": "Clinical Skills: CN V",
+    "questionText": "The Trigeminal Nerve (CN V) has three branches: V1 (Ophthalmic), V2 (Maxillary), and V3 (Mandibular). Which branch carries BOTH sensory and motor fibers?",
     "options": [
       {
-        "text": "Facial Nerve (CN VII)",
-        "explanation": "Incorrect. Facial expression muscles."
+        "text": "V1 (Ophthalmic)",
+        "explanation": "Incorrect (Sensory only)."
       },
       {
-        "text": "Trigeminal Nerve (CN V)",
-        "explanation": "Correct. Sensation to face, Motor to chewing muscles.",
+        "text": "V2 (Maxillary)",
+        "explanation": "Incorrect (Sensory only)."
+      },
+      {
+        "text": "V3 (Mandibular)",
+        "explanation": "Correct. V3 has sensory AND motor (muscles of mastication).",
         "isCorrect": true
       },
       {
-        "text": "Glossopharyngeal Nerve (CN IX)",
+        "text": "All three branches",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vagus Nerve (CN X)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypoglossal Nerve (CN XII)",
+        "text": "None of the branches",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN V = Face Sensation + Chewing.",
-    "pdfPage": 30
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V1 and V2 = Sensory only. V3 = Sensory + Motor (chewing muscles).",
+    "pdfPage": 18
   },
   {
     "id": 14,
-    "category": "Cranial Nerve VII",
-    "questionText": "To test the MOTOR function of the Facial Nerve (CN VII), you would ask the patient to:",
+    "category": "Clinical Skills: CN VII",
+    "questionText": "To test the Facial Nerve (CN VII), you ask the patient to:",
     "options": [
       {
         "text": "Stick out their tongue",
-        "explanation": "Incorrect. CN XII."
+        "explanation": "Incorrect (CN XII)."
       },
       {
-        "text": "Raise eyebrows, frown, close eyes tightly, show teeth, puff out cheeks",
-        "explanation": "Correct. Muscles of facial expression.",
+        "text": "Raise eyebrows, close eyes tightly, smile, puff cheeks",
+        "explanation": "Correct. Tests all muscles of facial expression.",
         "isCorrect": true
       },
       {
-        "text": "Clench their jaw",
-        "explanation": "Incorrect. CN V."
+        "text": "Shrug shoulders",
+        "explanation": "Incorrect (CN XI)."
       },
       {
-        "text": "Shrug their shoulders",
-        "explanation": "Incorrect. CN XI."
+        "text": "Clench jaw",
+        "explanation": "Incorrect (CN V)."
       },
       {
-        "text": "Swallow",
-        "explanation": "Incorrect. CN IX, X."
+        "text": "Follow your finger with their eyes",
+        "explanation": "Incorrect (CN III, IV, VI)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN VII = Facial Expression.",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: CN VII = Facial expressions. Test eyebrows, eyes, smile, cheeks.",
+    "pdfPage": 19
   },
   {
     "id": 15,
-    "category": "Cranial Nerve VIII",
-    "questionText": "In the Weber test, a tuning fork is placed on the vertex of the head. If the sound lateralizes to the LEFT ear, this suggests:",
+    "category": "Clinical Correlation: Bell's Palsy",
+    "questionText": "Bell's Palsy causes a lower motor neuron lesion of CN VII. A patient with right-sided Bell's Palsy would present with:",
     "options": [
       {
-        "text": "Normal hearing",
-        "explanation": "Incorrect. Normal = Midline."
-      },
-      {
-        "text": "Conductive hearing loss in the LEFT ear OR Sensorineural hearing loss in the RIGHT ear",
-        "explanation": "Correct. Sound goes to the 'bad' ear in conductive loss (bone > air masking) or the 'good' ear in sensorineural loss.",
+        "text": "Inability to wrinkle the forehead on the right side",
+        "explanation": "Correct. LMN lesion affects ENTIRE ipsilateral face (forehead included).",
         "isCorrect": true
       },
       {
-        "text": "Conductive hearing loss in the RIGHT ear",
+        "text": "Inability to wrinkle forehead bilaterally",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sensorineural hearing loss in the LEFT ear",
+        "text": "Forehead sparing (forehead normal, lower face weak)",
+        "explanation": "Incorrect (UMN lesion/stroke spares forehead)."
+      },
+      {
+        "text": "Left facial droop",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bilateral deafness",
+        "text": "No facial weakness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: LMN (Bell's) = Entire face. UMN (Stroke) = Forehead spared.",
+    "pdfPage": 19
+  },
+  {
+    "id": 16,
+    "category": "Clinical Skills: CN VIII Weber Test",
+    "questionText": "The Weber test uses a tuning fork placed on the midline of the forehead. In a patient with conductive hearing loss in the LEFT ear, the sound will lateralize to:",
+    "options": [
+      {
+        "text": "The right ear (better ear)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The left ear (affected ear)",
+        "explanation": "Correct. Bone conduction bypasses the conductive block. Background noise masking is reduced in the deaf ear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither ear (midline)",
+        "explanation": "Incorrect (Normal response)."
+      },
+      {
+        "text": "Both ears equally",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Not audible",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Weber Lateralizes to: Bad ear (Conductive) or Good ear (Sensorineural).",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: Weber lateralizes TO the conductive loss, AWAY from sensorineural loss.",
+    "pdfPage": 21
   },
   {
-    "id": 16,
-    "category": "Cranial Nerve VIII",
-    "questionText": "In the Rinne test, you compare Air Conduction (AC) to Bone Conduction (BC). A normal result (Positive Rinne) is:",
+    "id": 17,
+    "category": "Clinical Skills: CN VIII Rinne Test",
+    "questionText": "The Rinne test compares air conduction (AC) to bone conduction (BC). In a normal ear:",
     "options": [
       {
-        "text": "AC > BC (hear it longer in front of ear than on mastoid)",
-        "explanation": "Correct. Air conduction is more efficient.",
-        "isCorrect": true
+        "text": "BC > AC",
+        "explanation": "Incorrect (Conductive loss)."
       },
       {
-        "text": "BC > AC",
-        "explanation": "Incorrect. This indicates Conductive Hearing Loss (Negative Rinne).",
-        "isCorrect": false
+        "text": "AC > BC",
+        "explanation": "Correct. Air conduction is normally better than bone.",
+        "isCorrect": true
       },
       {
         "text": "AC = BC",
@@ -488,601 +518,570 @@ window.Test_L26 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Only BC is heard",
+        "text": "BC not testable",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rinne Positive (AC > BC) = Normal. Rinne Negative (BC > AC) = Conductive loss.",
+    "pdfPage": 21
+  },
+  {
+    "id": 18,
+    "category": "Clinical Correlation: Hearing Loss",
+    "questionText": "A patient has left-sided hearing loss. Weber lateralizes to the RIGHT ear. Rinne shows AC > BC bilaterally. This indicates:",
+    "options": [
+      {
+        "text": "Left conductive hearing loss",
+        "explanation": "Incorrect (Weber would go TO the left if conductive)."
+      },
+      {
+        "text": "Left sensorineural hearing loss",
+        "explanation": "Correct. Weber goes AWAY from sensor neural loss. Rinne still positive (AC>BC) because both pathways equally impaired.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right sensorineural hearing loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal hearing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral conductive loss",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Weber AWAY + Rinne Positive = Sensorineural loss on opposite side.",
+    "pdfPage": 21
+  },
+  {
+    "id": 19,
+    "category": "Clinical Skills: CN IX and X",
+    "questionText": "Testing the gag reflex evaluates which cranial nerves?",
+    "options": [
+      {
+        "text": "CN V and VII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN IX (Glossopharyngeal - Sensory) and CN X (Vagus - Motor)",
+        "explanation": "Correct. IX senses, X activates gag.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN X and XI",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII and XII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN XI and XII",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Gag Reflex = IX (sensory input) + X (motor output).",
+    "pdfPage": 22
+  },
+  {
+    "id": 20,
+    "category": "Clinical Skills: CN X",
+    "questionText": "When testing CN X (Vagus), you ask the patient to say 'Ahh' and observe:",
+    "options": [
+      {
+        "text": "Tongue protrusion",
+        "explanation": "Incorrect (CN XII)."
+      },
+      {
+        "text": "Symmetrical elevation of the soft palate and midline uvula",
+        "explanation": "Correct. Palate should rise symmetrically.",
+        "isCorrect": true
+      },
+      {
+        "text": "Jaw movement",
+        "explanation": "Incorrect (CN V)."
+      },
+      {
+        "text": "Shoulder shrug",
+        "explanation": "Incorrect (CN XI)."
+      },
+      {
+        "text": "Eye closure",
+        "explanation": "Incorrect (CN VII)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 'Ahh' test = Palate and uvula should move UP and stay MIDLINE.",
+    "pdfPage": 22
+  },
+  {
+    "id": 21,
+    "category": "Clinical Skills: CN XI",
+    "questionText": "The Spinal Accessory Nerve (CN XI) innervates which muscles?",
+    "options": [
+      {
+        "text": "Masseter and Temporalis",
+        "explanation": "Incorrect (CN V)."
+      },
+      {
+        "text": "Levator Palpebrae Superioris",
+        "explanation": "Incorrect (CN III)."
+      },
+      {
+        "text": "Sternocleidomastoid (SCM) and Trapezius",
+        "explanation": "Correct. Test with head rotation (SCM) and shoulder shrug (Traps).",
+        "isCorrect": true
+      },
+      {
+        "text": "Lateral Rectus",
+        "explanation": "Incorrect (CN VI)."
+      },
+      {
+        "text": "Tongue muscles",
+        "explanation": "Incorrect (CN XII)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: CN XI = SCM (turn head) + Trapezius (shrug shoulders).",
+    "pdfPage": 23
+  },
+  {
+    "id": 22,
+    "category": "Clinical Skills: CN XII",
+    "questionText": "A patient is asked to stick out their tongue. It deviates to the RIGHT. This indicates a lesion of:",
+    "options": [
+      {
+        "text": "Left Hypoglossal Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Hypoglossal Nerve",
+        "explanation": "Correct. Tongue deviates toward the side of the lesion (ipsilateral).",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilateral CN XII lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left CN X",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal finding",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tongue deviates TOWARD the weak side (ipsilateral to lesion).",
+    "pdfPage": 23
+  },
+  {
+    "id": 23,
+    "category": "Clinical Skills: Convergence",
+    "questionText": "Convergence is tested by:",
+    "options": [
+      {
+        "text": "Having the patient follow your finger from 12 inches away toward the bridge of their nose",
+        "explanation": "Correct. Eyes should adduct symmetrically as object approaches.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shining a light in the eye",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Having the patient look left and right",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Testing visual acuity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fundoscopic exam",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Normal Rinne: AC > BC.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Convergence = Eyes turn IN together for near vision.",
+    "pdfPage": 16
   },
   {
-    "id": 17,
-    "category": "Cranial Nerve IX, X",
-    "questionText": "To assess Cranial Nerves IX (Glossopharyngeal) and X (Vagus), you typically observe:",
-    "options": [
-      {
-        "text": "Eye movements",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Palate elevation (say 'Ah') and the gag reflex",
-        "explanation": "Correct. Uvula should rise midline. Deviation indicates CN X palsy (deviates AWAY from lesion).",
-        "isCorrect": true
-      },
-      {
-        "text": "Tongue protrusion",
-        "explanation": "Incorrect. CN XII."
-      },
-      {
-        "text": "Shoulder shrug",
-        "explanation": "Incorrect. CN XI."
-      },
-      {
-        "text": "Jaw opening",
-        "explanation": "Incorrect. V3."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN IX/X = Gag + Palate elevation.",
-    "pdfPage": 39
-  },
-  {
-    "id": 18,
-    "category": "Cranial Nerve XI",
-    "questionText": "Testing the Spinal Accessory Nerve (CN XI) involves:",
-    "options": [
-      {
-        "text": "Puffing out cheeks",
-        "explanation": "Incorrect. CN VII."
-      },
-      {
-        "text": "Shrugging shoulders (Trapezius) and turning head against resistance (SCM)",
-        "explanation": "Correct. Pure motor nerve for Trapezius and Sternocleidomastoid.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sticking out tongue",
-        "explanation": "Incorrect. CN XII."
-      },
-      {
-        "text": "Hearing test",
-        "explanation": "Incorrect. CN VIII."
-      },
-      {
-        "text": "Smelling coffee",
-        "explanation": "Incorrect. CN I."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN XI = Shrug (Trap) + Turn Head (SCM).",
-    "pdfPage": 40
-  },
-  {
-    "id": 19,
-    "category": "Cranial Nerve XII",
-    "questionText": "If a patient has a lesion of the Hypoglossal Nerve (CN XII) on the RIGHT side, when they stick out their tongue, it will deviate:",
-    "options": [
-      {
-        "text": "To the LEFT (Away from lesion)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To the RIGHT (Towards the lesion)",
-        "explanation": "Correct. 'Lick your wounds'. The functioning left genioglossus pushes the tongue towards the paralyzed right side.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stay midline",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Retract into the throat",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Move up and down",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tongue deviates TOWARDS the CN XII lesion.",
-    "pdfPage": 41
-  },
-  {
-    "id": 20,
-    "category": "Eye Exam",
+    "id": 24,
+    "category": "Clinical Correlation: Presbyopia",
     "questionText": "Presbyopia is:",
     "options": [
       {
-        "text": "Age-related inability to focus on near objects",
-        "explanation": "Correct. Due to loss of lens elasticity. Need reading glasses.",
+        "text": "Age-related loss of lens accommodation for near vision",
+        "explanation": "Correct. Lens hardens with age, can't focus up close anymore.",
         "isCorrect": true
+      },
+      {
+        "text": "Eyeball too long",
+        "explanation": "Incorrect (Myopia)."
+      },
+      {
+        "text": "Eyeball too short",
+        "explanation": "Incorrect (Hyperopia)."
+      },
+      {
+        "text": "Astigmatism",
+        "explanation": "Incorrect."
       },
       {
         "text": "Color blindness",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Night blindness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Loss of peripheral vision",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Clouding of the lens",
-        "explanation": "Incorrect. Cataract."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Presbyopia = 'Aging Eye' (Can't read close).",
-    "pdfPage": 13
-  },
-  {
-    "id": 21,
-    "category": "Cranial Nerve III",
-    "questionText": "Ptosis (drooping eyelid) can be caused by a palsy of which cranial nerve?",
-    "options": [
-      {
-        "text": "CN VII (Facial)",
-        "explanation": "Incorrect. CN VII CLOSES the eye (Orbicularis Oculi). Palsy = can't close eye."
-      },
-      {
-        "text": "CN III (Oculomotor)",
-        "explanation": "Correct. CN III innervates Levator Palpebrae Superioris (opens eye). Palsy = Ptosis.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN VI (Abducens)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN IV (Trochlear)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN II (Optic)",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN III opens the eye (Levator). CN VII closes it (Orbicularis).",
-    "pdfPage": 17
-  },
-  {
-    "id": 22,
-    "category": "Cranial Nerves",
-    "questionText": "The Corneal Reflex (blinking when cornea is touched) involves which nerves?",
-    "options": [
-      {
-        "text": "Afferent CN II, Efferent CN III",
-        "explanation": "Incorrect. Light reflex."
-      },
-      {
-        "text": "Afferent CN V1 (Trigeminal), Efferent CN VII (Facial)",
-        "explanation": "Correct. Sensation via V1, Blink via VII.",
-        "isCorrect": true
-      },
-      {
-        "text": "Afferent CN VII, Efferent CN V",
-        "explanation": "Incorrect. Backwards."
-      },
-      {
-        "text": "Afferent CN IX, Efferent CN X",
-        "explanation": "Incorrect. Gag."
-      },
-      {
-        "text": "Afferent CN VIII, Efferent CN III",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Corneal Reflex = V1 (Sense) -> VII (Blink).",
-    "pdfPage": 31
-  },
-  {
-    "id": 23,
-    "category": "Eye Exam",
-    "questionText": "When checking for Accommodation (Near Reaction), you observe:",
-    "options": [
-      {
-        "text": "Pupil dilation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pupil constriction and convergence of eyes",
-        "explanation": "Correct. When looking from far to near, eyes converge and pupils constrict to increase depth of field.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rapid eye movements",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Eyelid retraction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red reflex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Accommodation = Constriction + Convergence.",
-    "pdfPage": 22
-  },
-  {
-    "id": 24,
-    "category": "Cranial Nerve VI",
-    "questionText": "The Abducens Nerve (CN VI) innervates the Lateral Rectus muscle. What is its function?",
-    "options": [
-      {
-        "text": "Abducts the eye (moves it laterally)",
-        "explanation": "Correct. 'Abducens' -> Abducts.",
-        "isCorrect": true
-      },
-      {
-        "text": "Adducts the eye (moves it medially)",
-        "explanation": "Incorrect. Medial Rectus (CN III)."
-      },
-      {
-        "text": "Elevates the eye",
-        "explanation": "Incorrect. Superior Rectus (CN III)."
-      },
-      {
-        "text": "Depresses the eye",
-        "explanation": "Incorrect. Inferior Rectus (CN III) / Superior Oblique (CN IV)."
-      },
-      {
-        "text": "Closes the eyelid",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: CN VI = Lateral Rectus = Abduction.",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Presbyopia = Old age. Can't read menu without reading glasses.",
+    "pdfPage": 9
   },
   {
     "id": 25,
-    "category": "Eye Exam",
-    "questionText": "Exophthalmos (protruding eyes) is a classic sign of:",
+    "category": "Clinical Skills: Documentation",
+    "questionText": "In a SOAP note, if all cranial nerves are intact with no deficits, the most efficient way to document this is:",
     "options": [
       {
-        "text": "Hypothyroidism",
-        "explanation": "Incorrect."
+        "text": "List each cranial nerve individually with normal findings",
+        "explanation": "Incorrect (Time-consuming unless specific deficit found)."
       },
       {
-        "text": "Graves' Disease (Hyperthyroidism)",
-        "explanation": "Correct. Thyroid eye disease.",
+        "text": "'CN II-XII grossly intact bilaterally'",
+        "explanation": "Correct. Concise, complete documentation for normal exam.",
         "isCorrect": true
       },
       {
-        "text": "Horner's Syndrome",
-        "explanation": "Incorrect. Ptosis, Miosis, Anhidrosis (Enophthalmos sometimes perceived)."
-      },
-      {
-        "text": "Bell's Palsy",
+        "text": "'Neurologic exam deferred'",
         "explanation": "Incorrect."
       },
       {
-        "text": "Glaucoma",
+        "text": "'Patient alert and oriented'",
+        "explanation": "Incorrect (Incomplete)."
+      },
+      {
+        "text": "No documentation needed",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Exophthalmos = Graves' Disease.",
-    "pdfPage": 17
+    "clinicalPearl": "Key takeaway: CN II-XII intact = Quick normal shorthand. List details only if abnormal.",
+    "pdfPage": 24
   },
   {
     "id": 26,
-    "category": "Cranial Nerve VII",
-    "questionText": "Bell's Palsy (Peripheral CN VII lesion) is characterized by:",
+    "category": "Clinical Skills: Nystagmus",
+    "questionText": "Nystagmus refers to:",
     "options": [
       {
-        "text": "Paralysis of the lower face only (forehead spared)",
-        "explanation": "Incorrect. This is a Central lesion (Stroke). Upper face has bilateral innervation."
+        "text": "Drooping eyelid",
+        "explanation": "Incorrect (Ptosis)."
       },
       {
-        "text": "Paralysis of the ENTIRE side of the face (including forehead)",
-        "explanation": "Correct. Peripheral lesion knocks out all branches on that side. Patient cannot wrinkle forehead.",
+        "text": "Involuntary rhythmic oscillation of the eyes",
+        "explanation": "Correct. Can be horizontal, vertical, or rotary.",
         "isCorrect": true
       },
       {
-        "text": "Loss of facial sensation",
-        "explanation": "Incorrect. CN V."
+        "text": "Double vision",
+        "explanation": "Incorrect (Diplopia)."
       },
       {
-        "text": "Visual loss",
-        "explanation": "Incorrect."
+        "text": "Pupil constriction",
+        "explanation": "Incorrect (Miosis)."
       },
       {
-        "text": "Hearing loss only",
-        "explanation": "Incorrect."
+        "text": "Bulging eyes",
+        "explanation": "Incorrect (Exophthalmos)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bell's Palsy (Peripheral) = Forehead involves. Stroke (Central) = Forehead spared.",
-    "pdfPage": 33
+    "clinicalPearl": "Key takeaway: Nystagmus = Dancing eyes. Often seen during convergence testing or EOM testing.",
+    "pdfPage": 16
   },
   {
     "id": 27,
-    "category": "Mental Status",
-    "questionText": "A patient who is 'A&O x 3' is oriented to:",
+    "category": "Clinical Correlation: Anisocoria",
+    "questionText": "Anisocoria means:",
     "options": [
       {
-        "text": "Person, Place, and Purpose",
+        "text": "Equal pupil size",
         "explanation": "Incorrect."
       },
       {
-        "text": "Person, Place, and Time",
-        "explanation": "Correct. Name, Location, Date.",
+        "text": "Unequal pupil size",
+        "explanation": "Correct. Can be physiologic or pathologic.",
         "isCorrect": true
       },
       {
-        "text": "Time, Temperature, Texture",
+        "text": "Absence of pupils",
         "explanation": "Incorrect."
       },
       {
-        "text": "Self, Family, Doctor",
-        "explanation": "Incorrect."
+        "text": "Dilated pupils",
+        "explanation": "Incorrect (Mydriasis)."
       },
       {
-        "text": "Past, Present, Future",
-        "explanation": "Incorrect."
+        "text": "Constricted pupils",
+        "explanation": "Incorrect (Miosis)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: A&Ox3 = Person, Place, Time.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Aniso = Unequal. Small anisocoria can be normal. Large difference is pathologic.",
+    "pdfPage": 13
   },
   {
     "id": 28,
-    "category": "Cranial Nerve V",
-    "questionText": "Testing the Masseter and Temporalis muscles (clench teeth) assesses the motor function of:",
+    "category": "Clinical Skills: Inspection",
+    "questionText": "Conjunctivitis presents with:",
     "options": [
       {
-        "text": "CN VII (Facial)",
+        "text": "Bulging eyes",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN V (Trigeminal)",
-        "explanation": "Correct. Mandibular branch (V3).",
+        "text": "Redness and discharge from the conjunctiva",
+        "explanation": "Correct. 'Pink eye'.",
         "isCorrect": true
       },
       {
-        "text": "CN IX (Glossopharyngeal)",
+        "text": "Drooping eyelid",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN XI (Accessory)",
+        "text": "Dilated pupil",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN XII (Hypoglossal)",
+        "text": "Loss of vision",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Clench teeth = CN V Motor.",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Conjunctivitis = Red, watery/crusty eye. Common and usually benign.",
+    "pdfPage": 12
   },
   {
     "id": 29,
-    "category": "Cranial Nerve X",
-    "questionText": "Hoarseness of voice (dysphonia) often implicates a lesion of:",
+    "category": "Clinical Skills: Snellen Chart",
+    "questionText": "The Snellen chart is used at what distance for distance visual acuity testing?",
     "options": [
       {
-        "text": "CN V",
+        "text": "10 feet",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN X (Vagus)",
-        "explanation": "Correct. Recurrent Laryngeal Nerve (branch of Vagus) innervates vocal cords.",
+        "text": "20 feet",
+        "explanation": "Correct. Hence '20/20' vision.",
         "isCorrect": true
       },
       {
-        "text": "CN XI",
+        "text": "30 feet",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN XII",
-        "explanation": "Incorrect."
+        "text": "14 inches",
+        "explanation": "Incorrect (Rosenbaum - near vision)."
       },
       {
-        "text": "CN VII",
+        "text": "Eye level, no specific distance",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hoarseness = Vagus Nerve (Recurrent Laryngeal).",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Snellen = 20 feet (distance). Rosenbaum = 14 inches (near).",
+    "pdfPage": 8
   },
   {
     "id": 30,
-    "category": "Cranial Nerve VIII",
-    "questionText": "Conductive Hearing Loss can be caused by:",
+    "category": "Clinical Correlation: Myasthenia Gravis",
+    "questionText": "Myasthenia Gravis characteristically causes:",
     "options": [
       {
-        "text": "Damage to the cochlea hair cells",
-        "explanation": "Incorrect. Sensorineural."
-      },
-      {
-        "text": "Cerumen impaction (Ear wax) or Otitis Media",
-        "explanation": "Correct. Anything blocking sound transmission to the inner ear.",
+        "text": "Worsening ptosis with sustained upgaze",
+        "explanation": "Correct. Fatigable weakness. Eyelids droop more over time.",
         "isCorrect": true
       },
       {
-        "text": "Acoustic Neuroma",
-        "explanation": "Incorrect. Retro-cochlear (Sensorineural)."
-      },
-      {
-        "text": "Ototoxic drugs (Gentamicin)",
-        "explanation": "Incorrect. Sensorineural."
-      },
-      {
-        "text": "Presbycusis (Aging)",
-        "explanation": "Incorrect. Sensorineural."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Conductive Loss = Wax, Fluid, Ossicle problems.",
-    "pdfPage": 38
-  },
-  {
-    "id": 31,
-    "category": "Eye Exam",
-    "questionText": "The Optic Disc is the area where:",
-    "options": [
-      {
-        "text": "Vision is sharpest (Macula)",
+        "text": "Fixed, non-fatigable ptosis",
         "explanation": "Incorrect."
       },
       {
-        "text": "The Optic Nerve enters/exits the eye (Blind Spot)",
-        "explanation": "Correct. No photoreceptors here.",
-        "isCorrect": true
-      },
-      {
-        "text": "The lens is located",
+        "text": "Tongue deviation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Light enters the eye (Pupil)",
+        "text": "Hearing loss",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tears are produced",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Optic Disc = Blind Spot / Nerve Head.",
-    "pdfPage": 29
-  },
-  {
-    "id": 32,
-    "category": "Cranial Nerves",
-    "questionText": "Which three Cranial Nerves are purely SENSORY?",
-    "options": [
-      {
-        "text": "I, II, and VIII",
-        "explanation": "Correct. Olfactory, Optic, Vestibulocochlear.",
-        "isCorrect": true
-      },
-      {
-        "text": "III, IV, and VI",
-        "explanation": "Incorrect. Pure Motor."
-      },
-      {
-        "text": "V, VII, IX, X",
-        "explanation": "Incorrect. Mixed."
-      },
-      {
-        "text": "XI and XII",
-        "explanation": "Incorrect. Pure Motor."
-      },
-      {
-        "text": "I, V, VII",
+        "text": "Pupil dilation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pure Sensory CNs = 1, 2, 8.",
-    "pdfPage": 10
+    "clinicalPearl": "Key takeaway: MG = Fatigable weakness. Gets worse with use (e.g., prolonged upgaze).",
+    "pdfPage": 12
+  },
+  {
+    "id": 31,
+    "category": "Clinical Skills: HPI",
+    "questionText": "According to the lecture, a detailed HPI provides what percentage of the diagnostic information?",
+    "options": [
+      {
+        "text": "50-60%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "70-80%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "90-95%",
+        "explanation": "Correct. The history is the most important diagnostic tool.",
+        "isCorrect": true
+      },
+      {
+        "text": "100%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "30-40%",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: A good history gives you the diagnosis. The exam confirms it.",
+    "pdfPage": 4
+  },
+  {
+    "id": 32,
+    "category": "Clinical Skills: Alert and Oriented",
+    "questionText": "'A&O x3' means the patient is oriented to:",
+    "options": [
+      {
+        "text": "Person, Place, Time",
+        "explanation": "Correct. Knows who they are, where they are, and what day/time it is.",
+        "isCorrect": true
+      },
+      {
+        "text": "Name, Age, Address",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GCS of 3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Three out of twelve cranial nerves",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual acuity 20/30",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: A&O x3 = Person, Place, Time. Sometimes x4 includes 'situation'.",
+    "pdfPage": 3
   },
   {
     "id": 33,
-    "category": "Eye Exam",
-    "questionText": "When examining the eye, typically the lens wheel on the ophthalmoscope is initially set to:",
+    "category": "Clinical Skills: Fundoscopic Exam",
+    "questionText": "The fundoscopic exam allows visualization of:",
     "options": [
       {
-        "text": "+20",
+        "text": "The anterior chamber",
         "explanation": "Incorrect."
       },
       {
-        "text": "0 Diopters",
-        "explanation": "Correct. Start at 0 and adjust for focus.",
+        "text": "The optic disc, retinal vessels, and macula",
+        "explanation": "Correct. Ophthalmoscope views the back of the eye.",
         "isCorrect": true
       },
       {
-        "text": "-20",
+        "text": "The cornea only",
         "explanation": "Incorrect."
       },
       {
-        "text": "100",
+        "text": "The lens",
         "explanation": "Incorrect."
       },
       {
-        "text": "Red numbers",
+        "text": "The conjunctiva",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Start Fundoscopy at 0 Diopters.",
-    "pdfPage": 27
+    "clinicalPearl": "Key takeaway: Fundoscopy = Window to the retina. Can see papilledema, hemorrhages, etc.",
+    "pdfPage": 7
   },
   {
     "id": 34,
-    "category": "Cranial Nerve VII/IX",
-    "questionText": "Taste to the anterior 2/3 of the tongue is supplied by _______, while taste to the posterior 1/3 of the tongue is supplied by _______.",
+    "category": "Clinical Skills: Corneal Reflex",
+    "questionText": "The corneal reflex (blink reflex) tests which cranial nerves?",
     "options": [
       {
-        "text": "CN V, CN VII",
+        "text": "CN II and III",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN VII (Facial), CN IX (Glossopharyngeal)",
-        "explanation": "Correct. Chorda Tympani (VII) -> Anterior. Glossopharyngeal (IX) -> Posterior.",
+        "text": "CN V (afferent - sensory) and CN VII (efferent - motor blink)",
+        "explanation": "Correct. Light touch to cornea sensed by V, blink via VII.",
         "isCorrect": true
       },
       {
-        "text": "CN IX, CN X",
+        "text": "CN III and VI",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN XII, CN VII",
+        "text": "CN IX and X",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN I, CN II",
+        "text": "CN XI and XII",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Taste: Ant 2/3 = VII, Post 1/3 = IX.",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: Corneal Reflex = V senses, VII blinks. (Not practiced in lab).",
+    "pdfPage": 18
   },
   {
     "id": 35,
-    "category": "Cranial Nerve III",
-    "questionText": "A 'blown' (dilated and fixed) pupil suggests compression of which nerve, often due to herniation?",
+    "category": "Clinical Skills: Efficient Exam",
+    "questionText": "With practice, a comprehensive cranial nerve exam can be completed in approximately:",
     "options": [
       {
-        "text": "CN II",
+        "text": "30-60 seconds",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN III (Oculomotor)",
-        "explanation": "Correct. Parasympathetic fibers run on the OUTSIDE of CN III and are compressed first, causing unopposed sympathetic action (dilation).",
+        "text": "2-3 minutes",
+        "explanation": "Correct. Efficiency comes with practice.",
         "isCorrect": true
       },
       {
-        "text": "CN VI",
+        "text": "10-15 minutes",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN IV",
+        "text": "30 minutes",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN V",
+        "text": "1 hour",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Blown Pupil = CN III Compression (Medical Emergency).",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: Practice makes perfect. CN exam should be quick and smooth.",
+    "pdfPage": 17
   }
 ];

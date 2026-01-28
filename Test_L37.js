@@ -1,831 +1,396 @@
 window.Test_L37 = [
   {
     "id": 1,
-    "category": "Motor Strength",
-    "questionText": "A patient can move their arm against gravity but cannot overcome any added resistance by the examiner. This muscle strength is graded as:",
+    "category": "Clinical Skills: Motor System",
+    "questionText": "The motor pathways consist of upper motor neurons (UMNs) that synapse with lower motor neurons (LMNs). UMN cell bodies are located in:",
     "options": [
       {
-        "text": "1/5",
-        "explanation": "Incorrect. Trace contraction only."
+        "text": "Spinal cord anterior horn",
+        "explanation": "Incorrect (LMN location)."
       },
       {
-        "text": "2/5",
-        "explanation": "Incorrect. Movement with gravity eliminated."
-      },
-      {
-        "text": "3/5",
-        "explanation": "Correct. Anti-gravity strength only.",
+        "text": "Motor cortex of the cerebral hemispheres",
+        "explanation": "Correct. UMNs originate in the cortex, travel down corticospinal/corticobulbar tracts.",
         "isCorrect": true
       },
       {
-        "text": "4/5",
-        "explanation": "Incorrect. Some resistance."
+        "text": "Peripheral nerves",
+        "explanation": "Incorrect (LMN axons)."
       },
       {
-        "text": "5/5",
-        "explanation": "Incorrect. Full strength."
+        "text": "Neuromuscular junction",
+        "explanation": "Incorrect (Synapse, not cell body)."
+      },
+      {
+        "text": "Dorsal root ganglion",
+        "explanation": "Incorrect (Sensory neurons)."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: 3/5 is the tipping point (Gravity).",
-    "pdfPage": 13
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: UMN = Cortex to spinal cord/brainstem. LMN = Spinal cord/brainstem to muscle.",
+    "pdfPage": 2
   },
   {
     "id": 2,
-    "category": "UMN vs LMN",
-    "questionText": "Which of the following is a sign of an Upper Motor Neuron (UMN) lesion?",
+    "category": "Clinical Correlation: ALS",
+    "questionText": "A classic disease presenting with BOTH upper and lower motor neuron signs is:",
     "options": [
       {
-        "text": "Fasciculations",
-        "explanation": "Incorrect. LMN."
+        "text": "Guillain-Barré Syndrome",
+        "explanation": "Incorrect (LMN only)."
       },
       {
-        "text": "Significant Muscle Atrophy",
-        "explanation": "Incorrect. LMN (Disuse atrophy in UMN is mild/slow)."
+        "text": "Stroke",
+        "explanation": "Incorrect (UMN only)."
       },
       {
-        "text": "Hyperreflexia and Spasticity",
-        "explanation": "Correct. Loss of descending inhibition.",
+        "text": "Amyotrophic Lateral Sclerosis (ALS/Lou Gehrig's Disease)",
+        "explanation": "Correct. ALS = Mixed UMN + LMN. Devastating progressive disease.",
         "isCorrect": true
       },
       {
-        "text": "Hypotonia",
-        "explanation": "Incorrect. LMN."
+        "text": "Bell's Palsy",
+        "explanation": "Incorrect (LMN - CN VII)."
       },
       {
-        "text": "Absent reflexes",
-        "explanation": "Incorrect. LMN."
+        "text": "Parkinson's Disease",
+        "explanation": "Incorrect (Basal ganglia, extrapyramidal)."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: UMN = Everything goes UP (Tone, Reflexes, Toes).",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: ALS = Classic mixed UMN + LMN disease. High mortality, progressive weakness.",
+    "pdfPage": 4
   },
   {
     "id": 3,
-    "category": "Reflex Level",
-    "questionText": "The Patellar (Knee Jerk) Reflex primarily tests which spinal nerve root?",
+    "category": "Clinical Correlation: UMN Lesion",
+    "questionText": "Upper motor neuron lesions ABOVE the pyramidal decussation in the medulla cause weakness on which side?",
     "options": [
       {
-        "text": "S1",
-        "explanation": "Incorrect. Achilles."
+        "text": "Ipsilateral (same side as lesion)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "L5",
-        "explanation": "Incorrect. Hamstrings (partial)."
-      },
-      {
-        "text": "L4",
-        "explanation": "Correct. L2-L4, but L4 is dominant.",
+        "text": "Contralateral (opposite side from lesion)",
+        "explanation": "Correct. Decussation at medulla → Lesion above causes contralateral deficit.",
         "isCorrect": true
       },
       {
-        "text": "C7",
-        "explanation": "Incorrect. Triceps."
+        "text": "Bilateral weakness",
+        "explanation": "Incorrect."
       },
       {
-        "text": "L1",
+        "text": "No weakness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Random distribution",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Kick the Door (L4).",
-    "pdfPage": 36
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: UMN above decussation = Contralateral weakness (e.g., left cortex stroke → right weakness).",
+    "pdfPage": 3
   },
   {
     "id": 4,
-    "category": "Reflex Level",
-    "questionText": "The Achilles (Ankle Jerk) Reflex tests:",
+    "category": "Clinical Correlation: UMN vs LMN",
+    "questionText": "Which physical exam finding is characteristic of an UPPER motor neuron lesion?",
     "options": [
       {
-        "text": "L4",
-        "explanation": "Incorrect."
+        "text": "Hyporeflexia or areflexia",
+        "explanation": "Incorrect (LMN)."
       },
       {
-        "text": "L5",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "S1",
-        "explanation": "Correct. Gastrocnemius/Soleus.",
+        "text": "Hyperreflexia (exaggerated deep tendon reflexes)",
+        "explanation": "Correct. UMN = Hyperreflexia, spasticity, positive Babinski.",
         "isCorrect": true
       },
       {
-        "text": "S2",
-        "explanation": "Incorrect."
+        "text": "Muscle atrophy",
+        "explanation": "Incorrect (LMN)."
       },
       {
-        "text": "L3",
-        "explanation": "Incorrect."
+        "text": "Fasciculations",
+        "explanation": "Incorrect (LMN)."
+      },
+      {
+        "text": "Flaccid paralysis",
+        "explanation": "Incorrect (LMN)."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: S1 = Step on the gas (Plantarflexion).",
-    "pdfPage": 37
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: UMN = Hyperreflexia + Spasticity + Babinski+. LMN = Hyporeflexia/areflexia + Atrophy + Fasciculations.",
+    "pdfPage": 3
   },
   {
     "id": 5,
-    "category": "Coordination",
-    "questionText": "Dysdiadochokinesia refers to:",
+    "category": "Clinical Correlation: LMN Lesion",
+    "questionText": "Which finding is characteristic of a LOWER motor neuron lesion?",
     "options": [
       {
-        "text": "Inability to walk in a straight line",
-        "explanation": "Incorrect. Ataxia."
+        "text": "Spasticity",
+        "explanation": "Incorrect (UMN)."
       },
       {
-        "text": "Inability to perform Rapid Alternating Movements (RAM)",
-        "explanation": "Correct. Tested by flipping hands back and forth.",
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect (UMN)."
+      },
+      {
+        "text": "Muscle atrophy and fasciculations",
+        "explanation": "Correct. LMN = Atrophy (denervation), fasciculations (irritated nerve), hyporeflexia.",
         "isCorrect": true
       },
       {
-        "text": "Overshooting a target (finger-to-nose)",
-        "explanation": "Incorrect. Dysmetria."
+        "text": "Positive Babinski sign",
+        "explanation": "Incorrect (UMN)."
       },
       {
-        "text": "Rhythmic oscillation of the eyes",
-        "explanation": "Incorrect. Nystagmus."
-      },
-      {
-        "text": "Loss of pain sensation",
-        "explanation": "Incorrect."
+        "text": "Clonus",
+        "explanation": "Incorrect (UMN)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Diadochokinesia = Alternating movement.",
-    "pdfPage": 23
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: LMN = Atrophy, Fasciculations, Hyporeflexia/Areflexia, Flaccid paralysis.",
+    "pdfPage": 3
   },
   {
     "id": 6,
-    "category": "Gait",
-    "questionText": "A patient with a 'Steppage Gait' (lifting the leg high to clear the toes) likely has weakness in:",
+    "category": "Clinical Skills: Babinski Sign",
+    "questionText": "The Babinski sign (plantar reflex) is tested by stroking the lateral sole of the foot. A POSITIVE Babinski (pathologic) is:",
     "options": [
       {
-        "text": "Plantarflexion (S1)",
-        "explanation": "Incorrect."
+        "text": "Toes curl downward (plantar flexion)",
+        "explanation": "Incorrect (Normal response in adults)."
       },
       {
-        "text": "Dorsiflexion (L4/L5)",
-        "explanation": "Correct. Foot drop due to Tibialis Anterior weakness.",
+        "text": "Big toe extends upward (dorsiflexion) with fanning of other toes",
+        "explanation": "Correct. Positive Babinski = UMN lesion. Normal in infants <2 years.",
         "isCorrect": true
       },
       {
-        "text": "Hip Extension",
+        "text": "No response",
         "explanation": "Incorrect."
       },
       {
-        "text": "Knee Extension",
+        "text": "Ankle jerk reflex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hip Abduction",
+        "text": "Knee extension",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Foot drop = Steppage gait.",
-    "pdfPage": 27
+    "clinicalPearl": "Key takeaway: Positive Babinski = Big toe UP (dorsiflexion). Indicates UMN lesion. Normal in babies.",
+    "pdfPage": 3
   },
   {
     "id": 7,
-    "category": "Special Test",
-    "questionText": "Pronator Drift is a specific test for:",
+    "category": "Clinical Skills: Motor Pathways",
+    "questionText": "The three principal motor  pathways are:",
     "options": [
+      {
+        "text": "Corticospinal (Pyramidal), Cerebellar, Basal Ganglia",
+        "explanation": "Correct. Three systems work together for coordinated movement.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dorsal column, Spinothalamic, Corticobulbar",
+        "explanation": "Incorrect (First two are sensory)."
+      },
+      {
+        "text": "Sympathetic, Parasympathetic, Somatic",
+        "explanation": "Incorrect (Autonomic divisions)."
+      },
+      {
+        "text": "UMN, LMN, Interneuron",
+        "explanation": "Incorrect (Neuron types, not pathways)."
+      },
+      {
+        "text": "Ascending, Descending, Associative",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Corticospinal = Voluntary movement. Cerebellar = Coordination. Basal Ganglia = Tone/posture.",
+    "pdfPage": 2
+  },
+  {
+    "id": 8,
+    "category": "Clinical Skills: Basal Ganglia",
+    "questionText": "The Basal Ganglia system primarily functions to:",
+    "options": [
+      {
+        "text": "Coordinate fine motor movements and balance",
+        "explanation": "Incorrect (Cerebellum)."
+      },
+      {
+        "text": "Maintain muscle tone and control body movements (e.g., walking, posture)",
+        "explanation": "Correct. Basal ganglia disorders → Movement disorders (Parkinson's, Huntington's).",
+        "isCorrect": true
+      },
+      {
+        "text": "Process sensory information",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Control eye movements",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regulate autonomic functions",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Basal Ganglia = Tone, posture, initiation of movement. Disorders → Parkinson's, Huntington's.",
+    "pdfPage": 2
+  },
+  {
+    "id": 9,
+    "category": "Clinical Skills: Cerebellum",
+    "questionText": "The Cerebellum receives sensory-motor input and coordinates motor activity. Its function includes:",
+    "options": [
+      {
+        "text": "Maintaining muscle tone only",
+        "explanation": "Incorrect (Partial)."
+      },
+      {
+        "text": "Coordinating motor activity, maintaining equilibrium, and assisting with posture",
+        "explanation": "Correct. Cerebellar lesions → Ataxia, intention tremor, dysmetria.",
+        "isCorrect": true
+      },
+      {
+        "text": "Initiating voluntary movement",
+        "explanation": "Incorrect (Cortex/basal ganglia)."
+      },
+      {
+        "text": "Processing pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regulating heart rate",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cerebellum = Coordination, balance, smooth movements. Damage → Ataxia (wobbly gait).",
+    "pdfPage": 2
+  },
+  {
+    "id": 10,
+    "category": "Clinical Skills: Spasticity",
+    "questionText": "Spasticity is characterized by:",
+    "options": [
+      {
+        "text": "Increased muscle tone with velocity-dependent resistance ('clasp-knife' rigidity)",
+        "explanation": "Correct. UMN lesion → Spasticity. Resistance increases with speed of passive movement.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreased muscle tone (flaccidity)",
+        "explanation": "Incorrect (LMN)."
+      },
+      {
+        "text": "'Lead-pipe' rigidity throughout range of motion",
+        "explanation": "Incorrect (Parkinson's - extrapyramidal)."
+      },
+      {
+        "text": "Normal muscle tone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle atrophy",
+        "explanation": "Incorrect (LMN)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Spasticity (UMN) = Velocity-dependent. Rigidity (Parkinson's) = Constant throughout ROM.",
+    "pdfPage": 3
+  },
+  {
+    "id": 11,
+    "category": "Clinical Skills: Clonus",
+    "questionText": "Ankle clonus is a sign of:",
+    "options": [
+      {
+        "text": "Lower motor neuron lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Upper motor neuron lesion",
+        "explanation": "Correct. Clonus = Rhythmic oscillations from sustained stretch. UMN sign.",
+        "isCorrect": true
+      },
       {
         "text": "Cerebellar dysfunction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Lower Motor Neuron weakness",
+        "text": "Peripheral neuropathy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Contralateral Corticospinal (UMN) tract lesion",
-        "explanation": "Correct. Supinators are weaker than pronators in UMN lesions.",
-        "isCorrect": true
-      },
-      {
-        "text": "Parkinson's Disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior Column disease",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Drift = UMN weakness.",
-    "pdfPage": 42
-  },
-  {
-    "id": 8,
-    "category": "Reflex Grading",
-    "questionText": "Clonus (rhythmic oscillations between flexion/extension) corresponds to a reflex grade of:",
-    "options": [
-      {
-        "text": "2+",
-        "explanation": "Incorrect. Normal."
-      },
-      {
-        "text": "3+",
-        "explanation": "Incorrect. Brisk."
-      },
-      {
-        "text": "4+",
-        "explanation": "Correct. Hyperactive with clonus.",
-        "isCorrect": true
-      },
-      {
-        "text": "1+",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "0",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Clonus = 4+.",
-    "pdfPage": 31
-  },
-  {
-    "id": 9,
-    "category": "Motor Level",
-    "questionText": "Elbow Flexion (Biceps) primarily tests nerve roots:",
-    "options": [
-      {
-        "text": "C5, C6",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "C7, C8",
-        "explanation": "Incorrect. Triceps/Hand."
-      },
-      {
-        "text": "C8, T1",
-        "explanation": "Incorrect. Hand."
-      },
-      {
-        "text": "C3, C4",
-        "explanation": "Incorrect. Diaphragm."
-      },
-      {
-        "text": "T1, T2",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: C5, C6, pick up sticks (Flex).",
-    "pdfPage": 15
-  },
-  {
-    "id": 10,
-    "category": "Motor Level",
-    "questionText": "Elbow Extension (Triceps) primarily tests:",
-    "options": [
-      {
-        "text": "C5",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C6, C7, C8",
-        "explanation": "Correct. Particularly C7.",
-        "isCorrect": true
-      },
-      {
-        "text": "T1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C4",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L2",
-        "explanation": "Incorrect."
+        "text": "Normal finding",
+        "explanation": "Incorrect (Pathologic)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: C7, C8 lay them straight (Ext).",
-    "pdfPage": 36
-  },
-  {
-    "id": 11,
-    "category": "Motor Level",
-    "questionText": "Finger Abduction (spreading fingers) tests which nerve/root?",
-    "options": [
-      {
-        "text": "Radial Nerve (C7)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Median Nerve (C6)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ulnar Nerve (C8, T1)",
-        "explanation": "Correct. Interossei muscles.",
-        "isCorrect": true
-      },
-      {
-        "text": "Axillary Nerve (C5)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Musculocutaneous Nerve (C6)",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Ulnar = Abduction/Adduction of fingers.",
-    "pdfPage": 17
+    "clinicalPearl": "Key takeaway: Clonus = Repetitive jerking from sustained stretch. UMN lesion. Test ankle (dorsiflex foot sharply).",
+    "pdfPage": 3
   },
   {
     "id": 12,
-    "category": "Motor Level",
-    "questionText": "Hip Flexion is powered by the Iliopsoas, innervated by:",
+    "category": "Clinical Skills: Motor Strength Testing",
+    "questionText": "Motor strength is graded on a 0-5 scale. Grade 3/5 indicates:",
     "options": [
       {
-        "text": "L2, L3, L4",
-        "explanation": "Correct.",
+        "text": "No contraction",
+        "explanation": "Incorrect (0/5)."
+      },
+      {
+        "text": "Muscle flicker without movement",
+        "explanation": "Incorrect (1/5)."
+      },
+      {
+        "text": "Movement with gravity eliminated (can move laterally, not against gravity)",
+        "explanation": "Incorrect (2/5)."
+      },
+      {
+        "text": "Movement against gravity but not against resistance",
+        "explanation": "Correct. 3/5 = Can lift limb against gravity, but collapses with any resistance.",
         "isCorrect": true
       },
       {
-        "text": "L5, S1",
-        "explanation": "Incorrect. Hip Ext/Abd."
-      },
-      {
-        "text": "S1, S2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C5, C6",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L1 only",
-        "explanation": "Incorrect."
+        "text": "Normal strength",
+        "explanation": "Incorrect (5/5)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hip Flexion = Mid-Lumbar (L2-4).",
-    "pdfPage": 19
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: 0=none, 1=flicker, 2=lateral only, 3=anti-gravity, 4=some resistance, 5=full strength.",
+    "pdfPage": 5
   },
   {
     "id": 13,
-    "category": "Coordination",
-    "questionText": "A positive Romberg Test (loss of balance with eyes closed) indicates a deficit in:",
+    "category": "Clinical Skills: Coordination Testing",
+    "questionText": "The finger-to-nose test assesses:",
     "options": [
       {
-        "text": "Cerebellar function",
-        "explanation": "Incorrect. Cerebellar ataxia presents with eyes OPEN too."
+        "text": "Muscle strength",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Proprioception (Posterior Columns) or Vestibular function",
-        "explanation": "Correct. Visual input was compensating for the deficit.",
+        "text": "Cerebellar function and coordination",
+        "explanation": "Correct. Tests for dysmetria (past-pointing), intention tremor.",
         "isCorrect": true
       },
       {
-        "text": "Motor strength",
-        "explanation": "Incorrect."
+        "text": "Proprioception only",
+        "explanation": "Incorrect (Partial)."
       },
       {
-        "text": "Cognition",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Romberg is NOT a cerebellar test.",
-    "pdfPage": 41
-  },
-  {
-    "id": 14,
-    "category": "Pathology",
-    "questionText": "Amyotrophic Lateral Sclerosis (ALS) is unique because it presents with:",
-    "options": [
-      {
-        "text": "Pure sensory loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Both Upper and Lower Motor Neuron signs",
-        "explanation": "Correct. E.g., Atrophy (LMN) + Hyperreflexia (UMN) in the same limb.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only UMN signs",
-        "explanation": "Incorrect. PLS."
-      },
-      {
-        "text": "Only LMN signs",
-        "explanation": "Incorrect. SMA."
-      },
-      {
-        "text": "Cognitive decline only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ALS = Mixed UMN/LMN.",
-    "pdfPage": 6
-  },
-  {
-    "id": 15,
-    "category": "General",
-    "questionText": "Fasciculations (visible muscle twitches) are a sign of:",
-    "options": [
-      {
-        "text": "Upper Motor Neuron lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lower Motor Neuron lesion",
-        "explanation": "Correct. Irritated motor unit firing spontaneously.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebellar disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Normal aging only",
-        "explanation": "Incorrect. Can be benign, but usually LMN."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fasciculations = LMN.",
-    "pdfPage": 6
-  },
-  {
-    "id": 16,
-    "category": "Motor Level",
-    "questionText": "Knee Extension (Quadriceps) involves which nerve roots?",
-    "options": [
-      {
-        "text": "L2, L3, L4",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "L5, S1",
-        "explanation": "Incorrect. Hamstrings."
-      },
-      {
-        "text": "S1, S2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "T12, L1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L4, L5",
-        "explanation": "Incorrect. Tib Ant."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Quads = L2, 3, 4.",
-    "pdfPage": 21
-  },
-  {
-    "id": 17,
-    "category": "Technique",
-    "questionText": "The Jendrassik maneuver (interlocking fingers and pulling) is used to:",
-    "options": [
-      {
-        "text": "Test coordination",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Reinforce/Elicit a reflex",
-        "explanation": "Correct. Distracts the patient and increases spinal excitability.",
-        "isCorrect": true
-      },
-      {
-        "text": "Test strength",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Check for drift",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Assess tone",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Reinforcement brings out hidden reflexes.",
-    "pdfPage": 34
-  },
-  {
-    "id": 18,
-    "category": "Motor Level",
-    "questionText": "Thumb Opposition tests which nerve?",
-    "options": [
-      {
-        "text": "Radial",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ulnar",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Median",
-        "explanation": "Correct. C8/T1.",
-        "isCorrect": true
-      },
-      {
-        "text": "Axillary",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Musculocutaneous",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Thumb Opposition = Median Nerve.",
-    "pdfPage": 18
-  },
-  {
-    "id": 19,
-    "category": "Gait",
-    "questionText": "Tandem Walking (Heel-to-Toe) is particularly sensitive for detecting:",
-    "options": [
-      {
-        "text": "Muscle weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ataxia / Coordination deficits",
-        "explanation": "Correct. Narrows the base of support.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sensory loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cognitive decline",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tandem walk stresses the cerebellar system.",
-    "pdfPage": 27
-  },
-  {
-    "id": 20,
-    "category": "Reflex",
-    "questionText": "A positive Babinski sign (Dorsiflexion of big toe + fanning of others) is normal in:",
-    "options": [
-      {
-        "text": "Adults",
-        "explanation": "Incorrect. Always pathological."
-      },
-      {
-        "text": "Infants",
-        "explanation": "Correct. Until myelination is complete (approx 12-24mo).",
-        "isCorrect": true
-      },
-      {
-        "text": "Elderly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Athletes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Everyone",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Upgoing toe is only okay for babies.",
-    "pdfPage": 5
-  },
-  {
-    "id": 21,
-    "category": "Tone",
-    "questionText": "Spasticity is defined as:",
-    "options": [
-      {
-        "text": "Velocity-dependent increase in tone",
-        "explanation": "Correct. The faster you move it, the more it resists (Clasp-knife).",
-        "isCorrect": true
-      },
-      {
-        "text": "Constant resistance throughout range (Lead pipe)",
-        "explanation": "Incorrect. Rigidity (Basal ganglia).",
-      },
-      {
-        "text": "Complete loss of tone (Flaccid)",
-        "explanation": "Incorrect. LMN."
-      },
-      {
-        "text": "Ratchet-like resistance (Cogwheel)",
-        "explanation": "Incorrect. Parkinson's."
-      },
-      {
-        "text": "Decreased resistance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Spasticity = Velocity-dependent = UMN.",
-    "pdfPage": 5
-  },
-  {
-    "id": 22,
-    "category": "Motor Level",
-    "questionText": "Dorsiflexion of the foot (walking on heels) tests:",
-    "options": [
-      {
-        "text": "L4, L5",
-        "explanation": "Correct. Tibialis Anterior.",
-        "isCorrect": true
-      },
-      {
-        "text": "S1, S2",
-        "explanation": "Incorrect. Plantarflexion."
-      },
-      {
-        "text": "L2, L3",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C7",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: L4/L5 lifts the foot.",
-    "pdfPage": 22
-  },
-  {
-    "id": 23,
-    "category": "Coordination",
-    "questionText": "Dysmetria during the Finger-to-Nose test presents as:",
-    "options": [
-      {
-        "text": "Tremor at rest",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Overshooting or undershooting the target",
-        "explanation": "Correct. Cerebellar sign.",
-        "isCorrect": true
-      },
-      {
-        "text": "Slowness of movement",
-        "explanation": "Incorrect. Bradykinesia."
-      },
-      {
-        "text": "Weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rigidity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway:  Dysmetria = Bad measurement (distance).",
-    "pdfPage": 26
-  },
-  {
-    "id": 24,
-    "category": "Motor Scale",
-    "questionText": "A reflex grade of 0 indicates:",
-    "options": [
-      {
-        "text": "Normal reflex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Absent reflex",
-        "explanation": "Correct. No response even with reinforcement.",
-        "isCorrect": true
-      },
-      {
-        "text": "Diminished reflex",
-        "explanation": "Incorrect. 1+."
-      },
-      {
-        "text": "Hyperactive reflex",
-        "explanation": "Incorrect. 3+/4+."
-      },
-      {
-        "text": "Clonus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 0 is Areflexia.",
-    "pdfPage": 31
-  },
-  {
-    "id": 25,
-    "category": "Gait",
-    "questionText": "A patient with Parkinson's Disease typically exhibits a gait characterized by:",
-    "options": [
-      {
-        "text": "Wide-base and staggering",
-        "explanation": "Incorrect. Ataxic."
-      },
-      {
-        "text": "Shuffling, festinating (hurried short steps), and reduced arm swing",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "High steppage",
-        "explanation": "Incorrect. Neuropathic."
-      },
-      {
-        "text": "Scissoring",
-        "explanation": "Incorrect. Spastic Diplegia."
-      },
-      {
-        "text": "Waddling",
-        "explanation": "Incorrect. Myopathic."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Parkinson's = Shuffling + No arm swing.",
-    "pdfPage": 27
-  },
-  {
-    "id": 26,
-    "category": "Motor Level",
-    "questionText": "Wrist Extension involves the Radial nerve and roots:",
-    "options": [
-      {
-        "text": "C6, C7, C8",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "C5, C6",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C8, T1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L2, L3",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "C1, C2",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Wrist Drop = Radial Nerve Palsy (C6-8).",
-    "pdfPage": 16
-  },
-  {
-    "id": 27,
-    "category": "Coordination",
-    "questionText": "The Heel-to-Shin test is the lower extremity equivalent of:",
-    "options": [
-      {
-        "text": "Finger-to-Nose",
-        "explanation": "Correct. Measures point-to-point coordination.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rapid Alternating Movements",
-        "explanation": "Incorrect. Toe tapping is the RAM equivalent.",
-        "isCorrect": false
-      },
-      {
-        "text": "Romberg",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gait",
+        "text": "Cranial nerve function",
         "explanation": "Incorrect."
       },
       {
@@ -833,257 +398,690 @@ window.Test_L37 = [
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Heel-to-shin = Cerebellar leg test.",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Finger-to-nose = Cerebellar test. Abnormal → Dysmetria, intention tremor, ataxia.",
+    "pdfPage": 6
   },
   {
-    "id": 28,
-    "category": "Reflex",
-    "questionText": "The Brachioradialis reflex tests which spinal levels?",
+    "id": 14,
+    "category": "Clinical Skills: Coordination Testing",
+    "questionText": "Rapid alternating movements (e.g., hand pronation/supination) test for:",
     "options": [
       {
-        "text": "C5, C6",
-        "explanation": "Correct.",
+        "text": "Dysdiadochokinesia (inability to perform rapid alternating movements)",
+        "explanation": "Correct. Cerebellar dysfunction → Slow, clumsy alternating movements.",
         "isCorrect": true
       },
       {
-        "text": "C7, C8",
+        "text": "Muscle strength",
         "explanation": "Incorrect."
       },
       {
-        "text": "C8, T1",
+        "text": "Reflex integrity",
         "explanation": "Incorrect."
       },
       {
-        "text": "C1, C2",
+        "text": "Sensory function",
         "explanation": "Incorrect."
       },
       {
-        "text": "T1 only",
+        "text": "Cranial nerve function",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Brachioradialis = C5/6 (same as Biceps).",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: Dysdiadochokinesia = Cerebellar sign. Can't do rapid hand flips smoothly.",
+    "pdfPage": 6
   },
   {
-    "id": 29,
-    "category": "Motor Level",
-    "questionText": "Shoulder Abduction (Deltoid) is primarily:",
+    "id": 15,
+    "category": "Clinical Skills: Heel-to-Shin Test",
+    "questionText": "The heel-to-shin test evaluates:",
     "options": [
       {
-        "text": "C5, C6",
-        "explanation": "Correct. Axillary nerve.",
+        "text": "Upper extremity coordination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower extremity cerebellar function (coordination and proprioception)",
+        "explanation": "Correct. Patient runs heel down opposite shin in straight line.",
         "isCorrect": true
       },
       {
-        "text": "C7, C8",
+        "text": "Ankle strength",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory function only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reflexes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Heel-to-shin = Lower extremity coordination test. Abnormal → Wavy, off-track movement.",
+    "pdfPage": 6
+  },
+  {
+    "id": 16,
+    "category": "Clinical Skills: Gait Assessment",
+    "questionText": "When assessing gait, you observe:",
+    "options": [
+      {
+        "text": "Posture, balance, arm swing, stride length, and symmetry",
+        "explanation": "Correct. Comprehensive gait assessment reveals neuro/musculoskeletal abnormalities.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shoe type only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Walking speed only",
+        "explanation": "Incorrect (Partial)."
+      },
+      {
+        "text": "Reflexes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual acuity",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Normal gait = Smooth, symmetric, coordinated. Abnormal patterns → Specific diagnoses.",
+    "pdfPage": 7
+  },
+  {
+    "id": 17,
+    "category": "Clinical Skills: Tandem Gait",
+    "questionText": "Tandem gait (heel-to-toe walking) tests:",
+    "options": [
+      {
+        "text": "Muscle strength",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Balance and cerebellar function",
+        "explanation": "Correct. Narrow base challenges balance. Abnormal in cerebellar disease, intoxication.",
+        "isCorrect": true
+      },
+      {
+        "text": "Visual acuity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Proprioception only",
+        "explanation": "Incorrect (Partial)."
+      },
+      {
+        "text": "Cranial nerves",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tandem gait = Balance test. Difficult with cerebellar disease, alcohol intoxication, vestibular disorders.",
+    "pdfPage": 7
+  },
+  {
+    "id": 18,
+    "category": "Clinical Skills: Romberg Test",
+    "questionText": "The Romberg test is performed by having the patient stand with feet together, first with eyes open, then closed. A POSITIVE Romberg is:",
+    "options": [
+      {
+        "text": "Loss of balance when eyes are CLOSED (sways or falls)",
+        "explanation": "Correct. Positive Romberg = Proprioceptive/dorsal column deficit. Vision compensates when eyes open.",
+        "isCorrect": true
+      },
+      {
+        "text": "Loss of balance with eyes OPEN",
+        "explanation": "Incorrect (Cerebellar, not proprioceptive)."
+      },
+      {
+        "text": "Normal balance with eyes open and closed",
+        "explanation": "Incorrect (Negative Romberg - normal)."
+      },
+      {
+        "text": "Inability to stand at all",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Positive Romberg = Proprioception problem (dorsal column). Falls when eyes closed. Cerebellar = Falls with eyes open too.",
+    "pdfPage": 8
+  },
+  {
+    "id": 19,
+    "category": "Clinical Skills: Deep Tendon Reflexes",
+    "questionText": "Deep tendon reflexes (DTRs) are graded on a 0-4+ scale. 2+ indicates:",
+    "options": [
+      {
+        "text": "Absent reflex",
+        "explanation": "Incorrect (0)."
+      },
+      {
+        "text": "Diminished reflex",
+        "explanation": "Incorrect (1+)."
+      },
+      {
+        "text": "Normal, average reflex",
+        "explanation": "Correct. 2+ = Normal baseline.",
+        "isCorrect": true
+      },
+      {
+        "text": "Brisk, hyperactive reflex",
+        "explanation": "Incorrect (3+)."
+      },
+      {
+        "text": "Hyperactive with clonus",
+        "explanation": "Incorrect (4+)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: 0=absent, 1+=hypo, 2+=normal, 3+=brisk, 4+=hyperactive+clonus. Compare bilaterally.",
+    "pdfPage": 9
+  },
+  {
+    "id": 20,
+    "category": "Clinical Skills: Biceps Reflex",
+    "questionText": "The Biceps reflex tests which nerve root?",
+    "options": [
+      {
+        "text": "C3-C4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "C5-C6",
+        "explanation": "Correct. Biceps = C5-C6. Also tests musculocutaneous nerve.",
+        "isCorrect": true
+      },
+      {
+        "text": "C7-C8",
+        "explanation": "Incorrect (Triceps)."
+      },
+      {
+        "text": "L2-L4",
+        "explanation": "Incorrect (Knee jerk)."
+      },
+      {
+        "text": "S1",
+        "explanation": "Incorrect (Ankle jerk)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Biceps = C5-C6. Triceps = C7-C8. Helps localize cervical radiculopathy.",
+    "pdfPage": 9
+  },
+  {
+    "id": 21,
+    "category": "Clinical Skills: Triceps Reflex",
+    "questionText": "The Triceps reflex tests which nerve root?",
+    "options": [
+      {
+        "text": "C5-C6",
+        "explanation": "Incorrect (Biceps)."
+      },
+      {
+        "text": "C7 (C6-C8)",
+        "explanation": "Correct. Triceps = Primarily C7. Also tests radial nerve.",
+        "isCorrect": true
       },
       {
         "text": "T1",
         "explanation": "Incorrect."
       },
       {
-        "text": "C8",
+        "text": "L4",
         "explanation": "Incorrect."
       },
       {
-        "text": "C2",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Shoulder Abduction = C5 (mostly).",
-    "pdfPage": 15
-  },
-  {
-    "id": 30,
-    "category": "Gait",
-    "questionText": "Hip Abductors (Gluteus Medius/Minimus) are innervated by L4/L5/S1. Weakness here results in:",
-    "options": [
-      {
-        "text": "Trendelenburg Gait (Pelvic drop on opposite side)",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Steppage Gait",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Scissoring Gait",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Festinating Gait",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ataxic Gait",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Weak hip abductors = Dropping the other hip.",
-    "pdfPage": 20
-  },
-  {
-    "id": 31,
-    "category": "Inspection",
-    "questionText": "Atrophy of the Hypothenar eminence (palm) suggests damage to the:",
-    "options": [
-      {
-        "text": "Median Nerve",
-        "explanation": "Incorrect. Thenar atrophy.",
-        "isCorrect": false
-      },
-      {
-        "text": "Ulnar Nerve",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Radial Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Axillary Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Musculocutaneous Nerve",
+        "text": "S1",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Thenar = Median, Hypothenar = Ulnar.",
+    "clinicalPearl": "Key takeaway: Triceps = C7. Diminished in C7 radiculopathy.",
+    "pdfPage": 9
+  },
+  {
+    "id": 22,
+    "category": "Clinical Skills: Patellar Reflex",
+    "questionText": "The patellar (knee jerk) reflex tests which nerve root?",
+    "options": [
+      {
+        "text": "L1-L2",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "L2-L4 (primarily L4)",
+        "explanation": "Correct. Patellar = L2-L4. Also tests femoral nerve.",
+        "isCorrect": true
+      },
+      {
+        "text": "L5-S1",
+        "explanation": "Incorrect (Ankle jerk)."
+      },
+      {
+        "text": "S2-S4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "C5-C6",
+        "explanation": "Incorrect (Upper extremity)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Patellar = L2-L4 (mainly L4). Diminished in lumbar radiculopathy.",
+    "pdfPage": 9
+  },
+  {
+    "id": 23,
+    "category": "Clinical Skills: Achilles Reflex",
+    "questionText": "The Achilles (ankle jerk) reflex tests which nerve root?",
+    "options": [
+      {
+        "text": "L2-L4",
+        "explanation": "Incorrect (Patellar)."
+      },
+      {
+        "text": "L5",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "S1 (L5-S2)",
+        "explanation": "Correct. Achilles = Primarily S1. Also tests tibial nerve.",
+        "isCorrect": true
+      },
+      {
+        "text": "S3-S4",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "C7-C8",
+        "explanation": "Incorrect (Upper extremity)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Achilles = S1. Diminished in sciatica (S1 radiculopathy).",
+    "pdfPage": 9
+  },
+  {
+    "id": 24,
+    "category": "Clinical Correlation: Hyperreflexia",
+    "questionText": "A patient post-stroke has 4+ reflexes (hyperreflex with clonus) on the right side. This indicates:",
+    "options": [
+      {
+        "text": "Lower motor neuron lesion",
+        "explanation": "Incorrect (Would cause hyporeflexia)."
+      },
+      {
+        "text": "Upper motor neuron lesion affecting the left motor cortex",
+        "explanation": "Correct. Left cortex stroke → Right-sided UMN signs (hyperreflexia, spasticity, Babinski+).",
+        "isCorrect": true
+      },
+      {
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal finding",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hyperreflexia + Clonus = UMN lesion. Contralateral to cortex stroke.",
+    "pdfPage": 3
+  },
+  {
+    "id": 25,
+    "category": "Clinical Correlation: Areflexia",
+    "questionText": "A patient with Guillain-Barré Syndrome would likely present with:",
+    "options": [
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect (UMN)."
+      },
+      {
+        "text": "Areflexia or hyporeflexia (absent or diminished reflexes)",
+        "explanation": "Correct. GBS = Peripheral nerve demyelination → LMN signs (areflexia, flaccid paralysis).",
+        "isCorrect": true
+      },
+      {
+        "text": "Normal reflexes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Positive Babinski",
+        "explanation": "Incorrect (UMN)."
+      },
+      {
+        "text": "Spasticity",
+        "explanation": "Incorrect (UMN)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Guillain-Barré = Ascending peripheral neuropathy. LMN signs: areflexia, flaccid paralysis.",
+    "pdfPage": 3
+  },
+  {
+    "id": 26,
+    "category": "Clinical Skills: Pronator Drift",
+    "questionText": "Pronator drift is tested by having the patient hold arms outstretched with eyes closed. A positive test shows:",
+    "options": [
+      {
+        "text": "Both arms drift downward equally",
+        "explanation": "Incorrect (Fatigue, not pathologic)."
+      },
+      {
+        "text": "One arm pronates and drifts downward",
+        "explanation": "Correct. Subtle UMN weakness. Contralateral to lesion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Both arms remain stable",
+        "explanation": "Incorrect (Normal)."
+      },
+      {
+        "text": "Tremor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect (Different test)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pronator drift = Subtle UMN weakness. Weak arm pronates and drifts down.",
+    "pdfPage": 5
+  },
+  {
+    "id": 27,
+    "category": "Clinical Correlation: Ataxic Gait",
+    "questionText": "A wide-based, staggering, uncoordinated 'drunken' gait suggests:",
+    "options": [
+      {
+        "text": "UMN lesion",
+        "explanation": "Incorrect (Spastic gait)."
+      },
+      {
+        "text": "LMN lesion",
+        "explanation": "Incorrect (Steppage gait, foot drop)."
+      },
+      {
+        "text": "Cerebellar dysfunction",
+        "explanation": "Correct. Ataxic gait = Cerebellar or alcohol intoxication.",
+        "isCorrect": true
+      },
+      {
+        "text": "Parkinson's Disease",
+        "explanation": "Incorrect (Shuffling, festinating gait)."
+      },
+      {
+        "text": "Normal finding",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Ataxic gait (wide-based, unsteady) = Cerebellar lesion or alcohol intoxication.",
+    "pdfPage": 7
+  },
+  {
+    "id": 28,
+    "category": "Clinical Correlation: Spastic Gait",
+    "questionText": "A patient post-stroke walks with a stiff leg that circumducts (swings out in arc). This is called:",
+    "options": [
+      {
+        "text": "Ataxic gait",
+        "explanation": "Incorrect (Cerebellar)."
+      },
+      {
+        "text": "Spastic (hemiplegic) gait",
+        "explanation": "Correct. UMN lesion → Spasticity → Leg stiff, circumducts.",
+        "isCorrect": true
+      },
+      {
+        "text": "Steppage gait",
+        "explanation": "Incorrect (Foot drop - LMN)."
+      },
+      {
+        "text": "Parkinsonian gait",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Trendelenburg gait",
+        "explanation": "Incorrect (Hip abductor weakness)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spastic gait = UMN (stroke). Leg stiff, circumducts, 'drags' the foot.",
+    "pdfPage": 7
+  },
+  {
+    "id": 29,
+    "category": "Clinical Correlation: Steppage Gait",
+    "questionText": "A patient lifts their knee high and slaps the foot down due to foot drop. This is:",
+    "options": [
+      {
+        "text": "Spastic gait",
+        "explanation": "Incorrect (UMN)."
+      },
+      {
+        "text": "Steppage gait (foot drop)",
+        "explanation": "Correct. LMN lesion (peroneal nerve, L5 root) → Can't dorsiflex foot.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ataxic gait",
+        "explanation": "Incorrect (Cerebellar)."
+      },
+      {
+        "text": "Parkinsonian gait",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Scissoring gait",
+        "explanation": "Incorrect (Cerebral palsy)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Steppage gait = Foot drop. LMN (peroneal nerve, L5 root). High knee lift to clear foot.",
+    "pdfPage": 7
+  },
+  {
+    "id": 30,
+    "category": "Clinical Correlation: Parkinsonian Gait",
+    "questionText": "A shuffling gait with short steps, stooped posture, and reduced arm swing suggests:",
+    "options": [
+      {
+        "text": "Cerebellar disease",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "UMN lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "LMN lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parkinson's Disease (extrapyramidal - basal ganglia dysfunction)",
+        "explanation": "Correct. Parkinsonian gait = Shuffling, festinating, reduced arm swing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Normal aging",
+        "explanation": "Incorrect (Can be similar, but Parkinson's is pathologic)."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Parkinsonian gait = Shuffling, stooped, 'festinating' (speed up to catch self). Basal ganglia.",
+    "pdfPage": 7
+  },
+  {
+    "id": 31,
+    "category": "Clinical Skills: Documentation",
+    "questionText": "In documenting a normal motor exam, you would write:",
+    "options": [
+      {
+        "text": "'Patient can move arms and legs'",
+        "explanation": "Incorrect (Too vague)."
+      },
+      {
+        "text": "'Motor: 5/5 strength all extremities, normal tone, no atrophy or fasciculations. DTRs 2+ and symmetric bilaterally. Plantar reflexes flexor bilaterally.'",
+        "explanation": "Correct. Comprehensive, concise documentation of normal motor exam.",
+        "isCorrect": true
+      },
+      {
+        "text": "'Motor exam deferred'",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "'Strength good'",
+        "explanation": "Incorrect (Too vague)."
+      },
+      {
+        "text": "'No motor deficits noted'",
+        "explanation": "Incorrect (Less complete)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Document strength (0-5), tone, atrophy, fasciculations, DTRs (0-4+), plantar reflex, gait.",
     "pdfPage": 10
   },
   {
     "id": 32,
-    "category": "Reflex Technique",
-    "questionText": "When testing the Biceps reflex, the examiner should:",
+    "category": "Clinical Skills: Intention Tremor",
+    "questionText": "An intention tremor (worse with goal-directed movement, improves at rest) suggests:",
     "options": [
       {
-        "text": "Strike the muscle belly directly",
-        "explanation": "Incorrect."
+        "text": "Parkinson's Disease",
+        "explanation": "Incorrect (Resting tremor)."
       },
       {
-        "text": "Place their thumb on the biceps tendon and strike their thumb",
-        "explanation": "Correct. Protects the patient and feels the contraction.",
+        "text": "Cerebellar dysfunction",
+        "explanation": "Correct. Intention tremor = Cerebellar. Seen during finger-to-nose test.",
         "isCorrect": true
       },
       {
-        "text": "Have the patient flex their arm tightly",
-        "explanation": "Incorrect. Must be relaxed."
+        "text": "Essential tremor",
+        "explanation": "Incorrect (Action tremor, but not cerebellar)."
       },
       {
-        "text": "Strike the triceps tendon",
+        "text": "Anxiety",
         "explanation": "Incorrect."
       },
       {
-        "text": "Use the sharp end of the hammer",
-        "explanation": "Incorrect."
+        "text": "Hyperthyroidism",
+        "explanation": "Incorrect (Fine tremor)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Use your thumb for the Biceps.",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: Resting tremor = Parkinson's. Intention tremor = Cerebellar. Action tremor = Essential tremor.",
+    "pdfPage": 6
   },
   {
     "id": 33,
-    "category": "Reflex",
-    "questionText": "The presence of a 'Cutaneous Reflex' like the Abdominal Reflex is:",
+    "category": "Clinical Skills: Fasciculations",
+    "questionText": "Fasciculations are:",
     "options": [
       {
-        "text": "Normal",
-        "explanation": "Correct. Absence can indicate a UMN lesion.",
+        "text": "Involuntary muscle twitches visible under the skin",
+        "explanation": "Correct. LMN sign. Irritated/dying motor neurons fire spontaneously.",
         "isCorrect": true
       },
       {
-        "text": "Pathological",
+        "text": "Increased deep tendon reflexes",
+        "explanation": "Incorrect (Hyperreflexia - UMN)."
+      },
+      {
+        "text": "Intention tremor",
+        "explanation": "Incorrect (Cerebellar)."
+      },
+      {
+        "text": "Muscle rigidity",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only seen in infants",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A sign of LMN lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Never tested",
-        "explanation": "Incorrect."
+        "text": "Normal finding",
+        "explanation": "Incorrect (Usually pathologic, though benign fasciculations can occur)."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Superficial reflexes (Abd, Cremasteric) disappear in UMN lesions.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Fasciculations = Muscle twitches (visible). LMN sign. Seen in ALS, radiculopathy.",
+    "pdfPage": 3
   },
   {
     "id": 34,
-    "category": "Motor Strength",
-    "questionText": "To test Grip Strength, the examiner should:",
+    "category": "Clinical Correlation: Comprehensive Exam",
+    "questionText": "A comprehensive motor exam should include assessment of:",
     "options": [
       {
-        "text": "Offer one finger only",
-        "explanation": "Incorrect. Might hurt you."
-      },
-      {
-        "text": "Offer index and middle fingers crossed",
-        "explanation": "Correct. Prevents pain/injury to the examiner.",
+        "text": "Strength, tone, coordination, gait, and reflexes",
+        "explanation": "Correct. Complete motor assessment covers all motor systems.",
         "isCorrect": true
       },
       {
-        "text": "Use a dynamometer always",
-        "explanation": "Incorrect."
+        "text": "Strength only",
+        "explanation": "Incorrect (Incomplete)."
       },
       {
-        "text": "Have patient squeeze the wrist",
-        "explanation": "Incorrect."
+        "text": "Reflexes only",
+        "explanation": "Incorrect (Incomplete)."
       },
       {
-        "text": "Not test it",
-        "explanation": "Incorrect."
+        "text": "Gait only",
+        "explanation": "Incorrect (Incomplete)."
+      },
+      {
+        "text": "Cranial nerves",
+        "explanation": "Incorrect (Separate exam component)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cross your fingers for grip strength.",
-    "pdfPage": 17
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Motor exam = Strength + Tone + Coordination + Gait + Reflexes. Systematic assessment.",
+    "pdfPage": 1
   },
   {
     "id": 35,
-    "category": "Gait",
-    "questionText": "Walking on Toes primarily tests the strength of:",
+    "category": "Clinical Skills: HPI Importance",
+    "questionText": "According to the lecture, a detailed HPI (History of Present Illness) provides approximately what percentage of the diagnosis?",
     "options": [
       {
-        "text": "Tibialis Anterior (L4/5)",
+        "text": "50-60%",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gastrocnemius/Soleus (S1)",
-        "explanation": "Correct. Plantarflexion.",
+        "text": "70-80%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "90-95%",
+        "explanation": "Correct. Thorough history is the most powerful diagnostic tool.",
         "isCorrect": true
       },
       {
-        "text": "Quadriceps (L3/4)",
+        "text": "100%",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hamstrings (L5/S1)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": " Gluteus Maximus (S1)",
+        "text": "30-40%",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Toe walk = S1 check.",
-    "pdfPage": 27
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: HPI gives 90-95% of diagnosis. Physical exam confirms. History is KEY.",
+    "pdfPage": 1
   }
 ];

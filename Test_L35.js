@@ -1,142 +1,78 @@
 window.Test_L35 = [
   {
     "id": 1,
-    "category": "CN I",
-    "questionText": "Olfactory afferents (first-order neurons) pass through which bony structure to reach the olfactory bulb?",
+    "category": "Neuroanatomy: CN I",
+    "questionText": "The Olfactory Nerve (CN I) is unique among sensory systems because:",
     "options": [
       {
-        "text": "Superior Orbital Fissure",
-        "explanation": "Incorrect. CN III, IV, VI, V1 pass here."
+        "text": "It decussates completely",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cribriform Plate of the Ethmoid Bone",
-        "explanation": "Correct. The axons pass through the small holes (foramina) in this plate.",
+        "text": "It projects directly to the cortex (Piriform/Paleocortex) without relaying through the Thalamus first",
+        "explanation": "Correct. It is an ancient system that bypasses the thalamic gateway.",
         "isCorrect": true
       },
       {
-        "text": "Optic Canal",
-        "explanation": "Incorrect. CN II."
+        "text": "It has no cortical representation",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Jugular Foramen",
-        "explanation": "Incorrect. CN IX, X, XI."
+        "text": "It originates in the brainstem",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Stylomastoid Foramen",
-        "explanation": "Incorrect. CN VII."
+        "text": "It carries motor fibers",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cribriform plate fracture -> Anosmia.",
-    "pdfPage": 2
+    "clinicalPearl": "Key takeaway: Smell is the only sense that skips the Thalamus line.",
+    "pdfPage": 4
   },
   {
     "id": 2,
-    "category": "CN I",
-    "questionText": "Unique to the Olfactory system, sensory information can reach the cerebral cortex (Piriform cortex) without passing through the:",
+    "category": "Clinical Case: Anosmia",
+    "questionText": "A 65-year-old male presents with a complaint of 'food tasting bland'. Testing reveals bilateral anosmia (loss of smell). This finding is a known early prodromal sign of which neurodegenerative disorder?",
     "options": [
       {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Correct. It is the only sensory modality that bypasses the thalamus to reach the cortex directly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Smell skips the Thalamus.",
-    "pdfPage": 3
-  },
-  {
-    "id": 3,
-    "category": "CN I",
-    "questionText": "An early loss of the sense of smell (Anosmia) is a prodromal sign of which neurodegenerative disease?",
-    "options": [
-      {
-        "text": "Amyotrophic Lateral Sclerosis (ALS)",
-        "explanation": "Incorrect."
+        "text": "Alzheimer's Disease",
+        "explanation": "Incorrect (Though possible, it's the hallmark of Parkinson's early on)."
       },
       {
         "text": "Parkinson's Disease",
-        "explanation": "Correct. Lewy bodies are found early in the Olfactory Bulb.",
+        "explanation": "Correct. Lewy bodies are found in the Olfactory Bulb very early in the disease process.",
         "isCorrect": true
+      },
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect."
       },
       {
         "text": "Huntington's Disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect. Visual issues are more common.",
-        "isCorrect": false
-      },
-      {
-        "text": "Myasthenia Gravis",
+        "text": "ALS",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hyposmia = Early Parkinson's sign.",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: Can't smell? Check for tremor/rigidity (Parkinson's).",
+    "pdfPage": 9
   },
   {
-    "id": 4,
-    "category": "CN II",
-    "questionText": "The Optic Nerve (CN II) is composed of axons from:",
+    "id": 3,
+    "category": "Neuroanatomy: CN II Targets",
+    "questionText": "Axons in the Optic Tract project to the Lateral Geniculate Nucleus (LGN) for conscious vision. They also send collateral fibers to which midbrain structure to coordinate saccadic eye movements and orientation reflexes?",
     "options": [
       {
-        "text": "Photoreceptors (Rods and Cones)",
-        "explanation": "Incorrect."
+        "text": "Inferior Colliculus",
+        "explanation": "Incorrect (Auditory)."
       },
-      {
-        "text": "Bipolar Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Retinal Ganglion Cells",
-        "explanation": "Correct. These form the optic nerve.",
-        "isCorrect": true
-      },
-      {
-        "text": "LGN neurons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual Cortex neurons",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Optic Nerve = Ganglion Cell Axons.",
-    "pdfPage": 6
-  },
-  {
-    "id": 5,
-    "category": "Reflex",
-    "questionText": "The Pupillary Light Reflex involves the Optic Nerve projecting to which midbrain nucleus?",
-    "options": [
       {
         "text": "Superior Colliculus",
-        "explanation": "Incorrect. Involved in saccades/orientation.",
-        "isCorrect": false
-      },
-      {
-        "text": "Pretectal Area (Pretectal Nucleus)",
-        "explanation": "Correct. It then projects bilaterally to Edinger-Westphal nuclei.",
+        "explanation": "Correct. The 'Visual Reflex Center'.",
         "isCorrect": true
       },
       {
@@ -148,173 +84,172 @@ window.Test_L35 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "LGN",
-        "explanation": "Incorrect. For conscious vision.",
-        "isCorrect": false
+        "text": "Periaqueductal Gray",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Light reflex = Pretectal Area.",
-    "pdfPage": 7
-  },
-  {
-    "id": 6,
-    "category": "CN III",
-    "questionText": "The Oculomotor Nucleus is located in the:",
-    "options": [
-      {
-        "text": "Medulla",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Midbrain (Rostral)",
-        "explanation": "Correct. At the level of Superior Colliculus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: CN III = Midbrain.",
+    "clinicalPearl": "Key takeaway: Superior Colliculus = Eyes (Visual). Inferior Colliculus = Ears (Auditory).",
     "pdfPage": 11
   },
   {
-    "id": 7,
-    "category": "CN III",
-    "questionText": "The Edinger-Westphal nucleus provides parasympathetic innervation to:",
+    "id": 4,
+    "category": "Clinical Case: CN III Palsy",
+    "questionText": "A patient presents with a 'blown' (dilated) pupil on the right side and the eye is deviated 'Down and Out'. The eyelid is droopy (ptosis). This constellation of signs suggests a lesion of:",
     "options": [
       {
-        "text": "The Lacrimal Gland",
-        "explanation": "Incorrect. CN VII."
+        "text": "Right CN VI (Abducens)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The Sphincter Pupillae (Pupil constriction) and Ciliary Muscle (Accommodation)",
-        "explanation": "Correct. Synapses in the Ciliary Ganglion.",
+        "text": "Right CN III (Oculomotor)",
+        "explanation": "Correct. Unopposed SO (Down) and LR (Out) + Levator paralysis (Ptosis) + Parasympathetic loss (Mydriasis).",
         "isCorrect": true
       },
       {
-        "text": "The Dilator Pupillae",
-        "explanation": "Incorrect. Sympathetic."
+        "text": "Right CN IV (Trochlear)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The Lateral Rectus",
-        "explanation": "Incorrect. CN VI."
+        "text": "Right Horner's Syndrome",
+        "explanation": "Incorrect (Pupil would be constricted/miotic). "
       },
       {
-        "text": "The Tarsal Muscle",
-        "explanation": "Incorrect. Sympathetic."
+        "text": "Left CN III",
+        "explanation": "Incorrect (Signs are ipsilateral to nerve lesion)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Edinger-Westphal = Constriction/Accommodation.",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: CN III Palsy = Down, Out, Droopy, & Dilated.",
+    "pdfPage": 34
   },
   {
-    "id": 8,
-    "category": "CN III",
-    "questionText": "Which muscle is innervated by the Contralateral Oculomotor Nucleus?",
+    "id": 5,
+    "category": "Neuroanatomy: Edinger-Westphal",
+    "questionText": "The Edinger-Westphal nucleus provides parasympathetic pre-ganglionic fibers that travel with CN III to synapse in the:",
     "options": [
       {
-        "text": "Medial Rectus",
-        "explanation": "Incorrect. Ipsilateral."
+        "text": "Pterygopalatine Ganglion",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Rectus",
-        "explanation": "Incorrect. Ipsilateral."
-      },
-      {
-        "text": "Superior Rectus",
-        "explanation": "Correct. Fibers cross within the complex.",
+        "text": "Ciliary Ganglion",
+        "explanation": "Correct. Post-ganglionics then constrict pupil and accommodate lens.",
         "isCorrect": true
       },
       {
-        "text": "Inferior Oblique",
-        "explanation": "Incorrect. Ipsilateral."
+        "text": "Otic Ganglion",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Lateral Rectus",
-        "explanation": "Incorrect. CN VI."
+        "text": "Submandibular Ganglion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Superior Cervical Ganglion",
+        "explanation": "Incorrect (Sympathetic)."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Superior Rectus = Contralateral innervation.",
-    "pdfPage": 15
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: EW Nucleus -> Ciliary Ganglion -> Sphincter Pupillae.",
+    "pdfPage": 25
   },
   {
-    "id": 9,
-    "category": "CN IV",
-    "questionText": "The Trochlear Nerve (CN IV) is unique because:",
+    "id": 6,
+    "category": "Neuroanatomy: CN IV Unique",
+    "questionText": "The Trochlear Nerve (CN IV) is unique among cranial nerves because:",
     "options": [
       {
         "text": "It is the largest cranial nerve",
-        "explanation": "Incorrect. Trigeminal is largest."
+        "explanation": "Incorrect."
       },
       {
-        "text": "It is the only cranial nerve to exit from the Dorsal aspect of the brainstem",
-        "explanation": "Correct. Also decussates completely.",
+        "text": "It exits the brainstem dorsally",
+        "explanation": "Correct. It is the ONLY one to exit from the back (dorsal aspect).",
         "isCorrect": true
       },
       {
-        "text": "It has no motor function",
+        "text": "It is purely sensory",
         "explanation": "Incorrect."
       },
       {
-        "text": "It carries parasympathetic fibers",
+        "text": "It innervates the tongue",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is unmyelinated",
+        "text": "It does not decussate",
+        "explanation": "Incorrect (It DOES decussate). "
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN IV is the 'Back Door' nerve.",
+    "pdfPage": 47
+  },
+  {
+    "id": 7,
+    "category": "Clinical Case: Vertical Diplopia",
+    "questionText": "A patient complains of double vision (diplopia) specifically when walking down stairs. He is observed tilting his head away from the affected eye. This clinical picture is classic for:",
+    "options": [
+      {
+        "text": "CN VI Palsy",
+        "explanation": "Incorrect (Horizontal diplopia)."
+      },
+      {
+        "text": "CN IV (Trochlear) Palsy",
+        "explanation": "Correct. The Superior Oblique depresses the adducted eye (looking down steps). Loss causes vertical drift. Head tilt compensates for torsion.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN III Palsy",
+        "explanation": "Incorrect (More severe, ptosis)."
+      },
+      {
+        "text": "Internuclear Ophthalmoplegia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Neuritis",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN IV = Dorsal Exit + Crossed.",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: Trouble with stairs + Head Tit = CN IV issue (Superior Oblique).",
+    "pdfPage": 52
   },
   {
-    "id": 10,
-    "category": "CN IV",
-    "questionText": "The Trochlear Nerve innervates which muscle?",
+    "id": 8,
+    "category": "Neuroanatomy: Trochlear Decussation",
+    "questionText": "The Trochlear Nucleus is located in the midbrain. Its axons decussate:",
     "options": [
       {
-        "text": "Superior Rectus",
-        "explanation": "Incorrect. CN III."
+        "text": "After exiting the brainstem",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Oblique",
-        "explanation": "Incorrect. CN III."
-      },
-      {
-        "text": "Superior Oblique",
-        "explanation": "Correct. SO4 (Superior Oblique - 4th nerve).",
+        "text": "Within the brainstem (parenchyma) before exiting",
+        "explanation": "Correct. The left nucleus innervates the right Superior Oblique.",
         "isCorrect": true
       },
       {
-        "text": "Lateral Rectus",
-        "explanation": "Incorrect. LR6."
+        "text": "In the orbit",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Medial Rectus",
-        "explanation": "Incorrect. MR3."
+        "text": "At the optic chiasm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It does not decussate",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Formula: LR6 SO4 R3.",
-    "pdfPage": 29
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN IV fibers cross BEFORE they leave the brain.",
+    "pdfPage": 45
   },
   {
-    "id": 11,
-    "category": "CN VI",
+    "id": 9,
+    "category": "Neuroanatomy: CN VI",
     "questionText": "The Abducens Nucleus is located in the:",
     "options": [
       {
@@ -322,8 +257,8 @@ window.Test_L35 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Pons (Tegmentum)",
-        "explanation": "Correct. Near the floor of the 4th ventricle.",
+        "text": "Pons",
+        "explanation": "Correct. In the dorsal pons (Tegmentum), wrapped by Facial nerve fibers (Facial Colliculus).",
         "isCorrect": true
       },
       {
@@ -331,191 +266,34 @@ window.Test_L35 = [
         "explanation": "Incorrect."
       },
       {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
         "text": "Spinal Cord",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Diencephalon",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN VI = Pons.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: CN III/IV = Midbrain. CN VI = Pons.",
+    "pdfPage": 54
   },
   {
-    "id": 12,
-    "category": "Palsy",
-    "questionText": "A patient presents with Ptosis, 'Down and Out' eye deviation, and a fixed dilated pupil. This suggests:",
+    "id": 10,
+    "category": "Clinical Case: Horizontal Diplopia",
+    "questionText": "A lesion of the Right Abducens Nerve (CN VI) results in:",
     "options": [
       {
-        "text": "CN VI Palsy",
-        "explanation": "Incorrect. Inward deviation."
+        "text": "Inability to look Up",
+        "explanation": "Incorrect."
       },
       {
-        "text": "CN IV Palsy",
-        "explanation": "Incorrect. Vertical diplopia."
-      },
-      {
-        "text": "CN III Palsy (complete)",
-        "explanation": "Correct. Loss of levator (ptosis), unopposed LR/SO (down/out), loss of parasympathetics (mydriasis).",
+        "text": "Inability to Abduct the Right Eye",
+        "explanation": "Correct. The Lateral Rectus is paralyzed. The eye may rest in adduction (Esotropia).",
         "isCorrect": true
       },
       {
-        "text": "Horner's Syndrome",
-        "explanation": "Incorrect. Ptosis + Miosis (constricted pupil).",
-        "isCorrect": false
-      },
-      {
-        "text": "Internuclear Ophthalmoplegia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: CN III Palsy = Down, Out, Droopy, Dilated.",
-    "pdfPage": 19
-  },
-  {
-    "id": 13,
-    "category": "Palsy",
-    "questionText": "A patient complains of vertical diplopia, especially when looking down (like reading or going down stairs). They tilt their head to the side opposite the affected eye. This is classic for:",
-    "options": [
-      {
-        "text": "CN VI Palsy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN IV (Trochlear) Palsy",
-        "explanation": "Correct. The Superior Oblique depresses the adducted eye. Head tilt compensates for torsion.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN III Palsy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Optic Neuritis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Retinal Detachment",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vertical diplopia + Stairs + Head tilt = Aberrant CN IV.",
-    "pdfPage": 33
-  },
-  {
-    "id": 14,
-    "category": "Gaze Control",
-    "questionText": "To look to the LEFT, the Left PPRF activates the Left Abducens Nucleus. This nucleus then sends signals to:",
-    "options": [
-      {
-        "text": "Left Lateral Rectus only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Medial Rectus and Right Lateral Rectus",
-        "explanation": "Incorrect. Backwards."
-      },
-      {
-        "text": "Left Lateral Rectus (via CN VI) and Right Medial Rectus (via MLF to CN III)",
-        "explanation": "Correct. Conjugate Horizontal Gaze.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Superior Oblique",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Lateral Rectus only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Abducens nucleus coordinates Conjugate Gaze.",
-    "pdfPage": 42
-  },
-  {
-    "id": 15,
-    "category": "INO",
-    "questionText": "Internuclear Ophthalmoplegia (INO) is caused by a lesion of the:",
-    "options": [
-      {
-        "text": "Optic Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medial Longitudinal Fasciculus (MLF)",
-        "explanation": "Correct. Disrupts signal from Abducens to contralateral Oculomotor.",
-        "isCorrect": true
-      },
-      {
-        "text": "PPRF",
-        "explanation": "Incorrect. Causes ipsilateral gaze palsy.",
-        "isCorrect": false
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellar Peduncle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: INO = Lesion of MLF.",
-    "pdfPage": 45
-  },
-  {
-    "id": 16,
-    "category": "INO",
-    "questionText": "In a Right INO (Right MLF lesion), when the patient attempts to look to the Left:",
-    "options": [
-      {
-        "text": "Both eyes look Left normally",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neither eye moves",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Right Eye fails to adduct, and the Left Eye (abducting) has nystagmus",
-        "explanation": "Correct. Adduction deficit in the eye ipsilateral to the MLF lesion side.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Right Eye fails to abduct",
-        "explanation": "Incorrect. That's CN VI palsy."
-      },
-      {
-        "text": "Both eyes deviate Right",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: INO = Adduction lag + Abduction nystagmus.",
-    "pdfPage": 45
-  },
-  {
-    "id": 17,
-    "category": "Palsy",
-    "questionText": "A CN VI Palsy results in:",
-    "options": [
-      {
-        "text": "Exotropia (Outward deviation)",
-        "explanation": "Incorrect. That's CN III palsy."
-      },
-      {
-        "text": "Esotropia (Inward deviation) and inability to abduct the affected eye",
-        "explanation": "Correct. Medial Rectus is unopposed.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vertical Diplopia",
+        "text": "Inability to Adduct the Right Eye",
         "explanation": "Incorrect."
       },
       {
@@ -523,22 +301,208 @@ window.Test_L35 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Dilated Pupil",
+        "text": "Dilated pupil",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN VI Palsy = Can't look out (Abduct).",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: CN VI = Abducts (Lateral Rectus).",
+    "pdfPage": 78
   },
   {
-    "id": 18,
-    "category": "Anisocoria",
-    "questionText": "Anisocoria refers to:",
+    "id": 11,
+    "category": "Neuroanatomy: MLF",
+    "questionText": "The Medial Longitudinal Fasciculus (MLF) connects which two nuclei to coordinate horizontal gaze?",
     "options": [
       {
-        "text": "Unequal eyelid opening",
-        "explanation": "Incorrect. Ptosis."
+        "text": "Abducens (VI) and Trochlear (IV)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Abducens (VI) and Contralateral Oculomotor (III)",
+        "explanation": "Correct. Connects the 'Look Left' center (Left VI) to the muscle that pulls the Right eye left (Right III, MR).",
+        "isCorrect": true
+      },
+      {
+        "text": "Oculomotor (III) and Trochlear (IV)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular and Cochlear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Facial and Trigeminal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: MLF is the wifi cable syncing the two eyes for horizontal movement.",
+    "pdfPage": 61
+  },
+  {
+    "id": 12,
+    "category": "Clinical Case: INO",
+    "questionText": "A patient with Multiple Sclerosis presents with a strange eye movement disorder. When looking to the Left, the Left eye abducts (with nystagmus), but the Right eye stays midline (fails to adduct). Convergence is preserved. The lesion is in the:",
+    "options": [
+      {
+        "text": "Left Abducens Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Correct. The signal from Left VI cannot reach Right III (MR). This is Internuclear Ophthalmoplegia (INO). Right eye adduction failure = Right MLF lesion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Oculomotor Nerve",
+        "explanation": "Incorrect (Convergence would be lost if the nerve/MR muscle were dead). Preserved convergence proves MR is working, just the signal from VI is cut."
+      },
+      {
+        "text": "Left PPRF",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: INO = Adduction Deficit + Nystagmus of abducting eye. Lesion is on the side of the Adduction failure (MLF).",
+    "pdfPage": 76
+  },
+  {
+    "id": 13,
+    "category": "Neuroanatomy: Gaze Center",
+    "questionText": "A lesion of the Abducens Nucleus (not just the nerve) causes:",
+    "options": [
+      {
+        "text": "Just ipsilateral abduction failure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral Gaze Palsy",
+        "explanation": "Correct. Neither eye can look to the side of the lesion because the nucleus contains both Motor neurons (for LR) and Interneurons (for contralateral MR via MLF). Ideally disables both.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vertical Gaze Palsy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Total blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ptosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Abducens Nucleus = The General. Kill the general, the whole army (Both eyes) can't look that way.",
+    "pdfPage": 77
+  },
+  {
+    "id": 14,
+    "category": "Clinical Case: One and a Half",
+    "questionText": "The 'One and a Half Syndrome' is caused by a large lesion involving:",
+    "options": [
+      {
+        "text": "Both Optic Nerves",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "PPRF/Abducens Nucleus AND the ipsilateral MLF",
+        "explanation": "Correct. Gaze palsy to one side (1) + INO on the other half (.5). Only movement remaining is Abduction of the contralateral eye.",
+        "isCorrect": true
+      },
+      {
+        "text": "Both Oculomotor nerves",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 1.5 Syndrome = Large Pontine Lesion. Bad news.",
+    "pdfPage": 78
+  },
+  {
+    "id": 15,
+    "category": "Neuroanatomy: CN III Nucleus",
+    "questionText": "Within the Oculomotor Nuclear Complex, the Superior Rectus is innervated by:",
+    "options": [
+      {
+        "text": "The Ipsilateral Subnucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Contralateral Subnucleus",
+        "explanation": "Correct. Just to be tricky, SR fibers cross. (All other CN III muscles are ipsilateral).",
+        "isCorrect": true
+      },
+      {
+        "text": "The Edinger Westphal Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Trochlear Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN III is mostly ipsilateral, EXCEPT Superior Rectus (Contra).",
+    "pdfPage": 29
+  },
+  {
+    "id": 16,
+    "category": "Neuroanatomy: Pupillary Reflex",
+    "questionText": "Shining light in the Left eye causes both pupils to constrict. The afferent limb of this reflex is carried by ______ and the efferent limb by ______.",
+    "options": [
+      {
+        "text": "CN II; CN III",
+        "explanation": "Correct. Optic Nerve (II) senses light -> Pretectum -> EW Nuclei -> Oculomotor Nerve (III) constricts pupils.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN III; CN II",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN V; CN VII",
+        "explanation": "Incorrect (Corneal reflex)."
+      },
+      {
+        "text": "CN II; CN VI",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN II; Sympathetics",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Light Reflex: II in, III out.",
+    "pdfPage": 11
+  },
+  {
+    "id": 17,
+    "category": "Neuroanatomy: Anisocoria",
+    "questionText": "Anisocoria means:",
+    "options": [
+      {
+        "text": "Double vision",
+        "explanation": "Incorrect (Diplopia)."
       },
       {
         "text": "Unequal pupil size",
@@ -546,261 +510,445 @@ window.Test_L35 = [
         "isCorrect": true
       },
       {
-        "text": "Blindness in half the field",
-        "explanation": "Incorrect. Hemianopia."
+        "text": "Drooping eyelid",
+        "explanation": "Incorrect (Ptosis)."
       },
       {
-        "text": "Double vision",
-        "explanation": "Incorrect. Diplopia."
+        "text": "Loss of vision",
+        "explanation": "Incorrect (Anopsia)."
       },
       {
-        "text": "Loss of color vision",
+        "text": "Dancing eyes",
+        "explanation": "Incorrect (Nystagmus)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Aniso = Unequal. Coria = Pupil.",
+    "pdfPage": 35
+  },
+  {
+    "id": 18,
+    "category": "Clinical Case: Oculomotor Compression",
+    "questionText": "Parasympathetic fibers in CN III run on the superficial (outer) aspect of the nerve. This makes them particularly susceptible to:",
+    "options": [
+      {
+        "text": "Ischemic injury (Diabetes)",
+        "explanation": "Incorrect (Diabetes affects the center/vasa nervorum, often sparing the pupil)."
+      },
+      {
+        "text": "Compressive injury (e.g., Aneurysm, Uncal Herniation)",
+        "explanation": "Correct. Compression presses the outside first. A 'surgical third' presents with pupil dilation early.",
+        "isCorrect": true
+      },
+      {
+        "text": "Viral infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vitamin deficiency",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Toxic injury",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anisocoria = Unequal Pupils.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Blown pupil in CN III palsy = Compression (Aneurysm/Herniation) until proven otherwise. Emergency.",
+    "pdfPage": 35
   },
   {
     "id": 19,
-    "category": "Reflex",
-    "questionText": "If light is shined in the Left Eye and the Left pupil constricts but the Right pupil does NOT convertly constrict, the lesion is likely in the:",
+    "category": "Neuroanatomy: Accommodation",
+    "questionText": "The Accommodation Reflex involves three simultaneous events to focus on a near object:",
     "options": [
       {
-        "text": "Left CN II (Optic Nerve)",
-        "explanation": "Incorrect. Then neither would constrict."
-      },
-      {
-        "text": "Right CN II (Optic Nerve)",
-        "explanation": "Incorrect. Light is in the Left eye."
-      },
-      {
-        "text": "Right CN III (Oculomotor efferent to iris)",
-        "explanation": "Correct. The signal reached the midbrain (Left responded), but the Right eye couldn't execute the command.",
+        "text": "Convergence, Lens Thickening, Miosis (Constriction)",
+        "explanation": "Correct. Medial Recti pull in, Ciliary muscle contracts (lens rounds up), Pupil constricts (depth of field).",
         "isCorrect": true
       },
       {
-        "text": "Left CN III",
-        "explanation": "Incorrect. Left constricted."
+        "text": "Divergence, Lens Flattening, Mydriasis",
+        "explanation": "Incorrect (Far vision)."
       },
       {
-        "text": "Optic Chiasm",
+        "text": "Ptosis, Miosis, Anhydrosis",
+        "explanation": "Incorrect (Horners)."
+      },
+      {
+        "text": "Upward gaze and Blink",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nystagmus and Tearing",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Afferent defect = Neither pupil. Efferent defect = Specific pupil.",
-    "pdfPage": 26
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Near Triad: Converge, Constrict, Convex (Lens).",
+    "pdfPage": 68
   },
   {
     "id": 20,
-    "category": "Gaze Control",
-    "questionText": "The 'One-and-a-Half Syndrome' involves a lesion of the PPRF/Abducens Nucleus AND the:",
+    "category": "Neuroanatomy: Levator Palpebrae",
+    "questionText": "The Levator Palpebrae Superioris is the muscle that elevates the eyelid. It is innervated by:",
     "options": [
       {
-        "text": "Ipsilateral MLF",
-        "explanation": "Correct. Causes ipsilateral gaze palsy (1) + INO on the same side (0.5) -> Only movement left is contralateral abduction.",
+        "text": "CN VII (Orbicularis Oculi)",
+        "explanation": "Incorrect (Closes eye)."
+      },
+      {
+        "text": "CN III (Oculomotor)",
+        "explanation": "Correct. Hence ptosis in CN III palsy.",
         "isCorrect": true
       },
       {
-        "text": "Contralateral MLF",
+        "text": "CN IV",
         "explanation": "Incorrect."
       },
       {
-        "text": "Optic Nerve",
+        "text": "CN VI",
         "explanation": "Incorrect."
       },
       {
-        "text": "Trochlear Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Facial Nerve",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: One-and-a-half syndrome = PPRF + MLF lesion.",
-    "pdfPage": 48
-  },
-  {
-    "id": 21,
-    "category": "Anatomy",
-    "questionText": "The Superior Oblique muscle is innervated by which cranial nerve nucleus?",
-    "options": [
-      {
-        "text": "Ipsilateral Trochlear Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contralateral Trochlear Nucleus",
-        "explanation": "Correct. Axons decussate before exiting.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ipsilateral Oculomotor Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contralateral Oculomotor Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Abducens Nucleus",
-        "explanation": "Incorrect."
+        "text": "Sympathetic fibers only",
+        "explanation": "Incorrect (They innervate the superior tarsal muscle - Muller's - causing mild ptosis, but Levator is the main lifter)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Trochlear nucleus innervates CONTRALATERAL Superior Oblique.",
+    "clinicalPearl": "Key takeaway: CN III opens the eye. CN VII closes the eye.",
     "pdfPage": 29
   },
   {
-    "id": 22,
-    "category": "Action",
-    "questionText": "The primary action of the Lateral Rectus is:",
+    "id": 21,
+    "category": "Neuroanatomy: Extraocular Muscles",
+    "questionText": "The Superior Oblique muscle action is best described as:",
     "options": [
       {
-        "text": "Adduction",
+        "text": "Elevation and Abduction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Abduction (Moving eye outward)",
-        "explanation": "Correct.",
+        "text": "Depression and Intorsion (especially when Adducted)",
+        "explanation": "Correct. Down and In.",
         "isCorrect": true
       },
       {
-        "text": "Elevation",
+        "text": "Abduction only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Depression",
+        "text": "Adduction only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Intorsion",
+        "text": "Elevation and Ex-torsion",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LR = Abduction.",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: Obliques act Opposite (Superior depresses).",
+    "pdfPage": 49
+  },
+  {
+    "id": 22,
+    "category": "Clinical Case: Diplopia Analysis",
+    "questionText": "Diplopia that worsens when looking to the right suggests a problem with:",
+    "options": [
+      {
+        "text": "The Left Lateral Rectus or Right Medial Rectus",
+        "explanation": "Incorrect (Right gaze uses Right LR and Left MR). "
+      },
+      {
+        "text": "The Right Lateral Rectus or Left Medial Rectus",
+        "explanation": "Correct. These are the muscles used to look right.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Superior Oblique",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Levator",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Ciliary muscle",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Diplopia is worst in the direction of the weak muscle action.",
+    "pdfPage": 71
   },
   {
     "id": 23,
-    "category": "Action",
-    "questionText": "To look straight down, which two muscles must work together?",
+    "category": "Neuroanatomy: Pretectal Area",
+    "questionText": "The Pretectal Area is the integration center for which reflex?",
     "options": [
       {
-        "text": "Inferior Rectus and Superior Oblique",
-        "explanation": "Correct. IR depresses (and adducts/extorts). SO depresses (and abducts/intorts). Together they cancel horizontal/torsional components -> Pure depression.",
-        "isCorrect": true
-      },
-      {
-        "text": "Inferior Rectus and Inferior Oblique",
-        "explanation": "Incorrect. Inferior Oblique elevates."
-      },
-      {
-        "text": "Superior Rectus and Superior Oblique",
-        "explanation": "Incorrect. SR elevates."
-      },
-      {
-        "text": "Lateral Rectus and Medial Rectus",
+        "text": "Corneal Reflex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Rectus only",
-        "explanation": "Incorrect. Would cause torsion/adduction.",
-        "isCorrect": false
+        "text": "Pupillary Light Reflex",
+        "explanation": "Correct. Optic tract -> Pretectal Area -> Bilateral EW Nuclei.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gag Reflex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Jaw Jerk",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibulo-Ocular Reflex",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pure vertical gaze requires paired muscles.",
-    "pdfPage": 41
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pretectum = Pupil Control Tower.",
+    "pdfPage": 11
   },
   {
     "id": 24,
-    "category": "Accommodation",
-    "questionText": "The Accommodation Reflex (Near Triad) consists of:",
+    "category": "Clinical Case: Consensual Reflex",
+    "questionText": "If the Right Optic Nerve is completely transected, shining a light in the Right eye will cause:",
     "options": [
       {
-        "text": "Convergence, Pupil Constriction, Lens Thickening",
-        "explanation": "Correct. Medial Recti contract + sphincter pupillae + ciliary muscle.",
+        "text": "Constriction of the Right pupil only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Constriction of the Left pupil only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Constriction of Both pupils",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "NO constriction of either pupil",
+        "explanation": "Correct. No signal gets in (Afferent defect).",
         "isCorrect": true
       },
       {
-        "text": "Divergence, Pupil Dilation, Lens Flattening",
+        "text": "Dilation of both pupils",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Blind eye = No light signal in = No reaction.",
+    "pdfPage": 11
+  },
+  {
+    "id": 25,
+    "category": "Clinical Case: Consensual Reflex 2",
+    "questionText": "In the same patient (Right Optic Nerve cut), shining a light in the LEFT eye will cause:",
+    "options": [
+      {
+        "text": "Constriction of the Left pupil only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ptosis, Miosis, Anhidrosis",
-        "explanation": "Incorrect. Horner's."
+        "text": "Constriction of Both pupils",
+        "explanation": "Correct. Signal enters Left CN II, goes to Pretectum, splits bilaterally to both EW nuclei. Right CN III is intact, so Right pupil constricts consensually.",
+        "isCorrect": true
       },
       {
-        "text": "Nystagmus, Vertigo, Ataxia",
+        "text": "No constriction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blinking, Tearing, Sneezing",
+        "text": "Constriction of Right pupil only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dilation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Efferent limb (CN III) is fine, so pupil still works if signal comes from the other eye.",
+    "pdfPage": 11
+  },
+  {
+    "id": 26,
+    "category": "Neuroanatomy: Vision Processing",
+    "questionText": "Which cortical area is the primary destination for olfactory information, bypassing the thalamus?",
+    "options": [
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Piriform Cortex",
+        "explanation": "Correct. Part of the Paleocortex/Limbic system.",
+        "isCorrect": true
+      },
+      {
+        "text": "Post-central Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pre-central Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Smell -> Piriform Cortex.",
+    "pdfPage": 4
+  },
+  {
+    "id": 27,
+    "category": "Clinical Case: Head Trauma",
+    "questionText": "Why is the Trochlear Nerve (CN IV) particularly susceptible to injury in closed head trauma?",
+    "options": [
+      {
+        "text": "It is the largest nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It has the longest intracranial course and is very thin",
+        "explanation": "Correct. It wraps around the brainstem and travels a long way, making it fragile.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is unmyelinated",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It passes through the cribriform plate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is located in the jaw",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN IV = Long path = Trauma risk.",
+    "pdfPage": 52
+  },
+  {
+    "id": 28,
+    "category": "Neuroanatomy: PPRF",
+    "questionText": "The Paramedian Pontine Reticular Formation (PPRF) essentially functions as the:",
+    "options": [
+      {
+        "text": "Vertical Gaze Center",
+        "explanation": "Incorrect (riMLF in midbrain)."
+      },
+      {
+        "text": "Horizontal Gaze Center",
+        "explanation": "Correct. It drives the Abducens nucleus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vomiting Center",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Respiration Center",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sleep Center",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PPRF = Pulls Eyes Horizontally.",
+    "pdfPage": 77
+  },
+  {
+    "id": 29,
+    "category": "Neuroanatomy: Rectus Muscles origin",
+    "questionText": "The four rectus muscles arise from a common tendinous ring called the:",
+    "options": [
+      {
+        "text": "Annulus of Zinn",
+        "explanation": "Correct. Common tendinous ring at the apex of the orbit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Circle of Willis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fovea Centralis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ciliary Body",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Macula Lutea",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Near Triad = Converge + Constrict + Accommodate.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Rectus muscles come from the Ring (Annulus).",
+    "pdfPage": 18
   },
   {
-    "id": 25,
-    "category": "Anatomy",
-    "questionText": "Which cranial nerve has the longest intracranial course and is most susceptible to trauma/shear forces?",
+    "id": 30,
+    "category": "Clinical Case: Lateral Rectus",
+    "questionText": "The Lateral Rectus is solely innervated by:",
     "options": [
       {
         "text": "CN III",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN IV (Trochlear)",
-        "explanation": "Correct. Thin, long dorsal exit -> Vulnerable.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN VI",
-        "explanation": "Incorrect. Long course too, but IV is thinnest/longest.",
-        "isCorrect": false
-      },
-      {
-        "text": "CN I",
+        "text": "CN IV",
         "explanation": "Incorrect."
       },
       {
-        "text": "CN II",
+        "text": "CN VI (Abducens)",
+        "explanation": "Correct. 'Abducens' = Abducts.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN V",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN IV is very fragile.",
-    "pdfPage": 33
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: LR6 (Lateral Rectus via VI).",
+    "pdfPage": 54
   },
   {
-    "id": 26,
-    "category": "Palsy",
-    "questionText": "In a CN III palsy, the pupil is dilated because:",
+    "id": 31,
+    "category": "Clinical Case: Eye deviation",
+    "questionText": "In a complete left CN III palsy, the left eye rests in a 'Down and Out' position because:",
     "options": [
       {
-        "text": "Sympathetic fibers are damaged",
-        "explanation": "Incorrect. That causes constriction (Horner's)."
-      },
-      {
-        "text": "Parasympathetic fibers from Edinger-Westphal are damaged",
-        "explanation": "Correct. Unopposed sympathetic tone causes dilation.",
-        "isCorrect": true
-      },
-      {
-        "text": "The iris muscle is torn",
+        "text": "All muscles are paralyzed",
         "explanation": "Incorrect."
       },
       {
-        "text": "The patient is stressed",
+        "text": "The Superior Oblique (IV) and Lateral Rectus (VI) are intact and unopposed",
+        "explanation": "Correct. LR pulls out, SO pulls down. Result: Down and Out.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Medial Rectus is in spasm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gravity pulls it there",
         "explanation": "Incorrect."
       },
       {
@@ -809,289 +957,131 @@ window.Test_L35 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Unopposed Sympathetic = Dilation.",
-    "pdfPage": 20
-  },
-  {
-    "id": 27,
-    "category": "Vision",
-    "questionText": "Visual information from the RIGHT visual field falls on the:",
-    "options": [
-      {
-        "text": "Right Hemiretina of both eyes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Hemiretina of both eyes (Left Temporal, Right Nasal)",
-        "explanation": "Correct. Projects to Left LGN/Cortex.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Nasal retina only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Temporal retina only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fovea only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Right visual field -> Left Brain.",
-    "pdfPage": 9
-  },
-  {
-    "id": 28,
-    "category": "Vision",
-    "questionText": "The Lateral Geniculate Nucleus (LGN) is part of which structure?",
-    "options": [
-      {
-        "text": "Midbrain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Correct. Relay center for vision.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypothalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cortex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LGN = Thalamus = Vision.",
-    "pdfPage": 6
-  },
-  {
-    "id": 29,
-    "category": "Pathology",
-    "questionText": "Multiple Sclerosis often presents with INO because:",
-    "options": [
-      {
-        "text": "It destroys photoreceptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It causes demyelination of the MLF (highly myelinated tract)",
-        "explanation": "Correct. Bilateral INO in a young patient is classic MS.",
-        "isCorrect": true
-      },
-      {
-        "text": "It causes muscle atrophy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It blocks neurotransmitter release",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It affects the cornea",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS loves the MLF.",
-    "pdfPage": 43
-  },
-  {
-    "id": 30,
-    "category": "Reflex",
-    "questionText": "The Afferent limb of the Pupillary Light Reflex is the:",
-    "options": [
-      {
-        "text": "CN III",
-        "explanation": "Incorrect. Efferent."
-      },
-      {
-        "text": "CN II",
-        "explanation": "Correct. Senses light.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN V",
-        "explanation": "Incorrect. Corneal reflex afferent.",
-        "isCorrect": false
-      },
-      {
-        "text": "CN VII",
-        "explanation": "Incorrect. Corneal reflex efferent.",
-        "isCorrect": false
-      },
-      {
-        "text": "CN IV",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Light Reflex: II in, III out.",
-    "pdfPage": 26
-  },
-  {
-    "id": 31,
-    "category": "Gaze Control",
-    "questionText": "The Paramedian Pontine Reticular Formation (PPRF) acts as the:",
-    "options": [
-      {
-        "text": "Vertical Gaze Center",
-        "explanation": "Incorrect. riMLF in midbrain."
-      },
-      {
-        "text": "Horizontal Gaze Center",
-        "explanation": "Correct. Signals Abducens nucleus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vergence Center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sleep Center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain Center",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PPRF = Horizontal Gaze.",
-    "pdfPage": 42
+    "clinicalPearl": "Key takeaway: Palsy posture = Action of the spared muscles.",
+    "pdfPage": 34
   },
   {
     "id": 32,
-    "category": "CN III",
-    "questionText": "Innervation of the Levator Palpebrae Superioris (eyelid lifter) originates from:",
+    "category": "Neuroanatomy: CN VI Exit",
+    "questionText": "The Abducens nerve exits the brainstem at the:",
     "options": [
       {
-        "text": "A single central subnucleus of the Oculomotor Complex",
-        "explanation": "Correct. A single midline nucleus supplies BOTH eyelids.",
+        "text": "Midbrain-Diencephalon junction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pontomedullary Junction (medially)",
+        "explanation": "Correct. Just above the pyramids.",
         "isCorrect": true
       },
       {
-        "text": "Paired lateral nuclei",
-        "explanation": "Incorrect."
+        "text": "Cerebellopontine Angle",
+        "explanation": "Incorrect (VII and VIII exit here)."
       },
       {
-        "text": "The Facial Nucleus",
-        "explanation": "Incorrect. Closes eye (Orbicularis Oculi).",
-        "isCorrect": false
+        "text": "Pre-olivary sulcus",
+        "explanation": "Incorrect (XII)."
       },
       {
-        "text": "The Trigeminal Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Edinger-Westphal",
-        "explanation": "Incorrect."
+        "text": "Post-olivary sulcus",
+        "explanation": "Incorrect (IX, X, XI)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Central Levator Nucleus = Bilateral Eyelid control.",
-    "pdfPage": 15
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN VI pops out between the Pons and Medulla.",
+    "pdfPage": 56
   },
   {
     "id": 33,
-    "category": "Pathway",
-    "questionText": "The Superior Colliculus receives visual input to coordinate:",
+    "category": "Neuroanatomy: Optic Chiasm",
+    "questionText": "At the Optic Chiasm, which fibers decussate (cross)?",
     "options": [
       {
-        "text": "Conscious perception of color",
+        "text": "All fibers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Saccades and Orientation to visual stimuli",
-        "explanation": "Correct. 'Visual Grasp' reflex.",
+        "text": "Nasal retinal fibers (temporal visual field)",
+        "explanation": "Correct. This allows the left side of the brain to see the right visual field.",
         "isCorrect": true
       },
       {
-        "text": "Pupillary constriction",
-        "explanation": "Incorrect. Pretectal area."
+        "text": "Temporal retinal fibers",
+        "explanation": "Incorrect (They stay ipsilateral)."
       },
       {
-        "text": "Face recognition",
+        "text": "Macular fibers only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Reading text",
+        "text": "Auditory fibers",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Superior Colliculus = Orienting.",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Nasal fibers cross. Temporal stay home.",
+    "pdfPage": 10
   },
   {
     "id": 34,
-    "category": "CN VI",
-    "questionText": "A lesion of the Abducens Nucleus differs from a lesion of the Abducens Nerve in that the Nucleus lesion causes:",
+    "category": "Clinical Case: Internuclear Ophthalmoplegia",
+    "questionText": "INO is named 'Internuclear' because the lesion is between which two nuclei?",
     "options": [
       {
-        "text": "Ipsilateral Abduction deficit only",
-        "explanation": "Incorrect. That's nerve lesion."
+        "text": "LGN and Cortex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Ipsilateral Lateral Gaze Palsy (Neither eye looks to the side)",
-        "explanation": "Correct. Because it takes out both the motor neurons to LR and the internuclear neurons to the contralateral MR (via MLF).",
+        "text": "Abducens (VI) and Oculomotor (III)",
+        "explanation": "Correct. The 'Inter-Nuclear' highway (MLF) is broken.",
         "isCorrect": true
       },
       {
-        "text": "Contralateral paralysis",
+        "text": "Trochlear and Spinal Cord",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vertical gaze palsy",
+        "text": "Facial and Trigeminal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blindness",
+        "text": "Vagus and Glossopharyngeal",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Nucleus lesion = Gaze Palsy. Nerve lesion = Abduction weakness.",
-    "pdfPage": 49
+    "clinicalPearl": "Key takeaway: INO disconnects the Abducens general from the Oculomotor soldier.",
+    "pdfPage": 76
   },
   {
     "id": 35,
-    "category": "Action",
-    "questionText": "The Inferior Oblique muscle's primary action is:",
+    "category": "Neuroanatomy: Trochlear Function test",
+    "questionText": "To isolate and test the function of the Superior Oblique muscle clinically, you ask the patient to look:",
     "options": [
       {
-        "text": "Depression",
+        "text": "Up and Out",
         "explanation": "Incorrect."
       },
       {
-        "text": "Elevation and Extorsion",
-        "explanation": "Correct. Opposes Superior Oblique.",
+        "text": "In (Adduct) and then Down",
+        "explanation": "Correct. Mechanical advantage of SO is best in adduction.",
         "isCorrect": true
       },
       {
-        "text": "Adduction only",
+        "text": "Out (Abduct) and then Down",
+        "explanation": "Incorrect (Inferior Rectus acts here)."
+      },
+      {
+        "text": "Straight Up",
         "explanation": "Incorrect."
       },
       {
-        "text": "Abduction only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Closing the eye",
+        "text": "Straight Out",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Obliques = Opposite action (Sup -> Depress, Inf -> Elevate).",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Superior Oblique = The cheater muscle (looks down at test paper).",
+    "pdfPage": 49
   }
 ];

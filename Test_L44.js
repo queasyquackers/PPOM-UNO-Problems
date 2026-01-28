@@ -1,204 +1,384 @@
 window.Test_L44 = [
   {
     "id": 1,
-    "category": "Ocular Anatomy",
-    "questionText": "The structure responsible for approximately 75% of the refractive power of the eye is the:",
+    "category": "Ophtho: Glaucoma",
+    "questionText": "A 68-year-old female presents to the ER with severe right eye pain, nausea, and vomiting. She reports seeing 'halos around lights'. The pain started while she was watching a movie in a dark theater. On exam, the right eye is red, the cornea is hazy, and the pupil is fixed and mid-dilated. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Lens",
-        "explanation": "Incorrect (contributes about 1/3 or 25-30%)."
-      },
-      {
-        "text": "Cornea",
-        "explanation": "Correct. The cornea provides the majority (2/3 to 3/4) of the eye's focusing power due to the large difference in refractive index between air and the corneal tissue."
-      },
-      {
-        "text": "Retina",
-        "explanation": "Incorrect (absorbs light, does not refract)."
-      },
-      {
-        "text": "Vitreous Humor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pupil",
-        "explanation": "Incorrect (aperture)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cornea = Main refractive surface (LASIK targets this).",
-    "pdfPage": 2
-  },
-  {
-    "id": 2,
-    "category": "Cataract",
-    "questionText": "A 70-year-old patient complains of glare causing difficulty driving at night and slowly progressive blurriness. Examination reveals opacification of the crystalline lens. Definitive treatment involves:",
-    "options": [
-      {
-        "text": "Prescribing stronger reading glasses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Surgical extraction and intraocular lens (IOL) implantation",
-        "explanation": "Correct. A cataract is an opacification of the lens. The definitive treatment is surgical removal (phacoemulsification) and replacement with an artificial IOL."
-      },
-      {
-        "text": "Topical corticosteroids",
-        "explanation": "Incorrect (Can CAUSE cataracts)."
-      },
-      {
-        "text": "Laser peripheral iridotomy",
-        "explanation": "Incorrect (For Angle Closure Glaucoma)."
-      },
-      {
-        "text": "Anti-VEGF injections",
-        "explanation": "Incorrect (For Wet AMD)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cataract = Lens Opacity. Rx: Surgery.",
-    "pdfPage": 9
-  },
-  {
-    "id": 3,
-    "category": "Glaucoma",
-    "questionText": "A patient presents with a severe headache, nausea, and a painful red right eye. They report seeing halos around lights. The pupil is mid-dilated and non-reactive. The eye feels rock-hard to palpation. This is a medical emergency known as:",
-    "options": [
-      {
-        "text": "Primary Open Angle Glaucoma",
-        "explanation": "Incorrect (Painless, slow)."
+        "text": "Viral Conjunctivitis",
+        "explanation": "Incorrect (Watery discharge, no severe pain/nausea)."
       },
       {
         "text": "Acute Angle Closure Glaucoma",
-        "explanation": "Correct. Acute Angle Closure Glaucoma is an emergency caused by blockage of the drainage angle. IOP spikes rapidly/severely, causing corneal edema (halos), pain, and a fixed mid-dilated pupil."
+        "explanation": "Correct. Classic triad: Pain, Nausea/Vomiting, Blurred vision/Halos. Triggered by darkness (dilation)."
       },
       {
         "text": "Anterior Uveitis",
         "explanation": "Incorrect (Pupil usually constricted/miotic)."
       },
       {
-        "text": "Viral Conjunctivitis",
-        "explanation": "Incorrect."
+        "text": "Corneal Abrasion",
+        "explanation": "Incorrect (Painful, but history suggests trauma)."
       },
       {
         "text": "Retinal Detachment",
-        "explanation": "Incorrect (Painless)."
+        "explanation": "Incorrect (Painless flashes/floaters)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute Angle Closure = Painful, Red Eye, Mid-dilated pupil, Halos.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Severe Pain + Nausea + Fixed Mid-Dilated Pupil = Acute Angle Closure Glaucoma.",
+    "pdfPage": 66
+  },
+  {
+    "id": 2,
+    "category": "Ophtho: Anatomy",
+    "questionText": "Which structure of the eye is responsible for the majority (approximately 75%) of its refractive power?",
+    "options": [
+      {
+        "text": "Lens",
+        "explanation": "Incorrect (Accounts for 1/3, variable accomodation)."
+      },
+      {
+        "text": "Cornea",
+        "explanation": "Correct. The clear anterior window provides most focusing power."
+      },
+      {
+        "text": "Vitreous Humor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Retina",
+        "explanation": "Incorrect (Sensing, not focusing)."
+      },
+      {
+        "text": "Iris",
+        "explanation": "Incorrect (Aperture control)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cornea = 75% of refractive power.",
+    "pdfPage": 12
+  },
+  {
+    "id": 3,
+    "category": "Ophtho: Neuro-Ophthalmology",
+    "questionText": "A 72-year-old male presents with new onset unilateral headache, jaw claudication (pain with chewing), and scalp tenderness. He reports a transient episode of vision loss in his right eye making him feel like a 'curtain came down'. You feel a nodular temporal artery. What is the immediate next step to prevent permanent blindness in the other eye?",
+    "options": [
+      {
+        "text": "Prescribe artificial tears",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "High-dose Systemic Steroids",
+        "explanation": "Correct. Suspect Giant Cell Arteritis (Temporal Arteritis). Treat immediately before biopsy results."
+      },
+      {
+        "text": "Refer for cataract surgery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Topical Antibiotics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MRI of the Brain",
+        "explanation": "Incorrect (Delay in treatment is dangerous)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: GCA (Temporal Arteritis) = Immediate Steroids to save vision.",
+    "pdfPage": 38
   },
   {
     "id": 4,
-    "category": "Macular Degeneration",
-    "questionText": "Dry Age-Related Macular Degeneration (AMD) is characterized clinically by the presence of which finding in the macula?",
+    "category": "Ophtho: Visual Fields",
+    "questionText": "A bitemporal hemianopsia (loss of peripheral vision in both eyes) is classically caused by a lesion compressing which structure?",
     "options": [
       {
-        "text": "Neovascularization",
-        "explanation": "Incorrect (Wet AMD)."
+        "text": "Optic Nerve",
+        "explanation": "Incorrect (Monocular vision loss)."
       },
       {
-        "text": "Drusen",
-        "explanation": "Correct. Drusen are small laminar deposits of extracellular material (yellow-white spots) beneath the retinal pigment epithelium. They are the hallmark of Dry AMD."
+        "text": "Optic Chiasm",
+        "explanation": "Correct. Usually a pituitary adenoma compressing from below."
       },
       {
-        "text": "Cotton Wool Spots",
-        "explanation": "Incorrect (Ischemia/Diabetes)."
+        "text": "Optic Tract",
+        "explanation": "Incorrect (Contralateral homonymous hemianopsia)."
       },
       {
-        "text": "Cherry Red Spot",
-        "explanation": "Incorrect (CRAO/Tay-Sachs)."
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect (Macular sparing homonymous hemianopsia)."
       },
       {
-        "text": "Roth Spots",
-        "explanation": "Incorrect (Endocarditis)."
+        "text": "Lateral Geniculate Nucleus",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dry AMD = Drusen (Yellow spots).",
-    "pdfPage": 40
+    "clinicalPearl": "Key takeaway: Bitemporal Hemianopsia = Optic Chiasm lesion (Pituitary Tumor).",
+    "pdfPage": 20
   },
   {
     "id": 5,
-    "category": "Retinal Vascular Disease",
-    "questionText": "A patient presents with sudden, painless, profound vision loss in one eye. Fundoscopy reveals a pale retina with a 'cherry-red spot' at the fovea. This is pathognomonic for:",
+    "category": "Ophtho: Retina",
+    "questionText": "A 55-year-old highly myopic male presents with sudden onset of flashes of light (photopsias) and a shower of new floaters in his left eye. He describes a 'shadow' or 'curtain' progressing across his visual field. Visual acuity is intact. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Central Retinal Vein Occlusion (CRVO)",
-        "explanation": "Incorrect (Blood and Thunder hemorrhages)."
-      },
-      {
-        "text": "Central Retinal Artery Occlusion (CRAO)",
-        "explanation": "Correct. In CRAO, the retinal artery supply is blocked, causing retinal infarction and pallor. The fovea, supplied by the choroid, remains perfused and appears red by contrast (Cherry Red Spot)."
-      },
-      {
-        "text": "Retinal Detachment",
-        "explanation": "Incorrect (Curtain)."
-      },
-      {
-        "text": "Optic Neuritis",
+        "text": "Acute Angle Closure Glaucoma",
         "explanation": "Incorrect (Painful)."
       },
       {
-        "text": "Vitreous Hemorrhage",
-        "explanation": "Incorrect (Blacked out/hazy view)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CRAO = Sudden Painless Loss + Cherry Red Spot.",
-    "pdfPage": 44
-  },
-  {
-    "id": 6,
-    "category": "Neuro-Ophthalmology",
-    "questionText": "A 30-year-old obese female presents with headaches and transient visual obscurations. Fundoscopy shows bilateral optic disc edema (papilledema). MRI is normal. Lumbar puncture reveals elevated opening pressure. The diagnosis is:",
-    "options": [
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect."
+        "text": "Retinal Detachment",
+        "explanation": "Correct. Classic presentation: Flashes, Floaters, Curtain."
       },
       {
-        "text": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
-        "explanation": "Correct. IIH affects overweight women of childbearing age. Symptoms: Headache, pulsatile tinnitus, transient vision loss. Signs: Papilledema. Rx: Weight loss, Acetazolamide."
+        "text": "Macular Degeneration",
+        "explanation": "Incorrect (Central vision loss, distortion)."
       },
       {
-        "text": "Giant Cell Arteritis",
-        "explanation": "Incorrect (Elderly)."
+        "text": "Cataract",
+        "explanation": "Incorrect (Chronic gradual blur)."
       },
       {
         "text": "Optic Neuritis",
-        "explanation": "Incorrect (Unilateral usually)."
-      },
-      {
-        "text": "Brain Tumor",
-        "explanation": "Incorrect (MRI was normal)."
+        "explanation": "Incorrect (Pain with movement, color desaturation)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: IIH = Obese Female + Headache + Papilledema + High LP pressure.",
+    "clinicalPearl": "Key takeaway: Flashes + Floaters + Curtain = Retinal Detachment.",
+    "pdfPage": 74
+  },
+  {
+    "id": 6,
+    "category": "Ophtho: Pupils",
+    "questionText": "Horners Syndrome is characterized by the classic triad of Ptosis, Anhidrosis, and:",
+    "options": [
+      {
+        "text": "Mydriasis (Dilated pupil)",
+        "explanation": "Incorrect (CN III palsy)."
+      },
+      {
+        "text": "Miosis (Constricted pupil)",
+        "explanation": "Correct. Loss of sympathetic innervation."
+      },
+      {
+        "text": "Exophthalmos",
+        "explanation": "Incorrect (Graves disease)."
+      },
+      {
+        "text": "Nystagmus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diplopia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Horner's = Ptosis, Miosis, Anhidrosis.",
     "pdfPage": 24
   },
   {
     "id": 7,
-    "category": "Emergency Ophthalmology",
-    "questionText": "A patient complaining of 'flashes of light' and 'floaters', followed by a dark curtain descending over their vision, should be evaluated immediately for:",
+    "category": "Ophtho: Infections",
+    "questionText": "A 32-year-old contact lens wearer presents with a painful red eye. Fluorescein staining reveals a round epithelial defect (ulcer) with a white hazy infiltrate on the cornea. What is the most appropriate management plan?",
     "options": [
       {
-        "text": "Acute Angle Closure Glaucoma",
+        "text": "Patch the eye and follow up in 2 days",
+        "explanation": "Incorrect (Never patch a contact lens wearer - Pseudomonas risk)."
+      },
+      {
+        "text": "Discontinue contacts and start topical antibiotics (e.g., Fluoroquinolone)",
+        "explanation": "Correct. Treat as bacterial corneal ulcer (Pseudomonas) until proven otherwise."
+      },
+      {
+        "text": "Start topical anesthetic drops for pain",
+        "explanation": "Incorrect (Contraindicated - causes corneal melt)."
+      },
+      {
+        "text": "Start topical steroids immediately",
+        "explanation": "Incorrect (Can worsen fungal/herpetic infections)."
+      },
+      {
+        "text": "Reassure and advise artificial tears",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Contact Lens + Red Eye = Rule out Pseudomonas Ulcer.",
+    "pdfPage": 61
+  },
+  {
+    "id": 8,
+    "category": "Ophtho: Pathology",
+    "questionText": "What is the leading cause of blindness in working-age adults (20-64 years old) in the United States?",
+    "options": [
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diabetic Retinopathy",
+        "explanation": "Correct. Importance of glycemic control."
+      },
+      {
+        "text": "Cataracts",
+        "explanation": "Incorrect (Reversible)."
+      },
+      {
+        "text": "Macular Degeneration",
+        "explanation": "Incorrect (Leading cause in elderly >65)."
+      },
+      {
+        "text": "Trauma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Diabetic Retinopathy is #1 cause of blindness in working adults.",
+    "pdfPage": 95
+  },
+  {
+    "id": 9,
+    "category": "Ophtho: Neuro-Ophthalmology",
+    "questionText": "A 25-year-old female presents with acute onset monocular vision loss and pain with eye movement. Exam reveals a Relative Afferent Pupillary Defect (RAPD). She also notes worsening of symptoms after a hot shower (Uhthoff's phenomenon). This presentation is strongly associated with the future development of:",
+    "options": [
+      {
+        "text": "Diabetes Mellitus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Correct. This is Optic Neuritis."
+      },
+      {
+        "text": "Stroke",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Myasthenia Gravis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Graves Disease",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Optic Neuritis = High risk for MS.",
+    "pdfPage": 45
+  },
+  {
+    "id": 10,
+    "category": "Ophtho: Pediatrics",
+    "questionText": "Leukocoria (white pupillary reflex) in a child should prompt an immediate workup to rule out which life-threatening malignancy?",
+    "options": [
+      {
+        "text": "Cataract",
+        "explanation": "Incorrect (Congenital cataracts cause leukocoria but are not malignant)."
+      },
+      {
+        "text": "Retinoblastoma",
+        "explanation": "Correct. Intraocular tumor of childhood."
+      },
+      {
+        "text": "Melanoma",
+        "explanation": "Incorrect (Adults mostly)."
+      },
+      {
+        "text": "Rhabdomyosarcoma",
+        "explanation": "Incorrect (Orbital tumor)."
+      },
+      {
+        "text": "Neuroblastoma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Leukocoria = Rule out Retinoblastoma.",
+    "pdfPage": 79
+  },
+  {
+    "id": 11,
+    "category": "Ophtho: Exam Findings",
+    "questionText": "Upon engaging in the 'Swinging Flashlight Test', you notice that when the light is moved from the normal left eye to the affected right eye, both pupils appear to dilate instead of constrict. This finding is known as:",
+    "options": [
+      {
+        "text": "Anisocoria",
+        "explanation": "Incorrect (Unequal pupil sizes at rest)."
+      },
+      {
+        "text": "Relative Afferent Pupillary Defect (RAPD)",
+        "explanation": "Correct. Indicates optic nerve dysfunction/deafferentation."
+      },
+      {
+        "text": "Argyll Robertson Pupil",
+        "explanation": "Incorrect (Accomodates but doesn't react)."
+      },
+      {
+        "text": "Adie's Tonic Pupil",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Horner's Pupil",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: RAPD = MARCUS GUNN PUPIL = Optic Nerve Pathology.",
+    "pdfPage": 22
+  },
+  {
+    "id": 12,
+    "category": "Ophtho: Red Eye",
+    "questionText": "A patient presents with a vesicular rash on the forehead and the tip of the nose (Hutchinson's Sign). This sign is a strong predictor for ocular involvement in which condition?",
+    "options": [
+      {
+        "text": "********* Impetigo",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "****** Zoster Ophthalmicus (Shingles)",
+        "explanation": "Correct. V1 nerve distribution involves the nasociliary branch."
+      },
+      {
+        "text": "Atopic Dermatitis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rosacea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Contact Dermatitis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hutchinson's Sign = Shingles of the Nose = Eye Involvement.",
+    "pdfPage": 52
+  },
+  {
+    "id": 13,
+    "category": "Ophtho: Retina",
+    "questionText": "Which condition manifests as a painless, sudden loss of vision described as 'a curtain closing', and on fundoscopy reveals a 'cherry-red spot' at the fovea with a pale retina?",
+    "options": [
+      {
+        "text": "Central Retinal Vein Occlusion (CRVO)",
+        "explanation": "Incorrect (Blood and Thunder appearance)."
+      },
+      {
+        "text": "Central Retinal Artery Occlusion (CRAO)",
+        "explanation": "Correct. Ischemic stroke of the retina. Prognosis is poor."
       },
       {
         "text": "Retinal Detachment",
-        "explanation": "Correct. Flashes (photopsias) and floaters indicate posterior vitreous detachment pulling on the retina. The 'curtain' represents the area where the retina has detached."
+        "explanation": "Incorrect (Grey, elevated retina)."
       },
       {
-        "text": "Corneal Abrasion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cataract",
-        "explanation": "Incorrect."
+        "text": "Vitreous Hemorrhage",
+        "explanation": "Incorrect ( obscured view)."
       },
       {
         "text": "Macular Degeneration",
@@ -206,140 +386,474 @@ window.Test_L44 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Flashes, Floaters, Curtain = Retinal Detachment.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Pale Retina + Cherry Red Spot = CRAO.",
+    "pdfPage": 80
   },
   {
-    "id": 8,
-    "category": "Pediatric Ophthalmology",
-    "questionText": "Leukocoria (white pupillary reflex) in a child must be promptly investigated to rule out which life-threatening malignancy?",
+    "id": 14,
+    "category": "Ophtho: Muscles",
+    "questionText": "A patient presents with ptosis and diplopia that worsens at the end of the day. On exam, sustained upward gaze worsens the ptosis. An ice pack test improves the symptoms. What is the likely diagnosis?",
     "options": [
       {
-        "text": "Wilms Tumor",
-        "explanation": "Incorrect (Kidney)."
-      },
-      {
-        "text": "Retinoblastoma",
-        "explanation": "Correct. Retinoblastoma is the most common intraocular malignancy in children. Leukocoria is the classic sign. Early detection is crucial."
-      },
-      {
-        "text": "Neuroblastoma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Melanoma",
-        "explanation": "Incorrect (Adults typically)."
-      },
-      {
-        "text": "Rhabdomyosarcoma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Leukocoria (White Pupil) -> Rule out Retinoblastoma.",
-    "pdfPage": 43
-  },
-  {
-    "id": 9,
-    "category": "Systemic Disease",
-    "questionText": "A 75-year-old patient presents with new-onset scalp tenderness, jaw claudication, and sudden loss of vision in one eye. Immediate treatment with high-dose steroids is indicated to prevent blindness in the other eye due to:",
-    "options": [
-      {
-        "text": "Giant Cell (Temporal) Arteritis",
-        "explanation": "Correct. GCA is a vasculitis of medium/large vessels. It can cause Arteritic Anterior Ischemic Optic Neuropathy (AAION) and permanent blindness. Treat immediately upon suspicion."
-      },
-      {
-        "text": "Trigeminal Neuralgia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Migraine",
+        "text": "Third Nerve Palsy",
         "explanation": "Incorrect."
       },
       {
         "text": "Myasthenia Gravis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Herpes Zoster Ophthalmicus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: GCA = Jaw claudication, Scalp tenderness -> Risk of blindness (AAION).",
-    "pdfPage": 23
-  },
-  {
-    "id": 10,
-    "category": "Pupils",
-    "questionText": "When performing the swinging flashlight test, you note that when the light is swung from the normal left eye to the affected right eye, both pupils paradoxically dilate. This finding is known as:",
-    "options": [
-      {
-        "text": "Argyll Robertson Pupil",
-        "explanation": "Incorrect (Syphilis)."
-      },
-      {
-        "text": "Relative Afferent Pupillary Defect (RAPD)",
-        "explanation": "Correct. An RAPD (Marcus Gunn Pupil) indicates that the afferent pathway (Optic Nerve/Retina) in the affected eye is not sensing light as strongly as the normal eye, causing the brain to think the light has dimmed."
+        "explanation": "Correct. Fatigability is key. Antibodies to ACh receptors."
       },
       {
         "text": "Horner's Syndrome",
-        "explanation": "Incorrect (Anisocoria)."
+        "explanation": "Incorrect (No fatigability)."
       },
       {
-        "text": "Adie's Tonic Pupil",
-        "explanation": "Incorrect."
+        "text": "Thyroid Eye Disease",
+        "explanation": "Incorrect (Lid retraction, proptosis)."
       },
       {
-        "text": "Anisocoria",
+        "text": "Internuclear Ophthalmoplegia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: RAPD = Swinging Flashlight Test. Optic Nerve Pathology.",
-    "pdfPage": 17
+    "clinicalPearl": "Key takeaway: Fatigable Ptosis = Myasthenia Gravis.",
+    "pdfPage": 29
   },
   {
-    "id": 11,
-    "category": "Red Eye",
-    "questionText": "A patient presents with a painful, red eye, photophobia (light sensitivity), and a constricted pupil. Slit lamp exam reveals cells and flare in the anterior chamber. This is consistent with:",
+    "id": 15,
+    "category": "Ophtho: Red Eye",
+    "questionText": "The most common etiology of 'Pink Eye' (Conjunctivitis) in adults, characterized by watery discharge and preauricular lymphadenopathy, is:",
     "options": [
       {
-        "text": "Viral Conjunctivitis",
-        "explanation": "Incorrect (Follicles, watery)."
+        "text": "Bacterial (Staph aureus)",
+        "explanation": "Incorrect (Purulent discharge)."
       },
       {
-        "text": "Anterior Uveitis (Iritis)",
-        "explanation": "Correct. Uveitis is inflammation of the uveal tract (iris/ciliary body). Key signs: Photophobia, Ciliary flush, Cells/Flare. Often associated with autoimmune diseases (HLA-B27)."
+        "text": "Viral (Adenovirus)",
+        "explanation": "Correct. Highly contagious."
       },
       {
-        "text": "Subconjunctival Hemorrhage",
-        "explanation": "Incorrect (Painless)."
+        "text": "Allergic",
+        "explanation": "Incorrect (Itching is prominent)."
       },
       {
-        "text": "Blepharitis",
-        "explanation": "Incorrect (Eyelid inflammation)."
+        "text": "Fungal",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Dry Eye Syndrome",
+        "text": "Parasitic",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Uveitis = Photophobia + Cells/Flare in Anterior Chamber.",
+    "clinicalPearl": "Key takeaway: Viral Conjunctivitis = Watery + Nodes.",
+    "pdfPage": 57
+  },
+  {
+    "id": 16,
+    "category": "Ophtho: Neuro-Ophthalmology",
+    "questionText": "An overweight 30-year-old female presents with chronic headaches and transient visual obscurations upon standing. Fundoscopy reveals bilateral optic disc edema (papilledema). MRI and CSF analysis are normal (except for elevated opening pressure). What is the diagnosis?",
+    "options": [
+      {
+        "text": "Optic Neuritis",
+        "explanation": "Incorrect (Unilateral)."
+      },
+      {
+        "text": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+        "explanation": "Correct. Associated with obesity, Vitamin A, Tetracyclines."
+      },
+      {
+        "text": "Meningitis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brain Tumor",
+        "explanation": "Incorrect (Normal MRI)."
+      },
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Obese Female + Papilledema + Normal MRI = Pseudotumor Cerebri.",
+    "pdfPage": 41
+  },
+  {
+    "id": 17,
+    "category": "Ophtho: Macula",
+    "questionText": "Age-Related Macular Degeneration (AMD) comes in two forms. The 'Wet' form is distinguished from the 'Dry' form by the presence of:",
+    "options": [
+      {
+        "text": "Drusen",
+        "explanation": "Incorrect (Hallmark of Dry/Non-exudative)."
+      },
+      {
+        "text": "Choroidal Neovascularization",
+        "explanation": "Correct. New leaky vessels cause bleeding/scarring."
+      },
+      {
+        "text": "Retinal Detachment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cotton Wool Spots",
+        "explanation": "Incorrect (Diabetes/HTN)."
+      },
+      {
+        "text": "Hard Exudates",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Wet AMD = Neovascularization.",
+    "pdfPage": 72
+  },
+  {
+    "id": 18,
+    "category": "Ophtho: Systemic Disease",
+    "questionText": "Thyroid Eye Disease (Graves' Ophthalmopathy) is characterized typically by:",
+    "options": [
+      {
+        "text": "Ptosis",
+        "explanation": "Incorrect (Lid retraction is typical)."
+      },
+      {
+        "text": "Proptosis and Lid Retraction",
+        "explanation": "Correct. Due to lymphocytic infiltration of extraocular muscles."
+      },
+      {
+        "text": "Miosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cataracts",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Retinal Detachment",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Graves = Proptosis.",
+    "pdfPage": 32
+  },
+  {
+    "id": 19,
+    "category": "Ophtho: Eyelid",
+    "questionText": "A patient presents with a painful, erythematous, tender lump on the eyelid margin. This is most likely a:",
+    "options": [
+      {
+        "text": "Chalazion",
+        "explanation": "Incorrect (Painless, chronic, granulomatous inflammation)."
+      },
+      {
+        "text": "Hordeolum (Stye)",
+        "explanation": "Correct. Acute bacterial infection of Zeis/Moll/Meibomian glands."
+      },
+      {
+        "text": "Xanthelasma",
+        "explanation": "Incorrect (Lipid deposit)."
+      },
+      {
+        "text": "Basal Cell Carcinoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Papilloma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stye = Painful; Chalazion = Painless.",
     "pdfPage": 48
   },
   {
-    "id": 12,
-    "category": "Corneal Pathology",
-    "questionText": "Severe pain, tearing, and foreign body sensation that stains positively with fluorescein dye is most indicative of:",
+    "id": 20,
+    "category": "Ophtho: Trauma",
+    "questionText": "A patient splashed a liquid chemical into their eye. What is the single most important immediate initial step?",
     "options": [
       {
-        "text": "Corneal Abrasion",
-        "explanation": "Correct. A corneal abrasion is a defect in the epithelium. It causes severe pain (CN V1) and uptake of fluorescein dye."
+        "text": "Check Visual Acuity",
+        "explanation": "Incorrect (Delay)."
       },
       {
-        "text": "Cataract",
+        "text": "Copious Irrigation",
+        "explanation": "Correct. Irrigate immediately (for 30 mins) before any exam."
+      },
+      {
+        "text": "Check Intraocular Pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Apply antibiotic ointment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Patch the eye",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Chemical Burn = Irrigate Irrigate Irrigate.",
+    "pdfPage": 85
+  },
+  {
+    "id": 21,
+    "category": "Ophtho: Retina",
+    "questionText": "On fundoscopy of a diabetic patient, you observe dot-blot hemorrhages, microaneurysms, and 'cotton-wool spots'. These cotton-wool spots represent:",
+    "options": [
+      {
+        "text": "Lipid deposits",
+        "explanation": "Incorrect (Hard exudates)."
+      },
+      {
+        "text": "Nerve fiber layer infarctions (Ischemia)",
+        "explanation": "Correct. Axoplasmic stasis due to ischemia."
+      },
+      {
+        "text": "Neovascularization",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Drusen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cotton Wool Spots = Ischemia/Infarction.",
+    "pdfPage": 96
+  },
+  {
+    "id": 22,
+    "category": "Ophtho: Treatments",
+    "questionText": "The definitive treatment for a cataract that is affecting a patient's ADLs (Activities of Daily Living) is:",
+    "options": [
+      {
+        "text": "Stronger glasses",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Surgical extraction and lens implantation",
+        "explanation": "Correct. Phacoemulsification."
+      },
+      {
+        "text": "Laser Iridotomy",
+        "explanation": "Incorrect (Glaucoma)."
+      },
+      {
+        "text": "Intravitreal Injections",
+        "explanation": "Incorrect (Wet AMD/Diabetes)."
+      },
+      {
+        "text": "Eye patches",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cataracts are treated surgically.",
+    "pdfPage": 12
+  },
+  {
+    "id": 23,
+    "category": "Ophtho: Orbit",
+    "questionText": "A child presents with a swollen, red, painful eyelid and proptosis (bulging eye) with limitation of eye movements and pain on eye movement. This distinguishes Orbital Cellulitis from Preseptal Cellulitis. What is the required management?",
+    "options": [
+      {
+        "text": "Oral Antibiotics",
+        "explanation": "Incorrect (Insufficient for orbital)."
+      },
+      {
+        "text": "Admission and IV Antibiotics",
+        "explanation": "Correct. Orbital cellulitis is sight and life threatening (Cavernous Sinus Thrombosis)."
+      },
+      {
+        "text": "Warm Compresses",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Topical Antibiotics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Observation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Proptosis/Pain with movement = Orbital Cellulitis (Emergency).",
+    "pdfPage": 50
+  },
+  {
+    "id": 24,
+    "category": "Ophtho: Systemic Disease",
+    "questionText": "Deep burgundy-red discoloration of the eye that is extremely painful, often waking the patient from sleep, is most suggestive of Scleritis. This condition is highly associated with:",
+    "options": [
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Autoimmune conditions (e.g., Rheumatoid Arthritis)",
+        "explanation": "Correct. 50% association with systemic autoimmune disease."
+      },
+      {
+        "text": "Diabetes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperlipidemia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smoking",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Scleritis = Autoimmune Association.",
+    "pdfPage": 60
+  },
+  {
+    "id": 25,
+    "category": "Ophtho: Neuro-Ophtho",
+    "questionText": "Pupillary dilation (Mydriasis) is mediated by which branch of the autonomic nervous system?",
+    "options": [
+      {
+        "text": "Parasympathetic",
+        "explanation": "Incorrect (Constriction/Miosis)."
+      },
+      {
+        "text": "Sympathetic",
+        "explanation": "Correct. 'Fight or Flight' dilates pupils to see more."
+      },
+      {
+        "text": "Somatic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enteric",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "None of the above",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sympathetic = Dilation; Parasympathetic = Constriction.",
+    "pdfPage": 21
+  },
+  {
+    "id": 26,
+    "category": "Ophtho: Anatomy",
+    "questionText": "The area of the retina responsible for the finest, most acute vision (20/20) is the:",
+    "options": [
+      {
+        "text": "Optic Disc",
+        "explanation": "Incorrect (Blind spot)."
+      },
+      {
+        "text": "Fovea",
+        "explanation": "Correct. Central point of the macula, high cone density."
+      },
+      {
+        "text": "Ora Serrata",
+        "explanation": "Incorrect (Far periphery)."
+      },
+      {
+        "text": "Ciliary Body",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Choroid",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fovea = Center of Macula = Sharpest Vision.",
+    "pdfPage": 7
+  },
+  {
+    "id": 27,
+    "category": "Ophtho: Glaucoma",
+    "questionText": "Open Angle Glaucoma is a chronic optic neuropathy characterized by:",
+    "options": [
+      {
+        "text": "Severe sudden pain",
+        "explanation": "Incorrect (Acute Angle Closure)."
+      },
+      {
+        "text": "Painless, progressive loss of peripheral vision",
+        "explanation": "Correct. 'Tunnel vision'. Optic nerve cupping."
+      },
+      {
+        "text": "Central vision loss",
+        "explanation": "Incorrect (Macular degeneration)."
+      },
+      {
+        "text": "Flashes and floaters",
+        "explanation": "Incorrect (Retinal detachment)."
+      },
+      {
+        "text": "Ptosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Open Angle Glaucoma = Painless peripheral vision loss.",
+    "pdfPage": 69
+  },
+  {
+    "id": 28,
+    "category": "Ophtho: Diagnostics",
+    "questionText": "Fluorescein staining is most useful for detecting:",
+    "options": [
+      {
+        "text": "Intraocular pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corneal Abrasions and Ulcers",
+        "explanation": "Correct. Defects stain bright green under blue light."
+      },
+      {
+        "text": "Retinal Detachment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cataracts",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Color blindness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fluorescein Staining = Corneal Epithelial Defects.",
+    "pdfPage": 82
+  },
+  {
+    "id": 29,
+    "category": "Ophtho: Pediatrics",
+    "questionText": "Amblyopia ('Lazy Eye') needs to be corrected early in life (usually before age 7-9) to prevent:",
+    "options": [
+      {
+        "text": "Permanent visual loss",
+        "explanation": "Correct. Brain ignores input from the lazy eye."
+      },
+      {
+        "text": "Eye infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Retina tumor",
         "explanation": "Incorrect."
       },
       {
@@ -347,106 +861,192 @@ window.Test_L44 = [
         "explanation": "Incorrect."
       },
       {
+        "text": "Cataracts",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Treat Amblyopia early to save vision.",
+    "pdfPage": 16
+  },
+  {
+    "id": 30,
+    "category": "Ophtho: Uveitis",
+    "questionText": "A patient with HLA-B27 positive Ankylosing Spondylitis presents with a painful, light-sensitive red eye. Exam shows cells and flare in the anterior chamber. Diagnosis?",
+    "options": [
+      {
         "text": "Conjunctivitis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pterygium",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Corneal Abrasion = Pain + Fluorescein uptake.",
-    "pdfPage": 45
-  },
-  {
-    "id": 13,
-    "category": "Neuromuscular",
-    "questionText": "A patient presents with droopy eyelids (ptosis) and double vision that worsens at the end of the day. The Tensilon test (Edrophonium) transiently improves symptoms. The diagnosis is:",
-    "options": [
+        "text": "Anterior Uveitis (Iritis)",
+        "explanation": "Correct. Strong association with HLA-B27 conditions."
+      },
       {
-        "text": "Multiple Sclerosis",
+        "text": "Glaucoma",
         "explanation": "Incorrect."
       },
       {
-        "text": "Myasthenia Gravis",
-        "explanation": "Correct. Myasthenia Gravis is an autoimmune disorder of the NMJ (Anti-AChR). Classic presentation: Fatigable ptosis and diplopia."
+        "text": "Cataract",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Graves' Ophthalmopathy",
-        "explanation": "Incorrect (Proptosis)."
-      },
-      {
-        "text": "Horner's Syndrome",
-        "explanation": "Incorrect (Non-fatigable)."
-      },
-      {
-        "text": "Third Nerve Palsy",
+        "text": "Blepharitis",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Myasthenia Gravis = Fatigable Ptosis/Diplopia.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: HLA-B27 = Anterior Uveitis.",
+    "pdfPage": 86
   },
   {
-    "id": 14,
-    "category": "Neuro-Ophthalmology",
-    "questionText": "Horner's Syndrome is characterized by the triad of:",
+    "id": 31,
+    "category": "Ophtho: Treatment",
+    "questionText": "Chronic use of topical anesthetic drops (e.g., proparacaine) is contraindicated because it can lead to:",
     "options": [
       {
-        "text": "Ptosis, Miosis, Anhidrosis",
-        "explanation": "Correct. Sympatheticdenervation leads to a droopy lid (Ptosis - Muller's muscle), constricted pupil (Miosis), and lack of sweating (Anhidrosis)."
-      },
-      {
-        "text": "Ptosis, Mydriasis, Anhidrosis",
-        "explanation": "Incorrect (Mydriasis = Dilated)."
-      },
-      {
-        "text": "Proptosis, Miosis, Anhidrosis",
+        "text": "Improved healing",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ptosis, Miosis, Hyperhidrosis",
+        "text": "Corneal Melt / Keratopathy",
+        "explanation": "Correct. Toxic to epithelium, masks damage, neurotrophic ulcer."
+      },
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect (Steroids do this)."
+      },
+      {
+        "text": "Cataracts",
+        "explanation": "Incorrect (Steroids do this)."
+      },
+      {
+        "text": "Retinal bleeding",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Lid retraction, Mydriasis, Proptosis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Horner's = Ptosis + Miosis + Anhidrosis.",
-    "pdfPage": 18
-  },
-  {
-    "id": 15,
-    "category": "AMD Treatment",
-    "questionText": "The primary treatment for 'Wet' Age-Related Macular Degeneration (Choroidal Neovascularization) is:",
-    "options": [
-      {
-        "text": "Vitamin supplementation (AREDS)",
-        "explanation": "Incorrect (For Dry AMD)."
-      },
-      {
-        "text": "Intravitreal Anti-VEGF injections",
-        "explanation": "Correct. Anti-Vascular Endothelial Growth Factor (VEGF) agents (e.g., Bevacizumab, Ranibizumab) are injected into the eye to cause regression of the leaky new vessels."
-      },
-      {
-        "text": "Topical Beta-blockers",
-        "explanation": "Incorrect (Glaucoma)."
-      },
-      {
-        "text": "Systemic Corticosteroids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Scleral Buckle",
-        "explanation": "Incorrect (Retinal Detachment)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Wet AMD = Anti-VEGF injections.",
-    "pdfPage": 52
+    "clinicalPearl": "Key takeaway: NEVER prescribe topical anesthetics for home use.",
+    "pdfPage": 84
+  },
+  {
+    "id": 32,
+    "category": "Ophtho: Retina",
+    "questionText": "Central Retinal Vein Occlusion (CRVO) is classically described as having which appearance on fundal exam?",
+    "options": [
+      {
+        "text": "Cherry red spot",
+        "explanation": "Incorrect (CRAO)."
+      },
+      {
+        "text": "'Blood and Thunder' (Diffused hemorrhages)",
+        "explanation": "Correct. Widespread bleeding and edema."
+      },
+      {
+        "text": "Bone spicules",
+        "explanation": "Incorrect (Retinitis Pigmentosa)."
+      },
+      {
+        "text": "Copper wiring",
+        "explanation": "Incorrect (Hypertension)."
+      },
+      {
+        "text": "Pie in the sky",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CRVO = Blood and Thunder.",
+    "pdfPage": 81
+  },
+  {
+    "id": 33,
+    "category": "Ophtho: Cranial Nerves",
+    "questionText": "A patient presents with a 'down and out' eye, complete ptosis, and a dilated pupil. This suggests a palsy of:",
+    "options": [
+      {
+        "text": "CN II",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN III (Oculomotor)",
+        "explanation": "Correct. Levator down (ptosis), unopposed LR/SO (down/out), Parasymp gone (dilated)."
+      },
+      {
+        "text": "CN IV (Trochlear)",
+        "explanation": "Incorrect (Vertical diplopia, head tilt)."
+      },
+      {
+        "text": "CN VI (Abducens)",
+        "explanation": "Incorrect (Cannot abduct)."
+      },
+      {
+        "text": "CN VII (Facial)",
+        "explanation": "Incorrect (Cannot close eye)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN III Palsy = Down and Out + Blown Pupil (Aneurysm?).",
+    "pdfPage": 15
+  },
+  {
+    "id": 34,
+    "category": "Ophtho: Muscles",
+    "questionText": "Which extraocular muscle is innervated by Cranial Nerve VI (Abducens)?",
+    "options": [
+      {
+        "text": "Superior Rectus",
+        "explanation": "Incorrect (CN III)."
+      },
+      {
+        "text": "Lateral Rectus",
+        "explanation": "Correct. LR6(SO4)3."
+      },
+      {
+        "text": "Medial Rectus",
+        "explanation": "Incorrect (CN III)."
+      },
+      {
+        "text": "Inferior Oblique",
+        "explanation": "Incorrect (CN III)."
+      },
+      {
+        "text": "Superior Oblique",
+        "explanation": "Incorrect (CN IV)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: LR6 (Lateral Rectus = CN 6).",
+    "pdfPage": 15
+  },
+  {
+    "id": 35,
+    "category": "Ophtho: Retina",
+    "questionText": "In Non-Proliferative Diabetic Retinopathy (NPDR), the earliest clinically visible changes are usually:",
+    "options": [
+      {
+        "text": "Retinal Detachment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Microaneurysms",
+        "explanation": "Correct. Small outpouchings of capillaries."
+      },
+      {
+        "text": "Vitreous Hemorrhage",
+        "explanation": "Incorrect (Proliferative)."
+      },
+      {
+        "text": "Neovascularization",
+        "explanation": "Incorrect (Proliferative)."
+      },
+      {
+        "text": "Papilledema",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Earliest sign of Diabetic Retinopathy = Microaneurysms.",
+    "pdfPage": 96
   }
 ];

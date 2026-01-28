@@ -1,661 +1,218 @@
 window.Test_L40 = [
   {
     "id": 1,
-    "category": "Anatomy",
-    "questionText": "The Fasciculus Gracilis, located in the posterior column, carries sensory information primarily from the:",
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A 30-year-old female presents with loss of pain and temperature sensation in a 'cape-like' distribution over her shoulders and arms. Vibration and proprioception are intact. She has a history of Chiari Malformation Type I. What is the most likely diagnosis?",
     "options": [
-      {
-        "text": "Upper body (above T6)",
-        "explanation": "Incorrect. That is Fasciculus Cuneatus."
-      },
-      {
-        "text": "Lower body (below T6)",
-        "explanation": "Correct. Gracilis = Legs (Ground).",
-        "isCorrect": true
-      },
-      {
-        "text": "Face",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contralateral limb only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Corticospinal tract",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Gracilis = Legs (Ground). Cuneatus = Arms.",
-    "pdfPage": 4
-  },
-  {
-    "id": 2,
-    "category": "Anatomy",
-    "questionText": "The Spinothalamic tract is responsible for transmitting:",
-    "options": [
-      {
-        "text": "Fine touch and vibration",
-        "explanation": "Incorrect. Dorsal Columns."
-      },
-      {
-        "text": "Proprioception",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain, temperature, and crude touch",
-        "explanation": "Correct. Crosses immediately (1-2 levels).",
-        "isCorrect": true
-      },
-      {
-        "text": "Motor commands",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Balance only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Spinothalamic = Pain/Temp/Crude Touch.",
-    "pdfPage": 5
-  },
-  {
-    "id": 3,
-    "category": "Syndrome",
-    "questionText": "A 30-year-old female presents with loss of pain and temperature sensation in a 'cape-like' distribution over her shoulders and arms. Proprioception is intact. This is most characteristic of:",
-    "options": [
-      {
-        "text": "Brown-Sequard Syndrome",
-        "explanation": "Incorrect."
-      },
       {
         "text": "Anterior Cord Syndrome",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. Would cause leg weakness and pain/temp loss below lesion, not cape-like."
       },
       {
         "text": "Central Cord Syndrome (Syringomyelia)",
-        "explanation": "Correct. Lesion expands from center, hitting crossing spinothalamic fibers first.",
-        "isCorrect": true
+        "explanation": "Correct. A syrinx in the central canal expands and damages the crossing spinothalamic fibers at the anterior white commissure, causing segmental loss of pain/temp (Cape like). Posterior columns are spared initially."
       },
       {
         "text": "Posterior Column Syndrome",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. Loss of vibration/proprioception."
       },
       {
-        "text": "Amyotrophic Lateral Sclerosis",
-        "explanation": "Incorrect."
+        "text": "Brown-Sequard Syndrome",
+        "explanation": "Incorrect. Hemisection."
+      },
+      {
+        "text": "Cauda Equina Syndrome",
+        "explanation": "Incorrect. L2-S5 roots."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Cape-like distribution = Central Cord (Syrinx).",
-    "pdfPage": 13
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Syringomyelia = Cape-like loss of Pain/Temp. Associated with Chiari I.",
+    "pdfPage": 8
   },
   {
-    "id": 4,
-    "category": "Syndrome",
-    "questionText": "Syringomyelia is frequently associated with which congenital anomaly?",
+    "id": 2,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A 73-year-old male undergoes repair of an abdominal aortic aneurysm. The next morning, he has flaccid paraplegia and loss of pain and temperature sensation below T10. Vibration and position sense are preserved. Which artery was likely occluded?",
     "options": [
       {
-        "text": "Spina Bifida Occulta",
+        "text": "Posterior Spinal Artery",
+        "explanation": "Incorrect. Would affect dorsal columns."
+      },
+      {
+        "text": "Anterior Spinal Artery",
+        "explanation": "Correct. The ASA supplies the anterior 2/3 of the cord (Corticospinal and Spinothalamic tracts). Infarction causes paralysis and pain/temp loss, sparing the dorsal columns (PSA supply)."
+      },
+      {
+        "text": "Vertebral Artery",
         "explanation": "Incorrect."
       },
       {
-        "text": "Chiari I Malformation",
-        "explanation": "Correct. Cerebellar tonsils descend, causing syrinx.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dandy-Walker Malformation",
+        "text": "Carotid Artery",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anencephaly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Holoprosencephaly",
+        "text": "Middle Cerebral Artery",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Syrinx often equals Chiari.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Anterior Cord Syndrome (ASA Infarct) = Motor + Pain/Temp loss. dorsal Columns Spared.",
+    "pdfPage": 29
+  },
+  {
+    "id": 3,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "A 45-year-old construction worker complains of right hand numbness waking him up at night. The numbness affects the thumb, index, and middle fingers. Phalen's maneuver is positive. Which nerve is compressed?",
+    "options": [
+      {
+        "text": "Ulnar Nerve",
+        "explanation": "Incorrect. 4th/5th digits."
+      },
+      {
+        "text": "Median Nerve",
+        "explanation": "Correct. Carpal Tunnel Syndrome involves Median nerve compression. Symptoms in lateral 3.5 digits."
+      },
+      {
+        "text": "Radial Nerve",
+        "explanation": "Incorrect. Dorsal hand/Wrist drop."
+      },
+      {
+        "text": "Axillary Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Musculocutaneous Nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Carpal Tunnel = Median Nerve. Nocturnal numbness in thumb/index/middle.",
+    "pdfPage": 44
+  },
+  {
+    "id": 4,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Subacute Combined Degeneration of the spinal cord involves demyelination of the posterior columns and lateral corticospinal tracts. It is most commonly caused by deficiency of:",
+    "options": [
+      {
+        "text": "Vitamin B1 (Thiamine)",
+        "explanation": "Incorrect. Wernicke/Korsakoff/Beriberi."
+      },
+      {
+        "text": "Vitamin B12 (Cobalamin)",
+        "explanation": "Correct. B12 deficiency leads to SCD. Symptoms: Ataxia, weakness, +Romberg, paresthesias."
+      },
+      {
+        "text": "Vitamin B6 (Pyridoxine)",
+        "explanation": "Incorrect. Peripheral neuropathy."
+      },
+      {
+        "text": "Folate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Copper",
+        "explanation": "Incorrect. Copper deficiency CAN cause a similar myelopathy, but B12 is the classic/most common answer. (Transcript mentions Copper too, but B12 is primary)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: B12 Deficiency = Subacute Combined Degeneration. (Dorsal + Lateral columns).",
+    "pdfPage": 22
   },
   {
     "id": 5,
-    "category": "Syndrome",
-    "questionText": "A patient presents with a 'stomping gait' and a positive Romberg sign. Examination reveals loss of vibration and position sense. This describes:",
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A patient presents with a 'stamping gait' and a positive Romberg sign (sways when eyes are closed). Examination reveals loss of vibration and position sense in the legs, but preserved pain and temperature sensation. Reflexes are absent. Pupils accommodate but do not react to light. What is the diagnosis?",
     "options": [
       {
-        "text": "Anterior Cord Syndrome",
+        "text": "Multiple Sclerosis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Posterior (Dorsal) Column Syndrome",
-        "explanation": "Correct. Loss of proprioception -> sensory ataxia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Central Cord Syndrome",
-        "explanation": "Incorrect."
+        "text": "Tabes Dorsalis",
+        "explanation": "Correct. Neurosyphilis affecting Dorsal Columns. Argyll Robertson Pupils + Ataxia + Lightning Pains."
       },
       {
         "text": "Brown-Sequard Syndrome",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cauda Equina Syndrome",
+        "text": "ALS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Syringomyelia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Romberg + Stomping = Posterior Column.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Tabes Dorsalis (Syphilis) = Dorsal Column loss + Argyll Robertson Pupil.",
+    "pdfPage": 15
   },
   {
     "id": 6,
-    "category": "Etiology",
-    "questionText": "Tabes Dorsalis, a form of neurosyphilis affecting the dorsal columns, typically presents with:",
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Compression of the Common Peroneal (Fibular) nerve at the fibular head typically results in:",
     "options": [
       {
-        "text": "Spastic paralysis",
-        "explanation": "Incorrect."
+        "text": "Inability to Plantarflex (Ti-ptoe)",
+        "explanation": "Incorrect. Tibial nerve."
       },
       {
-        "text": "Argyll Robertson Pupils and lancinating pains",
-        "explanation": "Correct. Pupils accommodate but don't react to light.",
-        "isCorrect": true
+        "text": "Foot Drop (Weakness of Dorsiflexion)",
+        "explanation": "Correct. The Deep Peroneal branch innervates the Anterior compartment (Dorsiflexors). Damage causes Foot Drop."
       },
       {
-        "text": "Resting tremor",
-        "explanation": "Incorrect."
+        "text": "Loss of sensation on the sole of the foot",
+        "explanation": "Incorrect. Tibial."
       },
       {
-        "text": "Masked facies",
-        "explanation": "Incorrect."
+        "text": "Knee extension weakness",
+        "explanation": "Incorrect. Femoral."
       },
       {
-        "text": "Hemiballismus",
+        "text": "Hip flexion weakness",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tabes Dorsalis = Syphilis + Argyll Robertson Pupil.",
-    "pdfPage": 23
+    "clinicalPearl": "Key takeaway: Peroneal Neuropathy = Foot Drop.",
+    "pdfPage": 47
   },
   {
     "id": 7,
-    "category": "Sign",
-    "questionText": "Lhermitte's sign, described as an electric shock sensation running down the back upon neck flexion, is a classic sign of:",
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A 25-year-old male is stabbed in the back on the right side of the spinal cord (Hemisection) at T10. What findings are expected?",
     "options": [
       {
-        "text": "Lumbar radiculopathy",
+        "text": "Right-sided loss of Pain/Temp, Left-sided paralysis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Posterior column disease (e.g., MS, B12 deficiency)",
-        "explanation": "Correct. Irritation of dorsal columns.",
-        "isCorrect": true
+        "text": "Right-sided paralysis and vibration loss, Left-sided loss of Pain/Temp",
+        "explanation": "Correct. Brown-Sequard: Ipsilateral (Right) corticospinal/dorsal column loss. Contralateral (Left) spinothalamic loss."
       },
       {
-        "text": "Cerebellar dysfunction",
+        "text": "Bilateral paralysis and loss of all sensation",
+        "explanation": "Incorrect. Transection."
+      },
+      {
+        "text": "Right-sided loss of all sensation, intact motor",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinothalamic tract lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Carpal Tunnel Syndrome",
-        "explanation": "Incorrect."
+        "text": "Left-sided paralysis and vibration loss, Right-sided loss of Pain/Temp",
+        "explanation": "Incorrect. Crossed."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lhermitte's = Shock down spine (Dorsal Column).",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Brown-Sequard: Motor/Vibration blocked on SAME side. Pain/Temp blocked on OPPOSITE side.",
+    "pdfPage": 36
   },
   {
     "id": 8,
-    "category": "Syndrome",
-    "questionText": "Subacute Combined Degeneration involves both the posterior columns and the lateral corticospinal tracts. It is most commonly caused by:",
-    "options": [
-      {
-        "text": "Vitamin B1 deficiency (Thiamine)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vitamin B12 deficiency",
-        "explanation": "Correct. Or Copper deficiency/Nitrous Oxide.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vitamin C deficiency",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lead poisoning",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Syphilis",
-        "explanation": "Incorrect. Tabes is just dorsal columns usually.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: B12 deficiency = SCD (Lateral + Posterior).",
-    "pdfPage": 26
-  },
-  {
-    "id": 9,
-    "category": "Toxicity",
-    "questionText": "Abuse of which recreational substance is known to irreversibly inactivate Vitamin B12 and cause a presentation similar to Subacute Combined Degeneration?",
-    "options": [
-      {
-        "text": "Cocaine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nitrous Oxide (Laughing Gas)",
-        "explanation": "Correct. 'Whippits'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Heroin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Methamphetamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alcohol",
-        "explanation": "Incorrect. Causes B1 (Thiamine) deficiency.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: N2O = No B12.",
-    "pdfPage": 29
-  },
-  {
-    "id": 10,
-    "category": "Syndrome",
-    "questionText": "Anterior Cord Syndrome typically results in bilateral loss of motor function and pain/temperature sensation, but with preservation of:",
-    "options": [
-      {
-        "text": "Nothing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Proprioception and Vibration (Posterior Columns)",
-        "explanation": "Correct. Anterior spinal artery doesn't supply posterior columns.",
-        "isCorrect": true
-      },
-      {
-        "text": "Bladder control only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain sensation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Cord spares the Back (Posterior Columns).",
-    "pdfPage": 34
-  },
-  {
-    "id": 11,
-    "category": "Etiology",
-    "questionText": "The most common vascular cause of Anterior Cord Syndrome is:",
-    "options": [
-      {
-        "text": "MCA stroke",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Infarction of the Anterior Spinal Artery (often from Aortic Aneurysm repair)",
-        "explanation": "Correct. Artery of Adamkiewicz involvement common.",
-        "isCorrect": true
-      },
-      {
-        "text": "Venous thrombosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior Spinal Artery occlusion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Carotid stenosis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Aortic surgery -> Anterior Spinal Artery risks.",
-    "pdfPage": 34
-  },
-  {
-    "id": 12,
-    "category": "Syndrome",
-    "questionText": "Cauda Equina Syndrome involves compression of nerve roots L2-S5. A hallmark symptom requiring urgent evaluation is:",
-    "options": [
-      {
-        "text": "Occipital headache",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Saddle anesthesia and bowel/bladder dysfunction",
-        "explanation": "Correct. Loss of sensation in perianal area + retention/incontinence.",
-        "isCorrect": true
-      },
-      {
-        "text": "Resting tremor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual changes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unilateral hearing loss",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cauda Equina = Saddle Anesthesia + Incontinence.",
-    "pdfPage": 37
-  },
-  {
-    "id": 13,
-    "category": "Management",
-    "questionText": "The treatment of choice for acute Cauda Equina Syndrome is:",
-    "options": [
-      {
-        "text": "Physical Therapy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Epidural Steroid Injection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Emergent Surgical Decompression",
-        "explanation": "Correct. To prevent permanent paralysis/incontinence.",
-        "isCorrect": true
-      },
-      {
-        "text": "Observation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Antibiotics",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Cauda Equina = Surgical Emergency.",
-    "pdfPage": 40
-  },
-  {
-    "id": 14,
-    "category": "Syndrome",
-    "questionText": "Brown-Sequard Syndrome is typically caused by:",
-    "options": [
-      {
-        "text": "Vitamin deficiency",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hemicord lesion (Hemisection), often from penetrating trauma",
-        "explanation": "Correct. One half of the cord cut.",
-        "isCorrect": true
-      },
-      {
-        "text": "Bilateral cord compression",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Syphilis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Genetic mutation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Brown-Sequard = Half the cord cut.",
-    "pdfPage": 42
-  },
-  {
-    "id": 15,
-    "category": "Symptoms",
-    "questionText": "In Brown-Sequard Syndrome, the sensory loss pattern is:",
-    "options": [
-      {
-        "text": "Loss of all sensation ipsilaterally",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ipsilateral loss of vibration/proprioception; Contralateral loss of pain/temperature",
-        "explanation": "Correct. Dorsal columns stay same side; Spinothalamic crosses.",
-        "isCorrect": true
-      },
-      {
-        "text": "Bilateral loss of all sensation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contralateral loss of vibration; Ipsilateral loss of pain",
-        "explanation": "Incorrect. Backwards."
-      },
-      {
-        "text": "Cape-like distribution",
-        "explanation": "Incorrect. That's Central Cord."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Brown-Sequard: Same side vibration, Opposite side pain.",
-    "pdfPage": 42
-  },
-  {
-    "id": 16,
-    "category": "Symptoms",
-    "questionText": "Motor weakness in Brown-Sequard syndrome occurs on which side relative to the lesion?",
-    "options": [
-      {
-        "text": "Ipsilateral (Same Side)",
-        "explanation": "Correct. Corticospinal tract has already crossed in medulla.",
-        "isCorrect": true
-      },
-      {
-        "text": "Contralateral (Opposite Side)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bilateral",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Upper limbs only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No motor weakness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Brown-Sequard Motor = Ipsilateral.",
-    "pdfPage": 42
-  },
-  {
-    "id": 17,
-    "category": "Mononeuropathy",
-    "questionText": "Median Neuropathy, or Carpal Tunnel Syndrome, typically presents with numbness in:",
-    "options": [
-      {
-        "text": "The entire hand",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Digits 1, 2, 3, and lateral half of 4",
-        "explanation": "Correct. Thumb, Index, Middle.",
-        "isCorrect": true
-      },
-      {
-        "text": "Digit 5 and medial half of 4",
-        "explanation": "Incorrect. Ulnar."
-      },
-      {
-        "text": "The dorsal aspect of the hand only",
-        "explanation": "Incorrect. Radial."
-      },
-      {
-        "text": "The forearm",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Median = First 3.5 digits.",
-    "pdfPage": 52
-  },
-  {
-    "id": 18,
-    "category": "Mononeuropathy",
-    "questionText": "Classic physical exam findings for advanced Carpal Tunnel Syndrome include atrophy of the:",
-    "options": [
-      {
-        "text": "Hypothenar eminence",
-        "explanation": "Incorrect. Ulnar."
-      },
-      {
-        "text": "Thenar eminence",
-        "explanation": "Correct. Median nerve innervates thenar muscles (LOAF).",
-        "isCorrect": true
-      },
-      {
-        "text": "Interosseous muscles",
-        "explanation": "Incorrect. Ulnar."
-      },
-      {
-        "text": "Deltoid",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Forearm extensors",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Thenar atrophy = Median nerve.",
-    "pdfPage": 52
-  },
-  {
-    "id": 19,
-    "category": "Mononeuropathy",
-    "questionText": "Ulnar Neuropathy often occurs due to compression at the:",
-    "options": [
-      {
-        "text": "Carpal tunnel",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spiral groove",
-        "explanation": "Incorrect. Radial."
-      },
-      {
-        "text": "Elbow (Cubital Tunnel/Funny Bone)",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Fibular head",
-        "explanation": "Incorrect. Peroneal."
-      },
-      {
-        "text": "Inguinal ligament",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Ulnar nerve = Elbow compression.",
-    "pdfPage": 53
-  },
-  {
-    "id": 20,
-    "category": "Mononeuropathy",
-    "questionText": "A patient presents with 'clawing' of the 4th and 5th digits and interosseous wasting. This suggests:",
-    "options": [
-      {
-        "text": "Median Neuropathy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ulnar Neuropathy",
-        "explanation": "Correct. 'Ulnar Claw'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Radial Neuropathy",
-        "explanation": "Incorrect. Wrist Drop."
-      },
-      {
-        "text": "Peroneal Neuropathy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Axillary Neuropathy",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Claw Hand + Interosseous Wasting = Ulnar.",
-    "pdfPage": 53
-  },
-  {
-    "id": 21,
-    "category": "Mononeuropathy",
-    "questionText": "Radial Neuropathy typically presents with:",
-    "options": [
-      {
-        "text": "Foot drop",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Wrist drop",
-        "explanation": "Correct. Loss of extensors.",
-        "isCorrect": true
-      },
-      {
-        "text": "Claw hand",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ape hand",
-        "explanation": "Incorrect. Median."
-      },
-      {
-        "text": "Scapular winging",
-        "explanation": "Incorrect. Long Thoracic."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Radial Nerve = Wrist Extension (Wrist Drop).",
-    "pdfPage": 54
-  },
-  {
-    "id": 22,
-    "category": "Mononeuropathy",
-    "questionText": "'Saturday Night Palsy', caused by sleeping with openings arm over a chair, typically affects which nerve?",
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Startle-waking at night with a 'dead arm' sensation (Saturday Night Palsy) typically involves compression of which nerve?",
     "options": [
       {
         "text": "Median",
@@ -667,8 +224,7 @@ window.Test_L40 = [
       },
       {
         "text": "Radial",
-        "explanation": "Correct. Compressed at spiral groove.",
-        "isCorrect": true
+        "explanation": "Correct. Compression of Radial nerve against humerus (Spiral groove) causes wrist drop and numbness."
       },
       {
         "text": "Axillary",
@@ -680,75 +236,43 @@ window.Test_L40 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Saturday Night Palsy = Radial Nerve.",
-    "pdfPage": 54
+    "clinicalPearl": "Key takeaway: Saturday Night Palsy = Radial Nerve = Wrist Drop.",
+    "pdfPage": 46
   },
   {
-    "id": 23,
-    "category": "Mononeuropathy",
-    "questionText": "The most common mononeuropathy of the lower extremity, resulting in foot drop, affects the:",
+    "id": 9,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Cauda Equina Syndrome is characterized by:",
     "options": [
       {
-        "text": "Femoral Nerve",
+        "text": "Upper motor neuron signs (Spasticity, Hyperreflexia)",
+        "explanation": "Incorrect. Cauda Equina is nerve roots (LMN). Conus Medullaris can be UMN/LMN."
+      },
+      {
+        "text": "Saddle anesthesia, Bowel/Bladder retention, and Lower motor neuron signs",
+        "explanation": "Correct. Compression of L2-S5 roots causes LMN signs (areflexia, weakness), saddle anesthesia, and urinary retention."
+      },
+      {
+        "text": "Vibration loss only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sciatic Nerve",
+        "text": "Hemiplegia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Common Peroneal (Fibular) Nerve",
-        "explanation": "Correct. Loss of dorsiflexion.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tibial Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Obturator Nerve",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Foot Drop = Peroneal Nerve.",
-    "pdfPage": 55
-  },
-  {
-    "id": 24,
-    "category": "Mononeuropathy",
-    "questionText": "Compression of the Common Peroneal nerve frequently occurs at the:",
-    "options": [
-      {
-        "text": "Popliteal fossa",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fibular Head",
-        "explanation": "Correct. Superficial location.",
-        "isCorrect": true
-      },
-      {
-        "text": "Medial Malleolus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inguinal ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Greater trochanter",
+        "text": "Cape-like sensory loss",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fibular Head is the danger zone for Peroneal Nerve.",
-    "pdfPage": 55
+    "clinicalPearl": "Key takeaway: Cauda Equina = LMN Signs + Saddle Anesthesia + Retention. Surgical Emergency.",
+    "pdfPage": 33
   },
   {
-    "id": 25,
-    "category": "Mononeuropathy",
-    "questionText": "Meralgia Paresthetica is characterized by numbness and pain in the lateral thigh due to compression of the:",
+    "id": 10,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Meralgia Paresthetica involves compression of the:",
     "options": [
       {
         "text": "Femoral Nerve",
@@ -756,8 +280,7 @@ window.Test_L40 = [
       },
       {
         "text": "Lateral Femoral Cutaneous Nerve",
-        "explanation": "Correct. Purely sensory.",
-        "isCorrect": true
+        "explanation": "Correct. Pure sensory nerve compressed at inguinal ligament. Causes lateral thigh numbness/pain."
       },
       {
         "text": "Sciatic Nerve",
@@ -773,44 +296,163 @@ window.Test_L40 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Meralgia Paresthetica = Lateral Femoral Cutaneous Nerve.",
-    "pdfPage": 56
+    "clinicalPearl": "Key takeaway: Meralgia Paresthetica = Lateral Femoral Cutaneous Nerve. Tight belts/obesity.",
+    "pdfPage": 48
   },
   {
-    "id": 26,
-    "category": "Etiology",
-    "questionText": "Meralgia Paresthetica is commonly associated with:",
+    "id": 11,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Nitrous Oxide abuse ('Whippets') can cause irreversible inactivation of Vitamin B12, leading to symptoms of:",
     "options": [
       {
-        "text": "Tight belts, obesity, or pregnancy",
-        "explanation": "Correct. Compresses nerve under inguinal ligament.",
-        "isCorrect": true
-      },
-      {
-        "text": "Trauma to the knee",
+        "text": "Anterior Cord Syndrome",
         "explanation": "Incorrect."
       },
       {
-        "text": "Diabetes only",
+        "text": "Subacute Combined Degeneration",
+        "explanation": "Correct. N2O oxidizes Cobalt in B12. Presentations mimics B12 deficiency (Dorsal/Lateral column damage)."
+      },
+      {
+        "text": "Cauda Equina Syndrome",
         "explanation": "Incorrect."
       },
       {
-        "text": "Alcoholism",
+        "text": "Central Cord Syndrome",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sleeping on the arm",
+        "text": "Pure motor neuropathy",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Tight pants/belts can cause Meralgia Paresthetica.",
-    "pdfPage": 56
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Nitrous Oxide -> B12 inactivation -> Myelopathy.",
+    "pdfPage": 24
   },
   {
-    "id": 27,
-    "category": "Anatomy",
-    "questionText": "The corticospinal tract decussates (crosses) primarily at the level of the:",
+    "id": 12,
+    "category": "Neuro: Anatomy",
+    "questionText": "The Spinothalamic tract carries which sensory modalities?",
+    "options": [
+      {
+        "text": "Vibration and Proprioception",
+        "explanation": "Incorrect (Dorsal Columns)."
+      },
+      {
+        "text": "Fine Touch and Discrimination",
+        "explanation": "Incorrect (Dorsal Columns)."
+      },
+      {
+        "text": "Pain, Temperature, and Crude Touch",
+        "explanation": "Correct. Decussates (crosses) at the level of entry (anterior white commissure)."
+      },
+      {
+        "text": "Motor function",
+        "explanation": "Incorrect (Corticospinal)."
+      },
+      {
+        "text": "Unconscious proprioception",
+        "explanation": "Incorrect (Spinocerebellar)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Spinothalamic = Pain/Temp. Crosses immediately.",
+    "pdfPage": 3
+  },
+  {
+    "id": 13,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Clawing of the 4th and 5th digits (Benediction hand on opening?) usually indicates:",
+    "options": [
+      {
+        "text": "Median Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ulnar Neuropathy",
+        "explanation": "Correct. Ulnar nerve innervates medial lumbricals. Damage leads to unopposed extension (MCP) and flexion (IP) of 4th/5th digits."
+      },
+      {
+        "text": "Radial Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Axillary Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Musculocutaneous Neuropathy",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ulnar Claw = 4th/5th digit permanent flexion.",
+    "pdfPage": 45
+  },
+  {
+    "id": 14,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Lhermitte's sign (electric shock sensation down the spine with neck flexion) suggests involvement of the:",
+    "options": [
+      {
+        "text": "Anterior Horn Cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Columns",
+        "explanation": "Correct. Sign of dorsal column irritation (MS, B12, Spondylosis)."
+      },
+      {
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsal Root Ganglion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lhermitte's = Electrical shock on neck flexion = Dorsal Column disease.",
+    "pdfPage": 13
+  },
+  {
+    "id": 15,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Which condition is a Neurosurgical Emergency requiring immediate MRI and decompression?",
+    "options": [
+      {
+        "text": "Carpal Tunnel Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Meralgia Paresthetica",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cauda Equina Syndrome",
+        "explanation": "Correct. Delay leads to permanent incontinence and paralysis."
+      },
+      {
+        "text": "Tabes Dorsalis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "B12 Deficiency",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Cauda Equina = MRI STAT.",
+    "pdfPage": 34
+  },
+  {
+    "id": 16,
+    "category": "Neuro: Anatomy",
+    "questionText": "The Corticospinal tract decussates (crosses) at the level of the:",
     "options": [
       {
         "text": "Midbrain",
@@ -821,272 +463,590 @@ window.Test_L40 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Medullary Pyramids",
-        "explanation": "Correct. 85-90% cross here.",
-        "isCorrect": true
+        "text": "Medulla (Pyramids)",
+        "explanation": "Correct. 85-90% cross at the medullary pyramids to become the Lateral Corticospinal Tract."
       },
       {
-        "text": "Spinal cord",
-        "explanation": "Incorrect."
+        "text": "Spinal Cord",
+        "explanation": "Incorrect (Spinothalamic crosses here)."
       },
       {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Motor crosses at the Medulla.",
-    "pdfPage": 6
-  },
-  {
-    "id": 28,
-    "category": "Diagnosis",
-    "questionText": "The gold standard imaging modality for evaluating spinal cord syndromes and cauda equina is:",
-    "options": [
-      {
-        "text": "X-ray",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CT Scan",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "MRI",
-        "explanation": "Correct. Visualizes soft tissue/cord best.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ultrasound",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "PET Scan",
+        "text": "Internal Capsule",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Spine trouble? Order an MRI.",
-    "pdfPage": 40
+    "clinicalPearl": "Key takeaway: Corticospinal decussation = Medullary Pyramids.",
+    "pdfPage": 3
   },
   {
-    "id": 29,
-    "category": "Comparison",
-    "questionText": "Unlike Cauda Equina Syndrome, Conus Medullaris Syndrome typically presents with:",
+    "id": 17,
+    "category": "Neuro: Clinical Signs",
+    "questionText": "Weakness of the First Dorsal Interosseous muscle (abduction of index finger) suggests:",
     "options": [
       {
-        "text": "Early and severe autonomic dysfunction",
-        "explanation": "Correct. Conus is the tip of the cord; Cauda is roots. Conus hits bladder earlier.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only motor symptoms",
+        "text": "Median Nerve Palsy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Saddle anesthesia is absent",
+        "text": "Ulnar Nerve Palsy",
+        "explanation": "Correct. Ulnar nerve innervates all interossei."
+      },
+      {
+        "text": "Radial Nerve Palsy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hyperreflexia in legs",
-        "explanation": "Incorrect. Can be UMN/LMN mix.",
-        "isCorrect": false
+        "text": "C8 Radiculopathy",
+        "explanation": "Incorrect. Though possible, Ulnar is the specific peripheral nerve."
       },
       {
-        "text": "Better prognosis",
+        "text": "T1 Radiculopathy",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 1st Dorsal Interosseous = Ulnar nerve.",
+    "pdfPage": 45
+  },
+  {
+    "id": 18,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Syringomyelia typically presents first with:",
+    "options": [
+      {
+        "text": "Loss of vibration in toes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral loss of pain/temperature in hands/arms",
+        "explanation": "Correct. Central cord lesion expands, hitting crossing fibers at C-spine level first (Hands/Arms). Legs spared usually."
+      },
+      {
+        "text": "Monocular blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Urinary incontinence",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Facial paralysis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Syrinx = Bilateral arm Pain/Temp loss.",
+    "pdfPage": 10
+  },
+  {
+    "id": 19,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "The Tinel sign (tapping over the nerve) at the wrist is used to evaluate for:",
+    "options": [
+      {
+        "text": "Carpal Tunnel Syndrome",
+        "explanation": "Correct. Tapping flexor retinaculum reproduces tingling."
+      },
+      {
+        "text": "Cubital Tunnel Syndrome",
+        "explanation": "Incorrect (Elbow)."
+      },
+      {
+        "text": "Tarsal Tunnel Syndrome",
+        "explanation": "Incorrect (Ankle)."
+      },
+      {
+        "text": "Thoracic Outlet Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "De Quervain's Tenosynovitis",
+        "explanation": "Incorrect (Finkelstein)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Tinel/Phalen = Carpal Tunnel.",
+    "pdfPage": 44
+  },
+  {
+    "id": 20,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Glossitis (beefy red tongue) and Megaloblastic Anemia are systemic signs associated with:",
+    "options": [
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Subacute Combined Degeneration (B12 Deficiency)",
+        "explanation": "Correct. B12 deficiency causes hematologic (Megaloblastic anemia) and neurologic (SCD) issues."
+      },
+      {
+        "text": "Tabes Dorsalis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Syringomyelia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glossitis + Neuro symptoms = B12.",
+    "pdfPage": 22
+  },
+  {
+    "id": 21,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Posterior Spinal Artery infarction is rare but would result in loss of:",
+    "options": [
+      {
+        "text": "Motor function",
+        "explanation": "Incorrect (Anterior)."
+      },
+      {
+        "text": "Pain and Temperature",
+        "explanation": "Incorrect (Anterior)."
+      },
+      {
+        "text": "Vibration and Proprioception",
+        "explanation": "Correct. PSA supplies dorsal columns."
+      },
+      {
+        "text": "Autonomic function",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: PSA Infarct = Dorsal Column Syndrome.",
+    "pdfPage": 16
+  },
+  {
+    "id": 22,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Charcot's Joints (Neurogenic Arthropathy) in the context of Tabes Dorsalis are caused by:",
+    "options": [
+      {
+        "text": "Autoimmune attack",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of joint sensation leading to repeated microtrauma",
+        "explanation": "Correct. Loss of proprioception/pain (Dorsal roots) means patients destroy their joints (knees/ankles) without knowing."
+      },
+      {
+        "text": "Bacterial infection of joint",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Uric acid deposition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle weakness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Charcot Joint = Destruction due to loss of sensation.",
+    "pdfPage": 14
+  },
+  {
+    "id": 23,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A 22-year-old male with a history of IV drug use presents with fever, back pain, and rapidly progressive paraplegia. MRI shows an Epidural Abscess. The likely mechanism of cord injury is:",
+    "options": [
+      {
+        "text": "Direct viral invasion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Compression of the spinal cord",
+        "explanation": "Correct. The abscess mass compresses the cord causing ischemia and mechanical damage."
+      },
+      {
+        "text": "Autoimmune demyelination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vitamin deficiency",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Genetic mutation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Epidural Abscess = Compressive Myelopathy. Emergency.",
+    "pdfPage": 38
+  },
+  {
+    "id": 24,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Which nerve is at risk during pelvic surgery or pregnancy, causing numbness of the lateral thigh?",
+    "options": [
+      {
+        "text": "Femoral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral Femoral Cutaneous",
+        "explanation": "Correct. Meralgia Paresthetica."
+      },
+      {
+        "text": "Sciatic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pudendal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ilioinguinal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: LFCN compression = Numb Lateral Thigh.",
+    "pdfPage": 48
+  },
+  {
+    "id": 25,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "In Brown-Sequard syndrome, the loss of Pain and Temperature is:",
+    "options": [
+      {
+        "text": "Ipsilateral to the lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Contralateral to the lesion",
+        "explanation": "Correct. Spinothalamic tract crosses immediately (1-2 levels). Lesion on Right blocks fibers coming from Left side of body."
+      },
+      {
+        "text": "Bilateral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Absent",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only in the face",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Brown-Sequard: Pain/Temp is Contralateral.",
+    "pdfPage": 36
+  },
+  {
+    "id": 26,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Argyll Robertson pupils are pathognomonic for:",
+    "options": [
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neurosyphilis (Tabes Dorsalis)",
+        "explanation": "Correct."
+      },
+      {
+        "text": "B12 deficiency",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lyme Disease",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Argyll Robertson = Syphilis.",
+    "pdfPage": 15
+  },
+  {
+    "id": 27,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Weakness of wrist extension ('Wrist Drop') is the hallmark of:",
+    "options": [
+      {
+        "text": "Radial Neuropathy",
+        "explanation": "Correct."
+      },
+      {
+        "text": "Ulnar Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Median Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Musculocutaneous Neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Axillary Neuropathy",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Conus Medullaris = Early Bladder/Bowel dysfunction.",
-    "pdfPage": 37
+    "clinicalPearl": "Key takeaway: Wrist Drop = Radial Nerve.",
+    "pdfPage": 46
   },
   {
-    "id": 30,
-    "category": "Syndrome",
-    "questionText": "A patient with complete spinal cord transection at T10 will exhibit:",
+    "id": 28,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A patient with long-standing HIV presents with gait disturbance and incontinence. Diagnosis of Vacuolar Myelopathy is considered. This clinically resembles:",
     "options": [
       {
-        "text": "Quadriplegia",
-        "explanation": "Incorrect. T10 is below arms."
+        "text": "Subacute Combined Degeneration",
+        "explanation": "Correct. HIV Vacuolar Myelopathy affects the same tracts (Dorsal/Lateral) as B12 deficiency."
       },
-      {
-        "text": "Paraplegia",
-        "explanation": "Correct. Legs affected, arms spared.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hemiplegia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Monoplegia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No motor deficits",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Thoracic transection = Paraplegia.",
-    "pdfPage": 47
-  },
-  {
-    "id": 31,
-    "category": "Infection",
-    "questionText": "Which viral infection is notably associated with acute myelopathy/spinal cord symptoms?",
-    "options": [
-      {
-        "text": "Rhinovirus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "COVID-19",
-        "explanation": "Correct. Can cause neurological complications.",
-        "isCorrect": true
-      },
-      {
-        "text": "Norovirus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rotavirus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "HPV",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: COVID-19 can attack the cord.",
-    "pdfPage": 50
-  },
-  {
-    "id": 32,
-    "category": "Syndrome",
-    "questionText": "A patient with weakness in the legs and loss of vibration sense, but PRESERVED pain and temperature sensation, likely has:",
-    "options": [
-      {
-        "text": "Anterior Cord Syndrome",
-        "explanation": "Incorrect. Pain/Temp is lost."
-      },
-      {
-        "text": "Posterior Column Syndrome",
-        "explanation": "Correct. Vibration/Proprioception lost.",
-        "isCorrect": true
-      },
-      {
-        "text": "Central Cord Syndrome",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Complete Transection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem lesion",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dorsal columns = Vibration/Proprioception.",
-    "pdfPage": 21
-  },
-  {
-    "id": 33,
-    "category": "Anatomy",
-    "questionText": "The Spinothalamic tract crosses over (decussates) at:",
-    "options": [
-      {
-        "text": "The Medulla",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The level of entry in the spinal cord (Anterior White Commissure)",
-        "explanation": "Correct. Within 1-2 segments.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Midbrain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It does not cross",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pain/Temp crosses immediately in the cord.",
-    "pdfPage": 5
-  },
-  {
-    "id": 34,
-    "category": "Syndrome",
-    "questionText": "Hyperextension injury in an elderly patient with cervical spondylosis is a classic mechanism for:",
-    "options": [
       {
         "text": "Anterior Cord Syndrome",
         "explanation": "Incorrect."
       },
       {
         "text": "Central Cord Syndrome",
-        "explanation": "Correct. Compresses the center of the cord.",
-        "isCorrect": true
+        "explanation": "Incorrect."
       },
       {
         "text": "Brown-Sequard Syndrome",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cauda Equina Syndrome",
+        "text": "Cauda Equina",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: HIV Myelopathy mimics B12 deficiency.",
+    "pdfPage": 23
+  },
+  {
+    "id": 29,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Which virus is NOT typically associated with myelopathy?",
+    "options": [
+      {
+        "text": "HIV",
+        "explanation": "Incorrect (It is)."
+      },
+      {
+        "text": "HTLV-1",
+        "explanation": "Incorrect (Tropical Spastic Paraparesis)."
+      },
+      {
+        "text": "West Nile Virus",
+        "explanation": "Incorrect (Polio-like)."
+      },
+      {
+        "text": "Rhinovirus",
+        "explanation": "Correct. Common cold virus, not myelopathic."
+      },
+      {
+        "text": "Poliovirus",
+        "explanation": "Incorrect (Anterior Horn)."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Rhinovirus does not cause myelopathy.",
+    "pdfPage": 39
+  },
+  {
+    "id": 30,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "A 'Syrinx' is:",
+    "options": [
+      {
+        "text": "A tumor",
         "explanation": "Incorrect."
       },
       {
-        "text": "Posterior Cord Syndrome",
+        "text": "A fluid-filled cavity (cyst) within the spinal cord",
+        "explanation": "Correct."
+      },
+      {
+        "text": "A blood clot",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A demyelinated plaque",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A herniated disc",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Old person falls forward (extends neck) -> Central Cord.",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: Syrinx = Cyst.",
+    "pdfPage": 8
   },
   {
-    "id": 35,
-    "category": "General",
-    "questionText": "The presence of a 'sensory level' (a distinct line on the trunk below which sensation is altered) strongly suggests:",
+    "id": 31,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Which part of the spinal cord is most commonly affected in Syringomyelia?",
     "options": [
       {
-        "text": "Peripheral neuropathy",
-        "explanation": "Incorrect. Usually glove/stocking.",
-        "isCorrect": false
+        "text": "Cervical",
+        "explanation": "Correct. Cervical > Thoracic."
       },
       {
-        "text": "Spinal Cord lesion (Myelopathy)",
-        "explanation": "Correct. Hallmark of cord pathology.",
-        "isCorrect": true
+        "text": "Lumbar",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Brain lesion",
-        "explanation": "Incorrect. Usually hemibody.",
-        "isCorrect": false
+        "text": "Sacral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Couda Equina",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla alone",
+        "explanation": "Incorrect (Syringobulbia)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Syringomyelia usually starts in Cervical cord.",
+    "pdfPage": 9
+  },
+  {
+    "id": 32,
+    "category": "Neuro: Mononeuropathies",
+    "questionText": "Thenar atrophy (wasting of thumb muscles) is a late sign of:",
+    "options": [
+      {
+        "text": "Carpal Tunnel Syndrome",
+        "explanation": "Correct. Median nerve supplies LOAF muscles (Lumbrical 1/2, Opponens, Abductor Pollicis Brevis, Flexor Pollicis Brevis)."
+      },
+      {
+        "text": "Cubital Tunnel Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Radial Tunnel Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tarsal Tunnel Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sciatica",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Thenar Wasting = Severe Carpal Tunnel.",
+    "pdfPage": 44
+  },
+  {
+    "id": 33,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Anterior Horn Cells are the site of:",
+    "options": [
+      {
+        "text": "Sensory input",
+        "explanation": "Incorrect (Dorsal Horn)."
+      },
+      {
+        "text": "Lower Motor Neuron cell bodies",
+        "explanation": "Correct. Polio and ALS affect Anterior Horn Cells."
+      },
+      {
+        "text": "Upper Motor Neuron cell bodies",
+        "explanation": "Incorrect (Cortex)."
+      },
+      {
+        "text": "Autonomic synapses",
+        "explanation": "Incorrect (Lateral Horn)."
+      },
+      {
+        "text": "Proprioception",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Horn = Motor.",
+    "pdfPage": 2
+  },
+  {
+    "id": 34,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "Spasticity and Hyperreflexia are signs of:",
+    "options": [
+      {
+        "text": "Lower Motor Neuron lesion",
+        "explanation": "Incorrect (Flaccid, hyporeflexia)."
+      },
+      {
+        "text": "Upper Motor Neuron lesion",
+        "explanation": "Correct. Damage to corticospinal tracts removes inhibition on reflex arcs."
+      },
+      {
+        "text": "Dorsal Root lesion",
+        "explanation": "Incorrect (Areflexia)."
       },
       {
         "text": "Muscle disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "NMJ disorder",
+        "text": "NMJ disease",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sensory Level = Spinal Cord.",
-    "pdfPage": 10
+    "clinicalPearl": "Key takeaway: UMN = Spasticity, Hyperreflexia, Babinski. LMN = Flaccidity, Atrophy, Fasciculations.",
+    "pdfPage": 4
+  },
+  {
+    "id": 35,
+    "category": "Neuro: Spinal Cord Syndromes",
+    "questionText": "In a complete spinal cord transection at T5, autonomic dysfunction usually manifests as:",
+    "options": [
+      {
+        "text": "Constipation and Urinary Retention",
+        "explanation": "Correct. Loss of descending control leads to bowel/bladder paralysis."
+      },
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Urinary incontinence (Urge)",
+        "explanation": "Incorrect (Retention/overflow initially)."
+      },
+      {
+        "text": "Hypertension only",
+        "explanation": "Incorrect (Autonomic dysreflexia later)."
+      },
+      {
+        "text": "Normal function",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Spinal shock/transection = Retention.",
+    "pdfPage": 38
   }
 ];
