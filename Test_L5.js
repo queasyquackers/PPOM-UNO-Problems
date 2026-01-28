@@ -1,1087 +1,1053 @@
-window.Test_L5 = [
+// Test_L5.js
+const Test_L5 = [
   {
     "id": 1,
-    "category": "Neuroimaging: CT Indications",
-    "questionText": "Which of the following is the PRIMARY advantage of CT scan over MRI for acute neurological emergencies?",
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which of the following imaging modalities exposes the patient to ionizing radiation?",
     "options": [
       {
-        "text": "Better soft tissue contrast",
-        "explanation": "Incorrect (MRI advantage)."
+        "text": "Magnetic Resonance Imaging (MRI)",
+        "explanation": "Incorrect. MRI uses magnetic fields and radio waves, not ionizing radiation."
       },
       {
-        "text": "No radiation exposure",
-        "explanation": "Incorrect (CT uses radiation)."
+        "text": "Carotid Doppler Ultrasound",
+        "explanation": "Incorrect. Ultrasound uses sound waves."
       },
       {
-        "text": "Speed of acquisition (<30 seconds) and excellent for detecting acute hemorrhage",
-        "explanation": "Correct. CT = Fast, readily available, shows blood immediately (hyperdense).",
-        "isCorrect": true
+        "text": "Computed Tomography (CT)",
+        "explanation": "Correct. CT scans use helical X-ray beams, which are a form of ionizing radiation. This is a key disadvantage to consider, especially in pediatrics and pregnancy."
       },
       {
-        "text": "Better for posterior fossa",
-        "explanation": "Incorrect (MRI better - no beam hardening artifact)."
+        "text": "Electroencephalography (EEG)",
+        "explanation": "Incorrect. EEG measures electrical activity."
       },
       {
-        "text": "No contraindications",
-        "explanation": "Incorrect."
+        "text": "Transcranial Doppler",
+        "explanation": "Incorrect. This is also ultrasound-based."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: CT = First-line for acute stroke, trauma, hemorrhage. Fast, shows blood.",
-    "pdfPage": 3
+    "clinicalPearl": "CT scans expose patients to ionizing radiation (X-rays), whereas MRI and Ultrasound do not.",
+    "pdfPage": 12
   },
   {
     "id": 2,
-    "category": "Neuroimaging: CT vs MRI",
-    "questionText": "On non-contrast CT, acute hemorrhage appears:",
+    "category": "Neuroimaging Modalities",
+    "questionText": "What is the primary contraindication for performing an MRI in a patient?",
     "options": [
       {
-        "text": "Hypodense (dark)",
-        "explanation": "Incorrect."
+        "text": "Iodine allergy",
+        "explanation": "Incorrect. Iodine is used in CT contrast, not MRI. MRI uses Gadolinium."
       },
       {
-        "text": "Hyperdense (bright white)",
-        "explanation": "Correct. Blood is hyperdense on CT = white/bright.",
-        "isCorrect": true
+        "text": "Elevated creatinine",
+        "explanation": "Incorrect. This is a relative contraindication for Gadolinium contrast, but not for a non-contrast MRI itself."
       },
       {
-        "text": "Isodense (same as brain)",
-        "explanation": "Incorrect (Subacute, 1-2 weeks)."
+        "text": "Ferromagnetic metallic implants",
+        "explanation": "Correct. The strong magnetic field can move ferromagnetic objects (e.g., old aneurysm clips, metal in the eye, certain pacemakers) causing severe injury or death. Screening is critical."
       },
       {
-        "text": "Variable",
-        "explanation": "Incorrect (Acute = predictably hyperdense)."
+        "text": "Claustrophobia",
+        "explanation": "Incorrect. While a significant challenge, it can be managed with sedation or open MRI; it is not an absolute physical contraindication like metal."
       },
       {
-        "text": "Invisible on CT",
-        "explanation": "Incorrect."
+        "text": "Pregnancy",
+        "explanation": "Incorrect. MRI is preferred over CT in pregnancy due to lack of radiation."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CT - Acute blood = WHITE. Chronic blood/edema/infarct = DARK.",
-    "pdfPage": 4
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Ferromagnetic implants (pacemakers, old clips) are absolute contraindications for MRI due to the missile effect or heating.",
+    "pdfPage": 23
   },
   {
     "id": 3,
-    "category": "Neuroimaging: CT Windows",
-    "questionText": "CT 'windows' are software settings that optimize visualization of different tissues. Which window should be used to evaluate skull fractures?",
+    "category": "Clinical Indications",
+    "questionText": "A 65-year-old male presents to the ER with acute onset of left-sided weakness and facial droop that started 45 minutes ago. What is the initial diagnostic imaging study of choice?",
     "options": [
       {
-        "text": "Brain (soft tissue) window",
-        "explanation": "Incorrect (Shows brain parenchyma)."
+        "text": "Non-contrast MRI Brain",
+        "explanation": "Incorrect. While more sensitive, MRI takes too long. In acute ****** code, speed is key."
+      },
+      {
+        "text": "Non-contrast CT Head",
+        "explanation": "Correct. A non-contrast CT is the standard first-line test for acute ****** symptoms primarily to rule out intracranial hemorrhage before potential tPA administration. It is fast (<30s)."
+      },
+      {
+        "text": "CT Angiogram of Head and Neck",
+        "explanation": "Incorrect. This may be done subsequently, but the non-contrast CT is first."
+      },
+      {
+        "text": "Carotid Ultrasound",
+        "explanation": "Incorrect. This is for workup of stenosis, not acute emergent ****** triage."
+      },
+      {
+        "text": "Lumbar Puncture",
+        "explanation": "Incorrect. Contraindicated with mass effect and not first-line for ischemic ******."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Non-contrast CT Head is the gold standard initial imaging for suspected stroke to rule out hemorrhage.",
+    "pdfPage": 11
+  },
+  {
+    "id": 4,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which CT 'window' would be best for evaluating a skull fracture?",
+    "options": [
+      {
+        "text": "Brain window",
+        "explanation": "Incorrect. Optimizes contrast between grey and white matter."
+      },
+      {
+        "text": "Soft tissue window",
+        "explanation": "Incorrect. For muscles and fat."
       },
       {
         "text": "Bone window",
-        "explanation": "Correct. Bone window = High contrast for cortex, fractures, calcifications.",
-        "isCorrect": true
+        "explanation": "Correct. Bone windows use a wide window width to visualize the high-density cortical bone and medullary cavity, allowing detection of fractures."
       },
       {
         "text": "Lung window",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vascular window",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No windows needed",
-        "explanation": "Incorrect."
+        "text": "Subdural window",
+        "explanation": "Incorrect. Used to see blood collection."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bone window = Fractures, calcifications. Brain window = Soft tissue, hemorrhage, mass effect.",
-    "pdfPage": 5
-  },
-  {
-    "id": 4,
-    "category": "Neuroimaging: MRI Basics",
-    "questionText": "How can you distinguish T1-weighted from T2-weighted MRI images?",
-    "options": [
-      {
-        "text": "T1: CSF dark (hypointense). T2: CSF bright (hyperintense)",
-        "explanation": "Correct. T1 = Anatomy (CSF dark). T2 = Pathology (CSF/edema bright).",
-        "isCorrect": true
-      },
-      {
-        "text": "T1: CSF bright. T2: CSF dark",
-        "explanation": "Incorrect (Reversed)."
-      },
-      {
-        "text": "Both show CSF bright",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Both show CSF dark",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cannot distinguish",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: T1 = Anatomy (CSF dark, good gray/white differentiation). T2 = Pathology (edema/fluid bright).",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CT 'Windows' are software adjustments to highlight specific densities. Bone windows are essential for fractures.",
     "pdfPage": 7
   },
   {
     "id": 5,
-    "category": "Neuroimaging: MRI Contraindications",
-    "questionText": "Which of the following is an ABSOLUTE contraindication to MRI?",
+    "category": "Contrast Agents",
+    "questionText": "Nephrogenic Systemic Fibrosis (NSF) is a rare but serious complication associated with which contrast agent in patients with severe renal impairment?",
     "options": [
       {
-        "text": "Pregnancy",
-        "explanation": "Incorrect (Relative contraindication - avoid gadolinium in 1st trimester)."
+        "text": "Iodinated contrast",
+        "explanation": "Incorrect. associated with Contrast-Induced Nephropathy (CIN)."
       },
       {
-        "text": "Claustrophobia",
-        "explanation": "Incorrect (Relative - can use open MRI or sedation)."
+        "text": "Barium sulfate",
+        "explanation": "Incorrect. Used in GI studies."
       },
       {
-        "text": "Pacemaker/ICD (unless MRI-conditional)",
-        "explanation": "Correct. Strong magnetic field can disrupt pacemaker function. Most are absolute contraindication.",
-        "isCorrect": true
+        "text": "Gadolinium-based contrast",
+        "explanation": "Correct. Gadolinium, used in MRI, is linked to NSF (skin thickening, organ fibrosis) in patients with GFR < 30."
       },
       {
-        "text": "Tattoos",
-        "explanation": "Incorrect (Rare issue with metallic ink)."
+        "text": "Technetium-99m",
+        "explanation": "Incorrect. Used in nuclear medicine."
       },
       {
-        "text": "Obesity",
-        "explanation": "Incorrect (May need open/wide-bore MRI)."
+        "text": "Microbubble contrast",
+        "explanation": "Incorrect. Used in ultrasound."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: MRI contraindications = Pacemaker/ICD, cochlear implants, metallic foreign bodies (especially eyes), some aneurysm clips.",
-    "pdfPage": 8
+    "clinicalPearl": "Gadolinium MRI contrast can cause Nephrogenic Systemic Fibrosis (NSF) in patients with severe renal failure (GFR < 30).",
+    "pdfPage": 27
   },
   {
     "id": 6,
-    "category": "Neuroimaging: FLAIR Sequence",
-    "questionText": "FLAIR (Fluid-Attenuated Inversion Recovery) MRI sequence is particularly useful for:",
+    "category": "Clinical Indications",
+    "questionText": "A 30-year-old pregnant female presents with a new onset seizure. To evaluate for a structural brain lesion while minimizing risk to the fetus, what is the preferred imaging modality?",
     "options": [
       {
-        "text": "Detecting periventricular white matter lesions (e.g., MS plaques)",
-        "explanation": "Correct. FLAIR suppresses CSF signal → Lesions near ventricles stand out (bright).",
-        "isCorrect": true
+        "text": "CT Head with contrast",
+        "explanation": "Incorrect. Radiation and iodine cross the placenta."
       },
       {
-        "text": "Visualizing bone",
-        "explanation": "Incorrect (CT better)."
+        "text": "CT Head without contrast",
+        "explanation": "Incorrect. Ionizing radiation is teratogenic/carcinogenic risk."
       },
       {
-        "text": "Acute hemorrhage detection",
-        "explanation": "Incorrect (CT better, or GRE/SWI MRI)."
+        "text": "MRI Brain without contrast",
+        "explanation": "Correct. MRI uses no ionizing radiation and is preferred in pregnancy. Gadolinium is generally avoided if possible, so non-contrast is the safest initial structural screen."
       },
       {
-        "text": "Vascular imaging",
-        "explanation": "Incorrect (MRA)."
+        "text": "Plain film X-ray",
+        "explanation": "Incorrect. Low yield for brain parenchyma and still uses radiation."
       },
       {
-        "text": "No specific advantage",
-        "explanation": "Incorrect."
+        "text": "PET Scan",
+        "explanation": "Incorrect. Uses radiotracers."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: FLAIR = Suppresses CSF. Great for MS plaques, stroke (after 24h), periventricular lesions.",
-    "pdfPage": 9
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "MRI is the preferred neuroimaging modality in pregnancy and pediatrics to avoid ionizing radiation.",
+    "pdfPage": 21
   },
   {
     "id": 7,
-    "category": "Neuroimaging: DWI (Diffusion-Weighted Imaging)",
-    "questionText": "Diffusion-Weighted Imaging (DWI) MRI is most sensitive for detecting:",
+    "category": "Neuroanatomy/Imaging",
+    "questionText": "On a standard T1-weighted MRI image, cerebrospinal fluid (CSF) appears:",
     "options": [
       {
-        "text": "Chronic infarcts",
+        "text": "Bright (Hyperintense)",
+        "explanation": "Incorrect. CSF is bright on T2."
+      },
+      {
+        "text": "Dark (Hypointense)",
+        "explanation": "Correct. Water/CSF is dark on T1 and bright on T2. (Mnemonic: H2O is bright on T2)."
+      },
+      {
+        "text": "Isointense to gray matter",
         "explanation": "Incorrect."
       },
       {
-        "text": "Acute ischemic stroke (within minutes to hours)",
-        "explanation": "Correct. DWI shows restricted diffusion (cytotoxic edema) in acute stroke. Bright on DWI, dark on ADC.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hemorrhage",
-        "explanation": "Incorrect (GRE/SWI)."
-      },
-      {
-        "text": "Bone fractures",
+        "text": "Isointense to white matter",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vascular malformations",
-        "explanation": "Incorrect."
+        "text": "Enhancing",
+        "explanation": "Incorrect. Normal CSF does not enhance."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: DWI = Acute stroke detection (hyperintense). ADC map confirms (hypointense = restricted diffusion).",
-    "pdfPage": 10
+    "clinicalPearl": "MRI Physics: Fluid (CSF) is DARK on T1 and BRIGHT on T2.",
+    "pdfPage": 20
   },
   {
     "id": 8,
-    "category": "Neuroimaging: Gadolinium Contrast",
-    "questionText": "Gadolinium-based contrast agents in MRI are used to:",
+    "category": "Clinical Indications",
+    "questionText": "Which imaging modality is the 'Gold Standard' for detecting early ischemic strokes (within the first few hours) that may be occult on CT?",
     "options": [
       {
-        "text": "Detect blood-brain barrier disruption (tumors, infection, inflammation)",
-        "explanation": "Correct. Gadolinium enhances where BBB is disrupted. Bright on T1 post-contrast.",
-        "isCorrect": true
+        "text": "CT Angiography",
+        "explanation": "Incorrect. Shows vessels, not necessarily the parenchymal swallow."
       },
       {
-        "text": "Improve bone visualization",
-        "explanation": "Incorrect."
+        "text": "Diffusion-Weighted MRI (DWI)",
+        "explanation": "Correct. DWI is the most sensitive sequence for detecting acute ischemia (cytotoxic edema), often showing changes within minutes, whereas CT may be normal for hours."
       },
       {
-        "text": "Suppress CSF signal",
-        "explanation": "Incorrect (FLAIR)."
+        "text": "T1-weighted MRI",
+        "explanation": "Incorrect. Anatomical, not sensitive for acute edema."
       },
       {
-        "text": "Detect acute hemorrhage",
-        "explanation": "Incorrect."
+        "text": "Carotid Ultrasound",
+        "explanation": "Incorrect. Evaluates source, not the brain injury."
       },
       {
-        "text": "No specific purpose",
-        "explanation": "Incorrect."
+        "text": "Skull X-ray",
+        "explanation": "Incorrect. Useless for ******, useful for fractures."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Gadolinium enhances tumors, abscesses, meningitis, active MS plaques (BBB breakdown).",
-    "pdfPage": 11
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Diffusion-Weighted Imaging (DWI) on MRI is the most sensitive technique for acute ischemic stroke, detecting infarcts minutes after onset.",
+    "pdfPage": 22
   },
   {
     "id": 9,
-    "category": "Neuroimaging: Carotid Ultrasound",
-    "questionText": "Carotid Doppler ultrasound is primarily used to:",
+    "category": "Neuroimaging Modalities",
+    "questionText": "What is a major advantage of Carotid Duplex Ultrasound compared to CT Angiography?",
     "options": [
       {
-        "text": "Evaluate brain parenchyma",
-        "explanation": "Incorrect (Cannot penetrate skull)."
+        "text": "Higher spatial resolution",
+        "explanation": "Incorrect. CTA usually has better spatial mapping."
       },
       {
-        "text": "Detect carotid artery stenosis (atherosclerotic plaque)",
-        "explanation": "Correct. Non-invasive, no radiation, assesses degree of stenosis and plaque characteristics.",
-        "isCorrect": true
+        "text": "Ability to image intracranial vessels",
+        "explanation": "Incorrect. Ultrasound cannot penetrate the skull effectively; it is limited to cervical (neck) vessels."
       },
       {
-        "text": "Diagnose brain tumors",
-        "explanation": "Incorrect."
+        "text": "Low cost and portability",
+        "explanation": "Correct. Ultrasound is cheap, can be done at the bedside (portable), and has no radiation/contrast risk."
       },
       {
-        "text": "Detect intracranial hemorrhage",
-        "explanation": "Incorrect."
+        "text": "Operator independence",
+        "explanation": "Incorrect. Ultrasound is highly operator-dependent."
       },
       {
-        "text": "Evaluate spinal cord",
-        "explanation": "Incorrect."
+        "text": "Visualization of the aortic arch",
+        "explanation": "Incorrect. Usually limited by sternum/depth."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Carotid US = Screen for stenosis (TIA/stroke workup). >70% stenosis → Consider CEA (endarterectomy).",
-    "pdfPage": 12
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Carotid Ultrasound is inexpensive, portable, and radiation-free, but it is operator-dependent and limited to the neck (cervical) vessels.",
+    "pdfPage": 31
   },
   {
     "id": 10,
-    "category": "Neuroimaging: Conventional Angiogram",
-    "questionText": "Conventional (catheter) angiography is considered the gold standard for:",
+    "category": "Contrast Agents",
+    "questionText": "Before administering IV iodinated contrast for a CT scan, which laboratory value is most critical to check?",
     "options": [
       {
-        "text": "Detecting white matter lesions",
-        "explanation": "Incorrect (MRI)."
+        "text": "Liver enzymes (AST/ALT)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Visualizing intracranial vessels and treating aneurysms/AVMs (via coiling/embolization)",
-        "explanation": "Correct. Invasive but best resolution. Allows intervention (coiling, stenting).",
-        "isCorrect": true
+        "text": "Serum Creatinine",
+        "explanation": "Correct. Creatinine assesses renal function. Contrast-Induced Nephropathy (CIN) is a risk, especially if Cr > 1.5 mg/dL."
       },
       {
-        "text": "Screening for stroke risk",
-        "explanation": "Incorrect (Too invasive for screening)."
+        "text": "Hemoglobin A1c",
+        "explanation": "Incorrect. Diabetes is a risk factor, but Cr is the acute metric."
       },
       {
-        "text": "Detecting tumors",
-        "explanation": "Incorrect (MRI)."
+        "text": "White Blood Cell count",
+        "explanation": "Incorrect."
       },
       {
-        "text": "General stroke evaluation",
-        "explanation": "Incorrect (CT/MRI first)."
+        "text": "Platelet count",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Conventional angiogram = Gold standard for vessels. Invasive (femoral artery access). Allows treatment.",
-    "pdfPage": 13
+    "clinicalPearl": "Screen for Serum Creatinine before CT contrast. Avoid if Cr > 1.5 to prevent contrast-induced nephropathy.",
+    "pdfPage": 17
   },
   {
     "id": 11,
-    "category": "Clinical Correlation: Stroke Imaging",
-    "questionText": "A patient presents with acute onset right-sided weakness 2 hours ago. What is the FIRST imaging study that should be ordered?",
+    "category": "Clinical Indications",
+    "questionText": "Ring-enhancement on a post-contrast CT scan of the brain is classically associated with which pathology?",
     "options": [
       {
-        "text": "MRI brain with DWI",
-        "explanation": "Incorrect (More sensitive but takes longer, may not be available emergently)."
+        "text": "Ischemic stroke",
+        "explanation": "Incorrect. Usually hypodense."
       },
       {
-        "text": "Non-contrast CT head",
-        "explanation": "Correct. Rule out hemorrhage FIRST (contraindication to tPA). CT is fast, widely available.",
-        "isCorrect": true
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect. Shows white matter plaques."
       },
       {
-        "text": "Carotid ultrasound",
-        "explanation": "Incorrect (Not acute management)."
+        "text": "Brain Abscess",
+        "explanation": "Correct. Abscesses (and high-grade tumors like Glioblastoma) typically show a ring of enhancement surrounding a necrotic center due to blood-brain barrier breakdown at the capsule."
       },
       {
-        "text": "Conventional angiogram",
-        "explanation": "Incorrect (Not first-line)."
+        "text": "Meningioma",
+        "explanation": "Incorrect. Typically shows homogenous/diffuse enhancement."
       },
       {
-        "text": "No imaging needed",
-        "explanation": "Incorrect (Imaging mandatory)."
+        "text": "Subarachnoid Hemorrhage",
+        "explanation": "Incorrect. Blood in cisterns, no ring."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute stroke = Non-contrast CT first (rule out bleed). Then consider tPA if <4.5h and no hemorrhage.",
-    "pdfPage": 14
-  },
-  {
-    "id": 12,
-    "category": "Clinical Correlation: TIA Workup",
-    "questionText": "A patient had a transient ischemic attack (TIA) with complete resolution of symptoms. What imaging is indicated to evaluate stroke risk?",
-    "options": [
-      {
-        "text": "No imaging needed (symptoms resolved)",
-        "explanation": "Incorrect (TIA = stroke warning sign)."
-      },
-      {
-        "text": "MRI brain (DWI) + Carotid ultrasound or CTA/MRA neck",
-        "explanation": "Correct. MRI may show infarct despite symptom resolution. Carotid imaging assesses stenosis → CEA if severe.",
-        "isCorrect": true
-      },
-      {
-        "text": "CT only",
-        "explanation": "Incorrect (MRI more sensitive)."
-      },
-      {
-        "text": "Angiogram",
-        "explanation": "Incorrect (Too invasive initially)."
-      },
-      {
-        "text": "X-ray",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: TIA workup = MRI brain + vascular imaging (carotid US, CTA, MRA). High stroke risk within 48-72h.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Ring enhancement represents a breakdown of the blood-brain barrier at the periphery of a lesion. Primary differentials: Abscess or High-Grade Tumor (Glioblastoma/Metastasis).",
     "pdfPage": 15
   },
   {
-    "id": 13,
-    "category": "Neuroimaging: GRE/SWI Sequences",
-    "questionText": "Gradient Echo (GRE) or Susceptibility-Weighted Imaging (SWI) MRI sequences are particularly sensitive for:",
+    "id": 12,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which modality is considered 'invasive' and carries risks of vessel dissection or access site hematoma?",
     "options": [
       {
-        "text": "Acute ischemic stroke",
-        "explanation": "Incorrect (DWI)."
+        "text": "CT Angiography",
+        "explanation": "Incorrect. IV line only."
       },
       {
-        "text": "Hemorrhage, microbleeds, calcium, and hemosiderin deposition",
-        "explanation": "Correct. Blood products = 'blooming artifact' (dark) on GRE/SWI.",
-        "isCorrect": true
+        "text": "MR Angiography",
+        "explanation": "Incorrect. IV line only."
       },
       {
-        "text": "White matter lesions",
-        "explanation": "Incorrect (FLAIR)."
+        "text": "Carotid Ultrasound",
+        "explanation": "Incorrect. Non-invasive."
       },
       {
-        "text": "Bone",
-        "explanation": "Incorrect (CT)."
+        "text": "Conventional (Catheter) Angiography",
+        "explanation": "Correct. This involves physical catheterization of the femoral or radial artery and threading it to the brain. It is the gold standard but carries surgical risks."
       },
       {
-        "text": "Enhancing lesions",
-        "explanation": "Incorrect (T1 + gadolinium)."
+        "text": "PET Scan",
+        "explanation": "Incorrect. IV line only."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Conventional Angiography is invasive (catheter-based) but offers the unique advantage of simultaneous intervention (e.g., coiling an aneurysm, thrombectomy).",
+    "pdfPage": 38
+  },
+  {
+    "id": 13,
+    "category": "Clinical Indications",
+    "questionText": "A patient with a suspected brain tumor has a negative non-contrast CT. What is the next logical underlying step to visualize the lesion?",
+    "options": [
+      {
+        "text": "Skull X-rays",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MRI or CT with IV contrast",
+        "explanation": "Correct. Isodense tumors may blend in with brain tissue. Contrast enhancement (iodine for CT, gadolinium for MRI) highlights the tumor due to vascularity and BBB breakdown."
+      },
+      {
+        "text": "Repeat non-contrast CT in 24 hours",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Carotid Ultrasound",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "EEG",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GRE/SWI = 'Blood' sequences. Detects microbleeds (amyloid angiopathy), cavernomas, DAI (trauma).",
-    "pdfPage": 10
+    "clinicalPearl": "Contrast is essential for tumor evaluation. Meningiomas show intense diffuse enhancement.",
+    "pdfPage": 13
   },
   {
     "id": 14,
-    "category": "Clinical Correlation: Subarachnoid Hemorrhage",
-    "questionText": "A patient presents with sudden-onset 'worst headache of my life.' Non-contrast CT is negative. What is the next step?",
+    "category": "Neuroimaging Modalities",
+    "questionText": "In CT imaging, 'hyperdense' (bright white) acute material usually represents:",
     "options": [
       {
-        "text": "Discharge patient (CT negative)",
-        "explanation": "Incorrect (CT misses ~5% of SAH, especially if small or delayed)."
+        "text": "CSF",
+        "explanation": "Incorrect. Dark (black)."
       },
       {
-        "text": "Lumbar puncture (LP) to look for xanthochromia or RBCs",
-        "explanation": "Correct. If high suspicion and CT negative, LP rules out SAH. Xanthochromia = breakdown products.",
-        "isCorrect": true
+        "text": "Air",
+        "explanation": "Incorrect. Darkest (black)."
       },
       {
-        "text": "MRI",
-        "explanation": "Incorrect (FLAIR can show SAH, but LP is standard if CT negative)."
+        "text": "Acute Hemorrhage",
+        "explanation": "Correct. Fresh blood (hemoglobin) is dense and attenuates X-rays significantly, appearing bright white on CT."
       },
       {
-        "text": "Angiogram",
-        "explanation": "Incorrect (After SAH confirmed)."
+        "text": "Fat",
+        "explanation": "Incorrect. Dark/Hypodense."
       },
       {
-        "text": "Observation",
-        "explanation": "Incorrect."
+        "text": "Edema",
+        "explanation": "Incorrect. Hypodense (dark gray)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 'Thunderclap headache' + negative CT → LP to rule out SAH. If positive → angiogram (find aneurysm).",
-    "pdfPage": 16
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "On non-contrast CT, Acute Blood = Bright (Hyperdense). This makes NCCT ideal for ruling out bleeds.",
+    "pdfPage": 10
   },
   {
     "id": 15,
-    "category": "Neuroimaging: CTA/MRA",
-    "questionText": "CT Angiography (CTA) and MR Angiography (MRA) are non-invasive alternatives to conventional angiography for visualizing:",
+    "category": "Clinical Indications",
+    "questionText": "A diabetic patient taking Metformin is scheduled for a contrast CT. What is the standard precaution?",
     "options": [
       {
-        "text": "Brain parenchyma",
+        "text": "Give the Metformin immediately before the scan",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebrovascular anatomy (aneurysms, stenosis, dissection)",
-        "explanation": "Correct. CTA = Fast, uses contrast. MRA = No radiation, but may overestimate stenosis.",
-        "isCorrect": true
+        "text": "Discontinue Metformin for 48 hours after the procedure",
+        "explanation": "Correct. If contrast induces kidney injury, Metformin accumulation can cause fatal lactic acidosis. It is held until renal function is verified stable."
       },
       {
-        "text": "White matter lesions",
+        "text": "Switch to MRI contrast",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bone",
+        "text": "No precautions needed",
         "explanation": "Incorrect."
       },
       {
-        "text": "CSF flow",
+        "text": "Give prophylactic antibiotics",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CTA/MRA = Non-invasive vessel imaging. CTA better for acute, calcified plaque. MRA better for renal insufficiency (no iodinated contrast).",
+    "clinicalPearl": "Stop Metformin for 48 hours after IV contrast administration to prevent Lactic Acidosis in the setting of potential renal injury.",
     "pdfPage": 17
   },
   {
     "id": 16,
-    "category": "Neuroimaging: Multiple Sclerosis",
-    "questionText": "The best MRI sequence for detecting multiple sclerosis (MS) plaques is:",
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which imaging technique relies on detecting the 'spin-lattice' (T1) and 'spin-spin' (T2) relaxation times of protons?",
     "options": [
       {
-        "text": "T1 without contrast",
-        "explanation": "Incorrect (Shows 'black holes' - chronic lesions)."
+        "text": "CT Scan",
+        "explanation": "Incorrect. Uses X-ray attenuation."
       },
       {
-        "text": "T2/FLAIR",
-        "explanation": "Correct. MS plaques = hyperintense on T2/FLAIR. Periventricular, juxtacortical, infratentorial.",
-        "isCorrect": true
+        "text": "PET Scan",
+        "explanation": "Incorrect. Uses positron emission."
       },
-      {
-        "text": "DWI",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "GRE",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CT",
-        "explanation": "Incorrect (MRI much more sensitive)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS = T2/FLAIR hyperintense plaques. T1 + gadolinium shows active (enhancing) lesions.",
-    "pdfPage": 18
-  },
-  {
-    "id": 17,
-    "category": "Clinical Correlation: Increased ICP",
-    "questionText": "Signs of increased intracranial pressure on CT/MRI include all of the following EXCEPT:",
-    "options": [
-      {
-        "text": "Effacement (compression) of ventricles",
-        "explanation": "Incorrect (Sign of ICP)."
-      },
-      {
-        "text": "Midline shift",
-        "explanation": "Incorrect (Sign of ICP/mass effect)."
-      },
-      {
-        "text": "Sulcal effacement",
-        "explanation": "Incorrect (Sign of ICP)."
-      },
-      {
-        "text": "Enlarged ventricles with prominent sulci",
-        "explanation": "Correct. This suggests atrophy, NOT increased ICP. ICP causes compressed ventricles.",
-        "isCorrect": true
-      },
-      {
-        "text": "Herniation (uncal, subfalcine, tonsillar)",
-        "explanation": "Incorrect (Severe ICP)."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Increased ICP = Small/compressed ventricles, sulcal effacement, midline shift, herniation.",
-    "pdfPage": 19
-  },
-  {
-    "id": 18,
-    "category": "Neuroimaging: Hydrocephalus",
-    "questionText": "Ventriculomegaly (enlarged ventricles) with effaced sulci suggests:",
-    "options": [
-      {
-        "text": "Cerebral atrophy",
-        "explanation": "Incorrect (Would have prominent sulci)."
-      },
-      {
-        "text": "Obstructive hydrocephalus (increased ICP)",
-        "explanation": "Correct. Ventricles enlarged, sulci compressed = CSF accumulation with pressure.",
-        "isCorrect": true
-      },
-      {
-        "text": "Normal pressure hydrocephalus",
-        "explanation": "Incorrect (Ventriculomegaly but normal ICP, prominent sulci)."
-      },
-      {
-        "text": "Normal variant",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dehydration",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hydrocephalus = Big ventricles + small sulci. Atrophy = Big ventricles + big sulci (ex vacuo).",
-    "pdfPage": 20
-  },
-  {
-    "id": 19,
-    "category": "Neuroimaging: Ring-Enhancing Lesions",
-    "questionText": "A ring-enhancing lesion on T1 post-gadol contrast MRI suggests (select most complete):",
-    "options": [
-      {
-        "text": "Normal brain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Abscess, metastasis, glioblastoma, or demyelinating lesion (tumefactive MS)",
-        "explanation": "Correct. Ring-enhancement = Central necrosis with peripheral BBB breakdown. Differential is broad.",
-        "isCorrect": true
-      },
-      {
-        "text": "Acute stroke only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hemorrhage",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Artifact",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Ring-enhancement = Abscess, GBM, metastasis, tumefactive MS. Use DWI (abscess = restricted, tumor = not) + clinical context.",
-    "pdfPage": 21
-  },
-  {
-    "id": 20,
-    "category": "Neuroimaging: Radiation Safety",
-    "questionText": "Which imaging modality exposes the patient to ionizing radiation?",
-    "options": [
       {
         "text": "MRI",
-        "explanation": "Incorrect (Magnetic field, no radiation)."
+        "explanation": "Correct. MRI aligns protons with a magnet, excites them with RF pulses, and measures the relaxation times (T1/T2) to create images."
       },
       {
         "text": "Ultrasound",
-        "explanation": "Incorrect (Sound waves)."
+        "explanation": "Incorrect. Uses sound reflectance."
       },
       {
-        "text": "CT scan and conventional angiography",
-        "explanation": "Correct. Both use X-rays. Minimize radiation, especially in children/pregnant women.",
-        "isCorrect": true
-      },
-      {
-        "text": "All modalities",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "None",
-        "explanation": "Incorrect."
+        "text": "Angiography",
+        "explanation": "Incorrect. Fluoroscopic X-ray."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: CT and angiography = Radiation. MRI/ultrasound = No radiation (safe in pregnancy, but avoid gadolinium).",
-    "pdfPage": 22
+    "clinicalPearl": "MRI exploits proton relaxation properties (T1 and T2) to generate tissue contrast.",
+    "pdfPage": 19
   },
   {
-    "id": 21,
-    "category": "Neuroimaging: Iodinated Contrast",
-    "questionText": "Iodinated contrast used in CT angiography (CTA) is contraindicated or requires caution in:",
+    "id": 17,
+    "category": "Clinical Indications",
+    "questionText": "A carotid bruit is heard on physical exam. What is the most cost-effective non-invasive screening tool to evaluate for carotid stenosis?",
     "options": [
       {
-        "text": "Renal insufficiency (risk of contrast-induced nephropathy)",
-        "explanation": "Correct. Check creatinine before contrast. Hydrate patient. Consider MRA instead.",
-        "isCorrect": true
+        "text": "Carotid Duplex Ultrasound",
+        "explanation": "Correct. It directly visualizes the vessel and measures flow velocity to estimate stenosis severity."
       },
       {
-        "text": "Pregnancy (MRI preferred, but not absolute contraindication)",
-        "explanation": "Incorrect (Relative, not absolute)."
+        "text": "Conventional Angiogram",
+        "explanation": "Incorrect. Too invasive for screening."
       },
       {
-        "text": "Pacemaker",
-        "explanation": "Incorrect (MRI contraindication)."
+        "text": "CT Angiography",
+        "explanation": "Incorrect. Higher cost and radiation."
       },
       {
-        "text": "Claustrophobia",
-        "explanation": "Incorrect."
+        "text": "MRA",
+        "explanation": "Incorrect. Higher cost."
       },
       {
-        "text": "No contraindications",
+        "text": "PET Scan",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Iodinated contrast (CT) = Renal toxicity risk, allergic reactions. Gadolinium (MRI) = NSF risk (if severe renal failure).",
-    "pdfPage": 23
-  },
-  {
-    "id": 22,
-    "category": "Clinical Correlation: Trauma Imaging",
-    "questionText": "In acute head trauma, the imaging study of choice is:",
-    "options": [
-      {
-        "text": "MRI",
-        "explanation": "Incorrect (Too slow for acute trauma)."
-      },
-      {
-        "text": "Non-contrast CT head",
-        "explanation": "Correct. Fast, shows fractures, acute hemorrhage (epidural, subdural, SAH). 'ABC' = Airway, Breathing, CT scan.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ultrasound",
-        "explanation": "Incorrect (Cannot penetrate skull)."
-      },
-      {
-        "text": "X-ray",
-        "explanation": "Incorrect (Limited for intracranial injury)."
-      },
-      {
-        "text": "No imaging",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Head trauma = CT head (bone + brain windows). MRI later for DAI, shear injury, prognosis.",
-    "pdfPage": 24
-  },
-  {
-    "id": 23,
-    "category": "Neuroimaging: Epidural vs Subdural Hematoma",
-    "questionText": "On CT, an epidural hematoma classically appears as:",
-    "options": [
-      {
-        "text": "Crescent-shaped hyperdensity crossing suture lines",
-        "explanation": "Incorrect (Subdural)."
-      },
-      {
-        "text": "Lens-shaped (biconvex) hyperdensity that does NOT cross suture lines",
-        "explanation": "Correct. Epidural = Between skull and dura. Limited by suture attachments. Often from middle meningeal artery injury.",
-        "isCorrect": true
-      },
-      {
-        "text": "Diffuse hypodensity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ring-enhancing lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No specific appearance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Epidural = Lens-shaped, doesn't cross sutures. Subdural = Crescent, crosses sutures. Both hyperdense acutely.",
-    "pdfPage": 25
-  },
-  {
-    "id": 24,
-    "category": "Neuroimaging: Perfusion Imaging",
-    "questionText": "CT/MR perfusion imaging in acute stroke is used to:",
-    "options": [
-      {
-        "text": "Identify the ischemic penumbra (salvageable tissue)",
-        "explanation": "Correct. Penumbra = Hypoperfused but not yet infarcted. Guides intervention beyond 4.5h window.",
-        "isCorrect": true
-      },
-      {
-        "text": "Detect chronic infarcts",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visualize bone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Replace non-contrast CT",
-        "explanation": "Incorrect (Adjunct)."
-      },
-      {
-        "text": "No clinical use",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Perfusion imaging = Identifies penumbra. DWI-perfusion mismatch → Candidate for thrombectomy/tPA (extended window).",
-    "pdfPage": 26
-  },
-  {
-    "id": 25,
-    "category": "Neuroimaging: Venography",
-    "questionText": "MR Venography (MRV) or CT Venography (CTV) is used to diagnose:",
-    "options": [
-      {
-        "text": "Arterial aneurysms",
-        "explanation": "Incorrect (MRA/CTA)."
-      },
-      {
-        "text": "Dural venous sinus thrombosis",
-        "explanation": "Correct. Shows filling defect in dural sinuses (e.g., superior sagittal sinus). Associated with hypercoagulable states, OCP.",
-        "isCorrect": true
-      },
-      {
-        "text": "Arterial stenosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brain tumors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "White matter disease",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MRV/CTV = Venous thrombosis. Presents with headache, papilledema, seizures. Treat with anticoagulation.",
-    "pdfPage": 27
-  },
-  {
-    "id": 26,
-    "category": "Neuroimaging: Spectroscopy",
-    "questionText": "MR Spectroscopy (MRS) is an advanced technique that can:",
-    "options": [
-      {
-        "text": "Provide metabolic information (NAA, choline, creatine, lactate) to differentiate tumor types",
-        "explanation": "Correct. High choline = Tumor. High lactate = Necrosis/abscess. Low NAA = Neuronal loss.",
-        "isCorrect": true
-      },
-      {
-        "text": "Visualize bone better than CT",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Detect acute hemorrhage",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Replace conventional MRI",
-        "explanation": "Incorrect (Adjunct)."
-      },
-      {
-        "text": "No clinical utility",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: MRS = Metabolite analysis. Helps differentiate tumor (↑choline) from infection/radiation necrosis.",
-    "pdfPage": 28
-  },
-  {
-    "id": 27,
-    "category": "Clinical Correlation: Altered Mental Status",
-    "questionText": "A patient presents with altered mental status. Imaging reveals diffuse cerebral edema with loss of gray-white differentiation. This suggests:",
-    "options": [
-      {
-        "text": "Normal brain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Global hypoxic-ischemic injury (e.g., cardiac arrest)",
-        "explanation": "Correct. Loss of gray-white = Severe brain injury. Poor prognosis.",
-        "isCorrect": true
-      },
-      {
-        "text": "Multiple sclerosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tumor",
-        "explanation": "Incorrect (Focal)."
-      },
-      {
-        "text": "Normal aging",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Loss of gray-white differentiation = Diffuse brain edema (hypoxic injury, severe diffuse axonal injury). Poor prognosis.",
-    "pdfPage": 29
-  },
-  {
-    "id": 28,
-    "category": "Neuroimaging: Functional MRI",
-    "questionText": "Functional MRI (fMRI) detects brain activity by measuring:",
-    "options": [
-      {
-        "text": "CSF flow",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blood oxygenation level-dependent (BOLD) signal changes",
-        "explanation": "Correct. Active brain areas → Increased blood flow → fMRI signal. Used for presurgical mapping (eloquent cortex).",
-        "isCorrect": true
-      },
-      {
-        "text": "Bone density",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Radiation absorption",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Electric currents",
-        "explanation": "Incorrect (EEG)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: fMRI = Brain mapping (language, motor areas). Used presurgically to avoid eloquent cortex resection.",
-    "pdfPage": 30
-  },
-  {
-    "id": 29,
-    "category": "Neuroimaging: DTI (Diffusion Tensor Imaging)",
-    "questionText": "Diffusion Tensor Imaging (DTI) and tractography are used to visualize:",
-    "options": [
-      {
-        "text": "White matter tracts (e.g., corticospinal tract, arcuate fasciculus)",
-        "explanation": "Correct. DTI shows white matter fiber orientation. Useful for surgical planning, TBI assessment.",
-        "isCorrect": true
-      },
-      {
-        "text": "Acute hemorrhage",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Metabolites",
-        "explanation": "Incorrect (MRS)."
-      },
-      {
-        "text": "Vessels",
-        "explanation": "Incorrect (MRA)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: DTI/Tractography = White matter fiber tracking. Presurgical planning, TBI (diffuse axonal injury assessment).",
-    "pdfPage": 31
-  },
-  {
-    "id": 30,
-    "category": "Neuroimaging: PET Scan",
-    "questionText": "PET (Positron Emission Tomography) scans in neurology are most commonly used for:",
-    "options": [
-      {
-        "text": "Detecting acute stroke",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Differentiating tumor recurrence from radiation necrosis, and evaluating dementia (FDG-PET)",
-        "explanation": "Correct. Tumor = ↑FDG uptake. Necrosis = ↓uptake. Alzheimer's = temporoparietal hypometabolism.",
-        "isCorrect": true
-      },
-      {
-        "text": "Routine headache workup",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bone imaging",
-        "explanation": "Incorrect (Used for metastases, but not primary neuro indication)."
-      },
-      {
-        "text": "No role in neurology",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PET = Metabolic imaging. FDG-PET for tumor vs necrosis, dementia patterns. Amyloid PET for Alzheimer's.",
+    "clinicalPearl": "A carotid bruit implies turbulent flow/stenosis. Carotid Ultrasound is the first-line screen.",
     "pdfPage": 32
   },
   {
-    "id": 31,
-    "category": "Clinical Correlation: Optic Neuritis",
-    "questionText": "A patient with vision loss is suspected of having optic neuritis (often associated with MS). The best imaging study is:",
+    "id": 18,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Digital Subtraction Angiography (DSA) or 'Conventional Angio' allows for therapeutic intervention. Which of the following is an example of an interventional neuroradiology procedure?",
     "options": [
       {
-        "text": "CT orbit",
+        "text": "Taking a plain X-ray",
         "explanation": "Incorrect."
       },
       {
-        "text": "MRI orbits with fat suppression (T2 and T1 + gadolinium)",
-        "explanation": "Correct. Shows optic nerve enhancement and edema. Also obtain brain MRI to look for MS plaques.",
-        "isCorrect": true
+        "text": "Coil embolization of an aneurysm",
+        "explanation": "Correct. A catheter is advanced into the aneurysm, and coils are deployed to clot it off, preventing rupture."
       },
       {
-        "text": "Ultrasound",
+        "text": "Administering oral contrast",
         "explanation": "Incorrect."
       },
       {
-        "text": "X-ray",
+        "text": "Measuring brain activity",
         "explanation": "Incorrect."
       },
       {
-        "text": "No imaging needed",
+        "text": "Biopsy of the thyroid",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Optic neuritis imaging = MRI orbits (fat-sat, enhancement). Check brain MRI for MS (demyelinating plaques).",
-    "pdfPage": 33
+    "clinicalPearl": "Conventional Angiography is not just diagnostic; it is therapeutic (e.g., coiling aneurysms, thrombectomy for stroke, stenting).",
+    "pdfPage": 37
   },
   {
-    "id": 32,
-    "category": "Neuroimaging: Pituitary Protocol",
-    "questionText": "Imaging of the pituitary gland for suspected adenoma should include:",
+    "id": 19,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which imaging modality generally provides the best anatomical detail for posterior fossa structures (brainstem and cerebellum) due to lack of bone artifact?",
     "options": [
       {
-        "text": "CT head",
-        "explanation": "Incorrect (Poor soft tissue resolution)."
+        "text": "CT Head",
+        "explanation": "Incorrect. CT suffers from 'beam hardening' artifact from the dense skull base, obscuring the posterior fossa."
       },
       {
-        "text": "Dedicated pituitary MRI with thin slices and dynamic post-contrast imaging",
-        "explanation": "Correct. Microadenomas (<10mm) best seen on T1 post-gadolinium (often hypointense).",
-        "isCorrect": true
+        "text": "MRI Brain",
+        "explanation": "Correct. MRI is not affected by bone density artifacts, making it superior for viewing the brainstem, cerebellum, and spinal cord."
       },
       {
         "text": "Skull X-ray",
         "explanation": "Incorrect."
       },
       {
-        "text": "Carotid ultrasound",
+        "text": "Ultrasound",
         "explanation": "Incorrect."
       },
       {
-        "text": "PET scan",
+        "text": "Angiogram",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pituitary adenoma = Dedicated pituitary MRI (thin cuts, dynamic contrast). Microadenomas often hypointense on T1+gad.",
+    "clinicalPearl": "MRI is superior to CT for posterior fossa (brainstem/cerebellum) pathology because CT images are degraded by bone artifact in that region.",
+    "pdfPage": 21
+  },
+  {
+    "id": 20,
+    "category": "Neuroimaging Modalities",
+    "questionText": "The unit used to quantify radiodensity in CT scans (e.g., Water = 0, Air = -1000, Bone = +1000) is:",
+    "options": [
+      {
+        "text": "Tesla",
+        "explanation": "Incorrect. Unit of magnetic field strength (MRI)."
+      },
+      {
+        "text": "Sievert",
+        "explanation": "Incorrect. Unit of radiation dose equivalent."
+      },
+      {
+        "text": "Hounsfield Unit (HU)",
+        "explanation": "Correct. Hounsfield Units measure attenuation. Water is the reference at 0 HU."
+      },
+      {
+        "text": "Pascal",
+        "explanation": "Incorrect. Pressure."
+      },
+      {
+        "text": "Hertz",
+        "explanation": "Incorrect. Frequency."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CT density is measured in Hounsfield Units (HU). Air is black (-1000), Bone is white (+1000), Water is gray (0).",
+    "pdfPage": 6
+  },
+  {
+    "id": 21,
+    "category": "Contrast Agents",
+    "questionText": "A patient experiences hives and mild tachycardia immediately after CT contrast administration. This is classified as:",
+    "options": [
+      {
+        "text": "Nephrogenic Systemic Fibrosis",
+        "explanation": "Incorrect. Delayed fibrotic reaction."
+      },
+      {
+        "text": "Contrast-Induced Nephropathy",
+        "explanation": "Incorrect. Kidney injury appearing days later."
+      },
+      {
+        "text": "Anaphylactoid/Allergic Reaction",
+        "explanation": "Correct. An immediate hypersensitivity reaction managed with antihistamines (Benadryl) and steroids (and Epinephrine if severe)."
+      },
+      {
+        "text": "Lactic Acidosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thyrotoxicosis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Mild allergic reactions (hives) to contrast are treated with Diphenhydramine (Benadryl). Severe anaphylaxis requires Epinephrine.",
+    "pdfPage": 16
+  },
+  {
+    "id": 22,
+    "category": "Clinical Indications",
+    "questionText": "In the setting of head trauma, why is CT preferred over MRI?",
+    "options": [
+      {
+        "text": "Higher sensitivity for edema",
+        "explanation": "Incorrect. MRI is better for edema."
+      },
+      {
+        "text": "Speed and detection of fractures/acute bleed",
+        "explanation": "Correct. Trauma patients may be unstable. CT is instant and excellently displays bone fractures and acute life-threatening hemorrhages."
+      },
+      {
+        "text": "Lack of radiation",
+        "explanation": "Incorrect. CT has radiation."
+      },
+      {
+        "text": "Better for diffuse axonal injury",
+        "explanation": "Incorrect. MRI is actually better for DAI, but CT is still first-line for the treatable bleeds."
+      },
+      {
+        "text": "Lower cost",
+        "explanation": "Incorrect. While true, speed/utility is the primary clinical driver."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Trauma = CT. It is fast and best for bone/blood.",
+    "pdfPage": 10
+  },
+  {
+    "id": 23,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which MRI sequence is most useful for suppressing the signal from CSF (making it dark) to better visualize periventricular white matter lesions, such as in Multiple Sclerosis?",
+    "options": [
+      {
+        "text": "T1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "T2",
+        "explanation": "Incorrect. CSF is bright, which can hide bright MS plaques nearby."
+      },
+      {
+        "text": "FLAIR (Fluid Attenuated Inversion Recovery)",
+        "explanation": "Correct. FLAIR is essentially a T2 image where the bright CSF signal is nullified (turned dark). This makes periventricular bright lesions (like MS plaques or edema) stand out clearly."
+      },
+      {
+        "text": "DWI",
+        "explanation": "Incorrect. Used for ******/ischemia."
+      },
+      {
+        "text": "SWI",
+        "explanation": "Incorrect. Susceptibility weighted (for blood)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "FLAIR sequences suppress bright CSF fluid, making it easier to spot periventricular pathology like MS plaques or edema.",
+    "pdfPage": 20
+  },
+  {
+    "id": 24,
+    "category": "Clinical Indications",
+    "questionText": "Your patient has a 'Thunderclap Headache' (worst of life). CT Head is negative. What is the next diagnostic step to rule out Subarachnoid Hemorrhage?",
+    "options": [
+      {
+        "text": "Send patient home",
+        "explanation": "Incorrect. Dangerous."
+      },
+      {
+        "text": "Lumbar Puncture",
+        "explanation": "Correct. CT can miss small or old SAH (sensitivity drops over time). LP looks for xanthochromia (yellow CSF from broken down RBCs) or RBCs."
+      },
+      {
+        "text": "Carotid Ultrasound",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Skull X-ray",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "EEG",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "If SAH is suspected but CT is negative, perform a Lumbar Puncture.",
+    "pdfPage": 3
+  },
+  {
+    "id": 25,
+    "category": "Neuroimaging Modalities",
+    "questionText": "What does the term 'ALARA' stand for in the context of radiology safety?",
+    "options": [
+      {
+        "text": "Always Leave A Ray Absorbed",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "As Low As Reasonably Achievable",
+        "explanation": "Correct. The guiding principle of radiation safety: use the minimum radiation dose necessary to achieve the diagnostic goal."
+      },
+      {
+        "text": "As Long As Resonance Allows",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "All Lesions Are Radiographically Apparent",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Avoid Long Acting Radioactive Agents",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ALARA: As Low As Reasonably Achievable. The mantra for minimizing radiation exposure.",
+    "pdfPage": 12
+  },
+  {
+    "id": 26,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which type of artifact can degrade a Carotid Ultrasound image?",
+    "options": [
+      {
+        "text": "Beam hardening",
+        "explanation": "Incorrect. CT artifact."
+      },
+      {
+        "text": "Motion artifact",
+        "explanation": "Correct. Patient movement degrades all imaging, but ultrasound also suffers from body habitus (fat attenuates sound) and calcification 'shadowing'."
+      },
+      {
+        "text": "Metal streak artifact",
+        "explanation": "Incorrect. CT artifact (though metal blocks ultrasound too)."
+      },
+      {
+        "text": "Aliasing",
+        "explanation": "Correct (partially), but the question usually refers to patient factors like body habitus."
+      },
+      {
+        "text": "Body Habitus / Depth",
+        "explanation": "Correct. Ultrasound waves cannot penetrate deep through thick subcutaneous fat, leading to poor image quality (degradation)."
+      }
+    ],
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Ultrasound quality is limited by 'Depth' and 'Air/Bone'. Obesity (body habitus) significantly degrades image quality.",
+    "pdfPage": 33
+  },
+  {
+    "id": 27,
+    "category": "Clinical Indications",
+    "questionText": "A 50-year-old male with a prosthetic heart valve needs neuroimaging. Which valve type allows for an MRI?",
+    "options": [
+      {
+        "text": "Old Stard-Edwards ball-in-cage (Ferromagnetic)",
+        "explanation": "Incorrect. Contraindicated."
+      },
+      {
+        "text": "Modern Titanium or Bioprosthetic valve",
+        "explanation": "Correct. Most modern non-ferromagnetic valves are MRI compatible (though one should always check the exact model/database)."
+      },
+      {
+        "text": "Any mechanical valve",
+        "explanation": "Incorrect. Must check safety."
+      },
+      {
+        "text": "None",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "All valves are safe",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Always check MRI compatibility for implants. Titanium is non-ferromagnetic and usually safe.",
+    "pdfPage": 23
+  },
+  {
+    "id": 28,
+    "category": "Neuroimaging Modalities",
+    "questionText": "In a Conventional Angiogram, from which access point is the catheter most commonly threaded?",
+    "options": [
+      {
+        "text": "Jugular vein",
+        "explanation": "Incorrect. Used for central lines."
+      },
+      {
+        "text": "Common Femoral Artery within the groin",
+        "explanation": "Correct. The femoral artery is the standard access point for cerebral angiography (though radial artery access is increasing)."
+      },
+      {
+        "text": "Carotid artery directly",
+        "explanation": "Incorrect. Dangerous stroke risk."
+      },
+      {
+        "text": "Subclavian vein",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aorta",
+        "explanation": "Incorrect. Direct aortic stick is not done."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Conventional Angiogram usually accesses the Common Femoral Artery (groin) to thread a catheter up to the brain.",
     "pdfPage": 34
   },
   {
-    "id": 33,
-    "category": "Neuroimaging: Chiari Malformation",
-    "questionText": "Chiari I malformation is characterized on MRI by:",
+    "id": 29,
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which imaging modality allows for visualization of blood flow direction and velocity using color coding?",
     "options": [
       {
-        "text": "Cerebellar tonsillar herniation >5mm below foramen magnum",
-        "explanation": "Correct. Tonsillar descent → Headaches (Valsalva), syringomyelia. May need decompression.",
-        "isCorrect": true
-      },
-      {
-        "text": "Enlarged ventricles",
+        "text": "Plain CT",
         "explanation": "Incorrect."
       },
       {
-        "text": "Brain tumor",
+        "text": "Doppler Ultrasound",
+        "explanation": "Correct. The Doppler effect measures frequency shifts from moving RBCs to calculate velocity and direction (Blue Away, Red Towards - BART)."
+      },
+      {
+        "text": "T1 MRI",
         "explanation": "Incorrect."
       },
       {
-        "text": "Stroke",
+        "text": "X-ray",
         "explanation": "Incorrect."
       },
       {
-        "text": "Normal finding",
+        "text": "PET",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Chiari I = Tonsillar herniation >5mm. Sx: Headache (cough/Valsalva), syringomyelia, dysphagia.",
-    "pdfPage": 35
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Doppler Ultrasound uses frequency shifts to measure Velocity and Direction of blood flow.",
+    "pdfPage": 29
+  },
+  {
+    "id": 30,
+    "category": "Clinical Indications",
+    "questionText": "What is the primary role of identifying a 'penumbra' in ****** imaging?",
+    "options": [
+      {
+        "text": "It represents dead tissue",
+        "explanation": "Incorrect. That's the core."
+      },
+      {
+        "text": "It represents salvageable tissue",
+        "explanation": "Correct. The penumbra is the area of brain that is ischemic (perfused poorly) but not yet infarcted (dead). Therapies like thrombectomy aim to reperfuse this area to save it."
+      },
+      {
+        "text": "It indicates hemorrhage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It shows old strokes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It confirms tumor",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Penumbra is salvageable ischemic brain tissue at risk of infarction. 'Time is Brain' refers to saving the penumbra.",
+    "pdfPage": 22
+  },
+  {
+    "id": 31,
+    "category": "Contrast Agents",
+    "questionText": "Which medication is typically kept on the 'crash cart' in the radiology suite for severe anaphylactoid reactions?",
+    "options": [
+      {
+        "text": "Metformin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ibuprofen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Epinephrine",
+        "explanation": "Correct. IM Epinephrine is the first-line treatment for anaphylaxis (hypotension, airway swelling)."
+      },
+      {
+        "text": "Insulin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vitamin K",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Epinephrine is life-saving for severe contrast anaphylaxis.",
+    "pdfPage": 16
+  },
+  {
+    "id": 32,
+    "category": "Neuroanatomy/Imaging",
+    "questionText": "What does a 'hypodense' (dark) area on a non-contrast CT scan of the brain typically represent in the context of a stroke?",
+    "options": [
+      {
+        "text": "Acute hemorrhage",
+        "explanation": "Incorrect. Bright."
+      },
+      {
+        "text": "Calcification",
+        "explanation": "Incorrect. Bright."
+      },
+      {
+        "text": "Ischemic Infarction / Edema",
+        "explanation": "Correct. As cells die and swell (cytotoxic edema), water content increases, making the tissue less dense (darker) than normal brain. This usually appears 6+ hours after onset."
+      },
+      {
+        "text": "Contrast extravasation",
+        "explanation": "Incorrect. Bright."
+      },
+      {
+        "text": "Bone",
+        "explanation": "Incorrect. Bright."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Ischemic stroke = Hypodense (Dark) on CT (takes time to show up). Hemorrhagic stroke = Hyperdense (Bright) on CT (shows up immediately).",
+    "pdfPage": 10
+  },
+  {
+    "id": 33,
+    "category": "Clinical Indications",
+    "questionText": "Which imaging modality uses a 'transducer'?",
+    "options": [
+      {
+        "text": "CT",
+        "explanation": "Incorrect. X-ray tube."
+      },
+      {
+        "text": "MRI",
+        "explanation": "Incorrect. Coils."
+      },
+      {
+        "text": "Ultrasound",
+        "explanation": "Correct. The handheld probe is called a transducer; it emits and receives sound waves."
+      },
+      {
+        "text": "Angiogram",
+        "explanation": "Incorrect. Catheter."
+      },
+      {
+        "text": "X-ray",
+        "explanation": "Incorrect. Emitter/Plate."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Ultrasound probes are called Transducers.",
+    "pdfPage": 29
   },
   {
     "id": 34,
-    "category": "Neuroimaging: CSF Leak",
-    "questionText": "CSF leak imaging after trauma or spontaneous intracranial hypotension is best evaluated with:",
+    "category": "Neuroimaging Modalities",
+    "questionText": "Which view is NOT a standard plane of reconstruction for CT/MRI images?",
     "options": [
       {
-        "text": "CT myelography or MR myelography",
-        "explanation": "Correct. Intrathecal contrast shows leak site. MRI brain shows sag, pachymeningeal enhancement.",
-        "isCorrect": true
+        "text": "Axial",
+        "explanation": "Incorrect. Standard."
       },
       {
-        "text": "Standard CT head",
-        "explanation": "Incorrect."
+        "text": "Coronal",
+        "explanation": "Incorrect. Standard."
       },
       {
-        "text": "Carotid ultrasound",
-        "explanation": "Incorrect."
+        "text": "Sagittal",
+        "explanation": "Incorrect. Standard."
       },
       {
-        "text": "PET scan",
-        "explanation": "Incorrect."
+        "text": "Oblique",
+        "explanation": "Correct. While possible, the three primary orthogonal planes taught and displayed are Axial, Coronal, and Sagittal."
       },
       {
-        "text": "No imaging available",
-        "explanation": "Incorrect."
+        "text": "Transverse",
+        "explanation": "Incorrect. Same as Axial."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: CSF leak = Positional headache. MRI shows brain sag, pachymeningeal enhancement. CT/MR myelography localizes leak.",
-    "pdfPage": 36
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "The standard orthogonal planes are Axial, Coronal, and Sagittal.",
+    "pdfPage": 5
   },
   {
     "id": 35,
-    "category": "Clinical Correlation: Following Guidelines",
-    "questionText": "When ordering brain imaging, clinicians should consider ACR Appropriateness Criteria to:",
+    "category": "Clinical Indications",
+    "questionText": "Arteriovenous Malformations (AVMs) are congenital lesions where arteries connect directly to veins without capillaries. Which modality is best for both diagnosing the detailed vascular supply and treating the AVM?",
     "options": [
       {
-        "text": "Ensure cost-effectiveness and appropriate modality selection based on clinical scenario",
-        "explanation": "Correct. Evidence-based guidelines for imaging appropriateness. Reduces unnecessary radiation, cost.",
-        "isCorrect": true
+        "text": "CT Angiogram",
+        "explanation": "Incorrect. Diagnostic only."
       },
       {
-        "text": "Order as many scans as possible",
-        "explanation": "Incorrect."
+        "text": "MRI",
+        "explanation": "Incorrect. Diagnostic only."
       },
       {
-        "text": "Avoid imaging entirely",
-        "explanation": "Incorrect."
+        "text": "Conventional Angiogram",
+        "explanation": "Correct. Offers highest spatial resolution to map the feeders and allows for embolization (glue/coils) during the same session."
       },
       {
-        "text": "Replace clinical judgment",
-        "explanation": "Incorrect (Supplement, not replace)."
+        "text": "Ultrasound",
+        "explanation": "Incorrect. Cannot see deep brain vessels well."
       },
       {
-        "text": "No relevance",
+        "text": "X-ray",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: ACR Appropriateness Criteria = Evidence-based imaging guidelines. Right test, right time, right patient.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Conventional Angiogram is the best functional study for AVMs and allows for embolization.",
     "pdfPage": 37
   }
 ];

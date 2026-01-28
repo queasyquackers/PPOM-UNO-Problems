@@ -1,1087 +1,1089 @@
 window.Test_L15 = [
   {
     "id": 1,
-    "category": "Sensory Systems: Overview",
-    "questionText": "All sensory pathways (except olfaction) synapse in the:",
+    "category": "Sensory: Brown-Sequard",
+    "questionText": "A patient presents with a stab wound to the right side of the spinal cord at T10. Exam reveals loss of proprioception and vibration sense in the right leg, and loss of pain and temperature sensation in the left leg. This dissociated sensory loss is characteristic of:",
     "options": [
       {
-        "text": "Thalamus before reaching cortex",
-        "explanation": "Correct. Thalamus = Sensory relay station. Olfaction unique (direct to paleocortex). Allows filtering, modulation, integration.",
+        "text": "Anterior Cord Syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brown-Séquard Syndrome (Hemisection)",
+        "explanation": "Correct. Ipsilateral DCML loss (Right leg touch) and Contralateral ALS loss (Left leg pain) because ALS crosses immediately, while DCML crosses in the medulla.",
         "isCorrect": true
       },
       {
-        "text": "Hypothalamus",
+        "text": "Syringomyelia",
+        "explanation": "Incorrect (Cape distribution)."
+      },
+      {
+        "text": "Tabes Dorsalis",
+        "explanation": "Incorrect (Bilateral DCML)."
+      },
+      {
+        "text": "Central Cord Syndrome",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Brown-Séquard = Ipsilateral Motor/Touch + Contralateral Pain/Temp (below lesion).",
+    "pdfPage": 36
+  },
+  {
+    "id": 2,
+    "category": "Sensory: Receptors",
+    "questionText": "A blind person reading Braille relies heavily on high-resolution tactile discrimination to identify the raised dots. Which cutaneous receptor is primarily responsible for form and texture perception (reading Braille)?",
+    "options": [
+      {
+        "text": "Pacinian Corpuscle",
+        "explanation": "Incorrect. Vibration/Deep pressure."
+      },
+      {
+        "text": "Merkel's Disk",
+        "explanation": "Correct. Slowly Adapting Type 1 (SA1). High spatial resolution for edges, points, and curvature. Essential for Braille.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ruffini Ending",
+        "explanation": "Incorrect. Stretch."
+      },
+      {
+        "text": "Free Nerve Ending",
+        "explanation": "Incorrect. Pain."
+      },
+      {
+        "text": "Meissner's Corpuscle",
+        "explanation": "Incorrect. Grip control/slip (RA1). Good for texture but Merkel is best for form."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Merkel = Form/Texture (Static). Meissner = Grip/Slip (Dynamic).",
+    "pdfPage": 10
+  },
+  {
+    "id": 3,
+    "category": "Sensory: Fibers",
+    "questionText": "You accidentally touch a hot stove. You immediately withdraw your hand (fast sharp pain), and seconds later, you feel a throbbing, burning sensation (slow dull pain). The fast sharp pain was mediated by which fiber type?",
+    "options": [
+      {
+        "text": "A-alpha",
+        "explanation": "Incorrect (Proprioception)."
+      },
+      {
+        "text": "A-beta",
+        "explanation": "Incorrect (Touch)."
+      },
+      {
+        "text": "A-delta",
+        "explanation": "Correct. Thinly myelinated, faster than C fibers. Mediates 'First Pain' (Sharp/Pricking).",
+        "isCorrect": true
+      },
+      {
+        "text": "C-fibers",
+        "explanation": "Incorrect. Unmyelinated. Mediates 'Second Pain' (Burning/Aching)."
+      },
+      {
+        "text": "B-fibers",
+        "explanation": "Incorrect (Autonomic)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Pain has two waves: A-delta (Ouch!) then C (Ooooh... burn).",
+    "pdfPage": 6
+  },
+  {
+    "id": 4,
+    "category": "Sensory: Syringomyelia",
+    "questionText": "A 35-year-old male presents with burns on his hands that he didn't feel. Exam shows loss of pain and temperature sensation in a 'cape-like' distribution over the shoulders and arms, but intact touch and vibration. This is caused by a lesion affecting the:",
+    "options": [
+      {
+        "text": "Dorsal Columns",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior White Commissure",
+        "explanation": "Correct. Syringomyelia (fluid cavity in central canal) expands and compresses the crossing fibers of the Spinothalamic tract first. Bilateral segmental loss of pain/temp.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dorsal Root Ganglion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Syrinx = Cape-like analgesia. Affects crossing fibers first.",
+    "pdfPage": 36
+  },
+  {
+    "id": 5,
+    "category": "Sensory: Tabes Dorsalis",
+    "questionText": "A patient with tertiary syphilis presents with a high-stepping gait and falls when he closes his eyes (positive Romberg sign). This sensory ataxia is due to degeneration of the:",
+    "options": [
+      {
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsal Columns",
+        "explanation": "Correct. Tabes Dorsalis attacks the large diameter dorsal root fibers and dorsal columns -> Loss of Proprioception.",
+        "isCorrect": true
+      },
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Horn Cells",
+        "explanation": "Incorrect (Polio/ALS)."
       },
       {
         "text": "Cerebellum",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Direct to cortex",
-        "explanation": "Incorrect (Except olfaction)."
-      },
-      {
-        "text": "Brainstem only",
-        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: All sensory pathways → Thalamus → Cortex (except olfaction = direct to cortex). Thalamic relay allows modulation.",
-    "pdfPage": 2
-  },
-  {
-    "id": 2,
-    "category": "Sensory Systems: Receptor Types",
-    "questionText": "Mechanoreceptors respond to:",
-    "options": [
-      {
-        "text": "Physical deformation (touch, pressure, vibration, proprioception, hearing, balance)",
-        "explanation": "Correct. Examples: Meissner (light touch), Pacinian (vibration), Merkel (pressure), hair cells (hearing/balance), muscle spindles, GTOs.",
-        "isCorrect": true
-      },
-      {
-        "text": "Temperature only",
-        "explanation": "Incorrect (Thermoreceptors)."
-      },
-      {
-        "text": "Chemicals",
-        "explanation": "Incorrect (Chemoreceptors)."
-      },
-      {
-        "text": "Light",
-        "explanation": "Incorrect (Photoreceptors)."
-      },
-      {
-        "text": "Tissue damage",
-        "explanation": "Incorrect (Nociceptors)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Mechanoreceptors = Physical deformation. Touch, vibration, proprioception, hearing, balance. Ion channels open with mechanical stress.",
-    "pdfPage": 3
-  },
-  {
-    "id": 3,
-    "category": "Sensory Systems: Dorsal Column Pathway",
-    "questionText": "The dorsal column-medial lemniscus pathway carries:",
-    "options": [
-      {
-        "text": "Proprioception, vibration, fine/discriminative touch - Ipsilateral ascent until medulla",
-        "explanation": "Correct. Gracile (lower body), cuneate (upper body) fasciculi → Nucleus gracilis/cuneatus (medulla) → Decussate → Medial lemniscus → VPL thalamus → S1 cortex.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pain and temperature",
-        "explanation": "Incorrect (Spinothalamic)."
-      },
-      {
-        "text": "Crosses at spinal level",
-        "explanation": "Incorrect (Crosses in medulla)."
-      },
-      {
-        "text": "Motor information",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No cortical projection",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Dorsal column = Proprioception, vibration, fine touch. Ipsilateral in cord → Cross in medulla (decussation) → Medial lemniscus → VPL → S1.",
-    "pdfPage": 4
-  },
-  {
-    "id": 4,
-    "category": "Sensory Systems: Spinothalamic Pathway",
-    "questionText": "The spinothalamic tract carries:",
-    "options": [
-      {
-        "text": "Pain and temperature - Crosses immediately (1-2 levels above) in spinal cord",
-        "explanation": "Correct. Lateral spinothalamic (pain, temp), anterior (crude touch). Cross in anterior white commissure → Ascend contralaterally → VPL → S1.",
-        "isCorrect": true
-      },
-      {
-        "text": "Proprioception",
-        "explanation": "Incorrect (Dorsal column)."
-      },
-      {
-        "text": "Ipsilateral ascent",
-        "explanation": "Incorrect (Crosses at cord level)."
-      },
-      {
-        "text": "No thalamic relay",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor signals",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Spinothalamic = Pain, temperature (lateral), crude touch (anterior). Cross at spinal level → Contralateral ascent → VPL → S1.",
-    "pdfPage": 5
-  },
-  {
-    "id": 5,
-    "category": "Clinical Correlation: Brown-Séquard Syndrome",
-    "questionText": "Hemisection of spinal cord (Brown-Séquard) causes:",
-    "options": [
-      {
-        "text": "Ipsilateral motor weakness, proprioception/vibration loss; Contralateral pain/temperature loss (below lesion)",
-        "explanation": "Correct. Ipsilateral: Corticospinal (motor), dorsal column (crossed above lesion). Contralateral: Spinothalamic (crossed below lesion). Classic dissociated sensory loss.",
-        "isCorrect": true
-      },
-      {
-        "text": "Bilateral complete paralysis",
-        "explanation": "Incorrect (Hemisection)."
-      },
-      {
-        "text": "Ipsilateral pain loss",
-        "explanation": "Incorrect (Contralateral)."
-      },
-      {
-        "text": "No sensory deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bilateral sensory loss",
-        "explanation": "Incorrect (Dissociated)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Brown-Séquard = Hemisection. Ipsilateral: Motor, proprioception, vibration. Contralateral: Pain, temperature. Trauma, tumor, MS.",
-    "pdfPage": 6
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tabes Dorsalis = 'Lightning Pains' + Romberg + Argyll Robertson Pupil.",
+    "pdfPage": 36
   },
   {
     "id": 6,
-    "category": "Sensory Systems: Two-Point Discrimination",
-    "questionText": "Two-point discrimination is best on:",
+    "category": "Sensory: DCML Pathway",
+    "questionText": "In the Dorsal Column-Medial Lemniscus pathway, the second-order neurons are located in the:",
     "options": [
       {
-        "text": "Fingertips (<5mm) - Highest density of mechanoreceptors, smallest receptive fields",
-        "explanation": "Correct. Fingertips > lips > palm > back. Correlates with receptor density and cortical representation (homunculus). Tests dorsal column function.",
+        "text": "Dorsal Root Ganglion",
+        "explanation": "Incorrect (1st order)."
+      },
+      {
+        "text": "Nucleus Gracilis and Cuneatus (Medulla)",
+        "explanation": "Correct. 1st order neurons ascend ipsilaterally in the cord to synapse here. 2nd order neurons then decussate as Internal Arcuate Fibers.",
         "isCorrect": true
       },
       {
-        "text": "Back (best)",
-        "explanation": "Incorrect (Worst discrimination)."
+        "text": "VPL of Thalamus",
+        "explanation": "Incorrect (3rd order)."
       },
       {
-        "text": "Same everywhere",
-        "explanation": "Incorrect (Variable)."
+        "text": "Dorsal Horn of Spinal Cord",
+        "explanation": "Incorrect (ALS 2nd order)."
       },
       {
-        "text": "Feet best",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No regional variation",
-        "explanation": "Incorrect."
+        "text": "Postcentral Gyrus",
+        "explanation": "Incorrect (Termination)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Two-point discrimination = Fingertips best (~2-5mm), back worst (~40-60mm). Reflects receptor density + cortical magnification. Tests dorsal column.",
-    "pdfPage": 7
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: DCML crosses in the Medulla. ALS crosses in the Spinal Cord.",
+    "pdfPage": 18
   },
   {
     "id": 7,
-    "category": "Sensory Systems: Meissner Corpuscles",
-    "questionText": "Meissner corpuscles are:",
+    "category": "Sensory: Pacinian Corpuscle",
+    "questionText": "The Pacinian Corpuscle is a rapidly adapting mechanoreceptor located deep in the dermis. It is most sensitive to:",
     "options": [
       {
-        "text": "Rapidly adapting mechanoreceptors for light touch, located superficially in glabrous (hairless) skin",
-        "explanation": "Correct. Encapsulated. Fingertips, lips, palms. Respond to skin movement, texture. Rapidly adapting (detect changes, not sustained pressure).",
-        "isCorrect": true
-      },
-      {
-        "text": "Slowly adapting",
-        "explanation": "Incorrect (Rapidly adapting)."
-      },
-      {
-        "text": "Deep receptors",
-        "explanation": "Incorrect (Superficial)."
-      },
-      {
-        "text": "Pain receptors",
+        "text": "Static pressure",
         "explanation": "Incorrect."
       },
       {
-        "text": "In hairy skin only",
-        "explanation": "Incorrect (Glabrous)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Meissner = Rapidly adapting, light touch, glabrous skin. Pacinian = Rapid, vibration, deep. Merkel = Slow, sustained pressure. Ruffini = Slow, skin stretch.",
-    "pdfPage": 8
-  },
-  {
-    "id": 8,
-    "category": "Sensory Systems: Pacinian Corpuscles",
-    "questionText": "Pacinian corpuscles detect:",
-    "options": [
-      {
-        "text": "High-frequency vibration (200-300 Hz) - Rapidly adapting, located deep in dermis/subcutaneous tissue",
-        "explanation": "Correct. Largest, deepest mechanoreceptors. Onion-like layers. Detect vibrating tools, texture during active touch. Adapt in milliseconds.",
+        "text": "High-frequency vibration",
+        "explanation": "Correct. Onion-skin layers filter out steady pressure, allowing it to detect rapid changes (Vibration > 200Hz).",
         "isCorrect": true
       },
       {
-        "text": "Sustained pressure",
-        "explanation": "Incorrect (Merkel)."
+        "text": "Temperature",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Slowly adapting",
-        "explanation": "Incorrect (Rapidly)."
+        "text": "Pain",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Low-frequency only",
-        "explanation": "Incorrect (High-frequency)."
-      },
-      {
-        "text": "Superficial",
-        "explanation": "Incorrect (Deep)."
+        "text": "Stretch",
+        "explanation": "Incorrect (Ruffini)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pacinian = Deep, rapid vibration (tuning fork detection). Largest receptors. Test with 128Hz tuning fork (vibration sense).",
-    "pdfPage": 9
-  },
-  {
-    "id": 9,
-    "category": "Sensory Systems: Merkel Cells",
-    "questionText": "Merkel discs (cells) are:",
-    "options": [
-      {
-        "text": "Slowly adapting mechanoreceptors for sustained pressure, fine tactile detail (edges, shapes)",
-        "explanation": "Correct. High density in fingertips. Small receptive fields → High spatial resolution. Sustained indentation. Important for reading Braille.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rapidly adapting",
-        "explanation": "Incorrect (Slowly adapting)."
-      },
-      {
-        "text": "Deep receptors",
-        "explanation": "Incorrect (Superficial)."
-      },
-      {
-        "text": "Vibration only",
-        "explanation": "Incorrect (Sustained pressure)."
-      },
-      {
-        "text": "No spatial resolution",
-        "explanation": "Incorrect (High resolution)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Merkel = Slow adaptation, sustained touch, shape/texture discrimination. Highest density fingertips. Braille reading.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pacinian = Vibration helps you detect texture by moving your finger across it (converting texture to vibration).",
     "pdfPage": 10
   },
   {
-    "id": 10,
-    "category": "Sensory Systems: Proprioception",
-    "questionText": "Proprioception (joint position sense) is primarily mediated by:",
+    "id": 8,
+    "category": "Sensory: C-Fibers",
+    "questionText": "Which sensory fibers are unmyelinated and responsible for the sensation of slow, burning pain and itch?",
     "options": [
       {
-        "text": "Muscle spindles, Golgi tendon organs, joint receptors - Dorsal column pathway to cortex",
-        "explanation": "Correct. Muscle spindles (length), GTOs (tension), joint receptors (angle). → Dorsal column (conscious), spinocerebellar (unconscious).",
+        "text": "A-delta fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "C-fibers",
+        "explanation": "Correct. Slow conduction (0.5-2 m/s). Susceptible to local anesthetics first.",
         "isCorrect": true
       },
       {
-        "text": "Pain receptors",
+        "text": "A-beta fibers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinothalamic tract",
-        "explanation": "Incorrect (Dorsal column for conscious)."
+        "text": "Ia fibers",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Only vision",
-        "explanation": "Incorrect (Somatosensory primary)."
-      },
-      {
-        "text": "No receptors",
+        "text": "Ib fibers",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Proprioception = Muscle spindles, GTOs, joint receptors. Dorsal column (conscious) → VPL → S1. Spinocerebellar (unconscious) → Cerebellum.",
-    "pdfPage": 11
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Blocks affect small unmyelinated fibers (Pain) before large myelinated fibers (Touch). Paradoxically, pressure blocks large fibers first (legs falling asleep).",
+    "pdfPage": 6
   },
   {
-    "id": 11,
-    "category": "Clinical Correlation: Romberg Test",
-    "questionText": "A positive Romberg test (loss of balance with eyes closed) suggests:",
+    "id": 9,
+    "category": "Sensory: Two-Point Discrimination",
+    "questionText": "Two-point discrimination is finest on the fingertips and lips. This is due to:",
     "options": [
       {
-        "text": "Proprioceptive or dorsal column dysfunction (relying on vision to compensate)",
-        "explanation": "Correct. Vision can compensate for lost proprioception. Eyes closed → No compensation → Fall. Causes: B12 deficiency (subacute combined degeneration), tabes dorsalis, sensory neuropathy.",
+        "text": "Small receptor fields and high receptor density",
+        "explanation": "Correct. Small fields allow resolution of two separate points. Large fields (back) merge them into one.",
         "isCorrect": true
       },
       {
-        "text": "Cerebellar dysfunction primarily",
-        "explanation": "Incorrect (Cerebellar → Unstable eyes open AND closed)."
-      },
-      {
-        "text": "Normal finding",
+        "text": "Large receptor fields and low receptor density",
         "explanation": "Incorrect."
       },
       {
-        "text": "Motor weakness",
+        "text": "Predominance of Pacinian corpuscles",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vision problem",
-        "explanation": "Incorrect (Proprioception)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Romberg = Sensory ataxia (proprioception loss). Positive = Fall with eyes closed (vision compensates). Negative (ataxic eyes open + closed) = Cerebellar.",
-    "pdfPage": 12
-  },
-  {
-    "id": 12,
-    "category": "Sensory Systems: Nociceptors",
-    "questionText": "Nociceptors:",
-    "options": [
-      {
-        "text": "Are free nerve endings that detect noxious stimuli (mechanical, thermal, chemical) causing pain",
-        "explanation": "Correct. Aδ fibers (fast, sharp, localized pain). C fibers (slow, burning, diffuse pain). TRPV1 (capsaicin), acid, bradykinin, ATP activate.",
-        "isCorrect": true
+        "text": "Unmyelinated fibers",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Encapsulated receptors",
-        "explanation": "Incorrect (Free nerve endings)."
-      },
-      {
-        "text": "Only mechanical",
-        "explanation": "Incorrect (Mechanical, thermal, chemical)."
-      },
-      {
-        "text": "Rapidly adapting",
-        "explanation": "Incorrect (Do not adapt - protective)."
-      },
-      {
-        "text": "No pain transmission",
+        "text": "Cortical magnification of the trunk",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Nociceptors = Free nerve endings (pain). Aδ (fast, sharp), C (slow, burning). Do NOT adapt (continuous pain warning). TRPV1, acid, inflammatory mediators activate.",
+    "clinicalPearl": "Key takeaway: Homunculus distortus reflects receptor density.",
     "pdfPage": 13
   },
   {
-    "id": 13,
-    "category": "Sensory Systems: First vs Second Pain",
-    "questionText": "The two components of pain sensation are:",
+    "id": 10,
+    "category": "Sensory: Somatotopy",
+    "questionText": "In the Dorsal Columns at the cervical level, the Fasciculus Cuneatus is lateral to the Fasciculus Gracilis. The Fasciculus Cuneatus carries information from:",
     "options": [
       {
-        "text": "First pain (fast, sharp, Aδ fibers) and second pain (slow, burning, C fibers)",
-        "explanation": "Correct. Stub toe: Immediate sharp pain (Aδ, myelinated, 5-30 m/s) → Followed by dull ache (C, unmyelinated, 0.5-2 m/s). Different pathways converge in cord.",
+        "text": "Lower extremities (T7 and below)",
+        "explanation": "Incorrect (Gracilis)."
+      },
+      {
+        "text": "Upper extremities (T6 and above)",
+        "explanation": "Correct. Cuneatus = Arms/Neck. Gracilis = Legs. ('Legs are graceful').",
         "isCorrect": true
       },
       {
-        "text": "Both via same fibers",
-        "explanation": "Incorrect (Different fibers)."
+        "text": "Face",
+        "explanation": "Incorrect (Trigeminal)."
       },
       {
-        "text": "No temporal difference",
+        "text": "Viscera",
         "explanation": "Incorrect."
       },
       {
-        "text": "C fibers are faster",
-        "explanation": "Incorrect (Aδ faster)."
-      },
-      {
-        "text": "First pain is slow",
-        "explanation": "Incorrect (Fast)."
+        "text": "Genitals only",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: First pain = Aδ (fast, sharp, localized). Second pain = C fibers (slow, burning, diffuse). Explains temporal pain experience (stub toe).",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Gracilis is present at ALL cord levels. Cuneatus is only present above T6.",
+    "pdfPage": 19
+  },
+  {
+    "id": 11,
+    "category": "Sensory: ALS Pathway",
+    "questionText": "The Anterolateral System (Spinothalamic) axons decussate at the:",
+    "options": [
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect (DCML)."
+      },
+      {
+        "text": "Anterior White Commissure (Spinal Cord)",
+        "explanation": "Correct. They cross obliquely within 1-2 segments of entry.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Because of the 1-2 segment ascent before crossing, a cord lesion gives a contralateral pain level 1-2 segments BELOW the lesion.",
+    "pdfPage": 29
+  },
+  {
+    "id": 12,
+    "category": "Sensory: Muscle Spindles",
+    "questionText": "Proprioception is mediated principally by Muscle Spindles and Golgi Tendon Organs. Muscle spindles detect:",
+    "options": [
+      {
+        "text": "Muscle Tension",
+        "explanation": "Incorrect (GTO)."
+      },
+      {
+        "text": "Muscle Length and Rate of Change of Length",
+        "explanation": "Correct. Mediates the stretch reflex (Deep Tendon Reflex).",
+        "isCorrect": true
+      },
+      {
+        "text": "Joint pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Skin temperature",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vibration",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spindles = Length (Stretch). GTO = Tension (Force).",
+    "pdfPage": 15
+  },
+  {
+    "id": 13,
+    "category": "Sensory: Receptive Fields",
+    "questionText": "Lateral Inhibition is a mechanism used by the sensory system to:",
+    "options": [
+      {
+        "text": "Increase sensitivity to weak stimuli",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sharpen contrast and localization",
+        "explanation": "Correct. Excited neurons inhibit their neighbors, creating a 'Mexican Hat' profile that sharpens the peak of sensation (makes the point feel sharper/distinct).",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce pain",
+        "explanation": "Incorrect (Gate control)."
+      },
+      {
+        "text": "Increase conduction velocity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adapt to constant stimuli",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lateral inhibition turns a 'blur' into a 'point'.",
     "pdfPage": 14
   },
   {
     "id": 14,
-    "category": "Sensory Systems: Gate Control Theory",
-    "questionText": "The gate control theory of pain proposes:",
+    "category": "Sensory: Gate Control Theory",
+    "questionText": "Rubbing a painful injury helps reduce the pain. This is explained by the Gate Control Theory, where:",
     "options": [
       {
-        "text": "Large Aβ afferents (touch) can inhibit pain transmission at dorsal horn level (close the gate)",
-        "explanation": "Correct. Rubbing injury reduces pain. Aβ → Inhibitory interneurons → Block nociceptive transmission. Descending pain modulation (PAG, raphe) also 'closes gate'.",
+        "text": "A-beta fibers (touch) activate inhibitory interneurons in the dorsal horn",
+        "explanation": "Correct. Touch signals 'close the gate' on pain signals entering the spinal cord.",
         "isCorrect": true
       },
       {
-        "text": "Touch increases pain",
-        "explanation": "Incorrect (Decreases)."
-      },
-      {
-        "text": "No spinal modulation",
+        "text": "C-fibers inhibit A-delta fibers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only central modulation",
-        "explanation": "Incorrect (Local + central)."
+        "text": "Descending pathways release glutamate",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Disproven theory",
-        "explanation": "Incorrect (Well-supported, basis for TENS)."
+        "text": "Endorphins are released in the muscle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamic inhibition occurs",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Gate control = Touch/vibration (Aβ) inhibits pain at spinal level. Explains why rubbing helps. TENS (transcutaneous electrical nerve stimulation) based on this.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Why we rub our shin after we bang it. Also the mechanism for TENS units.",
+    "pdfPage": 33
   },
   {
     "id": 15,
-    "category": "Sensory Systems: Referred Pain",
-    "questionText": "Referred pain occurs because:",
+    "category": "Sensory: Thalamus",
+    "questionText": "Both the DCML and ALS pathways terminate in which thalamic nucleus?",
     "options": [
       {
-        "text": "Visceral and somatic afferents converge on same dorsal horn neurons → Brain mislocates source",
-        "explanation": "Correct. Example: MI → Left arm pain (T1-T5 dermatomes). Diaphragm irritation (C3-C5) → Shoulder pain. Convergence-projection theory.",
+        "text": "VPM",
+        "explanation": "Incorrect (Face)."
+      },
+      {
+        "text": "VPL",
+        "explanation": "Correct. Ventral Posterolateral nucleus relays body sensation to the cortex.",
         "isCorrect": true
       },
       {
-        "text": "Direct visceral cortical projection",
-        "explanation": "Incorrect."
+        "text": "VL",
+        "explanation": "Incorrect (Motor)."
       },
       {
-        "text": "No neural basis",
-        "explanation": "Incorrect."
+        "text": "LGN",
+        "explanation": "Incorrect (Vision)."
       },
       {
-        "text": "Psychological only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Imagined pain",
-        "explanation": "Incorrect (Real phenomenon)."
+        "text": "MGN",
+        "explanation": "Incorrect (Hearing)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Referred pain = Visceral + somatic afferents converge on same spinal neurons. MI → Left arm. Cholecystitis → Right shoulder. Appendicitis → Periumbilical initially.",
-    "pdfPage": 16
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Body -> VPL. Face -> VPM.",
+    "pdfPage": 29
   },
   {
     "id": 16,
-    "category": "Clinical Correlation: Allodynia vs Hyperalgesia",
-    "questionText": "Allodynia differs from hyperalgesia in that:",
+    "category": "Sensory: Warmth",
+    "questionText": "Warmth receptors (C-fibers) begin firing above 30°C and increase firing rate as temperature rises. However, at temperatures above 45°C, perception changes to pain because:",
     "options": [
       {
-        "text": "Allodynia = Pain from normally non-painful stimulus (light touch). Hyperalgesia = Increased pain from painful stimulus",
-        "explanation": "Correct. Both occur in neuropathic pain, inflammation, central sensitization. Allodynia more troublesome (even clothing hurts). Complex regional pain syndrome (CRPS).",
+        "text": "Warmth receptors adapt",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nociceptors (A-delta and C) are activated by tissue-damaging heat",
+        "explanation": "Correct. 45°C is the threshold for tissue damage and thermal nociceptor activation.",
         "isCorrect": true
       },
       {
-        "text": "Same phenomenon",
+        "text": "Cold receptors are paradoxically activated",
+        "explanation": "Incorrect (Paradoxical cold exists, but pain is the primary features)."
+      },
+      {
+        "text": "Warm receptors die",
         "explanation": "Incorrect."
       },
       {
-        "text": "Allodynia is normal",
-        "explanation": "Incorrect (Pathologic)."
-      },
-      {
-        "text": "Hyperalgesia from non-painful stimuli",
-        "explanation": "Incorrect (From painful stimuli)."
-      },
-      {
-        "text": "No clinical difference",
+        "text": "Thalamus blocks the input",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Allodynia = Non-painful stimulus → pain (touch, wind). Hyperalgesia = Exaggerated pain response. Both in neuropathic pain, CRPS, fibromyalgia.",
-    "pdfPage": 17
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pain protects us from burns.",
+    "pdfPage": 8
   },
   {
     "id": 17,
-    "category": "Sensory Systems: Phantom Limb Pain",
-    "questionText": "Phantom limb pain after amputation is thought to result from:",
+    "category": "Sensory: Adaptation",
+    "questionText": "Tonic receptors are slowly adapting. This means they:",
     "options": [
       {
-        "text": "Cortical reorganization (somatosensory cortex remodeling) and peripheral nerve sprouting",
-        "explanation": "Correct. 60-80% amputees experience. Not psychological. Adjacent cortical areas invade deafferented zone. Mirror therapy, TENS, gabapentin may help.",
+        "text": "Respond only at the onset and offset of a stimulus",
+        "explanation": "Incorrect (Phasic/Rapidly Adapting)."
+      },
+      {
+        "text": "Continue to fire action potentials as long as the stimulus is maintained",
+        "explanation": "Correct. Useful for monitoring constant parameters like joint position or blood pressure.",
         "isCorrect": true
       },
       {
-        "text": "Purely psychological",
-        "explanation": "Incorrect (Neurophysiologic basis)."
+        "text": "Stop firing immediately",
+        "explanation": "Incorrect."
       },
       {
-        "text": "No cortical changes",
-        "explanation": "Incorrect (Cortical reorganization key)."
+        "text": "Change specificity over time",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Rare phenomenon",
-        "explanation": "Incorrect (60-80%)."
-      },
-      {
-        "text": "Easy to treat",
-        "explanation": "Incorrect (Often refractory)."
+        "text": "Are only found in the eye",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Phantom limb pain = Cortical reorganization + peripheral changes. Not imagined. Mirror therapy (visual feedback), medications (gabapentin, TCAs), TENS.",
-    "pdfPage": 18
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tonic = Duration. Phasic = Change/Velocity.",
+    "pdfPage": 9
   },
   {
     "id": 18,
-    "category": "Sensory Systems: Thermoreceptors",
-    "questionText": "Thermoreceptors:",
+    "category": "Sensory: Cortex",
+    "questionText": "The Primary Somatosensory Cortex (S1) is located in the:",
     "options": [
       {
-        "text": "Detect temperature via TRP channels - TRPV1 (heat/capsaicin), TRPM8 (cold/menthol)",
-        "explanation": "Correct. Free nerve endings. Warm (30-45°C), cold (10-35°C). Extreme temps activate nociceptors (painful hot/cold). Aδ, C fibers.",
+        "text": "Precentral Gyrus",
+        "explanation": "Incorrect (Motor)."
+      },
+      {
+        "text": "Postcentral Gyrus (Brodmann 3, 1, 2)",
+        "explanation": "Correct. Parietal lobe.",
         "isCorrect": true
       },
       {
-        "text": "Encapsulated receptors",
-        "explanation": "Incorrect (Free endings)."
-      },
-      {
-        "text": "Only detect cold",
-        "explanation": "Incorrect (Warm + cold receptors)."
-      },
-      {
-        "text": "No TRP channels",
+        "text": "Superior Temporal Gyrus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Rapidly adapting",
-        "explanation": "Incorrect (Sustained, but adapt to constant temp)."
+        "text": "Cingulate Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thermoreceptors = TRP channels. TRPV1 (>43°C, capsaicin), TRPM8 (<25°C, menthol). Extreme temps → Nociceptors (painful).",
-    "pdfPage": 19
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Somatotopy is preserved here. Legs medial, Face lateral.",
+    "pdfPage": 35
   },
   {
     "id": 19,
-    "category": "Sensory Systems: Dermatomes",
-    "questionText": "Dermatomes represent:",
+    "category": "Sensory: Stereognosis",
+    "questionText": "A patient with a lesion in the sensory association cortex (Posterior Parietal Lobe) may exhibit Astereognosis. This is the inability to:",
     "options": [
       {
-        "text": "Skin area innervated by single spinal nerve root - Used to localize spinal lesions",
-        "explanation": "Correct. C5-T1 (upper limb), L1-S1 (lower limb). Overlap between adjacent dermatomes (must damage multiple roots for complete sensory loss). Shingles follows dermatome.",
-        "isCorrect": true
-      },
-      {
-        "text": "Random skin distribution",
-        "explanation": "Incorrect (Organized by spinal level)."
-      },
-      {
-        "text": "No clinical use",
+        "text": "Feel pain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only motor innervation",
-        "explanation": "Incorrect (Sensory)."
+        "text": "Identify an object by touch alone (e.g., a key in the pocket)",
+        "explanation": "Correct. Requires integration of touch, pressure, and proprioception.",
+        "isCorrect": true
       },
       {
-        "text": "No overlap",
-        "explanation": "Incorrect (Overlap exists)."
+        "text": "Detect vibration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Localize a stimulus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Detect temperature",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Dermatomes = Spinal segmental sensory map. C6 (thumb), C8 (pinky), L4 (knee), L5 (big toe), S1 (little toe). Shingles, radiculopathy follow dermatomes.",
-    "pdfPage": 20
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Astereognosis is a cortical sign. The primary sensation is intact, but the processing is broken.",
+    "pdfPage": 35
   },
   {
     "id": 20,
-    "category": "Clinical Correlation: Syringomyelia",
-    "questionText": "Syringomyelia (fluid-filled cavity in spinal cord) classically causes:",
+    "category": "Sensory: A-alpha Function",
+    "questionText": "A-alpha fibers (Group Ia and Ib) are the fastest conducting sensory fibers. They primarily innervate:",
     "options": [
       {
-        "text": "'Cape-like' bilateral loss of pain/temperature (crossing spinothalamic fibers damaged), preserved touch",
-        "explanation": "Correct. Central cord cavity → Damages decussating spinothalamic fibers. Dorsal columns (touch) preserved. 'Dissociated sensory loss'. Charcot joints (painless injury).",
+        "text": "Muscle Spindles and Golgi Tendon Organs",
+        "explanation": "Correct. Proprioception needs to be extremely fast for reflex adjustments.",
         "isCorrect": true
       },
       {
-        "text": "Complete sensory loss",
-        "explanation": "Incorrect (Dissociated - pain/temp only)."
+        "text": "Skin mechanoreceptors",
+        "explanation": "Incorrect (A-beta)."
       },
       {
-        "text": "Motor only",
+        "text": "Thermal receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Glove-stocking pattern",
-        "explanation": "Incorrect (Cape distribution)."
+        "text": "Nociceptors",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Preserved pain/temperature",
-        "explanation": "Incorrect (Lost)."
+        "text": "Hair follicles",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Syringomyelia = Central cord cavity. Bilateral 'suspended' pain/temp loss (crossing fibers damaged), preserved touch. Associated with Chiari malformation, trauma.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: Speed is critical for balance and reflexes.",
+    "pdfPage": 5
   },
   {
     "id": 21,
-    "category": "Sensory Systems: Adaptation",
-    "questionText": "Rapidly adapting receptors:",
+    "category": "Sensory: Cold Receptors",
+    "questionText": "Cold receptors are most numerous on the:",
     "options": [
       {
-        "text": "Respond to changes in stimulus (onset/offset), stop firing during sustained stimulus",
-        "explanation": "Correct. Examples: Meissner (touch), Pacinian (vibration), hair follicle receptors. Detect movement, changes. Explain why you stop feeling clothes.",
+        "text": "Back",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Face and Lips",
+        "explanation": "Correct. High density of cold receptors here.",
         "isCorrect": true
       },
       {
-        "text": "Fire continuously",
-        "explanation": "Incorrect (Slowly adapting)."
-      },
-      {
-        "text": "No clinical significance",
+        "text": "Palms",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only in vision",
-        "explanation": "Incorrect (All sensory systems)."
+        "text": "Soles",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Same as slowly adapting",
+        "text": "Scalp",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Rapidly adapting = Detect changes (movement). Meissner, Pacinian. Slowly adapting = Sustained (position). Merkel, Ruffini, muscle spindles.",
-    "pdfPage": 22
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Menthol activates cold receptors (TRPM8).",
+    "pdfPage": 8
   },
   {
     "id": 22,
-    "category": "Sensory Systems: Receptive Field",
-    "questionText": "A receptive field is:",
+    "category": "Sensory: Lissauer's Tract",
+    "questionText": "Before entering the dorsal horn gray matter, pain and temperature fibers ascend or descend 1-2 segments in:",
     "options": [
       {
-        "text": "Area of sensory surface that, when stimulated, affects firing of a sensory neuron",
-        "explanation": "Correct. Small receptive fields → High spatial resolution (fingertips). Large → Low resolution (back). Lateral inhibition sharpens boundaries.",
+        "text": "Lissauer's Tract (Dorsolateral Tract)",
+        "explanation": "Correct. This tract allows intersegmental reflexes and explains the variation in sensory levels.",
         "isCorrect": true
       },
       {
-        "text": "Motor area",
+        "text": "Gracile Fasciculus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Always same size",
-        "explanation": "Incorrect (Variable)."
-      },
-      {
-        "text": "No relation to resolution",
+        "text": "Corticospinal Tract",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual only",
-        "explanation": "Incorrect (All sensory)."
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect (Before they join it)."
+      },
+      {
+        "text": "Medial Longitudinal Fasciculus",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Receptive field = Area affecting neuron firing. Small RF → High acuity (fingertips). Large RF → Low acuity (back). Two-point discrimination tests RF size.",
+    "clinicalPearl": "Key takeaway: Lissauer's tract spreads the 'pain' signal to multiple spinal levels.",
     "pdfPage": 23
   },
   {
     "id": 23,
-    "category": "Sensory Systems: Lateral Inhibition",
-    "questionText": "Lateral inhibition:",
+    "category": "Sensory: Visceral Pain",
+    "questionText": "Visceral pain is often referred to somatic structures (Referred Pain). For example, cardiac ischemia is felt in the left arm. This is because:",
     "options": [
       {
-        "text": "Enhances contrast and sharpens spatial discrimination (center-surround organization)",
-        "explanation": "Correct. Active neuron inhibits neighbors → Enhances edges, borders. Mach bands (visual illusion) demonstrate. All sensory modalities.",
+        "text": "Visceral afferents and somatic afferents converge on the same dorsal horn neurons",
+        "explanation": "Correct. The brain cannot distinguish the source, so it interprets it as coming from the more common somatic source (skin).",
         "isCorrect": true
       },
       {
-        "text": "Decreases discrimination",
-        "explanation": "Incorrect (Enhances)."
-      },
-      {
-        "text": "No sensory role",
+        "text": "The heart physically touches the arm nerves",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only excitatory",
-        "explanation": "Incorrect (Inhibitory)."
-      },
-      {
-        "text": "Blurs boundaries",
-        "explanation": "Incorrect (Sharpens)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Lateral inhibition = Active neuron inhibits neighbors. Sharpens contrast, edges. Mach bands. Present at all levels (receptor → cortex).",
-    "pdfPage": 24
-  },
-  {
-    "id": 24,
-    "category": "Sensory Systems: Somatosensory Cortex",
-    "questionText": "Primary somatosensory cortex (S1) is located in:",
-    "options": [
-      {
-        "text": "Postcentral gyrus (Brodmann areas 3,1,2) - Somatotopic organization (homunculus)",
-        "explanation": "Correct. VPL (body) and VPM (face) thalamus → S1. Large representation for hands, lips (cortical magnification). Columnar organization.",
-        "isCorrect": true
-      },
-      {
-        "text": "Precentral gyrus",
-        "explanation": "Incorrect (Motor cortex)."
-      },
-      {
-        "text": "Temporal lobe",
+        "text": "Visceral fibers travel in the brachial plexus",
         "explanation": "Incorrect."
       },
       {
-        "text": "No somatotopy",
-        "explanation": "Incorrect (Homunculus)."
+        "text": "The cortex is confused",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Frontal lobe",
-        "explanation": "Incorrect (Parietal lobe)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: S1 = Postcentral gyrus (parietal lobe). Homunculus (somatotopic map). Large hands/lips representation. Lesion → Contralateral sensory loss.",
-    "pdfPage": 25
-  },
-  {
-    "id": 25,
-    "category": "Sensory Systems: Cortical Columns",
-    "questionText": "Cortical columns in somatosensory cortex:",
-    "options": [
-      {
-        "text": "Vertical functional units processing same modality from same body location",
-        "explanation": "Correct. Neurons in column have similar receptive fields, respond to same modality (touch, pressure, etc.). Horizontal layers have different properties.",
-        "isCorrect": true
-      },
-      {
-        "text": "Random organization",
-        "explanation": "Incorrect (Organized)."
-      },
-      {
-        "text": "Mixed modalities",
-        "explanation": "Incorrect (Same modality)."
-      },
-      {
-        "text": "Only in visual cortex",
-        "explanation": "Incorrect (All primary cortices)."
-      },
-      {
-        "text": "No functional significance",
+        "text": "It is psychosomatic",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Cortical columns = Vertical functional units (same modality, same location). Discovered by Mountcastle. Present in all primary sensory cortices.",
-    "pdfPage": 26
-  },
-  {
-    "id": 26,
-    "category": "Sensory Systems: Association Cortex",
-    "questionText": "Secondary somatosensory cortex (S2) and posterior parietal cortex:",
-    "options": [
-      {
-        "text": "Integrate sensory information, stereognosis (object recognition by touch), spatial awareness",
-        "explanation": "Correct. S1 → S2 (multimodal integration, bilateral). Posterior parietal (5, 7) → Spatial processing, reaching, neglect if damaged (right hemisphere).",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary sensory relay",
-        "explanation": "Incorrect (Association cortex)."
-      },
-      {
-        "text": "No integration",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unimodal only",
-        "explanation": "Incorrect (Multimodal)."
-      },
-      {
-        "text": "Motor only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: S2 + posterior parietal = Association cortex. Stereognosis, spatial awareness. Lesions → Astereognosis, neglect, apraxia.",
-    "pdfPage": 27
-  },
-  {
-    "id": 27,
-    "category": "Clinical Correlation: Astereognosis",
-    "questionText": "Astereognosis (inability to recognize objects by touch with eyes closed) suggests:",
-    "options": [
-      {
-        "text": "Lesion of sensory association cortex (posterior parietal), despite intact primary sensation",
-        "explanation": "Correct. Can feel object (S1 intact) but can't identify (association cortex damaged). Test with key, coin in hand. Parietal lobe dysfunction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary sensory loss",
-        "explanation": "Incorrect (Primary sensation intact)."
-      },
-      {
-        "text": "Motor deficit",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Normal finding",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual problem",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Astereognosis = Can't identify objects by touch (eyes closed). Sensory association cortex lesion. Primary sensation preserved. Test with common objects.",
-    "pdfPage": 28
-  },
-  {
-    "id": 28,
-    "category": "Sensory Systems: Graphesthesia",
-    "questionText": "Graphesthesia is:",
-    "options": [
-      {
-        "text": "Ability to recognize numbers/letters traced on skin - Tests sensory integration",
-        "explanation": "Correct. Requires intact sensation + cortical processing. Agraphesthesia (inability) suggests parietal cortex lesion. Clinical bedside test.",
-        "isCorrect": true
-      },
-      {
-        "text": "Writing ability",
-        "explanation": "Incorrect (Sensory, not motor)."
-      },
-      {
-        "text": "Vision test",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No clinical use",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Graphesthesia = Number/letter recognition on skin. Loss (agraphesthesia) = Parietal cortex lesion. Requires sensory integration.",
-    "pdfPage": 29
-  },
-  {
-    "id": 29,
-    "category": "Sensory Systems: Itch",
-    "questionText": "Itch (pruritus) is mediated by:",
-    "options": [
-      {
-        "text": "Specific C-fiber pruriceptors → Spinothalamic tract → Insular cortex",
-        "explanation": "Correct. Histamine, IL-31, other mediators. Distinct from pain (though both unmyelinated C fibers). Scratch activates Aβ → Gate control relief.",
-        "isCorrect": true
-      },
-      {
-        "text": "Same as pain pathway entirely",
-        "explanation": "Incorrect (Distinct pruriceptors)."
-      },
-      {
-        "text": "No dedicated pathway",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myelinated fibers",
-        "explanation": "Incorrect (C fibers)."
-      },
-      {
-        "text": "Not a real sensation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Itch = Dedicated C-fiber pruriceptors. Histamine-dependent (antihistamines help) + non-histaminergic (harder to treat). Scratching → Gate control relief.",
-    "pdfPage": 30
-  },
-  {
-    "id": 30,
-    "category": "Sensory Systems: Visceral Sensation",
-    "questionText": "Visceral sensation differs from somatic in that:",
-    "options": [
-      {
-        "text": "Poorly localized, fewer receptors, responds to distension/ischemia (not cutting), often referred",
-        "explanation": "Correct. Can cut bowel painlessly. Distension, traction, ischemia cause pain. Convergence with somatic afferents → Referred pain.",
-        "isCorrect": true
-      },
-      {
-        "text": "Well-localized",
-        "explanation": "Incorrect (Poorly localized)."
-      },
-      {
-        "text": "High receptor density",
-        "explanation": "Incorrect (Low)."
-      },
-      {
-        "text": "No referred pain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Responds to cutting",
-        "explanation": "Incorrect (Can cut painlessly)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Visceral pain = Poorly localized, distension/ischemia sensitive (not cutting). Referred to somatic areas. Appendicitis: Periumbilical → RLQ (parietal peritoneum).",
-    "pdfPage": 31
-  },
-  {
-    "id": 31,
-    "category": "Clinical Correlation: Central Post-Stroke Pain",
-    "questionText": "Central post-stroke pain (thalamic pain syndrome) occurs after:",
-    "options": [
-      {
-        "text": "Thalamic stroke (VPL/VPM) → Delayed onset severe contralateral pain, allodynia",
-        "explanation": "Correct. Months after stroke. Burning, dysesthetic pain. Difficult to treat. Tricyclics, gabapentin, pregabalin. Occurs in 8% thalamic strokes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Peripheral nerve injury",
-        "explanation": "Incorrect (Central)."
-      },
-      {
-        "text": "No pain develops",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Immediate onset",
-        "explanation": "Incorrect (Delayed, weeks-months)."
-      },
-      {
-        "text": "Easy to treat",
-        "explanation": "Incorrect (Refractory)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Central post-stroke pain = Delayed neuropathic pain after thalamic stroke. Burning, allodynia. Gabapentin, TCAs, sometimes opioids. Difficult to treat.",
-    "pdfPage": 32
-  },
-  {
-    "id": 32,
-    "category": "Sensory Systems: Plasticity",
-    "questionText": "Somatosensory cortex demonstrates plasticity:",
-    "options": [
-      {
-        "text": "Cortical map can reorganize with training or injury (e.g., musicians' finger representation enlarged)",
-        "explanation": "Correct. Use-dependent plasticity. Amputation → Cortical reorganization (phantom limb). Blind individuals → Expanded tactile representation. Braille readers.",
-        "isCorrect": true
-      },
-      {
-        "text": "Fixed throughout life",
-        "explanation": "Incorrect (Plastic, modifiable)."
-      },
-      {
-        "text": "No reorganization possible",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only in children",
-        "explanation": "Incorrect (Adults too, though less)."
-      },
-      {
-        "text": "Not activity-dependent",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Cortical plasticity = Activity-dependent reorganization. Musicians, Braille readers → Expanded representations. Amputation → Adjacent areas invade. Basis for rehabilitation.",
-    "pdfPage": 33
-  },
-  {
-    "id": 33,
-    "category": "Sensory Systems: Pain Modulation",
-    "questionText": "Descending pain modulatory pathways from PAG and raphe nuclei:",
-    "options": [
-      {
-        "text": "Inhibit pain transmission at dorsal horn (endogenous opioids, serotonin, norepinephrine)",
-        "explanation": "Correct. PAG → Raphe nuclei → Dorsal horn (5-HT, NE). Enkephalins, endorphins. Opioids (morphine) enhance this system. Explains placebo analgesia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Enhance pain",
-        "explanation": "Incorrect (Inhibit)."
-      },
-      {
-        "text": "No endogenous opioids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Peripheral only",
-        "explanation": "Incorrect (Central)."
-      },
-      {
-        "text": "No clinical relevance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Descending modulation = PAG → Raphe → Dorsal horn inhibition. Endogenous opioids, 5-HT, NE. SNRIs (duloxetine), TCAs enhance this system.",
+    "clinicalPearl": "Key takeaway: Referred pain follows the dermatome of embryological origin. Heart (T1-T5) -> Arm/Chest.",
     "pdfPage": 34
   },
   {
-    "id": 34,
-    "category": "Clinical Correlation: Complex Regional Pain Syndrome",
-    "questionText": "Complex regional pain syndrome (CRPS) presents with:",
+    "id": 24,
+    "category": "Sensory: Substantia Gelatinosa",
+    "questionText": "C-fibers (pain) terminate primarily in which lamina of the dorsal horn?",
     "options": [
       {
-        "text": "Disproportionate pain, allodynia, autonomic changes (swelling, temperature, color), motor dysfunction after injury",
-        "explanation": "Correct. CRPS-I (no nerve injury, was RSD). CRPS-II (nerve injury, was causalgia). Early treatment critical. Physical therapy, sympathetic blocks, medications.",
+        "text": "Lamina II (Substantia Gelatinosa)",
+        "explanation": "Correct. Key site for pain modulation (Gate control/Opioids).",
         "isCorrect": true
       },
       {
-        "text": "Proportionate pain",
-        "explanation": "Incorrect (Disproportionate)."
+        "text": "Lamina IX",
+        "explanation": "Incorrect (Motor)."
       },
       {
-        "text": "No autonomic changes",
+        "text": "Lamina VII",
         "explanation": "Incorrect."
       },
       {
-        "text": "Easy to treat",
-        "explanation": "Incorrect (Often refractory)."
+        "text": "Lamina I",
+        "explanation": "Incorrect (A-delta mainly).",
+        "isCorrect": false
       },
       {
-        "text": "Central origin only",
-        "explanation": "Incorrect (Peripheral trigger, central sensitization)."
+        "text": "Lamina X",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: CRPS = Severe pain + autonomic changes after minor trauma. Allodynia, swelling, skin changes. Early aggressive PT critical. Sympathetic blocks, gabapentin, ketamine.",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: Substantia Gelatinosa looks 'gelatinous' because it has little myelin (unmyelinated C fibers).",
+    "pdfPage": 23
+  },
+  {
+    "id": 25,
+    "category": "Sensory: Neospinothalamic vs Paleospinothalamic",
+    "questionText": "The Neospinothalamic tract projects to the VPL and is responsible for:",
+    "options": [
+      {
+        "text": "Emotional aspects of pain",
+        "explanation": "Incorrect (Paleospinothalamic/Intralaminar)."
+      },
+      {
+        "text": "Localization and intensity of sharp pain",
+        "explanation": "Correct. The 'Where and How much'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Arousal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Descending inhibition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Autonomic responses",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Neospinothalamic = New/Smart (Localization). Paleospinothalamic = Old/Suffering (Emotion).",
+    "pdfPage": 30
+  },
+  {
+    "id": 26,
+    "category": "Sensory: Descending Pain Control",
+    "questionText": "The Periaqueductal Gray (PAG) in the midbrain is a key center for descending pain suppression. It activates neurons in the Nucleus Raphe Magnus, which release:",
+    "options": [
+      {
+        "text": "Substance P",
+        "explanation": "Incorrect (Pain transmitter)."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Correct. Raphespinal serotonergic fibers inhibit pain transmission in the dorsal horn (activate Enkephalin interneurons).",
+        "isCorrect": true
+      },
+      {
+        "text": "Glutamate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: This is why SSRIs/TCAs can treat chronic pain.",
+    "pdfPage": 33
+  },
+  {
+    "id": 27,
+    "category": "Sensory: Central Cord",
+    "questionText": "Small fiber neuropathy (involving A-delta and C fibers) typically presents with:",
+    "options": [
+      {
+        "text": "Loss of vibration and proprioception",
+        "explanation": "Incorrect (Large fiber)."
+      },
+      {
+        "text": "Burning pain and loss of temperature sensation",
+        "explanation": "Correct. May also have autonomic dysfunction. Reflexes are usually preserved (spared A-alpha).",
+        "isCorrect": true
+      },
+      {
+        "text": "Weakness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ataxia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Babinski sign",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Diabetes often affects small fibers first (Burning feet) before large fibers.",
+    "pdfPage": 6
+  },
+  {
+    "id": 28,
+    "category": "Sensory: Itch",
+    "questionText": "Pruritus (Itch) is mediated by specific C-fibers. These fibers are distinct because they are responsive to:",
+    "options": [
+      {
+        "text": "Histamine",
+        "explanation": "Correct. Also non-histaminergic itch (Cowhage). Itch path is parallel to pain.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetaminophen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glucose",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Oxygen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Pain inhibits itch. (Why scratching helps). Opioids inhibit pain but can cause itch (disinhibition).",
+    "pdfPage": 10
+  },
+  {
+    "id": 29,
+    "category": "Sensory: Trigeminal System",
+    "questionText": "Pain and temperature sensation from the face is carried by the:",
+    "options": [
+      {
+        "text": "Chief Sensory Nucleus of V",
+        "explanation": "Incorrect (Touch)."
+      },
+      {
+        "text": "Spinal Trigeminal Nucleus",
+        "explanation": "Correct. Descends into the cervical cord before crossing. Distinct from chief nucleus (touch).",
+        "isCorrect": true
+      },
+      {
+        "text": "Mesencephalic Nucleus of V",
+        "explanation": "Incorrect (Proprioception)."
+      },
+      {
+        "text": "Solitary Nucleus",
+        "explanation": "Incorrect (Taste)."
+      },
+      {
+        "text": "Motor Nucleus of V",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spinal Trigeminal Nucleus = 'Spinal' because it carries 'Spinothalamic-like' info (Pain/Temp) for the face.",
+    "pdfPage": 29
+  },
+  {
+    "id": 30,
+    "category": "Sensory: Hyperalgesia",
+    "questionText": "Following an injury, the surrounding uninjured skin becomes hypersensitive (Secondary Hyperalgesia). This is primarily due to:",
+    "options": [
+      {
+        "text": "Peripheral sensitization",
+        "explanation": "Incorrect (Primary hyperalgesia at wound).",
+        "isCorrect": false
+      },
+      {
+        "text": "Central Sensitization",
+        "explanation": "Correct. Increased excitability of dorsal horn neurons (Wind-up phenomenon).",
+        "isCorrect": true
+      },
+      {
+        "text": "Nerve regeneration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortical plasticity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decreased receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Central Sensitization is the basis for Chronic Pain syndromes.",
+    "pdfPage": 12
+  },
+  {
+    "id": 31,
+    "category": "Sensory: Transduction",
+    "questionText": "The process by which a receptor converts a physical stimulus (like pressure) into an electrical signal (receptor potential) is called:",
+    "options": [
+      {
+        "text": "Transmission",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Transduction",
+        "explanation": "Correct. Usually involves opening cation channels -> Depolarization.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modulation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Perception",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adaptation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sensory receptors are Transducers.",
+    "pdfPage": 4
+  },
+  {
+    "id": 32,
+    "category": "Sensory: Ruffini",
+    "questionText": "Ruffini endings are found in the dermis and joint capsules. They are particularly sensitive to:",
+    "options": [
+      {
+        "text": "Skin Stretch and Joint Rotation",
+        "explanation": "Correct. Slowly adapting. Help you know your hand shape/grip.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vibration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cold",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Texture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Ruffini = Stretch.",
+    "pdfPage": 10
+  },
+  {
+    "id": 33,
+    "category": "Sensory: Fiber Classification",
+    "questionText": "In the numerical classification of sensory fibers (I, II, III, IV), Type IV fibers correspond to:",
+    "options": [
+      {
+        "text": "A-alpha",
+        "explanation": "Incorrect (I)."
+      },
+      {
+        "text": "A-beta",
+        "explanation": "Incorrect (II)."
+      },
+      {
+        "text": "A-delta",
+        "explanation": "Incorrect (III)."
+      },
+      {
+        "text": "C-fibers",
+        "explanation": "Correct. Unmyelinated pain fibers.",
+        "isCorrect": true
+      },
+      {
+        "text": "B-fibers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: I = Alpha. II = Beta. III = Delta. IV = C. Just two languages for the same thing.",
+    "pdfPage": 5
+  },
+  {
+    "id": 34,
+    "category": "Sensory: VPL Lesion",
+    "questionText": "A purely sensory stroke affecting the VPL nucleus of the thalamus would result in:",
+    "options": [
+      {
+        "text": "Contralateral loss of all sensation (Pain/Temp/Touch/Proprioception) in the body",
+        "explanation": "Correct. VPL is the bottleneck where DCML and ALS meet.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ipsilateral loss of sensation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dissociated sensory loss",
+        "explanation": "Incorrect (Spinal cord characteristic)."
+      },
+      {
+        "text": "Loss of face sensation",
+        "explanation": "Incorrect (VPM)."
+      },
+      {
+        "text": "Loss of hearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Thalamic lesions wipe out EVERYTHING contralaterally.",
+    "pdfPage": 29
   },
   {
     "id": 35,
-    "category": "Sensory Systems: Weber Test",
-    "questionText": "The Weber test (tuning fork on midline forehead) lateralizes to:",
+    "category": "Sensory: Capsule Topography",
+    "questionText": "In the Posterior Limb of the Internal Capsule, the somatosensory fibers (Thalamocortical) are located:",
     "options": [
       {
-        "text": "Affected ear in conductive hearing loss, unaffected ear in sensorineural hearing loss",
-        "explanation": "Correct. Conductive loss: Blocked external sound → Internal bone conduction louder (lateralizes to affected). Sensorineural: Cochlea/nerve damage → Lateralizes to good ear.",
+        "text": "Anterior to the motor fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior to the motor fibers",
+        "explanation": "Correct. Sensory is typically behind Motor (Postcentral is behind Precentral).",
         "isCorrect": true
       },
       {
-        "text": "Always affected ear",
-        "explanation": "Incorrect (Depends on type)."
-      },
-      {
-        "text": "Never lateralizes",
+        "text": "In the Genu",
         "explanation": "Incorrect."
       },
       {
-        "text": "No clinical use",
+        "text": "Mixed randomly",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tests vision",
-        "explanation": "Incorrect (Hearing)."
+        "text": "Medial to motor fibers",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Weber test lateralizes to: Affected ear (conductive loss - wax, OM). Unaffected ear (sensorineural - SNHL). Rinne test complements (AC vs BC).",
-    "pdfPage": 36
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Typical arrangement: Motor Anterior, Sensory Posterior.",
+    "pdfPage": 34
   }
 ];

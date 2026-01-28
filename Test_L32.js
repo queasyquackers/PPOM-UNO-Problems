@@ -1,4 +1,4 @@
-window.Test_L32 = [
+const Test_L32 = [
   {
     "id": 1,
     "category": "Neuro: Clinical Case",
@@ -1064,7 +1064,7 @@ window.Test_L32 = [
       },
       {
         "text": "Cerebellar Peduncles / Pathways",
-        "explanation": "Correct. Common site for MS plaques ("Charcot's Triad of MS" includes intention tremor, nystagmus, scanning speech).",
+        "explanation": "Correct. Common site for MS plaques ('Charcot\'s Triad of MS' includes intention tremor, nystagmus, scanning speech).",
         "isCorrect": true
       },
       {

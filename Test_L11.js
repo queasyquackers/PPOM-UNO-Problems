@@ -1,694 +1,233 @@
 window.Test_L11 = [
   {
     "id": 1,
-    "category": "Hypothalamus: Overview",
-    "questionText": "The hypothalamus is the primary control center for:",
+    "category": "Hypothalamus: Wernicke-Korsakoff Syndrome",
+    "questionText": "A 55-year-old male with a history of chronic alcoholism presents with confusion, ataxia, and ophthalmoplegia. He is treated with IV thiamine. Months later, he still exhibits severe anterograde amnesia and confabulation. MRI would likely show atrophy of which hypothalamic structure involved in the Papez circuit?",
     "options": [
       {
-        "text": "Homeostasis (temperature, hunger, thirst, sleep-wake, ANS), endocrine function (via pituitary), emotional/behavioral responses",
-        "explanation": "Correct. Small (<1% brain weight) but critical. Links nervous and endocrine systems. Master regulator of internal environment.",
+        "text": "Supraoptic Nucleus",
+        "explanation": "Incorrect. ADH production."
+      },
+      {
+        "text": "Mammillary Bodies",
+        "explanation": "Correct. Mammillary bodies are part of the widespread limbic system damage seen in Wernicke-Korsakoff syndrome (Thiamine deficiency). Damage leads to memory deficits.",
         "isCorrect": true
       },
       {
-        "text": "Motor control only",
-        "explanation": "Incorrect."
+        "text": "Lateral Hypothalamus",
+        "explanation": "Incorrect. Hunger."
       },
       {
-        "text": "Vision",
-        "explanation": "Incorrect."
+        "text": "Arcuate Nucleus",
+        "explanation": "Incorrect. Endocrine."
       },
       {
-        "text": "Memory consolidation",
-        "explanation": "Incorrect (Hippocampus)."
-      },
-      {
-        "text": "Language",
-        "explanation": "Incorrect (Cortex)."
+        "text": "Suprachiasmatic Nucleus",
+        "explanation": "Incorrect. Circadian rhythm."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamus = Homeostasis + pituitary control. Tiny but essential. Damage → Diabetes insipidus, dysregulated temperature, obesity, sleep disorders.",
-    "pdfPage": 2
-  },
-  {
-    "id": 2,
-    "category": "Hypothalamus: Anatomic Boundaries",
-    "questionText": "The hypothalamus forms the floor and lateral walls of the:",
-    "options": [
-      {
-        "text": "Third ventricle",
-        "explanation": "Correct. Bounded by anterior commissure (anterior), mammillary bodies (posterior), optic chiasm (inferior), thalamus (superior/lateral).",
-        "isCorrect": true
-      },
-      {
-        "text": "Fourth ventricle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral ventricle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebral aqueduct",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No ventricle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamus = Floor of 3rd ventricle. Forms walls bilaterally. Visible landmarks: Optic chiasm, tuber cinereum, mammillary bodies.",
-    "pdfPage": 3
-  },
-  {
-    "id": 3,
-    "category": "Hypothalamus: Major Nuclei",
-    "questionText": "The hypothalamus can be divided into medial and lateral zones. The medial zone contains:",
-    "options": [
-      {
-        "text": "Multiple distinct nuclei (supraoptic, paraventricular, anterior, ventromedial, arcuate, etc.) involved in endocrine/homeostatic functions",
-        "explanation": "Correct. Medial = Well-defined nuclei (endocrine, autonomic). Lateral = Diffuse (lateral hypothalamic area, MFB - feeding, arousal).",
-        "isCorrect": true
-      },
-      {
-        "text": "No nuclei",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor nuclei only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory relay",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "White matter only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Medial hypothalamus = Discrete nuclei (specific functions). Lateral = Lateral hypothalamic area (feeding, orexin). Medial forebrain bundle runs through lateral zone.",
-    "pdfPage": 4
-  },
-  {
-    "id": 4,
-    "category": "Hypothalamus: Supraoptic Nucleus",
-    "questionText": "The supraoptic nucleus (SON) primarily synthesizes:",
-    "options": [
-      {
-        "text": "Vasopressin (ADH) → Transported to posterior pituitary → Released into bloodstream",
-        "explanation": "Correct. Magnocellular neurons. ADH (antidiuretic hormone) → Kidney water reabsorption (V2 receptors). Also vasoconstriction (V1).",
-        "isCorrect": true
-      },
-      {
-        "text": "Growth hormone",
-        "explanation": "Incorrect (Anterior pituitary)."
-      },
-      {
-        "text": "Cortisol",
-        "explanation": "Incorrect (Adrenal cortex)."
-      },
-      {
-        "text": "Insulin",
-        "explanation": "Incorrect (Pancreas)."
-      },
-      {
-        "text": "No hormones",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Supraoptic nucleus = ADH (vasopressin). Damage → Central diabetes insipidus (DI). Posterior pituitary doesn't synthesize hormones, just stores/releases.",
-    "pdfPage": 5
-  },
-  {
-    "id": 5,
-    "category": "Hypothalamus: Paraventricular Nucleus",
-    "questionText": "The paraventricular nucleus (PVN) synthesizes:",
-    "options": [
-      {
-        "text": "Oxytocin (posterior pituitary) and CRH, TRH (anterior pituitary control)",
-        "explanation": "Correct. Magnocellular (oxytocin, some ADH) → Posterior pituitary. Parvocellular (CRH, TRH) → Median eminence → Anterior pituitary.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only ADH",
-        "explanation": "Incorrect (Multiple hormones)."
-      },
-      {
-        "text": "Dopamine primarily",
-        "explanation": "Incorrect (Arcuate nucleus)."
-      },
-      {
-        "text": "No hormones",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Insulin",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: PVN = Oxytocin (birth, lactation) + CRH (stress/cortisol axis) + TRH (thyroid axis). Also ANS connections.",
-    "pdfPage": 6
-  },
-  {
-    "id": 6,
-    "category": "Clinical Correlation: Diabetes Insipidus",
-    "questionText": "Central diabetes insipidus results from:",
-    "options": [
-      {
-        "text": "Deficiency of ADH (vasopressin) from hypothalamic/posterior pituitary damage",
-        "explanation": "Correct. → Inability to concentrate urine → Polyuria (>3L/day), polydipsia. Causes: Trauma, surgery, tumor, autoimmune. Dx: Water deprivation test. Rx: Desmopressin (DDAVP).",
-        "isCorrect": true
-      },
-      {
-        "text": "Insulin deficiency",
-        "explanation": "Incorrect (Diabetes mellitus)."
-      },
-      {
-        "text": "Kidney resistance to ADH",
-        "explanation": "Incorrect (Nephrogenic DI)."
-      },
-      {
-        "text": "Excess ADH",
-        "explanation": "Incorrect (SIADH)."
-      },
-      {
-        "text": "Normal variant",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Central DI = ↓ADH. Polyuria, hypernatremia. Responds to desmopressin (synthetic ADH). Nephrogenic DI = Kidney doesn't respond (won't respond to DDAVP).",
-    "pdfPage": 7
-  },
-  {
-    "id": 7,
-    "category": "Clinical Correlation: SIADH",
-    "questionText": "Syndrome of inappropriate ADH (SIADH) causes:",
-    "options": [
-      {
-        "text": "Excess ADH → Water retention → Hyponatremia, concentrated urine despite low serum osmolality",
-        "explanation": "Correct. Causes: Malignancy (SCLC), CNS disorders, drugs (SSRIs, carbamazepine). Euvolemic hyponatremia. Rx: Fluid restriction, salt tabs, vaptans (ADH antagonists).",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypernatremia",
-        "explanation": "Incorrect (Hyponatremia)."
-      },
-      {
-        "text": "Polyuria",
-        "explanation": "Incorrect (Oliguria, concentrated urine)."
-      },
-      {
-        "text": "No electrolyte changes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "ADH deficiency",
-        "explanation": "Incorrect (Excess)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: SIADH = ↑ADH → Hyponatremia (dilutional). Euvolemic. Urine Na >40, osmolality >100. Causes: SCLC, SSRIs. Rx: Fluid restrict, salt, tolvaptan.",
-    "pdfPage": 8
-  },
-  {
-    "id": 8,
-    "category": "Hypothalamus: Anterior Nucleus",
-    "questionText": "The anterior hypothalamus is involved in:",
-    "options": [
-      {
-        "text": "Heat dissipation (cooling), parasympathetic activation",
-        "explanation": "Correct. Anterior = Cool down (sweating, vasodilation). Preoptic area (nearby) = Thermoregulatory center. Lesion → Hyperthermia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Heat conservation",
-        "explanation": "Incorrect (Posterior)."
-      },
-      {
-        "text": "No temperature regulation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sympathetic only",
-        "explanation": "Incorrect (Parasympathetic)."
-      },
-      {
-        "text": "Vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior hypothalamus = Cooling (heat dissipation). Posterior = Heating (heat conservation). 'Anterior = AC (air conditioning)'.",
-    "pdfPage": 9
-  },
-  {
-    "id": 9,
-    "category": "Hypothalamus: Posterior Nucleus",
-    "questionText": "The posterior hypothalamus is involved in:",
-    "options": [
-      {
-        "text": "Heat conservation (shivering, vasoconstriction), sympathetic activation, arousal",
-        "explanation": "Correct. Posterior = Warm up. Also contains histaminergic neurons (tuberomammillary nucleus) → Arousal. Lesion → Hypothermia, somnolence.",
-        "isCorrect": true
-      },
-      {
-        "text": "Heat dissipation",
-        "explanation": "Incorrect (Anterior)."
-      },
-      {
-        "text": "Parasympathetic only",
-        "explanation": "Incorrect (Sympathetic)."
-      },
-      {
-        "text": "No arousal function",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sleep promotion",
-        "explanation": "Incorrect (Arousal)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Posterior hypothalamus = Heat conservation + sympathetic + arousal (histamine). Lesion → Hypothermia, sleepiness. Antihistamines → Sedation.",
-    "pdfPage": 10
-  },
-  {
-    "id": 10,
-    "category": "Hypothalamus: Ventromedial Nucleus",
-    "questionText": "The ventromedial nucleus (VMN) is the:",
-    "options": [
-      {
-        "text": "'Satiety center' - Lesion → Hyperphagia and obesity",
-        "explanation": "Correct. VMN damage → Uncontrolled eating, obesity. Stimulation → Stops feeding. Opposite of lateral hypothalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Feeding center",
-        "explanation": "Incorrect (Lateral hypothalamus)."
-      },
-      {
-        "text": "Thirst center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No feeding role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lesion causes anorexia",
-        "explanation": "Incorrect (Causes obesity)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VMN = Satiety. Lesion → 'Vicious Medial Nucleus' → Obesity. Stimulation → Stops eating. Receives leptin signals.",
-    "pdfPage": 11
-  },
-  {
-    "id": 11,
-    "category": "Hypothalamus: Lateral Hypothalamic Area",
-    "questionText": "The lateral hypothalamic area contains orexin (hypocretin) neurons and is the:",
-    "options": [
-      {
-        "text": "'Feeding center' - Lesion → Anorexia, weight loss. Also regulates arousal/wakefulness",
-        "explanation": "Correct. Lateral = Hunger. Lesion → Starvation. Orexin neurons → Stabilize wakefulness. Orexin loss → Narcolepsy type 1.",
-        "isCorrect": true
-      },
-      {
-        "text": "Satiety center",
-        "explanation": "Incorrect (VMN)."
-      },
-      {
-        "text": "Lesion causes obesity",
-        "explanation": "Incorrect (Weight loss)."
-      },
-      {
-        "text": "No feeding role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No arousal function",
-        "explanation": "Incorrect (Orexin = wakefulness)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Lateral hypothalamus = Hunger + arousal (orexin). Lesion → 'Lateral = Lose weight'. Orexin deficiency → Narcolepsy (cataplexy, EDS).",
-    "pdfPage": 12
-  },
-  {
-    "id": 12,
-    "category": "Hypothalamus: Arcuate Nucleus",
-    "questionText": "The arcuate nucleus contains:",
-    "options": [
-      {
-        "text": "POMC neurons (satiety, α-MSH) and NPY/AgRP neurons (hunger) - Key metabolic regulators. Also dopaminergic neurons (inhibit prolactin)",
-        "explanation": "Correct. Arcuate = Metabolic sensor (leptin, ghrelin input). Also makes GHRH (growth hormone). Dopamine → Inhibits prolactin (tuberoinfundibular pathway).",
-        "isCorrect": true
-      },
-      {
-        "text": "Only motor neurons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No metabolic function",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No dopamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Synthesizes ADH",
-        "explanation": "Incorrect (SON, PVN)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Arcuate = Metabolic hub (POMC satiety, NPY/AgRP hunger) + GHRH + dopamine (inhibits prolactin). Dopamine antagonists (antipsychotics) → Hyperprolactinemia.",
-    "pdfPage": 13
-  },
-  {
-    "id": 13,
-    "category": "Hypothalamus: Suprachiasmatic Nucleus",
-    "questionText": "The suprachiasmatic nucleus (SCN) is the:",
-    "options": [
-      {
-        "text": "Master circadian clock - Receives direct retinal input (retinohypothalamic tract) to synchronize with light-dark cycle",
-        "explanation": "Correct. SCN → Pineal gland (melatonin secretion). Regulates sleep-wake, body temp, hormone rhythms. SCN lesion → Loss of circadian rhythms.",
-        "isCorrect": true
-      },
-      {
-        "text": "Feeding center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No light input",
-        "explanation": "Incorrect (Direct retinal input)."
-      },
-      {
-        "text": "Temperature regulation only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No circadian function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: SCN = Circadian pacemaker. Light (retina) → SCN → Pineal (melatonin at night). SCN lesion → Fragmented sleep-wake. Jet lag, shift work disrupt SCN.",
-    "pdfPage": 14
-  },
-  {
-    "id": 14,
-    "category": "Hypothalamus: Mammillary Bodies",
-    "questionText": "The mammillary bodies are part of which circuit?",
-    "options": [
-      {
-        "text": "Papez circuit (limbic system) - Hippocampus → Fornix → Mammillary bodies → Anterior thalamus → Cingulate cortex → (back to hippocampus)",
-        "explanation": "Correct. Mammillary bodies = Relay in memory circuit. Damage (Wernicke-Korsakoff) → Anterograde amnesia, confabulation.",
-        "isCorrect": true
-      },
-      {
-        "text": "No memory role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor circuit only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vision pathway",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain pathway",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Mammillary bodies = Papez circuit (memory). Wernicke-Korsakoff (thiamine deficiency) → Mammillary body atrophy → Amnesia, confabulation.",
-    "pdfPage": 15
-  },
-  {
-    "id": 15,
-    "category": "Clinical Correlation: Wernicke-Korsakoff Syndrome",
-    "questionText": "Wernicke-Korsakoff syndrome (thiamine deficiency) damages mammillary bodies and causes:",
-    "options": [
-      {
-        "text": "Wernicke (acute): Confusion, ataxia, ophthalmoplegia. Korsakoff (chronic): Anterograde amnesia, confabulation",
-        "explanation": "Correct. Thiamine (vitamin B1) deficiency (alcoholism, malnutrition). Damages mammillary bodies, medial thalamus. Rx: IV thiamine (BEFORE glucose). Permanent memory deficits common.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only motor symptoms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No memory deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "B12 deficiency",
-        "explanation": "Incorrect (B1/thiamine)."
-      },
-      {
-        "text": "Reversible with glucose",
-        "explanation": "Incorrect (Needs thiamine; glucose can worsen)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Wernicke-Korsakoff = Thiamine deficiency. Wernicke triad: Confusion, ataxia, ophthalmoplegia (CN VI palsy). Korsakoff: Amnesia, confabulation. Give thiamine BEFORE glucose (prevent worsening).",
-    "pdfPage": 16
-  },
-  {
-    "id": 16,
-    "category": "Hypothalamus: Pituitary Connection",
-    "questionText": "The hypothalamus controls the anterior pituitary via:",
-    "options": [
-      {
-        "text": "Hypothalamic-hypophyseal portal system (hormones released into median eminence → Portal vessels → Anterior pituitary)",
-        "explanation": "Correct. NO direct neural connection. Releasing/inhibiting hormones (CRH, TRH, GnRH, GHRH, dopamine, somatostatin) → Portal blood → Anterior pituitary.",
-        "isCorrect": true
-      },
-      {
-        "text": "Direct neural connection",
-        "explanation": "Incorrect (That's posterior pituitary)."
-      },
-      {
-        "text": "No connection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Systemic circulation only",
-        "explanation": "Incorrect (Portal system)."
-      },
-      {
-        "text": "Lymphatic system",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior pituitary = Vascular control (portal system). Posterior pituitary = Neural control (direct axons from SON, PVN). Pituitary stalk damage → DI + anterior pituitary dysfunction.",
-    "pdfPage": 17
-  },
-  {
-    "id": 17,
-    "category": "Hypothalamus: Posterior Pituitary",
-    "questionText": "The posterior pituitary (neurohypophysis) is controlled by:",
-    "options": [
-      {
-        "text": "Direct neural projections (hypothalamic-hypophyseal tract) from supraoptic and paraventricular nuclei",
-        "explanation": "Correct. Magnocellular neurons synthesize ADH/oxytocin → Axonal transport → Stored in posterior pituitary → Released into bloodstream.",
-        "isCorrect": true
-      },
-      {
-        "text": "Portal vessels only",
-        "explanation": "Incorrect (Anterior pituitary)."
-      },
-      {
-        "text": "No hypothalamic control",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Synthesizes its own hormones",
-        "explanation": "Incorrect (Only stores/releases)."
-      },
-      {
-        "text": "Lymphatic drainage",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Posterior pituitary = Neural control (axons from hypothalamus). Stores ADH + oxytocin (made in hypothalamus). Pituitary stalk transection → DI.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Korsakoff Psychosis = Confabulation + Amnesia. Associated with Mamillary Body atrophy.",
     "pdfPage": 18
   },
   {
-    "id": 18,
-    "category": "Hypothalamus: Releasing Hormones",
-    "questionText": "Which of the following is a hypothalamic releasing hormone?",
+    "id": 2,
+    "category": "Hypothalamus: Satiety Center",
+    "questionText": "A 12-year-old boy is brought in for concern of rapid weight gain. He has developed an insatiable appetite (hyperphagia) and aggressive behavior when food is withheld. MRI reveals a Craniopharyngioma compressing the hypothalamus. Which nucleus, responsible for satiety, is likely damaged?",
     "options": [
       {
-        "text": "CRH (corticotropin-releasing hormone) → Stimulates ACTH from anterior pituitary",
-        "explanation": "Correct. Also: TRH (TSH), GnRH (LH/FSH), GHRH (GH). Inhibiting: Dopamine (inhibits prolactin), Somatostatin (inhibits GH/TSH).",
+        "text": "Lateral Hypothalamus",
+        "explanation": "Incorrect. Lateral = Hunger. Lesion causes anorexia (Lateral injury makes you Lean)."
+      },
+      {
+        "text": "Ventromedial Nucleus (VMN)",
+        "explanation": "Correct. VMN = Satiety. Lesion causes Hyperphagia and obesity (Ventromedial injury makes you Very Massive).",
         "isCorrect": true
       },
       {
-        "text": "ACTH",
-        "explanation": "Incorrect (Anterior pituitary hormone)."
+        "text": "Supraoptic Nucleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cortisol",
-        "explanation": "Incorrect (Adrenal)."
+        "text": "Anterior Hypothalamus",
+        "explanation": "Incorrect. Cooling."
       },
       {
-        "text": "ADH",
-        "explanation": "Incorrect (Posterior pituitary hormone, not 'releasing')."
-      },
-      {
-        "text": "Insulin",
-        "explanation": "Incorrect (Pancreas)."
+        "text": "Posterior Hypothalamus",
+        "explanation": "Incorrect. Heating."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamic releasing hormones = CRH, TRH, GnRH, GHRH. Inhibiting = Dopamine, somatostatin. Travel via portal system → Anterior pituitary.",
-    "pdfPage": 19
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lateral = Hunger (Ghrelin). Ventromedial = Satiety (Leptin).",
+    "pdfPage": 29
   },
   {
-    "id": 19,
-    "category": "Clinical Correlation: Prolactinoma",
-    "questionText": "The most common pituitary adenoma is:",
+    "id": 3,
+    "category": "Hypothalamus: Central Diabetes Insipidus",
+    "questionText": "A patient presents with polyuria (excessive urination) and polydipsia (excessive thirst). Urinalysis shows a specific gravity of <1.005 (dilute). A water deprivation test fails to concentrate the urine, but administration of Desmopressin (ADH analog) results in rapid concentration. This confirms a diagnosis of Central Diabetes Insipidus, caused by dysfunction of which nuclei?",
     "options": [
       {
-        "text": "Prolactinoma → ↑Prolactin → Galactorrhea, amenorrhea (women), hypogonadism, erectile dysfunction (men)",
-        "explanation": "Correct. Prolactin normally inhibited by dopamine (from arcuate nucleus). Treat with dopamine agonists (cabergoline, bromocriptine). Surgery if resistant.",
+        "text": "Supraoptic and Paraventricular",
+        "explanation": "Correct. These nuclei synthesize ADH (Vasopressin) and Oxytocin, which are transported to the posterior pituitary. Damage causes Central DI.",
         "isCorrect": true
       },
       {
-        "text": "GH adenoma",
-        "explanation": "Incorrect (Second most common)."
-      },
-      {
-        "text": "ACTH adenoma",
+        "text": "Arcuate and Periventricular",
         "explanation": "Incorrect."
       },
       {
-        "text": "Non-functioning adenoma",
-        "explanation": "Incorrect (Common but not most)."
+        "text": "Lateral and Ventromedial",
+        "explanation": "Incorrect. Feeding."
       },
       {
-        "text": "TSH adenoma",
-        "explanation": "Incorrect (Rare)."
+        "text": "Suprachiasmatic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mammillary",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Prolactinoma = Most common pituitary tumor. Microadenoma (<1cm) in women, macroadenoma (>1cm) in men. Rx: Dopamine agonists (cabergoline > bromocriptine).",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Central DI = No ADH (Brain problem). Nephrogenic DI = ADH resistance (Kidney problem - Lithium, mutation).",
+    "pdfPage": 11
   },
   {
-    "id": 20,
-    "category": "Hypothalamus: HPA Axis",
-    "questionText": "The hypothalamic-pituitary-adrenal (HPA) axis for stress response involves:",
+    "id": 4,
+    "category": "Hypothalamus: Temperature Regulation",
+    "questionText": "During neurosurgery, a probe accidentally damages the Anterior Hypothalamus. Post-operatively, the patient is at risk for:",
     "options": [
       {
-        "text": "Hypothalamus (CRH) → Anterior pituitary (ACTH) → Adrenal cortex (cortisol) - Negative feedback",
-        "explanation": "Correct. Stress → CRH release (PVN) → ACTH → Cortisol (zona fasciculata). Cortisol → Negative feedback on hypothalamus/pituitary.",
+        "text": "Hypothermia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperthermia",
+        "explanation": "Correct. Anterior Hypothalamus mediates COOLING (parasympathetic). Damage prevents cooling -> Hyperthermia. (A/C = Anterior Cooling).",
         "isCorrect": true
       },
       {
-        "text": "No feedback",
-        "explanation": "Incorrect (Negative feedback)."
+        "text": "Poikilothermia",
+        "explanation": "Incorrect. Damage to posterior."
       },
       {
-        "text": "Positive feedback",
+        "text": "Hyperphagia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Adrenal medulla produces cortisol",
-        "explanation": "Incorrect (Cortex)."
-      },
-      {
-        "text": "No hypothalamic involvement",
+        "text": "Diabetes Insipidus",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: HPA axis = Stress response. CRH → ACTH → Cortisol. Cortisol negative feedback. Cushing's disease = Pituitary ACTH tumor. Cushing's syndrome = ↑Cortisol (any cause).",
-    "pdfPage": 21
-  },
-  {
-    "id": 21,
-    "category": "Hypothalamus: HPT Axis",
-    "questionText": "The hypothalamic-pituitary-thyroid (HPT) axis involves:",
-    "options": [
-      {
-        "text": "Hypothalamus (TRH) → Anterior pituitary (TSH) → Thyroid (T3/T4) - Negative feedback",
-        "explanation": "Correct. TRH (from PVN) → TSH → T3/T4. T3/T4 → Negative feedback on hypothalamus/pituitary. Primary hypothyroid = ↑TSH. Secondary = ↓TSH.",
-        "isCorrect": true
-      },
-      {
-        "text": "No thyroid involvement",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Positive feedback",
-        "explanation": "Incorrect (Negative)."
-      },
-      {
-        "text": "No pituitary role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "T3/T4 stimulate TSH",
-        "explanation": "Incorrect (Inhibit)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: HPT axis = TRH → TSH → T3/T4. Negative feedback. Primary hypothyroid (thyroid problem) = ↑TSH. Secondary (pituitary) = ↓TSH. Tertiary (hypothalamus) = ↓TRH.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior = Cooling (Panting/Sweating). Posterior = Heating (Shivering). Anterior damage = Hyperthermia. Posterior damage = Poikilothermia (cannot regulate temp at all).",
     "pdfPage": 22
   },
   {
-    "id": 22,
-    "category": "Hypothalamus: HPG Axis",
-    "questionText": "The hypothalamic-pituitary-gonadal (HPG) axis involves:",
+    "id": 5,
+    "category": "Hypothalamus: Circadian Rhythms",
+    "questionText": "The Suprachiasmatic Nucleus (SCN) regulates circadian rhythms by projecting polysynaptically to which structure to inhibit melatonin secretion during the day?",
     "options": [
       {
-        "text": "Hypothalamus (GnRH) → Anterior pituitary (LH/FSH) → Gonads (testosterone/estrogen) - Negative feedback (usually) except LH surge",
-        "explanation": "Correct. GnRH pulsatile → LH/FSH. Ovulation: Estrogen positive feedback → LH surge. Otherwise negative feedback.",
+        "text": "Pituitary Gland",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pineal Gland",
+        "explanation": "Correct. SCN -> Paraventricular Nucleus -> Intermediolateral cell column (cord) -> SCG -> Pineal Gland. Light inhibits Melatonin.",
         "isCorrect": true
       },
       {
-        "text": "No gonadal hormones",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Always positive feedback",
-        "explanation": "Incorrect (Usually negative, except LH surge)."
+        "text": "Locus Ceruleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Continuous GnRH",
-        "explanation": "Incorrect (Pulsatile required)."
-      },
-      {
-        "text": "No pituitary role",
+        "text": "Amygdala",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: HPG axis = GnRH (pulsatile) → LH/FSH → Sex hormones. Kallmann syndrome = GnRH deficiency (anosmia + hypogonadism). Continuous GnRH → Downregulation (used in prostate cancer).",
-    "pdfPage": 23
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SCN is the Master Clock. Retinohypothalamic tract carries light info directly to SCN.",
+    "pdfPage": 26
   },
   {
-    "id": 23,
-    "category": "Hypothalamus: Oxytocin",
-    "questionText": "Oxytocin released from the posterior pituitary causes:",
+    "id": 6,
+    "category": "Hypothalamus: Leptin",
+    "questionText": "Leptin is a hormone secreted by adipose tissue that signals long-term energy stores. It acts on the Hypothalamus to:",
     "options": [
       {
-        "text": "Uterine contractions (labor), milk ejection (let-down reflex), social bonding",
-        "explanation": "Correct. Positive feedback during labor (↑contractions → ↑oxytocin). Suckling → Oxytocin → Myoepithelial cell contraction → Milk ejection.",
+        "text": "Stimulate the Lateral Hypothalamus (Increase hunger)",
+        "explanation": "Incorrect. Ghrelin does this."
+      },
+      {
+        "text": "Inhibit the Ventromedial Nucleus (Decrease satiety)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulate the Ventromedial Nucleus (Increase satiety)",
+        "explanation": "Correct. Leptin tells the brain 'We have enough fat, stop eating'. It stimulates the satiety center (VMN) and inhibits the hunger center (Lateral).",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase Ghrelin secretion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decrease metabolic rate",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Leptin = 'Thin' (Satiety). Ghrelin = 'Growling' (Hunger). Mutation in Leptin gene causes congenital obesity.",
+    "pdfPage": 28
+  },
+  {
+    "id": 7,
+    "category": "Hypothalamus: Prolactin",
+    "questionText": "Dopamine released from the Arcuate Nucleus into the portal system acts on the anterior pituitary to:",
+    "options": [
+      {
+        "text": "Stimulate Prolactin release",
+        "explanation": "Incorrect. TRH induces Prolactin."
+      },
+      {
+        "text": "Inhibit Prolactin release",
+        "explanation": "Correct. Dopamine is Prolactin-Inhibiting Factor (PIF). Blocking dopamine (antipsychotics) leads to hyperprolactinemia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stimulate Growth Hormone release",
+        "explanation": "Incorrect (GHRH)."
+      },
+      {
+        "text": "Inhibit TSH release",
+        "explanation": "Incorrect (Somatostatin inhibits TSH/GH)."
+      },
+      {
+        "text": "Stimulate ACTH release",
+        "explanation": "Incorrect (CRH)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Prolactin is under tonic INHIBITION by Dopamine. All other pituitary hormones are under tonic stimulation.",
+    "pdfPage": 15
+  },
+  {
+    "id": 8,
+    "category": "Hypothalamus: Oxytocin",
+    "questionText": "Oxytocin is synthesized in the Paraventricular and Supraoptic nuclei and is released from the Posterior Pituitary. Its primary functions include:",
+    "options": [
+      {
+        "text": "Milk synthesis and uterine relaxation",
+        "explanation": "Incorrect. Synthesis = Prolactin. Relaxation = Beta-2."
+      },
+      {
+        "text": "Milk ejection and uterine contraction",
+        "explanation": "Correct. Oxytocin causes contraction of myoepithelial cells (Milk Letdown) and uterine smooth muscle (Labor).",
         "isCorrect": true
       },
       {
@@ -696,392 +235,857 @@ window.Test_L11 = [
         "explanation": "Incorrect (ADH)."
       },
       {
-        "text": "Inhibits labor",
-        "explanation": "Incorrect (Stimulates)."
+        "text": "Growth of mammary glands",
+        "explanation": "Incorrect (Estrogen/Progesterone/Prolactin)."
       },
       {
-        "text": "No role in lactation",
+        "text": "Inhibition of lactation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Oxytocin = Letdown. Prolactin = Production.",
+    "pdfPage": 14
+  },
+  {
+    "id": 9,
+    "category": "Hypothalamus: Fever",
+    "questionText": "Pyrogens (e.g., IL-1, PGE2) raise the hypothalamic set-point for body temperature resulting in fever. This action occurs primarily in which circumventricular organ?",
+    "options": [
+      {
+        "text": "Area Postrema",
+        "explanation": "Incorrect (Vomiting)."
+      },
+      {
+        "text": "Organum Vasculosum of the Lamina Terminalis (OVLT)",
+        "explanation": "Correct. OVLT senses blood pyrogens and osmolarity. It signals the Preoptic Anterior Hypothalamus to raise the temp set-point.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subfornical Organ",
+        "explanation": "Incorrect (Angiotensin II sensing)."
+      },
+      {
+        "text": "Pineal Gland",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vasoconstriction",
+        "text": "Median Eminence",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: NSAIDs (aspirin/ibuprofen) reduce fever by blocking COX -> Reduced PGE2 acting on the Hypothalamus.",
+    "pdfPage": 23
+  },
+  {
+    "id": 10,
+    "category": "Hypothalamus: Precocious Puberty",
+    "questionText": "Hypothalamic hamartomas can cause Gelastic seizures (laughing seizures) and Precocious Puberty. The latter is due to pulsatile secretion of:",
+    "options": [
+      {
+        "text": "GnRH (Gonadotropin Releasing Hormone)",
+        "explanation": "Correct. Pulsatile GnRH triggers LH/FSH -> Puberty. Constant GnRH (like in treatment with Leuprolide) suppresses the axis.",
+        "isCorrect": true
+      },
+      {
+        "text": "GHRH (Growth Hormone Releasing Hormone)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CRH (Corticotropin Releasing Hormone)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "TRH (Thyrotropin Releasing Hormone)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somatostatin",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Oxytocin = Labor (positive feedback loop) + lactation (milk ejection) + bonding. Pitocin (synthetic oxytocin) induces/augments labor. Tocolytics inhibit contractions.",
+    "clinicalPearl": "Key takeaway: GnRH must be PULSATILE to work. Continuous drip = Chemical Castration.",
+    "pdfPage": 15
+  },
+  {
+    "id": 11,
+    "category": "Hypothalamus: Rage",
+    "questionText": "Stimulation of the Ventromedial Nucleus causes satiety. Stimulation of the Lateral Hypothalamus causes hunger. What does stimulation of the Dorsomedial Nucleus cause?",
+    "options": [
+      {
+        "text": "Sleep",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sham Rage / Savage Behavior",
+        "explanation": "Correct. The Dorsomedial nucleus is involved in BP regulation and savage behavior. Stimulation in animals causes rage.",
+        "isCorrect": true
+      },
+      {
+        "text": "Amnesia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sexual arousal",
+        "explanation": "Incorrect (Preoptic area)."
+      },
+      {
+        "text": "Shivering",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dorsomedial = Savage Behavior (Dr. Jekyll / Mr. Hyde).",
+    "pdfPage": 21
+  },
+  {
+    "id": 12,
+    "category": "Hypothalamus: Thirst",
+    "questionText": "Increases in plasma osmolarity are detected by osmoreceptors in the anterior hypothalamus, leading to the sensation of thirst. Lesions in this area result in:",
+    "options": [
+      {
+        "text": "Polydipsia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Adipsia (Loss of thirst)",
+        "explanation": "Correct. The patient will not drink even if dehydrated, leading to severe hypernatremia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Polyphagia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anorexia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyponatremia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lateral Hypothalamus = Thirst + Hunger. Lesion = You starve and dehydrate.",
     "pdfPage": 24
   },
   {
-    "id": 24,
-    "category": "Clinical Correlation: Pituitary Apoplexy",
-    "questionText": "Pituitary apoplexy (sudden hemorrhage/infarction of pituitary adenoma) presents with:",
+    "id": 13,
+    "category": "Hypothalamus: Growth Hormone",
+    "questionText": "Acromegaly is often treated with Octreotide, an analog of Somatostatin. Somatostatin is produced in the Periventricular Nucleus of the hypothalamus and acts to:",
     "options": [
       {
-        "text": "Sudden severe headache, vision loss (optic chiasm compression), hypopituitarism, possible DI",
-        "explanation": "Correct. EMERGENCY. Bitemporal hemianopsia (chiasm compression). Adrenal crisis risk (ACTH deficiency). Rx: Steroids, possible neurosurgery.",
+        "text": "Stimulate GH Release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibit GH and TSH release",
+        "explanation": "Correct. Somatostatin is the 'Universal Inhibitor' (inhibits GH, TSH, Insulin, Glucagon, Gastrin, VIP).",
         "isCorrect": true
       },
       {
-        "text": "Gradual onset",
-        "explanation": "Incorrect (Sudden)."
+        "text": "Stimulate Prolactin",
+        "explanation": "Incorrect."
       },
       {
-        "text": "No visual symptoms",
-        "explanation": "Incorrect (Chiasm compression)."
+        "text": "Inhibit Dopamine",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Hyperpituitarism",
-        "explanation": "Incorrect (Hypopituitarism)."
+        "text": "Stimulate ACTH",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Somatostatin = Stop-ostatin.",
+    "pdfPage": 15
+  },
+  {
+    "id": 14,
+    "category": "Hypothalamus: Kallmann Syndrome",
+    "questionText": "A 17-year-old male presents with delayed puberty and anosmia (lack of smell). MRI shows hypoplasia of the olfactory bulbs. This condition is caused by failure of migration of GnRH neurons from the:",
+    "options": [
+      {
+        "text": "Neural Crest",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Not an emergency",
-        "explanation": "Incorrect (Emergency)."
+        "text": "Olfactory Placode",
+        "explanation": "Correct. GnRH neurons originate in the nose (olfactory placode) and migrate through the cribriform plate to the hypothalamus. Failure = Kallmann Syndrome (No smell + No puberty).",
+        "isCorrect": true
+      },
+      {
+        "text": "Rathke's Pouch",
+        "explanation": "Incorrect (Anterior Pituitary)."
+      },
+      {
+        "text": "Diencephalon floor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rhombencephalon",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Kallmann Syndrome connects the Nose and the Gonads.",
+    "pdfPage": 15
+  },
+  {
+    "id": 15,
+    "category": "Hypothalamus: Anterior Pituitary Connection",
+    "questionText": "The hypothalamus controls the anterior pituitary via:",
+    "options": [
+      {
+        "text": "Direct axonal transport (Hypothalamo-hypopyseal tract)",
+        "explanation": "Incorrect. This is for Posterior Pituitary."
+      },
+      {
+        "text": "Hypophyseal Portal System (Blood)",
+        "explanation": "Correct. Releasing hormones (GHRH, TRH, CRH, etc.) are dumped into the portal veins at the median eminence and carried to the anterior pituitary.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cerebrospinal fluid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sympathetic nerves",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parasympathetic nerves",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Pituitary = Glandular (Blood connection). Posterior Pituitary = Neural (Nerve connection).",
+    "pdfPage": 13
+  },
+  {
+    "id": 16,
+    "category": "Hypothalamus: Sexual Dimorphism",
+    "questionText": "The Sexually Dimorphic Nucleus (part of the Preoptic Area) typically differs between males and females. Its development is primarily influenced by:",
+    "options": [
+      {
+        "text": "Exposure to testosterone in utero",
+        "explanation": "Correct. Testosterone (aromatized to Estrogen in the brain) masculinizes the hypothalamus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Exposure to estrogen in utero",
+        "explanation": "Incorrect. Maternal estrogen is bound by alpha-fetoprotein.",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetic sex (XX vs XY) alone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubertal hormones",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Social environment",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pituitary apoplexy = Sudden hemorrhage into adenoma. Severe headache, vision loss, hypopituitarism. EMERGENCY - Give steroids (adrenal crisis), neurosurgical consult.",
+    "clinicalPearl": "Key takeaway: The Preoptic Area regulates improper sexual behavior and GnRH release.",
+    "pdfPage": 16
+  },
+  {
+    "id": 17,
+    "category": "Hypothalamus: Boundaries",
+    "questionText": "In a mid-sagittal section, what structure forms the ANTERIOR boundary of the hypothalamus?",
+    "options": [
+      {
+        "text": "Mammillary Bodies",
+        "explanation": "Incorrect. Posterior."
+      },
+      {
+        "text": "Lamina Terminalis and Anterior Commissure",
+        "explanation": "Correct. These mark the rostral limit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Optic Tract",
+        "explanation": "Incorrect. Lateral."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect. Superior."
+      },
+      {
+        "text": "Brainstem",
+        "explanation": "Incorrect. Inferior/Posterior."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hypothalamus is continuously bounded by: Optic Chiasm (Ant), Mammillary Bodies (Post), Thalamus (Sup), 3rd Ventricle (Med).",
+    "pdfPage": 8
+  },
+  {
+    "id": 18,
+    "category": "Hypothalamus: Posterior Pituitary",
+    "questionText": "Damage to the pituitary stalk (infundibulum) due to trauma results in:",
+    "options": [
+      {
+        "text": "Permanent Diabetes Insipidus",
+        "explanation": "Incorrect. The axons can regenerate or release ADH from the cut end (median eminence) so it is often transient.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transient Diabetes Insipidus",
+        "explanation": "Correct. Central DI may occur initially, but usually resolves as the proximal axons continue to secrete into the blood.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperprolactinemia",
+        "explanation": "Incorrect. Though stalk effect causes this, it's not the primary association with the question context of DI."
+      },
+      {
+        "text": "Cushing's Disease",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acromegaly",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stalk section -> High Prolactin (Loss of inhibition) + Transient DI.",
+    "pdfPage": 14
+  },
+  {
+    "id": 19,
+    "category": "Hypothalamus: Horner's Pathway",
+    "questionText": "The first order neuron of the sympathetic/Horner's pathway originates in the:",
+    "options": [
+      {
+        "text": "Ciliospinal Center of Budge (T1-T2)",
+        "explanation": "Incorrect. 2nd order."
+      },
+      {
+        "text": "Superior Cervical Ganglion",
+        "explanation": "Incorrect. 3rd order."
+      },
+      {
+        "text": "Posterior Hypothalamus",
+        "explanation": "Correct. The pathway starts in the hypothalamus, descends brainstem to C8-T2 (Budge), then exits to SCG, then to face.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mesencephalic Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Locus Ceruleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Horner's can result from damage anywhere along the 3-neuron chain: Hypothalamus, Brainstem, Spinal Cord, Lung Apex, Carotid Artery.",
+    "pdfPage": 4
+  },
+  {
+    "id": 20,
+    "category": "Hypothalamus: Stress Response",
+    "questionText": "CRH (Corticotropin Releasing Hormone) is released from the Paraventricular Nucleus in response to stress. It stimulates ACTH, which stimulates Cortisol. Cortisol then exerts negative feedback on:",
+    "options": [
+      {
+        "text": "Hypothalamus and Anterior Pituitary",
+        "explanation": "Correct. Cortisol inhibits both CRH release (Hypothalamus) and ACTH release (Pituitary).",
+        "isCorrect": true
+      },
+      {
+        "text": "Adrenal Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Pituitary",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thyroid",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: HPA Axis Negative Feedback is lost in some forms of depression (Dexamethasone suppression test failure).",
+    "pdfPage": 15
+  },
+  {
+    "id": 21,
+    "category": "Hypothalamus: Fornix",
+    "questionText": "The Fornix is a major output tract of the:",
+    "options": [
+      {
+        "text": "Amygdala",
+        "explanation": "Incorrect (Stria Terminalis)."
+      },
+      {
+        "text": "Hippocampus",
+        "explanation": "Correct. Fornix connects Hippocampus -> Mammillary Bodies (Papez Circuit for memory).",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cingulate Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Olfactory Bulb",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Surgical transection of the fornix can cause amnesia.",
+    "pdfPage": 18
+  },
+  {
+    "id": 22,
+    "category": "Hypothalamus: Drinking",
+    "questionText": "Angiotensin II stimulates thirst by acting on the:",
+    "options": [
+      {
+        "text": "Area Postrema",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Subfornical Organ (SFO)",
+        "explanation": "Correct. SFO is a circumventricular organ (no BBB) that detects circulating Angiotensin II and signals the hypothalamus to drink.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pineal Gland",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mammillary Bodies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SFO senses Ang II. OVLT senses Osmolarity.",
     "pdfPage": 25
   },
   {
-    "id": 25,
-    "category": "Hypothalamus: Temperature Regulation",
-    "questionText": "The preoptic area of the hypothalamus acts as the body's thermostat by:",
+    "id": 23,
+    "category": "Hypothalamus: Anterior Commissure",
+    "questionText": "The Anterior Commissure connects:",
     "options": [
       {
-        "text": "Sensing blood temperature and activating cooling (anterior) or warming (posterior) responses",
-        "explanation": "Correct. Preoptic thermoreceptors → Detect core temp. Too hot → Anterior hypothalamus (cool down). Too cold → Posterior (warm up).",
+        "text": "The two cerebellar hemispheres",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The two temporal lobes and olfactory pathways",
+        "explanation": "Correct. It is a bundle of white matter rostral to the columns of the fornix.",
         "isCorrect": true
       },
       {
-        "text": "No temperature sensing",
+        "text": "The thalamus to cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only peripheral sensors",
-        "explanation": "Incorrect (Central sensor)."
-      },
-      {
-        "text": "No efferent responses",
+        "text": "The midbrain to pons",
         "explanation": "Incorrect."
       },
       {
-        "text": "In brainstem",
-        "explanation": "Incorrect (Hypothalamus)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Preoptic area = Thermostat. Fever: Pyrogens (IL-1, PGE2) → Reset setpoint higher → Body responds by heating up. Aspirin blocks PGE2 → Antipyretic.",
-    "pdfPage": 26
-  },
-  {
-    "id": 26,
-    "category": "Clinical Correlation: Hyperthermia vs Fever",
-    "questionText": "Hyperthermia differs from fever in that:",
-    "options": [
-      {
-        "text": "Hyperthermia = Thermoregulation failure (heat stroke, drugs). Fever = Thermostat reset higher (infection, inflammation)",
-        "explanation": "Correct. Fever: Setpoint ↑, antipyretics work. Hyperthermia: Normal setpoint, cooling overwhelmed, antipyretics don't work. Rx: External cooling.",
-        "isCorrect": true
-      },
-      {
-        "text": "Both respond to aspirin",
-        "explanation": "Incorrect (Hyperthermia doesn't)."
-      },
-      {
-        "text": "No difference",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyperthermia = Infection",
-        "explanation": "Incorrect (Fever)."
-      },
-      {
-        "text": "Fever = Failed thermoregulation",
-        "explanation": "Incorrect (Hyperthermia)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Fever = Hypothalamic setpoint ↑ (pyrogens). Treat cause, antipyretics. Hyperthermia = Setpoint normal, heat dissipation failed (heat stroke, serotonin syndrome, NMS). External cooling essential.",
-    "pdfPage": 27
-  },
-  {
-    "id": 27,
-    "category": "Hypothalamus: Osmoreceptors",
-    "questionText": "Hypothalamic osmoreceptors (near SON, PVN) detect:",
-    "options": [
-      {
-        "text": "Increased plasma osmolality (dehydration) → Stimulate ADH release + Thirst",
-        "explanation": "Correct. ↑Osmolality (or ↓blood volume) → ADH → Kidney water retention. Also stimulates thirst (subfornical organ, OVLT - circumventricular organs).",
-        "isCorrect": true
-      },
-      {
-        "text": "No osmotic sensing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibit ADH",
-        "explanation": "Incorrect (Stimulate)."
-      },
-      {
-        "text": "No thirst control",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only volume",
-        "explanation": "Incorrect (Osmolality primary)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamic osmoreceptors + baroreceptors → ADH release. ↑Osmolality = Primary stimulus. ↓Blood volume/pressure also stimulates (via angiotensin II).",
-    "pdfPage": 28
-  },
-  {
-    "id": 28,
-    "category": "Hypothalamus: Emotions and Rage",
-    "questionText": "Stimulation of certain hypothalamic areas can induce:",
-    "options": [
-      {
-        "text": "'Sham rage' (aggressive behavior without appropriate stimulus)",
-        "explanation": "Correct. Hypothalamus → Autonomic + behavioral responses (aggression, feeding, sexual behavior). Intact cortex normally modulates (inhibits).",
-        "isCorrect": true
-      },
-      {
-        "text": "No emotional effects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only motor responses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pure cognitive effects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No autonomic changes",
+        "text": "The optic nerves",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamus = Emotional expression (autonomic + behavioral). 'Sham rage' with decorticate lesions. Integrates emotion with physiologic responses (fear → ↑HR, sweating).",
-    "pdfPage": 29
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Commissure aids in pain sensation and olfaction crossing.",
+    "pdfPage": 8
   },
   {
-    "id": 29,
-    "category": "Hypothalamus: Sexual Dimorphism",
-    "questionText": "The sexually dimorphic nucleus (SDN) of the preoptic area:",
+    "id": 24,
+    "category": "Hypothalamus: Narcolepsy",
+    "questionText": "Which peptide neurotransmitter is produced in the Lateral Hypothalamus and helps maintain wakefulness?",
     "options": [
       {
-        "text": "Is larger in males, influenced by prenatal testosterone",
-        "explanation": "Correct. SDN-POA size differs by sex (organizational effects of hormones). Role in sexual behavior, gender identity (debated). Animal models clear, human studies ongoing.",
+        "text": "Melatonin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Orexin (Hypocretin)",
+        "explanation": "Correct. Deficiency = Narcolepsy.",
         "isCorrect": true
       },
       {
-        "text": "Same size in males and females",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No hormonal influence",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Not in hypothalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No behavioral role",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamus has sexually dimorphic regions (SDN-POA, others). Prenatal hormones → Organizational effects. Adult hormones → Activational effects.",
-    "pdfPage": 30
-  },
-  {
-    "id": 30,
-    "category": "Hypothalamus: Pineal Gland Connection",
-    "questionText": "The hypothalamus controls melatonin secretion from the pineal gland via:",
-    "options": [
-      {
-        "text": "SCN → Sympathetic pathway (superior cervical ganglion) → Pineal gland",
-        "explanation": "Correct. Light → Retina → SCN → Inhibits pineal melatonin. Darkness → ↑Melatonin (sleep promoting). Melatonin = 'Hormone of darkness'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Direct neural connection",
-        "explanation": "Incorrect (Via sympathetic)."
-      },
-      {
-        "text": "No connection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Para sympathetic",
-        "explanation": "Incorrect (Sympathetic)."
-      },
-      {
-        "text": "Portal system",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: SCN (day/night) → Sympathetic pathway → Pineal → Melatonin (at night). Melatonin supplements for jet lag, shift work. Pineal tumors → Parinaud's syndrome.",
-    "pdfPage": 31
-  },
-  {
-    "id": 31,
-    "category": "Clinical Correlation: Hypothalamic Hamartoma",
-    "questionText": "Hypothalamic hamartoma (benign tumor) in children can cause:",
-    "options": [
-      {
-        "text": "Gelastic (laughing) seizures, precocious puberty (↑GnRH)",
-        "explanation": "Correct. Hamartoma = Ectopic hypothalamic tissue. Gelastic seizures (emotional, no LOC). Precocious puberty (GnRH-secreting mass). Rx: Surgery, radiosurgery.",
-        "isCorrect": true
-      },
-      {
-        "text": "Delayed puberty",
-        "explanation": "Incorrect (Precocious)."
-      },
-      {
-        "text": "No seizures",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Malignant",
-        "explanation": "Incorrect (Benign)."
-      },
-      {
-        "text": "No endocrine effects",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hypothalamic hamartoma = Gelastic seizures + precocious puberty. Benign. Gelastic = Uncontrollable laughter (no mirth). Treatment: Surgery, stereotactic radiosurgery.",
-    "pdfPage": 32
-  },
-  {
-    "id": 32,
-    "category": "Clinical Correlation: Prader-Willi vs Angelman",
-    "questionText": "Prader-Willi syndrome involves hypothalamic dysfunction causing:",
-    "options": [
-      {
-        "text": "Hyperphagia, obesity, hypogonadism, intellectual disability (paternal chromosome 15 deletion/UPD)",
-        "explanation": "Correct. Hypothalamic satiety dysfunction → Insatiable hunger → Obesity. Floppy infant → Later hyperphagia. Angelman (maternal 15) = 'Happy puppet', seizures, no speech.",
-        "isCorrect": true
-      },
-      {
-        "text": "Severe seizures primarily",
-        "explanation": "Incorrect (Angelman)."
-      },
-      {
-        "text": "Maternal deletion",
-        "explanation": "Incorrect (Paternal - imprinting disorder)."
-      },
-      {
-        "text": "No obesity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Normal appetite",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Prader-Willi = Paternal chr 15. Hyperphagia, obesity, hypogonadism. Angelman = Maternal chr 15. Happy demeanor, ataxia, seizures. Genetic imprinting.",
-    "pdfPage": 33
-  },
-  {
-    "id": 33,
-    "category": "Hypothalamus: Leptin Resistance",
-    "questionText": "Leptin is an adipose-derived hormone that:",
-    "options": [
-      {
-        "text": "Signals satiety to hypothalamus (arcuate nucleus) - Leptin resistance contributes to obesity",
-        "explanation": "Correct. Leptin → Activates POMC (satiety), inhibits NPY/AgRP (hunger). Obesity → High leptin but resistance → Continued hunger.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stimulates hunger",
-        "explanation": "Incorrect (Signals satiety)."
-      },
-      {
-        "text": "No hypothalamic action",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Produced by hypothalamus",
+        "text": "Leptin",
         "explanation": "Incorrect (Adipose tissue)."
       },
       {
-        "text": "No role in obesity",
+        "text": "Ghrelin",
+        "explanation": "Incorrect (Stomach)."
+      },
+      {
+        "text": "Somatostatin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Suvorexant (Orexin antagonist) is used to treat Insomnia.",
+    "pdfPage": 29
+  },
+  {
+    "id": 25,
+    "category": "Hypothalamus: Septal Nuclei",
+    "questionText": "Stimulation of the Septal Nuclei results in:",
+    "options": [
+      {
+        "text": "Intense fear",
+        "explanation": "Incorrect (Amygdala)."
+      },
+      {
+        "text": "Pleasure and sexual feelings",
+        "explanation": "Correct. Associated with the 'hedonic' reward pathway.",
+        "isCorrect": true
+      },
+      {
+        "text": "Rage",
+        "explanation": "Incorrect (Dorsomedial Hypothalamus)."
+      },
+      {
+        "text": "Vomiting",
+        "explanation": "Incorrect (Area Postrema)."
+      },
+      {
+        "text": "Amnesia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Septal rage occurs if the area is destroyed (unmasking hypothalamic fury).",
+    "pdfPage": 18
+  },
+  {
+    "id": 26,
+    "category": "Hypothalamus: Heat Dissipation",
+    "questionText": "Mechanisms for heat dissipation mediated by the Anterior Hypothalamus include:",
+    "options": [
+      {
+        "text": "Shivering and vasoconstriction",
+        "explanation": "Incorrect. Heat conservation (Posterior)."
+      },
+      {
+        "text": "Sweating and vasodilation",
+        "explanation": "Correct. Cooling mechanisms.",
+        "isCorrect": true
+      },
+      {
+        "text": "Piloerection",
+        "explanation": "Incorrect. Heat conservation."
+      },
+      {
+        "text": "Increased metabolic rate",
+        "explanation": "Incorrect. Heat production (Thyroid/Sympathetic)."
+      },
+      {
+        "text": "Huddling",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Parasympathetic = Cooling. Sympathetic = Heating.",
+    "pdfPage": 22
+  },
+  {
+    "id": 27,
+    "category": "Hypothalamus: Hypothalamic Sulcus",
+    "questionText": "The Hypothalamic Sulcus separates the Thalamus from the Hypothalamus. It runs from the:",
+    "options": [
+      {
+        "text": "Foramen of Monro to the Cerebral Aqueduct",
+        "explanation": "Correct. It is a groove in the lateral wall of the 3rd ventricle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Optic Chiasm to Mammillary Bodies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral Ventricle to 4th Ventricle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Frontal lobe to Occipital lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons to Medulla",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Leptin = Satiety signal from fat. Rare congenital leptin deficiency → Severe obesity (treatable with leptin). Common obesity = Leptin resistance (high leptin, ineffective).",
-    "pdfPage": 34
+    "clinicalPearl": "Key takeaway: Landmark for locating the Thalamus (Dorsal) vs Hypothalamus (Ventral).",
+    "pdfPage": 7
+  },
+  {
+    "id": 28,
+    "category": "Hypothalamus: SIADH",
+    "questionText": "Syndrome of Inappropriate ADH (SIADH) results in:",
+    "options": [
+      {
+        "text": "Hypernatremia and dilute urine",
+        "explanation": "Incorrect (DI)."
+      },
+      {
+        "text": "Hyponatremia and concentrated urine",
+        "explanation": "Correct. Too much ADH reabsorbs too much water -> Dilutional Hyponatremia + Concentrated Urine (High Osmolarity).",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperkalemia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypoglycemia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Polyuria",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SIADH causes Euvolemic Hyponatremia. Treat with Fluid Restriction.",
+    "pdfPage": 11
+  },
+  {
+    "id": 29,
+    "category": "Hypothalamus: Histamine",
+    "questionText": "The Tuberomammillary Nucleus is the only source of which neurotransmitter in the brain?",
+    "options": [
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Histamine",
+        "explanation": "Correct. Involved in arousal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Orexin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Antihistamines cause drowsiness by blocking this system.",
+    "pdfPage": 4
+  },
+  {
+    "id": 30,
+    "category": "Hypothalamus: TRH",
+    "questionText": "TRH (Thyrotropin Releasing Hormone) stimulates release of TSH and:",
+    "options": [
+      {
+        "text": "Growth Hormone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prolactin",
+        "explanation": "Correct. Primary hypothyroidism (High TRH) can cause Hyperprolactinemia (Galactorrhea).",
+        "isCorrect": true
+      },
+      {
+        "text": "ACTH",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "LH/FSH",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ADH",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Always check TSH in a patient with Galactorrhea.",
+    "pdfPage": 15
+  },
+  {
+    "id": 31,
+    "category": "Hypothalamus: Stria Terminalis",
+    "questionText": "The Stria Terminalis connects:",
+    "options": [
+      {
+        "text": "Amygdala to Hypothalamus",
+        "explanation": "Correct. It runs alongside the caudate nucleus/thalamus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hippocampus to Mammillary Bodies",
+        "explanation": "Incorrect (Fornix)."
+      },
+      {
+        "text": "Retina to SCN",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortex to Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal Cord to Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Stria Terminalis = Amygdala output.",
+    "pdfPage": 18
+  },
+  {
+    "id": 32,
+    "category": "Hypothalamus: ADH Stimuli",
+    "questionText": "The most potent stimulus for ADH release is:",
+    "options": [
+      {
+        "text": "Decreased Blood Pressure",
+        "explanation": "Incorrect. Requires 10% drop.",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased Plasma Osmolarity",
+        "explanation": "Correct. A 1% change is sufficient to trigger ADH.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cold",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sleep",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Osmolarity is tightest control. Volume is backup.",
+    "pdfPage": 25
+  },
+  {
+    "id": 33,
+    "category": "Hypothalamus: Median Eminence",
+    "questionText": "The Median Eminence is a circumventricular organ where:",
+    "options": [
+      {
+        "text": "CSF is produced",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothalamic releasing hormones enter the portal blood",
+        "explanation": "Correct. BBB is leaky here to allows hormones to enter capillaries.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vision occurs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smell occurs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing occurs",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CVOs = Window to the brain (No BBB).",
+    "pdfPage": 13
   },
   {
     "id": 34,
-    "category": "Hypothalamus: Thirst",
-    "questionText": "Thirst is stimulated by:",
+    "category": "Hypothalamus: Function",
+    "questionText": "Which hypothalamic nucleus is primarily involved in regulating circadian rhythms?",
     "options": [
       {
-        "text": "Increased plasma osmolality, decreased blood volume/pressure (detected by circumventricular organs, baroreceptors)",
-        "explanation": "Correct. Subfornical organ (SFO), OVLT = Circumventricular (no BBB) → Sense osmolality, angiotensin II → Hypothalamus → Thirst.",
-        "isCorrect": true
-      },
-      {
-        "text": "Decreased osmolality",
-        "explanation": "Incorrect (Increased)."
-      },
-      {
-        "text": "No hypothalamic role",
+        "text": "Supraoptic",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increased blood volume",
-        "explanation": "Incorrect (Decreased)."
+        "text": "Suprachiasmatic (SCN)",
+        "explanation": "Correct. Located above the optic chiasm.",
+        "isCorrect": true
       },
       {
-        "text": "No angiotensin effect",
-        "explanation": "Incorrect (AngII → Thirst)."
+        "text": "Paraventricular",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ventromedial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsomedial",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thirst = ↑Osmolality (primary) or ↓volume/BP. Circumventricular organs (SFO, OVLT) sense. Adipsia (absent thirst) → Life-threatening hypernatremia.",
-    "pdfPage": 35
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SCN = Sun Catcher Nucleus.",
+    "pdfPage": 26
   },
   {
     "id": 35,
-    "category": "Clinical Correlation: Craniopharyngioma",
-    "questionText": "Craniopharyngioma (suprasellar tumor) in children commonly causes:",
+    "category": "Hypothalamus: Pituitary Adenoma",
+    "questionText": "A pituitary adenoma growing superiorly out of the sella turcica will most likely compress which structure first, causing which visual defect?",
     "options": [
       {
-        "text": "Hypopituitarism (growth hormone deficiency → Short stature), DI, visual field defects (bitemporal hemianopsia)",
-        "explanation": "Correct. Benign but locally invasive. Calcifications on imaging. Compresses pituitary stalk, optic chiasm. Rx: Surgery, radiation. Can recur.",
-        "isCorrect": true
-      },
-      {
-        "text": "No endocrine effects",
+        "text": "Optic Nerve; Monocular blindness",
         "explanation": "Incorrect."
       },
       {
-        "text": "No visual symptoms",
-        "explanation": "Incorrect (Chiasm compression)."
+        "text": "Optic Chiasm; Bitemporal hemianopsia",
+        "explanation": "Correct. Chiasm is directly above pituitary. Compression affects crossing nasal fibers -> Loss of temporal visual fields (Tunnel vision).",
+        "isCorrect": true
       },
       {
-        "text": "Malignant",
-        "explanation": "Incorrect (Benign)."
+        "text": "Optic Tract; Homonymous hemianopsia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Rare in children",
-        "explanation": "Incorrect (Bimodal - kids and adults)."
+        "text": "Oculomotor nerve; Ptosis",
+        "explanation": "Incorrect (Lateral expansion to Cavernous Sinus).",
+        "isCorrect": false
+      },
+      {
+        "text": "Abducens nerve; Palsy",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Craniopharyngioma = Suprasellar mass. Kids → Short stature (GH deficiency), DI, bitemporal hemianopsia. Calcified (CT). Adamantinomatous (kids) vs papillary (adults).",
-    "pdfPage": 36
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pituitary Adenoma / Craniopharyngioma = Bitemporal Hemianopsia.",
+    "pdfPage": 9
   }
 ];

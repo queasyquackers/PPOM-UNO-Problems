@@ -1,1088 +1,1053 @@
-window.Test_L24 = [
+// Test_L24.js
+const Test_L24 = [
   {
     "id": 1,
-    "category": "Olfaction: Physiology",
-    "questionText": "Olfactory receptor neurons are unique among sensory neurons because they:",
+    "category": "Clinical Case: Kallmann Syndrome",
+    "questionText": "A 16-year-old male presents with delayed puberty. Physical examination reveals small testes and lack of secondary sexual characteristics. He also mentions that he has never been able to smell anything. What is the most likely underlying mechanism of his condition?",
     "options": [
       {
-        "text": "Do not adapt to stimuli",
-        "explanation": "Incorrect. They adapt rapidly."
+        "text": "Tumor compressing the optic chiasm",
+        "explanation": "Incorrect. This would cause visual defects."
       },
       {
-        "text": "Have a lifespan of only 7-60 days and regularly regenerate from basal cells",
-        "explanation": "Correct. Olfactory neurons are the only CNS neurons directly exposed to the environment and are continuously turned over/regenerated from basal stem cells throughout life.",
-        "isCorrect": true
+        "text": "Failure of GnRH neurons to migrate to the hypothalamus",
+        "explanation": "Correct. Kallmann Syndrome involves a failure of olfactory axons and GnRH neurons to migrate, leading to Anosmia and Hypogonadism."
       },
       {
-        "text": "Are myelinated",
-        "explanation": "Incorrect. Their axons (CN I) are unmyelinated."
+        "text": "Vitamin B1 deficiency",
+        "explanation": "Incorrect. Causes Korsakoff's/Wernicke's."
       },
       {
-        "text": "Use glutamate as an inhibitory transmitter",
+        "text": "Microadenoma of the pituitary",
         "explanation": "Incorrect."
       },
       {
-        "text": "Project directly to the Occipital lobe",
-        "explanation": "Incorrect."
+        "text": "Trauma to the cribriform plate",
+        "explanation": "Incorrect. History would suggest trauma, not congenital delayed puberty."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfactory neurons regenerate (Stem cells = Basal cells). They are vulnerable to chemotherapy.",
-    "pdfPage": 6
+    "clinicalPearl": "Kallmann Syndrome = Anosmia + Hypogonadotropic Hypogonadism (Delayed Puberty).",
+    "pdfPage": 20
   },
   {
     "id": 2,
-    "category": "Olfaction: Transduction",
-    "questionText": "The transduction of odorants begins with the binding of a molecule to a G-protein coupled receptor (GPCR) on the cilia. This activates Adenylyl Cyclase, increasing cAMP, which directly opens:",
+    "category": "Rapid Review: Olfactory Transduction",
+    "questionText": "In olfactory receptor neurons, the influx of calcium triggers the opening of which channels to cause depolarization?",
     "options": [
       {
-        "text": "Voltage-gated Sodium channels",
+        "text": "Voltage-gated Potassium channels",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cyclic Nucleotide-Gated (CNG) cation channels",
-        "explanation": "Correct. cAMP opens CNG channels allowing Ca2+ and Na+ influx. The Ca2+ influx then opens Ca2+-gated Chloride channels, causing Cl- EFFLUX (depolarization).",
-        "isCorrect": true
+        "text": "Calcium-gated Chloride channels",
+        "explanation": "Correct. Unique to olfaction: Cl- efflux (leaving the cell) depolarizes it because of high internal Cl- concentration."
       },
       {
-        "text": "Potassium leak channels",
+        "text": "Sodium-Potassium Pump",
         "explanation": "Incorrect."
       },
       {
-        "text": "Mechanical gated channels",
+        "text": "Ligand-gated Glutamate receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Chloride influx channels",
-        "explanation": "Incorrect. It causes Cl- EFFLUX."
+        "text": "Mechanosensitive channels",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfactory transduction: GPCR -> cAMP -> CNG Channel (Ca influx) -> Cl- Channel (Cl efflux) -> Depolarization.",
-    "pdfPage": 10
+    "clinicalPearl": "Olfactory depolarization is amplified by Chloride EFFLUX via Ca-gated Cl channels.",
+    "pdfPage": 6
   },
   {
     "id": 3,
-    "category": "Olfaction: Anatomy",
-    "questionText": "The axons of the Olfactory Receptor Neurons pass through which bony structure to reach the Olfactory Bulb?",
+    "category": "Clinical Case: Foster-Kennedy",
+    "questionText": "A 55-year-old female presents with loss of smell in her right nostril and vision changes. Examination reveals atrophy of the right optic nerve and papilledema of the left optic disc. An MRI is most likely to show:",
     "options": [
       {
-        "text": "Superior Orbital Fissure",
+        "text": "A pituitary adenoma",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cribriform Plate of the Ethmoid Bone",
-        "explanation": "Correct. These unmyelinated axons form the Olfactory Nerve (CN I) and traverse the cribriform plate. Head trauma can shear these axons causing anosmia.",
-        "isCorrect": true
+        "text": "Meningioma of the olfactory groove",
+        "explanation": "Correct. Foster-Kennedy Syndrome: Tumor compresses ipsilateral olfactory tract (anosmia) and optic nerve (atrophy), raising ICP to cause contralateral papilledema."
       },
       {
-        "text": "Foramen Ovale",
+        "text": "Vestibular Schwannoma",
+        "explanation": "Incorrect. CP angle tumor (hearing loss)."
+      },
+      {
+        "text": "Temporal lobe epilepsy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Internal Auditory Meatus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stylomastoid Foramen",
-        "explanation": "Incorrect."
+        "text": "Nasal polyps",
+        "explanation": "Incorrect. Wouldn't cause optic nerve signs."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cribriform plate fracture = Anosmia + CSF Rhinorrhea.",
-    "pdfPage": 12
+    "clinicalPearl": "Foster-Kennedy: Ipsilateral Anosmia + Optic Atrophy; Contralateral Papilledema.",
+    "pdfPage": 21
   },
   {
     "id": 4,
-    "category": "Olfaction: Anatomy",
-    "questionText": "Within the Olfactory Bulb, axons from receptor neurons expressing the SAME receptor gene converge onto a single spherical structure called a:",
-    "options": [
-      {
-        "text": "Mitral cell",
-        "explanation": "Incorrect. This is the output neuron."
-      },
-      {
-        "text": "Glomerulus",
-        "explanation": "Correct. The Glomerulus is the synaptic unit where thousands of receptor inputs (same type) converge onto the dendrites of Mitral and Tufted cells. This creates a chemotopic map.",
-        "isCorrect": true
-      },
-      {
-        "text": "Granule cell",
-        "explanation": "Incorrect. Inhibitory interneuron."
-      },
-      {
-        "text": "Pyramidal cell",
-        "explanation": "Incorrect. Cortex."
-      },
-      {
-        "text": "Taste bud",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glomeruli are the functional units of the bulb sorting odors by receptor type.",
-    "pdfPage": 14
-  },
-  {
-    "id": 5,
-    "category": "Olfaction: Pathway",
-    "questionText": "The Olfactory system is unique among sensory systems because it:",
-    "options": [
-      {
-        "text": "Projects to the contralateral cortex only",
-        "explanation": "Incorrect. Ipsilateral mainly."
-      },
-      {
-        "text": "Bypasses the Thalamus to project directly to the Primary Cortex",
-        "explanation": "Correct. The Olfactory Tract projects directly to the Piriform Cortex (and Amygdala/Entorhinal) WITHOUT a thalamic relay. A thalamic connection (Mediodorsal nucleus) exists later for conscious discrimination, but it is not inevitable for the first step.",
-        "isCorrect": true
-      },
-      {
-        "text": "Uses electrical synapses only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Has no cortical representation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Does not use action potentials",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Smell -> Bulb -> Cortex (No Thalamic Relay first).",
-    "pdfPage": 23
-  },
-  {
-    "id": 6,
-    "category": "Olfaction: Pathology",
-    "questionText": "A 16-year-old male presents with delayed puberty (failure to start secondary sexual development). He also mentions he has never been able to smell anything (Congenital Anosmia). What is the diagnosis?",
-    "options": [
-      {
-        "text": "Foster-Kennedy Syndrome",
-        "explanation": "Incorrect. Tumor."
-      },
-      {
-        "text": "Kallmann Syndrome",
-        "explanation": "Correct. Kallmann Syndrome is Hypogonadotropic Hypogonadism + Anosmia. It is caused by failure of GnRH neurons to migrate from the olfactory placode to the hypothalamus during development.",
-        "isCorrect": true
-      },
-      {
-        "text": "Klinefelter Syndrome",
-        "explanation": "Incorrect. XXY."
-      },
-      {
-        "text": "Turner Syndrome",
-        "explanation": "Incorrect. XO."
-      },
-      {
-        "text": "Pituitary Adenoma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Kallmann Syndrome = Anosmia + No Puberty (GnRH neuron migration failure).",
-    "pdfPage": 36
-  },
-  {
-    "id": 7,
-    "category": "Olfaction: Pathology",
-    "questionText": "Foster-Kennedy Syndrome is characterized by Ipsilateral Anosmia, Ipsilateral Optic Atrophy, and Contralateral Papilledema. This is typically caused by:",
-    "options": [
-      {
-        "text": "A pituitary tumor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A Meningioma of the Olfactory Groove/Sphenoid Wing",
-        "explanation": "Correct. The mass compresses the olfactory tract (anosmia) and optic nerve (atrophy) on the same side. The increased ICP causes papilledema in the OTHER eye.",
-        "isCorrect": true
-      },
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Temporal Lobe Epilepsy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Trauma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Foster-Kennedy = Anosmia + Optic Atrophy (same side) + Papilledema (other side).",
-    "pdfPage": 37
-  },
-  {
-    "id": 8,
-    "category": "Olfaction: Pathology",
-    "questionText": "A patient reports smelling 'burnt rubber' or 'rotting eggs' just before experiencing a seizure. This 'Uncinate Fit' suggests the seizure focus is located in the:",
-    "options": [
-      {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect. Visual auras."
-      },
-      {
-        "text": "Temporal Lobe (Uncus/Amygdala/Piriform Cortex)",
-        "explanation": "Correct. The uncus (medial temporal lobe) contains the primary olfactory cortex. Seizures here cause olfactory hallucinations (Phantosmia/Cacosmia).",
-        "isCorrect": true
-      },
-      {
-        "text": "Frontal Lobe",
-        "explanation": "Incorrect. Motor."
-      },
-      {
-        "text": "Parietal Lobe",
-        "explanation": "Incorrect. Sensory."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfactory Auras (Uncinate Fits) = Temporal Lobe Epilepsy.",
-    "pdfPage": 39
-  },
-  {
-    "id": 9,
-    "category": "Taste: Physiology",
-    "questionText": "Which taste sensation is mediated by the Epithelial Sodium Channel (ENaC)?",
-    "options": [
-      {
-        "text": "Sweet",
-        "explanation": "Incorrect. GPCR (T1R2/T1R3)."
-      },
-      {
-        "text": "Salty",
-        "explanation": "Correct. Salt (Sodium) directly enters the cell via ENaC channels, depolarizing it.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sour",
-        "explanation": "Incorrect. Proton channels/block K+."
-      },
-      {
-        "text": "Bitter",
-        "explanation": "Incorrect. GPCR (T2R)."
-      },
-      {
-        "text": "Umami",
-        "explanation": "Incorrect. GPCR (T1R1/T1R3)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Salt = Ion Channel (ENaC). Sour = Ion Channel (H+). Sweet/Bitter/Umami = GPCR.",
-    "pdfPage": 29
-  },
-  {
-    "id": 10,
-    "category": "Taste: Physiology",
-    "questionText": "Bitter taste receptors (T2R family) use a G-protein called Gustducin to activate PLC, releasing Calcium. Why do we have so many different bitter receptors (~30 types) compared to sweet (1 type)?",
-    "options": [
-      {
-        "text": "Bitter food is more nutritious",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To detect a wide variety of potentially toxic substances (poisons)",
-        "explanation": "Correct. Bitter sensation evolved as a warning system for toxins/alkaloids. High sensitivity and diversity are crucial for survival.",
-        "isCorrect": true
-      },
-      {
-        "text": "Bitter receptors are less sensitive",
-        "explanation": "Incorrect. They are MORE sensitive.",
-        "isCorrect": false
-      },
-      {
-        "text": "Sweet is not important",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It's random",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bitter receptors (T2R) are diverse to detect poisons.",
-    "pdfPage": 30
-  },
-    {
-    "id": 11,
-    "category": "Taste: Anatomy",
-    "questionText": "Taste sensation from the Anterior 2/3 of the tongue is carried by which cranial nerve?",
-    "options": [
-      {
-        "text": "Trigeminal (CN V)",
-        "explanation": "Incorrect. Somatosensation (Touch/Pain/Temp) of anterior tongue."
-      },
-      {
-        "text": "Facial (CN VII - Chorda Tympani)",
-        "explanation": "Correct. The Chorda Tympani branch of CN VII carries Taste from the Anterior 2/3.",
-        "isCorrect": true
-      },
-      {
-        "text": "Glossopharyngeal (CN IX)",
-        "explanation": "Incorrect. Posterior 1/3."
-      },
-      {
-        "text": "Vagus (CN X)",
-        "explanation": "Incorrect. Epiglottis/Pharynx."
-      },
-      {
-        "text": "Hypoglossal (CN XII)",
-        "explanation": "Incorrect. Motor."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Taste Innervation: Ant 2/3 = VII. Post 1/3 = IX. Epiglottis = X.",
-    "pdfPage": 31
-  },
-  {
-    "id": 12,
-    "category": "Taste: Pathway",
-    "questionText": "All Taste fibers (CN VII, IX, X) converge in the brainstem at the:",
-    "options": [
-      {
-        "text": "Nucleus Ambiguus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nucleus of the Solitary Tract (Solitary Nucleus) - Rostral Part",
-        "explanation": "Correct. The Rostral NTS is the 'Gustatory Nucleus'. (Caudal NTS is cardiorespiratory).",
-        "isCorrect": true
-      },
-      {
-        "text": "Spinal Trigeminal Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Olivary Complex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsal Motor Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Taste input goes to the Nucleus of the Solitary Tract (NTS).",
-    "pdfPage": 32
-  },
-  {
-    "id": 13,
-    "category": "Taste: Pathway",
-    "questionText": "From the Thalamus (VPM nucleus), taste information is projected to the Primary Gustatory Cortex located in the:",
-    "options": [
-      {
-        "text": "Precentral Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Insula and Operculum",
-        "explanation": "Correct. The Insular cortex (hidden deep in the lateral sulcus) is the primary taste cortex.",
-        "isCorrect": true
-      },
-      {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cingulate Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Primary Gustatory Cortex = Insula.",
-    "pdfPage": 32
-  },
-  {
-    "id": 14,
-    "category": "Olfaction: Physiology",
-    "questionText": "The sensation of 'Flavor' is a multimodal integration primarily composed of Taste (Gustation) and:",
-    "options": [
-      {
-        "text": "Vision",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Retronasal Olfaction",
-        "explanation": "Correct. Volatiles from food travel back up the pharynx to the olfactory epithelium (Retronasal). This provides the complexity of flavor (strawberry vs cherry) beyond the 5 basic tastes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hearing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Proprioception",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vestibular sense",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Flavor = Taste + Retronasal Smell.",
-    "pdfPage": 4
-  },
-  {
-    "id": 15,
-    "category": "Olfaction: Pathology",
-    "questionText": "A patient with COVID-19 develops Anosmia. Research suggests the virus primarily infects which cell type in the olfactory epithelium via the ACE2 receptor?",
+    "category": "Rapid Review: COVID-19 Mechanism",
+    "questionText": "The SARS-CoV-2 virus (COVID-19) primarily enters the olfactory epithelium by binding to ACE2 receptors on:",
     "options": [
       {
         "text": "Olfactory Receptor Neurons",
-        "explanation": "Incorrect. They generally lack ACE2."
+        "explanation": "Incorrect. They lack ACE2."
       },
       {
         "text": "Sustentacular (Support) Cells",
-        "explanation": "Correct. The virus attacks the support cells, disrupting the environment for the neurons. This explains why recovery is often rapid (support cells regenerate/heal) vs neural death.",
-        "isCorrect": true
+        "explanation": "Correct. These cells have high ACE2 expression. Their dysfunction indirectly affects neurons."
+      },
+      {
+        "text": "Basal Stem Cells",
+        "explanation": "Incorrect."
       },
       {
         "text": "Mitral Cells",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. In the bulb, not epithelium."
       },
       {
-        "text": "Basal Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bowman's Gland cells",
+        "text": "Bowman's Glands",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: COVID Anosmia is due to Sustentacular cell infection.",
-    "pdfPage": 9
+    "clinicalPearl": "COVID-19 infects Sustentacular cells (ACE2+), NOT the neurons directly.",
+    "pdfPage": 4
   },
   {
-    "id": 16,
-    "category": "Olfaction: Transduction",
-    "questionText": "In Olfactory Transduction, the opening of Chloride channels leads to EFFLUX of chloride. This causes depolarization because:",
+    "id": 5,
+    "category": "Clinical Case: Trauma",
+    "questionText": "A 25-year-old male is involved in a motorcycle accident and sustains head trauma. Weeks later, he reports that food \"tastes bland\" and he cannot smell his coffee. He also has clear fluid dripping from his nose when he leans forward. What is the most likely injury?",
     "options": [
       {
-        "text": "The intracellular concentration of Chloride is unusually HIGH in olfactory neurons",
-        "explanation": "Correct. Unlike most CNS neurons where Cl- is low (inhibitory), Olfactory neurons accumulate Cl-, so opening the channel causes it to leave, taking negative charge out (Depolarization).",
-        "isCorrect": true
+        "text": "Fracture of the Temporal Bone",
+        "explanation": "Incorrect. Would affect hearing/facial nerve."
       },
       {
-        "text": "The chemical gradient is reversed",
+        "text": "Fracture of the Cribriform Plate",
+        "explanation": "Correct. Shearing of olfactory nerves (anosmia) + CSF Rhinorrhea (leakage)."
+      },
+      {
+        "text": "Deviated Septum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Chloride is positive",
+        "text": "Damage to the Insula",
         "explanation": "Incorrect."
       },
       {
-        "text": "It lets Sodium in",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It blocks Potassium",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Olfactory neurons have High Intracellular Cl-, so Cl- current is Excitatory (Efflux).",
-    "pdfPage": 10
-  },
-  {
-    "id": 17,
-    "category": "Taste: Anatomy",
-    "questionText": "Which type of tongue papillae contains the most taste buds and is arranged in a V-shape at the back of the tongue?",
-    "options": [
-      {
-        "text": "Filiform",
-        "explanation": "Incorrect. No taste buds. Mechanical."
-      },
-      {
-        "text": "Circumvallate (Vallate)",
-        "explanation": "Correct. These are large, contain hundreds of taste buds (especially for bitter), and sit at the sulcus terminalis (posterior).",
-        "isCorrect": true
-      },
-      {
-        "text": "Fungiform",
-        "explanation": "Incorrect. Anterior, mushroom shaped."
-      },
-      {
-        "text": "Foliate",
-        "explanation": "Incorrect. Sides."
-      },
-      {
-        "text": "Conical",
+        "text": "Mandibular fracture",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Circumvallate papillae = Posterior V-shape, many taste buds (Bitter).",
-    "pdfPage": 28
-  },
-  {
-    "id": 18,
-    "category": "Olfaction: Pathology",
-    "questionText": "Parosmia refers to:",
-    "options": [
-      {
-        "text": "Complete loss of smell",
-        "explanation": "Incorrect. Anosmia."
-      },
-      {
-        "text": "Reduced smell",
-        "explanation": "Incorrect. Hyposmia."
-      },
-      {
-        "text": "Distorted sense of smell where a familiar odor smells distinctively unpleasant (e.g., coffee smells like gasoline)",
-        "explanation": "Correct. Often occurs during recovery from anosmia (rewiring error).",
-        "isCorrect": true
-      },
-      {
-        "text": "Smelling something that isn't there",
-        "explanation": "Incorrect. Phantosmia."
-      },
-      {
-        "text": "Inability to name odors",
-        "explanation": "Incorrect. Agnosia."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Parosmia = Distorted smell (usually bad).",
-    "pdfPage": 19
-  },
-  {
-    "id": 19,
-    "category": "Olfaction: Anatomy",
-    "questionText": "The Medial Olfactory Stria projects to the contralateral olfactory bulb via the:",
-    "options": [
-      {
-        "text": "Corpus Callosum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Commissure",
-        "explanation": "Correct. The Anterior Olfactory Nucleus fibers cross here to inhibit the other side (contrast enhancement/localization).",
-        "isCorrect": true
-      },
-      {
-        "text": "Posterior Commissure",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Habenula",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal Capsule",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfactory inter-hemispheric communication uses the Anterior Commissure.",
-    "pdfPage": 15
-  },
-  {
-    "id": 20,
-    "category": "Taste: Physiology",
-    "questionText": "Sour taste is primarily mediated by which ion?",
-    "options": [
-      {
-        "text": "Na+",
-        "explanation": "Incorrect. Salt."
-      },
-      {
-        "text": "H+ (Protons)",
-        "explanation": "Correct. Protons (Acids) enter via channels or block K+ channels, causing depolarization.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ca2+",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mg2+",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cl-",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sour = Acid = H+.",
-    "pdfPage": 29
-  },
-  {
-    "id": 21,
-    "category": "Olfaction: Pathology",
-    "questionText": "Early loss of olfaction (Hyposmia/Anosmia) is a prodromal sign for which neurodegenerative diseases?",
-    "options": [
-      {
-        "text": "ALS and Myasthenia Gravis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parkinson's and Alzheimer's Disease",
-        "explanation": "Correct. Pathology (Lewy bodies/tangles) often starts in the olfactory bulb/tract years before motor or memory symptoms.",
-        "isCorrect": true
-      },
-      {
-        "text": "Huntington's Disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Guillain-Barre Syndrome",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anosmia precedes Parkinson's motor signs by years.",
+    "clinicalPearl": "Cribriform plate fracture = Anosmia + CSF Rhinorrhea.",
     "pdfPage": 22
   },
   {
-    "id": 22,
-    "category": "Olfaction: Anatomy",
-    "questionText": "The Piriform Cortex is considered the:",
+    "id": 6,
+    "category": "Rapid Review: Olfactory Pathway",
+    "questionText": "Unlike other sensory systems, the olfactory pathway is unique because:",
     "options": [
       {
-        "text": "Primary Olfactory Cortex",
-        "explanation": "Correct. It receives direct input from the Lateral Olfactory Tract.",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary Gustatory Cortex",
-        "explanation": "Incorrect. Insula."
-      },
-      {
-        "text": "Visual association area",
+        "text": "It decussates completely",
         "explanation": "Incorrect."
       },
       {
-        "text": "Motor planning area",
+        "text": "It does not relay in the thalamus before reaching part of the cortex",
+        "explanation": "Correct. It projects directly to the primary olfactory cortex (Piriform) first. (Though it does go to MD thalamus later)."
+      },
+      {
+        "text": "It uses unmyelinated axons only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Thalamic relay",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Primary Olfactory Cortex = Piriform Cortex.",
-    "pdfPage": 16
-  },
-  {
-    "id": 23,
-    "category": "Taste: Physiology",
-    "questionText": "Umami taste detects:",
-    "options": [
-      {
-        "text": "Acids",
+        "text": "It has no cortical representation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Amino acids (Glutamate)",
-        "explanation": "Correct. Umami (savory) detects protein content via Glutamate receptors (MSG).",
-        "isCorrect": true
-      },
-      {
-        "text": "Simple sugars",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alkaloids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fats",
+        "text": "It enters the brainstem first",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Umami = Glutamate (Amino Acids/Protein).",
-    "pdfPage": 26
+    "clinicalPearl": "Olfaction is the only sense that bypasses the Thalamus to reach the Cortex directly.",
+    "pdfPage": 14
   },
   {
-    "id": 24,
-    "category": "Olfaction: Anatomy",
-    "questionText": "The Mitral and Tufted cells of the Olfactory Bulb project their axons primarily via the:",
+    "id": 7,
+    "category": "Clinical Case: Parosmia",
+    "questionText": "A patient recovering from a severe upper respiratory infection complains that coffee now smells like \"burning rubber\" and perfume smells like \"sewage\". This distortion of a real stimulus is known as:",
     "options": [
       {
-        "text": "Medial Olfactory Tract",
-        "explanation": "Incorrect. Crossing fibers."
+        "text": "Anosmia",
+        "explanation": "Incorrect. Absence of smell."
       },
       {
-        "text": "Lateral Olfactory Tract",
-        "explanation": "Correct. This is the main output bundle going to the cortex.",
-        "isCorrect": true
+        "text": "Parosmia (Dysosmia)",
+        "explanation": "Correct. Distortion of an existing smell."
       },
       {
-        "text": "Optic Tract",
+        "text": "Phantosmia",
+        "explanation": "Incorrect. Smelling something that isn't there."
+      },
+      {
+        "text": "Ageusia",
+        "explanation": "Incorrect. Loss of taste."
+      },
+      {
+        "text": "Hyperosmia",
+        "explanation": "Incorrect. Increased sensitivity."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Parosmia = Distortion. Phantosmia = Hallucination.",
+    "pdfPage": 18
+  },
+  {
+    "id": 8,
+    "category": "Rapid Review: Tongue Innervation",
+    "questionText": "Taste sensation from the Anterior 2/3 of the tongue is carried by:",
+    "options": [
+      {
+        "text": "Cranial Nerve V (Trigeminal)",
+        "explanation": "Incorrect. Sensation (Touch/Pain), not taste."
+      },
+      {
+        "text": "Cranial Nerve VII (Facial)",
+        "explanation": "Correct. Via Chorda Tympani."
+      },
+      {
+        "text": "Cranial Nerve IX (Glossopharyngeal)",
+        "explanation": "Incorrect. Posterior 1/3."
+      },
+      {
+        "text": "Cranial Nerve X (Vagus)",
+        "explanation": "Incorrect. Epiglottis/Pharynx."
+      },
+      {
+        "text": "Cranial Nerve XII (Hypoglossal)",
+        "explanation": "Incorrect. Motor."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Taste: Ant 2/3 = VII. Post 1/3 = IX. Epiglottis = X.",
+    "pdfPage": 28
+  },
+  {
+    "id": 9,
+    "category": "Clinical Case: Uncinate Fits",
+    "questionText": "A 35-year-old male reports episodes where he suddenly smells \"burning tires\" followed by a period of unresponsiveness and lip smacking. An MRI would likely identify an abnormality in the:",
+    "options": [
+      {
+        "text": "Occipital Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pyramidal Tract",
+        "text": "Medial Temporal Lobe (Uncus/Amygdala)",
+        "explanation": "Correct. Olfactory hallucinations (Phantosmia) often precede Temporal Lobe Seizures (Uncinate Fits)."
+      },
+      {
+        "text": "Frontal Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Tract",
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": " Cerebellum",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lateral Olfactory Tract = Output to Cortex.",
-    "pdfPage": 15
+    "clinicalPearl": "Uncinate Fits = Olfactory Aura (often foul) -> Temporal Lobe Epilepsy.",
+    "pdfPage": 23
   },
   {
-    "id": 25,
-    "category": "Olfaction: Physiology",
-    "questionText": "Each Olfactory Receptor Neuron expresses:",
+    "id": 10,
+    "category": "Rapid Review: Taste Transduction",
+    "questionText": "Which taste Sensation is mediated by the direct blockage of Potassium (K+) channels by protons (H+)?",
     "options": [
       {
-        "text": "All 300 receptor genes",
+        "text": "Salty",
+        "explanation": "Incorrect. Na+ influx."
+      },
+      {
+        "text": "Sour",
+        "explanation": "Correct. Acids (H+) block K+ channels, causing depolarization."
+      },
+      {
+        "text": "Sweet",
+        "explanation": "Incorrect. GPCR."
+      },
+      {
+        "text": "Bitter",
+        "explanation": "Incorrect. GPCR."
+      },
+      {
+        "text": "Umami",
+        "explanation": "Incorrect. GPCR."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sour = Acid = Protons = K+ channel block.",
+    "pdfPage": 25
+  },
+  {
+    "id": 11,
+    "category": "Clinical Case: Bell's Palsy",
+    "questionText": "A patient with Bell's Palsy (facial drooping on one side) complains that food tastes weird. Which specific deficit would you expect?",
+    "options": [
+      {
+        "text": "Loss of taste on the posterior 1/3 of the tongue",
+        "explanation": "Incorrect. That's CN IX."
+      },
+      {
+        "text": "Loss of taste on the anterior 2/3 of the tongue ipsilaterally",
+        "explanation": "Correct. CN VII carries taste for Ant 2/3."
+      },
+      {
+        "text": "Total loss of taste (Ageusia)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only ONE olfactory receptor gene",
-        "explanation": "Correct. One Neuron - One Receptor rule. This allows for the Glomerular map formation.",
-        "isCorrect": true
+        "text": "Loss of sensation (touch) on the tongue",
+        "explanation": "Incorrect. That's CN V."
       },
       {
-        "text": "A random subset of 10 genes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only mechanical receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No genes",
+        "text": "Hypergeusia (enhanced taste)",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: One neuron expresses only ONE receptor type.",
-    "pdfPage": 13
+    "clinicalPearl": "Bell's Palsy (CN VII) can cause loss of taste on Anterior 2/3 of tongue.",
+    "pdfPage": 29
   },
   {
-    "id": 26,
-    "category": "Taste: Anatomy",
-    "questionText": "A patient with Bell's Palsy (CN VII lesion) usually complains of loss of taste (Ageusia) on the:",
+    "id": 12,
+    "category": "Rapid Review: Olfactory Bulbs",
+    "questionText": "In the olfactory bulb, axons from olfactory receptor neurons expressing the SAME receptor gene converge onto a single structure called a:",
     "options": [
       {
-        "text": "Posterior 1/3 of the tongue",
-        "explanation": "Incorrect. CN IX."
+        "text": "Mitral cell",
+        "explanation": "Incorrect. They synapse ON mitral cells, but the structure is the glomerulus."
       },
       {
-        "text": "Anterior 2/3 of the tongue ipsilaterally",
-        "explanation": "Correct. Chorda tympani travels with the Facial nerve. Facial palsy often includes loss of taste on that side's front tongue.",
-        "isCorrect": true
+        "text": "Glomerulus",
+        "explanation": "Correct. This creates a chemotopic map."
       },
       {
-        "text": "Entire tongue",
+        "text": "Tufted cell",
         "explanation": "Incorrect."
       },
       {
-        "text": "Epiglottis",
+        "text": "Granule cell",
         "explanation": "Incorrect."
       },
       {
-        "text": "Soft palate only",
+        "text": "Bowman's gland",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bell's Palsy = Anterior 2/3 Taste Loss.",
-    "pdfPage": 33
-  },
-  {
-    "id": 27,
-    "category": "Olfaction: Anatomy",
-    "questionText": "Bowman's Glands in the olfactory epithelium secrete:",
-    "options": [
-      {
-        "text": "Saliva",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mucus containing Odorant Binding Proteins",
-        "explanation": "Correct. The mucus dissolves odorants so they can reach the receptors. OBPs help transport hydrophobic odorants.",
-        "isCorrect": true
-      },
-      {
-        "text": "CSF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tears",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ear wax",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bowman's Glands make the specialized olfactory mucus.",
+    "clinicalPearl": "1 Receptor Gene -> 1 Glomerulus. Convergence increases sensitivity.",
     "pdfPage": 8
   },
   {
-    "id": 28,
-    "category": "Olfaction: Pathology",
-    "questionText": "Korsakoff's Psychosis (Thiamine deficiency) can cause olfactory deficits due to degeneration of the:",
+    "id": 13,
+    "category": "Clinical Case: Korsakoff",
+    "questionText": "A 60-year-old male with a history of chronic alcohol abuse presents with confusion and memory loss. Neurological exam reveals he also has a significant deficit in smell discrimination. This olfactory loss is likely due to damage in the:",
     "options": [
       {
         "text": "Olfactory Epithelium",
         "explanation": "Incorrect."
       },
       {
-        "text": "Mediodorsal Nucleus of the Thalamus and Mammillary Bodies",
-        "explanation": "Correct. These central structures degenerate in B1 deficiency, affecting the conscious discrimination pathway of smell.",
-        "isCorrect": true
+        "text": "Mediodorsal Nucleus of the Thalamus",
+        "explanation": "Correct. Korsakoff's affects the diencephalon/thalamus concording with cognitive/olfactory deficits."
       },
       {
-        "text": "Cribriform plate",
+        "text": "Cribriform Plate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Facial nerve",
+        "text": "Occipital Cortex",
         "explanation": "Incorrect."
       },
-      {
-        "text": "Tongue",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Korsakoff's affects the Mediodorsal Thalamus (Olfactory relay).",
-    "pdfPage": 24
-  },
-  {
-    "id": 29,
-    "category": "Taste: Physiology",
-    "questionText": "Sweet taste transduction involves T1R2+T1R3 receptors coupling to G-protein which activates:",
-    "options": [
-      {
-        "text": "Adenylyl Cyclase (cAMP)",
-        "explanation": "Correct. Sweet uses cAMP to close K+ channels/depolarize.",
-        "isCorrect": true
-      },
-      {
-        "text": "Guanylyl Cyclase (cGMP)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "ENaC",
-        "explanation": "Incorrect. Salt."
-      },
-      {
-        "text": "Proton channels",
-        "explanation": "Incorrect. Sour."
-      },
-      {
-        "text": "Mechanical gated channels",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sweet = cAMP. Bitter/Umami = IP3/Ca.",
-    "pdfPage": 30
-  },
-  {
-    "id": 30,
-    "category": "Olfaction: Anatomy",
-    "questionText": "The Olfactory Bulb contains inhibitory interneurons called Granule Cells. They modify the output of Mitral cells via:",
-    "options": [
-      {
-        "text": "Dendrodendritic synapses",
-        "explanation": "Correct. A unique reciprocal synapse where the Mitral dendrite excites the Granule dendrite, which effectively immediately inhibits the Mitral dendrite (Lateral Inhibition).",
-        "isCorrect": true
-      },
-      {
-        "text": "Axosomatic synapses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Axoaxonic synapses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gap junctions",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They don't synapse",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Granule cells use Dendrodendritic synapses for lateral inhibition.",
-    "pdfPage": 14
-  },
-  {
-    "id": 31,
-    "category": "Taste: Anatomy",
-    "questionText": "The VPM (Ventral Posteromedial) nucleus of the Thalamus relays sensation from the face and:",
-    "options": [
-      {
-        "text": "Visual information",
-        "explanation": "Incorrect. LGN."
-      },
-      {
-        "text": "Taste (Gustatory) information",
-        "explanation": "Correct. Taste goes NTS -> VPM -> Insula.",
-        "isCorrect": true
-      },
-      {
-        "text": "Auditory information",
-        "explanation": "Incorrect. MGN."
-      },
-      {
-        "text": "Motor information",
-        "explanation": "Incorrect. VL/VA."
-      },
-      {
-        "text": "Olfactory information",
-        "explanation": "Incorrect. MD nucleus (mostly)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: VPM = Face + Taste.",
-    "pdfPage": 32
-  },
-  {
-    "id": 32,
-    "category": "Olfaction: Physiology",
-    "questionText": "The axons of Olfactory Receptor Neurons are:",
-    "options": [
-      {
-        "text": "Thick and Myelinated (A-alpha)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thin and Unmyelinated (C-fibers)",
-        "explanation": "Correct. This makes conduction slow.",
-        "isCorrect": true
-      },
-      {
-        "text": "Think and Myelinated (A-delta)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They don't have axons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Made of cartilage",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfactory nerve fibers are unmyelinated (slow).",
-    "pdfPage": 11
-  },
-  {
-    "id": 33,
-    "category": "Taste: Anatomy",
-    "questionText": "Filiform papillae are unique because they:",
-    "options": [
-      {
-        "text": "Contain the most taste buds",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Do NOT contain taste buds",
-        "explanation": "Correct. They are mechanical/textural (like cat tongue velcro).",
-        "isCorrect": true
-      },
-      {
-        "text": "Detect bitter only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Are located on the epiglottis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Secrete saliva",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Filiform papillae have NO taste buds.",
-    "pdfPage": 28
-  },
-  {
-    "id": 34,
-    "category": "Olfaction: Pathology",
-    "questionText": "Cacosmia describes:",
-    "options": [
-      {
-        "text": "The inability to smell",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The sensation of a foul/unpleasant smell (usually in parosmia or seizures)",
-        "explanation": "Correct. Caco = Bad.",
-        "isCorrect": true
-      },
-      {
-        "text": "The sensation of a sweet smell",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increased smell sensitivity",
-        "explanation": "Incorrect. Hyperosmia."
-      },
-      {
-        "text": "Smell blindness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cacosmia = Bad smell hallucination.",
-    "pdfPage": 19
-  },
-  {
-    "id": 35,
-    "category": "Olfaction: Anatomy",
-    "questionText": "Which structure connects the Olfactory system directly to the memory centers of the brain, explaining why smells powerfully evoke memories?",
-    "options": [
       {
         "text": "Cerebellum",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Korsakoff Psychosis affects the Mediodorsal Thalamus -> Smell deficits.",
+    "pdfPage": 24
+  },
+  {
+    "id": 14,
+    "category": "Rapid Review: Bitter Taste",
+    "questionText": "Why do humans have over 30 different receptors for Bitter taste, compared to very few for Sweet?",
+    "options": [
+      {
+        "text": "Bitter foods are more nutritious",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Entorhinal Cortex / Hippocampus",
-        "explanation": "Correct. Direct projections from the Bulb/Piriform to the Entorhinal cortex act as the gateway to the Hippocampus (Memory).",
-        "isCorrect": true
+        "text": "To detect a wide variety of potential toxins",
+        "explanation": "Correct. Bitter often equals Poison/Toxic in nature."
+      },
+      {
+        "text": "Bitter receptors are ion channels",
+        "explanation": "Incorrect. They are GPCRs."
+      },
+      {
+        "text": "Bitter is the only taste mediated by cAMP",
+        "explanation": "Incorrect. Sweet is cAMP."
+      },
+      {
+        "text": "Bitter taste buds are smaller",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Bitter = Warning signal for Toxins. High diversity of receptors needed.",
+    "pdfPage": 26
+  },
+  {
+    "id": 15,
+    "category": "Clinical Case: Parkinson's",
+    "questionText": "A 68-year-old patient is diagnosed with Parkinson's Disease. Review of his history reveals he lost his sense of smell 4 years ago. This early anosmia is:",
+    "options": [
+      {
+        "text": "Unrelated to Parkinson's",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A common prodromal symptom of neurodegenerative diseases",
+        "explanation": "Correct. Olfactory loss often precedes motor symptoms in PD by years."
+      },
+      {
+        "text": "Due to medication side effects",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Caused by smoking",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A sign of recovery",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Hyposmia/Anosmia is an early biomarker for Parkinson's and Alzheimer's.",
+    "pdfPage": 17
+  },
+  {
+    "id": 16,
+    "category": "Rapid Review: Taste Pathway",
+    "questionText": "The primary relay nucleus in the brainstem for ALL taste sensation is the:",
+    "options": [
+      {
+        "text": "Nucleus Ambiguus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nucleus of the Solitary Tract (NTS)",
+        "explanation": "Correct. (Rostral part/Gustatory nucleus)."
+      },
+      {
+        "text": "Inferior Olive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cochlear Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Taste (VII, IX, X) -> Solitary Tract Nucleus -> Thalamus (VPM).",
+    "pdfPage": 28
+  },
+  {
+    "id": 17,
+    "category": "Clinical Case: Smoking",
+    "questionText": "A chronic heavy smoker complains that food doesn't taste good anymore. Testing would likely reveal:",
+    "options": [
+      {
+        "text": "Increased sensitivity to sweet",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Higher thresholds for detecting tastants",
+        "explanation": "Correct. Smoking damages taste buds/sensory cells, requiring a stronger stimulus (threshold) to detect taste."
+      },
+      {
+        "text": "Total permanent ageusia",
+        "explanation": "Incorrect. Usually reversible if stopped."
+      },
+      {
+        "text": "Genetic mutation of receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Damage to the facial nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Smoking causes Hyposmia/Hypogeusia and metaplasia of sensory epithelium.",
+    "pdfPage": 29
+  },
+  {
+    "id": 18,
+    "category": "Rapid Review: Primary Gustatory Cortex",
+    "questionText": "Where is the Primary Gustatory Cortex located?",
+    "options": [
+      {
+        "text": "Postcentral Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insula / Frontal Operculum",
+        "explanation": "Correct. Buried deep in the Sylvian fissure."
       },
       {
         "text": "Occipital Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
+        "text": "Hippocampus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia",
+        "text": "Cerebellum",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Smell -> Entorhinal -> Hippocampus (Proust Effect).",
-    "pdfPage": 16
+    "clinicalPearl": "Taste Cortex = Insula.",
+    "pdfPage": 28
+  },
+  {
+    "id": 19,
+    "category": "Clinical Case: Retronasal Olfaction",
+    "questionText": "A patient holds their nose while eating a strawberry jelly bean and claims it \"tastes just like sugar\". When they release their nose, they suddenly perceive the \"strawberry\" flavor. This demonstrates the importance of:",
+    "options": [
+      {
+        "text": "Orthonasal olfaction",
+        "explanation": "Incorrect. Sniffing in."
+      },
+      {
+        "text": "Retronasal olfaction",
+        "explanation": "Correct. Aromas travel from the back of the mouth to the nose. This provides 'Flavor'."
+      },
+      {
+        "text": "Umami receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Trigeminal nerve stimulation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual cues",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Flavor = Taste (Tongue) + Retronasal Olfaction (Aroma).",
+    "pdfPage": 2
+  },
+  {
+    "id": 20,
+    "category": "Rapid Review: Umami",
+    "questionText": "Umami taste receptors are specifically activated by:",
+    "options": [
+      {
+        "text": "H+ Ions",
+        "explanation": "Incorrect. Sour."
+      },
+      {
+        "text": "Sodium",
+        "explanation": "Incorrect. Salty."
+      },
+      {
+        "text": "Glutamate / Nucleotides",
+        "explanation": "Correct. Found in soy sauce, meat, cheese."
+      },
+      {
+        "text": "Sugars",
+        "explanation": "Incorrect. Sweet."
+      },
+      {
+        "text": "Alkaloids",
+        "explanation": "Incorrect. Bitter."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Umami = Savory/Meaty = Glutamate.",
+    "pdfPage": 22
+  },
+  {
+    "id": 21,
+    "category": "Vignette: Anosmia",
+    "questionText": "A 40-year-old female presents with inability to smell. She has a history of chronic rhinosinusitis and nasal polyps. This type of anosmia is primarily:",
+    "options": [
+      {
+        "text": "Sensorineural",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Conductive / Obstructive",
+        "explanation": "Correct. The odorants cannot physically reach the epithelium."
+      },
+      {
+        "text": "Central",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Congenital",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Traumatic",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sinonasal disease is a common cause of conductive olfactory loss.",
+    "pdfPage": 18
+  },
+  {
+    "id": 22,
+    "category": "Rapid Review: Cranial Nerves",
+    "questionText": "Which Cranial Nerve is responsible for taste on the Epiglottis?",
+    "options": [
+      {
+        "text": "CN VII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN IX",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN X (Vagus)",
+        "explanation": "Correct. Very posterior/throat taste."
+      },
+      {
+        "text": "CN V",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN XII",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CN X: Taste deep in the throat (Epiglottis).",
+    "pdfPage": 28
+  },
+  {
+    "id": 23,
+    "category": "Vignette: Phantom Smell",
+    "questionText": "A patient complains of constantly smelling \"rotten eggs\" even though nobody else smells it. Rhinoscopy and MRI are normal. This is best described as:",
+    "options": [
+      {
+        "text": "Hyposmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Phantosmia",
+        "explanation": "Correct. Perception of smell in absence of stimulus."
+      },
+      {
+        "text": "Parosmia",
+        "explanation": "Incorrect. Requires a stimulus to be distorted."
+      },
+      {
+        "text": "Presbyosmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normosmia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Phantosmia can occur spontaneously or with psychiatric/neurological conditions.",
+    "pdfPage": 19
+  },
+  {
+    "id": 24,
+    "category": "Rapid Review: Regeneration",
+    "questionText": "Olfactory Receptor Neurons are unique in the nervous system because they:",
+    "options": [
+      {
+        "text": "Are myelinated",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regenerate regularly from Basal Cells",
+        "explanation": "Correct. They turn over every 30-60 days."
+      },
+      {
+        "text": "Do not synapse",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Have no dendrites",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Use GABA",
+        "explanation": "Incorrect. Glutamate."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Basal cells act as stem cells to replace olfactory neurons.",
+    "pdfPage": 4
+  },
+  {
+    "id": 25,
+    "category": "Vignette: Medication Side Effect",
+    "questionText": "A patient undergoing chemotherapy reports that all meat tastes \"metallic\" and bitter. This distortion of taste is called:",
+    "options": [
+      {
+        "text": "Ageusia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dysgeusia / Parageusia",
+        "explanation": "Correct. 'Dys' = bad/distorted."
+      },
+      {
+        "text": "Anosmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypergeusia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Synesthesia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Dysgeusia is a common side effect of drugs (metronidazole, chemo).",
+    "pdfPage": 29
+  },
+  {
+    "id": 26,
+    "category": "Rapid Review: Salt Transduction",
+    "questionText": "Salt taste transduction involves the influx of Na+ through:",
+    "options": [
+      {
+        "text": "Voltage-gated Na+ channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Amiloride-sensitive Na+ channels (ENaC)",
+        "explanation": "Correct. Passive influx causing depolarization."
+      },
+      {
+        "text": "Ligand-gated channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GPCRs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aquaporins",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Salt = Sodium influx via ENaC channels.",
+    "pdfPage": 25
+  },
+  {
+    "id": 27,
+    "category": "Vignette: Age-Related Loss",
+    "questionText": "An 80-year-old female complains that food has \"no flavor\" and she has lost weight. She adds excessive salt to her meals. What is the most physiological explanation?",
+    "options": [
+      {
+        "text": "Early Alzheimer's",
+        "explanation": "Possible, but age-related loss is universal."
+      },
+      {
+        "text": "Normal age-related decline in olfaction and taste",
+        "explanation": "Correct. Presbyosmia/Presbygeusia. Olfactory decline is major factor in flavor loss."
+      },
+      {
+        "text": "Stroke",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Zinc deficiency",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Depression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Loss of smell/taste is common in elderly -> Anorexia of aging.",
+    "pdfPage": 22
+  },
+  {
+    "id": 28,
+    "category": "Rapid Review: Thalamus",
+    "questionText": "Which Thalamic nucleus processes TASTE?",
+    "options": [
+      {
+        "text": "VPL",
+        "explanation": "Incorrect. Body sensation."
+      },
+      {
+        "text": "VPM (Ventral Posterior Medial)",
+        "explanation": "Correct. Face sensation and Taste."
+      },
+      {
+        "text": "MGN",
+        "explanation": "Incorrect. Auditory."
+      },
+      {
+        "text": "LGN",
+        "explanation": "Incorrect. Visual."
+      },
+      {
+        "text": "VL",
+        "explanation": "Incorrect. Motor."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "VPM = Ventral Posterior 'Mouth' (Face + Taste).",
+    "pdfPage": 28
+  },
+  {
+    "id": 29,
+    "category": "Clinical Case: Cacosmia",
+    "questionText": "A patient describes smelling \"burning poop\" during their recovery from a viral infection. This specific type of unpleasant parosmia is called:",
+    "options": [
+      {
+        "text": "Cacosmia",
+        "explanation": "Correct. From Greek 'kakos' (bad)."
+      },
+      {
+        "text": "Euosmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperosmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Presbyosmia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Osmophobia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Cacosmia = Perception of foul/fecal odors.",
+    "pdfPage": 19
+  },
+  {
+    "id": 30,
+    "category": "Rapid Review: Sweet Transduction",
+    "questionText": "Sweet, Bitter, and Umami transduction all share this mechanism:",
+    "options": [
+      {
+        "text": "Direct ion channel opening",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "G-Protein Coupled Receptors (GPCRs)",
+        "explanation": "Correct. They use second messengers (cAMP or IP3)."
+      },
+      {
+        "text": "Hyperpolarization",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Endocytosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nuclear receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Complex tastes (Sweet/Bitter/Umami) use GPCRs. Simple ions (Salt/Sour) use Channels.",
+    "pdfPage": 26
+  },
+  {
+    "id": 31,
+    "category": "Vignette: Glossopharyngeal Nerve",
+    "questionText": "During a tonsillectomy, a nerve is accidentally damaged. The patient later complains of loss of taste on the back (posterior third) of their tongue. Which nerve was injured?",
+    "options": [
+      {
+        "text": "Vagus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glossopharyngeal (CN IX)",
+        "explanation": "Correct. Supplies sensation and taste to posterior 1/3."
+      },
+      {
+        "text": "Facial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypoglossal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lingual",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Tonsillectomy risk: CN IX injury -> Taste loss post 1/3 + Gag reflex loss.",
+    "pdfPage": 28
+  },
+  {
+    "id": 32,
+    "category": "Rapid Review: Olfactory Epithelium",
+    "questionText": "Which cell type in the olfactory epithelium secretes mucus to dissolve odorants?",
+    "options": [
+      {
+        "text": "Mitral cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bowman's Glands",
+        "explanation": "Correct. They produce the mucus layer."
+      },
+      {
+        "text": "Basal cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tufted cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Schwann cells",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Bowman's glands = Mucus factory for nose.",
+    "pdfPage": 4
+  },
+  {
+    "id": 33,
+    "category": "Vignette: Zinc",
+    "questionText": "A patient with a poor diet complains of hair loss, poor wound healing, and loss of taste (hypogeusia). Which mineral deficiency should you suspect?",
+    "options": [
+      {
+        "text": "Iron",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Zinc",
+        "explanation": "Correct. Zinc is essential for taste bud function and Carbonic Anhydrase (sour taste)."
+      },
+      {
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Magnesium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Potassium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Zinc deficiency causes Dysgeusia/Hypogeusia.",
+    "pdfPage": 29
+  },
+  {
+    "id": 34,
+    "category": "Rapid Review: Anterior Olfactory Nucleus",
+    "questionText": "The Anterior Olfactory Nucleus plays a role in:",
+    "options": [
+      {
+        "text": "Generating new neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Comparing input between the two nostrils",
+        "explanation": "Correct. It connects the two olfactory bulbs via the Anterior Commissure."
+      },
+      {
+        "text": "Releasing dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Controlling tongue movement",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Producing mucus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Anterior Olfactory Nucleus allows inter-hemispheric communication for smell localization.",
+    "pdfPage": 13
+  },
+  {
+    "id": 35,
+    "category": "Rapid Review: Salicylates",
+    "questionText": "While not directly about taste, which drug toxicity is famous for causing tinnitus (ringing in ears) and sometimes hearing loss?",
+    "options": [
+      {
+        "text": "Penicillin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aspirin (Salicylates)",
+        "explanation": "Correct. Salicylate toxicity -> Tinnitus."
+      },
+      {
+        "text": "Tylenol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ibuprofen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Statins",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Aspirin overdose causes metabolic acidosis + Tinnitus.",
+    "pdfPage": 30
   }
 ];

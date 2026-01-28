@@ -1,624 +1,774 @@
-window.Test_L19 = [
+// Test_L19.js
+const Test_L19 = [
   {
     "id": 1,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A 22-year-old college student presents with intermittent shortness of breath and wheezing, particularly after exercise. Spirometry is equivocal. To confirm a diagnosis of asthma, a bronchoprovocation test is performed using an inhaled muscarinic agonist. Which agent is most appropriate for this specific diagnostic test?",
+    "category": "Asthma Diagnosis",
+    "questionText": "A 22-year-old female college student presents with complaints of intermittent shortness of breath and wheezing, particularly during exam season. Her baseline spirometry is normal. To confirm a diagnosis of asthma, a bronchoprovocation test is ordered using an inhaled agent. This agent acts by directly stimulating M3 muscarinic receptors on bronchial smooth muscle. Which drug is being used?",
     "options": [
       {
-        "text": "Bethanechol",
-        "explanation": "Incorrect. Bethanechol is used orally for urinary retention/ileus. It has mainly muscarinic activity but is not used for bronchoprovocation."
+        "text": "Albuterol",
+        "explanation": "Incorrect. Beta-2 agonist used for relief."
       },
       {
         "text": "Methacholine",
-        "explanation": "Correct. Methacholine is a direct-acting muscarinic agonist that is relatively resistant to acetylcholinesterase. It is used via inhalation for the Methacholine Challenge Test to diagnose bronchial hyperreactivity (asthma)."
-      },
-      {
-        "text": "Carbachol",
-        "explanation": "Incorrect. Carbachol has significant nicotinic activity and is primarily used topically for glaucoma."
-      },
-      {
-        "text": "Pilocarpine",
-        "explanation": "Incorrect. Pilocarpine is used for glaucoma and xerostomia (Sjogren's)."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect. Acetylcholine is degraded too rapidly by acetylcholinesterase (pseudocholinesterase in plasma) to be useful for this test."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Methacholine is used for the diagnosis of Asthma (Bronchoprovocation test).",
-    "pdfPage": 35
-  },
-  {
-    "id": 2,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A 70-year-old male with benign prostatic hyperplasia (BPH) undergoes abdominal surgery. Post-operatively, he develops urinary retention. Which direct-acting cholinergic agonist could be used to stimulate the detrusor muscle and promote bladder emptying?",
-    "options": [
-      {
-        "text": "Atropine",
-        "explanation": "Incorrect. Atropine is a muscarinic ANTAGONIST; it would worsen urinary retention."
-      },
-      {
-        "text": "Bethanechol",
-        "explanation": "Correct. Bethanechol is a choline ester with specificity for muscarinic receptors (negligible nicotinic effect) and resistance to AChE. It selectively stimulates the M3 receptors on the detrusor muscle to treat non-obstructive urinary retention."
-      },
-      {
-        "text": "Nicotine",
-        "explanation": "Incorrect. Nicotine activates nicotinic receptors and would have widespread systemic effects."
-      },
-      {
-        "text": "Pilocarpine",
-        "explanation": "Incorrect. While a muscarinic agonist, Pilocarpine is primarily used for glaucoma and dry mouth."
-      },
-      {
-        "text": "Edrophonium",
-        "explanation": "Incorrect. This is a short-acting AChE inhibitor used for Myasthenia Gravis diagnosis."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bethanechol (Bethany calls me to the bathroom) is used for urinary retention and post-op ileus.",
-    "pdfPage": 33
-  },
-  {
-    "id": 3,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A 55-year-old woman with Sjogren's syndrome complains of severe dry mouth (xerostomia) that is affecting her ability to swallow. Which orally active drug would increase salivary secretion?",
-    "options": [
-      {
-        "text": "Scopolamine",
-        "explanation": "Incorrect. Scopolamine is an anticholinergic used for motion sickness; it CAUSES dry mouth."
-      },
-      {
-        "text": "Pilocarpine",
-        "explanation": "Correct. Pilocarpine (and Cevimeline) is a tertiary amine muscarinic agonist that can be taken orally (Salagen) to act as a sialogogue, stimulating gland secretion in Sjogren's syndrome and post-radiation xerostomia."
-      },
-      {
-        "text": "Methacholine",
-        "explanation": "Incorrect. Inhalation only."
-      },
-      {
-        "text": "Carbachol",
-        "explanation": "Incorrect. Topical eye drops only."
+        "explanation": "Correct. Methacholine is a muscarinic agonist used in the 'Methacholine Challenge Test' to induce bronchoconstriction in susceptible individuals (asthmatics)."
       },
       {
         "text": "Ipratropium",
-        "explanation": "Incorrect. Antimuscarinic inhaler for COPD."
+        "explanation": "Incorrect. Muscarinic antagonist."
+      },
+      {
+        "text": "Bethanechol",
+        "explanation": "Incorrect. Used for urinary retention."
+      },
+      {
+        "text": "Pilocarpine",
+        "explanation": "Incorrect. Used for glaucoma/xerostomia."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pilocarpine and Cevimeline are sialogogues used to treat xerostomia (dry mouth).",
-    "pdfPage": 46
+    "clinicalPearl": "Methacholine Challenge: A key diagnostic tool for asthma when spirometry is normal. It provokes bronchoconstriction via M3 receptors.",
+    "pdfPage": 20
   },
   {
-    "id": 4,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Generalized activation of the parasympathetic nervous system by a muscarinic agonist would produce which of the following physiological effects?",
+    "id": 2,
+    "category": "Urinary Retention",
+    "questionText": "A 45-year-old female undergoes a hysterectomy. Post-operatively, she is unable to void despite a full bladder. An ultrasound confirms significant urinary retention without obstruction. She is prescribed an oral medication to stimulate bladder contraction. This drug works by:",
     "options": [
       {
-        "text": "Mydriasis",
-        "explanation": "Incorrect. Mydriasis (dilation) is sympathetic (alpha-1) or anti-muscarinic. Muscarinic agonists cause Miosis (constriction)."
+        "text": "Blocking alpha-1 receptors",
+        "explanation": "Incorrect. Tamsulosin mechanism."
       },
       {
-        "text": "Bronchodilation",
-        "explanation": "Incorrect. Parasympathetic activation causes Bronchoconstriction."
+        "text": "Stimulating Beta-3 receptors",
+        "explanation": "Incorrect. Mirabegron (relaxes bladder)."
       },
       {
-        "text": "Bradycardia",
-        "explanation": "Correct. Activation of M2 receptors on the SA and AV nodes hyperpolarizes the cells (via K+ channel opening), slowing the heart rate (negative chronotropy)."
+        "text": "Stimulating Muscarinic receptors (M3)",
+        "explanation": "Correct. Bethanechol is a muscarinic agonist that stimulates the detrusor muscle to contract and voids the bladder."
       },
       {
-        "text": "Urinary retention",
-        "explanation": "Incorrect. Agonists promote voiding."
+        "text": "Inhibiting Acetylcholinesterase",
+        "explanation": "Incorrect. Indirect action (Neostigmine)."
       },
       {
-        "text": "Decreased gastric motility",
-        "explanation": "Incorrect. Agonists increase motility (rest and digest)."
+        "text": "Stimulating Nicotinic receptors",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Muscarinic agonists causes 'DUMBBELSS': Diarrhea, Urination, Miosis, Bradycardia, Bronchoconstriction, Emesis, Lacrimation, Salivation, Sweating (sympathetic muscarinic).",
-    "pdfPage": 34
+    "clinicalPearl": "Bethanechol = Bladder. Used for non-obstructive urinary retention (post-op, post-partum).",
+    "pdfPage": 21
   },
   {
-    "id": 5,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Acetylcholine is not used clinically for systemic treatment because:",
+    "id": 3,
+    "category": "Glaucoma Emergency",
+    "questionText": "A 60-year-old Asian female presents to the ER with severe left eye pain, headache, and vomiting. The eye is red, and the pupil is clinically fixed and mid-dilated. Intraocular pressure is 50 mmHg. As part of the emergency management to open the filtration angle, a direct-acting cholinomimetic eye drop is administered. Which drug was likely used?",
     "options": [
       {
-        "text": "It does not activate nicotinic receptors",
-        "explanation": "Incorrect. It activates both muscarinic and nicotinic receptors."
+        "text": "Atropine",
+        "explanation": "Incorrect. Contraindicated! Dilates pupil and worsens angle closure."
       },
       {
-        "text": "It is rapidly hydrolyzed by acetylcholinesterase and plasma butyrylcholinesterase",
-        "explanation": "Correct. ACh has an extremely short half-life because it is rapidly broken down by cholinesterases, making it ineffective systemically."
+        "text": "Pilocarpine",
+        "explanation": "Correct. Pilocarpine causes miosis (pupil constriction) and contraction of the ciliary muscle, opening the trabecular meshwork to drain aqueous humor."
       },
       {
-        "text": "It cannot cross the blood-brain barrier",
-        "explanation": "Incorrect. While true (it's a quaternary amine), this is not the primary reason it's not used (Bethanechol is also quaternary and is used)."
+        "text": "Timolol",
+        "explanation": "Incorrect. Beta-blocker (decreases production), but Pilocarpine is the classic miotic for opening the angle."
       },
       {
-        "text": "It causes dangerous hypertension",
-        "explanation": "Incorrect. Systemic ACh typically causes vasodilation (M3 on endothelium -> NO) and bradycardia, leading to hypotension."
+        "text": "Latanoprost",
+        "explanation": "Incorrect. Prostaglandin (increases outflow), slow onset."
       },
       {
-        "text": "It is selective for M1 receptors only",
-        "explanation": "Incorrect. It is non-selective."
+        "text": "Phenylephrine",
+        "explanation": "Incorrect. Alpha agonist (dilates pupil)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acetylcholine is rapidly degraded by cholinesterases, limiting its clinical utility.",
+    "clinicalPearl": "Acute Angle Closure Glaucoma requires immediate Miosis (Pilocarpine) to pull the iris away from the trabecular meshwork.",
+    "pdfPage": 21
+  },
+  {
+    "id": 4,
+    "category": "Sjogren's Syndrome",
+    "questionText": "A 50-year-old female complains of 'sand in her eyes' and difficulty swallowing dry food. She is diagnosed with Sjogren's syndrome. To alleviate her xerostomia (dry mouth), she is prescribed Cevimeline. This drug improves her symptoms by stimulating:",
+    "options": [
+      {
+        "text": "M1 receptors",
+        "explanation": "Incorrect. Neural/Gastric."
+      },
+      {
+        "text": "M2 receptors",
+        "explanation": "Incorrect. Cardiac."
+      },
+      {
+        "text": "M3 receptors",
+        "explanation": "Correct. M3 receptors are located on exocrine glands (salivary, lacrimal). Cevimeline is an M3-selective agonist."
+      },
+      {
+        "text": "Nm receptors",
+        "explanation": "Incorrect. Muscle."
+      },
+      {
+        "text": "Alpha-1 receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Cevimeline (and Pilocarpine) are 'Sialagogues' - they stimulate saliva production via M3 receptors.",
+    "pdfPage": 22
+  },
+  {
+    "id": 5,
+    "category": "Smoking Cessation",
+    "questionText": "A 35-year-old male wants to quit smoking after 15 years. He is prescribed Varenicline (Chantix). He reports that while taking the drug, his craving for cigarettes is reduced, and if he does smoke, it \"doesn't feel the same.\" This dual effect is best explained by Varenicline acting as a:",
+    "options": [
+      {
+        "text": "Full agonist at Nicotinic receptors",
+        "explanation": "Incorrect. Would cause full nicotine effects."
+      },
+      {
+        "text": "Competitive antagonist at Muscarinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Partial agonist at alpha-4-beta-2 nicotinic receptors",
+        "explanation": "Correct. As a partial agonist, it stimulates the receptor enough to stop withdrawal (craving), but blocks binding of full nicotine (reducing reward)."
+      },
+      {
+        "text": "Cholinesterase inhibitor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine reuptake inhibitor",
+        "explanation": "Incorrect. Bupropion mechanism."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Varenicline acts as a 'Partial Agonist'. It keeps the seat warm (stops withdrawal) and blocks the door (stops nicotine form binding).",
     "pdfPage": 26
   },
   {
     "id": 6,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which drug is a direct-acting cholinomimetic that is used topically to treat open-angle glaucoma by contracting the ciliary muscle and opening the trabecular meshwork?",
+    "category": "Nicotine Toxicity",
+    "questionText": "A toddler accidentally ingests a liquid nicotine refill for an e-cigarette. He initially presents with vomiting and agitation (stimulation), but rapidly progresses to weakness, shallow breathing, and eventual paralysis. The paralysis is due to:",
     "options": [
       {
-        "text": "Atropine",
-        "explanation": "Incorrect. Atropine (mydriatic) is contraindicated in glaucoma as it can close the angle."
+        "text": "Receptor downregulation",
+        "explanation": "Incorrect. Takes time."
       },
       {
-        "text": "Carbachol",
-        "explanation": "Correct. Carbachol and Pilocarpine are used topically for glaucoma. They contract the ciliary muscle (M3), which physically pulls open the trabecular meshwork, facilitating aqueous humor outflow.",
-        "note": "Pilocarpine is also a correct consideration, but Carbachol fits the description of a direct agonist used for this."
+        "text": "Depolarizing neuromuscular blockade",
+        "explanation": "Correct. Excessive nicotinic stimulation keeps Na+ channels open/inactivated (Depolarizing Block), preventing repolarization and new signals."
       },
       {
-        "text": "Timolol",
-        "explanation": "Incorrect. Timolol is a beta-blocker (decreases production), not a cholinomimetic."
+        "text": "Inhibition of ACh release",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Latanoprost",
-        "explanation": "Incorrect. Prostaglandin analog (increases uveoscleral outflow)."
+        "text": "Muscarinic overstimulation",
+        "explanation": "Incorrect. Explains vomiting, not paralysis."
       },
       {
-        "text": "Acetazolamide",
-        "explanation": "Incorrect. Carbonic anhydrase inhibitor (decreases production)."
+        "text": "CNS depression",
+        "explanation": "Incorrect. The paralysis is peripheral at the NMJ."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Muscarinic agonists (Pilocarpine, Carbachol) treat glaucoma by increasing aqueous outflow via ciliary muscle contraction.",
-    "pdfPage": 13
+    "clinicalPearl": "High dose Nicotine mimics Succinylcholine - initial fasciculations followed by flaccid paralysis (Depolarizing Block).",
+    "pdfPage": 25
   },
   {
     "id": 7,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Pilocarpine differs from Bethanechol in that Pilocarpine:",
+    "category": "Drug Contraindication",
+    "questionText": "A 72-year-old male with a history of severe COPD and frequent bronchospasm presents with postoperative urinary retention. The resident suggests using Bethanechol. The attending physician advises AGAINST this because:",
     "options": [
       {
-        "text": "Is a quaternary amine",
-        "explanation": "Incorrect. Pilocarpine is a TERTIARY amine (natural alkaloid). Bethanechol is quaternary."
+        "text": "Bethanechol causes tachycardia",
+        "explanation": "Incorrect. Bradycardia."
       },
       {
-        "text": "Does not cross the blood-brain barrier",
-        "explanation": "Incorrect. Being tertiary and uncharged, Pilocarpine CAN cross the BBB."
+        "text": "Bethanechol can induce severe bronchoconstriction",
+        "explanation": "Correct. Bethanechol is a non-selective muscarinic agonist. M3 stimulation in the lungs causes bronchoconstriction, dangerous in COPD/Asthma."
       },
       {
-        "text": "Is resistant to acetylcholinesterase",
-        "explanation": "Correct. Unlike ACh, it is not an ester and is not hydrolyzed by AChE."
+        "text": "Bethanechol is ineffective for urinary retention",
+        "explanation": "Incorrect. It is effective."
       },
       {
-        "text": "Has significant nicotinic activity",
-        "explanation": "Incorrect. Pilocarpine is primarily a muscarinic agonist."
-      },
-      {
-        "text": "Is an ester of choline",
-        "explanation": "Incorrect. It is an alkaloid, not a choline ester."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Pilocarpine is a lipid-soluble Tertiary amine (can enter CNS) and a natural alkaloid.",
-    "pdfPage": 31
-  },
-  {
-    "id": 8,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Certain sweat glands are unique in the sympathetic nervous system because they:",
-    "options": [
-      {
-        "text": "Release Norepinephrine",
-        "explanation": "Incorrect. Most sympathetic postganglionics release NE."
-      },
-      {
-        "text": "Release Acetylcholine and have Muscarinic receptors",
-        "explanation": "Correct. Sympathetic innervation of eccrine sweat glands involves cholinergic sensing Acetylcholine to Muscarinic (M3) receptors. This is the physiological basis for 'diaphoresis' (sweating) seen with muscarinic agonist toxicity."
-      },
-      {
-        "text": "Release Dopamine",
+        "text": "Bethanechol causes hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Have Nicotinic receptors at the effector organ",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Are not innervated",
-        "explanation": "Incorrect."
+        "text": "Bethanechol causes pupil dilation",
+        "explanation": "Incorrect. Constriction."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sympathetic sweat glands are Cholinergic (ACh -> Muscarinic M3).",
+    "clinicalPearl": "Muscarinic Agonists are contraindicated in Asthma/COPD due to M3-mediated bronchoconstriction.",
+    "pdfPage": 23
+  },
+  {
+    "id": 8,
+    "category": "Receptor Signaling",
+    "questionText": "The vagus nerve releases acetylcholine onto the SA node of the heart to slow the heart rate. This effect is mediated by M2 receptors, which primarily:",
+    "options": [
+      {
+        "text": "Increase Calcium influx",
+        "explanation": "Incorrect. Sympathetic effect."
+      },
+      {
+        "text": "Activate Phospholipase C",
+        "explanation": "Incorrect. M1/M3 mechanism."
+      },
+      {
+        "text": "Inhibit Adenylyl Cyclase and open Potassium channels",
+        "explanation": "Correct. M2 is Gi coupled. It lowers cAMP and opens K+ channels (GIRK), leading to hyperpolarization and bradycardia."
+      },
+      {
+        "text": "Close Potassium channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Open Sodium channels",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "M2 = Cardiac. Gi coupled. 'Mad 2's' (M2, D2, Alpha-2) are all Inhibitory (Gi).",
     "pdfPage": 9
   },
   {
     "id": 9,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A patient taking a high dose of bethanechol begins to experience abdominal cramping, diarrhea, and excessive salivation. These adverse effects are due to activation of which receptor type?",
+    "category": "Adverse Effects",
+    "questionText": "A patient with glaucoma is treated with Pilocarpine eye drops. He complains of brow ache and difficulty seeing in dim light. The difficulty in dim light is caused by:",
     "options": [
       {
-        "text": "Nicotinic Neuronal (Nn)",
+        "text": "Ciliary muscle paralysis",
+        "explanation": "Incorrect. Pilocarpine causes contraction (spasm)."
+      },
+      {
+        "text": "Pupillary constriction (Miosis)",
+        "explanation": "Correct. The pupil is fixed in a small/constricted state, preventing enough light from entering the eye in dark environments."
+      },
+      {
+        "text": "Corneal clouding",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nicotinic Muscular (Nm)",
+        "text": "Retinal damage",
         "explanation": "Incorrect."
       },
       {
-        "text": "Alpha-1 Adrenergic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Muscarinic M3",
-        "explanation": "Correct. M3 receptors stimulate GI smooth muscle contraction (cramps, diarrhea) and salivary gland secretion (salivation). These are classic signs of muscarinic excess."
-      },
-      {
-        "text": "Beta-2 Adrenergic",
+        "text": "Lens opacity",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: M3 receptor overstimulation causes gut cramping and secretions.",
-    "pdfPage": 34
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pilocarpine pins the pupil (Miosis). Great for glaucoma, bad for night driving.",
+    "pdfPage": 21
   },
   {
     "id": 10,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "The mechanism of signal transduction for the M1, M3, and M5 muscarinic receptors involves:",
+    "category": "GI Motility",
+    "questionText": "Following abdominal surgery, a patient develops paralytic ileus (non-obstructive). Bethanechol may be used to treat this because it:",
     "options": [
       {
-        "text": "Activation of Adenylyl Cyclase (Gs)",
-        "explanation": "Incorrect. Beta receptors use Gs."
+        "text": "Relaxes the gut wall",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Inhibition of Adenylyl Cyclase (Gi)",
-        "explanation": "Incorrect. M2 and M4 use Gi."
+        "text": "Stimulates M3 receptors to increase peristalsis",
+        "explanation": "Correct. Bethanechol increases GI smooth muscle tone and motility via M3 receptors."
       },
       {
-        "text": "Activation of Phospholipase C (Gq)",
-        "explanation": "Correct. M1, M3, and M5 are coupled to Gq, which activates Phospholipase C, increasing IP3 and DAG, leading to increased intracellular Calcium."
+        "text": "Blocks M2 receptors",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Opening of a ligand-gated ion channel",
-        "explanation": "Incorrect. This is the mechanism for Nicotinic receptors."
+        "text": "Increases sympathetic outflow",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Activation of Tyrosine Kinase",
-        "explanation": "Incorrect. Insulin receptor mechanism."
+        "text": "Reduces gastric acid",
+        "explanation": "Incorrect. Increases it."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: M1, M3, M5 = Gq (QISS - q,i,s,s for alpha1, alpha2, beta1, beta2... wait, for Muscarinic remember 'Kick (Q) in (I) Kick (Q)' -> M1, M2, M3 are Q, I, Q).",
-    "pdfPage": 9
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Bethanechol gets the Bowel and Bladder moving (Peristalsis + Urination).",
+    "pdfPage": 23
   },
   {
     "id": 11,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Cevimeline is an authorized muscarinic agonist indicated for:",
+    "category": "Structure-Activity",
+    "questionText": "Acetylcholine is rapidly hydrolyzed by enzymes in the blood. Which modification makes Methacholine more stable and gives it muscarinic selectivity?",
     "options": [
       {
-        "text": "Asthma",
-        "explanation": "Incorrect. Contraindicated in asthma."
+        "text": "Addition of a Beta-methyl group",
+        "explanation": "Correct. The Beta-methyl group sterically hinders Nicotinic binding (selectivity) and slows AChE hydrolysis."
+      },
+      {
+        "text": "Addition of a Carbamyl group",
+        "explanation": "Incorrect. Present in Carbachol/Bethanechol, confers resistance but not necessarily M-selectivity alone."
+      },
+      {
+        "text": "Removal of the quaternary nitrogen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Addition of an aromatic ring",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Chlorination",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Methacholine = Methyl group = Muscarinic. Stability is intermediate.",
+    "pdfPage": 18
+  },
+  {
+    "id": 12,
+    "category": "Rapid Review: Receptors",
+    "questionText": "M3 receptors are primarily coupled to which G-protein?",
+    "options": [
+      {
+        "text": "Gs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gi",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gq",
+        "explanation": "Correct. Gq -> PLC -> IP3/DAG -> Calcium."
+      },
+      {
+        "text": "Gt",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "G12",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "M1, M3, M5 = Gq. M2, M4 = Gi.",
+    "pdfPage": 9
+  },
+  {
+    "id": 13,
+    "category": "Rapid Review: Drugs",
+    "questionText": "Which cholinomimetic is a partial agonist used for smoking cessation?",
+    "options": [
+      {
+        "text": "Pilocarpine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Varenicline",
+        "explanation": "Correct. Chantix."
+      },
+      {
+        "text": "Bethanechol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Methacholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Carbachol",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Varenicline reduces craving and reward.",
+    "pdfPage": 26
+  },
+  {
+    "id": 14,
+    "category": "Rapid Review: Mechanism",
+    "questionText": "How does Pilocarpine lower intraocular pressure?",
+    "options": [
+      {
+        "text": "Decreasing aqueous production",
+        "explanation": "Incorrect. Beta blockers/CAIs do this."
+      },
+      {
+        "text": "Facilitating outflow via trabecular meshwork",
+        "explanation": "Correct. Contraction of ciliary muscle/sphincter pulls the meshwork open."
+      },
+      {
+        "text": "Increasing uveoscleral outflow",
+        "explanation": "Incorrect. Prostaglandins do this."
+      },
+      {
+        "text": "Dilating the pupil",
+        "explanation": "Incorrect. Constricts."
+      },
+      {
+        "text": "Reducing vitreous volume",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pilocarpine is an 'Outflow' drug.",
+    "pdfPage": 21
+  },
+  {
+    "id": 15,
+    "category": "Rapid Review: Contraindications",
+    "questionText": "In which condition is Bethanechol absolutely contraindicated?",
+    "options": [
+      {
+        "text": "Post-op Ileus",
+        "explanation": "Incorrect. Indication."
       },
       {
         "text": "Sjogren's Syndrome",
-        "explanation": "Correct. Cevimeline has a high affinity for M3 receptors on lacrimal and salivary glands and is used to treat xerostomia in Sjogren's syndrome."
+        "explanation": "Incorrect. Beneficial."
+      },
+      {
+        "text": "Mechanical Bowel Obstruction",
+        "explanation": "Correct. Increasing motility against a blockage can cause perforation."
+      },
+      {
+        "text": "Dry eyes",
+        "explanation": "Incorrect."
       },
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Myasthenia Gravis",
-        "explanation": "Incorrect. Indirect agonists (AChE inhibitors) are used for MG."
-      },
-      {
-        "text": "Motion Sickness",
-        "explanation": "Incorrect. Scopolamine (antagonist) is used."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cevimeline is an M3 agonist for dry mouth (Sjogren's).",
-    "pdfPage": 33
-  },
-  {
-    "id": 12,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Direct-acting muscarinic agonists are generally CONTRAINDICATED in patients with:",
-    "options": [
-      {
-        "text": "Xerostomia",
-        "explanation": "Incorrect. They treat this."
-      },
-      {
-        "text": "Glaucoma",
-        "explanation": "Incorrect. They treat this."
-      },
-      {
-        "text": "Peptic Ulcer Disease",
-        "explanation": "Correct. Muscarinic agonists stimulate gastric acid secretion (M1/M3) which can exacerbate ulcers."
-      },
-      {
-        "text": "Urinary retention",
-        "explanation": "Incorrect. They treat this."
-      },
-      {
-        "text": "Alzheimer's disease",
-        "explanation": "Incorrect. Cholinergics are used to treat Alzheimer's (AChE inhibitors)."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Contraindications for cholinergics include Asthma/COPD, Peptic Ulcer Disease, and Obstruction (GI/Urinary).",
-    "pdfPage": 34
-  },
-  {
-    "id": 13,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which receptor type is an ion channel found at the Neuromuscular Junction?",
-    "options": [
-      {
-        "text": "Muscarinic M3",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nicotinic Nm",
-        "explanation": "Correct. The Nicotinic receptor at the neuromuscular junction is of the Nm type (muscular). It is a ligand-gated Na+/K+ channel."
-      },
-      {
-        "text": "Nicotinic Nn",
-        "explanation": "Incorrect. Found in ganglia and CNS."
-      },
-      {
-        "text": "Alpha-1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Beta-1",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Nm receptors are at the skeletal muscle endplate.",
-    "pdfPage": 25
-  },
-  {
-    "id": 14,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Carbachol has a longer duration of action than Acetylcholine primarily because:",
-    "options": [
-      {
-        "text": "It binds irreversibly to the receptor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is resistant to hydrolysis by acetylcholinesterase",
-        "explanation": "Correct. The carbamyl group in Carbachol protects it from rapid degradation by AChE."
-      },
-      {
-        "text": "It is sequestered in adipose tissue",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is actively reuptaken into the neuron",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It activates G-proteins more efficiently",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The carbamyl group confers resistance to AChE.",
-    "pdfPage": 31
-  },
-  {
-    "id": 15,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Systemic administration of a muscarinic agonist would be expected to cause:",
-    "options": [
-      {
-        "text": "Constipation",
-        "explanation": "Incorrect. Causes diarrhea."
-      },
-      {
-        "text": "Dry skin",
-        "explanation": "Incorrect. Causes sweating."
-      },
-      {
-        "text": "Miosis (pupil constriction)",
-        "explanation": "Correct. Systemic muscarinic activation constricts the sphincter pupillae muscle."
-      },
-      {
-        "text": "Tachycardia",
-        "explanation": "Incorrect. Causes bradycardia (can cause reflex tachycardia if vasodilation is severe, but primary effect is bradycardia)."
-      },
-      {
-        "text": "Urinary retention",
-        "explanation": "Incorrect. Causes voiding."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Muscarinic agonists cause meiosis (pinpoint pupils).",
-    "pdfPage": 13
+    "clinicalPearl": "Never stimulate a blocked tube (Bowel obstruction, Urinary obstruction).",
+    "pdfPage": 23
   },
   {
     "id": 16,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Varenicline (Chantix) is effectively used for smoking cessation because it acts as:",
-    "options": [
-      {
-        "text": "A full agonist at muscarinic M3 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A partial agonist at nicotinic alpha-4/beta-2 receptors",
-        "explanation": "Correct. Varenicline is a partial agonist at neuronal nicotinic receptors (alpha-4/beta-2). It reduces cravings (agonist effect) while preventing the full euphoric effect of nicotine (antagonist-like effect), helping patients quit smoking."
-      },
-      {
-        "text": "A full antagonist at nicotinic receptors",
-        "explanation": "Incorrect. This would cause withdrawal."
-      },
-      {
-        "text": "An acetylcholinesterase inhibitor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A muscarinic antagonist",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Varenicline is a partial nicotinic agonist used for smoking cessation.",
-    "pdfPage": 48
-  },
-  {
-    "id": 17,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A farmer is brought to the ER with symptoms of organophosphate poisoning (insecticide exposure). Which of the following is NOT a sign of this toxicity?",
-    "options": [
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect. This is a muscarinic sign (M2)."
-      },
-      {
-        "text": "Mydriasis (Pupil Dilation)",
-        "explanation": "Correct. Organophosphates cause cholinergic crisis (DUMBBELSS), which includes MIOSIS (constriction), not mydriasis. Mydriasis would be seen with anticholinergics (like Atropine)."
-      },
-      {
-        "text": "Bronchorrhea (fluid in lungs)",
-        "explanation": "Incorrect. This is a killer sign (drowning in secretions)."
-      },
-      {
-        "text": "Fasciculations",
-        "explanation": "Incorrect. This is a nicotinic sign (neuromuscular blockade)."
-      },
-      {
-        "text": "Diarrhea",
-        "explanation": "Incorrect. This is a muscarinic sign."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cholinergic toxicity causes Miosis (constriction).",
-    "pdfPage": 34
-  },
-  {
-    "id": 18,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which receptor subtype is primarily responsible for the negative chronotropic (decreased heart rate) and dromotropic (decreased conduction velocity) effects of the parasympathetic nervous system?",
-    "options": [
-      {
-        "text": "M1",
-        "explanation": "Incorrect. Neural/Gastric."
-      },
-      {
-        "text": "M2",
-        "explanation": "Correct. M2 receptors are coupled to Gi proteins in the heart (SA/AV nodes). Activation opens K+ channels (hyperpolarization) and inhibits cAMP, slowing heart rate and conduction."
-      },
-      {
-        "text": "M3",
-        "explanation": "Incorrect. Smooth muscle/Glands."
-      },
-      {
-        "text": "Nm",
-        "explanation": "Incorrect. Skeletal muscle."
-      },
-      {
-        "text": "Alpha-1",
-        "explanation": "Incorrect. Vasoconstriction."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: M2 receptors decrease heart rate (make the heart go 'Mmm-mm'.... slow down).",
-    "pdfPage": 9
-  },
-  {
-    "id": 19,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A patient is prescribed Pilocarpine. Which of the following is a potential systemic adverse effect they should be warned about?",
+    "category": "Rapid Review: Toxicity",
+    "questionText": "Which symptom is a sign of Muscarinic excess (toxicity)?",
     "options": [
       {
         "text": "Dry mouth",
-        "explanation": "Incorrect. It causes excessive salivation."
+        "explanation": "Incorrect. Antagonist sign."
       },
       {
         "text": "Constipation",
-        "explanation": "Incorrect. It causes diarrhea."
+        "explanation": "Incorrect. Antagonist sign."
       },
       {
-        "text": "Sweating (Diaphoresis)",
-        "explanation": "Correct. Pilocarpine activates muscarinic receptors on sweat glands, leading to potentially profuse sweating."
+        "text": "Mydriasis",
+        "explanation": "Incorrect. Antagonist sign."
+      },
+      {
+        "text": "Bradycardia",
+        "explanation": "Correct. DUMBBELSS -> Bradycardia is a key feature."
       },
       {
         "text": "Urinary retention",
-        "explanation": "Incorrect. It causes frequency/urgency."
+        "explanation": "Incorrect. Antagonist sign."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Too much ACh = Wet and Slow (DUMBBELSS).",
+    "pdfPage": 25
+  },
+  {
+    "id": 17,
+    "category": "Rapid Review: Receptors",
+    "questionText": "Where are Nm nicotinic receptors found?",
+    "options": [
+      {
+        "text": "Autonomic Ganglia",
+        "explanation": "Incorrect. Nn."
       },
       {
-        "text": "Tachycardia",
-        "explanation": "Incorrect. Usually bradycardia."
+        "text": "Adrenal Medulla",
+        "explanation": "Incorrect. Nn."
+      },
+      {
+        "text": "Neuromuscular Junction",
+        "explanation": "Correct. Nm = Muscle type."
+      },
+      {
+        "text": "CNS",
+        "explanation": "Incorrect. Nn."
+      },
+      {
+        "text": "Sweat Glands",
+        "explanation": "Incorrect. M3."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Pilocarpine causes sweating (diaphoresis).",
-    "pdfPage": 34
+    "clinicalPearl": "Nm receptors are ion channels at the skeletal muscle endplate.",
+    "pdfPage": 7
   },
   {
-    "id": 20,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "The endothelial cells of blood vessels contain M3 receptors, even though they lack parasympathetic innervation. If Acetylcholine is injected IV, it causes vasodilation via the release of:",
+    "id": 18,
+    "category": "Rapid Review: Drugs",
+    "questionText": "Which drug acts primarily on the Eye and Sweat/Salivary glands?",
     "options": [
+      {
+        "text": "Bethanechol",
+        "explanation": "Incorrect. Bowel/Bladder."
+      },
+      {
+        "text": "Methacholine",
+        "explanation": "Incorrect. Lungs."
+      },
+      {
+        "text": "Pilocarpine",
+        "explanation": "Correct. Pupil (Glaucoma) and Saliva (Xerostomia)."
+      },
+      {
+        "text": "Nicotine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Succinylcholine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Pilocarpine uses: Glaucoma (Topical) and Sjogren's (Oral).",
+    "pdfPage": 21
+  },
+  {
+    "id": 19,
+    "category": "Rapid Review: Physiology",
+    "questionText": "Activation of M3 receptors on vascular endothelium results in the release of:",
+    "options": [
+      {
+        "text": "Nitric Oxide (NO)",
+        "explanation": "Correct. Causes vasodilation."
+      },
       {
         "text": "Norepinephrine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nitric Oxide (NO)",
-        "explanation": "Correct. M3 activation on endothelial cells increases calcium (Gq), activating eNOS to produce Nitric Oxide. NO diffuses to smooth muscle cells, increasing cGMP and causing relaxation (vasodilation)."
-      },
-      {
-        "text": "Histamine",
+        "text": "Renin",
         "explanation": "Incorrect."
       },
       {
-        "text": "Prostaglandins",
+        "text": "Acetylcholinesterase",
         "explanation": "Incorrect."
       },
       {
-        "text": "Serotonin",
+        "text": "Calcium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "ACh causes Vasodilation acting INDIRECTLY via Endothelial NO.",
+    "pdfPage": 12
+  },
+  {
+    "id": 20,
+    "category": "Rapid Review: Antidote",
+    "questionText": "To reverse the bronchoconstriction caused by a Methacholine challenge, one should administer:",
+    "options": [
+      {
+        "text": "Pilocarpine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A Beta-2 Agonist (e.g., Albuterol)",
+        "explanation": "Correct. Physiological antagonism to open airways."
+      },
+      {
+        "text": "Another dose of Methacholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Physostigmine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neostigmine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vascular M3 receptors mediated vasodilation via Nitric Oxide (endothelium-dependent relaxation).",
-    "pdfPage": 10
+    "clinicalPearl": "Rescue from Methacholine = Albuterol.",
+    "pdfPage": 20
   },
   {
     "id": 21,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "A child ingests some berries from a plant in the garden and presents with 'hot as a hare, dry as a bone, red as a beet, blind as a bat, mad as a hatter'. This is anticholinergic toxicity. Which drug mechanism would REVERSE this?",
+    "category": "Vignette: Toxicity",
+    "questionText": "A 40-year-old gardener is brought to the ER after spilling a concentrated liquid insecticide on his skin. He is sweating profusely, drooling, and has pinpoint pupils. His heart rate is 45 bpm. He suddenly begins to seize. This presentation is consistent with:",
     "options": [
       {
-        "text": "Muscarinic Antagonist",
-        "explanation": "Incorrect. This is what caused it."
+        "text": "Anticholinergic poisoning",
+        "explanation": "Incorrect. Would be 'Dry as a bone'."
       },
       {
-        "text": "Acetylcholinesterase Inhibitor (Indirect Agonist)",
-        "explanation": "Correct. Physostigmine (drug of choice for central changes) inhibits AChE, increasing synaptic ACh levels, which can outcompete the competitive antagonist (like Atropine) at the receptor."
+        "text": "Cholinergic crisis (Organophosphate)",
+        "explanation": "Correct. SLUDGE symptoms (wet) + CNS effects (seizures) = Cholinergic excess."
       },
       {
-        "text": "Nicotinic Agonist",
+        "text": "Sympathomimetic overdose",
+        "explanation": "Incorrect. Dilated pupils, tachycardia."
+      },
+      {
+        "text": "Opioid overdose",
+        "explanation": "Incorrect. No sweating/salivation."
+      },
+      {
+        "text": "Benzodiazepine withdrawal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Organophosphates inhibit AChE -> Massive ACh excess -> SLUDGE + Seizures.",
+    "pdfPage": 25
+  },
+  {
+    "id": 22,
+    "category": "Vignette: Adverse Reaction",
+    "questionText": "A patient taking Varenicline for smoking cessation presents with vivid nightmares and mood changes. His wife notes he has become unusually aggressive after having a few drinks at a party. The physician advises inhibition of alcohol use because:",
+    "options": [
+      {
+        "text": "Alcohol increases Varenicline metabolism",
         "explanation": "Incorrect."
       },
       {
-        "text": "Beta Blocker",
+        "text": "Alcohol exacerbates neuropsychiatric side effects of Varenicline",
+        "explanation": "Correct. Known interaction increasing behavioral risk."
+      },
+      {
+        "text": "Varenicline causes rapid alcohol intoxication",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alcohol blocks the therapeutic effect",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes liver toxicity",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Alcohol + Varenicline = Neuropsychiatric Risk.",
+    "pdfPage": 28
+  },
+  {
+    "id": 23,
+    "category": "Rapid Review: Pharmacology",
+    "questionText": "Why is Bethanechol given orally but Acetylcholine is not?",
+    "options": [
+      {
+        "text": "Bethanechol is lipid soluble",
+        "explanation": "Incorrect. It's quaternary/charged."
+      },
+      {
+        "text": "Bethanechol is resistant to hydrolysis by AChE",
+        "explanation": "Correct. The carbamyl group protects it, allowing oral bioavailability and duration."
+      },
+      {
+        "text": "Acetylcholine is toxic orally",
+        "explanation": "Incorrect. Just destroyed."
+      },
+      {
+        "text": "Bethanechol crosses the BBB",
+        "explanation": "Incorrect. It doesn't."
+      },
+      {
+        "text": "Acetylcholine is too potent",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ACh is useless as a drug (too fast). Bethanechol is modified to last.",
+    "pdfPage": 18
+  },
+  {
+    "id": 24,
+    "category": "Rapid Review: Eye",
+    "questionText": "The Canal of Schlemm is important for:",
+    "options": [
+      {
+        "text": "Production of aqueous humor",
+        "explanation": "Incorrect. Ciliary body."
+      },
+      {
+        "text": "Drainage of aqueous humor",
+        "explanation": "Correct. It drains fluid into the venous system."
+      },
+      {
+        "text": "Refracting light",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Color vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tear production",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Glaucoma drugs often target the Canal of Schlemm/Trabecular meshwork to increase drainage.",
+    "pdfPage": 21
+  },
+  {
+    "id": 25,
+    "category": "Rapid Review: Structure",
+    "questionText": "Is Pilocarpine a tertiary or quaternary amine?",
+    "options": [
+      {
+        "text": "Quaternary (Charged)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tertiary (Uncharged)",
+        "explanation": "Correct. This allows it to cross membranes (Cornea, BBB)."
+      },
+      {
+        "text": "Secondary",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "None of the above",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pilocarpine penetrates. Bethanechol does not (Quaternary).",
+    "pdfPage": 18
+  },
+  {
+    "id": 26,
+    "category": "Vignette: Diagnosis",
+    "questionText": "A researcher is studying a new drug. When applied to smooth muscle, it causes contraction. This contraction is blocked by Atropine. The drug has no effect on skeletal muscle. This drug is likely a:",
+    "options": [
+      {
+        "text": "Nicotinic Agonist",
+        "explanation": "Incorrect. Would affect skeletal muscle."
+      },
+      {
+        "text": "Muscarinic Agonist",
+        "explanation": "Correct. Atropine blocks Muscarinic receptors. Lack of skeletal muscle effect rules out Nicotinic action."
+      },
+      {
+        "text": "Beta Agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha Agonist",
         "explanation": "Incorrect."
       },
       {
@@ -627,427 +777,277 @@ window.Test_L19 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anticholinergic toxicity is treated with Physostigmine (Acetylcholinesterase inhibitor).",
-    "pdfPage": 34
-  },
-  {
-    "id": 22,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Nicotine in high doses can cause a biphasic response at autonomic ganglia (stimulation followed by depression). What is the mechanism of the 'depression' (blockade) phase?",
-    "options": [
-      {
-        "text": "Competitive antagonism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Persistent depolarization (Depolarizing Blockade)",
-        "explanation": "Correct. Nicotine initially opens the channel (depolarization). With persistent exposure, the channel enters a desensitized state or creates a localized depolarization block where the Na+ channels cannot reset, preventing further action potentials."
-      },
-      {
-        "text": "Receptor down-regulation",
-        "explanation": "Incorrect. Too slow."
-      },
-      {
-        "text": "Depletion of Acetylcholine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibition of ACh release",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Nicotine causes Depolarizing Blockade at high/persistent doses.",
-    "pdfPage": 48
-  },
-  {
-    "id": 23,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which muscarinic receptor subtype is predominantly associated with increased gastric acid secretion?",
-    "options": [
-      {
-        "text": "M1",
-        "explanation": "Correct. M1 receptors on ECL cells (and parietal cells) stimulate gastric acid secretion. This is why Pirenzepine (M1 antagonist) was once used for ulcers."
-      },
-      {
-        "text": "M2",
-        "explanation": "Incorrect. Heart."
-      },
-      {
-        "text": "M3",
-        "explanation": "Incorrect. M3 also plays a role on parietal cells, but M1 is the classic 'gastric' subtype often cited in this context (neural-gastric)."
-      },
-      {
-        "text": "M4",
-        "explanation": "Incorrect. CNS."
-      },
-      {
-        "text": "M5",
-        "explanation": "Incorrect. CNS."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: M1 receptors regulate gastric acid secretion.",
-    "pdfPage": 9
-  },
-  {
-    "id": 24,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Why is Bethanechol preferred over Carbachol for treating urinary retention?",
-    "options": [
-      {
-        "text": "Bethanechol is more potent",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bethanechol lacks nicotinic activity",
-        "explanation": "Correct. Carbachol has significant nicotinic activity (ganglion stimulating), which leads to widespread cardiovascular side effects. Bethanechol is a selective MUSCARINIC agonist, making it safer for systemic use to target the bladder/bowel."
-      },
-      {
-        "text": "Bethanechol is shorter acting",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bethanechol can be given IV",
-        "explanation": "Incorrect. NEVER give Bethanechol IV (cardiac arrest). Only PO or SQ."
-      },
-      {
-        "text": "Bethanechol crosses the BBB",
-        "explanation": "Incorrect. It is quaternary."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bethanechol is preferred systemically because it lacks nicotinic side effects.",
-    "pdfPage": 29
-  },
-  {
-    "id": 25,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "The 'Second Brain' refers to which part of the autonomic nervous system?",
-    "options": [
-      {
-        "text": "Sympathetic Nervous System",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parasympathetic Nervous System",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Enteric Nervous System",
-        "explanation": "Correct. The Enteric Nervous System contains 100 million neurons (more than the spinal cord) and can function independently of external input, hence 'Second Brain'."
-      },
-      {
-        "text": "Somatic Nervous System",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Central Nervous System",
-        "explanation": "Incorrect. That's the first brain."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The Enteric Nervous System is the 'Second Brain'.",
-    "pdfPage": 6
-  },
-  {
-    "id": 26,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Edrophonium is a short-acting agent used in the diagnosis of Myasthenia Gravis (Tensilon Test). It works by:",
-    "options": [
-      {
-        "text": "Activating Nicotinic receptors directly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibiting Acetylcholinesterase",
-        "explanation": "Correct. Edrophonium is a rapid-onset, short-duration Reversible Acetylcholinesterase Inhibitor. It transiently increases ACh, improving muscle strength in MG patients."
-      },
-      {
-        "text": "Blocking Muscarinic receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Preventing ACh release",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Regenerating AChE",
-        "explanation": "Incorrect. Pralidoxime does this."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Edrophonium (Tensilon) is a short-acting AChE inhibitor used to diagnose Myasthenia Gravis.",
-    "pdfPage": 49
+    "clinicalPearl": "Atropine blockade is the hallmark of Muscarinic transmission.",
+    "pdfPage": 17
   },
   {
     "id": 27,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Succinylcholine is a neuromuscular blocker used for intubation. It is unique because it is a:",
+    "category": "Rapid Review: GI",
+    "questionText": "M3 stimulation in the stomach leads to:",
     "options": [
       {
-        "text": "Competitive Antagonist",
-        "explanation": "Incorrect. That describes Curare derivatives (Rocuronium)."
-      },
-      {
-        "text": "Depolarizing Neuromuscular Blocker",
-        "explanation": "Correct. Succinylcholine acts like 'two acetylcholines' joined together. It activates the receptor causing initial depolarization (fasciculations) and then stays bound, preventing repolarization (flaccid paralysis)."
-      },
-      {
-        "text": "Muscarinic Agonist",
+        "text": "Decreased acid secretion",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ganglionic Blocker",
+        "text": "Increased acid secretion and motility",
+        "explanation": "Correct. And parietal cell stimulation (M1/M3)."
+      },
+      {
+        "text": "Decreased motility",
         "explanation": "Incorrect."
       },
       {
-        "text": "Direct Muscle Relaxant",
-        "explanation": "Incorrect. Dantrolene."
+        "text": "Sphincter contraction",
+        "explanation": "Incorrect. Relaxation."
+      },
+      {
+        "text": "No effect",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Succinylcholine is a Depolarizing Neuromuscular Blocker.",
-    "pdfPage": 25
+    "clinicalPearl": "Rest and Digest. Digestion is active (Acid + Motility).",
+    "pdfPage": 11
   },
   {
     "id": 28,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which of the following is an effect of parasympathetic stimulation on the eye?",
+    "category": "Rapid Review: Heart",
+    "questionText": "Which reflex occurs when a healthy person takes a low dose of Methacholine?",
     "options": [
       {
-        "text": "Contraction of the Radial muscle (Dilation)",
-        "explanation": "Incorrect. Sympathetic (Alpha-1)."
+        "text": "Reflex Bradycardia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Relaxation of the Ciliary muscle (Far vision)",
-        "explanation": "Incorrect. Sympathetic (Beta-2)."
+        "text": "Reflex Tachycardia",
+        "explanation": "Correct. Vasodilation -> HypOtension -> Baroreceptors -> Reflex Tachycardia."
       },
       {
-        "text": "Contraction of the Ciliary Muscle (Accommodation)",
-        "explanation": "Correct. Parasympathetic stimulation (M3) contracts the ciliary muscle, relaxing the zonule fibers and allowing the lens to round up for NEAR vision (Accommodation)."
+        "text": "Reflex Hypertension",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Decreased lacrimation",
-        "explanation": "Incorrect. Promotes lacrimation."
+        "text": "Reflex Apnea",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Decreased aqueous outflow",
-        "explanation": "Incorrect. Increases outflow."
+        "text": "No reflex",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Parasympathetic (M3) causes accommodation for near vision (Ciliary muscle contraction).",
-    "pdfPage": 13
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Vasodilators cause Reflex Tachycardia unless the heart is directly slowed.",
+    "pdfPage": 12
   },
   {
     "id": 29,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Sympathetic postganglionic neurons that innervate the adrenal medulla release:",
+    "category": "Vignette: Medication Error",
+    "questionText": "A nurse mistakenly administers Carbachol IV instead of intraocularly. The patient develops profound bradycardia and hypotension. The bradycardia is due to direct stimulation of cardiac:",
     "options": [
       {
-        "text": "Norepinephrine",
+        "text": "M1 receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Epinephrine",
+        "text": "M2 receptors",
+        "explanation": "Correct. Direct M2 stimulation on SA/AV nodes slows the heart."
+      },
+      {
+        "text": "M3 receptors",
+        "explanation": "Incorrect. Vasodilation."
+      },
+      {
+        "text": "Beta-1 receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect. Trick question. The nerve to the adrenal medulla is PRE-ganglionic (splanchnic nerve). It releases ACh causing the release of Epi/NE from the chromaffin cells. There are no post-ganglionic neurons 'innervating' the medulla; the medulla cells ARE the modified post-ganglionic cells."
-      },
-      {
-        "text": "They are Pre-ganglionic fibers",
-        "explanation": "Correct. The Adrenal Medulla is directly innervated by sympathetic PRE-ganglionic fibers releasing Acetylcholine onto Nicotinic receptors on Chromaffin cells."
-      },
-      {
-        "text": "Dopamine",
+        "text": "Nn receptors",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: The Adrenal Medulla is innervated by PRE-ganglionic sympathetic fibers (ACh).",
-    "pdfPage": 6
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Carbachol is potent and non-selective. Systemic use is dangerous.",
+    "pdfPage": 18
   },
   {
     "id": 30,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "What is the primary location of M2 receptors?",
+    "category": "Rapid Review: Bladder",
+    "questionText": "The Trigone and Sphincter mechanism of the bladder ________ during voiding.",
     "options": [
       {
-        "text": "Gastric Parietal Cells",
-        "explanation": "Incorrect. M1/M3."
+        "text": "Contracts",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Bronchial Smooth Muscle",
-        "explanation": "Incorrect. M3."
+        "text": "Relaxes",
+        "explanation": "Correct. The outlet must open (relax) while the pump (detrusor) contracts."
       },
       {
-        "text": "Heart (SA/AV nodes)",
-        "explanation": "Correct. M2 is the cardiac muscarinic receptor."
+        "text": "Spasms",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Pupillary Sphincter",
-        "explanation": "Incorrect. M3."
+        "text": "Hypertrophies",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Bladder Detrusor",
-        "explanation": "Incorrect. M3."
+        "text": "Does nothing",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: M2 is found in the Heart (and inhibits it).",
-    "pdfPage": 9
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Detrusor Contracts / Sphincter Relaxes.",
+    "pdfPage": 11
   },
   {
     "id": 31,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which Choline Ester is the most susceptible to hydrolysis by Acetylcholinesterase?",
+    "category": "Rapid Review: Nicotine",
+    "questionText": "Does Nicotine cause Vasoconstriction or Vasodilation?",
     "options": [
       {
-        "text": "Bethanechol",
-        "explanation": "Incorrect. Resistant."
+        "text": "Vasodilation only",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Carbachol",
-        "explanation": "Incorrect. Resistant."
+        "text": "Vasoconstriction",
+        "explanation": "Correct. Sympathetic Ganglionic stimulation + Adrenal Medulla (Epi) release -> Vasoconstriction (HTN)."
       },
       {
-        "text": "Methacholine",
-        "explanation": "Incorrect. Reduced susceptibility compared to ACh."
+        "text": "Neither",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Acetylcholine",
-        "explanation": "Correct. ACh is rapidly hydrolyzed by AChE and plasma cholinesterase (t1/2 in seconds)."
+        "text": "Depends on the day",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Succinylcholine",
-        "explanation": "Incorrect. Hydrolyzed by plasma butyrylcholinesterase, but slower than ACh."
+        "text": "Vasodilation in skin only",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Acetylcholine is the most rapidly degraded choline ester.",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Smoking raises blood pressure due to Nicotinic vasoconstriction.",
+    "pdfPage": 25
   },
   {
     "id": 32,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "The mechanism of Acetylcholine release involves the influx of which ion into the presynaptic terminal?",
+    "category": "Rapid Review: Uses",
+    "questionText": "Which drug is used orally to treat dry mouth in head and neck cancer patients post-radiation?",
     "options": [
       {
-        "text": "Sodium",
-        "explanation": "Incorrect. Causes depolarization but not release directly."
-      },
-      {
-        "text": "Potassium",
+        "text": "Methacholine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Calcium",
-        "explanation": "Correct. Voltage-gated N-type Calcium channels open upon depolarization, allowing Ca2+ influx. Calcium binds to Synaptotagmin, triggering vesicle fusion (SNARE complex) and exocytosis of ACh."
+        "text": "Pilocarpine",
+        "explanation": "Correct. Often brand name Salagen."
       },
       {
-        "text": "Chloride",
+        "text": "Carbachol",
         "explanation": "Incorrect."
       },
       {
-        "text": "Magnesium",
-        "explanation": "Incorrect. Blocks Ca2+ channels."
+        "text": "Bethanechol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Calcium influx triggers neurotransmitter release.",
-    "pdfPage": 7
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pilocarpine makes you salivate (Slobber-carpine).",
+    "pdfPage": 22
   },
   {
     "id": 33,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Botulinum Toxin causes flaccid paralysis by:",
+    "category": "Vignette: Mechanism",
+    "questionText": "A 30-year-old male is chewing nicotine gum. Activation of receptors on his adrenal medulla chromaffin cells results in the release of Epinephrine. These receptors are:",
     "options": [
       {
-        "text": "Blocking Nicotinic receptors",
+        "text": "Adrenergic",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cleaving SNARE proteins",
-        "explanation": "Correct. Botox acts as a protease that cleaves SNARE proteins (SNAP-25, Syntaxin, Synaptobrevin), preventing the fusion of ACh vesicles with the presynaptic membrane, thus blocking ACh release."
+        "text": "Muscarinic",
+        "explanation": "Incorrect. Sweat glands only."
       },
       {
-        "text": "Inhibiting Acetylcholinesterase",
-        "explanation": "Incorrect."
+        "text": "Nicotinic (Nn)",
+        "explanation": "Correct. Pre-ganglionic sympathetic fibers release ACh onto Nn receptors on the adrenal medulla."
       },
       {
-        "text": "Blocking Calcium channels",
-        "explanation": "Incorrect. Lambert-Eaton syndrome does this (via antibodies)."
+        "text": "Nicotinic (Nm)",
+        "explanation": "Incorrect. Muscle."
       },
       {
-        "text": "Destroying ACh vesicles",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Botulinum toxin prevents ACh release by cleaving SNARE proteins.",
-    "pdfPage": 7
-  },
-  {
-    "id": 34,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "Which of the following is an adverse effect of Nicotine overdose?",
-    "options": [
-      {
-        "text": "Bronchodilation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypotension initially",
-        "explanation": "Incorrect. Usually Hypertension due to sympathoadrenal stimulation."
-      },
-      {
-        "text": "Respiratory paralysis",
-        "explanation": "Correct. High doses can cause depolarizing blockade of the diaphragm and intercostal muscles (Nm receptors), leading to respiratory failure."
-      },
-      {
-        "text": "Urinary Retention",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dry Mouth",
+        "text": "Dopaminergic",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Severe nicotine toxicity can cause respiratory paralysis via neuromuscular blockade.",
-    "pdfPage": 48
+    "clinicalPearl": "Adrenal Medulla = Giant Autonomic Ganglion (Nn Receptors).",
+    "pdfPage": 6
   },
   {
-    "id": 35,
-    "category": "Pharmacology: Cholinomimetics",
-    "questionText": "The rate-limiting step in the synthesis of Acetylcholine is:",
+    "id": 34,
+    "category": "Rapid Review: Classification",
+    "questionText": "Is Cevimeline a direct or indirect cholinomimetic?",
     "options": [
       {
-        "text": "Choline Acetyltransferase (ChAT) activity",
+        "text": "Indirect",
         "explanation": "Incorrect."
       },
       {
-        "text": "Uptake of Choline into the nerve terminal",
-        "explanation": "Correct. High-affinity choline uptake (CHT1) is the rate-limiting step. Hemicholinium blocks this step."
+        "text": "Direct",
+        "explanation": "Correct. It binds directly to the receptor (Agonist)."
       },
       {
-        "text": "Production of Acetyl-CoA",
+        "text": "Mixed",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vesicular transport (VAChT)",
-        "explanation": "Incorrect. Blocked by Vesamicol."
+        "text": "Antagonist",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Release of ACh",
+        "text": "None of the above",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Choline uptake is the rate-limiting step in ACh synthesis.",
-    "pdfPage": 7
+    "clinicalPearl": "Direct = Agonist. Indirect = AChE Inhibitor.",
+    "pdfPage": 18
+  },
+  {
+    "id": 35,
+    "category": "Rapid Review: Lungs",
+    "questionText": "Which patient group is most at risk from the bronchoconstrictive effects of cholinomimetics?",
+    "options": [
+      {
+        "text": "Diabetics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Asthmatics",
+        "explanation": "Correct. Their airways are hyper-reactive to M3 stimulation."
+      },
+      {
+        "text": "Patients with Gout",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Patients with Glaucoma",
+        "explanation": "Incorrect. They benefit."
+      },
+      {
+        "text": "Patients with Hypertension",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Asthma = Do not use Cholinomimetics (unless testing for it).",
+    "pdfPage": 20
   }
 ];

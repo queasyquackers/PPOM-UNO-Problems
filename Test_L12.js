@@ -1,142 +1,507 @@
 window.Test_L12 = [
   {
     "id": 1,
-    "category": "Thalamus: Overview",
-    "questionText": "The thalamus serves as the:",
+    "category": "Thalamus: Thalamic Pain Syndrome",
+    "questionText": "A 65-year-old male with a history of a 'pure sensory stroke' 3 months ago presents with severe, burning pain in his right arm and leg. Light touch exacerbates the pain (allodynia). This condition, known as Dejerine-Roussy syndrome, is caused by a lesion in which thalamic nucleus?",
     "options": [
       {
-        "text": "Major relay station for sensory information (except olfaction) to cerebral cortex",
-        "explanation": "Correct. 'Gateway to cortex'. Almost all sensory, motor, limbic pathways synapse in thalamus before reaching cortex. Exception: Olfaction (direct to paleocortex).",
+        "text": "Ventral Posterior (VPL/VPM)",
+        "explanation": "Correct. A lacunar stroke in the VP nucleus destroys sensory inputs. Months later, aberrant rewiring causes central neuropathic pain (Thalamic Pain Syndrome).",
         "isCorrect": true
       },
       {
-        "text": "Motor control center only",
-        "explanation": "Incorrect (Primarily sensory relay)."
+        "text": "Ventral Lateral (VL)",
+        "explanation": "Incorrect. Motor deficits."
       },
       {
-        "text": "Relays olfaction",
-        "explanation": "Incorrect (Olfaction bypasses thalamus)."
+        "text": "Anterior Nucleus",
+        "explanation": "Incorrect. Memory/Limbic."
       },
       {
-        "text": "No cortical projections",
-        "explanation": "Incorrect."
+        "text": "Lateral Geniculate Nucleus",
+        "explanation": "Incorrect. Vision."
       },
       {
-        "text": "Endocrine gland",
-        "explanation": "Incorrect."
+        "text": "Medial Geniculate Nucleus",
+        "explanation": "Incorrect. Hearing."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamus = Sensory relay to cortex. All senses except olfaction. Organized into functional nuclei. Damage → Sensory loss, pain syndromes.",
-    "pdfPage": 2
+    "clinicalPearl": "Key takeaway: Dejerine-Roussy Syndrome = Thalamic Stroke -> Contralateral Hemianesthesia -> Resolved -> Severe Burning Pain.",
+    "pdfPage": 29
   },
   {
     "id": 2,
-    "category": "Thalamus: Anatomic Location",
-    "questionText": "The thalamus is located:",
+    "category": "Thalamus: VPM Nucleus",
+    "questionText": "A patient typically loses sensation in the face due to a stroke. The Ventral Posterior Medial (VPM) nucleus of the thalamus receives sensory input from the face via which pathway?",
     "options": [
       {
-        "text": "Bilaterally, forming the lateral walls of the third ventricle in the diencephalon",
-        "explanation": "Correct. Oval-shaped gray matter masses. Connected by interthalamic adhesion (massa intermedia) across 3rd ventricle in most people.",
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect. Body sensation (VPL)."
+      },
+      {
+        "text": "Trigeminothalamic Tract",
+        "explanation": "Correct. VPM = Face (Trigeminal). VPL = Body (Medial Lemniscus/Spinothalamic). Mnemonic: VPM = Makeup (Face). VPL = Legs (Body).",
         "isCorrect": true
       },
       {
-        "text": "In the brainstem",
-        "explanation": "Incorrect (Diencephalon, above midbrain)."
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect. Body pain/temp (VPL)."
       },
       {
-        "text": "In temporal lobe",
-        "explanation": "Incorrect."
+        "text": "Lateral Lemniscus",
+        "explanation": "Incorrect. Hearing."
       },
       {
-        "text": "Unilateral structure",
-        "explanation": "Incorrect (Bilateral)."
-      },
-      {
-        "text": "In cerebellum",
-        "explanation": "Incorrect."
+        "text": "Optic Tract",
+        "explanation": "Incorrect. Vision."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamus = Lateral walls of 3rd ventricle. Diencephalon (thalamus, hypothalamus, epithalamus, subthalamus). Medial surface visible on midsagittal.",
-    "pdfPage": 3
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: VPL = Body. VPM = Face. Both project to the Primary Somatosensory Cortex (Postcentral Gyrus).",
+    "pdfPage": 14
   },
   {
     "id": 3,
-    "category": "Thalamus: Nuclear Organization",
-    "questionText": "Thalamic nuclei are organized by internal medullary lamina into:",
+    "category": "Thalamus: LGN",
+    "questionText": "A patient presents with a visual field defect. The Lateral Geniculate Nucleus (LGN) of the thalamus relays visual information from the optic tract to the:",
     "options": [
       {
-        "text": "Anterior, medial, lateral (ventral, dorsal tiers), intralaminar, midline, reticular groups",
-        "explanation": "Correct. Internal medullary lamina = Y-shaped white matter tract dividing nuclei. Each group has specific connections and functions.",
+        "text": "Superior Temporal Gyrus",
+        "explanation": "Incorrect (Auditory)."
+      },
+      {
+        "text": "Calcarine Sulcus (Occipital Lobe)",
+        "explanation": "Correct. LGN projects via the Optic Radiations (Geniculocalcarine tract) to the Primary Visual Cortex (V1).",
         "isCorrect": true
       },
       {
-        "text": "No internal organization",
-        "explanation": "Incorrect."
+        "text": "Precentral Gyrus",
+        "explanation": "Incorrect (Motor)."
       },
       {
-        "text": "Only one nucleus",
-        "explanation": "Incorrect (Multiple distinct nuclei)."
+        "text": "Postcentral Gyrus",
+        "explanation": "Incorrect (Sensory)."
       },
       {
-        "text": "Randomly arranged",
-        "explanation": "Incorrect (Highly organized)."
-      },
-      {
-        "text": "By size only",
-        "explanation": "Incorrect."
+        "text": "Insula",
+        "explanation": "Incorrect (Gustatory/Autonomic)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Internal medullary lamina divides thalamus. Lateral nuclei = Sensory/motor relay. Medial = Association. Anterior = Limbic. Intralaminar = Arousal.",
-    "pdfPage": 4
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: LGN = Light (Vision). MGN = Music (Hearing).",
+    "pdfPage": 14
   },
   {
     "id": 4,
-    "category": "Thalamus: VPL (Ventral Posterolateral)",
-    "questionText": "The ventral posterolateral (VPL) nucleus receives:",
+    "category": "Thalamus: Motor Relay",
+    "questionText": "A patient with Parkinson's disease undergoes Deep Brain Stimulation (DBS). The target is often the Subthalamic Nucleus or the Globus Pallidus, but ablative lesions can also be made in the motor thalamus to stop tremors. Which nuclei are the primary motor relays?",
     "options": [
       {
-        "text": "Medial lemniscus (dorsal column pathway - proprioception, vibration, fine touch from body) and spinothalamic tract (pain, temperature from body)",
-        "explanation": "Correct. VPL → Primary somatosensory cortex (postcentral gyrus). Somatotopic organization (homunculus). Body below neck.",
+        "text": "VA and VL",
+        "explanation": "Correct. Ventral Anterior (VA) and Ventral Lateral (VL) receive input from Basal Ganglia and Cerebellum and project to Motor Cortex.",
         "isCorrect": true
       },
       {
-        "text": "Facial sensation",
-        "explanation": "Incorrect (VPM)."
+        "text": "VPL and VPM",
+        "explanation": "Incorrect. Sensory."
       },
       {
-        "text": "Visual information",
-        "explanation": "Incorrect (LGN)."
+        "text": "LGN and MGN",
+        "explanation": "Incorrect. Special senses."
       },
       {
-        "text": "Auditory information",
-        "explanation": "Incorrect (MGN)."
+        "text": "Anterior and Dorsomedial",
+        "explanation": "Incorrect. Limbic."
       },
       {
-        "text": "No sensory input",
+        "text": "Pulvinar",
+        "explanation": "Incorrect. Association."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Motor loop: Cortex -> Basal Ganglia -> Thalamus (VA/VL) -> Cortex.",
+    "pdfPage": 13
+  },
+  {
+    "id": 5,
+    "category": "Thalamus: Internal Capsule",
+    "questionText": "A purely motor stroke (contralateral hemiparesis without sensory loss) is most characteristic of a lacunar infarct in the:",
+    "options": [
+      {
+        "text": "Thalamus (VPL)",
+        "explanation": "Incorrect. Pure sensory stroke."
+      },
+      {
+        "text": "Posterior Limb of Internal Capsule",
+        "explanation": "Correct. The Posterior Limb contains the dense corticospinal tract. A small lesion here knocks out motor function to the entire contralateral body.",
+        "isCorrect": true
+      },
+      {
+        "text": "Anterior Limb of Internal Capsule",
+        "explanation": "Incorrect. Frontopontine fibers/Thalamocortical to frontal lobe."
+      },
+      {
+        "text": "Genu of Internal Capsule",
+        "explanation": "Incorrect. Corticobulbar (Face motor). Though usually involved with posterior limb in capsule strokes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Corpus Callosum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Posterior Limb IC = Motor Highway (Corticospinal) + Sensory Highway (Thalamocortical). A lesion here is devastating.",
+    "pdfPage": 34
+  },
+  {
+    "id": 6,
+    "category": "Thalamus: Reticular Nucleus",
+    "questionText": "The Reticular Nucleus of the Thalamus is unique because:",
+    "options": [
+      {
+        "text": "It projects to the cortex.",
+        "explanation": "Incorrect. It does NOT project to the cortex."
+      },
+      {
+        "text": "It contains GABAergic inhibitory neurons.",
+        "explanation": "Correct. It forms a shell around the thalamus and inhibits other thalamic nuclei (Negative Feedback) to gate information flow (e.g., during sleep).",
+        "isCorrect": true
+      },
+      {
+        "text": "It receives auditory input.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is part of the Epithalamus.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It secretes melanin.",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Reticular Nucleus = The Gatekeeper. It has no cortical projections; it only talks to other thalamic nuclei to shut them up.",
+    "pdfPage": 7
+  },
+  {
+    "id": 7,
+    "category": "Thalamus: Blood Supply",
+    "questionText": "The primary blood supply to the Thalamus comes from perforating branches of the:",
+    "options": [
+      {
+        "text": "Middle Cerebral Artery (MCA)",
+        "explanation": "Incorrect. Supplies Lenticulostriate (Basal Ganglia/Internal Capsule)."
+      },
+      {
+        "text": "Posterior Cerebral Artery (PCA)",
+        "explanation": "Correct. Thalamogeniculate and Posterior Choroidal arteries branch off the PCA (P1/P2 segments) to supply the thalamus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Anterior Cerebral Artery (ACA)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basilar Artery",
+        "explanation": "Incorrect. Supplies brainstem."
+      },
+      {
+        "text": "Vertebral Artery",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Thalamic Stroke = PCA territory (Deep branches).",
+    "pdfPage": 18
+  },
+  {
+    "id": 8,
+    "category": "Thalamus: Korsakoff and Anterior Nucleus",
+    "questionText": "The mammillothalamic tract connects the mammillary bodies to which thalamic nucleus, integrating memory into the Papez circuit?",
+    "options": [
+      {
+        "text": "Anterior Nucleus",
+        "explanation": "Correct. Mammillary Bodies -> Mammillothalamic Tract -> Anterior Nucleus -> Cingulate Gyrus. (Papez Circuit).",
+        "isCorrect": true
+      },
+      {
+        "text": "Medial Dorsal Nucleus",
+        "explanation": "Incorrect. Olfaction/limbic, but not the specific target of MTT."
+      },
+      {
+        "text": "Ventral Anterior Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pulvinar",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Centromedian Nucleus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VPL = Body sensation (below neck). Medial lemniscus + spinothalamic → VPL → S1 cortex. VPL stroke → Contralateral sensory loss.",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: Damage to ANY part of the Papez circuit (Hippocampus, Fornix, Mammillary Bodies, Anterior Thalamus, Cingulate) causes memory loss.",
+    "pdfPage": 11
   },
   {
-    "id": 5,
-    "category": "Thalamus: VPM (Ventral Posteromedial)",
-    "questionText": "The ventral posteromedial (VPM) nucleus receives:",
+    "id": 9,
+    "category": "Thalamus: MGN",
+    "questionText": "The Medial Geniculate Nucleus (MGN) receives input from the:",
     "options": [
       {
-        "text": "Trigeminothalamic tract (facial sensation - pain, temperature, touch from face via CN V)",
-        "explanation": "Correct. VPM → S1 cortex (face area). Trigeminal sensory nuclei → VPM. Also taste (solitary nucleus → VPM).",
+        "text": "Optic Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Colliculus",
+        "explanation": "Correct. Auditory pathway: Cochlea -> Olive -> Lateral Lemniscus -> Inferior Colliculus -> MGN -> Auditory Cortex.",
         "isCorrect": true
       },
       {
-        "text": "Body sensation",
-        "explanation": "Incorrect (VPL)."
+        "text": "Superior Colliculus",
+        "explanation": "Incorrect (Visual/Eye movement attention)."
       },
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Inferior Colliculus -> MGN (Auditory). Superior Colliculus -> Pulvinar/LGN (Visual attention).",
+    "pdfPage": 14
+  },
+  {
+    "id": 10,
+    "category": "Thalamus: Limbic Association",
+    "questionText": "The Dorsomedial (Mediodorsal) Nucleus has strong reciprocal connections with the:",
+    "options": [
+      {
+        "text": "Prefrontal Cortex",
+        "explanation": "Correct. It integrates emotion, thought, and judgment. Lesions here (or in PFC) cause Phineas Gage-like personality changes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Occipital Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary Motor Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary Sensory Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: DM nucleus degeneration is seen in Wernicke-Korsakoff alongside mammillary bodies.",
+    "pdfPage": 12
+  },
+  {
+    "id": 11,
+    "category": "Thalamus: Consciousness",
+    "questionText": "The Intralaminar Nuclei (e.g., Centromedian) receive input from the Reticular Formation and project diffusely to the cortex. Their primary function is:",
+    "options": [
+      {
+        "text": "Fine touch discrimination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Maintaining Arousal and Consciousness",
+        "explanation": "Correct. They are part of the Ascending Reticular Activating System (ARAS). Bilateral damage causes coma.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor coordination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual processing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory processing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Intralaminar nuclei = The Cortex's Alarm Clock.",
+    "pdfPage": 15
+  },
+  {
+    "id": 12,
+    "category": "Thalamus: Pulvinar",
+    "questionText": "The largest nucleus of the thalamus, responsible for visual attention and sensorimotor integration, is the:",
+    "options": [
+      {
+        "text": "Pulvinar",
+        "explanation": "Correct. It connects with the Parietal-Occipital-Temporal association cortex.",
+        "isCorrect": true
+      },
+      {
+        "text": "LGN",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "VPL",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reticular",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Pulvinar ('Pillow') is the posterior cushion of the thalamus.",
+    "pdfPage": 12
+  },
+  {
+    "id": 13,
+    "category": "Thalamus: Inputs",
+    "questionText": "Which spinal tract carries pain and temperature information to the VPL nucleus?",
+    "options": [
+      {
+        "text": "Dorsal Column Medial Lemniscus",
+        "explanation": "Incorrect. Touch/Proprioception."
+      },
+      {
+        "text": "Spinothalamic Tract (Anterolateral System)",
+        "explanation": "Correct. Lateral Spinothalamic = Pain/Temp. Anterior Spinothalamic = Crude touch.",
+        "isCorrect": true
+      },
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect. Motor."
+      },
+      {
+        "text": "Spinocerebellar Tract",
+        "explanation": "Incorrect. Unconscious proprioception to Cerebellum."
+      },
+      {
+        "text": "Rubrospinal Tract",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: All conscious body Sensation -> VPL -> Cortex.",
+    "pdfPage": 14
+  },
+  {
+    "id": 14,
+    "category": "Thalamus: Cerebral Peduncle",
+    "questionText": "Just inferior to the Thalamus lies the subthalamus and the midbrain. The massive fiber bundle carrying motor fibers from the internal capsule into the brainstem is the:",
+    "options": [
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebral Peduncle (Crus Cerebri)",
+        "explanation": "Correct. The Internal Capsule becomes the Cerebral Peduncle in the midbrain.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Cerebellar Peduncle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pyramid",
+        "explanation": "Incorrect (Medulla)."
+      },
+      {
+        "text": "Fornix",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pathway: Corona Radiata -> Internal Capsule -> Cerebral Peduncle -> Basilar Pons -> Pyramids.",
+    "pdfPage": 31
+  },
+  {
+    "id": 15,
+    "category": "Thalamus: VPM Inputs",
+    "questionText": "The VPM Nucleus receives Taste (Gustatory) sensation via which tract?",
+    "options": [
+      {
+        "text": "Solitariothalamic Tract",
+        "explanation": "Correct. Nucleus Solitarius (Taste from VII, IX, X) projects to VPM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trigeminothalamic Tract",
+        "explanation": "Incorrect. Somatosensation (Touch/Pain) of face.",
+        "isCorrect": false
+      },
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Radiation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral Lemniscus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: VPM receives both Face sensation (Trigeminal) and Taste (Solitary).",
+    "pdfPage": 14
+  },
+  {
+    "id": 16,
+    "category": "Thalamus: Genu Function",
+    "questionText": "A stroke affecting the Genu of the Internal Capsule results in:",
+    "options": [
+      {
+        "text": "Contralateral leg weakness",
+        "explanation": "Incorrect (Posterior Limb)."
+      },
+      {
+        "text": "Contralateral lower face weakness",
+        "explanation": "Correct. The Corticobulbar tract (Face motor) runs in the Genu ('Knee') of the capsule.",
+        "isCorrect": true
+      },
+      {
+        "text": "Contralateral hemianopsia",
+        "explanation": "Incorrect (Retrolenticular limb)."
+      },
+      {
+        "text": "Auditory loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aphasia only",
+        "explanation": "Incorrect (Cortex)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Capsule Homunculus: Face = Genu. Arm/Leg = Posterior Limb.",
+    "pdfPage": 33
+  },
+  {
+    "id": 17,
+    "category": "Thalamus: Sensory Relay",
+    "questionText": "Which is the ONLY sensory modality that does NOT synapse in the thalamus before reaching the cortex?",
+    "options": [
       {
         "text": "Vision",
         "explanation": "Incorrect (LGN)."
@@ -146,942 +511,576 @@ window.Test_L12 = [
         "explanation": "Incorrect (MGN)."
       },
       {
-        "text": "No sensory role",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VPM = Face sensation (trigeminal) + taste. → S1 cortex face area. VPM lesion → Contralateral facial numbness.",
-    "pdfPage": 6
-  },
-  {
-    "id": 6,
-    "category": "Clinical Correlation: Pure Sensory Stroke",
-    "questionText": "A pure sensory stroke affecting VPL/VPM thalamus causes:",
-    "options": [
-      {
-        "text": "Contralateral hemisensory loss (all modalities - pain, temperature, touch, proprioception, vibration)",
-        "explanation": "Correct. Entire contralateral body affected. NO motor deficit (pure sensory). Lacunar stroke (small vessel). Can develop thalamic pain syndrome later.",
+        "text": "Olfaction (Smell)",
+        "explanation": "Correct. Olfactory bulb -> Olfactory Tract -> Piriform Cortex. It bypasses the thalamus initially (though reverberates back later).",
         "isCorrect": true
       },
       {
-        "text": "Ipsilateral sensory loss",
-        "explanation": "Incorrect (Contralateral)."
+        "text": "Taste",
+        "explanation": "Incorrect (VPM)."
       },
       {
-        "text": "Motor weakness",
-        "explanation": "Incorrect (Pure sensory)."
-      },
-      {
-        "text": "Visual loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No sensory involvement",
-        "explanation": "Incorrect."
+        "text": "Balance",
+        "explanation": "Incorrect (VP)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VPL/VPM stroke = Pure sensory syndrome (one of lacunar syndromes). All contralateral sensation affected. Risk → Thalamic pain syndrome (Dejerine-Roussy).",
-    "pdfPage": 7
-  },
-  {
-    "id": 7,
-    "category": "Clinical Correlation: Thalamic Pain Syndrome",
-    "questionText": "Thalamic pain syndrome (Dejerine-Roussy syndrome) after thalamic stroke presents with:",
-    "options": [
-      {
-        "text": "Initial sensory loss → Followed by severe, burning, dysesthetic pain (allodynia, hyperalgesia) contralaterally",
-        "explanation": "Correct. Central post-stroke pain. Spontaneous burning pain, touch triggers pain (allodynia). Difficult to treat. Try gabapentin, TCAs, amitriptyline.",
-        "isCorrect": true
-      },
-      {
-        "text": "No pain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ipsilateral pain",
-        "explanation": "Incorrect (Contralateral)."
-      },
-      {
-        "text": "Easily treated",
-        "explanation": "Incorrect (Refractory)."
-      },
-      {
-        "text": "Motor symptoms primarily",
-        "explanation": "Incorrect (Sensory/pain)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamic pain syndrome = Delayed central pain after VPL/VPM stroke. Burning, allodynia, hyperalgesia. Refractory. Gabapentin, TCAs, sometimes opioids.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Smell is the most primitive sense, tied directly to the limbic system (memory/emotion) without thalamic filtering.",
     "pdfPage": 8
   },
   {
-    "id": 8,
-    "category": "Thalamus: LGN (Lateral Geniculate Nucleus)",
-    "questionText": "The lateral geniculate nucleus (LGN) receives:",
+    "id": 18,
+    "category": "Thalamus: Basal Ganglia Input",
+    "questionText": "The output of the Globus Pallidus Internus (GPi) is inhibitory (GABA). It projects to the VA/VL thalamus. Therefore, activation of the Direct Pathway in the Basal Ganglia inhibits the GPi, causing:",
     "options": [
       {
-        "text": "Optic tract (retinal ganglion cell axons) → Projects to primary visual cortex (V1, calcarine sulcus) via optic radiations",
-        "explanation": "Correct. LGN = Visual relay. 6 layers (3 magnocellular, 3 parvocellular). Contralateral visual field represented. Lesion → Contralateral homonymous hemianopsia.",
+        "text": "Inhibition of the Thalamus -> Decreased Movement",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Disinhibition of the Thalamus -> Increased Movement",
+        "explanation": "Correct. Inhibiting the Inhibitor = Excitation. The Thalamus is 'released' to excite the motor cortex.",
         "isCorrect": true
       },
       {
-        "text": "Auditory input",
-        "explanation": "Incorrect (MGN)."
-      },
-      {
-        "text": "Somatosensory",
-        "explanation": "Incorrect (VPL/VPM)."
-      },
-      {
-        "text": "Motor signals",
+        "text": "Excitation of the Thalamus -> Decreased Movement",
         "explanation": "Incorrect."
       },
       {
-        "text": "No visual role",
+        "text": "No change",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: LGN = Visual relay. Optic tract → LGN (6 layers) → Optic radiations → V1 (calcarine). LGN lesion → Contralateral homonymous hemianopsia.",
-    "pdfPage": 9
-  },
-  {
-    "id": 9,
-    "category": "Thalamus: MGN (Medial Geniculate Nucleus)",
-    "questionText": "The medial geniculate nucleus (MGN) receives:",
-    "options": [
-      {
-        "text": "Inferior colliculus (auditory pathway) → Projects to primary auditory cortex (A1, superior temporal gyrus, Heschl's gyrus)",
-        "explanation": "Correct. MGN = Auditory relay. Bilateral representation (unilateral cortical lesion doesn't cause deafness). Tonotopic organization.",
-        "isCorrect": true
-      },
-      {
-        "text": "Visual input",
-        "explanation": "Incorrect (LGN)."
-      },
-      {
-        "text": "Somatosensory",
-        "explanation": "Incorrect (VPL/VPM)."
-      },
-      {
-        "text": "No auditory role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Olfactory input",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: MGN = Auditory relay. Inferior colliculus → MGN → A1 (Heschl's gyrus). Bilateral pathways → Unilateral cortical lesion doesn't cause deafness.",
-    "pdfPage": 10
-  },
-  {
-    "id": 10,
-    "category": "Thalamus: VA (Ventral Anterior) and VL (Ventral Lateral)",
-    "questionText": "The ventral anterior (VA) and ventral lateral (VL) nuclei receive input from:",
-    "options": [
-      {
-        "text": "Basal ganglia (GPi, SNr) and cerebellum (dentate via thalamus) → Motor cortex, premotor cortex",
-        "explanation": "Correct. Motor relay nuclei. VA/VL = Motor planning, coordination. Lesion → Contralateral motor deficits. DBS target for Parkinson's (VIM, part of VL).",
-        "isCorrect": true
-      },
-      {
-        "text": "Sensory pathways only",
-        "explanation": "Incorrect (Motor)."
-      },
-      {
-        "text": "Visual cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No motor role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VA/VL = Motor relay. Basal ganglia + cerebellum → VA/VL → Motor cortex. VIM (ventral intermediate, part of VL) = DBS target for essential tremor.",
-    "pdfPage": 11
-  },
-  {
-    "id": 11,
-    "category": "Thalamus: Anterior Nuclear Group",
-    "questionText": "The anterior thalamic nuclei are part of which circuit?",
-    "options": [
-      {
-        "text": "Papez circuit (limbic) - Mammillary bodies → Anterior thalamus → Cingulate cortex → Hippocampus (via fornix)",
-        "explanation": "Correct. Memory and emotion. Mammillothalamic tract → Anterior nuclei. Lesion → Memory deficits (Wernicke-Korsakoff affects this).",
-        "isCorrect": true
-      },
-      {
-        "text": "No limbic function",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor circuit",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual pathway",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No memory role",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior thalamus = Papez circuit (memory, emotion). Mammillary bodies → Anterior thalamus → Cingulate → Hippocampus. Wernicke-Korsakoff damages this.",
-    "pdfPage": 12
-  },
-  {
-    "id": 12,
-    "category": "Thalamus: Mediodorsal (MD) Nucleus",
-    "questionText": "The mediodorsal (MD) nucleus has reciprocal connections with:",
-    "options": [
-      {
-        "text": "Prefrontal cortex - Involved in executive function, personality, emotion",
-        "explanation": "Correct. MD = Association nucleus. Also receives input from amygdala (emotion). MD lesion → Cognitive, personality changes, memory deficits.",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary sensory cortex",
-        "explanation": "Incorrect (Association cortex)."
-      },
-      {
-        "text": "Cerebellum only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No cortical connections",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor cortex only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Mediodorsal nucleus = Prefrontal cortex connection. Executive function, personality. MD damage (Wernicke-Korsakoff, trauma) → Cognitive, personality changes.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Thalamus wants to MOVE. Basal Ganglia keeps it on a leash (GPi). Direct pathway loosens the leash. Indirect pathway tightens it.",
     "pdfPage": 13
   },
   {
-    "id": 13,
-    "category": "Thalamus: Pulvinar",
-    "questionText": "The pulvinar (largest thalamic nucleus) is involved in:",
-    "options": [
-      {
-        "text": "Visual attention, integration of visual, auditory, somatosensory information",
-        "explanation": "Correct. Association nucleus. Connects parietal, occipital, temporal cortices. Pulvinar lesion → Visual neglect (especially right pulvinar).",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary visual relay",
-        "explanation": "Incorrect (LGN)."
-      },
-      {
-        "text": "Motor control only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No visual role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Smallest nucleus",
-        "explanation": "Incorrect (Largest)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pulvinar = Largest thalamic nucleus. Visual attention, multimodal integration. Right pulvinar lesion → Left visual neglect.",
-    "pdfPage": 14
-  },
-  {
-    "id": 14,
-    "category": "Thalamus: Intralaminar Nuclei",
-    "questionText": "The intralaminar nuclei (centromedian, parafascicular) are involved in:",
-    "options": [
-      {
-        "text": "Arousal, consciousness (project diffusely to cortex), and motor control (to striatum)",
-        "explanation": "Correct. Part of ascending reticular activating system (ARAS). Bilateral lesions → Coma. Also project to basal ganglia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Specific sensory relay",
-        "explanation": "Incorrect (Diffuse, non-specific)."
-      },
-      {
-        "text": "No arousal function",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only motor",
-        "explanation": "Incorrect (Arousal + motor)."
-      },
-      {
-        "text": "Inhibit cortex",
-        "explanation": "Incorrect (Activate)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Intralaminar nuclei = Arousal (ARAS component) + basal ganglia connections. Bilateral lesions → Coma. Centromedian = DBS target for Tourette's.",
-    "pdfPage": 15
-  },
-  {
-    "id": 15,
-    "category": "Thalamus: Reticular Nucleus",
-    "questionText": "The reticular nucleus of the thalamus is unique because:",
-    "options": [
-      {
-        "text": "It's a thin shell of GABAergic neurons surrounding lateral thalamus, modulating thalamocortical transmission (no direct cortical projections)",
-        "explanation": "Correct. All thalamocortical and corticothalamic fibers pass through reticular nucleus. Inhibitory gating. Role in attention, sleep spindles.",
-        "isCorrect": true
-      },
-      {
-        "text": "Projects directly to cortex",
-        "explanation": "Incorrect (Projects to other thalamic nuclei only)."
-      },
-      {
-        "text": "Excitatory neurons",
-        "explanation": "Incorrect (GABAergic, inhibitory)."
-      },
-      {
-        "text": "In brainstem",
-        "explanation": "Incorrect (Thalamus)."
-      },
-      {
-        "text": "No modulatory role",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Reticular nucleus = GABAergic shell around thalamus. Modulates thalamocortical relay (attention gating). Projects only to thalamus, not cortex. Sleep spindles.",
-    "pdfPage": 16
-  },
-  {
-    "id": 16,
-    "category": "Clinical Correlation: Thalamic Aphasia",
-    "questionText": "Left thalamic lesions (especially pulvinar, centromedian) can cause:",
-    "options": [
-      {
-        "text": "Thalamic aphasia - Fluent speech with paraphasias, word-finding difficulty, preserved repetition",
-        "explanation": "Correct. Unlike cortical aphasias. Mechanism: Disrupted thalamocortical language network. Often improves more than cortical aphasia.",
-        "isCorrect": true
-      },
-      {
-        "text": "No language deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Broca's aphasia",
-        "explanation": "Incorrect (Non-fluent, different pattern)."
-      },
-      {
-        "text": "Global aphasia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pure alexia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Left thalamus lesion → Fluent aphasia (paraphasias, anomia, preserved repetition). Better prognosis than cortical aphasia. Thalamus modulates language networks.",
-    "pdfPage": 17
-  },
-  {
-    "id": 17,
-    "category": "Thalamus: Blood Supply",
-    "questionText": "The thalamus is primarily supplied by:",
-    "options": [
-      {
-        "text": "Posterior cerebral artery (PCA) branches - Thalamoperforating, thalamogeniculate arteries. Also posterior communicating artery",
-        "explanation": "Correct. Anterior thalamus = Tuberothalamic artery (PComm). Paramedian = Artery of Percheron (variant). Lateral = Thalamogeniculate (PCA).",
-        "isCorrect": true
-      },
-      {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No blood supply",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vertebral artery directly",
-        "explanation": "Incorrect (PCA from basilar)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamus = PCA territory. Artery of Percheron (variant) supplies bilateral paramedian thalami → Bilateral infarct → Coma, vertical gaze palsy, memory loss.",
-    "pdfPage": 18
-  },
-  {
-    "id": 18,
-    "category": "Clinical Correlation: Artery of Percheron Infarct",
-    "questionText": "Occlusion of the artery of Percheron (variant supplying bilateral paramedian thalami) causes:",
-    "options": [
-      {
-        "text": "Altered consciousness/coma, vertical gaze palsy, memory impairment (bilateral thalamic infarction)",
-        "explanation": "Correct. Single artery → Bilateral paramedian thalamic + midbrain infarct. Acute confusion, somnolence. MRI: Bilateral thalamic hyperintensity.",
-        "isCorrect": true
-      },
-      {
-        "text": "Unilateral symptoms only",
-        "explanation": "Incorrect (Bilateral)."
-      },
-      {
-        "text": "No altered consciousness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor weakness primarily",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Normal MRI",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Artery of Percheron = Variant (single artery → bilateral paramedian thalami). Coma, vertical gaze palsy, amnesia. 'Butterfly' appearance on MRI.",
-    "pdfPage": 19
-  },
-  {
     "id": 19,
-    "category": "Thalamus: Specific vs Non-Specific Nuclei",
-    "questionText": "Specific thalamic relay nuclei differ from non-specific nuclei in that:",
+    "category": "Thalamus: Cerebellar Input",
+    "questionText": "The Dentato-Rubro-Thalamic tract connects the Cerebellum to the:",
     "options": [
       {
-        "text": "Specific nuclei have discrete inputs and project to specific cortical areas (VPL, LGN, MGN). Non-specific nuclei have diffuse cortical projections (intralaminar)",
-        "explanation": "Correct. Specific = Point-to-point (sensory, motor relays). Non-specific = Widespread (arousal, attention - intralaminar, midline nuclei).",
+        "text": "VL Nucleus",
+        "explanation": "Correct. Cerebellum (Dentate nucleus) -> Red Nucleus -> VL Thalamus -> Motor Cortex. Coordinates movement.",
         "isCorrect": true
       },
       {
-        "text": "No difference",
+        "text": "VPL Nucleus",
         "explanation": "Incorrect."
       },
       {
-        "text": "All nuclei are specific",
+        "text": "Anterior Nucleus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Non-specific project to specific areas",
-        "explanation": "Incorrect (Diffuse)."
+        "text": "LGN",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Specific nuclei are diffuse",
+        "text": "MGN",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Specific nuclei = Sensory/motor relays (VPL, VPM, LGN, MGN, VA/VL). Non-specific = Arousal, modulatory (intralaminar, reticular).",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: VL = Cerebellar input. VA = Basal Ganglia input.",
+    "pdfPage": 13
   },
   {
     "id": 20,
-    "category": "Thalamus: First-Order vs Higher-Order Nuclei",
-    "questionText": "First-order thalamic nuclei relay information from subcortical sources to cortex, while higher-order nuclei:",
+    "category": "Thalamus: Internal Medullary Lamina",
+    "questionText": "The Y-shaped sheet of white matter that divides the thalamus into Anterior, Medial, and Lateral groups is called the:",
     "options": [
       {
-        "text": "Relay cortico-cortical information (cortex → Thalamus → Different cortical area) - Involved in cognition, attention",
-        "explanation": "Correct. First-order: VPL, LGN, MGN (periphery → cortex). Higher-order: Pulvinar, MD (cortex → thalamus → cortex). Transthalamic corticocortical.",
+        "text": "Internal Capsule",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Internal Medullary Lamina",
+        "explanation": "Correct. It also contains the Intralaminar nuclei.",
         "isCorrect": true
       },
       {
-        "text": "Same as first-order",
+        "text": "External Medullary Lamina",
+        "explanation": "Incorrect. Separates Lateral group from Reticular nucleus."
+      },
+      {
+        "text": "Corpus Callosum",
         "explanation": "Incorrect."
       },
       {
-        "text": "No cortical projection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only relay sensory",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No cognitive role",
+        "text": "Stria Medullaris",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: First-order = Subcortical → cortex (sensory relay). Higher-order = Cortex → thalamus → cortex (cognitive processing, attention).",
-    "pdfPage": 21
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anatomical landmark for thalamic divisions.",
+    "pdfPage": 5
   },
   {
     "id": 21,
-    "category": "Thalamus: Sleep Spindles",
-    "questionText": "Sleep spindles (EEG waveforms in stage 2 NREM sleep) are generated by:",
+    "category": "Thalamus: Pure Sensory Stroke",
+    "questionText": "A 70-year-old female presents with numbness of the left face, arm, and leg. Motor strength is 5/5. CT shows a small hypodensity in the right thalamus. Which vascular territory is likely affected?",
     "options": [
       {
-        "text": "Oscillations between thalamic reticular nucleus (GABAergic) and thalamocortical relay neurons",
-        "explanation": "Correct. Reticular nucleus rhythmic inhibition → Relay neurons rebound (T-type Ca2+ channels) → Spindle bursts. Important for memory consolidation.",
+        "text": "Lenticulostriate arteries (MCA)",
+        "explanation": "Incorrect (Basal Ganglia/Capsule - usually motor involved)."
+      },
+      {
+        "text": "Thalamogeniculate arteries (PCA)",
+        "explanation": "Correct. These supply the VP nuclei. Occlusion causes Pure Sensory Stroke.",
         "isCorrect": true
       },
       {
-        "text": "Cortex alone",
-        "explanation": "Incorrect (Thalamocortical)."
-      },
-      {
-        "text": "Hippocampus",
+        "text": "Anterior Choroidal artery",
         "explanation": "Incorrect."
       },
       {
-        "text": "Brainstem only",
+        "text": "Recurrent Artery of Heubner",
         "explanation": "Incorrect."
       },
       {
-        "text": "No thalamic involvement",
+        "text": "Posterior Communicating Artery",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sleep spindles = Thalamic reticular nucleus oscillations. Stage 2 NREM. Associated with memory consolidation, sensory gating during sleep.",
-    "pdfPage": 22
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pure Sensory = Thalamus (PCA). Pure Motor = Internal Capsule/Pons (MCA/Basilar).",
+    "pdfPage": 18
   },
   {
     "id": 22,
-    "category": "Clinical Correlation: Fatal Familial Insomnia",
-    "questionText": "Fatal familial insomnia (prion disease) primarily affects:",
+    "category": "Thalamus: Optic Radiations",
+    "questionText": "The Loop of Meyer carries visual information from the LGN to the inferior bank of the calcarine fissure (Lingual Gyrus). It passes through which lobe?",
     "options": [
       {
-        "text": "Anterior and mediod nucleus of thalamus → Progressive insomnia, autonomic dysfunction, dementia, death",
-        "explanation": "Correct. PRNP mutation (D178N). Thalamic degeneration → Loss of sleep spindles, insomnia. Rapid progression. No effective treatment. Uniformly fatal.",
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect. Superior radiations (lower visual field) go through Parietal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporal Lobe",
+        "explanation": "Correct. Meyer's Loop sweeps forward into the Temporal Lobe before turning back. Lesion = 'Pie in the Sky' (Superior Quadrantanopia).",
         "isCorrect": true
       },
       {
-        "text": "Cortex only",
-        "explanation": "Incorrect (Thalamus)."
-      },
-      {
-        "text": "Benign condition",
-        "explanation": "Incorrect (Fatal)."
-      },
-      {
-        "text": "No sleep disturbance",
+        "text": "Frontal Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Treatable",
-        "explanation": "Incorrect (No treatment)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Fatal familial insomnia = Prion disease (PRNP mutation). Thalamic degeneration → Complete insomnia → Autonomic dysfunction → Death within months. Diagnosis: PET/genetics.",
-    "pdfPage": 23
-  },
-  {
-    "id": 23,
-    "category": "Thalamus: Motor Thalamus DBS",
-    "questionText": "Deep brain stimulation (DBS) of the thalamus (VIM - ventral intermediate nucleus) is used to treat:",
-    "options": [
-      {
-        "text": "Essential tremor, tremor-dominant Parkinson's disease",
-        "explanation": "Correct. VIM (part of VL) = Cerebellar afferents. DBS → High-frequency stimulation → Tremor suppression. Also GPi, STN for PD. VIM specifically for tremor.",
-        "isCorrect": true
-      },
-      {
-        "text": "Depression only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Epilepsy",
-        "explanation": "Incorrect (ANT for epilepsy, VIM for tremor)."
-      },
-      {
-        "text": "No tremor effect",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dystonia",
-        "explanation": "Incorrect (GPi for dystonia)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VIM-DBS = Essential tremor treatment. Very effective for tremor suppression. Anterior thalamic nucleus (ANT) DBS for refractory epilepsy.",
-    "pdfPage": 24
-  },
-  {
-    "id": 24,
-    "category": "Thalamus: Consciousness and Coma",
-    "questionText": "Bilateral thalamic lesions can cause:",
-    "options": [
-      {
-        "text": "Coma or severe altered consciousness (thalamus critical for cortical arousal)",
-        "explanation": "Correct. Thalamus = Relay for ARAS (reticular activating system) to cortex. Bilateral paramedian, intralaminar lesions → Coma. Unilateral often compensated.",
-        "isCorrect": true
-      },
-      {
-        "text": "No consciousness effects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyperalertness",
-        "explanation": "Incorrect (Decreased arousal)."
-      },
-      {
-        "text": "Only sensory deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unilateral causes coma",
-        "explanation": "Incorrect (Usually bilateral needed)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Bilateral thalamic lesions → Coma (disrupted ARAS relay). Artery of Percheron, trauma, tumors. Intralaminar nuclei critical for arousal.",
-    "pdfPage": 25
-  },
-  {
-    "id": 25,
-    "category": "Thalamus: Limbic Thalamus",
-    "questionText": "The limbic thalamus (anterior nuclei, mediodorsal, intralaminar) is involved in:",
-    "options": [
-      {
-        "text": "Emotion, memory, motivation - Connections with hippocampus, amygdala, prefrontal cortex, cingulate",
-        "explanation": "Correct. Anterior = Papez circuit (memory). MD = Prefrontal (emotion, executive). Lesions → Amnesia, personality changes, apathy.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only sensory relay",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No emotion role",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor control only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No memory function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Limbic thalamus = Anterior (memory), MD (emotion, executive). Wernicke-Korsakoff damages anterior + MD → Amnesia, personality changes.",
-    "pdfPage": 26
-  },
-  {
-    "id": 26,
-    "category": "Thalamus: Thalamocortical Dysrhythmia",
-    "questionText": "Thalamocortical dysrhythmia is a proposed mechanism for:",
-    "options": [
-      {
-        "text": "Chronic pain, tinnitus, neuropsychiatric disorders (abnormal low-frequency thalamocortical oscillations)",
-        "explanation": "Correct. Theory: Thalamic injury → Abnormal rhythms → Symptoms. Edge effect (border between normal/abnormal rhythms). Experimental.",
-        "isCorrect": true
-      },
-      {
-        "text": "Normal brain function",
-        "explanation": "Incorrect (Pathologic)."
-      },
-      {
-        "text": "No clinical relevance",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only acute conditions",
-        "explanation": "Incorrect (Chronic)."
-      },
-      {
-        "text": "Well-established treatment",
-        "explanation": "Incorrect (Theoretical)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamocortical dysrhythmia = Theoretical framework. Abnormal thalamic oscillations → Chronic pain, tinnitus, depression. Research target for neuromodulation.",
-    "pdfPage": 27
-  },
-  {
-    "id": 27,
-    "category": "Thalamus: Hemispatial Neglect",
-    "questionText": "Right-sided thalamic lesions (especially pulvinar) can cause:",
-    "options": [
-      {
-        "text": "Left hemispatial neglect (inattention to left side of space)",
-        "explanation": "Correct. Pulvinar = Attention, spatial awareness. Right hemisphere dominant for spatial attention. Also seen with right parietal lesions.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right neglect",
-        "explanation": "Incorrect (Left neglect from right lesion)."
-      },
-      {
-        "text": "No attentional deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bilateral neglect",
-        "explanation": "Incorrect (Contralateral)."
-      },
-      {
-        "text": "Motor weakness",
-        "explanation": "Incorrect (Neglect is distinct from motor)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Right pulvinar lesion → Left neglect. Patient ignores left side (doesn't eat from left plate, doesn't shave left face). Rehabilitation challenging.",
-    "pdfPage": 28
-  },
-  {
-    "id": 28,
-    "category": "Thalamus: Hand-in-the-Bag Sign",
-    "questionText": "The 'hand-in-the-bag' sign (involuntary hand movements into pocket/sleeve) can be seen with:",
-    "options": [
-      {
-        "text": "Thalamic lesions causing proprioceptive loss and/or alien hand syndrome",
-        "explanation": "Correct. Thalamic hand syndrome. Proprioceptive loss → Unaware of hand position. Sometimes active withdrawal (alien hand). Posterior thalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Normal behavior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellar lesions only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No thalamic involvement",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Intentional movement",
-        "explanation": "Incorrect (Involuntary)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamic hand = Proprioceptive loss + altered sensation. Hand 'hides' involuntarily. Can also see choreoathetoid movements, dystonia with thalamic lesions.",
-    "pdfPage": 29
-  },
-  {
-    "id": 29,
-    "category": "Thalamus: Ventral Tier (VP) vs Dorsal Tier",
-    "questionText": "The ventral tier of lateral thalamus (VPL, VPM, VA, VL, LGN, MGN) differs from dorsal tier (LP, pulvinar) in that:",
-    "options": [
-      {
-        "text": "Ventral = Primary specific relay nuclei (sensory, motor). Dorsal = Association nuclei (multimodal integration)",
-        "explanation": "Correct. Ventral → Primary cortex. Dorsal → Association cortex. Ventral = 'First-order'. Dorsal = 'Higher-order' (partially).",
-        "isCorrect": true
-      },
-      {
-        "text": "No functional difference",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsal = Primary relay",
-        "explanation": "Incorrect (Ventral)."
-      },
-      {
-        "text": "Ventral = Association",
-        "explanation": "Incorrect (Specific relay)."
-      },
-      {
-        "text": "Both relay same information",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Lateral thalamus ventral tier = Specific relays (VPL, VPM, VA, VL, LGN, MGN). Dorsal tier = Association (LP, pulvinar). Anatomic-functional correlation.",
-    "pdfPage": 30
-  },
-  {
-    "id": 30,
-    "category": "Thalamus: Gating Function",
-    "questionText": "The thalamus acts as a 'gate' for cortical information by:",
-    "options": [
-      {
-        "text": "Filtering sensory input based on arousal state, attention (via reticular nucleus, cortical feedback)",
-        "explanation": "Correct. Not passive relay. Modulates what reaches cortex. Sleep → Gated (reduced transmission). Attention → Enhanced relevant signals.",
-        "isCorrect": true
-      },
-      {
-        "text": "Passing all information equally",
-        "explanation": "Incorrect (Selective)."
-      },
-      {
-        "text": "No filtering",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only blocks, never enhances",
-        "explanation": "Incorrect (Can enhance)."
-      },
-      {
-        "text": "No cortical feedback",
-        "explanation": "Incorrect (Extensive feedback)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamus = Active gate, not passive relay. Reticular nucleus + cortical feedback → Modulates transmission. Attention, arousal state influence thalamic gating.",
-    "pdfPage": 31
-  },
-  {
-    "id": 31,
-    "category": "Clinical Correlation: Thalamic Tumor",
-    "questionText": "Thalamic tumors (gliomas, especially in children) can present with:",
-    "options": [
-      {
-        "text": "Headache, hydrocephalus (3rd ventricle obstruction), sensory deficits, movement disorders, Parinaud's syndrome",
-        "explanation": "Correct. Compress 3rd ventricle → Hydrocephalus. Invade midbrain → Parinaud's (upgaze palsy, light-near dissociation). Difficult surgical access.",
-        "isCorrect": true
-      },
-      {
-        "text": "No symptoms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Easy surgical removal",
-        "explanation": "Incorrect (Difficult, deep location)."
-      },
-      {
-        "text": "Only in adults",
-        "explanation": "Incorrect (Common in children)."
-      },
-      {
-        "text": "No hydrocephalus risk",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamic gliomas (especially kids) → Hydrocephalus, sensory/motor deficits, Parinaud's. Deep location → Surgery challenging. Often use chemotherapy, radiation.",
-    "pdfPage": 32
-  },
-  {
-    "id": 32,
-    "category": "Thalamus: Crossed Connections",
-    "questionText": "Most thalamic nuclei project to:",
-    "options": [
-      {
-        "text": "Ipsilateral cortex (uncrossed thalamocortical projections)",
-        "explanation": "Correct. Thalamus → Ipsilateral cortex via internal capsule. Sensory pathways crossed BEFORE thalamus (spinothalamic, medial lemniscus cross in cord/medulla).",
-        "isCorrect": true
-      },
-      {
-        "text": "Contralateral cortex",
-        "explanation": "Incorrect (Ipsilateral)."
-      },
-      {
-        "text": "Both hemispheres equally",
+        "text": "Insula",
         "explanation": "Incorrect."
       },
       {
         "text": "Cerebellum",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinal cord",
-        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamocortical = Ipsilateral. But sensory pathways crossed before thalamus → Left thalamus processes right body sensation → Left cortex (overall: right body → left cortex).",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Temporal Lobe lesion (Meyer's Loop) = Superior Quadrantanopia. Parietal Lobe lesion (Baum's Loop) = Inferior Quadrantanopia.",
     "pdfPage": 33
   },
   {
-    "id": 33,
-    "category": "Thalamus: Corticothalamic Feedback",
-    "questionText": "Corticothalamic (cortex → thalamus) projections:",
+    "id": 23,
+    "category": "Thalamus: Sleep Spindles",
+    "questionText": "The characteristic 'Sleep Spindles' seen on EEG in Stage N2 sleep are generated by interactions between:",
     "options": [
       {
-        "text": "Outnumber thalamocortical projections ~10:1, providing extensive feedback modulation",
-        "explanation": "Correct. Massive feedback. Modulates thalamic relay (attention, context). NOT just bottom-up (thalamus → cortex), but bidirectional.",
-        "isCorrect": true
-      },
-      {
-        "text": "Don't exist",
+        "text": "Cortex and Hippocampus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Fewer than thalamocortical",
-        "explanation": "Incorrect (Much more numerous)."
+        "text": "Thalamic Reticular Nucleus and Thalamocortical Relay Neurons",
+        "explanation": "Correct. The bursting oscillation between the inhibitory Reticular nucleus and the excitatory Relay nuclei generates spindles, blocking sensory input to preserve sleep.",
+        "isCorrect": true
       },
       {
-        "text": "Only inhibitory",
-        "explanation": "Incorrect (Mostly excitatory, glutamatergic)."
+        "text": "Brainstem and Spinal Cord",
+        "explanation": "Incorrect."
       },
       {
-        "text": "No modulatory function",
+        "text": "Cerebellum and Red Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Amygdala and Hypothalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Thalamus actively disconnects the cortex from the world during sleep.",
+    "pdfPage": 7
+  },
+  {
+    "id": 24,
+    "category": "Thalamus: Hemiballismus",
+    "questionText": "Hemiballismus (violent flailing of one arm/leg) is caused by a lesion in the Subthalamic Nucleus. This releases the Thalamus from inhibition, leading to excessive movement. The Subthalamus is located directly inferior to the:",
+    "options": [
+      {
+        "text": "Thalamus",
+        "explanation": "Correct. Anatomically part of Diencephalon, functionally part of Basal Ganglia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypothalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Epithalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect. Superior to midbrain."
+      },
+      {
+        "text": "Pons",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Corticothalamic feedback >> thalamocortical feedforward. Suggests cortex powerfully modulates thalamic relay (attention, prediction, context).",
-    "pdfPage": 34
+    "clinicalPearl": "Key takeaway: Subthalamic Nucleus lesion = Contralateral Ballismus.",
+    "pdfPage": 4
+  },
+  {
+    "id": 25,
+    "category": "Thalamus: Lateral VPL",
+    "questionText": "The somatotopic organization of the VPL nucleus places the leg fibers:",
+    "options": [
+      {
+        "text": "Medial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral",
+        "explanation": "Correct. In VPL, fibers are arranged Legs-Lateral. In internal capsule and cortex, legs are also lateral (Homunculus). wait - actually in Cortex Legs are Medial. In VPL, Legs are Lateral.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mixed",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pathway Logic: Legs are Lateral in Spinothalamic tract and VPL.",
+    "pdfPage": 14
+  },
+  {
+    "id": 26,
+    "category": "Thalamus: Corona Radiata",
+    "questionText": "Fibers fanning out from the Internal Capsule to reach the cortex are called the:",
+    "options": [
+      {
+        "text": "Corpus Callosum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corona Radiata",
+        "explanation": "Correct. 'Radiating Crown'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrum Semiovale",
+        "explanation": "Incorrect. White matter center."
+      },
+      {
+        "text": "Cingulum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Arcuate Fasciculus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Proximity of fibers in Internal Capsule means small strokes cause big deficits. In Corona Radiata, fibers are spread out, so strokes cause focal deficits.",
+    "pdfPage": 33
+  },
+  {
+    "id": 27,
+    "category": "Thalamus: Epithalamus",
+    "questionText": "The Epithalamus is located posterior to the thalamus and includes the:",
+    "options": [
+      {
+        "text": "Pituitary Gland",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pineal Gland and Habenula",
+        "explanation": "Correct. Pineal secretes melatonin. Habenula involved in negative reward/aversion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mammillary Bodies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Amygdala",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Red Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pineal calcification ('Brain Sand') is a useful midline marker on CT scans.",
+    "pdfPage": 4
+  },
+  {
+    "id": 28,
+    "category": "Thalamus: Precentral Gyrus",
+    "questionText": "The Ventral Lateral (VL) nucleus primarily projects to the:",
+    "options": [
+      {
+        "text": "Primary Sensory Cortex (Postcentral)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary Motor Cortex (Precentral Gyrus)",
+        "explanation": "Correct. Executing the movement plan derived from cerebellum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Visual Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prefrontal Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: VL = Motor execution.",
+    "pdfPage": 13
+  },
+  {
+    "id": 29,
+    "category": "Thalamus: Anterior Choroidal Artery",
+    "questionText": "The Posterior Limb of the Internal Capsule receives blood supply primarily from the:",
+    "options": [
+      {
+        "text": "ACA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lenticulostriate (MCA) and Anterior Choroidal Arteries",
+        "explanation": "Correct. The Anterior Choroidal (branch of ICA) is critical for the posterior limb. Occlusion typically causes the '3 H's': Hemiplegia, Hemianesthesia, Homonymous Hemianopsia.",
+        "isCorrect": true
+      },
+      {
+        "text": "PCA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basilar",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "PICA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Choroidal Stroke mimics a huge MCA stroke but is a tiny vessel. Dense motor/sensory/visual loss.",
+    "pdfPage": 18
+  },
+  {
+    "id": 30,
+    "category": "Thalamus: Thiamine",
+    "questionText": "A patient with Wernicke's Encephalopathy has lesions in the Medial Dorsal nucleus of the Thalamus. What is the metabolic function of Thiamine (Vitamin B1) that is deficient?",
+    "options": [
+      {
+        "text": "Cofactor for Pyruvate Dehydrogenase and Alpha-Ketoglutarate Dehydrogenase",
+        "explanation": "Correct. Impaired glucose metabolism causes neuronal death in high-demand areas (Mammillary bodies, Thalamus).",
+        "isCorrect": true
+      },
+      {
+        "text": "Cofactor for DNA synthesis",
+        "explanation": "Incorrect (Folate/B12)."
+      },
+      {
+        "text": "Antioxidant",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium absorption",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Clotting factor synthesis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Give Thiamine BEFORE Glucose. Glucose load in a thiamine-depleted patient precipitates Wernicke's.",
+    "pdfPage": 12
+  },
+  {
+    "id": 31,
+    "category": "Thalamus: 3rd Ventricle",
+    "questionText": "The Thalamus forms the lateral wall of which ventricle?",
+    "options": [
+      {
+        "text": "Lateral Ventricle",
+        "explanation": "Incorrect (Caudate forms lateral wall)."
+      },
+      {
+        "text": "3rd Ventricle",
+        "explanation": "Correct. The two thalami sandwich the 3rd ventricle between them.",
+        "isCorrect": true
+      },
+      {
+        "text": "4th Ventricle",
+        "explanation": "Incorrect (Pons/Medulla/Cerebellum)."
+      },
+      {
+        "text": "Cerebral Aqueduct",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Central Canal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tumors of the thalamus can compress the 3rd ventricle -> Hydrocephalus.",
+    "pdfPage": 4
+  },
+  {
+    "id": 32,
+    "category": "Thalamus: Sensory Ataxia",
+    "questionText": "Lesion of the Proprioceptive fibers in the VPL or Internal Capsule leads to Sensory Ataxia. This is demonstrated by:",
+    "options": [
+      {
+        "text": "Positive Babinski Sign",
+        "explanation": "Incorrect (Upper Motor Neuron)."
+      },
+      {
+        "text": "Positive Romberg Sign",
+        "explanation": "Correct. Patient stands well with eyes open (Visual compensation) but falls with eyes closed (Loss of Proprioception).",
+        "isCorrect": true
+      },
+      {
+        "text": "Cogwheel rigidity",
+        "explanation": "Incorrect (Parkinson's)."
+      },
+      {
+        "text": "Resting Tremor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Romberg tests Proprioception (Dorsal Columns/VPL), NOT Cerebellum.",
+    "pdfPage": 14
+  },
+  {
+    "id": 33,
+    "category": "Thalamus: Midline Nuclei",
+    "questionText": "The Paraventricualr nuclei of the thalamus (not hypothalamus) are part of the midline group and are involved in:",
+    "options": [
+      {
+        "text": "Limbic/Emotional arousal",
+        "explanation": "Correct. Connected to Amygdala/Accumbens.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fine motor control",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Color vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pitch discrimination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temperature sensation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Distinct from Paraventricular Nucleus of Hypothalamus (Oxytocin/ADH).",
+    "pdfPage": 7
   },
   {
     "id": 34,
-    "category": "Thalamus: Absence Seizures",
-    "questionText": "Absence seizures (childhood absence epilepsy) involve:",
+    "category": "Thalamus: Dominant Hemisphere",
+    "questionText": "A lesion in the Left (Dominant) Thalamus (notably Pulvinar/LP) may rarely cause:",
     "options": [
       {
-        "text": "Abnormal thalamocortical oscillations (3-Hz spike-and-wave on EEG) - Sudden brief loss of awareness",
-        "explanation": "Correct. Generalized seizure. Thalamic reticular nucleus + cortex oscillate. Ethosuximide (blocks T-type Ca2+ channels) effective. Brief ('absence'), no postictal.",
+        "text": "Aphasia",
+        "explanation": "Correct. Thalamic Aphasia (fluent but paraphasic, good repetition) can occur, proving thalamic role in language networks.",
         "isCorrect": true
       },
       {
-        "text": "Focal cortical origin only",
-        "explanation": "Incorrect (Generalized, thalamocortical)."
+        "text": "Neglect",
+        "explanation": "Incorrect (Right parietal/thalamic)."
       },
       {
-        "text": "No EEG changes",
-        "explanation": "Incorrect (3-Hz spike-wave)."
+        "text": "Prosopagnosia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Prolonged postictal confusion",
-        "explanation": "Incorrect (Immediate recovery)."
+        "text": "Amusia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "No thalamic involvement",
+        "text": "Dysphagia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Absence seizures = Thalamocortical oscillations. 3-Hz spike-wave EEG. Brief staring spells, immediate recovery. Ethosuximide, valproic acid effective.",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: Thalamic Aphasia: They talk weird, but they repeat perfectly (unlike Wernicke/Broca/Conduction).",
+    "pdfPage": 12
   },
   {
     "id": 35,
-    "category": "Thalamus: Summary of Function",
-    "questionText": "The thalamus can be best described as:",
+    "category": "Thalamus: VPM Inputs (Specific)",
+    "questionText": "The Ventral Posterior Inferior (VPI) aspect of the thalamus receives:",
     "options": [
       {
-        "text": "A multifunctional relay and integration center linking subcortical structures to cortex, with roles in sensation, motor control, arousal, and cognition",
-        "explanation": "Correct. Not just relay - active processor. Sensory (VPL, VPM, LGN, MGN), motor (VA, VL), limbic (anterior, MD), arousal (intralaminar). Essential for cortical function.",
+        "text": "Vestibular Input",
+        "explanation": "Correct. Relay for conscious awareness of head position/balance to the cortex.",
         "isCorrect": true
       },
       {
-        "text": "Pure sensory relay only",
-        "explanation": "Incorrect (Multifunctional)."
+        "text": "Auditory Input",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Motor cortex",
-        "explanation": "Incorrect (Subcortical)."
+        "text": "Visual Input",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Passive switchboard",
-        "explanation": "Incorrect (Active modulation)."
+        "text": "Olfactory Input",
+        "explanation": "Incorrect."
       },
       {
-        "text": "No cognitive role",
+        "text": "Gustatory Input",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Thalamus = 'Gateway to cortex'. Sensory relay + motor coordination + arousal + cognition. Damage → Diverse deficits (sensory, motor, consciousness, memory, pain).",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Vestibular Cortex is near the Face area of Postcentral gyrus (Area 2v).",
+    "pdfPage": 14
   }
 ];

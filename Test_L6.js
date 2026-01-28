@@ -1,442 +1,129 @@
-window.Test_L6 = [
+// Test_L6.js
+const Test_L6 = [
   {
     "id": 1,
-    "category": "Spinal Cord: External Anatomy",
-    "questionText": "How many pairs of spinal nerves are there?",
+    "category": "Spinal Cord Anatomy",
+    "questionText": "A 22-year-old college football player suffers a lower back injury. MRI reveals a fracture of the L4 vertebra. The attending neurosurgeon explains that the spinal cord itself is likely spared because it typically terminates at which vertebral level in adults?",
     "options": [
-      {
-        "text": "30 pairs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "31 pairs (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal)",
-        "explanation": "Correct. 31 spinal nerve pairs, but only 30 vertebrae (C8 exits between C7-T1).",
-        "isCorrect": true
-      },
-      {
-        "text": "32 pairs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "33 pairs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "24 pairs",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 31 spinal nerve pairs. C8 nerve exists (exits C7-T1 foramen), but no C8 vertebra.",
-    "pdfPage": 2
-  },
-  {
-    "id": 2,
-    "category": "Spinal Cord: Conus Medullaris",
-    "questionText": "The spinal cord terminates (conus medullaris) at approximately which vertebral level in adults?",
-    "options": [
-      {
-        "text": "T12",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L1",
-        "explanation": "Incorrect (Border, but typically L1-L2)."
-      },
-      {
-        "text": "L2",
-        "explanation": "Correct. Conus medullaris ends at L1-L2. Important for lumbar puncture site selection.",
-        "isCorrect": true
-      },
-      {
-        "text": "L5",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "S1",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Conus medullaris = L1-L2 (adult). Allows safe LP at L3-4 or L4-5.",
-    "pdfPage": 3
-  },
-  {
-    "id": 3,
-    "category": "Spinal Cord: Cauda Equina",
-    "questionText": "The cauda equina ('horse's tail') consists of:",
-    "options": [
-      {
-        "text": "Spinal cord extending to sacrum",
-        "explanation": "Incorrect (Cord ends at L2)."
-      },
-      {
-        "text": "Nerve roots of lumbar and sacral spinal nerves descending below conus medullaris",
-        "explanation": "Correct. Cauda equina = Nerve roots (L2-Co1) traveling to exit foramina below cord termination.",
-        "isCorrect": true
-      },
-      {
-        "text": "Extension of brain tissue",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blood vessels only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ligamentous structure",
-        "explanation": "Incorrect (That's filum terminale)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cauda equina = Lumbar/sacral nerve roots below L2. Cauda equina syndrome = Surgical emergency.",
-    "pdfPage": 3
-  },
-  {
-    "id": 4,
-    "category": "Spinal Cord: Filum Terminale",
-    "questionText": "The filum terminale is:",
-    "options": [
-      {
-        "text": "A nerve root",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A fibrous extension of pia mater that anchors the spinal cord to the coccyx",
-        "explanation": "Correct. Filum terminale = Pia mater strand extending from conus → Coccyx. Stabilizes cord.",
-        "isCorrect": true
-      },
-      {
-        "text": "A blood vessel",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Part of the cauda equina",
-        "explanation": "Incorrect (Runs through it, but not a nerve)."
-      },
-      {
-        "text": "Extension of spinal cord tissue",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Filum terminale = Pia mater anchor. Tethered cord syndrome if abnormally short (myelopathy).",
-    "pdfPage": 3
-  },
-  {
-    "id": 5,
-    "category": "Clinical Correlation: Lumbar Puncture",
-    "questionText": "The safest site for lumbar puncture (LP) in an adult is:",
-    "options": [
-      {
-        "text": "T12-L1",
-        "explanation": "Incorrect (Cord still present)."
-      },
       {
         "text": "L1-L2",
-        "explanation": "Incorrect (Risk of hitting conus)."
+        "explanation": "Correct. The spinal cord ends as the Conus Medullaris at the L1-L2 level."
       },
       {
-        "text": "L3-L4 or L4-L5 (below conus medullaris)",
-        "explanation": "Correct. LP at L3-4 or L4-5 avoids spinal cord, samples lumbar cistern (CSF + cauda equina only).",
-        "isCorrect": true
+        "text": "L3-L4",
+        "explanation": "Incorrect. This is the level of the cauda equina."
       },
       {
         "text": "S1-S2",
-        "explanation": "Incorrect (Too low, difficult access)."
+        "explanation": "Incorrect. End of dural sac."
       },
       {
-        "text": "Cervical spine",
-        "explanation": "Incorrect (High risk, cord present)."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: LP at L3-4 or L4-5. Patient in lateral decubitus or sitting, leaning forward. Iliac crest = L4 landmark.",
-    "pdfPage": 4
-  },
-  {
-    "id": 6,
-    "category": "Spinal Cord: Enlargements",
-    "questionText": "The cervical and lumbosacral enlargements of the spinal cord correspond to:",
-    "options": [
+        "text": "T12-L1",
+        "explanation": "Incorrect. Possible range but L1-L2 is the standard answer."
+      },
       {
-        "text": "Areas of CSF accumulation",
+        "text": "C7-T1",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Innervation of upper limbs (C5-T1) and lower limbs (L2-S3)",
-        "explanation": "Correct. Enlargements = More neurons for complex limb innervation (brachial and lumbosacral plexuses).",
-        "isCorrect": true
-      },
-      {
-        "text": "Pathologic findings",
-        "explanation": "Incorrect (Normal anatomy)."
-      },
-      {
-        "text": "Tumors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No functional significance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cervical (C5-T1) = Arms. Lumbosacral (L2-S3) = Legs. Enlargements = Complex limb motor/sensory.",
-    "pdfPage": 2
-  },
-  {
-    "id": 7,
-    "category": "Spinal Cord: Meninges",
-    "questionText": "How does the spinal dura mater differ from the cranial dura mater?",
-    "options": [
-      {
-        "text": "Spinal dura has two layers; cranial has one",
-        "explanation": "Incorrect (Reversed)."
-      },
-      {
-        "text": "Spinal dura has only one layer (meningeal); no periosteal layer",
-        "explanation": "Correct. Spinal dura = Single layer. Creates real epidural space (anesthesia site).",
-        "isCorrect": true
-      },
-      {
-        "text": "No difference",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinal dura is absent",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cranial dura has one layer",
-        "explanation": "Incorrect (Two layers)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinal dura = 1 layer → Real epidural space (between dura and vertebra). Epidural anesthesia targets this.",
-    "pdfPage": 5
-  },
-  {
-    "id": 8,
-    "category": "Spinal Cord: Denticulate Ligaments",
-    "questionText": "Denticulate ligaments are:",
-    "options": [
-      {
-        "text": "Extensions of pia mater that attach to dura mater, stabilizing the spinal cord",
-        "explanation": "Correct. 'Tooth-like' pia extensions suspend cord in CSF, prevent movement trauma.",
-        "isCorrect": true
-      },
-      {
-        "text": "Part of the arachnoid mater",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nerve roots",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blood vessels",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Not present in spinal cord",
-        "explanation": "Incorrect (Unique to spinal cord)."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Denticulate ligaments = Pia → Dura. Stabilize spinal cord. Unique to spinal (not cranial) meninges.",
-    "pdfPage": 5
-  },
-  {
-    "id": 9,
-    "category": "Spinal Cord: Gray vs White Matter",
-    "questionText": "In spinal cord cross-section, gray matter contains ____, while white matter contains ____:",
-    "options": [
-      {
-        "text": "Axons; cell bodies",
-        "explanation": "Incorrect (Reversed)."
-      },
-      {
-        "text": "Cell bodies and synapses (nuclei); myelinated axons (tracts)",
-        "explanation": "Correct. Gray = Neuron cell bodies (butterfly shape). White = Myelinated ascending/descending tracts.",
-        "isCorrect": true
-      },
-      {
-        "text": "No neurons; all neurons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blood vessels only; CSF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Same contents",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Gray = Cell bodies (H/butterfly shape, central). White = Axon tracts (peripheral). Opposite of brain cortex organization.",
-    "pdfPage": 6
-  },
-  {
-    "id": 10,
-    "category": "Spinal Cord: Dorsal vs Ventral Horns",
-    "questionText": "The dorsal horn of spinal cord gray matter is primarily associated with ____, while the ventral horn is associated with ____:",
-    "options": [
-      {
-        "text": "Motor; sensory",
-        "explanation": "Incorrect (Reversed)."
-      },
-      {
-        "text": "Sensory processing; motor neuron cell bodies",
-        "explanation": "Correct. Dorsal = Sensory. Ventral = Motor (alpha and gamma motor neurons).",
-        "isCorrect": true
-      },
-      {
-        "text": "No function; all functions",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CSF; blood",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Autonomic only; somatic only",
-        "explanation": "Incorrect (Oversimplified - lateral horn = autonomic)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dorsal = Sensory (receives dorsal root input). Ventral = Motor (LMN cell bodies, ventral roots).",
-    "pdfPage": 6
-  },
-  {
-    "id": 11,
-    "category": "Spinal Cord: Dorsal Root Ganglion",
-    "questionText": "The dorsal root ganglion (DRG) contains:",
-    "options": [
-      {
-        "text": "Motor neuron cell bodies",
-        "explanation": "Incorrect (Ventral horn)."
-      },
-      {
-        "text": "Sensory (pseudounipolar) neuron cell bodies",
-        "explanation": "Correct. DRG = 1st-order sensory neurons. Peripheral process → Receptor. Central process → Dorsal horn.",
-        "isCorrect": true
-      },
-      {
-        "text": "Autonomic cell bodies",
-        "explanation": "Incorrect (Sympathetic chain ganglia, parasympathetic ganglia)."
-      },
-      {
-        "text": "CSF",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No neurons",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: DRG = Sensory neuron cell bodies (pseudounipolar). Shingles (VZV) reactivates in DRG → Dermatomal rash.",
-    "pdfPage": 7
-  },
-  {
-    "id": 12,
-    "category": "Clinical Correlation: Shingles",
-    "questionText": "Varicella-zoster virus (VZV) reactivation causes shingles, which presents with a dermatomal rash because the virus is dormant in:",
-    "options": [
-      {
-        "text": "Ventral horn",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsal root ganglia (DRG)",
-        "explanation": "Correct. VZV dormant in DRG → Reactivation → Painful vesicular rash in specific dermatome.",
-        "isCorrect": true
-      },
-      {
-        "text": "White matter tracts",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brain",
-        "explanation": "Incorrect (Primarily DRG)."
-      },
-      {
-        "text": "Skin only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Shingles = VZV reactivation in DRG. Dermatomal distribution. Treat with antivirals (acyclovir).",
+    "clinicalPearl": "The spinal cord ends at L1-L2. Injuries below this affect the Cauda Equina (nerve roots), not the Cord itself.",
     "pdfPage": 8
   },
   {
-    "id": 13,
-    "category": "Spinal Cord: Dermatomes",
-    "questionText": "Dermatomes represent:",
+    "id": 2,
+    "category": "Meninges & Anesthesia",
+    "questionText": "A 30-year-old pregnant female is admitted for delivery and requests an epidural anesthetic. The anesthesiologist inserts the needle between the L3 and L4 spinous processes. The target space for the anesthetic is located:",
     "options": [
       {
-        "text": "Areas of skin innervated by a single spinal nerve (sensory)",
-        "explanation": "Correct. Each dermatome = Territory supplied by one spinal nerve's sensory fibers.",
-        "isCorrect": true
+        "text": "Between the Pia and Arachnoid",
+        "explanation": "Incorrect. Subarachnoid space (Spinal tap/Spinal block)."
       },
       {
-        "text": "Motor territories",
-        "explanation": "Incorrect (That's myotome)."
+        "text": "Between the Dura and the Vertebral Periosteum",
+        "explanation": "Correct. The spinal epidural space is a REAL space containing fat and the internal vertebral venous plexus."
       },
       {
-        "text": "Blood supply regions",
+        "text": "Inside the Central Canal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Muscle groups",
-        "explanation": "Incorrect."
+        "text": "Between the Arachnoid and Dura",
+        "explanation": "Incorrect. Subdural (potential space)."
       },
       {
-        "text": "No clinical significance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Dermatomes = Sensory map. C6 = Thumb. C7 = Middle finger. C8 = Pinky. L4 = Medial foot. L5 = Dorsum. S1 = Lateral foot.",
-    "pdfPage": 9
-  },
-  {
-    "id": 14,
-    "category": "Clinical Correlation: Disc Herniation",
-    "questionText": "An intervertebral disc consists of a central ____ surrounded by an outer ____:",
-    "options": [
-      {
-        "text": "Bone; cartilage",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nucleus pulposus (soft, gelatinous); annulus fibrosus (fibrocartilaginous ring)",
-        "explanation": "Correct. Herniation = Annulus rupture → Nucleus pulposus extrudes → Nerve root compression.",
-        "isCorrect": true
-      },
-      {
-        "text": "CSF; bone",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Muscle; ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No structure",
+        "text": "Superficial to the Ligamentum Flavum",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Disc = Nucleus pulposus (soft) + Annulus fibrosus (tough ring). Herniation → Radicular pain (sciatica if lumbar).",
-    "pdfPage": 7
+    "clinicalPearl": "Spinal Epidural Space = Real space (unlike Cranial). Contains fat and Batson's venous plexus.",
+    "pdfPage": 11
   },
   {
-    "id": 15,
-    "category": "Clinical Correlation: Radiculopathy",
-    "questionText": "A patient presents with shooting pain down the posterior leg to the lateral foot. This suggests compression of which nerve root?",
+    "id": 3,
+    "category": "Spinal Nerves",
+    "questionText": "Which structure anchors the spinal cord vertically to the coccyx and is composed of pia mater?",
+    "options": [
+      {
+        "text": "Cauda equina",
+        "explanation": "Incorrect. These are the nerve roots."
+      },
+      {
+        "text": "Denticulate ligament",
+        "explanation": "Incorrect. These anchor the cord laterally to the dura."
+      },
+      {
+        "text": "Filum terminale",
+        "explanation": "Correct. The filum terminale externum is the pial extension that anchors the conus medullaris to the coccyx."
+      },
+      {
+        "text": "Conus medullaris",
+        "explanation": "Incorrect. This is the tapered end of the cord."
+      },
+      {
+        "text": "Ligamentum flavum",
+        "explanation": "Incorrect. This connects vertebral laminae."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "The Filum Terminale (pia mater) provides vertical stability to the spinal cord, while Denticulate Ligaments provide lateral stability.",
+    "pdfPage": 8
+  },
+  {
+    "id": 4,
+    "category": "Cervical Anatomy",
+    "questionText": "A 45-year-old man presents with radiating pain down his arm. MRI shows a herniated disc between the C7 and T1 vertebrae. Which spinal nerve is most likely compressed?",
+    "options": [
+      {
+        "text": "C7",
+        "explanation": "Incorrect. Exits above C7 vertebra."
+      },
+      {
+        "text": "C8",
+        "explanation": "Correct. In the cervical spine, nerves exit ABOVE the corresponding vertebra, except C8 which exits BELOW C7 (between C7 and T1)."
+      },
+      {
+        "text": "T1",
+        "explanation": "Incorrect. Exits below T1 vertebra."
+      },
+      {
+        "text": "C6",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "T2",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The 'C8' nerve is the odd one out. It exits between C7 and T1. All cervical nerves C1-C7 exit ABOVE their pedicles.",
+    "pdfPage": 6
+  },
+  {
+    "id": 5,
+    "category": "Lumbar Herniation",
+    "questionText": "A 55-year-old male construction worker complains of severe shooting pain down his right leg to the big toe. Physical exam reveals weakness in dorsiflexion (foot drop). MRI shows a posterolateral disc herniation at L4-L5. Which nerve root is most likely impinged?",
     "options": [
       {
         "text": "L3",
@@ -444,644 +131,923 @@ window.Test_L6 = [
       },
       {
         "text": "L4",
-        "explanation": "Incorrect (Anterior thigh, medial leg)."
+        "explanation": "Incorrect. L4 exits at the L4-L5 foramen (upper level) and is usually spared by a posterolateral herniation."
       },
       {
         "text": "L5",
-        "explanation": "Incorrect (Lateral leg, dorsum of foot)."
+        "explanation": "Correct. Posterolateral herniations in the lumbar spine compress the TRAVERSING root, which is the one exiting at the level BELOW (L5 root at L4-L5 disc)."
       },
       {
         "text": "S1",
-        "explanation": "Correct. S1 dermatome = Posterior thigh/leg, lateral foot. S1 radiculopathy = 'Sciatica', decreased ankle reflex.",
-        "isCorrect": true
+        "explanation": "Incorrect. S1 is compressed by L5-S1 disc."
       },
       {
-        "text": "C8",
-        "explanation": "Incorrect (Hand/fingers)."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: S1 radiculopathy = Posterolateral leg/foot pain. ↓Achilles reflex. L5 = Dorsum foot, great toe extension weakness.",
-    "pdfPage": 10
-  },
-  {
-    "id": 16,
-    "category": "Spinal Cord: Lateral Horn",
-    "questionText": "The lateral horn (intermediolateral cell column) of spinal gray matter at T1-L2 contains:",
-    "options": [
-      {
-        "text": "Sensory neurons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Somatic motor neurons",
-        "explanation": "Incorrect (Ventral horn)."
-      },
-      {
-        "text": "Preganglionic sympathetic neurons",
-        "explanation": "Correct. Lateral horn T1-L2 = Sympathetic preganglionic. S2-S4 lateral horn = Parasympathetic (sacral).",
-        "isCorrect": true
-      },
-      {
-        "text": "No neurons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only interneurons",
+        "text": "S2",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Lateral horn T1-L2 = Sympathetic. S2-S4 = Parasympathetic. 'Thoracolumbar' vs 'Craniosacral' autonomic.",
-    "pdfPage": 11
-  },
-  {
-    "id": 17,
-    "category": "Spinal Cord: White Matter Organization",
-    "questionText": "Spinal cord white matter is organized into three main columns (funiculi) on each side:",
-    "options": [
-      {
-        "text": "Anterior, middle, posterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsal (posterior), lateral, ventral (anterior)",
-        "explanation": "Correct. Dorsal = Sensory (ascending). Lateral = Mixed. Ventral = Motor (descending).",
-        "isCorrect": true
-      },
-      {
-        "text": "Left, right, central",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior, inferior, medial",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No organization",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Funiculi = Dorsal (fasciculus gracilis/cuneatus), Lateral (corticospinal, spinothalamic), Ventral (motor tracts).",
-    "pdfPage": 12
-  },
-  {
-    "id": 18,
-    "category": "Spinal Cord Tracts: Dorsal Columns",
-    "questionText": "The dorsal columns (fasciculus gracilis and cuneatus) carry:",
-    "options": [
-      {
-        "text": "Pain and temperature",
-        "explanation": "Incorrect (Spinothalamic)."
-      },
-      {
-        "text": "Proprioception, vibration, fine touch (ipsilateral, to medulla)",
-        "explanation": "Correct. Dorsal columns → Gracilis (legs, medial), Cuneatus (arms, lateral) → Decussate in medulla.",
-        "isCorrect": true
-      },
-      {
-        "text": "Motor information",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Crude touch only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dorsal columns = Proprioception, vibration, fine touch. Ipsilateral ascent → Decussate in medulla. B12 deficiency (subacute combined degeneration) damages dorsal columns.",
-    "pdfPage": 13
-  },
-  {
-    "id": 19,
-    "category": "Spinal Cord Tracts: Spinothalamic",
-    "questionText": "The spinothalamic tract carries:",
-    "options": [
-      {
-        "text": "Proprioception",
-        "explanation": "Incorrect (Dorsal columns)."
-      },
-      {
-        "text": "Pain and temperature (contralateral, decussates at spinal level)",
-        "explanation": "Correct. Spinothalamic = Crosses immediately (1-2 levels up) → Ascends contralaterally → Thalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Motor commands",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fine touch",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No sensory info",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinothalamic = Pain/temperature. Crosses at spinal level → Contralateral deficit below lesion.",
-    "pdfPage": 14
-  },
-  {
-    "id": 20,
-    "category": "Spinal Cord Tracts: Corticospinal",
-    "questionText": "The lateral corticospinal tract carries:",
-    "options": [
-      {
-        "text": "Sensory information",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Voluntary motor commands from motor cortex to spinal LMNs (decussates in medulla)",
-        "explanation": "Correct. Corticospinal = UMN tract. Decussates at pyramidal decussation (medulla) → Descends contralaterally.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pain signals",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Proprioception",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No motor info",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Corticospinal = Voluntary motor (UMN). Decussates in medulla → Lateral cord → Ventral horn. Lesion → Contralateral UMN signs.",
+    "clinicalPearl": "Lumbar Herniation Rule: L(x)-L(y) disc hits L(y) root. e.g., L4-L5 hits L5.",
     "pdfPage": 15
   },
   {
-    "id": 21,
-    "category": "Clinical Correlation: Brown-Séquard Syndrome",
-    "questionText": "A hemisection of the spinal cord (Brown-Séquard syndrome) produces:",
+    "id": 6,
+    "category": "Ascending Tracts",
+    "questionText": "Which spinal tract is primarily responsible for transmitting fine touch, vibration, and proprioception?",
     "options": [
       {
-        "text": "Bilateral complete paralysis",
+        "text": "Lateral Corticospinal Tract",
+        "explanation": "Incorrect. Motor."
+      },
+      {
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect. Pain and Temperature."
+      },
+      {
+        "text": "Dorsal Column-Medial Lemniscus (DCML)",
+        "explanation": "Correct. The dorsal columns (Gracilis and Cuneatus) carry fine touch and proprioception."
+      },
+      {
+        "text": "Spinocerebellar Tract",
+        "explanation": "Incorrect. Unconscious proprioception."
+      },
+      {
+        "text": "Rubrospinal Tract",
+        "explanation": "Incorrect. Motor."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "DCML = Vibration, Proprioception, Fine Touch. Pathway: Dorsal Column -> Medulla (Decussates) -> Medial Lemniscus -> VPL Thalamus.",
+    "pdfPage": 30
+  },
+  {
+    "id": 7,
+    "category": "Spinal Cord Syndromes",
+    "questionText": "A 68-year-old male with a history of vascular disease presents with sudden onset of paraplegia and loss of pain and temperature sensation in both legs. Vibration and position sense are preserved. The most likely diagnosis is:",
+    "options": [
+      {
+        "text": "Tabes Dorsalis",
+        "explanation": "Incorrect. Syphilis, affects Dorsal Columns."
+      },
+      {
+        "text": "Vitamin B12 Deficiency",
+        "explanation": "Incorrect. Affects Dorsal Columns + CST."
+      },
+      {
+        "text": "Anterior Spinal Artery Syndrome",
+        "explanation": "Correct. Occlusion of the ASA infarcts the anterior 2/3 of the cord (CST = paralysis, STT = pain/temp loss), but spares the posterior 1/3 (Dorsal Columns = vibration/proprioception)."
+      },
+      {
+        "text": "Syringomyelia",
+        "explanation": "Incorrect. Cape-like distribution, arms."
+      },
+      {
+        "text": "Brown-Sequard Syndrome",
+        "explanation": "Incorrect. Hemisection (unilateral findings)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "ASA Stroke = 'Everything but the Dorsal Columns'. Motor and Pain/Temp are gone; Vib/Prop is intact.",
+    "pdfPage": 41
+  },
+  {
+    "id": 8,
+    "category": "Ascending Tracts (STT)",
+    "questionText": "The Spinothalamic Tract decussates at which level?",
+    "options": [
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect. DCML decussates here."
+      },
+      {
+        "text": "Midbrain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ipsilateral motor/proprioception/vibration loss + Contralateral pain/temperature loss (below lesion)",
-        "explanation": "Correct. Ipsilateral corticospinal + dorsal columns damaged. Contralateral spinothalamic (already crossed).",
-        "isCorrect": true
+        "text": "Spinal Cord (Anterior White Commissure)",
+        "explanation": "Correct. Primary fibers enter, synapse broadly, and secondary fibers cross IMMEDIATELY (within 1-2 segments) via the Anterior White Commissure."
       },
       {
-        "text": "No deficits",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Contralateral motor loss only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory loss only",
+        "text": "Cerebral Cortex",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Brown-Séquard = Hemisection. 'Ipsilateral motor + proprioception, contralateral pain/temp.' Rare (penetrating trauma).",
-    "pdfPage": 16
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "STT decussates immediately in the spinal cord. Thus, a cord lesion causes CONTRALATERAL loss of pain/temp below the lesion.",
+    "pdfPage": 33
   },
   {
-    "id": 22,
-    "category": "Clinical Correlation: Central Cord Syndrome",
-    "questionText": "Central cord syndrome (e.g., from hyperextension injury in elderly with cervical stenosis) preferentially affects:",
+    "id": 9,
+    "category": "Descending Tracts",
+    "questionText": "Upper Motor Neurons (UMN) of the lateral corticospinal tract primarily decussate at the:",
     "options": [
       {
-        "text": "Legs more than arms",
+        "text": "Midbrain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Upper extremities more than lower extremities (medial corticospinal tracts)",
-        "explanation": "Correct. Central injury → Arm tracts (medial in lateral corticospinal) affected first. 'Cape-like' sensory loss.",
-        "isCorrect": true
-      },
-      {
-        "text": "No motor deficits",
+        "text": "Pons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sensory only",
+        "text": "Medullary Pyramids",
+        "explanation": "Correct. ~85-90% of fibers cross at the pyramidal decussation in the caudal medulla to form the Lateral CST."
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect. Anterior CST fibers may cross here, but not Lateral CST."
+      },
+      {
+        "text": "Internal Capsule",
+        "explanation": "Incorrect. They travel through it."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Pyramidal Decussation (Medulla) is where the Motor Tract crosses. Lesion above = Contralateral weakness. Lesion below (spinal cord) = Ipsilateral weakness.",
+    "pdfPage": 35
+  },
+  {
+    "id": 10,
+    "category": "Brown-Sequard Syndrome",
+    "questionText": "A 29-year-old victim of a stabbing incident presents with a hemisection of the spinal cord at T10 on the RIGHT side. Which distinct pattern of sensory loss would you expect?",
+    "options": [
+      {
+        "text": "Bilateral loss of all sensation below T10",
+        "explanation": "Incorrect. Complete transection."
+      },
+      {
+        "text": "Loss of Vibration/Proprioception on the RIGHT leg, and Pain/Temperature on the LEFT leg",
+        "explanation": "Correct. Dorsal columns (Vib/Prop) do not cross in the cord, so loss is IPSILATERAL. Spinothalamic (Pain/Temp) cross immediately, so loss is CONTRALATERAL."
+      },
+      {
+        "text": "Loss of Vibration/Proprioception on the LEFT leg, and Pain/Temperature on the RIGHT leg",
         "explanation": "Incorrect."
       },
       {
-        "text": "Complete paralysis",
+        "text": "Loss of Pain/Temperature on the RIGHT leg only",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Cape-like distribution of pain loss",
+        "explanation": "Incorrect. Syringomyelia."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Central cord = Arms > Legs weakness. Elderly, hyperextension, osteoarthritis. Best prognosis of cord syndromes.",
-    "pdfPage": 17
+    "clinicalPearl": "Brown-Sequard (Hemisection): Ipsilateral Dorsal Column loss + Contralateral Spinothalamic loss. (Plus Ipsilateral Motor loss).",
+    "pdfPage": 34
   },
   {
-    "id": 23,
-    "category": "Clinical Correlation: Anterior Cord Syndrome",
-    "questionText": "Anterior cord syndrome (e.g., from anterior spinal artery occlusion) results in:",
+    "id": 11,
+    "category": "Reflexes",
+    "questionText": "A neurologist tests a patient's Patellar Tendon reflex ('knee jerk'). This reflex arc primarily assesses the integrity of which spinal nerve segments?",
     "options": [
       {
-        "text": "Complete sensory loss",
-        "explanation": "Incorrect."
+        "text": "C5-C6",
+        "explanation": "Incorrect. Biceps."
       },
       {
-        "text": "Bilateral motor + pain/temperature loss, with PRESERVED proprioception/vibration (dorsal columns spared)",
-        "explanation": "Correct. Anterior 2/3 cord infarcted. Spinothalamic + corticospinal lost. Dorsal columns (posterior) intact.",
-        "isCorrect": true
+        "text": "C7-C8",
+        "explanation": "Incorrect. Triceps."
       },
       {
-        "text": "No deficits",
-        "explanation": "Incorrect."
+        "text": "L1-L2",
+        "explanation": "Incorrect. Cremasteric."
       },
       {
-        "text": "Unilateral deficits",
-        "explanation": "Incorrect."
+        "text": "L3-L4",
+        "explanation": "Correct. The patellar reflex is mediated by L3 and L4."
       },
       {
-        "text": "Sensory loss only",
-        "explanation": "Incorrect."
+        "text": "S1-S2",
+        "explanation": "Incorrect. Achilles."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior cord = Bilateral motor + pain/temp loss, proprioception SPARED. Worst prognosis. ASA occlusion (aortic surgery).",
-    "pdfPage": 18
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "L3-L4 kick the door (Patellar). S1-S2 buckle my shoe (Achilles).",
+    "pdfPage": 25
   },
   {
-    "id": 24,
-    "category": "Clinical Correlation: Posterior Cord Syndrome",
-    "questionText": "Posterior cord syndrome (rare) affects the dorsal columns, resulting in:",
+    "id": 12,
+    "category": "Infectious Disease/Dermatomes",
+    "questionText": "A 60-year-old male presents with a painful vesicular rash wrapping around the left side of his chest at the level of the nipple. The virus responsible has reactivated in the Dorsal Root Ganglion of which spinal level?",
     "options": [
       {
-        "text": "Motor paralysis",
-        "explanation": "Incorrect."
+        "text": "C4",
+        "explanation": "Incorrect. Clavicle."
       },
-      {
-        "text": "Loss of proprioception and vibration, with intact motor and pain/temperature",
-        "explanation": "Correct. Dorsal columns damaged. Motor (corticospinal) and pain/temp (spinothalamic) spared.",
-        "isCorrect": true
-      },
-      {
-        "text": "Complete paralysis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain/temperature loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No deficits",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinical Pearl": "Key takeaway: Posterior cord = Loss of proprioception/vibration. Ataxic gait (sensory ataxia), positive Romberg. Rare (tabes dorsalis, B12 deficiency).",
-    "pdfPage": 19
-  },
-  {
-    "id": 25,
-    "category": "Clinical Correlation: Cauda Equina Syndrome",
-    "questionText": "Cauda equina syndrome is characterized by:",
-    "options": [
-      {
-        "text": "UMN signs",
-        "explanation": "Incorrect (LMN - nerve roots affected)."
-      },
-      {
-        "text": "Saddle anesthesia, bowel/bladder dysfunction, bilateral leg weakness/numbness (LMN signs)",
-        "explanation": "Correct. Cauda equina compression → LMN (flaccid, areflexia). Surgical emergency (decompress within 48h).",
-        "isCorrect": true
-      },
-      {
-        "text": "No symptoms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ipsilateral motor loss",
-        "explanation": "Incorrect (Bilateral)."
-      },
-      {
-        "text": "Preserved reflexes",
-        "explanation": "Incorrect (Areflexia)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cauda equina = Saddle anesthesia + bowel/bladder + bilateral leg pain/weakness. Emergency surgery. Large central disc herniation.",
-    "pdfPage": 20
-  },
-  {
-    "id": 26,
-    "category": "Spinal Cord: Reflexes",
-    "questionText": "The stretch reflex (e.g., patellar reflex) involves:",
-    "options": [
-      {
-        "text": "Only the brain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A monosynaptic arc: sensory neuron (Ia afferent) → alpha motor neuron, at same spinal level",
-        "explanation": "Correct. Muscle spindle stretched → Ia afferent → Dorsal root → Synapse on alpha MN (ventral horn) → Muscle contraction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Multiple spinal levels",
-        "explanation": "Incorrect (Monosynaptic)."
-      },
-      {
-        "text": "No motor output",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain pathways",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Stretch reflex = Monosynaptic. Tests integrity of sensory + motor roots at specific level. Hyperreflexia = UMN lesion.",
-    "pdfPage": 21
-  },
-  {
-    "id": 27,
-    "category": "Clinical Correlation: UMN vs LMN Lesions",
-    "questionText": "Which of the following distinguishes an UMN lesion from an LMN lesion?",
-    "options": [
-      {
-        "text": "UMN: Flaccid paralysis, hyporeflexia, atrophy, fasciculations",
-        "explanation": "Incorrect (LMN signs)."
-      },
-      {
-        "text": "UMN: Spastic paralysis, hyperreflexia, positive Babinski, no atrophy (initially)",
-        "explanation": "Correct. UMN = Brain/spinal cord above LMN. LMN = Ventral horn, root, peripheral nerve.",
-        "isCorrect": true
-      },
-      {
-        "text": "No difference",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "LMN: Hyperreflexia",
-        "explanation": "Incorrect (Hyporeflexia)."
-      },
-      {
-        "text": "UMN: Fasciculations",
-        "explanation": "Incorrect (LMN)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: UMN = Spastic, ↑reflexes, Babinski+, no atrophy. LMN = Flaccid, ↓reflexes, atrophy, fasciculations.",
-    "pdfPage": 22
-  },
-  {
-    "id": 28,
-    "category": "Clinical Correlation: Syringomyelia",
-    "questionText": "Syringomyelia (fluid-filled cavity in spinal cord) classically disrupts the crossing spinothalamic fibers at the anterior commissure, causing:",
-    "options": [
-      {
-        "text": "Motor paralysis",
-        "explanation": "Incorrect (Initially sensory only)."
-      },
-      {
-        "text": "'Cape-like' bilateral loss of pain and temperature at the level of lesion, with preserved fine touch",
-        "explanation": "Correct. Crossing fibers interrupted. Dorsal columns (fine touch) spared. Associated with Chiari malformation.",
-        "isCorrect": true
-      },
-      {
-        "text": "Complete sensory loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No symptoms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only proprioception loss",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Syringomyelia = 'Cape' pain/temp loss (suspended, bilateral at lesion level). Chiari I, trauma. MRI shows cavity ('syrinx').",
-    "pdfPage": 23
-  },
-  {
-    "id": 29,
-    "category": "Spinal Cord: Key Dermatome Landmarks",
-    "questionText": "Which dermatome corresponds to the umbilicus?",
-    "options": [
       {
         "text": "T4",
-        "explanation": "Incorrect (Nipple line)."
+        "explanation": "Correct. T4 dermatome corresponds to the nipple line."
       },
       {
         "text": "T10",
-        "explanation": "Correct. T4 = Nipple. T10 = Umbilicus. L1 = Inguinal. Helpful for sensory level localization.",
-        "isCorrect": true
+        "explanation": "Incorrect. Umbilicus."
       },
       {
         "text": "L1",
-        "explanation": "Incorrect (Inguinal)."
-      },
-      {
-        "text": "C7",
-        "explanation": "Incorrect (Middle finger)."
+        "explanation": "Incorrect. Inguinal."
       },
       {
         "text": "S1",
-        "explanation": "Incorrect (Lateral foot)."
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: T4 = Nipple. T10 = Umbilicus. T6 = Xiphoid. L1 = Inguinal ligament.",
-    "pdfPage": 9
+    "clinicalPearl": "Herpes Zoster (Shingles) = Reactivation in specific DRG -> Dermatomal rash. T4 = Nipple.",
+    "pdfPage": 18
+  },
+  {
+    "id": 13,
+    "category": "Neurotransmitters",
+    "questionText": "Which inhibitory neurotransmitter is primarily released by Renshaw cells in the spinal cord to regulate motor neuron firing?",
+    "options": [
+      {
+        "text": "Glutamate",
+        "explanation": "Incorrect. Excitatory."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. Released BY the motor neuron, but Renshaw cells release Glycine back onto it."
+      },
+      {
+        "text": "Glycine",
+        "explanation": "Correct. Renshaw cells are inhibitory interneurons that release Glycine to prevent tetany/overactivity of alpha motor neurons."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Substance P",
+        "explanation": "Incorrect. Pain transmission."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Strychnine poisoning blocks Glycine receptors on Renshaw cells -> Unchecked motor activity -> Spasms/Convulsions.",
+    "pdfPage": 21
+  },
+  {
+    "id": 14,
+    "category": "Reflex Physiology",
+    "questionText": "When a person steps on a sharp Lego with their right foot, they reflexively withdraw that leg. Simultaneously, the left leg extends to maintain balance. This 'Crossed-Extensor Reflex' is mediated by:",
+    "options": [
+      {
+        "text": "Monosynaptic connections",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Polysynaptic connections crossing the midline",
+        "explanation": "Correct. Interneurons cross the midline to excite extensors and inhibit flexors on the contralateral side."
+      },
+      {
+        "text": "Descending cortical control",
+        "explanation": "Incorrect. It is a spinal reflex."
+      },
+      {
+        "text": "Gamma motor neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Golgi tendon organs",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Crossed-Extensor Reflex: Withdrawal (Flexion) on Ipsilateral side + Support (Extension) on Contralateral side.",
+    "pdfPage": 27
+  },
+  {
+    "id": 15,
+    "category": "Neural Crest Derivatives",
+    "questionText": "The cell bodies of primary sensory neurons (1st order) are located in the:",
+    "options": [
+      {
+        "text": "Dorsal Horn",
+        "explanation": "Incorrect. This is where 2nd order STT neurons are."
+      },
+      {
+        "text": "Ventral Horn",
+        "explanation": "Incorrect. Motor neurons."
+      },
+      {
+        "text": "Dorsal Root Ganglion (DRG)",
+        "explanation": "Correct. The DRG contains the pseudo-unipolar cell bodies of somatic sensory nerves."
+      },
+      {
+        "text": "Sympathetic Chain Ganglion",
+        "explanation": "Incorrect. Autonomic."
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Somatic Sensory Cell Bodies = DRG. Somatic Motor Cell Bodies = Ventral Horn.",
+    "pdfPage": 16
+  },
+  {
+    "id": 16,
+    "category": "Syringomyelia",
+    "questionText": "A 35-year-old male presents with burns on his hands that he 'didn't feel'. Examination reveals bilateral loss of pain and temperature sensation in the upper extremities and shoulders ('cape-like' distribution). What is the most likely anatomical defect?",
+    "options": [
+      {
+        "text": "Expansion of the Central Canal (Syrinx) compressing the Anterior White Commissure",
+        "explanation": "Correct. This destroys the crossing fibers of the Spinothalamic tract at that level."
+      },
+      {
+        "text": "Herniation of the C5-C6 disc",
+        "explanation": "Incorrect. Unilateral radiculopathy."
+      },
+      {
+        "text": "Degeneration of the Dorsal Columns",
+        "explanation": "Incorrect. Vibration/Proprioception loss."
+      },
+      {
+        "text": "Infarction of the Anterior Spinal Artery",
+        "explanation": "Incorrect. Would affect motor and pain/temp below the level, not just a cape distribution."
+      },
+      {
+        "text": "Hemisection of the cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Syringomyelia typically affects the Anterior White Commissure first -> Bilateral loss of Pain/Temp at the level of the lesion (Cape distribution).",
+    "pdfPage": 33
+  },
+  {
+    "id": 17,
+    "category": "Neurochemistry",
+    "questionText": "In the spinal cord pain processing pathway, primary afferent C-fibers release which peptide neurotransmitter?",
+    "options": [
+      {
+        "text": "GABA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glycine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Substance P",
+        "explanation": "Correct. Substance P (and Glutamate) are released by nociceptive afferents to transmit pain signals in the dorsal horn."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect. Descending modulation."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Substance P = Pain. C-fibers (slow, dull pain) use this.",
+    "pdfPage": 21
+  },
+  {
+    "id": 18,
+    "category": "Tract Function",
+    "questionText": "Lissauer's tract serves what function in the pain pathway?",
+    "options": [
+      {
+        "text": "It carries vibration signals to the medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It allows pain fibers to ascend/descend 1-2 levels before entering the dorsal horn",
+        "explanation": "Correct. Small diameter pain fibers enter Lissauer's tract and travel up or down 1-2 segments before synapsing."
+      },
+      {
+        "text": "It contains the motor neurons for the hand",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is the main decussation point",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It carries unconscious proprioception",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lissauer's Tract explains the 'level discrepancy' – sensory level may be 1-2 segments below the actual lesion.",
+    "pdfPage": 33
+  },
+  {
+    "id": 19,
+    "category": "Lumbar Puncture",
+    "questionText": "A sample of CSF is needed from a pediatric patient. To avoid damaging the spinal cord, which extends lower in infants than in adults (approx L3), the safest intervertebral space for a lumbar puncture is:",
+    "options": [
+      {
+        "text": "T12-L1",
+        "explanation": "Incorrect. Dangerous."
+      },
+      {
+        "text": "L1-L2",
+        "explanation": "Incorrect. Dangerous."
+      },
+      {
+        "text": "L2-L3",
+        "explanation": "Incorrect. Risky in infants."
+      },
+      {
+        "text": "L4-L5",
+        "explanation": "Correct. Going as low as possible (L4-L5 or L5-S1) is safest in pediatrics as the cord terminates lower (L3) than in adults (L1-L2)."
+      },
+      {
+        "text": "T10-T11",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Adult cord ends L1-L2. Infant cord ends L3. Always go L4-L5 to be safe.",
+    "pdfPage": 8
+  },
+  {
+    "id": 20,
+    "category": "UMN vs LMN",
+    "questionText": "A 40-year-old male with ALS presents with muscle atrophy and fasciculations in his hands, but hyperreflexia and Babinski signs in his legs. The hand findings (atrophy/fasciculations) are indicative of damage to:",
+    "options": [
+      {
+        "text": "Upper Motor Neurons",
+        "explanation": "Incorrect. UMN signs are spasticity, hyperreflexia."
+      },
+      {
+        "text": "Lower Motor Neurons",
+        "explanation": "Correct. LMN degeneration in the ventral horn causes flaccid paralysis, atrophy, and fasciculations."
+      },
+      {
+        "text": "Dorsal Horn neurons",
+        "explanation": "Incorrect. Sensory."
+      },
+      {
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ALS is unique: Mixed UMN (Hyperreflexia) and LMN (Fasciculations/Atrophy) signs in the same patient.",
+    "pdfPage": 41
+  },
+  {
+    "id": 21,
+    "category": "Spinal Shock vs UMN",
+    "questionText": "Immediately following a traumatic complete spinal cord transection at C7, the patient typically exhibits 'Spinal Shock', characterized by:",
+    "options": [
+      {
+        "text": "Flaccid paralysis and absent reflexes below the lesion",
+        "explanation": "Correct. Acute phase (Spinal Shock) mimics LMN signs (flaccidity/areflexia). Spasticity (UMN signs) develops weeks later."
+      },
+      {
+        "text": "Spastic paralysis and hyperreflexia below the lesion",
+        "explanation": "Incorrect. This is the chronic phase."
+      },
+      {
+        "text": "Intact reflexes but loss of sensation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Babinski sign",
+        "explanation": "Incorrect. Usually absent initially."
+      },
+      {
+        "text": "Violent involuntary movements",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Spinal Shock = Temporary shutdown of all cord function (Reflexes included) below injury. Lasts days to weeks.",
+    "pdfPage": 25
+  },
+  {
+    "id": 22,
+    "category": "Spinal Cord Anatomy",
+    "questionText": "The intermediate gray matter (lateral horn) is found only in which spinal segments?",
+    "options": [
+      {
+        "text": "C1-C8",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "T1-L2",
+        "explanation": "Correct. The Intermediolateral cell column (IML) contains sympathetic preganglionic neurons and is present from T1 to L2."
+      },
+      {
+        "text": "L4-S3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "S2-S4",
+        "explanation": "Incorrect. This has parasympathetic nuclei, but the classic 'lateral horn' for sympathetics is T1-L2."
+      },
+      {
+        "text": "All levels",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lateral Horn (IML) = Sympathetic Nervous System Origin = T1 to L2.",
+    "pdfPage": 19
+  },
+  {
+    "id": 23,
+    "category": "Ascending Tracts",
+    "questionText": "Which statement best describes the Fasciculus Gracilis?",
+    "options": [
+      {
+        "text": "It is located laterally in the dorsal column",
+        "explanation": "Incorrect. Medial."
+      },
+      {
+        "text": "It carries information from the upper limbs",
+        "explanation": "Incorrect. Lower limbs."
+      },
+      {
+        "text": "It carries information from the lower limbs (below T6)",
+        "explanation": "Correct. Gracilis = Legs (Ground). It is the medial tract."
+      },
+      {
+        "text": "It decussates in the spinal cord",
+        "explanation": "Incorrect. Medulla."
+      },
+      {
+        "text": "It carries pain and temperature",
+        "explanation": "Incorrect. Touch/Proprioception."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Posterior Columns layout: Legs are Medial (Gracilis), Arms are Lateral (Cuneatus).",
+    "pdfPage": 30
+  },
+  {
+    "id": 24,
+    "category": "Reflexes",
+    "questionText": "The 'inverse myotatic reflex' or 'Golgi tendon reflex' serves to:",
+    "options": [
+      {
+        "text": "Contract the muscle to prevent overstretching",
+        "explanation": "Incorrect. That's the stretch reflex."
+      },
+      {
+        "text": "Relax the muscle to prevent damage from excessive tension",
+        "explanation": "Correct. It inhibits the alpha motor neuron of the contracting muscle to prevent tendon avulsion."
+      },
+      {
+        "text": "Withdraw the limb from pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Maintain posture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Synchronize flexors and extensors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Stretch Reflex (Spindle) contracts muscle to set length. Golgi Tendon Reflex relaxes muscle to prevent tearing from high tension.",
+    "pdfPage": 42
+  },
+  {
+    "id": 25,
+    "category": "Spinal Cord Anatomy",
+    "questionText": "In a cross-section of the cervical spinal cord, how can you distinguish it from the lumbar cord?",
+    "options": [
+      {
+        "text": "Abundance of white matter relative to gray matter",
+        "explanation": "Correct. The cervical cord has the MOST white matter because it contains all ascending fibers going up and all descending fibers coming down. The lumbar cord has less white matter."
+      },
+      {
+        "text": "Absence of dorsal horns",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Presence of a lateral horn",
+        "explanation": "Incorrect. Cervical has no lateral horn (starts T1)."
+      },
+      {
+        "text": "Small size",
+        "explanation": "Incorrect. Cervical enlargement makes it large."
+      },
+      {
+        "text": "Thin dorsal columns",
+        "explanation": "Incorrect. They are thickest here."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "White Matter Volume increases rostrally (highest in Cervical). You need more 'highway lanes' near the destination (brain).",
+    "pdfPage": 19
+  },
+  {
+    "id": 26,
+    "category": "Spinal Cord Tumors",
+    "questionText": "A patient presents with early onset of urinary incontinence and saddle anesthesia. Motor strength in the legs is relatively preserved. This presentation is most consistent with a tumor of the:",
+    "options": [
+      {
+        "text": "Conus Medullaris",
+        "explanation": "Correct. Compression of the Conus (S2-S4 segments) causes early autonomic dysfunction (bladder/bowel) and saddle anesthesia."
+      },
+      {
+        "text": "Cauda Equina",
+        "explanation": "Incorrect. Cauda Equina syndrome typically presents with severe PAIN and asymmetrical motor weakness first; bladder issues are later."
+      },
+      {
+        "text": "Cervical Cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thoracic Cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Conus Medullaris vs Cauda Equina: Conus = Early Bladder/Bowel issues, Less Pain. Cauda = Severe Pain, Asymmetric Motor, Late Bladder issues.",
+    "pdfPage": 15
+  },
+  {
+    "id": 27,
+    "category": "Reflex Grading",
+    "questionText": "Which grading scale is used for Deep Tendon Reflexes (DTR)?",
+    "options": [
+      {
+        "text": "0 to 10",
+        "explanation": "Incorrect. Pain scale."
+      },
+      {
+        "text": "0 to 5",
+        "explanation": "Incorrect. Muscle strength."
+      },
+      {
+        "text": "0 to 4+",
+        "explanation": "Correct. 0=Absent, 1+=Trace, 2+=Normal, 3+=Brisk, 4+=Clonus."
+      },
+      {
+        "text": "A to E",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glasgow Coma Scale",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Reflexes: 2+ is normal. 0 is LMN. 4+ (Clonus) is UMN.",
+    "pdfPage": 26
+  },
+  {
+    "id": 28,
+    "category": "Tract Anatomy",
+    "questionText": "The Anterior Corticospinal Tract differs from the Lateral Corticospinal Tract in that it:",
+    "options": [
+      {
+        "text": "Does not decussate in the medulla",
+        "explanation": "Correct. It descends ipsilaterally and crosses at the level of the spinal cord (via AWC) to innervate axial musculature."
+      },
+      {
+        "text": "Carries sensory information",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Controls distal extremities",
+        "explanation": "Incorrect. Lateral CST controls distal limbs. Anterior CST controls trunk/axial muscles."
+      },
+      {
+        "text": "Originates in the thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Is larger",
+        "explanation": "Incorrect. It is small (10-15%)."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Anterior CST = 15% of fibers. Stays ipsilateral until the cord. Innervates Trunk/Posture.",
+    "pdfPage": 35
+  },
+  {
+    "id": 29,
+    "category": "Interneuron Function",
+    "questionText": "During the 'Flexor Withdrawal Reflex', the inhibition of the antagonistic extensor muscles on the SAME side is termed:",
+    "options": [
+      {
+        "text": "Reciprocal Inhibition",
+        "explanation": "Correct. To flex the knee, the quadriceps (extensors) must be relaxed via inhibitory interneurons."
+      },
+      {
+        "text": "Autogenic inhibition",
+        "explanation": "Incorrect. GTO."
+      },
+      {
+        "text": "Recurrent inhibition",
+        "explanation": "Incorrect. Renshaw cells."
+      },
+      {
+        "text": "Presynaptic inhibition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Crossed extension",
+        "explanation": "Incorrect. That's the other leg."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Reciprocal Inhibition = 'Turn off the antagonist' so the agonist can work.",
+    "pdfPage": 27
   },
   {
     "id": 30,
-    "category": "Clinical Correlation: Spinal Shock",
-    "questionText": "Spinal shock (acute spinal cord injury) is characterized by:",
+    "category": "Cell Types",
+    "questionText": "Which glial cells are responsible for myelination in the spinal cord (CNS)?",
     "options": [
       {
-        "text": "Immediate spasticity",
-        "explanation": "Incorrect (Spasticity develops later, days-weeks)."
+        "text": "Schwann Cells",
+        "explanation": "Incorrect. PNS."
       },
       {
-        "text": "Temporary loss of all reflexes below the injury (flaccidparalysis, areflexia), then gradual return of hyperreflexia",
-        "explanation": "Correct. Spinal shock = Temporary 'stunning'. Bulbocavernosus reflex returns first. Then UMN signs emerge.",
-        "isCorrect": true
+        "text": "Oligodendrocytes",
+        "explanation": "Correct. Oligodendrocytes myelinate CNS axons (Cord/Brain). One cell myelinates multiple axons."
       },
       {
-        "text": "Permanent flaccid paralysis",
-        "explanation": "Incorrect (UMN signs return after shock resolves)."
+        "text": "Astrocytes",
+        "explanation": "Incorrect. Support/BBB."
       },
       {
-        "text": "No motor deficits",
-        "explanation": "Incorrect."
+        "text": "Microglia",
+        "explanation": "Incorrect. Immune."
       },
       {
-        "text": "Only sensory changes",
-        "explanation": "Incorrect."
+        "text": "Ependymal cells",
+        "explanation": "Incorrect. CSF."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinal shock = Temporary areflexia/hypotension after acute SCI. Resolves → UMN signs (spasticity, hyperreflexia) emerge.",
-    "pdfPage": 24
+    "clinicalPearl": "Multiple Sclerosis attacks Oligodendrocytes (CNS). Guillain-Barre attacks Schwann Cells (PNS).",
+    "pdfPage": 9
   },
   {
     "id": 31,
-    "category": "Clinical Correlation: Autonomic Dysreflexia",
-    "questionText": "Autonomic dysreflexia (life-threatening hypertensive crisis) occurs in spinal cord injury patients with lesions at:",
+    "category": "Clinical Anatomy",
+    "questionText": "A lesion of the C5 spinal nerve would primarily weaken which muscle group?",
     "options": [
       {
-        "text": "Below L2",
-        "explanation": "Incorrect."
+        "text": "Finger abductors",
+        "explanation": "Incorrect. T1."
       },
       {
-        "text": "T6 or above (above splanchnic outflow)",
-        "explanation": "Correct. Noxious stimulus below lesion → Reflex sympathetic surge. No brain modulation → Severe HTN, bradycardia.",
-        "isCorrect": true
+        "text": "Elbow extensors",
+        "explanation": "Incorrect. C7 (Triceps)."
       },
       {
-        "text": "Any level",
-        "explanation": "Incorrect (Requires high injury)."
+        "text": "Shoulder abductors (Deltoid) and Elbow flexors (Biceps)",
+        "explanation": "Correct. C5 is the main root for Deltoid and Biceps."
       },
       {
-        "text": "Cervical only",
-        "explanation": "Incorrect (T6 cutoff)."
+        "text": "Wrist extensors",
+        "explanation": "Incorrect. C6."
       },
       {
-        "text": "No specific level",
-        "explanation": "Incorrect."
+        "text": "Hip flexors",
+        "explanation": "Incorrect. L2."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Autonomic dysreflexia = SCI ≥T6. Triggers: Bladder distention, fecal impaction. Severe HTN, headache. EMERGENCY - remove stimulus, sit up.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "C5 = Deltoid (Shoulder). C6 = Biceps/Wrist Ext. C7 = Triceps. C8 = Finger Flexors. T1 = Intrinsics (Abduct fingers).",
     "pdfPage": 25
   },
   {
     "id": 32,
-    "category": "Spinal Cord: Spinocerebellar Tracts",
-    "questionText": "The spinocerebellar tracts (dorsal and ventral) carry:",
+    "category": "Sensory Tracts",
+    "questionText": "The Dorsal Spinocerebellar Tract carrying proprioceptive information enters the cerebellum via the:",
     "options": [
       {
-        "text": "Motor commands",
+        "text": "Superior Cerebellar Peduncle",
         "explanation": "Incorrect."
       },
       {
-        "text": "Unconscious proprioception (muscle/joint position) to the cerebellum",
-        "explanation": "Correct. Spinocerebellar = Proprioception for coordination, NOT conscious perception (dorsal columns = conscious).",
-        "isCorrect": true
-      },
-      {
-        "text": "Pain signals",
+        "text": "Middle Cerebellar Peduncle",
         "explanation": "Incorrect."
       },
       {
-        "text": "Conscious touch",
+        "text": "Inferior Cerebellar Peduncle",
+        "explanation": "Correct. DSCT (Legs) and Cuneocerebellar (Arms) enter via the ICP."
+      },
+      {
+        "text": "Pyramids",
         "explanation": "Incorrect."
       },
       {
-        "text": "Temperature",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinocerebellar = Unconscious proprioception → Cerebellum (coordination). Dorsal columns = Conscious proprioception → Cortex.",
-    "pdfPage": 26
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Dorsal Spinocerebellar = Inferior Peduncle. Ventral Spinocerebellar = Superior Peduncle (Strange exception).",
+    "pdfPage": 7
   },
   {
     "id": 33,
-    "category": "Clinical Correlation: Neurogenic Bladder",
-    "questionText": "A patient with a complete spinal cord injury above the sacral micturition center will likely develop:",
+    "category": "Spinal Cord Orientation",
+    "questionText": "In the spinal cord, the Dorsal Horn is primarily ________ in function, while the Ventral Horn is ________.",
     "options": [
       {
-        "text": "Normal bladder function",
+        "text": "Motor; Sensory",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spastic (reflex) bladder with urinary retention and overflow incontinence initially, then reflex voiding",
-        "explanation": "Correct. UMN bladder = Detrusor-sphincter dyssynergia. LMN (S2-S4 lesion) = Flaccid bladder, overflow.",
-        "isCorrect": true
+        "text": "Sensory; Motor",
+        "explanation": "Correct. Dorsal = Sensory (Afferent). Ventral = Motor (Efferent)."
       },
       {
-        "text": "Flaccid bladder",
-        "explanation": "Incorrect (LMN injury at S2-S4)."
-      },
-      {
-        "text": "No bladder issues",
+        "text": "Autonomic; Somatic",
         "explanation": "Incorrect."
       },
       {
-        "text": "Immediate normal voiding",
+        "text": "Inhibitory; Excitatory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "White matter; Gray matter",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: UMN bladder (above sacral center) = Spastic, reflex. LMN (S2-S4 injury) = Flaccid, overflow incontinence.",
-    "pdfPage": 27
+    "clinicalPearl": "SAME DAVE: Sensory Afferent, Motor Efferent. Dorsal Afferent, Ventral Efferent.",
+    "pdfPage": 16
   },
   {
     "id": 34,
-    "category": "Clinical Correlation: Epidural Hematoma vs Abscess",
-    "questionText": "Spinal epidural hematoma or abscess can cause cord compression. Common risk factors include:",
+    "category": "Tracts",
+    "questionText": "The Vestibulospinal Tract is an extrapyramidal pathway responsible for:",
     "options": [
       {
-        "text": "Anticoagulation, trauma (hematoma); IV drug use, bacteremia (abscess)",
-        "explanation": "Correct. Epidural hematoma = Post-LP, anticoagulation. Abscess = S. aureus, back pain, fever. Both surgical emergencies.",
-        "isCorrect": true
+        "text": "Fine digital movements",
+        "explanation": "Incorrect. CST."
       },
       {
-        "text": "No risk factors",
+        "text": "Pain modulation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Only genetic",
+        "text": "Maintenance of balance and extensor tone against gravity",
+        "explanation": "Correct. Input from vestibular apparatus -> VST -> Extensor muscles to stay upright."
+      },
+      {
+        "text": "Voluntary speech",
         "explanation": "Incorrect."
       },
       {
-        "text": "Congenital only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Autoimmune only",
+        "text": "Visual reflexes",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Spinal epidural hematoma = Anticoagulation, LP. Abscess = IVDU, S. aureus. Both → Cord compression → Emergency decompression.",
-    "pdfPage": 28
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Vestibulospinal = Balance/Anti-gravity muscles (Extensors).",
+    "pdfPage": 40
   },
   {
     "id": 35,
-    "category": "Clinical Correlation: Complete vs Incomplete SCI",
-    "questionText": "How do you distinguish a complete vs incomplete spinal cord injury?",
+    "category": "Clinical Signs",
+    "questionText": "Clonus (rhythmic beating of the foot upon rapid dorsiflexion) is a sign of:",
     "options": [
       {
-        "text": "Complete = Total loss of motor/sensory function below lesion. Incomplete = Some function preserved (e.g., sacral sparing)",
-        "explanation": "Correct. Sacral sparing (perianal sensation, voluntary anal contraction) = Incomplete injury. Better prognosis.",
-        "isCorrect": true
-      },
-      {
-        "text": "No difference",
+        "text": "Lower Motor Neuron lesion",
         "explanation": "Incorrect."
       },
       {
-        "text": "Complete = Temporary",
+        "text": "Upper Motor Neuron lesion",
+        "explanation": "Correct. Sustained clonus indicates severe hyperreflexia/spasticity due to UMN damage."
+      },
+      {
+        "text": "Cerebellar ataxia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Incomplete = Only sensory loss",
+        "text": "Parkinson's disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "Based on imaging only",
-        "explanation": "Incorrect (Clinical exam critical)."
+        "text": "Muscle fatigue",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sacral sparing (S4-S5 sensation, anal wink, voluntary contraction) = Incomplete SCI. Much better prognosis for recovery.",
-    "pdfPage": 29
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Clonus = UMN. Look for it at the ankle.",
+    "pdfPage": 26
   }
 ];

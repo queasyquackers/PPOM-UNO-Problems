@@ -1,853 +1,796 @@
-window.Test_L25 = [
+// Test_L25.js
+const Test_L25 = [
   {
     "id": 1,
-    "category": "Limbic Anatomy",
-    "questionText": "The Limbic System is often described as the 'Feeling and Reacting Brain'. Which three structures are universally agreed upon as the 'Big Three' core components of the limbic system?",
+    "category": "Clinical Case: Wernicke-Korsakoff",
+    "questionText": "A 55-year-old male with a history of chronic alcohol use disorder is brought to the ED with confusion and ataxia. Examination reveals nystagmus. He is treated with IV fluids containing glucose before receiving thiamine. His condition worsens. This patient's symptoms are primarily due to degeneration of which hypothalamic structure?",
     "options": [
       {
-        "text": "Thalamus, Hypothalamus, Epithalamus",
-        "explanation": "Incorrect. Diencephalon."
+        "text": "Suprachiasmatic Nucleus",
+        "explanation": "Incorrect. Controls circadian rhythm."
       },
       {
-        "text": "Cingulate Gyrus, Hippocampal Formation, Amygdala",
-        "explanation": "Correct. These operate as the central ring (limbus) processing emotion and memory.",
-        "isCorrect": true
+        "text": "Mammillary Bodies",
+        "explanation": "Correct. Wernicke-Korsakoff syndrome (thiamine deficiency) classically damages the Mammillary Bodies and Medial Thalamus."
       },
       {
-        "text": "Caudate, Putamen, Globus Pallidus",
-        "explanation": "Incorrect. Basal Ganglia."
+        "text": "Ventromedial Nucleus",
+        "explanation": "Incorrect. Controls satiety."
       },
       {
-        "text": "Midbrain, Pons, Medulla",
-        "explanation": "Incorrect. Brainstem."
+        "text": "Arcuate Nucleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Frontal, Parietal, Occipital lobes",
+        "text": "Paraventricular Nucleus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Limbic Big 3 = Cingulate + Hippocampus + Amygdala.",
-    "pdfPage": 6
+    "clinicalPearl": "Alcoholism + Thiamine Deficiency -> Mammillary Body atrophy -> Wernicke-Korsakoff. Always give Thiamine BEFORE Glucose!",
+    "pdfPage": 36
   },
   {
     "id": 2,
-    "category": "Limbic Functions",
-    "questionText": "The functions of the Limbic System are summarized by the '5 Fs'. Which of the following is NOT one of them?",
+    "category": "Rapid Review: The 5 Fs",
+    "questionText": "The Limbic System is famously described as regulating the \"5 Fs\". Which of the following is NOT one of them?",
     "options": [
       {
         "text": "Feeding",
-        "explanation": "Incorrect. Included."
+        "explanation": "Incorrect. One of the Fs."
       },
       {
         "text": "Fleeing",
-        "explanation": "Incorrect. Included."
+        "explanation": "Incorrect. One of the Fs."
       },
       {
         "text": "Fighting",
-        "explanation": "Incorrect. Included."
+        "explanation": "Incorrect. One of the Fs."
       },
       {
         "text": "Feeling",
-        "explanation": "Incorrect. Included."
+        "explanation": "Incorrect. One of the Fs."
       },
       {
-        "text": "Forgetfulness",
-        "explanation": "Correct. Although memory is a function, 'Forgetfulness' is not one of the 5 Fs mnemonics. The 5th F is usually cited as 'Forgetting' (as a joke?? No, wait, transcript says 'Sex' (Fornication - rarely used in polite lectures but implied)). Actually, the transcript lists: Feeding, Fleeing, Fighting, Feeling, and Sex.",
-        "isCorrect": true
+        "text": "Focusing",
+        "explanation": "Correct. The 5th F is actually \"***\" (reproduction), not Focusing."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Key takeaway: 5 Fs: Feeding, Fleeing, Fighting, Feeling, and... Reproduction (Sex).",
-    "pdfPage": 8
+    "clinicalPearl": "The 5 Fs: Feeding, Fleeing, Fighting, Feeling, and Sex.",
+    "pdfPage": 9
   },
   {
     "id": 3,
-    "category": "Limbic Anatomy: Hippocampus",
-    "questionText": "The Hippocampus (Seahorse) is critical for spatial navigation. A study on London Taxi Drivers showed that navigating complex routes activated specifically which part of the hippocampus?",
+    "category": "Clinical Case: Kluver-Bucy",
+    "questionText": "A 28-year-old male suffers severe head trauma affecting the anterior temporal lobes bilaterally. Later, his family reports he has become extremely docile (placidity), puts inappropriate objects in his mouth (hyperorality), and displays inappropriate sexual behavior. This constellation of symptoms is known as:",
     "options": [
       {
-        "text": "Left Hippocampus",
-        "explanation": "Incorrect. Left is verbal memory."
+        "text": "Gerstmann Syndrome",
+        "explanation": "Incorrect. Parietal lobe lesion."
       },
       {
-        "text": "Right Hippocampus",
-        "explanation": "Correct. The Right Hippocampus is specialized for spatial orientation and navigation (mental maps).",
-        "isCorrect": true
+        "text": "Kluver-Bucy Syndrome",
+        "explanation": "Correct. Caused by bilateral Amygdala lesions."
       },
       {
-        "text": "Bilateral Hippocampi",
-        "explanation": "Incorrect."
+        "text": "Korsakoff Psychosis",
+        "explanation": "Incorrect. Memory loss/Confabulation."
       },
       {
-        "text": "Dentate Gyrus only",
-        "explanation": "Incorrect."
+        "text": "Horner Syndrome",
+        "explanation": "Incorrect. Sympathetic chain lesion."
       },
       {
-        "text": "Subiculum only",
-        "explanation": "Incorrect."
+        "text": "Foster-Kennedy Syndrome",
+        "explanation": "Incorrect. Olfactory/Optic nerve tumor."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Right Hippocampus = Spatial/Navigational Memory.",
-    "pdfPage": 13
+    "clinicalPearl": "Kluver-Bucy = Bilateral Amygdala damage -> Hyperorality, Hypersexuality, Placidity.",
+    "pdfPage": 29
   },
   {
     "id": 4,
-    "category": "Limbic Pathology",
-    "questionText": "Patient H.M. had his medial temporal lobes (Hippocampus + Amygdala) bilaterally removed to treat epilepsy. What was his primary deficit?",
+    "category": "Rapid Review: Hippocampus",
+    "questionText": "The term \"Hippocampus\" is derived from the Latin word for:",
     "options": [
       {
-        "text": "Loss of procedural memory (skills)",
-        "explanation": "Incorrect. He could learn new skills (Tower of Hanoi)."
+        "text": "Almond",
+        "explanation": "Incorrect. That's Amygdala."
       },
       {
-        "text": "Severe Anterograde Amnesia",
-        "explanation": "Correct. He could recall childhood memories (old retrograde intact) but could NOT form ANY new explicit memories (Anterograde).",
-        "isCorrect": true
+        "text": "Seahorse",
+        "explanation": "Correct. Its shape resembles a seahorse."
       },
       {
-        "text": "Loss of personality",
-        "explanation": "Incorrect. Frontal lobe."
+        "text": "Bridge",
+        "explanation": "Incorrect. That's Pons."
       },
       {
-        "text": "Blindness",
+        "text": "Bark",
+        "explanation": "Incorrect. That's Cortex."
+      },
+      {
+        "text": "Funnel",
+        "explanation": "Incorrect. That's Infundibulum."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Morphology: Hippocampus = Seahorse. Amygdala = Almond.",
+    "pdfPage": 11
+  },
+  {
+    "id": 5,
+    "category": "Clinical Case: Patient H.M.",
+    "questionText": "A patient undergoes bilateral surgical removal of the medial temporal lobes to treat intractable epilepsy. Post-operatively, he retains his intelligence and can recall childhood memories, but he cannot learn the names of his new doctors or remember what he had for breakfast. However, he gradually improves at solving a puzzle despite not remembering ever seeing it. This pattern describes:",
+    "options": [
+      {
+        "text": "Retrograde Amnesia with loss of Procedural Memory",
+        "explanation": "Incorrect. He has Anterograde amnesia and INTACT procedual memory."
+      },
+      {
+        "text": "Anterograde Amnesia with preserved Procedural Memory",
+        "explanation": "Correct. Hippocampus is required for episodic (declarative) memory but NOT procedural (muscle) memory."
+      },
+      {
+        "text": "Global Transient Amnesia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Aphasia",
+        "text": "Dissociative Fugue",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Wernicke's Aphasia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hippocampal removal = Anterograde Amnesia (No new memories).",
+    "clinicalPearl": "Patient H.M. proved Hippocampus is vital for New Declarative Memories, but not Procedural Memory (Basal Ganglia/Cerebellum).",
     "pdfPage": 38
   },
   {
-    "id": 5,
-    "category": "Limbic Anatomy",
-    "questionText": "The structure that arches over the thalamus connecting the Hippocampus to the Mammillary Bodies is the:",
+    "id": 6,
+    "category": "Rapid Review: Papez Circuit",
+    "questionText": "Which structure serves as the major OUTPUT pathway from the Hippocampus to the Mammillary Bodies?",
     "options": [
+      {
+        "text": "Stria Terminalis",
+        "explanation": "Incorrect. Output of Amygdala."
+      },
+      {
+        "text": "Fornix",
+        "explanation": "Correct. The major tract connecting Hippocampus to Mammillary Bodies."
+      },
+      {
+        "text": "Anterior Commissure",
+        "explanation": "Incorrect. Connects temporal lobes."
+      },
       {
         "text": "Cingulum",
         "explanation": "Incorrect. Cingulate to Hippocampus."
       },
       {
-        "text": "Fornix",
-        "explanation": "Correct. The Fornix acts as the major output tract of the hippocampus, arching ('Gymnast') to reach the Mammillary Bodies (Hypothalamus).",
-        "isCorrect": true
-      },
-      {
-        "text": "Stria Terminalis",
-        "explanation": "Incorrect. Amygdala output."
-      },
-      {
         "text": "Internal Capsule",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Corpus Callosum",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fornix connects Hippocampus -> Mammillary Body.",
-    "pdfPage": 15
-  },
-  {
-    "id": 6,
-    "category": "Limbic Pathology",
-    "questionText": "Kluver-Bucy Syndrome results from bilateral lesions to the Amygdala (and anterior temporal lobes). Which constellation of symptoms defines it?",
-    "options": [
-      {
-        "text": "Rage, paranoia, hallucinations",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Placidity (no fear), Hyperorality, Hypersexuality, Visual Agnosia",
-        "explanation": "Correct. Without the amygdala, there is no fear/aggression (placid). The animal/person explores objects by mouth (hyperorality) and shows inappropriate sexual behavior.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anosmia, optic atrophy, papilledema",
-        "explanation": "Incorrect. Foster-Kennedy."
-      },
-      {
-        "text": "Tremor, rigidity, bradykinesia",
-        "explanation": "Incorrect. Parkinson's."
-      },
-      {
-        "text": "Memory loss, confusion, ataxia",
-        "explanation": "Incorrect. Wernicke-Korsakoff."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Kluver-Bucy = Fearless, Hyperoral, Hypersexual (No Amygdala).",
-    "pdfPage": 23
+    "clinicalPearl": "Fornix = The 'Arch' carrying output from Hippocampus.",
+    "pdfPage": 13
   },
   {
     "id": 7,
-    "category": "Limbic Anatomy",
-    "questionText": "In the Papez Circuit, the Mammillary Bodies project to the Anterior Nucleus of the Thalamus via the:",
+    "category": "Clinical Case: Herpes Encephalitis",
+    "questionText": "A patient presents with fever, headache, and sudden behavioral changes including aggression and memory loss. MRI shows hyperintense lesions in the bilateral medial temporal lobes. This pathogen has a specific predilection for the limbic system:",
     "options": [
       {
-        "text": "Fornix",
-        "explanation": "Incorrect. Hippo -> Mammillary."
-      },
-      {
-        "text": "Mammillothalamic Tract",
-        "explanation": "Correct. As the name suggests.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stria Medullaris",
+        "text": "Neisseria meningitidis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Medial Forebrain Bundle",
+        "text": "Herpes Simplex Virus (HSV-1)",
+        "explanation": "Correct. HSV Encephalitis typically targets the temporal lobes/limbic system."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "explanation": "Incorrect. Ring enhancing lesions."
+      },
+      {
+        "text": "Cryptococcus neoformans",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cingulum",
-        "explanation": "Incorrect."
+        "text": "Rabies Virus",
+        "explanation": "Incorrect. Brainstem/Cerebellum."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Papez Circuit step: Mammillary Body -> Mammillothalamic Tract -> Anterior Thalamus.",
-    "pdfPage": 35
-  },
-  {
-    "id": 8,
-    "category": "Limbic Pathology",
-    "questionText": "Wernicke-Korsakoff Syndrome is caused by a deficiency of Thiamine (Vitamin B1), often in alcoholics. The memory deficits (Korsakoff's psychosis / confabulation) are due to damage in the:",
-    "options": [
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mammillary Bodies and Dorsomedial Thalamus",
-        "explanation": "Correct. B1 deficiency leads to necrosis of these specific diencephalic structures involved in the Papez memory circuit.",
-        "isCorrect": true
-      },
-      {
-        "text": "Amygdala",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cingulate Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vitamin B1 def -> Mammillary Body damage -> Amnesia/Confabulation.",
-    "pdfPage": 31
-  },
-  {
-    "id": 9,
-    "category": "Limbic Physiology",
-    "questionText": "The Septal Area (including Nucleus Accumbens) is primarily associated with:",
-    "options": [
-      {
-        "text": "Fear and Anger",
-        "explanation": "Incorrect. Amygdala."
-      },
-      {
-        "text": "Reward and Pleasure",
-        "explanation": "Correct. This is the 'Pleasure Center'. Dopamine release (Mesolimbic pathway) here drives motivation and reward (and addiction).",
-        "isCorrect": true
-      },
-      {
-        "text": "Spatial Memory",
-        "explanation": "Incorrect. Hippocampus."
-      },
-      {
-        "text": "Pain perception",
-        "explanation": "Incorrect. Cingulate/Insula."
-      },
-      {
-        "text": "Vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Septal Area/Nucleus Accumbens = Reward/Pleasure.",
-    "pdfPage": 29
-  },
-  {
-    "id": 10,
-    "category": "Limbic Anatomy",
-    "questionText": "Temporal Lobe Epilepsy often involves the 'uncus'. Seizures originating here often present with an aura of:",
-    "options": [
-      {
-        "text": "Flashing lights",
-        "explanation": "Incorrect. Occipital."
-      },
-      {
-        "text": "Unpleasant smells (Phantosmia/Cacosmia)",
-        "explanation": "Correct. The primary olfactory cortex is in the uncus. Irritation here causes 'Uncinate Fits' (smelling burnt rubber/rotting eggs).",
-        "isCorrect": true
-      },
-      {
-        "text": "Tinnitus",
-        "explanation": "Incorrect. Heschl's gyrus."
-      },
-      {
-        "text": "Motor twitching",
-        "explanation": "Incorrect. Precentral gyrus."
-      },
-      {
-        "text": "Numbness",
-        "explanation": "Incorrect. Postcentral gyrus."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Uncinate Seizures = Olfactory Hallucinations.",
-    "pdfPage": 18
-  },
-    {
-    "id": 11,
-    "category": "Limbic Pathology",
-    "questionText": "Alzheimer's Disease is characterized by severe atrophy of the Hippocampus and loss of which neurotransmitter in the cortex?",
-    "options": [
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect. Parkinson's / Schizophrenia."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Correct. Degeneration of the Nucleus Basalis of Meynert leads to cholinergic depletion, impairing memory and cognition. Treatment involves Acetylcholinesterase inhibitors.",
-        "isCorrect": true
-      },
-      {
-        "text": "Serotonin",
-        "explanation": "Incorrect. Depression."
-      },
-      {
-        "text": "GABA",
-        "explanation": "Incorrect. Anxiety / Huntington's."
-      },
-      {
-        "text": "Glutamate",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alzheimer's = Low Acetylcholine.",
-    "pdfPage": 47
-  },
-  {
-    "id": 12,
-    "category": "Limbic Anatomy",
-    "questionText": "The Anterior Commissure connects:",
-    "options": [
-      {
-        "text": "The two Thalami",
-        "explanation": "Incorrect. Massa Intermedia."
-      },
-      {
-        "text": "The two Temporal Lobes (Amygdalae/Olfactory structures)",
-        "explanation": "Correct. It is the white matter tract connecting the left and right temporal regions (olfactory bulbs, amygdalae).",
-        "isCorrect": true
-      },
-      {
-        "text": "The two Cerebellar hemispheres",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Frontal lobes only",
-        "explanation": "Incorrect. Corpus Callosum."
-      },
-      {
-        "text": "Brainstem to Cortex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Commissure links the Temporal Lobes (Emotion/Smell).",
-    "pdfPage": 16
-  },
-  {
-    "id": 13,
-    "category": "Limbic Physiology",
-    "questionText": "Working Memory (e.g., holding a phone number in mind for 30 seconds) is primarily a function of the:",
-    "options": [
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect. Converting to Long term."
-      },
-      {
-        "text": "Prefrontal Cortex",
-        "explanation": "Correct. The dorsolateral prefrontal cortex manages executive function and working memory.",
-        "isCorrect": true
-      },
-      {
-        "text": "Amygdala",
-        "explanation": "Incorrect. Emotion."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect. Motor skills."
-      },
-      {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect. Vision."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Working Memory = Prefrontal Cortex.",
-    "pdfPage": 45
-  },
-  {
-    "id": 14,
-    "category": "Limbic Pathology",
-    "questionText": "Herpes Simplex Encephalitis has a predilection for damaging which brain region?",
-    "options": [
-      {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medial Temporal Lobe (Hippocampus/Amygdala)",
-        "explanation": "Correct. It causes hemorrhagic necrosis of the temporal lobes, leading to acute amnesia, behavioral changes, and seizures.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: HSV Encephalitis attacks the Temporal Lobes.",
+    "clinicalPearl": "HSV-1 Encephalitis loves the Limbic System (Temporal Lobes) -> Memory/Behavior changes.",
     "pdfPage": 10
   },
   {
-    "id": 15,
-    "category": "Limbic Anatomy",
-    "questionText": "The Cingulate Gyrus communicates with the Hippocampus via the:",
+    "id": 8,
+    "category": "Rapid Review: Amygdala Function",
+    "questionText": "Stimulation of the Amygdala is most likely to produce which emotion?",
     "options": [
       {
-        "text": "Fornix",
-        "explanation": "Incorrect. Output of Hippo."
+        "text": "Satiety",
+        "explanation": "Incorrect. Hypothalamus."
       },
       {
-        "text": "Cingulum",
-        "explanation": "Correct. The Cingulum bundle runs deep within the Cingulate/Parahippocampal gyrus, closing the Papez loop by bringing info back to the Entorhinal Cortex/Hippocampus.",
-        "isCorrect": true
+        "text": "Fear and Anger",
+        "explanation": "Correct. Amygdala mediates primal 'Fight or Flight' emotions."
       },
       {
-        "text": "Stria Terminalis",
+        "text": "Drowsiness",
         "explanation": "Incorrect."
       },
       {
-        "text": "Internal Capsule",
+        "text": "Motor paralysis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Commissure",
+        "text": "Auditory hallucinations",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cingulum connects Cingulate Gyrus -> Hippocampus.",
-    "pdfPage": 35
+    "clinicalPearl": "Amygdala = Fear Center.",
+    "pdfPage": 29
   },
   {
-    "id": 16,
-    "category": "Limbic Physiology",
-    "questionText": "Implicit (Procedural) Memory, such as riding a bike, relies on which structures?",
+    "id": 9,
+    "category": "Clinical Case: Cingulotomy",
+    "questionText": "A patient suffers from intractable, excruciating cancer pain. A neurosurgical procedure called a Cingulotomy is performed. Post-operatively, the patient reports:",
     "options": [
       {
-        "text": "Hippocampus and Amygdala",
-        "explanation": "Incorrect. Explicit memory."
+        "text": "He can no longer feel the pain stimulus at all",
+        "explanation": "Incorrect. Sensory pathways are intact."
       },
       {
-        "text": "Basal Ganglia and Cerebellum",
-        "explanation": "Correct. Motor skills and habits are stored in the striatum and cerebellum, distinct from the conscious medial temporal lobe memory system.",
-        "isCorrect": true
+        "text": "He feels the pain, but the emotional suffering/unpleasantness is gone",
+        "explanation": "Correct. The Cingulate Cortex processes the emotional 'suffering' of pain."
       },
       {
-        "text": "Thalamus and Hypothalamus",
+        "text": "He has lost all memory of the pain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Occipital and Parietal Lobes",
+        "text": "He has become aggressive",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cingulate Gyrus",
+        "text": "He has developed hypersexuality",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Skills/Habits (Implicit) = Basal Ganglia/Cerebellum.",
-    "pdfPage": 43
+    "clinicalPearl": "Anterior Cingulate Cortex mediates the AFFECTIVE (emotional) component of pain.",
+    "pdfPage": 8
   },
   {
-    "id": 17,
-    "category": "Limbic Pathology",
-    "questionText": "Bilateral Cingulotomy (lesioning the anterior cingulate) has been used to treat:",
+    "id": 10,
+    "category": "Rapid Review: Spatial Memory",
+    "questionText": "London taxi drivers, who must memorize the complex layout of the city streets, have been found to have increased volume in which brain structure?",
     "options": [
+      {
+        "text": "Anterior Cingulate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Hippocampus (Right side)",
+        "explanation": "Correct. The Right Hippocampus is specialized for Spatial Navigation."
+      },
+      {
+        "text": "Amygdala",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mammillary Bodies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Orbitofrontal Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Right Hippocampus = Spatial Map/Navigation.",
+    "pdfPage": 12
+  },
+  {
+    "id": 11,
+    "category": "Clinical Case: PTSD",
+    "questionText": "A war veteran suffers from Post-Traumatic Stress Disorder (PTSD), exhibiting hypervigilance and severe anxiety when hearing loud noises. Functional imaging would likely show:",
+    "options": [
+      {
+        "text": "Atrophy of the Amygdala",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperactivation of the Amygdala",
+        "explanation": "Correct. The 'Fear Center' is overactive and fails to be inhibited by the prefrontal cortex."
+      },
+      {
+        "text": "Lesion of the Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Degeneration of the Substantia Nigra",
+        "explanation": "Incorrect. Parkinson's."
+      },
+      {
+        "text": "Loss of the Cingulate Gyrus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PTSD = Hyperactive Amygdala (Fear) + Hypoactive Prefrontal Cortex (Failure to extinguish fear).",
+    "pdfPage": 29
+  },
+  {
+    "id": 12,
+    "category": "Rapid Review: Orbitofrontal Cortex",
+    "questionText": "The Orbitofrontal Cortex is critical for:",
+    "options": [
+      {
+        "text": "Primary visual processing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Social behavior and decision making",
+        "explanation": "Correct. Lesions here (like Phineas Gage) cause personality changes and disinhibition."
+      },
+      {
+        "text": "Motor coordination",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory language comprehension",
+        "explanation": "Incorrect. Wernicke's Area."
+      },
+      {
+        "text": "Spatial navigation",
+        "explanation": "Incorrect. Hippocampus."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Orbitofrontal Cortex = Personality + Social Restraint.",
+    "pdfPage": 30
+  },
+  {
+    "id": 13,
+    "category": "Clinical Case: Alzheimer's",
+    "questionText": "A 75-year-old female presents with progressive memory loss, getting lost in familiar places, and difficulty finding words. MRI shows diffuse cortical atrophy and enlarged ventricles. The memory loss is primarily linked to degeneration of:",
+    "options": [
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect. Parkinson's."
+      },
+      {
+        "text": "Hippocampus and cholinergic neurons of the Basal Forebrain",
+        "explanation": "Correct. Early atrophy of Hippocampus leads to severe declarative memory loss."
+      },
+      {
+        "text": "Caudate Nucleus",
+        "explanation": "Incorrect. Huntington's."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Primary Motor Cortex",
+        "explanation": "Incorrect. ALS."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Alzheimer's pathology begins in the Entorhinal Cortex/Hippocampus -> Memory loss.",
+    "pdfPage": 41
+  },
+  {
+    "id": 14,
+    "category": "Rapid Review: Septal Nuclei",
+    "questionText": "Stimulation of the Septal Area (Nucleus Accumbens) is associated with:",
+    "options": [
+      {
+        "text": "Intense Fear",
+        "explanation": "Incorrect. Amygdala."
+      },
+      {
+        "text": "Pleasure and Reward",
+        "explanation": "Correct. This is the 'Reward Center' (Dopamine pathway). Rats will press a lever to stimulate this area until exhaustion."
+      },
+      {
+        "text": "Nausea",
+        "explanation": "Incorrect."
+      },
       {
         "text": "Blindness",
         "explanation": "Incorrect."
       },
       {
-        "text": "Intractable Pain and Severe Obsessive-Compulsive Disorder (OCD)",
-        "explanation": "Correct. It disconnects the emotional 'suffering' component of pain (affective pain) from the sensory component. The patient feels pain but doesn't 'mind' it.",
-        "isCorrect": true
-      },
-      {
-        "text": "Parkinson's Disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Amnesia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Narcolepsy",
+        "text": "Loss of balance",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cingulate processes the EMOTIONAL aspect of pain.",
-    "pdfPage": 8
+    "clinicalPearl": "Septal Area/Nucleus Accumbens = Pleasure/Reward (Dopamine).",
+    "pdfPage": 31
+  },
+  {
+    "id": 15,
+    "category": "Vignette: Temporal Lobe Epilepsy",
+    "questionText": "A patient describes a sensation of \"deja vu\" followed by a rising epigastric sensation and a strange unpleasant smell (burning rubber). Bystanders note he then stares blankly and smacks his lips. This seizure is originating in the:",
+    "options": [
+      {
+        "text": "Frontal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial Temporal Lobe",
+        "explanation": "Correct. Typical 'Uncinate Fit' involving the Uncus/Parahippocampal gyrus."
+      },
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Olfactory hallucinations (Uncinate Fits) + Deja Vu = Temporal Lobe Epilepsy.",
+    "pdfPage": 17
+  },
+  {
+    "id": 16,
+    "category": "Rapid Review: Hypoxia Sensitivity",
+    "questionText": "Which neuronal population is most susceptible to hypoxic damage (e.g., during cardiac arrest)?",
+    "options": [
+      {
+        "text": "Pyramidal cells of the Hippocampus (CA1 sector)",
+        "explanation": "Correct. 'Sommer's Sector' in CA1 is notoriously vulnerable to hypoxia."
+      },
+      {
+        "text": "Motor neurons in the spinal cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory neurons in DRG",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Schwann cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Astrocytes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Hippocampal CA1 neurons die first in hypoxia -> Permanent memory loss after heart attack.",
+    "pdfPage": 13
+  },
+  {
+    "id": 17,
+    "category": "Clinical Case: Confabulation",
+    "questionText": "A chronic alcoholic patient is asked where he was yesterday. Although he was in the hospital, he tells a detailed, plausible story about going to the park and feeding ducks. He is not lying intentionally. This symptom is called:",
+    "options": [
+      {
+        "text": "Aphasia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Confabulation",
+        "explanation": "Correct. A hallmark of Korsakoff's psychosis. The brain fills in memory gaps with made-up stories."
+      },
+      {
+        "text": "Malingering",
+        "explanation": "Incorrect. Malingering is intentional."
+      },
+      {
+        "text": "Disinhibition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Perseveration",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Confabulation = Honest lying. Filling memory gaps in Wernicke-Korsakoff.",
+    "pdfPage": 36
   },
   {
     "id": 18,
-    "category": "Limbic Physiology",
-    "questionText": "The Amygdala's primary role in memory is:",
+    "category": "Rapid Review: Anterior Thalamus",
+    "questionText": "The Anterior Nucleus of the Thalamus receives its primary input from the:",
     "options": [
       {
-        "text": "Storing facts and dates",
-        "explanation": "Incorrect. Hippocampus."
+        "text": "Globus Pallidus",
+        "explanation": "Incorrect. To VA/VL."
       },
       {
-        "text": "Attaching emotional significance to memories",
-        "explanation": "Correct. It strengthens memories that are emotionally arousing (fear conditioning). We remember traumatic or joyous events better because of the Amygdala.",
-        "isCorrect": true
+        "text": "Mammillary Bodies",
+        "explanation": "Correct. Via the Mammillothalamic Tract."
       },
       {
-        "text": "Spatial navigation",
-        "explanation": "Incorrect. Hippocampus."
+        "text": "Cerebellum",
+        "explanation": "Incorrect. To VL."
       },
       {
-        "text": "Motor skills",
-        "explanation": "Incorrect. Cerebellum."
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect. To VPL."
       },
       {
-        "text": "Language",
-        "explanation": "Incorrect. Wernicke/Broca."
+        "text": "Optic Tract",
+        "explanation": "Incorrect. To LGN."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amygdala = Emotional Memory.",
-    "pdfPage": 21
+    "clinicalPearl": "Mammillary Bodies -> Mammillothalamic Tract -> Anterior Thalamus.",
+    "pdfPage": 37
   },
   {
     "id": 19,
-    "category": "Limbic Anatomy",
-    "questionText": "Which part of the Cortex is considered the 'Secondary Olfactory Cortex' and is involved in the subjective appreciation of odors (e.g., 'this is a pleasant smell')?",
+    "category": "Clinical Case: Procedural Memory",
+    "questionText": "Despite severe anterograde amnesia, patient H.M. was able to improve at the \"Tower of Hanoi\" game and mirror drawing tasks over successive days. This demonstrates that Procedural Memory is stored in:",
     "options": [
       {
-        "text": "Precentral Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Orbitofrontal Cortex",
-        "explanation": "Correct. It receives input from the Piriform cortex and Amygdala to integrate smell with taste (flavor) and emotional value/reward.",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary Visual Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Postcentral Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fusiform Gyrus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Orbitofrontal Cortex = Conscious/Emotional Olfaction.",
-    "pdfPage": 27
-  },
-  {
-    "id": 20,
-    "category": "Limbic Pathology",
-    "questionText": "PTSD (Post-Traumatic Stress Disorder) is hypothesized to involve:",
-    "options": [
-      {
-        "text": "Hypoactive Amygdala",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyperactive Amygdala and failure of cortical inhibition",
-        "explanation": "Correct. The amygdala overreacts to threat cues, and the prefrontal cortex fails to dampen this response (Hypervigilance/Hyperarousal).",
-        "isCorrect": true
-      },
-      {
-        "text": "Loss of Hippocampus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thalamic degeneration",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellar tumor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PTSD = Amygdala Overdrive.",
-    "pdfPage": 25
-  },
-  {
-    "id": 21,
-    "category": "Limbic Anatomy",
-    "questionText": "The Stria Terminalis is the major output pathway of the:",
-    "options": [
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect. Fornix."
-      },
-      {
-        "text": "Amygdala",
-        "explanation": "Correct. It connects the Amygdala to the Hypothalamus and Septal area (similar C-shape path to the Fornix).",
-        "isCorrect": true
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cingulate Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Septum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Stria Terminalis = Amygdala Output.",
-    "pdfPage": 28
-  },
-  {
-    "id": 22,
-    "category": "Limbic Physiology",
-    "questionText": "Long-term memories, once fully consolidated, are stored in:",
-    "options": [
-      {
-        "text": "The Hippocampus permanently",
-        "explanation": "Incorrect. It's temporary holding."
-      },
-      {
-        "text": "Distributed areas of the Neocortex",
-        "explanation": "Correct. The hippocampus is needed to FORM them, but over time (years), they are transferred to the cortex and become hippocampal-independent.",
-        "isCorrect": true
+        "text": "The Hippocampus",
+        "explanation": "Incorrect. His was destroyed."
       },
       {
         "text": "The Amygdala",
         "explanation": "Incorrect."
       },
       {
-        "text": "The Brainstem",
+        "text": "The Basal Ganglia and Cerebellum",
+        "explanation": "Correct. These structures manage skills/habits and were intact in H.M."
+      },
+      {
+        "text": "The Mammillary Bodies",
         "explanation": "Incorrect."
       },
       {
-        "text": "The Spinal Cord",
+        "text": "The Fornix",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Hippocampus = 'What' (Facts). Basal Ganglia/Cerebellum = 'How' (Skills).",
+    "pdfPage": 40
+  },
+  {
+    "id": 20,
+    "category": "Rapid Review: Cingulate Cortex",
+    "questionText": "The Cingulate Gyrus wraps immediately around which major white matter structure?",
+    "options": [
+      {
+        "text": "Internal Capsule",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corpus Callosum",
+        "explanation": "Correct. It sits just superior to the Corpus Callosum."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brainstem",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Long Term Memory Storage = Neocortex.",
-    "pdfPage": 45
+    "clinicalPearl": "Cingulate ('Girdle' or 'Belt') surrounds the Corpus Callosum.",
+    "pdfPage": 7
+  },
+  {
+    "id": 21,
+    "category": "Vignette: Anorexia of Aging",
+    "questionText": "In elderly patients, loss of appetite and weight loss is common. While multifactorial, a contributing limbic/olfactory factor is:",
+    "options": [
+      {
+        "text": "Hyperosmia making food repulsive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of smell (Hyposmia) reducing food enjoyment",
+        "explanation": "Correct. Olfaction declines with age, reducing flavor and the 'reward' of eating."
+      },
+      {
+        "text": "Increased Amygdala activation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enlarged Hippocampus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Excess Dopamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Olfactory decline impacts the limbic 'reward' of feeding -> weight loss in elderly.",
+    "pdfPage": 29
+  },
+  {
+    "id": 22,
+    "category": "Rapid Review: Limbic Lobe",
+    "questionText": "Broca's 'Limbic Lobe' consists of the Cingulate Gyrus and the:",
+    "options": [
+      {
+        "text": "Precentral Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parahippocampal Gyrus",
+        "explanation": "Correct. These form a continuous ring of cortex around the brainstem."
+      },
+      {
+        "text": "Superior Temporal Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fusiform Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Angular Gyrus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Limbic Lobe = Cingulate Gyrus + Parahippocampal Gyrus.",
+    "pdfPage": 6
   },
   {
     "id": 23,
-    "category": "Limbic Anatomy",
-    "questionText": "The hippocampus proper is composed of characteristic layers with large neurons called:",
+    "category": "Clinical Case: Rabies",
+    "questionText": "Negri bodies are pathognomonic cytoplasmic inclusions found in Rabies infection. In the brain, they are most abundantly found in purkinje cells of the cerebellum and pyramidal cells of the:",
     "options": [
       {
-        "text": "Granule Cells",
-        "explanation": "Incorrect. Dentate Gyrus."
+        "text": "Frontal Cortex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Pyramidal Cells",
-        "explanation": "Correct. These are the primary excitatory neurons of the Hippocampus (CA1-CA4) and are exquisitely sensitive to hypoxia (Sommer's Sector).",
-        "isCorrect": true
+        "text": "Hippocampus",
+        "explanation": "Correct. Rabies has a high affinity for the Hippocampus and Cerebellum."
       },
       {
-        "text": "Purkinje Cells",
-        "explanation": "Incorrect. Cerebellum."
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Betz Cells",
-        "explanation": "Incorrect. Motor Cortex."
+        "text": "Thalamus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Renshaw Cells",
-        "explanation": "Incorrect. Spinal Cord."
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hippocampal Pyramidal cells are very sensitive to Hypoxia.",
-    "pdfPage": 14
+    "clinicalPearl": "Rabies = Negri Bodies in Hippocampus and Cerebellum -> Rage/Hydrophobia.",
+    "pdfPage": 10
   },
   {
     "id": 24,
-    "category": "Limbic Pathology",
-    "questionText": "Confabulation (making up stories to fill memory gaps without intent to deceive) is a hallmark sign of:",
+    "category": "Rapid Review: Hypothalamus Output",
+    "questionText": "The Stria Terminalis is the major output pathway from the:",
     "options": [
       {
-        "text": "Parkinson's Disease",
+        "text": "Hippocampus",
+        "explanation": "Incorrect. That's the Fornix."
+      },
+      {
+        "text": "Amygdala",
+        "explanation": "Correct. Connects Amygdala to Hypothalamus/Septal area."
+      },
+      {
+        "text": "Cingulate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Korsakoff's Psychosis",
-        "explanation": "Correct. Due to the inability to form new memories or retrieve recent ones accurately, patients fabricate details.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stroke in the Motor Cortex",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Amygdala lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual agnosia",
+        "text": "Olfactory Bulb",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Confabulation = Korsakoff's.",
+    "clinicalPearl": "Amygdala -> Stria Terminalis -> Hypothalamus (Fear response).",
     "pdfPage": 31
   },
   {
     "id": 25,
-    "category": "Limbic Physiology",
-    "questionText": "The 'Entorhinal Cortex' acts as:",
+    "category": "Vignette: Working Memory",
+    "questionText": "A patient can repeat a phone number back to you immediately but cannot remember it 5 minutes later. The immediate repetition task (Working Memory) relies primarily on the:",
     "options": [
       {
-        "text": "The motor output of the brain",
-        "explanation": "Incorrect."
+        "text": "Hippocampus",
+        "explanation": "Incorrect. Hippocampus is for consolidation into LONG TERM memory."
       },
       {
-        "text": "The major gateway for information entering and leaving the Hippocampus",
-        "explanation": "Correct. It serves as the interface between the Neocortex and the Hippocampus.",
-        "isCorrect": true
-      },
-      {
-        "text": "The vision center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The breathing center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The balance center",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Entorhinal Cortex = Gateway to Hippocampus.",
-    "pdfPage": 12
-  },
-  {
-    "id": 26,
-    "category": "Limbic Pathology",
-    "questionText": "A patient with damage to the Amygdala might have trouble:",
-    "options": [
-      {
-        "text": "Recognizing faces",
-        "explanation": "Incorrect. Fusiform gyrus."
-      },
-      {
-        "text": "Recognizing fear in facial expressions",
-        "explanation": "Correct. They cannot perceive threat or fear in others.",
-        "isCorrect": true
-      },
-      {
-        "text": "Remembering names",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Walking straight",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hearing high pitches",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amygdala damage = Inability to recognize Fear.",
-    "pdfPage": 24
-  },
-  {
-    "id": 27,
-    "category": "Limbic Anatomy",
-    "questionText": "The 'Limbus' in Limbic System means:",
-    "options": [
-      {
-        "text": "Emotion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Border or Edge",
-        "explanation": "Correct. It forms a border around the diencephalon/corpus callosum.",
-        "isCorrect": true
-      },
-      {
-        "text": "Memory",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Center",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Limbus = Border.",
-    "pdfPage": 3
-  },
-  {
-    "id": 28,
-    "category": "Limbic Pathology",
-    "questionText": "Which area is most vulnerable to anoxic damage (e.g. cardiac arrest)?",
-    "options": [
-      {
-        "text": "Hippocampus (CA1 sector)",
-        "explanation": "Correct. This leads to profound memory loss after resuscitation.",
-        "isCorrect": true
+        "text": "Prefrontal Cortex",
+        "explanation": "Correct. Working memory (scratchpad) is a function of the Dorsolateral Prefrontal Cortex."
       },
       {
         "text": "Amygdala",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Working memory (seconds) = Frontal Cortex. Episodic memory (days/years) = Hippocampus.",
+    "pdfPage": 42
+  },
+  {
+    "id": 26,
+    "category": "Rapid Review: Implicit Memory",
+    "questionText": "Fear conditioning (e.g., learning to be afraid of a blue light because it was paired with a shock) depends on the:",
+    "options": [
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect. Motor conditioning."
+      },
+      {
+        "text": "Amygdala",
+        "explanation": "Correct. Emotional learning/conditioning."
+      },
+      {
+        "text": "Hippocampus",
+        "explanation": "Incorrect. Context, but not the fear association itself."
+      },
+      {
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Amygdala learns to associate neutral stimuli with threat (Fear Conditioning).",
+    "pdfPage": 43
+  },
+  {
+    "id": 27,
+    "category": "Clinical Case: Olfactory Aura",
+    "questionText": "A patient reports smelling \"burning toast\" just before experiencing a seizure. This olfactory hallucination suggests the seizure focus is located in the:",
+    "options": [
+      {
+        "text": "Uncus / Piriform Cortex",
+        "explanation": "Correct. Primary olfactory cortex."
+      },
+      {
+        "text": "Postcentral Gyrus",
         "explanation": "Incorrect."
       },
       {
@@ -855,8 +798,38 @@ window.Test_L25 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Brainstem",
-        "explanation": "Incorrect. Relatively resistant."
+        "text": "Prefrontal Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Olfactory Cortex (Uncus) irritation -> Phantosmia.",
+    "pdfPage": 17
+  },
+  {
+    "id": 28,
+    "category": "Rapid Review: Cingulum",
+    "questionText": "The Cingulum is a white matter tract that connects the Cingulate Gyrus to the:",
+    "options": [
+      {
+        "text": "Parahippocampal Gyrus / Entorhinal Cortex",
+        "explanation": "Correct. Completing the Papez circuit back to the hippocampus entry."
+      },
+      {
+        "text": "Frontal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
       },
       {
         "text": "Spinal Cord",
@@ -864,224 +837,217 @@ window.Test_L25 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hippocampus (CA1) is the most Ischemia-Sensitive region.",
-    "pdfPage": 14
+    "clinicalPearl": "Cingulum bundle: Cingulate -> Entorhinal Cortex -> Hippocampus.",
+    "pdfPage": 37
   },
   {
     "id": 29,
-    "category": "Limbic Anatomy",
-    "questionText": "The Mammillary Bodies are part of the:",
+    "category": "Vignette: Hypothalamic Tumor",
+    "questionText": "A patient with a tumor compressing the Ventromedial Nucleus of the Hypothalamus is most likely to exhibit:",
     "options": [
+      {
+        "text": "Anorexia (starvation)",
+        "explanation": "Incorrect. That's Lateral Hypothalamus lesion."
+      },
+      {
+        "text": "Hyperphagia (overeating) and Obesity",
+        "explanation": "Correct. VMH is the Satiety Center. Lesion -> Never full -> Obesity."
+      },
+      {
+        "text": "Memory loss",
+        "explanation": "Incorrect. Mammillary bodies."
+      },
+      {
+        "text": "Insomnia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothermia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "VMH = Satiety Center. Lesion -> Very Massive Hunger (VMH).",
+    "pdfPage": 29
+  },
+  {
+    "id": 30,
+    "category": "Rapid Review: Entorhinal Cortex",
+    "questionText": "The Entorhinal Cortex is the major gateway for sensory information entering the:",
+    "options": [
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hippocampus",
+        "explanation": "Correct. It's the 'doorway' to the Hippocampus."
+      },
       {
         "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hypothalamus",
-        "explanation": "Correct. They are at the posterior end of the Hypothalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Midbrain",
+        "text": "Basal Ganglia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hippocampus",
+        "text": "Visual Cortex",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Entorhinal Cortex is the first area damaged in Alzheimer's, isolating the Hippocampus.",
+    "pdfPage": 13
+  },
+  {
+    "id": 31,
+    "category": "Vignette: Sham Rage",
+    "questionText": "In animal experiments, removal of the neocortex while leaving the posterior hypothalamus intact results in \"Sham Rage\" (unprovoked aggression). This suggests the neocortex normally:",
+    "options": [
+      {
+        "text": "Stimulates rage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibits the limbic/hypothalamic rage centers",
+        "explanation": "Correct. Cortex provides 'Top-Down' inhibition of primal emotions."
+      },
+      {
+        "text": "Has no effect on emotion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stores memories of rage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Releases serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Decorticate rage shows that the cortex inhibits the primitive hypothalamus.",
+    "pdfPage": 23
+  },
+  {
+    "id": 32,
+    "category": "Rapid Review: Anterior Limb of Internal Capsule",
+    "questionText": "The Papez Circuit connects the Anterior Thalamus to the Cingulate Gyrus via fibers running through the:",
+    "options": [
+      {
+        "text": "Posterior Limb of Internal Capsule",
+        "explanation": "Incorrect. Motor/Sensory."
+      },
+      {
+        "text": "Anterior Limb of Internal Capsule",
+        "explanation": "Correct. Thalamocortical fibers."
+      },
+      {
+        "text": "External Capsule",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corpus Callosum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebral Peduncle",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Anterior Thalamus -> Anterior Limb IC -> Cingulate Gyrus.",
+    "pdfPage": 37
+  },
+  {
+    "id": 33,
+    "category": "Vignette: Phineas Gage",
+    "questionText": "Phineas Gage survived an iron rod blasting through his skull. He physically recovered but his personality changed from responsible to impulsive and profane. His injury was primarily to the:",
+    "options": [
+      {
+        "text": "Prefrontal Cortex / Orbitofrontal Cortex",
+        "explanation": "Correct. The seat of executive function and social inhibition."
+      },
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parietal Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brainstem",
+        "explanation": "Incorrect. He survived."
       },
       {
         "text": "Cerebellum",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mammillary Bodies = Posterior Hypothalamus.",
-    "pdfPage": 29
-  },
-  {
-    "id": 30,
-    "category": "Limbic Physiology",
-    "questionText": "Explicit Memory is divided into Episodic (events) and Semantic (facts). These are processed in:",
-    "options": [
-      {
-        "text": "The Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Medial Temporal Lobe system",
-        "explanation": "Correct. Hippocampus/Entorhinal/Parahippocampal areas.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Basal Ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Amygdala only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Medial Temporal Lobe = Explicit Memory.",
-    "pdfPage": 42
-  },
-  {
-    "id": 31,
-    "category": "Limbic Anatomy",
-    "questionText": "The Septal Nuclei are located:",
-    "options": [
-      {
-        "text": "In the Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Near the Septum Pellucidum, anterior to the Hypothalamus",
-        "explanation": "Correct. Rostral to the diencephalon.",
-        "isCorrect": true
-      },
-      {
-        "text": "In the Occipital Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inside the Hippocampus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "In the Pons",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Septal area is anterior/medial.",
-    "pdfPage": 28
-  },
-  {
-    "id": 32,
-    "category": "Limbic Pathology",
-    "questionText": "Stimulation of the Amygdala in animals can produce:",
-    "options": [
-      {
-        "text": "Sleep",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Aggressive behavior (Defense reaction) or Fear",
-        "explanation": "Correct. It prepares the animal for 'Fight or Flight'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Paralysis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Laughter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hunger",
-        "explanation": "Incorrect. Hypothalamus."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amygdala stimulation = Fear/Aggression.",
-    "pdfPage": 20
-  },
-  {
-    "id": 33,
-    "category": "Limbic Anatomy",
-    "questionText": "Which nucleus of the Thalamus is the primary target of the Mammillothalamic Tract?",
-    "options": [
-      {
-        "text": "Ventral Posteromedial (VPM)",
-        "explanation": "Incorrect. Taste/Face."
-      },
-      {
-        "text": "Anterior Nucleus",
-        "explanation": "Correct. Part of Papez circuit.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lateral Geniculate (LGN)",
-        "explanation": "Incorrect. Vision."
-      },
-      {
-        "text": "Medial Geniculate (MGN)",
-        "explanation": "Incorrect. Auditory."
-      },
-      {
-        "text": "Pulvinar",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mammillothalamic Tract -> Anterior Thalamus.",
-    "pdfPage": 35
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Prefrontal lobotomy/lesion -> Loss of social inhibition and planning.",
+    "pdfPage": 30
   },
   {
     "id": 34,
-    "category": "Limbic Physiology",
-    "questionText": "The Cingulate Gyrus acts as an interface between:",
+    "category": "Rapid Review: Acetylcholine",
+    "questionText": "In Alzheimer's Disease, there is a specific loss of cholinergic neurons in the:",
     "options": [
       {
-        "text": "Vision and Hearing",
-        "explanation": "Incorrect."
+        "text": "Nucleus Accumbens",
+        "explanation": "Incorrect. Dopamine."
       },
       {
-        "text": "Emotion regulation (Limbic) and Cognitive Control/Action (Neocortex)",
-        "explanation": "Correct. It integrates biological drives with decision making (Action-Outcome learning).",
-        "isCorrect": true
+        "text": "Basal Nucleus of Meynert",
+        "explanation": "Correct. The primary source of ACh to the cortex."
       },
       {
-        "text": "Taste and Smell",
-        "explanation": "Incorrect."
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect. Dopamine."
       },
       {
-        "text": "Balance and Posture",
-        "explanation": "Incorrect."
+        "text": "Raphe Nuclei",
+        "explanation": "Incorrect. Serotonin."
       },
       {
-        "text": "Sleep and Wake",
-        "explanation": "Incorrect."
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect. Norepinephrine."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cingulate = Emotion/Cognition Interface.",
-    "pdfPage": 7
+    "clinicalPearl": "Alzheimer's treatment targets Acetylcholinesterase to boost low ACh from Basal Nucleus degeneration.",
+    "pdfPage": 41
   },
   {
     "id": 35,
-    "category": "Limbic Pathology",
-    "questionText": "Transient Global Amnesia (TGA) is a temporary condition characterized by:",
+    "category": "Clinical Case: Thiamine",
+    "questionText": "Treatment for Wernicke's Encephalopathy involves administration of:",
     "options": [
       {
-        "text": "Permanent memory loss",
+        "text": "Vitamin B12",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sudden onset of Anterograde Amnesia lasting hours, with repetitive questioning",
-        "explanation": "Correct. The patient keeps asking 'Where am I?' or 'What happened?' but retains identity and skills. Resolves in <24hrs.",
-        "isCorrect": true
+        "text": "Vitamin B1 (Thiamine)",
+        "explanation": "Correct. Reverses the metabolic block."
       },
       {
-        "text": "Loss of identity",
+        "text": "Vitamin C",
         "explanation": "Incorrect."
       },
       {
-        "text": "Paralysis",
+        "text": "Vitamin D",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blindness",
-        "explanation": "Incorrect."
+        "text": "Niacin",
+        "explanation": "Incorrect. Pellagra."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: TGA = Sudden temporary Anterograde Amnesia (Repetitive Questioning).",
-    "pdfPage": 47
+    "clinicalPearl": "Banana bag = Thiamine + Multivitamins. Crucial for alcoholics.",
+    "pdfPage": 36
   }
 ];

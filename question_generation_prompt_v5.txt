@@ -39,6 +39,11 @@ For **INCORRECT** answer choices, you **MUST** follow this strict format to supp
 For the **CORRECT** answer choice:
 1.  Start with "Correct." and provide a comprehensive explanation.
 
+**CRITICAL - Answer Length Balancing:**
+- You MUST actively avoid the "Longest Answer is Correct" bias.
+- Ensure the correct answer is the longest option in **no more than 20-25%** of questions.
+- Frequently make the correct answer shorter or equal in length to the distractors.
+- If the correct answer requires a long detailed explanation, ensure at least one distractor is equally detailed/long.
 **CRITICAL - "The Pearlbook" Requirements:**
 - Every question **MUST** have a `category` (e.g., "Cardiology: Heart Failure").
 - Every question **MUST** have a `clinicalPearl` field. This is a standalone, high-yield fact used to generate "The Pearlbook" for the student.

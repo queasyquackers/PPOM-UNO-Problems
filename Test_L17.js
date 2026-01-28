@@ -1,414 +1,211 @@
 window.Test_L17 = [
   {
     "id": 1,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "A 35-year-old rock musician complains of difficulty hearing high-pitched sounds. Audiometry confirms sensorineural hearing loss restricted to high frequencies. Which region of the basilar membrane is most likely damaged?",
-    "options": [
-      {
-        "text": "The apex of the cochlea",
-        "explanation": "Incorrect. The apex is wide and floppy, responding to low frequencies. This would be the correct answer if the patient had trouble hearing bass notes."
-      },
-      {
-        "text": "The base of the cochlea",
-        "explanation": "Correct. The base of the basilar membrane is narrow and stiff, making it resonate at high frequencies. High-frequency hearing loss typically involves damage to hair cells at the base."
-      },
-      {
-        "text": "The middle turn of the cochlea",
-        "explanation": "Incorrect. This area responds to intermediate frequencies."
-      },
-      {
-        "text": "The helicotrema",
-        "explanation": "Incorrect. This is the opening at the apex where the scala vestibuli and scala tympani meet, associated with very low frequencies."
-      },
-      {
-        "text": "The vestibule",
-        "explanation": "Incorrect. The vestibule is part of the vestibular system (balance), not the cochlear tonotopic map."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The base of the cochlea responds to high frequencies, while the apex responds to low frequencies (Tonotopy).",
-    "pdfPage": 32
-  },
-  {
-    "id": 2,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "During a loud concert, the Stapedius muscle contracts to dampen the vibration of the stapes against the oval window, protecting the inner ear. Which cranial nerve innervates this muscle?",
-    "options": [
-      {
-        "text": "Trigeminal Nerve (CN V)",
-        "explanation": "Incorrect. CN V innervates the Tensor Tympani muscle, which dampens the malleus. This would be the correct answer if asking about the muscle attached to the malleus."
-      },
-      {
-        "text": "Facial Nerve (CN VII)",
-        "explanation": "Correct. The Facial nerve (CN VII) innervates the Stapedius muscle. Paralysis of this nerve (e.g., Bell's Palsy) can lead to hyperacusis (increased sensitivity to sound)."
-      },
-      {
-        "text": "Vestibulocochlear Nerve (CN VIII)",
-        "explanation": "Incorrect. CN VIII carries sensory information from the ear but does not innervate the middle ear muscles."
-      },
-      {
-        "text": "Glossopharyngeal Nerve (CN IX)",
-        "explanation": "Incorrect. CN IX innervates the stylopharyngeus muscle."
-      },
-      {
-        "text": "Vagus Nerve (CN X)",
-        "explanation": "Incorrect. CN X provides motor innervation to the larynx and pharynx."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Stapedius muscle is innervated by CN VII (Facial Nerve); its dysfunction causes hyperacusis.",
-    "pdfPage": 8
-  },
-  {
-    "id": 3,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Sound waves traveling through the air must be transmitted into the fluid-filled cochlea. The middle ear overcomes the impedance mismatch between air and fluid primarily by:",
-    "options": [
-      {
-        "text": "Amplifying the frequency of the sound waves",
-        "explanation": "Incorrect. The frequency remains unchanged during transmission."
-      },
-      {
-        "text": "Concentrating force from the large tympanic membrane onto the small oval window",
-        "explanation": "Correct. The surface area of the tympanic membrane is much larger than that of the oval window. This area difference amplifies the pressure (Pressure = Force/Area), overcoming the resistance of the cochlear fluid."
-      },
-      {
-        "text": "Using the Eustachian tube to equalize pressure",
-        "explanation": "Incorrect. The Eustachian tube equalizes pressure across the tympanic membrane but does not amplify sound for transmission into fluid."
-      },
-      {
-        "text": "Resonance of the external auditory canal",
-        "explanation": "Incorrect. While the ear canal resonates at certain frequencies (speech range), the primary mechanism for impedance matching is the middle ear ossicular chain and area difference."
-      },
-      {
-        "text": "Active amplification by outer hair cells",
-        "explanation": "Incorrect. Outer hair cells do amplify the cochlear response (cochlear amplifier), but 'impedance matching' refers to the physical transfer of energy from air to fluid in the middle ear."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The middle ear acts as an impedance matching device primarily through the area difference between the tympanic membrane and the oval window.",
-    "pdfPage": 6
-  },
-  {
-    "id": 4,
-    "category": "Physiology: Auditory System",
-    "questionText": "The transduction of mechanical sound vibrations into electrical signals occurs in the hair cells of the Organ of Corti. Depolarization of these cells is mediated by the influx of which ion?",
-    "options": [
-      {
-        "text": "Sodium (Na+)",
-        "explanation": "Incorrect. In most neurons, Na+ influx causes depolarization. However, hair cells are unique."
-      },
-      {
-        "text": "Calcium (Ca2+)",
-        "explanation": "Incorrect. Ca2+ enters after depolarization to trigger neurotransmitter release, but the initial depolarizing current is carried by another ion."
-      },
-      {
-        "text": "Chloride (Cl-)",
-        "explanation": "Incorrect. Cl- influx would typically cause hyperpolarization."
-      },
-      {
-        "text": "Potassium (K+)",
-        "explanation": "Correct. The stereocilia are bathed in Endolymph, which has a very high K+ concentration. Opening of mechanically gated channels allows K+ to flow down its electrochemical gradient INTO the cell, causing depolarization."
-      },
-      {
-        "text": "Magnesium (Mg2+)",
-        "explanation": "Incorrect. Magnesium blocks NMDA receptors but is not the charge carrier here."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Hair cell depolarization is driven by the influx of Potassium (K+) from the high-potassium Endolymph.",
-    "pdfPage": 15
-  },
-  {
-    "id": 5,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "A patient presents with hearing loss in the right ear. The Weber test lateralizes to the Right ear, and the Rinne test shows Bone Conduction > Air Conduction in the Right ear. What is the diagnosis?",
+    "category": "Auditory: Weber Test",
+    "questionText": "A 45-year-old musician complains of hearing loss in his left ear. A Weber test is performed, and the sound lateralizes to the LEFT ear. A Rinne test shows Bone Conduction > Air Conduction in the left ear. What is the most likely diagnosis?",
     "options": [
       {
         "text": "Right Sensorineural Hearing Loss",
-        "explanation": "Incorrect. In sensorineural loss, the Weber would lateralize to the unaffected (Left) ear, and Rinne would be AC > BC (normal pattern but reduced duration)."
+        "explanation": "Incorrect. Weber would lateralize to the normal (left) ear, but Rinne would be AC > BC."
       },
       {
         "text": "Left Sensorineural Hearing Loss",
-        "explanation": "Incorrect. While Weber often lateralizes to the better ear (Right in this case), the Rinne finding (BC > AC on the Right) specifically points to a conductive problem in the Right ear."
-      },
-      {
-        "text": "Right Conductive Hearing Loss",
-        "explanation": "Correct. In conductive loss, sound is heard louder in the affected ear during the Weber test (less ambient noise masking). The Rinne test showing Bone Conduction greater than Air Conduction confirms a problem in the external or middle ear conduction pathway."
+        "explanation": "Incorrect. Weber would lateralize to the right (normal) ear."
       },
       {
         "text": "Left Conductive Hearing Loss",
-        "explanation": "Incorrect. This would cause Weber lateralization to the Left."
+        "explanation": "Correct. Weber lateralizes to the bad ear (conductive loss masker ambient noise). Rinne BC > AC confirms conductive pathology.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Conductive Hearing Loss",
+        "explanation": "Incorrect. Weber would lateralize to the right."
       },
       {
         "text": "Normal Hearing",
-        "explanation": "Incorrect. Normal hearing would have midline Weber and Rinne AC > BC bilaterally."
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Conductive hearing loss presents with Weber lateralization to the affected ear and Rinne BC > AC.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Conductive loss: Weber -> Bad Ear. Sensorineural loss: Weber -> Good Ear.",
+    "pdfPage": 38
   },
   {
-    "id": 6,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Which thalamic nucleus is the primary relay for auditory information projecting to the auditory cortex?",
+    "id": 2,
+    "category": "Auditory: Hair Cells",
+    "questionText": "Inner Hair Cells (IHC) differ from Outer Hair Cells (OHC) in that:",
     "options": [
       {
-        "text": "Lateral Geniculate Nucleus (LGN)",
-        "explanation": "Incorrect. This is the visual relay nucleus. ('Lateral is for Light')."
+        "text": "OHCs release glutamate to the spiral ganglion",
+        "explanation": "Incorrect. IHCs are the primary sensory receptors (95% of afferents)."
       },
       {
-        "text": "Medial Geniculate Nucleus (MGN)",
-        "explanation": "Correct. The Medial Geniculate Nucleus (MGN) receives input from the inferior colliculus and projects to the primary auditory cortex. ('Medial is for Music')."
+        "text": "IHCs are embedded in the tectorial membrane",
+        "explanation": "Incorrect (OHCs are)."
       },
       {
-        "text": "Ventral Posterolateral Nucleus (VPL)",
-        "explanation": "Incorrect. This relays somatosensory information from the body."
+        "text": "OHCs serve as a 'Cochlear Amplifier' via electromotility",
+        "explanation": "Correct. They change length (dance) to amplify the vibration of the basilar membrane, increasing sensitivity and tuning.",
+        "isCorrect": true
       },
       {
-        "text": "Ventral Posteromedial Nucleus (VPM)",
-        "explanation": "Incorrect. This relays somatosensory information from the face."
+        "text": "IHCs regenerate after damage",
+        "explanation": "Incorrect (They do not)."
       },
       {
-        "text": "Pulvinar",
-        "explanation": "Incorrect. This is an association nucleus involved in visual attention."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Medial Geniculate Nucleus (MGN) is the auditory relay of the thalamus.",
-    "pdfPage": 21
-  },
-  {
-    "id": 7,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The Superior Olivary Complex (SOC) in the pons is the first site in the auditory pathway to receive binaural input. Its primary function is:",
-    "options": [
-      {
-        "text": "Pitch discrimination",
-        "explanation": "Incorrect. Pitch is encoded by the cochlea and maintained throughout the pathway."
-      },
-      {
-        "text": "Sound localization",
-        "explanation": "Correct. The SOC compares interaural time differences (Medial Superior Olive) and interaural level differences (Lateral Superior Olive) to localize sound sources in the horizontal plane."
-      },
-      {
-        "text": "Language comprehension",
-        "explanation": "Incorrect. This occurs in Wernicke's area in the cortex."
-      },
-      {
-        "text": "Startle reflex",
-        "explanation": "Incorrect. The inferior colliculus and reticular formation are more involved in the startle response."
-      },
-      {
-        "text": "Conscious perception of sound",
-        "explanation": "Incorrect. This occurs in the auditory cortex."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Superior Olivary Complex is critical for sound localization using interaural time and intensity differences.",
-    "pdfPage": 20
-  },
-  {
-    "id": 8,
-    "category": "Physiology: Auditory System",
-    "questionText": "A researcher applies a drug that blocks the tip links of stereocilia. What specific step in auditory transduction will be immediately inhibited?",
-    "options": [
-      {
-        "text": "Movement of the tympanic membrane",
-        "explanation": "Incorrect. This is mechanical and upstream of the hair cells."
-      },
-      {
-        "text": "Opening of mechanically gated ion channels",
-        "explanation": "Correct. Tip links connect adjacent stereocilia. When stereocilia bend, the tip links stretch and physically pull open the mechanically gated K+ channels. Blocking tip links prevents this channel opening."
-      },
-      {
-        "text": "Release of neurotransmitter from the spiral ganglion",
-        "explanation": "Incorrect. The spiral ganglion receives input from the hair cell; it does not have stereocilia tip links."
-      },
-      {
-        "text": "Vibration of the basilar membrane",
-        "explanation": "Incorrect. This is driven by fluid mechanics, not the tip links directly (although OHC motility affects it, the primary deficit is transduction)."
-      },
-      {
-        "text": "Hyperpolarization of the hair cell",
-        "explanation": "Incorrect. The primary effect of channel opening is depolarization. Blocking it prevents depolarization."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tip links are essential for opening the mechanically gated K+ channels on stereocilia during transduction.",
-    "pdfPage": 2
-  },
-  {
-    "id": 9,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Outer Hair Cells (OHCs) have a unique property called electromotility, meaning they change length in response to membrane potential changes. What is the functional significance of this property?",
-    "options": [
-      {
-        "text": "It transmits the auditory signal to the brain",
-        "explanation": "Incorrect. Inner Hair Cells (IHCs) are the primary sensory receptors sending 95% of the afferent signal to the brain."
-      },
-      {
-        "text": "It acts as a cochlear amplifier",
-        "explanation": "Correct. OHC electromotility mechanically boosts the vibration of the basilar membrane at specific frequencies, greatly enhancing sensitivity and frequency selectivity (the 'Cochlear Amplifier')."
-      },
-      {
-        "text": "It dampens loud sounds",
-        "explanation": "Incorrect. The acoustic reflex (middle ear muscles) dampens loud sounds. OHCs amplify weak sounds."
-      },
-      {
-        "text": "It regenerates damaged stereocilia",
-        "explanation": "Incorrect. Mammalian hair cells do not regenerate."
-      },
-      {
-        "text": "It maintains the ionic composition of endolymph",
-        "explanation": "Incorrect. The Stria Vascularis maintains the endolymph."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Outer Hair Cells function as a cochlear amplifier, increasing sensitivity and frequency tuning.",
-    "pdfPage": 18
-  },
-  {
-    "id": 10,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Damage to the auditory cortex in one hemisphere (e.g., Right Temporal Lobe) typically results in:",
-    "options": [
-      {
-        "text": "Complete deafness in the contralateral ear",
-        "explanation": "Incorrect. The auditory pathway is extensively bilateral above the cochlear nucleus."
-      },
-      {
-        "text": "Complete deafness in the ipsilateral ear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Minor hearing deficits with difficulty localizing sound",
-        "explanation": "Correct. Because of the bilateral projections (crossing at multiple levels including the superior olive and inferior colliculus), unilateral cortical lesions rarely cause deafness. The main deficit is often subtle, such as difficulty localizing sound or interpreting complex speech."
-      },
-      {
-        "text": "Loss of the acoustic reflex",
-        "explanation": "Incorrect. This is a brainstem reflex."
-      },
-      {
-        "text": "Vestibular dysfunction",
-        "explanation": "Incorrect. The auditory cortex is distinct from the vestibular cortex."
+        "text": "There are more IHCs than OHCs",
+        "explanation": "Incorrect (3,500 IHCs vs 12,000 OHCs)."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Central auditory lesions generally do not cause unilateral deafness due to bilateral pathway representation.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: IHC = Microphone (Sends signal). OHC = Amplifier (Boosts signal).",
+    "pdfPage": 26
   },
-    {
-    "id": 11,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "A child is born with congenital atresia of the excessive auditory canal. The inner ear and auditory nerve are intact. This would result in:",
+  {
+    "id": 3,
+    "category": "Auditory: Endolymph",
+    "questionText": "The Endolymph within the Scala Media is unique among extracellular fluids because it has:",
     "options": [
       {
-        "text": "Sensorineural hearing loss",
-        "explanation": "Incorrect. The nerve and inner ear are intact."
+        "text": "High Sodium concentration",
+        "explanation": "Incorrect (Perilymph/CSF)."
       },
       {
-        "text": "Conductive hearing loss",
-        "explanation": "Correct. Atresia (blockage/absence) of the ear canal prevents sound waves from reaching the tympanic membrane, a mechanical blockade."
+        "text": "High Potassium concentration",
+        "explanation": "Correct. This high K+ gradient allows K+ to flow INTO the hair cells to depolarize them (unlike neurons where K+ flows out).",
+        "isCorrect": true
       },
       {
-        "text": "Central auditory processing disorder",
+        "text": "High Calcium concentration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tinnitus",
-        "explanation": "incorrect. While possible, the primary deficit is conductive loss."
+        "text": "No protein",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Vertigo",
-        "explanation": "Incorrect. The vestibular system is separate."
+        "text": "Low ionic strength",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Blockage of the ear canal causes conductive hearing loss.",
+    "clinicalPearl": "Key takeaway: Meniere's Disease is due to Endolymphatic Hydrops (Too much high-K+ fluid).",
+    "pdfPage": 23
+  },
+  {
+    "id": 4,
+    "category": "Auditory: Tonotopy",
+    "questionText": "A factory worker exposed to loud high-frequency machinery noise for years develops hearing loss. Which part of the basilar membrane is most likely damaged?",
+    "options": [
+      {
+        "text": "The Apex",
+        "explanation": "Incorrect (Low frequencies)."
+      },
+      {
+        "text": "The Base",
+        "explanation": "Correct. The base is narrow and stiff, resonating at high frequencies. It is also the first point of entry for the sound wave, making it most susceptible to damage.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Helicotrema",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Round Window",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Modiolus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Presbycusis and Noise-Induced Hearing Loss affect High Frequencies (Base) first. 'I can hear you talking but I can't understand the words' (loss of consonants).",
+    "pdfPage": 17
+  },
+  {
+    "id": 5,
+    "category": "Auditory: Transduction",
+    "questionText": "When the stereocilia of a hair cell bend towards the tallest cilium (kinocilium), tip links stretch and open mechanically-gated channels. This results in:",
+    "options": [
+      {
+        "text": "Hyperpolarization due to K+ efflux",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Depolarization due to K+ influx",
+        "explanation": "Correct. K+ rushes in from the endolymph -> Voltage gated Ca2+ channels open -> Glutamate release.",
+        "isCorrect": true
+      },
+      {
+        "text": "Depolarization due to Na+ influx",
+        "explanation": "Incorrect (Typical neuron, but not hair cells)."
+      },
+      {
+        "text": "Closing of Ca2+ channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Release of GABA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bending AWAY from the kinocilium closes the channels -> Hyperpolarization.",
     "pdfPage": 28
   },
   {
-    "id": 12,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The fluid found within the Scala Media (Cochlear Duct) is known as:",
+    "id": 6,
+    "category": "Auditory: Acoustic Reflex",
+    "questionText": "The Stapedius muscle contracts in response to loud sounds to dampen vibration of the stapes. This muscle is innervated by:",
     "options": [
       {
-        "text": "Perilymph",
-        "explanation": "Incorrect. Perilymph is found in the Scala Vestibuli and Scala Tympani (similar to CSF, low K+)."
+        "text": "CN V (Trigeminal)",
+        "explanation": "Incorrect (Tensor Tympani)."
       },
       {
-        "text": "Endolymph",
-        "explanation": "Correct. The Scala Media contains Endolymph, which is high in Potassium and essential for hair cell transduction."
+        "text": "CN VII (Facial)",
+        "explanation": "Correct. Bell's Palsy (CN VII lesion) can cause Hyperacusis (sounds seem painfully loud) because this dampening reflex is lost.",
+        "isCorrect": true
       },
       {
-        "text": "Cerebrospinal fluid",
+        "text": "CN VIII (Vestibulocochlear)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Aqueous humor",
-        "explanation": "Incorrect. Found in the eye."
+        "text": "CN IX (Glossopharyngeal)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Intracellular fluid",
-        "explanation": "Incorrect. Endolymph is extracellular."
+        "text": "CN X (Vagus)",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Scala Media contains high-potassium Endolymph.",
-    "pdfPage": 14
+    "clinicalPearl": "Key takeaway: Tensor Tympani dampens chewing noise (CN V3). Stapedius dampens external noise (CN VII).",
+    "pdfPage": 11
   },
   {
-    "id": 13,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Which structure produces the Endolymph and maintains its high potassium concentration?",
-    "options": [
-      {
-        "text": "Organ of Corti",
-        "explanation": "Incorrect. This is the sensory organ."
-      },
-      {
-        "text": "Stria Vascularis",
-        "explanation": "Correct. The Stria Vascularis regarding the lateral wall of the cochlear duct actively pumps ions to produce endolymph and maintain its high resting potential (+80 mV)."
-      },
-      {
-        "text": "Spiral Ganglion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tectorial Membrane",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Reissner's Membrane",
-        "explanation": "Incorrect. Separates scala vestibuli from scala media."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Stria Vascularis produces Endolymph.",
-    "pdfPage": 14
-  },
-  {
-    "id": 14,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "In the auditory pathway, the Lateral Lemniscus carries fibers from the Superior Olive to the:",
+    "id": 7,
+    "category": "Auditory: Pathway",
+    "questionText": "Sound localization relies on comparing interaural time and intensity differences. The first station in the auditory pathway where binaural (both ears) inputs converge is the:",
     "options": [
       {
         "text": "Cochlear Nucleus",
-        "explanation": "Incorrect. This is upstream."
+        "explanation": "Incorrect (Monouraw)."
+      },
+      {
+        "text": "Superior Olivary Complex",
+        "explanation": "Correct. Located in the Trapezoid body of the Pons. Medial SO = Time difference (Low freq). Lateral SO = Intensity difference (High freq).",
+        "isCorrect": true
       },
       {
         "text": "Inferior Colliculus",
-        "explanation": "Correct. The Lateral Lemniscus is the major ascending auditory tract connecting the cochlear nucleus/superior olive to the Inferior Colliculus in the midbrain."
+        "explanation": "Incorrect (Higher up)."
       },
       {
         "text": "Medial Geniculate Nucleus",
-        "explanation": "Incorrect. The Inferior Colliculus projects to the MGN via the brachium of the inferior colliculus."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect. Involved in visual reflexes."
+        "explanation": "Incorrect."
       },
       {
         "text": "Auditory Cortex",
@@ -416,636 +213,875 @@ window.Test_L17 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Lateral Lemniscus projects to the Inferior Colliculus.",
-    "pdfPage": 21
-  },
-  {
-    "id": 15,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Presbycusis is the most common cause of sensorineural hearing loss in the elderly. It is primarily characterized by:",
-    "options": [
-      {
-        "text": "Low-frequency hearing loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "High-frequency hearing loss",
-        "explanation": "Correct. Presbycusis typically involves the degeneration of hair cells at the base of the cochlea, leading to bilateral high-frequency hearing loss."
-      },
-      {
-        "text": "Unilateral hearing loss",
-        "explanation": "Incorrect. Usually bilateral."
-      },
-      {
-        "text": "Conductive hearing loss",
-        "explanation": "Incorrect. Since it involves hair cells, it is sensorineural."
-      },
-      {
-        "text": "Fluctuating hearing loss",
-        "explanation": "Incorrect. Usually progressive."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Presbycusis is age-related, bilateral, high-frequency sensorineural hearing loss.",
-    "pdfPage": 32
-  },
-  {
-    "id": 16,
-    "category": "Physiology: Auditory System",
-    "questionText": "A 5-year-old child presents with recurrent ear infections. Otoscopy reveals fluid accumulation in the middle ear (Otitis Media with Effusion). The parents report the child is not responding when called from another room. What is the primary mechanism of hearing loss in this patient?",
-    "options": [
-      {
-        "text": "Destruction of Outer Hair Cells",
-        "explanation": "Incorrect. This causes sensorineural hearing loss."
-      },
-      {
-        "text": "Attenuation of Ossicular Vibration",
-        "explanation": "Correct. Fluid in the tympanic cavity dampens the vibration of the tympanic membrane and ossicles, preventing efficient transmission of sound pressure to the oval window (Conductive Hearing Loss)."
-      },
-      {
-        "text": "Blockage of the External Auditory Canal",
-        "explanation": "Incorrect. The obstruction is in the middle ear, not the external canal."
-      },
-      {
-        "text": "Degeneration of the Auditory Nerve",
-        "explanation": "Incorrect. The nerve is intact."
-      },
-      {
-        "text": "Fusion of the Stapes footplate",
-        "explanation": "Incorrect. This is Otosclerosis."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Otitis media with effusion causes conductive hearing loss by fluid damping the movement of the ossicles.",
-    "pdfPage": 7
-  },
-  {
-    "id": 17,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "During an acoustic reflex test, the Tensor Tympani muscle is identified. Which cranial nerve provides motor innervation to this muscle?",
-    "options": [
-      {
-        "text": "Facial Nerve (CN VII)",
-        "explanation": "Incorrect. CN VII innervates the Stapedius muscle."
-      },
-      {
-        "text": "Trigeminal Nerve (CN V)",
-        "explanation": "Correct. The Tensor Tympani is derived from the first pharyngeal arch and is innervated by the mandibular branch of the Trigeminal Nerve (CN V3)."
-      },
-      {
-        "text": "Vestibulocochlear Nerve (CN VIII)",
-        "explanation": "Incorrect. This is sensory."
-      },
-      {
-        "text": "Vagus Nerve (CN X)",
-        "explanation": "Incorrect. Innervates pharyngeal/laryngeal muscles."
-      },
-      {
-        "text": "Accessory Nerve (CN XI)",
-        "explanation": "Incorrect. Innervates SCM and Trapezius."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Tensor Tympani is innervated by the Trigeminal Nerve (CN V).",
-    "pdfPage": 8
-  },
-  {
-    "id": 18,
-    "category": "Pathology: Auditory System",
-    "questionText": "A 12-year-old boy presents with profound congenital deafness in both ears and balance problems since birth. He has recently developed night blindness. Genetic testing reveals a mutation in the MYO7A gene. What is the most likely diagnosis?",
-    "options": [
-      {
-        "text": "Alport Syndrome",
-        "explanation": "Incorrect. Alport syndrome involves kidney failure and hearing loss, but not typically night blindness/retinitis pigmentosa."
-      },
-      {
-        "text": "Usher Syndrome Type 1",
-        "explanation": "Correct. Usher Syndrome Type 1 is characterized by profound congenital deafness, vestibular (balance) dysfunction, and progressive vision loss (Retinitis Pigmentosa) starting in childhood. MYO7A is a common mutation affecting stereocilia maintenance."
-      },
-      {
-        "text": "Waardenburg Syndrome",
-        "explanation": "Incorrect. Associated with pigmentation abnormalities (white forelock, heterochromia)."
-      },
-      {
-        "text": "Pendred Syndrome",
-        "explanation": "Incorrect. Associated with thyroid goiter."
-      },
-      {
-        "text": "Neurofibromatosis Type 2",
-        "explanation": "Incorrect. Associated with bilateral acoustic neuromas."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Usher Syndrome Type 1 presents with congenital deafness, vestibular dysfunction, and retinitis pigmentosa (blindness).",
-    "pdfPage": 34
-  },
-  {
-    "id": 19,
-    "category": "Pathology: Auditory System",
-    "questionText": "A 45-year-old female presents with unilateral hearing loss, tinnitus, and unsteadiness. MRI reveals a tumor at the cerebellopontine angle compressing the vestibulocochlear nerve. What additional symptom might she experience due to compression of an adjacent cranial nerve?",
-    "options": [
-      {
-        "text": "Loss of taste to the posterior 1/3 of the tongue",
-        "explanation": "Incorrect. This would be CN IX."
-      },
-      {
-        "text": "Facial paralysis (Bell's Palsy)",
-        "explanation": "Correct. The Facial Nerve (CN VII) exits the brainstem near CN VIII at the cerebellopontine angle and travels with it into the internal acoustic meatus. An acoustic neuroma often compresses CN VII, causing facial weakness."
-      },
-      {
-        "text": "Deviation of the tongue",
-        "explanation": "Incorrect. This is CN XII."
-      },
-      {
-        "text": "Ptosis",
-        "explanation": "Incorrect. This is CN III."
-      },
-      {
-        "text": "Difficulty shrugging shoulders",
-        "explanation": "Incorrect. This is CN XI."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acoustic Neuromas (Vestibular Schwannomas) can compress the Facial Nerve (CN VII), causing facial paralysis.",
-    "pdfPage": 37
-  },
-  {
-    "id": 20,
-    "category": "Physiology: Auditory System",
-    "questionText": "A patient complains of a continuous high-pitched ringing in their ears (tinnitus). The physician explains that this is likely due to the hyperactivity of a specific cochlear cell type acting as a 'cochlear amplifier'. Which cells are responsible?",
-    "options": [
-      {
-        "text": "Inner Hair Cells",
-        "explanation": "Incorrect. IHCs transmit the signal, but the spontaneous activity generating the 'ringing' often originates from the active mechanism of OHCs."
-      },
-      {
-        "text": "Outer Hair Cells",
-        "explanation": "Correct. Tinnitus is often caused by the hyperactivity or dysregulation of Outer Hair Cells, which normally mechanically amplify sound. Their spontaneous electromotility can generate perceivable sound (otoacoustic emissions) or phantom noise."
-      },
-      {
-        "text": "Spiral Ganglion Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Support Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stria Vascularis Cells",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tinnitus is often associated with hyperactivity or damage to the Outer Hair Cells (cochlear amplifier).",
+    "clinicalPearl": "Key takeaway: Unilateral lesions ABOVE the cochlear nuclei do NOT cause deafness (because of bilateral projection), but they impair LOCALIZATION.",
     "pdfPage": 36
   },
   {
-    "id": 21,
-    "category": "Pathology: Auditory System",
-    "questionText": "EAST syndrome comprises Epilepsy, Ataxia, Sensorineural deafness, and Tubulopathy. It is caused by a mutation in the KCNJ10 gene. This gene encodes a potassium channel essential for which physiological process in the ear?",
+    "id": 8,
+    "category": "Auditory: Presbycusis",
+    "questionText": "Presbycusis is characterized by:",
     "options": [
       {
-        "text": "Generation of high K+ concentration in Endolymph",
-        "explanation": "Correct. KCNJ10 (Kir4.1) channels in the Stria Vascularis are crucial for secreting K+ into the endolymph. Without this high K+ gradient, hair cells cannot depolarize, leading to deafness."
+        "text": "Unilateral fluctuating hearing loss",
+        "explanation": "Incorrect (Meniere's)."
       },
       {
-        "text": "Neurotransmitter release from hair cells",
-        "explanation": "Incorrect. This relies on Calcium channels."
+        "text": "Bilateral, symmetric, sensorineural hearing loss of high frequencies",
+        "explanation": "Correct. Due to loss of hair cells at the base of the cochlea.",
+        "isCorrect": true
       },
       {
-        "text": "Vibration of the tympanic membrane",
+        "text": "Conductive hearing loss due to ossicle stiffness",
+        "explanation": "Incorrect (Otosclerosis)."
+      },
+      {
+        "text": "Low frequency heating loss",
         "explanation": "Incorrect."
       },
       {
-        "text": "Movement of the stapes",
+        "text": "Loss of vestibular function only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Often presents as difficulty hearing in a crowded room (Cocktail party effect).",
+    "pdfPage": 9
+  },
+  {
+    "id": 9,
+    "category": "Auditory: Cochlear Implant",
+    "questionText": "Cochlear implants work by directly stimulating the:",
+    "options": [
+      {
+        "text": "Tympanic Membrane",
         "explanation": "Incorrect."
       },
       {
-        "text": "Formation of otoliths",
+        "text": "Ossicles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory Nerve (Spiral Ganglion)",
+        "explanation": "Correct. It bypasses the dead hair cells and electrically stimulates the nerve endings directly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inferior Colliculus",
+        "explanation": "Incorrect (Auditory Brainstem Implant)."
+      },
+      {
+        "text": "Auditory Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Requires a functioning auditory nerve.",
+    "pdfPage": 45
+  },
+  {
+    "id": 10,
+    "category": "Auditory: EAST Syndrome",
+    "questionText": "EAST syndrome (Epilepsy, Ataxia, Sensorineural deafness, Tubulopathy) is caused by a mutation in KCNJ10, which affects:",
+    "options": [
+      {
+        "text": "Sodium channels in the nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Kir4.1 Potassium channels in the Stria Vascularis",
+        "explanation": "Correct. These channels are needed to secrete K+ into the endolymph. Without high K+, hair cells can't depolarize.",
+        "isCorrect": true
+      },
+      {
+        "text": "Calcium channels in the hair cell",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glutamate receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tip links",
+        "explanation": "Incorrect (Usher syndrome)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Demonstrates the critical role of Potassium recycling in the inner ear.",
+    "pdfPage": 56
+  },
+  {
+    "id": 11,
+    "category": "Auditory: Eustachian Tube",
+    "questionText": "A child with recurrent otitis media has fluid accumulation in the middle ear. This causes conductive hearing loss by:",
+    "options": [
+      {
+        "text": "Damaging the hair cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dampening the vibration of the tympanic membrane and ossicles",
+        "explanation": "Correct. Fluid is incompressible compared to air, preventing proper vibration transmission.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking the ear canal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Disconnecting the stapes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Paralyzing the facial nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Kids have more horizontal Eustachian tubes, making drainage harder.",
+    "pdfPage": 6
+  },
+  {
+    "id": 12,
+    "category": "Auditory: Anatomy",
+    "questionText": "The footplate of the stapes pushes against the:",
+    "options": [
+      {
+        "text": "Tympanic Membrane",
+        "explanation": "Incorrect (Malleus)."
+      },
+      {
+        "text": "Round Window",
+        "explanation": "Incorrect (Bulges out)."
+      },
+      {
+        "text": "Oval Window",
+        "explanation": "Correct. Creating a pressure wave in the Scala Vestibuli.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tectorial Membrane",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Helicotrema",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Malleus -> Incus -> Stapes -> Oval Window.",
+    "pdfPage": 5
+  },
+  {
+    "id": 13,
+    "category": "Auditory: Vestibular Schwannoma",
+    "questionText": "A patient presents with unilateral hearing loss, tinnitus, and facial weakness. MRI shows a mass at the cerebellopontine angle. This is likely a:",
+    "options": [
+      {
+        "text": "Pituitary Adenoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular Schwannoma (Acoustic Neuroma)",
+        "explanation": "Correct. Compresses CN VIII (Hearing/Balance) and CN VII (Face).",
+        "isCorrect": true
+      },
+      {
+        "text": "Meningioma of the falx",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glioblastoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cholesteatoma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bilateral Schwannomas = NF2 (Neurofibromatosis type 2).",
+    "pdfPage": 60
+  },
+  {
+    "id": 14,
+    "category": "Auditory: Impedance Matching",
+    "questionText": "The area of the tympanic membrane is much larger than the area of the oval window. This anatomical feature serves to:",
+    "options": [
+      {
+        "text": "Filter out high frequencies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Amplify the pressure (Impedance Matching)",
+        "explanation": "Correct. Pressure = Force/Area. Decreasing the area increases the pressure to overcome the air-fluid mismatch.",
+        "isCorrect": true
+      },
+      {
+        "text": "Protect the inner ear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Localize sound",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reduce echoes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 22x amplification occurs in the middle ear.",
+    "pdfPage": 7
+  },
+  {
+    "id": 15,
+    "category": "Auditory: Thalamus",
+    "questionText": "The auditory relay nucleus in the thalamus is the:",
+    "options": [
+      {
+        "text": "VPL",
+        "explanation": "Incorrect (Body sensation)."
+      },
+      {
+        "text": "VPM",
+        "explanation": "Incorrect (Face sensation)."
+      },
+      {
+        "text": "LGN",
+        "explanation": "Incorrect (Vision)."
+      },
+      {
+        "text": "MGN (Medial Geniculate Nucleus)",
+        "explanation": "Correct. Medial = Music (Hearing). Lateral = Light (Vision).",
+        "isCorrect": true
+      },
+      {
+        "text": "VL",
+        "explanation": "Incorrect (Motor)."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: MGN projects to the Primary Auditory Cortex (Heschl's Gyrus).",
+    "pdfPage": 37
+  },
+  {
+    "id": 16,
+    "category": "Auditory: Cholesteatoma",
+    "questionText": "A pearly white mass is seen behind the tympanic membrane in a patient with chronic ear infections. This is a Cholesteatoma, which is:",
+    "options": [
+      {
+        "text": "A cancer of the ear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A cyst of trapped keratinizing squamous epithelium",
+        "explanation": "Correct. It can erode the ossicles and mastoid bone. Not a tumor, not cholesterol.",
+        "isCorrect": true
+      },
+      {
+        "text": "A bacterial colony",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A fungal infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A scar",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Requires surgical removal because it is destructive.",
+    "pdfPage": 5
+  },
+  {
+    "id": 17,
+    "category": "Auditory: Cortex",
+    "questionText": "The Primary Auditory Cortex (A1) is located in:",
+    "options": [
+      {
+        "text": "The Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Postcentral Gyrus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Transverse Temporal Gyrus of Heschl (Temporal Lobe)",
+        "explanation": "Correct. Buried in the lateral sulcus.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Insula",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Cingulate Gyrus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Tonotopy is preserved here. Low freq = Rostral. High freq = Caudal.",
+    "pdfPage": 40
+  },
+  {
+    "id": 18,
+    "category": "Auditory: Otosclerosis",
+    "questionText": "Otosclerosis is a common cause of conductive hearing loss in adults. It involves:",
+    "options": [
+      {
+        "text": "Perforation of the eardrum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Abnormal bone growth fixing the stapes to the oval window",
+        "explanation": "Correct. Prevents the stapes from vibrating.",
+        "isCorrect": true
+      },
+      {
+        "text": "Loss of hair cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fusion of the malleus and incus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tumor of the nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Treated with Stapedectomy.",
+    "pdfPage": 5
+  },
+  {
+    "id": 19,
+    "category": "Auditory: Tinnitus",
+    "questionText": "Subjective Tinnitus (ringing in the ears) is often caused by:",
+    "options": [
+      {
+        "text": "A spider in the ear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperactivity of Outer Hair Cells or central auditory gain",
+        "explanation": "Correct. A sign of cochlear damage. The brain 'turns up the volume' to compensate for silence, creating noise.",
+        "isCorrect": true
+      },
+      {
+        "text": "Low blood pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Excess cerumen",
+        "explanation": "Incorrect (Can cause it, but OHC damage is the classic sensorineural cause)."
+      },
+      {
+        "text": "Too much potassium",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pulsatile tinnitus is different - check for vascular malformations!",
+    "pdfPage": 59
+  },
+  {
+    "id": 20,
+    "category": "Auditory: Basilar Membrane",
+    "questionText": "The Basilar Membrane acts as a frequency analyzer. The Apex of the membrane is:",
+    "options": [
+      {
+        "text": "Narrow and Stiff",
+        "explanation": "Incorrect (Base)."
+      },
+      {
+        "text": "Wide and Floppy",
+        "explanation": "Correct. Resonates with Low Frequencies (Like a thick guitar string).",
+        "isCorrect": true
+      },
+      {
+        "text": "Thick and Stiff",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Connected to the oval window",
+        "explanation": "Incorrect (Base)."
+      },
+      {
+        "text": "Avascular",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Base = High Freq. Apex = Low Freq.",
+    "pdfPage": 17
+  },
+  {
+    "id": 21,
+    "category": "Auditory: Decibels",
+    "questionText": "The audibility curve shows that human hearing is most sensitive (lowest threshold) at frequencies of:",
+    "options": [
+      {
+        "text": "20 Hz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "1000 - 4000 Hz",
+        "explanation": "Correct. This corresponds to the frequency of human speech.",
+        "isCorrect": true
+      },
+      {
+        "text": "15,000 Hz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "100,000 Hz",
+        "explanation": "Incorrect (Bats)."
+      },
+      {
+        "text": "0 Hz",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hearing range is 20-20k Hz, but we are tuned for speech.",
+    "pdfPage": 18
+  },
+  {
+    "id": 22,
+    "category": "Auditory: Conductive Causes",
+    "questionText": "Which of the following is a cause of Conductive Hearing Loss?",
+    "options": [
+      {
+        "text": "Ototoxic drugs (Gentamicin)",
+        "explanation": "Incorrect (Sensorineural)."
+      },
+      {
+        "text": "Cerumen impaction (Ear wax)",
+        "explanation": "Correct. Blocks the canal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Presbycusis",
+        "explanation": "Incorrect (Sensorineural)."
+      },
+      {
+        "text": "Meniere's Disease",
+        "explanation": "Incorrect (Sensorineural)."
+      },
+      {
+        "text": "Acoustic Neuroma",
+        "explanation": "Incorrect (Sensorineural)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: If the Rinne BC > AC, look for a plug (wax, fluid, bone).",
+    "pdfPage": 50
+  },
+  {
+    "id": 23,
+    "category": "Auditory: Usher Syndrome",
+    "questionText": "Usher Syndrome is a genetic condition involving:",
+    "options": [
+      {
+        "text": "Deafness and Blindness (Retinitis Pigmentosa)",
+        "explanation": "Correct. Defects in tip-link proteins (Cadherin 23, Protocadherin 15) affect both stereocilia and photoreceptors.",
+        "isCorrect": true
+      },
+      {
+        "text": "Deafness and Kidney failure",
+        "explanation": "Incorrect (Alport)."
+      },
+      {
+        "text": "Deafness and Goiter",
+        "explanation": "Incorrect (Pendred)."
+      },
+      {
+        "text": "Blindness and Paralysis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vertigo only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: EAST syndrome is caused by failure to maintain high endolymph potassium due to KCNJ10 mutations.",
-    "pdfPage": 35
-  },
-  {
-    "id": 22,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The Organ of Corti contains two types of hair cells. Which of the following accurately compares Inner Hair Cells (IHCs) and Outer Hair Cells (OHCs)?",
-    "options": [
-      {
-        "text": "IHCs are more numerous (12,000) than OHCs (3,500)",
-        "explanation": "Incorrect. Usually the reverse: ~3,500 IHCs vs ~12,000 OHCs."
-      },
-      {
-        "text": "OHCs are the primary sensory receptors sending 95% of output to the brain",
-        "explanation": "Incorrect. IHCs send 95% of the output."
-      },
-      {
-        "text": "IHC stereocilia are embedded in the tectorial membrane, while OHCs are free",
-        "explanation": "Incorrect. OHC stereocilia are embedded; IHC stereocilia are moved by endolymph flow."
-      },
-      {
-        "text": "OHCs receive extensive efferent innervation to modulate their electromotility",
-        "explanation": "Correct. OHCs receive efferent fibers (Olivocochlear bundle) to control their length and 'tuning' capability, while IHCs are the primary afferent sensors."
-      },
-      {
-        "text": "Both cell types fire action potentials",
-        "explanation": "Incorrect. Hair cells release neurotransmitter in a graded fashion; they do not fire action potentials. The spiral ganglion neurons fire action potentials."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Outer Hair Cells (OHCs) are embedded in the tectorial membrane and serve as the active cochlear amplifier, while Inner Hair Cells (IHCs) are the primary sensory transducers.",
-    "pdfPage": 18
-  },
-  {
-    "id": 23,
-    "category": "Physiology: Auditory System",
-    "questionText": "The cochlea contains three fluid-filled chambers. If a fistula forms connecting the Scala Vestibuli and the Scala Media, mixing their fluids, which physiological gradient would be destroyed?",
-    "options": [
-      {
-        "text": "The Sodium gradient",
-        "explanation": "Incorrect. While Na+ differs, the K+ gradient is the critical driver."
-      },
-      {
-        "text": "The Potassium gradient",
-        "explanation": "Correct. Scala Vestibuli contains Perilymph (low K+, similar to extracellular fluid), while Scala Media contains Endolymph (high K+, +80mV potential). Mixing them dissipates the endocochlear potential, preventing hair cell depolarization."
-      },
-      {
-        "text": "The Calcium gradient",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Glucose gradient",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Pressure gradient",
-        "explanation": "Incorrect. While pressure might change, the immediate functional loss is ionic."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The high Potassium concentration in the Scala Media (Endolymph) is essential for hearing; mixing with Perilymph causes hearing loss.",
-    "pdfPage": 14
+    "clinicalPearl": "Key takeaway: Type 1 is the most severe (Congenital deafness + vestib dysfunction).",
+    "pdfPage": 54
   },
   {
     "id": 24,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Sound vibrations travel from the oval window through the Scala Vestibuli to the apex, and back down the Scala Tympani. Where is the pressure wave finally relieved/dissipated?",
-    "options": [
-      {
-        "text": "Helicotrema",
-        "explanation": "Incorrect. This acts as a connecting passage at the apex."
-      },
-      {
-        "text": "Round Window",
-        "explanation": "Correct. The Round Window membrane bulges outward to relieve the pressure wave traveling through the incompressible cochlear fluid. Without this relief valve, fluid could not move."
-      },
-      {
-        "text": "Tympanic Membrane",
-        "explanation": "Incorrect. This is the input."
-      },
-      {
-        "text": "Eustachian Tube",
-        "explanation": "Incorrect. This equalizes air pressure, not fluid waves."
-      },
-      {
-        "text": "Cochlear Aqueduct",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Round Window acts as a pressure relief valve for the cochlear fluid waves.",
-    "pdfPage": 13
-  },
-  {
-    "id": 25,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The primary auditory cortex (A1) is tonotopically organized. If a researcher records from neurons in the anterior portion of A1, what types of frequencies would they likely encounter compared to the posterior portion?",
-    "options": [
-      {
-        "text": "Higher frequencies",
-        "explanation": "Incorrect. In the human auditory cortex, low frequencies are typically mapped anteriorly/laterally and high frequencies posteriorly/medially (though the map is complex, 'low-anterior, high-posterior' is a common simplification of the core)."
-      },
-      {
-        "text": "Lower frequencies",
-        "explanation": "Correct. The tonotopic map is preserved from the cochlea to the cortex. Generally, lower frequencies are represented more anteriorly in Heschl's gyrus (A1)."
-      },
-      {
-        "text": "Only speech sounds",
-        "explanation": "Incorrect. A1 processes pure tones; speech is processed in secondary areas."
-      },
-      {
-        "text": "Only noise",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Binaural sounds only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tonotopy is preserved in the Auditory Cortex (A1).",
-  },
-  {
-    "id": 26,
-    "category": "Pathology: Auditory System",
-    "questionText": "A 30-year-old female presents with progressive hearing loss. She recalls her mother had a similar problem at a young age. Otoscopy is normal. A CT scan reveals bone overgrowth fixed the stapes footplate. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Cholesteatoma",
-        "explanation": "Incorrect. This is a destructive growth of keratinizing squamous epithelium, usually associated with chronic infection."
-      },
-      {
-        "text": "Otosclerosis",
-        "explanation": "Correct. Otosclerosis is a hereditary bone dystrophy where the stapes becomes fixed to the oval window (ankylosis), preventing vibration and causing conductive hearing loss."
-      },
-      {
-        "text": "Presbycusis",
-        "explanation": "Incorrect. Age-related."
-      },
-      {
-        "text": "Otitis Media",
-        "explanation": "Incorrect. Would see fluid or inflammation on otoscopy."
-      },
-      {
-        "text": "Exostosis",
-        "explanation": "Incorrect. 'Surfer's ear', bony growth in the canal, visible on otoscopy."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Otosclerosis causes conductive hearing loss due to fixation of the stapes.",
-    "pdfPage": 31
-  },
-  {
-    "id": 27,
-    "category": "Pathology: Auditory System",
-    "questionText": "Which of the following medications is known to be ototoxic and can cause permanent sensorineural hearing loss?",
-    "options": [
-      {
-        "text": "Amoxicillin",
-        "explanation": "Incorrect. Penicillins are generally safe for the ear."
-      },
-      {
-        "text": "Gentamicin",
-        "explanation": "Correct. Aminoglycosides like Gentamicin are well-known ototoxins that can destroy hair cells in the cochlea and vestibular system."
-      },
-      {
-        "text": "Ibuprofen",
-        "explanation": "Incorrect. NSAIDs can cause reversible tinnitus but rarely permanent loss at normal doses."
-      },
-      {
-        "text": "Lisinopril",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Metformin",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Aminoglycosides (e.g., Gentamicin) are ototoxic.",
-    "pdfPage": 32
-  },
-  {
-    "id": 28,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The descending Olivocochlear pathway modulates the sensitivity of the cochlea. The Medial Olivocochlear (MOC) system projects primarily to:",
+    "category": "Auditory: OHC Motility",
+    "questionText": "High doses of Aspirin (Salicylates) can cause reversible hearing loss and tinnitus by primarily affecting:",
     "options": [
       {
         "text": "Inner Hair Cells",
-        "explanation": "Incorrect. The Lateral Olivocochlear (LOC) system projects near IHCs."
+        "explanation": "Incorrect."
       },
       {
-        "text": "Outer Hair Cells",
-        "explanation": "Correct. The Medial Olivocochlear system projects directly to Outer Hair Cells, inhibiting their electromotility to protect against loud sounds and improve signal-to-noise ratio."
+        "text": "Outer Hair Cell electromotility (Prestin)",
+        "explanation": "Correct. Dampens the amplifier.",
+        "isCorrect": true
       },
       {
-        "text": "Spiral Ganglion",
+        "text": "The auditory nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The ossicles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The tympanic membrane",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Remove the aspirin, hearing usually returns.",
+    "pdfPage": 53
+  },
+  {
+    "id": 25,
+    "category": "Auditory: Scala Media",
+    "questionText": "The floor of the Scala Media is formed by the:",
+    "options": [
+      {
+        "text": "Reissner's Membrane",
+        "explanation": "Incorrect (Roof)."
+      },
+      {
+        "text": "Basilar Membrane",
+        "explanation": "Correct. Supports the Organ of Corti.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tectorial Membrane",
         "explanation": "Incorrect."
       },
       {
         "text": "Stria Vascularis",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect (Side wall/Battery)."
       },
       {
-        "text": "Tectorial Membrane",
+        "text": "Oval Window",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Medial Olivocochlear pathway inhibits Outer Hair Cells.",
+    "clinicalPearl": "Key takeaway: Basilar membrane vibrates. Tectorial membrane shears the hairs.",
+    "pdfPage": 27
+  },
+  {
+    "id": 26,
+    "category": "Auditory: Organ of Corti",
+    "questionText": "The Organ of Corti is located within the:",
+    "options": [
+      {
+        "text": "Scala Vestibuli",
+        "explanation": "Incorrect (Perilymph)."
+      },
+      {
+        "text": "Scala Tympani",
+        "explanation": "Incorrect (Perilymph)."
+      },
+      {
+        "text": "Scala Media (Cochlear Duct)",
+        "explanation": "Correct. Filled with Endolymph.",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal Auditory Meatus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Middle Ear",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Corti = Core (Center).",
     "pdfPage": 22
   },
   {
-    "id": 29,
-    "category": "Pathology: Auditory System",
-    "questionText": "A patient with a history of noise exposure complains of difficulty understanding speech in noisy environments ('Cocktail Party Effect'). This is often an early sign of:",
+    "id": 27,
+    "category": "Auditory: Phase Locking",
+    "questionText": "For low frequency sounds (< 3 kHz), the auditory nerve encodes frequency using:",
     "options": [
       {
-        "text": "Conductive hearing loss",
+        "text": "Place coding only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Damage to high-frequency hair cells",
-        "explanation": "Correct. Noise exposure typically damages the delicate hair cells processing high frequencies first. These frequencies are crucial for consonantal discrimination (speech clarity), especially in background noise."
+        "text": "Phase Locking (Volley Principle)",
+        "explanation": "Correct. Neurons fire at the same phase of every sound wave (e.g., every peak).",
+        "isCorrect": true
       },
       {
-        "text": "Otitis Externa",
+        "text": "Intensity coding",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tympanic membrane perforation",
+        "text": "Color coding",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ossicular discontinuity",
+        "text": "Rate coding only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: High-frequency hearing loss impairs speech discrimination in noise.",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: Above 3kHz, neurons can't keep up, so they rely solely on Place Coding (Tonotopy).",
+    "pdfPage": 18
   },
   {
-    "id": 30,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "What is the specific function of the inner hair cells (IHCs) in the Organ of Corti?",
+    "id": 28,
+    "category": "Auditory: Round Window",
+    "questionText": "The function of the Round Window is to:",
     "options": [
       {
-        "text": "Cochlear amplification",
-        "explanation": "Incorrect. This is the OHCs."
+        "text": "Receive the stapes",
+        "explanation": "Incorrect (Oval)."
       },
       {
-        "text": "Mechanical protection",
+        "text": "Decompress the acoustic energy (Pressure relief)",
+        "explanation": "Correct. Fluid is incompressible. When the stapes pushes IN at the oval window, the round window must bulge OUT for fluid to move.",
+        "isCorrect": true
+      },
+      {
+        "text": "Amplify sound",
         "explanation": "Incorrect."
       },
       {
-        "text": "Primary sensory transduction",
-        "explanation": "Correct. IHCs transform mechanical vibrations into electrical signals that are sent to the brain via the auditory nerve (CN VIII)."
+        "text": "Secrete endolymph",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Production of endolymph",
-        "explanation": "Incorrect. Stria Vascularis."
-      },
-      {
-        "text": "Pressure equalization",
+        "text": "Connect to the throat",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Inner Hair Cells are the primary sensory receptors; Outer Hair Cells are amplifiers.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: If both windows were rigid, no sound could enter.",
     "pdfPage": 15
   },
   {
-    "id": 31,
-    "category": "Pathology: Auditory System",
-    "questionText": "In Usher Syndrome, the visual deficits (Retinitis Pigmentosa) and hearing loss are caused by mutations in proteins that:",
+    "id": 29,
+    "category": "Auditory: Tensor Tympani",
+    "questionText": "The Tensor Tympani muscle attaches to the:",
     "options": [
       {
-        "text": "Form the myelin sheath",
+        "text": "Incus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Make up the structural links of stereocilia",
-        "explanation": "Correct. Genes like MYO7A, CDH23, and PCDH15 encode proteins essential for the development and maintenance of stereocilia tip links and ankle links. Defects lead to hair cell dysfunction (deafness) and photoreceptor degeneration (blindness)."
-      },
-      {
-        "text": "Synthesize neurotransmitters",
+        "text": "Stapes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Regulate blood flow",
+        "text": "Malleus",
+        "explanation": "Correct. Tenses the tympanic membrane.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cochlea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Produce endolymph",
+        "text": "Eustachian Tube",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Innervated by V3.",
+    "pdfPage": 11
+  },
+  {
+    "id": 30,
+    "category": "Auditory: Tip Links",
+    "questionText": "Tip links connect the stereocilia and are composed of:",
+    "options": [
+      {
+        "text": "Actin and Myosin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cadherin 23 and Protocadherin 15",
+        "explanation": "Correct. These are the proteins mutated in Usher Syndrome.",
+        "isCorrect": true
+      },
+      {
+        "text": "Collagen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Elastin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Keratin",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Usher syndrome genes (e.g., MYO7A) are involved in stereocilia structure and transport.",
-    "pdfPage": 34
+    "clinicalPearl": "Key takeaway: They act like little springs to pull the channel open.",
+    "pdfPage": 54
+  },
+  {
+    "id": 31,
+    "category": "Auditory: Efferent Control",
+    "questionText": "The Olivocochlear Bundle carries efferent (descending) fibers from the brainstem to the cochlea. Its primary function is to:",
+    "options": [
+      {
+        "text": "Increase sensitivity to all sounds",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Suppress background noise and protect against loud sounds",
+        "explanation": "Correct. Inhibits the OHC amplifier, reducing the response to constant noise.",
+        "isCorrect": true
+      },
+      {
+        "text": "Regulate endolymph production",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cause tinnitus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulate the VIII nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Helps you focus on conversation in a noisy room.",
+    "pdfPage": 38
   },
   {
     "id": 32,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The auditory cortex is located in which lobe of the brain?",
+    "category": "Auditory: Intensity",
+    "questionText": "Sound Intensity is encoded by:",
     "options": [
       {
-        "text": "Frontal Lobe",
+        "text": "The location on the basilar membrane",
+        "explanation": "Incorrect (Frequency)."
+      },
+      {
+        "text": "Firing rate of neurons and number of active neurons",
+        "explanation": "Correct. Louder sound = Faster firing + More neurons recruited.",
+        "isCorrect": true
+      },
+      {
+        "text": "Phase locking",
         "explanation": "Incorrect."
       },
       {
-        "text": "Parietal Lobe",
+        "text": "Interaural time difference",
         "explanation": "Incorrect."
       },
       {
-        "text": "Temporal Lobe",
-        "explanation": "Correct. The Primary Auditory Cortex (A1) is located in the Transverse Temporal Gyri (of Heschl) on the superior surface of the Temporal Lobe."
-      },
-      {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect. Visual."
-      },
-      {
-        "text": "Limbic Lobe",
+        "text": "The shape of the pinna",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The Primary Auditory Cortex is in the Temporal Lobe (Heschl's Gyri).",
-    "pdfPage": 21
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dynamic range of hearing is huge (0 to 120 dB). 120 dB is 1,000,000,000,000 times more intense than 0 dB.",
+    "pdfPage": 18
   },
   {
     "id": 33,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "Which membrane separates the Scala Vestibuli from the Scala Media?",
+    "category": "Auditory: Vertical Localization",
+    "questionText": "While horizontal localization uses binaural cues (ITD/ILD), vertical localization (up vs down) primarily relies on:",
     "options": [
       {
-        "text": "Basilar Membrane",
-        "explanation": "Incorrect. Separates Scala Media from Scala Tympani."
-      },
-      {
-        "text": "Reissner's Membrane (Vestibular Membrane)",
-        "explanation": "Correct. Reissner's membrane separates the perilymph of the Scala Vestibuli from the endolymph of the Scala Media."
-      },
-      {
-        "text": "Tectorial Membrane",
-        "explanation": "Incorrect. Overlies the hair cells."
-      },
-      {
-        "text": "Round Window Membrane",
+        "text": "The Cochlea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tympanic Membrane",
+        "text": "The Pinna (Outer Ear)",
+        "explanation": "Correct. The ridges absorb/reflect sounds differently depending on elevation (Spectral Notches).",
+        "isCorrect": true
+      },
+      {
+        "text": "The Stapes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Semicircular Canals",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Vagus nerve",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Reissner's membrane separates Scala Vestibuli and Scala Media.",
-    "pdfPage": 14
+    "clinicalPearl": "Key takeaway: This is why wearing headphones messes up vertical localization (bypasses pinna).",
+    "pdfPage": 4
   },
   {
     "id": 34,
-    "category": "Pathology: Auditory System",
-    "questionText": "A 60-year-old male has Weber lateralizing to the Left and Rinne AC > BC in both ears. What is the interpretation?",
+    "category": "Auditory: Stria Vascularis",
+    "questionText": "The Stria Vascularis is located on the lateral wall of the cochlear duct. Its function is to:",
     "options": [
       {
-        "text": "Left Conductive Hearing Loss",
-        "explanation": "Incorrect. Rinne would be BC > AC on the left."
-      },
-      {
-        "text": "Right Conductive Hearing Loss",
-        "explanation": "Incorrect. Weber would lateralize to the Right."
-      },
-      {
-        "text": "Right Sensorineural Hearing Loss",
-        "explanation": "Correct. Weber lateralizes to the BETTER cochlea (Left) in SNHL. Rinne is normal (AC > BC) because the conduction mechanism is intact; the deficit is in the nerve/sensory organ on the Right."
-      },
-      {
-        "text": "Left Sensorineural Hearing Loss",
-        "explanation": "Incorrect. Weber would lateralize to the Right."
-      },
-      {
-        "text": "Normal Hearing",
-        "explanation": "Incorrect. Weber should be midline."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: In Sensorineural hearing loss, Weber lateralizes to the GOOD ear, and Rinne is AC > BC (positive).",
-    "pdfPage": 39
-  },
-  {
-    "id": 35,
-    "category": "Neuroanatomy: Auditory System",
-    "questionText": "The trapezoid body is a decussating pathway located in the:",
-    "options": [
-      {
-        "text": "Midbrain",
+        "text": "Absorb sound",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pons",
-        "explanation": "Correct. The trapezoid body is a bundle of decussating fibers in the ventral pons, carrying auditory information from the cochlear nuclei to the superior olivary complex."
+        "text": "Produces Endolymph and maintains the Endocochlear Potential (+80 mV)",
+        "explanation": "Correct. It's the 'Battery' of the cochlea.",
+        "isCorrect": true
       },
       {
-        "text": "Medulla",
+        "text": "Vibrate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Thalamus",
+        "text": "Connect the ossicles",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cortex",
+        "text": "House the hair cells",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The trapezoid body is the main acoustic decussation in the Pons.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Damage here lowers the battery voltage -> Hearing loss.",
+    "pdfPage": 23
+  },
+  {
+    "id": 35,
+    "category": "Auditory: Lateral Lemniscus",
+    "questionText": "The major ascending auditory pathway from the Cochlear Nucleus to the Inferior Colliculus is the:",
+    "options": [
+      {
+        "text": "Medial Lemniscus",
+        "explanation": "Incorrect (Touch)."
+      },
+      {
+        "text": "Lateral Lemniscus",
+        "explanation": "Correct. Carries info from both ears.",
+        "isCorrect": true
+      },
+      {
+        "text": "Corticospinal Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinothalamic Tract",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fasciculus Gracilis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 'Lateral' for Light? No. Medial Geniculate is Hearing. Lateral Geniculate is Vision. BUT Lateral Lemniscus is Hearing. Confusing naming.",
+    "pdfPage": 36
   }
 ];

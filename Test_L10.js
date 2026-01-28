@@ -1,1087 +1,1089 @@
 window.Test_L10 = [
   {
     "id": 1,
-    "category": "ANS: Overview",
-    "questionText": "The autonomic nervous system differs from the somatic nervous system in that:",
+    "category": "ANS: Horner's Syndrome",
+    "questionText": "A 55-year-old male presents with a persistent cough and recent weight loss. Physical examination reveals ptosis of the right eyelid, a constricted right pupil (miosis), and anhidrosis of the right face. A chest X-ray shows a mass at the apex of the right lung (Pancoast tumor). Disruption of which structure in the sympathetic pathway is responsible for his ocular findings?",
     "options": [
       {
-        "text": "ANS uses a two-neuron chain (preganglionic → postganglionic) and innervates smooth muscle, cardiac muscle, and glands",
-        "explanation": "Correct. Somatic = Single LMN → Skeletal muscle. ANS = Preganglionic (cell body in CNS) → Ganglion → Postganglionic → Effector.",
+        "text": "Edinger-Westphal Nucleus",
+        "explanation": "Incorrect. This is the parasympathetic nucleus for pupil constriction. Damage would cause a DILATED pupil."
+      },
+      {
+        "text": "Ciliary Ganglion",
+        "explanation": "Incorrect. Parasympathetic ganglion."
+      },
+      {
+        "text": "Superior Cervical Ganglion",
+        "explanation": "Correct. The Pancoast tumor compresses the cervical sympathetic chain/stellate ganglion. The Superior Cervical Ganglion provides sympathetic innervation to the head and neck (dilator pupillae, superior tarsal muscle, sweat glands).",
         "isCorrect": true
       },
       {
-        "text": "ANS uses single neuron",
-        "explanation": "Incorrect (Two-neuron chain)."
+        "text": "Otitis Ganglion",
+        "explanation": "Incorrect. Parasympathetic to Parotid."
       },
       {
-        "text": "ANS only controls skeletal muscle",
-        "explanation": "Incorrect (Somatic does that)."
-      },
-      {
-        "text": "No difference",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "ANS is voluntary",
-        "explanation": "Incorrect (Involuntary)."
+        "text": "Celiac Ganglion",
+        "explanation": "Incorrect. Sympathetic to abdomen."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: ANS = 2-neuron chain (preganglionic + postganglionic). Somatic = 1 neuron. ANS = Involuntary control of viscera.",
-    "pdfPage": 2
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Horner's Syndrome Triad: Ptosis (Muller's muscle), Miosis (Dilator pupillae), Anhidrosis (Sweat glands). Often caused by apical lung tumors compressing the sympathetic chain.",
+    "pdfPage": 29
   },
   {
     "id": 2,
-    "category": "ANS: Sympathetic Division",
-    "questionText": "The sympathetic division of the ANS originates from:",
+    "category": "ANS: Parasympathetic Anatomy",
+    "questionText": "The parasympathetic nervous system is anatomically described as:",
     "options": [
       {
-        "text": "T1-L2 spinal cord segments (thoracolumbar outflow)",
-        "explanation": "Correct. Sympathetic preganglionic cell bodies in lateral horn (intermediolateral cell column) T1-L2.",
+        "text": "Thoracolumbar",
+        "explanation": "Incorrect. This describes the Sympathetic system (T1-L2)."
+      },
+      {
+        "text": "Craniosacral",
+        "explanation": "Correct. Parasympathetic outflow arises from Cranial Nerves (III, VII, IX, X) and Sacral segments (S2-S4).",
         "isCorrect": true
       },
       {
-        "text": "Brainstem and S2-S4 (craniosacral)",
-        "explanation": "Incorrect (Parasympathetic)."
-      },
-      {
-        "text": "Entire spinal cord",
+        "text": "Cervicothoracic",
         "explanation": "Incorrect."
       },
       {
-        "text": "Brain only",
+        "text": "Lumbosacral",
         "explanation": "Incorrect."
       },
       {
-        "text": "No spinal origin",
+        "text": "Diffuse",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sympathetic = Thoracolumbar (T1-L2). Parasympathetic = Craniosacral (CN III, VII, IX, X + S2-S4).",
-    "pdfPage": 3
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Parasympathetic = Craniosacral (CN 3, 7, 9, 10 + S2-4). Sympathetic = Thoracolumbar (T1-L2).",
+    "pdfPage": 10
   },
   {
     "id": 3,
-    "category": "ANS: Parasympathetic Division",
-    "questionText": "The parasympathetic division originates from:",
+    "category": "ANS: Organophosphate Poisoning",
+    "questionText": "A farmer is brought to the emergency department after accidental exposure to insecticide. He presents with excessive salivation, lacrimation, urination, diarrhea, and bradycardia. His pupils are pinpoint. The mechanism of toxicity involves:",
     "options": [
       {
-        "text": "Cranial nerves (III, VII, IX, X) and sacral spinal cord (S2-S4) - craniosacral outflow",
-        "explanation": "Correct. CN III (ciliary), VII (pterygopalatine, submandibular), IX (otic), X (vagus - thorax/abdomen), S2-S4 (pelvic).",
+        "text": "Blockade of Muscarinic Receptors",
+        "explanation": "Incorrect. This describes Atropine (anticholinergic), which would cause dry mouth, tachycardia, and dilated pupils."
+      },
+      {
+        "text": "Inhibition of Acetylcholinesterase",
+        "explanation": "Correct. Organophosphates inhibit the breakdown of Acetylcholine, leading to excessive cholinergic stimulation (DUMBBELSS syndrome: Diarrhea, Urination, Miosis, Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation, Sweating).",
         "isCorrect": true
       },
       {
-        "text": "T1-L2 only",
-        "explanation": "Incorrect (Sympathetic)."
+        "text": "Stimulation of Adrenergic Receptors",
+        "explanation": "Incorrect. Would cause tachycardia and dilated pupils (Sympathetic)."
       },
       {
-        "text": "No cranial nerve involvement",
-        "explanation": "Incorrect."
+        "text": "Blockade of Nicotinic Receptors",
+        "explanation": "Incorrect. Would cause paralysis."
       },
       {
-        "text": "Cervical spinal cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lumbar only",
+        "text": "Depletion of Norepinephrine",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Parasympathetic = Craniosacral. '3, 7, 9, 10' for cranial. S2-S4 for pelvic organs. 'Rest and digest'.",
-    "pdfPage": 4
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Organophosphates (Insecticides/Nerve Gas) = Irreversible AChE inhibitors -> Cholinergic Crisis (Wet, leaky, slow heart). Treat with Atropine + Pralidoxime.",
+    "pdfPage": 22
   },
   {
     "id": 4,
-    "category": "ANS: Ganglia Location",
-    "questionText": "Sympathetic ganglia are typically located:",
+    "category": "ANS: Preganglionic Neurons",
+    "questionText": "Which neurotransmitter is released by ALL preganglionic autonomic neurons (both sympathetic and parasympathetic)?",
     "options": [
-      {
-        "text": "Close to the spinal cord (paravertebral chain, prevertebral ganglia) - SHORT preganglionic, LONG postganglionic",
-        "explanation": "Correct. Paravertebral (sympathetic chain) alongside vertebrae. Prevertebral (celiac, superior/inferior mesenteric) near aorta.",
-        "isCorrect": true
-      },
-      {
-        "text": "In or near target organs",
-        "explanation": "Incorrect (Parasympathetic)."
-      },
-      {
-        "text": "In the brain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Long preganglionic fibers",
-        "explanation": "Incorrect (Short preganglionic)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sympathetic ganglia = Near spinal cord. Parasympathetic = Near/in organs. Explains fiber length differences.",
-    "pdfPage": 5
-  },
-  {
-    "id": 5,
-    "category": "ANS: Parasympathetic Ganglia",
-    "questionText": "Parasympathetic ganglia are typically located:",
-    "options": [
-      {
-        "text": "In or very near target organs - LONG preganglionic, SHORT postganglionic",
-        "explanation": "Correct. Examples: Ciliary (eye), pterygopalatine (lacrimal/nasal), submandibular, otic (parotid), intramural (GI wall).",
-        "isCorrect": true
-      },
-      {
-        "text": "Near spinal cord",
-        "explanation": "Incorrect (Sympathetic)."
-      },
-      {
-        "text": "Short preganglionic",
-        "explanation": "Incorrect (Long preganglionic)."
-      },
-      {
-        "text": "No ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "In sympathetic chain",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Parasympathetic ganglia = Near/in target. Long preganglionic → Short postganglionic. Allows focused control.",
-    "pdfPage": 6
-  },
-  {
-    "id": 6,
-    "category": "ANS: Neurotransmitters",
-    "questionText": "Which neurotransmitter is released by ALL preganglionic neurons (both sympathetic and parasympathetic)?",
-    "options": [
-      {
-        "text": "Acetylcholine (ACh) acting on nicotinic receptors",
-        "explanation": "Correct. All preganglionics = Cholinergic (nicotinic at ganglia). Postganglionics differ (ACh or NE).",
-        "isCorrect": true
-      },
       {
         "text": "Norepinephrine",
-        "explanation": "Incorrect (Postganglionic sympathetic)."
+        "explanation": "Incorrect. Released by postganglionic sympathetic fibers (except sweat glands)."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Correct. ACh is the universal preganglionic neurotransmitter, acting on Nicotinic type N receptors.",
+        "isCorrect": true
       },
       {
         "text": "Epinephrine",
-        "explanation": "Incorrect (Adrenal medulla)."
+        "explanation": "Incorrect. Released by adrenal medulla."
       },
       {
         "text": "Dopamine",
         "explanation": "Incorrect."
       },
       {
-        "text": "GABA",
+        "text": "Serotonin",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: ALL preganglionic neurons = ACh (nicotinic at ganglion). Allows ganglionic blockers (hexamethonium, mecamylamine) to block both sympathetic + parasympathetic.",
-    "pdfPage": 7
-  },
-  {
-    "id": 7,
-    "category": "ANS: Postganglionic Neurotransmitters",
-    "questionText": "Most postganglionic sympathetic neurons release ____, while postganglionic parasympathetic neurons release ____:",
-    "options": [
-      {
-        "text": "Norepinephrine (adrenergic); Acetylcholine (cholinergic, muscarinic)",
-        "explanation": "Correct. Exception: Sympathetic to sweat glands, piloerector muscles = ACh (muscarinic). Adrenal medulla = Epi/NE (endocrine).",
-        "isCorrect": true
-      },
-      {
-        "text": "Both release ACh",
-        "explanation": "Incorrect (Different postganglionics)."
-      },
-      {
-        "text": "Both release NE",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sympathetic = ACh, Parasympathetic = NE",
-        "explanation": "Incorrect (Reversed)."
-      },
-      {
-        "text": "No neurotransmitters",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sympathetic postganglionic = NE (except sweat glands). Parasympathetic postganglionic = ACh (muscarinic at organs).",
-    "pdfPage": 8
-  },
-  {
-    "id": 8,
-    "category": "ANS: Adrenal Medulla",
-    "questionText": "The adrenal medulla is unique because it:",
-    "options": [
-      {
-        "text": "Receives direct preganglionic sympathetic innervation and secretes epinephrine/norepinephrine into bloodstream",
-        "explanation": "Correct. Adrenal medulla = Modified postganglionic sympathetic 'ganglion'. Acts as endocrine gland. 80% Epi, 20% NE.",
-        "isCorrect": true
-      },
-      {
-        "text": "Is parasympathetic",
-        "explanation": "Incorrect (Sympathetic)."
-      },
-      {
-        "text": "Secretes cortisol",
-        "explanation": "Incorrect (Adrenal cortex)."
-      },
-      {
-        "text": "No sympathetic innervation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Releases ACh only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Adrenal medulla = Sympathetic 'postganglionic' modified as endocrine. Preganglionic → Chromaffin cells → Epi/NE into blood. Pheochromocytoma → Catecholamine excess.",
-    "pdfPage": 9
-  },
-  {
-    "id": 9,
-    "category": "ANS: Nicotinic Receptors",
-    "questionText": "Nicotinic receptors at autonomic ganglia:",
-    "options": [
-      {
-        "text": "Are ionotropic (ligand-gated ion channels) that depolarize the postganglionic neuron when ACh binds",
-        "explanation": "Correct. Nicotinic = Fast excitatory (Na+/K+ influx). Blocked by ganglionic blockers (hexamethonium). Distinct from muscle nicotinic (NMJ).",
-        "isCorrect": true
-      },
-      {
-        "text": "Are metabotropic GPCRs",
-        "explanation": "Incorrect (Muscarinic are GPCRs)."
-      },
-      {
-        "text": "Inhibit postganglionic neurons",
-        "explanation": "Incorrect (Excitatory)."
-      },
-      {
-        "text": "Bind NE",
-        "explanation": "Incorrect (Bind ACh)."
-      },
-      {
-        "text": "No function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Ganglionic nicotinic receptors = Ionotropic (fast). Ganglionic blockers (hexamethonium) → Profound hypotension (block both sympathetic + parasympathetic).",
-    "pdfPage": 10
-  },
-  {
-    "id": 10,
-    "category": "ANS: Muscarinic Receptors",
-    "questionText": "Muscarinic receptors at parasympathetic effector organs are:",
-    "options": [
-      {
-        "text": "GPCRs (metabotropic) - M1, M2, M3, M4, M5 subtypes with varying Gq or Gi coupling",
-        "explanation": "Correct. M1/M3/M5 = Gq (↑PLC, ↑IP3/DAG). M2/M4 = Gi (↓cAMP). M2 heart (↓HR), M3 smooth muscle/glands (contract/secrete).",
-        "isCorrect": true
-      },
-      {
-        "text": "Ionotropic",
-        "explanation": "Incorrect (GPCRs)."
-      },
-      {
-        "text": "Bind norepinephrine",
-        "explanation": "Incorrect (Bind ACh)."
-      },
-      {
-        "text": "Only one subtype",
-        "explanation": "Incorrect (5 subtypes)."
-      },
-      {
-        "text": "No second messenger",
-        "explanation": "Incorrect (Gi or Gq)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Muscarinic = GPCRs. M2 (heart) = ↓HR. M3 (smooth muscle, glands) = Contract/secrete. Atropine blocks all muscarinic.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Preganglionic = Always ACh (Nicotinic). Postganglionic Parasymp = ACh (Muscarinic). Postganglionic Symp = NE (Adrenergic). Exception: Sweat glands (Symp) use ACh.",
     "pdfPage": 11
   },
   {
-    "id": 11,
-    "category": "ANS: Adrenergic Receptors",
-    "questionText": "Alpha-1 adrenergic receptors:",
+    "id": 5,
+    "category": "ANS: Pheochromocytoma",
+    "questionText": "A 40-year-old female presents with episodic headaches, palpitations, and sweating. Her blood pressure is 180/110 mmHg. Urine metanephrines are elevated. CT scan reveals an adrenal mass. The tumor is oversecreting epinephrine and norepinephrine from which cells?",
     "options": [
       {
-        "text": "Are Gq-coupled → ↑IP3/DAG → Vasoconstriction (smooth muscle), pupil dilation, urinary retention",
-        "explanation": "Correct. α1 = Vasoconstriction (arterioles), mydriasis (radial pupil dilator), urethral/prostate smooth muscle (continence).",
+        "text": "Zona Glomerulosa cells",
+        "explanation": "Incorrect. Aldosterone."
+      },
+      {
+        "text": "Chromaffin cells",
+        "explanation": "Correct. The Adrenal Medulla is essentially a modified sympathetic ganglion. Chromaffin cells (postganglionic neurons without axons) release Epi/NE directly into the blood.",
         "isCorrect": true
       },
       {
-        "text": "Decrease blood pressure",
-        "explanation": "Incorrect (Increase BP)."
+        "text": "Zona Fasciculata cells",
+        "explanation": "Incorrect. Cortisol."
       },
       {
-        "text": "Gi-coupled",
-        "explanation": "Incorrect (α2 is Gi)."
+        "text": "Zona Reticularis cells",
+        "explanation": "Incorrect. Androgens."
       },
       {
-        "text": "Cause miosis",
-        "explanation": "Incorrect (Mydriasis)."
-      },
-      {
-        "text": "No effect on blood vessels",
-        "explanation": "Incorrect."
+        "text": "Juxtaglomerular cells",
+        "explanation": "Incorrect. Renin (Kidney)."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: α1 = Vasoconstriction (↑BP). Agonists (phenylephrine) for hypotension. Antagonists (doxazosin, prazosin, terazosin, tamsulosin) for HTN, BPH.",
-    "pdfPage": 12
-  },
-  {
-    "id": 12,
-    "category": "ANS: Alpha-2 Receptors",
-    "questionText": "Alpha-2 adrenergic receptors located on presynaptic sympathetic terminals:",
-    "options": [
-      {
-        "text": "Are Gi-coupled → Autoinhibition (negative feedback) → ↓NE release",
-        "explanation": "Correct. α2 activation → ↓cAMP → ↓NE release. Central α2 agonists (clonidine) → ↓Sympathetic outflow → ↓BP.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increase NE release",
-        "explanation": "Incorrect (Decrease)."
-      },
-      {
-        "text": "Gq-coupled",
-        "explanation": "Incorrect (Gi)."
-      },
-      {
-        "text": "No effect on transmitter release",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Postsynaptic only",
-        "explanation": "Incorrect (Presynaptic autoinhibition)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: α2 presynaptic = Negative feedback (↓NE release). Central α2 agonists (clonidine, dexmedetomidine) → ↓Sympathetic tone → ↓BP. Also for ADHD, opioid withdrawal.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Adrenal Medulla = Modified Sympathetic Ganglion. Pre-ganglionic fibers release ACh onto Chromaffin cells -> Release Epinephrine (80%) and NE (20%).",
     "pdfPage": 13
   },
   {
-    "id": 13,
-    "category": "ANS: Beta-1 Receptors",
-    "questionText": "Beta-1 adrenergic receptors in the heart:",
+    "id": 6,
+    "category": "ANS: Receptors",
+    "questionText": "Stimulation of Beta-1 adrenergic receptors primarily results in:",
     "options": [
       {
-        "text": "Are Gs-coupled → ↑cAMP → ↑HR, ↑contractility, ↑conduction velocity",
-        "explanation": "Correct. β1 = Primary cardiac receptor. ↑Chronotropy (HR), ↑inotropy (contractility), ↑dromotropy (AV conduction).",
+        "text": "Bronchodilation",
+        "explanation": "Incorrect. Beta-2."
+      },
+      {
+        "text": "Vasoconstriction",
+        "explanation": "Incorrect. Alpha-1."
+      },
+      {
+        "text": "Increased Heart Rate and Contractility",
+        "explanation": "Correct. Beta-1 is found in the heart (SA node, localized myocardium). Beta blockers (e.g., Metoprolol) target this to lower BP/HR.",
         "isCorrect": true
-      },
-      {
-        "text": "Decrease heart rate",
-        "explanation": "Incorrect (Increase)."
-      },
-      {
-        "text": "Gi-coupled",
-        "explanation": "Incorrect (Gs)."
-      },
-      {
-        "text": "No effect on contractility",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only in lungs",
-        "explanation": "Incorrect (Primarily heart)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: β1 (heart) = ↑HR, ↑contractility. Beta-blockers (metoprolol, atenolol = selective β1; propranolol = non-selective) for HTN, angina, HF, arrhythmias.",
-    "pdfPage": 14
-  },
-  {
-    "id": 14,
-    "category": "ANS: Beta-2 Receptors",
-    "questionText": "Beta-2 adrenergic receptors:",
-    "options": [
-      {
-        "text": "Are Gs-coupled → ↑cAMP → Bronchodilation, vasodilation, uterine relaxation, glycogenolysis",
-        "explanation": "Correct. β2 = Lungs (bronchodilation), blood vessels (vasodilation), uterus (tocolysis), liver (↑glucose).",
-        "isCorrect": true
-      },
-      {
-        "text": "Cause bronchoconstriction",
-        "explanation": "Incorrect (Bronchodilation)."
-      },
-      {
-        "text": "Only in heart",
-        "explanation": "Incorrect (β1 in heart)."
-      },
-      {
-        "text": "Gi-coupled",
-        "explanation": "Incorrect (Gs)."
-      },
-      {
-        "text": "No metabolic effects",
-        "explanation": "Incorrect (Glycogenolysis)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: β2 = Bronchodilation (albuterol, salmeterol for asthma), vasodilation, tocolysis (terbutaline). Tremor side effect (skeletal muscle β2).",
-    "pdfPage": 15
-  },
-  {
-    "id": 15,
-    "category": "Clinical Correlation: Pheochromocytoma",
-    "questionText": "A patient with episodic headaches, palpitations, and diaphoresis, with BP 220/120 during episodes, likely has:",
-    "options": [
-      {
-        "text": "Pheochromocytoma (catecholamine-secreting tumor, usually adrenal medulla)",
-        "explanation": "Correct. '5 Ps': Pressure (HTN), Pain (headache), Perspiration, Palpitations, Pallor. Dx: Plasma/urine metanephrines. Rx: α-blocker → β-blocker → surgery.",
-        "isCorrect": true
-      },
-      {
-        "text": "Essential hypertension",
-        "explanation": "Incorrect (Not episodic with classic triad)."
-      },
-      {
-        "text": "Hyperthyroidism only",
-        "explanation": "Incorrect (Can mimic, but metanephrines distinguish)."
-      },
-      {
-        "text": "Normal variant",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypotension",
-        "explanation": "Incorrect (Severe HTN)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pheochromocytoma = Catecholamine crisis. '10% rule': 10% bilateral, 10% extra-adrenal (paraganglioma), 10% malignant, 10% familial (MEN 2, VHL, NF1). α-blocker BEFORE β-blocker (prevent unopposed α).",
-    "pdfPage": 16
-  },
-  {
-    "id": 16,
-    "category": "ANS: Pupil Control",
-    "questionText": "Pupil size is controlled by opposing ANS innervation:",
-    "options": [
-      {
-        "text": "Sympathetic (dilator muscle, radial) = Mydriasis. Parasympathetic (sphincter muscle, circular, CN III) = Miosis",
-        "explanation": "Correct. Sympathetic pathway: Hypothalamus → Ciliospinal center (C8-T2) → Superior cervical ganglion → Dilator. Parasympathetic: Edinger-Westphal → Ciliary ganglion → Sphincter.",
-        "isCorrect": true
-      },
-      {
-        "text": "Both cause dilation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only sympathetic control",
-        "explanation": "Incorrect (Dual)."
-      },
-      {
-        "text": "Parasympathetic dilates",
-        "explanation": "Incorrect (Constricts)."
-      },
-      {
-        "text": "No ANS control",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sympathetic = Mydriasis (cocaine, phenylephrine dilate). Parasympathetic = Miosis (pilocarpine constricts). Horner's syndrome → Miosis (sympathetic loss).",
-    "pdfPage": 17
-  },
-  {
-    "id": 17,
-    "category": "Clinical Correlation: Horner's Syndrome",
-    "questionText": "Horner's syndrome (disruption of sympathetic pathway to face/eye) presents with:",
-    "options": [
-      {
-        "text": "Ipsilateral miosis (pupil constriction), ptosis (eyelid droop), anhidrosis (no sweating)",
-        "explanation": "Correct. 'PAM': Ptosis (Müller's muscle), Anhidrosis (facial sweat), Miosis (unopposed parasympathetic). Causes: Stroke (Wallenberg), tumor (Pancoast), dissection (carotid).",
-        "isCorrect": true
-      },
-      {
-        "text": "Mydriasis",
-        "explanation": "Incorrect (Miosis)."
-      },
-      {
-        "text": "Contralateral signs",
-        "explanation": "Incorrect (Ipsilateral)."
-      },
-      {
-        "text": "Hyperhidrosis",
-        "explanation": "Incorrect (Anhidrosis)."
-      },
-      {
-        "text": "No eye findings",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Horner's = Miosis + Ptosis + Anhidrosis. Localize with pharmacologic testing (cocaine, apraclonidine, hydroxyamphetamine). Causes: Stroke, Pancoast tumor, dissection.",
-    "pdfPage": 18
-  },
-  {
-    "id": 18,
-    "category": "ANS: Heart Rate Control",
-    "questionText": "At rest, heart rate is primarily determined by:",
-    "options": [
-      {
-        "text": "Parasympathetic (vagal) tone via M2 receptors → ↓HR (resting = ~60-70 bpm, intrinsic SA node = ~100 bpm)",
-        "explanation": "Correct. Vagal tone slows SA node. Atropine (blocks M2) → Tachycardia (~100-110 bpm). Sympathetic activation → Further ↑HR.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sympathetic tone primarily",
-        "explanation": "Incorrect (Parasympathetic dominant at rest)."
-      },
-      {
-        "text": "No ANS control",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Intrinsic rate only",
-        "explanation": "Incorrect (Vagal tone slows)."
-      },
-      {
-        "text": "Hormones only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Resting HR = Vagal tone dominant (slows SA node). Increased vagal tone (athletes) → Bradycardia. Atropine → Blocks vagal tone → HR ~100.",
-    "pdfPage": 19
-  },
-  {
-    "id": 19,
-    "category": "ANS: GI Control",
-    "questionText": "Parasympathetic innervation of the GI tract (via vagus nerve):",
-    "options": [
-      {
-        "text": "Increases motility, secretions, and relaxes sphincters (promotes digestion)",
-        "explanation": "Correct. Vagus → Enteric nervous system. ACh → M3 → ↑Motility, ↑secretions. Relaxes LES, pylorus. Sympathetic (↓motility, ↑sphincter tone) opposes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Decreases motility",
-        "explanation": "Incorrect (Increases)."
-      },
-      {
-        "text": "Contracts sphincters",
-        "explanation": "Incorrect (Relaxes)."
-      },
-      {
-        "text": "No effect on GI",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sympathetic promotes digestion",
-        "explanation": "Incorrect (Parasympathetic)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Parasympathetic (vagus) = 'Rest and digest' → ↑GI motility, ↑secretions. Sympathetic = ↓Motility, ↑sphincter tone (diverts blood/energy).",
-    "pdfPage": 20
-  },
-  {
-    "id": 20,
-    "category": "ANS: Bladder Control",
-    "questionText": "Normal micturition (urination) involves:",
-    "options": [
-      {
-        "text": "Parasympathetic (S2-S4) activation → Detrusor contraction (M3) + Relaxation of internal sphincter; Somatic relaxation of external sphincter",
-        "explanation": "Correct. Parasympathetic (pelvic nerve) = Bladder emptying. Sympathetic (hypogastric, β3) = Storage (detrusor relax, internal sphincter contract). Pudendal (somatic) = External sphincter voluntary.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sympathetic activation",
-        "explanation": "Incorrect (Parasympathetic for voiding)."
-      },
-      {
-        "text": "Detrusor relaxation",
-        "explanation": "Incorrect (Detrusor contracts)."
-      },
-      {
-        "text": "No ANS involvement",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only somatic control",
-        "explanation": "Incorrect (ANS + somatic)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Storage = Sympathetic (β3 relaxes detrusor, α1 contracts sphincter). Voiding = Parasympathetic (M3 contracts detrusor, relaxes sphincter) + Pudendal relaxes external sphincter.",
-    "pdfPage": 21
-  },
-  {
-    "id": 21,
-    "category": "ANS: Sexual Function",
-    "questionText": "Erection and ejaculation involve:",
-    "options": [
-      {
-        "text": "Erection = Parasympathetic (S2-S4 'Point') → Vasodilation. Ejaculation = Sympathetic (T10-L2 'Shoot') → Vas deferens/prostate contraction",
-        "explanation": "Correct. 'Point and Shoot'. Parasympathetic (pelvic nerve) → NO release → cGMP → Vasodilation → Erection. Sympathetic → Smooth muscle (emission + ejaculation).",
-        "isCorrect": true
-      },
-      {
-        "text": "Both parasympathetic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Both sympathetic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No ANS control",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Erection = Sympathetic",
-        "explanation": "Incorrect (Parasympathetic)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: 'Point (parasympathetic) and Shoot (sympathetic)'. PDE-5 inhibitors (sildenafil) → ↑cGMP → Enhance parasympathetic erection pathway.",
-    "pdfPage": 22
-  },
-  {
-    "id": 22,
-    "category": "Clinical Correlation: Autonomic Neuropathy",
-    "questionText": "Diabetic autonomic neuropathy can cause:",
-    "options": [
-      {
-        "text": "Orthostatic hypotension, gastroparesis, erectile dysfunction, bladder dysfunction, lack of sweating",
-        "explanation": "Correct. Affects cardiovascular (no BP compensation), GI (delayed emptying), GU (neurogenic bladder, ED), sudomotor systems.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypertension only",
-        "explanation": "Incorrect (Orthostatic hypotension)."
-      },
-      {
-        "text": "No GI effects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Enhanced reflexes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Normal ANS function",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Diabetic autonomic neuropathy = Multisystem (CV, GI, GU, sudomotor). Orthostatic hypotension, gastroparesis, ED, neurogenic bladder. Check with autonomic testing (QSART, tilt table).",
-    "pdfPage": 23
-  },
-  {
-    "id": 23,
-    "category": "ANS: Sweat Glands",
-    "questionText": "Sweat glands are innervated by:",
-    "options": [
-      {
-        "text": "Sympathetic cholinergic fibers (postganglionic release ACh, act on muscarinic receptors)",
-        "explanation": "Correct. Exception to 'sympathetic = adrenergic' rule. Sympathetic postganglionic → ACh → M3 → Sweating. Atropine → Anhidrosis.",
-        "isCorrect": true
-      },
-      {
-        "text": "Parasympathetic",
-        "explanation": "Incorrect (Sympathetic, but cholinergic)."
-      },
-      {
-        "text": "Sympathetic adrenergic",
-        "explanation": "Incorrect (Sympathetic cholinergic)."
-      },
-      {
-        "text": "No innervation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Somatic nerves",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sweat glands = Sympathetic BUT cholinergic (ACh, muscarinic). Atropine → Prevents sweating (anticholinergic). Piloerector muscles also sympathetic cholinergic.",
-    "pdfPage": 24
-  },
-  {
-    "id": 24,
-    "category": "ANS: Baroreceptor Reflex",
-    "questionText": "The baroreceptor reflex in response to increased blood pressure:",
-    "options": [
-      {
-        "text": "Baroreceptors (carotid sinus, aortic arch) → NTS (solitary nucleus) → ↑Vagal tone, ↓Sympathetic tone → ↓HR, ↓BP",
-        "explanation": "Correct. Negative feedback. ↑Stretch → ↑Firing (CN IX, X) → Medullary cardiovascular center → ↑Parasympathetic, ↓Sympathetic.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increases sympathetic tone",
-        "explanation": "Incorrect (Decreases)."
-      },
-      {
-        "text": "No reflex response",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increases HR",
-        "explanation": "Incorrect (Decreases)."
-      },
-      {
-        "text": "Direct to cortex",
-        "explanation": "Incorrect (Brainstem)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Baroreceptor reflex = Rapid BP regulation. Carotid massage → Stimulates baroreceptors → ↓HR (can terminate SVT). Carotid sinus hypersensitivity → Syncope.",
-    "pdfPage": 25
-  },
-  {
-    "id": 25,
-    "category": "ANS: Diving Reflex",
-    "questionText": "The mammalian diving reflex (face immersion in cold water) causes:",
-    "options": [
-      {
-        "text": "Bradycardia, peripheral vasoconstriction, apnea (conserves O2 for heart/brain)",
-        "explanation": "Correct. Trigeminal (face) + vagal activation → ↓HR, ↓metabolism. Protective. Enhanced in infants. Cold water face immersion can terminate SVT.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tachycardia",
-        "explanation": "Incorrect (Bradycardia)."
-      },
-      {
-        "text": "Vasodilation",
-        "explanation": "Incorrect (Vasoconstriction)."
-      },
-      {
-        "text": "Increased breathing",
-        "explanation": "Incorrect (Apnea)."
-      },
-      {
-        "text": "No response",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Diving reflex = Bradycardia + peripheral vasoconstriction. Uses: Terminate SVT (cold water face immersion). explains survival in cold water drowning.",
-    "pdfPage": 26
-  },
-  {
-    "id": 26,
-    "category": "Clinical Correlation: Orthostatic Hypotension",
-    "questionText": "Orthostatic hypotension (failure of BP compensation upon standing) can result from:",
-    "options": [
-      {
-        "text": "Autonomic failure (inadequate sympathetic vasoconstriction/HR increase), volume depletion, medications (alpha-blockers, diuretics)",
-        "explanation": "Correct. Normal: Standing → Venous pooling → Baroreflex → ↑Sympathetic → Vasoconstriction/↑HR. Failure → BP drop ≥20/10 mmHg → Syncope/presyncope.",
-        "isCorrect": true
-      },
-      {
-        "text": "Excessive sympathetic tone",
-        "explanation": "Incorrect (Inadequate)."
-      },
-      {
-        "text": "Normal finding",
-        "explanation": "Incorrect (Pathologic)."
-      },
-      {
-        "text": "Hypervolemia",
-        "explanation": "Incorrect (Hypovolemia)."
-      },
-      {
-        "text": "No ANS involvement",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Orthostatic hypotension = Fall in SBP ≥20 or DBP ≥10 within 3 min of standing. Causes: Autonomic failure (Parkinson's, MSA, diabetic neuropathy), meds (alpha-blockers), volume loss.",
-    "pdfPage": 27
-  },
-  {
-    "id": 27,
-    "category": "ANS: Enteric Nervous System",
-    "questionText": "The enteric nervous system (ENS):",
-    "options": [
-      {
-        "text": "Is an intrinsic nervous system in the GI wall (myenteric and submucosal plexuses) that can function independently",
-        "explanation": "Correct. 'Second brain'. 500 million neurons. Can coordinate peristalsis without CNS input. Modulated by vagus (parasympathetic) and sympathetic.",
-        "isCorrect": true
-      },
-      {
-        "text": "Requires constant CNS input",
-        "explanation": "Incorrect (Can function independently)."
-      },
-      {
-        "text": "No neurons in GI tract",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only in stomach",
-        "explanation": "Incorrect (Entire GI)."
-      },
-      {
-        "text": "Same as somatic nervous system",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: ENS = Intrinsic GI nervous system. Myenteric (Auerbach) plexus (motility), Submucosal (Meissner) plexus (secretion). Hirschsprung's = Absent ENS.",
-    "pdfPage": 28
-  },
-  {
-    "id": 28,
-    "category": "Clinical Correlation: Hirschsprung's Disease",
-    "questionText": "Hirschsprung's disease (congenital megacolon) is caused by:",
-    "options": [
-      {
-        "text": "Failure of neural crest cell migration → Absence of enteric ganglia (aganglionosis) in distal colon/rectum",
-        "explanation": "Correct. No ENS → Persistent contraction (no relaxation) → Functional obstruction. Newborn: Failure to pass meconium. Dx: Rectal biopsy (no ganglion cells). Rx: Surgery.",
-        "isCorrect": true
-      },
-      {
-        "text": "Excessive enteric neurons",
-        "explanation": "Incorrect (Absent)."
-      },
-      {
-        "text": "Normal ENS",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acquired in adults",
-        "explanation": "Incorrect (Congenital)."
-      },
-      {
-        "text": "No GI involvement",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hirschsprung's = Aganglionosis (absent ENS). Distal colon contracted → Proximal megacolon. Newborn constipation, bilious vomiting. Associated with Down syndrome.",
-    "pdfPage": 29
-  },
-  {
-    "id": 29,
-    "category": "ANS: Valsalva Maneuver",
-    "questionText": "The Valsalva maneuver (forced expiration against closed glottis) tests autonomic function by:",
-    "options": [
-      {
-        "text": "Phase 1: ↑Intrathoracic pressure → ↑BP. Phase 2: ↓Venous return → ↓BP → Baroreceptor → ↑HR. Phase 4 (release): Overshoot ↑BP → Reflex ↓HR",
-        "explanation": "Correct. Normal = HR/BP changes. Autonomic failure → No HR response. Uses: Terminate SVT, augment heart murmurs, test autonomic function.",
-        "isCorrect": true
-      },
-      {
-        "text": "No cardiovascular effects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only increases BP",
-        "explanation": "Incorrect (Biphasic)."
-      },
-      {
-        "text": "No HR changes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Not a test of ANS",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Valsalva = Tests autonomic cardiovascular reflexes. Normal = Biphasic BP, HR changes. Autonomic failure = Square-wave (sustained ↓BP, no compensation).",
-    "pdfPage": 30
-  },
-  {
-    "id": 30,
-    "category": "ANS: Acetylcholinesterase",
-    "questionText": "Acetylcholinesterase (AChE) at the synaptic cleft:",
-    "options": [
-      {
-        "text": "Rapidly hydrolyzes ACh → Choline + Acetate, terminating cholinergic signaling",
-        "explanation": "Correct. Essential for terminating ACh action. AChE inhibitors (neostigmine, pyridostigmine) → ↑ACh → Treat myasthenia gravis, reverse neuromuscular blockade.",
-        "isCorrect": true
-      },
-      {
-        "text": "Synthesizes ACh",
-        "explanation": "Incorrect (Choline acetyltransferase synthesizes)."
-      },
-      {
-        "text": "No effect on ACh",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Degrades NE",
-        "explanation": "Incorrect (MAO, COMT degrade NE)."
-      },
-      {
-        "text": "Prolongs ACh action",
-        "explanation": "Incorrect (Terminates)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: AChE = Breaks down ACh. AChE inhibitors (physostigmine, neostigmine) → Cholinergic excess. Organophosphate poisoning → Irreversible AChE inhibition → Cholinergic crisis (SLUDGE: Salivation, Lacrimation, Urination, Defecation, GI upset, Emesis).",
-    "pdfPage": 31
-  },
-  {
-    "id": 31,
-    "category": "Clinical Correlation: Organophosphate Poisoning",
-    "questionText": "Organophosphate poisoning (insecticides, nerve agents) causes:",
-    "options": [
-      {
-        "text": "Irreversible AChE inhibition → Cholinergic crisis (SLUDGE + muscle fasciculations, respiratory failure)",
-        "explanation": "Correct. Muscarinic (SLUDGE, bradycardia, miosis, bronchospasm) + Nicotinic (fasicular ations, paralysis) + CNS (seizures). Rx: Atropine (muscarinic), pralidoxime (reactivates AChE), benzodiazepines.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sympathetic crisis",
-        "explanation": "Incorrect (Cholinergic)."
-      },
-      {
-        "text": "No symptoms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mydriasis",
-        "explanation": "Incorrect (Miosis)."
-      },
-      {
-        "text": "No respiratory effects",
-        "explanation": "Incorrect (Bronchospasm, paralysis)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Organophosphate = Irreversible AChE inhibition. SLUDGE + fasciculations + seizures. Rx: Atropine (muscarinic symptoms), pralidoxime/2-PAM (reactivate AChE, give early), benzodiazepines (seizures).",
-    "pdfPage": 32
-  },
-  {
-    "id": 32,
-    "category": "ANS: Norepinephrine Reuptake and Degradation",
-    "questionText": "Synaptic norepinephrine is primarily terminated by:",
-    "options": [
-      {
-        "text": "Reuptake into presynaptic terminal (NET - norepinephrine transporter), then degraded by MAO and COMT",
-        "explanation": "Correct. NET = Primary termination (90%). MAO (mitochondrial), COMT (extracellular) = Degrade to VMA. Cocaine blocks NET → ↑NE.",
-        "isCorrect": true
-      },
-      {
-        "text": "Acetylcholinesterase",
-        "explanation": "Incorrect (Degrades ACh)."
-      },
-      {
-        "text": "No termination mechanism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diffusion only",
-        "explanation": "Incorrect (Reuptake primary)."
-      },
-      {
-        "text": "Synthesis",
-        "explanation": "Incorrect (Termination, not synthesis)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: NE termination = Reuptake (NET) > Enzymatic (MAO, COMT). Cocaine blocks NET → ↑NE (sympathomimetic). MAO inhibitors → ↑NE (antidepressants, tyramine crisis risk).",
-    "pdfPage": 33
-  },
-  {
-    "id": 33,
-    "category": "ANS: Fight or Flight Response",
-    "questionText": "The 'fight or flight' response involves:",
-    "options": [
-      {
-        "text": "Sympathetic activation → ↑HR, ↑BP, bronchodilation, pupil dilation, glycogenolysis, ↓GI motility, bladder relaxation",
-        "explanation": "Correct. Prepares body for action. Diverts blood to muscles/brain, mobilizes energy, enhances sensory input. Mediated by NE/Epi.",
-        "isCorrect": true
-      },
-      {
-        "text": "Parasympathetic activation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Decreased heart rate",
-        "explanation": "Incorrect (Increased)."
-      },
-      {
-        "text": "Increased GI motility",
-        "explanation": "Incorrect (Decreased)."
-      },
-      {
-        "text": "No metabolic changes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Fight-or-flight = Sympathetic. ↑CV (HR, BP), ↑resp (bronchodilation), ↑metabolism (glucose), ↓GI, mydriasis. Coordinated by hypothalamus → Brainstem → Spinal sympathetic.",
-    "pdfPage": 34
-  },
-  {
-    "id": 34,
-    "category": "ANS: Rest and Digest",
-    "questionText": "The 'rest and digest' response involves:",
-    "options": [
-      {
-        "text": "Parasympathetic activation → ↓HR, ↑GI motility/secretions, pupil constriction, bladder contraction, erection",
-        "explanation": "Correct. Promotes digestion, elimination, energy conservation, reproduction. Mediated by ACh (muscarinic at organs).",
-        "isCorrect": true
-      },
-      {
-        "text": "Sympathetic activation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increased heart rate",
-        "explanation": "Incorrect (Decreased)."
-      },
-      {
-        "text": "Decreased GI activity",
-        "explanation": "Incorrect (Increased)."
       },
       {
         "text": "Pupil dilation",
-        "explanation": "Incorrect (Constriction)."
+        "explanation": "Incorrect. Alpha-1 (Dilator pupillae)."
+      },
+      {
+        "text": "Uterine relaxation",
+        "explanation": "Incorrect. Beta-2."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Rest-and-digest = Parasympathetic. ↓HR, ↑GI (motility, secretions), miosis, bladder voiding, erection. Vagus nerve primary mediator.",
-    "pdfPage": 35
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Beta-1 = Heart (1 heart). Beta-2 = Lungs (2 lungs). Alpha-1 = Vessels (Constrict).",
+    "pdfPage": 18
   },
   {
-    "id": 35,
-    "category": "Clinical Correlation: Atropine Toxicity",
-    "questionText": "Atropine (muscarinic antagonist) overdose causes:",
+    "id": 7,
+    "category": "ANS: Orthostatic Hypotension",
+    "questionText": "A 78-year-old male with long-standing diabetes mellitus complains of dizziness upon standing. His blood pressure drops from 140/80 sitting to 100/60 standing. This 'orthostatic hypotension' is primarily due to failure of which reflex?",
     "options": [
       {
-        "text": "'Hot as a hare, blind as a bat, dry as a bone, red as a beet, mad as a hatter' - Hyperthermia, mydriasis, anhidrosis, flushing, delirium",
-        "explanation": "Correct. Anticholinergic toxicity. Blocks parasympathetic effects. Also: Tachycardia, urinary retention, decreased GI motility. Rx: Supportive, physostigmine (severe CNS symptoms).",
+        "text": "Baroreceptor Reflex",
+        "explanation": "Correct. Normally, standing pools blood in legs -> decreased venous return -> decreased stretch of carotid sinus -> Reflex INCREASE in sympathetic outflow (vasoconstriction + increased HR). In diabetic autonomic neuropathy, this reflex loop fails.",
         "isCorrect": true
       },
       {
-        "text": "Cholinergic crisis",
-        "explanation": "Incorrect (Opposite - anticholinergic)."
+        "text": "Cushing Reflex",
+        "explanation": "Incorrect. Response to high ICP ( Hypertension + Bradycardia)."
       },
       {
-        "text": "Miosis",
-        "explanation": "Incorrect (Mydriasis)."
+        "text": "Bainbridge Reflex",
+        "explanation": "Incorrect. Response to increased volume."
       },
       {
-        "text": "Excessive sweating",
-        "explanation": "Incorrect (Anhidrosis)."
+        "text": "Chemoreceptor Reflex",
+        "explanation": "Incorrect. Response to hypoxia/hypercapnia."
       },
       {
-        "text": "Bradycardia",
-        "explanation": "Incorrect (Tachycardia)."
+        "text": "Pupillary Light Reflex",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anticholinergic toxicity = 'Hot, blind, dry, red, mad'. Causes: Atropine, antihistamines, TCAs, jimsonweed. Physostigmine reverses (use cautiously - can cause seizures).",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Baroreceptor Reflex: Carotid Sinus (CN IX) detects low pressure -> Solitary Nucleus -> Increase Sympathetics -> Vasoconstriction to maintain BP.",
+    "pdfPage": 4
+  },
+  {
+    "id": 8,
+    "category": "ANS: Sweat Glands",
+    "questionText": "Sweat glands are unique in the sympathetic nervous system because their postganglionic fibers release:",
+    "options": [
+      {
+        "text": "Norepinephrine",
+        "explanation": "Incorrect. True for most sympathetic targets."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Correct. Anatomically sympathetic, but neurochemically cholinergic (Muscarinic receptors). This is why atropine (anticholinergic) causes anhidrosis (dry, hot skin).",
+        "isCorrect": true
+      },
+      {
+        "text": "Epinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sympathetic Cholinergic fibers supply Sweat Glands. (Think: You sweat when you exercise/fight, but the transmitter is 'wet' ACh).",
+    "pdfPage": 11
+  },
+  {
+    "id": 9,
+    "category": "ANS: Autonomic Dysreflexia",
+    "questionText": "A 25-year-old male with a spinal cord injury at T4 (paraplegic) suddenly develops a severe pounding headache, flushed face, and profuse sweating above the lesion. His blood pressure is 220/120 mmHg. The trigger is found to be a distended bladder. This life-threatening condition is caused by:",
+    "options": [
+      {
+        "text": "Loss of parasympathetic outflow",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Unchecked sympathetic reflex discharge below the lesion",
+        "explanation": "Correct. Noxious stimuli (bladder) trigger a massive sympathetic surge below the T6 level. The brain tries to inhibit it but signals can't cross the lesion, leading to hypertension below and compensatory bradycardia/flushing above.",
+        "isCorrect": true
+      },
+      {
+        "text": "Adrenal crisis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Orthostatic hypotension",
+        "explanation": "Incorrect. It's the opposite (Hypertension)."
+      },
+      {
+        "text": "Septic shock",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Autonomic Dysreflexia occurs in SCI above T6. Trigger (bladder/bowel) -> Sympathetic storm -> HBP. Emergency!",
+    "pdfPage": 31
+  },
+  {
+    "id": 10,
+    "category": "ANS: Raynaud's Phenomenon",
+    "questionText": "A 30-year-old female complains that her fingers turn white, then blue, then red when exposed to cold. This phenomenon is due to excessive activation of:",
+    "options": [
+      {
+        "text": "Beta-2 adrenergic receptors",
+        "explanation": "Incorrect. Vasodilation."
+      },
+      {
+        "text": "Alpha-1 adrenergic receptors",
+        "explanation": "Correct. Alpha-1 mediates vasoconstriction of cutaneous vessels. Hyperactivity leads to vasospasm and ischemia (white/blue colors).",
+        "isCorrect": true
+      },
+      {
+        "text": "Muscarinic receptors",
+        "explanation": "Incorrect. Dilation (via NO)."
+      },
+      {
+        "text": "Nicotinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Raynaud's = Vasospasm. Alpha-1 receptor mediated constriction. Treat with Calcium Channel Blockers (vasodilators).",
+    "pdfPage": 31
+  },
+  {
+    "id": 11,
+    "category": "ANS: Sexual Function",
+    "questionText": "Sexual function requires cooperation between both branches of the ANS. Which statement correctly describes the innervation?",
+    "options": [
+      {
+        "text": "Sympathetic causes erection; Parasympathetic causes ejaculation.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parasympathetic causes erection; Sympathetic causes ejaculation.",
+        "explanation": "Correct. 'Point and Shoot'. Point (Erection) = Parasympathetic (Pelvic splanchnics). Shoot (Ejaculation) = Sympathetic (Hypogastric plexus).",
+        "isCorrect": true
+      },
+      {
+        "text": "Both are purely sympathetic.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Both are purely parasympathetic.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The somatic nervous system controls both directly.",
+        "explanation": "Incorrect. Somatic (Pudendal) controls the pelvic floor muscles, but NOT the vascular/smooth muscle events.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Point (Para) and Shoot (Symp). Prostate surgery can damage the cavernous nerves (parasympathetic) causing erectile dysfunction.",
+    "pdfPage": 8
+  },
+  {
+    "id": 12,
+    "category": "ANS: Beta-2 Agonists",
+    "questionText": "A child with asthma is treated with albuterol. This drug relieves bronchospasm by stimulating which receptor?",
+    "options": [
+      {
+        "text": "Alpha-1",
+        "explanation": "Incorrect. Constriction."
+      },
+      {
+        "text": "Beta-1",
+        "explanation": "Incorrect. Heart rate."
+      },
+      {
+        "text": "Beta-2",
+        "explanation": "Correct. Beta-2 receptors cause smooth muscle RELAXATION in the bronchi (bronchodilation) and uterus (tocolysis).",
+        "isCorrect": true
+      },
+      {
+        "text": "Muscarinic",
+        "explanation": "Incorrect. Muscarinic stimulation causes bronchoconstriction (why asthma is treated with Anticholinergics like Ipratropium).",
+        "isCorrect": false
+      },
+      {
+        "text": "Nicotinic",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Beta-2 = Dilation/Relaxation. (Bronchodilation, Vasodilation to skeletal muscle, Uterine relaxation).",
+    "pdfPage": 18
+  },
+  {
+    "id": 13,
+    "category": "ANS: Ganglia Length",
+    "questionText": "Structurally, the sympathetic nervous system is characterized by:",
+    "options": [
+      {
+        "text": "Long preganglionic fibers and short postganglionic fibers",
+        "explanation": "Incorrect. This describes Parasympathetic (ganglia are near the organ)."
+      },
+      {
+        "text": "Short preganglionic fibers and long postganglionic fibers",
+        "explanation": "Correct. Sympathetic ganglia are close to the spinal cord (Paravertebral chain), so the preganglionic fiber is short, and the postganglionic fiber must travel a long way to the target organ.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fibers that do not synapse",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ganglia located within the target organ walls",
+        "explanation": "Incorrect. Parasympathetic (Terminal ganglia)."
+      },
+      {
+        "text": "Origin from the brainstem",
+        "explanation": "Incorrect. Thoracolumbar."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sympathetic = Short Pre, Long Post. Parasympathetic = Long Pre, Short Post. (Para is Polite - it takes you all the way to the door).",
+    "pdfPage": 12
+  },
+  {
+    "id": 14,
+    "category": "ANS: Beta Blockers and Diabetes",
+    "questionText": "A diabetic patient taking insulin is prescribed a non-selective beta-blocker (e.g., Propranolol) for hypertension. Why is this combination potentially dangerous?",
+    "options": [
+      {
+        "text": "It raises blood sugar levels excessively.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It masks the symptoms of hypoglycemia (tachycardia, tremor).",
+        "explanation": "Correct. The body releases Epinephrine during hypoglycemia to alert the brain (heart palpitation, shaking). Beta-blockers prevent these warning signs, leading to 'Hypoglycemic Unawareness'.",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes insulin resistance.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It prevents insulin absorption.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes excessive sweating.",
+        "explanation": "Incorrect. Sweating is cholinergic (Sympathetic), so it remains the ONLY sign of hypoglycemia in a beta-blocked patient."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta-blockers mask hypoglycemia. The only sign left is Sweating (Cholinergic symp fibers spared).",
+    "pdfPage": 18
+  },
+  {
+    "id": 15,
+    "category": "ANS: Cranial Nerves",
+    "questionText": "Which of the following cranial nerves does NOT carry parasympathetic fibers?",
+    "options": [
+      {
+        "text": "CN III (Oculomotor)",
+        "explanation": "Incorrect. Pupil constriction/Lens accommodation."
+      },
+      {
+        "text": "CN VII (Facial)",
+        "explanation": "Incorrect. Tears/Saliva."
+      },
+      {
+        "text": "CN V (Trigeminal)",
+        "explanation": "Correct. CN V is sensory/motor to face muscles. It serves as a 'highway' for autonomic fibers to hitchhike on, but originates NO autonomic fibers itself.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN IX (Glossopharyngeal)",
+        "explanation": "Incorrect. Parotid gland."
+      },
+      {
+        "text": "CN X (Vagus)",
+        "explanation": "Incorrect. Thoracic/Abdominal viscera."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Parasympathetic Cranial Nerves: 3, 7, 9, 10. (1973).",
+    "pdfPage": 10
+  },
+  {
+    "id": 16,
+    "category": "ANS: Gray Rami Communicantes",
+    "questionText": "Gray rami communicantes contain:",
+    "options": [
+      {
+        "text": "Myelinated preganglionic sympathetic fibers",
+        "explanation": "Incorrect. White rami (White = Myelin)."
+      },
+      {
+        "text": "Unmyelinated postganglionic sympathetic fibers",
+        "explanation": "Correct. They carry postganglionic axons from the sympathetic chain back to the spinal nerve to reach the body wall (sweat glands/blood vessels). Found at ALL spinal levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "Parasympathetic fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somatic motor fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory afferents",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: White Rami = T1-L2 only (Input to chain). Gray Rami = C1-Coccyx (Output from chain to body wall/limbs).",
+    "pdfPage": 13
+  },
+  {
+    "id": 17,
+    "category": "ANS: Atropine Overdose",
+    "questionText": "A child ingests berries from a Belladonna plant (Deadly Nightshade). He presents with flushed skin, fever, dilated pupils, and confusion. 'Mad as a hatter, red as a beet, dry as a bone'. This toxidrome is due to blockade of:",
+    "options": [
+      {
+        "text": "Nicotinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha adrenergic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscarinic receptors",
+        "explanation": "Correct. This is Anticholinergic toxicity (Atropine). Blockade of muscarinic receptors prevents sweating (Hyperthermia/Red), salivation (Dry mouth), and pupil constriction (Mydriasis).",
+        "isCorrect": true
+      },
+      {
+        "text": "Dopamine receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Beta receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Anticholinergic Toxidrome: Hot as a Hare, Blind as a Bat (mydriasis), Dry as a Bone, Red as a Beet, Mad as a Hatter.",
+    "pdfPage": 22
+  },
+  {
+    "id": 18,
+    "category": "ANS: Vagus Nerve",
+    "questionText": "The Vagus nerve provides parasympathetic innervation to the gut up to which anatomical landmark?",
+    "options": [
+      {
+        "text": "Pyloric sphincter",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ligament of Treitz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Splenic (Left) Flexure of the Colon",
+        "explanation": "Correct. Derived from the transition between Midgut and Hindgut. The Vagus supplies Foregut/Midgut. The Pelvic Splanchnic nerves (S2-4) supply the Hindgut (Descending colon downwards).",
+        "isCorrect": true
+      },
+      {
+        "text": "Ileocecal valve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rectum",
+        "explanation": "Incorrect. Pelvic splanchnics."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Gut Parasympathetics: Vagus -> Proximal 2/3 (to Splenic Flexure). Pelvic Splanchnics -> Distal 1/3.",
+    "pdfPage": 10
+  },
+  {
+    "id": 19,
+    "category": "ANS: Pupillary Light Reflex",
+    "questionText": "Shining a light in the right eye causes constriction of both pupils. The efferent (motor) limb of this reflex is carried by:",
+    "options": [
+      {
+        "text": "Optic Nerve (CN II)",
+        "explanation": "Incorrect. Afferent limb (Sensory)."
+      },
+      {
+        "text": "Oculomotor Nerve (CN III)",
+        "explanation": "Correct. Parasympathetic fibers from Edinger-Westphal nucleus travel via CN III to the Ciliary Ganglion -> Short Ciliary Nerves -> Sphincter Pupillae.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trigeminal Nerve (CN V)",
+        "explanation": "Incorrect. Corneal reflex afferent."
+      },
+      {
+        "text": "Facial Nerve (CN VII)",
+        "explanation": "Incorrect. Blink reflex efferent."
+      },
+      {
+        "text": "Abducens Nerve (CN VI)",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PLR: Afferent (II) -> Pretectal Nucleus -> Bilateral Edinger-Westphal -> Efferent (III).",
+    "pdfPage": 4
+  },
+  {
+    "id": 20,
+    "category": "ANS: Cocaine",
+    "questionText": "Cocaine acts as a sympathomimetic drug primarily by:",
+    "options": [
+      {
+        "text": "Directly binding alpha receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting Reuptake of Norepinephrine",
+        "explanation": "Correct. It blocks the NET (Norepinephrine Transporter), increasing synaptic levels of NE. This leads to tachycardia, hypertension, and dilated pupils.",
+        "isCorrect": true
+      },
+      {
+        "text": "Increasing release of ACh",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocking Beta receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulating Muscarinic receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cocaine = Reuptake inhibitor (NE/DA). Amphetamine = Releaser (NE/DA). Both cause Sympathetic Surge.",
+    "pdfPage": 16
+  },
+  {
+    "id": 21,
+    "category": "ANS: Splanchnic Nerves",
+    "questionText": "The Greater Splanchnic Nerve carries preganglionic sympathetic fibers that pass through the sympathetic chain without synapsing. Where do they synapse?",
+    "options": [
+      {
+        "text": "Adrenal Medulla",
+        "explanation": "Incorrect. Though true they pass through, they synapse on chromaffin cells. Greater Splanchnic usually targets celiac."
+      },
+      {
+        "text": "Celiac Ganglion",
+        "explanation": "Correct. Prevertebral ganglia (Celiac, SMA, IMA) are located around the aorta. The Greater Splanchnic supplies the Foregut via the Celiac Ganglion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Cervical Ganglion",
+        "explanation": "Incorrect. Paravertebral."
+      },
+      {
+        "text": "Dorsal Root Ganglion",
+        "explanation": "Incorrect. Sensory."
+      },
+      {
+        "text": "Wall of the stomach",
+        "explanation": "Incorrect. Parasympathetic characteristic."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Splanchnic nerves (Greater/Lesser/Least) carry PRE-ganglionic fibers to PRE-vertebral ganglia. Post-ganglionic fibers then ride arteries to the organs.",
+    "pdfPage": 13
+  },
+  {
+    "id": 22,
+    "category": "ANS: Enteric Nervous System",
+    "questionText": "Hirschsprung's disease (congenital megacolon) is caused by the absence of which neuronal cell bodies in the distal colon?",
+    "options": [
+      {
+        "text": "Dorsal Root Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enteric Ganglia (Myenteric/Submucosal plexuses)",
+        "explanation": "Correct. Failure of neural crest cells to migrate causes an aganglionic segment. Without the enteric nervous system (Auerbach/Meissner plexuses) to coordinate peristalsis, the colon constricts and obstructs.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sympathetic Chain Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Celiac Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacral Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Enteric Nervous System = 'Brain of the Gut'. Can function independently (peristalsis) but modulated by ANS. Hirschsprung's = No ENS = Obstruction.",
+    "pdfPage": 30
+  },
+  {
+    "id": 23,
+    "category": "ANS: Hypertension",
+    "questionText": "Clonidine is an antihypertensive medication that lowers blood pressure by stimulating Alpha-2 receptors. Where are these receptors primarily acting to produce this effect?",
+    "options": [
+      {
+        "text": "Vascular smooth muscle (Postsynaptic)",
+        "explanation": "Incorrect. Alpha-1 stimulation here causes constriction (High BP)."
+      },
+      {
+        "text": "Brainstem Presynaptic Nerve Terminals",
+        "explanation": "Correct. Alpha-2 is an autoreceptor (Negative feedback). Stimulating it tells the brain 'We have enough NE', reducing sympathetic output from the center. (Sympatholytic).",
+        "isCorrect": true
+      },
+      {
+        "text": "Heart (Beta-1)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Kidney (Beta-1)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lungs (Beta-2)",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alpha-2 = 'The Brake'. Stimulation reduces NE release. Alpha-1 = The Gas (Constriction).",
+    "pdfPage": 20
+  },
+  {
+    "id": 24,
+    "category": "ANS: Urinary Bladder",
+    "questionText": "To treat an Overactive Bladder (urge incontinence), medications like Oxybutynin targeting which receptor are used?",
+    "options": [
+      {
+        "text": "Alpha-1 adrenergic",
+        "explanation": "Incorrect. Used for BPH (Tamsulosin) to relax sphincter."
+      },
+      {
+        "text": "Beta-3 adrenergic",
+        "explanation": "Incorrect. Mirabegron activates Beta-3 to relax bladder (sympathetic). Oxybutynin is different."
+      },
+      {
+        "text": "Muscarinic (M3) cholinergic",
+        "explanation": "Correct. Parasympathetic (M3) causes Detrusor contraction (emptying). Blocking M3 (Anticholinergic) prevents contraction, treating urge frequency.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nicotinic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine D2",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Bladder Emptying = Parasympathetic (M3 - Squeeze). Bladder Filling = Sympathetic (Beta-3 - Relax wall, Alpha-1 - Constrict sphincter).",
+    "pdfPage": 19
+  },
+  {
+    "id": 25,
+    "category": "ANS: Salivation",
+    "questionText": "Sjogren's syndrome is an autoimmune attack on exocrine glands. Which parasympathetic ganglion supplies the lacrimal and submandibular glands?",
+    "options": [
+      {
+        "text": "Otic Ganglion",
+        "explanation": "Incorrect. Parotid (CN IX)."
+      },
+      {
+        "text": "Pterygopalatine and Submandibular Ganglia",
+        "explanation": "Correct. CN VII fibers synapse here. Pterygopalatine -> Lacrimal (Tears). Submandibular -> Submandibular gland (Saliva).",
+        "isCorrect": true
+      },
+      {
+        "text": "Ciliary Ganglion",
+        "explanation": "Incorrect. Eye muscles."
+      },
+      {
+        "text": "Superior Cervical Ganglion",
+        "explanation": "Incorrect. Sympathetic."
+      },
+      {
+        "text": "Trigeminal Ganglion",
+        "explanation": "Incorrect. Sensory."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: CN VII = Cry and Spit (Lacrimal/Submandibular). CN IX = Spit (Parotid via Otic ganglion).",
+    "pdfPage": 10
+  },
+  {
+    "id": 26,
+    "category": "ANS: Accommodation",
+    "questionText": "When shifting focus from a distant object to a near object (Acccommodation), the ciliary muscle:",
+    "options": [
+      {
+        "text": "Relaxes via Sympathetic stimulation",
+        "explanation": "Incorrect. Relaxed muscle = Tight zonules = Flat lens = Distance vision."
+      },
+      {
+        "text": "Contracts via Parasympathetic stimulation",
+        "explanation": "Correct. Parasympathetic (M3) contracts ciliary muscle -> Zonules become lax -> Lens becomes spherical (fat) -> Near focus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Contracts via Sympathetic stimulation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Relaxes via Parasympathetic stimulation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Does not change",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Near Triad: 1. Convergence (MR). 2. Miosis (Sphincter pupillae). 3. Accommodation (Ciliary muscle contraction). All Parasympathetic (CN III).",
+    "pdfPage": 8
+  },
+  {
+    "id": 27,
+    "category": "ANS: Referred Pain",
+    "questionText": "A patient having a heart attack feels pain radiating down the left arm. This 'referred pain' occurs because:",
+    "options": [
+      {
+        "text": "The heart muscle extends into the arm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visceral afferents from the heart enter the spinal cord at the same level (T1-T5) as somatic afferents from the arm.",
+        "explanation": "Correct. The brain confuses the visceral pain signal (heart) with the somatic signal (arm) because they share the same dorsal root/spinothalamic tract entry level.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Vagus nerve innervates the arm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The heart releases inflammatory cytokines that travel to the arm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The phrenic nerve is irritated",
+        "explanation": "Incorrect. Shoulder tip pain."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Visceral pain is poorly localized. The brain interprets it as coming from the dermatome of the embryonic segment origin (Heart = T1-T4 = Chest/Arm).",
+    "pdfPage": 13
+  },
+  {
+    "id": 28,
+    "category": "ANS: Pure Autonomic Failure",
+    "questionText": "A patient presents with widespread failure of sympathetic and parasympathetic function without other neurological deficits. Plasma norepinephrine levels are extremely low when lying down and do not rise upon standing. This condition is:",
+    "options": [
+      {
+        "text": "Multiple System Atrophy (MSA)",
+        "explanation": "Incorrect. Central degeneration (Brainstem/Basal ganglia signs). NE levels are normal lying down."
+      },
+      {
+        "text": "Pure Autonomic Failure (Bradbury-Eggleston)",
+        "explanation": "Correct. A peripheral degeneration of postganglionic sympathetic neurons. Low NE levels because the neurons that make it are dead.",
+        "isCorrect": true
+      },
+      {
+        "text": "Parkinson's Disease",
+        "explanation": "Incorrect. Motor signs predominate."
+      },
+      {
+        "text": "Riley-Day Syndrome",
+        "explanation": "Incorrect. Familial Dysautonomia (Genetic)."
+      },
+      {
+        "text": "POTS",
+        "explanation": "Incorrect. Postural Tachycardia (Exaggerated HR response, not failure)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Distinguish PAF vs MSA. PAF (Peripheral) = Low NE. MSA (Central) = Normal/High NE.",
+    "pdfPage": 31
+  },
+  {
+    "id": 29,
+    "category": "ANS: Vagus Nerve Stimulation",
+    "questionText": "Carotid sinus massage is a maneuver used to terminate Supraventricular Tachycardia (SVT). It works by:",
+    "options": [
+      {
+        "text": "Increasing Sympathetic tone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decreasing Parasympathetic tone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fooling the baroreceptors into thinking BP is high",
+        "explanation": "Correct. Massage stretches the carotid sinus -> Signal High BP -> Reflex activation of Vagas Nerve -> Slows SA/AV node conduction -> Breaks arrhythmia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking Beta receptors directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Releasing Adenosine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Vagal Maneuvers (Valsalva, Carotid Massage) increase Parasympathetic tone to the heart to slow rate.",
+    "pdfPage": 4
+  },
+  {
+    "id": 30,
+    "category": "ANS: Adrenal Medulla Innervation",
+    "questionText": "The Adrenal Medulla is unique because it is innervated directly by:",
+    "options": [
+      {
+        "text": "Postganglionic sympathetic fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Preganglionic sympathetic fibers (Splanchnic n.)",
+        "explanation": "Correct. The chromaffin cells act as the postganglionic neuron. So the fibers reaching it are myelinated axons from the spinal cord (Preganglionic).",
+        "isCorrect": true
+      },
+      {
+        "text": "Parasympathetic fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somatic motor fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory afferents",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Adrenal Medulla = Giant Ganglion. Innervated by Pre-ganglionic cholinergic fibers.",
+    "pdfPage": 13
+  },
+  {
+    "id": 31,
+    "category": "ANS: Diabetic Neuropathy",
+    "questionText": "A diabetic patient reports he no longer sweats despite hot weather (anhidrosis) and has dry, cracked skin on his feet. This indicates damage to:",
+    "options": [
+      {
+        "text": "Parasympathetic muscarinic fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sympathetic Adrenergic fibers",
+        "explanation": "Incorrect. Sweat glands are cholinergic."
+      },
+      {
+        "text": "Sympathetic Cholinergic fibers",
+        "explanation": "Correct. These specific sympathetic fibers release ACh to sweat glands. Their loss causes distal anhidrosis (stocking distribution).",
+        "isCorrect": true
+      },
+      {
+        "text": "Somatic sensory fibers",
+        "explanation": "Incorrect. Causes numbness, not anhidrosis."
+      },
+      {
+        "text": "Motor fibers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Diabetic Autonomic Neuropathy affects the longest nerves first (Vagus, nerves to feet). Gastroparesis + Anhidrosis + Orthostasis.",
+    "pdfPage": 31
+  },
+  {
+    "id": 32,
+    "category": "ANS: Blood Vessels",
+    "questionText": "Most blood vessels in the body receive:",
+    "options": [
+      {
+        "text": "Dual innervation (Symp + Para)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sympathetic innervation only",
+        "explanation": "Correct. Sympathetic tone keeps vessels partially constricted. Dilation is usually passive (withdrawal of symp tone) or local metabolites, not parasympathetic (except erectile tissue/salivary glands).",
+        "isCorrect": true
+      },
+      {
+        "text": "Parasympathetic innervation only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No autonomic innervation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Somatic innervation",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Major Exception to Dual Innervation rule: Vessels, Sweat Glands, Adrenal Medulla, Piloerector muscles = SYMPATHETIC ONLY.",
+    "pdfPage": 8
+  },
+  {
+    "id": 33,
+    "category": "ANS: Myaesthenia Gravis",
+    "questionText": "While not strictly an ANS disorder, Myasthenia Gravis affects the Nicotinic receptors. Why does it cause muscle weakness but spares autonomic function initially?",
+    "options": [
+      {
+        "text": "It targets Muscarinic receptors.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It targets Nicotinic Muscle (Nm) receptors, sparing Nicotinic Neuronal (Nn) receptors.",
+        "explanation": "Correct. ANS ganglia use Nn (Neuronal) subtype. Skeletal muscle uses Nm (Muscle) subtype. MG antibodies are specific for Nm.",
+        "isCorrect": true
+      },
+      {
+        "text": "Autonomic nerves don't use Acetylcholine.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The deficiency is presynaptic.",
+        "explanation": "Incorrect (Lambert-Eaton)."
+      },
+      {
+        "text": "It only affects the heart.",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Receptor Subtypes matter. Hexamethonium blocks Nn (Ganglion blocker). Curare blocks Nm (Muscle paralytic).",
+    "pdfPage": 21
+  },
+  {
+    "id": 34,
+    "category": "ANS: Gastroparesis",
+    "questionText": "A patient with diabetes complains of early satiety, bloating, and vomiting undigested food. A gastric emptying study confirms delayed emptying (Gastroparesis). This is due to localized neuropathy of:",
+    "options": [
+      {
+        "text": "The Vagus Nerve",
+        "explanation": "Correct. Vagus promotes gastric motility. Neuropathy (autovagotomy) leads to stomach paralysis.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Celiac Ganglion",
+        "explanation": "Incorrect. Sympathetic (Inhibits motility). Loss would theoretically increase motility."
+      },
+      {
+        "text": "The Phrenic Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Pudendal Nerve",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Sciatic Nerve",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Treat Gastroparesis with Metoclopramide (Pro-kinetic) or Erythromycin (Motilin agonist).",
+    "pdfPage": 31
+  },
+  {
+    "id": 35,
+    "category": "ANS: Alpha-1 Blocker",
+    "questionText": "Tamsulosin is used to treat Benign Prostatic Hyperplasia (BPH). It improves urine flow by:",
+    "options": [
+      {
+        "text": "Contracting the bladder (Muscarinic)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Relaxing smooth muscle in the prostate and bladder neck (Alpha-1 blockade)",
+        "explanation": "Correct. Prostate stroma and bladder neck are rich in Alpha-1a receptors. Blocking them relaxes the obstruction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shrinking the prostate (5-alpha reductase inhibitor)",
+        "explanation": "Incorrect (Finasteride)."
+      },
+      {
+        "text": "Increasing urine production",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Relaxing the external sphincter (Somatic)",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alpha-1 blockers (Terazosin, Tamsulosin) cause relaxation. Side effect: Orthostatic hypotension (due to vascular alpha-1 blockade).",
+    "pdfPage": 20
   }
 ];
