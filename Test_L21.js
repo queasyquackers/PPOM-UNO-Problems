@@ -1,5 +1,5 @@
 // Test_L21.js
-const Test_L21 = [
+window.Test_L21 = [
   {
     "id": 1,
     "category": "Motion Sickness",

@@ -1,5 +1,5 @@
 // Test_L24.js
-const Test_L24 = [
+window.Test_L24 = [
   {
     "id": 1,
     "category": "Clinical Case: Kallmann Syndrome",

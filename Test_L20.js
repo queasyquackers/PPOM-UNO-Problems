@@ -1,5 +1,5 @@
 // Test_L20.js
-const Test_L20 = [
+window.Test_L20 = [
   {
     "id": 1,
     "category": "Myasthenia Gravis Diagnosis",

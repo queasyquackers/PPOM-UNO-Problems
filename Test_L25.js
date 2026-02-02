@@ -1,5 +1,5 @@
 // Test_L25.js
-const Test_L25 = [
+window.Test_L25 = [
   {
     "id": 1,
     "category": "Clinical Case: Wernicke-Korsakoff",

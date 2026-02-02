@@ -1,5 +1,5 @@
 // Test_L4.js
-const Test_L4 = [
+window.Test_L4 = [
   {
     "id": 1,
     "category": "Cerebrovascular Anatomy",

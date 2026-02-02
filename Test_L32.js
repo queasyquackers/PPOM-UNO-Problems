@@ -1,4 +1,4 @@
-const Test_L32 = [
+window.Test_L32 = [
   {
     "id": 1,
     "category": "Neuro: Clinical Case",

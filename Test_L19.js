@@ -1,5 +1,5 @@
 // Test_L19.js
-const Test_L19 = [
+window.Test_L19 = [
   {
     "id": 1,
     "category": "Asthma Diagnosis",

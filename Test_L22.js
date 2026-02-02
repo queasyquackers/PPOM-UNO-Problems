@@ -1,5 +1,5 @@
 // Test_L22.js
-const Test_L22 = [
+window.Test_L22 = [
   {
     "id": 1,
     "category": "Ganglionic Blockers",

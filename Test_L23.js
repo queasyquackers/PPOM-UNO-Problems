@@ -1,5 +1,5 @@
 // Test_L23.js
-const Test_L23 = [
+window.Test_L23 = [
   {
     "id": 1,
     "category": "Clinical Case: BPPV",

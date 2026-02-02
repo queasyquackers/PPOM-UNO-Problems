@@ -1,5 +1,5 @@
 // Test_L7.js
-const Test_L7 = [
+window.Test_L7 = [
   {
     "id": 1,
     "category": "Brainstem Anatomy",

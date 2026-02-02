@@ -1,5 +1,5 @@
 // Test_L5.js
-const Test_L5 = [
+window.Test_L5 = [
   {
     "id": 1,
     "category": "Neuroimaging Modalities",

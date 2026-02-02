@@ -1,5 +1,5 @@
 // Test_L6.js
-const Test_L6 = [
+window.Test_L6 = [
   {
     "id": 1,
     "category": "Spinal Cord Anatomy",
