@@ -11,7 +11,8 @@ window.Test_L23 = [
       },
       {
         "text": "Benign Paroxysmal Positional Vertigo (BPPV)",
-        "explanation": "Correct. Classic presentation: vertigo triggered by head position, lasting < 1 minute, positive Dix-Hallpike."
+        "explanation": "Correct. Classic presentation: vertigo triggered by head position, lasting < 1 minute, positive Dix-Hallpike.",
+        "isCorrect": true
       },
       {
         "text": "Vestibular Neuritis",
@@ -45,7 +46,8 @@ window.Test_L23 = [
       },
       {
         "text": "Extinguishes with fixation",
-        "explanation": "Correct. Fixation (looking at a stationary object) suppresses peripheral nystagmus."
+        "explanation": "Correct. Fixation (looking at a stationary object) suppresses peripheral nystagmus.",
+        "isCorrect": true
       },
       {
         "text": "Changes direction with gaze",
@@ -71,7 +73,8 @@ window.Test_L23 = [
       },
       {
         "text": "Episodic Vertigo, Tinnitus, Hearing Loss",
-        "explanation": "Correct. Meniere's Disease triad."
+        "explanation": "Correct. Meniere's Disease triad.",
+        "isCorrect": true
       },
       {
         "text": "Vertigo, Diplopia, Dysarthria",
@@ -105,7 +108,8 @@ window.Test_L23 = [
       },
       {
         "text": "Right-sided Conductive Loss",
-        "explanation": "Correct. Sound lateralizes to the bad ear in conductive loss (or good ear in sensorineural loss)."
+        "explanation": "Correct. Sound lateralizes to the bad ear in conductive loss (or good ear in sensorineural loss).",
+        "isCorrect": true
       },
       {
         "text": "Bilateral Normal Hearing",
@@ -131,7 +135,8 @@ window.Test_L23 = [
       },
       {
         "text": "Vestibular Neuritis (Vestibulitis)",
-        "explanation": "Correct. Viral etiology, constant vertigo for days, normal hearing, abnormal VOR."
+        "explanation": "Correct. Viral etiology, constant vertigo for days, normal hearing, abnormal VOR.",
+        "isCorrect": true
       },
       {
         "text": "Labyrinthitis",
@@ -161,7 +166,8 @@ window.Test_L23 = [
       },
       {
         "text": "Air Conduction > Bone Conduction",
-        "explanation": "Correct. Normal hearing or SNHL."
+        "explanation": "Correct. Normal hearing or SNHL.",
+        "isCorrect": true
       },
       {
         "text": "Sound lateralizing to one ear",
@@ -191,7 +197,8 @@ window.Test_L23 = [
       },
       {
         "text": "Aspirin",
-        "explanation": "Correct. Salicylates (Aspirin) are a well-known cause of reversible tinnitus."
+        "explanation": "Correct. Salicylates (Aspirin) are a well-known cause of reversible tinnitus.",
+        "isCorrect": true
       },
       {
         "text": "Diphenhydramine",
@@ -225,7 +232,8 @@ window.Test_L23 = [
       },
       {
         "text": "Inability to walk without assistance",
-        "explanation": "Correct. Severe ataxia preventing walking is a red flag for central pathology (cerebellum/brainstem)."
+        "explanation": "Correct. Severe ataxia preventing walking is a red flag for central pathology (cerebellum/brainstem).",
+        "isCorrect": true
       },
       {
         "text": "Symptoms lasting seconds",
@@ -255,7 +263,8 @@ window.Test_L23 = [
       },
       {
         "text": "Cerebellar/Brainstem Stroke (CVA)",
-        "explanation": "Correct. 'Dangerous Dizziness'. Central signs (no suppression of nystagmus, severe ataxia, diplopia) + risk factors."
+        "explanation": "Correct. 'Dangerous Dizziness'. Central signs (no suppression of nystagmus, severe ataxia, diplopia) + risk factors.",
+        "isCorrect": true
       },
       {
         "text": "BPPV",
@@ -285,7 +294,8 @@ window.Test_L23 = [
       },
       {
         "text": "Benign Paroxysmal Positional Vertigo (BPPV)",
-        "explanation": "Correct. It repositions the displaced otoconia crystals."
+        "explanation": "Correct. It repositions the displaced otoconia crystals.",
+        "isCorrect": true
       },
       {
         "text": "Acoustic Neuroma",
@@ -315,7 +325,8 @@ window.Test_L23 = [
       },
       {
         "text": "Conductive Hearing Loss due to Otitis Media",
-        "explanation": "Correct. Fluid/infection in middle ear impairs conduction. Weber lateralizes to bad ear."
+        "explanation": "Correct. Fluid/infection in middle ear impairs conduction. Weber lateralizes to bad ear.",
+        "isCorrect": true
       },
       {
         "text": "Acoustic Trauma",
@@ -341,7 +352,8 @@ window.Test_L23 = [
       },
       {
         "text": "Aminoglycosides",
-        "explanation": "Correct. Gentamicin, etc. are ototoxic and nephrotoxic."
+        "explanation": "Correct. Gentamicin, etc. are ototoxic and nephrotoxic.",
+        "isCorrect": true
       },
       {
         "text": "Macrolides",
@@ -363,7 +375,7 @@ window.Test_L23 = [
   {
     "id": 13,
     "category": "Clinical Case: Acoustic Neuroma",
-    "questionText": "A 45-year-old male presents with slowly progressive UNILATERAL sensorineural hearing loss and tinnitus on the left side. He has mild imbalance but no true vertigo. What is the most appropriate next diagnostic step?",
+    "questionText": "A 45-year-old male presents with slowly progressive UNILATERAL sensorineural hearing loss and tinnitus on the left side. He has mild imbalance but no True vertigo. What is the most appropriate next diagnostic step?",
     "options": [
       {
         "text": "Epley Maneuver",
@@ -371,7 +383,8 @@ window.Test_L23 = [
       },
       {
         "text": "MRI of the cerebellopontine angle",
-        "explanation": "Correct. Unilateral SNHL + Tinnitus is an Acoustic Neuroma (Vestibular Schwannoma) until proven otherwise."
+        "explanation": "Correct. Unilateral SNHL + Tinnitus is an Acoustic Neuroma (Vestibular Schwannoma) until proven otherwise.",
+        "isCorrect": true
       },
       {
         "text": "Prescribe antibiotics",
@@ -401,7 +414,8 @@ window.Test_L23 = [
       },
       {
         "text": "BPPV",
-        "explanation": "Correct. It elicits the characteristic nystagmus."
+        "explanation": "Correct. It elicits the characteristic nystagmus.",
+        "isCorrect": true
       },
       {
         "text": "Stroke",
@@ -431,7 +445,8 @@ window.Test_L23 = [
       },
       {
         "text": "Presbycusis",
-        "explanation": "Correct. Age-related SNHL, typically high-frequency first."
+        "explanation": "Correct. Age-related SNHL, typically high-frequency first.",
+        "isCorrect": true
       },
       {
         "text": "Meniere's Disease",
@@ -465,7 +480,8 @@ window.Test_L23 = [
       },
       {
         "text": "Vestibulitis / Neuritis",
-        "explanation": "Correct. The acute phase lasts days."
+        "explanation": "Correct. The acute phase lasts days.",
+        "isCorrect": true
       },
       {
         "text": "TIA",
@@ -491,7 +507,8 @@ window.Test_L23 = [
       },
       {
         "text": "Peripheral Pathology (Left-sided)",
-        "explanation": "Correct. An abnormal HIT (corrective saccade) suggests a peripheral vestibular lesion on that side."
+        "explanation": "Correct. An abnormal HIT (corrective saccade) suggests a peripheral vestibular lesion on that side.",
+        "isCorrect": true
       },
       {
         "text": "Normal function",
@@ -521,7 +538,8 @@ window.Test_L23 = [
       },
       {
         "text": "Endolymphatic Hydrops (Excess fluid)",
-        "explanation": "Correct. Distension of the endolymphatic compartment."
+        "explanation": "Correct. Distension of the endolymphatic compartment.",
+        "isCorrect": true
       },
       {
         "text": "Viral inflammation of nerve",
@@ -547,7 +565,8 @@ window.Test_L23 = [
     "options": [
       {
         "text": "Otosclerosis",
-        "explanation": "Correct. Hereditary conductive hearing loss due to fixation of stapes. Common in young women."
+        "explanation": "Correct. Hereditary conductive hearing loss due to fixation of stapes. Common in young women.",
+        "isCorrect": true
       },
       {
         "text": "Meniere's",
@@ -589,7 +608,8 @@ window.Test_L23 = [
       },
       {
         "text": "Semicircular Canals",
-        "explanation": "Correct. Specifically the crista ampullaris detect rotation."
+        "explanation": "Correct. Specifically the crista ampullaris detect rotation.",
+        "isCorrect": true
       },
       {
         "text": "Tympanic Membrane",
@@ -616,7 +636,8 @@ window.Test_L23 = [
       {
         "text": "Labyrinthitis",
         "explanation": "Correct. Neuritis + Hearing Loss = Labyrinthitis (Inflammation of both branches of CN VIII).",
-        "pdfPage": 5
+        "pdfPage": 5,
+        "isCorrect": true
       },
       {
         "text": "Meniere's",
@@ -642,7 +663,8 @@ window.Test_L23 = [
       },
       {
         "text": "Right Ear",
-        "explanation": "Correct. Lateralizes to the 'Good' ear in SNHL."
+        "explanation": "Correct. Lateralizes to the 'Good' ear in SNHL.",
+        "isCorrect": true
       },
       {
         "text": "Midline",
@@ -672,7 +694,8 @@ window.Test_L23 = [
       },
       {
         "text": "Head Impulse Normal, Nystagmus Direction-Changing, Test of Skew Abnormal",
-        "explanation": "Correct. Any distinct central sign (Direction changing nystagmus, vertical skew, or NORMAL head impulse in acute vertigo) suggests stroke."
+        "explanation": "Correct. Any distinct central sign (Direction changing nystagmus, vertical skew, or NORMAL head impulse in acute vertigo) suggests stroke.",
+        "isCorrect": true
       },
       {
         "text": "Fatigable nystagmus",
@@ -702,7 +725,8 @@ window.Test_L23 = [
       },
       {
         "text": "Salt (Sodium)",
-        "explanation": "Correct. Low salt diet reduces endolymphatic fluid pressure."
+        "explanation": "Correct. Low salt diet reduces endolymphatic fluid pressure.",
+        "isCorrect": true
       },
       {
         "text": "Protein",
@@ -732,7 +756,8 @@ window.Test_L23 = [
       },
       {
         "text": "Perilymphatic Fistula / Superior Canal Dehiscence",
-        "explanation": "Correct. Pressure changes (middle ear) transmit to inner ear causing vertigo."
+        "explanation": "Correct. Pressure changes (middle ear) transmit to inner ear causing vertigo.",
+        "isCorrect": true
       },
       {
         "text": "Meniere's",
@@ -762,7 +787,8 @@ window.Test_L23 = [
       },
       {
         "text": "Central pathology (Brainstem/Cerebellum)",
-        "explanation": "Correct. Peripheral is usually horizontal-rotary."
+        "explanation": "Correct. Peripheral is usually horizontal-rotary.",
+        "isCorrect": true
       },
       {
         "text": "Ear infection",
@@ -792,7 +818,8 @@ window.Test_L23 = [
       },
       {
         "text": "Ramsay Hunt Syndrome (Herpes Zoster Oticus)",
-        "explanation": "Correct. Shingles of CN VII/VIII."
+        "explanation": "Correct. Shingles of CN VII/VIII.",
+        "isCorrect": true
       },
       {
         "text": "BPPV",
@@ -822,7 +849,8 @@ window.Test_L23 = [
       },
       {
         "text": "Displaced Otoconia (Calcium Carbonate crystals)",
-        "explanation": "Correct. Usually in the posterior canal."
+        "explanation": "Correct. Usually in the posterior canal.",
+        "isCorrect": true
       },
       {
         "text": "Excess fluid",
@@ -852,7 +880,8 @@ window.Test_L23 = [
       },
       {
         "text": "Posterior Semicircular Canal",
-        "explanation": "Correct. The most common site of BPPV."
+        "explanation": "Correct. The most common site of BPPV.",
+        "isCorrect": true
       },
       {
         "text": "Eustachian Tube",
@@ -882,7 +911,8 @@ window.Test_L23 = [
       },
       {
         "text": "Obstruction of the canal (Conductive)",
-        "explanation": "Correct. 'Surfer's Ear'. Traps water/wax or blocks sound."
+        "explanation": "Correct. 'Surfer's Ear'. Traps water/wax or blocks sound.",
+        "isCorrect": true
       },
       {
         "text": "Damaging the nerve",
@@ -912,7 +942,8 @@ window.Test_L23 = [
       },
       {
         "text": "Corticosteroids and Antiemetics",
-        "explanation": "Correct. To reduce inflammation and symptom control."
+        "explanation": "Correct. To reduce inflammation and symptom control.",
+        "isCorrect": true
       },
       {
         "text": "Epley Maneuver",
@@ -942,7 +973,8 @@ window.Test_L23 = [
       },
       {
         "text": "4000 Hz",
-        "explanation": "Correct. The 'Noise Notch' on audiogram."
+        "explanation": "Correct. The 'Noise Notch' on audiogram.",
+        "isCorrect": true
       },
       {
         "text": "8000 Hz",
@@ -968,7 +1000,8 @@ window.Test_L23 = [
     "options": [
       {
         "text": "Oral Steroids",
-        "explanation": "Correct. Sudden Sensorineural Hearing Loss (SSNHL) is an emergency. Steroids give best chance of recovery."
+        "explanation": "Correct. Sudden Sensorineural Hearing Loss (SSNHL) is an emergency. Steroids give best chance of recovery.",
+        "isCorrect": true
       },
       {
         "text": "Antibiotics",
@@ -1002,7 +1035,8 @@ window.Test_L23 = [
       },
       {
         "text": "Proprioception or Vestibular function",
-        "explanation": "Correct. Removing vision (closing eyes) forces reliance on the other two systems."
+        "explanation": "Correct. Removing vision (closing eyes) forces reliance on the other two systems.",
+        "isCorrect": true
       },
       {
         "text": "Motor strength",
@@ -1032,7 +1066,8 @@ window.Test_L23 = [
       },
       {
         "text": "Vestibular division of CN VIII",
-        "explanation": "Correct. Even though they presents with hearing loss, they grow on the vestibular nerve."
+        "explanation": "Correct. Even though they presents with hearing loss, they grow on the vestibular nerve.",
+        "isCorrect": true
       },
       {
         "text": "Cochlear division of CN VIII",

@@ -10,7 +10,8 @@ window.Test_L41 = [
       },
       {
         "text": "Myasthenia Gravis",
-        "explanation": "Correct. Autoimmune attack on Acetylcholine receptors (Post-synaptic). Hallmark is fatigable weakness (worse at night) and ocular/bulbar symptoms."
+        "explanation": "Correct. Autoimmune attack on Acetylcholine receptors (Post-synaptic). Hallmark is fatigable weakness (worse at night) and ocular/bulbar symptoms.",
+        "isCorrect": true
       },
       {
         "text": "Botulism",
@@ -44,7 +45,8 @@ window.Test_L41 = [
       },
       {
         "text": "S1",
-        "explanation": "Correct. S1 radiculopathy causes pain down the posterior leg, weakness of plantar flexion (Gastrocnemius), and loss of the Achilles reflex."
+        "explanation": "Correct. S1 radiculopathy causes pain down the posterior leg, weakness of plantar flexion (Gastrocnemius), and loss of the Achilles reflex.",
+        "isCorrect": true
       },
       {
         "text": "S2",
@@ -70,7 +72,8 @@ window.Test_L41 = [
       },
       {
         "text": "Acute onset of severe shoulder pain followed by patchy weakness/atrophy",
-        "explanation": "Correct. Usually inflammatory/post-viral. Pain comes first, then resolves as weakness appears."
+        "explanation": "Correct. Usually inflammatory/post-viral. Pain comes first, then resolves as weakness appears.",
+        "isCorrect": true
       },
       {
         "text": "Ascending flaccid paralysis",
@@ -104,7 +107,8 @@ window.Test_L41 = [
       },
       {
         "text": "Inclusion Body Myositis",
-        "explanation": "Correct. Most common acquired myopathy in older males. Distinctive pattern: Quads + Finger Flexors."
+        "explanation": "Correct. Most common acquired myopathy in older males. Distinctive pattern: Quads + Finger Flexors.",
+        "isCorrect": true
       },
       {
         "text": "Duchenne Muscular Dystrophy",
@@ -130,7 +134,8 @@ window.Test_L41 = [
       },
       {
         "text": "Lower Motor Neuron (Anterior Horn Cell)",
-        "explanation": "Correct. LMN damage causes atrophy, flaccidity, and fasciculations."
+        "explanation": "Correct. LMN damage causes atrophy, flaccidity, and fasciculations.",
+        "isCorrect": true
       },
       {
         "text": "Neuromuscular Junction",
@@ -164,7 +169,8 @@ window.Test_L41 = [
       },
       {
         "text": "Guillain-Barre Syndrome",
-        "explanation": "Correct. Inflammation of nerve roots leads to high protein without pleocytosis."
+        "explanation": "Correct. Inflammation of nerve roots leads to high protein without pleocytosis.",
+        "isCorrect": true
       },
       {
         "text": "ALS",
@@ -190,7 +196,8 @@ window.Test_L41 = [
       },
       {
         "text": "Pre-synaptic Voltage-Gated Calcium Channels",
-        "explanation": "Correct. Prevents ACh release. Associated with Small Cell Lung Cancer."
+        "explanation": "Correct. Prevents ACh release. Associated with Small Cell Lung Cancer.",
+        "isCorrect": true
       },
       {
         "text": "MuSK protein",
@@ -220,7 +227,8 @@ window.Test_L41 = [
       },
       {
         "text": "Enteroviruses (D68, D71)",
-        "explanation": "Correct. Polio-like illness affecting anterior horn cells."
+        "explanation": "Correct. Polio-like illness affecting anterior horn cells.",
+        "isCorrect": true
       },
       {
         "text": "Retroviruses",
@@ -254,7 +262,8 @@ window.Test_L41 = [
       },
       {
         "text": "Distal Symmetric Polyneuropathy",
-        "explanation": "Correct. Longest nerves affected first (feet then hands). Diabetes is #1 cause."
+        "explanation": "Correct. Longest nerves affected first (feet then hands). Diabetes is #1 cause.",
+        "isCorrect": true
       },
       {
         "text": "Plexopathy",
@@ -280,7 +289,8 @@ window.Test_L41 = [
       },
       {
         "text": "Mixture of Upper and Lower Motor Neuron signs",
-        "explanation": "Correct. Atrophy + Hyperreflexia in the same/different territories."
+        "explanation": "Correct. Atrophy + Hyperreflexia in the same/different territories.",
+        "isCorrect": true
       },
       {
         "text": "Visual field defects",
@@ -306,7 +316,8 @@ window.Test_L41 = [
     "options": [
       {
         "text": "Corticospinal Tract (UMN)",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Anterior Horn Cell (LMN)",
@@ -340,7 +351,8 @@ window.Test_L41 = [
       },
       {
         "text": "Antitoxin",
-        "explanation": "Correct. Blocks circulating toxin."
+        "explanation": "Correct. Blocks circulating toxin.",
+        "isCorrect": true
       },
       {
         "text": "High dose steroids",
@@ -370,7 +382,8 @@ window.Test_L41 = [
       },
       {
         "text": "Statins (HMG-CoA reductase inhibitors)",
-        "explanation": "Correct. Can cause myalgia to rhabdomyolysis."
+        "explanation": "Correct. Can cause myalgia to rhabdomyolysis.",
+        "isCorrect": true
       },
       {
         "text": "Beta blockers",
@@ -396,7 +409,8 @@ window.Test_L41 = [
     "options": [
       {
         "text": "Time course > 8 weeks",
-        "explanation": "Correct. GBS is acute (<4 weeks), CIDP is chronic (>8 weeks)."
+        "explanation": "Correct. GBS is acute (<4 weeks), CIDP is chronic (>8 weeks).",
+        "isCorrect": true
       },
       {
         "text": "Presence of pain",
@@ -430,7 +444,8 @@ window.Test_L41 = [
       },
       {
         "text": "Myasthenia Gravis",
-        "explanation": "Correct. Acetylcholinesterase inhibitor transiently increases ACh, improving strength."
+        "explanation": "Correct. Acetylcholinesterase inhibitor transiently increases ACh, improving strength.",
+        "isCorrect": true
       },
       {
         "text": "Muscular Dystrophy",
@@ -460,7 +475,8 @@ window.Test_L41 = [
       },
       {
         "text": "Dorsal Root Ganglion",
-        "explanation": "Correct. Reactivation causes dermatomal vesicular rash and pain."
+        "explanation": "Correct. Reactivation causes dermatomal vesicular rash and pain.",
+        "isCorrect": true
       },
       {
         "text": "Neuromuscular Junction",
@@ -490,7 +506,8 @@ window.Test_L41 = [
       },
       {
         "text": "Common Peroneal (Fibular)",
-        "explanation": "Correct. Compression at fibular head."
+        "explanation": "Correct. Compression at fibular head.",
+        "isCorrect": true
       },
       {
         "text": "Tibial",
@@ -520,7 +537,8 @@ window.Test_L41 = [
       },
       {
         "text": "Improvement of reflexes/strength after brief exercise",
-        "explanation": "Correct. Accumulation of Calcium in presynaptic terminal leads to increased ACh release."
+        "explanation": "Correct. Accumulation of Calcium in presynaptic terminal leads to increased ACh release.",
+        "isCorrect": true
       },
       {
         "text": "Worsening with cold",
@@ -554,7 +572,8 @@ window.Test_L41 = [
       },
       {
         "text": "Diabetic Polyneuropathy",
-        "explanation": "Correct. This is a peripheral nerve issue, not a spinal cord myelopathy."
+        "explanation": "Correct. This is a peripheral nerve issue, not a spinal cord myelopathy.",
+        "isCorrect": true
       },
       {
         "text": "Spinal cord infarct",
@@ -580,7 +599,8 @@ window.Test_L41 = [
       },
       {
         "text": "Lower Motor Neuron lesion",
-        "explanation": "Correct. Interruption of the reflex arc."
+        "explanation": "Correct. Interruption of the reflex arc.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellar lesion",
@@ -610,7 +630,8 @@ window.Test_L41 = [
       },
       {
         "text": "Armadillos",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Rats",
@@ -640,7 +661,8 @@ window.Test_L41 = [
       },
       {
         "text": "Upper Motor Neuron degeneration disconnecting brainstem centers",
-        "explanation": "Correct. Loss of cortical inhibition on emotional centers."
+        "explanation": "Correct. Loss of cortical inhibition on emotional centers.",
+        "isCorrect": true
       },
       {
         "text": "Tongue weakness",
@@ -670,7 +692,8 @@ window.Test_L41 = [
       },
       {
         "text": "Myotonic Dystrophy",
-        "explanation": "Correct. Difficulty opening hand after handshake."
+        "explanation": "Correct. Difficulty opening hand after handshake.",
+        "isCorrect": true
       },
       {
         "text": "Polymyositis",
@@ -700,7 +723,8 @@ window.Test_L41 = [
       },
       {
         "text": "Diabetes Mellitus",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "HIV",
@@ -730,7 +754,8 @@ window.Test_L41 = [
       },
       {
         "text": "Infant Botulism",
-        "explanation": "Correct. Spores in honey -> Toxin -> Floppy baby."
+        "explanation": "Correct. Spores in honey -> Toxin -> Floppy baby.",
+        "isCorrect": true
       },
       {
         "text": "Guillain-Barre",
@@ -760,7 +785,8 @@ window.Test_L41 = [
       },
       {
         "text": "Spinal Cord",
-        "explanation": "Correct. Myelopathy creates a distinct level."
+        "explanation": "Correct. Myelopathy creates a distinct level.",
+        "isCorrect": true
       },
       {
         "text": "Plexus",
@@ -790,7 +816,8 @@ window.Test_L41 = [
       },
       {
         "text": "Anti-Acetylcholine Receptor (AChR)",
-        "explanation": "Correct. Or Anti-MuSK."
+        "explanation": "Correct. Or Anti-MuSK.",
+        "isCorrect": true
       },
       {
         "text": "Anti-Nuclear Antibody (ANA)",
@@ -820,7 +847,8 @@ window.Test_L41 = [
       },
       {
         "text": "Spinal cord infarction/myelopathy",
-        "explanation": "Correct. Gas emboli in cord vessels."
+        "explanation": "Correct. Gas emboli in cord vessels.",
+        "isCorrect": true
       },
       {
         "text": "Peripheral neuropathy",
@@ -850,7 +878,8 @@ window.Test_L41 = [
       },
       {
         "text": "Guillain-Barre Syndrome",
-        "explanation": "Correct. Removes autoantibodies."
+        "explanation": "Correct. Removes autoantibodies.",
+        "isCorrect": true
       },
       {
         "text": "ALS",
@@ -892,7 +921,8 @@ window.Test_L41 = [
       },
       {
         "text": "Spastic Paraplegia (UMN)",
-        "explanation": "Correct. UMN lesions cause HYPERreflexia."
+        "explanation": "Correct. UMN lesions cause HYPERreflexia.",
+        "isCorrect": true
       }
     ],
     "correctAnswerIndex": 4,
@@ -910,7 +940,8 @@ window.Test_L41 = [
       },
       {
         "text": "Blocking Pre-synaptic ACh release",
-        "explanation": "Correct. Cleaves SNARE proteins."
+        "explanation": "Correct. Cleaves SNARE proteins.",
+        "isCorrect": true
       },
       {
         "text": "Destroying muscle fibers",
@@ -940,7 +971,8 @@ window.Test_L41 = [
       },
       {
         "text": "Flaccid paralysis (Polio-like)",
-        "explanation": "Correct. Attacks anterior horn cells."
+        "explanation": "Correct. Attacks anterior horn cells.",
+        "isCorrect": true
       },
       {
         "text": "Pure sensory stroke",
@@ -974,7 +1006,8 @@ window.Test_L41 = [
       },
       {
         "text": "Active Myopathy/Rhabdomyolysis",
-        "explanation": "Correct. Muscle breakdown releases CK."
+        "explanation": "Correct. Muscle breakdown releases CK.",
+        "isCorrect": true
       },
       {
         "text": "Multiple Sclerosis",
@@ -1000,7 +1033,8 @@ window.Test_L41 = [
       },
       {
         "text": "Sciatic Nerve (L5-S1)",
-        "explanation": "Correct. Posterior leg pain."
+        "explanation": "Correct. Posterior leg pain.",
+        "isCorrect": true
       },
       {
         "text": "Obturator Nerve",
@@ -1026,7 +1060,8 @@ window.Test_L41 = [
     "options": [
       {
         "text": "Babinski Sign",
-        "explanation": "Correct. Flicking middle finger causes thumb flexion. UMN sign."
+        "explanation": "Correct. Flicking middle finger causes thumb flexion. UMN sign.",
+        "isCorrect": true
       },
       {
         "text": "Patellar Reflex",

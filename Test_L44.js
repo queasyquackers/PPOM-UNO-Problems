@@ -10,7 +10,8 @@ window.Test_L44 = [
       },
       {
         "text": "Acute Angle Closure Glaucoma",
-        "explanation": "Correct. Classic triad: Pain, Nausea/Vomiting, Blurred vision/Halos. Triggered by darkness (dilation)."
+        "explanation": "Correct. Classic triad: Pain, Nausea/Vomiting, Blurred vision/Halos. Triggered by darkness (dilation).",
+        "isCorrect": true
       },
       {
         "text": "Anterior Uveitis",
@@ -40,7 +41,8 @@ window.Test_L44 = [
       },
       {
         "text": "Cornea",
-        "explanation": "Correct. The clear anterior window provides most focusing power."
+        "explanation": "Correct. The clear anterior window provides most focusing power.",
+        "isCorrect": true
       },
       {
         "text": "Vitreous Humor",
@@ -70,7 +72,8 @@ window.Test_L44 = [
       },
       {
         "text": "High-dose Systemic Steroids",
-        "explanation": "Correct. Suspect Giant Cell Arteritis (Temporal Arteritis). Treat immediately before biopsy results."
+        "explanation": "Correct. Suspect Giant Cell Arteritis (Temporal Arteritis). Treat immediately before biopsy results.",
+        "isCorrect": true
       },
       {
         "text": "Refer for cataract surgery",
@@ -100,7 +103,8 @@ window.Test_L44 = [
       },
       {
         "text": "Optic Chiasm",
-        "explanation": "Correct. Usually a pituitary adenoma compressing from below."
+        "explanation": "Correct. Usually a pituitary adenoma compressing from below.",
+        "isCorrect": true
       },
       {
         "text": "Optic Tract",
@@ -130,7 +134,8 @@ window.Test_L44 = [
       },
       {
         "text": "Retinal Detachment",
-        "explanation": "Correct. Classic presentation: Flashes, Floaters, Curtain."
+        "explanation": "Correct. Classic presentation: Flashes, Floaters, Curtain.",
+        "isCorrect": true
       },
       {
         "text": "Macular Degeneration",
@@ -160,7 +165,8 @@ window.Test_L44 = [
       },
       {
         "text": "Miosis (Constricted pupil)",
-        "explanation": "Correct. Loss of sympathetic innervation."
+        "explanation": "Correct. Loss of sympathetic innervation.",
+        "isCorrect": true
       },
       {
         "text": "Exophthalmos",
@@ -190,7 +196,8 @@ window.Test_L44 = [
       },
       {
         "text": "Discontinue contacts and start topical antibiotics (e.g., Fluoroquinolone)",
-        "explanation": "Correct. Treat as bacterial corneal ulcer (Pseudomonas) until proven otherwise."
+        "explanation": "Correct. Treat as bacterial corneal ulcer (Pseudomonas) until proven otherwise.",
+        "isCorrect": true
       },
       {
         "text": "Start topical anesthetic drops for pain",
@@ -220,7 +227,8 @@ window.Test_L44 = [
       },
       {
         "text": "Diabetic Retinopathy",
-        "explanation": "Correct. Importance of glycemic control."
+        "explanation": "Correct. Importance of glycemic control.",
+        "isCorrect": true
       },
       {
         "text": "Cataracts",
@@ -250,7 +258,8 @@ window.Test_L44 = [
       },
       {
         "text": "Multiple Sclerosis",
-        "explanation": "Correct. This is Optic Neuritis."
+        "explanation": "Correct. This is Optic Neuritis.",
+        "isCorrect": true
       },
       {
         "text": "Stroke",
@@ -280,7 +289,8 @@ window.Test_L44 = [
       },
       {
         "text": "Retinoblastoma",
-        "explanation": "Correct. Intraocular tumor of childhood."
+        "explanation": "Correct. Intraocular tumor of childhood.",
+        "isCorrect": true
       },
       {
         "text": "Melanoma",
@@ -310,7 +320,8 @@ window.Test_L44 = [
       },
       {
         "text": "Relative Afferent Pupillary Defect (RAPD)",
-        "explanation": "Correct. Indicates optic nerve dysfunction/deafferentation."
+        "explanation": "Correct. Indicates optic nerve dysfunction/deafferentation.",
+        "isCorrect": true
       },
       {
         "text": "Argyll Robertson Pupil",
@@ -340,7 +351,8 @@ window.Test_L44 = [
       },
       {
         "text": "****** Zoster Ophthalmicus (Shingles)",
-        "explanation": "Correct. V1 nerve distribution involves the nasociliary branch."
+        "explanation": "Correct. V1 nerve distribution involves the nasociliary branch.",
+        "isCorrect": true
       },
       {
         "text": "Atopic Dermatitis",
@@ -370,7 +382,8 @@ window.Test_L44 = [
       },
       {
         "text": "Central Retinal Artery Occlusion (CRAO)",
-        "explanation": "Correct. Ischemic stroke of the retina. Prognosis is poor."
+        "explanation": "Correct. Ischemic stroke of the retina. Prognosis is poor.",
+        "isCorrect": true
       },
       {
         "text": "Retinal Detachment",
@@ -400,7 +413,8 @@ window.Test_L44 = [
       },
       {
         "text": "Myasthenia Gravis",
-        "explanation": "Correct. Fatigability is key. Antibodies to ACh receptors."
+        "explanation": "Correct. Fatigability is key. Antibodies to ACh receptors.",
+        "isCorrect": true
       },
       {
         "text": "Horner's Syndrome",
@@ -430,7 +444,8 @@ window.Test_L44 = [
       },
       {
         "text": "Viral (Adenovirus)",
-        "explanation": "Correct. Highly contagious."
+        "explanation": "Correct. Highly contagious.",
+        "isCorrect": true
       },
       {
         "text": "Allergic",
@@ -460,7 +475,8 @@ window.Test_L44 = [
       },
       {
         "text": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
-        "explanation": "Correct. Associated with obesity, Vitamin A, Tetracyclines."
+        "explanation": "Correct. Associated with obesity, Vitamin A, Tetracyclines.",
+        "isCorrect": true
       },
       {
         "text": "Meningitis",
@@ -490,7 +506,8 @@ window.Test_L44 = [
       },
       {
         "text": "Choroidal Neovascularization",
-        "explanation": "Correct. New leaky vessels cause bleeding/scarring."
+        "explanation": "Correct. New leaky vessels cause bleeding/scarring.",
+        "isCorrect": true
       },
       {
         "text": "Retinal Detachment",
@@ -520,7 +537,8 @@ window.Test_L44 = [
       },
       {
         "text": "Proptosis and Lid Retraction",
-        "explanation": "Correct. Due to lymphocytic infiltration of extraocular muscles."
+        "explanation": "Correct. Due to lymphocytic infiltration of extraocular muscles.",
+        "isCorrect": true
       },
       {
         "text": "Miosis",
@@ -550,7 +568,8 @@ window.Test_L44 = [
       },
       {
         "text": "Hordeolum (Stye)",
-        "explanation": "Correct. Acute bacterial infection of Zeis/Moll/Meibomian glands."
+        "explanation": "Correct. Acute bacterial infection of Zeis/Moll/Meibomian glands.",
+        "isCorrect": true
       },
       {
         "text": "Xanthelasma",
@@ -580,7 +599,8 @@ window.Test_L44 = [
       },
       {
         "text": "Copious Irrigation",
-        "explanation": "Correct. Irrigate immediately (for 30 mins) before any exam."
+        "explanation": "Correct. Irrigate immediately (for 30 mins) before any exam.",
+        "isCorrect": true
       },
       {
         "text": "Check Intraocular Pressure",
@@ -610,7 +630,8 @@ window.Test_L44 = [
       },
       {
         "text": "Nerve fiber layer infarctions (Ischemia)",
-        "explanation": "Correct. Axoplasmic stasis due to ischemia."
+        "explanation": "Correct. Axoplasmic stasis due to ischemia.",
+        "isCorrect": true
       },
       {
         "text": "Neovascularization",
@@ -640,7 +661,8 @@ window.Test_L44 = [
       },
       {
         "text": "Surgical extraction and lens implantation",
-        "explanation": "Correct. Phacoemulsification."
+        "explanation": "Correct. Phacoemulsification.",
+        "isCorrect": true
       },
       {
         "text": "Laser Iridotomy",
@@ -670,7 +692,8 @@ window.Test_L44 = [
       },
       {
         "text": "Admission and IV Antibiotics",
-        "explanation": "Correct. Orbital cellulitis is sight and life threatening (Cavernous Sinus Thrombosis)."
+        "explanation": "Correct. Orbital cellulitis is sight and life threatening (Cavernous Sinus Thrombosis).",
+        "isCorrect": true
       },
       {
         "text": "Warm Compresses",
@@ -700,7 +723,8 @@ window.Test_L44 = [
       },
       {
         "text": "Autoimmune conditions (e.g., Rheumatoid Arthritis)",
-        "explanation": "Correct. 50% association with systemic autoimmune disease."
+        "explanation": "Correct. 50% association with systemic autoimmune disease.",
+        "isCorrect": true
       },
       {
         "text": "Diabetes",
@@ -730,7 +754,8 @@ window.Test_L44 = [
       },
       {
         "text": "Sympathetic",
-        "explanation": "Correct. 'Fight or Flight' dilates pupils to see more."
+        "explanation": "Correct. 'Fight or Flight' dilates pupils to see more.",
+        "isCorrect": true
       },
       {
         "text": "Somatic",
@@ -760,7 +785,8 @@ window.Test_L44 = [
       },
       {
         "text": "Fovea",
-        "explanation": "Correct. Central point of the macula, high cone density."
+        "explanation": "Correct. Central point of the macula, high cone density.",
+        "isCorrect": true
       },
       {
         "text": "Ora Serrata",
@@ -790,7 +816,8 @@ window.Test_L44 = [
       },
       {
         "text": "Painless, progressive loss of peripheral vision",
-        "explanation": "Correct. 'Tunnel vision'. Optic nerve cupping."
+        "explanation": "Correct. 'Tunnel vision'. Optic nerve cupping.",
+        "isCorrect": true
       },
       {
         "text": "Central vision loss",
@@ -820,7 +847,8 @@ window.Test_L44 = [
       },
       {
         "text": "Corneal Abrasions and Ulcers",
-        "explanation": "Correct. Defects stain bright green under blue light."
+        "explanation": "Correct. Defects stain bright green under blue light.",
+        "isCorrect": true
       },
       {
         "text": "Retinal Detachment",
@@ -846,7 +874,8 @@ window.Test_L44 = [
     "options": [
       {
         "text": "Permanent visual loss",
-        "explanation": "Correct. Brain ignores input from the lazy eye."
+        "explanation": "Correct. Brain ignores input from the lazy eye.",
+        "isCorrect": true
       },
       {
         "text": "Eye infection",
@@ -880,7 +909,8 @@ window.Test_L44 = [
       },
       {
         "text": "Anterior Uveitis (Iritis)",
-        "explanation": "Correct. Strong association with HLA-B27 conditions."
+        "explanation": "Correct. Strong association with HLA-B27 conditions.",
+        "isCorrect": true
       },
       {
         "text": "Glaucoma",
@@ -910,7 +940,8 @@ window.Test_L44 = [
       },
       {
         "text": "Corneal Melt / Keratopathy",
-        "explanation": "Correct. Toxic to epithelium, masks damage, neurotrophic ulcer."
+        "explanation": "Correct. Toxic to epithelium, masks damage, neurotrophic ulcer.",
+        "isCorrect": true
       },
       {
         "text": "Glaucoma",
@@ -940,7 +971,8 @@ window.Test_L44 = [
       },
       {
         "text": "'Blood and Thunder' (Diffused hemorrhages)",
-        "explanation": "Correct. Widespread bleeding and edema."
+        "explanation": "Correct. Widespread bleeding and edema.",
+        "isCorrect": true
       },
       {
         "text": "Bone spicules",
@@ -970,7 +1002,8 @@ window.Test_L44 = [
       },
       {
         "text": "CN III (Oculomotor)",
-        "explanation": "Correct. Levator down (ptosis), unopposed LR/SO (down/out), Parasymp gone (dilated)."
+        "explanation": "Correct. Levator down (ptosis), unopposed LR/SO (down/out), Parasymp gone (dilated).",
+        "isCorrect": true
       },
       {
         "text": "CN IV (Trochlear)",
@@ -1000,7 +1033,8 @@ window.Test_L44 = [
       },
       {
         "text": "Lateral Rectus",
-        "explanation": "Correct. LR6(SO4)3."
+        "explanation": "Correct. LR6(SO4)3.",
+        "isCorrect": true
       },
       {
         "text": "Medial Rectus",
@@ -1030,7 +1064,8 @@ window.Test_L44 = [
       },
       {
         "text": "Microaneurysms",
-        "explanation": "Correct. Small outpouchings of capillaries."
+        "explanation": "Correct. Small outpouchings of capillaries.",
+        "isCorrect": true
       },
       {
         "text": "Vitreous Hemorrhage",

@@ -15,7 +15,8 @@ window.Test_L5 = [
       },
       {
         "text": "Computed Tomography (CT)",
-        "explanation": "Correct. CT scans use helical X-ray beams, which are a form of ionizing radiation. This is a key disadvantage to consider, especially in pediatrics and pregnancy."
+        "explanation": "Correct. CT scans use helical X-ray beams, which are a form of ionizing radiation. This is a key disadvantage to consider, especially in pediatrics and pregnancy.",
+        "isCorrect": true
       },
       {
         "text": "Electroencephalography (EEG)",
@@ -45,7 +46,8 @@ window.Test_L5 = [
       },
       {
         "text": "Ferromagnetic metallic implants",
-        "explanation": "Correct. The strong magnetic field can move ferromagnetic objects (e.g., old aneurysm clips, metal in the eye, certain pacemakers) causing severe injury or death. Screening is critical."
+        "explanation": "Correct. The strong magnetic field can move ferromagnetic objects (e.g., old aneurysm clips, metal in the eye, certain pacemakers) causing severe injury or death. Screening is critical.",
+        "isCorrect": true
       },
       {
         "text": "Claustrophobia",
@@ -71,7 +73,8 @@ window.Test_L5 = [
       },
       {
         "text": "Non-contrast CT Head",
-        "explanation": "Correct. A non-contrast CT is the standard first-line test for acute ****** symptoms primarily to rule out intracranial hemorrhage before potential tPA administration. It is fast (<30s)."
+        "explanation": "Correct. A non-contrast CT is the standard first-line test for acute ****** symptoms primarily to rule out intracranial hemorrhage before potential tPA administration. It is fast (<30s).",
+        "isCorrect": true
       },
       {
         "text": "CT Angiogram of Head and Neck",
@@ -105,7 +108,8 @@ window.Test_L5 = [
       },
       {
         "text": "Bone window",
-        "explanation": "Correct. Bone windows use a wide window width to visualize the high-density cortical bone and medullary cavity, allowing detection of fractures."
+        "explanation": "Correct. Bone windows use a wide window width to visualize the high-density cortical bone and medullary cavity, allowing detection of fractures.",
+        "isCorrect": true
       },
       {
         "text": "Lung window",
@@ -135,7 +139,8 @@ window.Test_L5 = [
       },
       {
         "text": "Gadolinium-based contrast",
-        "explanation": "Correct. Gadolinium, used in MRI, is linked to NSF (skin thickening, organ fibrosis) in patients with GFR < 30."
+        "explanation": "Correct. Gadolinium, used in MRI, is linked to NSF (skin thickening, organ fibrosis) in patients with GFR < 30.",
+        "isCorrect": true
       },
       {
         "text": "Technetium-99m",
@@ -165,7 +170,8 @@ window.Test_L5 = [
       },
       {
         "text": "MRI Brain without contrast",
-        "explanation": "Correct. MRI uses no ionizing radiation and is preferred in pregnancy. Gadolinium is generally avoided if possible, so non-contrast is the safest initial structural screen."
+        "explanation": "Correct. MRI uses no ionizing radiation and is preferred in pregnancy. Gadolinium is generally avoided if possible, so non-contrast is the safest initial structural screen.",
+        "isCorrect": true
       },
       {
         "text": "Plain film X-ray",
@@ -191,7 +197,8 @@ window.Test_L5 = [
       },
       {
         "text": "Dark (Hypointense)",
-        "explanation": "Correct. Water/CSF is dark on T1 and bright on T2. (Mnemonic: H2O is bright on T2)."
+        "explanation": "Correct. Water/CSF is dark on T1 and bright on T2. (Mnemonic: H2O is bright on T2).",
+        "isCorrect": true
       },
       {
         "text": "Isointense to gray matter",
@@ -221,7 +228,8 @@ window.Test_L5 = [
       },
       {
         "text": "Diffusion-Weighted MRI (DWI)",
-        "explanation": "Correct. DWI is the most sensitive sequence for detecting acute ischemia (cytotoxic edema), often showing changes within minutes, whereas CT may be normal for hours."
+        "explanation": "Correct. DWI is the most sensitive sequence for detecting acute ischemia (cytotoxic edema), often showing changes within minutes, whereas CT may be normal for hours.",
+        "isCorrect": true
       },
       {
         "text": "T1-weighted MRI",
@@ -255,7 +263,8 @@ window.Test_L5 = [
       },
       {
         "text": "Low cost and portability",
-        "explanation": "Correct. Ultrasound is cheap, can be done at the bedside (portable), and has no radiation/contrast risk."
+        "explanation": "Correct. Ultrasound is cheap, can be done at the bedside (portable), and has no radiation/contrast risk.",
+        "isCorrect": true
       },
       {
         "text": "Operator independence",
@@ -281,7 +290,8 @@ window.Test_L5 = [
       },
       {
         "text": "Serum Creatinine",
-        "explanation": "Correct. Creatinine assesses renal function. Contrast-Induced Nephropathy (CIN) is a risk, especially if Cr > 1.5 mg/dL."
+        "explanation": "Correct. Creatinine assesses renal function. Contrast-Induced Nephropathy (CIN) is a risk, especially if Cr > 1.5 mg/dL.",
+        "isCorrect": true
       },
       {
         "text": "Hemoglobin A1c",
@@ -315,7 +325,8 @@ window.Test_L5 = [
       },
       {
         "text": "Brain Abscess",
-        "explanation": "Correct. Abscesses (and high-grade tumors like Glioblastoma) typically show a ring of enhancement surrounding a necrotic center due to blood-brain barrier breakdown at the capsule."
+        "explanation": "Correct. Abscesses (and high-grade tumors like Glioblastoma) typically show a ring of enhancement surrounding a necrotic center due to blood-brain barrier breakdown at the capsule.",
+        "isCorrect": true
       },
       {
         "text": "Meningioma",
@@ -349,7 +360,8 @@ window.Test_L5 = [
       },
       {
         "text": "Conventional (Catheter) Angiography",
-        "explanation": "Correct. This involves physical catheterization of the femoral or radial artery and threading it to the brain. It is the gold standard but carries surgical risks."
+        "explanation": "Correct. This involves physical catheterization of the femoral or radial artery and threading it to the brain. It is the gold standard but carries surgical risks.",
+        "isCorrect": true
       },
       {
         "text": "PET Scan",
@@ -371,7 +383,8 @@ window.Test_L5 = [
       },
       {
         "text": "MRI or CT with IV contrast",
-        "explanation": "Correct. Isodense tumors may blend in with brain tissue. Contrast enhancement (iodine for CT, gadolinium for MRI) highlights the tumor due to vascularity and BBB breakdown."
+        "explanation": "Correct. Isodense tumors may blend in with brain tissue. Contrast enhancement (iodine for CT, gadolinium for MRI) highlights the tumor due to vascularity and BBB breakdown.",
+        "isCorrect": true
       },
       {
         "text": "Repeat non-contrast CT in 24 hours",
@@ -405,7 +418,8 @@ window.Test_L5 = [
       },
       {
         "text": "Acute Hemorrhage",
-        "explanation": "Correct. Fresh blood (hemoglobin) is dense and attenuates X-rays significantly, appearing bright white on CT."
+        "explanation": "Correct. Fresh blood (hemoglobin) is dense and attenuates X-rays significantly, appearing bright white on CT.",
+        "isCorrect": true
       },
       {
         "text": "Fat",
@@ -431,7 +445,8 @@ window.Test_L5 = [
       },
       {
         "text": "Discontinue Metformin for 48 hours after the procedure",
-        "explanation": "Correct. If contrast induces kidney injury, Metformin accumulation can cause fatal lactic acidosis. It is held until renal function is verified stable."
+        "explanation": "Correct. If contrast induces kidney injury, Metformin accumulation can cause fatal lactic acidosis. It is held until renal function is verified stable.",
+        "isCorrect": true
       },
       {
         "text": "Switch to MRI contrast",
@@ -465,7 +480,8 @@ window.Test_L5 = [
       },
       {
         "text": "MRI",
-        "explanation": "Correct. MRI aligns protons with a magnet, excites them with RF pulses, and measures the relaxation times (T1/T2) to create images."
+        "explanation": "Correct. MRI aligns protons with a magnet, excites them with RF pulses, and measures the relaxation times (T1/T2) to create images.",
+        "isCorrect": true
       },
       {
         "text": "Ultrasound",
@@ -487,7 +503,8 @@ window.Test_L5 = [
     "options": [
       {
         "text": "Carotid Duplex Ultrasound",
-        "explanation": "Correct. It directly visualizes the vessel and measures flow velocity to estimate stenosis severity."
+        "explanation": "Correct. It directly visualizes the vessel and measures flow velocity to estimate stenosis severity.",
+        "isCorrect": true
       },
       {
         "text": "Conventional Angiogram",
@@ -521,7 +538,8 @@ window.Test_L5 = [
       },
       {
         "text": "Coil embolization of an aneurysm",
-        "explanation": "Correct. A catheter is advanced into the aneurysm, and coils are deployed to clot it off, preventing rupture."
+        "explanation": "Correct. A catheter is advanced into the aneurysm, and coils are deployed to clot it off, preventing rupture.",
+        "isCorrect": true
       },
       {
         "text": "Administering oral contrast",
@@ -551,7 +569,8 @@ window.Test_L5 = [
       },
       {
         "text": "MRI Brain",
-        "explanation": "Correct. MRI is not affected by bone density artifacts, making it superior for viewing the brainstem, cerebellum, and spinal cord."
+        "explanation": "Correct. MRI is not affected by bone density artifacts, making it superior for viewing the brainstem, cerebellum, and spinal cord.",
+        "isCorrect": true
       },
       {
         "text": "Skull X-ray",
@@ -585,7 +604,8 @@ window.Test_L5 = [
       },
       {
         "text": "Hounsfield Unit (HU)",
-        "explanation": "Correct. Hounsfield Units measure attenuation. Water is the reference at 0 HU."
+        "explanation": "Correct. Hounsfield Units measure attenuation. Water is the reference at 0 HU.",
+        "isCorrect": true
       },
       {
         "text": "Pascal",
@@ -615,7 +635,8 @@ window.Test_L5 = [
       },
       {
         "text": "Anaphylactoid/Allergic Reaction",
-        "explanation": "Correct. An immediate hypersensitivity reaction managed with antihistamines (Benadryl) and steroids (and Epinephrine if severe)."
+        "explanation": "Correct. An immediate hypersensitivity reaction managed with antihistamines (Benadryl) and steroids (and Epinephrine if severe).",
+        "isCorrect": true
       },
       {
         "text": "Lactic Acidosis",
@@ -641,7 +662,8 @@ window.Test_L5 = [
       },
       {
         "text": "Speed and detection of fractures/acute bleed",
-        "explanation": "Correct. Trauma patients may be unstable. CT is instant and excellently displays bone fractures and acute life-threatening hemorrhages."
+        "explanation": "Correct. Trauma patients may be unstable. CT is instant and excellently displays bone fractures and acute life-threatening hemorrhages.",
+        "isCorrect": true
       },
       {
         "text": "Lack of radiation",
@@ -653,7 +675,7 @@ window.Test_L5 = [
       },
       {
         "text": "Lower cost",
-        "explanation": "Incorrect. While true, speed/utility is the primary clinical driver."
+        "explanation": "Incorrect. While True, speed/utility is the primary clinical driver."
       }
     ],
     "correctAnswerIndex": 1,
@@ -675,7 +697,8 @@ window.Test_L5 = [
       },
       {
         "text": "FLAIR (Fluid Attenuated Inversion Recovery)",
-        "explanation": "Correct. FLAIR is essentially a T2 image where the bright CSF signal is nullified (turned dark). This makes periventricular bright lesions (like MS plaques or edema) stand out clearly."
+        "explanation": "Correct. FLAIR is essentially a T2 image where the bright CSF signal is Noneified (turned dark). This makes periventricular bright lesions (like MS plaques or edema) stand out clearly.",
+        "isCorrect": true
       },
       {
         "text": "DWI",
@@ -701,7 +724,8 @@ window.Test_L5 = [
       },
       {
         "text": "Lumbar Puncture",
-        "explanation": "Correct. CT can miss small or old SAH (sensitivity drops over time). LP looks for xanthochromia (yellow CSF from broken down RBCs) or RBCs."
+        "explanation": "Correct. CT can miss small or old SAH (sensitivity drops over time). LP looks for xanthochromia (yellow CSF from broken down RBCs) or RBCs.",
+        "isCorrect": true
       },
       {
         "text": "Carotid Ultrasound",
@@ -731,7 +755,8 @@ window.Test_L5 = [
       },
       {
         "text": "As Low As Reasonably Achievable",
-        "explanation": "Correct. The guiding principle of radiation safety: use the minimum radiation dose necessary to achieve the diagnostic goal."
+        "explanation": "Correct. The guiding principle of radiation safety: use the minimum radiation dose necessary to achieve the diagnostic goal.",
+        "isCorrect": true
       },
       {
         "text": "As Long As Resonance Allows",
@@ -773,7 +798,8 @@ window.Test_L5 = [
       },
       {
         "text": "Body Habitus / Depth",
-        "explanation": "Correct. Ultrasound waves cannot penetrate deep through thick subcutaneous fat, leading to poor image quality (degradation)."
+        "explanation": "Correct. Ultrasound waves cannot penetrate deep through thick subcutaneous fat, leading to poor image quality (degradation).",
+        "isCorrect": true
       }
     ],
     "correctAnswerIndex": 4,
@@ -791,7 +817,8 @@ window.Test_L5 = [
       },
       {
         "text": "Modern Titanium or Bioprosthetic valve",
-        "explanation": "Correct. Most modern non-ferromagnetic valves are MRI compatible (though one should always check the exact model/database)."
+        "explanation": "Correct. Most modern non-ferromagnetic valves are MRI compatible (though one should always check the exact model/database).",
+        "isCorrect": true
       },
       {
         "text": "Any mechanical valve",
@@ -821,7 +848,8 @@ window.Test_L5 = [
       },
       {
         "text": "Common Femoral Artery within the groin",
-        "explanation": "Correct. The femoral artery is the standard access point for cerebral angiography (though radial artery access is increasing)."
+        "explanation": "Correct. The femoral artery is the standard access point for cerebral angiography (though radial artery access is increasing).",
+        "isCorrect": true
       },
       {
         "text": "Carotid artery directly",
@@ -851,7 +879,8 @@ window.Test_L5 = [
       },
       {
         "text": "Doppler Ultrasound",
-        "explanation": "Correct. The Doppler effect measures frequency shifts from moving RBCs to calculate velocity and direction (Blue Away, Red Towards - BART)."
+        "explanation": "Correct. The Doppler effect measures frequency shifts from moving RBCs to calculate velocity and direction (Blue Away, Red Towards - BART).",
+        "isCorrect": true
       },
       {
         "text": "T1 MRI",
@@ -881,7 +910,8 @@ window.Test_L5 = [
       },
       {
         "text": "It represents salvageable tissue",
-        "explanation": "Correct. The penumbra is the area of brain that is ischemic (perfused poorly) but not yet infarcted (dead). Therapies like thrombectomy aim to reperfuse this area to save it."
+        "explanation": "Correct. The penumbra is the area of brain that is ischemic (perfused poorly) but not yet infarcted (dead). Therapies like thrombectomy aim to reperfuse this area to save it.",
+        "isCorrect": true
       },
       {
         "text": "It indicates hemorrhage",
@@ -915,7 +945,8 @@ window.Test_L5 = [
       },
       {
         "text": "Epinephrine",
-        "explanation": "Correct. IM Epinephrine is the first-line treatment for anaphylaxis (hypotension, airway swelling)."
+        "explanation": "Correct. IM Epinephrine is the first-line treatment for anaphylaxis (hypotension, airway swelling).",
+        "isCorrect": true
       },
       {
         "text": "Insulin",
@@ -945,7 +976,8 @@ window.Test_L5 = [
       },
       {
         "text": "Ischemic Infarction / Edema",
-        "explanation": "Correct. As cells die and swell (cytotoxic edema), water content increases, making the tissue less dense (darker) than normal brain. This usually appears 6+ hours after onset."
+        "explanation": "Correct. As cells die and swell (cytotoxic edema), water content increases, making the tissue less dense (darker) than normal brain. This usually appears 6+ hours after onset.",
+        "isCorrect": true
       },
       {
         "text": "Contrast extravasation",
@@ -975,7 +1007,8 @@ window.Test_L5 = [
       },
       {
         "text": "Ultrasound",
-        "explanation": "Correct. The handheld probe is called a transducer; it emits and receives sound waves."
+        "explanation": "Correct. The handheld probe is called a transducer; it emits and receives sound waves.",
+        "isCorrect": true
       },
       {
         "text": "Angiogram",
@@ -1009,7 +1042,8 @@ window.Test_L5 = [
       },
       {
         "text": "Oblique",
-        "explanation": "Correct. While possible, the three primary orthogonal planes taught and displayed are Axial, Coronal, and Sagittal."
+        "explanation": "Correct. While possible, the three primary orthogonal planes taught and displayed are Axial, Coronal, and Sagittal.",
+        "isCorrect": true
       },
       {
         "text": "Transverse",
@@ -1035,7 +1069,8 @@ window.Test_L5 = [
       },
       {
         "text": "Conventional Angiogram",
-        "explanation": "Correct. Offers highest spatial resolution to map the feeders and allows for embolization (glue/coils) during the same session."
+        "explanation": "Correct. Offers highest spatial resolution to map the feeders and allows for embolization (glue/coils) during the same session.",
+        "isCorrect": true
       },
       {
         "text": "Ultrasound",

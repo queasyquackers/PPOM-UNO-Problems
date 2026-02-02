@@ -11,7 +11,8 @@ window.Test_L24 = [
       },
       {
         "text": "Failure of GnRH neurons to migrate to the hypothalamus",
-        "explanation": "Correct. Kallmann Syndrome involves a failure of olfactory axons and GnRH neurons to migrate, leading to Anosmia and Hypogonadism."
+        "explanation": "Correct. Kallmann Syndrome involves a failure of olfactory axons and GnRH neurons to migrate, leading to Anosmia and Hypogonadism.",
+        "isCorrect": true
       },
       {
         "text": "Vitamin B1 deficiency",
@@ -41,7 +42,8 @@ window.Test_L24 = [
       },
       {
         "text": "Calcium-gated Chloride channels",
-        "explanation": "Correct. Unique to olfaction: Cl- efflux (leaving the cell) depolarizes it because of high internal Cl- concentration."
+        "explanation": "Correct. Unique to olfaction: Cl- efflux (leaving the cell) depolarizes it because of high internal Cl- concentration.",
+        "isCorrect": true
       },
       {
         "text": "Sodium-Potassium Pump",
@@ -71,7 +73,8 @@ window.Test_L24 = [
       },
       {
         "text": "Meningioma of the olfactory groove",
-        "explanation": "Correct. Foster-Kennedy Syndrome: Tumor compresses ipsilateral olfactory tract (anosmia) and optic nerve (atrophy), raising ICP to cause contralateral papilledema."
+        "explanation": "Correct. Foster-Kennedy Syndrome: Tumor compresses ipsilateral olfactory tract (anosmia) and optic nerve (atrophy), raising ICP to cause contralateral papilledema.",
+        "isCorrect": true
       },
       {
         "text": "Vestibular Schwannoma",
@@ -101,7 +104,8 @@ window.Test_L24 = [
       },
       {
         "text": "Sustentacular (Support) Cells",
-        "explanation": "Correct. These cells have high ACE2 expression. Their dysfunction indirectly affects neurons."
+        "explanation": "Correct. These cells have high ACE2 expression. Their dysfunction indirectly affects neurons.",
+        "isCorrect": true
       },
       {
         "text": "Basal Stem Cells",
@@ -131,7 +135,8 @@ window.Test_L24 = [
       },
       {
         "text": "Fracture of the Cribriform Plate",
-        "explanation": "Correct. Shearing of olfactory nerves (anosmia) + CSF Rhinorrhea (leakage)."
+        "explanation": "Correct. Shearing of olfactory nerves (anosmia) + CSF Rhinorrhea (leakage).",
+        "isCorrect": true
       },
       {
         "text": "Deviated Septum",
@@ -161,7 +166,8 @@ window.Test_L24 = [
       },
       {
         "text": "It does not relay in the thalamus before reaching part of the cortex",
-        "explanation": "Correct. It projects directly to the primary olfactory cortex (Piriform) first. (Though it does go to MD thalamus later)."
+        "explanation": "Correct. It projects directly to the primary olfactory cortex (Piriform) first. (Though it does go to MD thalamus later).",
+        "isCorrect": true
       },
       {
         "text": "It uses unmyelinated axons only",
@@ -191,7 +197,8 @@ window.Test_L24 = [
       },
       {
         "text": "Parosmia (Dysosmia)",
-        "explanation": "Correct. Distortion of an existing smell."
+        "explanation": "Correct. Distortion of an existing smell.",
+        "isCorrect": true
       },
       {
         "text": "Phantosmia",
@@ -221,7 +228,8 @@ window.Test_L24 = [
       },
       {
         "text": "Cranial Nerve VII (Facial)",
-        "explanation": "Correct. Via Chorda Tympani."
+        "explanation": "Correct. Via Chorda Tympani.",
+        "isCorrect": true
       },
       {
         "text": "Cranial Nerve IX (Glossopharyngeal)",
@@ -251,7 +259,8 @@ window.Test_L24 = [
       },
       {
         "text": "Medial Temporal Lobe (Uncus/Amygdala)",
-        "explanation": "Correct. Olfactory hallucinations (Phantosmia) often precede Temporal Lobe Seizures (Uncinate Fits)."
+        "explanation": "Correct. Olfactory hallucinations (Phantosmia) often precede Temporal Lobe Seizures (Uncinate Fits).",
+        "isCorrect": true
       },
       {
         "text": "Frontal Lobe",
@@ -281,7 +290,8 @@ window.Test_L24 = [
       },
       {
         "text": "Sour",
-        "explanation": "Correct. Acids (H+) block K+ channels, causing depolarization."
+        "explanation": "Correct. Acids (H+) block K+ channels, causing depolarization.",
+        "isCorrect": true
       },
       {
         "text": "Sweet",
@@ -311,7 +321,8 @@ window.Test_L24 = [
       },
       {
         "text": "Loss of taste on the anterior 2/3 of the tongue ipsilaterally",
-        "explanation": "Correct. CN VII carries taste for Ant 2/3."
+        "explanation": "Correct. CN VII carries taste for Ant 2/3.",
+        "isCorrect": true
       },
       {
         "text": "Total loss of taste (Ageusia)",
@@ -341,7 +352,8 @@ window.Test_L24 = [
       },
       {
         "text": "Glomerulus",
-        "explanation": "Correct. This creates a chemotopic map."
+        "explanation": "Correct. This creates a chemotopic map.",
+        "isCorrect": true
       },
       {
         "text": "Tufted cell",
@@ -371,7 +383,8 @@ window.Test_L24 = [
       },
       {
         "text": "Mediodorsal Nucleus of the Thalamus",
-        "explanation": "Correct. Korsakoff's affects the diencephalon/thalamus concording with cognitive/olfactory deficits."
+        "explanation": "Correct. Korsakoff's affects the diencephalon/thalamus concording with cognitive/olfactory deficits.",
+        "isCorrect": true
       },
       {
         "text": "Cribriform Plate",
@@ -401,7 +414,8 @@ window.Test_L24 = [
       },
       {
         "text": "To detect a wide variety of potential toxins",
-        "explanation": "Correct. Bitter often equals Poison/Toxic in nature."
+        "explanation": "Correct. Bitter often equals Poison/Toxic in nature.",
+        "isCorrect": true
       },
       {
         "text": "Bitter receptors are ion channels",
@@ -431,7 +445,8 @@ window.Test_L24 = [
       },
       {
         "text": "A common prodromal symptom of neurodegenerative diseases",
-        "explanation": "Correct. Olfactory loss often precedes motor symptoms in PD by years."
+        "explanation": "Correct. Olfactory loss often precedes motor symptoms in PD by years.",
+        "isCorrect": true
       },
       {
         "text": "Due to medication side effects",
@@ -461,7 +476,8 @@ window.Test_L24 = [
       },
       {
         "text": "Nucleus of the Solitary Tract (NTS)",
-        "explanation": "Correct. (Rostral part/Gustatory nucleus)."
+        "explanation": "Correct. (Rostral part/Gustatory nucleus).",
+        "isCorrect": true
       },
       {
         "text": "Inferior Olive",
@@ -491,7 +507,8 @@ window.Test_L24 = [
       },
       {
         "text": "Higher thresholds for detecting tastants",
-        "explanation": "Correct. Smoking damages taste buds/sensory cells, requiring a stronger stimulus (threshold) to detect taste."
+        "explanation": "Correct. Smoking damages taste buds/sensory cells, requiring a stronger stimulus (threshold) to detect taste.",
+        "isCorrect": true
       },
       {
         "text": "Total permanent ageusia",
@@ -521,7 +538,8 @@ window.Test_L24 = [
       },
       {
         "text": "Insula / Frontal Operculum",
-        "explanation": "Correct. Buried deep in the Sylvian fissure."
+        "explanation": "Correct. Buried deep in the Sylvian fissure.",
+        "isCorrect": true
       },
       {
         "text": "Occipital Lobe",
@@ -551,7 +569,8 @@ window.Test_L24 = [
       },
       {
         "text": "Retronasal olfaction",
-        "explanation": "Correct. Aromas travel from the back of the mouth to the nose. This provides 'Flavor'."
+        "explanation": "Correct. Aromas travel from the back of the mouth to the nose. This provides 'Flavor'.",
+        "isCorrect": true
       },
       {
         "text": "Umami receptors",
@@ -585,7 +604,8 @@ window.Test_L24 = [
       },
       {
         "text": "Glutamate / Nucleotides",
-        "explanation": "Correct. Found in soy sauce, meat, cheese."
+        "explanation": "Correct. Found in soy sauce, meat, cheese.",
+        "isCorrect": true
       },
       {
         "text": "Sugars",
@@ -611,7 +631,8 @@ window.Test_L24 = [
       },
       {
         "text": "Conductive / Obstructive",
-        "explanation": "Correct. The odorants cannot physically reach the epithelium."
+        "explanation": "Correct. The odorants cannot physically reach the epithelium.",
+        "isCorrect": true
       },
       {
         "text": "Central",
@@ -645,7 +666,8 @@ window.Test_L24 = [
       },
       {
         "text": "CN X (Vagus)",
-        "explanation": "Correct. Very posterior/throat taste."
+        "explanation": "Correct. Very posterior/throat taste.",
+        "isCorrect": true
       },
       {
         "text": "CN V",
@@ -671,7 +693,8 @@ window.Test_L24 = [
       },
       {
         "text": "Phantosmia",
-        "explanation": "Correct. Perception of smell in absence of stimulus."
+        "explanation": "Correct. Perception of smell in absence of stimulus.",
+        "isCorrect": true
       },
       {
         "text": "Parosmia",
@@ -701,7 +724,8 @@ window.Test_L24 = [
       },
       {
         "text": "Regenerate regularly from Basal Cells",
-        "explanation": "Correct. They turn over every 30-60 days."
+        "explanation": "Correct. They turn over every 30-60 days.",
+        "isCorrect": true
       },
       {
         "text": "Do not synapse",
@@ -731,7 +755,8 @@ window.Test_L24 = [
       },
       {
         "text": "Dysgeusia / Parageusia",
-        "explanation": "Correct. 'Dys' = bad/distorted."
+        "explanation": "Correct. 'Dys' = bad/distorted.",
+        "isCorrect": true
       },
       {
         "text": "Anosmia",
@@ -761,7 +786,8 @@ window.Test_L24 = [
       },
       {
         "text": "Amiloride-sensitive Na+ channels (ENaC)",
-        "explanation": "Correct. Passive influx causing depolarization."
+        "explanation": "Correct. Passive influx causing depolarization.",
+        "isCorrect": true
       },
       {
         "text": "Ligand-gated channels",
@@ -791,7 +817,8 @@ window.Test_L24 = [
       },
       {
         "text": "Normal age-related decline in olfaction and taste",
-        "explanation": "Correct. Presbyosmia/Presbygeusia. Olfactory decline is major factor in flavor loss."
+        "explanation": "Correct. Presbyosmia/Presbygeusia. Olfactory decline is major factor in flavor loss.",
+        "isCorrect": true
       },
       {
         "text": "Stroke",
@@ -821,7 +848,8 @@ window.Test_L24 = [
       },
       {
         "text": "VPM (Ventral Posterior Medial)",
-        "explanation": "Correct. Face sensation and Taste."
+        "explanation": "Correct. Face sensation and Taste.",
+        "isCorrect": true
       },
       {
         "text": "MGN",
@@ -847,7 +875,8 @@ window.Test_L24 = [
     "options": [
       {
         "text": "Cacosmia",
-        "explanation": "Correct. From Greek 'kakos' (bad)."
+        "explanation": "Correct. From Greek 'kakos' (bad).",
+        "isCorrect": true
       },
       {
         "text": "Euosmia",
@@ -881,7 +910,8 @@ window.Test_L24 = [
       },
       {
         "text": "G-Protein Coupled Receptors (GPCRs)",
-        "explanation": "Correct. They use second messengers (cAMP or IP3)."
+        "explanation": "Correct. They use second messengers (cAMP or IP3).",
+        "isCorrect": true
       },
       {
         "text": "Hyperpolarization",
@@ -911,7 +941,8 @@ window.Test_L24 = [
       },
       {
         "text": "Glossopharyngeal (CN IX)",
-        "explanation": "Correct. Supplies sensation and taste to posterior 1/3."
+        "explanation": "Correct. Supplies sensation and taste to posterior 1/3.",
+        "isCorrect": true
       },
       {
         "text": "Facial",
@@ -941,7 +972,8 @@ window.Test_L24 = [
       },
       {
         "text": "Bowman's Glands",
-        "explanation": "Correct. They produce the mucus layer."
+        "explanation": "Correct. They produce the mucus layer.",
+        "isCorrect": true
       },
       {
         "text": "Basal cells",
@@ -971,7 +1003,8 @@ window.Test_L24 = [
       },
       {
         "text": "Zinc",
-        "explanation": "Correct. Zinc is essential for taste bud function and Carbonic Anhydrase (sour taste)."
+        "explanation": "Correct. Zinc is essential for taste bud function and Carbonic Anhydrase (sour taste).",
+        "isCorrect": true
       },
       {
         "text": "Calcium",
@@ -1001,7 +1034,8 @@ window.Test_L24 = [
       },
       {
         "text": "Comparing input between the two nostrils",
-        "explanation": "Correct. It connects the two olfactory bulbs via the Anterior Commissure."
+        "explanation": "Correct. It connects the two olfactory bulbs via the Anterior Commissure.",
+        "isCorrect": true
       },
       {
         "text": "Releasing dopamine",
@@ -1031,7 +1065,8 @@ window.Test_L24 = [
       },
       {
         "text": "Aspirin (Salicylates)",
-        "explanation": "Correct. Salicylate toxicity -> Tinnitus."
+        "explanation": "Correct. Salicylate toxicity -> Tinnitus.",
+        "isCorrect": true
       },
       {
         "text": "Tylenol",

@@ -10,7 +10,8 @@ window.Test_L40 = [
       },
       {
         "text": "Central Cord Syndrome (Syringomyelia)",
-        "explanation": "Correct. A syrinx in the central canal expands and damages the crossing spinothalamic fibers at the anterior white commissure, causing segmental loss of pain/temp (Cape like). Posterior columns are spared initially."
+        "explanation": "Correct. A syrinx in the central canal expands and damages the crossing spinothalamic fibers at the anterior white commissure, causing segmental loss of pain/temp (Cape like). Posterior columns are spared initially.",
+        "isCorrect": true
       },
       {
         "text": "Posterior Column Syndrome",
@@ -40,7 +41,8 @@ window.Test_L40 = [
       },
       {
         "text": "Anterior Spinal Artery",
-        "explanation": "Correct. The ASA supplies the anterior 2/3 of the cord (Corticospinal and Spinothalamic tracts). Infarction causes paralysis and pain/temp loss, sparing the dorsal columns (PSA supply)."
+        "explanation": "Correct. The ASA supplies the anterior 2/3 of the cord (Corticospinal and Spinothalamic tracts). Infarction causes paralysis and pain/temp loss, sparing the dorsal columns (PSA supply).",
+        "isCorrect": true
       },
       {
         "text": "Vertebral Artery",
@@ -70,7 +72,8 @@ window.Test_L40 = [
       },
       {
         "text": "Median Nerve",
-        "explanation": "Correct. Carpal Tunnel Syndrome involves Median nerve compression. Symptoms in lateral 3.5 digits."
+        "explanation": "Correct. Carpal Tunnel Syndrome involves Median nerve compression. Symptoms in lateral 3.5 digits.",
+        "isCorrect": true
       },
       {
         "text": "Radial Nerve",
@@ -100,7 +103,8 @@ window.Test_L40 = [
       },
       {
         "text": "Vitamin B12 (Cobalamin)",
-        "explanation": "Correct. B12 deficiency leads to SCD. Symptoms: Ataxia, weakness, +Romberg, paresthesias."
+        "explanation": "Correct. B12 deficiency leads to SCD. Symptoms: Ataxia, weakness, +Romberg, paresthesias.",
+        "isCorrect": true
       },
       {
         "text": "Vitamin B6 (Pyridoxine)",
@@ -130,7 +134,8 @@ window.Test_L40 = [
       },
       {
         "text": "Tabes Dorsalis",
-        "explanation": "Correct. Neurosyphilis affecting Dorsal Columns. Argyll Robertson Pupils + Ataxia + Lightning Pains."
+        "explanation": "Correct. Neurosyphilis affecting Dorsal Columns. Argyll Robertson Pupils + Ataxia + Lightning Pains.",
+        "isCorrect": true
       },
       {
         "text": "Brown-Sequard Syndrome",
@@ -160,7 +165,8 @@ window.Test_L40 = [
       },
       {
         "text": "Foot Drop (Weakness of Dorsiflexion)",
-        "explanation": "Correct. The Deep Peroneal branch innervates the Anterior compartment (Dorsiflexors). Damage causes Foot Drop."
+        "explanation": "Correct. The Deep Peroneal branch innervates the Anterior compartment (Dorsiflexors). Damage causes Foot Drop.",
+        "isCorrect": true
       },
       {
         "text": "Loss of sensation on the sole of the foot",
@@ -190,7 +196,8 @@ window.Test_L40 = [
       },
       {
         "text": "Right-sided paralysis and vibration loss, Left-sided loss of Pain/Temp",
-        "explanation": "Correct. Brown-Sequard: Ipsilateral (Right) corticospinal/dorsal column loss. Contralateral (Left) spinothalamic loss."
+        "explanation": "Correct. Brown-Sequard: Ipsilateral (Right) corticospinal/dorsal column loss. Contralateral (Left) spinothalamic loss.",
+        "isCorrect": true
       },
       {
         "text": "Bilateral paralysis and loss of all sensation",
@@ -224,7 +231,8 @@ window.Test_L40 = [
       },
       {
         "text": "Radial",
-        "explanation": "Correct. Compression of Radial nerve against humerus (Spiral groove) causes wrist drop and numbness."
+        "explanation": "Correct. Compression of Radial nerve against humerus (Spiral groove) causes wrist drop and numbness.",
+        "isCorrect": true
       },
       {
         "text": "Axillary",
@@ -250,7 +258,8 @@ window.Test_L40 = [
       },
       {
         "text": "Saddle anesthesia, Bowel/Bladder retention, and Lower motor neuron signs",
-        "explanation": "Correct. Compression of L2-S5 roots causes LMN signs (areflexia, weakness), saddle anesthesia, and urinary retention."
+        "explanation": "Correct. Compression of L2-S5 roots causes LMN signs (areflexia, weakness), saddle anesthesia, and urinary retention.",
+        "isCorrect": true
       },
       {
         "text": "Vibration loss only",
@@ -280,7 +289,8 @@ window.Test_L40 = [
       },
       {
         "text": "Lateral Femoral Cutaneous Nerve",
-        "explanation": "Correct. Pure sensory nerve compressed at inguinal ligament. Causes lateral thigh numbness/pain."
+        "explanation": "Correct. Pure sensory nerve compressed at inguinal ligament. Causes lateral thigh numbness/pain.",
+        "isCorrect": true
       },
       {
         "text": "Sciatic Nerve",
@@ -310,7 +320,8 @@ window.Test_L40 = [
       },
       {
         "text": "Subacute Combined Degeneration",
-        "explanation": "Correct. N2O oxidizes Cobalt in B12. Presentations mimics B12 deficiency (Dorsal/Lateral column damage)."
+        "explanation": "Correct. N2O oxidizes Cobalt in B12. Presentations mimics B12 deficiency (Dorsal/Lateral column damage).",
+        "isCorrect": true
       },
       {
         "text": "Cauda Equina Syndrome",
@@ -344,7 +355,8 @@ window.Test_L40 = [
       },
       {
         "text": "Pain, Temperature, and Crude Touch",
-        "explanation": "Correct. Decussates (crosses) at the level of entry (anterior white commissure)."
+        "explanation": "Correct. Decussates (crosses) at the level of entry (anterior white commissure).",
+        "isCorrect": true
       },
       {
         "text": "Motor function",
@@ -370,7 +382,8 @@ window.Test_L40 = [
       },
       {
         "text": "Ulnar Neuropathy",
-        "explanation": "Correct. Ulnar nerve innervates medial lumbricals. Damage leads to unopposed extension (MCP) and flexion (IP) of 4th/5th digits."
+        "explanation": "Correct. Ulnar nerve innervates medial lumbricals. Damage leads to unopposed extension (MCP) and flexion (IP) of 4th/5th digits.",
+        "isCorrect": true
       },
       {
         "text": "Radial Neuropathy",
@@ -400,7 +413,8 @@ window.Test_L40 = [
       },
       {
         "text": "Posterior Columns",
-        "explanation": "Correct. Sign of dorsal column irritation (MS, B12, Spondylosis)."
+        "explanation": "Correct. Sign of dorsal column irritation (MS, B12, Spondylosis).",
+        "isCorrect": true
       },
       {
         "text": "Spinothalamic Tract",
@@ -434,7 +448,8 @@ window.Test_L40 = [
       },
       {
         "text": "Cauda Equina Syndrome",
-        "explanation": "Correct. Delay leads to permanent incontinence and paralysis."
+        "explanation": "Correct. Delay leads to permanent incontinence and paralysis.",
+        "isCorrect": true
       },
       {
         "text": "Tabes Dorsalis",
@@ -464,7 +479,8 @@ window.Test_L40 = [
       },
       {
         "text": "Medulla (Pyramids)",
-        "explanation": "Correct. 85-90% cross at the medullary pyramids to become the Lateral Corticospinal Tract."
+        "explanation": "Correct. 85-90% cross at the medullary pyramids to become the Lateral Corticospinal Tract.",
+        "isCorrect": true
       },
       {
         "text": "Spinal Cord",
@@ -490,7 +506,8 @@ window.Test_L40 = [
       },
       {
         "text": "Ulnar Nerve Palsy",
-        "explanation": "Correct. Ulnar nerve innervates all interossei."
+        "explanation": "Correct. Ulnar nerve innervates all interossei.",
+        "isCorrect": true
       },
       {
         "text": "Radial Nerve Palsy",
@@ -520,7 +537,8 @@ window.Test_L40 = [
       },
       {
         "text": "Bilateral loss of pain/temperature in hands/arms",
-        "explanation": "Correct. Central cord lesion expands, hitting crossing fibers at C-spine level first (Hands/Arms). Legs spared usually."
+        "explanation": "Correct. Central cord lesion expands, hitting crossing fibers at C-spine level first (Hands/Arms). Legs spared usually.",
+        "isCorrect": true
       },
       {
         "text": "Monocular blindness",
@@ -546,7 +564,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Carpal Tunnel Syndrome",
-        "explanation": "Correct. Tapping flexor retinaculum reproduces tingling."
+        "explanation": "Correct. Tapping flexor retinaculum reproduces tingling.",
+        "isCorrect": true
       },
       {
         "text": "Cubital Tunnel Syndrome",
@@ -580,7 +599,8 @@ window.Test_L40 = [
       },
       {
         "text": "Subacute Combined Degeneration (B12 Deficiency)",
-        "explanation": "Correct. B12 deficiency causes hematologic (Megaloblastic anemia) and neurologic (SCD) issues."
+        "explanation": "Correct. B12 deficiency causes hematologic (Megaloblastic anemia) and neurologic (SCD) issues.",
+        "isCorrect": true
       },
       {
         "text": "Tabes Dorsalis",
@@ -614,7 +634,8 @@ window.Test_L40 = [
       },
       {
         "text": "Vibration and Proprioception",
-        "explanation": "Correct. PSA supplies dorsal columns."
+        "explanation": "Correct. PSA supplies dorsal columns.",
+        "isCorrect": true
       },
       {
         "text": "Autonomic function",
@@ -640,7 +661,8 @@ window.Test_L40 = [
       },
       {
         "text": "Loss of joint sensation leading to repeated microtrauma",
-        "explanation": "Correct. Loss of proprioception/pain (Dorsal roots) means patients destroy their joints (knees/ankles) without knowing."
+        "explanation": "Correct. Loss of proprioception/pain (Dorsal roots) means patients destroy their joints (knees/ankles) without knowing.",
+        "isCorrect": true
       },
       {
         "text": "Bacterial infection of joint",
@@ -670,7 +692,8 @@ window.Test_L40 = [
       },
       {
         "text": "Compression of the spinal cord",
-        "explanation": "Correct. The abscess mass compresses the cord causing ischemia and mechanical damage."
+        "explanation": "Correct. The abscess mass compresses the cord causing ischemia and mechanical damage.",
+        "isCorrect": true
       },
       {
         "text": "Autoimmune demyelination",
@@ -700,7 +723,8 @@ window.Test_L40 = [
       },
       {
         "text": "Lateral Femoral Cutaneous",
-        "explanation": "Correct. Meralgia Paresthetica."
+        "explanation": "Correct. Meralgia Paresthetica.",
+        "isCorrect": true
       },
       {
         "text": "Sciatic",
@@ -730,7 +754,8 @@ window.Test_L40 = [
       },
       {
         "text": "Contralateral to the lesion",
-        "explanation": "Correct. Spinothalamic tract crosses immediately (1-2 levels). Lesion on Right blocks fibers coming from Left side of body."
+        "explanation": "Correct. Spinothalamic tract crosses immediately (1-2 levels). Lesion on Right blocks fibers coming from Left side of body.",
+        "isCorrect": true
       },
       {
         "text": "Bilateral",
@@ -760,7 +785,8 @@ window.Test_L40 = [
       },
       {
         "text": "Neurosyphilis (Tabes Dorsalis)",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "B12 deficiency",
@@ -786,7 +812,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Radial Neuropathy",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Ulnar Neuropathy",
@@ -816,7 +843,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Subacute Combined Degeneration",
-        "explanation": "Correct. HIV Vacuolar Myelopathy affects the same tracts (Dorsal/Lateral) as B12 deficiency."
+        "explanation": "Correct. HIV Vacuolar Myelopathy affects the same tracts (Dorsal/Lateral) as B12 deficiency.",
+        "isCorrect": true
       },
       {
         "text": "Anterior Cord Syndrome",
@@ -858,7 +886,8 @@ window.Test_L40 = [
       },
       {
         "text": "Rhinovirus",
-        "explanation": "Correct. Common cold virus, not myelopathic."
+        "explanation": "Correct. Common cold virus, not myelopathic.",
+        "isCorrect": true
       },
       {
         "text": "Poliovirus",
@@ -880,7 +909,8 @@ window.Test_L40 = [
       },
       {
         "text": "A fluid-filled cavity (cyst) within the spinal cord",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "A blood clot",
@@ -906,7 +936,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Cervical",
-        "explanation": "Correct. Cervical > Thoracic."
+        "explanation": "Correct. Cervical > Thoracic.",
+        "isCorrect": true
       },
       {
         "text": "Lumbar",
@@ -936,7 +967,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Carpal Tunnel Syndrome",
-        "explanation": "Correct. Median nerve supplies LOAF muscles (Lumbrical 1/2, Opponens, Abductor Pollicis Brevis, Flexor Pollicis Brevis)."
+        "explanation": "Correct. Median nerve supplies LOAF muscles (Lumbrical 1/2, Opponens, Abductor Pollicis Brevis, Flexor Pollicis Brevis).",
+        "isCorrect": true
       },
       {
         "text": "Cubital Tunnel Syndrome",
@@ -970,7 +1002,8 @@ window.Test_L40 = [
       },
       {
         "text": "Lower Motor Neuron cell bodies",
-        "explanation": "Correct. Polio and ALS affect Anterior Horn Cells."
+        "explanation": "Correct. Polio and ALS affect Anterior Horn Cells.",
+        "isCorrect": true
       },
       {
         "text": "Upper Motor Neuron cell bodies",
@@ -1000,7 +1033,8 @@ window.Test_L40 = [
       },
       {
         "text": "Upper Motor Neuron lesion",
-        "explanation": "Correct. Damage to corticospinal tracts removes inhibition on reflex arcs."
+        "explanation": "Correct. Damage to corticospinal tracts removes inhibition on reflex arcs.",
+        "isCorrect": true
       },
       {
         "text": "Dorsal Root lesion",
@@ -1026,7 +1060,8 @@ window.Test_L40 = [
     "options": [
       {
         "text": "Constipation and Urinary Retention",
-        "explanation": "Correct. Loss of descending control leads to bowel/bladder paralysis."
+        "explanation": "Correct. Loss of descending control leads to bowel/bladder paralysis.",
+        "isCorrect": true
       },
       {
         "text": "Diarrhea",

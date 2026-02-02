@@ -7,7 +7,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "L1-L2",
-        "explanation": "Correct. The spinal cord ends as the Conus Medullaris at the L1-L2 level."
+        "explanation": "Correct. The spinal cord ends as the Conus Medullaris at the L1-L2 level.",
+        "isCorrect": true
       },
       {
         "text": "L3-L4",
@@ -41,7 +42,8 @@ window.Test_L6 = [
       },
       {
         "text": "Between the Dura and the Vertebral Periosteum",
-        "explanation": "Correct. The spinal epidural space is a REAL space containing fat and the internal vertebral venous plexus."
+        "explanation": "Correct. The spinal epidural space is a REAL space containing fat and the internal vertebral venous plexus.",
+        "isCorrect": true
       },
       {
         "text": "Inside the Central Canal",
@@ -75,7 +77,8 @@ window.Test_L6 = [
       },
       {
         "text": "Filum terminale",
-        "explanation": "Correct. The filum terminale externum is the pial extension that anchors the conus medullaris to the coccyx."
+        "explanation": "Correct. The filum terminale externum is the pial extension that anchors the conus medullaris to the coccyx.",
+        "isCorrect": true
       },
       {
         "text": "Conus medullaris",
@@ -101,7 +104,8 @@ window.Test_L6 = [
       },
       {
         "text": "C8",
-        "explanation": "Correct. In the cervical spine, nerves exit ABOVE the corresponding vertebra, except C8 which exits BELOW C7 (between C7 and T1)."
+        "explanation": "Correct. In the cervical spine, nerves exit ABOVE the corresponding vertebra, except C8 which exits BELOW C7 (between C7 and T1).",
+        "isCorrect": true
       },
       {
         "text": "T1",
@@ -135,7 +139,8 @@ window.Test_L6 = [
       },
       {
         "text": "L5",
-        "explanation": "Correct. Posterolateral herniations in the lumbar spine compress the TRAVERSING root, which is the one exiting at the level BELOW (L5 root at L4-L5 disc)."
+        "explanation": "Correct. Posterolateral herniations in the lumbar spine compress the TRAVERSING root, which is the one exiting at the level BELOW (L5 root at L4-L5 disc).",
+        "isCorrect": true
       },
       {
         "text": "S1",
@@ -165,7 +170,8 @@ window.Test_L6 = [
       },
       {
         "text": "Dorsal Column-Medial Lemniscus (DCML)",
-        "explanation": "Correct. The dorsal columns (Gracilis and Cuneatus) carry fine touch and proprioception."
+        "explanation": "Correct. The dorsal columns (Gracilis and Cuneatus) carry fine touch and proprioception.",
+        "isCorrect": true
       },
       {
         "text": "Spinocerebellar Tract",
@@ -195,7 +201,8 @@ window.Test_L6 = [
       },
       {
         "text": "Anterior Spinal Artery Syndrome",
-        "explanation": "Correct. Occlusion of the ASA infarcts the anterior 2/3 of the cord (CST = paralysis, STT = pain/temp loss), but spares the posterior 1/3 (Dorsal Columns = vibration/proprioception)."
+        "explanation": "Correct. Occlusion of the ASA infarcts the anterior 2/3 of the cord (CST = paralysis, STT = pain/temp loss), but spares the posterior 1/3 (Dorsal Columns = vibration/proprioception).",
+        "isCorrect": true
       },
       {
         "text": "Syringomyelia",
@@ -225,7 +232,8 @@ window.Test_L6 = [
       },
       {
         "text": "Spinal Cord (Anterior White Commissure)",
-        "explanation": "Correct. Primary fibers enter, synapse broadly, and secondary fibers cross IMMEDIATELY (within 1-2 segments) via the Anterior White Commissure."
+        "explanation": "Correct. Primary fibers enter, synapse broadly, and secondary fibers cross IMMEDIATELY (within 1-2 segments) via the Anterior White Commissure.",
+        "isCorrect": true
       },
       {
         "text": "Thalamus",
@@ -255,7 +263,8 @@ window.Test_L6 = [
       },
       {
         "text": "Medullary Pyramids",
-        "explanation": "Correct. ~85-90% of fibers cross at the pyramidal decussation in the caudal medulla to form the Lateral CST."
+        "explanation": "Correct. ~85-90% of fibers cross at the pyramidal decussation in the caudal medulla to form the Lateral CST.",
+        "isCorrect": true
       },
       {
         "text": "Spinal Cord",
@@ -281,7 +290,8 @@ window.Test_L6 = [
       },
       {
         "text": "Loss of Vibration/Proprioception on the RIGHT leg, and Pain/Temperature on the LEFT leg",
-        "explanation": "Correct. Dorsal columns (Vib/Prop) do not cross in the cord, so loss is IPSILATERAL. Spinothalamic (Pain/Temp) cross immediately, so loss is CONTRALATERAL."
+        "explanation": "Correct. Dorsal columns (Vib/Prop) do not cross in the cord, so loss is IPSILATERAL. Spinothalamic (Pain/Temp) cross immediately, so loss is CONTRALATERAL.",
+        "isCorrect": true
       },
       {
         "text": "Loss of Vibration/Proprioception on the LEFT leg, and Pain/Temperature on the RIGHT leg",
@@ -319,7 +329,8 @@ window.Test_L6 = [
       },
       {
         "text": "L3-L4",
-        "explanation": "Correct. The patellar reflex is mediated by L3 and L4."
+        "explanation": "Correct. The patellar reflex is mediated by L3 and L4.",
+        "isCorrect": true
       },
       {
         "text": "S1-S2",
@@ -341,7 +352,8 @@ window.Test_L6 = [
       },
       {
         "text": "T4",
-        "explanation": "Correct. T4 dermatome corresponds to the nipple line."
+        "explanation": "Correct. T4 dermatome corresponds to the nipple line.",
+        "isCorrect": true
       },
       {
         "text": "T10",
@@ -375,7 +387,8 @@ window.Test_L6 = [
       },
       {
         "text": "Glycine",
-        "explanation": "Correct. Renshaw cells are inhibitory interneurons that release Glycine to prevent tetany/overactivity of alpha motor neurons."
+        "explanation": "Correct. Renshaw cells are inhibitory interneurons that release Glycine to prevent tetany/overactivity of alpha motor neurons.",
+        "isCorrect": true
       },
       {
         "text": "Dopamine",
@@ -401,7 +414,8 @@ window.Test_L6 = [
       },
       {
         "text": "Polysynaptic connections crossing the midline",
-        "explanation": "Correct. Interneurons cross the midline to excite extensors and inhibit flexors on the contralateral side."
+        "explanation": "Correct. Interneurons cross the midline to excite extensors and inhibit flexors on the contralateral side.",
+        "isCorrect": true
       },
       {
         "text": "Descending cortical control",
@@ -435,7 +449,8 @@ window.Test_L6 = [
       },
       {
         "text": "Dorsal Root Ganglion (DRG)",
-        "explanation": "Correct. The DRG contains the pseudo-unipolar cell bodies of somatic sensory nerves."
+        "explanation": "Correct. The DRG contains the pseudo-unipolar cell bodies of somatic sensory nerves.",
+        "isCorrect": true
       },
       {
         "text": "Sympathetic Chain Ganglion",
@@ -457,7 +472,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Expansion of the Central Canal (Syrinx) compressing the Anterior White Commissure",
-        "explanation": "Correct. This destroys the crossing fibers of the Spinothalamic tract at that level."
+        "explanation": "Correct. This destroys the crossing fibers of the Spinothalamic tract at that level.",
+        "isCorrect": true
       },
       {
         "text": "Herniation of the C5-C6 disc",
@@ -495,7 +511,8 @@ window.Test_L6 = [
       },
       {
         "text": "Substance P",
-        "explanation": "Correct. Substance P (and Glutamate) are released by nociceptive afferents to transmit pain signals in the dorsal horn."
+        "explanation": "Correct. Substance P (and Glutamate) are released by nociceptive afferents to transmit pain signals in the dorsal horn.",
+        "isCorrect": true
       },
       {
         "text": "Acetylcholine",
@@ -521,7 +538,8 @@ window.Test_L6 = [
       },
       {
         "text": "It allows pain fibers to ascend/descend 1-2 levels before entering the dorsal horn",
-        "explanation": "Correct. Small diameter pain fibers enter Lissauer's tract and travel up or down 1-2 segments before synapsing."
+        "explanation": "Correct. Small diameter pain fibers enter Lissauer's tract and travel up or down 1-2 segments before synapsing.",
+        "isCorrect": true
       },
       {
         "text": "It contains the motor neurons for the hand",
@@ -537,7 +555,7 @@ window.Test_L6 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Lissauer's Tract explains the 'level discrepancy' – sensory level may be 1-2 segments below the actual lesion.",
+    "clinicalPearl": "Lissauer's Tract explains the 'level discrepancy' \u2013 sensory level may be 1-2 segments below the actual lesion.",
     "pdfPage": 33
   },
   {
@@ -559,7 +577,8 @@ window.Test_L6 = [
       },
       {
         "text": "L4-L5",
-        "explanation": "Correct. Going as low as possible (L4-L5 or L5-S1) is safest in pediatrics as the cord terminates lower (L3) than in adults (L1-L2)."
+        "explanation": "Correct. Going as low as possible (L4-L5 or L5-S1) is safest in pediatrics as the cord terminates lower (L3) than in adults (L1-L2).",
+        "isCorrect": true
       },
       {
         "text": "T10-T11",
@@ -581,7 +600,8 @@ window.Test_L6 = [
       },
       {
         "text": "Lower Motor Neurons",
-        "explanation": "Correct. LMN degeneration in the ventral horn causes flaccid paralysis, atrophy, and fasciculations."
+        "explanation": "Correct. LMN degeneration in the ventral horn causes flaccid paralysis, atrophy, and fasciculations.",
+        "isCorrect": true
       },
       {
         "text": "Dorsal Horn neurons",
@@ -607,7 +627,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Flaccid paralysis and absent reflexes below the lesion",
-        "explanation": "Correct. Acute phase (Spinal Shock) mimics LMN signs (flaccidity/areflexia). Spasticity (UMN signs) develops weeks later."
+        "explanation": "Correct. Acute phase (Spinal Shock) mimics LMN signs (flaccidity/areflexia). Spasticity (UMN signs) develops weeks later.",
+        "isCorrect": true
       },
       {
         "text": "Spastic paralysis and hyperreflexia below the lesion",
@@ -641,7 +662,8 @@ window.Test_L6 = [
       },
       {
         "text": "T1-L2",
-        "explanation": "Correct. The Intermediolateral cell column (IML) contains sympathetic preganglionic neurons and is present from T1 to L2."
+        "explanation": "Correct. The Intermediolateral cell column (IML) contains sympathetic preganglionic neurons and is present from T1 to L2.",
+        "isCorrect": true
       },
       {
         "text": "L4-S3",
@@ -675,7 +697,8 @@ window.Test_L6 = [
       },
       {
         "text": "It carries information from the lower limbs (below T6)",
-        "explanation": "Correct. Gracilis = Legs (Ground). It is the medial tract."
+        "explanation": "Correct. Gracilis = Legs (Ground). It is the medial tract.",
+        "isCorrect": true
       },
       {
         "text": "It decussates in the spinal cord",
@@ -701,7 +724,8 @@ window.Test_L6 = [
       },
       {
         "text": "Relax the muscle to prevent damage from excessive tension",
-        "explanation": "Correct. It inhibits the alpha motor neuron of the contracting muscle to prevent tendon avulsion."
+        "explanation": "Correct. It inhibits the alpha motor neuron of the contracting muscle to prevent tendon avulsion.",
+        "isCorrect": true
       },
       {
         "text": "Withdraw the limb from pain",
@@ -727,7 +751,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Abundance of white matter relative to gray matter",
-        "explanation": "Correct. The cervical cord has the MOST white matter because it contains all ascending fibers going up and all descending fibers coming down. The lumbar cord has less white matter."
+        "explanation": "Correct. The cervical cord has the MOST white matter because it contains all ascending fibers going up and all descending fibers coming down. The lumbar cord has less white matter.",
+        "isCorrect": true
       },
       {
         "text": "Absence of dorsal horns",
@@ -757,7 +782,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Conus Medullaris",
-        "explanation": "Correct. Compression of the Conus (S2-S4 segments) causes early autonomic dysfunction (bladder/bowel) and saddle anesthesia."
+        "explanation": "Correct. Compression of the Conus (S2-S4 segments) causes early autonomic dysfunction (bladder/bowel) and saddle anesthesia.",
+        "isCorrect": true
       },
       {
         "text": "Cauda Equina",
@@ -795,7 +821,8 @@ window.Test_L6 = [
       },
       {
         "text": "0 to 4+",
-        "explanation": "Correct. 0=Absent, 1+=Trace, 2+=Normal, 3+=Brisk, 4+=Clonus."
+        "explanation": "Correct. 0=Absent, 1+=Trace, 2+=Normal, 3+=Brisk, 4+=Clonus.",
+        "isCorrect": true
       },
       {
         "text": "A to E",
@@ -817,7 +844,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Does not decussate in the medulla",
-        "explanation": "Correct. It descends ipsilaterally and crosses at the level of the spinal cord (via AWC) to innervate axial musculature."
+        "explanation": "Correct. It descends ipsilaterally and crosses at the level of the spinal cord (via AWC) to innervate axial musculature.",
+        "isCorrect": true
       },
       {
         "text": "Carries sensory information",
@@ -847,7 +875,8 @@ window.Test_L6 = [
     "options": [
       {
         "text": "Reciprocal Inhibition",
-        "explanation": "Correct. To flex the knee, the quadriceps (extensors) must be relaxed via inhibitory interneurons."
+        "explanation": "Correct. To flex the knee, the quadriceps (extensors) must be relaxed via inhibitory interneurons.",
+        "isCorrect": true
       },
       {
         "text": "Autogenic inhibition",
@@ -881,7 +910,8 @@ window.Test_L6 = [
       },
       {
         "text": "Oligodendrocytes",
-        "explanation": "Correct. Oligodendrocytes myelinate CNS axons (Cord/Brain). One cell myelinates multiple axons."
+        "explanation": "Correct. Oligodendrocytes myelinate CNS axons (Cord/Brain). One cell myelinates multiple axons.",
+        "isCorrect": true
       },
       {
         "text": "Astrocytes",
@@ -915,7 +945,8 @@ window.Test_L6 = [
       },
       {
         "text": "Shoulder abductors (Deltoid) and Elbow flexors (Biceps)",
-        "explanation": "Correct. C5 is the main root for Deltoid and Biceps."
+        "explanation": "Correct. C5 is the main root for Deltoid and Biceps.",
+        "isCorrect": true
       },
       {
         "text": "Wrist extensors",
@@ -945,7 +976,8 @@ window.Test_L6 = [
       },
       {
         "text": "Inferior Cerebellar Peduncle",
-        "explanation": "Correct. DSCT (Legs) and Cuneocerebellar (Arms) enter via the ICP."
+        "explanation": "Correct. DSCT (Legs) and Cuneocerebellar (Arms) enter via the ICP.",
+        "isCorrect": true
       },
       {
         "text": "Pyramids",
@@ -971,7 +1003,8 @@ window.Test_L6 = [
       },
       {
         "text": "Sensory; Motor",
-        "explanation": "Correct. Dorsal = Sensory (Afferent). Ventral = Motor (Efferent)."
+        "explanation": "Correct. Dorsal = Sensory (Afferent). Ventral = Motor (Efferent).",
+        "isCorrect": true
       },
       {
         "text": "Autonomic; Somatic",
@@ -1005,7 +1038,8 @@ window.Test_L6 = [
       },
       {
         "text": "Maintenance of balance and extensor tone against gravity",
-        "explanation": "Correct. Input from vestibular apparatus -> VST -> Extensor muscles to stay upright."
+        "explanation": "Correct. Input from vestibular apparatus -> VST -> Extensor muscles to stay upright.",
+        "isCorrect": true
       },
       {
         "text": "Voluntary speech",
@@ -1031,7 +1065,8 @@ window.Test_L6 = [
       },
       {
         "text": "Upper Motor Neuron lesion",
-        "explanation": "Correct. Sustained clonus indicates severe hyperreflexia/spasticity due to UMN damage."
+        "explanation": "Correct. Sustained clonus indicates severe hyperreflexia/spasticity due to UMN damage.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellar ataxia",

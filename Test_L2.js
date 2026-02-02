@@ -10,7 +10,8 @@ window.Test_L2 = [
       },
       {
         "text": "Failure of the caudal neuropore to close fully (Spina Bifida Occulta)",
-        "explanation": "Correct. Spina Bifida Occulta (hidden) presents with a tuft of hair or dimple over the defect. It is a failure of the vertebral arch (mesoderm/ectoderm induction) to close over the tube, but the neural tube itself is closed."
+        "explanation": "Correct. Spina Bifida Occulta (hidden) presents with a tuft of hair or dimple over the defect. It is a failure of the vertebral arch (mesoderm/ectoderm induction) to close over the tube, but the neural tube itself is closed.",
+        "isCorrect": true
       },
       {
         "text": "Herniation of meninges only (Meningocele)",
@@ -40,7 +41,8 @@ window.Test_L2 = [
       },
       {
         "text": "Diencephalon",
-        "explanation": "Correct. The Diencephalon forms the Thalamus, Hypothalamus, and Retina/Optic nerve."
+        "explanation": "Correct. The Diencephalon forms the Thalamus, Hypothalamus, and Retina/Optic nerve.",
+        "isCorrect": true
       },
       {
         "text": "Mesencephalon",
@@ -70,7 +72,8 @@ window.Test_L2 = [
       },
       {
         "text": "Division of the Prosencephalon (Holoprosencephaly)",
-        "explanation": "Correct. Failure of the Prosencephalon to divide into left and right hemispheres (Telencephalon) and Diencephalon results in Holoprosencephaly. Associated with midline facial defects."
+        "explanation": "Correct. Failure of the Prosencephalon to divide into left and right hemispheres (Telencephalon) and Diencephalon results in Holoprosencephaly. Associated with midline facial defects.",
+        "isCorrect": true
       },
       {
         "text": "Migration of neural crest cells to the gut",
@@ -100,7 +103,8 @@ window.Test_L2 = [
       },
       {
         "text": "Dorsal Root Ganglia",
-        "explanation": "Correct. Neural Crest cells migrate to form the DRG, autonomic ganglia, Schwann cells, and melanocytes."
+        "explanation": "Correct. Neural Crest cells migrate to form the DRG, autonomic ganglia, Schwann cells, and melanocytes.",
+        "isCorrect": true
       },
       {
         "text": "Retina",
@@ -130,7 +134,8 @@ window.Test_L2 = [
       },
       {
         "text": "Cerebral Aqueduct (Aqueduct of Sylvius)",
-        "explanation": "Correct. Blockage at the Aqueduct (between 3rd and 4th) causes upstream dilation (Lateral + 3rd) and normal downstream (4th)."
+        "explanation": "Correct. Blockage at the Aqueduct (between 3rd and 4th) causes upstream dilation (Lateral + 3rd) and normal downstream (4th).",
+        "isCorrect": true
       },
       {
         "text": "Foramen of Magendie",
@@ -160,7 +165,8 @@ window.Test_L2 = [
       },
       {
         "text": "Metencephalon",
-        "explanation": "Correct. The Metencephalon forms the Pons (ventral) and Cerebellum (dorsal)."
+        "explanation": "Correct. The Metencephalon forms the Pons (ventral) and Cerebellum (dorsal).",
+        "isCorrect": true
       },
       {
         "text": "Myelencephalon",
@@ -190,7 +196,8 @@ window.Test_L2 = [
       },
       {
         "text": "Meningocele",
-        "explanation": "Correct. Meninges + CSF only = Meningocele."
+        "explanation": "Correct. Meninges + CSF only = Meningocele.",
+        "isCorrect": true
       },
       {
         "text": "Meningomyelocele",
@@ -221,7 +228,8 @@ window.Test_L2 = [
       {
         "text": "Lateral",
         "explanation": "Correct. The 'opening' of the neural tube like a book pushes the dorsal (Alar) plates laterally. Thus, in the brainstem, sensory nuclei are Lateral and motor nuclei are Medial.",
-        "verified": "The Sulcus Limitans separates them. Sensory is Lateral (Side), Motor is Medial."
+        "verified": "The Sulcus Limitans separates them. Sensory is Lateral (Side), Motor is Medial.",
+        "isCorrect": true
       },
       {
         "text": "Ventral",
@@ -256,7 +264,8 @@ window.Test_L2 = [
       {
         "text": "Dandy-Walker Malformation",
         "explanation": "Correct. Classic triad: Agenesis of Vermis + Cystic dilation of 4th Ventricle + Enlarged Posterior Fossa.",
-        "verified": "Lecture confirms: Agenesis of vermis + Cystic 4th ventricle."
+        "verified": "Lecture confirms: Agenesis of vermis + Cystic 4th ventricle.",
+        "isCorrect": true
       },
       {
         "text": "Holoprosencephaly",
@@ -282,7 +291,8 @@ window.Test_L2 = [
       },
       {
         "text": "Diencephalon",
-        "explanation": "Correct. The optic vesicle grows out of the Diencephalon."
+        "explanation": "Correct. The optic vesicle grows out of the Diencephalon.",
+        "isCorrect": true
       },
       {
         "text": "Mesencephalon",
@@ -298,7 +308,7 @@ window.Test_L2 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN II is an outgrowth of the Diencephalon (CNS tract, not true nerve).",
+    "clinicalPearl": "Key takeaway: CN II is an outgrowth of the Diencephalon (CNS tract, not True nerve).",
     "pdfPage": 31
   },
   {
@@ -312,7 +322,8 @@ window.Test_L2 = [
       },
       {
         "text": "Neural Tube Defects (e.g., Spina Bifida, Anencephaly)",
-        "explanation": "Correct. Failure of neuropore closure."
+        "explanation": "Correct. Failure of neuropore closure.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellar Hypoplasia",
@@ -342,7 +353,8 @@ window.Test_L2 = [
       },
       {
         "text": "Third and Fourth",
-        "explanation": "Correct. Runs through the Mesencephalon (Midbrain)."
+        "explanation": "Correct. Runs through the Mesencephalon (Midbrain).",
+        "isCorrect": true
       },
       {
         "text": "Fourth and Subarachnoid space",
@@ -372,7 +384,8 @@ window.Test_L2 = [
       },
       {
         "text": "Myelomeningocele (Meningomyelocele)",
-        "explanation": "Correct. Cord in cyst + Neurological deficit."
+        "explanation": "Correct. Cord in cyst + Neurological deficit.",
+        "isCorrect": true
       },
       {
         "text": "Spina Bifida Occulta",
@@ -402,7 +415,8 @@ window.Test_L2 = [
       },
       {
         "text": "CN III, IV",
-        "explanation": "Correct. Oculomotor and Trochlear nuclei are in the Midbrain."
+        "explanation": "Correct. Oculomotor and Trochlear nuclei are in the Midbrain.",
+        "isCorrect": true
       },
       {
         "text": "CN V, VI, VII",
@@ -432,7 +446,8 @@ window.Test_L2 = [
       },
       {
         "text": "Anencephaly",
-        "explanation": "Correct. Failure of brain formation. Incompatible with life."
+        "explanation": "Correct. Failure of brain formation. Incompatible with life.",
+        "isCorrect": true
       },
       {
         "text": "Holoprosencephaly",
@@ -462,7 +477,8 @@ window.Test_L2 = [
       },
       {
         "text": "Gray Matter",
-        "explanation": "Correct. Mantle -> Gray Matter (Cell Bodies). Marginal -> White Matter (Axons). Ventricular -> Ependyma."
+        "explanation": "Correct. Mantle -> Gray Matter (Cell Bodies). Marginal -> White Matter (Axons). Ventricular -> Ependyma.",
+        "isCorrect": true
       },
       {
         "text": "Ependymal lining",
@@ -493,7 +509,8 @@ window.Test_L2 = [
       {
         "text": "Tethered Cord Syndrome",
         "explanation": "Correct. Failure of the cord to ascend relative to the spinal column. Conus should be L1-L2. Low conus + Symptoms = Tethered Cord.",
-        "verified": "Lecture mentions this specifically."
+        "verified": "Lecture mentions this specifically.",
+        "isCorrect": true
       },
       {
         "text": "Meningocele",
@@ -519,7 +536,8 @@ window.Test_L2 = [
     "options": [
       {
         "text": "Cerebellum",
-        "explanation": "Correct. Specifically the Vermis and hemispheres."
+        "explanation": "Correct. Specifically the Vermis and hemispheres.",
+        "isCorrect": true
       },
       {
         "text": "Pons",
@@ -558,7 +576,8 @@ window.Test_L2 = [
       {
         "text": "Day 27-28",
         "explanation": "Correct. Caudal closes ~2 days after Rostral.",
-        "verified": "Rostral 25, Caudal 27/28."
+        "verified": "Rostral 25, Caudal 27/28.",
+        "isCorrect": true
       },
       {
         "text": "Day 40",
@@ -588,7 +607,8 @@ window.Test_L2 = [
       },
       {
         "text": "All four ventricles (Lateral, 3rd, 4th)",
-        "explanation": "Correct. All parts of the ventricular system contain choroid plexus, except the aqueduct/canal?"
+        "explanation": "Correct. All parts of the ventricular system contain choroid plexus, except the aqueduct/canal?",
+        "isCorrect": true
       },
       {
         "text": "Subarachnoid space",
@@ -614,7 +634,8 @@ window.Test_L2 = [
       },
       {
         "text": "Alcohol",
-        "explanation": "Correct. Fetal Alcohol Syndrome is a major cause of microcephaly."
+        "explanation": "Correct. Fetal Alcohol Syndrome is a major cause of microcephaly.",
+        "isCorrect": true
       },
       {
         "text": "Vitamin C",
@@ -645,7 +666,8 @@ window.Test_L2 = [
       {
         "text": "Cerebral Hemispheres and Basal Ganglia",
         "explanation": "Correct. Telencephalon = 'End Brain' = Cerebrum.",
-        "verified": "Telencephalon -> Cortex, Basal Ganglia, Lateral Ventricles."
+        "verified": "Telencephalon -> Cortex, Basal Ganglia, Lateral Ventricles.",
+        "isCorrect": true
       },
       {
         "text": "Midbrain",
@@ -675,7 +697,8 @@ window.Test_L2 = [
       },
       {
         "text": "Encephalocele",
-        "explanation": "Correct. Herniation of brain tissue through skull defect."
+        "explanation": "Correct. Herniation of brain tissue through skull defect.",
+        "isCorrect": true
       },
       {
         "text": "Meningocele",
@@ -705,7 +728,8 @@ window.Test_L2 = [
       },
       {
         "text": "Alar Plate and Basal Plate",
-        "explanation": "Correct. A longitudinal groove separating dorsal sensory (Alar) from ventral motor (Basal)."
+        "explanation": "Correct. A longitudinal groove separating dorsal sensory (Alar) from ventral motor (Basal).",
+        "isCorrect": true
       },
       {
         "text": "Telencephalon and Diencephalon",
@@ -731,7 +755,8 @@ window.Test_L2 = [
     "options": [
       {
         "text": "Superior and Inferior Colliculi (Tectum)",
-        "explanation": "Correct. Alar = Sensory. Tectum (Colliculi) are sensory relay centers (Vision/Hearing) on the dorsal aspect of Midbrain."
+        "explanation": "Correct. Alar = Sensory. Tectum (Colliculi) are sensory relay centers (Vision/Hearing) on the dorsal aspect of Midbrain.",
+        "isCorrect": true
       },
       {
         "text": "Oculomotor Nucleus",
@@ -765,7 +790,8 @@ window.Test_L2 = [
       },
       {
         "text": "Arnold-Chiari Malformation",
-        "explanation": "Correct. Herniation of tonsils/vermis through foramen magnum. Type II is associated with myelomeningocele."
+        "explanation": "Correct. Herniation of tonsils/vermis through foramen magnum. Type II is associated with myelomeningocele.",
+        "isCorrect": true
       },
       {
         "text": "Holoprosencephaly",
@@ -795,7 +821,8 @@ window.Test_L2 = [
       },
       {
         "text": "Notochord",
-        "explanation": "Correct. The Notochord (Mesoderm) releases signaling molecules (Sonic Hedgehog) to induce neurulation in the Ectoderm."
+        "explanation": "Correct. The Notochord (Mesoderm) releases signaling molecules (Sonic Hedgehog) to induce neurulation in the Ectoderm.",
+        "isCorrect": true
       },
       {
         "text": "Endoderm",
@@ -821,7 +848,8 @@ window.Test_L2 = [
     "options": [
       {
         "text": "Alar Plate of Diencephalon",
-        "explanation": "Correct. Hypothalamus is sensory/integrative, derived from Alar plate of Diencephalon."
+        "explanation": "Correct. Hypothalamus is sensory/integrative, derived from Alar plate of Diencephalon.",
+        "isCorrect": true
       },
       {
         "text": "Basal Plate of Diencephalon",
@@ -859,7 +887,8 @@ window.Test_L2 = [
       },
       {
         "text": "Vertebral Arch (Lamina/Spinous Process)",
-        "explanation": "Correct. The neural arch fails to fuse dorsally."
+        "explanation": "Correct. The neural arch fails to fuse dorsally.",
+        "isCorrect": true
       },
       {
         "text": "Transverse Process",
@@ -889,7 +918,8 @@ window.Test_L2 = [
       },
       {
         "text": "Fourth Ventricle",
-        "explanation": "Correct. Hindbrain -> 4th Ventricle."
+        "explanation": "Correct. Hindbrain -> 4th Ventricle.",
+        "isCorrect": true
       },
       {
         "text": "Cerebral Aqueduct",
@@ -915,7 +945,8 @@ window.Test_L2 = [
       },
       {
         "text": "The outer surface (Marginal zone)",
-        "explanation": "Correct. Unlike spinal cord (Gray inner), Brain moves Gray matter to the OUTSIDE (Cortex). Cells migrate outward past the white matter."
+        "explanation": "Correct. Unlike spinal cord (Gray inner), Brain moves Gray matter to the OUTSIDE (Cortex). Cells migrate outward past the white matter.",
+        "isCorrect": true
       },
       {
         "text": "The spinal cord",
@@ -941,7 +972,8 @@ window.Test_L2 = [
     "options": [
       {
         "text": "Trigeminal (CN V)",
-        "explanation": "Correct. CN V is the nerve of the 1st Arch and exits the Pons."
+        "explanation": "Correct. CN V is the nerve of the 1st Arch and exits the Pons.",
+        "isCorrect": true
       },
       {
         "text": "Facial (CN VII)",
@@ -975,7 +1007,8 @@ window.Test_L2 = [
       },
       {
         "text": "A cleft in the neural plate where the tube failed to fold/fuse at all",
-        "explanation": "Correct. Most severe form. Exposed neural tissue. No skin/bone cover."
+        "explanation": "Correct. Most severe form. Exposed neural tissue. No skin/bone cover.",
+        "isCorrect": true
       },
       {
         "text": "Missing brain",
@@ -1001,7 +1034,8 @@ window.Test_L2 = [
     "options": [
       {
         "text": "Telencephalon",
-        "explanation": "Correct. Commisure of the cerebrum."
+        "explanation": "Correct. Commisure of the cerebrum.",
+        "isCorrect": true
       },
       {
         "text": "Diencephalon",
@@ -1035,7 +1069,8 @@ window.Test_L2 = [
       },
       {
         "text": "White Matter",
-        "explanation": "Correct. Marginal layer -> White Matter (Funiculi)."
+        "explanation": "Correct. Marginal layer -> White Matter (Funiculi).",
+        "isCorrect": true
       },
       {
         "text": "Central Canal",

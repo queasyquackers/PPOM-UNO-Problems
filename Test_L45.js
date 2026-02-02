@@ -10,7 +10,8 @@ window.Test_L45 = [
       },
       {
         "text": "Posterior Communicating Artery",
-        "explanation": "Correct. Compresses CN III (Oculomotor) causing 'Down and Out', Ptosis, and Mydriasis."
+        "explanation": "Correct. Compresses CN III (Oculomotor) causing 'Down and Out', Ptosis, and Mydriasis.",
+        "isCorrect": true
       },
       {
         "text": "Middle Cerebral Artery",
@@ -40,7 +41,8 @@ window.Test_L45 = [
       },
       {
         "text": "Frontal Lobe",
-        "explanation": "Correct. Precentral Gyrus."
+        "explanation": "Correct. Precentral Gyrus.",
+        "isCorrect": true
       },
       {
         "text": "Temporal Lobe",
@@ -70,7 +72,8 @@ window.Test_L45 = [
       },
       {
         "text": "Posterior Inferior Cerebellar Artery (PICA)",
-        "explanation": "Correct. Supplies lateral medulla."
+        "explanation": "Correct. Supplies lateral medulla.",
+        "isCorrect": true
       },
       {
         "text": "Anterior Inferior Cerebellar Artery (AICA)",
@@ -100,7 +103,8 @@ window.Test_L45 = [
       },
       {
         "text": "Lateral Spinothalamic Tract",
-        "explanation": "Correct. Decussates immediately in spinal cord."
+        "explanation": "Correct. Decussates immediately in spinal cord.",
+        "isCorrect": true
       },
       {
         "text": "Lateral Corticospinal Tract",
@@ -130,7 +134,8 @@ window.Test_L45 = [
       },
       {
         "text": "Parasympathetic",
-        "explanation": "Correct. Parasympathetics (CN III) constrict. Loss = Unopposed Sympathetic Dilation."
+        "explanation": "Correct. Parasympathetics (CN III) constrict. Loss = Unopposed Sympathetic Dilation.",
+        "isCorrect": true
       },
       {
         "text": "Somatic Motor",
@@ -164,7 +169,8 @@ window.Test_L45 = [
       },
       {
         "text": "Midbrain",
-        "explanation": "Correct. Rule of 4s (3, 4)."
+        "explanation": "Correct. Rule of 4s (3, 4).",
+        "isCorrect": true
       },
       {
         "text": "Diencephalon",
@@ -190,7 +196,8 @@ window.Test_L45 = [
       },
       {
         "text": "Right Facial Nerve (CN VII)",
-        "explanation": "Correct. Peripheral/LMN lesion affects entire ipsilateral face (Bell's Palsy type)."
+        "explanation": "Correct. Peripheral/LMN lesion affects entire ipsilateral face (Bell's Palsy type).",
+        "isCorrect": true
       },
       {
         "text": "Right Motor Cortex",
@@ -224,7 +231,8 @@ window.Test_L45 = [
       },
       {
         "text": "Efferent (Output to Thalamus)",
-        "explanation": "Correct. Dentato-thalamic tract."
+        "explanation": "Correct. Dentato-thalamic tract.",
+        "isCorrect": true
       },
       {
         "text": "Afferent (Input from Vestibular system)",
@@ -250,7 +258,8 @@ window.Test_L45 = [
       },
       {
         "text": "Anterior Spinal Artery (ASA)",
-        "explanation": "Correct. Supplies medial medulla (Pyramids, Medial Lemniscus, CN XII)."
+        "explanation": "Correct. Supplies medial medulla (Pyramids, Medial Lemniscus, CN XII).",
+        "isCorrect": true
       },
       {
         "text": "Posterior Cerebral Artery",
@@ -280,7 +289,8 @@ window.Test_L45 = [
       },
       {
         "text": "Caudal Medulla (Internal Arcuate Fibers)",
-        "explanation": "Correct. 2nd order neurons from Gracilis/Cuneatus cross here."
+        "explanation": "Correct. 2nd order neurons from Gracilis/Cuneatus cross here.",
+        "isCorrect": true
       },
       {
         "text": "Pons",
@@ -310,7 +320,8 @@ window.Test_L45 = [
       },
       {
         "text": "Loss of Vibration/Proprioception on Right, Loss of Pain/Temp on Left",
-        "explanation": "Correct. DCML is uncrossed (Ipsi loss), Spinothalamic is crossed (Contra loss)."
+        "explanation": "Correct. DCML is uncrossed (Ipsi loss), Spinothalamic is crossed (Contra loss).",
+        "isCorrect": true
       },
       {
         "text": "Bilateral loss of all sensation",
@@ -344,7 +355,8 @@ window.Test_L45 = [
       },
       {
         "text": "Trochlear (IV)",
-        "explanation": "Correct. The only one to exit dorsally."
+        "explanation": "Correct. The only one to exit dorsally.",
+        "isCorrect": true
       },
       {
         "text": "Abducens (VI)",
@@ -370,7 +382,8 @@ window.Test_L45 = [
       },
       {
         "text": "To the Left (towards the lesion)",
-        "explanation": "Correct. FEF pushes eyes to opposite side. Lesion = unopposed push from right FEF -> Look at lesion."
+        "explanation": "Correct. FEF pushes eyes to opposite side. Lesion = unopposed push from right FEF -> Look at lesion.",
+        "isCorrect": true
       },
       {
         "text": "Upwards",
@@ -400,7 +413,8 @@ window.Test_L45 = [
       },
       {
         "text": "Medial surface (Leg/Foot motor/sensory)",
-        "explanation": "Correct. Homunculus leg is in the longitudinal fissure."
+        "explanation": "Correct. Homunculus leg is in the longitudinal fissure.",
+        "isCorrect": true
       },
       {
         "text": "Occipital lobe (Vision)",
@@ -430,7 +444,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left MLF (Medial Longitudinal Fasciculus)",
-        "explanation": "Correct. MLF connects CN VI nucleus to contralateral CN III. Left MLF fails to signal Left MR."
+        "explanation": "Correct. MLF connects CN VI nucleus to contralateral CN III. Left MLF fails to signal Left MR.",
+        "isCorrect": true
       },
       {
         "text": "Left Oculomotor Nerve",
@@ -460,7 +475,8 @@ window.Test_L45 = [
       },
       {
         "text": "Precentral Gyrus",
-        "explanation": "Correct. Primary Motor Cortex."
+        "explanation": "Correct. Primary Motor Cortex.",
+        "isCorrect": true
       },
       {
         "text": "Basal Ganglia",
@@ -490,7 +506,8 @@ window.Test_L45 = [
       },
       {
         "text": "Right Cerebellum",
-        "explanation": "Correct. Cerebellar signs are Ipsilateral."
+        "explanation": "Correct. Cerebellar signs are Ipsilateral.",
+        "isCorrect": true
       },
       {
         "text": "Left Basal Ganglia",
@@ -520,7 +537,8 @@ window.Test_L45 = [
       },
       {
         "text": "Edinger-Westphal Nucleus",
-        "explanation": "Correct. Sends preganglionic parasympathetics to Ciliary Ganglion."
+        "explanation": "Correct. Sends preganglionic parasympathetics to Ciliary Ganglion.",
+        "isCorrect": true
       },
       {
         "text": "Nucleus Ambiguus",
@@ -554,7 +572,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left Occipital Lobe (PCA infarct)",
-        "explanation": "Correct. PCA supplies visual cortex. Macula has dual supply (MCA/PCA) so it is spared."
+        "explanation": "Correct. PCA supplies visual cortex. Macula has dual supply (MCA/PCA) so it is spared.",
+        "isCorrect": true
       },
       {
         "text": "Right Occipital Lobe",
@@ -580,7 +599,8 @@ window.Test_L45 = [
       },
       {
         "text": "Contralateral Pontine Nuclei",
-        "explanation": "Correct. Cortex -> Pons -> Cross -> MCP -> Cerebellum."
+        "explanation": "Correct. Cortex -> Pons -> Cross -> MCP -> Cerebellum.",
+        "isCorrect": true
       },
       {
         "text": "Inferior Olivary Nucleus",
@@ -610,7 +630,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left Upper Motor Neurons (Corticospinal Tract)",
-        "explanation": "Correct. UMN lesion = Hyperreflexia, Babinski. Contralateral symptoms = Left brain lesion."
+        "explanation": "Correct. UMN lesion = Hyperreflexia, Babinski. Contralateral symptoms = Left brain lesion.",
+        "isCorrect": true
       },
       {
         "text": "Right Upper Motor Neurons",
@@ -644,7 +665,8 @@ window.Test_L45 = [
       },
       {
         "text": "Pyramids of the Medulla",
-        "explanation": "Correct. 85-90% cross here to become Lateral CST."
+        "explanation": "Correct. 85-90% cross here to become Lateral CST.",
+        "isCorrect": true
       },
       {
         "text": "Spinal Cord",
@@ -670,7 +692,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left Subthalamic Nucleus",
-        "explanation": "Correct. Contralateral Hemiballismus."
+        "explanation": "Correct. Contralateral Hemiballismus.",
+        "isCorrect": true
       },
       {
         "text": "Caudate Nucleus",
@@ -700,7 +723,8 @@ window.Test_L45 = [
       },
       {
         "text": "Basilar Artery",
-        "explanation": "Correct. Basilar splits into two PCAs."
+        "explanation": "Correct. Basilar splits into two PCAs.",
+        "isCorrect": true
       },
       {
         "text": "Vertebral Artery",
@@ -730,7 +754,8 @@ window.Test_L45 = [
       },
       {
         "text": "Hoarseness and Dysphagia",
-        "explanation": "Correct. Motor innervation to pharynx/larynx (CN 9, 10). Seen in Wallenberg Syndrome."
+        "explanation": "Correct. Motor innervation to pharynx/larynx (CN 9, 10). Seen in Wallenberg Syndrome.",
+        "isCorrect": true
       },
       {
         "text": "Face numbness",
@@ -760,7 +785,8 @@ window.Test_L45 = [
       },
       {
         "text": "The Body (Spinothalamic and DCML)",
-        "explanation": "Correct. Sensory from body goes to VPL."
+        "explanation": "Correct. Sensory from body goes to VPL.",
+        "isCorrect": true
       },
       {
         "text": "The Eyes",
@@ -790,7 +816,8 @@ window.Test_L45 = [
       },
       {
         "text": "Upper Motor Neuron Lesion (Spasticity)",
-        "explanation": "Correct. Initial resistance then sudden release."
+        "explanation": "Correct. Initial resistance then sudden release.",
+        "isCorrect": true
       },
       {
         "text": "Parkinson's Disease",
@@ -824,7 +851,8 @@ window.Test_L45 = [
       },
       {
         "text": "Corticospinal",
-        "explanation": "Correct. Motor crossing."
+        "explanation": "Correct. Motor crossing.",
+        "isCorrect": true
       },
       {
         "text": "Rubrospinal",
@@ -854,7 +882,8 @@ window.Test_L45 = [
       },
       {
         "text": "Posterior Cerebral Artery",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Superior Cerebellar Artery",
@@ -880,7 +909,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left Inferior Frontal Gyrus",
-        "explanation": "Correct. Expressive Aphasia if damaged."
+        "explanation": "Correct. Expressive Aphasia if damaged.",
+        "isCorrect": true
       },
       {
         "text": "Right Parietal Lobe",
@@ -910,7 +940,8 @@ window.Test_L45 = [
       },
       {
         "text": "Left Anterior Cerebral Artery",
-        "explanation": "Correct. Supplies medial motor strip (Leg/Foot)."
+        "explanation": "Correct. Supplies medial motor strip (Leg/Foot).",
+        "isCorrect": true
       },
       {
         "text": "Right Anterior Cerebral Artery",
@@ -940,7 +971,8 @@ window.Test_L45 = [
       },
       {
         "text": "Descending Corticospinal fibers and Ascending Thalamocortical fibers",
-        "explanation": "Correct. Tight bundle of all major motor/sensory highways."
+        "explanation": "Correct. Tight bundle of all major motor/sensory highways.",
+        "isCorrect": true
       },
       {
         "text": "Cranial Nerve Nuclei",
@@ -970,7 +1002,8 @@ window.Test_L45 = [
       },
       {
         "text": "Contralateral Face and Arm (Head of Caudate/Internal Capsule)",
-        "explanation": "Correct. It supplies the head of caudate and anterior limb of internal capsule."
+        "explanation": "Correct. It supplies the head of caudate and anterior limb of internal capsule.",
+        "isCorrect": true
       },
       {
         "text": "Ipsilateral Face",
@@ -1000,7 +1033,8 @@ window.Test_L45 = [
       },
       {
         "text": "Trigeminal (V)",
-        "explanation": "Correct. Afferent V3 -> Motor Nucleus of V -> Efferent V3."
+        "explanation": "Correct. Afferent V3 -> Motor Nucleus of V -> Efferent V3.",
+        "isCorrect": true
       },
       {
         "text": "Glossopharyngeal (IX)",
@@ -1034,7 +1068,8 @@ window.Test_L45 = [
       },
       {
         "text": "Temporal Lobe (Uncus)",
-        "explanation": "Correct. Primary Olfactory Cortex is in the uncus of temporal lobe."
+        "explanation": "Correct. Primary Olfactory Cortex is in the uncus of temporal lobe.",
+        "isCorrect": true
       },
       {
         "text": "Parietal Lobe",

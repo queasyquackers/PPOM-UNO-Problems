@@ -10,7 +10,8 @@ window.Test_L39 = [
       },
       {
         "text": "Orthostatic hypotension",
-        "explanation": "Correct. Alpha-1 blockade on veins decreases venous return (preload) upon standing, leading to a sudden drop in cardiac output and BP (Syncope)."
+        "explanation": "Correct. Alpha-1 blockade on veins decreases venous return (preload) upon standing, leading to a sudden drop in cardiac output and BP (Syncope).",
+        "isCorrect": true
       },
       {
         "text": "Epinephrine reversal",
@@ -48,7 +49,8 @@ window.Test_L39 = [
       },
       {
         "text": "Atenolol",
-        "explanation": "Correct. Atenolol and Metoprolol are selective Beta-1 antagonists (A-M)."
+        "explanation": "Correct. Atenolol and Metoprolol are selective Beta-1 antagonists (A-M).",
+        "isCorrect": true
       },
       {
         "text": "Pindaolol",
@@ -70,7 +72,8 @@ window.Test_L39 = [
       },
       {
         "text": "Phenoxybenzamine",
-        "explanation": "Correct. Phenoxybenzamine forms a covalent bond (Irreversible) with alpha receptors, effectively managing the massive catecholamine surges from Pheochromocytoma."
+        "explanation": "Correct. Phenoxybenzamine forms a covalent bond (Irreversible) with alpha receptors, effectively managing the massive catecholamine surges from Pheochromocytoma.",
+        "isCorrect": true
       },
       {
         "text": "Prazosin",
@@ -100,7 +103,8 @@ window.Test_L39 = [
       },
       {
         "text": "Decreased (Depressor effect)",
-        "explanation": "Correct. Phentolamine blocks Alpha-1 (vasoconstriction). Epinephrine's Beta-2 effect (vasodilation) is now unopposed, causing BP to drop. This is 'Epinephrine Reversal'."
+        "explanation": "Correct. Phentolamine blocks Alpha-1 (vasoconstriction). Epinephrine's Beta-2 effect (vasodilation) is now unopposed, causing BP to drop. This is 'Epinephrine Reversal'.",
+        "isCorrect": true
       },
       {
         "text": "Unchanged",
@@ -131,6 +135,7 @@ window.Test_L39 = [
       {
         "text": "It is selective for Alpha-1A receptors",
         "explanation": "Correct. Alpha-1A receptors are concentrated in the prostate/bladder neck. Blocking them relieves obstruction with minimal effect on vascular Alpha-1B receptors (BP).",
+        "isCorrect": true
       },
       {
         "text": "It raises blood pressure",
@@ -160,7 +165,8 @@ window.Test_L39 = [
       },
       {
         "text": "Rebound Hypertension and Tachycardia",
-        "explanation": "Correct. Chronic blockade leads to receptor upregulation (supersensitivity). Abrupt withdrawal causes exaggerated response to endogenous catecholamines (Angina, MI, HTN)."
+        "explanation": "Correct. Chronic blockade leads to receptor upregulation (supersensitivity). Abrupt withdrawal causes exaggerated response to endogenous catecholamines (Angina, MI, HTN).",
+        "isCorrect": true
       },
       {
         "text": "Hypoglycemia",
@@ -198,7 +204,8 @@ window.Test_L39 = [
       },
       {
         "text": "Directly causing Vasodilation via Alpha-1 blockade",
-        "explanation": "Correct. Propranolol has NO alpha-blocking activity. Theoretically, it can cause mild initial vasoconstriction (unopposed alpha). Labetalol blocks alpha."
+        "explanation": "Correct. Propranolol has NO alpha-blocking activity. Theoretically, it can cause mild initial vasoconstriction (unopposed alpha). Labetalol blocks alpha.",
+        "isCorrect": true
       },
       {
         "text": "Decreasing Cardiac Output",
@@ -220,7 +227,8 @@ window.Test_L39 = [
       },
       {
         "text": "Tachycardia",
-        "explanation": "Correct. Tachycardia is a beta-1 mediated sympathetic response to hypoglycemia. Beta blockers blunt this warning sign."
+        "explanation": "Correct. Tachycardia is a beta-1 mediated sympathetic response to hypoglycemia. Beta blockers blunt this warning sign.",
+        "isCorrect": true
       },
       {
         "text": "Hunger",
@@ -249,7 +257,8 @@ window.Test_L39 = [
       },
       {
         "text": "Labetalol",
-        "explanation": "Correct. Labetalol (Mixed Alpha/Beta blocker) is safe and effective for HTN in pregnancy."
+        "explanation": "Correct. Labetalol (Mixed Alpha/Beta blocker) is safe and effective for HTN in pregnancy.",
+        "isCorrect": true
       },
       {
         "text": "Propranolol",
@@ -279,7 +288,8 @@ window.Test_L39 = [
       },
       {
         "text": "Reversal of dental anesthesia",
-        "explanation": "Correct. OraVerse (Phentolamine) reverses soft tissue anesthesia by vasodilating and clearing the anesthetic."
+        "explanation": "Correct. OraVerse (Phentolamine) reverses soft tissue anesthesia by vasodilating and clearing the anesthetic.",
+        "isCorrect": true
       },
       {
         "text": "Asthma",
@@ -309,7 +319,8 @@ window.Test_L39 = [
       },
       {
         "text": "NSAIDs (e.g., Ibuprofen)",
-        "explanation": "Correct. NSAIDs cause Sodium/Water retention (kidney prostaglandins inhibition), counteracting the BP lowering effect."
+        "explanation": "Correct. NSAIDs cause Sodium/Water retention (kidney prostaglandins inhibition), counteracting the BP lowering effect.",
+        "isCorrect": true
       },
       {
         "text": "ACE Inhibitors",
@@ -339,7 +350,8 @@ window.Test_L39 = [
       },
       {
         "text": "Alpha-2",
-        "explanation": "Correct. Yohimbine is a selective Alpha-2 blocker. Increases NE release (blocks negative feedback). Used as aphrodisiac/supplement."
+        "explanation": "Correct. Yohimbine is a selective Alpha-2 blocker. Increases NE release (blocks negative feedback). Used as aphrodisiac/supplement.",
+        "isCorrect": true
       },
       {
         "text": "Beta-1",
@@ -368,7 +380,8 @@ window.Test_L39 = [
       },
       {
         "text": "Non-selective Beta blockade + Alpha-1 blockade",
-        "explanation": "Correct. Carvedilol and Labetalol are 'Mixed' antagonists. They block Balta-1, Beta-2, and Alpha-1. Beneficial in HF (Carvedilol)."
+        "explanation": "Correct. Carvedilol and Labetalol are 'Mixed' antagonists. They block Balta-1, Beta-2, and Alpha-1. Beneficial in HF (Carvedilol).",
+        "isCorrect": true
       },
       {
         "text": "Selective Alpha-1 blockade only",
@@ -398,7 +411,8 @@ window.Test_L39 = [
       },
       {
         "text": "Severe Hypertension and Bradycardia",
-        "explanation": "Correct. Beta-blocker blocks B2 (vasodilation) and B1 (heart). Epi activates Alpha-1 (Vasoconstriction) UNOPPOSED. Result: Massive vasoconstriction (HTN). The high BP triggers baroreceptor reflex -> Bradycardia (vagal)."
+        "explanation": "Correct. Beta-blocker blocks B2 (vasodilation) and B1 (heart). Epi activates Alpha-1 (Vasoconstriction) UNOPPOSED. Result: Massive vasoconstriction (HTN). The high BP triggers baroreceptor reflex -> Bradycardia (vagal).",
+        "isCorrect": true
       },
       {
         "text": "Tachycardia",
@@ -431,7 +445,8 @@ window.Test_L39 = [
       },
       {
         "text": "Pindolol",
-        "explanation": "Correct. Pindolol (and Acebutolol) are Partial Agonists (ISA). They block strong endogenous catecholamines but provide low-level background stimulation (less bradycardia)."
+        "explanation": "Correct. Pindolol (and Acebutolol) are Partial Agonists (ISA). They block strong endogenous catecholamines but provide low-level background stimulation (less bradycardia).",
+        "isCorrect": true
       },
       {
         "text": "Metoprolol",
@@ -456,7 +471,8 @@ window.Test_L39 = [
       },
       {
         "text": "Heart Failure",
-        "explanation": "Correct. Doxazosin arm was terminated early due to higher incidence of HF. Alpha blockers are NOT first-line for HTN monotherapy."
+        "explanation": "Correct. Doxazosin arm was terminated early due to higher incidence of HF. Alpha blockers are NOT first-line for HTN monotherapy.",
+        "isCorrect": true
       },
       {
         "text": "Renal Failure",
@@ -486,7 +502,8 @@ window.Test_L39 = [
       },
       {
         "text": "CYP2D6",
-        "explanation": "Correct. Poor metabolizers of 2D6 have higher levels/longer duration."
+        "explanation": "Correct. Poor metabolizers of 2D6 have higher levels/longer duration.",
+        "isCorrect": true
       },
       {
         "text": "CYP1A2",
@@ -516,7 +533,8 @@ window.Test_L39 = [
       },
       {
         "text": "Decreasing aqueous humor production",
-        "explanation": "Correct. Blockade of Beta receptors on Ciliary Epithelium reduces secretion of aqueous humor."
+        "explanation": "Correct. Blockade of Beta receptors on Ciliary Epithelium reduces secretion of aqueous humor.",
+        "isCorrect": true
       },
       {
         "text": "Constricting the pupil (Miosis)",
@@ -542,7 +560,8 @@ window.Test_L39 = [
     "options": [
       {
         "text": "Blockade of Alpha-2 autoreceptors",
-        "explanation": "Correct. Phentolamine lowers BP (Reflex Tach) AND blocks presynaptic Alpha-2 (stops negative feedback -> More NE release). Prazosin (Selective A1) causes less tachycardia because Alpha-2 is intact to limit NE."
+        "explanation": "Correct. Phentolamine lowers BP (Reflex Tach) AND blocks presynaptic Alpha-2 (stops negative feedback -> More NE release). Prazosin (Selective A1) causes less tachycardia because Alpha-2 is intact to limit NE.",
+        "isCorrect": true
       },
       {
         "text": "Blockade of Beta-1 receptors",
@@ -576,7 +595,8 @@ window.Test_L39 = [
       },
       {
         "text": "Esmolol",
-        "explanation": "Correct. Esmolol is degraded by RBC esterases. T 1/2 ~ 9 mins. Good for intraoperative/acute settings."
+        "explanation": "Correct. Esmolol is degraded by RBC esterases. T 1/2 ~ 9 mins. Good for intraoperative/acute settings.",
+        "isCorrect": true
       },
       {
         "text": "Propranolol",
@@ -606,7 +626,8 @@ window.Test_L39 = [
       },
       {
         "text": "Non-competitive, Irreversible (Allosteric)",
-        "explanation": "Correct. It alkylates the receptor (Covalent bond). Duration depends on receptor resynthesis."
+        "explanation": "Correct. It alkylates the receptor (Covalent bond). Duration depends on receptor resynthesis.",
+        "isCorrect": true
       },
       {
         "text": "Partial Agonist",
@@ -635,7 +656,8 @@ window.Test_L39 = [
       },
       {
         "text": "Decreased myocardial oxygen demand",
-        "explanation": "Correct. By lowering HR and Contractility, the heart does less work and needs less O2."
+        "explanation": "Correct. By lowering HR and Contractility, the heart does less work and needs less O2.",
+        "isCorrect": true
       },
       {
         "text": "Increased preload",
@@ -661,7 +683,8 @@ window.Test_L39 = [
     "options": [
       {
         "text": "Vivid dreams / Nightmares",
-        "explanation": "Correct. Lipid soluble beta blockers (Propranolol) cross BBB causing sedation, depression, and vivid dreams."
+        "explanation": "Correct. Lipid soluble beta blockers (Propranolol) cross BBB causing sedation, depression, and vivid dreams.",
+        "isCorrect": true
       },
       {
         "text": "Cough",
@@ -695,7 +718,8 @@ window.Test_L39 = [
       },
       {
         "text": "Increased free drug and hypotension",
-        "explanation": "Correct. Higher free fraction = more effect = hypotension."
+        "explanation": "Correct. Higher free fraction = more effect = hypotension.",
+        "isCorrect": true
       },
       {
         "text": "Hypertension",
@@ -720,7 +744,8 @@ window.Test_L39 = [
     "options": [
       {
         "text": "Phentolamine",
-        "explanation": "Correct. This is the 'Cheese Reaction'. Tyramine displaces NE. Phentolamine (Non-selective Alpha Blocker) blocks the NE-induced vasoconstriction."
+        "explanation": "Correct. This is the 'Cheese Reaction'. Tyramine displaces NE. Phentolamine (Non-selective Alpha Blocker) blocks the NE-induced vasoconstriction.",
+        "isCorrect": true
       },
       {
         "text": "Propranolol",
@@ -753,7 +778,8 @@ window.Test_L39 = [
       },
       {
         "text": "Relaxing smooth muscle of the prostatic capsule and bladder neck",
-        "explanation": "Correct. Dynamic component of obstruction."
+        "explanation": "Correct. Dynamic component of obstruction.",
+        "isCorrect": true
       },
       {
         "text": "Increasing detrusor contractility",
@@ -782,7 +808,8 @@ window.Test_L39 = [
       },
       {
         "text": "Nebivolol",
-        "explanation": "Correct. Nebivolol (Bystolic) is B1 selective AND increases NO."
+        "explanation": "Correct. Nebivolol (Bystolic) is B1 selective AND increases NO.",
+        "isCorrect": true
       },
       {
         "text": "Propranolol",
@@ -808,7 +835,8 @@ window.Test_L39 = [
     "options": [
       {
         "text": "Phenylephrine has no Beta-2 activity",
-        "explanation": "Correct. Phenylephrine is pure Alpha-1 agonist. Blocking Alpha-1 brings BP back to baseline. There is no Beta-2 stimulus to cause vasodilation/drop."
+        "explanation": "Correct. Phenylephrine is pure Alpha-1 agonist. Blocking Alpha-1 brings BP back to baseline. There is no Beta-2 stimulus to cause vasodilation/drop.",
+        "isCorrect": true
       },
       {
         "text": "Phenylephrine is an Alpha-2 agonist",
@@ -841,7 +869,8 @@ window.Test_L39 = [
       },
       {
         "text": "Block the sympathetic symptoms (tachycardia) and conversion of T4 to T3",
-        "explanation": "Correct. Propranolol blocks peripheral conversion of T4 to T3 and controls HR."
+        "explanation": "Correct. Propranolol blocks peripheral conversion of T4 to T3 and controls HR.",
+        "isCorrect": true
       },
       {
         "text": "Increase TSH",
@@ -870,7 +899,8 @@ window.Test_L39 = [
       },
       {
         "text": "Subcutaneously/Intradermally into the blanched area",
-        "explanation": "Correct. Infiltrate the area where the Norepinephrine leaked to vasodilate and save tissue."
+        "explanation": "Correct. Infiltrate the area where the Norepinephrine leaked to vasodilate and save tissue.",
+        "isCorrect": true
       },
       {
         "text": "Orally",
@@ -896,7 +926,8 @@ window.Test_L39 = [
     "options": [
       {
         "text": "Sotalol",
-        "explanation": "Correct. Sotalol blocks B1, B2, and K+ channels (QT prolongation)."
+        "explanation": "Correct. Sotalol blocks B1, B2, and K+ channels (QT prolongation).",
+        "isCorrect": true
       },
       {
         "text": "Atenolol",
@@ -929,7 +960,8 @@ window.Test_L39 = [
       },
       {
         "text": "They acutely reduce contractility and can worsen pulmonary edema",
-        "explanation": "Correct. While good for STABLE chronic HF, in acute decompensation, the heart relies on sympathetic drive. Blocking it causes collapse."
+        "explanation": "Correct. While good for STABLE chronic HF, in acute decompensation, the heart relies on sympathetic drive. Blocking it causes collapse.",
+        "isCorrect": true
       },
       {
         "text": "They cause tachycardia",
@@ -959,7 +991,8 @@ window.Test_L39 = [
       },
       {
         "text": "Alpha Blockers (e.g., Tamsulosin)",
-        "explanation": "Correct. Relaxation of the internal urethral sphincter allows semen to go into bladder."
+        "explanation": "Correct. Relaxation of the internal urethral sphincter allows semen to go into bladder.",
+        "isCorrect": true
       },
       {
         "text": "Muscarinic Agonists",
@@ -988,7 +1021,8 @@ window.Test_L39 = [
       },
       {
         "text": "Resting Bradycardia",
-        "explanation": "Correct. Because it slightly stimulates the receptor (partial agonist), the HR doesn't drop as much as with pure blockers."
+        "explanation": "Correct. Because it slightly stimulates the receptor (partial agonist), the HR doesn't drop as much as with pure blockers.",
+        "isCorrect": true
       },
       {
         "text": "Hypertension",
@@ -1017,7 +1051,8 @@ window.Test_L39 = [
       },
       {
         "text": "Decreased Renin secretion",
-        "explanation": "Correct. Juxtaglomerular cells release Renin via Beta-1 stimulation. Blockade reduces RAAS activity."
+        "explanation": "Correct. Juxtaglomerular cells release Renin via Beta-1 stimulation. Blockade reduces RAAS activity.",
+        "isCorrect": true
       },
       {
         "text": "Increased GFR directly",

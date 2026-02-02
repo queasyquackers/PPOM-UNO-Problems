@@ -10,7 +10,8 @@ window.Test_L42 = [
       },
       {
         "text": "Krabbe Disease",
-        "explanation": "Correct. Globoid cells + Galactocerebrosidase deficiency."
+        "explanation": "Correct. Globoid cells + Galactocerebrosidase deficiency.",
+        "isCorrect": true
       },
       {
         "text": "Adrenoleukodystrophy",
@@ -40,7 +41,8 @@ window.Test_L42 = [
       },
       {
         "text": "Oligoclonal IgG bands",
-        "explanation": "Correct. Indicates intrathecal antibody production, hallmark of MS."
+        "explanation": "Correct. Indicates intrathecal antibody production, hallmark of MS.",
+        "isCorrect": true
       },
       {
         "text": "Neutrophilic pleocytosis",
@@ -70,7 +72,8 @@ window.Test_L42 = [
       },
       {
         "text": "JC Polyomavirus",
-        "explanation": "Correct. Infects oligodendrocytes (ground glass nuclei)."
+        "explanation": "Correct. Infects oligodendrocytes (ground glass nuclei).",
+        "isCorrect": true
       },
       {
         "text": "Measles Virus",
@@ -100,7 +103,8 @@ window.Test_L42 = [
       },
       {
         "text": "Th1 and Th17 T-Cells",
-        "explanation": "Correct. Autoimmune attack against myelin antigens."
+        "explanation": "Correct. Autoimmune attack against myelin antigens.",
+        "isCorrect": true
       },
       {
         "text": "Mast Cells and Basophils",
@@ -130,7 +134,8 @@ window.Test_L42 = [
       },
       {
         "text": "Rapid correction of Hyponatremia",
-        "explanation": "Correct. 'From Low to High, your Pons will die'."
+        "explanation": "Correct. 'From Low to High, your Pons will die'.",
+        "isCorrect": true
       },
       {
         "text": "Vitamin B12 Deficiency",
@@ -160,7 +165,8 @@ window.Test_L42 = [
       },
       {
         "text": "Very Long Chain Fatty Acids (VLCFA)",
-        "explanation": "Correct. Defect in ABCD1 transporter prevents peroxisomal entry/breakdown."
+        "explanation": "Correct. Defect in ABCD1 transporter prevents peroxisomal entry/breakdown.",
+        "isCorrect": true
       },
       {
         "text": "Sphingomyelin",
@@ -190,7 +196,8 @@ window.Test_L42 = [
       },
       {
         "text": "Segmental demyelination of peripheral nerves/roots",
-        "explanation": "Correct. Guillain-Barre Syndrome (AIDP)."
+        "explanation": "Correct. Guillain-Barre Syndrome (AIDP).",
+        "isCorrect": true
       },
       {
         "text": "Necrosis of the excessive muscle fibers",
@@ -220,7 +227,8 @@ window.Test_L42 = [
       },
       {
         "text": "Worsening of symptoms with heat/increased body temperature",
-        "explanation": "Correct. Heat slows conduction further in demyelinated fibers."
+        "explanation": "Correct. Heat slows conduction further in demyelinated fibers.",
+        "isCorrect": true
       },
       {
         "text": "Visual loss with eye movement paint",
@@ -250,7 +258,8 @@ window.Test_L42 = [
       },
       {
         "text": "Arylsulfatase A",
-        "explanation": "Correct. Leads to accumulation of sulfatides."
+        "explanation": "Correct. Leads to accumulation of sulfatides.",
+        "isCorrect": true
       },
       {
         "text": "Hexosaminidase A",
@@ -280,7 +289,8 @@ window.Test_L42 = [
       },
       {
         "text": "Aquaporin-4",
-        "explanation": "Correct. Water channel on astrocyte foot processes."
+        "explanation": "Correct. Water channel on astrocyte foot processes.",
+        "isCorrect": true
       },
       {
         "text": "Acetylcholine Receptor",
@@ -310,7 +320,8 @@ window.Test_L42 = [
       },
       {
         "text": "Abundant lipid-laden macrophages and myelin breakdown",
-        "explanation": "Correct. Macrophages cleaning up myelin debris."
+        "explanation": "Correct. Macrophages cleaning up myelin debris.",
+        "isCorrect": true
       },
       {
         "text": "Neutrophilic abscess formation",
@@ -340,7 +351,8 @@ window.Test_L42 = [
       },
       {
         "text": "After a viral infection or vaccination in children",
-        "explanation": "Correct. Monophasic, multifocal, rapid onset."
+        "explanation": "Correct. Monophasic, multifocal, rapid onset.",
+        "isCorrect": true
       },
       {
         "text": "As a purely peripheral neuropathy",
@@ -370,7 +382,8 @@ window.Test_L42 = [
       },
       {
         "text": "Electric shock sensation down the spine with neck flexion",
-        "explanation": "Correct. Indicates cervical cord demyelination."
+        "explanation": "Correct. Indicates cervical cord demyelination.",
+        "isCorrect": true
       },
       {
         "text": "Vertigo with head turning",
@@ -400,7 +413,8 @@ window.Test_L42 = [
       },
       {
         "text": "Astrocytic Gliosis",
-        "explanation": "Correct. Reactive astrocytes form a glial scar."
+        "explanation": "Correct. Reactive astrocytes form a glial scar.",
+        "isCorrect": true
       },
       {
         "text": "Fibrosis (Collagen)",
@@ -430,7 +444,8 @@ window.Test_L42 = [
       },
       {
         "text": "High Protein, Normal Cell count",
-        "explanation": "Correct. The classic finding."
+        "explanation": "Correct. The classic finding.",
+        "isCorrect": true
       },
       {
         "text": "Low Glucose, High Protein",
@@ -460,7 +475,8 @@ window.Test_L42 = [
       },
       {
         "text": "Oligodendrocyte nuclei",
-        "explanation": "Correct. Enlarged, glassy, amphophilic nuclei."
+        "explanation": "Correct. Enlarged, glassy, amphophilic nuclei.",
+        "isCorrect": true
       },
       {
         "text": "Endothelial cells",
@@ -490,7 +506,8 @@ window.Test_L42 = [
       },
       {
         "text": "MRI",
-        "explanation": "Correct. Shows active and inactive lesions."
+        "explanation": "Correct. Shows active and inactive lesions.",
+        "isCorrect": true
       },
       {
         "text": "X-ray",
@@ -520,7 +537,8 @@ window.Test_L42 = [
       },
       {
         "text": "Change color (e.g., Blue to Red)",
-        "explanation": "Correct. This is metachromasia."
+        "explanation": "Correct. This is metachromasia.",
+        "isCorrect": true
       },
       {
         "text": "Fluoresce",
@@ -550,7 +568,8 @@ window.Test_L42 = [
       },
       {
         "text": "Preserved relative to myelin",
-        "explanation": "Correct. Though axonal loss occurs late/severe, relative preservation distinguishes it from infarcts."
+        "explanation": "Correct. Though axonal loss occurs late/severe, relative preservation distinguishes it from infarcts.",
+        "isCorrect": true
       },
       {
         "text": "Hypertrophied",
@@ -580,7 +599,8 @@ window.Test_L42 = [
       },
       {
         "text": "Adrenal Cortex",
-        "explanation": "Correct. Leading to adrenal insufficiency (Addisonian symptoms)."
+        "explanation": "Correct. Leading to adrenal insufficiency (Addisonian symptoms).",
+        "isCorrect": true
       },
       {
         "text": "Pituitary",
@@ -610,7 +630,8 @@ window.Test_L42 = [
       },
       {
         "text": "Relapsing-Remitting",
-        "explanation": "Correct. Discrete attacks with full or partial recovery."
+        "explanation": "Correct. Discrete attacks with full or partial recovery.",
+        "isCorrect": true
       },
       {
         "text": "Secondary Progressive",
@@ -636,7 +657,8 @@ window.Test_L42 = [
     "options": [
       {
         "text": "Malignant tumor cells (Glioblastoma)",
-        "explanation": "Correct. They look very atypical but are reactive."
+        "explanation": "Correct. They look very atypical but are reactive.",
+        "isCorrect": true
       },
       {
         "text": "Neurons",
@@ -670,7 +692,8 @@ window.Test_L42 = [
       },
       {
         "text": "Schwann Cells / Peripheral Myelin",
-        "explanation": "Correct. Or the axon itself in variants."
+        "explanation": "Correct. Or the axon itself in variants.",
+        "isCorrect": true
       },
       {
         "text": "Astrocytes",
@@ -696,7 +719,8 @@ window.Test_L42 = [
     "options": [
       {
         "text": "Dawson's Fingers",
-        "explanation": "Correct. Follow the path of periventricular veins."
+        "explanation": "Correct. Follow the path of periventricular veins.",
+        "isCorrect": true
       },
       {
         "text": "Rosenthal Fibers",
@@ -730,7 +754,8 @@ window.Test_L42 = [
       },
       {
         "text": "ADEM",
-        "explanation": "Correct. Very aggressive, high mortality."
+        "explanation": "Correct. Very aggressive, high mortality.",
+        "isCorrect": true
       },
       {
         "text": "PML",
@@ -760,7 +785,8 @@ window.Test_L42 = [
       },
       {
         "text": "Krabbe Disease",
-        "explanation": "Correct. Galactosylsphingosine (psychosine) accumulates."
+        "explanation": "Correct. Galactosylsphingosine (psychosine) accumulates.",
+        "isCorrect": true
       },
       {
         "text": "Metachromatic Leukodystrophy",
@@ -790,7 +816,8 @@ window.Test_L42 = [
       },
       {
         "text": "Myelin",
-        "explanation": "Correct. Normal myelin is blue; demyelinated areas are white/pale."
+        "explanation": "Correct. Normal myelin is blue; demyelinated areas are white/pale.",
+        "isCorrect": true
       },
       {
         "text": "Iron",
@@ -820,7 +847,8 @@ window.Test_L42 = [
       },
       {
         "text": "Multiple Sclerosis",
-        "explanation": "Correct. Different neurological deficits occurring at different times."
+        "explanation": "Correct. Different neurological deficits occurring at different times.",
+        "isCorrect": true
       },
       {
         "text": "GBS",
@@ -850,7 +878,8 @@ window.Test_L42 = [
       },
       {
         "text": "Medial Longitudinal Fasciculus (MLF)",
-        "explanation": "Correct. Disconnects CN VI and CN III nuclei. Eye cannot adduct (look in)."
+        "explanation": "Correct. Disconnects CN VI and CN III nuclei. Eye cannot adduct (look in).",
+        "isCorrect": true
       },
       {
         "text": "Lateral Geniculate Nucleus",
@@ -880,7 +909,8 @@ window.Test_L42 = [
       },
       {
         "text": "Jumping of action potentials between Nodes of Ranvier",
-        "explanation": "Correct. Myelin speeds this up."
+        "explanation": "Correct. Myelin speeds this up.",
+        "isCorrect": true
       },
       {
         "text": "Synaptic transmission",
@@ -910,7 +940,8 @@ window.Test_L42 = [
       },
       {
         "text": "Elevated",
-        "explanation": "Correct. Reflects intrathecal synthesis of IgG."
+        "explanation": "Correct. Reflects intrathecal synthesis of IgG.",
+        "isCorrect": true
       },
       {
         "text": "Normal",
@@ -940,7 +971,8 @@ window.Test_L42 = [
       },
       {
         "text": "Lipid-laden macrophages",
-        "explanation": "Correct. Stains neutral fats red."
+        "explanation": "Correct. Stains neutral fats red.",
+        "isCorrect": true
       },
       {
         "text": "Iron deposits",
@@ -970,7 +1002,8 @@ window.Test_L42 = [
       },
       {
         "text": "Immunosuppression (e.g., AIDS, Transplant)",
-        "explanation": "Correct. Allows reactivation of dormant JC virus."
+        "explanation": "Correct. Allows reactivation of dormant JC virus.",
+        "isCorrect": true
       },
       {
         "text": "Smoking",
@@ -1000,7 +1033,8 @@ window.Test_L42 = [
       },
       {
         "text": "HLA-DR2 (DRB1*1501)",
-        "explanation": "Correct. MHC Class II association."
+        "explanation": "Correct. MHC Class II association.",
+        "isCorrect": true
       },
       {
         "text": "HLA-DQ2",
@@ -1030,7 +1064,8 @@ window.Test_L42 = [
       },
       {
         "text": "Central Pontine Myelinolysis",
-        "explanation": "Correct. Demyelination of the basis pontis disrupts motor tracts but spares reticular formation (consciousness)."
+        "explanation": "Correct. Demyelination of the basis pontis disrupts motor tracts but spares reticular formation (consciousness).",
+        "isCorrect": true
       },
       {
         "text": "GBS",

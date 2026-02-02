@@ -6,7 +6,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Left Anterior Innominate Rotation",
-        "explanation": "Correct. In an anterior rotation, the ASIS moves inferiorly (Low), the PSIS moves superiorly (High), and the acetabulum moves inferiorly, creating a functional long leg (Inferior Malleolus)."
+        "explanation": "Correct. In an anterior rotation, the ASIS moves inferiorly (Low), the PSIS moves superiorly (High), and the acetabulum moves inferiorly, creating a functional long leg (Inferior Malleolus).",
+        "isCorrect": true
       },
       {
         "text": "Left Posterior Innominate Rotation",
@@ -40,7 +41,8 @@ window.Test_L1b = [
       },
       {
         "text": "Standing Flexion Test",
-        "explanation": "Correct. The Standing Flexion Test (SFT) is the primary test to lateralize iliosacral dysfunction."
+        "explanation": "Correct. The Standing Flexion Test (SFT) is the primary test to lateralize iliosacral dysfunction.",
+        "isCorrect": true
       },
       {
         "text": "Seated Flexion Test",
@@ -70,7 +72,8 @@ window.Test_L1b = [
       },
       {
         "text": "Right Posterior Innominate Rotation",
-        "explanation": "Correct. Posterior rotation moves the ASIS Superiorly and PSIS Inferiorly. It retracts the leg, causing a functional short leg."
+        "explanation": "Correct. Posterior rotation moves the ASIS Superiorly and PSIS Inferiorly. It retracts the leg, causing a functional short leg.",
+        "isCorrect": true
       },
       {
         "text": "Left Anterior Innominate Rotation",
@@ -100,7 +103,8 @@ window.Test_L1b = [
       },
       {
         "text": "Superior",
-        "explanation": "Correct. In a Superior Shear, the entire innominate shifts up. All landmarks (ASIS, PSIS, Pubis, Ischial Tuberosity) are superior."
+        "explanation": "Correct. In a Superior Shear, the entire innominate shifts up. All landmarks (ASIS, PSIS, Pubis, Ischial Tuberosity) are superior.",
+        "isCorrect": true
       },
       {
         "text": "Level",
@@ -134,7 +138,8 @@ window.Test_L1b = [
       },
       {
         "text": "Left Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Trauma mechanism (jamming leg) + All landmarks Superior = Upslip."
+        "explanation": "Correct. Trauma mechanism (jamming leg) + All landmarks Superior = Upslip.",
+        "isCorrect": true
       },
       {
         "text": "Left Inferior Shear",
@@ -160,7 +165,8 @@ window.Test_L1b = [
       },
       {
         "text": "Inferior",
-        "explanation": "Correct. Anterior rotation lowers the acetabulum, making the leg appear longer (malleolus is inferior)."
+        "explanation": "Correct. Anterior rotation lowers the acetabulum, making the leg appear longer (malleolus is inferior).",
+        "isCorrect": true
       },
       {
         "text": "Level",
@@ -190,7 +196,8 @@ window.Test_L1b = [
       },
       {
         "text": "Right Inflare",
-        "explanation": "Correct. The distance on the dysfunctional side (Right) is shorter (12cm) than the non-dysfunctional side (15cm), indicating the ASIS has moved medially (Inflare)."
+        "explanation": "Correct. The distance on the dysfunctional side (Right) is shorter (12cm) than the non-dysfunctional side (15cm), indicating the ASIS has moved medially (Inflare).",
+        "isCorrect": true
       },
       {
         "text": "Left Outflare",
@@ -217,7 +224,8 @@ window.Test_L1b = [
       {
         "text": "Full Inhalation",
         "explanation": "Correct. Inhalation is associated with extension/superior motion of spinal curves and can assist in drawing structures superiorly? (Actually, usually patient coughs or inhales to pull up). Let's verify standard ME. Usually inhalation extends the spine.",
-        "verified": "Standard ME uses respiratory cooperation. Inhalation tends to extend the spine/sacrum. For downslip, we want to pull UP. Inhalation usually helps."
+        "verified": "Standard ME uses respiratory cooperation. Inhalation tends to extend the spine/sacrum. For downslip, we want to pull UP. Inhalation usually helps.",
+        "isCorrect": true
       },
       {
         "text": "Full Exhalation",
@@ -247,7 +255,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Left Superior Pubic Shear",
-        "explanation": "Correct. SFT Left + Tubercle High Left + No other dysfunction = Superior Pubic Shear."
+        "explanation": "Correct. SFT Left + Tubercle High Left + No other dysfunction = Superior Pubic Shear.",
+        "isCorrect": true
       },
       {
         "text": "Left Inferior Pubic Shear",
@@ -281,7 +290,8 @@ window.Test_L1b = [
       },
       {
         "text": "Sacroiliac dysfunction",
-        "explanation": "Correct. It tests the stiffness/resiliency of the SI joint directly."
+        "explanation": "Correct. It tests the stiffness/resiliency of the SI joint directly.",
+        "isCorrect": true
       },
       {
         "text": "Pubic shear",
@@ -312,7 +322,8 @@ window.Test_L1b = [
       {
         "text": "Right PSIS is closer to the midline (sacral spines).",
         "explanation": "Correct. In an Outflare, the innominate rotates externally. The ASIS moves Lateral (away from umbilicus) and the PSIS moves Medial (closer to sacral spines).",
-        "verified": "Outflare: ASIS Lateral, PSIS Medial."
+        "verified": "Outflare: ASIS Lateral, PSIS Medial.",
+        "isCorrect": true
       },
       {
         "text": "Right ASIS is lower.",
@@ -342,7 +353,8 @@ window.Test_L1b = [
       },
       {
         "text": "Sartorius",
-        "explanation": "Correct. The Sartorius originates at the ASIS."
+        "explanation": "Correct. The Sartorius originates at the ASIS.",
+        "isCorrect": true
       },
       {
         "text": "Gracilis",
@@ -372,7 +384,8 @@ window.Test_L1b = [
       },
       {
         "text": "Right Inferior Innominate Shear (Downslip)",
-        "explanation": "Correct. Traction injury (dragging leg) + All landmarks low = Downslip."
+        "explanation": "Correct. Traction injury (dragging leg) + All landmarks low = Downslip.",
+        "isCorrect": true
       },
       {
         "text": "Right Superior Shear",
@@ -402,7 +415,8 @@ window.Test_L1b = [
       },
       {
         "text": "Tenderness with no asymmetry",
-        "explanation": "Correct. Compressed/Adducted pubes are tender but level (no shear). Motion testing shows resistance to distraction."
+        "explanation": "Correct. Compressed/Adducted pubes are tender but level (no shear). Motion testing shows resistance to distraction.",
+        "isCorrect": true
       },
       {
         "text": "Widened sulcus",
@@ -432,7 +446,8 @@ window.Test_L1b = [
       },
       {
         "text": "Left leg is shorter",
-        "explanation": "Correct. Posterior rotation pulls the leg up -> Short Leg."
+        "explanation": "Correct. Posterior rotation pulls the leg up -> Short Leg.",
+        "isCorrect": true
       },
       {
         "text": "Legs are equal",
@@ -463,7 +478,8 @@ window.Test_L1b = [
       {
         "text": "Adduction",
         "explanation": "Correct. To correct an Outflare (ASIS is too lateral), you want to bring the innominate medially. Adducting the hip pulls the ASIS medially?",
-        "verified": "Actually, ME for Outflare involves flexing hip/knee and internal rotating/adducting? No, wait. Outflare means ASIS is lateral. We want to pull it medial. We use the adductors? Or do we act on the PSIS? Standard technique: Flex hip 90, adduct to barrier. Patient abducts against resistance? No, patient adducts? Wait. Let's think mechanics. Patient has Outflare. We want to INFLARE it. We want to bring ASIS medial. We bring leg across body (Adduction) to barrier. Patient tries to Abduct (push out). Reciprocal inhibition allows further adduction. Yes. Adduction is the motion of the barrier."
+        "verified": "Actually, ME for Outflare involves flexing hip/knee and internal rotating/adducting? No, wait. Outflare means ASIS is lateral. We want to pull it medial. We use the adductors? Or do we act on the PSIS? Standard technique: Flex hip 90, adduct to barrier. Patient abducts against resistance? No, patient adducts? Wait. Let's think mechanics. Patient has Outflare. We want to INFLARE it. We want to bring ASIS medial. We bring leg across body (Adduction) to barrier. Patient tries to Abduct (push out). Reciprocal inhibition allows further adduction. Yes. Adduction is the motion of the barrier.",
+        "isCorrect": true
       },
       {
         "text": "Extension",
@@ -497,7 +513,8 @@ window.Test_L1b = [
       },
       {
         "text": "Pubic Shear",
-        "explanation": "Correct. The pubic symphysis is the anterior tie rod. If it is sheared, the rest of the ring cannot function. Treat Pubic Shear -> Then Sacrum/Innominate Shears -> Then Rotations."
+        "explanation": "Correct. The pubic symphysis is the anterior tie rod. If it is sheared, the rest of the ring cannot function. Treat Pubic Shear -> Then Sacrum/Innominate Shears -> Then Rotations.",
+        "isCorrect": true
       },
       {
         "text": "Do not treat",
@@ -519,7 +536,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Rectus Femoris",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Sartorius",
@@ -549,7 +567,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Inflare (Internal Rotation)",
-        "explanation": "Correct. Named for its freedom (Outflare). Restricted in its opposite (Inflare)."
+        "explanation": "Correct. Named for its freedom (Outflare). Restricted in its opposite (Inflare).",
+        "isCorrect": true
       },
       {
         "text": "Outflare (External Rotation)",
@@ -583,7 +602,8 @@ window.Test_L1b = [
       },
       {
         "text": "Left ASIS is Medial to Umbilicus",
-        "explanation": "Correct. Inflare = Medial ASIS."
+        "explanation": "Correct. Inflare = Medial ASIS.",
+        "isCorrect": true
       },
       {
         "text": "Left PSIS is Medial to Spines",
@@ -609,7 +629,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "The PSIS is High",
-        "explanation": "Correct. In a Downslip (Inferior Shear), the PSIS would be LOW. In an Anterior Rotation, the PSIS is HIGH. This key difference distinguishes the two."
+        "explanation": "Correct. In a Downslip (Inferior Shear), the PSIS would be LOW. In an Anterior Rotation, the PSIS is HIGH. This key difference distinguishes the two.",
+        "isCorrect": true
       },
       {
         "text": "The ASIS is Low",
@@ -639,7 +660,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Walking (Ambulation)",
-        "explanation": "Correct. As one leg swings (flexes), that innominate rotates posteriorly. The stance leg (extending) innominate rotates anteriorly."
+        "explanation": "Correct. As one leg swings (flexes), that innominate rotates posteriorly. The stance leg (extending) innominate rotates anteriorly.",
+        "isCorrect": true
       },
       {
         "text": "Breathing",
@@ -673,7 +695,8 @@ window.Test_L1b = [
       },
       {
         "text": "Superior",
-        "explanation": "Correct. Named for the position of the tubercle."
+        "explanation": "Correct. Named for the position of the tubercle.",
+        "isCorrect": true
       },
       {
         "text": "Anterior",
@@ -703,7 +726,8 @@ window.Test_L1b = [
       },
       {
         "text": "Pubic Gapping (Diastasis)",
-        "explanation": "Correct. Also called distracted pubes."
+        "explanation": "Correct. Also called distracted pubes.",
+        "isCorrect": true
       },
       {
         "text": "Pubic Shear",
@@ -733,7 +757,8 @@ window.Test_L1b = [
       },
       {
         "text": "Left Hip Flexors (Ilipsoas/Rectus Femoris)",
-        "explanation": "Correct. Diagnosis is Left Posterior Innominate. Treatment involves engaging hip flexors (via hip extension) to pull it anteriorly."
+        "explanation": "Correct. Diagnosis is Left Posterior Innominate. Treatment involves engaging hip flexors (via hip extension) to pull it anteriorly.",
+        "isCorrect": true
       },
       {
         "text": "Left Adductors",
@@ -763,7 +788,8 @@ window.Test_L1b = [
       },
       {
         "text": "Ischial Spine",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Iliac Crest",
@@ -789,7 +815,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "It should be shorter on the Right.",
-        "explanation": "Correct. Inflare = Medial ASIS = Shorter distance."
+        "explanation": "Correct. Inflare = Medial ASIS = Shorter distance.",
+        "isCorrect": true
       },
       {
         "text": "It should be longer on the Right.",
@@ -823,7 +850,8 @@ window.Test_L1b = [
       },
       {
         "text": "Positive Standing Flexion Test",
-        "explanation": "Correct. A positive SFT implies somatic dysfunction (innominate rotation) is causing the discrepancy. If SFT is negative but leg lengths differ, implies anatomical."
+        "explanation": "Correct. A positive SFT implies somatic dysfunction (innominate rotation) is causing the discrepancy. If SFT is negative but leg lengths differ, implies anatomical.",
+        "isCorrect": true
       },
       {
         "text": "Pain level",
@@ -853,7 +881,8 @@ window.Test_L1b = [
       },
       {
         "text": "Left SI dysfunction",
-        "explanation": "Correct. Lateralizes to the side of resistance."
+        "explanation": "Correct. Lateralizes to the side of resistance.",
+        "isCorrect": true
       },
       {
         "text": "Pubic shear",
@@ -883,7 +912,8 @@ window.Test_L1b = [
       },
       {
         "text": "ASIS and Pubic Tubercle",
-        "explanation": "Correct. Its tension is affected by innominate rotations."
+        "explanation": "Correct. Its tension is affected by innominate rotations.",
+        "isCorrect": true
       },
       {
         "text": "Iliac Crest and Greater Trochanter",
@@ -909,7 +939,8 @@ window.Test_L1b = [
     "options": [
       {
         "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Classic pattern."
+        "explanation": "Correct. Classic pattern.",
+        "isCorrect": true
       },
       {
         "text": "Right Posterior Innominate Rotation",
@@ -947,7 +978,8 @@ window.Test_L1b = [
       },
       {
         "text": "Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Need to pull it down."
+        "explanation": "Correct. Need to pull it down.",
+        "isCorrect": true
       },
       {
         "text": "Inferior Innominate Shear (Downslip)",
@@ -973,7 +1005,8 @@ window.Test_L1b = [
       },
       {
         "text": "Lower",
-        "explanation": "Correct. Posterior rotation moves the posterior aspect (PSIS) inferiorly."
+        "explanation": "Correct. Posterior rotation moves the posterior aspect (PSIS) inferiorly.",
+        "isCorrect": true
       },
       {
         "text": "Level",
@@ -1003,7 +1036,8 @@ window.Test_L1b = [
       },
       {
         "text": "Landing hard on one leg (vertical force)",
-        "explanation": "Correct. Pushes the innominate up."
+        "explanation": "Correct. Pushes the innominate up.",
+        "isCorrect": true
       },
       {
         "text": "Twisting",
@@ -1038,7 +1072,8 @@ window.Test_L1b = [
       {
         "text": "Right Superior Innominate Shear (Upslip)",
         "explanation": "Correct. Case Study from lecture: Trauma + All landmarks High = Superior Shear.",
-        "verified": "This matches the case study at the end of the lecture."
+        "verified": "This matches the case study at the end of the lecture.",
+        "isCorrect": true
       },
       {
         "text": "Right Inferior Shear",

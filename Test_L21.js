@@ -11,7 +11,8 @@ window.Test_L21 = [
       },
       {
         "text": "Scopolamine",
-        "explanation": "Correct. Scopolamine (Transderm Scop) is the drug of choice for motion sickness prevention. It crosses the BBB to block M receptors in the vestibular nuclei."
+        "explanation": "Correct. Scopolamine (Transderm Scop) is the drug of choice for motion sickness prevention. It crosses the BBB to block M receptors in the vestibular nuclei.",
+        "isCorrect": true
       },
       {
         "text": "Glycopyrrolate",
@@ -41,7 +42,8 @@ window.Test_L21 = [
       },
       {
         "text": "Ipratropium",
-        "explanation": "Correct. Ipratropium (Atrovent) is a SAMA (Short Acting Muscarinic Antagonist) used in COPD. Tiotropium (Spiriva) is a LAMA."
+        "explanation": "Correct. Ipratropium (Atrovent) is a SAMA (Short Acting Muscarinic Antagonist) used in COPD. Tiotropium (Spiriva) is a LAMA.",
+        "isCorrect": true
       },
       {
         "text": "Theophylline",
@@ -71,7 +73,8 @@ window.Test_L21 = [
       },
       {
         "text": "Glycopyrrolate",
-        "explanation": "Correct. Glycopyrrolate is a quaternary amine. It does everything Atropine does peripherally (dry secretions, tachycardia) but doesn't enter the brain."
+        "explanation": "Correct. Glycopyrrolate is a quaternary amine. It does everything Atropine does peripherally (dry secretions, tachycardia) but doesn't enter the brain.",
+        "isCorrect": true
       },
       {
         "text": "Scopolamine",
@@ -101,7 +104,8 @@ window.Test_L21 = [
       },
       {
         "text": "Blockade of M3 receptors on the detrusor muscle",
-        "explanation": "Correct. Blocking M3 prevents detrusor contraction (spasm), allowing the bladder to hold more urine."
+        "explanation": "Correct. Blocking M3 prevents detrusor contraction (spasm), allowing the bladder to hold more urine.",
+        "isCorrect": true
       },
       {
         "text": "Stimulation of Alpha-1 receptors",
@@ -135,7 +139,8 @@ window.Test_L21 = [
       },
       {
         "text": "Physostigmine",
-        "explanation": "Correct. Physostigmine crosses the BBB and reverses both central (delirium) and peripheral (tachycardia) toxicity."
+        "explanation": "Correct. Physostigmine crosses the BBB and reverses both central (delirium) and peripheral (tachycardia) toxicity.",
+        "isCorrect": true
       },
       {
         "text": "Pilocarpine",
@@ -161,7 +166,8 @@ window.Test_L21 = [
       },
       {
         "text": "Blocking the Sphincter pupillae and Ciliary muscle",
-        "explanation": "Correct. Blocking the sphincter causes mydriasis (unopposed dilation). Blocking the ciliary muscle causes cycloplegia (loss of focus)."
+        "explanation": "Correct. Blocking the sphincter causes mydriasis (unopposed dilation). Blocking the ciliary muscle causes cycloplegia (loss of focus).",
+        "isCorrect": true
       },
       {
         "text": "Stimulating the Dilator pupillae",
@@ -187,7 +193,8 @@ window.Test_L21 = [
     "options": [
       {
         "text": "Blockade of M2 presynaptic autoreceptors",
-        "explanation": "Correct. Blocking the presynaptic 'brake' (M2) increases ACh release, which stimulates the postsynaptic M2 receptors causing transient bradycardia."
+        "explanation": "Correct. Blocking the presynaptic 'brake' (M2) increases ACh release, which stimulates the postsynaptic M2 receptors causing transient bradycardia.",
+        "isCorrect": true
       },
       {
         "text": "Direct stimulation of M2 receptors",
@@ -221,7 +228,8 @@ window.Test_L21 = [
       },
       {
         "text": "To restore the balance between Dopamine and Acetylcholine in the striatum",
-        "explanation": "Correct. In Parkinson's, low dopamine leads to relative cholinergic excess (tremor). Blocking Muscarinic receptors restores the balance."
+        "explanation": "Correct. In Parkinson's, low dopamine leads to relative cholinergic excess (tremor). Blocking Muscarinic receptors restores the balance.",
+        "isCorrect": true
       },
       {
         "text": "To prevent orthostatic hypotension",
@@ -251,7 +259,8 @@ window.Test_L21 = [
       },
       {
         "text": "Urinary Retention",
-        "explanation": "Correct. The prostate is already obstructing flow. Blocking the bladder's contraction (detrusor) with an anticholinergic will make it impossible to void."
+        "explanation": "Correct. The prostate is already obstructing flow. Blocking the bladder's contraction (detrusor) with an anticholinergic will make it impossible to void.",
+        "isCorrect": true
       },
       {
         "text": "Hypotension",
@@ -281,7 +290,8 @@ window.Test_L21 = [
       },
       {
         "text": "Clearing of bronchial secretions (Drying)",
-        "explanation": "Correct. 'Dry as a bone'. When the lungs dry up, you know you've blocked the muscarinic excess."
+        "explanation": "Correct. 'Dry as a bone'. When the lungs dry up, you know you've blocked the muscarinic excess.",
+        "isCorrect": true
       },
       {
         "text": "Pupil constriction",
@@ -311,7 +321,8 @@ window.Test_L21 = [
       },
       {
         "text": "M3 receptors on eccrine sweat glands",
-        "explanation": "Correct. Blockade of sympathetic cholinergic fibers to sweat glands generally prevents cooling (anhydrosis) -> Hyperthermia."
+        "explanation": "Correct. Blockade of sympathetic cholinergic fibers to sweat glands generally prevents cooling (anhydrosis) -> Hyperthermia.",
+        "isCorrect": true
       },
       {
         "text": "Nn receptors in ganglia",
@@ -345,7 +356,8 @@ window.Test_L21 = [
       },
       {
         "text": "It contains a quaternary nitrogen (Charged)",
-        "explanation": "Correct. The permanent charge prevents it from crossing membranes easily, keeping it local in the lung."
+        "explanation": "Correct. The permanent charge prevents it from crossing membranes easily, keeping it local in the lung.",
+        "isCorrect": true
       },
       {
         "text": "It is too large",
@@ -371,7 +383,8 @@ window.Test_L21 = [
       },
       {
         "text": "Non-selective Muscarinic antagonist",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Nicotinic antagonist",
@@ -401,7 +414,8 @@ window.Test_L21 = [
       },
       {
         "text": "Angle-Closure Glaucoma",
-        "explanation": "Correct. Dilation bunches up the iris, blocking the outflow angle."
+        "explanation": "Correct. Dilation bunches up the iris, blocking the outflow angle.",
+        "isCorrect": true
       },
       {
         "text": "Conjunctivitis",
@@ -431,7 +445,8 @@ window.Test_L21 = [
       },
       {
         "text": "Oxybutynin / Darifenacin",
-        "explanation": "Correct. Used for urge incontinence."
+        "explanation": "Correct. Used for urge incontinence.",
+        "isCorrect": true
       },
       {
         "text": "Ipratropium",
@@ -461,7 +476,8 @@ window.Test_L21 = [
       },
       {
         "text": "CNS delirium and hallucinations",
-        "explanation": "Correct. Central anticholinergic toxicity."
+        "explanation": "Correct. Central anticholinergic toxicity.",
+        "isCorrect": true
       },
       {
         "text": "Anger issues",
@@ -495,7 +511,8 @@ window.Test_L21 = [
       },
       {
         "text": "Belladonna Alkaloids (Atropine/Scopolamine)",
-        "explanation": "Correct. 'Gardener's mydriasis'."
+        "explanation": "Correct. 'Gardener's mydriasis'.",
+        "isCorrect": true
       },
       {
         "text": "Opioids",
@@ -521,7 +538,8 @@ window.Test_L21 = [
       },
       {
         "text": "No",
-        "explanation": "Correct. Quaternary."
+        "explanation": "Correct. Quaternary.",
+        "isCorrect": true
       },
       {
         "text": "Only when inflamed",
@@ -551,7 +569,8 @@ window.Test_L21 = [
       },
       {
         "text": "Tachycardia",
-        "explanation": "Correct. Blocks M2 vagal tone."
+        "explanation": "Correct. Blocks M2 vagal tone.",
+        "isCorrect": true
       },
       {
         "text": "Arrhythmia",
@@ -581,7 +600,8 @@ window.Test_L21 = [
       },
       {
         "text": "It blocks the constriction signal from the vagus nerve",
-        "explanation": "Correct. Vagal tone constricts airways. Tiotropium blocks this tone, allowing bronchodilation."
+        "explanation": "Correct. Vagal tone constricts airways. Tiotropium blocks this tone, allowing bronchodilation.",
+        "isCorrect": true
       },
       {
         "text": "It reduces inflammation",
@@ -611,7 +631,8 @@ window.Test_L21 = [
       },
       {
         "text": "Paralysis of the ciliary muscle (accommodation)",
-        "explanation": "Correct. Unable to focus on near objects."
+        "explanation": "Correct. Unable to focus on near objects.",
+        "isCorrect": true
       },
       {
         "text": "Dry eye",
@@ -641,7 +662,8 @@ window.Test_L21 = [
       },
       {
         "text": "Decrease motility and tone",
-        "explanation": "Correct. Relieving cramps."
+        "explanation": "Correct. Relieving cramps.",
+        "isCorrect": true
       },
       {
         "text": "Increase acid",
@@ -671,7 +693,8 @@ window.Test_L21 = [
       },
       {
         "text": "Anticholinergic Toxicity",
-        "explanation": "Correct. Both have strong anticholinergic side effects. The effects are additive."
+        "explanation": "Correct. Both have strong anticholinergic side effects. The effects are additive.",
+        "isCorrect": true
       },
       {
         "text": "Hypertension",
@@ -701,7 +724,8 @@ window.Test_L21 = [
       },
       {
         "text": "Sedation / Amnesia",
-        "explanation": "Correct. 'Twilight sleep'. Used to be used for childbirth for this reason."
+        "explanation": "Correct. 'Twilight sleep'. Used to be used for childbirth for this reason.",
+        "isCorrect": true
       },
       {
         "text": "Hyperactivity",
@@ -731,7 +755,8 @@ window.Test_L21 = [
       },
       {
         "text": "M3 receptors on salivary glands",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "M2 receptors",
@@ -765,7 +790,8 @@ window.Test_L21 = [
       },
       {
         "text": "Decreased constitutional (basal) activity",
-        "explanation": "Correct. They suppress the receptor below its resting state."
+        "explanation": "Correct. They suppress the receptor below its resting state.",
+        "isCorrect": true
       },
       {
         "text": "Irreversible blockade",
@@ -791,7 +817,8 @@ window.Test_L21 = [
       },
       {
         "text": "Hyperthermia",
-        "explanation": "Correct. 'Children cool by sweating'. Block that, and they overheat rapidly."
+        "explanation": "Correct. 'Children cool by sweating'. Block that, and they overheat rapidly.",
+        "isCorrect": true
       },
       {
         "text": "Constipation",
@@ -825,7 +852,8 @@ window.Test_L21 = [
       },
       {
         "text": "Atropine",
-        "explanation": "Correct. Can last 7-10 days. Not used for routine exams."
+        "explanation": "Correct. Can last 7-10 days. Not used for routine exams.",
+        "isCorrect": true
       },
       {
         "text": "Phenylephrine",
@@ -851,7 +879,8 @@ window.Test_L21 = [
       },
       {
         "text": "Physostigmine toxicity",
-        "explanation": "Correct. Physostigmine itself can cause seizures if given too rapidly or in excess (Cholinergic excess in brain). It has a narrow therapeutic window."
+        "explanation": "Correct. Physostigmine itself can cause seizures if given too rapidly or in excess (Cholinergic excess in brain). It has a narrow therapeutic window.",
+        "isCorrect": true
       },
       {
         "text": "Alcohol withdrawal",
@@ -877,7 +906,8 @@ window.Test_L21 = [
     "options": [
       {
         "text": "Atropine and Diphenhydramine",
-        "explanation": "Correct. Has histamine-like properties."
+        "explanation": "Correct. Has histamine-like properties.",
+        "isCorrect": true
       },
       {
         "text": "Acetylcholine",
@@ -911,7 +941,8 @@ window.Test_L21 = [
       },
       {
         "text": "Urinary Incontinence",
-        "explanation": "Correct. Similar to Oxybutynin."
+        "explanation": "Correct. Similar to Oxybutynin.",
+        "isCorrect": true
       },
       {
         "text": "Glaucoma",
@@ -941,7 +972,8 @@ window.Test_L21 = [
       },
       {
         "text": "Cutaneous Vasodilation (Flush)",
-        "explanation": "Correct. Mechanism is debated (histamine release?), but the sign is classic."
+        "explanation": "Correct. Mechanism is debated (histamine release?), but the sign is classic.",
+        "isCorrect": true
       },
       {
         "text": "Bleeding",
@@ -972,6 +1004,7 @@ window.Test_L21 = [
       {
         "text": "Mydriasis blocking the filtration angle",
         "explanation": "Correct. The pupil dilates and 'bunches up' in the corner, blocking drainage.",
+        "isCorrect": true
       },
       {
         "text": "Corneal abrasion",
@@ -1001,7 +1034,8 @@ window.Test_L21 = [
       },
       {
         "text": "No",
-        "explanation": "Correct. They have no effect on skeletal muscle strength."
+        "explanation": "Correct. They have no effect on skeletal muscle strength.",
+        "isCorrect": true
       },
       {
         "text": "Only at high doses",
@@ -1040,7 +1074,8 @@ window.Test_L21 = [
       {
         "text": "Gastric Acid",
         "explanation": "Correct. M1 receptors on parietal cells are less sensitive to Atropine than other glandular receptors. Need very high doses to block acid (lots of side effects).",
-    "pdfPage": 10
+        "pdfPage": 10,
+        "isCorrect": true
       },
       {
         "text": "Tears",

@@ -10,7 +10,8 @@ window.Test_L43 = [
       },
       {
         "text": "IV Methylprednisolone",
-        "explanation": "Correct. High dose IV steroids are the standard for acute exacerbations."
+        "explanation": "Correct. High dose IV steroids are the standard for acute exacerbations.",
+        "isCorrect": true
       },
       {
         "text": "Interferon Beta-1a",
@@ -40,7 +41,8 @@ window.Test_L43 = [
       },
       {
         "text": "Glatiramer Acetate",
-        "explanation": "Correct. Synthetic polypeptide resembling myelin basic protein."
+        "explanation": "Correct. Synthetic polypeptide resembling myelin basic protein.",
+        "isCorrect": true
       },
       {
         "text": "Fingolimod",
@@ -70,7 +72,8 @@ window.Test_L43 = [
       },
       {
         "text": "JC Virus (John Cunningham Virus)",
-        "explanation": "Correct. Normally dormant, reactivates with immunosuppression."
+        "explanation": "Correct. Normally dormant, reactivates with immunosuppression.",
+        "isCorrect": true
       },
       {
         "text": "Cytomegalovirus",
@@ -100,7 +103,8 @@ window.Test_L43 = [
       },
       {
         "text": "Sphingosine-1-Phosphate (S1P) Receptor",
-        "explanation": "Correct. Prevents lymphocyte egress from lymph nodes."
+        "explanation": "Correct. Prevents lymphocyte egress from lymph nodes.",
+        "isCorrect": true
       },
       {
         "text": "CD20",
@@ -130,7 +134,8 @@ window.Test_L43 = [
       },
       {
         "text": "Bradycardia / AV Block",
-        "explanation": "Correct. S1P receptors are also on cardiac atrial tissue."
+        "explanation": "Correct. S1P receptors are also on cardiac atrial tissue.",
+        "isCorrect": true
       },
       {
         "text": "Anaphylaxis",
@@ -160,7 +165,8 @@ window.Test_L43 = [
       },
       {
         "text": "Dalfampridine",
-        "explanation": "Correct. Increases action potential duration by preventing K+ efflux."
+        "explanation": "Correct. Increases action potential duration by preventing K+ efflux.",
+        "isCorrect": true
       },
       {
         "text": "Amantadine",
@@ -190,7 +196,8 @@ window.Test_L43 = [
       },
       {
         "text": "Neural Tube Defects / Teratogenicity",
-        "explanation": "Correct. Pregnancy category X. Requires washout."
+        "explanation": "Correct. Pregnancy category X. Requires washout.",
+        "isCorrect": true
       },
       {
         "text": "Ototoxicity",
@@ -220,7 +227,8 @@ window.Test_L43 = [
       },
       {
         "text": "NRF2 (Nuclear factor-like 2)",
-        "explanation": "Correct. Increases antioxidant response (Glutathione)."
+        "explanation": "Correct. Increases antioxidant response (Glutathione).",
+        "isCorrect": true
       },
       {
         "text": "NF-kB",
@@ -250,7 +258,8 @@ window.Test_L43 = [
       },
       {
         "text": "CD52",
-        "explanation": "Correct. Causes profound lymphopenia via lysis."
+        "explanation": "Correct. Causes profound lymphopenia via lysis.",
+        "isCorrect": true
       },
       {
         "text": "CD3",
@@ -280,7 +289,8 @@ window.Test_L43 = [
       },
       {
         "text": "Cardiotoxicity (Dilated Cardiomyopathy)",
-        "explanation": "Correct. Like Doxorubicin."
+        "explanation": "Correct. Like Doxorubicin.",
+        "isCorrect": true
       },
       {
         "text": "Hemorrhagic Cystitis",
@@ -310,7 +320,8 @@ window.Test_L43 = [
       },
       {
         "text": "GABA-B",
-        "explanation": "Correct. G-protein coupled, increases K+ efflux, hyperpolarizes."
+        "explanation": "Correct. G-protein coupled, increases K+ efflux, hyperpolarizes.",
+        "isCorrect": true
       },
       {
         "text": "NMDA",
@@ -340,7 +351,8 @@ window.Test_L43 = [
       },
       {
         "text": "M3 Muscarinic",
-        "explanation": "Correct. M3 blockade prevents bladder contraction (Oxybutynin)."
+        "explanation": "Correct. M3 blockade prevents bladder contraction (Oxybutynin).",
+        "isCorrect": true
       },
       {
         "text": "Beta-2 Adrenergic",
@@ -370,7 +382,8 @@ window.Test_L43 = [
       },
       {
         "text": "Flu-like symptoms",
-        "explanation": "Correct. Fever, chills, myalgia."
+        "explanation": "Correct. Fever, chills, myalgia.",
+        "isCorrect": true
       },
       {
         "text": "Hair loss",
@@ -400,7 +413,8 @@ window.Test_L43 = [
       },
       {
         "text": "Cleaving SNAP-25 and preventing vesicle fusion",
-        "explanation": "Correct. Prevents presynaptic release of ACh."
+        "explanation": "Correct. Prevents presynaptic release of ACh.",
+        "isCorrect": true
       },
       {
         "text": "Inhibiting acetylcholinesterase",
@@ -430,7 +444,8 @@ window.Test_L43 = [
       },
       {
         "text": "CD20",
-        "explanation": "Correct. Present on B-cells."
+        "explanation": "Correct. Present on B-cells.",
+        "isCorrect": true
       },
       {
         "text": "CD52",
@@ -460,7 +475,8 @@ window.Test_L43 = [
       },
       {
         "text": "Clonidine",
-        "explanation": "Correct. Both are Alpha-2 Agonists."
+        "explanation": "Correct. Both are Alpha-2 Agonists.",
+        "isCorrect": true
       },
       {
         "text": "Amlodipine",
@@ -486,7 +502,8 @@ window.Test_L43 = [
     "options": [
       {
         "text": "Lipoatrophy at injection site",
-        "explanation": "Correct. Permanent loss of fat tissue. Rotate sites."
+        "explanation": "Correct. Permanent loss of fat tissue. Rotate sites.",
+        "isCorrect": true
       },
       {
         "text": "Macular Edema",
@@ -520,7 +537,8 @@ window.Test_L43 = [
       },
       {
         "text": "VCAM-1",
-        "explanation": "Correct. Vascular Cell Adhesion Molecule 1 on endothelial cells."
+        "explanation": "Correct. Vascular Cell Adhesion Molecule 1 on endothelial cells.",
+        "isCorrect": true
       },
       {
         "text": "Selectins",
@@ -550,7 +568,8 @@ window.Test_L43 = [
       },
       {
         "text": "Nitrates",
-        "explanation": "Correct. Synergistic cGMP accumulation causes massive vasodilation."
+        "explanation": "Correct. Synergistic cGMP accumulation causes massive vasodilation.",
+        "isCorrect": true
       },
       {
         "text": "Statins",
@@ -580,7 +599,8 @@ window.Test_L43 = [
       },
       {
         "text": "The Thyroid (Graves/Hashimoto)",
-        "explanation": "Correct. Also ITP (platelets) and Goodpasture's (kidney - rare)."
+        "explanation": "Correct. Also ITP (platelets) and Goodpasture's (kidney - rare).",
+        "isCorrect": true
       },
       {
         "text": "The Adrenals",
@@ -610,7 +630,8 @@ window.Test_L43 = [
       },
       {
         "text": "Modafinil",
-        "explanation": "Correct. A wakefulness-promoting agent."
+        "explanation": "Correct. A wakefulness-promoting agent.",
+        "isCorrect": true
       },
       {
         "text": "Diphenhydramine",
@@ -640,7 +661,8 @@ window.Test_L43 = [
       },
       {
         "text": "Purine (Adenosine)",
-        "explanation": "Correct. It is a synthetic purine nucleoside analog."
+        "explanation": "Correct. It is a synthetic purine nucleoside analog.",
+        "isCorrect": true
       },
       {
         "text": "Cytosine",
@@ -666,7 +688,8 @@ window.Test_L43 = [
     "options": [
       {
         "text": "Hepatitis B",
-        "explanation": "Correct. Risk of fulminant reactivation."
+        "explanation": "Correct. Risk of fulminant reactivation.",
+        "isCorrect": true
       },
       {
         "text": "Influenza",
@@ -700,7 +723,8 @@ window.Test_L43 = [
       },
       {
         "text": "Adrenal Insufficiency (Addisonian Crisis)",
-        "explanation": "Correct. HPA axis is suppressed; glands cannot produce cortisol immediately."
+        "explanation": "Correct. HPA axis is suppressed; glands cannot produce cortisol immediately.",
+        "isCorrect": true
       },
       {
         "text": "Hyperglycemia",
@@ -730,7 +754,8 @@ window.Test_L43 = [
       },
       {
         "text": "Inhibiting T-cell migration across the Blood Brain Barrier",
-        "explanation": "Correct. Downregulates adhesion molecules and MMPs."
+        "explanation": "Correct. Downregulates adhesion molecules and MMPs.",
+        "isCorrect": true
       },
       {
         "text": "Increasing Dopamine",
@@ -760,7 +785,8 @@ window.Test_L43 = [
       },
       {
         "text": "Darifenacin / Tolterodine",
-        "explanation": "Correct. More selective for M3/Bladder, less CNS penetration."
+        "explanation": "Correct. More selective for M3/Bladder, less CNS penetration.",
+        "isCorrect": true
       },
       {
         "text": "Amitriptyline",
@@ -790,7 +816,8 @@ window.Test_L43 = [
       },
       {
         "text": "This is a harmless, expected side effect of the drug's color.",
-        "explanation": "Correct. Mitoxantrone is a blue dye."
+        "explanation": "Correct. Mitoxantrone is a blue dye.",
+        "isCorrect": true
       },
       {
         "text": "This is a sign of internal bleeding.",
@@ -820,7 +847,8 @@ window.Test_L43 = [
       },
       {
         "text": "Dihydroorotate Dehydrogenase",
-        "explanation": "Correct. Rate limiting step in de novo pyrimidine synthesis."
+        "explanation": "Correct. Rate limiting step in de novo pyrimidine synthesis.",
+        "isCorrect": true
       },
       {
         "text": "Xanthine Oxidase",
@@ -850,7 +878,8 @@ window.Test_L43 = [
       },
       {
         "text": "Glatiramer Acetate",
-        "explanation": "Correct. Category B. Does not cross placenta significantly."
+        "explanation": "Correct. Category B. Does not cross placenta significantly.",
+        "isCorrect": true
       },
       {
         "text": "Methotrexate",
@@ -880,7 +909,8 @@ window.Test_L43 = [
       },
       {
         "text": "Dimethyl Fumarate",
-        "explanation": "Correct. Can be mitigated by taking with food or aspirin."
+        "explanation": "Correct. Can be mitigated by taking with food or aspirin.",
+        "isCorrect": true
       },
       {
         "text": "Glatiramer",
@@ -910,7 +940,8 @@ window.Test_L43 = [
       },
       {
         "text": "Inhibiting Calcium release from the Sarcoplasmic Reticulum",
-        "explanation": "Correct. RyR1 receptor antagonist."
+        "explanation": "Correct. RyR1 receptor antagonist.",
+        "isCorrect": true
       },
       {
         "text": "Blocking Acetylcholine release",
@@ -940,7 +971,8 @@ window.Test_L43 = [
       },
       {
         "text": "Humanized",
-        "explanation": "Correct. mostly human, some mouse CDRs."
+        "explanation": "Correct. mostly human, some mouse CDRs.",
+        "isCorrect": true
       },
       {
         "text": "Chimeric",
@@ -970,7 +1002,8 @@ window.Test_L43 = [
       },
       {
         "text": "Varicella Zoster (Chickenpox/Shingles)",
-        "explanation": "Correct. Vaccination recommended if non-immune."
+        "explanation": "Correct. Vaccination recommended if non-immune.",
+        "isCorrect": true
       },
       {
         "text": "Tetanus",
@@ -1000,7 +1033,8 @@ window.Test_L43 = [
       },
       {
         "text": "Lipocortin (Annexin-1)",
-        "explanation": "Correct. Inhibits the release of arachidonic acid."
+        "explanation": "Correct. Inhibits the release of arachidonic acid.",
+        "isCorrect": true
       },
       {
         "text": "Thromboxane",
@@ -1031,6 +1065,7 @@ window.Test_L43 = [
       {
         "text": "Urinary Incontinence (Overactive Bladder)",
         "explanation": "Correct. Due to their anticholinergic side effects.",
+        "isCorrect": true
       },
       {
         "text": "Diarrhea",

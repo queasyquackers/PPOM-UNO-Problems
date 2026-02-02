@@ -10,7 +10,8 @@ window.Test_L3 = [
       },
       {
         "text": "Middle Meningeal Artery",
-        "explanation": "Correct. This is a classic presentation of an Epidural Hematoma (lucid interval, temporal trauma, lens-shaped bleed). The Middle Meningeal Artery (branch of Maxillary A.) runs under the Pterion and is vulnerable to fracture."
+        "explanation": "Correct. This is a classic presentation of an Epidural Hematoma (lucid interval, temporal trauma, lens-shaped bleed). The Middle Meningeal Artery (branch of Maxillary A.) runs under the Pterion and is vulnerable to fracture.",
+        "isCorrect": true
       },
       {
         "text": "Bridging Veins",
@@ -44,7 +45,8 @@ window.Test_L3 = [
       },
       {
         "text": "Zona Occludens (Tight Junctions)",
-        "explanation": "Correct. The Tight Junctions between capillary endothelial cells are the structural basis of the BBB."
+        "explanation": "Correct. The Tight Junctions between capillary endothelial cells are the structural basis of the BBB.",
+        "isCorrect": true
       },
       {
         "text": "Astrocyte foot processes",
@@ -70,7 +72,8 @@ window.Test_L3 = [
       },
       {
         "text": "Uncal (Transtentorial) Herniation",
-        "explanation": "Correct. The Uncus (medial temporal lobe) herniates across the Tentorium, compressing CN III (blown pupil) and the Cerebral Peduncle (hemiparesis)."
+        "explanation": "Correct. The Uncus (medial temporal lobe) herniates across the Tentorium, compressing CN III (blown pupil) and the Cerebral Peduncle (hemiparesis).",
+        "isCorrect": true
       },
       {
         "text": "Tonsillar Herniation",
@@ -86,7 +89,7 @@ window.Test_L3 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Uncal Herniation triad: 1. Ipsilateral Blown Pupil (CN III), 2. Contralateral Hemiparesis (Kernohan's phenomenon false localizing sign possible), 3. Coma (RAS compression).",
+    "clinicalPearl": "Key takeaway: Uncal Herniation triad: 1. Ipsilateral Blown Pupil (CN III), 2. Contralateral Hemiparesis (Kernohan's phenomenon False localizing sign possible), 3. Coma (RAS compression).",
     "pdfPage": 35
   },
   {
@@ -104,7 +107,8 @@ window.Test_L3 = [
       },
       {
         "text": "Arachnoid Granulations (Villi)",
-        "explanation": "Correct. CSF flows from the subarachnoid space into the Superior Sagittal Sinus via Arachnoid Granulations."
+        "explanation": "Correct. CSF flows from the subarachnoid space into the Superior Sagittal Sinus via Arachnoid Granulations.",
+        "isCorrect": true
       },
       {
         "text": "Aqueduct of Sylvius",
@@ -134,7 +138,8 @@ window.Test_L3 = [
       },
       {
         "text": "Normal Pressure Hydrocephalus (NPH)",
-        "explanation": "Correct. Classic Triad: 'Wet, Wobbly, Wacky' (Incontinence, Ataxia, Dementia). Treatable with a shunt."
+        "explanation": "Correct. Classic Triad: 'Wet, Wobbly, Wacky' (Incontinence, Ataxia, Dementia). Treatable with a shunt.",
+        "isCorrect": true
       },
       {
         "text": "Pseudotumor Cerebri",
@@ -156,11 +161,12 @@ window.Test_L3 = [
     "options": [
       {
         "text": "Dopamine is metabolized too quickly in the liver.",
-        "explanation": "Incorrect. While true, the main issue is BBB transport."
+        "explanation": "Incorrect. While True, the main issue is BBB transport."
       },
       {
         "text": "Dopamine is a polar molecule and cannot cross the Blood-Brain Barrier.",
-        "explanation": "Correct. Dopamine is polar/hydrophilic and blocked by the BBB. Levodopa (L-Dopa) is a neutral amino acid transported by carriers (LAT1) and then converted to Dopamine in the brain."
+        "explanation": "Correct. Dopamine is polar/hydrophilic and blocked by the BBB. Levodopa (L-Dopa) is a neutral amino acid transported by carriers (LAT1) and then converted to Dopamine in the brain.",
+        "isCorrect": true
       },
       {
         "text": "Levodopa activates receptors more potently.",
@@ -194,7 +200,8 @@ window.Test_L3 = [
       },
       {
         "text": "Area Postrema",
-        "explanation": "Correct. Located in the caudal medulla (floor of 4th ventricle), it is the Chemoreceptor Trigger Zone (CTZ) for emesis."
+        "explanation": "Correct. Located in the caudal medulla (floor of 4th ventricle), it is the Chemoreceptor Trigger Zone (CTZ) for emesis.",
+        "isCorrect": true
       },
       {
         "text": "Organum Vasculosum of the Lamina Terminalis (OVLT)",
@@ -224,7 +231,8 @@ window.Test_L3 = [
       },
       {
         "text": "Two cerebral hemispheres",
-        "explanation": "Correct. The Falx Cerebri lies in the longitudinal fissure separating the left and right cerebral hemispheres."
+        "explanation": "Correct. The Falx Cerebri lies in the longitudinal fissure separating the left and right cerebral hemispheres.",
+        "isCorrect": true
       },
       {
         "text": "Temporal lobe from the Frontal lobe",
@@ -254,7 +262,8 @@ window.Test_L3 = [
       },
       {
         "text": "Rupture of a Berry Aneurysm",
-        "explanation": "Correct. Subarachnoid Hemorrhage is typically caused by rupture of a saccular (berry) aneurysm in the Circle of Willis."
+        "explanation": "Correct. Subarachnoid Hemorrhage is typically caused by rupture of a saccular (berry) aneurysm in the Circle of Willis.",
+        "isCorrect": true
       },
       {
         "text": "Hypertensive arteriolar sclerosis",
@@ -284,7 +293,8 @@ window.Test_L3 = [
       },
       {
         "text": "Foramen of Monro (Interventricular Foramen)",
-        "explanation": "Correct. The paired Foramina of Monro connect the Lateral Ventricles to the midline Third Ventricle."
+        "explanation": "Correct. The paired Foramina of Monro connect the Lateral Ventricles to the midline Third Ventricle.",
+        "isCorrect": true
       },
       {
         "text": "Aqueduct of Sylvius",
@@ -310,7 +320,8 @@ window.Test_L3 = [
       },
       {
         "text": "Cerebral Aqueduct (Aqueduct of Sylvius)",
-        "explanation": "Correct. Stenosis here blocks flow from 3rd to 4th. Lateral and 3rd swell (upstream); 4th is small/normal."
+        "explanation": "Correct. Stenosis here blocks flow from 3rd to 4th. Lateral and 3rd swell (upstream); 4th is small/normal.",
+        "isCorrect": true
       },
       {
         "text": "Foramen of Magendie",
@@ -340,7 +351,8 @@ window.Test_L3 = [
       },
       {
         "text": "Subdural Hematoma",
-        "explanation": "Correct. Venous bleed (bridging veins) in the potential space between Dura and Arachnoid. Not bound by sutures, so it spreads in a crescent shape."
+        "explanation": "Correct. Venous bleed (bridging veins) in the potential space between Dura and Arachnoid. Not bound by sutures, so it spreads in a crescent shape.",
+        "isCorrect": true
       },
       {
         "text": "Subarachnoid Hemorrhage",
@@ -374,7 +386,8 @@ window.Test_L3 = [
       },
       {
         "text": "Anterior Cerebral Artery (ACA) / Pericallosal Artery",
-        "explanation": "Correct. The Pericallosal branch of the ACA runs right over the corpus callosum and is compressed in subfalcine herniation."
+        "explanation": "Correct. The Pericallosal branch of the ACA runs right over the corpus callosum and is compressed in subfalcine herniation.",
+        "isCorrect": true
       },
       {
         "text": "Basilar Artery",
@@ -400,7 +413,8 @@ window.Test_L3 = [
       },
       {
         "text": "Arachnoid Mater and Pia Mater",
-        "explanation": "Correct. Leptomeninges (Thin/Fine) = Arachnoid + Pia. Infection here is Leptomeningitis (Meningitis)."
+        "explanation": "Correct. Leptomeninges (Thin/Fine) = Arachnoid + Pia. Infection here is Leptomeningitis (Meningitis).",
+        "isCorrect": true
       },
       {
         "text": "Dura Mater and Arachnoid Mater",
@@ -434,7 +448,8 @@ window.Test_L3 = [
       },
       {
         "text": "Scarring of Arachnoid Granulations decreasing absorption",
-        "explanation": "Correct. Post-meningitis scarring (fibrosis) of the arachnoid villi prevents CSF resorption, causing Communicating Hydrocephalus."
+        "explanation": "Correct. Post-meningitis scarring (fibrosis) of the arachnoid villi prevents CSF resorption, causing Communicating Hydrocephalus.",
+        "isCorrect": true
       },
       {
         "text": "Atrophy of the brain",
@@ -460,7 +475,8 @@ window.Test_L3 = [
       },
       {
         "text": "Ceftriaxone is more lipid-soluble and penetrates the BBB better.",
-        "explanation": "Correct. Aminoglycosides are highly polar and cannot cross the BBB effectively to treat the infection in the CSF."
+        "explanation": "Correct. Aminoglycosides are highly polar and cannot cross the BBB effectively to treat the infection in the CSF.",
+        "isCorrect": true
       },
       {
         "text": "Aminoglycosides cause seizures.",
@@ -490,7 +506,8 @@ window.Test_L3 = [
       },
       {
         "text": "Foramen Magnum",
-        "explanation": "Correct. Tonsils push down through the Foramen Magnum, compressing the medulla."
+        "explanation": "Correct. Tonsils push down through the Foramen Magnum, compressing the medulla.",
+        "isCorrect": true
       },
       {
         "text": "Foramen Ovale",
@@ -520,7 +537,8 @@ window.Test_L3 = [
       },
       {
         "text": "Periosteal and Meningeal layers of the Dura",
-        "explanation": "Correct. The two layers of dura separate to form the venous sinuses."
+        "explanation": "Correct. The two layers of dura separate to form the venous sinuses.",
+        "isCorrect": true
       },
       {
         "text": "Gray and White matter",
@@ -550,7 +568,8 @@ window.Test_L3 = [
       },
       {
         "text": "Dark Black (Hypointense)",
-        "explanation": "Correct. T1 = Anatomy (CSF Black). T2 = Pathology/Water (CSF White)."
+        "explanation": "Correct. T1 = Anatomy (CSF Black). T2 = Pathology/Water (CSF White).",
+        "isCorrect": true
       },
       {
         "text": "Grey (Isointense)",
@@ -584,7 +603,8 @@ window.Test_L3 = [
       },
       {
         "text": "Subdural Space",
-        "explanation": "Correct. The Dura and Arachnoid are normally pressed together by CSF pressure. The space only opens up with pathology (Subdural Hematoma)."
+        "explanation": "Correct. The Dura and Arachnoid are normally pressed together by CSF pressure. The space only opens up with pathology (Subdural Hematoma).",
+        "isCorrect": true
       },
       {
         "text": "Cisterns",
@@ -614,7 +634,8 @@ window.Test_L3 = [
       },
       {
         "text": "Rhomboid Fossa (Brainstem)",
-        "explanation": "Correct. The dorsal aspect of the Pons and Medulla forms the floor of the 4th ventricle."
+        "explanation": "Correct. The dorsal aspect of the Pons and Medulla forms the floor of the 4th ventricle.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellum",
@@ -640,7 +661,8 @@ window.Test_L3 = [
       },
       {
         "text": "Tight Junctions",
-        "explanation": "Correct. Tumors secrete VEGF, which disrupts tight junctions, allowing fluid and proteins to leak into the interstitium (Vasogenic Edema)."
+        "explanation": "Correct. Tumors secrete VEGF, which disrupts tight junctions, allowing fluid and proteins to leak into the interstitium (Vasogenic Edema).",
+        "isCorrect": true
       },
       {
         "text": "Desmosomes",
@@ -674,7 +696,8 @@ window.Test_L3 = [
       },
       {
         "text": "500 mL",
-        "explanation": "Correct. We produce ~500mL/day, turning over the 150mL volume about 3-4 times a day."
+        "explanation": "Correct. We produce ~500mL/day, turning over the 150mL volume about 3-4 times a day.",
+        "isCorrect": true
       },
       {
         "text": "1000 mL",
@@ -700,7 +723,8 @@ window.Test_L3 = [
       },
       {
         "text": "Anterior Clinoid Processes",
-        "explanation": "Correct. The free edge of the tentorium attaches to the anterior clinoid processes of the sphenoid bone."
+        "explanation": "Correct. The free edge of the tentorium attaches to the anterior clinoid processes of the sphenoid bone.",
+        "isCorrect": true
       },
       {
         "text": "Foramen Magnum",
@@ -730,7 +754,8 @@ window.Test_L3 = [
       },
       {
         "text": "Uncal / Transtentorial",
-        "explanation": "Correct. Severe downward displacement stretches and tears the paramedian pontine arteries, causing Duret hemorrhages in the midbrain/pons. Usually fatal."
+        "explanation": "Correct. Severe downward displacement stretches and tears the paramedian pontine arteries, causing Duret hemorrhages in the midbrain/pons. Usually fatal.",
+        "isCorrect": true
       },
       {
         "text": "Transcalvarial",
@@ -764,7 +789,8 @@ window.Test_L3 = [
       },
       {
         "text": "Subfornical Organ (SFO) & OVLT",
-        "explanation": "Correct. They sense plasma osmolarity and angiotensin II levels to regulate thirst and ADH."
+        "explanation": "Correct. They sense plasma osmolarity and angiotensin II levels to regulate thirst and ADH.",
+        "isCorrect": true
       },
       {
         "text": "Median Eminence",
@@ -790,7 +816,8 @@ window.Test_L3 = [
       },
       {
         "text": "Third Ventricle",
-        "explanation": "Correct. It connects the two thalami across the third ventricle (present in ~70-80% of humans)."
+        "explanation": "Correct. It connects the two thalami across the third ventricle (present in ~70-80% of humans).",
+        "isCorrect": true
       },
       {
         "text": "Fourth Ventricle",
@@ -820,7 +847,8 @@ window.Test_L3 = [
       },
       {
         "text": "Anterior Communicating Artery (AComm)",
-        "explanation": "Correct. AComm aneurysms are the most common site of Berry Aneurysms giving rise to SAH."
+        "explanation": "Correct. AComm aneurysms are the most common site of Berry Aneurysms giving rise to SAH.",
+        "isCorrect": true
       },
       {
         "text": "Bridging Veins",
@@ -854,7 +882,8 @@ window.Test_L3 = [
       },
       {
         "text": "Astrocytes",
-        "explanation": "Correct. Association with Astrocyte end-feet signals endothelial cells to form tight junctions."
+        "explanation": "Correct. Association with Astrocyte end-feet signals endothelial cells to form tight junctions.",
+        "isCorrect": true
       },
       {
         "text": "Schwann Cells",
@@ -880,7 +909,8 @@ window.Test_L3 = [
       },
       {
         "text": "Trigeminal (CN V)",
-        "explanation": "Correct. V1, V2, V3 branches innervate the dura above the tentorium. This causes referred pain to the face/forehead (headache)."
+        "explanation": "Correct. V1, V2, V3 branches innervate the dura above the tentorium. This causes referred pain to the face/forehead (headache).",
+        "isCorrect": true
       },
       {
         "text": "Facial (CN VII)",
@@ -910,7 +940,8 @@ window.Test_L3 = [
       },
       {
         "text": "Within the ventricular system",
-        "explanation": "Correct. Obstructive (Non-communicating) means the fluid cannot communicate between ventricles or to the subarachnoid space due to an internal block."
+        "explanation": "Correct. Obstructive (Non-communicating) means the fluid cannot communicate between ventricles or to the subarachnoid space due to an internal block.",
+        "isCorrect": true
       },
       {
         "text": "At the Arachnoid Villi",
@@ -952,7 +983,8 @@ window.Test_L3 = [
       },
       {
         "text": "Frontal (Anterior) Horn of Lateral Ventricle",
-        "explanation": "Correct. The Choroid Plexus does NOT extend into the Anterior or Posterior Horns of the lateral ventricle."
+        "explanation": "Correct. The Choroid Plexus does NOT extend into the Anterior or Posterior Horns of the lateral ventricle.",
+        "isCorrect": true
       }
     ],
     "correctAnswerIndex": 4,
@@ -966,7 +998,8 @@ window.Test_L3 = [
     "options": [
       {
         "text": "Ipsilateral Hemiparesis",
-        "explanation": "Correct. A 'False Localizing Sign'. The herniating uncus pushes the midbrain across, compressing the CONTRALATERAL cerebral peduncle against the tentorial notch. This damages fibers for the contralateral body, causing IPSILATERAL weakness relative to the hematoma."
+        "explanation": "Correct. A 'False Localizing Sign'. The herniating uncus pushes the midbrain across, compressing the CONTRALATERAL cerebral peduncle against the tentorial notch. This damages fibers for the contralateral body, causing IPSILATERAL weakness relative to the hematoma.",
+        "isCorrect": true
       },
       {
         "text": "Contralateral Hemiparesis",
@@ -1004,7 +1037,8 @@ window.Test_L3 = [
       },
       {
         "text": "Epidural space",
-        "explanation": "Correct. Epi = Upon/Above the Dura."
+        "explanation": "Correct. Epi = Upon/Above the Dura.",
+        "isCorrect": true
       },
       {
         "text": "Virchow-Robin space",
@@ -1034,7 +1068,8 @@ window.Test_L3 = [
       },
       {
         "text": "Bright White (Hyperdense)",
-        "explanation": "Correct. Acute blood contains protein/hemoglobin which attenuates x-rays, appearing bright white."
+        "explanation": "Correct. Acute blood contains protein/hemoglobin which attenuates x-rays, appearing bright white.",
+        "isCorrect": true
       },
       {
         "text": "Blue",

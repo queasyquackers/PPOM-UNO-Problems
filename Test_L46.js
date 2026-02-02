@@ -10,7 +10,8 @@ window.Test_L46 = [
       },
       {
         "text": "Reproduction of pain radiating down the right arm",
-        "explanation": "Correct. Compresses the neural foramen, irritating the nerve root."
+        "explanation": "Correct. Compresses the neural foramen, irritating the nerve root.",
+        "isCorrect": true
       },
       {
         "text": "Pain localized only to the neck",
@@ -40,7 +41,8 @@ window.Test_L46 = [
       },
       {
         "text": "128 Hz",
-        "explanation": "Correct. Low frequency is best for vibration sense (PCML)."
+        "explanation": "Correct. Low frequency is best for vibration sense (PCML).",
+        "isCorrect": true
       },
       {
         "text": "256 Hz",
@@ -70,7 +72,8 @@ window.Test_L46 = [
       },
       {
         "text": "Ulnar Nerve",
-        "explanation": "Correct. C8-T1 distribution, often compressed at the elbow (Cubital Tunnel)."
+        "explanation": "Correct. C8-T1 distribution, often compressed at the elbow (Cubital Tunnel).",
+        "isCorrect": true
       },
       {
         "text": "Radial Nerve",
@@ -96,7 +99,8 @@ window.Test_L46 = [
     "options": [
       {
         "text": "Astereognosis",
-        "explanation": "Correct. Failure of tactile recognition (Parietal lobe function)."
+        "explanation": "Correct. Failure of tactile recognition (Parietal lobe function).",
+        "isCorrect": true
       },
       {
         "text": "Agraphesthesia",
@@ -130,7 +134,8 @@ window.Test_L46 = [
       },
       {
         "text": "Dorsiflex the foot",
-        "explanation": "Correct. Stretches the sciatic nerve/tibial nerve further."
+        "explanation": "Correct. Stretches the sciatic nerve/tibial nerve further.",
+        "isCorrect": true
       },
       {
         "text": "Plantarflex the foot",
@@ -160,7 +165,8 @@ window.Test_L46 = [
       },
       {
         "text": "Passive flexion of the neck causes involuntary flexion of the hips and knees",
-        "explanation": "Correct. Meningeal irritation stretches nerve roots."
+        "explanation": "Correct. Meningeal irritation stretches nerve roots.",
+        "isCorrect": true
       },
       {
         "text": "Stroking the sole of the foot causes big toe extension",
@@ -190,7 +196,8 @@ window.Test_L46 = [
       },
       {
         "text": "Absence of downward pressure of the right heel",
-        "explanation": "Correct. If they were truly trying to lift the left leg, the right leg would drive down for leverage."
+        "explanation": "Correct. If they were truly trying to lift the left leg, the right leg would drive down for leverage.",
+        "isCorrect": true
       },
       {
         "text": "Pain in the right heel",
@@ -220,7 +227,8 @@ window.Test_L46 = [
       },
       {
         "text": "T10",
-        "explanation": "Correct. Umbilicus."
+        "explanation": "Correct. Umbilicus.",
+        "isCorrect": true
       },
       {
         "text": "L1",
@@ -250,7 +258,8 @@ window.Test_L46 = [
       },
       {
         "text": "Allodynia",
-        "explanation": "Correct. Classic feature of neuropathic pain / CRPS."
+        "explanation": "Correct. Classic feature of neuropathic pain / CRPS.",
+        "isCorrect": true
       },
       {
         "text": "Hypesthesia",
@@ -280,7 +289,8 @@ window.Test_L46 = [
       },
       {
         "text": "Flexing the hip and knee to 90 degrees, then extending the knee",
-        "explanation": "Correct. Positive if pain/resistance prevents extension."
+        "explanation": "Correct. Positive if pain/resistance prevents extension.",
+        "isCorrect": true
       },
       {
         "text": "Compressing the head downwards",
@@ -310,7 +320,8 @@ window.Test_L46 = [
       },
       {
         "text": "Meningitis",
-        "explanation": "Correct. Triad of Fever, Nuchal Rigidity, Mental Status Change."
+        "explanation": "Correct. Triad of Fever, Nuchal Rigidity, Mental Status Change.",
+        "isCorrect": true
       },
       {
         "text": "Cervical Radiculopathy",
@@ -336,7 +347,8 @@ window.Test_L46 = [
     "options": [
       {
         "text": "CN II-XII grossly intact bilaterally",
-        "explanation": "Correct. Indicates screening was normal."
+        "explanation": "Correct. Indicates screening was normal.",
+        "isCorrect": true
       },
       {
         "text": "CN all normal",
@@ -374,7 +386,8 @@ window.Test_L46 = [
       },
       {
         "text": "Hypertension",
-        "explanation": "Correct. The #1 modifiable risk factor."
+        "explanation": "Correct. The #1 modifiable risk factor.",
+        "isCorrect": true
       },
       {
         "text": "Male Gender",
@@ -400,7 +413,8 @@ window.Test_L46 = [
       },
       {
         "text": "Identify a number or letter drawn on the skin",
-        "explanation": "Correct. 'Graph' = Write."
+        "explanation": "Correct. 'Graph' = Write.",
+        "isCorrect": true
       },
       {
         "text": "Distinguish two points",
@@ -434,7 +448,8 @@ window.Test_L46 = [
       },
       {
         "text": "Pain reproduced in the AFFECTED leg",
-        "explanation": "Correct. Highly specific for disc herniation (root compression)."
+        "explanation": "Correct. Highly specific for disc herniation (root compression).",
+        "isCorrect": true
       },
       {
         "text": "Back pain only",
@@ -464,7 +479,8 @@ window.Test_L46 = [
       },
       {
         "text": "Distal Interphalangeal (DIP) joint of fingers and toes",
-        "explanation": "Correct. Test distally first. If intact, proximal is likely intact."
+        "explanation": "Correct. Test distally first. If intact, proximal is likely intact.",
+        "isCorrect": true
       },
       {
         "text": "Wrists and Ankles",
@@ -490,7 +506,8 @@ window.Test_L46 = [
       },
       {
         "text": "Amaurosis Fugax",
-        "explanation": "Correct. A form of TIA mechanism (retinal embolus)."
+        "explanation": "Correct. A form of TIA mechanism (retinal embolus).",
+        "isCorrect": true
       },
       {
         "text": "Cataract",
@@ -520,7 +537,8 @@ window.Test_L46 = [
       },
       {
         "text": "Chorea",
-        "explanation": "Correct. 'Dance-like'. Seen in Huntington's."
+        "explanation": "Correct. 'Dance-like'. Seen in Huntington's.",
+        "isCorrect": true
       },
       {
         "text": "Athetosis",
@@ -550,7 +568,8 @@ window.Test_L46 = [
       },
       {
         "text": "Cervical Radiculopathy",
-        "explanation": "Correct. Lifting the head opens the foramina, relieving root compression."
+        "explanation": "Correct. Lifting the head opens the foramina, relieving root compression.",
+        "isCorrect": true
       },
       {
         "text": "Meningitis",
@@ -584,7 +603,8 @@ window.Test_L46 = [
       },
       {
         "text": "Both Spinothalamic and Dorsal Columns",
-        "explanation": "Correct. Light touch is redundant, carried by both tracts."
+        "explanation": "Correct. Light touch is redundant, carried by both tracts.",
+        "isCorrect": true
       },
       {
         "text": "Corticospinal",
@@ -606,7 +626,8 @@ window.Test_L46 = [
     "options": [
       {
         "text": "Peripheral Neuropathy",
-        "explanation": "Correct. Large fibers (vibration) are often affected first."
+        "explanation": "Correct. Large fibers (vibration) are often affected first.",
+        "isCorrect": true
       },
       {
         "text": "Stroke",
@@ -640,7 +661,8 @@ window.Test_L46 = [
       },
       {
         "text": "Was there tongue biting or incontinence?",
-        "explanation": "Correct. These are highly suggestive of seizure activity vs simple syncope."
+        "explanation": "Correct. These are highly suggestive of seizure activity vs simple syncope.",
+        "isCorrect": true
       },
       {
         "text": "Did you eat breakfast?",
@@ -670,7 +692,8 @@ window.Test_L46 = [
       },
       {
         "text": "Athetosis",
-        "explanation": "Correct. 'Snake-like'."
+        "explanation": "Correct. 'Snake-like'.",
+        "isCorrect": true
       },
       {
         "text": "Chorea",
@@ -700,7 +723,8 @@ window.Test_L46 = [
       },
       {
         "text": "Pressing down on the top of the head while neutral",
-        "explanation": "Correct. Reproduces pain in cervical compression."
+        "explanation": "Correct. Reproduces pain in cervical compression.",
+        "isCorrect": true
       },
       {
         "text": "Rotating the head and pressing down",
@@ -730,7 +754,8 @@ window.Test_L46 = [
       },
       {
         "text": "Absence of touch sensation",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Pins and needles sensation",
@@ -764,7 +789,8 @@ window.Test_L46 = [
       },
       {
         "text": "Sensory Cortex (Parietal Lobe)",
-        "explanation": "Correct. Patient feels separate touches but one 'extinguishes' when touched simultaneously."
+        "explanation": "Correct. Patient feels separate touches but one 'extinguishes' when touched simultaneously.",
+        "isCorrect": true
       },
       {
         "text": "Thalamus",
@@ -790,7 +816,8 @@ window.Test_L46 = [
       },
       {
         "text": "Nuchal Rigidity (Stiff Neck)",
-        "explanation": "Correct. Along with Kernig/Brudzinski."
+        "explanation": "Correct. Along with Kernig/Brudzinski.",
+        "isCorrect": true
       },
       {
         "text": "Positive Phalen's test",
@@ -824,7 +851,8 @@ window.Test_L46 = [
       },
       {
         "text": "High HDL Cholesterol",
-        "explanation": "Correct. High HDL ('Good' cholesterol) is protective. Low HDL is a risk."
+        "explanation": "Correct. High HDL ('Good' cholesterol) is protective. Low HDL is a risk.",
+        "isCorrect": true
       },
       {
         "text": "Atrial Fibrillation",
@@ -854,7 +882,8 @@ window.Test_L46 = [
       },
       {
         "text": "Fingertips",
-        "explanation": "Correct. High density of mechanoreceptors (2-4mm)."
+        "explanation": "Correct. High density of mechanoreceptors (2-4mm).",
+        "isCorrect": true
       },
       {
         "text": "Upper arm",
@@ -880,7 +909,8 @@ window.Test_L46 = [
       },
       {
         "text": "Tics",
-        "explanation": "Correct. Can be suppressed voluntarily for short periods."
+        "explanation": "Correct. Can be suppressed voluntarily for short periods.",
+        "isCorrect": true
       },
       {
         "text": "Chorea",
@@ -910,7 +940,8 @@ window.Test_L46 = [
       },
       {
         "text": "Internal Capsule (Right)",
-        "explanation": "Correct. Lacunar infarct affecting the tight bundle of motor fibers."
+        "explanation": "Correct. Lacunar infarct affecting the tight bundle of motor fibers.",
+        "isCorrect": true
       },
       {
         "text": "Brainstem",
@@ -940,7 +971,8 @@ window.Test_L46 = [
       },
       {
         "text": "Proprioception (Dorsal Columns)",
-        "explanation": "Correct. Standing stable with eyes open but swaying with eyes closed = Proprioceptive deficit."
+        "explanation": "Correct. Standing stable with eyes open but swaying with eyes closed = Proprioceptive deficit.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellar function",
@@ -970,7 +1002,8 @@ window.Test_L46 = [
       },
       {
         "text": "Polyneuropathy (e.g., Diabetic)",
-        "explanation": "Correct. Distal symmetric polyneuropathy."
+        "explanation": "Correct. Distal symmetric polyneuropathy.",
+        "isCorrect": true
       },
       {
         "text": "Radiculopathy",
@@ -1000,7 +1033,8 @@ window.Test_L46 = [
       },
       {
         "text": "To identify orthostatic causes",
-        "explanation": "Correct. Syncope upon standing suggests orthostatic hypotension."
+        "explanation": "Correct. Syncope upon standing suggests orthostatic hypotension.",
+        "isCorrect": true
       },
       {
         "text": "To check for seizures",
@@ -1030,7 +1064,8 @@ window.Test_L46 = [
       },
       {
         "text": "Trigeminal (V)",
-        "explanation": "Correct. V1, V2, V3 dermatomes."
+        "explanation": "Correct. V1, V2, V3 dermatomes.",
+        "isCorrect": true
       },
       {
         "text": "Oculomotor (III)",

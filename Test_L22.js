@@ -11,7 +11,8 @@ window.Test_L22 = [
       },
       {
         "text": "Nicotinic Neuronal (Nn) receptors",
-        "explanation": "Correct. Ganglionic blockers inhibit Nn receptors in both sympathetic and parasympathetic ganglia. Blocking sympathetic ganglia abolishes the baroreceptor reflex (vasoconstriction) upon standing, causing severe orthostatic hypotension."
+        "explanation": "Correct. Ganglionic blockers inhibit Nn receptors in both sympathetic and parasympathetic ganglia. Blocking sympathetic ganglia abolishes the baroreceptor reflex (vasoconstriction) upon standing, causing severe orthostatic hypotension.",
+        "isCorrect": true
       },
       {
         "text": "Adrenergic Alpha-1 receptors",
@@ -33,7 +34,7 @@ window.Test_L22 = [
   {
     "id": 2,
     "category": "Succinylcholine Adverse Effects",
-    "questionText": "A 7-year-old boy undergoes surgery for strabismus. Anesthesia is induced with Succinylcholine. Shortly after administration, his jaw muscles become rigid (masseter spasm), his temperature rapidly rises to 40°C, and he develops tachycardia and acidosis. The most likely underlying cause is:",
+    "questionText": "A 7-year-old boy undergoes surgery for strabismus. Anesthesia is induced with Succinylcholine. Shortly after administration, his jaw muscles become rigid (masseter spasm), his temperature rapidly rises to 40\u00b0C, and he develops tachycardia and acidosis. The most likely underlying cause is:",
     "options": [
       {
         "text": "Anaphylaxis to Succinylcholine",
@@ -41,7 +42,8 @@ window.Test_L22 = [
       },
       {
         "text": "Malignant Hyperthermia",
-        "explanation": "Correct. Triggered by Succinylcholine (and volatiles) in susceptible individuals (RyR1 mutation). Causes uncontrolled Ca2+ release, muscle rigidity, and heat production."
+        "explanation": "Correct. Triggered by Succinylcholine (and volatiles) in susceptible individuals (RyR1 mutation). Causes uncontrolled Ca2+ release, muscle rigidity, and heat production.",
+        "isCorrect": true
       },
       {
         "text": "Pseudocholinesterase Deficiency",
@@ -71,7 +73,8 @@ window.Test_L22 = [
       },
       {
         "text": "Competitively blocking Nicotinic (Nm) receptors",
-        "explanation": "Correct. Non-depolarizing agents (Curiums/Roniums) compete with Acetylcholine for the binding site, preventing channel opening."
+        "explanation": "Correct. Non-depolarizing agents (Curiums/Roniums) compete with Acetylcholine for the binding site, preventing channel opening.",
+        "isCorrect": true
       },
       {
         "text": "Inhibiting Acetylcholine release",
@@ -101,7 +104,8 @@ window.Test_L22 = [
       },
       {
         "text": "Severe Hyperkalemia",
-        "explanation": "Correct. Burn/Trauma/Denervation causes upregulation of extra-junctional ACh receptors. Succinylcholine stimulation causes massive K+ efflux -> Cardiac Arrest."
+        "explanation": "Correct. Burn/Trauma/Denervation causes upregulation of extra-junctional ACh receptors. Succinylcholine stimulation causes massive K+ efflux -> Cardiac Arrest.",
+        "isCorrect": true
       },
       {
         "text": "Bronchospasm",
@@ -131,7 +135,8 @@ window.Test_L22 = [
       },
       {
         "text": "Histamine Release",
-        "explanation": "Correct. Isoquinoline NMBAs (Atracurium, Mivacurium) can cause non-immune histamine release leading to hypotension and flushing."
+        "explanation": "Correct. Isoquinoline NMBAs (Atracurium, Mivacurium) can cause non-immune histamine release leading to hypotension and flushing.",
+        "isCorrect": true
       },
       {
         "text": "Ganglionic Blockade",
@@ -162,7 +167,8 @@ window.Test_L22 = [
       {
         "text": "Encapsulating the Steroidal NMBA molecule",
         "explanation": "Correct. Sugammadex forms a 1:1 complex with aminosteroid blockers (Rocuronium/Vecuronium), effectively sequestering them from the plasma.",
-    "pdfPage": 27
+        "pdfPage": 27,
+        "isCorrect": true
       },
       {
         "text": "Stimulating Nicotinic receptors directly",
@@ -193,7 +199,8 @@ window.Test_L22 = [
       {
         "text": "Pseudocholinesterase (Plasma Cholinesterase)",
         "explanation": "Correct. Succinylcholine is rapidly metabolized by Plasma Cholinesterase. Patients with atypical BCHE genes cannot metabolize it, leading to very prolonged paralysis.",
-    "pdfPage": 28
+        "pdfPage": 28,
+        "isCorrect": true
       },
       {
         "text": "Ryanodine Receptor",
@@ -227,7 +234,8 @@ window.Test_L22 = [
       },
       {
         "text": "Hoffman Elimination",
-        "explanation": "Correct. Spontaneous degradation in plasma dependent on pH and temperature. Independent of organ function."
+        "explanation": "Correct. Spontaneous degradation in plasma dependent on pH and temperature. Independent of organ function.",
+        "isCorrect": true
       },
       {
         "text": "Plasma Cholinesterase",
@@ -253,7 +261,8 @@ window.Test_L22 = [
       },
       {
         "text": "Fasciculations",
-        "explanation": "Correct. The initial depolarization opens channels, causing transient muscle contractions (fasciculations) before the membrane becomes unresponsive (paralysis)."
+        "explanation": "Correct. The initial depolarization opens channels, causing transient muscle contractions (fasciculations) before the membrane becomes unresponsive (paralysis).",
+        "isCorrect": true
       },
       {
         "text": "Clonus",
@@ -284,7 +293,8 @@ window.Test_L22 = [
       {
         "text": "Parasympathetic tone is dominant in the eye and gut, and it is blocked",
         "explanation": "Correct. At rest, Parasympathetic tone dominates the iris/ciliary muscle (vision) and GI tract (motility). Blocking ganglia removes this dominant tone -> Cycloplegia/Mydriasis and Constipation.",
-    "pdfPage": 11
+        "pdfPage": 11,
+        "isCorrect": true
       },
       {
         "text": "Adrenal medulla release of epinephrine is increased",
@@ -314,7 +324,8 @@ window.Test_L22 = [
       },
       {
         "text": "Bradycardia",
-        "explanation": "Correct. Neostigmine increases ACh at ALL muscarinic synapses too (heart -> Vagus -> Bradycardia). Glycopyrrolate blocks this side effect."
+        "explanation": "Correct. Neostigmine increases ACh at ALL muscarinic synapses too (heart -> Vagus -> Bradycardia). Glycopyrrolate blocks this side effect.",
+        "isCorrect": true
       },
       {
         "text": "Hypertension",
@@ -345,7 +356,8 @@ window.Test_L22 = [
       {
         "text": "Laudanosine",
         "explanation": "Correct. Metabolite of Atracurium via Hoffman elimination. It crosses BBB and lowers seizure threshold (CNS excitation).",
-    "pdfPage": 35
+        "pdfPage": 35,
+        "isCorrect": true
       },
       {
         "text": "Choline",
@@ -375,7 +387,8 @@ window.Test_L22 = [
       },
       {
         "text": "Increases intraocular pressure via extraocular muscle contraction",
-        "explanation": "Correct. Fasciculations of eye muscles squeeze the globe, potentially extruding vitreous humor in an open injury."
+        "explanation": "Correct. Fasciculations of eye muscles squeeze the globe, potentially extruding vitreous humor in an open injury.",
+        "isCorrect": true
       },
       {
         "text": "Causes clouding of the cornea",
@@ -405,7 +418,8 @@ window.Test_L22 = [
       },
       {
         "text": "Aminosteroid Non-depolarizing NMBA",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Isoquinoline Non-depolarizing NMBA",
@@ -440,7 +454,8 @@ window.Test_L22 = [
       {
         "text": "Constant but diminished response to stimulation",
         "explanation": "Correct. No fade. Block is constant.",
-    "pdfPage": 24
+        "pdfPage": 24,
+        "isCorrect": true
       },
       {
         "text": "Post-tetanic facilitation",
@@ -467,7 +482,8 @@ window.Test_L22 = [
       {
         "text": "Parasympathetic (Vagal)",
         "explanation": "Correct. Therefore, blocking ganglia (removing vagal tone) causes Tachycardia.",
-    "pdfPage": 11
+        "pdfPage": 11,
+        "isCorrect": true
       },
       {
         "text": "Dopaminergic",
@@ -498,7 +514,8 @@ window.Test_L22 = [
       {
         "text": "Sympathetic",
         "explanation": "Correct. Therefore, blocking ganglia removes this constriction tone -> Vasodilation -> Hypotension.",
-    "pdfPage": 11
+        "pdfPage": 11,
+        "isCorrect": true
       },
       {
         "text": "Somatic",
@@ -529,7 +546,8 @@ window.Test_L22 = [
       {
         "text": "Succinylmonocholine stimulating cardiac muscarinic receptors",
         "explanation": "Correct. The metabolite sensitizes the heart's M2 receptors. Common in peds or repeat dosing.",
-    "pdfPage": 30
+        "pdfPage": 30,
+        "isCorrect": true
       },
       {
         "text": "Hyperkalemia",
@@ -560,7 +578,8 @@ window.Test_L22 = [
       {
         "text": "Hepatic metabolism and Biliary excretion",
         "explanation": "Correct. Liver failure prolongs its effect.",
-    "pdfPage": 34
+        "pdfPage": 34,
+        "isCorrect": true
       },
       {
         "text": "Renal excretion unchanged",
@@ -595,7 +614,8 @@ window.Test_L22 = [
       {
         "text": "Succinylcholine",
         "explanation": "Correct. Fastest onset (30-60s) and shortest duration.",
-    "pdfPage": 29
+        "pdfPage": 29,
+        "isCorrect": true
       },
       {
         "text": "Vecuronium",
@@ -622,7 +642,8 @@ window.Test_L22 = [
       {
         "text": "Acetylcholine",
         "explanation": "Correct. That's why it binds ACh receptors so well.",
-    "pdfPage": 23
+        "pdfPage": 23,
+        "isCorrect": true
       },
       {
         "text": "Atropine",
@@ -657,7 +678,8 @@ window.Test_L22 = [
       {
         "text": "Diaphragm",
         "explanation": "Correct. Respiratory muscles are the last to go and the first to return.",
-    "pdfPage": 21
+        "pdfPage": 21,
+        "isCorrect": true
       },
       {
         "text": "Face",
@@ -684,7 +706,8 @@ window.Test_L22 = [
       {
         "text": "Its active metabolite accumulates in renal failure",
         "explanation": "Correct. Vecuronium has some renal excretion and active metabolites. Cisatracurium is safer.",
-    "pdfPage": 34
+        "pdfPage": 34,
+        "isCorrect": true
       },
       {
         "text": "It releases histamine",
@@ -715,7 +738,8 @@ window.Test_L22 = [
       {
         "text": "No",
         "explanation": "Correct. THE PATIENT IS AWAKE AND PARALYZED if you don't give anesthesia/sedation.",
-    "pdfPage": 21
+        "pdfPage": 21,
+        "isCorrect": true
       },
       {
         "text": "Only Succinylcholine",
@@ -746,7 +770,8 @@ window.Test_L22 = [
       {
         "text": "Nicotinic Neuronal (Nn)",
         "explanation": "Correct.",
-    "pdfPage": 6
+        "pdfPage": 6,
+        "isCorrect": true
       },
       {
         "text": "Nicotinic Muscle (Nm)",
@@ -777,7 +802,8 @@ window.Test_L22 = [
       {
         "text": "Increasing ACh to out-compete the blocker",
         "explanation": "Correct.",
-    "pdfPage": 25
+        "pdfPage": 25,
+        "isCorrect": true
       },
       {
         "text": "Blocking Acetylcholinesterase at the ganglia",
@@ -808,7 +834,8 @@ window.Test_L22 = [
       {
         "text": "Non-depolarizing block",
         "explanation": "Correct. The receptor desensitizes and starts to fade.",
-    "pdfPage": 24
+        "pdfPage": 24,
+        "isCorrect": true
       },
       {
         "text": "Permanent paralysis",
@@ -839,7 +866,8 @@ window.Test_L22 = [
       {
         "text": "It reduces gastric motility, worsening stasis",
         "explanation": "Correct. Blocking the dominant parasympathetic tone stops the gut.",
-    "pdfPage": 13
+        "pdfPage": 13,
+        "isCorrect": true
       },
       {
         "text": "It causes acid hypersecretion",
@@ -870,7 +898,8 @@ window.Test_L22 = [
       {
         "text": "Sweat glands are Sympathetic Cholinergic",
         "explanation": "Correct. They are sympathetic, but the postganglionic fiber releases ACh. The Ganglion uses ACh/Nn like all others, so it is blocked.",
-    "pdfPage": 11
+        "pdfPage": 11,
+        "isCorrect": true
       },
       {
         "text": "They block muscarinic receptors directly",
@@ -901,7 +930,8 @@ window.Test_L22 = [
       {
         "text": "No",
         "explanation": "Correct. They are highly charged (Quaternary), so fetal exposure is minimal.",
-    "pdfPage": 36
+        "pdfPage": 36,
+        "isCorrect": true
       },
       {
         "text": "Only in first trimester",
@@ -928,7 +958,8 @@ window.Test_L22 = [
       {
         "text": "Absorbed orally",
         "explanation": "Correct. Mecamylamine is a tertiary amine (crosses membranes). Curare derivatives are quaternary (no oral absorption).",
-    "pdfPage": 7
+        "pdfPage": 7,
+        "isCorrect": true
       },
       {
         "text": "Used for muscle paralysis",
@@ -963,7 +994,8 @@ window.Test_L22 = [
       {
         "text": "Increases",
         "explanation": "Correct. Due to muscle contraction.",
-    "pdfPage": 31
+        "pdfPage": 31,
+        "isCorrect": true
       },
       {
         "text": "Has no effect on",
@@ -1002,7 +1034,8 @@ window.Test_L22 = [
       {
         "text": "Tubocurarine / Atracurium",
         "explanation": "Correct. The older benzylisoquinolines are histamine releasers.",
-    "pdfPage": 34
+        "pdfPage": 34,
+        "isCorrect": true
       },
       {
         "text": "Pancuronium",
@@ -1025,7 +1058,8 @@ window.Test_L22 = [
       {
         "text": "It wears off quickly if intubation fails",
         "explanation": "Correct. If you can't get the tube in, you want the patient to wake up and breathe on their own ASAP. Long acting blockers would be disastrous (Can't intubate, can't ventilate).",
-    "pdfPage": 29
+        "pdfPage": 29,
+        "isCorrect": true
       },
       {
         "text": "It reduces secretions",
@@ -1056,7 +1090,8 @@ window.Test_L22 = [
       {
         "text": "Urinary Retention",
         "explanation": "Correct. Blocks parasympathetic contraction of the detrusor.",
-    "pdfPage": 11
+        "pdfPage": 11,
+        "isCorrect": true
       },
       {
         "text": "Spasms",

@@ -11,7 +11,8 @@ window.Test_L25 = [
       },
       {
         "text": "Mammillary Bodies",
-        "explanation": "Correct. Wernicke-Korsakoff syndrome (thiamine deficiency) classically damages the Mammillary Bodies and Medial Thalamus."
+        "explanation": "Correct. Wernicke-Korsakoff syndrome (thiamine deficiency) classically damages the Mammillary Bodies and Medial Thalamus.",
+        "isCorrect": true
       },
       {
         "text": "Ventromedial Nucleus",
@@ -53,7 +54,8 @@ window.Test_L25 = [
       },
       {
         "text": "Focusing",
-        "explanation": "Correct. The 5th F is actually \"***\" (reproduction), not Focusing."
+        "explanation": "Correct. The 5th F is actually \"***\" (reproduction), not Focusing.",
+        "isCorrect": true
       }
     ],
     "correctAnswerIndex": 4,
@@ -71,7 +73,8 @@ window.Test_L25 = [
       },
       {
         "text": "Kluver-Bucy Syndrome",
-        "explanation": "Correct. Caused by bilateral Amygdala lesions."
+        "explanation": "Correct. Caused by bilateral Amygdala lesions.",
+        "isCorrect": true
       },
       {
         "text": "Korsakoff Psychosis",
@@ -101,7 +104,8 @@ window.Test_L25 = [
       },
       {
         "text": "Seahorse",
-        "explanation": "Correct. Its shape resembles a seahorse."
+        "explanation": "Correct. Its shape resembles a seahorse.",
+        "isCorrect": true
       },
       {
         "text": "Bridge",
@@ -131,7 +135,8 @@ window.Test_L25 = [
       },
       {
         "text": "Anterograde Amnesia with preserved Procedural Memory",
-        "explanation": "Correct. Hippocampus is required for episodic (declarative) memory but NOT procedural (muscle) memory."
+        "explanation": "Correct. Hippocampus is required for episodic (declarative) memory but NOT procedural (muscle) memory.",
+        "isCorrect": true
       },
       {
         "text": "Global Transient Amnesia",
@@ -161,7 +166,8 @@ window.Test_L25 = [
       },
       {
         "text": "Fornix",
-        "explanation": "Correct. The major tract connecting Hippocampus to Mammillary Bodies."
+        "explanation": "Correct. The major tract connecting Hippocampus to Mammillary Bodies.",
+        "isCorrect": true
       },
       {
         "text": "Anterior Commissure",
@@ -191,7 +197,8 @@ window.Test_L25 = [
       },
       {
         "text": "Herpes Simplex Virus (HSV-1)",
-        "explanation": "Correct. HSV Encephalitis typically targets the temporal lobes/limbic system."
+        "explanation": "Correct. HSV Encephalitis typically targets the temporal lobes/limbic system.",
+        "isCorrect": true
       },
       {
         "text": "Toxoplasma gondii",
@@ -221,7 +228,8 @@ window.Test_L25 = [
       },
       {
         "text": "Fear and Anger",
-        "explanation": "Correct. Amygdala mediates primal 'Fight or Flight' emotions."
+        "explanation": "Correct. Amygdala mediates primal 'Fight or Flight' emotions.",
+        "isCorrect": true
       },
       {
         "text": "Drowsiness",
@@ -251,7 +259,8 @@ window.Test_L25 = [
       },
       {
         "text": "He feels the pain, but the emotional suffering/unpleasantness is gone",
-        "explanation": "Correct. The Cingulate Cortex processes the emotional 'suffering' of pain."
+        "explanation": "Correct. The Cingulate Cortex processes the emotional 'suffering' of pain.",
+        "isCorrect": true
       },
       {
         "text": "He has lost all memory of the pain",
@@ -281,7 +290,8 @@ window.Test_L25 = [
       },
       {
         "text": "Posterior Hippocampus (Right side)",
-        "explanation": "Correct. The Right Hippocampus is specialized for Spatial Navigation."
+        "explanation": "Correct. The Right Hippocampus is specialized for Spatial Navigation.",
+        "isCorrect": true
       },
       {
         "text": "Amygdala",
@@ -311,7 +321,8 @@ window.Test_L25 = [
       },
       {
         "text": "Hyperactivation of the Amygdala",
-        "explanation": "Correct. The 'Fear Center' is overactive and fails to be inhibited by the prefrontal cortex."
+        "explanation": "Correct. The 'Fear Center' is overactive and fails to be inhibited by the prefrontal cortex.",
+        "isCorrect": true
       },
       {
         "text": "Lesion of the Thalamus",
@@ -341,7 +352,8 @@ window.Test_L25 = [
       },
       {
         "text": "Social behavior and decision making",
-        "explanation": "Correct. Lesions here (like Phineas Gage) cause personality changes and disinhibition."
+        "explanation": "Correct. Lesions here (like Phineas Gage) cause personality changes and disinhibition.",
+        "isCorrect": true
       },
       {
         "text": "Motor coordination",
@@ -371,7 +383,8 @@ window.Test_L25 = [
       },
       {
         "text": "Hippocampus and cholinergic neurons of the Basal Forebrain",
-        "explanation": "Correct. Early atrophy of Hippocampus leads to severe declarative memory loss."
+        "explanation": "Correct. Early atrophy of Hippocampus leads to severe declarative memory loss.",
+        "isCorrect": true
       },
       {
         "text": "Caudate Nucleus",
@@ -401,7 +414,8 @@ window.Test_L25 = [
       },
       {
         "text": "Pleasure and Reward",
-        "explanation": "Correct. This is the 'Reward Center' (Dopamine pathway). Rats will press a lever to stimulate this area until exhaustion."
+        "explanation": "Correct. This is the 'Reward Center' (Dopamine pathway). Rats will press a lever to stimulate this area until exhaustion.",
+        "isCorrect": true
       },
       {
         "text": "Nausea",
@@ -431,7 +445,8 @@ window.Test_L25 = [
       },
       {
         "text": "Medial Temporal Lobe",
-        "explanation": "Correct. Typical 'Uncinate Fit' involving the Uncus/Parahippocampal gyrus."
+        "explanation": "Correct. Typical 'Uncinate Fit' involving the Uncus/Parahippocampal gyrus.",
+        "isCorrect": true
       },
       {
         "text": "Occipital Lobe",
@@ -457,7 +472,8 @@ window.Test_L25 = [
     "options": [
       {
         "text": "Pyramidal cells of the Hippocampus (CA1 sector)",
-        "explanation": "Correct. 'Sommer's Sector' in CA1 is notoriously vulnerable to hypoxia."
+        "explanation": "Correct. 'Sommer's Sector' in CA1 is notoriously vulnerable to hypoxia.",
+        "isCorrect": true
       },
       {
         "text": "Motor neurons in the spinal cord",
@@ -491,7 +507,8 @@ window.Test_L25 = [
       },
       {
         "text": "Confabulation",
-        "explanation": "Correct. A hallmark of Korsakoff's psychosis. The brain fills in memory gaps with made-up stories."
+        "explanation": "Correct. A hallmark of Korsakoff's psychosis. The brain fills in memory gaps with made-up stories.",
+        "isCorrect": true
       },
       {
         "text": "Malingering",
@@ -521,7 +538,8 @@ window.Test_L25 = [
       },
       {
         "text": "Mammillary Bodies",
-        "explanation": "Correct. Via the Mammillothalamic Tract."
+        "explanation": "Correct. Via the Mammillothalamic Tract.",
+        "isCorrect": true
       },
       {
         "text": "Cerebellum",
@@ -555,7 +573,8 @@ window.Test_L25 = [
       },
       {
         "text": "The Basal Ganglia and Cerebellum",
-        "explanation": "Correct. These structures manage skills/habits and were intact in H.M."
+        "explanation": "Correct. These structures manage skills/habits and were intact in H.M.",
+        "isCorrect": true
       },
       {
         "text": "The Mammillary Bodies",
@@ -581,7 +600,8 @@ window.Test_L25 = [
       },
       {
         "text": "Corpus Callosum",
-        "explanation": "Correct. It sits just superior to the Corpus Callosum."
+        "explanation": "Correct. It sits just superior to the Corpus Callosum.",
+        "isCorrect": true
       },
       {
         "text": "Optic Chiasm",
@@ -611,7 +631,8 @@ window.Test_L25 = [
       },
       {
         "text": "Loss of smell (Hyposmia) reducing food enjoyment",
-        "explanation": "Correct. Olfaction declines with age, reducing flavor and the 'reward' of eating."
+        "explanation": "Correct. Olfaction declines with age, reducing flavor and the 'reward' of eating.",
+        "isCorrect": true
       },
       {
         "text": "Increased Amygdala activation",
@@ -641,7 +662,8 @@ window.Test_L25 = [
       },
       {
         "text": "Parahippocampal Gyrus",
-        "explanation": "Correct. These form a continuous ring of cortex around the brainstem."
+        "explanation": "Correct. These form a continuous ring of cortex around the brainstem.",
+        "isCorrect": true
       },
       {
         "text": "Superior Temporal Gyrus",
@@ -671,7 +693,8 @@ window.Test_L25 = [
       },
       {
         "text": "Hippocampus",
-        "explanation": "Correct. Rabies has a high affinity for the Hippocampus and Cerebellum."
+        "explanation": "Correct. Rabies has a high affinity for the Hippocampus and Cerebellum.",
+        "isCorrect": true
       },
       {
         "text": "Basal Ganglia",
@@ -701,7 +724,8 @@ window.Test_L25 = [
       },
       {
         "text": "Amygdala",
-        "explanation": "Correct. Connects Amygdala to Hypothalamus/Septal area."
+        "explanation": "Correct. Connects Amygdala to Hypothalamus/Septal area.",
+        "isCorrect": true
       },
       {
         "text": "Cingulate",
@@ -731,7 +755,8 @@ window.Test_L25 = [
       },
       {
         "text": "Prefrontal Cortex",
-        "explanation": "Correct. Working memory (scratchpad) is a function of the Dorsolateral Prefrontal Cortex."
+        "explanation": "Correct. Working memory (scratchpad) is a function of the Dorsolateral Prefrontal Cortex.",
+        "isCorrect": true
       },
       {
         "text": "Amygdala",
@@ -761,7 +786,8 @@ window.Test_L25 = [
       },
       {
         "text": "Amygdala",
-        "explanation": "Correct. Emotional learning/conditioning."
+        "explanation": "Correct. Emotional learning/conditioning.",
+        "isCorrect": true
       },
       {
         "text": "Hippocampus",
@@ -787,7 +813,8 @@ window.Test_L25 = [
     "options": [
       {
         "text": "Uncus / Piriform Cortex",
-        "explanation": "Correct. Primary olfactory cortex."
+        "explanation": "Correct. Primary olfactory cortex.",
+        "isCorrect": true
       },
       {
         "text": "Postcentral Gyrus",
@@ -817,7 +844,8 @@ window.Test_L25 = [
     "options": [
       {
         "text": "Parahippocampal Gyrus / Entorhinal Cortex",
-        "explanation": "Correct. Completing the Papez circuit back to the hippocampus entry."
+        "explanation": "Correct. Completing the Papez circuit back to the hippocampus entry.",
+        "isCorrect": true
       },
       {
         "text": "Frontal Lobe",
@@ -851,7 +879,8 @@ window.Test_L25 = [
       },
       {
         "text": "Hyperphagia (overeating) and Obesity",
-        "explanation": "Correct. VMH is the Satiety Center. Lesion -> Never full -> Obesity."
+        "explanation": "Correct. VMH is the Satiety Center. Lesion -> Never full -> Obesity.",
+        "isCorrect": true
       },
       {
         "text": "Memory loss",
@@ -881,7 +910,8 @@ window.Test_L25 = [
       },
       {
         "text": "Hippocampus",
-        "explanation": "Correct. It's the 'doorway' to the Hippocampus."
+        "explanation": "Correct. It's the 'doorway' to the Hippocampus.",
+        "isCorrect": true
       },
       {
         "text": "Thalamus",
@@ -911,7 +941,8 @@ window.Test_L25 = [
       },
       {
         "text": "Inhibits the limbic/hypothalamic rage centers",
-        "explanation": "Correct. Cortex provides 'Top-Down' inhibition of primal emotions."
+        "explanation": "Correct. Cortex provides 'Top-Down' inhibition of primal emotions.",
+        "isCorrect": true
       },
       {
         "text": "Has no effect on emotion",
@@ -941,7 +972,8 @@ window.Test_L25 = [
       },
       {
         "text": "Anterior Limb of Internal Capsule",
-        "explanation": "Correct. Thalamocortical fibers."
+        "explanation": "Correct. Thalamocortical fibers.",
+        "isCorrect": true
       },
       {
         "text": "External Capsule",
@@ -967,7 +999,8 @@ window.Test_L25 = [
     "options": [
       {
         "text": "Prefrontal Cortex / Orbitofrontal Cortex",
-        "explanation": "Correct. The seat of executive function and social inhibition."
+        "explanation": "Correct. The seat of executive function and social inhibition.",
+        "isCorrect": true
       },
       {
         "text": "Occipital Lobe",
@@ -1001,7 +1034,8 @@ window.Test_L25 = [
       },
       {
         "text": "Basal Nucleus of Meynert",
-        "explanation": "Correct. The primary source of ACh to the cortex."
+        "explanation": "Correct. The primary source of ACh to the cortex.",
+        "isCorrect": true
       },
       {
         "text": "Substantia Nigra",
@@ -1031,7 +1065,8 @@ window.Test_L25 = [
       },
       {
         "text": "Vitamin B1 (Thiamine)",
-        "explanation": "Correct. Reverses the metabolic block."
+        "explanation": "Correct. Reverses the metabolic block.",
+        "isCorrect": true
       },
       {
         "text": "Vitamin C",

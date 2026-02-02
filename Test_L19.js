@@ -11,7 +11,8 @@ window.Test_L19 = [
       },
       {
         "text": "Methacholine",
-        "explanation": "Correct. Methacholine is a muscarinic agonist used in the 'Methacholine Challenge Test' to induce bronchoconstriction in susceptible individuals (asthmatics)."
+        "explanation": "Correct. Methacholine is a muscarinic agonist used in the 'Methacholine Challenge Test' to induce bronchoconstriction in susceptible individuals (asthmatics).",
+        "isCorrect": true
       },
       {
         "text": "Ipratropium",
@@ -45,7 +46,8 @@ window.Test_L19 = [
       },
       {
         "text": "Stimulating Muscarinic receptors (M3)",
-        "explanation": "Correct. Bethanechol is a muscarinic agonist that stimulates the detrusor muscle to contract and voids the bladder."
+        "explanation": "Correct. Bethanechol is a muscarinic agonist that stimulates the detrusor muscle to contract and voids the bladder.",
+        "isCorrect": true
       },
       {
         "text": "Inhibiting Acetylcholinesterase",
@@ -71,7 +73,8 @@ window.Test_L19 = [
       },
       {
         "text": "Pilocarpine",
-        "explanation": "Correct. Pilocarpine causes miosis (pupil constriction) and contraction of the ciliary muscle, opening the trabecular meshwork to drain aqueous humor."
+        "explanation": "Correct. Pilocarpine causes miosis (pupil constriction) and contraction of the ciliary muscle, opening the trabecular meshwork to drain aqueous humor.",
+        "isCorrect": true
       },
       {
         "text": "Timolol",
@@ -105,7 +108,8 @@ window.Test_L19 = [
       },
       {
         "text": "M3 receptors",
-        "explanation": "Correct. M3 receptors are located on exocrine glands (salivary, lacrimal). Cevimeline is an M3-selective agonist."
+        "explanation": "Correct. M3 receptors are located on exocrine glands (salivary, lacrimal). Cevimeline is an M3-selective agonist.",
+        "isCorrect": true
       },
       {
         "text": "Nm receptors",
@@ -135,7 +139,8 @@ window.Test_L19 = [
       },
       {
         "text": "Partial agonist at alpha-4-beta-2 nicotinic receptors",
-        "explanation": "Correct. As a partial agonist, it stimulates the receptor enough to stop withdrawal (craving), but blocks binding of full nicotine (reducing reward)."
+        "explanation": "Correct. As a partial agonist, it stimulates the receptor enough to stop withdrawal (craving), but blocks binding of full nicotine (reducing reward).",
+        "isCorrect": true
       },
       {
         "text": "Cholinesterase inhibitor",
@@ -161,7 +166,8 @@ window.Test_L19 = [
       },
       {
         "text": "Depolarizing neuromuscular blockade",
-        "explanation": "Correct. Excessive nicotinic stimulation keeps Na+ channels open/inactivated (Depolarizing Block), preventing repolarization and new signals."
+        "explanation": "Correct. Excessive nicotinic stimulation keeps Na+ channels open/inactivated (Depolarizing Block), preventing repolarization and new signals.",
+        "isCorrect": true
       },
       {
         "text": "Inhibition of ACh release",
@@ -191,7 +197,8 @@ window.Test_L19 = [
       },
       {
         "text": "Bethanechol can induce severe bronchoconstriction",
-        "explanation": "Correct. Bethanechol is a non-selective muscarinic agonist. M3 stimulation in the lungs causes bronchoconstriction, dangerous in COPD/Asthma."
+        "explanation": "Correct. Bethanechol is a non-selective muscarinic agonist. M3 stimulation in the lungs causes bronchoconstriction, dangerous in COPD/Asthma.",
+        "isCorrect": true
       },
       {
         "text": "Bethanechol is ineffective for urinary retention",
@@ -225,7 +232,8 @@ window.Test_L19 = [
       },
       {
         "text": "Inhibit Adenylyl Cyclase and open Potassium channels",
-        "explanation": "Correct. M2 is Gi coupled. It lowers cAMP and opens K+ channels (GIRK), leading to hyperpolarization and bradycardia."
+        "explanation": "Correct. M2 is Gi coupled. It lowers cAMP and opens K+ channels (GIRK), leading to hyperpolarization and bradycardia.",
+        "isCorrect": true
       },
       {
         "text": "Close Potassium channels",
@@ -251,7 +259,8 @@ window.Test_L19 = [
       },
       {
         "text": "Pupillary constriction (Miosis)",
-        "explanation": "Correct. The pupil is fixed in a small/constricted state, preventing enough light from entering the eye in dark environments."
+        "explanation": "Correct. The pupil is fixed in a small/constricted state, preventing enough light from entering the eye in dark environments.",
+        "isCorrect": true
       },
       {
         "text": "Corneal clouding",
@@ -281,7 +290,8 @@ window.Test_L19 = [
       },
       {
         "text": "Stimulates M3 receptors to increase peristalsis",
-        "explanation": "Correct. Bethanechol increases GI smooth muscle tone and motility via M3 receptors."
+        "explanation": "Correct. Bethanechol increases GI smooth muscle tone and motility via M3 receptors.",
+        "isCorrect": true
       },
       {
         "text": "Blocks M2 receptors",
@@ -307,7 +317,8 @@ window.Test_L19 = [
     "options": [
       {
         "text": "Addition of a Beta-methyl group",
-        "explanation": "Correct. The Beta-methyl group sterically hinders Nicotinic binding (selectivity) and slows AChE hydrolysis."
+        "explanation": "Correct. The Beta-methyl group sterically hinders Nicotinic binding (selectivity) and slows AChE hydrolysis.",
+        "isCorrect": true
       },
       {
         "text": "Addition of a Carbamyl group",
@@ -345,7 +356,8 @@ window.Test_L19 = [
       },
       {
         "text": "Gq",
-        "explanation": "Correct. Gq -> PLC -> IP3/DAG -> Calcium."
+        "explanation": "Correct. Gq -> PLC -> IP3/DAG -> Calcium.",
+        "isCorrect": true
       },
       {
         "text": "Gt",
@@ -371,7 +383,8 @@ window.Test_L19 = [
       },
       {
         "text": "Varenicline",
-        "explanation": "Correct. Chantix."
+        "explanation": "Correct. Chantix.",
+        "isCorrect": true
       },
       {
         "text": "Bethanechol",
@@ -401,7 +414,8 @@ window.Test_L19 = [
       },
       {
         "text": "Facilitating outflow via trabecular meshwork",
-        "explanation": "Correct. Contraction of ciliary muscle/sphincter pulls the meshwork open."
+        "explanation": "Correct. Contraction of ciliary muscle/sphincter pulls the meshwork open.",
+        "isCorrect": true
       },
       {
         "text": "Increasing uveoscleral outflow",
@@ -435,7 +449,8 @@ window.Test_L19 = [
       },
       {
         "text": "Mechanical Bowel Obstruction",
-        "explanation": "Correct. Increasing motility against a blockage can cause perforation."
+        "explanation": "Correct. Increasing motility against a blockage can cause perforation.",
+        "isCorrect": true
       },
       {
         "text": "Dry eyes",
@@ -469,7 +484,8 @@ window.Test_L19 = [
       },
       {
         "text": "Bradycardia",
-        "explanation": "Correct. DUMBBELSS -> Bradycardia is a key feature."
+        "explanation": "Correct. DUMBBELSS -> Bradycardia is a key feature.",
+        "isCorrect": true
       },
       {
         "text": "Urinary retention",
@@ -495,7 +511,8 @@ window.Test_L19 = [
       },
       {
         "text": "Neuromuscular Junction",
-        "explanation": "Correct. Nm = Muscle type."
+        "explanation": "Correct. Nm = Muscle type.",
+        "isCorrect": true
       },
       {
         "text": "CNS",
@@ -525,7 +542,8 @@ window.Test_L19 = [
       },
       {
         "text": "Pilocarpine",
-        "explanation": "Correct. Pupil (Glaucoma) and Saliva (Xerostomia)."
+        "explanation": "Correct. Pupil (Glaucoma) and Saliva (Xerostomia).",
+        "isCorrect": true
       },
       {
         "text": "Nicotine",
@@ -547,7 +565,8 @@ window.Test_L19 = [
     "options": [
       {
         "text": "Nitric Oxide (NO)",
-        "explanation": "Correct. Causes vasodilation."
+        "explanation": "Correct. Causes vasodilation.",
+        "isCorrect": true
       },
       {
         "text": "Norepinephrine",
@@ -581,7 +600,8 @@ window.Test_L19 = [
       },
       {
         "text": "A Beta-2 Agonist (e.g., Albuterol)",
-        "explanation": "Correct. Physiological antagonism to open airways."
+        "explanation": "Correct. Physiological antagonism to open airways.",
+        "isCorrect": true
       },
       {
         "text": "Another dose of Methacholine",
@@ -611,7 +631,8 @@ window.Test_L19 = [
       },
       {
         "text": "Cholinergic crisis (Organophosphate)",
-        "explanation": "Correct. SLUDGE symptoms (wet) + CNS effects (seizures) = Cholinergic excess."
+        "explanation": "Correct. SLUDGE symptoms (wet) + CNS effects (seizures) = Cholinergic excess.",
+        "isCorrect": true
       },
       {
         "text": "Sympathomimetic overdose",
@@ -641,7 +662,8 @@ window.Test_L19 = [
       },
       {
         "text": "Alcohol exacerbates neuropsychiatric side effects of Varenicline",
-        "explanation": "Correct. Known interaction increasing behavioral risk."
+        "explanation": "Correct. Known interaction increasing behavioral risk.",
+        "isCorrect": true
       },
       {
         "text": "Varenicline causes rapid alcohol intoxication",
@@ -671,7 +693,8 @@ window.Test_L19 = [
       },
       {
         "text": "Bethanechol is resistant to hydrolysis by AChE",
-        "explanation": "Correct. The carbamyl group protects it, allowing oral bioavailability and duration."
+        "explanation": "Correct. The carbamyl group protects it, allowing oral bioavailability and duration.",
+        "isCorrect": true
       },
       {
         "text": "Acetylcholine is toxic orally",
@@ -701,7 +724,8 @@ window.Test_L19 = [
       },
       {
         "text": "Drainage of aqueous humor",
-        "explanation": "Correct. It drains fluid into the venous system."
+        "explanation": "Correct. It drains fluid into the venous system.",
+        "isCorrect": true
       },
       {
         "text": "Refracting light",
@@ -731,7 +755,8 @@ window.Test_L19 = [
       },
       {
         "text": "Tertiary (Uncharged)",
-        "explanation": "Correct. This allows it to cross membranes (Cornea, BBB)."
+        "explanation": "Correct. This allows it to cross membranes (Cornea, BBB).",
+        "isCorrect": true
       },
       {
         "text": "Secondary",
@@ -761,7 +786,8 @@ window.Test_L19 = [
       },
       {
         "text": "Muscarinic Agonist",
-        "explanation": "Correct. Atropine blocks Muscarinic receptors. Lack of skeletal muscle effect rules out Nicotinic action."
+        "explanation": "Correct. Atropine blocks Muscarinic receptors. Lack of skeletal muscle effect rules out Nicotinic action.",
+        "isCorrect": true
       },
       {
         "text": "Beta Agonist",
@@ -791,7 +817,8 @@ window.Test_L19 = [
       },
       {
         "text": "Increased acid secretion and motility",
-        "explanation": "Correct. And parietal cell stimulation (M1/M3)."
+        "explanation": "Correct. And parietal cell stimulation (M1/M3).",
+        "isCorrect": true
       },
       {
         "text": "Decreased motility",
@@ -821,7 +848,8 @@ window.Test_L19 = [
       },
       {
         "text": "Reflex Tachycardia",
-        "explanation": "Correct. Vasodilation -> HypOtension -> Baroreceptors -> Reflex Tachycardia."
+        "explanation": "Correct. Vasodilation -> HypOtension -> Baroreceptors -> Reflex Tachycardia.",
+        "isCorrect": true
       },
       {
         "text": "Reflex Hypertension",
@@ -851,7 +879,8 @@ window.Test_L19 = [
       },
       {
         "text": "M2 receptors",
-        "explanation": "Correct. Direct M2 stimulation on SA/AV nodes slows the heart."
+        "explanation": "Correct. Direct M2 stimulation on SA/AV nodes slows the heart.",
+        "isCorrect": true
       },
       {
         "text": "M3 receptors",
@@ -881,7 +910,8 @@ window.Test_L19 = [
       },
       {
         "text": "Relaxes",
-        "explanation": "Correct. The outlet must open (relax) while the pump (detrusor) contracts."
+        "explanation": "Correct. The outlet must open (relax) while the pump (detrusor) contracts.",
+        "isCorrect": true
       },
       {
         "text": "Spasms",
@@ -911,7 +941,8 @@ window.Test_L19 = [
       },
       {
         "text": "Vasoconstriction",
-        "explanation": "Correct. Sympathetic Ganglionic stimulation + Adrenal Medulla (Epi) release -> Vasoconstriction (HTN)."
+        "explanation": "Correct. Sympathetic Ganglionic stimulation + Adrenal Medulla (Epi) release -> Vasoconstriction (HTN).",
+        "isCorrect": true
       },
       {
         "text": "Neither",
@@ -941,7 +972,8 @@ window.Test_L19 = [
       },
       {
         "text": "Pilocarpine",
-        "explanation": "Correct. Often brand name Salagen."
+        "explanation": "Correct. Often brand name Salagen.",
+        "isCorrect": true
       },
       {
         "text": "Carbachol",
@@ -975,7 +1007,8 @@ window.Test_L19 = [
       },
       {
         "text": "Nicotinic (Nn)",
-        "explanation": "Correct. Pre-ganglionic sympathetic fibers release ACh onto Nn receptors on the adrenal medulla."
+        "explanation": "Correct. Pre-ganglionic sympathetic fibers release ACh onto Nn receptors on the adrenal medulla.",
+        "isCorrect": true
       },
       {
         "text": "Nicotinic (Nm)",
@@ -1001,7 +1034,8 @@ window.Test_L19 = [
       },
       {
         "text": "Direct",
-        "explanation": "Correct. It binds directly to the receptor (Agonist)."
+        "explanation": "Correct. It binds directly to the receptor (Agonist).",
+        "isCorrect": true
       },
       {
         "text": "Mixed",
@@ -1031,7 +1065,8 @@ window.Test_L19 = [
       },
       {
         "text": "Asthmatics",
-        "explanation": "Correct. Their airways are hyper-reactive to M3 stimulation."
+        "explanation": "Correct. Their airways are hyper-reactive to M3 stimulation.",
+        "isCorrect": true
       },
       {
         "text": "Patients with Gout",

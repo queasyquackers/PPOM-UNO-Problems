@@ -6,7 +6,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Anterior rotation is characterized by an inferior ASIS, superior PSIS, and functional long leg on the ipsilateral side."
+        "explanation": "Correct. Anterior rotation is characterized by an inferior ASIS, superior PSIS, and functional long leg on the ipsilateral side.",
+        "isCorrect": true
       },
       {
         "text": "Right Posterior Innominate Rotation",
@@ -44,7 +45,8 @@ window.Test_L1a = [
       },
       {
         "text": "Inferior Transverse Axis",
-        "explanation": "Correct. The Inferior Transverse Axis (S3 level) allows for iliosacral motion (innominate rotation) during ambulation."
+        "explanation": "Correct. The Inferior Transverse Axis (S3 level) allows for iliosacral motion (innominate rotation) during ambulation.",
+        "isCorrect": true
       },
       {
         "text": "Oblique Axis",
@@ -70,7 +72,8 @@ window.Test_L1a = [
       },
       {
         "text": "Left Posterior Innominate Rotation",
-        "explanation": "Correct. Posterior rotation is defined by a Superior ASIS and Inferior PSIS. It also pulls the hip up, causing a functional short leg."
+        "explanation": "Correct. Posterior rotation is defined by a Superior ASIS and Inferior PSIS. It also pulls the hip up, causing a functional short leg.",
+        "isCorrect": true
       },
       {
         "text": "Right Posterior Innominate Rotation",
@@ -100,7 +103,8 @@ window.Test_L1a = [
       },
       {
         "text": "Posterior Superior Iliac Spine (PSIS)",
-        "explanation": "Correct. The PSIS is the posterior landmark for SFT and sits at the S2 level."
+        "explanation": "Correct. The PSIS is the posterior landmark for SFT and sits at the S2 level.",
+        "isCorrect": true
       },
       {
         "text": "Ischial Tuberosity",
@@ -126,7 +130,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Left Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Trauma (vertical force) + All landmarks superior on one side = Upslip."
+        "explanation": "Correct. Trauma (vertical force) + All landmarks superior on one side = Upslip.",
+        "isCorrect": true
       },
       {
         "text": "Left Anterior Innominate",
@@ -164,7 +169,8 @@ window.Test_L1a = [
       },
       {
         "text": "Inguinal Ligament",
-        "explanation": "Correct. Posterior rotation moves the ASIS superiorly and posteriorly, increasing tension on the inguinal ligament (ASIS to Pubis)."
+        "explanation": "Correct. Posterior rotation moves the ASIS superiorly and posteriorly, increasing tension on the inguinal ligament (ASIS to Pubis).",
+        "isCorrect": true
       },
       {
         "text": "Lacunar Ligament",
@@ -190,7 +196,8 @@ window.Test_L1a = [
       },
       {
         "text": "Right Inflare",
-        "explanation": "Correct. In an Inflare, the innominate rotates internally around a vertical axis, bringing the ASIS medially and the PSIS laterally."
+        "explanation": "Correct. In an Inflare, the innominate rotates internally around a vertical axis, bringing the ASIS medially and the PSIS laterally.",
+        "isCorrect": true
       },
       {
         "text": "Right Anterior Rotation",
@@ -220,7 +227,8 @@ window.Test_L1a = [
       },
       {
         "text": "Hamstrings",
-        "explanation": "Correct. The Hamstrings attach to the Ischial Tuberosity. Flexing the hip puts tension on them; contracting them pulls the ischium forward/down, rotating the innominate posteriorly."
+        "explanation": "Correct. The Hamstrings attach to the Ischial Tuberosity. Flexing the hip puts tension on them; contracting them pulls the ischium forward/down, rotating the innominate posteriorly.",
+        "isCorrect": true
       },
       {
         "text": "Adductors",
@@ -250,7 +258,8 @@ window.Test_L1a = [
       },
       {
         "text": "Right Inferior Pubic Shear",
-        "explanation": "Correct. Specific Findings at the pubic tubercle (inferior on the side of SFT) indicate an Inferior Pubic Shear."
+        "explanation": "Correct. Specific Findings at the pubic tubercle (inferior on the side of SFT) indicate an Inferior Pubic Shear.",
+        "isCorrect": true
       },
       {
         "text": "Right Anterior Innominate",
@@ -280,7 +289,8 @@ window.Test_L1a = [
       },
       {
         "text": "Abduction and Internal Rotation",
-        "explanation": "Correct. Slight abduction helps clear the joint, and Internal Rotation 'closes pack' the hip joint, ensuring the tug pulls the innominate, not just stretching the capsule."
+        "explanation": "Correct. Slight abduction helps clear the joint, and Internal Rotation 'closes pack' the hip joint, ensuring the tug pulls the innominate, not just stretching the capsule.",
+        "isCorrect": true
       },
       {
         "text": "Adduction and External Rotation",
@@ -310,7 +320,8 @@ window.Test_L1a = [
       },
       {
         "text": "There is iliosacral dysfunction on the Right.",
-        "explanation": "Correct. SFT and ASIS compression both lateralize to the right, confirming right-sided iliosacral dysfunction."
+        "explanation": "Correct. SFT and ASIS compression both lateralize to the right, confirming right-sided iliosacral dysfunction.",
+        "isCorrect": true
       },
       {
         "text": "There is a sacral dysfunction on the Left.",
@@ -340,7 +351,8 @@ window.Test_L1a = [
       },
       {
         "text": "Iliopsoas",
-        "explanation": "Correct. The Psoas Major and Iliacus fuse to attach to the Lesser Trochanter."
+        "explanation": "Correct. The Psoas Major and Iliacus fuse to attach to the Lesser Trochanter.",
+        "isCorrect": true
       },
       {
         "text": "Piriformis",
@@ -370,7 +382,8 @@ window.Test_L1a = [
       },
       {
         "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. ASIS Low + PSIS High = Anterior Rotation. This lowers the acetabulum, creating a functional long leg."
+        "explanation": "Correct. ASIS Low + PSIS High = Anterior Rotation. This lowers the acetabulum, creating a functional long leg.",
+        "isCorrect": true
       },
       {
         "text": "Left Anterior Innominate Rotation",
@@ -400,7 +413,8 @@ window.Test_L1a = [
       },
       {
         "text": "Sacrum",
-        "explanation": "Correct. Sitting on the ischial tuberosities restricts innominate motion, allowing assessment of Sacroiliac motion alone."
+        "explanation": "Correct. Sitting on the ischial tuberosities restricts innominate motion, allowing assessment of Sacroiliac motion alone.",
+        "isCorrect": true
       },
       {
         "text": "Pubic Symphysis",
@@ -430,7 +444,8 @@ window.Test_L1a = [
       },
       {
         "text": "Right Outflare",
-        "explanation": "Correct. The distance is longer (15cm vs 12cm) on the dysfunctional side (Right), indicating the ASIS has moved laterally (Outflare)."
+        "explanation": "Correct. The distance is longer (15cm vs 12cm) on the dysfunctional side (Right), indicating the ASIS has moved laterally (Outflare).",
+        "isCorrect": true
       },
       {
         "text": "Left Inflare",
@@ -464,7 +479,8 @@ window.Test_L1a = [
       },
       {
         "text": "Iliolumbar Ligament",
-        "explanation": "Correct. It is a key stabilizer of the L5/S1 junction."
+        "explanation": "Correct. It is a key stabilizer of the L5/S1 junction.",
+        "isCorrect": true
       },
       {
         "text": "Inguinal Ligament",
@@ -490,7 +506,8 @@ window.Test_L1a = [
       },
       {
         "text": "Rectus Abdominis",
-        "explanation": "Correct. The Rectus Abdominis attaches to the pubic crest. Hypertonicity pulls the pubis superiorly."
+        "explanation": "Correct. The Rectus Abdominis attaches to the pubic crest. Hypertonicity pulls the pubis superiorly.",
+        "isCorrect": true
       },
       {
         "text": "Gracilis",
@@ -520,7 +537,8 @@ window.Test_L1a = [
       },
       {
         "text": "Anterior Nutation (Flexion)",
-        "explanation": "Correct. By attaching to the ischial tuberosity and the lower sacrum, tension in the sacrotuberous ligament limits anterior nutation of the sacral base."
+        "explanation": "Correct. By attaching to the ischial tuberosity and the lower sacrum, tension in the sacrotuberous ligament limits anterior nutation of the sacral base.",
+        "isCorrect": true
       },
       {
         "text": "Sidebending",
@@ -550,7 +568,8 @@ window.Test_L1a = [
       },
       {
         "text": "Pubic Shear -> Upslip -> Anterior Innominate",
-        "explanation": "Correct. Sequence: Pubic Shear (restore symphysis) -> Innominate Shear (restore vertical height) -> Innominate Rotation (fine tune)."
+        "explanation": "Correct. Sequence: Pubic Shear (restore symphysis) -> Innominate Shear (restore vertical height) -> Innominate Rotation (fine tune).",
+        "isCorrect": true
       },
       {
         "text": "Upslip -> Anterior Innominate -> Pubic Shear",
@@ -580,7 +599,8 @@ window.Test_L1a = [
       },
       {
         "text": "ASIS to Medial Malleolus",
-        "explanation": "Correct. Fixed bony landmarks."
+        "explanation": "Correct. Fixed bony landmarks.",
+        "isCorrect": true
       },
       {
         "text": "PSIS to Lateral Malleolus",
@@ -610,7 +630,8 @@ window.Test_L1a = [
       },
       {
         "text": "It shortens the leg",
-        "explanation": "Correct. Posterior rotation pulls the acetabulum superiorly, retracting the femur and causing a functional short leg."
+        "explanation": "Correct. Posterior rotation pulls the acetabulum superiorly, retracting the femur and causing a functional short leg.",
+        "isCorrect": true
       },
       {
         "text": "No effect",
@@ -640,7 +661,8 @@ window.Test_L1a = [
       },
       {
         "text": "Standing Flexion Test",
-        "explanation": "Correct. If SFT is positive, the leg length difference is likely functional (somatic dysfunction). If SFT is negative but discrepancy exists, it is likely anatomical."
+        "explanation": "Correct. If SFT is positive, the leg length difference is likely functional (somatic dysfunction). If SFT is negative but discrepancy exists, it is likely anatomical.",
+        "isCorrect": true
       },
       {
         "text": "Thomas Test",
@@ -666,7 +688,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Right Superior Pubic Shear",
-        "explanation": "Correct. Step-off (unevenness) with Right side High + SFT Right = Right Superior Shear."
+        "explanation": "Correct. Step-off (unevenness) with Right side High + SFT Right = Right Superior Shear.",
+        "isCorrect": true
       },
       {
         "text": "Right Inferior Pubic Shear",
@@ -696,7 +719,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Anteriorly (Nutation)",
-        "explanation": "Correct. Inhalation = Extension (Counter-nutation). Exhalation = Flexion (Nutation)."
+        "explanation": "Correct. Inhalation = Extension (Counter-nutation). Exhalation = Flexion (Nutation).",
+        "isCorrect": true
       },
       {
         "text": "Posteriorly (Counter-nutation)",
@@ -730,7 +754,8 @@ window.Test_L1a = [
       },
       {
         "text": "Rectus Femoris / Quadriceps",
-        "explanation": "Correct. By extending the hip (patient tries to flex hip, you resist extension? No wait. ME for Posterior: Patient pushes leg UP/Flexion? No. Patient hangs leg off table (Extension) and flexes hip against resistance? Wait. Let's clarify. To treat Posterior Innominate: Extend Hip to barrier. Patient Flexes hip (engages Iliopsoas/Rectus) to pull innominate Anteriorly. Yes."
+        "explanation": "Correct. By extending the hip (patient tries to flex hip, you resist extension? No wait. ME for Posterior: Patient pushes leg UP/Flexion? No. Patient hangs leg off table (Extension) and flexes hip against resistance? Wait. Let's clarify. To treat Posterior Innominate: Extend Hip to barrier. Patient Flexes hip (engages Iliopsoas/Rectus) to pull innominate Anteriorly. Yes.",
+        "isCorrect": true
       },
       {
         "text": "Gluteus Maximus",
@@ -760,7 +785,8 @@ window.Test_L1a = [
       },
       {
         "text": "Sacrospinous Ligament",
-        "explanation": "Correct. It runs from sacrum to ischial spine, dividing the space into the two foramina."
+        "explanation": "Correct. It runs from sacrum to ischial spine, dividing the space into the two foramina.",
+        "isCorrect": true
       },
       {
         "text": "Iliolumbar Ligament",
@@ -786,7 +812,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Left Anterior Innominate Rotation",
-        "explanation": "Correct. ASIS Low, PSIS High = Anterior."
+        "explanation": "Correct. ASIS Low, PSIS High = Anterior.",
+        "isCorrect": true
       },
       {
         "text": "Left Posterior Innominate Rotation",
@@ -820,7 +847,8 @@ window.Test_L1a = [
       },
       {
         "text": "Levator Ani",
-        "explanation": "Correct. Levator Ani + Coccygeus = Pelvic Diaphragm."
+        "explanation": "Correct. Levator Ani + Coccygeus = Pelvic Diaphragm.",
+        "isCorrect": true
       },
       {
         "text": "Obturator Internus",
@@ -850,7 +878,8 @@ window.Test_L1a = [
       },
       {
         "text": "Left Sacroiliac Joint",
-        "explanation": "Correct. ASIS compression lateralizes SI dysfunction."
+        "explanation": "Correct. ASIS compression lateralizes SI dysfunction.",
+        "isCorrect": true
       },
       {
         "text": "Left Innominate",
@@ -880,7 +909,8 @@ window.Test_L1a = [
       },
       {
         "text": "Gluteus Medius",
-        "explanation": "Correct. Weakness causes the pelvis to drop on the contralateral side."
+        "explanation": "Correct. Weakness causes the pelvis to drop on the contralateral side.",
+        "isCorrect": true
       },
       {
         "text": "Quadratus Lumborum",
@@ -914,7 +944,8 @@ window.Test_L1a = [
       },
       {
         "text": "Traction injury to the leg (e.g., getting leg pulled)",
-        "explanation": "Correct. Downslips are rare and usually caused by strong traction on the leg."
+        "explanation": "Correct. Downslips are rare and usually caused by strong traction on the leg.",
+        "isCorrect": true
       },
       {
         "text": "Sleeping on the side",
@@ -944,7 +975,8 @@ window.Test_L1a = [
       },
       {
         "text": "L4",
-        "explanation": "Correct. Intercrest line is at L4/L5 interspace."
+        "explanation": "Correct. Intercrest line is at L4/L5 interspace.",
+        "isCorrect": true
       },
       {
         "text": "L5",
@@ -970,7 +1002,8 @@ window.Test_L1a = [
       },
       {
         "text": "Inferior (Long Leg)",
-        "explanation": "Correct. Anterior rotation pushes the acetabulum down, lengthening the leg."
+        "explanation": "Correct. Anterior rotation pushes the acetabulum down, lengthening the leg.",
+        "isCorrect": true
       },
       {
         "text": "Level",
@@ -1000,7 +1033,8 @@ window.Test_L1a = [
       },
       {
         "text": "Piriformis",
-        "explanation": "Correct. In ~85% of people, it passes inferior to the Piriformis. Spasm can cause Piriformis Syndrome."
+        "explanation": "Correct. In ~85% of people, it passes inferior to the Piriformis. Spasm can cause Piriformis Syndrome.",
+        "isCorrect": true
       },
       {
         "text": "Obturator Internus",
@@ -1026,7 +1060,8 @@ window.Test_L1a = [
     "options": [
       {
         "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Classic presentation: ASIS Low, PSIS High, Long Leg, Inguinal Tenderness."
+        "explanation": "Correct. Classic presentation: ASIS Low, PSIS High, Long Leg, Inguinal Tenderness.",
+        "isCorrect": true
       },
       {
         "text": "Right Posterior Innominate Rotation",

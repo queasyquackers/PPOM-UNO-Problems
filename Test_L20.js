@@ -15,7 +15,8 @@ window.Test_L20 = [
       },
       {
         "text": "Edrophonium",
-        "explanation": "Correct. Edrophonium (Tensilon) is a short-acting AChE inhibitor used for diagnosis (Tensilon test). It transiently increases ACh, improving strength."
+        "explanation": "Correct. Edrophonium (Tensilon) is a short-acting AChE inhibitor used for diagnosis (Tensilon test). It transiently increases ACh, improving strength.",
+        "isCorrect": true
       },
       {
         "text": "Physostigmine",
@@ -45,7 +46,8 @@ window.Test_L20 = [
       },
       {
         "text": "Donepezil",
-        "explanation": "Correct. Donepezil (Aricept) is a centrally acting, reversible AChE inhibitor used to treat Alzheimer's symptoms."
+        "explanation": "Correct. Donepezil (Aricept) is a centrally acting, reversible AChE inhibitor used to treat Alzheimer's symptoms.",
+        "isCorrect": true
       },
       {
         "text": "Neostigmine",
@@ -71,7 +73,8 @@ window.Test_L20 = [
       },
       {
         "text": "Atropine or Glycopyrrolate",
-        "explanation": "Correct. Neostigmine increases ACh everywhere. To prevent massive muscarinic side effects (bradycardia, bronchospasm, salivation), an antimuscarinic is given."
+        "explanation": "Correct. Neostigmine increases ACh everywhere. To prevent massive muscarinic side effects (bradycardia, bronchospasm, salivation), an antimuscarinic is given.",
+        "isCorrect": true
       },
       {
         "text": "Pralidoxime",
@@ -101,7 +104,8 @@ window.Test_L20 = [
       },
       {
         "text": "Regenerating Acetylcholinesterase",
-        "explanation": "Correct. Pralidoxime binds to the organophosphate-enzyme complex and pulls the phosphate group off, restoring the enzyme's function."
+        "explanation": "Correct. Pralidoxime binds to the organophosphate-enzyme complex and pulls the phosphate group off, restoring the enzyme's function.",
+        "isCorrect": true
       },
       {
         "text": "Inhibiting Acetylcholine release",
@@ -135,7 +139,8 @@ window.Test_L20 = [
       },
       {
         "text": "Physostigmine",
-        "explanation": "Correct. Physostigmine is a Tertiary amine, allowing it to cross the BBB and reverse central anticholinergic toxicity (delirium)."
+        "explanation": "Correct. Physostigmine is a Tertiary amine, allowing it to cross the BBB and reverse central anticholinergic toxicity (delirium).",
+        "isCorrect": true
       },
       {
         "text": "Edrophonium",
@@ -165,7 +170,8 @@ window.Test_L20 = [
       },
       {
         "text": "Pyridostigmine",
-        "explanation": "Correct. Pyridostigmine is the standard oral therapy for MG due to its longer duration than Neostigmine and fewer side effects."
+        "explanation": "Correct. Pyridostigmine is the standard oral therapy for MG due to its longer duration than Neostigmine and fewer side effects.",
+        "isCorrect": true
       },
       {
         "text": "Physostigmine",
@@ -191,7 +197,8 @@ window.Test_L20 = [
       },
       {
         "text": "It is a quaternary amine and cannot cross the BBB",
-        "explanation": "Correct. Being permanently charged, it cannot enter the CNS where the Alzheimer's pathology (cholinergic deficit) exists."
+        "explanation": "Correct. Being permanently charged, it cannot enter the CNS where the Alzheimer's pathology (cholinergic deficit) exists.",
+        "isCorrect": true
       },
       {
         "text": "It is rapidly metabolized by the liver",
@@ -221,7 +228,8 @@ window.Test_L20 = [
       },
       {
         "text": "Loss of an alkyl group from the phosphate-enzyme complex",
-        "explanation": "Correct. This chemical change strengthens the bond between the organophosphate and the enzyme, making it IMPOSSIBLE for Pralidoxime to regenerate it."
+        "explanation": "Correct. This chemical change strengthens the bond between the organophosphate and the enzyme, making it IMPOSSIBLE for Pralidoxime to regenerate it.",
+        "isCorrect": true
       },
       {
         "text": "Downregulation of AChE synthesis",
@@ -251,7 +259,8 @@ window.Test_L20 = [
       },
       {
         "text": "Muscarinic receptor stimulation in the GI tract",
-        "explanation": "Correct. Increased ACh stimulates M3 receptors in the gut -> hypermotility. This is a dose-limiting side effect."
+        "explanation": "Correct. Increased ACh stimulates M3 receptors in the gut -> hypermotility. This is a dose-limiting side effect.",
+        "isCorrect": true
       },
       {
         "text": "Sympathetic activation",
@@ -281,7 +290,8 @@ window.Test_L20 = [
       },
       {
         "text": "Long-lasting inhibition of AChE leading to continuous miosis",
-        "explanation": "Correct. Continuous miosis and contraction of the ciliary muscle opens the trabecular meshwork to drain fluid. Rarely used due to toxicity risk (cataracts)."
+        "explanation": "Correct. Continuous miosis and contraction of the ciliary muscle opens the trabecular meshwork to drain fluid. Rarely used due to toxicity risk (cataracts).",
+        "isCorrect": true
       },
       {
         "text": "Decreasing aqueous humor production",
@@ -311,7 +321,8 @@ window.Test_L20 = [
       },
       {
         "text": "Inhibition of Pseudocholinesterase (Plasma Cholinesterase)",
-        "explanation": "Correct. Organophosphates inhibit both AChE and Pseudocholinesterase. Pseudocholinesterase is responsible for breaking down Succinylcholine. Inhibiting it prolongs the drug's effect."
+        "explanation": "Correct. Organophosphates inhibit both AChE and Pseudocholinesterase. Pseudocholinesterase is responsible for breaking down Succinylcholine. Inhibiting it prolongs the drug's effect.",
+        "isCorrect": true
       },
       {
         "text": "Liver failure",
@@ -341,7 +352,8 @@ window.Test_L20 = [
       },
       {
         "text": "Carbamate",
-        "explanation": "Correct. It transfers a carbamyl group to the enzyme."
+        "explanation": "Correct. It transfers a carbamyl group to the enzyme.",
+        "isCorrect": true
       },
       {
         "text": "Alcohol",
@@ -371,7 +383,8 @@ window.Test_L20 = [
       },
       {
         "text": "Tensilon (Edrophonium) Test",
-        "explanation": "Correct. If strength improves -> Myasthenic Crisis (needs more drug). If strength worsens -> Cholinergic Crisis (too much drug)."
+        "explanation": "Correct. If strength improves -> Myasthenic Crisis (needs more drug). If strength worsens -> Cholinergic Crisis (too much drug).",
+        "isCorrect": true
       },
       {
         "text": "Cosyntropin Test",
@@ -401,7 +414,8 @@ window.Test_L20 = [
       },
       {
         "text": "Increases it",
-        "explanation": "Correct. By inhibiting the breakdown enzyme, ACh stays around longer."
+        "explanation": "Correct. By inhibiting the breakdown enzyme, ACh stays around longer.",
+        "isCorrect": true
       },
       {
         "text": "No change",
@@ -431,7 +445,8 @@ window.Test_L20 = [
       },
       {
         "text": "Yes, especially after aging occurs",
-        "explanation": "Correct. The phosphorylated bond is extremely stable."
+        "explanation": "Correct. The phosphorylated bond is extremely stable.",
+        "isCorrect": true
       },
       {
         "text": "Only in birds",
@@ -461,7 +476,8 @@ window.Test_L20 = [
       },
       {
         "text": "Physostigmine",
-        "explanation": "Correct. It overcomes the competitive blockade by increasing ACh levels."
+        "explanation": "Correct. It overcomes the competitive blockade by increasing ACh levels.",
+        "isCorrect": true
       },
       {
         "text": "Neostigmine",
@@ -491,7 +507,8 @@ window.Test_L20 = [
       },
       {
         "text": "Rivastigmine",
-        "explanation": "Correct. It is a carbamate, so it inhibits for a long duration (pseudo-irreversible). Available as a patch."
+        "explanation": "Correct. It is a carbamate, so it inhibits for a long duration (pseudo-irreversible). Available as a patch.",
+        "isCorrect": true
       },
       {
         "text": "Galantamine",
@@ -521,7 +538,8 @@ window.Test_L20 = [
       },
       {
         "text": "Paraoxon",
-        "explanation": "Correct. Parathion is a prodrug. The liver converts P=S to P=O (Paraoxon), which is the toxic inhibitor."
+        "explanation": "Correct. Parathion is a prodrug. The liver converts P=S to P=O (Paraoxon), which is the toxic inhibitor.",
+        "isCorrect": true
       },
       {
         "text": "Paranoid",
@@ -555,7 +573,8 @@ window.Test_L20 = [
       },
       {
         "text": "Both",
-        "explanation": "Correct. They increase ACh, which is the ligand for BOTH receptor types."
+        "explanation": "Correct. They increase ACh, which is the ligand for BOTH receptor types.",
+        "isCorrect": true
       },
       {
         "text": "Neither",
@@ -581,7 +600,8 @@ window.Test_L20 = [
       },
       {
         "text": "Nicotinic (NM) receptors",
-        "explanation": "Correct. NMJ overstimulation causes fasciculations -> weakness -> paralysis."
+        "explanation": "Correct. NMJ overstimulation causes fasciculations -> weakness -> paralysis.",
+        "isCorrect": true
       },
       {
         "text": "Alpha receptors",
@@ -615,7 +635,8 @@ window.Test_L20 = [
       },
       {
         "text": "Asthma",
-        "explanation": "Correct. They would WORSEN asthma by causing bronchoconstriction."
+        "explanation": "Correct. They would WORSEN asthma by causing bronchoconstriction.",
+        "isCorrect": true
       },
       {
         "text": "Glaucoma",
@@ -641,7 +662,8 @@ window.Test_L20 = [
       },
       {
         "text": "Reversible electrostatic binding to the anionic site",
-        "explanation": "Correct. It is a competitive inhibitor that binds briefly via ionic forces (hydrogen bonding). It does NOT form a covalent bond like carbamates/phosphates."
+        "explanation": "Correct. It is a competitive inhibitor that binds briefly via ionic forces (hydrogen bonding). It does NOT form a covalent bond like carbamates/phosphates.",
+        "isCorrect": true
       },
       {
         "text": "Phosphorylating the active site",
@@ -671,7 +693,8 @@ window.Test_L20 = [
       },
       {
         "text": "Neostigmine",
-        "explanation": "Correct. Charged/Quaternary."
+        "explanation": "Correct. Charged/Quaternary.",
+        "isCorrect": true
       },
       {
         "text": "Donepezil",
@@ -705,7 +728,8 @@ window.Test_L20 = [
       },
       {
         "text": "Until new enzyme is synthesized (Days/Weeks)",
-        "explanation": "Correct. It is irreversible."
+        "explanation": "Correct. It is irreversible.",
+        "isCorrect": true
       },
       {
         "text": "Seconds",
@@ -731,7 +755,8 @@ window.Test_L20 = [
       },
       {
         "text": "Chemical Warfare Agent",
-        "explanation": "Correct. Highly potent, volatile nerve agent."
+        "explanation": "Correct. Highly potent, volatile nerve agent.",
+        "isCorrect": true
       },
       {
         "text": "Treatment for glaucoma",
@@ -765,7 +790,8 @@ window.Test_L20 = [
       },
       {
         "text": "Muscle Fasciculations and Paralysis",
-        "explanation": "Correct. Organophosphates increase ACh at BOTH Muscarinic and Nicotinic receptors. Nicotinic overstimulation causes muscle issues. Muscarinic mushrooms only affect Muscarinic receptors (no paralysis)."
+        "explanation": "Correct. Organophosphates increase ACh at BOTH Muscarinic and Nicotinic receptors. Nicotinic overstimulation causes muscle issues. Muscarinic mushrooms only affect Muscarinic receptors (no paralysis).",
+        "isCorrect": true
       },
       {
         "text": "Bradycardia",
@@ -791,7 +817,8 @@ window.Test_L20 = [
       },
       {
         "text": "Renal excretion",
-        "explanation": "Correct. Rapid renal elimination contributes to short half-life."
+        "explanation": "Correct. Rapid renal elimination contributes to short half-life.",
+        "isCorrect": true
       },
       {
         "text": "Sweat",
@@ -825,7 +852,8 @@ window.Test_L20 = [
       },
       {
         "text": "Succinylcholine",
-        "explanation": "Correct. By inhibiting the breakdown enzyme (Pseudocholinesterase), Succinylcholine lasts longer (Phase I block is potentiated)."
+        "explanation": "Correct. By inhibiting the breakdown enzyme (Pseudocholinesterase), Succinylcholine lasts longer (Phase I block is potentiated).",
+        "isCorrect": true
       },
       {
         "text": "Tubocurarine",
@@ -851,7 +879,8 @@ window.Test_L20 = [
       },
       {
         "text": "Contraction (Spasm of Accommodation)",
-        "explanation": "Correct. Leads to near-sightedness."
+        "explanation": "Correct. Leads to near-sightedness.",
+        "isCorrect": true
       },
       {
         "text": "No effect",
@@ -881,7 +910,8 @@ window.Test_L20 = [
       },
       {
         "text": "Humans rapidly metabolize/detoxify it",
-        "explanation": "Correct. Mammals/Birds express plasma esterases that break it down before it becomes toxic. Insects lack this pathway."
+        "explanation": "Correct. Mammals/Birds express plasma esterases that break it down before it becomes toxic. Insects lack this pathway.",
+        "isCorrect": true
       },
       {
         "text": "Insects have different AChE",
@@ -911,7 +941,8 @@ window.Test_L20 = [
       },
       {
         "text": "Non-competitive, reversible inhibition of CNS Acetylcholinesterase",
-        "explanation": "Correct."
+        "explanation": "Correct.",
+        "isCorrect": true
       },
       {
         "text": "Irreversible inhibition of CNS Acetylcholinesterase",
@@ -937,7 +968,8 @@ window.Test_L20 = [
     "options": [
       {
         "text": "Carbamates (like Neostigmine)",
-        "explanation": "Correct. Pralidoxime needs the phosphate group to work. It does not regenerate carbamylated enzymes (and may even be weak inhibitor itself)."
+        "explanation": "Correct. Pralidoxime needs the phosphate group to work. It does not regenerate carbamylated enzymes (and may even be weak inhibitor itself).",
+        "isCorrect": true
       },
       {
         "text": "Parathion",
@@ -967,7 +999,8 @@ window.Test_L20 = [
     "options": [
       {
         "text": "Yes",
-        "explanation": "Correct. It is an Alzheimer's drug."
+        "explanation": "Correct. It is an Alzheimer's drug.",
+        "isCorrect": true
       },
       {
         "text": "No",
@@ -1005,7 +1038,8 @@ window.Test_L20 = [
       },
       {
         "text": "Aminoglycosides (e.g., Gentamicin)",
-        "explanation": "Correct. Aminoglycosides can block ACh release or sensitivity at the NMJ, potentially precipitating a crisis in MG patients."
+        "explanation": "Correct. Aminoglycosides can block ACh release or sensitivity at the NMJ, potentially precipitating a crisis in MG patients.",
+        "isCorrect": true
       },
       {
         "text": "Sulfonamides",
@@ -1031,7 +1065,8 @@ window.Test_L20 = [
       },
       {
         "text": "No change or slight increase",
-        "explanation": "Correct. Atropine blocks the Muscarinic vasodilation. Any remaining effect might be Acetylcholine stimulating Nicotinic receptors (Sympathetic Ganglia -> Vasoconstriction), but the primary vasodepressor effect is blocked."
+        "explanation": "Correct. Atropine blocks the Muscarinic vasodilation. Any remaining effect might be Acetylcholine stimulating Nicotinic receptors (Sympathetic Ganglia -> Vasoconstriction), but the primary vasodepressor effect is blocked.",
+        "isCorrect": true
       },
       {
         "text": "It fluctuates wildly",

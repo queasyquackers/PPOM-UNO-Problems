@@ -11,7 +11,8 @@ window.Test_L7 = [
       },
       {
         "text": "Basilar Pons",
-        "explanation": "Correct. The basilar pons is characterized by its large ventral swelling (belly) formed by transverse pontocerebellar fibers."
+        "explanation": "Correct. The basilar pons is characterized by its large ventral swelling (belly) formed by transverse pontocerebellar fibers.",
+        "isCorrect": true
       },
       {
         "text": "Tectum",
@@ -41,7 +42,8 @@ window.Test_L7 = [
       },
       {
         "text": "Inferior Olivary Nucleus",
-        "explanation": "Correct. The 'Olive' is the external bump caused by the underlying Inferior Olivary Nucleus."
+        "explanation": "Correct. The 'Olive' is the external bump caused by the underlying Inferior Olivary Nucleus.",
+        "isCorrect": true
       },
       {
         "text": "Spinal Trigeminal Nucleus",
@@ -71,7 +73,8 @@ window.Test_L7 = [
       },
       {
         "text": "Midbrain",
-        "explanation": "Correct. The Cerebral Aqueduct traverses the Midbrain."
+        "explanation": "Correct. The Cerebral Aqueduct traverses the Midbrain.",
+        "isCorrect": true
       },
       {
         "text": "Pons",
@@ -101,7 +104,8 @@ window.Test_L7 = [
       },
       {
         "text": "Superior Colliculus",
-        "explanation": "Correct. The Superior Colliculus (in the Tectum) is involved in directing eye movements (saccades), particularly upward gaze."
+        "explanation": "Correct. The Superior Colliculus (in the Tectum) is involved in directing eye movements (saccades), particularly upward gaze.",
+        "isCorrect": true
       },
       {
         "text": "Substantia Nigra",
@@ -131,7 +135,8 @@ window.Test_L7 = [
       },
       {
         "text": "Exits the brainstem dorsally",
-        "explanation": "Correct. This is a CN IV (Trochlear) palsy. CN IV is the only cranial nerve to exit from the DORSAL surface of the brainstem."
+        "explanation": "Correct. This is a CN IV (Trochlear) palsy. CN IV is the only cranial nerve to exit from the DORSAL surface of the brainstem.",
+        "isCorrect": true
       },
       {
         "text": "Emerges from the medulla",
@@ -161,7 +166,8 @@ window.Test_L7 = [
       },
       {
         "text": "Myelinated Axons",
-        "explanation": "Correct. Myelin stains darken white matter (axons). The Crus Cerebri contains descending corticospinal/bulbar axons."
+        "explanation": "Correct. Myelin stains darken white matter (axons). The Crus Cerebri contains descending corticospinal/bulbar axons.",
+        "isCorrect": true
       },
       {
         "text": "Dendrites",
@@ -191,7 +197,8 @@ window.Test_L7 = [
       },
       {
         "text": "Substantia Nigra",
-        "explanation": "Correct. Parkinson's disease involves the degeneration of dopamine-producing neurons in the Substantia Nigra pars compacta."
+        "explanation": "Correct. Parkinson's disease involves the degeneration of dopamine-producing neurons in the Substantia Nigra pars compacta.",
+        "isCorrect": true
       },
       {
         "text": "Periaqueductal Gray",
@@ -217,7 +224,8 @@ window.Test_L7 = [
     "options": [
       {
         "text": "Pyramidal Decussation",
-        "explanation": "Correct. This crossing of motor fibers marks the cervicomedullary junction."
+        "explanation": "Correct. This crossing of motor fibers marks the cervicomedullary junction.",
+        "isCorrect": true
       },
       {
         "text": "Obex",
@@ -251,7 +259,8 @@ window.Test_L7 = [
       },
       {
         "text": "Ipsilateral ataxia and motor planning deficits",
-        "explanation": "Correct. The MCP carries cortico-pontine input to the cerebellum for motor planning. Disruption causes cerebellar signs (ataxia)."
+        "explanation": "Correct. The MCP carries cortico-pontine input to the cerebellum for motor planning. Disruption causes cerebellar signs (ataxia).",
+        "isCorrect": true
       },
       {
         "text": "Complete deafness",
@@ -281,7 +290,8 @@ window.Test_L7 = [
       },
       {
         "text": "Ventral to the ventricular system and Dorsal to the Basis",
-        "explanation": "Correct. It is the 'floor covering' extending through the midbrain, pons, and medulla."
+        "explanation": "Correct. It is the 'floor covering' extending through the midbrain, pons, and medulla.",
+        "isCorrect": true
       },
       {
         "text": "Ventral to the Pyramids",
@@ -311,7 +321,8 @@ window.Test_L7 = [
       },
       {
         "text": "Gracile Nucleus",
-        "explanation": "Correct. Gracile is medial (Legs). Cuneate is lateral (Arms)."
+        "explanation": "Correct. Gracile is medial (Legs). Cuneate is lateral (Arms).",
+        "isCorrect": true
       },
       {
         "text": "Spinal Trigeminal Nucleus",
@@ -345,7 +356,8 @@ window.Test_L7 = [
       },
       {
         "text": "Periaqueductal Gray (PAG)",
-        "explanation": "Correct. The PAG is the center for descending pain modulation (enkephalins/endorphins)."
+        "explanation": "Correct. The PAG is the center for descending pain modulation (enkephalins/endorphins).",
+        "isCorrect": true
       },
       {
         "text": "Cerebral Peduncle",
@@ -367,7 +379,8 @@ window.Test_L7 = [
     "options": [
       {
         "text": "In the Pre-olivary sulcus (between pyramid and olive)",
-        "explanation": "Correct. CN XII is the only one exiting 'in front' of the olive."
+        "explanation": "Correct. CN XII is the only one exiting 'in front' of the olive.",
+        "isCorrect": true
       },
       {
         "text": "In the Retro-olivary sulcus",
@@ -401,7 +414,8 @@ window.Test_L7 = [
       },
       {
         "text": "Lateral Recesses",
-        "explanation": "Correct. These extend laterally and contain the foramina of Luschka."
+        "explanation": "Correct. These extend laterally and contain the foramina of Luschka.",
+        "isCorrect": true
       },
       {
         "text": "Obex",
@@ -431,7 +445,8 @@ window.Test_L7 = [
       },
       {
         "text": "Interpeduncular Fossa",
-        "explanation": "Correct. The space between the cerebral peduncles in the ventral midbrain."
+        "explanation": "Correct. The space between the cerebral peduncles in the ventral midbrain.",
+        "isCorrect": true
       },
       {
         "text": "Lateral Pons",
@@ -461,7 +476,8 @@ window.Test_L7 = [
       },
       {
         "text": "Red Nucleus",
-        "explanation": "Correct. Contains iron (ferritin), giving it a pinkish hue. Origin of Rubrospinal tract."
+        "explanation": "Correct. Contains iron (ferritin), giving it a pinkish hue. Origin of Rubrospinal tract.",
+        "isCorrect": true
       },
       {
         "text": "Pontine Nuclei",
@@ -491,7 +507,8 @@ window.Test_L7 = [
       },
       {
         "text": "Outgoing from the Cerebellum to the Midbrain/Thalamus",
-        "explanation": "Correct. It is the major OUTPUT channel (Efferent)."
+        "explanation": "Correct. It is the major OUTPUT channel (Efferent).",
+        "isCorrect": true
       },
       {
         "text": "Incoming from the Pons",
@@ -521,7 +538,8 @@ window.Test_L7 = [
       },
       {
         "text": "Cranial nerves originating from the Medulla (and Pons)",
-        "explanation": "Correct. 'Bulb' is an old term for the medulla. Bulbar palsy affects speech, swallowing, tongue movement."
+        "explanation": "Correct. 'Bulb' is an old term for the medulla. Bulbar palsy affects speech, swallowing, tongue movement.",
+        "isCorrect": true
       },
       {
         "text": "The Spinal Cord",
@@ -547,7 +565,8 @@ window.Test_L7 = [
     "options": [
       {
         "text": "The Obex",
-        "explanation": "Correct. The 'barrrier' or point where the ventricle narrows into the central canal."
+        "explanation": "Correct. The 'barrrier' or point where the ventricle narrows into the central canal.",
+        "isCorrect": true
       },
       {
         "text": "The Fastigium",
@@ -581,7 +600,8 @@ window.Test_L7 = [
       },
       {
         "text": "Inferior Colliculus",
-        "explanation": "Correct. Inferior = Ear."
+        "explanation": "Correct. Inferior = Ear.",
+        "isCorrect": true
       },
       {
         "text": "Lateral Geniculate Nucleus",
@@ -611,7 +631,8 @@ window.Test_L7 = [
       },
       {
         "text": "CN VII and VIII",
-        "explanation": "Correct. Facial (VII) and Vestibulocochlear (VIII) enter/exit at the CPA."
+        "explanation": "Correct. Facial (VII) and Vestibulocochlear (VIII) enter/exit at the CPA.",
+        "isCorrect": true
       },
       {
         "text": "CN IX and X",
@@ -645,7 +666,8 @@ window.Test_L7 = [
       },
       {
         "text": "Superior Cerebellar Peduncle",
-        "explanation": "Correct. Dentate -> SCP -> Decussation -> Red Nucleus/Thalamus."
+        "explanation": "Correct. Dentate -> SCP -> Decussation -> Red Nucleus/Thalamus.",
+        "isCorrect": true
       },
       {
         "text": "Crus Cerebri",
@@ -671,7 +693,8 @@ window.Test_L7 = [
       },
       {
         "text": "The Abducens Nerve (CN VI)",
-        "explanation": "Correct. The 'Internal Genu' of VII loops around the VI nucleus."
+        "explanation": "Correct. The 'Internal Genu' of VII loops around the VI nucleus.",
+        "isCorrect": true
       },
       {
         "text": "The Vestibular Nerve",
@@ -702,7 +725,10 @@ window.Test_L7 = [
       {
         "text": "Lateral",
         "explanation": "Correct. Medial to lateral: Hypoglossal -> Vagal -> Vestibular.",
-        "links": ["https://en.wikipedia.org/wiki/Vagal_trigone"]
+        "links": [
+          "https://en.wikipedia.org/wiki/Vagal_trigone"
+        ],
+        "isCorrect": true
       },
       {
         "text": "Rostral",
@@ -732,7 +758,8 @@ window.Test_L7 = [
       },
       {
         "text": "Crus Cerebri (Cerebral Peduncle base)",
-        "explanation": "Correct. It is the boundary between the motor base (Crus) and the sensory/nuclear tegmentum."
+        "explanation": "Correct. It is the boundary between the motor base (Crus) and the sensory/nuclear tegmentum.",
+        "isCorrect": true
       },
       {
         "text": "Red Nucleus",
@@ -762,7 +789,8 @@ window.Test_L7 = [
       },
       {
         "text": "Junction of Pons and Medulla, medially",
-        "explanation": "Correct. It exits medially at the pontomedullary junction, above the pyramid."
+        "explanation": "Correct. It exits medially at the pontomedullary junction, above the pyramid.",
+        "isCorrect": true
       },
       {
         "text": "Junction of Pons and Medulla, laterally",
@@ -792,7 +820,8 @@ window.Test_L7 = [
       },
       {
         "text": "Vibration from the leg",
-        "explanation": "Correct. Gracilis = Leg proprioception/vibration."
+        "explanation": "Correct. Gracilis = Leg proprioception/vibration.",
+        "isCorrect": true
       },
       {
         "text": "Vibration from the arm",
@@ -822,7 +851,8 @@ window.Test_L7 = [
       },
       {
         "text": "Coma",
-        "explanation": "Correct. The Ascending Reticular Activating System (ARAS) maintains consciousness. Bilateral damage -> Coma."
+        "explanation": "Correct. The Ascending Reticular Activating System (ARAS) maintains consciousness. Bilateral damage -> Coma.",
+        "isCorrect": true
       },
       {
         "text": "Deafness",
@@ -856,7 +886,8 @@ window.Test_L7 = [
       },
       {
         "text": "Transverse section of Midbrain",
-        "explanation": "Correct. Tectum is ONLY in the midbrain."
+        "explanation": "Correct. Tectum is ONLY in the midbrain.",
+        "isCorrect": true
       },
       {
         "text": "Transverse section of Spinal Cord",
@@ -882,7 +913,8 @@ window.Test_L7 = [
       },
       {
         "text": "Substantia Gelatinosa (Lamina II)",
-        "explanation": "Correct. Both process Pain and Temperature."
+        "explanation": "Correct. Both process Pain and Temperature.",
+        "isCorrect": true
       },
       {
         "text": "Clarke's Nucleus",
@@ -912,7 +944,8 @@ window.Test_L7 = [
       },
       {
         "text": "Corticospinal",
-        "explanation": "Correct. It is the descending motor pathway."
+        "explanation": "Correct. It is the descending motor pathway.",
+        "isCorrect": true
       },
       {
         "text": "Dorsal Column",
@@ -942,7 +975,8 @@ window.Test_L7 = [
       },
       {
         "text": "Midbrain",
-        "explanation": "Correct. Ears = Peduncles. Face = Tegmentum. Aqueduct = Mouth (or nose depending on view)."
+        "explanation": "Correct. Ears = Peduncles. Face = Tegmentum. Aqueduct = Mouth (or nose depending on view).",
+        "isCorrect": true
       },
       {
         "text": "Lower Pons",
@@ -968,7 +1002,8 @@ window.Test_L7 = [
     "options": [
       {
         "text": "The Pupillary Light Reflex",
-        "explanation": "Correct. Light -> Optic Nerve -> Pretectal Nucleus -> Edinger-Westphal -> Constriction."
+        "explanation": "Correct. Light -> Optic Nerve -> Pretectal Nucleus -> Edinger-Westphal -> Constriction.",
+        "isCorrect": true
       },
       {
         "text": "Hearing localization",
@@ -1006,7 +1041,8 @@ window.Test_L7 = [
       },
       {
         "text": "Inferior Cerebellar Peduncle",
-        "explanation": "Correct. DSCT enters via the ICP."
+        "explanation": "Correct. DSCT enters via the ICP.",
+        "isCorrect": true
       },
       {
         "text": "Crus Cerebri",
@@ -1032,7 +1068,8 @@ window.Test_L7 = [
       },
       {
         "text": "Vertebro-Basilar",
-        "explanation": "Correct. Vertebral arteries fuse to form Basilar. Branches supply the entire brainstem."
+        "explanation": "Correct. Vertebral arteries fuse to form Basilar. Branches supply the entire brainstem.",
+        "isCorrect": true
       },
       {
         "text": "External Carotid",
