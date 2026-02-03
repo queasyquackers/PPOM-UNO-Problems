@@ -1,1088 +1,1087 @@
-// Test_L4.js
 window.Test_L4 = [
   {
     "id": 1,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 65-year-old male presents to the emergency department with sudden onset of right-sided weakness affecting the face and arm more than the leg. He also has difficulty speaking and understanding commands. His medical history is significant for hypertension and atrial fibrillation. Vitals show BP 160/90 mmHg, HR 110 bpm (irregular). Physical exam reveals right facial droop, right upper extremity weakness (2/5), and global aphasia. Which of the following arteries is most likely occluded?",
+    "questionText": "A 65-year-old male presents with right-sided weakness (Face/Arm > Leg) and aphasia. Which artery is most likely occluded?",
     "options": [
       {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect. The anterior cerebral artery (ACA) supplies the medial aspect of the frontal and parietal lobes. Occlusion would cause contralateral weakness and sensory loss primarily affecting the leg, sparing the face and arm."
+        "text": "Anterior Cerebral Artery",
+        "explanation": "Incorrect. Leg > Arm."
       },
       {
-        "text": "Posterior cerebral artery",
-        "explanation": "Incorrect. The posterior cerebral artery (PCA) supplies the occipital lobe and inferior temporal lobe. Occlusion typically causes contralateral homonymous hemianopsia with macular sparing, not motor deficits or aphasia."
-      },
-      {
-        "text": "Middle cerebral artery",
-        "explanation": "Correct. The middle cerebral artery (MCA) supplies the lateral aspect of the frontal, parietal, and temporal lobes. This distribution corresponds to the motor and sensory homunculus for the face and upper extremity. The dominant hemisphere (usually left) contains Broca's and Wernicke's areas, explaining the aphasia.",
+        "text": "Middle Cerebral Artery",
+        "explanation": "Correct. MCA supplies lateral cortex (Face/Arm) and language centers (Broca/Wernicke) in dominant hemisphere.",
         "isCorrect": true
       },
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. Basilar artery occlusion typically presents with brainstem signs (vertigo, diplopia, dysarthria), 'locked-in' syndrome, or impaired consciousness, rather than isolated hemispheric findings."
+        "text": "Posterior Cerebral Artery",
+        "explanation": "Incorrect. Vision."
       },
       {
-        "text": "Vertebral artery",
-        "explanation": "Incorrect. Vertebral artery occlusion often leads to lateral medullary syndrome (Wallenberg syndrome) with vertigo, ataxia, and crossed sensory findings, not cortical motor/aphasia signs."
+        "text": "Basilar Artery",
+        "explanation": "Incorrect. Brainstem."
+      },
+      {
+        "text": "Anterior Spinal Artery",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "MCA strokes classically present with contralateral weakness/sensory loss of the face and arm > leg, often with aphasia if the dominant hemisphere is involved.",
-    "pdfPage": 19
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MCA stroke = Face/Arm weakness + Aphasia (Left).",
+    "pdfPage": 46
   },
   {
     "id": 2,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which of the following arteries is the first intradural branch of the internal carotid artery?",
+    "questionText": "The first intradural branch of the Internal Carotid Artery (ICA) is:",
     "options": [
       {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect. The anterior cerebral artery is a terminal branch of the internal carotid artery, arising more distally."
+        "text": "Anterior Choroidal Artery",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Posterior communicating artery",
-        "explanation": "Incorrect. The posterior communicating artery arises from the internal carotid artery but is distal to the ophthalmic artery."
-      },
-      {
-        "text": "Ophthalmic artery",
-        "explanation": "Correct. The ophthalmic artery is the first branch of the internal carotid artery after it traverses the dura preventing potential emboli from reaching the retinal circulation.",
+        "text": "Ophthalmic Artery",
+        "explanation": "Correct. OPAM mnemonic: Ophthalmic is first.",
         "isCorrect": true
       },
       {
-        "text": "Anterior choroidal artery",
-        "explanation": "Incorrect. The anterior choroidal artery arises from the internal carotid artery distal to the posterior communicating artery."
+        "text": "Posterior Communicating Artery",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. The middle cerebral artery is a large terminal branch of the internal carotid artery."
+        "text": "Middle Cerebral Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Cerebral Artery",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The ophthalmic artery is the first intradural branch of the ICA; its occlusion can cause amaurosis fugax (transient monocular vision loss).",
-    "pdfPage": 14
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Ophthalmic Artery is the first branch after dura. Emboli here -> Amaurosis Fugax.",
+    "pdfPage": 12
   },
   {
     "id": 3,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 58-year-old female presents with sudden vision loss in her right eye describing it as a 'curtain coming down'. The vision returned after 10 minutes. Fundoscopic exam is normal now. She has a carotid bruit on the right. This transient ischemic attack is most likely due to an embolus traveling into which of the following arteries?",
+    "questionText": "Amaurosis Fugax ('curtain coming down') is typically caused by emboli to which artery?",
     "options": [
       {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect. The ACA supplies the medial cerebral cortex and does not supply the eye."
-      },
-      {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. The MCA supplies the lateral cerebral cortex and is not the source of retinal blood supply."
-      },
-      {
-        "text": "Posterior cerebral artery",
-        "explanation": "Incorrect. The PCA supplies the visual cortex in the occipital lobe, but occlusion causes cortical blindness (hemianopsia), not monocular vision loss."
-      },
-      {
-        "text": "Ophthalmic artery",
-        "explanation": "Correct. This patient describes amaurosis fugax, a transient monocular blindness caused by emboli from the ipsilateral carotid artery lodging in the ophthalmic artery, the first branch of the intradural ICA.",
+        "text": "Central Retinal Artery (branch of Ophthalmic)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. The basilar artery supplies the brainstem and posterior circulation, not the retina."
+        "text": "Middle Meningeal Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Cerebral Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Cerebral Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basilar Artery",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Amaurosis fugax ('curtain coming down') suggests embolic occlusion of the ophthalmic artery, often originating from carotid stenosis.",
-    "pdfPage": 14
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Amaurosis Fugax = Transient monocular blindness (Ophthalmic/Retinal artery embolus).",
+    "pdfPage": 44
   },
   {
     "id": 4,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "The circle of Willis provides collateral circulation between the anterior and posterior circulations. Which artery directly connects the internal carotid artery system to the vertebrobasilar system?",
+    "questionText": "The Posterior Communicating Artery (PCom) connects:",
     "options": [
       {
-        "text": "Anterior communicating artery",
-        "explanation": "Incorrect. The anterior communicating artery connects the left and right anterior cerebral arteries (anterior circulation to anterior circulation)."
+        "text": "ACA to MCA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Posterior cerebral artery",
-        "explanation": "Incorrect. The PCA is the terminal branch of the basilar artery; while involved in the circle, the direct connector is the communicating artery."
-      },
-      {
-        "text": "Posterior communicating artery",
-        "explanation": "Correct. The posterior communicating artery (PCom) connects the internal carotid artery (anterior circulation) to the posterior cerebral artery (posterior circulation).",
+        "text": "ICA to PCA",
+        "explanation": "Correct. Connects Anterior (ICA) and Posterior (PCA) circulations.",
         "isCorrect": true
       },
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. The basilar artery is formed by the union of vertebral arteries and is the main trunk of the posterior circulation."
+        "text": "ACA to ACA",
+        "explanation": "Incorrect. ACom."
       },
       {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect. The ACA is a component of the anterior circulation."
+        "text": "Vertebral to Basilar",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MCA to PCA",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The posterior communicating artery (PCom) is the critical link between the anterior (ICA) and posterior (Vertebrobasilar) circulations in the Circle of Willis.",
-    "pdfPage": 15
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PCom connects Anterior (ICA) and Posterior (PCA) systems.",
+    "pdfPage": 26
   },
   {
     "id": 5,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 72-year-old male with irregular heart rhythm is brought to the hospital with acute confusion and weakness of the right leg. Physical exam shows significant weakness in the right lower extremity (1/5) with mild weakness in the right arm (4/5). Sensory loss is also noted on the right leg. Speech is preserved. Which artery is most likely affected?",
+    "questionText": "A stroke involving the Anterior Cerebral Artery (ACA) typically presents with:",
     "options": [
       {
-        "text": "Right anterior cerebral artery",
-        "explanation": "Incorrect. A right ACA stroke would impair the left leg and sensory function, not the right."
+        "text": "Contralateral Face and Arm weakness",
+        "explanation": "Incorrect. MCA."
       },
       {
-        "text": "Left middle cerebral artery",
-        "explanation": "Incorrect. A left MCA stroke would primarily affect the right face and arm and likely cause aphasia."
-      },
-      {
-        "text": "Left anterior cerebral artery",
-        "explanation": "Correct. The ACA supplies the medial aspect of the motor and sensory cortex, which corresponds to the leg and foot. A left ACA occlusion causes contralateral (right) leg weakness and sensory loss.",
+        "text": "Contralateral Leg weakness",
+        "explanation": "Correct. ACA supplies the medial homunculus (Leg).",
         "isCorrect": true
       },
       {
-        "text": "Right middle cerebral artery",
-        "explanation": "Incorrect. A right MCA stroke would affect the left face and arm."
+        "text": "Homonymous Hemianopsia",
+        "explanation": "Incorrect. PCA."
       },
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. Basilar artery strokes cause brainstem signs, not isolated cortical leg weakness."
+        "text": "Aphasia",
+        "explanation": "Incorrect. MCA."
+      },
+      {
+        "text": "Coma",
+        "explanation": "Incorrect. Brainstem/Basilar."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "ACA strokes preferentially affect the contralateral lower extremity due to the medial location of the leg area on the motor homunculus.",
-    "pdfPage": 20
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ACA = Leg weakness. MCA = Face/Arm weakness.",
+    "pdfPage": 16
   },
   {
     "id": 6,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A patient presents with a suspected stroke. Imaging reveals a hemorrhage in the basal ganglia. This is known as a Charcot-Bouchard aneurysm rupture. Which arteries are primarily responsible for supplying this deep brain region?",
+    "questionText": "Charcot-Bouchard aneurysms, associated with chronic hypertension, typically form in:",
     "options": [
       {
-        "text": "Cortical branches of MCA",
-        "explanation": "Incorrect. Cortical branches supply the surface of the brain (frontal, parietal, temporal lobes)."
+        "text": "Berry aneurysms of ACom",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Lenticulostriate arteries",
-        "explanation": "Correct. The lenticulostriate arteries are deep, penetrating branches of the MCA that supply the basal ganglia and internal capsule. They are prone to rupture in chronic hypertension.",
+        "text": "Lenticulostriate Arteries",
+        "explanation": "Correct. Small penetrating branches of MCA. Rupture -> Basal Ganglia hemorrhage.",
         "isCorrect": true
       },
       {
-        "text": "Callosomarginal artery",
-        "explanation": "Incorrect. This is a branch of the ACA supplying the cingulate gyrus."
+        "text": "PICA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Thalamoperforating arteries",
-        "explanation": "Incorrect. These arise from the PCA to supply the thalamus, though they are also small penetrating vessels."
+        "text": "Anterior Spinal Artery",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Recurrent artery of Heubner",
-        "explanation": "Incorrect. This is a branch of the ACA supplying the head of the caudate, but the classic 'Charcot-Bouchard' site is the MCA lenticulostriates."
+        "text": "Ophthalmic Artery",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Lenticulostriate arteries (branches of MCA) enter at a right angle and are susceptible to lipohyalinosis and rupture (Charcot-Bouchard aneurysms) from chronic hypertension, causing basal ganglia hemorrhage.",
+    "clinicalPearl": "Lenticulostriate arteries: Prone to Charcot-Bouchard aneurysms (Hemorrhage) and Lacunar infarcts.",
     "pdfPage": 19
   },
   {
     "id": 7,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 45-year-old male is evaluated for unsteadiness and vertigo. MRI reveals an infarct in the lateral medulla. Which artery is most commonly occluded to produce this syndrome (Wallenberg syndrome)?",
+    "questionText": "Wallenberg Syndrome (Lateral Medullary Syndrome) is caused by occlusion of:",
     "options": [
       {
-        "text": "Anterior inferior cerebellar artery (AICA)",
-        "explanation": "Incorrect. AICA occlusion typically causes lateral pontine syndrome, featuring facial paralysis and hearing loss."
+        "text": "AICA",
+        "explanation": "Incorrect. Lateral Pontine."
       },
       {
-        "text": "Posterior cerebral artery (PCA)",
-        "explanation": "Incorrect. PCA occlusion affects the midbrain and occipital lobes, causing Weber syndrome or homonymous hemianopsia."
-      },
-      {
-        "text": "Posterior inferior cerebellar artery (PICA)",
-        "explanation": "Correct. PICA supplies the lateral medulla and the inferior cerebellum. Occlusion causes lateral medullary (Wallenberg) syndrome: vertigo, ataxia, loss of pain/temp on ipsilateral face and contralateral body, and Horner's syndrome.",
+        "text": "PICA",
+        "explanation": "Correct. Supplies lateral medulla.",
         "isCorrect": true
       },
       {
-        "text": "Superior cerebellar artery (SCA)",
-        "explanation": "Incorrect. SCA occlusion affects the superior cerebellum and dorsal midbrain."
+        "text": "SCA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Anterior spinal artery",
-        "explanation": "Incorrect. Anterior spinal artery occlusion causes medial medullary syndrome (contralateral hemiparesis, tongue deviation), not lateral signs."
+        "text": "ASA",
+        "explanation": "Incorrect. Medial Medullary."
+      },
+      {
+        "text": "ICA",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "PICA occlusion is the classic cause of Lateral Medullary (Wallenberg) Syndrome. Remember: PICA -> Lateral Medulla.",
-    "pdfPage": 24
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PICA = Wallenberg (Lateral Medulla). ASA = Medial Medulla.",
+    "pdfPage": 29
   },
   {
     "id": 8,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which dural venous sinus is located in the superior border of the falx cerebri?",
+    "questionText": "The Superior Sagittal Sinus runs within the:",
     "options": [
       {
-        "text": "Inferior sagittal sinus",
-        "explanation": "Incorrect. The inferior sagittal sinus is located in the inferior free margin of the falx cerebri."
+        "text": "Tentorium Cerebelli",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Straight sinus",
-        "explanation": "Incorrect. The straight sinus is formed by the union of the inferior sagittal sinus and the great cerebral vein."
-      },
-      {
-        "text": "Superior sagittal sinus",
-        "explanation": "Correct. The superior sagittal sinus runs within the superior border of the falx cerebri, draining the superior cerebral veins and CSF via arachnoid granulations.",
+        "text": "Falx Cerebri (Superior border)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Transverse sinus",
-        "explanation": "Incorrect. The transverse sinus runs horizontally along the occipital bone."
+        "text": "Falx Cerebelli",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cavernous sinus",
-        "explanation": "Incorrect. The cavernous sinus is located bilaterally to the sella turcica."
+        "text": "Diaphragma Sellae",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cavernous Sinus",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Superior Sagittal Sinus runs in the superior margin of the falx cerebri and is the main site for CSF reabsorption via arachnoid granulations.",
-    "pdfPage": 36
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SSS in Falx Cerebri superior margin.",
+    "pdfPage": 37
   },
   {
     "id": 9,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 25-year-old male is struck in the temple with a baseball bat. He initially loses consciousness, wakes up and feels 'fine' (lucid interval), but then rapidly deteriorates into a coma. CT scan reveals a biconvex (lens-shaped) hyperdensity limited by suture lines. Which vessel is most likely ruptured?",
+    "questionText": "A biconvex (lens-shaped) hyperdensity on CT that does not cross suture lines indicates:",
     "options": [
       {
-        "text": "Bridging veins",
-        "explanation": "Incorrect. Rupture of bridging veins causes a subdural hematoma, which appears crescent-shaped and crosses suture lines."
+        "text": "Subdural Hematoma",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. While an artery, the MCA is deep. The classic traumatic vessel in the temporal region is meningeal."
-      },
-      {
-        "text": "Middle meningeal artery",
-        "explanation": "Correct. The middle meningeal artery runs deep to the pterion (temporal bone). Fracture here ruptures the artery, causing an epidural hematoma. The high arterial pressure causes rapid expansion, but the dura's attachment to sutures creates the lens shape.",
+        "text": "Epidural Hematoma",
+        "explanation": "Correct. MMA rupture.",
         "isCorrect": true
       },
       {
-        "text": "Superior sagittal sinus",
-        "explanation": "Incorrect. This would cause a venous bleed, possibly epidural or subdural, but is midline."
+        "text": "Subarachnoid Hemorrhage",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. This is a deep brainstem artery; rupture is usually fatal and associated with subarachnoid hemorrhage."
+        "text": "Intraventricular Hemorrhage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ischemic Stroke",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Epidural hematoma = Middle Meningeal Artery rupture (usually chaotic trauma at pterion) -> Lucid Interval -> Lens-shaped (biconvex) bleed restricted by sutures.",
-    "pdfPage": 49
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Epidural = Lens. Subdural = Crescent.",
+    "pdfPage": 55
   },
   {
     "id": 10,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Where do the superior sagittal sinus, straight sinus, and occipital sinus converge?",
+    "questionText": "The Confluence of Sinuses (Torcular Herophili) is the junction of which sinuses?",
     "options": [
       {
-        "text": "Sigmoid sinus",
-        "explanation": "Incorrect. The sigmoid sinus is the continuation of the transverse sinus."
+        "text": "SSS and Cavernous",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cavernous sinus",
-        "explanation": "Incorrect. The cavernous sinus is at the skull base."
-      },
-      {
-        "text": "Confluence of sinuses (Torcular Herophili)",
-        "explanation": "Correct. The confluence of sinuses is the meeting point posteriorly where the superior sagittal, straight, and occipital sinuses join to drain into the transverse sinuses.",
+        "text": "Superior Sagittal, Straight, and Occipital",
+        "explanation": "Correct. Drains into Transverse.",
         "isCorrect": true
       },
       {
-        "text": "Jugular foramen",
-        "explanation": "Incorrect. This is where the sigmoid sinus exits to become the internal jugular vein."
+        "text": "Transverse and Sigmoid",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Great vein of Galen",
-        "explanation": "Incorrect. This vein drains into the straight sinus."
+        "text": "Inferior Sagittal and Straight",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Petrosal and Sigmoid",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Confluence of Sinuses (Torcular Herophili) is the posterior junction where the Superior Sagittal, Straight, and Occipital sinuses meet.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Torcular Herophili = SSS + Straight + Occipital meeting point.",
     "pdfPage": 34
   },
   {
     "id": 11,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 30-year-old female presents with severe headache, fever, and right eye pain. Exam reveals proptosis, chemosis, and ophthalmoplegia of the right eye. She recently had a pimple on her nose that she squeezed. Which venous structure is likely thrombosed?",
+    "questionText": "Cavernous Sinus Thrombosis often presents with ophthalmoplegia because:",
     "options": [
       {
-        "text": "Superior sagittal sinus",
-        "explanation": "Incorrect. SSS thrombosis usually presents with headache, papilledema, and seizures, not focal orbital signs."
+        "text": "The optic nerve is compressed",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Transverse sinus",
-        "explanation": "Incorrect. Thrombosis here mimics pseudotumor cerebri outcomes."
-      },
-      {
-        "text": "Cavernous sinus",
-        "explanation": "Correct. The cavernous sinus drains the 'danger triangle' of the face. Infections can track back causing septic thrombosis. Structures inside (CN III, IV, V1, V2, VI) explain the eye findings (ophthalmoplegia, pain, sensory loss). CN VI is most susceptible as it runs centrally.",
+        "text": "CN III, IV, V1, V2, and VI pass through it",
+        "explanation": "Correct. Infection from 'danger triangle' spreads here.",
         "isCorrect": true
       },
       {
-        "text": "Sigmoid sinus",
-        "explanation": "Incorrect. Associated more with mastoiditis."
+        "text": "The ophthalmic artery is blocked",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Great vein of Galen",
-        "explanation": "Incorrect. Deep venous structure, thrombosis leads to thalamic infarcts."
+        "text": "The retina is detached",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The brainstem is infarcted",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Cavernous Sinus Thrombosis presents with orbital signs (chemosis, proptosis, ophthalmoplegia) often due to infection spreading from the facial 'danger triangle'. CN VI is often the first nerve affected.",
-    "pdfPage": 38
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Cavernous Sinus contains CN 3, 4, V1, V2, 6 and ICA. CN 6 is most medial/vulnerable.",
+    "pdfPage": 42
   },
   {
     "id": 12,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "The basilar artery terminates by bifurcating into which pair of arteries?",
+    "questionText": "The Basilar Artery terminates by branching into:",
     "options": [
       {
-        "text": "Posterior communicating arteries",
-        "explanation": "Incorrect. These join the PCA to the ICA."
+        "text": "Two Vertebral Arteries",
+        "explanation": "Incorrect. Formation."
       },
       {
-        "text": "Superior cerebellar arteries",
-        "explanation": "Incorrect. These are the last branches of the basilar *before* the terminal bifurcation."
-      },
-      {
-        "text": "Posterior cerebral arteries",
-        "explanation": "Correct. The basilar artery travels up the pons and terminates by splitting into the two posterior cerebral arteries (PCAs) at the midbrain level.",
+        "text": "Two Posterior Cerebral Arteries (PCA)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Middle cerebral arteries",
-        "explanation": "Incorrect. MCA is a branch of the ICA."
+        "text": "Two Middle Cerebral Arteries",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Vertebral arteries",
-        "explanation": "Incorrect. The vertebral arteries *form* the basilar artery."
+        "text": "Two Anterior Cerebral Arteries",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Two PICA arteries",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Basilar Artery terminates as the bilateral Posterior Cerebral Arteries (PCAs). CN III passes between the PCA and the Superior Cerebellar Artery (SCA).",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Basilar -> 2 PCAs.",
+    "pdfPage": 23
   },
   {
     "id": 13,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "An elderly patient with a history of frequent falls presents with increasing confusion and headache over the past 2 weeks. CT scan shows a crescent-shaped hypodense collection over the left hemisphere that crosses suture lines. What is the source of the bleeding?",
+    "questionText": "A crescent-shaped hemorrhage that crosses suture lines is a:",
     "options": [
       {
-        "text": "Middle meningeal artery",
-        "explanation": "Incorrect. This causes epidural hematoma (biconvex, acute)."
-      },
-      {
-        "text": "Berry aneurysm",
-        "explanation": "Incorrect. Rupture causes subarachnoid hemorrhage."
-      },
-      {
-        "text": "Bridging veins",
-        "explanation": "Correct. This is a chronic subdural hematoma. Atrophy puts tension on bridging veins, which tear with minor trauma. The slow leak allows gradual symptom onset. 'Crescent-shaped' and 'crossing sutures' are hallmark features.",
+        "text": "Subdural Hematoma",
+        "explanation": "Correct. Venous origin (Bridging veins).",
         "isCorrect": true
       },
       {
-        "text": "Lenticulostriate arteries",
-        "explanation": "Incorrect. Causes intracerebral hemorrhage."
+        "text": "Epidural Hematoma",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Emissary veins",
-        "explanation": "Incorrect. These connect extracranial and intracranial veins, less common source of classic subdural."
+        "text": "Subarachnoid Hemorrhage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Intraparenchymal Hemorrhage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Berry Aneurysm",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Subdural hematoma = Bridging Vein rupture -> Slow (venous) bleed -> Crescent shape that crosses suture lines. Common in elderly/alcoholics due to brain atrophy.",
-    "pdfPage": 50
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Subdural = Crescent.",
+    "pdfPage": 55
   },
   {
     "id": 14,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which cranial nerve passes directly between the posterior cerebral artery (PCA) and the superior cerebellar artery (SCA)?",
+    "questionText": "CN III passes between which two arteries, making it vulnerable to aneurysm compression?",
     "options": [
       {
-        "text": "Optic nerve (CN II)",
-        "explanation": "Incorrect. Located more anteriorly near the ICA/ACA."
+        "text": "SCA and AICA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Trochlear nerve (CN IV)",
-        "explanation": "Incorrect. Exits dorsally."
-      },
-      {
-        "text": "Oculomotor nerve (CN III)",
-        "explanation": "Correct. CN III exits the midbrain and passes between the PCA and SCA. An aneurysm of these vessels can compress CN III, causing a 'down and out' eye with pupil dilation (surgical emergency).",
+        "text": "PCA and SCA (Superior Cerebellar Artery)",
+        "explanation": "Correct. 'Sandwiched' between Posterior Cerebral and Superior Cerebellar.",
         "isCorrect": true
       },
       {
-        "text": "Abducens nerve (CN VI)",
-        "explanation": "Incorrect. Exits at the pontomedullary junction."
+        "text": "AICA and PICA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Trigeminal nerve (CN V)",
-        "explanation": "Incorrect. Exits from the lateral pons."
+        "text": "MCA and ACA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vertebral and Basilar",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "CN III passes between the Posterior Cerebral Artery (PCA) and Superior Cerebellar Artery (SCA). Aneurysm here causes a CN III palsy.",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CN III is between PCA and SCA.",
+    "pdfPage": 57
   },
   {
     "id": 15,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 50-year-old female complains of the 'worst headache of my life' that started abruptly. Vital signs show BP 150/90. Neck stiffness is present. CT head shows a star-shaped hyperdensity in the basal cisterns. What is the most likely etiology?",
+    "questionText": "'Thunderclap headache' is the hallmark of:",
     "options": [
       {
-        "text": "Rupture of middle meningeal artery",
-        "explanation": "Incorrect. Causes epidural hematoma."
+        "text": "Migraine",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Tearing of bridging veins",
-        "explanation": "Incorrect. Causes subdural hematoma."
-      },
-      {
-        "text": "Rupture of saccular (berry) aneurysm",
-        "explanation": "Correct. This is a subarachnoid hemorrhage (SAH). The classic 'thunderclap headache' and neck stiffness (meningeal irritation) are key. Ruptured berry aneurysms (usually in the Circle of Willis) are the most common non-traumatic cause.",
+        "text": "Subarachnoid Hemorrhage (SAH)",
+        "explanation": "Correct. Start-shaped blood in cisterns.",
         "isCorrect": true
       },
       {
-        "text": "Hypertensive lipohyalinosis",
-        "explanation": "Incorrect. Causes intraparenchymal (deep) hemorrhage."
+        "text": "Epidural Hematoma",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cavernous sinus thrombosis",
-        "explanation": "Incorrect. Presents with orbital signs."
+        "text": "Subdural Hematoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tension Headache",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Subarachnoid Hemorrhage (SAH) presents as a 'Thunderclap Headache'. Most common non-traumatic cause is a ruptured Berry Aneurysm.",
-    "pdfPage": 51
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Thunderclap = SAH.",
+    "pdfPage": 29
   },
   {
     "id": 16,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which artery supplies the medial surface of the frontal and parietal lobes?",
+    "questionText": "The Anterior Cerebral Artery (ACA) supplies:",
     "options": [
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. Supplies the lateral surface."
+        "text": "Lateral hemisphere",
+        "explanation": "Incorrect. MCA."
       },
       {
-        "text": "Posterior cerebral artery",
-        "explanation": "Incorrect. Supplies the occipital and inferior temporal lobes."
-      },
-      {
-        "text": "Anterior cerebral artery",
-        "explanation": "Correct. The ACA travels in the interhemispheric fissure and supplies the medial aspect of the hemispheres (frontal and parietal).",
+        "text": "Medial hemisphere (Frontal/Parietal)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Anterior choroidal artery",
-        "explanation": "Incorrect. Supplies deep structures (internal capsule, optic tract)."
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect. PCA."
       },
       {
-        "text": "Superior cerebellar artery",
-        "explanation": "Incorrect. Supplies the cerebellum."
+        "text": "Brainstem",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Anterior Cerebral Artery (ACA) supplies the medial surface of the brain (Leg/Trunk motor/sensory area).",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ACA = Medial surface.",
     "pdfPage": 16
   },
   {
     "id": 17,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A patient has a stroke affecting the 'watershed' area between the ACA and MCA territories. This type of infarct is most commonly precipitated by which widespread physiologic event?",
+    "questionText": "Watershed infarcts typically occur due to:",
     "options": [
       {
-        "text": "Hypertension",
-        "explanation": "Incorrect. Hypertension predisposes to deep hemorrhages."
+        "text": "Embolism",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Systemic hypoperfusion (Hypotension)",
-        "explanation": "Correct. Watershed zones are the most distal areas of perfusion between two arterial territories. They are the first to suffer ischemia during episodes of severe globular hypotension (e.g., cardiac arrest, shock).",
+        "text": "Global Hypoperfusion (Systemic Hypotension)",
+        "explanation": "Correct. 'Man in a barrel' syndrome.",
         "isCorrect": true
       },
       {
-        "text": "Hypercoagulability",
-        "explanation": "Incorrect. Causes venous thrombosis or embolic strokes."
+        "text": "Hypertension",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Berry aneurysm rupture",
-        "explanation": "Incorrect. Causes hemorrhage."
+        "text": "Thrombosis",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Vasculitis",
-        "explanation": "Incorrect. Causes localized inflammation."
+        "text": "Vasodilatation",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Watershed infarcts occur at the border zones of arterial supply (e.g., ACA-MCA border) and are classically caused by severe systemic hypotension (global hypoperfusion).",
-    "pdfPage": 27
+    "clinicalPearl": "Watershed = Systemic Hypotension.",
+    "pdfPage": 55
   },
   {
     "id": 18,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "The anterior spinal artery is formed by the union of branches from which arteries?",
+    "questionText": "The Anterior Spinal Artery is formed by branches from the:",
     "options": [
       {
-        "text": "Internal carotid arteries",
+        "text": "Basilar Artery",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basilar arteries",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vertebral arteries",
-        "explanation": "Correct. Two small branches (one from each vertebral artery) fuse to form the single Anterior Spinal Artery, which descends down the anterior median fissure of the spinal cord.",
+        "text": "Vertebral Arteries",
+        "explanation": "Correct. Two branches unionize.",
         "isCorrect": true
       },
       {
-        "text": "Posterior inferior cerebellar arteries",
-        "explanation": "Incorrect. PICA gives rise to the posterior spinal arteries."
+        "text": "ICA",
+        "explanation": "Incorrect."
       },
       {
-        "text": "External carotid arteries",
+        "text": "ECA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "PICA",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The single Anterior Spinal Artery is formed by the union of branches from both Vertebral Arteries.",
-    "pdfPage": 28
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Vertebrals -> Anterior Spinal Artery.",
+    "pdfPage": 16
   },
   {
     "id": 19,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 60-year-old male with a history of hypertension presents with left-sided hemiparesis and hemisensory loss. His eyes deviate to the right. He is diagnosed with a large ischemic stroke. Which vessel is occluded?",
+    "questionText": "In a right MCA stroke, the eyes deviate:",
     "options": [
       {
-        "text": "Right anterior cerebral artery",
-        "explanation": "Incorrect. Would mostly affect the leg."
+        "text": "To the Left",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Right middle cerebral artery",
-        "explanation": "Correct. Right MCA stroke causes contralateral (left) weakness and sensory loss (Face/Arm > Leg). The frontal eye fields are also affected, causing gaze preference *towards* the lesion (right). The non-dominant (right) hemisphere involvement may also cause hemineglect.",
+        "text": "To the Right (Towards the lesion)",
+        "explanation": "Correct. Frontal Eye Fields damage impairs contralateral gaze, so eyes look 'towards the lesion'.",
         "isCorrect": true
       },
       {
-        "text": "Left middle cerebral artery",
-        "explanation": "Incorrect. Left MCA stroke would cause right-sided weakness and aphasia."
+        "text": "Upward",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Left posterior cerebral artery",
-        "explanation": "Incorrect. Would cause vision loss."
+        "text": "Downward",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Right posterior cerebral artery",
-        "explanation": "Incorrect. Would cause vision loss."
+        "text": "They don't deviate",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "In large MCA strokes, gaze preference is towards the side of the lesion (looking at the stroke) due to damage to the Frontal Eye Fields.",
-    "pdfPage": 20
+    "clinicalPearl": "Eyes look TOWARDS the hemisphere lesion (stroke).",
+    "pdfPage": 16
   },
   {
     "id": 20,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "The posterior inferior cerebellar artery (PICA) is a branch of which vessel?",
+    "questionText": "The PICA (Posterior Inferior Cerebellar Artery) originates from:",
     "options": [
       {
-        "text": "Basilar artery",
-        "explanation": "Incorrect. The AICA and SCA branch from the basilar."
+        "text": "Basilar Artery",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Vertebral artery",
-        "explanation": "Correct. PICA is the largest branch of the vertebral artery, arising just before the two vertebrals fuse to form the basilar.",
+        "text": "Vertebral Artery",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Internal carotid artery",
+        "text": "ICA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Posterior cerebral artery",
+        "text": "MCA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Middle cerebral artery",
+        "text": "SCA",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "PICA arises from the Vertebral Artery. AICA and SCA arise from the Basilar Artery.",
-    "pdfPage": 24
+    "clinicalPearl": "PICA from Vertebral. AICA/SCA from Basilar.",
+    "pdfPage": 4
   },
   {
     "id": 21,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A 35-year-old postpartum female presents with severe headache, vomiting, and seizures. Magnetic resonance venography (MRV) shows a filling defect in the superior sagittal sinus. What is the diagnosis?",
+    "questionText": "Cerebral Venous Thrombosis (CVT) is a risk especially in:",
     "options": [
       {
-        "text": "Subarachnoid hemorrhage",
+        "text": "Elderly men",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebral venous thrombosis",
-        "explanation": "Correct. Pregnancy/postpartum is a hypercoagulable state. Clotting in the dural sinuses (CVT) blocks drainage, increasing ICP (headache, vomiting) and causing venous infarcts/seizures.",
+        "text": "Hypercoagulable states (e.g., Pregnancy, OCPs)",
+        "explanation": "Correct. Causes venous congestion stroke.",
         "isCorrect": true
       },
       {
-        "text": "Subdural hematoma",
+        "text": "Hypotensive patients",
         "explanation": "Incorrect."
       },
       {
-        "text": "Epidural hematoma",
+        "text": "Trauma patients only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Meningitis",
-        "explanation": "Incorrect. While headache/fever/seizure fits, the MRV filling defect is diagnostic for thrombosis."
+        "text": "Alcoholics",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Cerebral Venous Thrombosis (CVT) should be suspected in hypercoagulable patients (e.g., pregnancy, OCPs) presenting with headaches and seizures. MRV is diagnostic.",
-    "pdfPage": 42
+    "clinicalPearl": "CVT risk = Pregnancy/Hypercoagulability.",
+    "pdfPage": 57
   },
   {
     "id": 22,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which structure drains blood from the superficial middle cerebral vein into the transverse sinus?",
+    "questionText": "The vein of Labb\u00e9 drains the superficial cortex into the:",
     "options": [
       {
-        "text": "Superior anastomotic vein (of Trolard)",
-        "explanation": "Incorrect. Drains to the superior sagittal sinus."
+        "text": "Superior Sagittal Sinus",
+        "explanation": "Incorrect. Vein of Trolard does this."
       },
       {
-        "text": "Inferior anastomotic vein (of Labb\u00e9)",
-        "explanation": "Correct. The vein of Labb\u00e9 connects the superficial middle cerebral vein to the transverse sinus.",
+        "text": "Transverse Sinus",
+        "explanation": "Correct. Labb\u00e9 = Lower = Transverse.",
         "isCorrect": true
       },
       {
-        "text": "Basal amine of Rosenthal",
-        "explanation": "Incorrect. A deep vein."
+        "text": "Cavernous Sinus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Internal cerebral vein",
-        "explanation": "Incorrect. A deep vein."
+        "text": "Straight Sinus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Great cerebral vein of Galen",
-        "explanation": "Incorrect. A deep vein."
+        "text": "Sigmoid Sinus",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Vein of Trolard (Top) -> Superior Sagittal Sinus. Vein of Labb\u00e9 (Lower) -> Transverse Sinus.",
-    "pdfPage": 40
+    "clinicalPearl": "Trolard = Top (SSS). Labbe = Lateral/Lower (Transverse).",
+    "pdfPage": 41
   },
   {
     "id": 23,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Occlusion of which artery is most likely to result in contralateral homonymous hemianopsia with macular sparing?",
+    "questionText": "PCA stroke causes homonymous hemianopsia with:",
     "options": [
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. MCA strokes can cause visual field cuts, but 'macular sparing' is the hallway of a PCA stroke due to dual supply to the macula from MCA."
-      },
-      {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior cerebral artery",
-        "explanation": "Correct. The PCA supplies the visual cortex. Occlusion causes contralateral homonymous hemianopsia. The macula is spared because the macular cortex receives dual blood supply from both the PCA and the MCA.",
+        "text": "Macular Sparing",
+        "explanation": "Correct. Macula has dual supply (MCA/PCA).",
         "isCorrect": true
       },
       {
-        "text": "Ophthalmic artery",
-        "explanation": "Incorrect. Causes monocular blindness."
+        "text": "Macular Loss",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Anterior choroidal artery",
-        "explanation": "Incorrect. Can cause hemianopsia but typically without macular sparing."
+        "text": "Total blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Monocular blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "PCA occlusion causes contralateral homonymous hemianopsia with MACULAR SPARING (macula has dual supply from MCA).",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "PCA stroke = Macular Sparing.",
     "pdfPage": 26
   },
   {
     "id": 24,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "The bifurcation of the common carotid artery typically occurs at which vertebral level?",
+    "questionText": "The Common Carotid Artery bifurcates at the level of:",
     "options": [
       {
         "text": "C2",
         "explanation": "Incorrect."
       },
       {
-        "text": "C4",
-        "explanation": "Correct. The common carotid bifurcates into the internal and external carotid arteries at the level of the superior border of the thyroid cartilage, roughly C4.",
+        "text": "C4 (Thyroid Cartilage)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "C6",
-        "explanation": "Incorrect. This is where the vertebral artery enters the transverse foramen."
+        "text": "C7",
+        "explanation": "Incorrect."
       },
       {
-        "text": "T2",
+        "text": "T1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "T4",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Common Carotid bifurcation = C4.",
+    "pdfPage": 18
+  },
+  {
+    "id": 25,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "The Straight Sinus is formed by the union of the Great Cerebral Vein of Galen and:",
+    "options": [
+      {
+        "text": "Inferior Sagittal Sinus",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Sagittal Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Transverse Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sigmoid Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Occipital Sinus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Straight Sinus = Inf. Sagittal + Galen.",
+    "pdfPage": 3
+  },
+  {
+    "id": 26,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "Pure motor stroke affecting face, arm, and leg equally is usually due to a lesion in:",
+    "options": [
+      {
+        "text": "Internal Capsule (Posterior Limb)",
+        "explanation": "Correct. Lacunar stroke of Lenticulostriate arteries.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortex",
+        "explanation": "Incorrect. Would be unequal."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect. Pure sensory."
+      },
+      {
+        "text": "Brainstem",
+        "explanation": "Incorrect. Crossed signs."
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pure Motor = Internal Capsule (Lacunar).",
+    "pdfPage": 20
+  },
+  {
+    "id": 27,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "In the documented angiographic variant by Mathew et al., the anomalous Right PICA originated from:",
+    "options": [
+      {
+        "text": "Vertebral Artery",
+        "explanation": "Incorrect. Normal."
+      },
+      {
+        "text": "Right Superior Cerebellar Artery (SCA)",
+        "explanation": "Correct. This is the specific variant noted in the slide.",
+        "isCorrect": true
+      },
+      {
+        "text": "Basilar Artery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "AICA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "PCA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Variant: Right PICA from Right SCA.",
+    "pdfPage": 25
+  },
+  {
+    "id": 28,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "The vein of Trolard connects the superficial middle cerebral vein to the:",
+    "options": [
+      {
+        "text": "Superior Sagittal Sinus",
+        "explanation": "Correct. Trolard = Top.",
+        "isCorrect": true
+      },
+      {
+        "text": "Transverse Sinus",
+        "explanation": "Incorrect. Labb\u00e9.",
+      },
+      {
+        "text": "Straight Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cavernous Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sigmoid Sinus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Trolard drains up (SSS). Labb\u00e9 drains down (Transverse).",
+    "pdfPage": 18
+  },
+  {
+    "id": 29,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "Which sinus drains directly into the Internal Jugular Vein?",
+    "options": [
+      {
+        "text": "Transverse Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sigmoid Sinus",
+        "explanation": "Correct. Exits via Jugular Foramen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cavernous Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Superior Sagittal Sinus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Straight Sinus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sigmoid -> IJV.",
+    "pdfPage": 41
+  },
+  {
+    "id": 30,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "The Internal Carotid Artery enters the skull through the:",
+    "options": [
+      {
+        "text": "Jugular Foramen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Carotid Canal",
+        "explanation": "Correct. In the petrous temporal bone.",
+        "isCorrect": true
+      },
+      {
+        "text": "Foramen Ovale",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Foramen Spinosum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Foramen Magnum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ICA enters via Carotid Canal.",
+    "pdfPage": 12
+  },
+  {
+    "id": 31,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "Broca's area is typically supplied by which artery?",
+    "options": [
+      {
+        "text": "ACA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MCA (Superior Division)",
+        "explanation": "Correct. MCA supplies lateral frontal lobe.",
+        "isCorrect": true
+      },
+      {
+        "text": "PCA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "AICA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Choroidal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MCA supplies Broca's and Wernicke's.",
+    "pdfPage": 46
+  },
+  {
+    "id": 32,
+    "category": "Cerebrovascular Anatomy",
+    "questionText": "The Vertebral Artery enters the transverse foramina at level:",
+    "options": [
+      {
+        "text": "C7",
+        "explanation": "Incorrect. Vein only."
+      },
+      {
+        "text": "C6",
+        "explanation": "Correct. Enters at C6, goes up to C1.",
+        "isCorrect": true
+      },
+      {
+        "text": "C4",
         "explanation": "Incorrect."
       },
       {
         "text": "C1",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "The Common Carotid Artery bifurcates at C4 (superior border of thyroid cartilage).",
-    "pdfPage": 10
-  },
-  {
-    "id": 25,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "Which of the following vessels joins the great cerebral vein of Galen to form the straight sinus?",
-    "options": [
-      {
-        "text": "Superior sagittal sinus",
-        "explanation": "Incorrect."
       },
       {
-        "text": "Inferior sagittal sinus",
-        "explanation": "Correct. The straight sinus is formed by the union of the inferior sagittal sinus and the great cerebral vein of Galen.",
-        "isCorrect": true
-      },
-      {
-        "text": "Transverse sinus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sigmoid sinus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cavernous sinus",
+        "text": "T1",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Inferior Sagittal Sinus + Great Cerebral Vein of Galen = Straight Sinus.",
-    "pdfPage": 39
-  },
-  {
-    "id": 26,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "A 55-year-old male with a history of chronic hypertension presents with sudden onset of pure motor hemiparesis of the left face, arm, and leg. Sensory function is intact. Where is the lesion most likely located?",
-    "options": [
-      {
-        "text": "Left Primary Motor Cortex",
-        "explanation": "Incorrect. Cortical lesions usually affect face/arm > leg or leg > arm."
-      },
-      {
-        "text": "Right Internal Capsule",
-        "explanation": "Correct. A 'pure motor' stroke typically affects the posterior limb of the internal capsule. This is a lacunar stroke involving the lenticulostriate arteries. Because fibers are compacted, the entire hemibody (face, arm, leg) is affected equally.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Thalamus",
-        "explanation": "Incorrect. Thalamic strokes cause pure sensory deficits."
-      },
-      {
-        "text": "Left Internal Capsule",
-        "explanation": "Incorrect. Would cause right-sided weakness."
-      },
-      {
-        "text": "Right Medulla",
-        "explanation": "Incorrect. Would cause alternating syndromes."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Lacunar strokes in the Posterior Limb of the Internal Capsule cause Pure Motor Hemiparesis affecting the contralateral Face, Arm, and Leg equally.",
-    "pdfPage": 19
-  },
-  {
-    "id": 27,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "Which artery travels through the transverse foramina of cervical vertebrae C1-C6?",
-    "options": [
-      {
-        "text": "Internal carotid artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "External carotid artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vertebral artery",
-        "explanation": "Correct. The vertebral artery ascends through the transverse foramina of C6 to C1 before entering the skull via the foramen magnum.",
-        "isCorrect": true
-      },
-      {
-        "text": "Common carotid artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ascending pharyngeal artery",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Vertebral Artery travels through the Transverse Foramina of C6-C1.",
+    "clinicalPearl": "Vertebral Artery enters C6 transverse foramen.",
     "pdfPage": 23
-  },
-  {
-    "id": 28,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "An aneurysm of the anterior communicating artery (ACom) is most likely to compress which structure?",
-    "options": [
-      {
-        "text": "Oculomotor nerve",
-        "explanation": "Incorrect. Compressed by PCom aneurysms."
-      },
-      {
-        "text": "Optic chiasm",
-        "explanation": "Correct. The ACom is located immediately above the optic chiasm. Aneurysms here can compress the chiasm, causing bitemporal hemianopsia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Abducens nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pituitary gland",
-        "explanation": "Incorrect. While close, the chiasm is the classic compression site."
-      },
-      {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Aneurysms of the Anterior Communicating Artery (ACom) can compress the Optic Chiasm leading to visual field defects (bitemporal hemianopsia).",
-    "pdfPage": 16
-  },
-  {
-    "id": 29,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "Which of the following is an infratentorial brain structure supplied by the vertebrobasilar system?",
-    "options": [
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect. Supratentorial (mostly PCA supply)."
-      },
-      {
-        "text": "Occipital lobe",
-        "explanation": "Incorrect. Supratentorial."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Correct. The cerebellum is located below the tentorium cerebelli (infratentorial) and is supplied by SCA, AICA, and PICA (all branches of the vertebrobasilar system).",
-        "isCorrect": true
-      },
-      {
-        "text": "Corpus callosum",
-        "explanation": "Incorrect. Supratentorial."
-      },
-      {
-        "text": "Cingulate gyrus",
-        "explanation": "Incorrect. Supratentorial."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The vertebrobasilar system supplies the brainstem and cerebellum (infratentorial structures) and the occipital lobes (supratentorial).",
-    "pdfPage": 24
-  },
-  {
-    "id": 30,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "The sigmoid sinus exits the skull to become which vascular structure?",
-    "options": [
-      {
-        "text": "External jugular vein",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal jugular vein",
-        "explanation": "Correct. The sigmoid sinus traverses the jugular foramen and transitions into the internal jugular vein.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vertebral vein",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior vena cava",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Subclavian vein",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Sigmoid Sinus -> Jugular Foramen -> Internal Jugular Vein.",
-    "pdfPage": 37
-  },
-  {
-    "id": 31,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "A 48-year-old male presents with difficulty walking. Exam reveals a broad-based ataxic gait. He also has nausea and vertigo. Which artery supply is most likely compromised?",
-    "options": [
-      {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect. Causes motor/sensory deficits, not cerebellar ataxia."
-      },
-      {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior cerebellar artery",
-        "explanation": "Correct. Cerebellar arteries (SCA, AICA, PICA) supply the cerebellum. Infarctions here classically present with 'cerebellar signs': Ataxia, Nausea, Vertigo, and Nystagmus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ophthalmic artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior spinal artery",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Strokes in the cerebellar arteries (PICA, AICA, SCA) present with Cerebellar signs: Ataxia, Nausea, Vomiting, and Vertigo.",
-    "pdfPage": 24
-  },
-  {
-    "id": 32,
-    "category": "Cerebrovascular Anatomy",
-    "questionText": "The recurrent artery of Heubner is a branch of which major artery?",
-    "options": [
-      {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior cerebral artery",
-        "explanation": "Correct. The recurrent artery of Heubner is a branch of the ACA (A2 segment) that supplies the head of the caudate nucleus and anterior internal capsule.",
-        "isCorrect": true
-      },
-      {
-        "text": "Posterior cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basilar artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal carotid artery",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "The Recurrent Artery of Heubner is a notable branch of the Anterior Cerebral Artery (ACA).",
-    "pdfPage": 16
   },
   {
     "id": 33,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "Which dural fold separates the cerebral hemispheres and contains the superior sagittal sinus?",
+    "questionText": "Lacunar strokes often form marked cavities called:",
     "options": [
       {
-        "text": "Tentorium cerebelli",
-        "explanation": "Incorrect. Separates cerebrum from cerebellum."
-      },
-      {
-        "text": "Falx cerebelli",
-        "explanation": "Incorrect. Separates cerebellar hemispheres."
-      },
-      {
-        "text": "Falx cerebri",
-        "explanation": "Correct. The falx cerebri is the sickle-shaped dural fold that dips into the longitudinal fissure between the two cerebral hemispheres.",
+        "text": "Lakes or Lacunes",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Diaphragma sellae",
-        "explanation": "Incorrect. Covers the pituitary."
+        "text": "Cysts",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Crista galli",
-        "explanation": "Incorrect. That is a bone."
+        "text": "Tumors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Granulations",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Plaques",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Falx Cerebri separates the left and right cerebral hemispheres and houses the Superior Sagittal Sinus.",
-    "pdfPage": 36
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Lacunar = Lake-like.",
+    "pdfPage": 59
   },
   {
     "id": 34,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "A patient with a history of atrial fibrillation presents with a stroke. The embolus most likely originated from the heart and traveled into the ICA. If it follows the path of least resistance (largest caliber), which vessel did it most likely occlude?",
+    "questionText": "The Anterior Communicating Artery (ACom) connects:",
     "options": [
       {
-        "text": "Anterior cerebral artery",
-        "explanation": "Incorrect. The ACA branches at an angle."
+        "text": "Left and Right MCAs",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Correct. The MCA is the largest branch and a direct continuation of the ICA. Therefore, cardiogenic emboli most frequently lodge in the MCA.",
+        "text": "Left and Right ACAs",
+        "explanation": "Correct. Common site for aneurysms.",
         "isCorrect": true
       },
       {
-        "text": "Posterior communicating artery",
+        "text": "ACA and MCA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ophthalmic artery",
+        "text": "ICA and PCA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior choroidal artery",
+        "text": "Vertebrals",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The Middle Cerebral Artery (MCA) is the most common site for embolic strokes because it is the largest and most direct continuation of the Internal Carotid Artery.",
-    "pdfPage": 18
+    "clinicalPearl": "ACom connects the two ACAs.",
+    "pdfPage": 4
   },
   {
     "id": 35,
     "category": "Cerebrovascular Anatomy",
-    "questionText": "What is the primary vascular supply to the thalamus?",
+    "questionText": "Which artery wraps around the insular cortex and emerges on the lateral surface?",
     "options": [
       {
-        "text": "Anterior cerebral artery",
+        "text": "ACA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Middle cerebral artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior cerebral artery",
-        "explanation": "Correct. The PCA gives off thalamoperforating branches to supply the thalamus.",
+        "text": "MCA",
+        "explanation": "Correct. Courses through Sylvian fissure.",
         "isCorrect": true
       },
       {
-        "text": "Superior cerebellar artery",
+        "text": "PCA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basilar artery",
+        "text": "PCom",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ophthalmic",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "The Posterior Cerebral Artery (PCA) supplies the Thalamus.",
-    "pdfPage": 26
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MCA courses in Sylvian Fissure over Insula.",
+    "pdfPage": 18
   }
 ];

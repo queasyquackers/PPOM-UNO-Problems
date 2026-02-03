@@ -1,985 +1,82 @@
-// Test_L7.js
 window.Test_L7 = [
   {
     "id": 1,
     "category": "Brainstem Anatomy",
-    "questionText": "A 62-year-old male presents with a history of hypertension and recent onset of dizziness. An MRI is performed to evaluate the brainstem. The radiologist notes a structure with a prominent anterior 'belly' composed of transverse fibers located between the midbrain and medulla. Which structure is being described?",
+    "questionText": "The Basilar Pons is characterized by:",
     "options": [
       {
-        "text": "Medulla Oblongata",
-        "explanation": "Incorrect. The medulla is caudal and spinal-cord like."
+        "text": "The Pyramids",
+        "explanation": "Incorrect. Medulla."
       },
       {
-        "text": "Basilar Pons",
-        "explanation": "Correct. The basilar pons is characterized by its large ventral swelling (belly) formed by transverse pontocerebellar fibers.",
+        "text": "A large ventral 'belly' of transverse fibers",
+        "explanation": "Correct. Pontocerebellar fibers.",
         "isCorrect": true
       },
       {
-        "text": "Tectum",
-        "explanation": "Incorrect. Dorsal midbrain."
+        "text": "The Tectum",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Cerebral Peduncles",
-        "explanation": "Incorrect. Ventral midbrain."
+        "text": "The Olive",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Pyramids",
-        "explanation": "Incorrect. Ventral medulla."
+        "text": "The Obex",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The Basilar Pons is the 'belly' of the brainstem, formed by transverse pontocerebellar fibers.",
-    "pdfPage": 6
+    "clinicalPearl": "Basilar Pons = Ventral 'Belly'.",
+    "pdfPage": 30
   },
   {
     "id": 2,
-    "category": "Medulla Anatomy",
-    "questionText": "During a gross anatomy lab, a student identifies a prominent oval swelling on the anterolateral surface of the upper medulla, lateral to the pyramid. This external feature corresponds to which internal nucleus?",
+    "category": "Medulla Landmarks",
+    "questionText": "The external oval swelling lateral to the medullary pyramid is the:",
     "options": [
       {
-        "text": "Nucleus Ambiguus",
-        "explanation": "Incorrect. Deep in tegmentum."
-      },
-      {
-        "text": "Inferior Olivary Nucleus",
-        "explanation": "Correct. The 'Olive' is the external bump caused by the underlying Inferior Olivary Nucleus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Spinal Trigeminal Nucleus",
-        "explanation": "Incorrect. Lateral/Dorsal."
-      },
-      {
-        "text": "Hypoglossal Nucleus",
-        "explanation": "Incorrect. Dorsal (trigone)."
-      },
-      {
-        "text": "Cuneate Nucleus",
-        "explanation": "Incorrect. Dorsal surface."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "External Bump 'Olive' = Internal Structure 'Inferior Olivary Nucleus' (Motor Control/Cerebellar learning).",
-    "pdfPage": 6
-  },
-  {
-    "id": 3,
-    "category": "Midbrain Anatomy",
-    "questionText": "A 45-year-old female presents with hydrocephalus. Imaging reveals stenosis of the channel connecting the third and fourth ventricles. This channel is located in the:",
-    "options": [
-      {
-        "text": "Telencephalon",
+        "text": "Gracile Tubercle",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Midbrain",
-        "explanation": "Correct. The Cerebral Aqueduct traverses the Midbrain.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pons",
-        "explanation": "Incorrect. 4th ventricle."
-      },
-      {
-        "text": "Medulla",
-        "explanation": "Incorrect. 4th ventricle."
-      },
-      {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect. Central canal."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "The Cerebral Aqueduct is the narrowest part of the ventricular system and is found in the Midbrain.",
-    "pdfPage": 22
-  },
-  {
-    "id": 4,
-    "category": "Functional Anatomy",
-    "questionText": "A 25-year-old male is involved in a bar fight and sustains trauma to the dorsal aspect of the midbrain. He reports difficulty looking up. Which structure has most likely been damaged?",
-    "options": [
-      {
-        "text": "Inferior Colliculus",
-        "explanation": "Incorrect. Auditory."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Correct. The Superior Colliculus (in the Tectum) is involved in directing eye movements (saccades), particularly upward gaze.",
-        "isCorrect": true
-      },
-      {
-        "text": "Substantia Nigra",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebral Peduncle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Parinaud's Syndrome (dorsal midbrain compression) -> Vertical Gaze Palsy (can't look up) due to Superior Colliculus compression.",
-    "pdfPage": 15
-  },
-  {
-    "id": 5,
-    "category": "Cranial Nerves",
-    "questionText": "A patient presents with double vision (diplopia) that worsens when walking downstairs or reading. Examination reveals the right eye is deviated upward and outward. The affected nerve is unique because it:",
-    "options": [
-      {
-        "text": "Exits the brainstem ventrally",
-        "explanation": "Incorrect. Most do."
-      },
-      {
-        "text": "Exits the brainstem dorsally",
-        "explanation": "Correct. This is a CN IV (Trochlear) palsy. CN IV is the only cranial nerve to exit from the DORSAL surface of the brainstem.",
-        "isCorrect": true
-      },
-      {
-        "text": "Emerges from the medulla",
-        "explanation": "Incorrect. Midbrain."
-      },
-      {
-        "text": "Does not decussate",
-        "explanation": "Incorrect. It DOES decussate (the only one)."
-      },
-      {
-        "text": "Innervates the lateral rectus",
-        "explanation": "Incorrect. Superior Oblique."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "CN IV (Trochlear) rules: 1. Exits Dorsally. 2. Crosses midline. 3. Longest intracranial course. 4. Palsy = Trouble going down stairs.",
-    "pdfPage": 28
-  },
-  {
-    "id": 6,
-    "category": "Internal Anatomy",
-    "questionText": "In a myelin-stained section of the midbrain, the Crus Cerebri appears dark. This staining characteristic confirms that the Crus Cerebri is composed primarily of:",
-    "options": [
-      {
-        "text": "Neuronal Cell Bodies",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myelinated Axons",
-        "explanation": "Correct. Myelin stains darken white matter (axons). The Crus Cerebri contains descending corticospinal/bulbar axons.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dendrites",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glial scars",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CSF",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Crus Cerebri = White Matter highway for motor control. Stains dark on myelin stain.",
-    "pdfPage": 9
-  },
-  {
-    "id": 7,
-    "category": "Parkinson's Disease",
-    "questionText": "A 70-year-old male with a shuffling gait, cogwheel rigidity, and a resting tremor passes away. Neuropathological examination of his midbrain would most likely reveal depigmentation and neuronal loss in the:",
-    "options": [
-      {
-        "text": "Red Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Substantia Nigra",
-        "explanation": "Correct. Parkinson's disease involves the degeneration of dopamine-producing neurons in the Substantia Nigra pars compacta.",
-        "isCorrect": true
-      },
-      {
-        "text": "Periaqueductal Gray",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Oculomotor Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Substantia Nigra (Black Substance) loses its pigment in Parkinson's due to loss of dopaminergic neurons.",
-    "pdfPage": 15
-  },
-  {
-    "id": 8,
-    "category": "Decussations",
-    "questionText": "The transition from the medulla to the spinal cord is anatomically defined by the:",
-    "options": [
-      {
-        "text": "Pyramidal Decussation",
-        "explanation": "Correct. This crossing of motor fibers marks the cervicomedullary junction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Obex",
-        "explanation": "Incorrect. Rostral to the junction."
       },
       {
         "text": "Olive",
-        "explanation": "Incorrect. Rostral."
-      },
-      {
-        "text": "Exit of C1 nerve",
-        "explanation": "Incorrect. Close, but the decussation is the internal landmark."
-      },
-      {
-        "text": "Foramen Magnum",
-        "explanation": "Incorrect. Bony landmark."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Pyramidal Decussation = The border between Brainstem and Spinal Cord.",
-    "pdfPage": 6
-  },
-  {
-    "id": 9,
-    "category": "Cerebellar Function",
-    "questionText": "A patient with a tumor compressing the Middle Cerebellar Peduncle (MCP) would most likely exhibit which deficit?",
-    "options": [
-      {
-        "text": "Loss of pain sensation in the face",
-        "explanation": "Incorrect. Trigeminal."
-      },
-      {
-        "text": "Ipsilateral ataxia and motor planning deficits",
-        "explanation": "Correct. The MCP carries cortico-pontine input to the cerebellum for motor planning. Disruption causes cerebellar signs (ataxia).",
+        "explanation": "Correct. Overlies Inferior Olivary Nucleus.",
         "isCorrect": true
       },
       {
-        "text": "Complete deafness",
-        "explanation": "Incorrect. Auditory pathway is deeper."
-      },
-      {
-        "text": "Tongue deviation",
-        "explanation": "Incorrect. Hypoglossal."
-      },
-      {
-        "text": "Visual field loss",
+        "text": "Cuneate Tubercle",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "MCP carries INPUT to the cerebellum from the pons. Disruption = Ataxia.",
-    "pdfPage": 108
-  },
-  {
-    "id": 10,
-    "category": "Terminology",
-    "questionText": "The term 'Tegmentum' refers to the core of the brainstem located:",
-    "options": [
-      {
-        "text": "Dorsal to the Tectum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ventral to the ventricular system and Dorsal to the Basis",
-        "explanation": "Correct. It is the 'floor covering' extending through the midbrain, pons, and medulla.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ventral to the Pyramids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Within the Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Surrounding the Corticospinal tract only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Tegmentum contains the Cranial Nerve Nuclei and Reticular Formation.",
-    "pdfPage": 10
-  },
-  {
-    "id": 11,
-    "category": "Dorsal Column Anatomy",
-    "questionText": "In a cross-section of the caudal medulla, distinct cell groups are noted in the dorsal region. The more medial of the two prominent tubercles contains the:",
-    "options": [
-      {
-        "text": "Cuneate Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gracile Nucleus",
-        "explanation": "Correct. Gracile is medial (Legs). Cuneate is lateral (Arms).",
-        "isCorrect": true
-      },
-      {
-        "text": "Spinal Trigeminal Nucleus",
-        "explanation": "Incorrect. Most lateral."
-      },
-      {
-        "text": "Hypoglossal Nucleus",
-        "explanation": "Incorrect. Ventral to these."
-      },
-      {
-        "text": "Solitary Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Gracile = Ground (Legs) = Medial. Cuneate = Lateral.",
-    "pdfPage": 7
-  },
-  {
-    "id": 12,
-    "category": "Pain Modulation",
-    "questionText": "A 30-year-old female is undergoing a study on endogenous pain control. Electrical stimulation of which midbrain structure would typically result in profound analgesia?",
-    "options": [
-      {
-        "text": "Red Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Periaqueductal Gray (PAG)",
-        "explanation": "Correct. The PAG is the center for descending pain modulation (enkephalins/endorphins).",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebral Peduncle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medial Lemniscus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "PAG = Pain Control Center (Opioid receptors are high here).",
-    "pdfPage": 15
-  },
-  {
-    "id": 13,
-    "category": "Cranial Nerve Anatomy",
-    "questionText": "During a neurological exam, the tongue deviates to the right upon protrusion. This suggests a lesion of the Right Hypoglossal nerve (CN XII). This nerve exits the brainstem:",
-    "options": [
-      {
-        "text": "In the Pre-olivary sulcus (between pyramid and olive)",
-        "explanation": "Correct. CN XII is the only one exiting 'in front' of the olive.",
-        "isCorrect": true
-      },
-      {
-        "text": "In the Retro-olivary sulcus",
-        "explanation": "Incorrect. CN IX, X, XI."
-      },
-      {
-        "text": "At the cerebellopontine angle",
-        "explanation": "Incorrect. CN VII, VIII."
-      },
-      {
-        "text": "From the interpeduncular fossa",
-        "explanation": "Incorrect. CN III."
-      },
-      {
-        "text": "Dorsally",
-        "explanation": "Incorrect. CN IV."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Hypoglossal (CN XII) = Pre-olivary. Vagus/Glossopharyngeal/Accessory = Retro-olivary.",
-    "pdfPage": 29
-  },
-  {
-    "id": 14,
-    "category": "Pons Anatomy",
-    "questionText": "The 4th Ventricle is widest between the pons and medulla. The lateral extensions of the ventricle in this region are known as the:",
-    "options": [
-      {
-        "text": "Cerebral Aqueducts",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral Recesses",
-        "explanation": "Correct. These extend laterally and contain the foramina of Luschka.",
-        "isCorrect": true
       },
       {
         "text": "Obex",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Trigones",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blind spots",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Lateral Recesses of 4th Ventricle -> Foramen of Luschka -> CSF exit to subarachnoid space.",
-    "pdfPage": 8
-  },
-  {
-    "id": 15,
-    "category": "Cranial Nerves",
-    "questionText": "A patient presents with a 'down and out' pupil and ptosis. This suggests CN III palsy. The oculomotor nerve fibers emerge from the:",
-    "options": [
-      {
-        "text": "Dorsal Midbrain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Interpeduncular Fossa",
-        "explanation": "Correct. The space between the cerebral peduncles in the ventral midbrain.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lateral Pons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medullary Pyramids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Orbital Fissure (exit from skull)",
-        "explanation": "Correct anatomical exit from skull, but question asks where they emerge from BRAINSTEM. Interpeduncular fossa is the brainstem exit."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "CN III (Oculomotor) is compressed by aneurysms of the Posterior Communicating Artery near its exit in the Interpeduncular Fossa.",
-    "pdfPage": 28
-  },
-  {
-    "id": 16,
-    "category": "Internal Anatomy",
-    "questionText": "Which red-tinted nucleus in the rostral midbrain is a key origin for a descending motor tract involved in limb flexion?",
-    "options": [
-      {
-        "text": "Substantia Nigra",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red Nucleus",
-        "explanation": "Correct. Contains iron (ferritin), giving it a pinkish hue. Origin of Rubrospinal tract.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pontine Nuclei",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior Olive",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vestibular Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Red Nucleus = Rubrospinal Tract = Flexor tone of upper limbs.",
-    "pdfPage": 15
-  },
-  {
-    "id": 17,
-    "category": "Cerebellar Connections",
-    "questionText": "The Superior Cerebellar Peduncle contains fibers that are primarily:",
-    "options": [
-      {
-        "text": "Incoming from the spinal cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Outgoing from the Cerebellum to the Midbrain/Thalamus",
-        "explanation": "Correct. It is the major OUTPUT channel (Efferent).",
-        "isCorrect": true
-      },
-      {
-        "text": "Incoming from the Pons",
-        "explanation": "Incorrect. MCP."
-      },
-      {
-        "text": "Connecting the two cerebellar hemispheres",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parasympathetic",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "SCP = Out (Efferent). MCP/ICP = In (Afferent).",
-    "pdfPage": 232
-  },
-  {
-    "id": 18,
-    "category": "Terminology",
-    "questionText": "Clinical notes reference 'Bulbar symptoms'. This specifically implies dysfunction of:",
-    "options": [
-      {
-        "text": "The Frontal Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cranial nerves originating from the Medulla (and Pons)",
-        "explanation": "Correct. 'Bulb' is an old term for the medulla. Bulbar palsy affects speech, swallowing, tongue movement.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Eyes",
-        "explanation": "Incorrect. Ocular."
-      },
-      {
-        "text": "The Bladder",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Bulbar Palsy = LMN lesion of CN IX, X, XII. Pseudobulbar Palsy = UMN lesion of Corticobulbar tracts.",
-    "pdfPage": 6
-  },
-  {
-    "id": 19,
-    "category": "Brainstem Landmarks",
-    "questionText": "Which structure marks the caudal limit of the fourth ventricle?",
-    "options": [
-      {
-        "text": "The Obex",
-        "explanation": "Correct. The 'barrrier' or point where the ventricle narrows into the central canal.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Fastigium",
-        "explanation": "Incorrect. Roof peak."
-      },
-      {
-        "text": "The Aqueduct",
-        "explanation": "Incorrect. Rostral inlet."
-      },
-      {
-        "text": "The Foramen of Magendie",
-        "explanation": "Incorrect. Midline exit."
-      },
-      {
-        "text": "The Pineal Recess",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Obex = Caudal tip of 4th Ventricle.",
-    "pdfPage": 7
-  },
-  {
-    "id": 20,
-    "category": "Auditory Pathway",
-    "questionText": "A specific nucleus in the midbrain acts as a relay center for auditory reflexes. This is the:",
-    "options": [
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior Colliculus",
-        "explanation": "Correct. Inferior = Ear.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lateral Geniculate Nucleus",
-        "explanation": "Incorrect. Visual thalamus."
-      },
-      {
-        "text": "Medial Geniculate Nucleus",
-        "explanation": "Incorrect. Auditory thalamus, but not midbrain."
-      },
-      {
-        "text": "Cochlear Nucleus",
-        "explanation": "Incorrect. Pons/Medulla."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Inferior Colliculus helps locate sound in space.",
-    "pdfPage": 15
-  },
-  {
-    "id": 21,
-    "category": "Cerebellopontine Angle",
-    "questionText": "A 50-year-old female presents with unilateral hearing loss and facial weakness. An MRI reveals a Schwannoma at the cerebellopontine angle. Which two nerves are most likely compressed?",
-    "options": [
-      {
-        "text": "CN V and VI",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN VII and VIII",
-        "explanation": "Correct. Facial (VII) and Vestibulocochlear (VIII) enter/exit at the CPA.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN IX and X",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN III and IV",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CN XI and XII",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Acoustic Neuroma (Vestibular Schwannoma) @ CPA -> Hearing loss + Facial Palsy + Loss of Corneal Reflex (V involvement later).",
-    "pdfPage": 29
-  },
-  {
-    "id": 22,
-    "category": "Cerebellar Output",
-    "questionText": "The Dentate Nucleus projects fibers primarily through which peduncle?",
-    "options": [
-      {
-        "text": "Inferior Cerebellar Peduncle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Middle Cerebellar Peduncle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Cerebellar Peduncle",
-        "explanation": "Correct. Dentate -> SCP -> Decussation -> Red Nucleus/Thalamus.",
-        "isCorrect": true
       },
       {
         "text": "Crus Cerebri",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Dentato-Rubro-Thalamic tract travels via the SCP.",
-    "pdfPage": 15
-  },
-  {
-    "id": 23,
-    "category": "Surface Anatomy",
-    "questionText": "The Facial Colliculus is a landmark on the floor of the 4th ventricle. It is formed by fibers of the Facial Nerve looping over the nucleus of:",
-    "options": [
-      {
-        "text": "The Trigeminal Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Abducens Nerve (CN VI)",
-        "explanation": "Correct. The 'Internal Genu' of VII loops around the VI nucleus.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Vestibular Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Hypoglossal Nerve",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Vagus Nerve",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Lesion of Facial Colliculus = CN VI palsy (cannot look out) + CN VII palsy (facial droop).",
-    "pdfPage": 8
+    "clinicalPearl": "Olive = Inferior Olivary Nucleus.",
+    "pdfPage": 30
   },
   {
-    "id": 24,
-    "category": "Medulla Landmarks",
-    "questionText": "On the floor of the 4th ventricle, the Vagal Trigone is located __________ to the Hypoglossal Trigone.",
+    "id": 3,
+    "category": "Internal Anatomy",
+    "questionText": "The Cerebral Aqueduct is located in the:",
     "options": [
       {
-        "text": "Medial",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral",
-        "explanation": "Correct. Medial to lateral: Hypoglossal -> Vagal -> Vestibular.",
-        "links": [
-          "https://en.wikipedia.org/wiki/Vagal_trigone"
-        ],
-        "isCorrect": true
-      },
-      {
-        "text": "Rostral",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ventral",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Mnemonic: M-L (Hypoglossal - Vagal - Vestibular). Tongue is most medial.",
-    "pdfPage": 8
-  },
-  {
-    "id": 25,
-    "category": "Midbrain Landmarks",
-    "questionText": "In a transverse section of the midbrain, the Substantia Nigra separates the Tegmentum from the:",
-    "options": [
-      {
-        "text": "Tectum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Crus Cerebri (Cerebral Peduncle base)",
-        "explanation": "Correct. It is the boundary between the motor base (Crus) and the sensory/nuclear tegmentum.",
-        "isCorrect": true
-      },
-      {
-        "text": "Red Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Periaqueductal Gray",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Aqueduct",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Substantia Nigra sandwiches the Crus Cerebri against the Tegmentum.",
-    "pdfPage": 23
-  },
-  {
-    "id": 26,
-    "category": "Cranial Nerve Origins",
-    "questionText": "A student is asked to point to the origin of the Abducens Nerve (CN VI) on a brainstem model. The correct location is:",
-    "options": [
-      {
-        "text": "Midbrain, interpeduncular fossa",
-        "explanation": "Incorrect. CN III."
-      },
-      {
-        "text": "Junction of Pons and Medulla, medially",
-        "explanation": "Correct. It exits medially at the pontomedullary junction, above the pyramid.",
-        "isCorrect": true
-      },
-      {
-        "text": "Junction of Pons and Medulla, laterally",
-        "explanation": "Incorrect. CN VII/VIII."
-      },
-      {
-        "text": "Pre-olivary sulcus",
-        "explanation": "Incorrect. CN XII."
-      },
-      {
-        "text": "Dorsal midbrain",
-        "explanation": "Incorrect. CN IV."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "CN VI exits medially at the sulcus. High intracranial pressure can stretch it here -> False localizing sign.",
-    "pdfPage": 29
-  },
-  {
-    "id": 27,
-    "category": "Sensory Pathways",
-    "questionText": "A lesion in the caudal medulla involving the Nucleus Gracilis would impair which sensation?",
-    "options": [
-      {
-        "text": "Pain from the face",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vibration from the leg",
-        "explanation": "Correct. Gracilis = Leg proprioception/vibration.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vibration from the arm",
-        "explanation": "Incorrect. Cuneatus."
-      },
-      {
-        "text": "Motor control of the tongue",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hearing",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Nucleus Gracilis receives dorsal column inputs from T6 and below (Legs).",
-    "pdfPage": 7
-  },
-  {
-    "id": 28,
-    "category": "Reticular Formation",
-    "questionText": "A massive lesion of the midbrain reticular formation would most likely result in:",
-    "options": [
-      {
-        "text": "Loss of fine touch",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Coma",
-        "explanation": "Correct. The Ascending Reticular Activating System (ARAS) maintains consciousness. Bilateral damage -> Coma.",
-        "isCorrect": true
-      },
-      {
-        "text": "Deafness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blindness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Loss of balance",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Reticular Formation = ARAS = Awake state. Damage = Coma.",
-    "pdfPage": 10
-  },
-  {
-    "id": 29,
-    "category": "Anatomical Planes",
-    "questionText": "Which cut of the brainstem would reveal the Tectum?",
-    "options": [
-      {
-        "text": "Transverse section of Medulla",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Transverse section of Pons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Transverse section of Midbrain",
-        "explanation": "Correct. Tectum is ONLY in the midbrain.",
-        "isCorrect": true
-      },
-      {
-        "text": "Transverse section of Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Coronal section of Forebrain",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "If you see Tectum (Colliculi), you are in the Midbrain.",
-    "pdfPage": 10
-  },
-  {
-    "id": 30,
-    "category": "Spinal Trigeminal Nucleus",
-    "questionText": "The Spinal Trigeminal Nucleus is analogous (functionally similar) to which spinal cord lamina?",
-    "options": [
-      {
-        "text": "Ventral Horn",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Substantia Gelatinosa (Lamina II)",
-        "explanation": "Correct. Both process Pain and Temperature.",
-        "isCorrect": true
-      },
-      {
-        "text": "Clarke's Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Intermediolateral Cell Column",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior White Commissure",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Spinal Trigeminal Nucleus is essentially a continuation of the Substantia Gelatinosa into the brainstem.",
-    "pdfPage": 15
-  },
-  {
-    "id": 31,
-    "category": "Pyramid Anatomy",
-    "questionText": "The Medullary Pyramids contain fibers from which major tract?",
-    "options": [
-      {
-        "text": "Spinothalamic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Corticospinal",
-        "explanation": "Correct. It is the descending motor pathway.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dorsal Column",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rubrospinal",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vestibulospinal",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Pyramids = Motor. 90% cross at the decussation to become Lateral Corticospinal Tract.",
-    "pdfPage": 6
-  },
-  {
-    "id": 32,
-    "category": "Midbrain Recognition",
-    "questionText": "You are viewing a cross-section of the brainstem and see a 'Mickey Mouse' appearance. This is characteristic of the:",
-    "options": [
-      {
-        "text": "Upper Medulla",
+        "text": "Medulla",
         "explanation": "Incorrect."
       },
       {
         "text": "Midbrain",
-        "explanation": "Correct. Ears = Peduncles. Face = Tegmentum. Aqueduct = Mouth (or nose depending on view).",
+        "explanation": "Correct. Connects 3rd and 4th ventricles.",
         "isCorrect": true
       },
       {
-        "text": "Lower Pons",
+        "text": "Pons",
         "explanation": "Incorrect."
       },
       {
@@ -992,100 +89,1002 @@ window.Test_L7 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Mickey Mouse ears on MRI = Midbrain cerebral peduncles.",
-    "pdfPage": 23
+    "clinicalPearl": "Aqueduct stenosis = Hydrocephalus.",
+    "pdfPage": 13
   },
   {
-    "id": 33,
-    "category": "Visual Reflexes",
-    "questionText": "The Pretectal Area, located just rostral to the Superior Colliculus, is essential for:",
+    "id": 4,
+    "category": "Midbrain Function",
+    "questionText": "The Superior Colliculus is primarily involved in:",
     "options": [
       {
-        "text": "The Pupillary Light Reflex",
-        "explanation": "Correct. Light -> Optic Nerve -> Pretectal Nucleus -> Edinger-Westphal -> Constriction.",
+        "text": "Auditory processing",
+        "explanation": "Incorrect. Inferior Colliculus."
+      },
+      {
+        "text": "Endocrine regulation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual reflexes and saccadic eye movements",
+        "explanation": "Correct. Parinaud's syndrome affects it.",
         "isCorrect": true
       },
       {
-        "text": "Hearing localization",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain control",
-        "explanation": "Incorrect."
+        "text": "Pain modulation",
+        "explanation": "Incorrect. PAG."
       },
       {
         "text": "Motor coordination",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Taste",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Pretectal Nucleus = Light Reflex Relay.",
-    "pdfPage": 15
-  },
-  {
-    "id": 34,
-    "category": "Cerebellar Input",
-    "questionText": "Which peduncle carries high-fidelity proprioceptive information from the legs (via Dorsal Spinocerebellar Tract) into the cerebellum?",
-    "options": [
-      {
-        "text": "Superior Cerebellar Paduncle",
-        "explanation": "Incorrect. Ventral Spinocerebellar tract goes here (spy)."
-      },
-      {
-        "text": "Middle Cerebellar Peduncle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior Cerebellar Peduncle",
-        "explanation": "Correct. DSCT enters via the ICP.",
-        "isCorrect": true
-      },
-      {
-        "text": "Crus Cerebri",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pyramids",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "ICP = Input from Spinal Cord (Proprioception) and Medulla (Olives/Vestibular).",
-    "pdfPage": 7
+    "clinicalPearl": "Superior Colliculus = Sight (Eyes). Inferior = Sound (Ears).",
+    "pdfPage": 30
   },
   {
-    "id": 35,
-    "category": "Brainstem General",
-    "questionText": "The Brainstem is supplied primarily by which arterial system?",
+    "id": 5,
+    "category": "Cranial Nerves",
+    "questionText": "The Trochlear Nerve (CN IV) is unique because:",
     "options": [
       {
-        "text": "Internal Carotid",
-        "explanation": "Incorrect. Anterior circulation."
+        "text": "It enters the brainstem ventrally",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Vertebro-Basilar",
-        "explanation": "Correct. Vertebral arteries fuse to form Basilar. Branches supply the entire brainstem.",
+        "text": "It is the only CN to exit dorsally",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "External Carotid",
+        "text": "It does not decussate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Middle Cerebral Artery",
+        "text": "It is sensory only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Cerebral Artery",
+        "text": "It supplies the lateral rectus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Brainstem Strokes = Vertebro-Basilar insufficiency.",
-    "pdfPage": 6
+    "clinicalPearl": "CN IV = Dorsal Exit.",
+    "pdfPage": 30
+  },
+  {
+    "id": 6,
+    "category": "Internal Anatomy",
+    "questionText": "The Crus Cerebri (basis pedunculi) stains dark on myelin stains because it contains:",
+    "options": [
+      {
+        "text": "Cell bodies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ascending sensory fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Descending myelinated motor axons (Corticospinal)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "CSF",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blood",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Crus Cerebri = Motor Highway.",
+    "pdfPage": 2
+  },
+  {
+    "id": 7,
+    "category": "Pathology",
+    "questionText": "Parkinson's Disease involves degeneration of pigment-containing neurons in the:",
+    "options": [
+      {
+        "text": "Red Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Correct. Loss of dopamine.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inferior Olive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Raphe Nuclei",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Substantia Nigra = Parkinson's.",
+    "pdfPage": 5
+  },
+  {
+    "id": 8,
+    "category": "Brainstem Landmarks",
+    "questionText": "The Pyramidal Decussation marks the boundary between:",
+    "options": [
+      {
+        "text": "Pons and Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla and Spinal Cord",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Midbrain and Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus and Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cervical and Thoracic Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pyramidal Decussation = Medulla-Cord Border.",
+    "pdfPage": 4
+  },
+  {
+    "id": 9,
+    "category": "Cerebellar Peduncles",
+    "questionText": "The Middle Cerebellar Peduncle (MCP) carries input from the:",
+    "options": [
+      {
+        "text": "Spinal cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons (Pontine Nuclei)",
+        "explanation": "Correct. Largest peduncle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MCP = Pontine Input to Cerebellum.",
+    "pdfPage": 7
+  },
+  {
+    "id": 10,
+    "category": "Internal Anatomy",
+    "questionText": "The Tegmentum is located:",
+    "options": [
+      {
+        "text": "Dorsal to the Tectum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ventral to the Ventricle, Dorsal to the Basis",
+        "explanation": "Correct. Contains CN nuclei.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ventral to the Basis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the spinal cord only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Tectum (Roof) -> Tegmentum (Floor) -> Basis (Basement).",
+    "pdfPage": 13
+  },
+  {
+    "id": 11,
+    "category": "Medulla Landmarks",
+    "questionText": "The Gracile Tubercle (containing Gracilis Nucleus) is located:",
+    "options": [
+      {
+        "text": "Lateral to the Cuneate Tubercle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medial to the Cuneate Tubercle",
+        "explanation": "Correct. Legs are medial in DCML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ventral to the Olive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the Midbrain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Medial -> Gracilis. Lateral -> Cuneatus.",
+    "pdfPage": 30
+  },
+  {
+    "id": 12,
+    "category": "Pain Modulation",
+    "questionText": "The Periaqueductal Gray (PAG) is involved in:",
+    "options": [
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pain modulation (analgesia)",
+        "explanation": "Correct. Endogenous opioids.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor learning",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Memory",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "PAG = Pain Control.",
+    "pdfPage": 30
+  },
+  {
+    "id": 13,
+    "category": "Cranial Nerves",
+    "questionText": "CN XII (Hypoglossal) exits the brainstem:",
+    "options": [
+      {
+        "text": "In the Pre-olivary sulcus",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "In the Retro-olivary sulcus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsally",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "At the CPA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Interpeduncular fossa",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "CN XII = Pre-olivary.",
+    "pdfPage": 4
+  },
+  {
+    "id": 14,
+    "category": "Ventricles",
+    "questionText": "The Lateral Recesses of the 4th Ventricle contain the Foramina of:",
+    "options": [
+      {
+        "text": "Monro",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Magendie",
+        "explanation": "Incorrect. Midline."
+      },
+      {
+        "text": "Luschka",
+        "explanation": "Correct. L = Lateral = Luschka.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sylvius",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ovale",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Luschka = Lateral.",
+    "pdfPage": 4
+  },
+  {
+    "id": 15,
+    "category": "Cranial Nerves",
+    "questionText": "CN III (Oculomotor) exits from the:",
+    "options": [
+      {
+        "text": "Dorsal Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Interpeduncular Fossa",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CPA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CN III = Interpeduncular Fossa.",
+    "pdfPage": 29
+  },
+  {
+    "id": 16,
+    "category": "Internal Anatomy",
+    "questionText": "The Red Nucleus is located in the:",
+    "options": [
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain Tegmentum",
+        "explanation": "Correct. Involved in flexor tone.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tectum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Red Nucleus = Midbrain.",
+    "pdfPage": 30
+  },
+  {
+    "id": 17,
+    "category": "Cerebellar Connections",
+    "questionText": "The Superior Cerebellar Peduncle is primarily:",
+    "options": [
+      {
+        "text": "Afferent (Input)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Efferent (Output)",
+        "explanation": "Correct. From Dentate Nucleus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vestibular",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory from cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SCP = Main Output.",
+    "pdfPage": 7
+  },
+  {
+    "id": 18,
+    "category": "Terminology",
+    "questionText": "'Bulbar' refers to:",
+    "options": [
+      {
+        "text": "The Eye",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Brainstem (Medulla/Pons)",
+        "explanation": "Correct. Bulbar muscles = Tongue, Pharynx.",
+        "isCorrect": true
+      },
+      {
+        "text": " The Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Spine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Bladder",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Bulbar signs = CN IX, X, XII issues.",
+    "pdfPage": 2
+  },
+  {
+    "id": 19,
+    "category": "Brainstem Landmarks",
+    "questionText": "The Obex is:",
+    "options": [
+      {
+        "text": "The caudal tip of the 4th ventricle",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "The roof of the midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The entrance to the aqueduct",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The connection between thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Obex = Caudal 4th Ventricle point.",
+    "pdfPage": 30
+  },
+  {
+    "id": 20,
+    "category": "Auditory Pathway",
+    "questionText": "The Inferior Colliculus is involved in:",
+    "options": [
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Auditory processing",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor control",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smell",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Inferior Colliculus = Hearing.",
+    "pdfPage": 30
+  },
+  {
+    "id": 21,
+    "category": "Cerebellopontine Angle",
+    "questionText": "A Schwannoma at the Cerebellopontine Angle (CPA) compresses:",
+    "options": [
+      {
+        "text": "CN III and IV",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN VII and VIII",
+        "explanation": "Correct. Hearing loss + Facial palsy.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN IX and X",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN V and VI",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN XI and XII",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CPA Tumor = CN VII + VIII.",
+    "pdfPage": 30
+  },
+  {
+    "id": 22,
+    "category": "Internal Anatomy",
+    "questionText": "The Dentate Nucleus is found in the:",
+    "options": [
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Correct. Projects to SCP.",
+        "isCorrect": true
+      },
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Dentate = Cerebellum Output.",
+    "pdfPage": 30
+  },
+  {
+    "id": 23,
+    "category": "Internal Anatomy",
+    "questionText": "The Facial Colliculus is formed by:",
+    "options": [
+      {
+        "text": "Facial nerve nucleus only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Facial nerve fibers looping around Abducens (VI) nucleus",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trigeminal fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vagal fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular fibers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Facial Colliculus = CN VII axons + CN VI nucleus.",
+    "pdfPage": 30
+  },
+  {
+    "id": 24,
+    "category": "Medulla Landmarks",
+    "questionText": "The Vagal Trigone is located:",
+    "options": [
+      {
+        "text": "Medial to Hypoglossal Trigone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral to Hypoglossal Trigone",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "In the Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the Tectum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ventral to Pyramids",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Trigones: Hypoglossal (Medial) -> Vagal (Lateral).",
+    "pdfPage": 30
+  },
+  {
+    "id": 25,
+    "category": "Internal Anatomy",
+    "questionText": "Substantia Nigra location:",
+    "options": [
+      {
+        "text": "Between Tectum and Tegmentum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Between Tegmentum and Crus Cerebri",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "In the Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the Cerebellum",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SN separates Tegmentum/Basis.",
+    "pdfPage": 24
+  },
+  {
+    "id": 26,
+    "category": "Cranial Nerves",
+    "questionText": "Origin of CN VI (Abducens):",
+    "options": [
+      {
+        "text": "Dorsal Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pontomedullary Junction (Medial)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pontomedullary Junction (Lateral)",
+        "explanation": "Incorrect. VII/VIII.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pre-olivary sulcus",
+        "explanation": "Incorrect. XII.",
+        "isCorrect": false
+      },
+      {
+        "text": "Retro-olivary sulcus",
+        "explanation": "Incorrect. IX/X/XI.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CN VI = Medial Pontomedullary Junction.",
+    "pdfPage": 29
+  },
+  {
+    "id": 27,
+    "category": "Brainstem Anatomy",
+    "questionText": "Which structure is NOT found in the Tectum?",
+    "options": [
+      {
+        "text": "Superior Colliculus",
+        "explanation": "Incorrect. It is."
+      },
+      {
+        "text": "Inferior Colliculus",
+        "explanation": "Incorrect. It is."
+      },
+      {
+        "text": "Red Nucleus",
+        "explanation": "Correct. Red Nucleus is in the Tegmentum (floor of midbrain), not Tectum (roof).",
+        "isCorrect": true
+      },
+      {
+        "text": "Brainstem Roof",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Quadrigeminal Plate",
+        "explanation": "Incorrect. Another name for Tectum."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Tectum = Only Colliculi (Roof). Red Nucleus/SN = Tegmentum.",
+    "pdfPage": 30
+  },
+  {
+    "id": 28,
+    "category": "Internal Anatomy",
+    "questionText": "The Spinal Trigeminal Nucleus principally relays:",
+    "options": [
+      {
+        "text": "Fine touch from the face",
+        "explanation": "Incorrect. Chief Sensory Nucleus."
+      },
+      {
+        "text": "Pain and Temperature from the face",
+        "explanation": "Correct. Homologous to STT/Lissauer's tract in cord.",
+        "isCorrect": true
+      },
+      {
+        "text": "Proprioception from the jaw",
+        "explanation": "Incorrect. Mesencephalic Nucleus."
+      },
+      {
+        "text": "Taste",
+        "explanation": "Incorrect. Solitary Nucleus."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Spinal Trigeminal Nucleus = Pain/Temp (Face).",
+    "pdfPage": 17
+  },
+  {
+    "id": 29,
+    "category": "Internal Anatomy",
+    "questionText": "The Pontine Nuclei function as a relay station between:",
+    "options": [
+      {
+        "text": "Spinal cord and Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebral Cortex and Cerebellum",
+        "explanation": "Correct. Cortico-ponto-cerebellar pathway.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eye and Visual Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ear and Auditory Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basal Ganglia and Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pontine Nuclei relay Cortex -> Cerebellum.",
+    "pdfPage": 25
+  },
+  {
+    "id": 30,
+    "category": "Cranial Nerves",
+    "questionText": "A general rule for Cranial Nerves is that they innervate:",
+    "options": [
+      {
+        "text": "Contralateral structures",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ipsilateral structures",
+        "explanation": "Correct. 'Ipsilateral. Ipsilateral. Ipsilateral.'",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilateral structures always",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only the head",
+        "explanation": "Incorrect. Vagus goes to abdomen."
+      },
+      {
+        "text": "Only muscles",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Cranial Nerves = Ipsilateral.",
+    "pdfPage": 29
+  },
+  {
+    "id": 31,
+    "category": "Brainstem Landmarks",
+    "questionText": "The Retro-olivary sulcus contains the rootlets of:",
+    "options": [
+      {
+        "text": "CN VI, VII, VIII",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN IX, X, XI",
+        "explanation": "Correct. Glossopharyngeal, Vagus, Accessory.",
+        "isCorrect": true
+      },
+      {
+        "text": "CN XII",
+        "explanation": "Incorrect. Pre-olivary."
+      },
+      {
+        "text": "CN III, IV",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN V",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Retro-olivary = CN 9, 10, 11. Pre-olivary = CN 12.",
+    "pdfPage": 4
+  },
+  {
+    "id": 32,
+    "category": "Internal Anatomy",
+    "questionText": "The Decussation of the Superior Cerebellar Peduncles occurs in the:",
+    "options": [
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Midbrain (caudal)",
+        "explanation": "Correct. At the level of the Inferior Colliculus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "SCP Decussation = Caudal Midbrain.",
+    "pdfPage": 4
+  },
+  {
+    "id": 33,
+    "category": "Brainstem Anatomy",
+    "questionText": "The Tectum corresponds to the:",
+    "options": [
+      {
+        "text": "Floor of the 4th ventricle",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Roof of the Midbrain (Colliculi)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Basilar Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medullary Pyramids",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar Vermis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Tectum = Roof (Midbrain only).",
+    "pdfPage": 4
+  },
+  {
+    "id": 34,
+    "category": "Anatomy",
+    "questionText": "The shape of the Medulla is described as:",
+    "options": [
+      {
+        "text": "Tubular and spinal-cord like",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Round and bulbous",
+        "explanation": "Incorrect. Pons."
+      },
+      {
+        "text": "Flat",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Triangular",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Square",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Medulla looks like the Spinal Cord.",
+    "pdfPage": 4
+  },
+  {
+    "id": 35,
+    "category": "Pathology",
+    "questionText": "Parinaud's Syndrome (inability to look up) is caused by compression of the:",
+    "options": [
+      {
+        "text": "Dorsal Midbrain (Superior Colliculus)",
+        "explanation": "Correct. Pineal tumor compression.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ventral Pons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medullary Pyramids",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Parinaud's = Dorsal Midbrain Compression (Pinealoma).",
+    "pdfPage": 2
   }
 ];

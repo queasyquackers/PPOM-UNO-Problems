@@ -1,1091 +1,1084 @@
 window.Test_L1b = [
   {
     "id": 1,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 22-year-old female presents with left-sided low back pain after a fall. Examination reveals a positive Standing Flexion Test on the Left. The Left ASIS is lower than the Right. The Left PSIS is higher than the Right. The Left Medial Malleolus is inferior (lower) compared to the Right. What is the diagnosis?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient presents with pelvic pain. The Standing Flexion Test (SFT) is positive on the right. The right ASIS is lower than the left. The right PSIS is higher than the left. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Correct. In an anterior rotation, the ASIS moves inferiorly (Low), the PSIS moves superiorly (High), and the acetabulum moves inferiorly, creating a functional long leg (Inferior Malleolus).",
+        "text": "Right Anterior Innominate Rotation",
+        "explanation": "Correct. A positive SFT on the right lateralizes the dysfunction to the right. A low ASIS and high PSIS on that side indicate an anterior rotation.",
         "isCorrect": true
       },
       {
-        "text": "Left Posterior Innominate Rotation",
-        "explanation": "Incorrect. Posterior rotation would produce a Superior ASIS and Inferior PSIS."
+        "text": "Right Posterior Innominate Rotation",
+        "explanation": "Incorrect. Posterior rotation would present with a high ASIS and low PSIS."
       },
       {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Incorrect. SFT is positive on the Left, lateralizing dysfunction to the Left."
+        "text": "Left Anterior Innominate Rotation",
+        "explanation": "Incorrect. The SFT lateralizes the dysfunction to the right."
       },
       {
-        "text": "Left Superior Shear",
-        "explanation": "Incorrect. Upslip has all landmarks superior."
+        "text": "Right Superior Innominate Shear",
+        "explanation": "Incorrect. A superior shear would have both ASIS and PSIS superior."
       },
       {
-        "text": "Left Inflare",
-        "explanation": "Incorrect. Inflare regards the medial/lateral position of ASIS."
+        "text": "Right Inferior Innominate Shear",
+        "explanation": "Incorrect. An inferior shear would have both ASIS and PSIS inferior."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior Innominate Rotation landmarks: Low ASIS, High PSIS, Long Leg.",
-    "pdfPage": 20
+    "clinicalPearl": "Anterior Innominate Rotation: ASIS Low, PSIS High on the affected side.",
+    "pdfPage": 48
   },
   {
     "id": 2,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "When diagnosing an innominate dysfunction, which test lateralizes the somatic dysfunction to the specific side (left vs. right)?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "During the Standing Flexion Test, what indicates a positive result?",
     "options": [
       {
-        "text": "ASIS Compression Test",
-        "explanation": "Incorrect. Nonspecific; can indicate SI or general stiffness."
-      },
-      {
-        "text": "Standing Flexion Test",
-        "explanation": "Correct. The Standing Flexion Test (SFT) is the primary test to lateralize iliosacral dysfunction.",
+        "text": "The PSIS that moves first and furthest superiorly",
+        "explanation": "Correct. The side where the PSIS moves more cephalad (superiorly) first and furthest is the positive side, indicating iliosacral dysfunction.",
         "isCorrect": true
       },
       {
-        "text": "Seated Flexion Test",
-        "explanation": "Incorrect. Lateralizes Sacroiliac (Sacral) dysfunction."
+        "text": "The PSIS that moves inferiorly",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Patrick's Test",
-        "explanation": "Incorrect. Hip path."
+        "text": "The ASIS that moves superiorly",
+        "explanation": "Incorrect. The test monitors the PSIS."
       },
       {
-        "text": "Thomas Test",
-        "explanation": "Incorrect. Psoas."
+        "text": "The side where the thumb remains static",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The side with the lower iliac crest",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Standing Flexion Test lateralizes Innominate Dysfunction.",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "The Standing Flexion Test lateralizes iliosacral dysfunction to the side that moves first and furthest superiorly.",
     "pdfPage": 10
   },
   {
     "id": 3,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 35-year-old male complains of right buttock pain. Structural exam: Right ASIS High, Right PSIS Low. Right Medial Malleolus is Superior (Short Leg). Standing Flexion Test is positive on the Right. What is the diagnosis?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Which somatic dysfunction is characterized by a high ASIS and a low PSIS on the affected side?",
     "options": [
       {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Incorrect. Anterior = ASIS Low."
-      },
-      {
-        "text": "Right Posterior Innominate Rotation",
-        "explanation": "Correct. Posterior rotation moves the ASIS Superiorly and PSIS Inferiorly. It retracts the leg, causing a functional short leg.",
+        "text": "Posterior Innominate Rotation",
+        "explanation": "Correct. In a posterior rotation, the innominate rotates backward, bringing the ASIS up (superior) and the PSIS down (inferior).",
         "isCorrect": true
       },
       {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Incorrect. SFT is Right."
+        "text": "Anterior Innominate Rotation",
+        "explanation": "Incorrect. Anterior rotation has a low ASIS and high PSIS."
       },
       {
-        "text": "Right Upslip",
-        "explanation": "Incorrect. Upslip = All landmarks high (PSIS would be high)."
+        "text": "Superior Innominate Shear",
+        "explanation": "Incorrect. Both landmarks would be high."
       },
       {
-        "text": "Right Inflare",
-        "explanation": "Incorrect."
+        "text": "Inferior Innominate Shear",
+        "explanation": "Incorrect. Both landmarks would be low."
+      },
+      {
+        "text": "Innominate Outflare",
+        "explanation": "Incorrect. Outflare refers to medial/lateral distance from the midline."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Innominate Rotation: ASIS High, PSIS Low, Short Leg.",
-    "pdfPage": 25
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Posterior Innominate Rotation: ASIS High, PSIS Low.",
+    "pdfPage": 21
   },
   {
     "id": 4,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "In a patient with a Right Superior Innominate Shear (Upslip), what is the expected finding for the Right Ischial Tuberosity?",
-    "options": [
-      {
-        "text": "Inferior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior",
-        "explanation": "Correct. In a Superior Shear, the entire innominate shifts up. All landmarks (ASIS, PSIS, Pubis, Ischial Tuberosity) are superior.",
-        "isCorrect": true
-      },
-      {
-        "text": "Level",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medial",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Superior Shear = All landmarks Superior.",
-    "pdfPage": 35
-  },
-  {
-    "id": 5,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 40-year-old construction worker steps into a hole and jams his left leg upward. He presents with left pelvic pain. Exam: SFT Positive Left. Left ASIS Superior. Left PSIS Superior. Left Pubic Tubercle Superior. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Left Anterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Posterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Trauma mechanism (jamming leg) + All landmarks Superior = Upslip.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Inferior Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Inferior Shear",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Trauma followed by all superior landmarks = Superior Shear.",
-    "pdfPage": 36
-  },
-  {
-    "id": 6,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "If a patient has a Left Anterior Innominate Rotation, what would be the expected finding for the Left Medial Malleolus relative to the right?",
-    "options": [
-      {
-        "text": "Superior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior",
-        "explanation": "Correct. Anterior rotation lowers the acetabulum, making the leg appear longer (malleolus is inferior).",
-        "isCorrect": true
-      },
-      {
-        "text": "Level",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Rotation = Functional Long Leg (Inferior Malleolus).",
-    "pdfPage": 20
-  },
-  {
-    "id": 7,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 19-year-old soccer player presents with groin pain. Exam: SFT Positive Right. The distance from the umbilicus to the Right ASIS is 12cm. The distance from the umbilicus to the Left ASIS is 15cm. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Outflare",
-        "explanation": "Incorrect. Outflare = Larger distance."
-      },
-      {
-        "text": "Right Inflare",
-        "explanation": "Correct. The distance on the dysfunctional side (Right) is shorter (12cm) than the non-dysfunctional side (15cm), indicating the ASIS has moved medially (Inflare).",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Outflare",
-        "explanation": "Incorrect. SFT is Positive on Right."
-      },
-      {
-        "text": "Left Inflare",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Anterior Rotation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Shorter Umbilicus-ASIS distance = Inflare.",
-    "pdfPage": 45
-  },
-  {
-    "id": 8,
-    "category": "OMM: Treatment",
-    "questionText": "When treating an inferior innominate shear (Downslip) with respiratory cooperation, during which phase of respiration should the patient hold their breath to assist with lifting the innominate?",
-    "options": [
-      {
-        "text": "Full Inhalation",
-        "explanation": "Correct. Inhalation is associated with extension/superior motion of spinal curves and can assist in drawing structures superiorly? (Actually, usually patient coughs or inhales to pull up). Let's verify standard ME. Usually inhalation extends the spine.",
-        "verified": "Standard ME uses respiratory cooperation. Inhalation tends to extend the spine/sacrum. For downslip, we want to pull UP. Inhalation usually helps.",
-        "isCorrect": true
-      },
-      {
-        "text": "Full Exhalation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mid-Inhalation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Valsalva",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Breath holding is contraindicated",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Respiratory cooperation (often inhalation) assists in treating shears.",
-    "pdfPage": 40
-  },
-  {
-    "id": 9,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 28-year-old female pregnant patient presents with pubic pain. Exam: SFT Positive Left. Left Pubic Tubercle is Superior to the Right. Landmark heights (ASIS/PSIS) are symmetrical. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Left Superior Pubic Shear",
-        "explanation": "Correct. SFT Left + Tubercle High Left + No other dysfunction = Superior Pubic Shear.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Inferior Pubic Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Inferior Pubic Shear",
-        "explanation": "Incorrect. SFT is Left."
-      },
-      {
-        "text": "Left Upslip",
-        "explanation": "Incorrect. ASIS/PSIS are symmetrical."
-      },
-      {
-        "text": "Pubic Compression",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pubic Shear diagnosis requires SFT lateralization and isolated pubic asymmetry.",
-    "pdfPage": 50
-  },
-  {
-    "id": 10,
-    "category": "OMM: Special Tests",
-    "questionText": "The ASIS Compression Test helps to discern laterality in which type of dysfunction?",
-    "options": [
-      {
-        "text": "Innominate rotation",
-        "explanation": "Incorrect. SFT is better."
-      },
-      {
-        "text": "Sacroiliac dysfunction",
-        "explanation": "Correct. It tests the stiffness/resiliency of the SI joint directly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pubic shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L5 rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hip arthritis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ASIS Compression = SI Joint Dysfunction.",
-    "pdfPage": 12
-  },
-  {
-    "id": 11,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a 'Right Outflare'. Which of the following physical findings must be present?",
-    "options": [
-      {
-        "text": "Right ASIS is closer to the umbilicus.",
-        "explanation": "Incorrect. Inflare."
-      },
-      {
-        "text": "Right PSIS is closer to the midline (sacral spines).",
-        "explanation": "Correct. In an Outflare, the innominate rotates externally. The ASIS moves Lateral (away from umbilicus) and the PSIS moves Medial (closer to sacral spines).",
-        "verified": "Outflare: ASIS Lateral, PSIS Medial.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right ASIS is lower.",
-        "explanation": "Incorrect. Rotation."
-      },
-      {
-        "text": "Right Leg is shorter.",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right PSIS is higher.",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Outflare: ASIS Lateral, PSIS Medial (narrower sulcus).",
-    "pdfPage": 48
-  },
-  {
-    "id": 12,
-    "category": "OMM: Anatomy",
-    "questionText": "Which muscle attaches to the ASIS?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient complaining of inguinal pain is found to have a Right Posteriorly Rotated Innominate. This pain is likely secondary to dysfunction of which muscle?",
     "options": [
       {
         "text": "Rectus Femoris",
-        "explanation": "Incorrect. AIIS."
-      },
-      {
-        "text": "Sartorius",
-        "explanation": "Correct. The Sartorius originates at the ASIS.",
+        "explanation": "Correct. Inguinal/groin pain can be secondary to rectus femoris dysfunction in a posteriorly rotated innominate.",
         "isCorrect": true
       },
       {
-        "text": "Gracilis",
-        "explanation": "Incorrect. Pubis."
+        "text": "Hamstrings",
+        "explanation": "Incorrect. Hamstring tightness is associated with anterior rotation."
       },
       {
-        "text": "Hamstrings",
-        "explanation": "Incorrect. Ischial Tuberosity."
+        "text": "Piriformis",
+        "explanation": "Incorrect. Sciatica/piriformis issues are associated with anterior rotation."
       },
       {
         "text": "Gluteus Maximus",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sartorius attaches to ASIS.",
-    "pdfPage": 5
-  },
-  {
-    "id": 13,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 30-year-old male was dragging a heavy box with his right leg when he felt a 'pop'. He has right sided pain. SFT Positive Right. Right ASIS Low, Right PSIS Low, Right Pubic Tubercle Low. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Anterior Innominate",
-        "explanation": "Incorrect. PSIS would be high."
       },
       {
-        "text": "Right Inferior Innominate Shear (Downslip)",
-        "explanation": "Correct. Traction injury (dragging leg) + All landmarks low = Downslip.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Superior Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Posterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Superior Shear",
+        "text": "Quadratus Lumborum",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inferior Shear (Downslip) presents with ALL landmarks Inferior.",
-    "pdfPage": 40
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Posterior Innominate Rotation can cause inguinal pain due to Rectus Femoris dysfunction and medial knee pain due to Sartorius dysfunction.",
+    "pdfPage": 31
   },
   {
-    "id": 14,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "In a Pubic Compression dysfunction, what is the primary palpatory finding?",
+    "id": 5,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient presents with medial knee pain. Structural exam reveals a Left Posteriorly Rotated Innominate. Which muscle dysfunction is most likely contributing to the knee pain?",
     "options": [
-      {
-        "text": "Vertical step-off",
-        "explanation": "Incorrect. Shear."
-      },
-      {
-        "text": "Tenderness with no asymmetry",
-        "explanation": "Correct. Compressed/Adducted pubes are tender but level (no shear). Motion testing shows resistance to distraction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Widened sulcus",
-        "explanation": "Incorrect. Gapping."
-      },
-      {
-        "text": "Superior Tubercle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior Tubercle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pubic Compression = Tenderness + No Shear + Resistance to Distraction.",
-    "pdfPage": 52
-  },
-  {
-    "id": 15,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a Left Posterior Innominate Rotation. You measure the leg length. What do you expect?",
-    "options": [
-      {
-        "text": "Left leg is longer",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left leg is shorter",
-        "explanation": "Correct. Posterior rotation pulls the leg up -> Short Leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "Legs are equal",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right leg is shorter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right leg is internally rotated",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Rotation = Short Leg.",
-    "pdfPage": 25
-  },
-  {
-    "id": 16,
-    "category": "OMM: Treatment",
-    "questionText": "Muscle Energy treatment for an Outflare involves moving the leg in which direction to correct the dysfunction?",
-    "options": [
-      {
-        "text": "Abduction",
-        "explanation": "Incorrect. Moves ASIS lateral."
-      },
-      {
-        "text": "Adduction",
-        "explanation": "Correct. To correct an Outflare (ASIS is too lateral), you want to bring the innominate medially. Adducting the hip pulls the ASIS medially?",
-        "verified": "Actually, ME for Outflare involves flexing hip/knee and internal rotating/adducting? No, wait. Outflare means ASIS is lateral. We want to pull it medial. We use the adductors? Or do we act on the PSIS? Standard technique: Flex hip 90, adduct to barrier. Patient abducts against resistance? No, patient adducts? Wait. Let's think mechanics. Patient has Outflare. We want to INFLARE it. We want to bring ASIS medial. We bring leg across body (Adduction) to barrier. Patient tries to Abduct (push out). Reciprocal inhibition allows further adduction. Yes. Adduction is the motion of the barrier.",
-        "isCorrect": true
-      },
-      {
-        "text": "Extension",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Flexion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "External Rotation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat Outflare by moving into Adduction (barrier). Treat Inflare by moving into Abduction (barrier).",
-    "pdfPage": 48
-  },
-  {
-    "id": 17,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "Who should you treat first? A patient has a Pubic Shear, a Sacral Torsion, and an Innominate Rotation.",
-    "options": [
-      {
-        "text": "Innominate Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sacral Torsion",
-        "explanation": "Incorrect. Usually treat L-spine -> Sacrum -> Innominate... BUT within the pelvis, Pubic Shears are priority KEY."
-      },
-      {
-        "text": "Pubic Shear",
-        "explanation": "Correct. The pubic symphysis is the anterior tie rod. If it is sheared, the rest of the ring cannot function. Treat Pubic Shear -> Then Sacrum/Innominate Shears -> Then Rotations.",
-        "isCorrect": true
-      },
-      {
-        "text": "Do not treat",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lumbar Spine",
-        "explanation": "Incorrect context."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Pelvic Treatment Sequence: Pubic Shear is Priority #1.",
-    "pdfPage": 55
-  },
-  {
-    "id": 18,
-    "category": "OMM: Anatomy",
-    "questionText": "Which muscle originates from the AIIS (Anterior Inferior Iliac Spine)?",
-    "options": [
-      {
-        "text": "Rectus Femoris",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
       {
         "text": "Sartorius",
-        "explanation": "Incorrect. ASIS."
-      },
-      {
-        "text": "Iliacus",
-        "explanation": "Incorrect. Iliac Fossa."
-      },
-      {
-        "text": "Pectineus",
-        "explanation": "Incorrect. Pubis."
-      },
-      {
-        "text": "Tensor Fascia Latae",
-        "explanation": "Incorrect. Iliac Crest/ASIS."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Rectus Femoris originates at AIIS.",
-    "pdfPage": 5
-  },
-  {
-    "id": 19,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient with a Right Innominate Outflare will likely have a restriction in which motion of the innominate?",
-    "options": [
-      {
-        "text": "Inflare (Internal Rotation)",
-        "explanation": "Correct. Named for its freedom (Outflare). Restricted in its opposite (Inflare).",
+        "explanation": "Correct. Medial knee pain in the setting of a posteriorly rotated innominate is often secondary to sartorius dysfunction.",
         "isCorrect": true
       },
       {
-        "text": "Outflare (External Rotation)",
-        "explanation": "Incorrect. This is the freedom."
+        "text": "Rectus Femoris",
+        "explanation": "Incorrect. Associated with inguinal pain."
       },
       {
-        "text": "Anterior Rotation",
+        "text": "Biceps Femoris",
         "explanation": "Incorrect."
       },
       {
-        "text": "Posterior Rotation",
+        "text": "Iliopsoas",
         "explanation": "Incorrect."
       },
       {
-        "text": "Shear",
+        "text": "Piriformis",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Dysfunction is named for freedom of motion.",
-    "pdfPage": 48
+    "clinicalPearl": "Sartorius dysfunction secondary to Posterior Innominate Rotation can cause medial knee pain.",
+    "pdfPage": 31
   },
   {
-    "id": 20,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "Which of the following is consistent with a 'Left Inflare'?",
+    "id": 6,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Upon examination, you find a Right Superior Innominate Shear. Which of the following sets of landmark findings is consistent with this diagnosis?",
     "options": [
       {
-        "text": "Left ASIS is Lateral to Umbilicus",
-        "explanation": "Incorrect. Outflare."
-      },
-      {
-        "text": "Left ASIS is Medial to Umbilicus",
-        "explanation": "Correct. Inflare = Medial ASIS.",
+        "text": "Right ASIS Superior, Right PSIS Superior, Right Pubic Tubercle Superior",
+        "explanation": "Correct. In a superior shear (upslip), the entire innominate shifts superiorly, so all landmarks (ASIS, PSIS, Pubic Tubercle, Medial Malleolus) are superior.",
         "isCorrect": true
       },
       {
-        "text": "Left PSIS is Medial to Spines",
-        "explanation": "Incorrect. In an inflammare, PSIS moves Lateral."
+        "text": "Right ASIS Superior, Right PSIS Inferior, Right Pubic Tubercle Superior",
+        "explanation": "Incorrect. This mix suggests rotation."
       },
       {
-        "text": "Left Leg is Short",
+        "text": "Right ASIS Inferior, Right PSIS Superior, Right Pubic Tubercle Inferior",
         "explanation": "Incorrect."
       },
       {
-        "text": "Left Pubic Bone is High",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inflare = ASIS Medial, PSIS Lateral.",
-    "pdfPage": 45
-  },
-  {
-    "id": 21,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 16-year-old hockey player is checked into the boards. He has right hip pain. SFT Positive Right. Right ASIS Low, PSIS High. Right Medial Malleolus Low. Which finding helps you rule out a Downslip?",
-    "options": [
-      {
-        "text": "The PSIS is High",
-        "explanation": "Correct. In a Downslip (Inferior Shear), the PSIS would be LOW. In an Anterior Rotation, the PSIS is HIGH. This key difference distinguishes the two.",
-        "isCorrect": true
+        "text": "Right ASIS Inferior, Right PSIS Inferior, Right Pubic Tubercle Inferior",
+        "explanation": "Incorrect. This describes an inferior shear."
       },
       {
-        "text": "The ASIS is Low",
-        "explanation": "Incorrect. Both have Low ASIS."
-      },
-      {
-        "text": "The Leg is Long",
-        "explanation": "Incorrect. Both have Long Leg."
-      },
-      {
-        "text": "The SFT is Positive",
-        "explanation": "Incorrect. Both have +SFT."
-      },
-      {
-        "text": "The Pain location",
-        "explanation": "Incorrect."
+        "text": "Right ASIS Level, Right PSIS Level, Right Pubic Tubercle Superior",
+        "explanation": "Incorrect. This describes a pure pubic shear."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Distinguish Anterior Rotation vs Downslip by the PSIS Height (High in Rotation, Low in Downslip).",
-    "pdfPage": 42
+    "clinicalPearl": "Superior Innominate Shear (Upslip): All landmarks on the affected side are SUPERIOR.",
+    "pdfPage": 26
   },
   {
-    "id": 22,
-    "category": "OMM: Physiology",
-    "questionText": "The innominates rotate in opposite directions around the inferior transverse axis during:",
+    "id": 7,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient falls, landing hard on their right buttocks. This mechanism of injury is most commonly associated with which somatic dysfunction?",
     "options": [
       {
-        "text": "Walking (Ambulation)",
-        "explanation": "Correct. As one leg swings (flexes), that innominate rotates posteriorly. The stance leg (extending) innominate rotates anteriorly.",
+        "text": "Right Superior Innominate Shear",
+        "explanation": "Correct. Landing on the buttocks can drive the ipsilateral innominate superiorly, causing a superior shear.",
         "isCorrect": true
       },
       {
-        "text": "Breathing",
-        "explanation": "Incorrect. Superior axis."
+        "text": "Right Inferior Innominate Shear",
+        "explanation": "Incorrect. Usually caused by traction on the leg."
       },
-      {
-        "text": "Standing still",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sitting",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Jumping",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Gait involves reciprocal innominate rotation around the inferior transverse axis.",
-    "pdfPage": 4
-  },
-  {
-    "id": 23,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a Left Superior Pubic Shear. The Left Pubic Tubercle is:",
-    "options": [
-      {
-        "text": "Inferior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior",
-        "explanation": "Correct. Named for the position of the tubercle.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lateral",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pubic Shears are named for the superior/inferior position.",
-    "pdfPage": 50
-  },
-  {
-    "id": 24,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "Widening of the pubic symphysis, often seen after childbirth trauma, is known as:",
-    "options": [
-      {
-        "text": "Pubic Compression",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pubic Gapping (Diastasis)",
-        "explanation": "Correct. Also called distracted pubes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pubic Shear",
-        "explanation": "Incorrect. Vertical motion."
-      },
-      {
-        "text": "Pubic Torsion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Osteitis Pubis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pubic Gapping = Diastasis Symphysis Pubis.",
-    "pdfPage": 53
-  },
-  {
-    "id": 25,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 50-year-old male has chronic low back pain. SFT is Positive Left. Landmarks: Left ASIS High, Left PSIS Low. What muscle set would you target for MET?",
-    "options": [
-      {
-        "text": "Left Hamstrings",
-        "explanation": "Incorrect. Used for Anterior Innominate."
-      },
-      {
-        "text": "Left Hip Flexors (Ilipsoas/Rectus Femoris)",
-        "explanation": "Correct. Diagnosis is Left Posterior Innominate. Treatment involves engaging hip flexors (via hip extension) to pull it anteriorly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Adductors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Abductors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Glutes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat Posterior Innominate with Hip Extension (engaging flexors).",
-    "pdfPage": 25
-  },
-  {
-    "id": 26,
-    "category": "OMM: Anatomy",
-    "questionText": "The Sacrospinous ligament attaches from the sacrum to the:",
-    "options": [
-      {
-        "text": "Ischial Tuberosity",
-        "explanation": "Incorrect. Sacrotuberous."
-      },
-      {
-        "text": "Ischial Spine",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Iliac Crest",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "PSIS",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pubic Tubercle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sacrospinous Ligament -> Ischial Spine.",
-    "pdfPage": 3
-  },
-  {
-    "id": 27,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient presents with a Right Infare. Where should the Umbilicus-to-ASIS distance be measured?",
-    "options": [
-      {
-        "text": "It should be shorter on the Right.",
-        "explanation": "Correct. Inflare = Medial ASIS = Shorter distance.",
-        "isCorrect": true
-      },
-      {
-        "text": "It should be longer on the Right.",
-        "explanation": "Incorrect. Outflare."
-      },
-      {
-        "text": "It should be equal.",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is not relevant.",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It depends on leg length.",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Inflare = Shorter Distance.",
-    "pdfPage": 45
-  },
-  {
-    "id": 28,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "Which finding is crucial for diagnosing a 'functional' short leg vs 'anatomical'?",
-    "options": [
-      {
-        "text": "X-ray measurement",
-        "explanation": "Correct. X-ray is the gold standard for anatomical. However, clinically, a Positive SFT suggests functional causes (somatic dysfunction), while a Negative SFT suggests proper mechanics but physical shortening (anatomical). Wait, let's pick the best clinical answer. "
-      },
-      {
-        "text": "Positive Standing Flexion Test",
-        "explanation": "Correct. A positive SFT implies somatic dysfunction (innominate rotation) is causing the discrepancy. If SFT is negative but leg lengths differ, implies anatomical.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pain level",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Age",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Shoe wear",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Positive SFT indicates Functional Leg Length Discrepancy.",
-    "pdfPage": 8
-  },
-  {
-    "id": 29,
-    "category": "OMM: Special Tests",
-    "questionText": "A positive ASIS Compression Test on the left indicates:",
-    "options": [
-      {
-        "text": "Right SI dysfunction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left SI dysfunction",
-        "explanation": "Correct. Lateralizes to the side of resistance.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pubic shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lumbar Herniation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hip Fracture",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ASIS Compression lateralizes to the stiff side.",
-    "pdfPage": 12
-  },
-  {
-    "id": 30,
-    "category": "OMM: Anatomy",
-    "questionText": "The Inguinal Ligament attaches between which two structures?",
-    "options": [
-      {
-        "text": "PSIS and Ischial Tuberosity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "ASIS and Pubic Tubercle",
-        "explanation": "Correct. Its tension is affected by innominate rotations.",
-        "isCorrect": true
-      },
-      {
-        "text": "Iliac Crest and Greater Trochanter",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "AIIS and Pubis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sacrum and Ischium",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inguinal Ligament connects ASIS to Pubic Tubercle.",
-    "pdfPage": 5
-  },
-  {
-    "id": 31,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 23-year-old female runner has right knee pain. SFT Positive Right. Right ASIS Low, right PSIS High. Right Inguinal tenderness. Right Leg Long. Diagnosis?",
-    "options": [
       {
         "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Classic pattern.",
-        "isCorrect": true
+        "explanation": "Incorrect."
       },
       {
         "text": "Right Posterior Innominate Rotation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Upslip",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Downslip",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Outflare",
+        "text": "Pubic Gapping",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior Rotation pattern confirmation.",
-    "pdfPage": 20
+    "clinicalPearl": "Superior Innominate Shears are often caused by trauma, such as falling on the buttocks or jamming the leg into the acetabulum.",
+    "pdfPage": 4
   },
   {
-    "id": 32,
-    "category": "OMM: Treatment",
-    "questionText": "Leg traction (tug) is the treatment of choice for:",
+    "id": 8,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "You diagnosis a Left Anterior Innominate Rotation. What would you expect to find regarding the left medial malleolus (assuming no anatomical leg length discrepancy)?",
     "options": [
       {
-        "text": "Anterior Innominate",
-        "explanation": "Incorrect. ME."
-      },
-      {
-        "text": "Posterior Innominate",
-        "explanation": "Incorrect. ME."
-      },
-      {
-        "text": "Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Need to pull it down.",
+        "text": "It is inferior compared to the right",
+        "explanation": "Correct. Anterior rotation drives the acetabulum inferiorly, lengthening the leg functionally. Thus, the medial malleolus appears inferior (lower).",
         "isCorrect": true
       },
       {
-        "text": "Inferior Innominate Shear (Downslip)",
-        "explanation": "Incorrect. Need to push it up?"
+        "text": "It is superior compared to the right",
+        "explanation": "Incorrect. This would be seen in posterior rotation or superior shear."
       },
       {
-        "text": "Pubic Shear",
-        "explanation": "Incorrect. ME."
+        "text": "It is level with the right",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is anterior compared to the right",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is posterior compared to the right",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Treat Upslip with Leg Traction.",
-    "pdfPage": 36
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Anterior Innominate Rotation causes a comprehensive functional long leg (Inferior Medial Malleolus).",
+    "pdfPage": 35
   },
   {
-    "id": 33,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "In a Left Posterior Innominate Rotation, the Left PSIS is:",
+    "id": 9,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Which of the following findings is associated with a Right Innominate Outflare?",
     "options": [
+      {
+        "text": "Right ASIS is further from the midline (umbilicus)",
+        "explanation": "Correct. Outflare means the ASIS has moved laterally, away from the midline/umbilicus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right ASIS is closer to the midline (umbilicus)",
+        "explanation": "Incorrect. This describes an Inflare."
+      },
+      {
+        "text": "Right PSIS is further from the midline",
+        "explanation": "Incorrect. In an outflare, the PSIS moves medially."
+      },
+      {
+        "text": "Right ASIS is superior",
+        "explanation": "Incorrect. Height change defines rotation/shear, not flare."
+      },
+      {
+        "text": "Right Pubic Tubercle is superior",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Outflare: ASIS is more Lateral (further from umbilicus). Inflare: ASIS is more Medial (closer to umbilicus).",
+    "pdfPage": 17
+  },
+  {
+    "id": 10,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "An inflammatory condition of the innominate characterized by an Inflare is often associated with which other somatic dysfunction due to the shape of the SI joint?",
+    "options": [
+      {
+        "text": "Anterior Innominate Rotation",
+        "explanation": "Correct. Inflares are associated with anterior rotation due to the shape of the SI joint.",
+        "isCorrect": true
+      },
+      {
+        "text": "Posterior Innominate Rotation",
+        "explanation": "Incorrect. Outflares are associated with posterior rotation."
+      },
+      {
+        "text": "Superior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Compression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Inflares are associated with Anterior Rotation. Outflares are associated with Posterior Rotation.",
+    "pdfPage": 4
+  },
+  {
+    "id": 11,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient has a positive Standing Flexion Test on the Right. The right ASIS is higher than the left, and the right PSIS is higher than the left. The right pubic tubercle is also higher. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Right Superior Innominate Shear",
+        "explanation": "Correct. Positive SFT Right lateralizes to Right. All landmarks (ASIS, PSIS, Pubes) are high on the Right. This is a Superior Shear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Posterior Innominate Rotation",
+        "explanation": "Incorrect. Posterior rotation would have a LOW PSIS."
+      },
+      {
+        "text": "Left Inferior Innominate Shear",
+        "explanation": "Incorrect. SFT is on the Right.",
+      },
+      {
+        "text": "Right Anterior Innominate Rotation",
+        "explanation": "Incorrect. Anterior rotation would have a LOW ASIS."
+      },
+      {
+        "text": "Left Superior Innominate Shear",
+        "explanation": "Incorrect. SFT is on the Right."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "In a Superior Shear, both the ASIS and PSIS are high on the affected side.",
+    "pdfPage": 48
+  },
+  {
+    "id": 12,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "What is the primary utility of the ASIS Compression Test?",
+    "options": [
+      {
+        "text": "To detect side of laterality for Sacroiliac or Iliosacral dysfunction",
+        "explanation": "Correct. It tests resilience of the SI joint and can indicate dysfunction, but it is less specific than the Standing Flexion Test for distinguishing between iliosacral and sacroiliac issues.",
+        "isCorrect": true
+      },
+      {
+        "text": "To specifically diagnose pubic shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To diagnose lumbar disc herniation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To measure leg length discrepancy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To test for hip arthritis",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "ASIS Compression Test assesses the SI joint but is nonspecific; it can be positive in either iliosacral or sacroiliac dysfunction.",
+    "pdfPage": 4
+  },
+  {
+    "id": 13,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "When checking for pubic dysfunction, you find the right pubic tubercle is superior to the left. The ASIS and PSIS heights are symmetrical bilaterally. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Right Superior Pubic Shear",
+        "explanation": "Correct. Pubic shears are named for the superior/inferior position of the tubercle on the side of the positive SFT (or the high side if SFT is not given but isolated pubic finding implies shear).",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Inferior Pubic Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Superior Innominate Shear",
+        "explanation": "Incorrect. ASIS and PSIS are level, ruling out innominate shear."
+      },
+      {
+        "text": "Pubic Compression",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Gapping",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pubic Dysfunctions are named only if the ASIS and PSIS are level.",
+    "pdfPage": 38
+  },
+  {
+    "id": 14,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Subjective complaints of sciatica secondary to piriformis dysfunction are most commonly associated with which innominate dysfunction?",
+    "options": [
+      {
+        "text": "Anterior Innominate Rotation",
+        "explanation": "Correct. Anterior rotation is associated with sciatic pain due to piriformis dysfunction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Posterior Innominate Rotation",
+        "explanation": "Incorrect. Associated with inguinal/medial knee pain."
+      },
+      {
+        "text": "Superior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Compression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Anterior Innominate Rotation -> Sciatica/Piriformis issues.",
+    "pdfPage": 31
+  },
+  {
+    "id": 15,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "What is the expected motion testing finding for a Left  Anteriorly Rotated Innominate?",
+    "options": [
+      {
+        "text": "Freedom of anterior rotation, restriction of posterior rotation",
+        "explanation": "Correct. Somatic dysfunction is named for its freedom of motion. An anterior rotation moves freely anteriorly but is restricted posteriorly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Freedom of posterior rotation, restriction of anterior rotation",
+        "explanation": "Incorrect. This describes a posterior rotation."
+      },
+      {
+        "text": "Restriction in both directions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Freedom in both directions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Freedom of superior translation",
+        "explanation": "Incorrect. Describes a superior shear."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Somatic dysfunction is named for its freedom of motion.",
+    "pdfPage": 29
+  },
+  {
+    "id": 16,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient has a Pubic Compression (Adducted Pubic Symphysis). Which physical finding is characteristic?",
+    "options": [
+      {
+        "text": "Tenderness at the symphysis without vertical asymmetry",
+        "explanation": "Correct. Pubic compression has tenderness and restricted motion but no apparent asymmetry (ASIS/PSIS equal).",
+        "isCorrect": true
+      },
+      {
+        "text": "A palpable 'step-off' at the symphysis",
+        "explanation": "Incorrect. Indicates shear."
+      },
+      {
+        "text": "A widened sulcus at the symphysis",
+        "explanation": "Incorrect. Indicates gapping."
+      },
+      {
+        "text": "Severe low back pain only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Positive Thomas Test",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pubic Compression: Tenderness, Restricted Motion, No Asymmetry.",
+    "pdfPage": 40
+  },
+  {
+    "id": 17,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Pubic Gapping (Abducted Pubic Symphysis) is most frequently associated with which history?",
+    "options": [
+      {
+        "text": "Childbirth or Trauma",
+        "explanation": "Correct. Childbirth and trauma are common causes of pubic gapping.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prolonged sitting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Running",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Heavy lifting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sleeping position",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pubic Gapping (Diastasis) is common after childbirth or pelvic fracture.",
+    "pdfPage": 42
+  },
+  {
+    "id": 18,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Which ligamentous tenderness is commonly found with an Anteriorly Rotated Innominate?",
+    "options": [
+      {
+        "text": "Iliolumbar ligament",
+        "explanation": "Correct. Iliolumbar ligament tenderness is a palpable finding associated with anterior innominate rotation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sacrotuberous ligament",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacrospinous ligament",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inguinal ligament",
+        "explanation": "Incorrect. Tenderness here is more associated with Posterior Rotation (Rectus femoris/Sartorius area).",
+      },
+      {
+        "text": "Anterior Longitudinal Ligament",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Anterior Rotation = Iliolumbar ligament tenderness.",
+    "pdfPage": 29
+  },
+  {
+    "id": 19,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A 25-year-old male was running and stepped into a hole, wrenching his right leg. He now has a Right Inferior Innominate Shear (Downslip). What are the expected landmark findings on the right?",
+    "options": [
+      {
+        "text": "ASIS Low, PSIS Low, Pubic Tubercle Low",
+        "explanation": "Correct. In an inferior shear, the entire innominate is pulled inferiorly. All landmarks are low.",
+        "isCorrect": true
+      },
+      {
+        "text": "ASIS High, PSIS High, Pubic Tubercle High",
+        "explanation": "Incorrect. Superior shear."
+      },
+      {
+        "text": "ASIS Low, PSIS High",
+        "explanation": "Incorrect. Anterior rotation."
+      },
+      {
+        "text": "ASIS High, PSIS Low",
+        "explanation": "Incorrect. Posterior rotation."
+      },
+      {
+        "text": "ASIS Lateral, PSIS Medial",
+        "explanation": "Incorrect. Outflare."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Inferior Innominate Shear: All landmarks Inferior (Low) compared to the healthy side.",
+    "pdfPage": 43
+  },
+  {
+    "id": 20,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "When checking for ASIS vs Umbilicus distance to diagnose flare, what other finding is typically associated with a Right Inflare?",
+    "options": [
+      {
+        "text": "Right PSIS is further from the midline",
+        "explanation": "Correct. In an Inflare, the ASIS moves medially (closer to umbilicus), and the PSIS moves laterally (further from sacral spines).",
+        "isCorrect": true
+      },
+      {
+        "text": "Right PSIS is closer to the midline",
+        "explanation": "Incorrect. This occurs in Outflare."
+      },
+      {
+        "text": "Right Leg is long",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Leg is short",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Pubic Tubercle is superior",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Inflare: ASIS Medial, PSIS Lateral.",
+    "pdfPage": 17
+  },
+  {
+    "id": 21,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Before performing the static landmark exam of the pelvis, what must be done to ensure accuracy?",
+    "options": [
+      {
+        "text": "Reseat the pelvis (have patient bridge)",
+        "explanation": "Correct. The patient should bend knees, lift pelvis, and set it back down to neutralize any muscle tension or positioning errors.",
+        "isCorrect": true
+      },
+      {
+        "text": "Perform the seated flexion test",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Treat the cervical spine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stretches the hamstrings",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Have the patient stand on one leg",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Always reseat the pelvis before checking static landmarks.",
+    "pdfPage": 15
+  },
+  {
+    "id": 22,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A positive Standing Flexion Test is determined by:",
+    "options": [
+      {
+        "text": "The PSIS moving more superiorly on one side",
+        "explanation": "Correct. The 'first and furthest' superior movement indicates restriction on that side.",
+        "isCorrect": true
+      },
+      {
+        "text": "The PSIS moving more inferiorly on one side",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The ASIS moving superiorly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pain provocation only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Audible click",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Standing Flexion Test: Positive side = Side where PSIS moves superiorly the most.",
+    "pdfPage": 10
+  },
+  {
+    "id": 23,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "You suspect a Left Inferior Pubic Shear. Which finding would confirm this diagnosis?",
+    "options": [
+      {
+        "text": "Left Pubic Tubercle is inferior to the right, and ASIS/PSIS are level",
+        "explanation": "Correct. Isolated inferior position of the pubic tubercle on the side of the positive SFT (or implied dysfunction side) confirms the shear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Pubic Tubercle is superior to the right",
+        "explanation": "Incorrect. Superior shear."
+      },
+      {
+        "text": "Left ASIS is lower than the right",
+        "explanation": "Incorrect. Implies innominate dysfunction."
+      },
+      {
+        "text": "Left PSIS is higher than the right",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Widened pubic symphysis",
+        "explanation": "Incorrect. Gapping."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Inferior Pubic Shear: Tubercle is low, other pelvic landmarks level.",
+    "pdfPage": 38
+  },
+  {
+    "id": 24,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Which finding discriminates a Right Anterior Innominate Rotation from a Left Posterior Innominate Rotation, given they both cause a 'Short Left Leg' equivalent appearance?",
+    "options": [
+      {
+        "text": "The side of the positive Standing Flexion Test",
+        "explanation": "Correct. Both dysfunctions produce similar static asymmetry (Right ASIS Low/Left High, Right PSIS High/Left Low). The SFT tells you which side is the problem.",
+        "isCorrect": true
+      },
+      {
+        "text": "The height of the ASIS",
+        "explanation": "Incorrect. Both have Right Low/Left High pattern."
+      },
+      {
+        "text": "The height of the PSIS",
+        "explanation": "Incorrect. Both have Right High/Left Low pattern."
+      },
+      {
+        "text": "The height of the Pubic Bone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The presence of psoas spasm",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Static landmarks alone cannot distinguish Rightsided vs Left-sided dysfunction; the Standing Flexion Test is ensuring correct laterality.",
+    "pdfPage": 26
+  },
+  {
+    "id": 25,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "In a patient with a Right Superior Innominate Shear, motion testing would reveal:",
+    "options": [
+      {
+        "text": "Freedom of superior translation",
+        "explanation": "Correct. The innominate moves easily into its position of ease (superior) and is restricted in inferior translation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction of superior translation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Freedom of inferior translation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Freedom of anterior rotation",
+        "explanation": "Incorrect. Specific to rotation."
+      },
+      {
+        "text": "Restriction of all motions",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Motion testing reveals freedom in the direction of the dysfunction.",
+    "pdfPage": 26
+  },
+  {
+    "id": 26,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A 20-year-old female presents with bilateral psoas spasm and a Right Superior Innominate Shear. Which of the following was a key finding in the case presentation?",
+    "options": [
+      {
+        "text": "Right SFT +, Right ASIS High, Right PSIS High",
+        "explanation": "Correct. This matches the case presentation description of the shear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left SFT +, Right ASIS High, Right PSIS High",
+        "explanation": "Incorrect. SFT was on the Right."
+      },
+      {
+        "text": "Right SFT +, Right ASIS Low, Right PSIS Low",
+        "explanation": "Incorrect. Downslip."
+      },
+      {
+        "text": "Bilateral SFT +",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Negative SFT",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Review the case presentation: Right Superior Shear = Right SFT + All Right Landmarks High.",
+    "pdfPage": 44
+  },
+  {
+    "id": 27,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "What typically causes an Inferior Innominate Shear?",
+    "options": [
+      {
+        "text": "Traction on the leg or stepping into a hole",
+        "explanation": "Correct. Forces that pull the leg/innominate inferiorly.",
+        "isCorrect": true
+      },
+      {
+        "text": "Falling on the buttocks",
+        "explanation": "Incorrect. Superior shear."
+      },
+      {
+        "text": "Muscle imbalance",
+        "explanation": "Incorrect. Usually causes rotation."
+      },
+      {
+        "text": "Pregnancy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sitting for long periods",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Inferior shears are typically traumatic/traction injuries.",
+    "pdfPage": 26
+  },
+  {
+    "id": 28,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Which of the following is true regarding Pubic Compression dysfunction?",
+    "options": [
+      {
+        "text": "The Standing Flexion Test may be falsely negative",
+        "explanation": "Correct. Because the pelvis is locked anteriorly, the SFT might not show typical lateralization or might be falsely negative.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is gross asymmetry of the pubic bones",
+        "explanation": "Incorrect. Usually symmetrical."
+      },
+      {
+        "text": "It is always painless",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is treated before innominate dysfunction",
+        "explanation": "Incorrect. Innominates first."
+      },
+      {
+        "text": "It presents with a long leg",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pubic Compression can cause false negative SFT/ASIS Compression tests.",
+    "pdfPage": 4
+  },
+  {
+    "id": 29,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "Can a Pubic Shear exist if the ASIS and PSIS are asymmetrical?",
+    "options": [
+      {
+        "text": "Yes, but you diagnose and treat the innominate dysfunction first",
+        "explanation": "Correct. The pubic asymmetry might be secondary to the innominate rotation/shear. You address that first, then reassess the pubes.",
+        "isCorrect": true
+      },
+      {
+        "text": "No, it is impossible",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Yes, and you treat the pubic shear first",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Yes, but you name it based on the ASIS height",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Treat Innominate asymmetry first; persistent pubic asymmetry is then diagnosed as Pubic Shear.",
+    "pdfPage": 38
+  },
+  {
+    "id": 30,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "A patient has a Left Innominate Outflare. Where is the Left ASIS relative to the midline compared to the Right?",
+    "options": [
+      {
+        "text": "Further from the midline",
+        "explanation": "Correct. Outflare = Lateral ASIS.",
+        "isCorrect": true
+      },
+      {
+        "text": "Closer to the midline",
+        "explanation": "Incorrect. Inflare."
+      },
       {
         "text": "Higher",
         "explanation": "Incorrect."
       },
       {
         "text": "Lower",
-        "explanation": "Correct. Posterior rotation moves the posterior aspect (PSIS) inferiorly.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Outflare = ASIS Lateral.",
+    "pdfPage": 17
+  },
+  {
+    "id": 31,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "If a patient has a Right Anterior Innominate Rotation, where is the Right PSIS located?",
+    "options": [
+      {
+        "text": "Superior (High)",
+        "explanation": "Correct. The innominate rotates forward: ASIS goes down, PSIS goes up.",
         "isCorrect": true
+      },
+      {
+        "text": "Inferior (Low)",
+        "explanation": "Incorrect."
       },
       {
         "text": "Level",
         "explanation": "Incorrect."
       },
       {
+        "text": "Medial",
+        "explanation": "Incorrect."
+      },
+      {
         "text": "Lateral",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Anterior Rotation = PSIS High.",
+    "pdfPage": 26
+  },
+  {
+    "id": 32,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "If a patient has a Left Posterior Innominate Rotation, where is the Left ASIS located?",
+    "options": [
+      {
+        "text": "Superior (High)",
+        "explanation": "Correct. The innominate rotates backward: ASIS goes up, PSIS goes down.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inferior (Low)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Level",
         "explanation": "Incorrect."
       },
       {
         "text": "Medial",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Lateral",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Rotation = PSIS Low.",
-    "pdfPage": 25
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Posterior Rotation = ASIS High.",
+    "pdfPage": 26
+  },
+  {
+    "id": 33,
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "The Standing Flexion Test is specific for which type of dysfunction?",
+    "options": [
+      {
+        "text": "Ilio-sacral dysfunction",
+        "explanation": "Correct. Typically indicates dysfunction of the innominate on the sacrum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sacro-iliac dysfunction",
+        "explanation": "Incorrect. Seated Flexion Test is for Sacro-iliac.",
+        "verified": "Text says SFT is specific for Ilio-sacral.",
+      },
+      {
+        "text": "Lumbar dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hip dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Coccygeal dysfunction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "SFT = Ilio-sacral. Seated FT = Sacro-iliac.",
+    "pdfPage": 4
   },
   {
     "id": 34,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "What is the common mechanism of injury for a Superior Innominate Shear (Upslip)?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "When diagnosing a Pubic Shear, assuming the innominates are treated, a Right Superior Pubic Shear means:",
     "options": [
       {
-        "text": "Bending forward",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Landing hard on one leg (vertical force)",
-        "explanation": "Correct. Pushes the innominate up.",
+        "text": "The Right Pubic Tubercle is higher than the Left",
+        "explanation": "Correct. Named for the superior position on the affected side.",
         "isCorrect": true
       },
       {
-        "text": "Twisting",
+        "text": "The Right Pubic Tubercle is lower than the Left",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sleeping wrong",
+        "text": "The Right ASIS is higher than the Left",
         "explanation": "Incorrect."
       },
       {
-        "text": "Lifting a box",
+        "text": "The Right PSIS is higher than the Left",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The Pubic Symphysis is gapped",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vertical force causes Upslip.",
-    "pdfPage": 36
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Superior Pubic Shear = High Tubercle.",
+    "pdfPage": 38
   },
   {
     "id": 35,
-    "category": "OMM: Case Study",
-    "questionText": "A 20-year-old equestrian falls from a horse, getting her foot caught in the stirrup. She presents with severe right pelvic pain. Exam: Paravertebral spasms. SFT Positive Right. Right ASIS High, Right PSIS High, Right Pubic Tubercle High. What is the diagnosis?",
+    "category": "Diagnosis of the Pelvis",
+    "questionText": "How does the patient's dominant eye affect the pelvic exam?",
     "options": [
       {
-        "text": "Right Anterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Posterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Case Study from lecture: Trauma + All landmarks High = Superior Shear.",
-        "verified": "This matches the case study at the end of the lecture.",
+        "text": "The physician should align their dominant eye over the midline of the area being examined",
+        "explanation": "Correct. This reduces parallax error and improves accuracy.",
         "isCorrect": true
       },
       {
-        "text": "Right Inferior Shear",
+        "text": "The patient should close their dominant eye during the exam",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Outflare",
+        "text": "It determines which side of the patient to stand on",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is irrelevant",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The physician should use their non-dominant eye",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Case Study review: Equestrian Fall -> Upslip.",
-    "pdfPage": 60
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Use dominant eye over the midline for static landmarks.",
+    "pdfPage": 24
   }
 ];

@@ -14,7 +14,7 @@ const testsToLoad = [
     { name: "1-Autonomic Nervous System (L10)", data: window.Test_L10 },
     { name: "1-Hypothalamus (L11)", data: window.Test_L11 },
     { name: "1-Thalamus Anatomy & Phys (L12)", data: window.Test_L12 },
-    { name: "1-L13 (Cranial Nerves?)", data: window.Test_L13 },
+    { name: "1-Clinical Decision Making (L13)", data: window.Test_L13 },
 
     // --- Week 2 (L14-26) ---
     { name: "2-General Sensory System (L15)", data: window.Test_L15 },

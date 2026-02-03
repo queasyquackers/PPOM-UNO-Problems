@@ -1,712 +1,175 @@
-// Test_L22.js
 window.Test_L22 = [
   {
     "id": 1,
     "category": "Ganglionic Blockers",
-    "questionText": "A 55-year-old male with severe hypertension is treated with Mecamylamine (a ganglionic blocker) because other agents have failed. When he stands up quickly from a lying position, he faints. This syncopal episode is primarily due to blockade of which receptor type at the autonomic ganglia?",
+    "questionText": "Mecamylamine is a ganglionic blocker that acts by:",
     "options": [
       {
-        "text": "Muscarinic M2 receptors",
-        "explanation": "Incorrect. Ganglionic transmission is Nicotinic."
-      },
-      {
-        "text": "Nicotinic Neuronal (Nn) receptors",
-        "explanation": "Correct. Ganglionic blockers inhibit Nn receptors in both sympathetic and parasympathetic ganglia. Blocking sympathetic ganglia abolishes the baroreceptor reflex (vasoconstriction) upon standing, causing severe orthostatic hypotension.",
-        "isCorrect": true
-      },
-      {
-        "text": "Adrenergic Alpha-1 receptors",
-        "explanation": "Incorrect. This is the effector organ receptor, not the ganglionic one."
-      },
-      {
-        "text": "Dopaminergic D1 receptors",
+        "text": "Competitively blocking muscarinic receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nicotinic Muscle (Nm) receptors",
-        "explanation": "Incorrect. These are at the neuromuscular junction."
+        "text": "Blocking neuronal nicotinic receptors (Nn) at both parasympathetic and sympathetic ganglia",
+        "explanation": "Correct. Blocks the 'channel plug' mechanism.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stimulating release of norepinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocking neuromuscular nicotinic receptors (Nm)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting Acetylcholinesterase",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Ganglionic blockers cause 'Sympathectomy' side effects (Hypotension) AND 'Parasympathectomy' side effects (Dry mouth, Constipation).",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: Ganglion blockers shut down the whole ANS (Symp and Para).",
+    "pdfPage": 14
   },
   {
     "id": 2,
-    "category": "Succinylcholine Adverse Effects",
-    "questionText": "A 7-year-old boy undergoes surgery for strabismus. Anesthesia is induced with Succinylcholine. Shortly after administration, his jaw muscles become rigid (masseter spasm), his temperature rapidly rises to 40\u00b0C, and he develops tachycardia and acidosis. The most likely underlying cause is:",
+    "category": "Dominant Tone",
+    "questionText": "Because the dominant autonomic tone to the arterioles and veins is Sympathetic, blockade by a ganglionic blocker like Mecamylamine results in:",
     "options": [
       {
-        "text": "Anaphylaxis to Succinylcholine",
-        "explanation": "Incorrect. Doesn't typically cause hyperthermia/rigidity like this."
-      },
-      {
-        "text": "Malignant Hyperthermia",
-        "explanation": "Correct. Triggered by Succinylcholine (and volatiles) in susceptible individuals (RyR1 mutation). Causes uncontrolled Ca2+ release, muscle rigidity, and heat production.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pseudocholinesterase Deficiency",
-        "explanation": "Incorrect. Causes prolonged apnea, not hyperthermia."
-      },
-      {
-        "text": "Overdose of Atropine",
+        "text": "Vasoconstriction and Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pheochromocytoma crisis",
+        "text": "Vasodilation, Hypotension, and Orthostasis",
+        "explanation": "Correct. Removing the sympathetic 'squeeze' causes pooling.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bradycardia",
+        "explanation": "Incorrect. Dominant heart tone is Parasympathetic, so blockade causes Tachycardia.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronchoconstriction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased venous return",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Dantrolene is the life-saving antidote for Malignant Hyperthermia. It blocks Ca2+ release from the SR.",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: Block Sympathetic tone in vessels = Hypotension.",
+    "pdfPage": 9
   },
   {
     "id": 3,
-    "category": "NMBA Mechanism",
-    "questionText": "During a surgical procedure, the anesthesiologist administers Rocuronium to facilitate intubation. Rocuronium achieves muscle paralysis by:",
+    "category": "Organ Effects",
+    "questionText": "The dominant tone in the heart is Parasympathetic. Therefore, a ganglionic blocker will cause:",
     "options": [
       {
-        "text": "Depolarizing the motor end plate persistently",
-        "explanation": "Incorrect. That's Succinylcholine."
+        "text": "Bradycardia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Competitively blocking Nicotinic (Nm) receptors",
-        "explanation": "Correct. Non-depolarizing agents (Curiums/Roniums) compete with Acetylcholine for the binding site, preventing channel opening.",
+        "text": "Tachycardia",
+        "explanation": "Correct. It removes the parasympathetic 'brake'.",
         "isCorrect": true
       },
       {
-        "text": "Inhibiting Acetylcholine release",
-        "explanation": "Incorrect (Botulinum toxin)."
+        "text": "No change in heart rate",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Blocking Ryanodine receptors",
-        "explanation": "Incorrect (Dantrolene)."
+        "text": "Atrioventricular block",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Inhibiting Acetylcholinesterase",
-        "explanation": "Incorrect (Neostigmine)."
+        "text": "Increased contractility",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Non-depolarizing blockers = Competitive Antagonists. Can be reversed by increasing ACh (Neostigmine).",
-    "pdfPage": 22
+    "clinicalPearl": "Key takeaway: Cut the Vagus input -> Heart speeds up.",
+    "pdfPage": 16
   },
   {
     "id": 4,
-    "category": "Contraindications",
-    "questionText": "A 30-year-old burn victim (30% total body surface area) is brought to the OR for skin grafting 10 days after the injury. The anesthesiologist avoids Succinylcholine specifically to prevent:",
+    "category": "Adverse Effects",
+    "questionText": "A major limiting side effect of Ganglionic Blockers (Mecamylamine) is:",
     "options": [
       {
-        "text": "Malignant Hyperthermia",
-        "explanation": "Incorrect. Not specific to burns."
+        "text": "Diarrhea",
+        "explanation": "Incorrect. Causes constipation (blocks Para tone).",
+        "isCorrect": false
       },
       {
-        "text": "Severe Hyperkalemia",
-        "explanation": "Correct. Burn/Trauma/Denervation causes upregulation of extra-junctional ACh receptors. Succinylcholine stimulation causes massive K+ efflux -> Cardiac Arrest.",
+        "text": "Severe Orthostatic Hypotension",
+        "explanation": "Correct. Loss of baroreceptor reflexes.",
         "isCorrect": true
       },
       {
-        "text": "Bronchospasm",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Seizures",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Succinylcholine is contraindicated in Burns/Trauma > 24-48h post-injury due to Hyperkalemic Cardiac Arrest risk.",
-    "pdfPage": 30
-  },
-  {
-    "id": 5,
-    "category": "Atracurium Side Effect",
-    "questionText": "A patient undergoing surgery receives a bolus of Atracurium. Minutes later, the patient becomes hypotensive and develops flushing of the face and torso. This reaction is most likely due to:",
-    "options": [
-      {
-        "text": "Malignant Hyperthermia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Histamine Release",
-        "explanation": "Correct. Isoquinoline NMBAs (Atracurium, Mivacurium) can cause non-immune histamine release leading to hypotension and flushing.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ganglionic Blockade",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Muscarinic Stimulation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vagal Reflex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Cisatracurium is preferred over Atracurium because it lacks significant histamine release (Less hypotension).",
-    "pdfPage": 34
-  },
-  {
-    "id": 6,
-    "category": "Reversal Agents",
-    "questionText": "At the end of a procedure where Rocuronium was used, the anesthesiologist wants to rapidly reverse the neuromuscular blockade. Instead of Neostigmine, they choose Sugammadex. Sugammadex works by:",
-    "options": [
-      {
-        "text": "Inhibiting Acetylcholinesterase",
-        "explanation": "Incorrect (Neostigmine)."
-      },
-      {
-        "text": "Encapsulating the Steroidal NMBA molecule",
-        "explanation": "Correct. Sugammadex forms a 1:1 complex with aminosteroid blockers (Rocuronium/Vecuronium), effectively sequestering them from the plasma.",
-        "pdfPage": 27,
-        "isCorrect": true
-      },
-      {
-        "text": "Stimulating Nicotinic receptors directly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Releasing Calcium from SR",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking Muscarinic receptors",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Sugammadex is specific for Steroidal NMBAs (Roc/Vec). It does NOT work for Succinylcholine or Atracurium.",
-    "pdfPage": 27
-  },
-  {
-    "id": 7,
-    "category": "Genetic Polymorphism",
-    "questionText": "A healthy 25-year-old male undergoes a brief procedure requiring intubation. He receives a standard dose of Succinylcholine. Instead of recovering in 5-10 minutes, he remains paralyzed and apneic for 4 hours. This patient likely has a genetic defect in:",
-    "options": [
-      {
-        "text": "Acetylcholinesterase",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pseudocholinesterase (Plasma Cholinesterase)",
-        "explanation": "Correct. Succinylcholine is rapidly metabolized by Plasma Cholinesterase. Patients with atypical BCHE genes cannot metabolize it, leading to very prolonged paralysis.",
-        "pdfPage": 28,
-        "isCorrect": true
-      },
-      {
-        "text": "Ryanodine Receptor",
-        "explanation": "Incorrect (Malignant Hyperthermia)."
-      },
-      {
-        "text": "Cytochrome P450 3A4",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Voltage-gated Sodium Channels",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Prolonged apnea with Succinylcholine -> Suspect Pseudocholinesterase deficiency. Treat with supportive ventilation.",
-    "pdfPage": 28
-  },
-  {
-    "id": 8,
-    "category": "Elimination Pathways",
-    "questionText": "A patient with multi-organ failure (Renal and Hepatic failure) requires a neuromuscular blocker for mechanical ventilation. Cisatracurium is chosen because its elimination is unique. It is cleared by:",
-    "options": [
-      {
-        "text": "Renal Excretion only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hepatic Metabolism only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hoffman Elimination",
-        "explanation": "Correct. Spontaneous degradation in plasma dependent on pH and temperature. Independent of organ function.",
-        "isCorrect": true
-      },
-      {
-        "text": "Plasma Cholinesterase",
-        "explanation": "Incorrect (Succinylcholine / Mivacurium)."
-      },
-      {
-        "text": "Biliary Excretion",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Cisatracurium is the drug of choice for organ failure patients because it relies on Hoffman Elimination (Organ-independent).",
-    "pdfPage": 35
-  },
-  {
-    "id": 9,
-    "category": "Succinylcholine Mechanism",
-    "questionText": "Shortly after Succinylcholine administration, the anesthesiologist observes fine muscle twitching over the patient's chest and arms before paralysis sets in. This phenomenon is called:",
-    "options": [
-      {
-        "text": "Tetany",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fasciculations",
-        "explanation": "Correct. The initial depolarization opens channels, causing transient muscle contractions (fasciculations) before the membrane becomes unresponsive (paralysis).",
-        "isCorrect": true
-      },
-      {
-        "text": "Clonus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rigidity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spasticity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Fasciculations cause post-operative muscle pain (myalgia).",
-    "pdfPage": 23
-  },
-  {
-    "id": 10,
-    "category": "Ganglionic Block Effects",
-    "questionText": "A smoker is trying to quit and is prescribed Mecamylamine (hypothetical, as rarely used). He complains of difficulty reading his newspaper and significant constipation. These side effects occur because:",
-    "options": [
-      {
-        "text": "Sympathetic tone to the eye and gut is blocked",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parasympathetic tone is dominant in the eye and gut, and it is blocked",
-        "explanation": "Correct. At rest, Parasympathetic tone dominates the iris/ciliary muscle (vision) and GI tract (motility). Blocking ganglia removes this dominant tone -> Cycloplegia/Mydriasis and Constipation.",
-        "pdfPage": 11,
-        "isCorrect": true
-      },
-      {
-        "text": "Adrenal medulla release of epinephrine is increased",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nicotinic receptors are stimulated",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It has strong antihistamine effects",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "To predict ganglionic blocker effects: Know the dominant tone, then remove it. (Heart = Tachycardia, Gut = Constipation, Vessels = Vasodilation).",
-    "pdfPage": 11
-  },
-  {
-    "id": 11,
-    "category": "Reversal Complications",
-    "questionText": "Neostigmine is administered to reverse Rocuronium blockade. However, the anesthesiologist fails to co-administer Glycopyrrolate. What adverse effect is the patient most likely to experience?",
-    "options": [
-      {
-        "text": "Tachycardia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bradycardia",
-        "explanation": "Correct. Neostigmine increases ACh at ALL muscarinic synapses too (heart -> Vagus -> Bradycardia). Glycopyrrolate blocks this side effect.",
-        "isCorrect": true
+        "text": "Excessive sweating",
+        "explanation": "Incorrect. Causes Anhidrosis.",
+        "isCorrect": false
       },
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dry mouth",
-        "explanation": "Incorrect. Would cause salivation."
-      },
-      {
-        "text": "Mydriasis",
-        "explanation": "Incorrect. Would cause meiosis."
+        "text": "Miosis",
+        "explanation": "Incorrect. Causes Mydriasis.",
+        "isCorrect": false
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Always pair Neostigmine with an Antimuscarinic (Glycopyrrolate or Atropine) to prevent cholinergic side effects.",
-    "pdfPage": 26
+    "clinicalPearl": "Key takeaway: Ganglion blockers = Fainting (Orthostasis).",
+    "pdfPage": 38
   },
   {
-    "id": 12,
-    "category": "CNS Toxicity",
-    "questionText": "A patient in the ICU is on a continuous infusion of Atracurium for several days. He develops seizures despite no prior history. The accumulation of which metabolite is responsible?",
+    "id": 5,
+    "category": "Succinylcholine Mechanism",
+    "questionText": "Succinylcholine acts as a:",
     "options": [
       {
-        "text": "Succinylmonocholine",
+        "text": "Competitive antagonist",
         "explanation": "Incorrect."
       },
       {
-        "text": "Laudanosine",
-        "explanation": "Correct. Metabolite of Atracurium via Hoffman elimination. It crosses BBB and lowers seizure threshold (CNS excitation).",
-        "pdfPage": 35,
+        "text": "Depolarizing neuromuscular blocker",
+        "explanation": "Correct. Activates the receptor first, then keeps it open/desensitized.",
         "isCorrect": true
       },
       {
-        "text": "Choline",
+        "text": "Acetylcholinesterase inhibitor",
         "explanation": "Incorrect."
       },
       {
-        "text": "Acetate",
+        "text": "Ganglionic blocker",
         "explanation": "Incorrect."
       },
       {
-        "text": "Histamine",
+        "text": "Calcium channel blocker",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Laudanosine accumulation is a specific risk with prolonged Atracurium infusions.",
-    "pdfPage": 35
-  },
-  {
-    "id": 13,
-    "category": "Eye Surgery Vignette",
-    "questionText": "During eye surgery, Succinylcholine is contraindicated for a patient with an open globe injury. The rationale is that Succinylcholine:",
-    "options": [
-      {
-        "text": "Lowers intraocular pressure causing collapse",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increases intraocular pressure via extraocular muscle contraction",
-        "explanation": "Correct. Fasciculations of eye muscles squeeze the globe, potentially extruding vitreous humor in an open injury.",
-        "isCorrect": true
-      },
-      {
-        "text": "Causes clouding of the cornea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dilates the pupil excessively",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Causes retinal bleeding",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Suks Squeezes. Do not use in 'Open Globe'.",
-    "pdfPage": 31
-  },
-  {
-    "id": 14,
-    "category": "Rapid Review: Classification",
-    "questionText": "Vecuronium is classified as:",
-    "options": [
-      {
-        "text": "Depolarizing NMBA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Aminosteroid Non-depolarizing NMBA",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Isoquinoline Non-depolarizing NMBA",
-        "explanation": "Incorrect (Atracurium)."
-      },
-      {
-        "text": "Ganglionic Blocker",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cholinesterase Inhibitor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Rocuronium and Vecuronium are 'Steroids' (contain steroid ring). Reversible by Sugammadex.",
-    "pdfPage": 20
-  },
-  {
-    "id": 15,
-    "category": "Rapid Review: Mechanism",
-    "questionText": "Phase I block with Succinylcholine is characterized by:",
-    "options": [
-      {
-        "text": "Rapid recovery with Edrophonium",
-        "explanation": "Incorrect. Potentiated by anticholinesterases."
-      },
-      {
-        "text": "Fade on train-of-four stimulation",
-        "explanation": "Incorrect. Fade is Phase II or Non-depolarizing."
-      },
-      {
-        "text": "Constant but diminished response to stimulation",
-        "explanation": "Correct. No fade. Block is constant.",
-        "pdfPage": 24,
-        "isCorrect": true
-      },
-      {
-        "text": "Post-tetanic facilitation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyperpolarization",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Phase I = Depolarizing = No Fade. Phase II = Desensitized = Fade (like non-depolarizers).",
+    "clinicalPearl": "Key takeaway: Succinylcholine = Depolarizing (Twitch first, then paralyze).",
     "pdfPage": 24
   },
   {
-    "id": 16,
-    "category": "Rapid Review: Heart",
-    "questionText": "The dominant autonomic tone to the heart is:",
+    "id": 6,
+    "category": "Fasciculations",
+    "questionText": "The initial administration of Succinylcholine often causes transient muscle fasciculations because:",
     "options": [
       {
-        "text": "Sympathetic",
+        "text": "It blocks sodium channels",
         "explanation": "Incorrect."
       },
       {
-        "text": "Parasympathetic (Vagal)",
-        "explanation": "Correct. Therefore, blocking ganglia (removing vagal tone) causes Tachycardia.",
-        "pdfPage": 11,
-        "isCorrect": true
-      },
-      {
-        "text": "Dopaminergic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "None",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Equal",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine or Ganglionic Blockers -> Tachycardia.",
-    "pdfPage": 11
-  },
-  {
-    "id": 17,
-    "category": "Rapid Review: Blood Pressure",
-    "questionText": "The dominant autonomic tone to the arterioles/veins is:",
-    "options": [
-      {
-        "text": "Parasympathetic",
-        "explanation": "Incorrect. Parasympathetic has almost no innervation of vasculature."
-      },
-      {
-        "text": "Sympathetic",
-        "explanation": "Correct. Therefore, blocking ganglia removes this constriction tone -> Vasodilation -> Hypotension.",
-        "pdfPage": 11,
-        "isCorrect": true
-      },
-      {
-        "text": "Somatic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Enteric",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neutral",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Vasculature is the EXCEPTION where Sympathetic tone dominates at rest.",
-    "pdfPage": 11
-  },
-  {
-    "id": 18,
-    "category": "Vignette: Bradycardia",
-    "questionText": "A child receives a second dose of Succinylcholine within 5 minutes of the first. He develops severe bradycardia. This is due to:",
-    "options": [
-      {
-        "text": "Succinylcholine stimulating ganglionic nicotinic receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Succinylmonocholine stimulating cardiac muscarinic receptors",
-        "explanation": "Correct. The metabolite sensitizes the heart's M2 receptors. Common in peds or repeat dosing.",
-        "pdfPage": 30,
-        "isCorrect": true
-      },
-      {
-        "text": "Hyperkalemia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Histamine release",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Direct myocardial depression",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Succinylcholine mimics ACh, so it can stimulate M2 receptors causing bradycardia.",
-    "pdfPage": 30
-  },
-  {
-    "id": 19,
-    "category": "Rapid Review: Metabolism",
-    "questionText": "Rocuronium is primarily eliminated by:",
-    "options": [
-      {
-        "text": "Hoffman degredation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hepatic metabolism and Biliary excretion",
-        "explanation": "Correct. Liver failure prolongs its effect.",
-        "pdfPage": 34,
-        "isCorrect": true
-      },
-      {
-        "text": "Renal excretion unchanged",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Plasma cholinesterases",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lungs",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Roc = Liver. Cisatracurium = Hoffman. Pancuronium = Kidney.",
-    "pdfPage": 34
-  },
-  {
-    "id": 20,
-    "category": "Vignette: RSI",
-    "questionText": "For Rapid Sequence Intubation (RSI) to prevent aspiration, which agent provides the fastest onset of paralysis?",
-    "options": [
-      {
-        "text": "Pancuronium",
-        "explanation": "Incorrect. Slow."
-      },
-      {
-        "text": "Cisatracurium",
-        "explanation": "Incorrect. Slow."
-      },
-      {
-        "text": "Succinylcholine",
-        "explanation": "Correct. Fastest onset (30-60s) and shortest duration.",
-        "pdfPage": 29,
-        "isCorrect": true
-      },
-      {
-        "text": "Vecuronium",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Atracurium",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Succinylcholine is the gold standard for RSI unless contraindicated.",
-    "pdfPage": 29
-  },
-  {
-    "id": 21,
-    "category": "Rapid Review: Structure",
-    "questionText": "Succinylcholine is essentially two molecules of _____ joined together.",
-    "options": [
-      {
-        "text": "Nicotine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Correct. That's why it binds ACh receptors so well.",
-        "pdfPage": 23,
-        "isCorrect": true
-      },
-      {
-        "text": "Atropine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glycine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Epinephrine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Di-Acetylcholine = Succinylcholine.",
-    "pdfPage": 23
-  },
-  {
-    "id": 22,
-    "category": "Rapid Review: Order of paralysis",
-    "questionText": "Which muscles are paralyzed LAST by NMBAs?",
-    "options": [
-      {
-        "text": "Eye muscles",
-        "explanation": "Incorrect. First."
-      },
-      {
-        "text": "Fingers",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diaphragm",
-        "explanation": "Correct. Respiratory muscles are the last to go and the first to return.",
-        "pdfPage": 21,
-        "isCorrect": true
-      },
-      {
-        "text": "Face",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neck",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Small rapid muscles (eye) paralyze first. Large/Important muscles (Diaphragm) paralyze last.",
-    "pdfPage": 21
-  },
-  {
-    "id": 23,
-    "category": "Vignette: ICU",
-    "questionText": "An ICU patient with kidney failure needs paralysis for ventilation. Vecuronium is avoided because:",
-    "options": [
-      {
-        "text": "It causes seizures",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Its active metabolite accumulates in renal failure",
-        "explanation": "Correct. Vecuronium has some renal excretion and active metabolites. Cisatracurium is safer.",
-        "pdfPage": 34,
+        "text": "It initially activates nicotinic receptors causing depolarization",
+        "explanation": "Correct. It's an agonist first!",
         "isCorrect": true
       },
       {
@@ -714,310 +177,177 @@ window.Test_L22 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "It causes hyperkalemia",
+        "text": "It stimulates CNS motor centers",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is too short acting",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Vecuronium and Rocuronium duration is prolonged in renal/hepatic failure.",
-    "pdfPage": 34
-  },
-  {
-    "id": 24,
-    "category": "Rapid Review: Pain",
-    "questionText": "Do Neuromuscular Blockers provide analgesia (pain relief)?",
-    "options": [
-      {
-        "text": "Yes, strong analgesia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No",
-        "explanation": "Correct. THE PATIENT IS AWAKE AND PARALYZED if you don't give anesthesia/sedation.",
-        "pdfPage": 21,
-        "isCorrect": true
-      },
-      {
-        "text": "Only Succinylcholine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only at high doses",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Yes, via ganglionic block",
+        "text": "It releases calcium",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Paralysis is NOT Anesthesia. NEVER forget sedation.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: SCh -> Twitch -> Flaccid.",
+    "pdfPage": 44
   },
   {
-    "id": 25,
-    "category": "Rapid Review: Ganglion",
-    "questionText": "Which receptor is found at the Autonomic Ganglia?",
+    "id": 7,
+    "category": "Malignant Hyperthermia",
+    "questionText": "Succinylcholine can trigger Malignant Hyperthermia, especially in patients with undiagnosed myopathies. This condition is treated with:",
     "options": [
       {
-        "text": "Muscarinic",
+        "text": "Atropine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nicotinic Neuronal (Nn)",
-        "explanation": "Correct.",
-        "pdfPage": 6,
+        "text": "Dantrolene",
+        "explanation": "Correct. RyR1 blocker, stops calcium release.",
         "isCorrect": true
       },
       {
-        "text": "Nicotinic Muscle (Nm)",
+        "text": "Naloxone",
         "explanation": "Incorrect."
       },
       {
-        "text": "Alpha 1",
+        "text": "Physostigmine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Beta 1",
+        "text": "Sugammadex",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Nn = Nerve/Ganglia. Nm = Muscle/NMJ.",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: Hot + Rigid after SCh = Dantrolene STAT.",
+    "pdfPage": 32
   },
   {
-    "id": 26,
-    "category": "Rapid Review: Antidote Mechanism",
-    "questionText": "Neostigmine reverses Rocuronium by:",
+    "id": 8,
+    "category": "Metabolism",
+    "questionText": "Succinylcholine is rapidly metabolized by:",
     "options": [
       {
-        "text": "Direct binding",
+        "text": "Acetylcholinesterase (AChE) at the synapse",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increasing ACh to out-compete the blocker",
-        "explanation": "Correct.",
-        "pdfPage": 25,
+        "text": "Plasma Cholinesterase (Pseudocholinesterase / Butyrylcholinesterase)",
+        "explanation": "Correct. Deficiency leads to prolonged apnea.",
         "isCorrect": true
       },
       {
-        "text": "Blocking Acetylcholinesterase at the ganglia",
+        "text": "Liver CYP450 enzymes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Metabolizing the blocker",
+        "text": "Kidney filtration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increasing Ca2+ release",
+        "text": "COMT",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Competition: Agonist (ACh) vs Antagonist (NMBA). More ACh wins.",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Psuedocholinesterase deficiency = SCh lasts hours instead of minutes.",
+    "pdfPage": 30
   },
   {
-    "id": 27,
-    "category": "Rapid Review: Phase II Block",
-    "questionText": "Phase II block with Succinylcholine behaves like:",
+    "id": 9,
+    "category": "Hyperkalemia",
+    "questionText": "Succinylcholine is contraindicated in patients with major burns, trauma, or nerve injury because it can cause severe:",
     "options": [
       {
-        "text": "Normal physiology",
+        "text": "Hypokalemia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Non-depolarizing block",
-        "explanation": "Correct. The receptor desensitizes and starts to fade.",
-        "pdfPage": 24,
+        "text": "Hyperkalemia",
+        "explanation": "Correct. Massive K+ efflux from upregulated extrajunctional receptors.",
         "isCorrect": true
       },
       {
-        "text": "Permanent paralysis",
+        "text": "Hypernatremia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ganglionic block",
+        "text": "Hyponatremia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tetany",
+        "text": "Hypocalcemia",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Overdose or prolonged Succinylcholine infusion converts Phase I -> Phase II.",
-    "pdfPage": 24
+    "clinicalPearl": "Key takeaway: Burns/Trauma + SCh = Cardiac Arrest (High K+).",
+    "pdfPage": 37
   },
   {
-    "id": 28,
-    "category": "Vignette: Gastric",
-    "questionText": "A patient with pyloric stenosis is given a ganglionic blocker (hypothetically). Why is this contraindicated?",
+    "id": 10,
+    "category": "Atracurium Metabolism",
+    "questionText": "Atracurium is degraded spontaneously in the plasma by a process known as:",
     "options": [
       {
-        "text": "It causes diarrhea",
+        "text": "Hepatic conjugation",
         "explanation": "Incorrect."
       },
       {
-        "text": "It reduces gastric motility, worsening stasis",
-        "explanation": "Correct. Blocking the dominant parasympathetic tone stops the gut.",
-        "pdfPage": 13,
+        "text": "Hofmann elimination",
+        "explanation": "Correct. pH and temperature dependent breakdown.",
         "isCorrect": true
       },
       {
-        "text": "It causes acid hypersecretion",
+        "text": "Renal filtration",
         "explanation": "Incorrect."
       },
       {
-        "text": "It causes vomiting",
+        "text": "Oxidation",
         "explanation": "Incorrect."
       },
       {
-        "text": "It causes ulcers",
+        "text": "Acetylation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Ganglionic blockers = Ileus/Constipation risk.",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: Hofmann elimination = Safe for Kidney/Liver failure.",
+    "pdfPage": 39
   },
   {
-    "id": 29,
-    "category": "Rapid Review: Sweat",
-    "questionText": "Ganglionic blockers cause Anhydrosis (dry skin) because:",
+    "id": 11,
+    "category": "Laudanosine",
+    "questionText": "A metabolic byproduct of Atracurium that can cause seizures in high concentrations is:",
     "options": [
       {
-        "text": "Sweat glands are parasympathetic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sweat glands are Sympathetic Cholinergic",
-        "explanation": "Correct. They are sympathetic, but the postganglionic fiber releases ACh. The Ganglion uses ACh/Nn like all others, so it is blocked.",
-        "pdfPage": 11,
+        "text": "Laudanosine",
+        "explanation": "Correct. CNS stimulant.",
         "isCorrect": true
       },
       {
-        "text": "They block muscarinic receptors directly",
+        "text": "Succinylmonocholine",
         "explanation": "Incorrect."
       },
       {
-        "text": "They block Alpha 1",
+        "text": "Methylxanthine",
         "explanation": "Incorrect."
       },
       {
-        "text": "They cause vasoconstriction",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Sweat glands: Sympathetic pathway, Cholinergic Neurotransmitter.",
-    "pdfPage": 11
-  },
-  {
-    "id": 30,
-    "category": "Rapid Review: Pregnancy",
-    "questionText": "Do quaternary NMBAs cross the placenta efficiently?",
-    "options": [
-      {
-        "text": "Yes",
+        "text": "Glycine",
         "explanation": "Incorrect."
       },
       {
-        "text": "No",
-        "explanation": "Correct. They are highly charged (Quaternary), so fetal exposure is minimal.",
-        "pdfPage": 36,
-        "isCorrect": true
-      },
-      {
-        "text": "Only in first trimester",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only lipid soluble ones",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They are actively transported",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Safe for C-section because the baby doesn't get paralyzed.",
-    "pdfPage": 36
-  },
-  {
-    "id": 31,
-    "category": "Vignette: Comparison",
-    "questionText": "Compare Mecamylamine and Tubocurarine. Mecamylamine is:",
-    "options": [
-      {
-        "text": "Absorbed orally",
-        "explanation": "Correct. Mecamylamine is a tertiary amine (crosses membranes). Curare derivatives are quaternary (no oral absorption).",
-        "pdfPage": 7,
-        "isCorrect": true
-      },
-      {
-        "text": "Used for muscle paralysis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only given IV",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A depolarizing blocker",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Safe in glaucoma",
+        "text": "Tyramine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Mecamylamine enters the CNS (dizziness/confusion). Quaternary blockers do not.",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Laudanosine lowers seizure threshold.",
+    "pdfPage": 36
   },
   {
-    "id": 32,
-    "category": "Rapid Review: Eye Pressure",
-    "questionText": "Succinylcholine transiently ____ intraocular pressure.",
-    "options": [
-      {
-        "text": "Decreases",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increases",
-        "explanation": "Correct. Due to muscle contraction.",
-        "pdfPage": 31,
-        "isCorrect": true
-      },
-      {
-        "text": "Has no effect on",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Eliminates",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stabilizes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Beware Succinylcholine in glaucoma or eye trauma.",
-    "pdfPage": 31
-  },
-  {
-    "id": 33,
-    "category": "Rapid Review: Histamine",
-    "questionText": "Which agent releases the MOST histamine?",
+    "id": 12,
+    "category": "Histamine Release",
+    "questionText": "Which neuromuscular blocker is most associated with histamine release, causing flushing and hypotension?",
     "options": [
       {
         "text": "Vecuronium",
@@ -1028,60 +358,308 @@ window.Test_L22 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Cisatracurium",
-        "explanation": "Incorrect."
+        "text": "Atracurium",
+        "explanation": "Correct. Cisatracurium has less/none.",
+        "isCorrect": true
       },
       {
-        "text": "Tubocurarine / Atracurium",
-        "explanation": "Correct. The older benzylisoquinolines are histamine releasers.",
-        "pdfPage": 34,
-        "isCorrect": true
+        "text": "Cisatracurium",
+        "explanation": "Incorrect. Better profile.",
+        "isCorrect": false
       },
       {
         "text": "Pancuronium",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Histamine = Bronchospasm + Hypotension + Flushing.",
-    "pdfPage": 34
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Atracurium -> Histaming release.",
+    "pdfPage": 35
   },
   {
-    "id": 34,
-    "category": "Clinical: Difficult Airway",
-    "questionText": "If a patient has a known 'difficult airway' (hard to intubate), Succinylcholine is often used because:",
+    "id": 13,
+    "category": "Rocuronium Onset",
+    "questionText": "Rocuronium is often used as an alternative to Succinylcholine for Rapid Sequence Intubation (RSI) because:",
     "options": [
       {
-        "text": "It keeps them breathing",
+        "text": "It has an extremely long duration",
         "explanation": "Incorrect."
       },
       {
-        "text": "It wears off quickly if intubation fails",
-        "explanation": "Correct. If you can't get the tube in, you want the patient to wake up and breathe on their own ASAP. Long acting blockers would be disastrous (Can't intubate, can't ventilate).",
-        "pdfPage": 29,
+        "text": "It has a rapid onset of action (1-2 mins)",
+        "explanation": "Correct. Fastest of the non-depolarizers.",
         "isCorrect": true
       },
       {
-        "text": "It reduces secretions",
+        "text": "It can be given orally",
         "explanation": "Incorrect."
       },
       {
-        "text": "It prevents vomiting",
+        "text": "It releases histamine",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is an anesthetic",
+        "text": "It is a depolarizing blocker",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Spontaneous breathing returns rapidly with Suks.",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: Rocuronium = Rocket onset.",
+    "pdfPage": 37
   },
   {
-    "id": 35,
-    "category": "Rapid Review: Bladder",
-    "questionText": "Ganglionic blockade affects the urinary bladder by causing:",
+    "id": 14,
+    "category": "Reversal Agents",
+    "questionText": "Neostigmine reverses the action of non-depolarizing NMBAs by:",
+    "options": [
+      {
+        "text": "Inhibiting Acetylcholinesterase, increasing ACh levels to outcompete the blocker",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking Acetylcholine release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Directly binding to the NMBA",
+        "explanation": "Incorrect. That's Sugammadex.",
+        "isCorrect": false
+      },
+      {
+        "text": "Blocking potassium channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulating the muscle directly",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Neostigmine floods the synapse with ACh.",
+    "pdfPage": 3
+  },
+  {
+    "id": 15,
+    "category": "Sugammadex Mechanism",
+    "questionText": "Sugammadex acts by:",
+    "options": [
+      {
+        "text": "Inhibiting Acetylcholinesterase",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Encapsulating aminosteroid NMBAs (Rocuronium/Vecuronium) in plasma",
+        "explanation": "Correct. Selective Relaxant Binding Agent (SRBA).",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking nicotinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Stimulating muscarinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Degrading Succinylcholine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sugammadex = Sugar pill that eats Rocuronium.",
+    "pdfPage": 40
+  },
+  {
+    "id": 16,
+    "category": "Sugammadex Selectivity",
+    "questionText": "Sugammadex is effective against which class of NMBAs?",
+    "options": [
+      {
+        "text": "Benzylisoquinolines (Atracurium)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aminosteroids (Rocuronium/Vecuronium)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Depolarizing blockers (Succinylcholine)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ganglionic blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "All NMBAs",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Sugammadex only works on the 'roniums' (Steroids).",
+    "pdfPage": 35
+  },
+  {
+    "id": 17,
+    "category": "Adjuvant for Reversal",
+    "questionText": "When using Neostigmine to reverse neuromuscular blockade, it must be co-administered with Atropine or Glycopyrrolate to:",
+    "options": [
+      {
+        "text": "Prevent Bradycardia and excessive secretions (Muscarinic effects)",
+        "explanation": "Correct. Neostigmine increases ACh everywhere, including the heart/gut.",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhance the neuromuscular block",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prevent seizures",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reduce pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Speed up metabolism",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Always give an antimuscarinic with an AChE inhibitor.",
+    "pdfPage": 27
+  },
+  {
+    "id": 18,
+    "category": "Cisatracurium advantage",
+    "questionText": "Which non-depolarizing NMBA is preferred in patients with multi-organ failure (Renal/Hepatic dysfunction) due to its organ-independent elimination?",
+    "options": [
+      {
+        "text": "Pancuronium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vecuronium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cisatracurium",
+        "explanation": "Correct. Hofmann elimination works even in a dead body (dependent only on pH/Temp).",
+        "isCorrect": true
+      },
+      {
+        "text": "Rocuronium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Succinylcholine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Cisatracurium for the sickest kidneys.",
+    "pdfPage": 35
+  },
+  {
+    "id": 19,
+    "category": "Vecuronium Elimination",
+    "questionText": "Vecuronium's duration of action may be prolonged in patients with:",
+    "options": [
+      {
+        "text": "Asthma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Renal or Hepatic impairment",
+        "explanation": "Correct. Relies on bile/urine excretion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diabetes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vecuronium needs organs to clear.",
+    "pdfPage": 35
+  },
+  {
+    "id": 20,
+    "category": "Myasthenia Gravis",
+    "questionText": "Patients with Myasthenia Gravis are:",
+    "options": [
+      {
+        "text": "Resistant to non-depolarizing NMBAs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Highly sensitive to non-depolarizing NMBAs (require much lower doses)",
+        "explanation": "Correct. They have fewer functional receptors to block.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cannot be intubated",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Are allergic to NMBAs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Requrie higher doses",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: MG patients block easily.",
+    "pdfPage": 40
+  },
+  {
+    "id": 21,
+    "category": "Succinylcholine Reversal",
+    "questionText": "Can Succinylcholine blockade be reversed by Neostigmine during Phase I block?",
+    "options": [
+      {
+        "text": "Yes, it speeds up recovery",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No, it may potentiate (worsen) the block",
+        "explanation": "Correct. More ACh = More Depolarization.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only if given with Atropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only in children",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Yes, always",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Don't give Neostigmine for Phase 1 SCh block.",
+    "pdfPage": 31
+  },
+  {
+    "id": 22,
+    "category": "Ganglion Block Bladder",
+    "questionText": "In a male with BPH, administration of Mecamylamine is likely to cause:",
     "options": [
       {
         "text": "Incontinence",
@@ -1089,25 +667,428 @@ window.Test_L22 = [
       },
       {
         "text": "Urinary Retention",
-        "explanation": "Correct. Blocks parasympathetic contraction of the detrusor.",
-        "pdfPage": 11,
+        "explanation": "Correct. Loss of parasympathetic tone (bladder contraction).",
         "isCorrect": true
       },
       {
-        "text": "Spasms",
+        "text": "Polyuria",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pain",
+        "text": "Hematuria",
         "explanation": "Incorrect."
       },
       {
-        "text": "Infection",
+        "text": "Prostatitis",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Urinary retention is a common anticholinergic/ganglionic blocker side effect.",
+    "clinicalPearl": "Key takeaway: Ganglion blockers stop the flow.",
+    "pdfPage": 16
+  },
+  {
+    "id": 23,
+    "category": "Ganglion Block Eye",
+    "questionText": "Mecamylamine effects on the eye include:",
+    "options": [
+      {
+        "text": "Miosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mydriasis and Cycloplegia",
+        "explanation": "Correct. Blocks Para tone to iris sphincter and ciliary muscle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased accommodation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nystagmus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Improved near vision",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Blurry vision is common with ganglionic blockers.",
+    "pdfPage": 9
+  },
+  {
+    "id": 24,
+    "category": "Ganglion Block Saliva",
+    "questionText": "The effect of ganglionic blockade on salivary glands is:",
+    "options": [
+      {
+        "text": "Drooling",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Xerostomia (Dry mouth)",
+        "explanation": "Correct. Para tone blocked.",
+        "isCorrect": true
+      },
+      {
+        "text": "No change",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased protein secretion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Foaming",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dry mouth is a classic anticholinergic/ganglion block sign.",
+    "pdfPage": 16
+  },
+  {
+    "id": 25,
+    "category": "SCh Gastric Pressure",
+    "questionText": "Succinylcholine can increase intragastric pressure, increasing the risk of:",
+    "options": [
+      {
+        "text": "Ulcers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aspiration",
+        "explanation": "Correct. Squeeze the stomach -> Vomit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gastroparesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hunger",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fasciculations squeeze the stomach.",
+    "pdfPage": 24
+  },
+  {
+    "id": 26,
+    "category": "SCh Bradycardia",
+    "questionText": "Succinylcholine can cause bradycardia, particularly in children or with repeated doses, due to:",
+    "options": [
+      {
+        "text": "Stimulation of cardiac muscarinic receptors (by Succinylmonocholine)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blockade of sympathetic ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Central depression",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Histamine release",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypercalcemia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: SCh isn't perfectly selective for Nicotinic; it tickles Muscarinic too.",
+    "pdfPage": 32
+  },
+  {
+    "id": 27,
+    "category": "Antibiotic Interaction",
+    "questionText": "Which antibiotics act synergistically with NMBAs to prolong paralysis?",
+    "options": [
+      {
+        "text": "Penicillins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aminoglycosides (e.g., Gentamicin)",
+        "explanation": "Correct. They reduce ACh release/sensitivity.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cephalosporins",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sulfonamides",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Macrolides",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Gentamicin + Rocuronium = Weakness.",
+    "pdfPage": 28
+  },
+  {
+    "id": 28,
+    "category": "Chemical Structure",
+    "questionText": "Succinylcholine is chemically composed of:",
+    "options": [
+      {
+        "text": "One Acetylcholine molecule",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Two Acetylcholine molecules linked together",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "A steroid nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "An isoquinoline ring",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A catecholamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Double ACh = Depolarizing blockade.",
+    "pdfPage": 36
+  },
+  {
+    "id": 29,
+    "category": "Anesthesia Sparing",
+    "questionText": "A clinical benefit of using NMBAs during surgery is:",
+    "options": [
+      {
+        "text": "They provide analgesia (Pain relief)",
+        "explanation": "Incorrect. THEY DO NOT."
+      },
+      {
+        "text": "They allow for lighter levels of anesthesia while ensuring immobility",
+        "explanation": "Correct. Don't need deep anesthesia just to stop movement.",
+        "isCorrect": true
+      },
+      {
+        "text": "They cause amnesia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They maintain blood pressure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They prevent infection",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: NMBAs paralyze, they do not sedate. AWARENESS RISK.",
+    "pdfPage": 10
+  },
+  {
+    "id": 30,
+    "category": "IOP",
+    "questionText": "Succinylcholine should be avoided in 'open globe' eye injuries because:",
+    "options": [
+      {
+        "text": "It causes miosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It transiently increases intraocular pressure",
+        "explanation": "Correct. Can extrude eye contents.",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes retinal detachment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes cataracts",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Don't squeeze a popped eyeball.",
+    "pdfPage": 32
+  },
+  {
+    "id": 31,
+    "category": "Mecamylamine Class",
+    "questionText": "Mecamylamine acts as a:",
+    "options": [
+      {
+        "text": "Channel blocker (Non-competitive antagonist)",
+        "explanation": "Correct. 'Channel plug'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Competitive antagonist",
+        "explanation": "Incorrect. Often described as non-competitive/allosteric or channel blocker.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibitor of reuptake",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "False transmitter",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: It plugs the pore.",
+    "pdfPage": 24
+  },
+  {
+    "id": 32,
+    "category": "Train of Four",
+    "questionText": "Neuromuscular blockade is monitored using a:",
+    "options": [
+      {
+        "text": "EEG",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral Nerve Stimulator (Train of Four)",
+        "explanation": "Correct. 4 twitches = Recovered. 0 twitches = Paralyzed.",
+        "isCorrect": true
+      },
+      {
+        "text": "ECG",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pulse oximeter",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blood pressure cuff",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: TOF monitoring ensures safety.",
+    "pdfPage": 30
+  },
+  {
+    "id": 33,
+    "category": "Pyloric Stenosis",
+    "questionText": "Mecamylamine is contraindicated in Pyloric Stenosis because:",
+    "options": [
+      {
+        "text": "It causes diarrhea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It reduces GI motility, causing gastric stasis",
+        "explanation": "Correct. Worsens the blockage.",
+        "isCorrect": true
+      },
+      {
+        "text": "It increases acid secretion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes vomiting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes ulceration",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Don't slow a blocked gut.",
+    "pdfPage": 34
+  },
+  {
+    "id": 34,
+    "category": "Blood Brain Barrier",
+    "questionText": "Does Mecamylamine cross the Blood-Brain Barrier?",
+    "options": [
+      {
+        "text": "No, it is charged",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Yes, it is lipophilic and uncharged",
+        "explanation": "Correct. Causes CNS effects (Tremors, confusion).",
+        "isCorrect": true
+      },
+      {
+        "text": "Only in inflammation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only with alcohol",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is not known",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mecamylamine = CNS entry.",
+    "pdfPage": 14
+  },
+  {
+    "id": 35,
+    "category": "Sugammadex Contraception",
+    "questionText": "Sugammadex can interfere with:",
+    "options": [
+      {
+        "text": "Insulin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hormonal Contraceptives",
+        "explanation": "Correct. Can encapsulate the steroid hormones, reducing efficacy.",
+        "isCorrect": true
+      },
+      {
+        "text": "Antibiotics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blood thinners",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Antidepressants",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Warn patients about backup contraception.",
     "pdfPage": 11
   }
 ];

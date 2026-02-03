@@ -1,39 +1,442 @@
 window.Test_L1a = [
   {
     "id": 1,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 25-year-old male presents to the clinic with acute low back pain after attempting a deadlift at the gym. He reports pain radiating into his right buttock but denies shooting leg pain. Structural examination reveals a positive Standing Flexion Test on the right. The right ASIS is inferior compared to the left, and the right PSIS is superior compared to the left. The pubic tubercles are level, and leg length appears longer on the right. Which of the following is the most likely diagnosis?",
+    "category": "Structure: Bones",
+    "questionText": "A 23-year-old male presents to the clinic for a routine physical. He denies any musculoskeletal complaints. While discussing the anatomy of the hip, the physician explains the developmental fusion of the pelvic bones. Which of the following anatomical landmarks represents the convergence point of the ilium, ischium, and pubis?",
     "options": [
       {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Anterior rotation is characterized by an inferior ASIS, superior PSIS, and functional long leg on the ipsilateral side.",
+        "text": "Obturator Foramen",
+        "explanation": "Incorrect. This is formed by the ischium and pubis."
+      },
+      {
+        "text": "Acetabulum",
+        "explanation": "Correct. The ilium, ischium, and pubis fuse at the acetabulum to form the hip socket.",
         "isCorrect": true
       },
       {
-        "text": "Right Posterior Innominate Rotation",
-        "explanation": "Incorrect. Posterior rotation presents with a superior ASIS and inferior PSIS."
+        "text": "Ischial Tuberosity",
+        "explanation": "Incorrect. Part of the ischium."
       },
       {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Incorrect. The SFT lateralizes dysfunction to the right."
+        "text": "Sacroiliac Joint",
+        "explanation": "Incorrect. Junction of sacrum and ilium."
       },
       {
-        "text": "Right Superior Innominate Shear",
-        "explanation": "Incorrect. Upslip would show all landmarks superior (ASIS and PSIS)."
-      },
-      {
-        "text": "Right Inflare",
-        "explanation": "Incorrect. Inflare concerns medial/lateral displacement of the ASIS."
+        "text": "Pubic Symphysis",
+        "explanation": "Incorrect. Junction of two pubic bones."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior Innominate Rotation: ASIS Low, PSIS High, Functional Long Leg.",
-    "pdfPage": 40
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The Acetabulum is the site where the ilium, ischium, and pubis fuse.",
+    "pdfPage": 4
   },
   {
     "id": 2,
-    "category": "OMM: Anatomy",
-    "questionText": "The innominate bone rotates anteriorly and posteriorly around which specific sacral axis during the gait cycle?",
+    "category": "Structure: Joints",
+    "questionText": "A 34-year-old female presents with lower back pain during her third trimester of pregnancy. She describes the pain as a dull ache in the posterior pelvis. The physician attributes her symptoms to hormonal changes affecting ligamentous laxity. Ideally, this laxity facilitates childbirth by allowing motion at which joint?",
+    "options": [
+      {
+        "text": "Lumbosacral Joint",
+        "explanation": "Incorrect. While involved, the primary 'opening' is at the SI and Pubic joints."
+      },
+      {
+        "text": "Hip Joint",
+        "explanation": "Incorrect. Ball and socket joint."
+      },
+      {
+        "text": "Sacroiliac Joint",
+        "explanation": "Correct. The SI joint (and pubic symphysis) becomes more lax due to relaxin, allowing the pelvis to adapt for delivery.",
+        "isCorrect": true
+      },
+      {
+        "text": "Knee Joint",
+        "explanation": "Incorrect. Irrelevant to childbirth mechanics."
+      },
+      {
+        "text": "Acetabular Joint",
+        "explanation": "Incorrect. Hip joint."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Hormonal changes (Relaxin) increase laxity at the Sacroiliac Joint to facilitate childbirth.",
+    "pdfPage": 39
+  },
+  {
+    "id": 3,
+    "category": "Structure: Muscles",
+    "questionText": "A 45-year-old male complains of chronic low back pain. Structural examination reveals tension in the posterior abdominal wall. The physician identifies a muscle that originates from the 12th rib and inserts onto the posterior iliac crest. This muscle is primarily responsible for which of the following actions?",
+    "options": [
+      {
+        "text": "Hip Flexion",
+        "explanation": "Incorrect. This describes the Iliopsoas."
+      },
+      {
+        "text": "Hip Extension",
+        "explanation": "Incorrect. This describes the Gluteus Maximus."
+      },
+      {
+        "text": "Ipsilateral Sidebending of the lumbar spine",
+        "explanation": "Correct. The Quadratus Lumborum (QL) sidebends the lumbar spine ipsilaterally and extends it.",
+        "isCorrect": true
+      },
+      {
+        "text": "Contralateral Rotation of the lumbar spine",
+        "explanation": "Incorrect. Not a primary action of QL."
+      },
+      {
+        "text": "Knee Extension",
+        "explanation": "Incorrect. Quadriceps."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: The Quadratus Lumborum (QL) acts to sidebend the lumbar spine ipsilaterally.",
+    "pdfPage": 37
+  },
+  {
+    "id": 4,
+    "category": "Structure: Muscles",
+    "questionText": "A 60-year-old female presents with difficulty rising from a seated position. She reports weakness in her buttocks. A muscle that is a powerful extensor of the hip is suspected to be weak. Which muscle is most likely involved?",
+    "options": [
+      {
+        "text": "Gluteus Medius",
+        "explanation": "Incorrect. Primarily a hip abductor."
+      },
+      {
+        "text": "Iliopsoas",
+        "explanation": "Incorrect. Hip flexor."
+      },
+      {
+        "text": "Quadriceps",
+        "explanation": "Incorrect. Knee extensor (though involved in standing, the hip extensor is asked)."
+      },
+      {
+        "text": "Hamstrings",
+        "explanation": "Incorrect. Hip extensors but less powerful than Gluteus Maximus for this action."
+      },
+      {
+        "text": "Gluteus Maximus",
+        "explanation": "Correct. The Gluteus Maximus is the primary powerful extensor of the hip, crucial for standing from a seated position.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Key takeaway: Gluteus Maximus is the primary extensor of the hip, essential for rising from a seat.",
+    "pdfPage": 37
+  },
+  {
+    "id": 5,
+    "category": "Structure: Nervous System",
+    "questionText": "A student is reviewing the autonomic innervation of the pelvis. The sacral sympathetic trunks are described as extensions of the lumbar sympathetic chain. These trunks fuse over the coccyx to form which structure?",
+    "options": [
+      {
+        "text": "Inferior Hypogastric Plexus",
+        "explanation": "Incorrect. Formed by hypogastric nerves and pelvic splanchnics."
+      },
+      {
+        "text": "Ganglion Impar",
+        "explanation": "Correct. The sacral sympathetic trunks fuse at the Ganglion Impar over the coccyx.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Hypogastric Plexus",
+        "explanation": "Incorrect. Located at the bifurcation of the aorta."
+      },
+      {
+        "text": "Pelvic Splanchnic Nerves",
+        "explanation": "Incorrect. Parasympathetic inputs."
+      },
+      {
+        "text": "Pudendal Nerve",
+        "explanation": "Incorrect. Somatic nerve."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The Ganglion Impar is the fusion point of the sacral sympathetic trunks over the coccyx.",
+    "pdfPage": 12
+  },
+  {
+    "id": 6,
+    "category": "Structure: Nervous System",
+    "questionText": "A 50-year-old male presents with deep gluteal pain that radiates down the posterior thigh. The physician suspects entrapment of the sciatic nerve. In a significant minority of the population, the sciatic nerve pierces through the belly of which muscle, potentially causing these symptoms?",
+    "options": [
+      {
+        "text": "Gluteus Medius",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Piriformis",
+        "explanation": "Correct. The sciatic nerve can pierce the Piriformis muscle, leading to entrapment (Piriformis Syndrome).",
+        "isCorrect": true
+      },
+      {
+        "text": "Obturator Internus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gemellus Superior",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Quadratus Femoris",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The Sciatic Nerve may pierce the Piriformis muscle, causing entrapment neuropathy.",
+    "pdfPage": 13
+  },
+  {
+    "id": 7,
+    "category": "Function: Obstetrics",
+    "questionText": "A 28-year-old pregnant female at 34 weeks gestation complains of low back pain. Examination reveals an increased lumbar lordosis. Which other postural change is classically associated with pregnancy to compensate for the anterior shift in the center of gravity?",
+    "options": [
+      {
+        "text": "Posterior Pelvic Tilt",
+        "explanation": "Incorrect. Pregnancy causes Anterior Pelvic Tilt."
+      },
+      {
+        "text": "Decreased Thoracic Kyphosis",
+        "explanation": "Incorrect. Kyphosis increases."
+      },
+      {
+        "text": "Anterior Pelvic Tilt",
+        "explanation": "Correct. Pregnancy leads to increased Anterior Pelvic Tilt and increased Thoracic Kyphosis to balance the anterior load.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreased Cervical Lordosis",
+        "explanation": "Incorrect. Cervical lordosis increases."
+      },
+      {
+        "text": "Flattening of the spinal curves",
+        "explanation": "Incorrect. Curves are exaggerated."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Pregnancy is associated with Anterior Pelvic Tilt and increased Lumbar Lordosis.",
+    "pdfPage": 18
+  },
+  {
+    "id": 8,
+    "category": "Structural Exam: Standing Flexion Test",
+    "questionText": "A 25-year-old male is evaluated for pelvic dysfunction. The physician performs a Standing Flexion Test (SFT). The physician places their thumbs on the inferior slope of the PSIS and asks the patient to bend forward. The test is considered positive on the right side. What does a positive SFT on the right indicate?",
+    "options": [
+      {
+        "text": "Sacroiliac Dysfunction on the Right",
+        "explanation": "Incorrect. SFT is specific for Iliosacral dysfunction."
+      },
+      {
+        "text": "Iliosacral Dysfunction on the Right",
+        "explanation": "Correct. A positive SFT indicates restriction of the ilium moving on the sacrum (Iliosacral dysfunction) on that side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sacroiliac Dysfunction on the Left",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Iliosacral Dysfunction on the Left",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lumbar Somatic Dysfunction",
+        "explanation": "Incorrect. SFT targets the pelvis."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Positive Standing Flexion Test = Iliosacral Dysfunction on the positive side.",
+    "pdfPage": 34
+  },
+  {
+    "id": 9,
+    "category": "Structural Exam: Standing Flexion Test",
+    "questionText": "During a Standing Flexion Test, the physician observes the right PSIS moving more superiorly than the left. What is the biomechanical explanation for this 'positive' finding?",
+    "options": [
+      {
+        "text": "The right SI joint is hypermobile",
+        "explanation": "Incorrect. It suggests restriction."
+      },
+      {
+        "text": " The left SI joint is restricted",
+        "explanation": "Incorrect. The side that moves furthest is the restricted side."
+      },
+      {
+        "text": "The right ilium is moving as a unit with the sacrum",
+        "explanation": "Correct. Restriction at the SI joint causes the ilium to be 'locked' to the sacrum, so it moves with the sacrum immediately and further than the normal side.",
+        "isCorrect": true
+      },
+      {
+        "text": "The left ilium is moving as a unit with the sacrum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The pubic symphysis is fused",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: In a positive SFT, the restricted ilium moves 'as a unit' with the sacrum.",
+    "pdfPage": 34
+  },
+  {
+    "id": 10,
+    "category": "Structural Exam: ASIS Compression Test",
+    "questionText": "A medical student performs an ASIS Compression Test (Pelvic Rock Test). They apply a posterior and medial force to the ASIS. This test is designed to assess the motion at which joint?",
+    "options": [
+      {
+        "text": "Acetabular Joint",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lumbosacral Joint",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Symphysis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacroiliac Joint",
+        "explanation": "Correct. The ASIS compression test assesses the specific joint motion of the Sacroiliac joint.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thoracolumbar Junction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: ASIS Compression Test assesses the Sacroiliac Joint.",
+    "pdfPage": 2
+  },
+  {
+    "id": 11,
+    "category": "Structural Exam: ASIS Compression Test",
+    "questionText": "In the ASIS Compression Test, the physician notes 'springiness' on the left and 'resistance' or 'rigidity' on the right. Which side is considered positive?",
+    "options": [
+      {
+        "text": "Left",
+        "explanation": "Incorrect. Springiness is normal."
+      },
+      {
+        "text": "Right",
+        "explanation": "Correct. The side with resistance/decreased motion is the positive (dysfunctional) side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Both",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neither",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cannot be determined",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ASIS Compression Test is positive on the side of resistance (stiffness).",
+    "pdfPage": 34
+  },
+  {
+    "id": 12,
+    "category": "Structural Exam: Seated Flexion Test",
+    "questionText": "A physician performs a Seated Flexion Test on a patient with low back pain. The test is positive on the left. What is the primary significance of this test being performed in the seated position versus standing?",
+    "options": [
+      {
+        "text": "It isolates the lumbar spine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It isolates the pubic symphysis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It stabilizes the pelvis to isolate Sacroiliac motion",
+        "explanation": "Correct. Sitting stabilizes the innominates (via ischial tuberosities), allowing assessment of the Sacrum moving on the Ilium (Sacroiliac dysfunction).",
+        "isCorrect": true
+      },
+      {
+        "text": "It stabilizes the sacrum to isolate Iliosacral motion",
+        "explanation": "Incorrect. That's SFT."
+      },
+      {
+        "text": "It tests for hip pathology",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Seated Flexion Test isolates Sacroiliac (Sacral) Dysfunction.",
+    "pdfPage": 34
+  },
+  {
+    "id": 13,
+    "category": "Structural Exam: Seated vs Standing",
+    "questionText": "A patient has a positive Standing Flexion Test on the Right and a negative Seated Flexion Test. Based on these findings, the somatic dysfunction is most likely located in which structure?",
+    "options": [
+      {
+        "text": "Sacrum",
+        "explanation": "Incorrect. This would show a positive Seated Flexion Test."
+      },
+      {
+        "text": "Right Innominate (Iliosacral)",
+        "explanation": "Correct. Positive SFT + Negative Seated FT points to an Iliosacral (Innominate) dysfunction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lumbar Spine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Symphysis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cervical Spine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: (+) SFT + (-) SeFT = Iliosacral (Innominate) Dysfunction.",
+    "pdfPage": 49
+  },
+  {
+    "id": 14,
+    "category": "Structural Exam: Seated vs Standing",
+    "questionText": "Examination reveals a positive Seated Flexion Test on the Left. The Standing Flexion Test is also positive on the Left. What implies the primary etiology?",
+    "options": [
+      {
+        "text": "Innominate Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacral Dysfunction",
+        "explanation": "Correct. A positive Seated FT typically trumps or indicates the sacral component is driving the dysfunction, often causing the SFT to look positive too.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pubic Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cranial Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower Extremity Dysfunction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: A positive Seated Flexion Test indicates Sacral Dysfunction.",
+    "pdfPage": 34
+  },
+  {
+    "id": 15,
+    "category": "Physiology: Axes of Motion",
+    "questionText": "Iliosacral motion (motion of the ilium on the sacrum) occurs primarily around which theoretical axis of the sacrum?",
     "options": [
       {
         "text": "Superior Transverse Axis",
@@ -41,11 +444,11 @@ window.Test_L1a = [
       },
       {
         "text": "Middle Transverse Axis",
-        "explanation": "Incorrect. Postural axis."
+        "explanation": "Incorrect. Sacroiliac axis (sacrum on ilium)."
       },
       {
         "text": "Inferior Transverse Axis",
-        "explanation": "Correct. The Inferior Transverse Axis (S3 level) allows for iliosacral motion (innominate rotation) during ambulation.",
+        "explanation": "Correct. Iliosacral motion occurs around the Inferior Transverse Axis.",
         "isCorrect": true
       },
       {
@@ -58,858 +461,553 @@ window.Test_L1a = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Iliosacral motion (walking) occurs at the Inferior Transverse Axis.",
+    "clinicalPearl": "Key takeaway: Iliosacral motion occurs around the Inferior Transverse Axis.",
     "pdfPage": 36
   },
   {
-    "id": 3,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 34-year-old female runner complains of feeling 'uneven' when she runs. Examination reveals a positive Standing Flexion Test on the Left. Palpation demonstrates the Left ASIS is Superior and the Left PSIS is Inferior. The Left Medial Malleolus is superior to the right (short leg). What is the primary somatic dysfunction?",
+    "id": 16,
+    "category": "Physiology: Axes of Motion",
+    "questionText": "Sacroiliac motion (motion of the sacrum on the ilium), such as during flexion and extension, occurs around which axis?",
     "options": [
       {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Incorrect. Anterior rotation = ASIS Low, PSIS High."
+        "text": "Inferior Transverse Axis",
+        "explanation": "Incorrect. Iliosacral axis."
       },
       {
-        "text": "Left Posterior Innominate Rotation",
-        "explanation": "Correct. Posterior rotation is defined by a Superior ASIS and Inferior PSIS. It also pulls the hip up, causing a functional short leg.",
+        "text": "Middle Transverse Axis",
+        "explanation": "Correct. Sacroiliac motion occurs around the Middle Transverse Axis.",
         "isCorrect": true
       },
       {
-        "text": "Right Posterior Innominate Rotation",
-        "explanation": "Incorrect. SFT is positive on the Left."
+        "text": "Superior Transverse Axis",
+        "explanation": "Incorrect. Respiratory."
       },
       {
-        "text": "Left Superior Shear (Upslip)",
-        "explanation": "Incorrect. Upslip = ASIS High, PSIS High."
+        "text": "Left Oblique Axis",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Left Outflare",
-        "explanation": "Incorrect. Related to ASIS distance from midline."
+        "text": "Right Oblique Axis",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Rotation Landmarks: ASIS High, PSIS Low.",
-    "pdfPage": 42
+    "clinicalPearl": "Key takeaway: Sacroiliac motion occurs around the Middle Transverse Axis.",
+    "pdfPage": 36
   },
   {
-    "id": 4,
-    "category": "OMM: Landmarks",
-    "questionText": "Which anatomical landmark is generally found at the level of the S2 spinous process and is critical for placing thumbs during the Standing Flexion Test?",
+    "id": 17,
+    "category": "Structural Exam: Technique",
+    "questionText": "When performing the Standing Flexion Test, what is the 'Key Step #1' regarding thumb placement to ensure accuracy?",
     "options": [
       {
-        "text": "Iliac Crest",
-        "explanation": "Incorrect. Level of L4."
+        "text": "Place thumbs on the superior aspect of the PSIS",
+        "explanation": "Incorrect. Thumbs tend to slide off."
       },
       {
-        "text": "Posterior Superior Iliac Spine (PSIS)",
-        "explanation": "Correct. The PSIS is the posterior landmark for SFT and sits at the S2 level.",
+        "text": "Place thumbs on the Iliac Crests",
+        "explanation": "Incorrect. Wrong landmark."
+      },
+      {
+        "text": "Place thumbs on the inferior aspect (slope) of the PSIS",
+        "explanation": "Correct. Placing thumbs underneath the PSIS ensures you stay on the landmark as it moves superiorly.",
         "isCorrect": true
       },
       {
+        "text": "Place thumbs on the Sacral Sulci",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Place thumbs on the ASIS",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Place thumbs on the Inferior Slope of the PSIS for the SFT.",
+    "pdfPage": 37
+  },
+  {
+    "id": 18,
+    "category": "Structural Exam: Landmarks",
+    "questionText": "To minimize false asymmetries due to patient positioning on the table, what specific instruction should the physician give the patient before checking supine landmarks?",
+    "options": [
+      {
+        "text": "Hold their breath",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cross their legs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lift their hips off the table and set them back down (Seat the Pelvis)",
+        "explanation": "Correct. 'Seating the pelvis' resets the patient's alignment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Turn their head to the right",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Flex their knees to 90 degrees only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Always 'Seat the Pelvis' (lift hips) before checking landmarks.",
+    "pdfPage": 34
+  },
+  {
+    "id": 19,
+    "category": "Structural Exam: Diagnosis",
+    "questionText": "A patient has a positive Standing Flexion Test on the Right. On landmark exam, the Right PSIS is found to be inferior to the left. How should this finding be documented?",
+    "options": [
+      {
+        "text": "Left Superior PSIS",
+        "explanation": "Incorrect. While technically true relatively, we name dysfunction on the side of the positive SFT."
+      },
+      {
+        "text": "Right Inferior PSIS",
+        "explanation": "Correct. Name the landmark asymmetry on the side of the positive SFT.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Superior PSIS",
+        "explanation": "Incorrect. It is low."
+      },
+      {
+        "text": "Left Inferior PSIS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Name the landmark findings on the side of the positive Standing Flexion Test.",
+    "pdfPage": 34
+  },
+  {
+    "id": 20,
+    "category": "Structural Exam: Landmarks",
+    "questionText": "Which of the following landmarks is best assessed with the patient in the prone position?",
+    "options": [
+      {
+        "text": "ASIS",
+        "explanation": "Incorrect. Supine."
+      },
+      {
+        "text": "Pubic Tubercles",
+        "explanation": "Incorrect. Supine."
+      },
+      {
+        "text": "Ischial Tuberosities",
+        "explanation": "Correct. Ischial tuberosities are best palpated with the patient prone (or seated, but for structural diagnosis prone is standard for comparison).",
+        "isCorrect": true
+      },
+      {
+        "text": "Medial Malleoli",
+        "explanation": "Incorrect. Supine."
+      },
+      {
+        "text": "Umbilicus",
+        "explanation": "Incorrect. Supine."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Ischial Tuberosities are assessed in the Prone (or Seated) position.",
+    "pdfPage": 37
+  },
+  {
+    "id": 21,
+    "category": "Clinical Integration",
+    "questionText": "A 40-year-old male construction worker presents with low back pain. He has a positive SFT on the Right. Landmarks: Right ASIS High, Right PSIS Low. Based on these findings, what is the diagnosis?",
+    "options": [
+      {
+        "text": "Right Anterior Innominate Rotation",
+        "explanation": "Incorrect. Anterior = ASIS Low, PSIS High."
+      },
+      {
+        "text": "Right Posterior Innominate Rotation",
+        "explanation": "Correct. Posterior = ASIS High, PSIS Low.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Upslip",
+        "explanation": "Incorrect. Upslip = All landmarks High."
+      },
+      {
+        "text": "Right Downslip",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Inflare",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Right Posterior Innominate = ASIS High, PSIS Low.",
+    "pdfPage": 34
+  },
+  {
+    "id": 22,
+    "category": "Clinical Integration",
+    "questionText": "A 22-year-old gymnast has groin pain. SFT is positive on the Left. The Left ASIS is lower than the Right. The Left PSIS is higher than the Right. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Left Anterior Innominate Rotation",
+        "explanation": "Correct. Anterior = ASIS Low, PSIS High on the affected side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Posterior Innominate Rotation",
+        "explanation": "Incorrect. ASIS High, PSIS Low."
+      },
+      {
+        "text": "Right Anterior Innominate Rotation",
+        "explanation": "Incorrect. SFT is Left."
+      },
+      {
+        "text": "Left Superior Innominate Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Outflare",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Left Anterior Innominate = ASIS Low, PSIS High.",
+    "pdfPage": 34
+  },
+  {
+    "id": 23,
+    "category": "Structural Exam: Technique",
+    "questionText": "When performing the Seated Flexion Test, the patient's feet must be:",
+    "options": [
+      {
+        "text": "Dangling freely",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Flat on the floor",
+        "explanation": "Correct. Feet flat on the floor provides stability for the pelvis.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crossed at the ankles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Resting on a stool",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsiflexed",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Feet must be flat on the floor for the Seated Flexion Test.",
+    "pdfPage": 34
+  },
+  {
+    "id": 24,
+    "category": "Clinical Integration",
+    "questionText": "A positive SFT on the Right and a positive ASIS Compression Test on the Right are found. This combination strongly suggests:",
+    "options": [
+      {
+        "text": "Sacral Dysfunction only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Iliosacral Dysfunction",
+        "explanation": "Correct. Concordant lateralizing tests point to iliosacral dysfunction on that side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Iliosacral Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lumbar Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Dysfunction only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Concordant SFT and ASIS Compression lateralize the Iliosacral dysfunction.",
+    "pdfPage": 34
+  },
+  {
+    "id": 25,
+    "category": "Clinical Integration",
+    "questionText": "A patient has a positive SFT on the Left. The Left Pubic Tubercle is superior to the right. This specific finding is diagnostic of:",
+    "options": [
+      {
+        "text": "Left Superior Pubic Shear",
+        "explanation": "Correct. Superior Pubic Tubercle on the side of SFT = Superior Pubic Shear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Inferior Pubic Shear",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Superior Pubic Shear",
+        "explanation": "Incorrect. SFT is Left."
+      },
+      {
+        "text": "Left Anterior Innominate",
+        "explanation": "Incorrect. Would likely show inferior pubis, but shear is the specific diagnosis for isolated pubic finding.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pubic Compression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Superior Pubic Shear = Superior Pubic Tubercle on dysfunctional side.",
+    "pdfPage": 34
+  },
+  {
+    "id": 26,
+    "category": "Structure: Muscles",
+    "questionText": "The Levator Ani muscle group is a component of which structural region?",
+    "options": [
+      {
+        "text": "Pelvic Wall",
+        "explanation": "Incorrect. Piriformis/Obturator."
+      },
+      {
+        "text": "Pelvic Diaphragm",
+        "explanation": "Correct. The Pelvic Diaphragm consists of the Levator Ani and Coccygeus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Urogenital Diaphragm",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Abdominal Wall",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thigh Musculature",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Levator Ani and Coccygeus form the Pelvic Diaphragm.",
+    "pdfPage": 4
+  },
+  {
+    "id": 27,
+    "category": "Physiology: Biomechanics",
+    "questionText": "Somatic dysfunction in the pelvis often leads to compensatory changes. The lecture emphasizes that one result of these potential gait alterations is:",
+    "options": [
+      {
+        "text": "Decreased heart rate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased energy expenditure",
+        "explanation": "Correct. Compensatory gait patterns are less efficient, costing more energy.",
+        "isCorrect": true
+      },
+      {
+        "text": "Improved balance",
+        "explanation": "Incorrect. Balance is hindered."
+      },
+      {
+        "text": "Decreased stride length only",
+        "explanation": "Incorrect. Can be strid length, rhythm, speed."
+      },
+      {
+        "text": "Muscle hypertrophy",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway:  Pelvic somatic dysfunction increases energy expenditure during gait.",
+    "pdfPage": 39
+  },
+  {
+    "id": 28,
+    "category": "Structure: Viscera",
+    "questionText": "A 55-year-old male with prostate issues is treated with Osteopathic Manipulative Treatment. The physician targets the autonomic nervous system. Which structure, containing both parasympathetic and sympathetic fibers, innervates the prostate?",
+    "options": [
+      {
+        "text": "Superior Hypogastric Plexus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Hypogastric Plexus",
+        "explanation": "Correct. The Inferior Hypogastric Plexus supplies the prostate, bladder, and rectum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ganglion Impar",
+        "explanation": "Incorrect. Sympathetic only (fusion)."
+      },
+      {
+        "text": "Vagus Nerve",
+        "explanation": "Incorrect. Does not reach prostate."
+      },
+      {
+        "text": "Pudendal Nerve",
+        "explanation": "Incorrect. Somatic."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The Inferior Hypogastric Plexus innervates the pelvic viscera (Prostate, Bladder).",
+    "pdfPage": 12
+  },
+  {
+    "id": 29,
+    "category": "Analysis: Practice Question 7",
+    "questionText": "Based on the practice questions provided in the lecture: A patient has a positive Seated Flexion Test on the Left, positive ASIS Compression Test on the Left, and positive Standing Flexion Test on the Right. What is the most specific interpretation?",
+    "options": [
+      {
+        "text": "Left Iliosacral Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Sacroiliac Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Left Sacroiliac Dysfunction and Right Iliosacral Dysfunction",
+        "explanation": "Correct. Seated FT (Left) = Sacral (Left). Standing FT (Right) = Iliosacral (Right). ASIS Comp (Left) supports left-sided dysfunction, likely the sacral one driving it.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Iliosacral Dysfunction only",
+        "explanation": "Incorrect. Misses the Seated test."
+      },
+      {
+        "text": "Left Sacroiliac Dysfunction only",
+        "explanation": "Incorrect. Misses the SFT."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Discordant Seated and Standing tests imply both Sacral (Seated) and Iliosacral (Standing) dysfunction.",
+    "pdfPage": 50
+  },
+  {
+    "id": 30,
+    "category": "Structure: Muscles",
+    "questionText": "The Rectus Femoris originates from which landmark?",
+    "options": [
+      {
+        "text": "ASIS",
+        "explanation": "Incorrect. Sartorius originates here."
+      },
+      {
+        "text": "AIIS (Anterior Inferior Iliac Spine)",
+        "explanation": "Correct. Rectus Femoris originates at the AIIS.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pubic Tubercle",
+        "explanation": "Incorrect."
+      },
+      {
         "text": "Ischial Tuberosity",
+        "explanation": "Incorrect. Hamstrings."
+      },
+      {
+        "text": "Iliac Crest",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Rectus Femoris Origin = AIIS.",
+    "pdfPage": 43
+  },
+  {
+    "id": 31,
+    "category": "Structure: Muscles",
+    "questionText": "The Sartorius muscle originates from which landmark?",
+    "options": [
+      {
+        "text": "AIIS",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ASIS (Anterior Superior Iliac Spine)",
+        "explanation": "Correct. Sartorius originates at the ASIS.",
+        "isCorrect": true
+      },
+      {
+        "text": "Iliac Crest",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pubic Ramus",
         "explanation": "Incorrect."
       },
       {
         "text": "Greater Trochanter",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Sacral Sulcus",
-        "explanation": "Incorrect. Medial to PSIS."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PSIS is at the level of S2.",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Sartorius Origin = ASIS.",
+    "pdfPage": 43
   },
   {
-    "id": 5,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 40-year-old male construction worker fell backward off a ladder, landing on his buttocks. He presents with severe left-sided low back pain. Examination reveals a positive Standing Flexion Test on the left. Landmarks on the left: ASIS Superior, PSIS Superior, Iliac Crest Superior, Pubic Tubercle Superior, Medial Malleolus Superior. What is the diagnosis?",
+    "id": 32,
+    "category": "Structural Exam: Diagnosis",
+    "questionText": "Practice Question 11: A patient has (-) Seated Flexion, (-) Standing Flexion, but a (+) ASIS Compression on the Left. What is the diagnosis?",
     "options": [
       {
-        "text": "Left Superior Innominate Shear (Upslip)",
-        "explanation": "Correct. Trauma (vertical force) + All landmarks superior on one side = Upslip.",
+        "text": "Left Innominate Dysfunction",
+        "explanation": "Incorrect. SFT is negative."
+      },
+      {
+        "text": "Left Sacral Dysfunction",
+        "explanation": "Incorrect. Seated FT is negative."
+      },
+      {
+        "text": "No Pelvic Somatic Dysfunction found",
+        "explanation": "Correct. With both screeners negative, the ASIS compression finding might be non-pathologic or related to a different issue, but 'Pelvic Somatic Dysfunction' is essentially ruled out by the negative screeners in this context.",
         "isCorrect": true
       },
       {
-        "text": "Left Anterior Innominate",
-        "explanation": "Incorrect. In anterior rotation, PSIS would be high."
-      },
-      {
-        "text": "Left Posterior Innominate",
-        "explanation": "Incorrect. In posterior rotation, ASIS would be high, but PSIS low."
-      },
-      {
-        "text": "Left Inflare",
+        "text": "Right Innominate Dysfunction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Downslip",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Upslip (Superior Shear) presents with ALL landmarks High on the affected side.",
-    "pdfPage": 42
-  },
-  {
-    "id": 6,
-    "category": "OMM: Clinical Correlation",
-    "questionText": "A patient with a Right Posterior Innominate Rotation is likely to have tenderness at which anterior ligamentous structure due to increased tension?",
-    "options": [
-      {
-        "text": "Sacrotuberous Ligament",
-        "explanation": "Incorrect. Posterior."
-      },
-      {
-        "text": "Iliolumbar Ligament",
-        "explanation": "Incorrect. Posterior/Superior."
-      },
-      {
-        "text": "Inguinal Ligament",
-        "explanation": "Correct. Posterior rotation moves the ASIS superiorly and posteriorly, increasing tension on the inguinal ligament (ASIS to Pubis).",
-        "isCorrect": true
-      },
-      {
-        "text": "Lacunar Ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ligamentum Teres",
+        "text": "Pubic Shear",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Posterior Innominate Rotation = Inguinal Ligament Tenderness.",
-    "pdfPage": 42
+    "clinicalPearl": "Key takeaway: Negative SFT and Seated FT generally rule out significant Pelvic/Sacral Somatic Dysfunction.",
+    "pdfPage": 53
   },
   {
-    "id": 7,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 22-year-old female presents with groin pain. Examination: SFT positive on the Right. Right ASIS is medial to the umbilicus (shorter distance) compared to the left. The Right PSIS is further from the midline sacral crests (wider) compared to the left. What is the diagnosis?",
+    "id": 33,
+    "category": "Structure: Muscles",
+    "questionText": "Which muscle attaches to the lesser trochanter?",
     "options": [
-      {
-        "text": "Right Outflare",
-        "explanation": "Incorrect. Outflare = ASIS Lateral."
-      },
-      {
-        "text": "Right Inflare",
-        "explanation": "Correct. In an Inflare, the innominate rotates internally around a vertical axis, bringing the ASIS medially and the PSIS laterally.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Anterior Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Posterior Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Outflare",
-        "explanation": "Incorrect. SFT is right."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inflare = ASIS Medial / PSIS Lateral throughout the vertical axis.",
-    "pdfPage": 40
-  },
-  {
-    "id": 8,
-    "category": "OMM: Anatomy",
-    "questionText": "Muscle Energy treatment for an Anterior Innominate Rotation primarily utilizes flexion of the hip to engage which muscle group?",
-    "options": [
-      {
-        "text": "Quadriceps",
-        "explanation": "Incorrect. Used for Posterior Innominate (extension)."
-      },
-      {
-        "text": "Hamstrings",
-        "explanation": "Correct. The Hamstrings attach to the Ischial Tuberosity. Flexing the hip puts tension on them; contracting them pulls the ischium forward/down, rotating the innominate posteriorly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Adductors",
-        "explanation": "Incorrect. Used for shears."
-      },
-      {
-        "text": "Abductors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Psoas",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat Anterior Innominate with Hamstrings (hip flexion).",
-    "pdfPage": 2
-  },
-  {
-    "id": 9,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 19-year-old gymnast complains of deep right-sided pelvic pain. Standing Flexion Test is positive on the right. The Right Pubic Tubercle is found to be 1cm lower (inferior) than the Left. The ASIS and PSIS findings are equivocal. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Superior Pubic Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Inferior Pubic Shear",
-        "explanation": "Correct. Specific Findings at the pubic tubercle (inferior on the side of SFT) indicate an Inferior Pubic Shear.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Anterior Innominate",
-        "explanation": "Incorrect. While anterior rotation moves the pubis down, isolated pubic inequality points to shear."
-      },
-      {
-        "text": "Left Superior Pubic Shear",
-        "explanation": "Incorrect. SFT is right."
-      },
-      {
-        "text": "Right Downslip",
-        "explanation": "Incorrect. Would see ASIS/PSIS findings."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inferior Pubic Shear = Pubic Tubercle Low on side of SFT.",
-    "pdfPage": 40
-  },
-  {
-    "id": 10,
-    "category": "OMM: Treatment",
-    "questionText": "To treat a Superior Innominate Shear (Upslip), the physician applies traction to the leg. What is the optimal position of the hip to lock the joint and transmit force to the SI joint?",
-    "options": [
-      {
-        "text": "Abduction and External Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Abduction and Internal Rotation",
-        "explanation": "Correct. Slight abduction helps clear the joint, and Internal Rotation 'closes pack' the hip joint, ensuring the tug pulls the innominate, not just stretching the capsule.",
-        "isCorrect": true
-      },
-      {
-        "text": "Adduction and External Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Flexion and External Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neutral",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Upslip Treatment Position: Abduction (slightly) + Internal Rotation.",
-    "pdfPage": 2
-  },
-  {
-    "id": 11,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 55-year-old male presents with right-sided SI joint pain. The ASIS Compression Test reveals resistance (stiffness) on the Right. The Standing Flexion Test is positive on the Right. What does the combination of these two tests tell you?",
-    "options": [
-      {
-        "text": "There is definitely only an Innominate dysfunction.",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "There is iliosacral dysfunction on the Right.",
-        "explanation": "Correct. SFT and ASIS compression both lateralize to the right, confirming right-sided iliosacral dysfunction.",
-        "isCorrect": true
-      },
-      {
-        "text": "There is a sacral dysfunction on the Left.",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tests are contradictory.",
-        "explanation": "Incorrect. They are concordant."
-      },
-      {
-        "text": "Patient has a short leg.",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Concordant SFT and ASIS leads confirm the side of dysfunction.",
-    "pdfPage": 2
-  },
-  {
-    "id": 12,
-    "category": "OMM: Anatomy",
-    "questionText": "Which muscle, acting as a hip flexor and lumbar stabilizer, attaches to the Lesser Trochanter of the femur?",
-    "options": [
-      {
-        "text": "Gluteus Maximus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Iliopsoas",
-        "explanation": "Correct. The Psoas Major and Iliacus fuse to attach to the Lesser Trochanter.",
-        "isCorrect": true
-      },
-      {
-        "text": "Piriformis",
-        "explanation": "Incorrect. Greater Trochanter."
-      },
-      {
-        "text": "Rectus Femoris",
-        "explanation": "Incorrect. Tibial Tuberosity (via Patellar tendon)."
-      },
-      {
-        "text": "Tensor Fascia Latae",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Iliopsoas attaches to the Lesser Trochanter.",
-    "pdfPage": 2
-  },
-  {
-    "id": 13,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a positive Standing Flexion Test on the Right. The Right ASIS is Low and the Right PSIS is High. The patient also has a 'long leg' on the Right. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Posterior Innominate Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. ASIS Low + PSIS High = Anterior Rotation. This lowers the acetabulum, creating a functional long leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Incorrect. SFT is Right."
-      },
-      {
-        "text": "Right Downslip",
-        "explanation": "Incorrect. PSIS would be Low."
-      },
-      {
-        "text": "Right Outflare",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Landmarks for Anterior Rotation: ASIS Low, PSIS High.",
-    "pdfPage": 42
-  },
-  {
-    "id": 14,
-    "category": "OMM: Special Tests",
-    "questionText": "The Seated Flexion Test is designed to isolate the motion of which structure by locking the innominates?",
-    "options": [
-      {
-        "text": "Lumbar Spine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sacrum",
-        "explanation": "Correct. Sitting on the ischial tuberosities restricts innominate motion, allowing assessment of Sacroiliac motion alone.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pubic Symphysis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Femur",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Coccyx",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Seated Flexion Test isolates the Sacrum.",
-    "pdfPage": 2
-  },
-  {
-    "id": 15,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 60-year-old male presents with right hip pain. The distance from his umbilicus to his Right ASIS is 15cm. The distance from his umbilicus to his Left ASIS is 12cm. The Standing Flexion Test is positive on the Right. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Inflare",
-        "explanation": "Incorrect. Inflare would be shorter distance."
-      },
-      {
-        "text": "Right Outflare",
-        "explanation": "Correct. The distance is longer (15cm vs 12cm) on the dysfunctional side (Right), indicating the ASIS has moved laterally (Outflare).",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Inflare",
-        "explanation": "Incorrect. SFT implies Right dysfunction. The left side is 'normal'."
-      },
-      {
-        "text": "Left Outflare",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Anterior Rotation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Wider Umbilicus-ASIS distance = Outflare.",
-    "pdfPage": 40
-  },
-  {
-    "id": 16,
-    "category": "OMM: Anatomy",
-    "questionText": "Which ligament connects the L5 transverse process to the posterior iliac crest and is often the first to become tender in lumbopelvic dysfunction?",
-    "options": [
-      {
-        "text": "Sacrotuberous Ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sacrospinous Ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Iliolumbar Ligament",
-        "explanation": "Correct. It is a key stabilizer of the L5/S1 junction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Inguinal Ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Longitudinal Ligament",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Iliolumbar Ligament connects L5 to Ilium.",
-    "pdfPage": 3
-  },
-  {
-    "id": 17,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A postpartum female presents with lower back pain. She has a 'waddling' gait. Structural exam reveals a Left Superior Pubic Shear. Which muscle's hypertonicity is most likely contributing to this Superior Shear by pulling the pubis upward?",
-    "options": [
-      {
-        "text": "Adductor Longus",
-        "explanation": "Incorrect. Pulls pubis down (Inferior Shear)."
-      },
-      {
-        "text": "Rectus Abdominis",
-        "explanation": "Correct. The Rectus Abdominis attaches to the pubic crest. Hypertonicity pulls the pubis superiorly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Gracilis",
-        "explanation": "Incorrect. Pulls down."
-      },
-      {
-        "text": "Iliopsoas",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sartorius",
-        "explanation": "Incorrect. Attaches to ASIS."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Rectus Abdominis pulls the pubis Superiorly (Superior Pubic Shear).",
-    "pdfPage": 10
-  },
-  {
-    "id": 18,
-    "category": "OMM: Anatomy",
-    "questionText": "The Sacrotuberous ligament prevents which motion of the sacrum?",
-    "options": [
-      {
-        "text": "Posterior Nutation (Extension)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Nutation (Flexion)",
-        "explanation": "Correct. By attaching to the ischial tuberosity and the lower sacrum, tension in the sacrotuberous ligament limits anterior nutation of the sacral base.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sidebending",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Translation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sacrotuberous Ligament restrains Sacral Nutation.",
-    "pdfPage": 3
-  },
-  {
-    "id": 19,
-    "category": "OMM: Treatment",
-    "questionText": "A patient has a Right Anterior Innominate Rotation, a Right Superior Pubic Shear, and a Right Upslip. In what order should you treat these dysfunctions?",
-    "options": [
-      {
-        "text": "Anterior Innominate -> Upslip -> Pubic Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pubic Shear -> Upslip -> Anterior Innominate",
-        "explanation": "Correct. Sequence: Pubic Shear (restore symphysis) -> Innominate Shear (restore vertical height) -> Innominate Rotation (fine tune).",
-        "isCorrect": true
-      },
-      {
-        "text": "Upslip -> Anterior Innominate -> Pubic Shear",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Innominate -> Pubic Shear -> Upslip",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Order does not matter",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treatment Order: 1. Pubes 2. Shears 3. Rotations.",
-    "pdfPage": 2
-  },
-  {
-    "id": 20,
-    "category": "OMM: Anatomy",
-    "questionText": "True Leg Length is measured between which two points?",
-    "options": [
-      {
-        "text": "Umbilicus to Medial Malleolus",
-        "explanation": "Incorrect. Apparent leg length."
-      },
-      {
-        "text": "ASIS to Medial Malleolus",
-        "explanation": "Correct. Fixed bony landmarks.",
-        "isCorrect": true
-      },
-      {
-        "text": "PSIS to Lateral Malleolus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Greater Trochanter to Lateral Malleolus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Xiphoid to Medial Malleolus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: True Leg Length = ASIS to Medial Malleolus.",
-    "pdfPage": 40
-  },
-  {
-    "id": 21,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 30-year-old cyclist complains of right knee pain. Examination reveals a Right Posterior Innominate Rotation. How does this somatic dysfunction physiologically affect the leg length?",
-    "options": [
-      {
-        "text": "It lengthens the leg",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It shortens the leg",
-        "explanation": "Correct. Posterior rotation pulls the acetabulum superiorly, retracting the femur and causing a functional short leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "No effect",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal rotation of the tibia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "External rotation of the tibia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Posterior Rotation = Short Leg.",
-    "pdfPage": 42
-  },
-  {
-    "id": 22,
-    "category": "OMM: Special Tests",
-    "questionText": "Which test is used to identify a functional leg length discrepancy caused by iliosacral dysfunction versus an anatomical short leg?",
-    "options": [
-      {
-        "text": "Ober's Test",
-        "explanation": "Incorrect. IT band."
-      },
-      {
-        "text": "Standing Flexion Test",
-        "explanation": "Correct. If SFT is positive, the leg length difference is likely functional (somatic dysfunction). If SFT is negative but discrepancy exists, it is likely anatomical.",
-        "isCorrect": true
-      },
-      {
-        "text": "Thomas Test",
-        "explanation": "Incorrect. Psoas."
-      },
-      {
-        "text": "Trendelenburg Test",
-        "explanation": "Incorrect. Glute med."
-      },
-      {
-        "text": "Lachman's Test",
-        "explanation": "Incorrect. ACL."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Positive SFT suggests Functional leg length difference. Negative SFT suggests Anatomical.",
-    "pdfPage": 3
-  },
-  {
-    "id": 23,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient presents with a 'positive step-off' sign at the pubic symphysis, where the right pubic bone feels significantly higher than the left. He also has a positive SFT on the Right. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Right Superior Pubic Shear",
-        "explanation": "Correct. Step-off (unevenness) with Right side High + SFT Right = Right Superior Shear.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Inferior Pubic Shear",
-        "explanation": "Incorrect. Would be low."
-      },
-      {
-        "text": "Left Superior Pubic Shear",
-        "explanation": "Incorrect. SFT is right."
-      },
-      {
-        "text": "Right Anterior Innominate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pubic Diastasis",
-        "explanation": "Incorrect. Separation, not vertical shear."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pubic Shear is named for the position of the tubercle on the side of the positive SFT.",
-    "pdfPage": 40
-  },
-  {
-    "id": 24,
-    "category": "OMM: Physiology",
-    "questionText": "During exhalation, the sacral base moves in which direction around the superior transverse axis?",
-    "options": [
-      {
-        "text": "Anteriorly (Nutation)",
-        "explanation": "Correct. Inhalation = Extension (Counter-nutation). Exhalation = Flexion (Nutation).",
-        "isCorrect": true
-      },
-      {
-        "text": "Posteriorly (Counter-nutation)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superiorly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferiorly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Laterally",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Exhalation -> Sacral Nutation (Flexion). Inhalation -> Sacral Counter-nutation (Extension).",
-    "pdfPage": 36
-  },
-  {
-    "id": 25,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 45-year-old male has a Right Posterior Innominate Rotation. Landmarks: Right ASIS High, Right PSIS Low. You perform Muscle Energy. Which muscle will you engage to correct this?",
-    "options": [
-      {
-        "text": "Hamstrings",
-        "explanation": "Incorrect. Would pull it more posterior."
-      },
-      {
-        "text": "Rectus Femoris / Quadriceps",
-        "explanation": "Correct. By extending the hip (patient tries to flex hip, you resist extension? No wait. ME for Posterior: Patient pushes leg UP/Flexion? No. Patient hangs leg off table (Extension) and flexes hip against resistance? Wait. Let's clarify. To treat Posterior Innominate: Extend Hip to barrier. Patient Flexes hip (engages Iliopsoas/Rectus) to pull innominate Anteriorly. Yes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Gluteus Maximus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Piriformis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Adductors",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat Posterior Innominate by engaging Hip Flexors (Quads/Psoas) to pull it Anteriorly.",
-    "pdfPage": 2
-  },
-  {
-    "id": 26,
-    "category": "OMM: Anatomy",
-    "questionText": "What structure separates the Greater and Lesser Sciatic Foramina?",
-    "options": [
-      {
-        "text": "Sacrotuberous Ligament",
-        "explanation": "Incorrect. Helps form the boundary but the divider is..."
-      },
-      {
-        "text": "Sacrospinous Ligament",
-        "explanation": "Correct. It runs from sacrum to ischial spine, dividing the space into the two foramina.",
-        "isCorrect": true
-      },
-      {
-        "text": "Iliolumbar Ligament",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Piriformis Muscle",
-        "explanation": "Incorrect. Goes through Greater."
-      },
-      {
-        "text": "Obturator Membrane",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sacrospinous Ligament divides the sciatic foramina.",
-    "pdfPage": 3
-  },
-  {
-    "id": 27,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a positive SFT on the Left. The Left ASIS is lower than the Right. The Left PSIS is higher than the Right. What is the diagnosis?",
-    "options": [
-      {
-        "text": "Left Anterior Innominate Rotation",
-        "explanation": "Correct. ASIS Low, PSIS High = Anterior.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Posterior Innominate Rotation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Incorrect. Left SFT."
-      },
-      {
-        "text": "Left Upslip",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Downslip",
-        "explanation": "Incorrect. PSIS would be low."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: ASIS Low + PSIS High = Anterior Rotation.",
-    "pdfPage": 42
-  },
-  {
-    "id": 28,
-    "category": "OMM: Anatomy",
-    "questionText": "Which muscle makes up the pelvic diaphragm along with the Coccygeus?",
-    "options": [
-      {
-        "text": "Piriformis",
-        "explanation": "Incorrect. Pelvic wall."
-      },
-      {
-        "text": "Levator Ani",
-        "explanation": "Correct. Levator Ani + Coccygeus = Pelvic Diaphragm.",
-        "isCorrect": true
-      },
-      {
-        "text": "Obturator Internus",
-        "explanation": "Incorrect. Pelvic wall."
-      },
-      {
-        "text": "Transverse Perinei",
-        "explanation": "Incorrect. Urogenital diaphragm."
-      },
-      {
-        "text": "Gluteus Maximus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pelvic Diaphragm = Levator Ani + Coccygeus.",
-    "pdfPage": 10
-  },
-  {
-    "id": 29,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 38-year-old female presents with low back pain. ASIS Compression is positive on the Left. Which structure has dysfunction?",
-    "options": [
-      {
-        "text": "Right Sacroiliac Joint",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left Sacroiliac Joint",
-        "explanation": "Correct. ASIS compression lateralizes SI dysfunction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Left Innominate",
-        "explanation": "Incorrect. SFT tests Innominate. ASIS Compression tests SI joint."
-      },
-      {
-        "text": "Pubic Symphysis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L5 Vertebra",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ASIS Compression lateralizes SI dysfunction.",
-    "pdfPage": 2
-  },
-  {
-    "id": 30,
-    "category": "OMM: Special Tests",
-    "questionText": "The Trendelenburg Test evaluates the strength of which muscle?",
-    "options": [
-      {
-        "text": "Gluteus Maximus",
-        "explanation": "Incorrect."
-      },
       {
         "text": "Gluteus Medius",
-        "explanation": "Correct. Weakness causes the pelvis to drop on the contralateral side.",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Piriformis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Iliopsoas",
+        "explanation": "Correct. The Iliopsoas attaches to the lesser trochanter.",
         "isCorrect": true
       },
       {
@@ -917,171 +1015,74 @@ window.Test_L1a = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Psoas",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Piriformis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Trendelenburg tests Gluteus Medius strength.",
-    "pdfPage": 2
-  },
-  {
-    "id": 31,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a Left Inferior Innominate Shear (Downslip). How did this likely happen?",
-    "options": [
-      {
-        "text": "Falling on the buttocks",
-        "explanation": "Incorrect. Upslip."
-      },
-      {
-        "text": "Stepping into a hole unexpectedly",
-        "explanation": "Incorrect. Upslip."
-      },
-      {
-        "text": "Traction injury to the leg (e.g., getting leg pulled)",
-        "explanation": "Correct. Downslips are rare and usually caused by strong traction on the leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sleeping on the side",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sitting with crossed legs",
+        "text": "Obturator Internus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Downslips are caused by Traction injuries.",
-    "pdfPage": 42
-  },
-  {
-    "id": 32,
-    "category": "OMM: Anatomy",
-    "questionText": "What level is the Iliac Crest?",
-    "options": [
-      {
-        "text": "L2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L3",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "L4",
-        "explanation": "Correct. Intercrest line is at L4/L5 interspace.",
-        "isCorrect": true
-      },
-      {
-        "text": "L5",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "S1",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Iliac Crest = L4.",
-    "pdfPage": 31
-  },
-  {
-    "id": 33,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A patient has a Right Anterior Innominate Rotation. What would be the expected finding for the Right Medial Malleolus?",
-    "options": [
-      {
-        "text": "Superior (Short Leg)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inferior (Long Leg)",
-        "explanation": "Correct. Anterior rotation pushes the acetabulum down, lengthening the leg.",
-        "isCorrect": true
-      },
-      {
-        "text": "Level",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal Rotated",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "External Rotated",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Rotation = Long Leg.",
-    "pdfPage": 42
+    "clinicalPearl": "Key takeaway: Iliopsoas attaches to the Lesser Trochanter.",
+    "pdfPage": 43
   },
   {
     "id": 34,
-    "category": "OMM: Anatomy",
-    "questionText": "The Sciatic Nerve passes inferior to which muscle in the majority of the population?",
+    "category": "Structure: Ligaments",
+    "questionText": "Which ligament divides the greater and lesser sciatic foramina?",
     "options": [
       {
-        "text": "Gemellus Superior",
+        "text": "Sacrotuberous",
         "explanation": "Incorrect."
       },
       {
-        "text": "Piriformis",
-        "explanation": "Correct. In ~85% of people, it passes inferior to the Piriformis. Spasm can cause Piriformis Syndrome.",
+        "text": "Sacrospinous",
+        "explanation": "Correct. The Sacrospinous ligament attaches to the ischial spine, creating the division.",
         "isCorrect": true
       },
       {
-        "text": "Obturator Internus",
+        "text": "Iliolumbar",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gluteus Minimus",
+        "text": "Inguinal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Quadratus Femoris",
+        "text": "Posterior Sacroiliac",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sciatic Nerve passes inferior to Piriformis.",
-    "pdfPage": 2
+    "clinicalPearl": "Key takeaway: Sacrospinous ligament divides the sciatic foramina.",
+    "pdfPage": 43
   },
   {
     "id": 35,
-    "category": "OMM: Diagnosis Basics",
-    "questionText": "A 29-year-old male weightlifter presents with right SI pain. Structural Exam: Right ASIS Low, Right PSIS High, Right Medial Malleolus Low. Tenderness at the Right Inguinal Ligament. What is the diagnosis?",
+    "category": "Structure: Ligaments",
+    "questionText": "The Iliolumbar ligament connects the transverse process of L5 to which structure?",
     "options": [
       {
-        "text": "Right Anterior Innominate Rotation",
-        "explanation": "Correct. Classic presentation: ASIS Low, PSIS High, Long Leg, Inguinal Tenderness.",
+        "text": "Ischial Tuberosity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sacrum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Posterior Iliac Crest",
+        "explanation": "Correct. Iliolumbar ligament connects L5 TP to the Iliac Crest.",
         "isCorrect": true
       },
       {
-        "text": "Right Posterior Innominate Rotation",
-        "explanation": "Incorrect. ASIS High, Short Leg."
+        "text": "Pubis",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Right Superior Shear",
-        "explanation": "Incorrect. Short Leg."
-      },
-      {
-        "text": "Right Inferior Shear",
-        "explanation": "Incorrect. All landmarks low."
-      },
-      {
-        "text": "Left Anterior Innominate",
+        "text": "Femur",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Anterior Innominate: ASIS Low, PSIS High, Long Leg.",
-    "pdfPage": 42
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Iliolumbar ligament: L5 TP to Iliac Crest.",
+    "pdfPage": 4
   }
 ];

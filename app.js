@@ -159,7 +159,28 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const updateGlobalReviewButton = () => {
-        const list = getGlobalIncorrects();
+        // Validate and clean up stale entries before counting
+        let list = getGlobalIncorrects(); // Raw list
+        const initialLength = list.length;
+        
+        // Filter out keys that don't match existing tests/questions
+        list = list.filter(key => {
+            const [tName, qId] = key.split('|');
+            const testObj = testsToLoad.find(t => t.name === tName);
+            if (!testObj) return false; // Test not found
+            // Check if question ID exists in that test
+            // Note: Data is already loaded in testsToLoad via config.js/index.html script tags
+            if (!testObj.data) return false; 
+            const q = testObj.data.find(item => String(item.id) === qId);
+            return !!q;
+        });
+
+        // If we filtered anything out, update storage
+        if (list.length !== initialLength) {
+            console.log(`Cleaned up ${initialLength - list.length} stale incorrect entries.`);
+            localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
+        }
+
         const btn = getEl('global-review-btn-sidebar');
         const countSpan = getEl('global-review-count');
 

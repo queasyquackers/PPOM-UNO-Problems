@@ -131,7 +131,7 @@ const PDF_MAPPING = {
     "Antimicrobials": "pdfs/L119.pdf",
     "Beta Lactams Pt1": "pdfs/L120.pdf",
     
-    // Full Test Name Mappings (from config.js)
+    // Full Test Name Mappings (from config.js) - Verified L1a-L13
     "OMM: Basics of Diagnosis (L1a)": "pdfs/Lecture # 1a. T. Li, D.O. (PPT).pdf",
     "OMM: Diagnosis of the Pelvis (L1b)": "pdfs/Lecture # 1b. M. Terzella, D.O. (PPT).pdf",
     "Neuroembryology (L2)": "pdfs/Lecture # 2. K. Poole, Ph.D. (PPT)-1.pdf",
@@ -145,7 +145,7 @@ const PDF_MAPPING = {
     "Autonomic Nervous System (L10)": "pdfs/Lecture # 10. V. Grubisic, M.D., Ph.D. (PPT)-1.pdf",
     "Hypothalamus (L11)": "pdfs/Lecture # 11. V. Grubisic, M.D., Ph.D. (PPT).pdf",
     "Thalamus Anatomy & Phys (L12)": "pdfs/Lecture # 12. J. Xie, Ph.D. (PPT).pdf",
-    "L13 (Cranial Nerves?)": "pdfs/Lecture # 13. R. Morgan, D.O. (PPT).pdf",
+    "Clinical Decision Making (L13)": "pdfs/Lecture # 13. R. Morgan, D.O. (PPT).pdf",
     "General Sensory System (L15)": "pdfs/Lecture # 15. J. Xie, Ph.D. (PPT)-1.pdf",
     "Visual System (L16)": "pdfs/Lecture # 16. G. Otazu, Ph.D. (PPT)-1.pdf",
     "Auditory System (L17)": "pdfs/Lecture # 17. G. Otazu, Ph.D. (PPT)-1.pdf",

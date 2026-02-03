@@ -1,0 +1,577 @@
+
+=== PAGE 1 ===
+Office of Academic Affairs 
+Overview of 
+Neuroembryology
+Part 1: Embryonic development and 
+spinal cord
+Karen Poole, PhD
+Department of Biomedical and Anatomical Sciences
+kpoole@nyit.edu
+
+=== PAGE 2 ===
+Source: Course Syllabus
+1.
+Explain the sequence of events and the timing 
+of neural tube formation in a human embryo.
+2.
+Describe the cellular organization of the neural 
+tube as well as neural crest derivatives.
+3.
+Compare and contrast the development of the 
+spinal cord with that of the brain. 
+4.
+Correlate the major brain developmental 
+landmarks (e.g. vesicles) with the anatomy of 
+the human brain at birth.
+5.
+Apply basic neurodevelopmental considerations 
+to the analysis of the most common 
+neuroanatomical malformations at birth.
+Session Objectives
+
+=== PAGE 3 ===
+QUICK REVIEW OF GASTRULATION
+Note: times listed in this lecture are from 
+fertilization (which is offset about 2 weeks 
+from clinical definition of pregnancy)
+
+=== PAGE 4 ===
+19 Days
+The notochord and paraxial mesenchyme induces the 
+overlying ectoderm to thicken into the neural plate.
+This begins rostrally and progresses caudally.
+Involves many signaling molecules, including:
+• transforming growth factor-β 
+• Wnts
+• sonic hedgehog (SHH)
+• bone morphogenic proteins (BMPs)
+NEURAL PLATE: THE BEGINNING OF 
+THE NERVOUS SYSTEM
+
+=== PAGE 5 ===
+20 Days
+The midline of the neural 
+plate folds inward, creating 
+a neural groove, with a 
+neural fold on either side.
+Note the primitive streak 
+present here—neurulation 
+and gastrulation overlap 
+(weeks 3-4 of 
+development).
+NEURULATION
+
+=== PAGE 6 ===
+NEURULATION
+B
+C
+22 Days
+Cut Line 
+for B
+Cut Line 
+for C 
+A
+
+=== PAGE 7 ===
+Sections from different levels at 22 days 
+development.
+Moore, The Developing Human, Fig. 17.1
+NEURULATION (CROSS-SECTIONAL VIEW)
+
+=== PAGE 8 ===
+25 Days
+28 Days
+23 Days
+=Rostral neuropore
+=Caudal neuropore
+NEURULATION
+
+=== PAGE 9 ===
+NEURULATION
+
+=== PAGE 10 ===
+Moore, The Developing Human, Fig. 17.12
+A. Spina bifida occulta—
+often found incidentally 
+with no symptoms
+B. Meningocele
+C. Meningomyelocele 
+(myelomeningocele)
+D. Myeloschisis
+FAILURE OF CAUDAL NEUROPORE 
+CLOSURE: SPINA BIFIDA
+
+=== PAGE 11 ===
+Encephalocele (cranium 
+bifidum)—
+a herniation of cranial contents 
+(most common in occipital region)
+Different degrees depending on 
+herniation of neural tissue:
+B: Meningocele
+C: Meningoencephalocele
+D: Meningohydroencephalocele
+Moore, The Developing Human, Fig. 17.31
+FAILURE OF ROSTRAL NEUROPORE 
+CLOSURE
+
+=== PAGE 12 ===
+The most severe cases 
+result in anencephaly  (also 
+called meroencephaly). 
+From this point, the forebrain 
+and overlying skull fail to 
+develop.
+This is the equivalent of 
+myeloschisis for spina bifida, 
+with exposed neural tissue.
+Moore, The Developing Human, Fig. 17.17
+FAILURE OF 
+ROSTRAL 
+NEUROPORE 
+CLOSURE
+
+=== PAGE 13 ===
+Originate as ectoderm along the 
+edge of the neural groove (that is—
+the neural crest)
+As the neural tube separates from 
+the external portion of ectoderm, 
+neural crest cells separate from the 
+ectoderm and migrate to various 
+locations…
+NEURAL CREST 
+CELLS
+
+=== PAGE 14 ===
+Rothstein, et al. 2018. The molecular basis of neural crest axial identity.
+NEURAL CREST CELLS
+
+=== PAGE 15 ===
+Migrate away from neural tube to form 
+parts of peripheral nervous system:
+•
+Dorsal root ganglia (i.e. somatic 
+sensory neurons)
+•
+Postganglionic autonomic neurons
+•
+Some sensory ganglia of cranial 
+nerves
+•
+Arachnoid and pia mater
+•
+Schwann cells
+And also:
+•
+Melanocytes
+•
+Some facial bones
+•
+Odontoblasts→teeth
+•
+Laryngeal and tracheal cartilage
+•
+Aorticopulmonary septum and parts 
+of heart valves
+NEURAL CREST CELLS
+Siegel and Sapru, Essential Neuroscience, Fig. 2.1
+
+=== PAGE 16 ===
+NEURAL TUBE DIFFERENTIATION
+becomes white matter
+becomes gray matter
+becomes ependymal (glial) cells
+becomes ventricles and central canal
+Image from ScholarRx: 
+https://exchange.scholarrx.com/brick/development-of-the-nervous-system
+
+=== PAGE 17 ===
+NEURAL TUBE DIFFERENTIATION
+Concentration gradient formed by 
+sonic hedgehog (SHH) and bone 
+morphogenic proteins (BMPs) 
+controls differentiation of neurons 
+in the neural tube.
+SHH secreted by the notochord 
+induces neurons to develop near 
+the floor plate (ventral)
+BMP 4 and 7 signal the roof plate 
+to secrete tissue growth factor 
+(TGF-β). 
+Dorsal: TGF-β > SHH           
+sensory
+Ventral: SHH > TGF-β             
+motor 
+
+=== PAGE 18 ===
+23 days
+6 weeks
+9 weeks
+Moore, The Developing Human, Fig. 17.5
+DEVELOPMENT OF THE SPINAL CORD
+
+=== PAGE 19 ===
+Sensory cell bodies are found 
+in the dorsal root ganglia, 
+OUTSIDE the central nervous 
+system.
+These cells develop from 
+neural crest.
+Motor cell bodies are found in 
+the ventral horn of the spinal 
+cord, INSIDE the central 
+nervous system.
+These cells develop from the 
+neural tube.
+PERIPHERAL SENSORY VS. MOTOR 
+NEURONS
+
+=== PAGE 20 ===
+8 weeks
+24 weeks
+Neonate
+Adult
+Moore, The Developing Human, Fig. 17.10
+Vertebrae (and surrounding 
+somites) grow faster than the 
+spinal cord.
+This shifts the location of the 
+conus medullaris through 
+development.
+Note that with spina bifida, the 
+spinal cord can be attached to 
+surrounding tissue, which 
+stretches the spinal cord during 
+growth. This is tethered cord 
+syndrome.
+DEVELOPMENT OF THE SPINAL CORD
+
+=== PAGE 21 ===
+Office of Academic Affairs 
+Overview of 
+Neuroembryology
+Part 2: Brain
+Karen Poole, PhD
+Department of Biomedical and Anatomical Sciences
+kpoole@nyit.edu
+
+=== PAGE 22 ===
+Three primary vesicles:
+Forebrain
+Midbrain
+Hindbrain
+Moore, The Developing Human, Fig. 17.4
+28 days
+DEVELOPMENT OF THE BRAIN
+
+=== PAGE 23 ===
+Moore, The Developing Human, Fig. 17.18
+DEVELOPMENT OF THE BRAIN
+
+=== PAGE 24 ===
+DEVELOPMENT OF THE BRAIN
+Rostral
+Caudal
+Caudal
+Rostral
+
+=== PAGE 25 ===
+(XII)
+
+=== PAGE 26 ===
+Moore, The Developing Human, Fig. 17.18
+CONGENITAL DISORDER: 
+HOLOPROSENCEPHALY
+
+=== PAGE 27 ===
+CONGENITAL DISORDER: 
+HOLOPROSENCEPHALY
+Complete or partial failure of the prosencephalon 
+(forebrain) to divide along midline.
+Leads to impaired lateralization of the forebrain 
+(ventricles, cerebral hemispheres). Complete or 
+partial absence of corpus callosum
+Phenotypic: facial abnormalities, may see a 
+single midline eye (cyclopia), tube-like nose with 
+single nostril, cleft lip/palate, etc.
+Severe cases may be stillborn and have high 
+mortality in the first month of life.
+Milder cases may experience seizures, motor 
+impairment, hydrocephalus, hormone 
+dysregulation
+Causes variable, but include:
+• Fetal alcohol syndrome
+• Patau syndrome (trisomy 13)
+Case courtesy of Ian Bickle, 
+Radiopaedia.org, rID: 23218
+Lateral ventricles 
+joined in midline
+Longitudinal fissure 
+not present 
+anteriorly
+T2 axial MRI of 2 year old girl
+
+=== PAGE 28 ===
+Roof plate
+Floor plate
+Sulcus 
+limitans
+BRAINSTEM 
+VS. SPINAL 
+CORD
+Early brainstem
+Adult brainstem 
+(midbrain)
+Early spinal cord
+Adult spinal cord
+
+=== PAGE 29 ===
+MYELENCEPHALON
+
+=== PAGE 30 ===
+Moore, The Developing Human, Fig. 17.19
+5th week of 
+development
+Upper 
+(rostral) 
+medulla
+Lower 
+(caudal) 
+medulla
+MYELENCEPHALON
+
+=== PAGE 31 ===
+Moore, The Developing Human, Fig. 17.20
+A, B, C: 5th week of 
+development
+D: later
+Yellow arrow indicates 
+rhombic lip
+METENCEPHALON
+
+=== PAGE 32 ===
+Dandy-Walker Syndrome
+Agenesis or hypoplasia of 
+cerebellar vermis (yellow 
+arrow) with cystic dilation of 4th 
+ventricle
+Ataxia—problems with 
+coordination and/or unsteady 
+gait
+Often associated with non-
+communicating hydrocephalus 
+(leading to increased 
+intracranial pressure). 
+Signs: irritability, emesis
+CONGENITAL DISORDER: DANDY-
+WALKER SYNDROME
+Case courtesy of Frank Gaillard, 
+Radiopaedia.org, rID: 15808 
+Case courtesy of Bruno Di Muzio, 
+Radiopaedia.org, rID: 43048
+Normal midsagittal T2 MRI 
+(patient is 2 years old)
+Midsagittal T2 MRI of 2 year old 
+with Dandy-Walker Malformation
+
+=== PAGE 33 ===
+Moore, The Developing Human, Fig. 17.21
+5th week of 
+development
+11th week of 
+development
+MESENCEPHALON
+Alar plate
+Basal plate
+
+=== PAGE 34 ===
+In cerebellum and cerebrum, 
+neuroblasts migrate 
+outward, creating layers.
+This is also why there is gray 
+matter superficial/external to 
+white matter tracts, unlike in 
+the spinal cord.
+Leads to growth of cerebrum 
+and cerebellum.
+MIGRATION OF NEUROBLASTS
+
+=== PAGE 35 ===
+• Neocortex
+•
+Phylogenetically new
+•
+6 layers
+•
+90% of cortex
+• Allocortex (Paleocortex)
+•
+Phylogenetically old
+•
+3 layers
+•
+Found in olfactory 
+regions and 
+hippocampus
+Clinical Neuroanatomy & Neuroscience, 6th Ed., Fig. 29.1
+MIGRATION OF NEUROBLASTS
+Neocortex in 
+frontal and parietal 
+lobes
+
+=== PAGE 36 ===
+Moore, The Developing Human, Fig. 17.29
+Through fetal 
+development, 
+the cerebrum 
+grows and 
+develops gyri 
+and sulci as the 
+number of 
+neural cells 
+increases.
+FETAL DEVELOPMENT
+This growth of 
+the cerebrum 
+also covers the 
+diencephalon.
+
+=== PAGE 37 ===
+Moore, The Developing Human, Fig. 17.29
+Note that the 
+cortex of the 
+insula becomes 
+covered by the 
+temporal lobe 
+late in fetal 
+develpment
+FETAL DEVELOPMENT
+
+=== PAGE 38 ===
+Microcephaly—
+reduction in neurogenesis. The lack 
+of growth in the brain means the 
+overlying bones of the calvaria also 
+grow slowly
+Multiple causes:
+Genetic (e.g. autosomal recessive 
+primary microcephaly)
+Infectious agents (Zika, rubella, 
+Toxoplasma gondii)
+Exposure to alcohol (FAS)
+Exposure to high amounts of 
+ionizing radiation
+Moore, The Developing Human, Fig. 17.36
+CONGENITAL DISORDER: 
+MICROCEPHALY
+
+=== PAGE 39 ===
+Fig. 1.5, Clinical Neuroanatomy and Neuroscience, 6th Ed
+DEVELOPMENT OF THE VENTRICLES
+Schematic 
+view of 
+ventricles
+
+=== PAGE 40 ===
+Moore, The Developing Human, Fig. 17.26
+DEVELOPMENT OF THE VENTRICLES
+
+=== PAGE 41 ===
+Moore, The Developing Human, Fig. 17.27
+DEVELOPMENT OF THE VENTRICLES
+Sagittal 
+section
+Coronal section
+Coronal section
+
+=== PAGE 42 ===
+13 weeks
+21 weeks
+32 weeks
+Moore, The Developing Human, Fig. 17.28
+DEVELOPMENT OF 
+THE LATERAL 
+VENTRICLES
+Lateral view
+Light blue=cerebrum
+Dark blue=basal ganglia/nuclei
+White=lateral ventricle
+
+=== PAGE 43 ===
+FINAL CONFIGURAION OF THE 
+VENTRICLES
+
+=== PAGE 44 ===
+(Non-communicating) 
+Hydrocephalus—
+Can occur congenitally when 
+ventricular system is not 
+entirely open.
+This happens most commonly 
+in the cerebral aqueduct 
+(congenital aqueductal 
+stenosis).
+Signs include large head size 
+with bulging veins and 
+fontanelles, irritability, 
+drowsiness, vomiting, seizures.
+CONGENITAL DISORDER: 
+HYDROCEPHALUS
+
+=== PAGE 45 ===
+• The nervous system develops from ectoderm
+• Neurulation is the process that forms the neural tube
+• Neural crest cells migrate from the neural tube to form parts of the 
+peripheral nervous system and many other structures 
+• Basal plates form motor regions of the CNS and alar plates 
+form sensory regions. Differences in development of the spinal 
+cord and brain explain the anatomy of the CNS
+• The brain is formed by areas of inflation of the neural tube 
+called vesicles. Each vesicle gives rise to a portion of the brain 
+and a portion of the ventricular system.
+• Core References:
+• Siegel and Sapru, Essential Neuroscience, Chapter 2
+• Moore, Persaud, and Torchia, The Developing Human, 11th ed.
+• Scholar Rx: Development of the nervous system, Congenital disorders 
+of the nervous system
+Summary Slide
+
+=== PAGE 46 ===
+Summary Slide
+Disorder
+Embyronic structure affected
+Result
+Spina bifida
+Caudal neuropore fails to close
+Missing vertebral laminae, possible meningocele, 
+meningomyelocele, or myeloschisis
+Anencephaly
+Rostral neuropore fails to close
+Agenesis of much of brain and overlying bones
+Encephalocele
+Rostral neuropore fails to 
+close/neural tube fails to separate 
+from ectoderm
+Opening in bones of calvaria, possible meningocele, 
+meningoencephalocele, or meningohydroencephalocele
+Holoprosencephaly
+Prosencephalon fails to divide on 
+midline into paired lobes of 
+telencephalon
+Lack of separate left and right cerebral hemispheres, 
+agenesis/hypoplasia of corpus callosum
+Dandy-Walker Syndrome
+Rhombic lip fails to grow
+Agenesis or hypoplasia of cerebellar vermis
+Microcephaly
+reduction in neurogenesis
+Too few/simplified gyri of cerebrum
+Hydrocephalus
+Blockage/closure in ventricles
+Enlarged ventricles, build up of CSF, large head size
+
+=== PAGE 47 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

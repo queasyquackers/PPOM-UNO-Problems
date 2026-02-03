@@ -1,0 +1,878 @@
+
+=== PAGE 1 ===
+Office of Academic Affairs 
+Neuroanatomy: Blood-
+Brain Barrier, Meninges, 
+CSF, Ventricles
+Vincy Mathew, OMS-III
+Academic Medicine Scholar 2024
+vmathe03@nyit.edu
+Vladimir Grubisic, Ph.D.
+Department of Biomedical Sciences
+Vladimir.grubisic@nyit.edu
+
+=== PAGE 2 ===
+References
+
+=== PAGE 3 ===
+Session Objectives
+1. Explain the three interphases that seals central nervous system from the 
+extracellular fluid and rest of the body
+2. Identify and describe the major structural components and functional roles of the 
+blood-brain barrier.
+3. Explain and differentiate the anatomy of the scalp, skull, meninges, meningeal 
+spaces, and mechanisms of common brain herniations.
+4. Illustrate and label the morphology and key features of the ventricular system, 
+including the choroid plexus and its pathologies such as hydrocephalus.
+5. Analyze and predict how the blood-brain barrier, cerebrospinal fluid, and 
+ventricular system operate in maintaining neural homeostasis, and assess the 
+functional consequences of deficits in these structures due to injury or disease.
+
+=== PAGE 4 ===
+A patient presents with neurological symptoms secondary to 
+increased blood-brain barrier (BBB) permeability after a traumatic 
+brain injury. Damage to which of the following proteins, essential 
+in tight junctions, could disrupt BBB integrity by weakening cell-cell 
+adhesion between endothelial cells?
+Clinical Question
+A. Connexin-43
+B. Laminin
+C. Zona Occludens
+D. Integrin
+We’ll come back to this soon!
+
+=== PAGE 5 ===
+Central Nervous 
+System (CNS) 
+Barriers
+
+=== PAGE 6 ===
+Central Nervous System (CNS) Barriers
+a)
+Blood-brain barrier: 
+created by the endothelial 
+cells that form the walls of 
+the capillaries
+b)
+Blood-CSF barrier: formed 
+by the epithelial cells of 
+the choroid plexus facing 
+the cerebrospinal fluid
+c)
+Arachnoid barrier; 
+provided by the avascular 
+arachnoid epithelium, 
+underlying the dura, and 
+completely enclosing the 
+CNS
+Kadry, H., Noorani, B. & Cucullo, L. A blood–brain barrier overview on structure, function, impairment, and biomarkers of integrity. Fluids Barriers CNS 17, 69 
+(2020). https://doi.org/10.1186/s12987-020-00230-3
+
+=== PAGE 7 ===
+Blood Brain Barrier (BBB)
+•
+A selective semipermeable 
+membrane between the blood 
+and the interstitium of the 
+brain
+•
+Allows the cerebral blood 
+vessels to regulate movement 
+of molecules and ions between 
+blood and brain.
+•
+Composed of 3 major 
+structures:
+•
+endothelial cells (ECs) 
+•
+pericytes (PCs)
+•
+astrocyte end-feet
+Abbott NJ, Patabendige AA, Dolman DE, Yusof SR, Begley DJ. Structure and function of the blood-brain barrier. Neurobiol Dis. 2010 Jan;37(1):13-25. doi: 
+10.1016/j.nbd.2009.07.030. Epub 2009 Aug 5. PMID: 19664713.
+
+=== PAGE 8 ===
+Blood Brain Barrier (BBB)
+Abbott NJ, Patabendige AA, Dolman DE, Yusof SR, Begley DJ. Structure and function of the blood-brain barrier. Neurobiol Dis. 2010 Jan;37(1):13-25. doi: 
+10.1016/j.nbd.2009.07.030. Epub 2009 Aug 5. PMID: 19664713.
+Tight Junction (Zona 
+Occludens)
+•
+Located between 
+cerebral endothelial cells 
+•
+Zona Occludens connect 
+the of Occludin and 
+Claudin transmembrane 
+proteins to the 
+cytoskeleton.
+•
+Impenetrable to fluids, 
+ions, and small 
+molecules
+•
+Essential for maintaining 
+cell polarity.
+TEM of tight junction
+
+=== PAGE 9 ===
+BBB disruption during disease states 
+•
+Disease states that alter BBB:
+•
+Tumor
+•
+Traumatic brain injury
+•
+Hypoxic-ischemic 
+encephalopathy
+•
+HIV
+•
+Multiple sclerosis
+•
+Alzheimer's disease
+•
+Vasogenic edema
+•
+Hepatic encephalopathy
+•
+Intraventricular hemorrhage
+•
+These pathological insults can alter the 
+integrity of the BBB with consequent 
+migration of leukocytes into the brain 
+parenchyma
+Knox, E.G., Aburto, M.R., Clarke, G. et al. The blood-brain barrier in aging and neurodegeneration. Mol 
+Psychiatry 27, 2659–2673 (2022). https://doi.org/10.1038/s41380-022-01511-z
+
+=== PAGE 10 ===
+A patient presents with neurological symptoms secondary to 
+increased blood-brain barrier (BBB) permeability after a traumatic 
+brain injury. Damage to which of the following proteins, essential 
+in tight junctions, could disrupt BBB integrity by weakening cell-cell 
+adhesion between endothelial cells?
+Clinical Question
+A. Connexin-43
+B. Laminin
+C. Zona Occludens
+D. Integrin
+
+=== PAGE 11 ===
+A patient presents with neurological symptoms secondary to 
+increased blood-brain barrier (BBB) permeability after a traumatic 
+brain injury. Damage to which of the following proteins, essential 
+in tight junctions, could disrupt BBB integrity by weakening cell-cell 
+adhesion between endothelial cells?
+Clinical Question
+A. Connexin-43
+B. Laminin
+C. Zona Occludens
+D. Integrin
+Zona occludens proteins (ZO-1, ZO-2, ZO-3) are critical in forming and 
+maintaining tight junctions in the BBB. Traumatic brain injury can 
+disrupt these proteins, weakening cell-cell adhesion and increasing BBB 
+permeability. This dysfunction allows immune cells and inflammatory 
+molecules to enter the brain parenchyma, potentially contributing to 
+neuroinflammation and worsening neurological outcomes.
+
+=== PAGE 12 ===
+Blood Brain Barrier (BBB)
+•
+Lipophillic barrier→ only lets in lipid 
+substances (some exceptions)
+•
+Higher lipid solubility → higher BBB 
+permeability
+•
+Very important for pharmacology
+•
+Parkinson’s disease →lack of dopamine 
+in the brain; treatment targets to 
+increase dopamine.
+•
+Dopamine is polar
+•
+Use Levodopa→ non-polar; 
+penetrate BBB
+•
+Once inside brain, Levodopa gets 
+decarboxylated into Dopamine
+ 
+
+=== PAGE 13 ===
+Clinical Question
+Levodopa, a primary treatment for Parkinson’s disease, can 
+frequently cause nausea as a side effect. This is due in part to 
+levodopa’s interaction with which structure in the brainstem, 
+known for lacking a blood-brain barrier and for its role in 
+detecting blood-borne emetic agents?
+A. Nucleus Tractus Solitarius
+B. Pineal Gland
+C. Area Postrema
+D. Subfornical Organ
+We’ll come back to this soon!
+
+=== PAGE 14 ===
+Circumventricular Organs: Lacks BBB
+•
+The blood-brain barrier is present in 
+all brain regions, except for the 
+circumventricular organs:
+•
+Median eminence
+•
+Posterior pituitary 
+(neurohypophysis)
+•
+Pineal gland
+•
+Subfornical organ
+•
+Organum vasculosum of the 
+lamina terminalis
+•
+Area postrema- Emetic 
+center
+•
+Permits rapid transmission of 
+biochemical influences
+
+=== PAGE 15 ===
+Circumventricular Organs (CVO): 
+MRI w/ contrast
+•
+CVO are often visible in 
+contrast enhanced 
+imaging due to the lack 
+of BBB
+•
+Easy to mistake these 
+areas as some kind of 
+pathology if you do not 
+know the anatomy! 
+Verheggen ICM, de Jong JJA, van Boxtel MPJ, Postma AA, Verhey FRJ, Jansen JFA, Backes WH. Permeability 
+of the windows of the brain: feasibility of dynamic contrast-enhanced MRI of the circumventricular organs. 
+Fluids Barriers CNS. 2020 Oct 28;17(1):66. doi: 10.1186/s12987-020-00228-x. PMID: 33115484; PMCID: 
+PMC7594295.
+MRI FLAIR +
+
+=== PAGE 16 ===
+Horsburgh, A., Massoud, T.F. Th e circumventricular organs of the brain: conspicuity on clinical 3T MRI and a review of 
+functional anatomy. Surg Radiol Anat 35, 343–349 (2013). https://doi.org/10.1007/s00276-012-1048-2
+Area Postrema (AP): emetic 
+center
+•
+Located in the caudal medulla
+•
+Molecules that are exposed in the plasma 
+that are toxic, or emesis inducing can also 
+gain quick access to area postrema→ cause 
+vomiting reflex
+•
+Levodopa→ frequently (approximately 30%) 
+cause nausea and vomiting as unavoidable 
+side effects by stimulating dopamine 
+receptors in peripheral and brain tissues
+•
+Add carbidopa: decarboxylase inhibitor, 
+prevents Levodopa conversion to 
+dopamine, thus relieved the N/V 
+induced by dopamine binding to AP
+
+=== PAGE 17 ===
+Clinical Question
+Levodopa, a primary treatment for Parkinson’s disease, can 
+frequently cause nausea as a side effect. This is due in part to 
+levodopa’s interaction with which structure in the brainstem, 
+known for lacking a blood-brain barrier and for its role in 
+detecting blood-borne emetic agents?
+A. Nucleus Tractus Solitarius
+B. Pineal Gland
+C. Area Postrema
+D. Subfornical Organ
+
+=== PAGE 18 ===
+Clinical Question
+Levodopa, a primary treatment for Parkinson’s disease, can 
+frequently cause nausea as a side effect. This is due in part to 
+levodopa’s interaction with which structure in the brainstem, 
+known for lacking a blood-brain barrier and for its role in 
+detecting blood-borne emetic agents?
+A. Nucleus Tractus Solitarius
+B. Pineal Gland
+C. Area Postrema
+D. Subfornical Organ
+The area postrema is sensitive to circulating blood-borne 
+agents, such as levodopa, because it lacks a blood-brain 
+barrier. This allows it to detect emetic substances directly in 
+the bloodstream, often leading to nausea in patients taking 
+dopaminergic medications for Parkinson’s disease.
+
+=== PAGE 19 ===
+Blood-CSF Barrier
+•
+Blood-CSF barrier: formed by 
+the epithelial cells of the 
+choroid plexus (ependymal 
+cells) facing the cerebrospinal 
+fluid
+•
+In states of chronic 
+hydrocephalus: the increased 
+amount of CSF pushes on the 
+endothelial cells and stretches 
+tight junction: leaky paracellular 
+CSF flow into the brain 
+parenchyma: Transependymal 
+CSF flow
+Agarwal A, Bathla G, Kanekar S. Imaging of Communicating Hydrocephalus. Semin Ultrasound CT 
+MR. 2016 Apr;37(2):100-8. doi: 10.1053/j.sult.2016.02.007. Epub 2016 Feb 23. PMID: 27063660.
+
+=== PAGE 20 ===
+The Scalp
+•
+The scalp is the skin and subcutaneous 
+tissue covering the neurocranium. 
+•
+Composed of five layers and has a rich 
+vascular supply which explains why it 
+bleeds profusely and heals well.
+1. S: Skin (epidermis, dermis)
+2. C: Connective tissue (subcutaneous 
+tissue
+3. A: galea Aponeurosis- strong layer, 
+attachment for muscles of the scalp
+4. L: Loose connective tissue (sponge-like 
+areolar tissue) – potential 
+5. P: Periosteum (pericranium)- dense 
+fibrous tissue 
+
+=== PAGE 21 ===
+The Skull
+Subcutaneous tissue
+Periosteum
+Outer table
+The skull is composed of flat bones, 
+with cortical bone forming the outer 
+and inner tables and spongy bone 
+creating the middle diploe layer: 
+“wafers-chocolate-wafers”
+Radiopaedia
+Diploe
+Inner table
+Diploic vein
+
+=== PAGE 22 ===
+The Meningeal Layer
+Subcutaneous tissue
+Periosteum
+Skull
+Periosteal dura mater
+Meningeal dura 
+mater
+Superior sagittal sinus
+Arachnoid villi
+Subdural space
+Arachnoid mater
+Subarachnoid space
+Pia mater
+•
+The brain and spinal cord are 
+enveloped within three layers of 
+membrane collectively known as the 
+meninges
+•
+Superficial to deep, the three layers 
+are the dura mater, arachnoid mater, 
+and pia mater
+•
+The term “mater” is Latin for mother.
+
+=== PAGE 23 ===
+The Meningeal Layer
+Subcutaneous tissue
+Periosteum
+Skull
+Periosteal dura 
+mater
+Meningeal dura 
+mater
+Superior sagittal sinus
+Arachnoid villi
+Subdural space
+Arachnoid mater
+Subarachnoid space
+Pia mater
+1. The dura (hard) mater is 
+composed of 2 layers of  dense 
+connective tissue and adheres to 
+the inner surface of the skull and 
+vertebrae. 
+•
+Periosteal dura
+•
+Meningeal dura/dura propria
+2. The arachnoid (spider like) mater 
+is a thin, wispy membrane that lies 
+just deep to the dura and is 
+superficial to the pia mater.
+3. Pia (soft) mater is a very thin, clear 
+membrane that directly adheres to 
+the surface of the brain and spinal 
+cord.
+Epidural space
+
+=== PAGE 24 ===
+The Meningeal Layer
+Epidural Space
+•
+Potential space between the inner skull 
+and dura mater
+•
+Contains Middle meningeal artery, which 
+when injured (trauma) causes epidural 
+hematoma
+Subdural Space
+•
+Between dura mater and arachnoid mater
+•
+Contains bridging veins. 
+•
+Subdural hematoma occurs often from 
+tearing of these bridging veins.
+Subarachnoid Space
+•
+Between arachnoid mater and pia mater
+•
+Contains Cerebrospinal fluid (CSF) and 
+major cerebral arteries
+•
+Subarachnoid hemorrhage; Often from 
+aneurysm rupture
+More on this in the Cerebrovascular 
+anatomy lecture..
+
+=== PAGE 25 ===
+The Dural Folds
+Falx cerebri
+•
+Sickle-shaped fold of formed by the meningeal dura mater
+•
+Located in the longitudinal fissure between the cerebral 
+hemispheres
+•
+Contains the Superior Sagittal Sinus and Inferior Sagittal Sinus
+•
+Separates the two cerebral hemispheres, providing structural 
+support and limiting side-to-side movement
+Tentorium Cerebelli
+•
+Dural fold that forms a horizontal partition between the cerebrum 
+and cerebellum
+•
+Supports the occipital lobes and prevents compression of the 
+cerebellum, separating the cerebrum from the cerebellum
+More on this in the Cerebrovascular anatomy lecture..
+Rhoton cranial 
+anatomy and surgical 
+approaches
+
+=== PAGE 26 ===
+Brain Herniations
+C
+A
+B
+•
+A brain herniation occurs when something 
+inside the skull produces pressure that moves 
+brain tissues. This is most often the result of 
+brain swelling or bleeding from a head injury, 
+stroke or tumor.
+Types:
+A.
+Transtentorial (Uncal) Herniation:
+i.
+Medial portion of temporal lobe, Uncus,  
+herniates downward through the 
+tentorium cerebelli.
+B. Transforaminal (Tonsillar) Herniation
+i.
+The cerebellar tonsils herniate down 
+through the foramen magnum
+C. Subfalcine (Cingulate) Herniation
+i.
+The cingulate gyrus herniates down 
+below the falx cerebri.
+More on this in the 
+Cerebrovascular pathology 
+lecture..
+Riveros Gilardi B, Muñoz López JI, Hernández Villegas AC, Garay Mora JA, Rico Rodríguez OC, Chávez Appendini R, De la Mora Malváez M, Higuera Calleja JA. Types of 
+Cerebral Herniation and Their Imaging Features. Radiographics. 2019 Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 31589570.
+CT brain
+
+=== PAGE 27 ===
+Subfalcine Herniation
+Lea Alhilali, MD on X
+•
+Protrusion of cingulate gyrus 
+below the falx
+•
+Most common type of 
+herniation.
+•
+Often called “midline shift”- 
+the mass effect from the 
+bleed/lesion pushing the brain 
+over the midline.
+•
+Can cause headaches due to 
+increase intracranial pressure 
+and contralateral leg weakness
+•
+The herniated cingulate gyrus 
+can compress important 
+arteries and further cause 
+ischemia.
+Riveros Gilardi B, Muñoz López JI, Hernández Villegas AC, Garay Mora JA, Rico Rodríguez OC, Chávez Appendini R, De la Mora Malváez M, Higuera Calleja JA. Types of 
+Cerebral Herniation and Their Imaging Features. Radiographics. 2019 Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 31589570.
+
+=== PAGE 28 ===
+Transtentorial Herniation
+•
+Transtentorial (Uncal) Herniation: the uncus 
+compresses the ipsilateral oculomotor 
+nerve: ipsilateral fixed and dilated pupil--> 
+“blown pupil”
+•
+Need immediate neurosurgical 
+intervention: Craniectomy to 
+evacuation of hematoma and relieve 
+pressure.
+Blown pupil: >5mm
+Demetriades D, Benj ami n ER. Head Inj ury. In: Demetriades D, Chudnofsky CR, Benjam in ER, eds . Color A tl as of Emergency Traum a. Cambridge U niversity Press; 2021:1-23.
+More on this in the Cerebrovascular pathology lecture..
+Riveros Gilardi B, Muñoz López JI, Hernández Villegas AC, Garay Mora JA, Rico Rodríguez OC, Chávez Appendini R, De la Mora Malváez M, Higuera Calleja JA. Types of 
+Cerebral Herniation and Their Imaging Features. Radiographics. 2019 Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 31589570.
+CT brain
+CT brain
+
+=== PAGE 29 ===
+Transforaminal Herniation
+Tonsillar herniation
+Foramen magnum
+•
+Cerebellar tonsils protrude through the 
+foramen magnum due to increased 
+intracranial pressure, often resulting 
+from conditions like traumatic brain 
+injury, hemorrhage, or tumor.
+•
+Compression of the brainstem and 
+medulla oblongata, disrupting vital 
+functions such as respiration and 
+cardiovascular regulation.
+•
+Obtundation → Neurosurgical 
+emergency.
+•
+Often very poor prognosis.
+Riveros Gilardi B, Muñoz López JI, Hernández Villegas AC, Garay Mora JA, Rico Rodríguez OC, Chávez Appendini R, De la Mora Malváez M, Higuera Calleja JA. Types of 
+Cerebral Herniation and Their Imaging Features. Radiographics. 2019 Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 31589570.
+MRI-T1 brain
+
+=== PAGE 30 ===
+Meningeal lesions and infections
+Meningioma: 
+•
+most common primary brain tumor
+•
+benign, well-circumscribed, slow-growing 
+tumors that arise from the meninges (arachnoid 
+layer)
+•
+90% of meningiomas are supratentorial 
+•
+Classic dural tail in MRI
+Meningitis:
+•
+Inflammation of the pia-arachnoid layer 
+(leptomeninges) of the brain, spinal cord, or both
+•
+Bacterial/Viral/Fungal
+•
+Characterized clinically by fever, headache, 
+nuchal rigidity, brudzinski’s and kernig’s signs
+•
+Lumbar puncture → CSF analysis to identify 
+causative agent
+More on this in the 
+Cerebrovascular 
+pathology lecture..
+Diffuse 
+leptomeningeal 
+enhancement on 
+CT w/ contrast
+Radiopaedia
+CT +
+MRI-T1 brain
+
+=== PAGE 31 ===
+Clinical Question
+A 26-year-old man with end-stage kidney disease presents with 
+a dilated, unresponsive right pupil (6 mm) shortly after a 
+hemodialysis session. An axial CT scan reveals a subdural 
+hematoma with downward displacement of the medial 
+temporal lobe below a dural fold. What is the most likely 
+diagnosis, and what is the next step in management?
+A. Cingulate herniation; administer mannitol
+B. Brainstem infarction; initiate antihypertensive therapy
+C. Uncal herniation; initiate urgent neurosurgical intervention
+D. Hydrocephalus; perform ventriculoperitoneal shunt 
+placement
+CT brain
+
+=== PAGE 32 ===
+Clinical Question
+A 26-year-old man with end-stage kidney disease presents with 
+a dilated, unresponsive right pupil (6 mm) shortly after a 
+hemodialysis session. An axial CT scan reveals a subdural 
+hematoma with downward displacement of the medial 
+temporal lobe below a dural fold. What is the most likely 
+diagnosis, and what is the next step in management?
+A. Cingulate herniation; administer mannitol
+B. Brainstem infarction; initiate antihypertensive therapy
+C. Uncal herniation; initiate urgent neurosurgical intervention
+D. Hydrocephalus; perform ventriculoperitoneal shunt 
+placement
+The patient’s dilated, unresponsive pupil and CT findings of downward displacement of the medial temporal 
+lobe below a dural fold, indicate Uncal herniation. This is a neurosurgical emergency requiring immediate 
+intervention to relieve intracranial pressure and prevent life-threatening brainstem compression. 
+CT brain
+
+=== PAGE 33 ===
+The Ventricular system
+Leonardo da Vinci​
+•
+1st person to define and draw the ventricular 
+system
+•
+Ventriculography of brain of an ox: 1508
+
+=== PAGE 34 ===
+The Ventricular system
+But now you will get 
+your first lesson on 
+ventricular system from 
+da Vincy ;)
+
+=== PAGE 35 ===
+The Ventricular system
+•
+2 Lateral ventricles : 1 in each 
+cerebral hemisphere
+•
+Third ventricle in the diencephalon
+•
+4th ventricle in the hindbrain
+•
+The ventricular system is a 
+network of interconnected 
+cavities in the brain, filled with 
+cerebrospinal fluid (CSF), which 
+cushions the brain, removes 
+waste, and maintains intracranial 
+pressure.
+•
+Lined by ependymal cells which 
+form the blood-CSF barrier.
+
+=== PAGE 36 ===
+Lateral Ventricles
+•
+Located within each cerebral 
+hemisphere.
+•
+Largest ventricles, with three 
+horns (frontal, occipital, and 
+temporal).
+•
+Separated by septum 
+pellucidum
+•
+Communicates to the third 
+ventricle through 2 
+interventricular foramen 
+(Foramina of Monro) 
+Neurosurgical Altas
+CT brain
+`
+
+=== PAGE 37 ===
+Third Ventricle
+•
+Median slit-like cavity between the 2 
+thalami and part of hypothalamus.​
+•
+Communicates with lateral ventricles 
+via the Foramina of Monro.
+•
+Communicates with fourth ventricle 
+via the aqueduct of Sylvius.
+•
+Narrowest portion of ventricles
+•
+Can get obstructed leading to 
+obstructive hydrocephalus
+Neurosurgical Altas
+
+=== PAGE 38 ===
+Fourth Ventricle
+•
+Situated between the 
+brainstem and cerebellum.
+•
+Connects to the third ventricle 
+via the Cerebral Aqueduct 
+(Aqueduct of Sylvius).
+•
+Opens into the subarachnoid 
+space via the 2 Foramina of 
+Luschka (lateral) and Foramen 
+of Magendie (medial).
+
+=== PAGE 39 ===
+Circulation of CSF
+•
+Cerebrospinal fluid (CSF) surrounds the brain 
+and spinal cord, and may function as a shock 
+absorber for the CNS. 
+•
+It may also serve an immunological function 
+analogous to the lymphatic system (so-called 
+“glymphatic”)
+•
+It is an ultrafiltrate of the plasma secreted by 
+specialized cells that line the ventricles called 
+the choroid plexus (upto 500 ml/day)
+•
+The CSF circulate via lateral ventricles → 
+foramen of Monro→ third ventricle → sylvian 
+aqueduct → fourth ventricle → foramen of 
+Magendie and foramen of Magendie → 
+subarachnoid space→ arachnoid granulation → 
+dural sinuses.
+MRI-T1
+
+=== PAGE 40 ===
+Arachnoid villus
+Arachnoid Granulations
+
+=== PAGE 41 ===
+Ventricular System Pathologies
+•
+Choroid plexus tumors: rare benign tumors 
+(papilloma), can both obstruct flow of CSF 
+and overproduce CSF → hydrocephalus and 
+ventriculomegaly
+•
+Intraventricular hemorrhage: can result 
+from extension of intracerebral 
+hemorrhage or trauma, commonly seen in 
+preterm infants.
+•
+Ventriculitis: Inflammation of the 
+ependymal lining of the cerebral ventricles, 
+usually secondary to an infection such as 
+posttraumatic or implant-related 
+meningitis.
+MRI-T1
+MRI-T1
+CT
+
+=== PAGE 42 ===
+Hydrocephalus
+An abnormal accumulation of cerebrospinal fluid within 
+the ventricles of the brain.
+•
+either due to subnormal CSF reabsorption or, rarely, 
+CSF overproduction (choroid plexus papilloma) .
+•
+Other etiologies: congenital, normal pressure 
+hydrocephalus, idiopathic, ex vacuo etc..
+Subnormal CSF reabsorption
+1.
+Obstructive hydrocephalus (AKA non-
+communicating): block proximal to the arachnoid 
+granulations 
+I.
+On CT or MRI: enlargement of ventricles 
+proximal to block
+II.
+Causes: tumors, cysts, intraparenchymal or 
+intraventricular hemorrhage
+2.
+Communicating hydrocephalus (AKA non-
+obstructive): defect in CSF reabsorption by the AG
+I.
+Causes: Meningitis, trauma, subarachnoid 
+hemorrhage (SAH).
+MRI-T1: stenosis of aqueduct of 
+Sylvius, colloid cyst blocking foramen 
+of Monro, tumor 
+MRI-T1: Post SAH hydrocephalus. Dilatation of third ventricle 
+(yellow arrow) and temporal horn (blue arrow). 
+Agarwal A, Bathla G, Kanekar S. Imaging of Communicating Hydrocephalus. Semin Ultrasound CT MR. 2016 Apr;37(2):100-8. doi: 10.1053/j.sult.2016.02.007. Epub 2016 Feb 
+
+=== PAGE 43 ===
+Hydrocephalus
+•
+Hydrocephalus ex vacuo: An expansion of 
+the ventricles due to tissue loss. Seen with 
+Alzheimer's disease.
+•
+Normal pressure hydrocephalus (NPH) seen 
+in older people: hydrocephalus with normal 
+intracranial pressure.
+•
+Presents with triad of urinary 
+incontinence, cognitive dysfunction 
+and gait abnormality, : “WET, WACKY, 
+WOBBLY” 
+•
+Pseudo-tumor cerebri: (Idiopathic 
+Intracranial Hypertension): seen in in young 
+females: characterized by increased 
+intracranial pressure (ICP) without an 
+identifiable mass or obstruction in the brain.
+•
+Headache, transient visual 
+obscurations, pulsatile tinnitus, and 
+dizziness.
+MRI-T1: Left: NPH brain. Right: hydrocephalus ex vacuo in Alzheimer's brain- 
+extensive cortical atrophy- increase in sulci and decreased gyri surface area
+More on this in later 
+pathology lectures..
+Agarwal A, Bathla G, Kanekar S. Imaging of Communicating Hydrocephalus. Semin Ultrasound CT MR. 2016 Apr;37(2):100-8. doi: 10.1053/j.sult.2016.02.007. Epub 2016 Feb 
+23. PMID: 27063660.
+
+=== PAGE 44 ===
+Summary
+BBB
+Meninges and meningeal spaces
+Ventricular system and CSF flow
+Hydrocephalus
+Circumventricular organs
+Brain herniations
+The scalp and the skull
+
+=== PAGE 45 ===
+THANK YOU!
+Please email me with 
+any questions: 
+vmathe03@nyit.edu
+
+=== PAGE 46 ===
+Lecture and Lab Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

@@ -1,0 +1,452 @@
+
+=== PAGE 1 ===
+Office of Academic Affairs 
+Hypothalamus – 
+Neuroanatomy, Neuroendocrine 
+and Regional Function
+Vladimir Grubisic, MD PhD
+Biomedical Sciences
+vladimir.grubisic@nyit.edu
+
+=== PAGE 2 ===
+Source: Course Syllabus, CPG
+At the end of this lecture, students will be able to:
+1. Describe the gross anatomy of the hypothalamus, 
+including major hypothalamic nuclei.
+2. Describe the functions of the hypothalamus, including 
+hypothalamic hormone secretion and its regulation of 
+pituitary hormones.
+3. Understand clinical correlations between the location 
+of hypothalamic nuclei and their dysfunction.
+4. Describe the anatomy and regulation of feeding 
+behavior and clinical correlation to obesity.
+Session Objectives
+
+=== PAGE 3 ===
+Development
+3rd 
+ventricle
+Thalamus
+Hypothalamus
+Retina
+Pineal gland
+Nolte's The Human Brain, 2, 37-52
+
+=== PAGE 4 ===
+3rd 
+ventricle
+Thalamus
+Hypothalamus
+Retina
+Pineal gland
+Neuroanatomy
+Development
+Nolte's The Human Brain, 2, 37-52
+
+=== PAGE 5 ===
+Neuroanatomy
+
+=== PAGE 6 ===
+Neuroanatomy
+A
+P
+L
+Neuroendocrine
+Autonomic
+Periventricular
+Medial
+Lateral
+Parasympathetic
+Anterior
+Sympathetic
+Posterior
+3rd ventricle
+Internal capsule
+M
+
+=== PAGE 7 ===
+Hypothalamus - center that maintains homeostasis
+Nolte's The Human Brain, 23, 549-572
+Circumventricular
+organs:
+•
+Posterior pituitary
+•
+Median eminence
+•
+Organum vasculosum 
+of the lamina 
+terminalis (OVLT)
+•
+Pineal gland
+•
+Subfornical organ
+
+=== PAGE 8 ===
+Major Hypothalamus Functions
+T
+A
+N
+H
+A
+T
+S
+hirst and water balance
+denohypophysis control
+eurohypophysis releases hormones synthesized by hypothalamus
+unger
+utonomic regulation
+emperature regulation
+exual urges,       leep
+S 
+Visceral functions & affective behaviors
+Blood pressure
+Sleep-wake mechanisms
+Circadian rhythms
+
+=== PAGE 9 ===
+Source: Michigan State University Brain Biodiversity Bank, Research Gate
+Major Hypothalamic Nuclei - Neuroanatomy
+Six Sections 
+1
+2
+3
+4
+5
+6
+KEY
+OC
+Optic Chiasm
+PA
+Paraventricular Nucleus
+SC
+Suprachiasmatic 
+Nucleus
+AR
+Arcuate Nucleus
+SO
+Supraoptic Nucleus
+DM
+Dorsomedial Nucleus
+IN
+Infundibulum
+VM
+Ventromedial Nucleus
+ap
+Anterior Pituitary
+MM
+Medial Mammillary Nucleus
+pp
+Posterior Pituitary
+ac
+Anterior Commissure
+
+=== PAGE 10 ===
+Source: Michigan State University Brain Diversity Bank; Current Biology, 2014
+Major Hypothalamic Nuclei - Temperature
+•
+Plays a role in temperature 
+regulation through cooling
+•
+Lesions to this nucleus results in 
+hyperthermia
+•
+Plays a role in thermal regulation (i.e., 
+conservation and increased production of 
+heat)
+•
+Lesions to this nucleus results in the 
+inability to thermo-regulate; hypothermia
+Anterior Hypothalamic Nucleus
+Posterior Hypothalamic Nucleus
+3
+6
+
+=== PAGE 11 ===
+Nolte's The Human Brain, 23, 549-572
+Source: Michigan State University Brain Diversity Bank; Endocrinology: Adult and Pediatric, Chapter 18, 298-311.e4
+Major Hypothalamic Nuclei – Neurohypophysis
+Paraventricular Nucleus
+•
+Synthesizes:
+•
+ADH/AVP and Oxytocin
+Supraoptic Nucleus
+3
+Nolte's The Human Brain, 23, 549-572 Cell 125, May 19, 2006 ©2006 Elsevier Inc
+•
+Projects directly to the 
+autonomic nuclei of the 
+brain, brainstem and all 
+levels of the spinal cord
+•
+Synthesizes:
+•
+Corticotropin-Releasing 
+Factor (CRF) and 
+Thyrotropin- releasing 
+hormone (TRH)
+•
+Anti-Diuretic Hormone 
+(ADH) or Arginine 
+VasoPression (AVP), 
+and Oxytocin
+
+=== PAGE 12 ===
+Endocrinology: Adult and Pediatric, Chapter 18, 298-311.e4.
+Int. J. Mol. Sci. 2022
+ADH/AVP -> Osmoregulation
+↓ Neurogenic diabetes insipidus 
+↑ Syndrome of Inappropriate 
+ADH secretion (SIADH)
+CVO, Circumventricular organ
+(site of osmoreceptors) 
+ADH/AVP
+ADH/AVP and water homeostasis
+
+=== PAGE 13 ===
+Major Hypothalamic Nuclei – Adenohypophysis
+•
+Contains neurons that produce 
+factors that stimulate or inhibit the 
+hypothalamus 
+Arcuate Nucleus
+Examples: 
+-
+Neurons produce dopamine which 
+inhibits the secretion of prolactin in 
+the anterior pituitary
+-
+Neurons produce growth hormone 
+releasing hormone (GHRH)
+3
+•
+Production of 
+gonadotropin-releasing 
+hormone (GnRH)
+•
+Sexual behavior
+•
+Receptive area:
+•
+Drinking behavior
+•
+Temperature 
+regulation
+Preoptic Area
+Source: Michigan State University Brain Diversity Bank; Current Biology, 2014
+Nolte's The Human Brain, 23, 549-572
+
+=== PAGE 14 ===
+Regulation of anterior pituitary hormone secretion
+Goodman's Basic Medical Endocrinology, Chapter 2, 43-73
+The hypothalamus–pituitary–thyroid axis
+
+=== PAGE 15 ===
+Modified from Goodman's Basic Medical Endocrinology,
+Chapter 2, 43-73
+Hypothalamus and pituitary 
+- summary 
+
+=== PAGE 16 ===
+Source: Michigan State University Brain Diversity 
+Bank; Current Biology, 2014
+Major Hypothalamic Nuclei – Behavior
+•
+Receives input from the hippocampus via 
+the fornix
+•
+Projects to the anterior nucleus of the 
+thalamus through the mammillothalamic 
+tract
+•
+Important for episodic memory 
+Clinical Correlation: Patients with Wernicke-
+Korsakoff Syndrome, resulting from a thiamine 
+(vitamin B1) deficiency, have lesions in the 
+mammillary nucleus. Lesions result in amnesia.
+Mammillary Nuclei
+Medial
+Lateral
+6
+•
+Stimulation in animals results in 
+aggressive behavior
+•
+Plays a role in reproduction, feeding 
+behavior, and the stress response to 
+fear
+Dorsomedial Nucleus
+5
+
+=== PAGE 17 ===
+Michigan State University Brain Diversity Bank. 
+Current Biology, 2014. 
+Major Hypothalamic Nuclei – Circadian rhythm
+Suprachiasmatic Nucleus
+2
+Clin Exp Optom. 2019,102(2):99-108. 
+•
+Receives direct input from the retina 
+•
+Plays a role in the regulation of circadian 
+rhythms
+Dark
+
+=== PAGE 18 ===
+Michigan State University Brain Diversity Bank. 
+Current Biology, 2014. 
+Major Hypothalamic Nuclei – Circadian rhythm
+Suprachiasmatic Nucleus
+2
+Brancaccio et al., 2017, Neuron 93, 1420–1435
+•
+Receives direct input from the retina 
+•
+Plays a role in the regulation of circadian 
+rhythms
+•
+SCN astrocytes control circadian timekeeping
+
+=== PAGE 19 ===
+Source: Michigan State University Brain Diversity Bank; 
+Current Biology, 2014; Frontiers in Endocrinology, 2013; 
+Major Hypothalamic Nuclei – Feeding & Arousal
+Ventromedial Nucleus
+4
+•
+Feeding center of the brain
+•
+Lesions cause anorexia and 
+weight loss
+•
+Arousal center of the brain
+•
+Lesion/reduced number of 
+neurons cause narcolepsy-like 
+phenotype 
+Lateral Hypothalamic Nucleus
+•
+Satiety center of the brain
+•
+Lesions cause hyperphagia (overeating) 
+and obesity 
+•
+Synthesizes somatostatin (SS)
+
+=== PAGE 20 ===
+Source: Michigan State University Brain Diversity Bank; 
+Current Biology, 2014; Frontiers in Endocrinology, 2013; 
+Major Hypothalamic Nuclei – Feeding & Arousal
+Ventromedial Nucleus
+4
+•
+Feeding center of the brain
+•
+Lesions cause anorexia and 
+weight loss
+•
+Arousal center of the brain
+•
+Lesion/reduced number of 
+neurons cause nacrolepsy-like 
+phenotype 
+Lateral Hypothalamic Nucleus
+•
+Satiety center of the brain
+•
+Lesions cause hyperphagia (overeating) 
+and obesity 
+•
+Synthesizes somatostatin (SS)
+Arcuate Nucleus
+Pro-OpioMelanoCortin (POMC)
+
+=== PAGE 21 ===
+Source: Guyton and Hall Textbook of Medical Physiology, Chapter 72, 877-892
+Energy balance and feeding
+POMC, pro-opiomelanocortin
+α-MSH, α–melanocyte-stimulating hormone
+CART, cocaine- and amphetamine-regulated transcript
+MCR, melanocortin receptors
+LepR, Leptin receptor
+Y1r, neuropeptide Y1 receptor
+paraventricular nucleus (PVN)
+AGRP, agouti-related protein (MCR antagonist) 
+NPY, neuropeptide Y 
+CCK, cholecystokinin
+PYY, peptide YY
+OREXIGENIC
+ANOREXIGENIC
+
+=== PAGE 22 ===
+Energy balance and feeding – clinical relevance
+Congenital Leptin Deficiency
+MCR-4 Deficiency
+*most common form of monogenic obesity 
+•
+Hyperphagia   →     obesity
+•
+Hyperinsulinemia
+•
+Accelerated linear growth in early childhood
+•
+Treatment: subcutaneous recombinant 
+human leptin
+•
+Absence of Leptin
+hyperphagia 
+
+=== PAGE 23 ===
+Energy balance and feeding – clinical relevance
+N Engl J Med 2002; 346:1623-1630
+Gastric Bypass Surgery 
+
+=== PAGE 24 ===
+The Physiology of Glucagon-like Peptide 1 (GLP1)
+Physiol Rev 87: 1409–1439, 2007.
+
+=== PAGE 25 ===
+The effects of GLP1 and GLP1 receptor agonists
+Front Endocrinol (Lausanne). 2021; 12: 721135.
+
+=== PAGE 26 ===
+Tanycytes control hypothalamic liraglutide uptake and
+its anti-obesity actions
+Imbernon et al., 2022, Cell Metabolism 34, 1054–1063
+
+=== PAGE 27 ===
+Williams Textbook of Endocrinology, 7, 114-183.e17
+
+=== PAGE 28 ===
+SUMMARY
+Hypothalamic 
+Nucleus/Area
+Function
+Anterior Hypothalamic Nucleus
+Temperature regulation through cooling
+Posterior Hypothalamic Nucleus
+Temperature regulation through conservation and production of heat
+Supraoptic Nucleus
+AVP/ADH and oxytocin synthesis
+Paraventricular Nucleus
+AVP/ADH, CRF, TRH, and oxytocin synthesis; projections to autonomic nuclei
+Medial Preoptic Nucleus
+Regulation of gonadotropic hormone secretion
+Arcuate Nucleus
+Production of stimulatory or inhibitory hypothalamic factors, feeding
+Dorsomedial Nucleus
+Role in aggressive behavior, reproduction, feeding behavior, stress response
+Suprachiasmatic Nucleus
+Regulation of circadian rhythms
+Mammillary Nuclei
+Input from hippocampus, projections to thalamus; important in episodic 
+memory
+Ventromedial Nucleus
+Satiety center, synthesizes somatostatin
+Lateral Hypothalamic Nucleus
+Feeding center, arousal center
+
+=== PAGE 29 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

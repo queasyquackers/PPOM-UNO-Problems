@@ -1,109 +1,113 @@
 window.Test_L9 = [
   {
     "id": 1,
-    "category": "Reticular Formation: Serotonergic System",
-    "questionText": "A 35-year-old female presents with symptoms of major depressive disorder, including depressed mood, insomnia, and fatigue. Her psychiatrist prescribes a selective serotonin reuptake inhibitor (SSRI). The primary source of serotonin in the central nervous system, which projects diffusely to the cortex and limbic system, is located in which brainstem structure?",
+    "category": "Reticular Formation: Anatomy",
+    "questionText": "A 45-year-old male presents for a neurological evaluation after a traumatic brain injury. The physician explains to the medical students that the reticular formation is a complex network involved in arousal and motor control. When describing its anatomical boundaries, the physician correctly notes that the reticular formation extends rostrally to which of the following structures?",
     "options": [
       {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect. This is the primary source of Norepinephrine."
+        "text": "Thalamus only",
+        "explanation": "Incorrect. It extends further rostrally."
       },
       {
-        "text": "Substantia Nigra",
-        "explanation": "Incorrect. This is the primary source of Dopamine (nigrostriatal)."
-      },
-      {
-        "text": "Raphe Nuclei",
-        "explanation": "Correct. The Raphe Nuclei, located along the midline of the brainstem (midbrain to medulla), are the primary source of serotonin (5-HT) for the entire CNS.",
+        "text": "Lateral Hypothalamus and Subthalamic Nuclei",
+        "explanation": "Correct. The reticular formation extends rostrally to these diencephalic structures and caudally to the spinal cord intermediate gray.",
         "isCorrect": true
       },
       {
-        "text": "Nucleus Basalis of Meynert",
-        "explanation": "Incorrect. This is the primary source of Acetylcholine."
+        "text": "Cerebral Cortex",
+        "explanation": "Incorrect. It projects to the cortex but does not extend anatomically as a continuous structure into it."
       },
       {
-        "text": "Tuberomammillary Nucleus",
-        "explanation": "Incorrect. This is the primary source of Histamine."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Raphe Nuclei = Serotonin (5-HT). Regulation of mood, sleep, and pain modulation (descending pathway).",
-    "pdfPage": 5
-  },
-  {
-    "id": 2,
-    "category": "Reticular Formation: Norepinephrine System",
-    "questionText": "The Locus Ceruleus is the principal source of norepinephrine in the brain. Where is this nucleus located?",
-    "options": [
-      {
-        "text": "Ventral Tegmental Area (Midbrain)",
-        "explanation": "Incorrect. Dopamine."
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect. Not the rostral boundary."
       },
       {
-        "text": "Pontine Tegmentum (floor of 4th ventricle)",
-        "explanation": "Correct. The Locus Ceruleus ('Blue Spot') is located in the dorsal pons (tegmentum). It regulates arousal, attention, and stress response.",
-        "isCorrect": true
-      },
-      {
-        "text": "Medullary Pyramids",
-        "explanation": "Incorrect. Motor tracts."
-      },
-      {
-        "text": "Tectum of Midbrain",
-        "explanation": "Incorrect. Colliculi."
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
+        "text": "Cranial Nerve Nuclei",
+        "explanation": "Incorrect. The reticular formation is distinct from the cranial nerve nuclei."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Locus Ceruleus -> Norepinephrine. Located in PONS. Involved in 'Fight or Flight' response in the brain (arousal).",
+    "clinicalPearl": "Key takeaway: The Reticular Formation extends from the Lateral Hypothalamus/Subthalamic Nuclei rostrally to the Spinal Cord gray matter caudally.",
     "pdfPage": 6
   },
   {
-    "id": 3,
-    "category": "Reticular Formation: Sleep-Wake Cycle",
-    "questionText": "A 22-year-old male is brought to the ER after a motor vehicle accident. He is comatose and unresponsive to painful stimuli. CT scan reveals a small but critical hemorrhage affecting the paramedian tegmentum of the midbrain and upper pons. Disruption of which system is primarily responsible for his coma?",
+    "id": 2,
+    "category": "Neurochemistry: Serotonin",
+    "questionText": "A researcher is investigating the brainstem nuclei involved in mood regulation and pain modulation. Histological analysis reveals a cluster of neurons located along the midline of the brainstem, extending from the midbrain to the medulla. These neurons are found to release a neurotransmitter synthesized from tryptophan. Which of the following is the most likely identity of these nuclei?",
     "options": [
       {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect. Would cause paralysis, but not necessarily coma (Locked-in syndrome affects ventral pons, sparing the reticular formation, so patient is awake)."
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect. Produces Norepinephrine."
       },
       {
-        "text": "Ascending Reticular Activating System (ARAS)",
-        "explanation": "Correct. The ARAS (Reticular Formation projections to Thalamus/Cortex) maintains consciousness/arousal. Bilateral damage or compression results in coma.",
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect. Produces Dopamine."
+      },
+      {
+        "text": "Raphe Nuclei",
+        "explanation": "Correct. The Raphe nuclei are serotonergic and located along the midline (seam) of the brainstem.",
         "isCorrect": true
       },
       {
-        "text": "Medial Lemniscus",
-        "explanation": "Incorrect. Sensory loss."
+        "text": "Pedunculopontine Nucleus",
+        "explanation": "Incorrect. Produces Acetylcholine."
       },
       {
-        "text": "Dorsal Motor Nucleus of Vagus",
-        "explanation": "Incorrect. Autonomic function."
+        "text": "Ventral Tegmental Area",
+        "explanation": "Incorrect. Produces Dopamine."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Raphe Nuclei = Serotonin (5-HT). Located in the midline.",
+    "pdfPage": 44
+  },
+  {
+    "id": 3,
+    "category": "Neurochemistry: Norepinephrine",
+    "questionText": "A 32-year-old female with a history of anxiety disorders is prescribed a medication that modulates the 'fight or flight' response. The target neurons for this system are located primarily in a pigmented nucleus within the pontine tegmentum. These neurons project diffusely to the cortex to promote arousal and selective attention. Which anatomical structure is the primary source of this neurotransmitter?",
+    "options": [
+      {
+        "text": "Raphe Nuclei",
+        "explanation": "Incorrect. Serotonin."
       },
       {
-        "text": "Rubrospinal Tract",
-        "explanation": "Incorrect. Motor tone."
+        "text": "Locus Coeruleus",
+        "explanation": "Correct. The Locus Coeruleus ('Blue Spot') is the main source of Norepinephrine (NE) in the brain.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nucleus Basalis of Meynert",
+        "explanation": "Incorrect. Acetylcholine."
+      },
+      {
+        "text": "Tuberomammillary Nucleus",
+        "explanation": "Incorrect. Histamine."
+      },
+      {
+        "text": "Periaqueductal Gray",
+        "explanation": "Incorrect. Involved in pain modulation but not the source of NE."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ARAS (Ascending Reticular Activating System) is crucial for wakefulness. A lesion in the rostral brainstem (midbrain/upper pons) induces COMA.",
-    "pdfPage": 14
+    "clinicalPearl": "Key takeaway: Locus Coeruleus = Norepinephrine (NE). Involved in arousal, attention, and autonomic function.",
+    "pdfPage": 44
   },
   {
     "id": 4,
-    "category": "Reticular Formation: Histamine",
-    "questionText": "Antihistamines like diphenhydramine often cause sedation as a side effect. This occurs because they block histamine receptors in the cortex that receive input from which nucleus?",
+    "category": "Neurochemistry: Dopamine",
+    "questionText": "A 68-year-old male is brought to the neurologist due to progressive resting tremor, bradykinesia, and rigidity. He is diagnosed with Parkinson's disease. The physician explains that the motor symptoms are due to degeneration of a specific pathway projecting to the striatum. Where are the cell bodies of these degenerating neurons located?",
     "options": [
       {
-        "text": "Tuberomammillary Nucleus (Hypothalamus)",
-        "explanation": "Correct. The Tuberomammillary nucleus is the sole source of histamine projections to the cortex, promoting wakefulness. Blocking this causes drowsiness.",
+        "text": "Ventral Tegmental Area (VTA)",
+        "explanation": "Incorrect. VTA projects to limbic/cortical areas (Mesolimbic/Mesocortical)."
+      },
+      {
+        "text": "Substantia Nigra pars compacta (SNc)",
+        "explanation": "Correct. The Nigrostriatal pathway starts in the SNc and is crucial for motor coordination; its degeneration causes Parkinson's.",
         "isCorrect": true
       },
       {
-        "text": "Locus Ceruleus",
+        "text": "Locus Coeruleus",
         "explanation": "Incorrect. Norepinephrine."
       },
       {
@@ -111,318 +115,840 @@ window.Test_L9 = [
         "explanation": "Incorrect. Serotonin."
       },
       {
-        "text": "Substantia Nigra",
-        "explanation": "Incorrect. Dopamine."
-      },
-      {
-        "text": "Nucleus Accumbens",
-        "explanation": "Incorrect. Reward."
+        "text": "Pedunculopontine Nucleus",
+        "explanation": "Incorrect. Cholinergic, though affects gait in PD, the primary loss is SNc dopamine."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Histamine (from Tuberomammillary nucleus) = Wakefulness. Antihistamines = Sedation (by blocking this pathway).",
-    "pdfPage": 10
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Substantia Nigra pars compacta = Dopamine. Nigrostriatal pathway degeneration = Parkinson's Disease (Motor).",
+    "pdfPage": 44
   },
   {
     "id": 5,
-    "category": "Reticular Formation: Dopamine Pathways",
-    "questionText": "A 68-year-old male with Parkinson's disease is being treated with levodopa/carbidopa. He begins to experience visual hallucinations. This adverse effect is likely due to excessive dopaminergic stimulation in which pathway?",
+    "category": "Neurochemistry: Acetylcholine",
+    "questionText": "A 75-year-old female with Alzheimer's disease demonstrates significant cognitive decline and memory loss. Her symptoms are attributed to the loss of cholinergic neurons that project to the entire cerebral cortex. Which basal forebrain structure is the primary source of these cortical cholinergic projections?",
     "options": [
       {
-        "text": "Nigrostriatal pathway",
-        "explanation": "Incorrect. This translates to improved motor function (therapeutic effect)."
+        "text": "Pedunculopontine Tegmental Nucleus (PPT)",
+        "explanation": "Incorrect. Projects to brainstem and spinal cord."
       },
       {
-        "text": "Mesolimbic pathway",
-        "explanation": "Correct. The Mesolimbic pathway (VTA -> Nucleus Accumbens) is associated with reward and psychosis (positive symptoms of schizophrenia). Excess dopamine here causes hallucinations.",
+        "text": "Nucleus Basalis of Meynert (NBM)",
+        "explanation": "Correct. The NBM provides the major cholinergic input to the cerebral cortex and degenerates in Alzheimer's.",
         "isCorrect": true
       },
       {
-        "text": "Tuberoinfundibular pathway",
-        "explanation": "Incorrect. Regulates prolactin (Dopamine inhibits prolactin). Excess dopamine would lower prolactin but not cause hallucinations."
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect. Norepinephrine."
       },
       {
-        "text": "Mesocortical pathway",
-        "explanation": "Incorrect. Associated with negative symptoms/cognition."
-      },
-      {
-        "text": "Spinothalamic tract",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dopamine Pathways: Nigrostriatal = Movement (Parkinson's). Mesolimbic = Reward/Psychosis (Schizophrenia positive sx). Mesocortical = Cognition/Negative sx. Tuberoinfundibular = Prolactin inhibition.",
-    "pdfPage": 8
-  },
-  {
-    "id": 6,
-    "category": "Reticular Formation: Acetylcholine",
-    "questionText": "Which brainstem nuclei provide the major cholinergic input to the thalamus, crucial for REM sleep and cortical arousal?",
-    "options": [
-      {
-        "text": "Nucleus Basalis of Meynert",
-        "explanation": "Incorrect. Projects directly to Cortex (Alzheimer's relevance)."
-      },
-      {
-        "text": "Pedunculopontine (PPT) and Laterodorsal Tegmental (LDT) nuclei",
-        "explanation": "Correct. Located in the brainstem (pons/midbrain junction), they project to the thalamus to gate sensory input and regulate REM sleep.",
-        "isCorrect": true
+        "text": "Tuberomammillary Nucleus",
+        "explanation": "Incorrect. Histamine."
       },
       {
         "text": "Raphe Nuclei",
         "explanation": "Incorrect. Serotonin."
-      },
-      {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect. Norepinephrine."
-      },
-      {
-        "text": "Striatum",
-        "explanation": "Incorrect. GABA/ACh interneurons (local)."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Two ACh systems: 1. Brainstem (PPT/LDT) -> Thalamus (REM/Arousal). 2. Basal Forebrain (Meynert) -> Cortex (Memory/Attention - degenerates in Alzheimer's).",
-    "pdfPage": 9
+    "clinicalPearl": "Key takeaway: Nucleus Basalis of Meynert = Acetylcholine. Degenerates in Alzheimer's Disease.",
+    "pdfPage": 44
+  },
+  {
+    "id": 6,
+    "category": "Neurochemistry: Histamine",
+    "questionText": "A 22-year-old medical student takes an over-the-counter medication for seasonal allergies and subsequently struggles to stay awake during lectures. The medication blocks receptors for a neurotransmitter that normally promotes arousal. Where are the cell bodies that produce this arousal-promoting neurotransmitter located?",
+    "options": [
+      {
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect. Produce NE."
+      },
+      {
+        "text": "Raphe Nuclei",
+        "explanation": "Incorrect. Produce 5-HT."
+      },
+      {
+        "text": "Tuberomammillary Nucleus",
+        "explanation": "Correct. This hypothalamic nucleus produces Histamine, which promotes arousal. Antihistamines (like Benadryl) cause drowsiness.",
+        "isCorrect": true
+      },
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect. Produces Dopamine."
+      },
+      {
+        "text": "Ventral Tegmental Area",
+        "explanation": "Incorrect. Produces Dopamine."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Tuberomammillary Nucleus (Hypothalamus) = Histamine. Promotes arousal.",
+    "pdfPage": 6
   },
   {
     "id": 7,
-    "category": "Reticular Formation: Narcolepsy",
-    "questionText": "A 19-year-old female presents with excessive daytime sleepiness and episodes of sudden muscle weakness triggered by laughter (cataplexy). A CSF study reveals low levels of hypocretin (orexin). The neurons that produce this neuropeptide are located in which region?",
-    "options": [
-      {
-        "text": "Lateral Hypothalamus",
-        "explanation": "Correct. Orexin/Hypocretin neurons in the lateral hypothalamus stabilize the 'wake' state. Loss leads to Narcolepsy.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anterior Hypothalamus",
-        "explanation": "Incorrect. Sleep promoting (VLPO)."
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect. Orexin excites the LC, but doesn't originate there."
-      },
-      {
-        "text": "Pineal Gland",
-        "explanation": "Incorrect. Melatonin."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Narcolepsy Type 1 = Loss of Orexin (Hypocretin) neurons in Lateral Hypothalamus. Classic tetrad: Excessive Sleepiness, Cataplexy, Sleep Paralysis, Hypnagogic Hallucinations.",
-    "pdfPage": 14
-  },
-  {
-    "id": 8,
-    "category": "Reticular Formation: Descending Pain Control",
-    "questionText": "The Periaqueductal Gray (PAG) modulates pain transmission by projecting primarily to which neurotransmitter system in the medulla?",
-    "options": [
-      {
-        "text": "Substantia Nigra (Dopamine)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Raphe Nucleus Magnus (Serotonin)",
-        "explanation": "Correct. PAG -> Raphe Magnus -> Descends to Spinal Cord (Dorsal Horn) -> Inhibits pain transmission (via interneurons releasing Enkephalin).",
-        "isCorrect": true
-      },
-      {
-        "text": "Locus Ceruleus (Norepinephrine)",
-        "explanation": "Incorrect. Also involved in pain, but Raphe is the primary target of PAG.",
-        "isCorrect": false
-      },
-      {
-        "text": "Mesencephalic Nucleus (Proprioception)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cochlear Nuclei (Hearing)",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Descending Analgesia: PAG (Midbrain) -> Raphe (Medulla) -> Dorsal Horn (Spinal Cord). Serotonin inhibits pain sensation.",
-    "pdfPage": 5
-  },
-  {
-    "id": 9,
-    "category": "Reticular Formation: Dopamine Antagonists",
-    "questionText": "A 25-year-old male with schizophrenia is treated with haloperidol (a dopamine D2 antagonist). He develops galactorrhea (milk discharge) and gynecomastia. This side effect is due to blockade of dopamine in which pathway?",
+    "category": "Neurochemistry: Dopamine Pathways",
+    "questionText": "A 25-year-old male is started on antipsychotic medication for schizophrenia. While the medication effectively treats his hallucinations, he develops a flat affect and cognitive blunting. The physician suspects blockade of the mesocortical pathway. Which dopaminergic projection system is primarily associated with the 'positive' symptoms of schizophrenia, such as hallucinations?",
     "options": [
       {
         "text": "Nigrostriatal",
-        "explanation": "Incorrect. Blockade here causes extrapyramidal symptoms (Parkinsonism)."
-      },
-      {
-        "text": "Mesolimbic",
-        "explanation": "Incorrect. Blockade here treats psychosis."
+        "explanation": "Incorrect. Motor control."
       },
       {
         "text": "Tuberoinfundibular",
-        "explanation": "Correct. Dopamine normally inhibits Prolactin release from the anterior pituitary via this pathway. Blockade removes the inhibition -> Hyperprolactinemia.",
-        "isCorrect": true
+        "explanation": "Incorrect. Prolactin regulation."
       },
       {
         "text": "Mesocortical",
-        "explanation": "Incorrect. Blockade may worsen negative symptoms."
+        "explanation": "Incorrect. Associated with negative symptoms (cognition)."
       },
       {
-        "text": "Raphespinal",
-        "explanation": "Incorrect."
+        "text": "Mesolimbic",
+        "explanation": "Correct. Overactivity of the Mesolimbic pathway is associated with positive symptoms (addiction, hallucinations).",
+        "isCorrect": true
+      },
+      {
+        "text": "Reticulospinal",
+        "explanation": "Incorrect. Motor tract."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Mesolimbic pathway = Positive symptoms (Hallucinations). Mesocortical pathway = Negative symptoms (Cognition).",
+    "pdfPage": 44
+  },
+  {
+    "id": 8,
+    "category": "Consciousness: ARAS",
+    "questionText": "A 29-year-old male is brought to the ER following a high-speed motor vehicle accident. He is comatose. A CT scan reveals diffuse axonal injury affecting the brainstem. The attending physician explains that his coma is likely due to damage to the Ascending Reticular Activating System (ARAS). Which of the following best describes the primary function of the ARAS?",
+    "options": [
+      {
+        "text": "Regulation of heart rate and blood pressure",
+        "explanation": "Incorrect. Descending autonomic function."
+      },
+      {
+        "text": "Coordination of fine motor movements",
+        "explanation": "Incorrect. Cerebellar/Basal ganglia function."
+      },
+      {
+        "text": "Maintenance of arousal and alertness",
+        "explanation": "Correct. The ARAS projects to the cortex to maintain the awake/alert state.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inhibition of spinal reflexes",
+        "explanation": "Incorrect. Descending reticulospinal function."
+      },
+      {
+        "text": "Facilitation of REM sleep",
+        "explanation": "Incorrect. While involved in sleep, the defining function of ARAS is arousal."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Tuberoinfundibular Pathway: Dopamine = Prolactin Inhibiting Factor. Antipsychotics -> High Prolactin -> Galactorrhea/Amenorrhea.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: ARAS (Ascending Reticular Activating System) is essential for Arousal and Consciousness.",
+    "pdfPage": 6
+  },
+  {
+    "id": 9,
+    "category": "Consciousness: Glasgow Coma Scale",
+    "questionText": "A 55-year-old female falls down a flight of stairs and strikes her head. EMS arrives and assesses her level of consciousness. She opens her eyes to pain only, makes incomprehensible sounds, and shows abnormal flexion (decorticate posturing) to pain. Which of the following Glasgow Coma Scale (GCS) scores would be considered the threshold for a 'Severe' head injury?",
+    "options": [
+      {
+        "text": "Less than or equal to 12",
+        "explanation": "Incorrect. Moderate."
+      },
+      {
+        "text": "Less than or equal to 10",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Less than or equal to 8",
+        "explanation": "Correct. GCS <= 8 defines a severe head injury (comatose).",
+        "isCorrect": true
+      },
+      {
+        "text": "Less than or equal to 5",
+        "explanation": "Incorrect. Severe, but the threshold is 8."
+      },
+      {
+        "text": "Less than or equal to 3",
+        "explanation": "Incorrect. 3 is the lowest possible score."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: GCS <= 8 indicates Severe Head Injury.",
+    "pdfPage": 44
   },
   {
     "id": 10,
-    "category": "Reticular Formation: VLPO",
-    "questionText": "Which nucleus in the anterior hypothalamus plays a key role in inducing non-REM sleep by inhibiting the arousal systems (histamine, serotonin, norepinephrine)?",
+    "category": "Consciousness: States",
+    "questionText": "A 40-year-old male suffers a massive ischemic stroke affecting the pons. Examination reveals he remains fully awake and alert, with intact vertical eye movements and blinking. However, he is quadriplegic and cannot speak or move his face. This clinical presentation is most consistent with:",
     "options": [
       {
-        "text": "Ventrolateral Preoptic Nucleus (VLPO)",
-        "explanation": "Correct. VLPO contains GABAergic neurons that silence the wake-promoting nuclei (LC, Raphe, TMN) to induce sleep.",
+        "text": "Coma",
+        "explanation": "Incorrect. Coma is low arousal/low awareness."
+      },
+      {
+        "text": "Persistent Vegetative State",
+        "explanation": "Incorrect. High arousal but low awareness."
+      },
+      {
+        "text": "Minimally Conscious State",
+        "explanation": "Incorrect. Intermittent awareness."
+      },
+      {
+        "text": "Locked-in Syndrome",
+        "explanation": "Correct. High arousal and high awareness, but loss of all voluntary motor output except vertical eye movements (due to spared midbrain).",
         "isCorrect": true
       },
       {
-        "text": "Suprachiasmatic Nucleus (SCN)",
-        "explanation": "Incorrect. SCN is the master clock (circadian rhythm), but VLPO is the 'sleep switch'. SCN regulates VLPO."
-      },
-      {
-        "text": "Lateral Hypothalamus",
-        "explanation": "Incorrect. Orexin (Wake)."
-      },
-      {
-        "text": "Arcuate Nucleus",
-        "explanation": "Incorrect. Feeding/Hormones."
-      },
-      {
-        "text": "Mammillary Bodies",
-        "explanation": "Incorrect. Memory (Papez circuit)."
+        "text": "Brain Death",
+        "explanation": "Incorrect. No brainstem reflexes."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VLPO = SLEEP switch (GABA). Lateral Hypothalamus = WAKE switch (Orexin). They mutually inhibit each other (Flip-flop switch model).",
-    "pdfPage": 14
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Locked-in Syndrome: Full awareness/alertness but quadriplegia. Caused by ventral pontine damage sparing the ARAS.",
+    "pdfPage": 24
   },
   {
     "id": 11,
-    "category": "Reticular Formation: Locked-In vs Coma",
-    "questionText": "A 50-year-old male suffers a stroke affecting the basilar artery. He is quadriplegic and cannot speak, but he is fully awake and can communicate by blinking his eyes. Why is his consciousness preserved?",
+    "category": "Sleep: EEG Stages",
+    "questionText": "A sleep study is performed on a healthy volunteer. The EEG shows bursts of 12-14 Hz waves (sleep spindles) and high-amplitude K-complexes against a background of theta waves. Which stage of sleep is this individual most likely in?",
     "options": [
       {
-        "text": "The lesion is in the medulla, sparing the midbrain.",
-        "explanation": "Incorrect. Locked-in is typically a pontine lesion."
+        "text": "N1 (Stage 1)",
+        "explanation": "Incorrect. Primarily Theta waves."
       },
       {
-        "text": "The lesion is in the ventral pons, sparing the dorsal tegmentum (ARAS).",
-        "explanation": "Correct. Locked-in syndrome destroys the corticospinal tracts (basis pontis), but spares the Reticular Formation (tegmentum). Since the ARAS is intact, the patient is awake.",
+        "text": "N2 (Stage 2)",
+        "explanation": "Correct. Sleep Spindles and K-Complexes are pathognomonic for N2 sleep.",
         "isCorrect": true
       },
       {
-        "text": "The cortex takes over reticular function.",
-        "explanation": "Incorrect."
+        "text": "N3 (Slow Wave Sleep)",
+        "explanation": "Incorrect. Delta waves (>75 microV)."
       },
       {
-        "text": "The cerebellum mediates consciousness.",
-        "explanation": "Incorrect."
+        "text": "REM Sleep",
+        "explanation": "Incorrect. Low amplitude, mixed frequency (saw-tooth) waves, similar to beta."
       },
       {
-        "text": "The lesion is unilateral.",
-        "explanation": "Incorrect. Locked-in implies bilateral ventral damage."
+        "text": "Relaxed Wakefulness",
+        "explanation": "Incorrect. Alpha waves."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Consciousness requires EITHER intact Cortex OR intact ARAS. Coma = Bilateral Cortex damage OR Brainstem ARAS damage.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: N2 Sleep = Sleep Spindles + K-Complexes.",
+    "pdfPage": 26
   },
   {
     "id": 12,
-    "category": "Reticular Formation: Suprachiasmatic Nucleus",
-    "questionText": "The 'Master Clock' of the body, which regulates circadian rhythms based on light input from the retina, is the:",
+    "category": "Sleep: Physiology",
+    "questionText": "During a lecture on sleep physiology, the professor compares the physiological changes between Slow Wave Sleep (SWS) and REM sleep. Which of the following parameters is characteristically INCREASED in REM sleep compared to SWS?",
     "options": [
       {
-        "text": "Pineal Gland",
-        "explanation": "Incorrect. Receives signals FROM the SCN to secrete melatonin."
+        "text": "Muscle tone",
+        "explanation": "Incorrect. Muscle tone is lowest in REM (atonia)."
       },
       {
-        "text": "Suprachiasmatic Nucleus (SCN)",
-        "explanation": "Correct. Located in the hypothalamus, it receives direct input from the retina (retinohypothalamic tract) to entrain rhythms to light/dark cycles.",
+        "text": "Body temperature regulation",
+        "explanation": "Incorrect. Poikilothermy occurs in REM."
+      },
+      {
+        "text": "Brain blood flow",
+        "explanation": "Correct. Brain blood flow and metabolism increase in REM (active brain), unlike SWS.",
         "isCorrect": true
       },
       {
-        "text": "Supraoptic Nucleus",
-        "explanation": "Incorrect. ADH/Oxytocin."
+        "text": "Release of Norepinephrine",
+        "explanation": "Incorrect. NE is inhibited in REM."
       },
       {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "VLPO",
-        "explanation": "Incorrect. Sleep switch."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: SCN = Circadian Pacemaker. Regulates Melatonin release from Pineal gland (Light inhibits Melatonin).",
-    "pdfPage": 14
-  },
-  {
-    "id": 13,
-    "category": "Reticular Formation: REM Sleep",
-    "questionText": "During REM sleep, an EEG shows low-voltage, high-frequency activity similar to wakefulness ('paradoxical sleep'), but the body is paralyzed (atonia). Which neurotransmitter system is responsible for the active inhibition of spinal motor neurons during REM?",
-    "options": [
-      {
-        "text": "Norepinephrine from Locus Ceruleus",
-        "explanation": "Incorrect. REM-off neurons."
-      },
-      {
-        "text": "Serotonin from Raphe",
-        "explanation": "Incorrect. REM-off neurons."
-      },
-      {
-        "text": "Glycine and GABA (projecting from reticular formation)",
-        "explanation": "Correct. The sublaterodorsal nucleus (in pons) activates inhibitory interneurons in the spinal cord to release Glycine/GABA, preventing you from acting out dreams.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dopamine from VTA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glutamate from Cortex",
-        "explanation": "Incorrect."
+        "text": "Release of Serotonin",
+        "explanation": "Incorrect. 5-HT is inhibited in REM."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: REM Atonia protects against acting out dreams. Failure of this mechanism = REM Sleep Behavior Disorder (often prodrome to Parkinson's/Lewy Body Dementia).",
-    "pdfPage": 16
+    "clinicalPearl": "Key takeaway: REM sleep is an 'active brain in a paralyzed body'. Brain blood flow and HR/BP increase compared to SWS.",
+    "pdfPage": 31
   },
   {
-    "id": 14,
-    "category": "Reticular Formation: Serotonin Syndrome",
-    "questionText": "A patient taking an MAO inhibitor for depression ingests a large amount of cough syrup containing dextromethorphan. They present with agitation, hyperthermia, tremors, and hyperreflexia. This 'Serotonin Syndrome' results from overactivation of receptors downstream of which nucleus?",
+    "id": 13,
+    "category": "Sleep: Neurochemistry",
+    "questionText": "A 16-year-old female presents with excessive daytime sleepiness and episodes of sudden muscle weakness triggered by laughter (cataplexy). She is diagnosed with Narcolepsy. A deficiency in which specific neuropeptide is the underlying cause of her condition?",
     "options": [
       {
-        "text": "Raphe Nuclei",
-        "explanation": "Correct. Overstimulation of 5-HT receptors (postsynaptic to Raphe projections) causes the triad of Autonomic Instability, Altered Mental Status, and Neuromuscular irritability.",
+        "text": "GABA",
+        "explanation": "Incorrect. Major inhibitory transmitter."
+      },
+      {
+        "text": "Melatonin",
+        "explanation": "Incorrect. Regulates circadian rhythm."
+      },
+      {
+        "text": "Hypocretin (Orexin)",
+        "explanation": "Correct. Narcolepsy is caused by the loss of Hypocretin-producing neurons in the lateral hypothalamus.",
         "isCorrect": true
       },
       {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect."
+        "text": "Dopamine",
+        "explanation": "Incorrect. Involved, but the primary deficit is Hypocretin."
       },
+      {
+        "text": "Histamine",
+        "explanation": "Incorrect. Histamine promotes wakefulness, but Hypocretin loss is the root cause."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Narcolepsy = Loss of Hypocretin (Orexin) neurons in the Lateral Hypothalamus.",
+    "pdfPage": 44
+  },
+  {
+    "id": 14,
+    "category": "Sleep: Neurochemistry",
+    "questionText": "Benzodiazepines are frequently prescribed as sleep aids. These drugs exert their hypnotic effect by facilitating the action of which neurotransmitter?",
+    "options": [
+      {
+        "text": "Glutamate",
+        "explanation": "Incorrect. Excitatory."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. Promotes REM/Wakefulness."
+      },
+      {
+        "text": "GABA",
+        "explanation": "Correct. GABA is the major sleep-promoting neurotransmitter (VLPO nucleus). Benzos potentiate GABA-A receptors.",
+        "isCorrect": true
+      },
+      {
+        "text": "Norepinephrine",
+        "explanation": "Incorrect. Promotes wakefulness."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect. Promotes wakefulness."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: GABA is the primary sleep-promoting neurotransmitter (VLPO). Benzodiazepines enhance GABA activity.",
+    "pdfPage": 44
+  },
+  {
+    "id": 15,
+    "category": "Sleep: Firing Patterns",
+    "questionText": "Different brainstem nuclei have distinct firing patterns during the sleep-wake cycle. Which of the following nuclei is active during Wakefulness and REM sleep, but reduced during Non-REM sleep?",
+    "options": [
+      {
+        "text": "Locus Coeruleus (NE)",
+        "explanation": "Incorrect. Active in Wake, reduced in NREM, Silent in REM."
+      },
+      {
+        "text": "Raphe Nuclei (5-HT)",
+        "explanation": "Incorrect. Active in Wake, reduced in NREM, Silent in REM."
+      },
+      {
+        "text": "Basal Forebrain (ACh)",
+        "explanation": "Correct. Cholinergic neurons fire during Wake AND REM sleep (promoting cortical activation in both states).",
+        "isCorrect": true
+      },
+      {
+        "text": "Tuberomammillary Nucleus (Histamine)",
+        "explanation": "Incorrect. Off in REM."
+      },
+      {
+        "text": "Ventrolateral Preoptic Nucleus (GABA)",
+        "explanation": "Incorrect. Active primarily in Sleep (NREM and REM) to inhibit wake systems."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Acetylcholine (ACh) is HIGH during both Wakefulness and REM sleep. Monoamines (NE, 5-HT, Histamine) are SILENT in REM.",
+    "pdfPage": 31
+  },
+  {
+    "id": 16,
+    "category": "Motor Control: Rigidity",
+    "questionText": "A 50-year-old male suffers a brainstem hemorrhage. On examination, his upper extremities are flexed against his chest, while his lower extremities are rigidly extended. The physician documents 'Decorticate Rigidity'. This posturing suggests a lesion located:",
+    "options": [
+      {
+        "text": "Below the Red Nucleus",
+        "explanation": "Incorrect. This causes Decerebrate rigidity (extensor posturing in all limbs)."
+      },
+      {
+        "text": "Above the Red Nucleus",
+        "explanation": "Correct. Decorticate (flexor) rigidity occurs with lesions ABOVE the red nucleus (rubrospinal tract intact).",
+        "isCorrect": true
+      },
+      {
+        "text": "In the Spinal Cord",
+        "explanation": "Incorrect. Flaccid paralysis."
+      },
+      {
+        "text": "In the Medulla",
+        "explanation": "Incorrect. Would be decerebrate or flaccid."
+      },
+      {
+        "text": "In the Cerebellum",
+        "explanation": "Incorrect. Ataxia."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Decorticate (Flexor) = Above Red Nucleus. Decerebrate (Extensor) = Below Red Nucleus.",
+    "pdfPage": 37
+  },
+  {
+    "id": 17,
+    "category": "Motor Control: Rigidity",
+    "questionText": "In Decerebrate Rigidity, all four limbs exhibit extensor posturing. This is due to the unopposed activity of which descending tracts?",
+    "options": [
+      {
+        "text": "Corticospinal and Rubrospinal",
+        "explanation": "Incorrect. These are damaged/disconnected."
+      },
+      {
+        "text": "Vestibulospinal and Reticulospinal",
+        "explanation": "Correct. With the loss of cortical and rubral control, the Vestibulospinal and Reticulospinal tracts reflexively drive extension.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spinothalamic",
+        "explanation": "Incorrect. Sensory."
+      },
+      {
+        "text": "Dorsal Column",
+        "explanation": "Incorrect. Sensory."
+      },
+      {
+        "text": "Tectospinal",
+        "explanation": "Incorrect. Head/neck orientation."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Decerebrate rigidity involves Vestibulospinal and Reticulospinal tract dominance.",
+    "pdfPage": 44
+  },
+  {
+    "id": 18,
+    "category": "Pain Modulation: Anatomy",
+    "questionText": "A key component of the descending pain inhibitory pathway is a midbrain structure rich in opioid receptors. Stimulation of this area produces profound analgesia. Which structure is this?",
+    "options": [
       {
         "text": "Substantia Nigra",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basalis of Meynert",
+        "text": "Red Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Periaqueductal Gray (PAG)",
+        "explanation": "Correct. The PAG projects to the RVM and Locus Coeruleus to inhibit pain at the spinal cord level.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior Colliculus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Olive",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Periaqueductal Gray (PAG) is the central control center for descending pain inhibition.",
+    "pdfPage": 44
+  },
+  {
+    "id": 19,
+    "category": "Pain Modulation: Mechanism",
+    "questionText": "The Periaqueductal Gray (PAG) modulates pain by activating downstream nuclei. Which of the following nuclei receives input from the PAG and projects serotonergic fibers to the spinal cord dorsal horn to inhibit pain transmission?",
+    "options": [
+      {
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect. Sends Norepinephrine (NE)."
+      },
+      {
+        "text": "Rostral Ventromedial Medulla (RVM) / Raphe Magnus",
+        "explanation": "Correct. Raphe Magnus (in RVM) sends Serotonin to the dorsal horn enkephalinergic interneurons.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ventral Tegmental Area",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Nucleus Gracilis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Solitary Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PAG -> RVM (Raphe Magnus) -> Serotonin to Spinal Cord.",
+    "pdfPage": 6
+  },
+  {
+    "id": 20,
+    "category": "Pain Modulation: Pharmacology",
+    "questionText": "A 45-year-old female with chronic neuropathic pain is prescribed Duloxetine. Her physician explains that this drug works by increasing the levels of norepinephrine and serotonin in the synaptic cleft, thereby engaging the body's natural pain inhibitory system. Duloxetine belongs to which class of medications?",
+    "options": [
+      {
+        "text": "SSRI",
+        "explanation": "Incorrect. Selective Serotonin only."
+      },
+      {
+        "text": "TCA",
+        "explanation": "Incorrect. While TCAs also do this, Duloxetine is specifically an SNRI."
+      },
+      {
+        "text": "SNRI",
+        "explanation": "Correct. Serotonin-Norepinephrine Reuptake Inhibitor. Enhances descending inhibition.",
+        "isCorrect": true
+      },
+      {
+        "text": "Opioid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GABA agonist",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: SNRIs (like Duloxetine) treat chronic pain by boosting descending Serotonin/NE inhibition.",
+    "pdfPage": 39
+  },
+  {
+    "id": 21,
+    "category": "Neurochemistry: Dopamine Functions",
+    "questionText": "The Tuberoinfundibular pathway is one of the four major dopaminergic pathways. Dysfunction of this pathway is least likely to cause motor or cognitive symptoms, but instead results in:",
+    "options": [
+      {
+        "text": "Visual hallucinations",
+        "explanation": "Incorrect. Mesolimbic."
+      },
+      {
+        "text": "Resting tremor",
+        "explanation": "Incorrect. Nigrostriatal."
+      },
+      {
+        "text": "Hyperprolactinemia",
+        "explanation": "Correct. Dopamine in this pathway normally INHIBITS prolactin. Blockade leads to high prolactin (galactorrhea, amenorrhea).",
+        "isCorrect": true
+      },
+      {
+        "text": "Memory loss",
+        "explanation": "Incorrect. Cholinergic/Mesocortical."
+      },
+      {
+        "text": "Insomnia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Tuberoinfundibular pathway: Dopamine inhibits Prolactin.",
+    "pdfPage": 44
+  },
+  {
+    "id": 22,
+    "category": "Consciousness: Persistent Vegetative State",
+    "questionText": "A patient in a Persistent Vegetative State (PVS) is distinguished from a coma patient by the presence of:",
+    "options": [
+      {
+        "text": "Meaningful verbal communication",
+        "explanation": "Incorrect. Absent in PVS."
+      },
+      {
+        "text": "Purposeful motor movements",
+        "explanation": "Incorrect. Absent in PVS."
+      },
+      {
+        "text": "Sleep-wake cycles",
+        "explanation": "Correct. PVS patients have preserved brainstem autonomic functions and sleep-wake cycles (eyes open/close), unlike coma.",
+        "isCorrect": true
+      },
+      {
+        "text": "Full awareness of surroundings",
+        "explanation": "Incorrect. Awareness is absent/low."
+      },
+      {
+        "text": "Intact cognitive function",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: PVS has High Arousal (sleep-wake) but Low Awareness.",
+    "pdfPage": 18
+  },
+  {
+    "id": 23,
+    "category": "Sleep: Melatonin",
+    "questionText": "Which hypothalamic nucleus is establishing the circadian rhythm and stimulating the pineal gland to secrete melatonin?",
+    "options": [
+      {
+        "text": "Lateral Hypothalamus",
+        "explanation": "Incorrect. Orexin."
+      },
+      {
+        "text": "Ventrolateral Preoptic Nucleus",
+        "explanation": "Incorrect. GABA."
+      },
+      {
+        "text": "Suprachiasmatic Nucleus (SCN)",
+        "explanation": "Correct. SCN is the master clock, regulating melatonin secretion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tuberomammillary Nucleus",
+        "explanation": "Incorrect. Histamine."
+      },
+      {
+        "text": "Arcuate Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Suprachiasmatic Nucleus (SCN) -> Pineal Gland -> Melatonin.",
+    "pdfPage": 6
+  },
+  {
+    "id": 24,
+    "category": "Reticular Formation: Functions",
+    "questionText": "In addition to arousal and motor control, the reticular formation has significant autonomic control centers. Which of the following physiological functions is regulated by descending reticulospinal pathways?",
+    "options": [
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Respiration and Cardiovascular control",
+        "explanation": "Correct. Vital centers for breathing and heart rate are embedded in the medullary/pontine reticular formation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Taste",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Olfaction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Reticular formation contains vital respiratory and cardiovascular centers.",
+    "pdfPage": 2
+  },
+  {
+    "id": 25,
+    "category": "Consciousness: Clinical Case",
+    "questionText": "A 60-year-old male is evaluated for 'unresponsive wakefulness'. He opens his eyes during the day and closes them at night, breaths on his own, and has intact cranial nerve reflexes. However, he shows no sign of understanding language or purposeful interaction with his family. This state has persisted for 6 months post-anoxia. The diagnosis is:",
+    "options": [
+      {
+        "text": "Coma",
+        "explanation": "Incorrect. Eyes do not open."
+      },
+      {
+        "text": "Brain Death",
+        "explanation": "Incorrect. No respiration/reflexes."
+      },
+      {
+        "text": "Locked-in Syndrome",
+        "explanation": "Incorrect. Awareness is preserved."
+      },
+      {
+        "text": "Persistent Vegetative State",
+        "explanation": "Correct. 'Unresponsive wakefulness' with preserved sleep-wake and autonomic function.",
+        "isCorrect": true
+      },
+      {
+        "text": "Minimally Conscious State",
+        "explanation": "Incorrect. Would show intermittent purposeful behavior."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Persistent Vegetative State = Unresponsive Wakefulness.",
+    "pdfPage": 6
+  },
+  {
+    "id": 26,
+    "category": "Sleep: Slow Wave Sleep",
+    "questionText": "Deep sleep (Stage N3) is characterized by Delta waves on EEG. Which of the following physiological changes is most consistent with this stage?",
+    "options": [
+      {
+        "text": "Increased Blood Pressure",
+        "explanation": "Incorrect. Decreases."
+      },
+      {
+        "text": "Rapid Eye Movements",
+        "explanation": "Incorrect. REM."
+      },
+      {
+        "text": "Penile Erection",
+        "explanation": "Incorrect. REM."
+      },
+      {
+        "text": "Increased GI Motility",
+        "explanation": "Correct. Parasympathetic tone dominates in SWS ('Rest and Digest').",
+        "isCorrect": true
+      },
+      {
+        "text": "Vivid Dreaming",
+        "explanation": "Incorrect. REM."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: SWS is parasympathetic dominant (Low BP, Low HR, High GI motility).",
+    "pdfPage": 26
+  },
+  {
+    "id": 27,
+    "category": "Neurochemistry: Pharmacology",
+    "questionText": "A patient with Parkinson's disease is experiencing side effects from their medication. The physician explains that one of their drugs mimics acetylcholine. Which region of the brainstem contains cholinergic neurons that project to the spinal cord and are involved in locomotion?",
+    "options": [
+      {
+        "text": "Nucleus Basalis of Meynert",
+        "explanation": "Incorrect. Projects to Cortex (Cognition)."
+      },
+      {
+        "text": "Pedunculopontine Tegmental Nucleus (PPT)",
+        "explanation": "Correct. The PPT is cholinergic and involved in gait/locomotion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Raphe Nuclei",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Locus Coeruleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "VTA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PPT (Pedunculopontine Tegmental) = Acetylcholine involved in Locomotion/Gait.",
+    "pdfPage": 44
+  },
+  {
+    "id": 28,
+    "category": "Consciousness: Neuroimaging",
+    "questionText": "Functional MRI studies in some patients diagnosed with Persistent Vegetative State have revealed:",
+    "options": [
+      {
+        "text": "Complete absence of cortical activity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Activity indistinguishable from healthy controls in all tasks",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Brain activation in motor areas when asked to imagine playing tennis",
+        "explanation": "Correct. This landmark finding suggests that some PVS patients may have preserved covert awareness despite lack of motor response.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hyperactivity in the reticular formation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of brainstem metabolism",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: fMRI can detect 'covert consciousness' in some vegetative patients (e.g., imagining tennis activates SMA).",
+    "pdfPage": 23
+  },
+  {
+    "id": 29,
+    "category": "Sleep: REM vs NREM",
+    "questionText": "Which neurotransmitter system is uniquely ACTIVE during REM sleep compared to the monoamines (NE/5-HT) which are silent?",
+    "options": [
+      {
+        "text": "Norepinephrine",
+        "explanation": "Incorrect. Silent."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect. Silent."
+      },
+      {
+        "text": "Histamine",
+        "explanation": "Incorrect. Silent."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Correct. ACh neurons fire rapidly during REM (similar to Wake), correlating with the 'active' EEG.",
+        "isCorrect": true
+      },
+      {
+        "text": "Orexin",
+        "explanation": "Incorrect. Silent."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: REM Sleep: ACh High, Monoamines (NE, 5-HT, Hist) Low.",
+    "pdfPage": 6
+  },
+  {
+    "id": 30,
+    "category": "Neurochemistry: Summary",
+    "questionText": "The Locus Coeruleus provides the major source of which neurotransmitter to the CNS?",
+    "options": [
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect. Raphe."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect. SNc/VTA."
+      },
+      {
+        "text": "Norepinephrine",
+        "explanation": "Correct. LC = NE.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. NBM/PPT."
+      },
+      {
+        "text": "GABA",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Locus Coeruleus = Norepinephrine.",
+    "pdfPage": 44
+  },
+  {
+    "id": 31,
+    "category": "Reticular Formation: Pain",
+    "questionText": "Enkephalin-containing interneurons in the substantia gelatinosa of the spinal cord are activated by descending fibers from:",
+    "options": [
+      {
+        "text": "Nucleus Basalis of Meynert",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tuberomammillary Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Raphe Magnus",
+        "explanation": "Correct. Part of the RVM, projecting serotonin to the cord to activate inhibitory enkephalin neurons.",
+        "isCorrect": true
+      },
+      {
+        "text": "Red Nucleus",
         "explanation": "Incorrect."
       },
       {
@@ -430,304 +956,46 @@ window.Test_L9 = [
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Serotonin Syndrome: Myoclonus, Hyperreflexia, Hyperthermia. Distinguish from Neuroleptic Malignant Syndrome (Rigidity, Hyporeflexia).",
-    "pdfPage": 5
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Raphe Magnus (Serotonin) activates spinal Enkephalin neurons to block pain.",
+    "pdfPage": 44
   },
   {
-    "id": 15,
-    "category": "Reticular Formation: Area Postrema",
-    "questionText": "A chemotherapy patient experiences severe nausea and vomiting. The anti-emetic drug ondansetron works by blocking 5-HT3 receptors in the Chemoreceptor Trigger Zone (CTZ). Where is the CTZ located?",
+    "id": 32,
+    "category": "Sleep: Disorder",
+    "questionText": "REM Sleep Behavior Disorder (acting out dreams) involves a failure of the normal ________ that occurs during REM sleep.",
     "options": [
       {
-        "text": "Area Postrema (floor of 4th ventricle)",
-        "explanation": "Correct. The Area Postrema lacks a blood-brain barrier, allowing it to sample blood for toxins and trigger vomiting via the Vomiting Center (reticular formation).",
+        "text": "Rapid eye movements",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle atonia",
+        "explanation": "Correct. Normally, skeletal muscle tone is abolished in REM to prevent acting out dreams. Failure leads to RBD.",
         "isCorrect": true
       },
       {
-        "text": "Locus Ceruleus",
+        "text": "Cortical activation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pineal Gland",
+        "text": "Autonomic variation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hypothalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thalamus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Area Postrema = Vomiting Center input. No Blood-Brain Barrier (circumventricular organ).",
-    "pdfPage": 3
-  },
-  {
-    "id": 16,
-    "category": "Reticular Formation: Reticular Zones",
-    "questionText": "The reticular formation is divided longitudinally into three zones. Which zone contains the large projection neurons (e.g., reticulospinal tracts)?",
-    "options": [
-      {
-        "text": "Raphe (Median) Zone",
-        "explanation": "Incorrect. Serotonin synthesis."
-      },
-      {
-        "text": "Medial Zone (Magnocellular)",
-        "explanation": "Correct. Contains large cells that give rise to long ascending and descending tracts (movement/posture).",
-        "isCorrect": true
-      },
-      {
-        "text": "Lateral Zone (Parvocellular)",
-        "explanation": "Incorrect. Contains small cells primarily for sensory integration and cranial nerve reflexes (input zone).",
-        "isCorrect": false
-      },
-      {
-        "text": "Pyramidal Zone",
-        "explanation": "Incorrect. Not a reticular zone."
-      },
-      {
-        "text": "Ventricular Zone",
+        "text": "Dreaming",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Organization: Lateral = Small (Input). Medial = Large (Output). Midline (Raphe) = Chemical (Serotonin).",
-    "pdfPage": 4
+    "clinicalPearl": "Key takeaway: REM Sleep is characterized by muscle atonia (paralysis).",
+    "pdfPage": 31
   },
   {
-    "id": 17,
-    "category": "Reticular Formation: Gigantocellular Nucleus",
-    "questionText": "The Gigantocellular reticular nucleus in the medulla sends fibers to the spinal cord to inhibit extensor tone. This is part of which tract?",
+    "id": 33,
+    "category": "Neurochemistry: Addiction",
+    "questionText": "The addictive properties of drugs like cocaine and amphetamines are mediated primarily by increasing dopamine in which pathway?",
     "options": [
-      {
-        "text": "Lateral Reticulospinal Tract (Medullary)",
-        "explanation": "Correct. Medullary Reticulospinal = Inhibits extensors. Pontine Reticulospinal = Excites extensors. They balance posture.",
-        "isCorrect": true
-      },
-      {
-        "text": "Medial Reticulospinal Tract (Pontine)",
-        "explanation": "Incorrect. Excites anti-gravity muscles (extensors)."
-      },
-      {
-        "text": "Rubrospinal Tract",
-        "explanation": "Incorrect. Flexor tone."
-      },
-      {
-        "text": "Vestibulospinal Tract",
-        "explanation": "Incorrect. Extensor tone."
-      },
-      {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect. Voluntary movement."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Pontine Reticulospinal + Vestibulospinal = Extensor (Stand up). Medullary Reticulospinal + Rubrospinal = Flexor/Inhibitory (Relax). Decerebrate rigidity occurs when Cortex/Red Nucleus inhibition is lost, and Pontine/Vestibular systems run unchecked.",
-    "pdfPage": 4
-  },
-  {
-    "id": 18,
-    "category": "Reticular Formation: Central Pattern Generators",
-    "questionText": "Reticular formation circuits responsible for generating rhythmic patterns for chewing, swallowing, and breathing are known as:",
-    "options": [
-      {
-        "text": "Central Pattern Generators (CPGs)",
-        "explanation": "Correct. These are local circuits in the brainstem (and spinal cord for walking) that produce rhythmic outputs without constant cortical input.",
-        "isCorrect": true
-      },
-      {
-        "text": "Reflex Arcs",
-        "explanation": "Incorrect. Simple stimulus-response."
-      },
-      {
-        "text": "Homunculi",
-        "explanation": "Incorrect. Maps."
-      },
-      {
-        "text": "Fasciculi",
-        "explanation": "Incorrect. Tracts."
-      },
-      {
-        "text": "Ganglia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: CPGs in the medulla regulate respiratory rhythm (Pre-Botzinger complex). Damage can cause sleep apnea or respiratory arrest.",
-    "pdfPage": 4
-  },
-  {
-    "id": 19,
-    "category": "Reticular Formation: Norepinephrine and Anxiety",
-    "questionText": "A 28-year-old female with panic disorder experiences palpitations, sweating, and fear. Her symptoms are partly mediated by overactivity of noradrenergic projections from the Locus Ceruleus to which limbic structure involved in fear processing?",
-    "options": [
-      {
-        "text": "Amygdala",
-        "explanation": "Correct. The amygdala processes fear and threat detection. NE input sensitizes it. Beta-blockers (propranolol) can reduce the physical symptoms of this loop.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hippocampus",
-        "explanation": "Incorrect. Memory."
-      },
-      {
-        "text": "Nucleus Accumbens",
-        "explanation": "Incorrect. Reward."
-      },
-      {
-        "text": "Basal Ganglia",
-        "explanation": "Incorrect. Movement."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Locus Ceruleus -> Amygdala connection is central to the pathophysiology of anxiety and PTSD.",
-    "pdfPage": 6
-  },
-  {
-    "id": 20,
-    "category": "Reticular Formation: REM Sleep Disorders",
-    "questionText": "Lesions to the Pons can disrupt the inhibition of motor neurons during REM sleep. This manifests clinically as:",
-    "options": [
-      {
-        "text": "Insomnia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "REM Sleep Behavior Disorder (RBD)",
-        "explanation": "Correct. Patients 'act out' their dreams (punching, kicking) because the atonia mechanism in the pons is damaged.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sleep Apnea",
-        "explanation": "Incorrect. Medullary issue or obstruction."
-      },
-      {
-        "text": "Somnambulism (Sleep walking)",
-        "explanation": "Incorrect. Occurs in N3 (Deep) sleep, not REM."
-      },
-      {
-        "text": "Night Terrors",
-        "explanation": "Incorrect. N3 sleep event."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: RBD is highly predictive of future alpha-synucleinopathies (Parkinson's, Lewy Body Dementia).",
-    "pdfPage": 16
-  },
-  {
-    "id": 21,
-    "category": "Reticular Formation: Alzheimer's Disease",
-    "questionText": "In Alzheimer's disease, the earliest and most severe degeneration of cholinergic neurons occurs in the:",
-    "options": [
-      {
-        "text": "Nucleus Basalis of Meynert",
-        "explanation": "Correct. This basal forebrain nucleus supplies ACh to the cortex. Its loss correlates with cognitive decline.",
-        "isCorrect": true
-      },
-      {
-        "text": "Locus Ceruleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Raphe Nuclei",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ventral Tegmental Area",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Striatum",
-        "explanation": "Incorrect. Loss of ACh interneurons is not the primary feature."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Cholinesterase inhibitors (e.g., Donepezil) treat Alzheimer's by boosting ACh from the failing Nucleus Basalis.",
-    "pdfPage": 9
-  },
-  {
-    "id": 22,
-    "category": "Reticular Formation: Substantia Nigra",
-    "questionText": "The Substantia Nigra contains melanin pigment. This pigment is a byproduct of the synthesis of which neurotransmitter?",
-    "options": [
-      {
-        "text": "Serotonin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dopamine",
-        "explanation": "Correct. Neuromelanin accumulates in dopaminergic neurons. In Parkinson's, the substrate is 'depigmented' (pale) due to neuronal loss.",
-        "isCorrect": true
-      },
-      {
-        "text": "Norepinephrine",
-        "explanation": "Incorrect. Also pigmented in Locus Ceruleus, but SN is defined by Dopamine."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "GABA",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Substantia Nigra = Black Substance. Loss of pigment = Loss of DOPAMINE neurons = Parkinson's.",
-    "pdfPage": 8
-  },
-  {
-    "id": 23,
-    "category": "Reticular Formation: Melatonin",
-    "questionText": "Melatonin is synthesized from which neurotransmitter precursor?",
-    "options": [
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Serotonin",
-        "explanation": "Correct. Tryptophan -> Serotonin -> Melatonin (in Pineal Gland).",
-        "isCorrect": true
-      },
-      {
-        "text": "Norepinephrine",
-        "explanation": "Incorrect. NE stimulates the pineal gland to MAKE melatonin, but isn't the precursor."
-      },
-      {
-        "text": "Histamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pineal tumors can compress the nearby midbrain tectum causing Parinaud's syndrome, and may disrupt melatonin secretion.",
-    "pdfPage": 5
-  },
-  {
-    "id": 24,
-    "category": "Reticular Formation: Mesocortical Pathway",
-    "questionText": "Which dopaminergic pathway is associated with the 'negative symptoms' of schizophrenia (flat affect, avolition) when hypoactive?",
-    "options": [
-      {
-        "text": "Mesolimbic",
-        "explanation": "Incorrect. Hyperactivity here = Positive symptoms (hallucinations)."
-      },
-      {
-        "text": "Mesocortical",
-        "explanation": "Correct. VTA -> Prefrontal Cortex. Low dopamine here causes cognitive and negative symptoms. (Dilemma: Blocking D2 helps positive sx but worsens negative sx).",
-        "isCorrect": true
-      },
       {
         "text": "Nigrostriatal",
         "explanation": "Incorrect. Movement."
@@ -737,353 +1005,83 @@ window.Test_L9 = [
         "explanation": "Incorrect. Prolactin."
       },
       {
-        "text": "Raphespinal",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Schizophrenia Dopamine Hypothesis: Too much in Mesolimbic (Crazy), Too little in Mesocortical (Lazy).",
-    "pdfPage": 8
-  },
-  {
-    "id": 25,
-    "category": "Reticular Formation: Sleep Stages",
-    "questionText": "An EEG shows Sleep Spindles and K-complexes. Which stage of sleep is this?",
-    "options": [
-      {
-        "text": "N1 (Light Sleep)",
-        "explanation": "Incorrect. Theta waves."
-      },
-      {
-        "text": "N2 (Intermediate)",
-        "explanation": "Correct. Spindles and K-complexes are the hallmarks of N2 sleep. It is the longest stage.",
+        "text": "Mesolimbic",
+        "explanation": "Correct. The Mesolimbic pathway (VTA to Nucleus Accumbens) is the 'Reward Pathway'.",
         "isCorrect": true
       },
       {
-        "text": "N3 (Deep/Slow Wave)",
-        "explanation": "Incorrect. Delta waves."
+        "text": "Mesocortical",
+        "explanation": "Incorrect. Cognition."
       },
       {
-        "text": "REM",
-        "explanation": "Incorrect. Beta/Sawtooth waves (looks like awake)."
-      },
-      {
-        "text": "Awake",
-        "explanation": "Incorrect. Alpha/Beta."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: N2 = Spindles/K-complexes. Teeth grinding (Bruxism) happens here.",
-    "pdfPage": 13
-  },
-  {
-    "id": 26,
-    "category": "Reticular Formation: Enuresis",
-    "questionText": "Bedwetting (nocturnal enuresis) and Night Terrors typically occur during which stage of sleep?",
-    "options": [
-      {
-        "text": "REM",
-        "explanation": "Incorrect. Nightmares occur here (can be remembered). Night Terrors (amnesia) are different."
-      },
-      {
-        "text": "N1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "N3 (Slow Wave Sleep)",
-        "explanation": "Correct. Deep sleep phenomena (Sleepwalking, Night Terrors, Bedwetting) occur in Delta wave sleep. Children have more N3 than adults.",
-        "isCorrect": true
-      },
-      {
-        "text": "N2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Awake",
+        "text": "Reticulospinal",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Wee and Flee in N3 (Peeing and Sleepwalking/Terrors).",
-    "pdfPage": 13
-  },
-  {
-    "id": 27,
-    "category": "Reticular Formation: Tuberomammillary Nucleus",
-    "questionText": "The Tuberomammillary nucleus (TMN) promotes wakefulness by releasing:",
-    "options": [
-      {
-        "text": "Histamine",
-        "explanation": "Correct. Only source of CNS histamine.",
-        "isCorrect": true
-      },
-      {
-        "text": "GABA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Orexin",
-        "explanation": "Incorrect. Lateral Hypothalamus."
-      },
-      {
-        "text": "Serotonin",
-        "explanation": "Incorrect. Raphe."
-      },
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect. VTA/SN."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Histamine = Wake. GABA (VLPO) inhibits Histamine to cause sleep.",
-    "pdfPage": 10
-  },
-  {
-    "id": 28,
-    "category": "Reticular Formation: Cataplexy",
-    "questionText": "Cataplexy (sudden loss of muscle tone with strong emotion) in Narcolepsy is thought to be an intrusion of which sleep stage into wakefulness?",
-    "options": [
-      {
-        "text": "N1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "N2",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "N3",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "REM",
-        "explanation": "Correct. REM atonia (paralysis) is inappropriately triggered while awake. The patient is conscious but paralyzed.",
-        "isCorrect": true
-      },
-      {
-        "text": "None",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Narcolepsy patients enter REM immediately (SOREMP - Sleep Onset REM Period).",
-    "pdfPage": 14
-  },
-  {
-    "id": 29,
-    "category": "Reticular Formation: Pharmacologic Targets",
-    "questionText": "Benzodiazepines promote sleep and reduce anxiety by potentiating the transmission of which neurotransmitter, commonly found in interneurons of the reticular formation?",
-    "options": [
-      {
-        "text": "Glutamate",
-        "explanation": "Incorrect. Excitatory."
-      },
-      {
-        "text": "GABA",
-        "explanation": "Correct. GABA is the major inhibitory neurotransmitter. Benzos bind to GABA-A receptors to increase channel opening frequency.",
-        "isCorrect": true
-      },
-      {
-        "text": "Glycine",
-        "explanation": "Incorrect. Spinal cord inhibitory."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Substance P",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GABA = Brain's 'brake pedal'. VLPO uses GABA to shut off the lights (arousal centers).",
-    "pdfPage": 15
-  },
-  {
-    "id": 30,
-    "category": "Reticular Formation: Caffeine",
-    "questionText": "Caffeine promotes wakefulness primarily by antagonizing receptors for which endogenous sleep-promoting somnogen?",
-    "options": [
-      {
-        "text": "Adenosine",
-        "explanation": "Correct. Adenosine accumulates with metabolic activity (ATP breakdown) creating 'sleep pressure'. Caffeine blocks adenosine receptors.",
-        "isCorrect": true
-      },
-      {
-        "text": "Melatonin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "GABA",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Serotonin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Histamine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sleep Pressure (Homeostatic drive) = Adenosine accumulation. Circadian drive = SCN/Melatonin. Both needed for good sleep.",
-    "pdfPage": 12
-  },
-  {
-    "id": 31,
-    "category": "Reticular Formation: Pontine Micturition Center",
-    "questionText": "Barrington's Nucleus (Pontine Micturition Center) projects to the spinal cord to coordinate:",
-    "options": [
-      {
-        "text": "Defecation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Urination (Micturition)",
-        "explanation": "Correct. It coordinates relaxation of the sphincter and contraction of the detrusor. Damage leads to urinary retention.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ejaculation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vomiting",
-        "explanation": "Incorrect (Area postrema)."
-      },
-      {
-        "text": "Breathing",
-        "explanation": "Incorrect (Pneumotaxic center)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PMC (Pons) = Go (Pee). Frontal Cortex = Stop (Don't Pee yet). Loss of frontal inhibition = Incontinence.",
-    "pdfPage": 4
-  },
-  {
-    "id": 32,
-    "category": "Reticular Formation: Paramedian Pontine Reticular Formation",
-    "questionText": "A lesion in the right PPRF (Paramedian Pontine Reticular Formation) results in:",
-    "options": [
-      {
-        "text": " inability to look UP",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inability to look to the LEFT",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inability to look to the RIGHT with either eye",
-        "explanation": "Correct. PPRF is the horizontal gaze center for the IPSILATERAL side. Right PPRF drives Right CN VI (and Left CN III val MLF) to look Right.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right INO",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Left INO",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: PPRF lesion = Ipsilateral Gaze Palsy. (Can't look toward the lesion).",
-    "pdfPage": 18
-  },
-  {
-    "id": 33,
-    "category": "Reticular Formation: Ventral Tegmental Area",
-    "questionText": "The Ventral Tegmental Area (VTA) is the origin of which dopaminergic pathways?",
-    "options": [
-      {
-        "text": "Nigrostriatal only",
-        "explanation": "Incorrect (SNc)."
-      },
-      {
-        "text": "Mesolimbic and Mesocortical",
-        "explanation": "Correct. The VTA projects to the Nucleus Accumbens (Reward/Limbic) and Prefrontal Cortex.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tuberoinfundibular only",
-        "explanation": "Incorrect (Arcuate nucleus)."
-      },
-      {
-        "text": "Raphespinal",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "None",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: VTA = Reward/Addiction center (Mesolimbic). Drugs of abuse hijack this system.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Mesolimbic Dopamine = Reward/Addiction.",
+    "pdfPage": 44
   },
   {
     "id": 34,
-    "category": "Reticular Formation: Opioids",
-    "questionText": "Opioids produce analgesia by acting on receptors in the Periaqueductal Gray (PAG) and spinal cord. Which endogenous neuropeptide binds to these same receptors?",
+    "category": "Consciousness: TBI",
+    "questionText": "What is the most common cause of traumatic brain injury (TBI) leading to deficits in consciousness, especially in the elderly?",
     "options": [
       {
-        "text": "Substance P",
-        "explanation": "Incorrect. Pain transmitter."
+        "text": "Motor Vehicle Accidents",
+        "explanation": "Incorrect. Common in younger adults."
       },
       {
-        "text": "Enkephalins / Endorphins",
-        "explanation": "Correct. These are endogenous opioids involved in the descending pain control system.",
+        "text": "Falls",
+        "explanation": "Correct. Falls are the leading cause of TBI, particularly in the elderly population.",
         "isCorrect": true
       },
       {
-        "text": "Glutamate",
+        "text": "Sports Injuries",
         "explanation": "Incorrect."
       },
       {
-        "text": "GABA",
+        "text": "Assaults",
         "explanation": "Incorrect."
       },
       {
-        "text": "Histamine",
-        "explanation": "Incorrect."
+        "text": "Stroke",
+        "explanation": "Incorrect. Stroke is vascular, not 'Traumatic' in this context."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Morphine mimics Enkephalins. Naloxone blocks them.",
-    "pdfPage": 5
+    "clinicalPearl": "Key takeaway: Falls are the #1 cause of TBI-related consciousness deficits.",
+    "pdfPage": 44
   },
   {
     "id": 35,
-    "category": "Reticular Formation: Reticular Activating System",
-    "questionText": "Bilateral damage to the midbrain tegmentum usually results in coma. However, unilateral damage typically does not. This demonstrates that the ARAS is:",
+    "category": "Neurochemistry: Review",
+    "questionText": "Which of the following pairings of Neurotransmitter and Source Nucleus is CORRECT?",
     "options": [
       {
-        "text": "Functionally redundant and bilateral",
-        "explanation": "Correct. One side is usually sufficient to maintain wakefulness.",
+        "text": "Histamine - Raphe Nuclei",
+        "explanation": "Incorrect. Histamine is Tuberomammillary."
+      },
+      {
+        "text": "Serotonin - Locus Coeruleus",
+        "explanation": "Incorrect. Serotonin is Raphe."
+      },
+      {
+        "text": "Norepinephrine - Substantia Nigra",
+        "explanation": "Incorrect. NE is LC."
+      },
+      {
+        "text": "Acetylcholine - Nucleus Basalis of Meynert",
+        "explanation": "Correct. NBM produces ACh.",
         "isCorrect": true
       },
       {
-        "text": "Unimportant for wakefulness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Solely located in the medulla",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dependent on the cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only active during REM",
-        "explanation": "Incorrect."
+        "text": "Dopamine - Pedunculopontine Nucleus",
+        "explanation": "Incorrect. Dopamine is SNc/VTA."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: It takes a BIG brainstem lesion (bilateral) or a BIG cortical lesion (diffuse) to cause Coma.",
-    "pdfPage": 14
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: NBM = Acetylcholine. Major source for cortex.",
+    "pdfPage": 45
   }
 ];

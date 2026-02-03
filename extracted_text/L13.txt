@@ -1,0 +1,442 @@
+
+=== PAGE 1 ===
+Lecture: Clinical Decision 
+Making
+Richard Morgan, DO
+DPR 1 Coordinator
+rmorga04@nyit.edu
+
+=== PAGE 2 ===
+At the conclusion of the session students should be able to:
+1. Define Dual Process Theory of Cognition  (System 1 and System 2) as the 
+leading model for explaining clinical decision making
+2. Apply concepts of problem representation, illness scripts and pattern 
+recognition
+3. Demonstrate knowledge and application of diagnostic reasoning process. 
+4. Distinguish between the different types of Clinical cognitive errors based on a 
+clinical vignette.
+Lecture OBJECTIVES
+•
+Source: Course Syllabus
+
+=== PAGE 3 ===
+As physicians after we gather a history and perform an appropriate 
+physical exam based on the reason for the patient seeking care we 
+must: 
+•
+Analyze the findings to identify potential causes for the patient’s 
+symptoms using clinical reasoning
+•
+The potential causes become our Differential Diagnosis (DDX)
+•
+List starting with most likely and including other plausible 
+options that explain the patient symptoms
+•
+List may include diagnoses that have serious consequences if 
+missed. 
+•
+Example: Patient with acute chest pain radiating to the left 
+shoulder should be thought of as an myocardial infarction until 
+proven otherwise because of the potential lethality if not 
+diagnosed and treated immediately
+
+=== PAGE 4 ===
+“Thinking about how you make clinical decisions is the first step toward making better ones”
+•
+Donald R. Woolever, MD. The Art and Science of Clinical Decision Making. Family Practice Management. May 2008.
+Clinical Decision Making
+Intuitive 
+system
+Hypotheticodeductive 
+system
+
+=== PAGE 5 ===
+•
+Croskerry P. From mindless to mindful practice –cognitive bias and clinical decision 
+making. N Engl J Med. 2013;368(26):2445-2448.
+• Mental shortcuts 
+• Used to assist clinician to rapidly make 
+decisions (System 1 analytics)
+• Generally subconscious formulated 
+response patterns based on formed 
+habits. 
+• Subject to error because of all our 
+cognitive biases.
+HEURISTICS
+
+=== PAGE 6 ===
+Clinical Decision Making: Example
+These are all pictures of what object?
+
+=== PAGE 7 ===
+
+=== PAGE 8 ===
+The Patient’s Story
+•
+Gathering Initial Health history and Physical Exam
+•
+Symptom’s elicited during the history
+•
+Signs- normal or abnormal observed during the physical exam
+•
+Laboratory or diagnostic reports
+•
+Be organized & methodical so all abnormal and unexpected findings are 
+identified
+
+=== PAGE 9 ===
+
+=== PAGE 10 ===
+Organizing and Interpreting Clinical Information
+Approaches to organizing findings:
+1. Anatomic Location- cluster findings based on their anatomic relationship in the 
+body. 
+2. Age-What disease processes are common in different age groups; 
+3. Timing of Symptoms-knowing how different disease progress as well as duration 
+of certain diseases is important. 
+4. Involvement of body systems
+5. Multisystem conditions
+
+=== PAGE 11 ===
+
+=== PAGE 12 ===
+Synthesizing Information and Developing the Problem 
+Representation
+•
+You make sense of all the information gathered to this point and form a problem 
+representation or clinical picture about the patient. 
+•
+Includes:
+•
+Initial information (CC, epidemiology, risk factors)
+•
+Key features in the H & P
+•
+Results of diagnostic testing
+*In your clinical documentation, the problem representation is called the summary 
+statement that often starts the assessment section of your note.
+Please review box 5-2 in Bates 13ed and try writing a problem representation of your 
+own. 
+
+=== PAGE 13 ===
+
+=== PAGE 14 ===
+Generating Hypotheses (Differential Diagnosis)
+•
+For each identified problem or cluster of problems, you will generate a clinical 
+hypothesis for the underlying cause or diagnosis. 
+
+=== PAGE 15 ===
+Memory Aid For Generating Differential 
+Diagnosis (exhaustive method)
+TOM G PRINCE, MD, Psychiatrist, General Hospital
+Toxins/Trauma including meds
+Oncologic
+Msk/Rheumatologic
+Gastrointestinal
+Pulmonary
+Renal
+Infectious
+Neurologic
+Cardiovascular
+Endocrine
+Metabolic
+Dermatologic
+Psychiatric
+Genitourinary/Gyn
+Hematologic
+VINDICATE
+Vascular
+Infectious
+Neoplastic
+Drug related
+Inflammatory/Idiopathic/Iatrogenic
+Congenital
+Autoimmune/Allergic
+Trauma/Toxic
+Endocrine/Metabolic
+
+=== PAGE 16 ===
+Generating Hypotheses (Differential Diagnosis)
+•
+For each identified problem or cluster of problems, you will generate a clinical 
+hypothesis for the underlying cause or diagnosis. 
+
+=== PAGE 17 ===
+
+=== PAGE 18 ===
+• Organized mental summary of a 
+clinician’s knowledge of a disease
+• Illness scripts often include a disease’s
+– Pathophysiology
+– Epidemiology
+– Time course
+– Salient symptoms and signs
+– Diagnostics
+– Treatment
+Illness Scripts. JGIM. Clinical reasoning exercises
+Illness Scripts
+
+=== PAGE 19 ===
+Let’s go through an example of this…
+Close your eyes and picture a fire truck? 
+What does it look like? What color is it?
+
+=== PAGE 20 ===
+Is this what you pictured?
+
+=== PAGE 21 ===
+
+=== PAGE 22 ===
+•
+Illness Scripts. JGIM. Clinical reasoning exercises
+Components of 
+Illness Script
+Community Acquired Pneumonia
+Epidemiology/ 
+Pathophysiology
+Increased risk with:
+    Age
+    Post URI
+    Structural Lung disease
+    Immunodeficiency
+Time course
+Acute: days
+Progressively worsens if not treated
+Salient Symptoms & 
+Signs
+Fever, cough, SOB, Tachycardia, Tachypnea, Hypoxemia
+Diagnostics
+Labs and imaging
+   Leukocytosis
+   Lobar infiltrate on CXR
+   bacteria in sputum or blood cultures
+Treatment
+Antibiotics typically lead to improvement over days
+
+=== PAGE 23 ===
+
+=== PAGE 24 ===
+Assessment-Diagnosis
+•
+From a documentation standpoint, you will list your diagnoses in the assessment 
+section of the note.
+•
+The diagnosis may be very straight forward or more challenging and require 
+further information to get to a final diagnosis if there are 2 possible causes for 
+the patient’s condition. 
+•
+You always want to be specific as the data will allow. 
+•
+Example: subarachnoid hemorrhage, unspecified vs subarachnoid 
+hemorrhage, left temporal lobe
+
+=== PAGE 25 ===
+Planning the Diagnostic and Treatment Strategy
+•
+The Plan of Care should be a logical flow from your working diagnoses listed 
+in the assessment section of your note. 
+•
+The Plan should include:
+•
+Laboratory tests to allow you differentiate between 2 potential 
+diagnoses or guide your therapeutic management of a patient. 
+•
+Diagnostic interventions to help you rule in or rule out a diagnosis. 
+•
+Patient education
+•
+Medication changes
+•
+Referrals 
+•
+Follow up visits
+
+=== PAGE 26 ===
+•
+Diagnostic errors have been implicated in 15% of clinical decisions with 
+medicolegal repercussions
+•
+Misdiagnosis has the potential to cause serious harm to patients as it sets up a 
+cascade of subsequent mistreatment
+•
+General medical Council and other entities advocate that Med Students need to 
+be equipped with critical thinking skills in order to identify their own cognitive 
+biases and those of  the clinicians they rotate with.
+Diagnostic Errors
+Bhatti A. Cognitive bias in clinical practice-nurturing health skepticism among medical 
+students. Advances in Medical Education and Practice 2018; 9(1):235-237
+
+=== PAGE 27 ===
+Common Diagnostic Errors
+
+=== PAGE 28 ===
+•
+Bowen JL. Educational strategies to promote clinical diagnostic reasoning. N Engl J 
+Med.2006;355(21):2217-25.
+Review: Steps and Strategies for Clinical Reasoning
+
+=== PAGE 29 ===
+Let’s Practice
+You may want a blank sheet of paper to write 
+your answers on
+
+=== PAGE 30 ===
+Clinical Case
+A 3 yo Asian male presents with 1 day history of fever of 102.5 F, increased irritability, and 
+pulling at his ears. Dad states that he has noticed runny nose that started 2-3 days ago. 
+Denies any changes in eating or drinking, changes in number of stools or wet diapers/day. 
+States there have been kids at his daycare were out sick at the beginning of the week.  
+PMH: previously health; delivered by SVD at 38 weeks gestation; 
+Vaccination status: up to date 
+PSH: none
+FMH: older sister h/o PET tubes at age 4 d/t recurrent acute otitis media
+SH: lives at home with mom, dad, and older sister; goes to Happy hills daycare during 
+week, no pets in home, not exposed to smokers in the home
+Meds: none
+Allergies: none
+
+=== PAGE 31 ===
+What conditions can cause a patient to have ear 
+pain?
+
+=== PAGE 32 ===
+Serous Otitis media
+Suppurative Otitis media
+Otitis externa
+Eustachian tube dysfunction
+Viral upper respiratory tract infection
+Lymphadenitis
+Temporomandibular joint disease
+Internal rotation of the temporal bone
+Hypothesis of potential causes (Differential Diagnosis)
+
+=== PAGE 33 ===
+Physical Exam: 
+Constitutional: age appropriate male who appears ill and is clinging to dad in the office; 
+Eyes: conjunctiva is pink and sclera non-icteric. EOMI b/l
+Ears: ear canals patent and flesh colored b/l with bulging TM and loss of middle ear 
+architecture
+Nose: nasal mucosa is erythematous with naso-turbinate edema and thin clear nasal 
+discharge present b/l
+Throat: moist buccal mucosa in oral cavity; posterior pharynx erythematous with +2 tonsils 
+bilaterally; normal motion of uvula
+Lymphatic: Shotty anterior lymphadenopathy
+Cardiac: RRR; no murmurs/gallops/rubs
+Resp: CTAB; no wheeze/rhales/rhonchi
+MSK: cervical: increased cervical hypertonicity b/l; OA: FRrSl; thoracic: thoracic inlet: FRlSr; 
+increased paraspinal hypertonicity
+Integument: No rashes, lesion noted on anterior/posterior chest
+
+=== PAGE 34 ===
+How would you write a problem representation for 
+this patient?
+
+=== PAGE 35 ===
+Problem Representation Example:
+A 3 yo Asian male who has no underlying medical conditions presents with a 2-3 day 
+history of rhinorrhea that has progressed in the last 24 hour with 102.5 F fever and ear 
+pain without associated diet or stooling changes. His exam is notable for normal 
+hydration status as evidence by moist buccal mucosa and associated 
+erythematous/edematous posterior pharynx, bulging TM b/l, anterior cervical 
+lymphadenopathy and nasal drainage. 
+
+=== PAGE 36 ===
+Serous Otitis media
+Suppurative Otitis media
+Otitis externa
+Eustachian tube dysfunction
+Viral upper respiratory tract infection
+Lymphadenitis
+Temporomandibular joint disease
+Internal rotation of the temporal bone
+Lets go back to your hypotheses (Differential Diagnosis)- what 
+might you need to include or exclude from this list? Why?
+
+=== PAGE 37 ===
+Serous Otitis media   - This child has a bulging TM and you can’t see the middle ear bones
+Suppurative Otitis media
+Otitis externa   -The ear canal was flesh colored and there was not a mention of edema in the canal
+Eustachian tube dysfunction
+Viral upper respiratory tract infection
+Lymphadenitis
+Temporomandibular joint disease  -This is an unlikely diagnosis for this age group-more common in teens 
+and older in life as well as more common in women.
+Somatic dysfunction of the head region
+Streptococcal Pharyngitis/Bacterial Pharyngitis  -May be a consideration given patient’s pharyngitis  
+Conductive hearing loss
+Lets go back to your hypotheses (Differential Diagnosis)- what 
+might you need to include or exclude from this list? Why? 
+There be more than 1 diagnosis to explain this patient’s symptoms?
+
+=== PAGE 38 ===
+Build an Illness Script for Suppurative Otitis 
+Media
+Article on Otitis Media for your reference: 
+https://www.aafp.org/afp/2013/1001/p435.ht
+ml
+
+=== PAGE 39 ===
+Illness Script Example: 
+Suppurative Otitis Media
+Epidemiology/Pathophysiology
+Younger age  
+Risk factors include craniofacial abnormalities, allergies, 
+exposure to smoke or respiratory irritant, daycare 
+exposure, FMH recurrent otitis media, GERD, 
+immunodeficiency, bottle feeding, pacifier use, URI.  
+Common bacteria isolates include streptococcus 
+pneumoniae, Haemophilus influenza, and Morexella 
+catarrhalis
+Time Course
+48 hours
+Clinical Presentation
+Ear pain, irritability, or fever
+Diagnostics
+Moderate to severe TM bulging, new onset otorrhea 
+not caused by otitis externa, mild TM bulging associated 
+with ear pain or erythema
+DOES THIS FIT THE SIGNS AND SYMPTOMS OF YOUR PATIENT IN THE CASE?
+
+=== PAGE 40 ===
+What is your final diagnosis or diagnoses? 
+
+=== PAGE 41 ===
+Working Diagnosis Example
+Novice
+Experienced Physician
+1. Acute bilateral otitis media 
+1. Acute bilateral suppurative otitis 
+media 
+2. URI
+2. URI; cause unknown
+3. Bilateral Eustachian tube dysfunction
+4. Somatic dysfunction of the head 
+region
+5. Somatic dysfunction of the thoracic 
+region
+*Note that even among experienced physicians, this Diagnosis list may 
+be different depending specialty. 
+
+=== PAGE 42 ===
+What would your plan be for this 
+patient?
+
+=== PAGE 43 ===
+Plan Example
+1. Perform tympanogram to assess for potential hearing involvement
+2. Start on Amoxicillin 90 mg/kg/d x 10 days
+3. Discussed repopulating GI tract with healthy bacteria and recommended feeding child 
+yogurt once daily while on antibiotics at least 2 hours after medication to help with this.
+4. Discussed importance of keeping child hydrated and discussed warning signs including 
+decrease in # wet diapers to follow up immediately or call the office
+5. OMT was performed to the above regions using MFR and cranial. Patient tolerated 
+procedure well. 
+6. Patient to f/u if symptoms do not start to improve in 48-72 hours.
+*If a patient has persistent AOM or if you are monitoring, you may f/u to check for 
+resolution of middle ear fluid and or recheck ear exam. 
+
+=== PAGE 44 ===
+Lecture and Lab Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY44
+8FWYXREL4R

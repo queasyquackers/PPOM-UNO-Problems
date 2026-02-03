@@ -1,517 +1,172 @@
-// Test_L21.js
 window.Test_L21 = [
   {
     "id": 1,
-    "category": "Motion Sickness",
-    "questionText": "A 28-year-old male is preparing for a cruise and is worried about sea sickness. He is prescribed a transdermal patch to prevent motion sickness. He is advised to apply it behind his ear 4 hours before departure. The active agent in this patch prevents vomiting by blocking muscarinic receptors in the vestibular system. Which drug is this?",
+    "category": "Mechanism of Action",
+    "questionText": "Antimuscarinic agents like Atropine primarily act as:",
     "options": [
       {
-        "text": "Atropine",
-        "explanation": "Incorrect. Poor duration for patch."
+        "text": "Irreversible antagonists",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Scopolamine",
-        "explanation": "Correct. Scopolamine (Transderm Scop) is the drug of choice for motion sickness prevention. It crosses the BBB to block M receptors in the vestibular nuclei.",
+        "text": "Competitive antagonists (or inverse agonists) at muscarinic receptors",
+        "explanation": "Correct. They block ACh from binding.",
         "isCorrect": true
       },
       {
-        "text": "Glycopyrrolate",
-        "explanation": "Incorrect. Does not cross BBB."
+        "text": "Nicotinic agonists",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Ipratropium",
-        "explanation": "Incorrect. Inhaled only."
+        "text": "Cholinesterase inhibitors",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Oxybutynin",
-        "explanation": "Incorrect. For bladder."
+        "text": "Sympathomimetics",
+        "explanation": "Incorrect. Though they mimic sympathetic effects by blocking parasympathetic tone."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Scopolamine patch = 3 days protection. Key side effect: dry mouth, sedation.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Competitive blockade = reversible with high ACh (e.g., Physostigmine).",
+    "pdfPage": 19
   },
   {
     "id": 2,
-    "category": "COPD Management",
-    "questionText": "A 65-year-old male with a long history of smoking and COPD presents with worsening shortness of breath. His physician adds an inhaled medication to his regimen that works by blocking muscarinic receptors in the bronchial smooth muscle, preventing bronchoconstriction and reducing mucus secretion. This drug is a quaternary ammonium compound. Which agent fits this description?",
+    "category": "Structure-Activity",
+    "questionText": "Which of the following is a tertiary amine that readily crosses the blood-brain barrier?",
     "options": [
       {
-        "text": "Albuterol",
-        "explanation": "Incorrect. Beta agonist."
+        "text": "Glycopyrrolate",
+        "explanation": "Incorrect. Quaternary."
       },
       {
         "text": "Ipratropium",
-        "explanation": "Correct. Ipratropium (Atrovent) is a SAMA (Short Acting Muscarinic Antagonist) used in COPD. Tiotropium (Spiriva) is a LAMA.",
-        "isCorrect": true
-      },
-      {
-        "text": "Theophylline",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. Quaternary."
       },
       {
         "text": "Scopolamine",
-        "explanation": "Incorrect. Systemic."
+        "explanation": "Correct. Tertiary amine causing significant CNS effects (motion sickness/sedation).",
+        "isCorrect": true
       },
       {
-        "text": "Atropine",
-        "explanation": "Incorrect. Systemic adverse effects."
+        "text": "Tiotropium",
+        "explanation": "Incorrect. Quaternary."
+      },
+      {
+        "text": "Neostigmine",
+        "explanation": "Incorrect. Quaternary."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Ipratropium/Tiotropium are 'site-specific' because they are inhaled and quaternary (don't absorb well).",
-    "pdfPage": 11
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Scopolamine = Scope out the brain (CNS entry).",
+    "pdfPage": 36
   },
   {
     "id": 3,
-    "category": "Anesthesia Induction",
-    "questionText": "Before induction of general anesthesia, a patient is administered an IV medication to reduce salivary and respiratory secretions and prevent vagally-mediated bradycardia during intubation. The anesthesiologist chooses a quaternary amine to avoid postoperative confusion or delirium. Which drug was selected?",
+    "category": "Paradoxical Bradycardia",
+    "questionText": "Low doses of Atropine can cause a transient 'paradoxical bradycardia'. This is thought to be due to:",
     "options": [
       {
-        "text": "Atropine",
-        "explanation": "Incorrect. Tertiary amine, crosses BBB (risk of delirium)."
+        "text": "Blockade of post-synaptic M2 receptors",
+        "explanation": "Incorrect. That causes tachycardia."
       },
       {
-        "text": "Glycopyrrolate",
-        "explanation": "Correct. Glycopyrrolate is a quaternary amine. It does everything Atropine does peripherally (dry secretions, tachycardia) but doesn't enter the brain.",
+        "text": "Blockade of pre-synaptic M2 autoreceptors",
+        "explanation": "Correct. Blocking feedback inhibition increases ACh release -> Bradycardia.",
         "isCorrect": true
       },
       {
-        "text": "Scopolamine",
-        "explanation": "Incorrect. Crosses BBB markedly."
+        "text": "Direct depression of the SA node",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Physostigmine",
-        "explanation": "Incorrect. Agonist action."
+        "text": "Baroreceptor reflex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Succinylcholine",
-        "explanation": "Incorrect. Muscle relaxant."
+        "text": "CNS depression",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Glycopyrrolate = 'Robinul'. Ideal for surgery because it dries you up without messing up your head.",
-    "pdfPage": 10
+    "clinicalPearl": "Key takeaway: Low dose blocks the brake (autoreceptor), High dose blocks the effector.",
+    "pdfPage": 19
   },
   {
     "id": 4,
-    "category": "Overactive Bladder",
-    "questionText": "A 72-year-old female complains of frequent urge incontinence ('I can't make it to the bathroom in time'). She is diagnosed with overactive bladder. She is prescribed Oxybutynin. Which mechanism explains its therapeutic effect?",
+    "category": "Eye Effects",
+    "questionText": "In the eye, antimuscarinic drugs cause:",
     "options": [
       {
-        "text": "Stimulation of M3 receptors",
-        "explanation": "Incorrect. Would worsen it."
+        "text": "Miosis and accommodation",
+        "explanation": "Incorrect. Cholinergic effect."
       },
       {
-        "text": "Blockade of M3 receptors on the detrusor muscle",
-        "explanation": "Correct. Blocking M3 prevents detrusor contraction (spasm), allowing the bladder to hold more urine.",
+        "text": "Mydriasis and Cycloplegia (loss of accommodation)",
+        "explanation": "Correct. Pupil dilation and inability to focus near.",
         "isCorrect": true
       },
       {
-        "text": "Stimulation of Alpha-1 receptors",
-        "explanation": "Incorrect."
+        "text": "Decreased intraocular pressure",
+        "explanation": "Incorrect. Increases it."
       },
       {
-        "text": "Blockade of Nicotinic receptors",
-        "explanation": "Incorrect."
+        "text": "Increased lacrimation",
+        "explanation": "Incorrect. Dry eyes."
       },
       {
-        "text": "Inhibition of Acetylcholinesterase",
+        "text": "Nystagmus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Antimuscarinics (Oxybutynin, Tolterodine) relax the bladder. Side effect: Urinary Retention.",
-    "pdfPage": 12
+    "clinicalPearl": "Key takeaway: Atropine = Dilated pupils (Belladonna = Beautiful lady).",
+    "pdfPage": 20
   },
   {
     "id": 5,
-    "category": "Anticholinergic Toxicity",
-    "questionText": "A frantic mother brings her 4-year-old son to the ER. He was found playing with 'berries' in the garden. He is hot, his skin is flushed and dry, his pupils are widely dilated, and he is delirious. His heart rate is 140 bpm. You suspect Belladonna alkaloid poisoning. What is the most appropriate antidote if symptoms are severe?",
+    "category": "Contraindications",
+    "questionText": "Atropine is contraindicated in patients with:",
     "options": [
       {
-        "text": "Neostigmine",
-        "explanation": "Incorrect. No CNS entry."
+        "text": "Bradycardia",
+        "explanation": "Incorrect. It treats this."
       },
       {
-        "text": "Pralidoxime",
-        "explanation": "Incorrect. For organophosphates."
+        "text": "Diarrhea",
+        "explanation": "Incorrect. It treats this (Lomotil).",
+        "isCorrect": false
       },
       {
-        "text": "Physostigmine",
-        "explanation": "Correct. Physostigmine crosses the BBB and reverses both central (delirium) and peripheral (tachycardia) toxicity.",
+        "text": "Narrow-angle glaucoma",
+        "explanation": "Correct. Dilation bunches the iris, blocking the outflow angle.",
         "isCorrect": true
       },
       {
-        "text": "Pilocarpine",
-        "explanation": "Incorrect. Doesn't cross BBB well/enough for this."
+        "text": "Asthma",
+        "explanation": "Incorrect. Bronchodilates."
       },
       {
-        "text": "Naloxone",
-        "explanation": "Incorrect. For opioids."
+        "text": "Organophosphate poisoning",
+        "explanation": "Incorrect. It's the antidote."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Physostigmine is the specific antidote for Anticholinergic toxicity (Red as a beet, Dry as a bone, Mad as a hatter).",
-    "pdfPage": 17
-  },
-  {
-    "id": 6,
-    "category": "Ophthalmology",
-    "questionText": "An ophthalmologist performs a fundoscopic exam. They wish to dilate the pupil (mydriasis) and paralyze accommodation (cycloplegia) to get a clear view of the retina. They administer Tropicamide drops. This drug works by:",
-    "options": [
-      {
-        "text": "Stimulating the Sphincter pupillae",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking the Sphincter pupillae and Ciliary muscle",
-        "explanation": "Correct. Blocking the sphincter causes mydriasis (unopposed dilation). Blocking the ciliary muscle causes cycloplegia (loss of focus).",
-        "isCorrect": true
-      },
-      {
-        "text": "Stimulating the Dilator pupillae",
-        "explanation": "Incorrect. Alpha agonists (Phenylephrine) do this."
-      },
-      {
-        "text": "Increasing Aqueous humor outflow",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking the Beta receptors",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Tropicamide is preferred over Atropine for eye exams because it has a much shorter duration (hours vs days).",
-    "pdfPage": 13
-  },
-  {
-    "id": 7,
-    "category": "Paradoxical Effect",
-    "questionText": "A medical student volunteers for a demonstration of Atropine's effects. A very low dose (0.1 mg) is administered IV. Surprisingly, the student's heart rate decreases slightly before eventually increasing at higher doses. This paradoxical bradycardia is due to:",
-    "options": [
-      {
-        "text": "Blockade of M2 presynaptic autoreceptors",
-        "explanation": "Correct. Blocking the presynaptic 'brake' (M2) increases ACh release, which stimulates the postsynaptic M2 receptors causing transient bradycardia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Direct stimulation of M2 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Reflex baroreceptor activation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blockade of Ganglionic Nn receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Central vagal stimulation",
-        "explanation": "Incorrect. Some central effect possible, but presynaptic block is the primary mechanism accepted."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Low Dose Atropine = Bradycardia (Presynaptic block). High Dose Atropine = Tachycardia (Postsynaptic block).",
-    "pdfPage": 9
-  },
-  {
-    "id": 8,
-    "category": "Parkinson's Disease",
-    "questionText": "A 60-year-old male with Parkinson's disease is treated with Levodopa but continues to have a bothersome resting tremor. His neurologist adds Benztropine. The rationale for using this antimuscarinic agent is:",
-    "options": [
-      {
-        "text": "To increase Dopamine levels",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To restore the balance between Dopamine and Acetylcholine in the striatum",
-        "explanation": "Correct. In Parkinson's, low dopamine leads to relative cholinergic excess (tremor). Blocking Muscarinic receptors restores the balance.",
-        "isCorrect": true
-      },
-      {
-        "text": "To prevent orthostatic hypotension",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To reduce nausea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To improve memory",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Benztropine (Cogentin) is centrally acting. Good for 'Tremor and Rigidity', bad for 'Bradykinesia'.",
-    "pdfPage": 13
-  },
-  {
-    "id": 9,
-    "category": "Contraindication",
-    "questionText": "A 68-year-old male with BPH (Benign Prostatic Hyperplasia) presents with a cold. He wishes to take an over-the-counter cold remedy containing an antihistamine with strong anticholinergic properties (like Diphenhydramine). His physician advises against this because it could precipitate:",
-    "options": [
-      {
-        "text": "Diarrhea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Urinary Retention",
-        "explanation": "Correct. The prostate is already obstructing flow. Blocking the bladder's contraction (detrusor) with an anticholinergic will make it impossible to void.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypotension",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bronchospasm",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Anticholinergics + BPH = Urinary Retention Emergency.",
-    "pdfPage": 17
-  },
-  {
-    "id": 10,
-    "category": "Organophosphate Treatment",
-    "questionText": "In the treatment of severe organophosphate poisoning, Atropine is administered until signs of 'Atropinization' appear. Which sign indicates that the Atropine is working and the dose is adequate?",
-    "options": [
-      {
-        "text": "Return of muscle strength",
-        "explanation": "Incorrect. Atropine has NO effect on muscle (Nicotinic). Need Pralidoxime for that."
-      },
-      {
-        "text": "Clearing of bronchial secretions (Drying)",
-        "explanation": "Correct. 'Dry as a bone'. When the lungs dry up, you know you've blocked the muscarinic excess.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pupil constriction",
-        "explanation": "Incorrect. Should dilate."
-      },
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect. Should increase HR."
-      },
-      {
-        "text": "Urination",
-        "explanation": "Incorrect. Should stop."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Titrate Atropine to 'drying of secretions' in organophosphate poisoning. Don't worry about the tachycardia.",
-    "pdfPage": 17
-  },
-  {
-    "id": 11,
-    "category": "Thermoregulation",
-    "questionText": "During a hiking trip on a hot day, a hiker taking high-dose Atropine for GI spasms collapses. His skin is hot and dry. This hyperthermia is primarily caused by blockade of:",
-    "options": [
-      {
-        "text": "M2 receptors in the heart",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "M3 receptors on eccrine sweat glands",
-        "explanation": "Correct. Blockade of sympathetic cholinergic fibers to sweat glands generally prevents cooling (anhydrosis) -> Hyperthermia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Nn receptors in ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alpha receptors in skin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dopamine receptors in hypothalamus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine fever: Especially dangerous in children ('Hot as a Hare').",
+    "clinicalPearl": "Key takeaway: Anticholinergics precipitate Glaucoma crisis.",
     "pdfPage": 7
   },
   {
-    "id": 12,
-    "category": "Structure Activity",
-    "questionText": "Why is Ipratropium NOT absorbed well from the lungs into the systemic circulation?",
+    "id": 6,
+    "category": "Toxicity Mnemonic",
+    "questionText": "A patient presents 'Red as a beet, Dry as a bone, Blind as a bat, Mad as a hatter'. This suggests poisoning with:",
     "options": [
       {
-        "text": "It is metabolized by lung enzmyes",
-        "explanation": "Incorrect."
+        "text": "Organophosphates",
+        "explanation": "Incorrect. (Wet/DUMBELS)."
       },
       {
-        "text": "It enters the cartilage instead",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It contains a quaternary nitrogen (Charged)",
-        "explanation": "Correct. The permanent charge prevents it from crossing membranes easily, keeping it local in the lung.",
-        "isCorrect": true
-      },
-      {
-        "text": "It is too large",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is rapidly exhaled",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Quaternary structure conveys 'Selectivity by access' - it simply can't get to other organs easily.",
-    "pdfPage": 5
-  },
-  {
-    "id": 13,
-    "category": "Rapid Review: Receptors",
-    "questionText": "Atropine is classified as a:",
-    "options": [
-      {
-        "text": "Selective M1 antagonist",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Non-selective Muscarinic antagonist",
-        "explanation": "Correct.",
-        "isCorrect": true
-      },
-      {
-        "text": "Nicotinic antagonist",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Muscarinic agonist",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Irreversible antagonist",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine blocks M1, M2, M3, M4, M5 equally.",
-    "pdfPage": 5
-  },
-  {
-    "id": 14,
-    "category": "Rapid Review: Eye",
-    "questionText": "Which condition is an absolute contraindication for Atropine use?",
-    "options": [
-      {
-        "text": "Cataracts",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Angle-Closure Glaucoma",
-        "explanation": "Correct. Dilation bunches up the iris, blocking the outflow angle.",
-        "isCorrect": true
-      },
-      {
-        "text": "Conjunctivitis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Macular Degeneration",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myopia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Never dilate a narrow angle.",
-    "pdfPage": 17
-  },
-  {
-    "id": 15,
-    "category": "Rapid Review: Bladder",
-    "questionText": "Which drug is M3 'selective' (moderately) for the bladder?",
-    "options": [
-      {
-        "text": "Atropine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Oxybutynin / Darifenacin",
-        "explanation": "Correct. Used for urge incontinence.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ipratropium",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Scopolamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Benztropine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Oxybutynin helps the bladder hold urine.",
-    "pdfPage": 12
-  },
-  {
-    "id": 16,
-    "category": "Rapid Review: Toxidrome",
-    "questionText": "'Mad as a hatter' refers to:",
-    "options": [
-      {
-        "text": "Muscle spasms",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CNS delirium and hallucinations",
-        "explanation": "Correct. Central anticholinergic toxicity.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anger issues",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Headache",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Seizures only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Central toxicity requires a tertiary amine (Atropine, Scopolamine, Jimson Weed).",
-    "pdfPage": 15
-  },
-  {
-    "id": 17,
-    "category": "Rapid Review: Sources",
-    "questionText": "Jimson Weed contains:",
-    "options": [
-      {
-        "text": "Muscarine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nicotine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Belladonna Alkaloids (Atropine/Scopolamine)",
-        "explanation": "Correct. 'Gardener's mydriasis'.",
+        "text": "Atropine (Anticholinergic)",
+        "explanation": "Correct. The classic Anticholinergic Toxidrome.",
         "isCorrect": true
       },
       {
@@ -519,220 +174,349 @@ window.Test_L21 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Caffeine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Jimson Weed = Atropine poisoning.",
-    "pdfPage": 3
-  },
-  {
-    "id": 18,
-    "category": "Rapid Review: Kinetics",
-    "questionText": "Does Glycopyrrolate cross the BBB?",
-    "options": [
-      {
-        "text": "Yes",
+        "text": "Benzodiazepines",
         "explanation": "Incorrect."
       },
       {
-        "text": "No",
-        "explanation": "Correct. Quaternary.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only when inflamed",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only in elderly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sometimes",
+        "text": "Nicotine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Glyco-NO-pyrrolate (No brain entry).",
-    "pdfPage": 10
+    "clinicalPearl": "Key takeaway: Hot, Dry, Red, Mad = Atropine.",
+    "pdfPage": 28
   },
   {
-    "id": 19,
-    "category": "Rapid Review: Heart",
-    "questionText": "The primary effect of Atropine on the heart (therapeutic dose) is:",
+    "id": 7,
+    "category": "Motion Sickness",
+    "questionText": "Which drug is commonly used as a transdermal patch for the prevention of motion sickness?",
+    "options": [
+      {
+        "text": "Atropine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Scopolamine",
+        "explanation": "Correct. Transderm Scop.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ipratropium",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glycopyrrolate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Oxybutynin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Scopolamine -> Seasickness.",
+    "pdfPage": 9
+  },
+  {
+    "id": 8,
+    "category": "Respiratory Use",
+    "questionText": "Ipratropium and Tiotropium are preferred for COPD/Asthma because:",
+    "options": [
+      {
+        "text": "They cross the BBB to suppress cough center",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They are quaternary amines administered by inhalation, minimizing systemic side effects",
+        "explanation": "Correct. Local bronchodilation without drying you out everywhere else.",
+        "isCorrect": true
+      },
+      {
+        "text": "They stimulate beta receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They increase secretions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They are oral drugs",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ipratropium = Inhaled (Quaternary).",
+    "pdfPage": 34
+  },
+  {
+    "id": 9,
+    "category": "Overactive Bladder",
+    "questionText": "Oxybutynin is used to treat:",
+    "options": [
+      {
+        "text": "Urinary retention",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Overactive bladder (Urinary incontinence)",
+        "explanation": "Correct. Relaxes the detrusor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Constipation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Asthma",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Oxybutynin stops the spasm.",
+    "pdfPage": 32
+  },
+  {
+    "id": 10,
+    "category": "Glycopyrrolate Utility",
+    "questionText": "Glycopyrrolate is often used during surgery to reduce secretions instead of Atropine because:",
+    "options": [
+      {
+        "text": "It is cheaper",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is a quaternary amine and does not cross the BBB (less CNS effects)",
+        "explanation": "Correct. No post-op confusion.",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes more tachycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It is shorter acting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It stimulates the gut",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Glycopyrrolate = peripheral driers.",
+    "pdfPage": 21
+  },
+  {
+    "id": 11,
+    "category": "Physostigmine Caution",
+    "questionText": "While Physostigmine can reverse Atropine toxicity, it is contraindicated in Tricyclic Antidepressant (TCA) overdose because:",
+    "options": [
+      {
+        "text": "It causes hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It can precipitate cardiac toxicity (asystole) and seizures",
+        "explanation": "Correct. Keep away from TCA overdoses.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is ineffective",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It causes hallucinations",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It blocks sodium channels",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Don't use Physostigmine for TCA/poly-drug overdoses.",
+    "pdfPage": 32
+  },
+  {
+    "id": 12,
+    "category": "Parkinson's Disease",
+    "questionText": "Benztropine is used in Parkinson's disease to:",
+    "options": [
+      {
+        "text": "Increase dopamine levels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Restore the balance by blocking excess cholinergic activity (Treat tremors)",
+        "explanation": "Correct. Parkinson's = Low Dopamine, High ACh.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stimulate muscle movement",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prevent memory loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cure the disease",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Park your Benz (Benztropine for Parkinson's).",
+    "pdfPage": 9
+  },
+  {
+    "id": 13,
+    "category": "Thermoregulation",
+    "questionText": "Children are particularly susceptible to which adverse effect of antimuscarinics?",
     "options": [
       {
         "text": "Bradycardia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tachycardia",
-        "explanation": "Correct. Blocks M2 vagal tone.",
+        "text": "Hyperthermia ('Atropine fever')",
+        "explanation": "Correct. Can't sweat -> Overheat.",
         "isCorrect": true
       },
       {
-        "text": "Arrhythmia",
+        "text": "Sedation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Decreased contractility",
+        "text": " diarrhea",
         "explanation": "Incorrect."
       },
       {
-        "text": "No effect",
+        "text": "Hypotension",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine is the first-line drug for symptomatic bradycardia.",
+    "clinicalPearl": "Key takeaway: Kids cook in the heat with Atropine.",
     "pdfPage": 9
   },
   {
-    "id": 20,
-    "category": "Vignette: Respiratory",
-    "questionText": "A patient with asthma is taking Tiotropium (Spiriva). They ask how this helps their breathing. You explain:",
+    "id": 14,
+    "category": "Drug Interactions",
+    "questionText": "Which macrolide antibiotics can increase the toxicity of Oxybutynin?",
     "options": [
       {
-        "text": "It directly relaxes the muscle like Albuterol",
-        "explanation": "Incorrect."
+        "text": "Azithromycin",
+        "explanation": "Incorrect. Doesn't inhibit CYP3A4 significantly."
       },
       {
-        "text": "It blocks the constriction signal from the vagus nerve",
-        "explanation": "Correct. Vagal tone constricts airways. Tiotropium blocks this tone, allowing bronchodilation.",
+        "text": "Erythromycin and Clarithromycin",
+        "explanation": "Correct. CYP3A4 inhibitors increase Oxybutynin levels.",
         "isCorrect": true
       },
       {
-        "text": "It reduces inflammation",
-        "explanation": "Incorrect (Steroids)."
-      },
-      {
-        "text": "It clears infection",
+        "text": "Doxycycline",
         "explanation": "Incorrect."
       },
       {
-        "text": "It calms you down",
+        "text": "Penicillin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ciprofloxacin",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Anticholinergics inhibit the 'Constrictor' tone.",
-    "pdfPage": 11
+    "clinicalPearl": "Key takeaway: CYP3A4 inhibition = Toxicity risk.",
+    "pdfPage": 37
   },
   {
-    "id": 21,
-    "category": "Rapid Review: Definition",
-    "questionText": "Cycloplegia means:",
+    "id": 15,
+    "category": "Cardiac Uses",
+    "questionText": "Atropine is the drug of choice for treating:",
     "options": [
       {
-        "text": "Paralysis of the pupil",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Paralysis of the ciliary muscle (accommodation)",
-        "explanation": "Correct. Unable to focus on near objects.",
+        "text": "Symptomatic sinus bradycardia",
+        "explanation": "Correct. Unblocks the vagus nerve.",
         "isCorrect": true
       },
       {
-        "text": "Dry eye",
+        "text": "Atrial fibrillation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Red eye",
+        "text": "Ventricular tachycardia",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Double vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Cycloplegia = Cycle (bicycle wheel looks like ciliary muscle) = Ciliary paralysis.",
-    "pdfPage": 8
-  },
-  {
-    "id": 22,
-    "category": "Rapid Review: GI",
-    "questionText": "Antimuscarinic drugs are sometimes used as 'Antispasmodics' for IBS because they:",
-    "options": [
-      {
-        "text": "Increase motility",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Decrease motility and tone",
-        "explanation": "Correct. Relieving cramps.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increase acid",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cause diarrhea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Kill bacteria",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Dicyclomine / Hyoscyamine are used for cramping (IBS).",
-    "pdfPage": 13
-  },
-  {
-    "id": 23,
-    "category": "Rapid Review: Interactions",
-    "questionText": "Combining Diphenhydramine (Benadryl) with Amitriptyline (TCA) increases the risk of:",
-    "options": [
-      {
-        "text": "Cholinergic Crisis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anticholinergic Toxicity",
-        "explanation": "Correct. Both have strong anticholinergic side effects. The effects are additive.",
-        "isCorrect": true
       },
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bleeding",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Liver failure",
+        "text": "Angina",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Additive Anticholinergic Load is a major cause of falls and delirium in the elderly.",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Atropine accelerates the heart.",
     "pdfPage": 3
   },
   {
-    "id": 24,
-    "category": "Rapid Review: Scopolamine",
-    "questionText": "Scopolamine is notorious for causing this CNS side effect:",
+    "id": 16,
+    "category": "Glaucoma Mechanism",
+    "questionText": "Antimuscarinics increase intraocular pressure by:",
     "options": [
       {
-        "text": "Seizures",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sedation / Amnesia",
-        "explanation": "Correct. 'Twilight sleep'. Used to be used for childbirth for this reason.",
+        "text": "Dilating the pupil and blocking the trabecular meshwork",
+        "explanation": "Correct. Mydriasis bunches the iris.",
         "isCorrect": true
       },
       {
-        "text": "Hyperactivity",
+        "text": "Constricting the ciliary muscle",
+        "explanation": "Incorrect. They relax it (Cycloplegia).",
+        "isCorrect": false
+      },
+      {
+        "text": "Increasing aqueous humor production",
         "explanation": "Incorrect."
       },
       {
-        "text": "Insomnia",
+        "text": "Decreasing blood flow",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Causing lens opacity",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Dilation is dangerous in narrow angles.",
+    "pdfPage": 6
+  },
+  {
+    "id": 17,
+    "category": "Hyperhidrosis",
+    "questionText": "Glycopyrrolate can be used topically or orally to treat:",
+    "options": [
+      {
+        "text": "Dry skin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperhidrosis (Excessive sweating)",
+        "explanation": "Correct. Dries secretions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acne",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Wrinkles",
         "explanation": "Incorrect."
       },
       {
@@ -741,349 +525,566 @@ window.Test_L21 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Scopolamine = Sedation.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Glycopyrrolate stops the sweat.",
+    "pdfPage": 21
   },
   {
-    "id": 25,
-    "category": "Vignette: Pre-op",
-    "questionText": "A patient asks why his mouth feels so dry after surgery. You explain that a medication was given to protect his airway by drying up saliva. This medication likely blocked:",
+    "id": 18,
+    "category": "Constipation",
+    "questionText": "Antimuscarinic agents cause constipation by:",
     "options": [
       {
-        "text": "Alpha receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "M3 receptors on salivary glands",
-        "explanation": "Correct.",
+        "text": "Inhibiting GI smooth muscle motility",
+        "explanation": "Correct. Blocks the 'Rest and Digest'.",
         "isCorrect": true
       },
       {
-        "text": "M2 receptors",
+        "text": "Increasing water absorption",
         "explanation": "Incorrect."
       },
       {
-        "text": "Nicotinic receptors",
+        "text": "Killing gut bacteria",
         "explanation": "Incorrect."
       },
       {
-        "text": "Histamine receptors",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Glycopyrrolate is the 'Dry Mouth' drug for surgery.",
-    "pdfPage": 7
-  },
-  {
-    "id": 26,
-    "category": "Rapid Review: Mechanism",
-    "questionText": "Inverse agonists binding to the receptor causse:",
-    "options": [
-      {
-        "text": "Activation",
+        "text": "Tightening the sphincter only",
         "explanation": "Incorrect."
       },
       {
-        "text": "No change",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Decreased constitutional (basal) activity",
-        "explanation": "Correct. They suppress the receptor below its resting state.",
-        "isCorrect": true
-      },
-      {
-        "text": "Irreversible blockade",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Upregulation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Most 'Antagonists' are actually Inverse Agonists.",
-    "pdfPage": 6
-  },
-  {
-    "id": 27,
-    "category": "Rapid Review: Children",
-    "questionText": "Children are particularly susceptible to which life-threatening effect of Atropine?",
-    "options": [
-      {
-        "text": "Bradycardia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyperthermia",
-        "explanation": "Correct. 'Children cool by sweating'. Block that, and they overheat rapidly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Constipation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Photophobia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rash",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine Fever.",
-    "pdfPage": 15
-  },
-  {
-    "id": 28,
-    "category": "Rapid Review: Eye Duration",
-    "questionText": "Which pupil dilator has the longest duration action (days)?",
-    "options": [
-      {
-        "text": "Tropicamide",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cyclopentolate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Atropine",
-        "explanation": "Correct. Can last 7-10 days. Not used for routine exams.",
-        "isCorrect": true
-      },
-      {
-        "text": "Phenylephrine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cocaine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Atropine drops = Dilated for a week.",
-    "pdfPage": 13
-  },
-  {
-    "id": 29,
-    "category": "Vignette: Overdose",
-    "questionText": "A patient takes an entire bottle of Sominex (Scopolamine) in a suicide attempt. Physostigmine is administered. Five minutes later, the patient develops seizures. What is the likely cause?",
-    "options": [
-      {
-        "text": "Worsening Scopolamine toxicity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Physostigmine toxicity",
-        "explanation": "Correct. Physostigmine itself can cause seizures if given too rapidly or in excess (Cholinergic excess in brain). It has a narrow therapeutic window.",
-        "isCorrect": true
-      },
-      {
-        "text": "Alcohol withdrawal",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypoglycemia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stroke",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Physostigmine is dangerous. Use only for severe anticholinergic delirium, and have Atropine ready to reverse it!",
-    "pdfPage": 17
-  },
-  {
-    "id": 30,
-    "category": "Rapid Review: Structure",
-    "questionText": "Benztropine is structurally related to:",
-    "options": [
-      {
-        "text": "Atropine and Diphenhydramine",
-        "explanation": "Correct. Has histamine-like properties.",
-        "isCorrect": true
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Nicotine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Serotonin",
+        "text": "Causing inflammation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Benztropine - Think 'Benzo' (sedating like antihistamines).",
-    "pdfPage": 3
+    "clinicalPearl": "Key takeaway: Anticholinergics slow the gut.",
+    "pdfPage": 10
   },
   {
-    "id": 31,
-    "category": "Rapid Review: Uses",
-    "questionText": "Tolterodine (Detrol) is used for:",
+    "id": 19,
+    "category": "Source",
+    "questionText": "Atropine is an alkaloid derived from:",
     "options": [
       {
-        "text": "Asthma",
+        "text": "The opium poppy",
         "explanation": "Incorrect."
       },
       {
-        "text": "Urinary Incontinence",
-        "explanation": "Correct. Similar to Oxybutynin.",
+        "text": "Atropa belladonna (Deadly Nightshade)",
+        "explanation": "Correct. Also Jimson Weed (Datura).",
         "isCorrect": true
       },
       {
-        "text": "Glaucoma",
+        "text": "Foxglove",
         "explanation": "Incorrect."
       },
       {
-        "text": "Parkinson's",
+        "text": "Willow bark",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bradycardia",
+        "text": "Fungi",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Tolterodine targets the bladder.",
+    "clinicalPearl": "Key takeaway: Belladonna = Beautiful Lady (Pupil dilation).",
     "pdfPage": 12
   },
   {
-    "id": 32,
-    "category": "Rapid Review: Poisoning",
-    "questionText": "Red as a beet means:",
+    "id": 20,
+    "category": "Receptor Selectivity",
+    "questionText": "Most clinically available antimuscarinic drugs like Atropine and Scopolamine are:",
+    "options": [
+      {
+        "text": "Highly selective for M1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Highly selective for M3",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Non-selective (Block M1-M5)",
+        "explanation": "Correct. Hence the wide range of side effects.",
+        "isCorrect": true
+      },
+      {
+        "text": "Selective for Nicotinic receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Selective for Adrenergic receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Lack of selectivity = Side effects.",
+    "pdfPage": 34
+  },
+  {
+    "id": 21,
+    "category": "Elderly Caution",
+    "questionText": "Antimuscarinic drugs should be avoided in the elderly (Beers Criteria) because they can precipitate:",
     "options": [
       {
         "text": "Hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cutaneous Vasodilation (Flush)",
-        "explanation": "Correct. Mechanism is debated (histamine release?), but the sign is classic.",
+        "text": "Delirium, Falls, Constipation, Urinary Retention",
+        "explanation": "Correct. The 'Anticholinergic Burden'.",
         "isCorrect": true
       },
       {
-        "text": "Bleeding",
+        "text": "Bradycardia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Rash",
+        "text": "Diarrhea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sunburn",
+        "text": "Hair growth",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Anticholinergic Flush.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Anticholinergics + Grandma = Bad idea.",
+    "pdfPage": 29
+  },
+  {
+    "id": 22,
+    "category": "Intubation",
+    "questionText": "During intubation, antimuscarinics like Glycopyrrolate are useful to:",
+    "options": [
+      {
+        "text": "Paralyze the muscles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prevent vagal reflexes (Bradycardia) and secretions",
+        "explanation": "Correct. Keeps the airway dry and heart beating.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sedate the patient",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prevent infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower blood pressure",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dry lungs = Clear view for intubation.",
+    "pdfPage": 8
+  },
+  {
+    "id": 23,
+    "category": "Inhaled Duration",
+    "questionText": "Tiotropium is classified as a:",
+    "options": [
+      {
+        "text": "SAMA (Short-Acting Muscarinic Antagonist)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "LAMA (Long-Acting Muscarinic Antagonist)",
+        "explanation": "Correct. Once daily dosing for COPD.",
+        "isCorrect": true
+      },
+      {
+        "text": "SABA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "LABA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ICS",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tiotropium = Time (Long acting).",
+    "pdfPage": 28
+  },
+  {
+    "id": 24,
+    "category": "Ipratropium",
+    "questionText": "Ipratropium is classified as a:",
+    "options": [
+      {
+        "text": "SAMA (Short-Acting Muscarinic Antagonist)",
+        "explanation": "Correct. 4-6 hours.",
+        "isCorrect": true
+      },
+      {
+        "text": "LAMA",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Beta agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Steroid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Antibiotic",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Atrovent (Ipratropium) is short.",
+    "pdfPage": 28
+  },
+  {
+    "id": 25,
+    "category": "Hot as Hades",
+    "questionText": "Why do antimuscarinic overdoses cause hyperthermia ('Hot as Hades')?",
+    "options": [
+      {
+        "text": "Increased metabolic rate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blockade of thermoregulatory sweating (M3 Sympathetic)",
+        "explanation": "Correct. You can't sweat heat off.",
+        "isCorrect": true
+      },
+      {
+        "text": "Central fever induction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vasoconstriction",
+        "explanation": "Incorrect. Vasodilation (Flush) happens.",
+        "isCorrect": false
+      },
+      {
+        "text": "Shivering",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: No sweat = High heat.",
+    "pdfPage": 28
+  },
+  {
+    "id": 26,
+    "category": "Mad as a Hatter",
+    "questionText": "'Mad as a Hatter' refers to:",
+    "options": [
+      {
+        "text": "Anger",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CNS toxicity: Confusion, Hallucinations, Delirium",
+        "explanation": "Correct. Blockade of M1 in cortical arousal centers.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kidney failure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Liver failure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blindness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Central Anticholinergic Syndrome is scary.",
+    "pdfPage": 28
+  },
+  {
+    "id": 27,
+    "category": "L-Hyoscyamine",
+    "questionText": "L-Hyoscyamine is primarily used for:",
+    "options": [
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Relief of GI/Visceral spasms (IBS)",
+        "explanation": "Correct. Levsin.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alzheimer's",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Depression",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hyoscyamine helps the hurting gut.",
+    "pdfPage": 13
+  },
+  {
+    "id": 28,
+    "category": "Cyclopentolate",
+    "questionText": "Cyclopentolate is used in ophthalmology to:",
+    "options": [
+      {
+        "text": "Treat glaucoma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Induce mydriasis and cycloplegia for eye exams",
+        "explanation": "Correct. Shorter duration than Atropine (24h vs days).",
+        "isCorrect": true
+      },
+      {
+        "text": "Treat dry eye",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Change eye color",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Shrink the pupil",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cyclo for eye exams.",
+    "pdfPage": 32
+  },
+  {
+    "id": 29,
+    "category": "Pregnancy",
+    "questionText": "In a pregnant patient with life-threatening organophosphate poisoning:",
+    "options": [
+      {
+        "text": "Atropine is contraindicated",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Atropine should be used because the benefit outweighs the risk",
+        "explanation": "Correct. Save the mother.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pralidoxime cannot be used",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only supportive care is allowed",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "C-section is required immediately",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Life-saving antidote > Teratogenic risk.",
+    "pdfPage": 32
+  },
+  {
+    "id": 30,
+    "category": "Visceral Smooth Muscle",
+    "questionText": "Antimuscarinic effects on the ureter and bladder lead to:",
+    "options": [
+      {
+        "text": "Urinary urgency",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Urinary retention",
+        "explanation": "Correct. Relax detrusor + Tighten sphincter = No pee.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kidney stones",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Infection",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hematuria",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Urinary retention is a common side effect in men with BPH.",
+    "pdfPage": 37
+  },
+  {
+    "id": 31,
+    "category": "Metabolism",
+    "questionText": "Most antimuscarinics are metabolized by:",
+    "options": [
+      {
+        "text": "The liver (Hepatic hydrolysis/CYP)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "The kidneys only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "The lungs",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Plasma esterases",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They are not metabolized",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Check liver function/drug interactions.",
+    "pdfPage": 7
+  },
+  {
+    "id": 32,
+    "category": "Mechanism Nuance",
+    "questionText": "Evidence suggests that Atropine may function not just as an antagonist, but as an:",
+    "options": [
+      {
+        "text": "Inverse agonist",
+        "explanation": "Correct. Stabilizes the receptor in the inactive state.",
+        "isCorrect": true
+      },
+      {
+        "text": "Partial agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Allosteric modulator",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Suicide inhibitor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enzyme inducer",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Inverse agonists reduce baseline constitutive activity.",
+    "pdfPage": 11
   },
   {
     "id": 33,
-    "category": "Vignette: Eye",
-    "questionText": "A patient with narrow angles inadvertently takes a decongestant with anticholinergic properties. They develop sudden severe eye pain and halo vision. The mechanism is:",
+    "category": "Duration comparison",
+    "questionText": "Which ophthalmic antimuscarinic has the longest duration of action (days)?",
     "options": [
       {
-        "text": "Increased aqueous production",
-        "explanation": "Incorrect."
+        "text": "Tropicamide",
+        "explanation": "Incorrect. 6 hours."
       },
       {
-        "text": "Mydriasis blocking the filtration angle",
-        "explanation": "Correct. The pupil dilates and 'bunches up' in the corner, blocking drainage.",
+        "text": "Cyclopentolate",
+        "explanation": "Incorrect. 24 hours."
+      },
+      {
+        "text": "Atropine",
+        "explanation": "Correct. Up to 7-10 days!",
         "isCorrect": true
       },
       {
-        "text": "Corneal abrasion",
+        "text": "Homatropine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Retinal detachment",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lens dislocation",
+        "text": "Phenylephrine",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Pupil dilation is dangerous for narrow angles.",
-    "pdfPage": 17
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Atropine drops last a LONG time.",
+    "pdfPage": 3
   },
   {
     "id": 34,
-    "category": "Rapid Review: Muscle",
-    "questionText": "Do antimuscarinics block Nicotinic receptors at the NMJ?",
+    "category": "Scopolamine Administration",
+    "questionText": "Scopolamine patches act for:",
     "options": [
       {
-        "text": "Yes",
+        "text": "24 hours",
         "explanation": "Incorrect."
       },
       {
-        "text": "No",
-        "explanation": "Correct. They have no effect on skeletal muscle strength.",
+        "text": "72 hours (3 days)",
+        "explanation": "Correct. Convenient for cruises.",
         "isCorrect": true
       },
       {
-        "text": "Only at high doses",
-        "explanation": "Incorrect (Technically possible but clinically irrelevant)."
-      },
-      {
-        "text": "Only in infants",
+        "text": "1 week",
         "explanation": "Incorrect."
       },
       {
-        "text": "They stimulate them",
+        "text": "1 hour",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "1 month",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Atropine does NOT cause paralysis or weakness.",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: Change patch every 3 days.",
+    "pdfPage": 23
   },
   {
     "id": 35,
-    "category": "Rapid Review: Secretions",
-    "questionText": "Which secretion is LEAST affected by Atropine?",
+    "category": "Dose Dependency",
+    "questionText": "At very high doses (>10mg), Atropine causes:",
     "options": [
       {
-        "text": "Saliva",
-        "explanation": "Incorrect. Highly sensitive."
-      },
-      {
-        "text": "Sweat",
-        "explanation": "Incorrect. Highly sensitive."
-      },
-      {
-        "text": "Bronchial mucus",
-        "explanation": "Incorrect. Sensitive."
-      },
-      {
-        "text": "Gastric Acid",
-        "explanation": "Correct. M1 receptors on parietal cells are less sensitive to Atropine than other glandular receptors. Need very high doses to block acid (lots of side effects).",
-        "pdfPage": 10,
+        "text": "Coma and Medullary paralysis",
+        "explanation": "Correct. CNS depression follows excitation.",
         "isCorrect": true
       },
       {
-        "text": "Tears",
+        "text": "Bradycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothermia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Profuse salivation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle spasms",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Atropine is a poor drug for peptic ulcers because the dose needed would cause every other side effect first.",
-    "pdfPage": 10
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: The dose makes the poison.",
+    "pdfPage": 24
   }
 ];

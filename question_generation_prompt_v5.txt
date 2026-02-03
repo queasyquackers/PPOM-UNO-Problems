@@ -2,6 +2,14 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 
 - Use both the PDF slides and a transcript to create contextually rich questions.
 
+**CRITICAL - STRICT SCOPE ENFORCEMENT:**
+- **INTERSECTION RULE (SLIDES + TRANSCRIPT):** You must ONLY test concepts that are **explained in the transcript** AND **supported by the slides**.
+    - If a detail appears *only* on a slide (e.g., a complex chart or list) but the lecturer does *not* mention or explain it, **DO NOT TEST IT.**
+    - If the lecturer mentions a concept but it is not in the slides, you may test it ONLY if it is a core "overall concept" being taught.
+- **FOCUS on OVERALL CONCEPTS:** Prioritize the "Big Picture" mechanisms, pathologies, and treatments the lecturer is trying to convey. Avoid isolated facts that do not contribute to the main educational goal of the lecture.
+- **NO OUTSIDE KNOWLEDGE:** Do NOT use external medical knowledge to fill in gaps. If the lecture is vague, the question should be broad/conceptual, not specific.
+- **NO FUTURE CONCEPTS:** Do NOT introduce concepts/diseases taught in later courses. Stick strictly to the "Here and Now" of the lecture.
+
 **CRITICAL - STEP/COMLEX Style Vignettes:**
 You MUST write questions that mimic the length and detail of actual board exams.
 - **Vignette Structure (REQUIRED):**
@@ -39,11 +47,12 @@ For **INCORRECT** answer choices, you **MUST** follow this strict format to supp
 For the **CORRECT** answer choice:
 1.  Start with "Correct." and provide a comprehensive explanation.
 
-**CRITICAL - Answer Length Balancing:**
-- You MUST actively avoid the "Longest Answer is Correct" bias.
-- Ensure the correct answer is the longest option in **no more than 20-25%** of questions.
-- Frequently make the correct answer shorter or equal in length to the distractors.
-- If the correct answer requires a long detailed explanation, ensure at least one distractor is equally detailed/long.
+**CRITICAL - Answer Length & Position Balancing:**
+- **NO "Longest Answer" Bias:** The correct answer MUST NOT consistently be the longest option.
+    - **Action:** Frequently make distractors longer or more detailed than the correct answer.
+- **Randomize Correct Answer Position:** The correct answer must be randomly distributed among options A, B, C, D, E.
+    - **Avoid Pattern:** Do NOT place the correct answer in the same position (e.g., always "C") for multiple consecutive questions.
+
 **CRITICAL - "The Pearlbook" Requirements:**
 - Every question **MUST** have a `category` (e.g., "Cardiology: Heart Failure").
 - Every question **MUST** have a `clinicalPearl` field. This is a standalone, high-yield fact used to generate "The Pearlbook" for the student.
@@ -103,4 +112,12 @@ const [TEST_NAME_VARIABLE] = [
 - Review the PDF to identify the correct page number - this enables students to click "Open Lecture Source PDF (Page X)" and jump directly to the relevant slide
 - For questions covering broad topics, use the overview/summary slide number
 
-**IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.
+**CRITICAL - MANDATORY PDF MAPPING VERIFICATION:**
+1. **CHECK** `scripts/pdf_mapping.js` to see if a mapping for this lecture already exists.
+2. **VERIFY** that the file path in the mapping corresponds to the actual PDF file in the `pdfs/` directory.
+   - If the mapping is **MISSING** or **INCORRECT** (e.g., wrong filename), you **MUST** provide the specific code snippet to update `scripts/pdf_mapping.js` with the correct mapping.
+3. **MANDATORY OUTPUT:** In your "Thinking Process", explicitly state:
+   - "PDF Mapping Check: [Found/Missing]"
+   - "PDF Filename: [Actual Filename]"
+   - "Mapping Key: [Key used in pdf_mapping.js]"
+   - "Status: [Verified/Needs Update]"

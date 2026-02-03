@@ -1,163 +1,567 @@
 window.Test_L13 = [
   {
     "id": 1,
-    "category": "Decision Making: Cognitive Biases",
-    "questionText": "A 55-year-old male presents with chest pain. The ER physician immediately diagnoses him with reflux (GERD) because he 'looks just like' a patient he saw yesterday who had reflux. He discharges the patient without an EKG. The patient returns hours later in cardiac arrest. Which cognitive bias most likely contributed to this error?",
+    "category": "Cognitive Theory: Dual Process",
+    "questionText": "According to the Dual Process Theory of Cognition, which system is characterized as fast, intuitive, subconscious, and uses heuristics?",
     "options": [
       {
-        "text": "Anchoring Bias",
-        "explanation": "Incorrect. Anchoring is sticking to the initial impression despite new data."
+        "text": "System 1",
+        "explanation": "Correct. System 1 is the 'Intuitive' system (fast, pattern recognition).",
+        "isCorrect": true
       },
       {
-        "text": "Availability Bias",
-        "explanation": "Correct. Availability bias is judging the likelihood of an event by how easily examples come to mind (e.g., 'I just saw a case like this yesterday').",
+        "text": "System 2",
+        "explanation": "Incorrect. System 2 is slow, analytical, and logical."
+      },
+      {
+        "text": "Hypothetico-Deductive System",
+        "explanation": "Incorrect. This corresponds to System 2."
+      },
+      {
+        "text": "Metacognitive System",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Autonomous System",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: System 1 = Fast/Intuitive. System 2 = Slow/Analytical.",
+    "pdfPage": 2
+  },
+  {
+    "id": 2,
+    "category": "Clinical Reasoning: Heuristics",
+    "questionText": "Mental shortcuts used by clinicians to make rapid decisions based on formed habits and patterns are known as:",
+    "options": [
+      {
+        "text": "Algorithms",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Heuristics",
+        "explanation": "Correct. Heuristics are cognitive efficiency tools but prone to bias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Illness Scripts",
+        "explanation": "Incorrect. Illness scripts are knowledge structures, not the shortcuts themselves."
+      },
+      {
+        "text": "Evidence-Based Medicine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothetico-Deductive Reasoning",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Heuristics are mental shortcuts (double-edged sword: fast but bias-prone).",
+    "pdfPage": 5
+  },
+  {
+    "id": 3,
+    "category": "Cognitive Bias: Anchoring",
+    "questionText": "A clinician fixates on a patient's initial description of a headache as a 'migraine' because of a family history, and fails to investigate red flags for increased intracranial pressure despite progressive worsening. This is an example of which cognitive bias?",
+    "options": [
+      {
+        "text": "Availability Heuristic",
+        "explanation": "Incorrect. Availability is about recent frequency."
+      },
+      {
+        "text": "Anchoring Bias",
+        "explanation": "Correct. Locking onto early features and failing to adjust.",
         "isCorrect": true
       },
       {
         "text": "Confirmation Bias",
-        "explanation": "Incorrect. Confirmation is seeking only data that fits."
+        "explanation": "Incorrect. Confirmation is seeking only supporting evidence."
+      },
+      {
+        "text": "Representation Error",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Premature Closure",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anchoring = Stuck on initial impression (First impressions are hard to break).",
+    "pdfPage": 18
+  },
+  {
+    "id": 4,
+    "category": "Cognitive Bias: Availability",
+    "questionText": "After seeing three consecutive cases of appendicitis in the ER, a physician diagnoses a young female with right lower quadrant pain as appendicitis without considering ovarian torsion. This error is best attributed to:",
+    "options": [
+      {
+        "text": "Anchoring Bias",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Availability Heuristic",
+        "explanation": "Correct. Recent/frequent examples come to mind easily and bias judgment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Confirmation Bias",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gambler's Fallacy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sunk Cost Bias",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Availability = 'What I've seen recently' dominates thinking.",
+    "pdfPage": 26
+  },
+  {
+    "id": 5,
+    "category": "Cognitive Bias: Confirmation",
+    "questionText": "A clinician suspects a URI in a coughing patient. They note the rhinorrhea and fever but ignore or minimize the finding of asymmetric chest expansion and dullness to percussion because it doesn't fit their URI theory. This is:",
+    "options": [
+      {
+        "text": "Anchoring Bias",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Confirmation Bias",
+        "explanation": "Correct. Cherry-picking data to support the hypothesis while ignoring refuting evidence.",
+        "isCorrect": true
+      },
+      {
+        "text": "Availability Heuristic",
+        "explanation": "Incorrect."
       },
       {
         "text": "Outcome Bias",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blind Obedience",
+        "text": "Hindsight Bias",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Availability Bias = Recency Effect. Common in flu season (diagnosing everyone with flu, missing a PE).",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: Confirmation Bias = Seeking 'Yes' answers, ignoring 'No' data.",
+    "pdfPage": 12
   },
   {
-    "id": 2,
-    "category": "Decision Making: Dual Process Theory",
-    "questionText": "An experienced attending physician walks into a patient's room, takes one look at the patient's gait and facial expression, and instantly diagnoses Parkinson's Disease without a formal exam. This rapid, intuitive decision-making is an example of:",
+    "id": 6,
+    "category": "Clinical Reasoning: VINDICATE",
+    "questionText": "Which of the following is an exhaustive mnemonic used to generate a broad differential diagnosis?",
     "options": [
       {
-        "text": "System 1 Processing",
-        "explanation": "Correct. System 1 is Fast, Intuitive, Heuristic-based, and used by experts for pattern recognition.",
+        "text": "ABCDE",
+        "explanation": "Incorrect. Trauma assessment."
+      },
+      {
+        "text": "VINDICATE",
+        "explanation": "Correct. Vascular, Infectious, Neoplastic, Drug, Inflammatory, Congenital, Autoimmune, Trauma, Endocrine.",
         "isCorrect": true
       },
       {
-        "text": "System 2 Processing",
-        "explanation": "Incorrect. System 2 is Slow, Analytical, and Logical. Used by students or for complex/atypical cases."
+        "text": "OLDCARTS",
+        "explanation": "Incorrect. History of Present Illness (HPI)."
       },
       {
-        "text": "Hypothetico-Deductive Reasoning",
-        "explanation": "Incorrect. This is System 2."
+        "text": "SOAP",
+        "explanation": "Incorrect. Note format."
       },
       {
-        "text": "Bayesian Analysis",
+        "text": "SIGECAPS",
+        "explanation": "Incorrect. Depression."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: VINDICATE or TOM G PRINCE MD help ensure you don't miss a category of disease.",
+    "pdfPage": 15
+  },
+  {
+    "id": 7,
+    "category": "Cognitive Bias: Representation",
+    "questionText": "A geriatrician who commonly treats diverticulitis diagnoses a 14-year-old with rectal bleeding as having diverticulitis, failing to account for the low prevalence of this condition in adolescents. This is an example of:",
+    "options": [
+      {
+        "text": "Anchoring",
         "explanation": "Incorrect."
       },
       {
-        "text": "Evidence Based Medicine",
+        "text": "Representation Error (Base Rate Neglect)",
+        "explanation": "Correct. Failing to consider prevalence (Base Rate) for the specific demographic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Availability",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Confirmation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Overconfidence",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: System 1 = Fast/Gut. System 2 = Slow/Brain. Errors occur when System 1 is used incorrectly (Biases).",
-    "pdfPage": 6
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Representation Error = Ignoring 'Base Rates' / Epidemiology (e.g. elderly disease in a child).",
+    "pdfPage": 37
   },
   {
-    "id": 3,
-    "category": "Decision Making: Premature Closure",
-    "questionText": "A resident evaluates a patient with abdominal pain. She suspects appendicitis. She orders a CT scan which shows a normal appendix. Instead of reconsidering the differential, she assumes the CT is wrong and sends the patient to surgery anyway, where a normal appendix is removed. The true diagnosis was Mesenteric Adenitis. This error is best described as:",
+    "id": 8,
+    "category": "Clinical Reasoning: Illness Script",
+    "questionText": "An 'Illness Script' is an organized mental summary of a disease that typically includes all of the following EXCEPT:",
     "options": [
       {
-        "text": "Premature Closure",
-        "explanation": "Incorrect. Premature closure is stopping the workup once a diagnosis is found. Here, she persisted despite negative data."
+        "text": "Pathophysiology and Epidemiology",
+        "explanation": "Incorrect. Included."
       },
       {
-        "text": "Anchoring Bias",
-        "explanation": "Correct. She 'anchored' on the initial diagnosis of appendicitis and refused to adjust her probability despite conflicting evidence (normal CT).",
+        "text": "Time Course",
+        "explanation": "Incorrect. Included."
+      },
+      {
+        "text": "Salient Signs and Symptoms",
+        "explanation": "Incorrect. Included."
+      },
+      {
+        "text": "Patient's Insurance Information",
+        "explanation": "Correct. This is administrative, not part of the clinical illness script.",
         "isCorrect": true
       },
       {
-        "text": "Availability Bias",
+        "text": "Diagnostics and Treatment",
+        "explanation": "Incorrect. Included."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Illness Scripts = Disease profiles in your head (Who, When, What, Why, How).",
+    "pdfPage": 18
+  },
+  {
+    "id": 9,
+    "category": "Reasoning Strategy: Zebras",
+    "questionText": "The aphorism 'When you hear hoofbeats, think horses, not zebras' encourages clinicians to prioritize:",
+    "options": [
+      {
+        "text": "Rare and exotic diagnoses",
         "explanation": "Incorrect."
       },
       {
-        "text": "Commission Bias",
+        "text": "Common and likely diagnoses",
+        "explanation": "Correct. Focus on high-probability diseases first.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only surgical conditions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only infectious diseases",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diagnoses that require expensive testing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Common things occur commonly (but don't forget the 'red flags' for zebras).",
+    "pdfPage": 24
+  },
+  {
+    "id": 10,
+    "category": "Documentation: Problem Representation",
+    "questionText": "A 'Problem Representation' or 'Summary Statement' serves to:",
+    "options": [
+      {
+        "text": "List every single detail the patient mentioned",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Synthesize the case into a concise clinical picture including epidemiology, key findings, and risk factors",
+        "explanation": "Correct. It transforms data into a coherent clinical story.",
+        "isCorrect": true
+      },
+      {
+        "text": "Provide a billing code",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "List the patient's medications only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Describe the patient's family tree",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Problem Representation = The 'One Liner' summary of the case.",
+    "pdfPage": 12
+  },
+  {
+    "id": 11,
+    "category": "Clinical Reasoning: System 2",
+    "questionText": "System 2 thinking is best described as:",
+    "options": [
+      {
+        "text": "Fast, automatic, and emotional",
+        "explanation": "Incorrect. System 1."
+      },
+      {
+        "text": "Slow, effortful, analytical, and logical",
+        "explanation": "Correct. The 'Hypothetico-Deductive' mode.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subconscious and habit-based",
+        "explanation": "Incorrect. System 1."
+      },
+      {
+        "text": "The primary mode for experienced experts in routine cases",
+        "explanation": "Incorrect. Experts use System 1 for routine cases."
+      },
+      {
+        "text": "Immune to cognitive error",
+        "explanation": "Incorrect. System 2 can still err (e.g., knowledge gaps), though less prone to bias than System 1.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: System 2 = The 'Check your work' / 'Deep thought' mode.",
+    "pdfPage": 2
+  },
+  {
+    "id": 12,
+    "category": "Differential Diagnosis: Strategy",
+    "questionText": "When generating a differential diagnosis, it is critical to always include:",
+    "options": [
+      {
+        "text": "The rarest possible condition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diagnoses that are potentially life-threatening ('Must Not Miss')",
+        "explanation": "Correct. e.g., MI for chest pain, Meningitis for headache/fever.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only one diagnosis to be decisive",
+        "explanation": "Incorrect. Dangerous."
+      },
+      {
+        "text": "Diagnoses that only match the patient's self-diagnosis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Conditions with no available treatment",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Always rule out the 'Killers' first.",
+    "pdfPage": 14
+  },
+  {
+    "id": 13,
+    "category": "Clinical Reasoning: Mnemonics",
+    "questionText": "In the mnemonic 'TOM G PRINCE MD' for generating a differential, the 'T' generally stands for:",
+    "options": [
+      {
+        "text": "Time",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Temperature",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Toxins / Trauma",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thyroid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Treatment",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: T = Toxins / Trauma.",
+    "pdfPage": 14
+  },
+  {
+    "id": 14,
+    "category": "Pathology: Case Example",
+    "questionText": "In the lecture case study of the 3-year-old with ear pain and fever, the 'bulging tympanic membrane' and 'loss of middle ear architecture' strongly points towards:",
+    "options": [
+      {
+        "text": "Otitis Externa",
+        "explanation": "Incorrect. Canal would be swollen."
+      },
+      {
+        "text": "Suppurative Otitis Media",
+        "explanation": "Correct. Infection of the middle ear space causing pressure/bulging.",
+        "isCorrect": true
+      },
+      {
+        "text": "Serous Otitis Media",
+        "explanation": "Incorrect. Usually fluid without acute bulging/inflammation signs."
+      },
+      {
+        "text": "TMJ Dysfunction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Foreign Body",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bulging TM + Fever = Acute Otitis Media (Suppurative).",
+    "pdfPage": 12
+  },
+  {
+    "id": 15,
+    "category": "Diagnostic Errors: Impact",
+    "questionText": "Diagnostic errors are estimated to be implicated in approximately what percentage of clinical decisions with medicolegal repercussions?",
+    "options": [
+      {
+        "text": "1%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "5%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "15%",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "50%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "90%",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Diagnostic error is a significant cause of harm and liability (~15%).",
+    "pdfPage": 26
+  },
+  {
+    "id": 16,
+    "category": "Management: Plan Components",
+    "questionText": "Which of the following is an essential component of the Management Plan that should be included in every patient encounter?",
+    "options": [
+      {
+        "text": "Prescription for antibiotics",
+        "explanation": "Incorrect. Not always needed."
+      },
+      {
+        "text": "Patient Education / Counseling",
+        "explanation": "Correct. Every patient needs education on their condition/plan.",
+        "isCorrect": true
+      },
+      {
+        "text": "Surgical referral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MRI order",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Genetic testing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Plan = Diagnostics + Therapeutics + Education + Follow-up.",
+    "pdfPage": 25
+  },
+  {
+    "id": 17,
+    "category": "Cognitive Bias: Premature Closure",
+    "questionText": "Accepting a diagnosis before it has been fully verified or 'closing the case' too early is known as:",
+    "options": [
+      {
+        "text": "Premature Closure",
+        "explanation": "Correct. Stopping the diagnostic process too soon.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hindsight Bias",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anchoring",
         "explanation": "Incorrect."
       },
       {
         "text": "Framing Effect",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anchoring = Sticking to the ship even when it's sinking. (Refusal to meaningful update prior probability).",
-    "pdfPage": 29
-  },
-  {
-    "id": 4,
-    "category": "Decision Making: Sensitivity",
-    "questionText": "A D-Dimer test is used to rule out Pulmonary Embolism (PE). It has a Sensitivity of 99% and a Specificity of 40%. A negative result helps rule out the disease because:",
-    "options": [
-      {
-        "text": "High Sensitivity logic (SnNout)",
-        "explanation": "Correct. Highly Sensitive tests have few False Negatives. Therefore, a Negative result rules OUT the disease (SnNout).",
-        "isCorrect": true
       },
       {
-        "text": "High Specificity logic (SpPin)",
-        "explanation": "Incorrect. High Specificity rules IN (SpPin)."
-      },
-      {
-        "text": "It has a high Positive Predictive Value",
-        "explanation": "Incorrect. Low specificity means many false positives."
-      },
-      {
-        "text": "It proves the patient is healthy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It confirms the diagnosis",
+        "text": "Sunk Cost Fallacy",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Sensitivity = Screening (Don't miss it). Specificity = Confirmation (Make sure it's it).",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Premature closure is the most common cognitive error in medicine.",
+    "pdfPage": 24
   },
   {
-    "id": 5,
-    "category": "Decision Making: Problem Representation",
-    "questionText": "The 'Problem Representation' or 'Summary Statement' is a crucial step in clinical reasoning. Which of the following is the best example of a strong Problem Representation?",
+    "id": 18,
+    "category": "Clinical Reasoning: Pattern Recognition",
+    "questionText": "Recognizing a 'fire truck' instantly despite it being yellow instead of red relies on:",
     "options": [
       {
-        "text": "45-year-old male with chest pain.",
-        "explanation": "Incorrect. Too vague."
+        "text": "Calculated probability",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Mr. Smith has a high fever and a cough.",
-        "explanation": "Incorrect. Raw data, not synthesized."
-      },
-      {
-        "text": "A 65-year-old male smoker with a history of COPD presents with acute onset non-pleuritic chest pain and diaphoresis.",
-        "explanation": "Correct. It synthesizes Demographics + Risk Factors + Temporal Course + Clinical Syndrome. It facilitates retrieval of Illness Scripts.",
+        "text": "Pattern Recognition (with flexibility)",
+        "explanation": "Correct. Adapting the prototype to fit variations (the 'Zebra' concept).",
         "isCorrect": true
       },
       {
-        "text": "Patient has elevated Troponin and ST elevation.",
-        "explanation": "Incorrect. Diagnosis, not representation."
+        "text": "Rote menorization",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Pain is 10/10.",
+        "text": "Blind guessing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Laboratory testing",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Convert 'Raw Data' (45yo, hurt leg yesterday) into 'Semantic Qualifiers' (Middle-aged, Acute, Monarticular).",
-    "pdfPage": 13
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pattern recognition must be flexible to catch atypical presentations.",
+    "pdfPage": 12
   },
   {
-    "id": 6,
-    "category": "Decision Making: VINDICATE",
-    "questionText": "When generating a differential diagnosis, the mnemonic VINDICATE is often used to ensure broad consideration of etiologies. The 'I' stands for:",
+    "id": 19,
+    "category": "Differential Diagnosis: VINDICATE",
+    "questionText": "In VINDICATE, the 'I' stands for:",
     "options": [
       {
         "text": "Injury",
@@ -165,925 +569,520 @@ window.Test_L13 = [
       },
       {
         "text": "Infectious / Inflammatory / Iatrogenic",
-        "explanation": "Correct. Often covers all three.",
+        "explanation": "Correct. Covers a broad range of 'I' etiologies.",
         "isCorrect": true
       },
       {
-        "text": "Ischemic",
-        "explanation": "Incorrect (V - Vascular)."
-      },
-      {
-        "text": "Idiopathic",
-        "explanation": "Incorrect (Often the last E or I).",
-        "isCorrect": false
-      },
-      {
-        "text": "Inherited",
-        "explanation": "Incorrect (C - Congenital)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: VINDICATE: Vascular, Infectious, Neoplastic, Degenerative/Drugs, Iatrogenic/Intoxication, Congenital, Autoimmune, Trauma, Endocrine.",
-    "pdfPage": 20
-  },
-  {
-    "id": 7,
-    "category": "Decision Making: Illness Script",
-    "questionText": "An 'Illness Script' is a mental structure that clinicians use to organize knowledge about a disease. Its three main components are:",
-    "options": [
-      {
-        "text": "History, Physical, Labs",
+        "text": "Intestinal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pathophysiology, Epidemiology, and Clinical Consequences (Time course/Symptoms)",
-        "explanation": "Correct. 'Who gets it? Why? What does it look like?'",
-        "isCorrect": true
-      },
-      {
-        "text": "Sensitivity, Specificity, Likelihood Ratio",
+        "text": "Intellectual",
         "explanation": "Incorrect."
       },
       {
-        "text": "Subjective, Objective, Assessment",
-        "explanation": "Incorrect (SOAP)."
-      },
-      {
-        "text": "Chief Complaint, HPI, Review of Systems",
+        "text": "Imaginary",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Experts have rich Illness Scripts. Novices have fragmented facts.",
-    "pdfPage": 17
-  },
-  {
-    "id": 8,
-    "category": "Decision Making: Base Rate Neglect",
-    "questionText": "A student sees a patient with a headache and immediately suspects a rare tropical brain fungus because she just read a case report about it. She ignores the fact that tension headaches are 1000x more common. This is an example of:",
-    "options": [
-      {
-        "text": "Base Rate Neglect",
-        "explanation": "Correct. Ignoring the pre-test probability (prevalence) of a disease. 'When you hear hoofbeats, think horses, not zebras'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Sunk Cost Fallacy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gambler's Fallacy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hindsight Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blind Spot Bias",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Common things are Common. Rare presentations of common diseases are more likely than common presentations of rare diseases.",
-    "pdfPage": 30
-  },
-  {
-    "id": 9,
-    "category": "Decision Making: Pre-Test Probability",
-    "questionText": "The probability that a patient has a disease BEFORE a test result is known is called the:",
-    "options": [
-      {
-        "text": "Sensitivity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pre-Test Probability (Prior Probability)",
-        "explanation": "Correct. Derived from prevalence and clinical presentation.",
-        "isCorrect": true
-      },
-      {
-        "text": "Post-Test Probability",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Likelihood Ratio",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Odds Ratio",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bayesian Reasoning: Prior Probability + Test Result (LR) = Posterior Probability.",
-    "pdfPage": 34
-  },
-  {
-    "id": 10,
-    "category": "Decision Making: Thresholds",
-    "questionText": "If the probability of a disease is BELOW the 'Testing Threshold', the appropriate action is to:",
-    "options": [
-      {
-        "text": "Treat the patient",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Order more tests",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rule out the disease (No test, No treat)",
-        "explanation": "Correct. The risk is so low that the harm of testing (false positives/cost) outweighs the benefit. You reassure the patient.",
-        "isCorrect": true
-      },
-      {
-        "text": "Admit for observation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Consult a specialist",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Thresholds: <Testing Threshold = Do nothing. >Testing but <Treatment = Test. >Treatment Threshold = Treat.",
-    "pdfPage": 39
-  },
-  {
-    "id": 11,
-    "category": "Decision Making: Confirmation Bias",
-    "questionText": "A physician suspects a patient has alcohol withdrawal. He asks about alcohol intake but neglects to ask about other drugs or medical history that might explain the tremors. He accepts only the findings that support his theory. This is:",
-    "options": [
-      {
-        "text": "Confirmation Bias",
-        "explanation": "Correct. 'Cherry-picking' data to fit your hypothesis.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Premature Closure",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Framing Effect",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visceral Bias",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: To combat confirmation bias, actively search for evidence that DISPROVES your hypothesis (Falsification).",
-    "pdfPage": 30
-  },
-  {
-    "id": 12,
-    "category": "Decision Making: Likelihood Ratio",
-    "questionText": "A Positive Likelihood Ratio (LR+) of 10 means that a positive test result:",
-    "options": [
-      {
-        "text": "Is inconclusive",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Significantly increases the probability of disease",
-        "explanation": "Correct. LR > 10 is excellent for ruling IN a disease. LR < 0.1 is excellent for ruling OUT.",
-        "isCorrect": true
-      },
-      {
-        "text": "Decreases the probability of disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Means the test has high sensitivity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Means the test has low specificity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LR+ = Sensitivity / (1-Specificity). It's more useful than sensitivity/specificity alone because it applies directly to the individual patient's probability.",
-    "pdfPage": 35
-  },
-  {
-    "id": 13,
-    "category": "Decision Making: Visceral Bias",
-    "questionText": "A physician dislikes a homeless patient because of poor hygiene and combative behavior. As a result, he is quick to discharge the patient and misses a serious infection. This emotional influence on decision making is:",
-    "options": [
-      {
-        "text": "Visceral Bias (Countertransference)",
-        "explanation": "Correct. Negative (or positive) feelings toward a patient clouding judgment.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Availability",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blind Obedience",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sunk Cost",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Recognize your emotional response to patients. 'The difficult patient' is a high-risk setup for medical error.",
-    "pdfPage": 31
-  },
-  {
-    "id": 14,
-    "category": "Decision Making: System 2",
-    "questionText": "Which of the following characteristics describes System 2 thinking?",
-    "options": [
-      {
-        "text": "Fast",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unconscious",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Effortful and Analytical",
-        "explanation": "Correct. It requires metabolic energy and focus. It checks the errors of System 1.",
-        "isCorrect": true
-      },
-      {
-        "text": "Emotional",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stereotypical",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Cognitive Load Theory: We have limited System 2 capacity. Tired/distracted doctors revert to System 1 -> Errors.",
-    "pdfPage": 6
-  },
-  {
-    "id": 15,
-    "category": "Decision Making: Defining Diagnosis",
-    "questionText": "The primary goal of the diagnostic process is to:",
-    "options": [
-      {
-        "text": "Order as many tests as possible",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Classify the patient's illness to guide treatment and prognosis",
-        "explanation": "Correct. Diagnosis is not an end in itself; it is a tool to determine action.",
-        "isCorrect": true
-      },
-      {
-        "text": "Prove the patient is wrong",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Avoid lawsuits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Identify the ICD-10 code for billing",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Treat the patient, not the number.",
-    "pdfPage": 13
-  },
-  {
-    "id": 16,
-    "category": "Decision Making: Occam's Razor",
-    "questionText": "A patient presents with fever, joint pain, and a rash. The principle of Occam's Razor suggests you should:",
-    "options": [
-      {
-        "text": "Diagnose three separate conditions",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Seek a single diagnosis that explains all findings",
-        "explanation": "Correct. The simplest explanation is usually the best. (e.g., Lupus or Endocarditis, rather than flu + arthritis + eczema simultaneously).",
-        "isCorrect": true
-      },
-      {
-        "text": "Assume the rarest cause",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ignore the rash",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Consult dermatology immediately",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Occam's Razor vs Hickam's Dictum ('A patient can have as many diseases as they damn well please'). Use Occam for young/healthy. Use Hickam for elderly/multimorbid.",
-    "pdfPage": 29
-  },
-  {
-    "id": 17,
-    "category": "Decision Making: Representativeness Bias",
-    "questionText": "A clinician sees a thin, healthy-looking young woman complaining of fatigue and palpitations. He overlooks the possibility of heart disease because she 'doesn't look like a heart patient' (i.e., not old/obese). This is:",
-    "options": [
-      {
-        "text": "Representativeness Bias",
-        "explanation": "Correct. Judging probability by how much the case resembles a 'prototype', ignoring atypical presentations.",
-        "isCorrect": true
-      },
-      {
-        "text": "Availability Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Outcome Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blind Obedience",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Prototypes are useful but dangerous. Always ask 'What doesn't fit?'",
-    "pdfPage": 30
-  },
-  {
-    "id": 18,
-    "category": "Decision Making: Semantic Qualifiers",
-    "questionText": "Transforming 'Right knee hurts since yesterday' into 'Acute Monoarticular Arthritis' is the process of using:",
-    "options": [
-      {
-        "text": "Semantic Qualifiers",
-        "explanation": "Correct. Abstract terms (Acute/Chronic, Unilateral/Bilateral) that link patient data to medical knowledge.",
-        "isCorrect": true
-      },
-      {
-        "text": "Heuristics",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Biases",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vital Signs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Review of Systems",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: The Problem Representation is built from Semantic Qualifiers.",
-    "pdfPage": 13
-  },
-  {
-    "id": 19,
-    "category": "Decision Making: Gold Standard",
-    "questionText": "The reference standard test against which new diagnostic tests are compared is called the:",
-    "options": [
-      {
-        "text": "Silver Standard",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gold Standard",
-        "explanation": "Correct. The 'Truth'. (e.g., Biopsy for cancer, Autopsy for death).",
-        "isCorrect": true
-      },
-      {
-        "text": "System 1",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensitivity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Placebo",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: No test is perfect, but the Gold Standard is the closest we get.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: I = Infectious, Inflammatory, Iatrogenic, Idiopathic.",
+    "pdfPage": 12
   },
   {
     "id": 20,
-    "category": "Decision Making: Hypothetico-Deductive",
-    "questionText": "The Hypothetico-Deductive method involves:",
+    "category": "Cognitive Theory: Experience",
+    "questionText": "Novice clinicians (e.g., medical students) rely more heavily on which system of thinking?",
     "options": [
       {
-        "text": "Generating a list of hypotheses, then testing them one by one to rule in/out",
-        "explanation": "Correct. The scientific method applied to diagnosis.",
+        "text": "System 1 (Intuitive)",
+        "explanation": "Incorrect. Requires experience database."
+      },
+      {
+        "text": "System 2 (Hypothetico-Deductive)",
+        "explanation": "Correct. They lack the pattern bank, so they must reason from first principles.",
         "isCorrect": true
       },
       {
-        "text": "Recognizing a pattern instantly",
-        "explanation": "Incorrect (Pattern recognition)."
-      },
-      {
-        "text": "Using a flowchart or algorithm blindly",
+        "text": "System 3 (Automated)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Guessing randomly",
+        "text": "Heuristics only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Asking the attending",
+        "text": "Guesswork",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Novices rely on Hypothetico-Deductive. Experts rely on Pattern Recognition (but switch to Hypothetico when the pattern fails).",
-    "pdfPage": 8
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Students use System 2 (Slow). Experts use System 1 (Fast) + System 2 check.",
+    "pdfPage": 2
   },
   {
     "id": 21,
-    "category": "Decision Making: Premature Closure",
-    "questionText": "The most common cognitive error in medicine is:",
+    "category": "Case Study: Otitis Media",
+    "questionText": "Risk factors for Otitis Media in children include all of the following EXCEPT:",
     "options": [
       {
-        "text": "Premature Closure",
-        "explanation": "Correct. Stopping the diagnostic process too early. 'When the diagnosis is made, the thinking stops.'",
+        "text": "Daycare attendance",
+        "explanation": "Incorrect. Risk factor."
+      },
+      {
+        "text": "Exposure to cigarette smoke",
+        "explanation": "Incorrect. Risk factor."
+      },
+      {
+        "text": "Bottle feeding (supine)",
+        "explanation": "Incorrect. Risk factor."
+      },
+      {
+        "text": "Vegetarian diet",
+        "explanation": "Correct. Not a known risk factor.",
         "isCorrect": true
       },
       {
-        "text": "Visceral Bias",
+        "text": "Craniofacial abnormalities",
+        "explanation": "Incorrect. Risk factor."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Smoke, Daycare, Bottle feeding = key Otitis Media risks.",
+    "pdfPage": 12
+  },
+  {
+    "id": 22,
+    "category": "Documentation: Assessment",
+    "questionText": "In a SOAP note, the final diagnosis and differential diagnosis are documented in the:",
+    "options": [
+      {
+        "text": "Subjective",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gambler's Fallacy",
+        "text": "Objective",
         "explanation": "Incorrect."
       },
       {
-        "text": "Overconfidence",
+        "text": "Assessment",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Plan",
         "explanation": "Incorrect."
       },
       {
-        "text": "Lack of knowledge",
+        "text": "Chief Complaint",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Assessment = 'What do they have?'.",
+    "pdfPage": 24
+  },
+  {
+    "id": 23,
+    "category": "Cognitive Bias: Aggregate",
+    "questionText": "'Fed Tacos' is a mnemonic mentioned in the lecture (within the transcript) that can refer to elements of:",
+    "options": [
+      {
+        "text": "Social History / Counseling topics",
+        "explanation": "Correct. Food, Exercise, Drugs, Tobacco, Alcohol, Caffeine, Occupation, Sexual history.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cardiac Risk",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Neurological Exam",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Antibiotic choices",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Surgical checklist",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Always ask 'What else could this be?' before signing the note.",
-    "pdfPage": 28
+    "clinicalPearl": "Key takeaway: FED TACOS is a social history mnemonic (Food, Exercise, Drugs, Tobacco, Alcohol, Caffeine, etc.).",
+    "pdfPage": 12
   },
   {
-    "id": 22,
-    "category": "Decision Making: Metacognition",
-    "questionText": "Thinking about your own thinking to identify biases and errors is called:",
+    "id": 24,
+    "category": "Clinical Reasoning: Testing",
+    "questionText": "When ordering diagnostic tests, the goal is often to:",
     "options": [
       {
-        "text": "Metacognition",
-        "explanation": "Correct. The 'Engine Room' of System 2. Stepping back and checking your work.",
+        "text": "Use the entire hospital budget",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Differentiate between two potential diagnoses or guide management",
+        "explanation": "Correct. Utility is key.",
         "isCorrect": true
+      },
+      {
+        "text": "Confirm what you already know 100%",
+        "explanation": "Incorrect. Wasteful."
+      },
+      {
+        "text": "Impress the attending",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Delay discharge",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Order tests only if they change management.",
+    "pdfPage": 12
+  },
+  {
+    "id": 25,
+    "category": "Case Study: Jonathan Larson",
+    "questionText": "The case of Jonathan Larson (Rent composer) who died of an aortic dissection was used to illustrate which principle?",
+    "options": [
+      {
+        "text": "Always prescribe aspirin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Importance of considering life-threatening 'Must Not Miss' diagnoses even in atypically young patients",
+        "explanation": "Correct. Missed aortic dissection due to anchoring on 'flu/stress'.",
+        "isCorrect": true
+      },
+      {
+        "text": "The value of system 1 thinking",
+        "explanation": "Incorrect. System 1 failed here."
+      },
+      {
+        "text": "The need for better insurance",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Genetic screening",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 'Must Not Miss' mindset saves lives.",
+    "pdfPage": 2
+  },
+  {
+    "id": 26,
+    "category": "Clinical Reasoning: Data Acquisition",
+    "questionText": "Clustering findings based on 'Anatomic Location' is a strategy for:",
+    "options": [
+      {
+        "text": "Data Acquisition and Organizing",
+        "explanation": "Correct. e.g., Right Upper Quadrant pain -> Liver/Gallbladder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Billing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Patient satisfaction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "System 1 thinking",
+        "explanation": "Incorrect."
       },
       {
         "text": "Heuristics",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Anatomy is the scaffold for symptoms.",
+    "pdfPage": 10
+  },
+  {
+    "id": 27,
+    "category": "Cognitive Bias: Misdiagnosis",
+    "questionText": "A misdiagnosis is dangerous not only because the correct treatment is delayed, but because:",
+    "options": [
+      {
+        "text": "It sets up a cascade of subsequent mistreatments/harm",
+        "explanation": "Correct. Wrong path = Wrong meds, wrong surgeries, wrong expectations.",
+        "isCorrect": true
       },
       {
-        "text": "Intuition",
+        "text": "It is embarrassing",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gestalt",
+        "text": "It requires more paperwork",
         "explanation": "Incorrect."
       },
       {
-        "text": "Reflex",
+        "text": "It costs less money",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "It improves patient trust",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Good doctors are metacognitive. They question themselves.",
-    "pdfPage": 33
+    "clinicalPearl": "Key takeaway: Misdiagnosis -> Cascade of Harm.",
+    "pdfPage": 20
   },
   {
-    "id": 23,
-    "category": "Decision Making: Specificity",
-    "questionText": "A test with 100% specificity has:",
+    "id": 28,
+    "category": "Illness Script: Time Course",
+    "questionText": "Which component of an illness script describes whether a disease is acute, subacute, or chronic?",
     "options": [
       {
-        "text": "Zero False Negatives",
-        "explanation": "Incorrect (Sensitivity)."
+        "text": "Epidemiology",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Zero False Positives",
-        "explanation": "Correct. If it says you have it, you definitely have it. (SpPin).",
+        "text": "Pathophysiology",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Time Course",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Zero True Positives",
+        "text": "Diagnostics",
         "explanation": "Incorrect."
       },
       {
-        "text": "Zero True Negatives",
+        "text": "Treatment",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Time Course (Tempo) is a critical discriminator.",
+    "pdfPage": 18
+  },
+  {
+    "id": 29,
+    "category": "Management: Follow-up",
+    "questionText": "A follow-up interval should be determined based on:",
+    "options": [
+      {
+        "text": "Whenever the patient feels like it",
         "explanation": "Incorrect."
       },
       {
-        "text": "A low likelihood ratio",
+        "text": "The severity and natural history of the working diagnosis",
+        "explanation": "Correct. e.g., Pneumonia check in 2 days vs Hypertension check in 3 months.",
+        "isCorrect": true
+      },
+      {
+        "text": "The doctor's vacation schedule only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "A standard 1-year interval for everyone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Never",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Confirmatory tests need high Specificity.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Follow-up timing depends on clinical urgency.",
+    "pdfPage": 25
   },
   {
-    "id": 24,
-    "category": "Decision Making: Framing Effect",
-    "questionText": "A surgeon presents a procedure as having a '95% survival rate' vs a '5% mortality rate'. Patients are more likely to choose surgery in the first case. This is:",
+    "id": 30,
+    "category": "Clinical Reasoning: Definitions",
+    "questionText": "The process of weighing competing possibilities and selecting the most likely diagnosis is called:",
     "options": [
       {
-        "text": "Framing Effect",
-        "explanation": "Correct. The way information is presented ('framed') influences the decision.",
+        "text": "Data gathering",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothesis generation / Differential Diagnosis",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Anchoring",
+        "text": "Treatment planning",
         "explanation": "Incorrect."
       },
       {
-        "text": "Availability",
+        "text": "Documentation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Base Rate Neglect",
+        "text": "Billing",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Differential Diagnosis = Weighing the options.",
+    "pdfPage": 12
+  },
+  {
+    "id": 31,
+    "category": "Plan: Osteopathic",
+    "questionText": "According to the lecture, an Osteopathic physician's plan should routinely consider/offer:",
+    "options": [
+      {
+        "text": "Acupuncture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "OMT (Osteopathic Manipulative Treatment)",
+        "explanation": "Correct. Based on the Structural Exam (OSE).",
+        "isCorrect": true
+      },
+      {
+        "text": "Homeopathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Herbal supplements only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Surgery for everyone",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Don't forget OMT in the Plan.",
+    "pdfPage": 3
+  },
+  {
+    "id": 32,
+    "category": "Cognitive Bias: Search Satisficing",
+    "questionText": "The tendency to stop searching for a diagnosis once one is found (even if comorbidity exists) is related to:",
+    "options": [
+      {
+        "text": "Premature Closure / Search Satisficing",
+        "explanation": "Correct. 'I found one thing, so I'm done.'",
+        "isCorrect": true
       },
       {
         "text": "Sunk Cost",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Be honest and neutral when counseling patients.",
-    "pdfPage": 31
-  },
-  {
-    "id": 25,
-    "category": "Decision Making: Blind Obedience",
-    "questionText": "A junior resident notices a contraindicated medication order but does not question it because 'The Chief Resident ordered it, so it must be right'. This is:",
-    "options": [
-      {
-        "text": "Blind Obedience",
-        "explanation": "Correct. Deferring to authority inappropriately.",
-        "isCorrect": true
-      },
-      {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Confirmation Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Outcome Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visceral Bias",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Medicine is a hierarchy, but safety requires speaking up.",
-    "pdfPage": 31
-  },
-  {
-    "id": 26,
-    "category": "Decision Making: Sunk Cost",
-    "questionText": "A physician continues to treat a patient for pneumonia with antibiotics for 2 weeks despite no improvement and negative cultures, reasoning 'We've already invested so much time in this course of treatment'. This is:",
-    "options": [
-      {
-        "text": "Sunk Cost Fallacy",
-        "explanation": "Correct. The more you invest (time/money/ego), the harder it is to change course.",
-        "isCorrect": true
-      },
-      {
-        "text": "Gambler's Fallacy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Base Rate Neglect",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visceral Bias",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Don't throw good money after bad. Re-evaluate.",
-    "pdfPage": 32
-  },
-  {
-    "id": 27,
-    "category": "Decision Making: Pattern Recognition",
-    "questionText": "Pattern Recognition relies heavily on:",
-    "options": [
-      {
-        "text": "Illness Scripts",
-        "explanation": "Correct. Matching the patient's presentation to a stored mental prototype (Illness Script).",
-        "isCorrect": true
-      },
-      {
-        "text": "Bayesian Math",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Random guessing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Slower processing speed",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ignoring past experience",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: You can't recognize a pattern you've never learned. (Why you need to study!).",
-    "pdfPage": 11
-  },
-  {
-    "id": 28,
-    "category": "Decision Making: Triage",
-    "questionText": "In the Emergency Room, the first decision made is often:",
-    "options": [
-      {
-        "text": "Identifying the ICD-10 code",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sick vs Not Sick (Triage)",
-        "explanation": "Correct. System 1 rapid assessment to prioritize resources.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ordering an MRI",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Consulting Neurology",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Calling family",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The most important decision: Does this patient need to be in the hospital?",
-    "pdfPage": 9
-  },
-  {
-    "id": 29,
-    "category": "Decision Making: Differential Diagnosis",
-    "questionText": "When prioritizing a differential diagnosis, you should prioritize:",
-    "options": [
-      {
-        "text": "The rarest disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The most likely diagnosis AND the most dangerous/lethal possibilities ('Can't Miss')",
-        "explanation": "Correct. Likelihood determines empirical treatment. Danger determines the workup (Must rule out).",
-        "isCorrect": true
-      },
-      {
-        "text": "Only the most likely",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only the dangerous ones",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The one that fits the fewest symptoms",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Always rule out the 'Killer' (MI, PE, Meningitis, Aortic Dissection).",
-    "pdfPage": 20
-  },
-  {
-    "id": 30,
-    "category": "Decision Making: Heuristics",
-    "questionText": "Heuristics are:",
-    "options": [
-      {
-        "text": "Always wrong",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mental shortcuts that are efficient but prone to bias",
-        "explanation": "Correct. They usually work (efficient), but fail in predictable ways (bias).",
-        "isCorrect": true
-      },
-      {
-        "text": "Slow and analytical",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only used by students",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Computer algorithms",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Heuristics make us fast. Metacognition makes us safe.",
-    "pdfPage": 6
-  },
-  {
-    "id": 31,
-    "category": "Decision Making: Treatment Threshold",
-    "questionText": "A patient has a 95% probability of having Strep Throat. The rapid test is negative (Specificity 90%, Sensitivity 70%). Given the high pre-test probability, the post-test probability is still above the Treatment Threshold. You should:",
-    "options": [
-      {
-        "text": "Treat with antibiotics despite the negative test",
-        "explanation": "Correct. If Pre-Test Prob is very high, a negative test (especially with low sensitivity) may not lower the probability enough to cross the threshold. Trust clinical judgment.",
-        "isCorrect": true
-      },
-      {
-        "text": "Do nothing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Order a CT scan",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Send home",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Repeat the test 10 times",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Treat the patient, not the test result.",
-    "pdfPage": 39
-  },
-  {
-    "id": 32,
-    "category": "Decision Making: Outcome Bias",
-    "questionText": "A surgeon decides to operate on a high-risk patient against guidelines. The patient survives and does well. Colleagues praise the surgeon's 'bold decision'. This ignores the fact that the decision was statistically poor. This is:",
-    "options": [
-      {
-        "text": "Outcome Bias",
-        "explanation": "Correct. Judging the quality of a decision by its result rather than the process/logic used at the time.",
-        "isCorrect": true
       },
       {
         "text": "Hindsight Bias",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anchoring",
+        "text": "Base Rate Neglect",
         "explanation": "Incorrect."
       },
       {
-        "text": "Framing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Availability",
+        "text": "Gambler's Fallacy",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: A bad process can have a good outcome (Luck). A good process can have a bad outcome (Bad Luck).",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: Patients can have more than one disease (Hickam's Dictum).",
+    "pdfPage": 24
   },
   {
     "id": 33,
-    "category": "Decision Making: HPI",
-    "questionText": "The most diagnostic part of the patient encounter is:",
+    "category": "Case Study: Otitis Media Signs",
+    "questionText": "In the case study, 'Shotty anterior lymphadenopathy' was a finding in the:",
     "options": [
       {
-        "text": "Physical Exam",
-        "explanation": "Incorrect (10-15%)."
+        "text": "Abdomen",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Labs/Imaging",
-        "explanation": "Incorrect (10-15%)."
-      },
-      {
-        "text": "History (HPI)",
-        "explanation": "Correct. 70-80% of diagnoses are made on History alone.",
+        "text": "Neck (Cervical chain)",
+        "explanation": "Correct. Lymphatic drainage from the ear/throat.",
         "isCorrect": true
       },
       {
-        "text": "Vital Signs",
+        "text": "Inguinal region",
         "explanation": "Incorrect."
       },
       {
-        "text": "Genetic Testing",
+        "text": "Axilla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Popliteal fossa",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Listen to the patient.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cervical adenopathy often accompanies URI/Otitis.",
     "pdfPage": 12
   },
   {
     "id": 34,
-    "category": "Decision Making: Gambler's Fallacy",
-    "questionText": "A couple has 5 daughters. They decide to have a 6th child because 'We are due for a boy'. This is:",
+    "category": "Cognitive Theory: Switching",
+    "questionText": "Experienced physicians:",
     "options": [
       {
-        "text": "Gambler's Fallacy",
-        "explanation": "Correct. Believing that independent chance events are influenced by previous outcomes. (Chance has no memory).",
+        "text": "Use only System 1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Use only System 2",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Regularly move between System 1 and System 2",
+        "explanation": "Correct. Toggle between intuitive pattern recognition and analytical checking.",
         "isCorrect": true
       },
       {
-        "text": "Sunk Cost",
+        "text": "Do not use heuristics",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anchoring",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Availability",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Base Rate Neglect",
+        "text": "Do not make errors",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Probability doesn't care about the past.",
-    "pdfPage": 32
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Adaptation (System 1 <-> System 2) is the mark of an expert.",
+    "pdfPage": 2
   },
   {
     "id": 35,
-    "category": "Decision Making: Expert vs Novice",
-    "questionText": "Compared to novices, Experts tend to:",
+    "category": "Lecture: Theme",
+    "questionText": "The overarching theme of this lecture ('Clinical Decision Making') is stated as:",
     "options": [
       {
-        "text": "Gather more data",
+        "text": "Memorizing drug dosages",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gather less data but more relevant data",
-        "explanation": "Correct. Experts ask targeted questions to test their specific hypotheses (Illness Scripts), filtering out noise.",
+        "text": "Thinking about how you make clinical decisions is the first step toward making better ones",
+        "explanation": "Correct. Metacognition.",
         "isCorrect": true
       },
       {
-        "text": "Use System 2 exclusively",
-        "explanation": "Incorrect (Use System 1).",
-        "isCorrect": false
-      },
-      {
-        "text": "Take longer to make a diagnosis",
+        "text": "Learning to bill the highest code",
         "explanation": "Incorrect."
       },
       {
-        "text": "Rely less on pattern recognition",
+        "text": "Passing the board exam only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ignoring patient history",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Expertise is efficient.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Metacognition (thinking about thinking) improves diagnostic accuracy.",
+    "pdfPage": 4
   }
 ];

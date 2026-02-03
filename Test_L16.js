@@ -1,394 +1,640 @@
 window.Test_L16 = [
   {
     "id": 1,
-    "category": "Vision: Visual Fields",
-    "questionText": "A 50-year-old male presents with bitemporal hemianopsia (tunnel vision). He reports bumping into doorframes and difficulty driving. MRI typically reveals compression of the optic chiasm. The most common cause is:",
+    "category": "Eye Anatomy: Layers",
+    "questionText": "The eye is composed of three concentric tissue layers. Which layer corresponds to the vascular layer that includes the choroid, ciliary body, and iris?",
     "options": [
       {
-        "text": "Pituitary Adenoma",
-        "explanation": "Correct. Prolactinoma or other pituitary tumor compresses the crossing nasal fibers in the chiasm from below.",
+        "text": "Sclera/Cornea",
+        "explanation": "Incorrect. This is the outer fibrous layer."
+      },
+      {
+        "text": "Retina",
+        "explanation": "Incorrect. This is the inner neural layer."
+      },
+      {
+        "text": "Uvea (Choroid)",
+        "explanation": "Correct. The middle vascular layer is the choroid/uvea.",
         "isCorrect": true
       },
       {
-        "text": "MCA Stroke",
-        "explanation": "Incorrect (Homonymous Hemianopsia)."
+        "text": "Vitreous",
+        "explanation": "Incorrect. Inner gel."
       },
       {
-        "text": "Glaucoma",
-        "explanation": "Incorrect (Peripheral loss)."
+        "text": "Conjunctiva",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Outer = Sclera/Cornea. Middle = Choroid/Iris/Ciliary body (Vascular). Inner = Retina.",
+    "pdfPage": 4
+  },
+  {
+    "id": 2,
+    "category": "Glaucoma Physiology",
+    "questionText": "A 65-year-old patient typically has open-angle glaucoma caused by slow drainage of aqueous humor. Through which structure does aqueous humor normally drain to enter the Canal of Schlemm?",
+    "options": [
+      {
+        "text": "Ciliary Body",
+        "explanation": "Incorrect. Secretes aqueous humor."
       },
+      {
+        "text": "Trabecular Meshwork",
+        "explanation": "Correct. Similar to arachnoid granulations, located at the iridocorneal angle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pupil",
+        "explanation": "Incorrect. Passage between chambers."
+      },
+      {
+        "text": "Vitreous Humor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lens",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ciliary body makes fluid -> Posterior Chamber -> Pupil -> Anterior Chamber -> Trabecular Meshwork -> Canal of Schlemm.",
+    "pdfPage": 5
+  },
+  {
+    "id": 3,
+    "category": "Accommodation Reflex",
+    "questionText": "During the accommodation reflex for near vision, which of the following mechanical changes occurs to increase the refractive power of the lens?",
+    "options": [
+      {
+        "text": "Ciliary muscle relaxes, zone fibers tighten, lens flattens",
+        "explanation": "Incorrect. This is for far vision."
+      },
+      {
+        "text": "Ciliary muscle contracts, zonule fibers relax, lens becomes rounder",
+        "explanation": "Correct. Contraction releases tension on zonules, allowing the lens to ball up (round).",
+        "isCorrect": true
+      },
+      {
+        "text": "Pupil dilates",
+        "explanation": "Incorrect. Pupil constricts for near vision."
+      },
+      {
+        "text": "Lens moves forward",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cornea curvature increases",
+        "explanation": "Incorrect. Cornea is fixed."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Near vision = Ciliary Contraction = Relaxed Zonules = Round Lens = More Refraction.",
+    "pdfPage": 25
+  },
+  {
+    "id": 4,
+    "category": "Photoreceptor Transduction",
+    "questionText": "In the dark, photoreceptors are depolarized. When light strikes a rod cell, isomerization of retinal activates transducin and phosphodiesterase (PDE). What is the direct consequence of PDE activation?",
+    "options": [
+      {
+        "text": "Increase in cGMP and opening of cation channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hydrolysis (decrease) of cGMP and closure of cation channels",
+        "explanation": "Correct. Lower cGMP closes Na+ channels, causing hyperpolarization.",
+        "isCorrect": true
+      },
+      {
+        "text": "Direct opening of K+ channels",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Release of more glutamate",
+        "explanation": "Incorrect. Light reduces glutamate release."
+      },
+      {
+        "text": "Depolarization of the cell",
+        "explanation": "Incorrect. Hyperpolarization occurs."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Light -> low cGMP -> Channels Close -> Hyperpolarization -> Less Glutamate.",
+    "pdfPage": 17
+  },
+  {
+    "id": 5,
+    "category": "Visual Fields: Pituitary Tumor",
+    "questionText": "A 45-year-old male presents with headaches and 'tunnel vision'. Visual field testing reveals bitemporal hemianopsia. This visual defect is most commonly caused by compression of which structure?",
+    "options": [
+      {
+        "text": "Left Optic Nerve",
+        "explanation": "Incorrect. Left monocular blindness."
+      },
+      {
+        "text": "Optic Chiasm",
+        "explanation": "Correct. Pituitary tumor compresses the crossing central fibers (nasal retina fibers), causing loss of temporal visual fields.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Optic Tract",
+        "explanation": "Incorrect. Left homonymous hemianopsia."
+      },
+      {
+        "text": "Meyer's Loop",
+        "explanation": "Incorrect. Quadrantanopia."
+      },
+      {
+        "text": "Visual Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Chiasmal lesion = Bitemporal Hemianopsia (Tunnel Vision).",
+    "pdfPage": 38
+  },
+  {
+    "id": 6,
+    "category": "Visual Pathway: LGN",
+    "questionText": "The Magno-cellular layers (1 and 2) of the Lateral Geniculate Nucleus (LGN) are primarily responsible for processing information related to:",
+    "options": [
+      {
+        "text": "Color and Form",
+        "explanation": "Incorrect. Parvocellular."
+      },
+      {
+        "text": "Movement and Contrast",
+        "explanation": "Correct. M = Magno = Motion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fine detail",
+        "explanation": "Incorrect. Parvo."
+      },
+      {
+        "text": "Red/Green color difference",
+        "explanation": "Incorrect. Parvo."
+      },
+      {
+        "text": "Blue/Yellow color difference",
+        "explanation": "Incorrect. Koniocellular (not emphasized but not Magno)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Magno (Large) = Motion/Contrast (Where). Parvo (Small) = Color/Form (What).",
+    "pdfPage": 28
+  },
+  {
+    "id": 7,
+    "category": "Visual Pathway: Radiations",
+    "questionText": "A patient suffers a stroke affecting the temporal lobe, damaging Meyer's Loop on the right side. What is the expected visual field deficit?",
+    "options": [
+      {
+        "text": "Left Inferior Homonymous Quadrantanopsia",
+        "explanation": "Incorrect. Parietal lesion."
+      },
+      {
+        "text": "Left Superior Homonymous Quadrantanopsia",
+        "explanation": "Correct. Meyer's loop (Temporal) carries Superior field info. Right lesion affects Left field. 'Pie in the Sky'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Superior Homonymous Quadrantanopsia",
+        "explanation": "Incorrect. Lesion is contralateral to deficit."
+      },
+      {
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect. Chiasm."
+      },
+      {
+        "text": "Left Homonymous Hemianopsia",
+        "explanation": "Incorrect. Total tract or cortex lesion."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Temporal Lobe (Meyer's) = Pie in the Sky. Parietal Lobe = Pie on the Floor.",
+    "pdfPage": 29
+  },
+  {
+    "id": 8,
+    "category": "Cortical Representation",
+    "questionText": "In the primary visual cortex (V1), the macula (fovea centralis) is represented:",
+    "options": [
+      {
+        "text": "Most Anteriorly",
+        "explanation": "Incorrect. Peripheral vision."
+      },
+      {
+        "text": "Most Posteriorly (Occipital Pole)",
+        "explanation": "Correct. Large representation at the very back.",
+        "isCorrect": true
+      },
+      {
+        "text": "Superior to the Calcarine Sulcus only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior to the Calcarine Sulcus only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "In the parietal lobe",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fovea is Posterior. Periphery is Anterior.",
+    "pdfPage": 30
+  },
+  {
+    "id": 9,
+    "category": "Neuroanatomy: Pupil Reflex",
+    "questionText": "Constriction of the pupil is mediated by which division of the autonomic nervous system?",
+    "options": [
+      {
+        "text": "Sympathetic",
+        "explanation": "Incorrect. Dilates."
+      },
+      {
+        "text": "Parasympathetic",
+        "explanation": "Correct. Sphincter pupillae muscle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Somatic Motor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Enteric",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Parasympathetic = Constrict (Miosis). Sympathetic = Dilate (Mydriasis).",
+    "pdfPage": 17
+  },
+  {
+    "id": 10,
+    "category": "Retinal Anatomy: Fovea",
+    "questionText": "Why does the fovea provide the highest visual acuity?",
+    "options": [
+      {
+        "text": "It contains only rods",
+        "explanation": "Incorrect. Rod free."
+      },
+      {
+        "text": "It has a high density of cones and overlying cell layers are pushed aside",
+        "explanation": "Correct. Direct light path + high cone density.",
+        "isCorrect": true
+      },
+      {
+        "text": "It is located at the optic disc",
+        "explanation": "Incorrect. Blind spot."
+      },
+      {
+        "text": "It has the largest receptive fields",
+        "explanation": "Incorrect. Smallest RF."
+      },
+      {
+        "text": "It is rich in blood vessels",
+        "explanation": "Incorrect. Avascular to prevent light scatter."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fovea = Cones, Avascular, No overlying cells = High Acuity.",
+    "pdfPage": 20
+  },
+  {
+    "id": 11,
+    "category": "Visual Processing Streams",
+    "questionText": "A patient typically suffers a stroke affecting the parietal lobe. They can describe the color and shape of an object but cannot reach out and grasp it accurately or perceive its motion. Which visual processing stream is likely damaged?",
+    "options": [
+      {
+        "text": "Ventral Stream ('What' pathway)",
+        "explanation": "Incorrect. Temporal lobe, object recognition."
+      },
+      {
+        "text": "Dorsal Stream ('Where' pathway)",
+        "explanation": "Correct. Parietal lobe, spatial location and motion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Geniculocalcarine Tract",
+        "explanation": "Incorrect. Would cause field cut."
+      },
+      {
+        "text": "Retinohypothalamic Tract",
+        "explanation": "Incorrect. Circadian."
+      },
+      {
+        "text": "Frontal Eye Fields",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dorsal (Parietal) = Where/Motion. Ventral (Temporal) = What/Color/Form.",
+    "pdfPage": 39
+  },
+  {
+    "id": 12,
+    "category": "Clinical Syndrome: Neglect",
+    "questionText": "Hemispatial neglect, where a patient ignores the left side of their world (e.g., only eats food on the right half of the plate), is most classically associated with a lesion in the:",
+    "options": [
+      {
+        "text": "Left Primary Visual Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Posterior Parietal Cortex",
+        "explanation": "Correct. Right hemisphere attends to both sides; Left attends only to Right. Right lesion -> Loss of Left attention.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Posterior Parietal Cortex",
+        "explanation": "Incorrect. Right hemisphere compensates."
+      },
+      {
+        "text": "Bilateral Temporal Lobes",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Frontal Lobe",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Right Parietal Lesion = Left Neglect.",
+    "pdfPage": 42
+  },
+  {
+    "id": 13,
+    "category": "Visual Fields: Optic Tract",
+    "questionText": "A complete lesion of the Right Optic Tract would result in:",
+    "options": [
+      {
+        "text": "Right Monocular Blindness",
+        "explanation": "Incorrect. Nerve lesion."
+      },
+      {
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect. Chiasm."
+      },
+      {
+        "text": "Left Homonymous Hemianopsia",
+        "explanation": "Correct. Loss of Left field in BOTH eyes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Right Homonymous Hemianopsia",
+        "explanation": "Incorrect. Contralateral."
+      },
+      {
+        "text": "Left Homonymous Superior Quadrantanopsia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Tract Lesion = Contralateral Homonymous Hemianopsia.",
+    "pdfPage": 26
+  },
+  {
+    "id": 14,
+    "category": "Papilledema",
+    "questionText": "Papilledema (swelling of the optic disc) observed on fundoscopy is a clinical sign indicative of:",
+    "options": [
       {
         "text": "Retinal Detachment",
         "explanation": "Incorrect."
       },
       {
-        "text": "Occipital Lobe Tumor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Chiasm compression = Loss of peripheral vision (Temporal fields) because nasal retinal fibers cross there.",
-    "pdfPage": 29
-  },
-  {
-    "id": 2,
-    "category": "Vision: Accommodation",
-    "questionText": "When focusing on a near object (accommodation), the ciliary muscle contracts. This causes the zonular fibers to:",
-    "options": [
-      {
-        "text": "Tighten, flattening the lens",
-        "explanation": "Incorrect."
+        "text": "Glaucoma",
+        "explanation": "Incorrect. Cupping."
       },
       {
-        "text": "Relax, allowing the lens to become more spherical (round)",
-        "explanation": "Correct. Ciliary muscle is a sphincter. Contraction makes the ring smaller, loosening the tension on the zonules. The lens naturally springs into a rounder shape for high power.",
+        "text": "Elevated Intracranial Pressure",
+        "explanation": "Correct. SAS continues around optic nerve; pressure transmits.",
         "isCorrect": true
       },
       {
-        "text": "Relax, flattening the lens",
-        "explanation": "Incorrect (Far vision)."
-      },
-      {
-        "text": "Tighten, curving the lens",
+        "text": "Macular Degeneration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Detach from the lens",
+        "text": "Cataracts",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Contraction = Relaxation (of zonules). Presbyopia = Lens gets stiff and can't round up anymore.",
-    "pdfPage": 8
-  },
-  {
-    "id": 3,
-    "category": "Vision: Glaucoma",
-    "questionText": "Acute Closed-Angle Glaucoma is a medical emergency characterized by painful red eye, fixed mid-dilated pupil, and halos around lights. The pathophysiology involves:",
-    "options": [
-      {
-        "text": "Degeneration of the optic nerve",
-        "explanation": "Incorrect (Result, not cause)."
-      },
-      {
-        "text": "Blockage of the trabecular meshwork by the iris",
-        "explanation": "Correct. The root of the iris pushes forward, sealing off the angle where aqueous humor drains. Pressure spikes rapidly.",
-        "isCorrect": true
-      },
-      {
-        "text": "Overproduction of aqueous humor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Clouding of the lens",
-        "explanation": "Incorrect (Cataract)."
-      },
-      {
-        "text": "Retinal detachment",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Do NOT dilate the pupil in closed-angle glaucoma (it bunches the iris into the angle, making it worse).",
-    "pdfPage": 6
-  },
-  {
-    "id": 4,
-    "category": "Vision: Meyer's Loop",
-    "questionText": "A patient with a temporal lobe tumor (or post-surgical resection for epilepsy) exhibits a 'Pie in the Sky' visual field defect. This is correctly termed:",
-    "options": [
-      {
-        "text": "Right Homonymous Hemianopsia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Contralateral Superior Quadrantanopsia",
-        "explanation": "Correct. Damage to Meyer's Loop (temporal) affects the lower retina (Upper visual field).",
-        "isCorrect": true
-      },
-      {
-        "text": "Contralateral Inferior Quadrantanopsia",
-        "explanation": "Incorrect (Parietal/Baum's Loop)."
-      },
-      {
-        "text": "Bitemporal Hemianopsia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Monocular blindness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Temporal = Top (Visual field). Parietal = Floor (Visual field).",
-    "pdfPage": 33
-  },
-  {
-    "id": 5,
-    "category": "Vision: Photoreceptors",
-    "questionText": "Rods are distinct from cones in that Rods:",
-    "options": [
-      {
-        "text": "Concentrate in the fovea",
-        "explanation": "Incorrect (Cones)."
-      },
-      {
-        "text": "Are responsible for color vision",
-        "explanation": "Incorrect (Cones)."
-      },
-      {
-        "text": "Are more sensitive to light (Night vision) and motion",
-        "explanation": "Correct. High sensitivity, low acuity. Located in periphery.",
-        "isCorrect": true
-      },
-      {
-        "text": "Provide high visual acuity",
-        "explanation": "Incorrect (Cones)."
-      },
-      {
-        "text": "Do not release glutamate",
-        "explanation": "Incorrect (Both release glutamate in the dark)."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Rods = Night/Motion (Peripheral). Cones = Color/Acuity (Central).",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Papilledema = Increased ICP.",
+    "pdfPage": 34
   },
   {
-    "id": 6,
-    "category": "Vision: Macular Sparing",
-    "questionText": "A stroke of the Posterior Cerebral Artery (PCA) typically causes a Contralateral Homonymous Hemianopsia with Macular Sparing. The macula is spared because:",
+    "id": 15,
+    "category": "Macular Sparing",
+    "questionText": "Why is 'Macular Sparing' often seen in strokes affecting the posterior cerebral artery (PCA) supply to the visual cortex?",
     "options": [
       {
-        "text": "The macula is represented in the frontal lobe",
+        "text": "The macula is not represented in the cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "The occipital pole receives dual blood supply from the PCA and MCA",
-        "explanation": "Correct. The MCA reaches back to supply the tip of the occipital lobe where the fovea is mapped.",
+        "text": "The macula receives dual blood supply from the PCA and the Middle Cerebral Artery (MCA)",
+        "explanation": "Correct. The macular pole of the cortex has collateral flow from the MCA.",
         "isCorrect": true
       },
       {
-        "text": "The macula uses only rods",
+        "text": "The macula is supplied by the Anterior Cerebral Artery",
         "explanation": "Incorrect."
       },
       {
-        "text": "The optic nerve is intact",
+        "text": "The lesion is in the optic tract",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is a bilateral lesion",
+        "text": "Rods are spared",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Macular Sparing (Cortex/PCA) vs Macular Splitting (Tract/radiations).",
+    "clinicalPearl": "Key takeaway: Macular Sparing = Dual Supply (PCA + MCA). Suggests cortical lesion rather than tract.",
     "pdfPage": 33
   },
   {
-    "id": 7,
-    "category": "Vision: Retina Layers",
-    "questionText": "In the retina, light must pass through multiple layers to reach the photoreceptors. The output neurons of the retina, whose axons form the Optic Nerve, are the:",
+    "id": 16,
+    "category": "Blind Spot",
+    "questionText": "The physiological 'blind spot' corresponds to which anatomical structure?",
     "options": [
       {
-        "text": "Bipolar cells",
+        "text": "Fovea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ganglion cells",
-        "explanation": "Correct. Receptors -> Bipolar -> Ganglion -> Brain.",
+        "text": "Macula Lutea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Optic Disc (Papilla)",
+        "explanation": "Correct. Where the optic nerve exits; no photoreceptors.",
         "isCorrect": true
       },
       {
-        "text": "Horizontal cells",
+        "text": "Ora Serrata",
         "explanation": "Incorrect."
       },
       {
-        "text": "Amacrine cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cone cells",
+        "text": "Ciliary Body",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The 'Blind Spot' (Optic Disc) is where ganglion cell axons exit the eye.",
-    "pdfPage": 19
-  },
-  {
-    "id": 8,
-    "category": "Vision: Pupillary Light Reflex",
-    "questionText": "Shining a light in the Left eye causes constriction of both pupils. The direct response is mediated by the Left Optic Nerve -> Pretectal Nucleus -> Left Edinger-Westphal Nucleus. The consensual response (Right eye constriction) is due to:",
-    "options": [
-      {
-        "text": "Crossing of optic nerve fibers at the chiasm",
-        "explanation": "Incorrect (Partial explanation, but not the reflex center)."
-      },
-      {
-        "text": "Bilateral projection from the Pretectal Nucleus to both Edinger-Westphal Nuclei",
-        "explanation": "Correct. Pretectal neurons send fibers to BOTH E-W nuclei.",
-        "isCorrect": true
-      },
-      {
-        "text": "Corpus callosum connections",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sympathetic nervous system",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect (Saccades)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Marcus Gunn Pupil (RAPD) = Damage to Afferent limb (Optic Nerve). Light in bad eye -> Paradoxical dilation (because brain sees 'less light' than previous eye).",
-    "pdfPage": 29
-  },
-  {
-    "id": 9,
-    "category": "Vision: Fovea",
-    "questionText": "The Fovea Centralis provides the highest visual acuity because:",
-    "options": [
-      {
-        "text": "It contains only Rods",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inner retinal layers are pushed aside, and it contains high density of Cones",
-        "explanation": "Correct. Light hits photoreceptors directly without scattering through ganglion/bipolar layers. 1:1 convergence.",
-        "isCorrect": true
-      },
-      {
-        "text": "It is the largest part of the retina",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It has no blood vessels",
-        "explanation": "Correct (Avascular zone), contributing to clarity.",
-        "isCorrect": false
-      },
-      {
-        "text": "B and D",
-        "explanation": "Correct. Most complete answer.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fovea = Cones = Color/Detail.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Optic Disc = Blind Spot (15 deg temporal).",
     "pdfPage": 18
   },
   {
-    "id": 10,
-    "category": "Vision: Retinal Detachment",
-    "questionText": "The Neural Retina typically detaches from which layer?",
+    "id": 17,
+    "category": "Visual Agnosia",
+    "questionText": "A patient with a lesion in the ventral stream (inferior temporal lobe) may experience Prosopagnosia, which is characterized by:",
     "options": [
       {
-        "text": "Choroid",
-        "explanation": "Incorrect (RPE stays attached to choroid)."
+        "text": "Inability to see colors",
+        "explanation": "Incorrect. Achromatopsia (also ventral stream, but different specific deficit)."
       },
       {
-        "text": "Retinal Pigment Epithelium (RPE)",
-        "explanation": "Correct. The potential space is between the RPE and the Photoreceptors. Detachment cuts off the blood supply from the choroid/RPE to the photoreceptors -> Blindness.",
+        "text": "Inability to recognize faces",
+        "explanation": "Correct. Face blindness.",
         "isCorrect": true
       },
       {
-        "text": "Sclera",
-        "explanation": "Incorrect."
+        "text": "Inability to perceive motion",
+        "explanation": "Incorrect. Dorsal stream (Akinetopsia)."
       },
       {
-        "text": "Bruch's Membrane",
-        "explanation": "Incorrect."
+        "text": "Blindness in half the visual field",
+        "explanation": "Incorrect. Hemianopsia."
       },
       {
-        "text": "Vitreous",
+        "text": "Loss of depth perception",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Flashes of light (Photopsia) + Shower of floaters + 'Curtain coming down' = Retinal Detachment.",
-    "pdfPage": 3
+    "clinicalPearl": "Key takeaway: Prosopagnosia = Face Blindness (Ventral Stream/Fusiform Gyrus).",
+    "pdfPage": 17
   },
   {
-    "id": 11,
-    "category": "Vision: Dark Current",
-    "questionText": "In the dark, photoreceptors are:",
+    "id": 18,
+    "category": "Retinal Circuitry",
+    "questionText": "The cells in the retina that serve as the output neurons, whose axons form the optic nerve, are the:",
     "options": [
       {
-        "text": "Hyperpolarized and stop releasing glutamate",
+        "text": "Photoreceptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Depolarized and continuously release glutamate",
-        "explanation": "Correct. This is the 'Dark Current' (Na+ influx). Light closes the channels -> Hyperpolarization -> STOPS glutamate release.",
+        "text": "Bipolar Cells",
+        "explanation": "Incorrect. Interneurons."
+      },
+      {
+        "text": "Ganglion Cells",
+        "explanation": "Correct. Their axons go to the brain.",
         "isCorrect": true
       },
       {
-        "text": "Dead",
+        "text": "Amacrine Cells",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sleeping",
+        "text": "Horizontal Cells",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Ganglion cells fire Action Potentials and form the Optic Nerve.",
+    "pdfPage": 29
+  },
+  {
+    "id": 19,
+    "category": "Visual Field Inversion",
+    "questionText": "Due to the optics of the lens, images from the upper left visual field are projected onto which part of the retina?",
+    "options": [
+      {
+        "text": "Upper Left Retina",
         "explanation": "Incorrect."
       },
       {
-        "text": "Regenerating pigment only",
+        "text": "Lower Right Retina",
+        "explanation": "Correct. Inverted (Up->Down) and Reversed (Left->Right).",
+        "isCorrect": true
+      },
+      {
+        "text": "Upper Right Retina",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower Left Retina",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fovea only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Light turns OFF the photoreceptor (Hyperpolarizes it).",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: The lens inverts everything. Upper World -> Lower Retina. Left World -> Right Retina.",
+    "pdfPage": 25
   },
   {
-    "id": 12,
-    "category": "Vision: Rhodopsin",
-    "questionText": "Vitamin A deficiency leads to night blindness because Retinal (derived from Vit A) is an essential component of:",
+    "id": 20,
+    "category": "Photoreceptor Types",
+    "questionText": "Which statement best compares Rods and Cones?",
     "options": [
       {
-        "text": "Crystallin",
-        "explanation": "Incorrect."
+        "text": "Rods are less sensitive to light but provide color vision",
+        "explanation": "Incorrect. Reverse."
       },
       {
-        "text": "Rhodopsin",
-        "explanation": "Correct. Opsin + 11-cis-Retinal = Rhodopsin. Light hits it -> Retinal isomerizes -> Transduction.",
+        "text": "Cones are concentrated in the periphery and detect motion",
+        "explanation": "Incorrect. Rods."
+      },
+      {
+        "text": "Rods are more sensitive to light (night vision) but saturate in bright light",
+        "explanation": "Correct. High sensitivity, low acuity, no color.",
         "isCorrect": true
       },
       {
-        "text": "G-protein",
-        "explanation": "Incorrect."
+        "text": "Cones have larger receptive fields than rods",
+        "explanation": "Incorrect. Smaller."
       },
       {
-        "text": "Cyclic GMP",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Melanin",
-        "explanation": "Incorrect."
+        "text": "Rods are normally found in the fovea",
+        "explanation": "Incorrect. Fovea is rod-free."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Eat your carrots (Beta-carotene -> Vit A).",
-    "pdfPage": 21
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Rods = Night/Dim (Scotopic), Peripheral. Cones = Color/Detail (Photopic), Central.",
+    "pdfPage": 16
   },
   {
-    "id": 13,
-    "category": "Vision: Refraction",
-    "questionText": "The majority of refractive power in the eye comes from the:",
+    "id": 21,
+    "category": "Corneal Refraction",
+    "questionText": "Where does the majority of light refraction occur in the eye?",
     "options": [
       {
         "text": "Lens",
-        "explanation": "Incorrect (~1/3)."
+        "explanation": "Incorrect. Adjustable, but less power."
       },
       {
-        "text": "Cornea (Air-Tear interface)",
-        "explanation": "Correct. (~2/3). The large difference in refractive index between air and cornea bends light the most. The lens is for fine tuning.",
+        "text": "Air-Cornea Interface",
+        "explanation": "Correct. Largest change in refractive index.",
         "isCorrect": true
       },
       {
-        "text": "Vitreous humor",
+        "text": "Vitreous Humor",
         "explanation": "Incorrect."
       },
       {
@@ -401,691 +647,444 @@ window.Test_L16 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LASIK reshapes the Cornea, not the lens.",
+    "clinicalPearl": "Key takeaway: Cornea does most of the bending (2/3). Lens does the fine tuning (1/3).",
     "pdfPage": 7
   },
   {
-    "id": 14,
-    "category": "Vision: Myopia",
-    "questionText": "In Myopia (Nearsightedness), the eyeball is often too long, causing images to focus:",
-    "options": [
-      {
-        "text": "Behind the retina",
-        "explanation": "Incorrect (Hyperopia)."
-      },
-      {
-        "text": "In front of the retina",
-        "explanation": "Correct. You need a Concave (Diverging) lens to push the focal point back.",
-        "isCorrect": true
-      },
-      {
-        "text": "On the retina",
-        "explanation": "Incorrect (Emmetropia)."
-      },
-      {
-        "text": "On the optic disc",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "In the lens",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Myopia = 'My' eye is too 'long'. Correct with Concave.",
-    "pdfPage": 9
-  },
-  {
-    "id": 15,
-    "category": "Vision: Optic Tract",
-    "questionText": "The left Optic Tract carries visual information from:",
-    "options": [
-      {
-        "text": "The left eye only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The left visual hemifield",
-        "explanation": "Incorrect (Right brain sees Left world).",
-        "isCorrect": false
-      },
-      {
-        "text": "The right visual hemifield",
-        "explanation": "Correct. Left Tract = Left Temporal Retina + Right Nasal Retina = Right Visual Field.",
-        "isCorrect": true
-      },
-      {
-        "text": "The nasal fields of both eyes",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The temporal fields of both eyes",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Post-chiasmal lesions cause Contralateral Homonymous defects.",
-    "pdfPage": 29
-  },
-  {
-    "id": 16,
-    "category": "Vision: Color Blindness",
-    "questionText": "The most common form of color blindness (Deuteranomaly) involves a defect in:",
-    "options": [
-      {
-        "text": "Blue cones (S)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red cones (L)",
-        "explanation": "Incorrect (Protanomaly).",
-        "isCorrect": false
-      },
-      {
-        "text": "Green cones (M)",
-        "explanation": "Correct. Red-Green color blindness is X-linked recessive.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rods",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ganglion cells",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Ishihara plates are the test.",
-    "pdfPage": 28
-  },
-  {
-    "id": 17,
-    "category": "Vision: Lateral Inhibition",
-    "questionText": "Horizontal cells in the retina provide Lateral Inhibition. This function creates:",
-    "options": [
-      {
-        "text": "Color mixing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Center-Surround Receptive Fields",
-        "explanation": "Correct. This enhances contrast and edge detection. An 'On-Center' cell is excited by light in the center and inhibited by light in the surround.",
-        "isCorrect": true
-      },
-      {
-        "text": "Motion detection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Depth perception",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Night vision",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The retina doesn't send 'pixels' to the brain; it sends 'edges' and 'contrast'.",
-    "pdfPage": 24
-  },
-  {
-    "id": 18,
-    "category": "Vision: Aqueous Humor",
-    "questionText": "Aqueous humor is produced by the:",
-    "options": [
-      {
-        "text": "Cornea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ciliary Body (Epithelium)",
-        "explanation": "Correct. Produced in posterior chamber -> flows through pupil -> drains in anterior chamber angle.",
-        "isCorrect": true
-      },
-      {
-        "text": "Iris",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Lens",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Retina",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Beta-blockers (Timolol) treat glaucoma by decreasing PRODUCTION here.",
-    "pdfPage": 6
-  },
-  {
-    "id": 19,
-    "category": "Vision: LGN Layers",
-    "questionText": "The Lateral Geniculate Nucleus (LGN) has 6 layers. Layers 1 and 2 are Magnocellular (M) layers, which largely receive input from:",
-    "options": [
-      {
-        "text": "Cones / Parvocellular pathway",
-        "explanation": "Incorrect (Layers 3-6)."
-      },
-      {
-        "text": "Rods / Magnocellular pathway",
-        "explanation": "Correct. M cells are for Motion and depth (Big cells, fast). P cells are for Color and Form (Small cells, detailed).",
-        "isCorrect": true
-      },
-      {
-        "text": "Auditory fibers",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Reticular formation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Magno = Motion. Parvo = Picture (Color/Detail).",
-    "pdfPage": 25
-  },
-  {
-    "id": 20,
-    "category": "Vision: Orientation Columns",
-    "questionText": "In the Primary Visual Cortex (V1), neurons are arranged in 'Orientation Columns'. This means:",
-    "options": [
-      {
-        "text": "They only see red objects",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They respond best to bars of light at a specific angle (e.g., vertical, horizontal)",
-        "explanation": "Correct. Hubel and Wiesel won the Nobel Prize for this. Simple cells build complex shapes from lines.",
-        "isCorrect": true
-      },
-      {
-        "text": "They distinguish near vs far",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They detect motion only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They are organized by eye of origin",
-        "explanation": "Incorrect (Ocular Dominance Columns)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Visual processing is hierarchical: Dots (Retina) -> Lines (V1) -> Shapes (V2/V4) -> Faces (Inferotemporal).",
-    "pdfPage": 31
-  },
-  {
-    "id": 21,
-    "category": "Vision: Cataracts",
-    "questionText": "A cloudy or opaque lens is called a:",
-    "options": [
-      {
-        "text": "Glaucoma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cataract",
-        "explanation": "Correct. Leading cause of blindness. Treated by replacement with artificial lens.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pterygium",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Chalazion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Scotoma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Loss of Red Reflex = Cataract (in adults) or Retinoblastoma (in kids).",
-    "pdfPage": 8
-  },
-  {
     "id": 22,
-    "category": "Vision: Saccades",
-    "questionText": "Rapid, ballistic eye movements used to scan a scene or read are called Saccades. They are initiated primarily by the:",
+    "category": "Pupil & Depth of Field",
+    "questionText": "What is the optical advantage of a constricted (smaller) pupil?",
     "options": [
       {
-        "text": "Frontal Eye Fields (FEF)",
-        "explanation": "Correct. FEF -> Superior Colliculus/PPRF -> Saccade.",
+        "text": "Allows more light to enter",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increases the depth of field",
+        "explanation": "Correct. Objects at varying distances appear sharper (pinhole effect).",
         "isCorrect": true
       },
       {
-        "text": "Occipital Lobe",
-        "explanation": "Incorrect (Pursuit/Fixation)."
+        "text": "Reduces diffraction",
+        "explanation": "Incorrect. Increases diffraction actually."
       },
       {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
+        "text": "Prevents spherical aberration",
+        "explanation": "Incorrect. (Technically yes, but Depth of Field is the emphasized point).",
+        "isCorrect": false
       },
       {
-        "text": "Temporal Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "V1",
+        "text": "Activates rods",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Seizure in FEF = Eyes look AWAAAY from lesion. Stroke in FEF = Eyes look TOWARDS lesion.",
-    "pdfPage": 36
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Small pupil = Large Depth of Field (Everything in focus).",
+    "pdfPage": 17
   },
   {
     "id": 23,
-    "category": "Vision: Where vs What",
-    "questionText": "Visual processing is split into two streams. The Dorsal Stream ('Where' pathway) projects to the Parietal lobe. The Ventral Stream ('What' pathway) projects to the:",
+    "category": "Visual Pathway Crossing",
+    "questionText": "Which fibers decussate (cross) at the optic chiasm?",
     "options": [
+      {
+        "text": "All fibers from the left eye",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Fibers from the temporal hemiretina of both eyes",
+        "explanation": "Incorrect. They stay ipsilateral."
+      },
+      {
+        "text": "Fibers from the nasal hemiretina of both eyes",
+        "explanation": "Correct. These carry peripheral field info.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fibers from the macula only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No fibers cross",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Nasal Fibers Cross. Temporal Fibers Don't.",
+    "pdfPage": 26
+  },
+  {
+    "id": 24,
+    "category": "Blindsight",
+    "questionText": "The phenomenon of 'Blindsight', where a cortically blind patient can still guess motion or location of objects above chance, is thought to be mediated by the:",
+    "options": [
+      {
+        "text": "Primary Visual Cortex",
+        "explanation": "Incorrect. Damaged."
+      },
+      {
+        "text": "Superior Colliculus / Primitive Visual System",
+        "explanation": "Correct. Subcortical pathways.",
+        "isCorrect": true
+      },
+      {
+        "text": "LGN Parvocellular layers",
+        "explanation": "Incorrect."
+      },
       {
         "text": "Frontal Lobe",
         "explanation": "Incorrect."
       },
       {
-        "text": "Temporal Lobe",
-        "explanation": "Correct. Inferior Temporal Cortex identifies objects/faces (Prosopagnosia = lesion here).",
-        "isCorrect": true
-      },
-      {
         "text": "Cerebellum",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dorsal = Where (Motion/Spatial). Ventral = What (Object ID).",
-    "pdfPage": 34
-  },
-  {
-    "id": 24,
-    "category": "Vision: M Channel",
-    "questionText": "Magnocellular ganglion cells are mostly sensitive to:",
-    "options": [
-      {
-        "text": "Color contrast",
-        "explanation": "Incorrect (Parvo)."
-      },
-      {
-        "text": "Low contrast, motion, and temporal changes",
-        "explanation": "Correct. The 'Motion' detector.",
-        "isCorrect": true
-      },
-      {
-        "text": "Fine detail",
-        "explanation": "Incorrect (Parvo)."
-      },
-      {
-        "text": "Red light only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blue light only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: M cells are colorblind but fast.",
-    "pdfPage": 25
+    "clinicalPearl": "Key takeaway: Blindsight = Subcortical/Tectal pathway function despite cortical blindness.",
+    "pdfPage": 17
   },
   {
     "id": 25,
-    "category": "Vision: Blind Spot",
-    "questionText": "The Optic Disc creates a physiological blind spot because:",
+    "category": "Visual Pathway: Parietal Lobe",
+    "questionText": "The 'Inferior Visual Field' is projected via which pathway?",
     "options": [
       {
-        "text": "It is covered by blood vessels",
-        "explanation": "Incorrect."
+        "text": "Meyer's Loop (Temporal Lobe)",
+        "explanation": "Incorrect. Superior field."
       },
       {
-        "text": "It contains no photoreceptors",
-        "explanation": "Correct. It is where axons exit. Your brain 'fills in' the missing data.",
+        "text": "Upper Optical Radiation (Parietal Lobe)",
+        "explanation": "Correct. Parietal = Upper Fibers = Inferior Field.",
         "isCorrect": true
       },
-      {
-        "text": "The lens blocks light",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is filled with pigment",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is shadowed by the nose",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Located roughly 15 degrees temporal to the fovea.",
-    "pdfPage": 19
-  },
-  {
-    "id": 26,
-    "category": "Vision: Argyll Robertson Pupil",
-    "questionText": "In Neurosyphilis, the Argyll Robertson Pupil accommodates but does not react to light. This is due to a lesion in the:",
-    "options": [
       {
         "text": "Optic Nerve",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pretectal Area / Posterior Commissure",
-        "explanation": "Correct. This disconnects the light reflex but spares the cortical accommodation reflex (which comes from the visual cortex).",
-        "isCorrect": true
-      },
-      {
-        "text": "Occipital Lobe",
+        "text": "Superior Colliculus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Ciliary Ganglion",
-        "explanation": "Incorrect (Adie's Pupil)."
-      },
-      {
-        "text": "Retina",
+        "text": "Frontal Lobe",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 'Prostitute's Pupil' - Accommodates but doesn't React.",
+    "clinicalPearl": "Key takeaway: Parietal fibers -> Inferior Field. Temporal fibers -> Superior Field.",
     "pdfPage": 29
+  },
+  {
+    "id": 26,
+    "category": "Retinal Detachment",
+    "questionText": "Retinal detachment occurs between which two layers?",
+    "options": [
+      {
+        "text": "Sclera and Choroid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Choroid and Retinal Pigment Epithelium (RPE)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Retinal Pigment Epithelium (RPE) and Neural Retina",
+        "explanation": "Correct. This separates photoreceptors from their blood supply.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ganglion cell layer and Vitreous",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cornea and Iris",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Retinal detachment separates the neural camera film from its vascular backing (RPE).",
+    "pdfPage": 4
   },
   {
     "id": 27,
-    "category": "Vision: Hyperopia",
-    "questionText": "In Hyperopia (Farsightedness), the eye is too short, so images focus behind the retina. Correction requires:",
+    "category": "Scotoma",
+    "questionText": "Damage to the primary visual cortex below the calcarine sulcus would result in:",
     "options": [
       {
-        "text": "Concave lens",
-        "explanation": "Incorrect (Myopia)."
-      },
-      {
-        "text": "Convex (Converging) lens",
-        "explanation": "Correct. Adds power to pull the focus forward onto the retina.",
+        "text": "Contralateral Superior Quadrantanopsia",
+        "explanation": "Correct. Below sulcus = Lingual Gyrus = Superior Field.",
         "isCorrect": true
       },
       {
-        "text": "Cylindrical lens",
-        "explanation": "Incorrect (Astigmatism)."
+        "text": "Contralateral Inferior Quadrantanopsia",
+        "explanation": "Incorrect. Above sulcus (Cuneus).",
+        "isCorrect": false
       },
       {
-        "text": "Prism",
-        "explanation": "Incorrect (Diplopia)."
+        "text": "Bitemporal Hemianopsia",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Surgery only",
+        "text": "Total Blindness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Monocular Blindness",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hyperopia = Plus lens (+). Myopia = Minus lens (-).",
-    "pdfPage": 9
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Lower Bank (Lingual) = Upper World. Upper Bank (Cuneus) = Lower World.",
+    "pdfPage": 30
   },
   {
     "id": 28,
-    "category": "Vision: Vitamin A",
-    "questionText": "Retinal isomerase is required to convert:",
+    "category": "Color Blindness",
+    "questionText": "The L-cones clearly have a peak sensitivity in the yellow-green part of the spectrum, yet they are responsible for the perception of:",
     "options": [
       {
-        "text": "All-trans retinal back to 11-cis retinal",
-        "explanation": "Correct. This 'reloads' the gun so the photoreceptor can fire again. Occurs in RPE.",
+        "text": "Blue",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Red",
+        "explanation": "Correct. Long wavelength cones.",
         "isCorrect": true
       },
       {
-        "text": "11-cis to All-trans",
-        "explanation": "Incorrect (Light does this)."
-      },
-      {
-        "text": "Opsin to Rhodopsin",
+        "text": "Green",
         "explanation": "Incorrect."
       },
       {
-        "text": "Glutamate to GABA",
+        "text": "Black",
         "explanation": "Incorrect."
       },
       {
-        "text": "GMP to cGMP",
+        "text": "White",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: This cycle takes time. That's why it takes time to adapt to the dark (Dark Adaptation).",
-    "pdfPage": 21
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: L = Long = Red. M = Medium = Green. S = Short = Blue.",
+    "pdfPage": 17
   },
   {
     "id": 29,
-    "category": "Vision: Visual Acuity",
-    "questionText": "20/200 vision means:",
+    "category": "Ganglion Cell Receptive Fields",
+    "questionText": "Retinal ganglion cells typically have what type of receptive field structure?",
     "options": [
       {
-        "text": "You see at 200 feet what a normal person sees at 20 feet",
-        "explanation": "Incorrect (Super vision)."
+        "text": "Simple orientation selective",
+        "explanation": "Incorrect. Cortical."
       },
       {
-        "text": "You see at 20 feet what a normal person sees at 200 feet",
-        "explanation": "Correct. Legal blindness threshold in the US (with correction).",
+        "text": "Center-Surround (On-Center or Off-Center)",
+        "explanation": "Correct. Contrast detection.",
         "isCorrect": true
       },
       {
-        "text": "You see 20% of what others see",
+        "text": "Complex motion sensitive",
         "explanation": "Incorrect."
       },
       {
-        "text": "You have 200 degree peripheral vision",
+        "text": "Face selective",
         "explanation": "Incorrect."
       },
       {
-        "text": "You are near sighted",
+        "text": "Grid cells",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: First number = Test distance (20ft). Second number = Size of letter.",
-    "pdfPage": 9
+    "clinicalPearl": "Key takeaway: Ganglion cells care about DOTS of contrast (Center vs Surround).",
+    "pdfPage": 23
   },
   {
     "id": 30,
-    "category": "Vision: Astigmatism",
-    "questionText": "Astigmatism is an optical defect caused by:",
+    "category": "Presbyopia",
+    "questionText": "The loss of accommodation with age (presbyopia) is primarily due to:",
     "options": [
       {
-        "text": "Cloudy lens",
+        "text": "Weakness of ciliary muscles",
         "explanation": "Incorrect."
       },
       {
-        "text": "Irregular curvature of the cornea or lens (Football shape)",
-        "explanation": "Correct. Light focuses at multiple points/lines instead of a single point.",
+        "text": "Loss of elasticity/stiffening of the lens",
+        "explanation": "Correct. Lens can't round up.",
         "isCorrect": true
       },
       {
-        "text": "Long eyeball",
+        "text": "Clouding of the cornea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Short eyeball",
+        "text": "Retinal degeneration",
         "explanation": "Incorrect."
       },
       {
-        "text": "Retinal damage",
+        "text": "Glaucoma",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Corrected with Cylindrical lenses.",
-    "pdfPage": 9
+    "clinicalPearl": "Key takeaway: Presbyopia = Stiff Lens = Can't read near.",
+    "pdfPage": 21
   },
   {
     "id": 31,
-    "category": "Vision: Superior Colliculus",
-    "questionText": "Some retinal ganglion cells bypass the LGN and project directly to the Superior Colliculus. This pathway is important for:",
+    "category": "Optic Disc Appearance",
+    "questionText": "The optic disc appears pale and is the entry/exit point for:",
     "options": [
       {
-        "text": "Conscious visual perception",
-        "explanation": "Incorrect (V1)."
-      },
-      {
-        "text": "Directing eye movements and attention to new stimuli",
-        "explanation": "Correct. 'Blindsight' - reacting to motion without consciously seeing it.",
+        "text": "Retinal Arteries and Veins",
+        "explanation": "Correct. Central retinal vessels.",
         "isCorrect": true
       },
       {
-        "text": "Circadian rhythms",
-        "explanation": "Incorrect (Suprachiasmatic Nucleus)."
+        "text": "Ciliary Arteries",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Pupillary reflex",
-        "explanation": "Incorrect (Pretectal)."
+        "text": "Choroidal Vessels",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Color analysis",
+        "text": "Schlemm's Canal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aqueous Humor",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 10% of optic fibers go to non-LGN targets (SCN, Pretectal, Superior Colliculus).",
-    "pdfPage": 36
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Vessels enter at the Disc.",
+    "pdfPage": 18
   },
   {
     "id": 32,
-    "category": "Vision: Color Opponency",
-    "questionText": "The opponent-process theory explains why we cannot see:",
+    "category": "Photopigment",
+    "questionText": "Rhodopsin is the photopigment found in:",
     "options": [
       {
-        "text": "Red-Green or Blue-Yellow mixtures",
-        "explanation": "Correct. Ganglion cells are Red-On/Green-Off or Blue-On/Yellow-Off. You can't have both 'On' and 'Off' at the same time.",
+        "text": "Rods",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Black and White",
+        "text": "Cones",
+        "explanation": "Incorrect. Cone pigments (Opsins).",
+        "isCorrect": false
+      },
+      {
+        "text": "Ganglion Cells",
         "explanation": "Incorrect."
       },
       {
-        "text": "Orange",
+        "text": "RPE",
         "explanation": "Incorrect."
       },
       {
-        "text": "Purple",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brown",
+        "text": "Cornea",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Explains 'Afterimages'. Stare at red, look at white wall -> See Green (Red fatigue unmasks Green).",
-    "pdfPage": 26
+    "clinicalPearl": "Key takeaway: Rhodopsin = Rods (Purple).",
+    "pdfPage": 17
   },
   {
     "id": 33,
-    "category": "Vision: Amacrine Cells",
-    "questionText": "Amacrine cells in the retina primarily modulate transmission between:",
+    "category": "Suprachiasmatic Nucleus",
+    "questionText": "Axons leaving the optic tract that project to the hypothalamus (Suprachiasmatic Nucleus) are responsible for:",
     "options": [
       {
-        "text": "Photoreceptors and Bipolar cells",
-        "explanation": "Incorrect (Horizontal)."
+        "text": "Visual acuity",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Bipolar cells and Ganglion cells",
-        "explanation": "Correct. They adjust sensitivity to light changes and motion.",
+        "text": "Pupillary reflex",
+        "explanation": "Incorrect. Pretectal area."
+      },
+      {
+        "text": "Circadian Rhythms",
+        "explanation": "Correct. Light/Dark cycle entrainment.",
         "isCorrect": true
       },
       {
-        "text": "Ganglion cells and Brain",
-        "explanation": "Incorrect."
+        "text": "Saccades",
+        "explanation": "Incorrect. Superior Colliculus."
       },
       {
-        "text": "RPE and Rods",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cornea and Lens",
+        "text": "Color vision",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Diverse class of inhibitory interneurons essential for temporal processing.",
-    "pdfPage": 19
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: SCN = Clock (Circadian).",
+    "pdfPage": 26
   },
   {
     "id": 34,
-    "category": "Vision: Monocular Blindness",
-    "questionText": "Complete loss of vision in the Right eye only indicates a lesion at the:",
+    "category": "Visual Cortex Anatomy",
+    "questionText": "The primary visual cortex is located on the banks of which sulcus?",
     "options": [
       {
-        "text": "Right Optic Nerve",
-        "explanation": "Correct. Before the chiasm.",
+        "text": "Central Sulcus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sylvian Fissure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcarine Sulcus",
+        "explanation": "Correct. Medial occipital lobe.",
         "isCorrect": true
       },
       {
-        "text": "Optic Chiasm",
-        "explanation": "Incorrect (Bitemporal)."
+        "text": "Cingulate Sulcus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Right Optic Tract",
-        "explanation": "Incorrect (Left Homonymous Hemianopsia)."
-      },
-      {
-        "text": "Right Visual Cortex",
-        "explanation": "Incorrect (Left Homonymous Hemianopsia)."
-      },
-      {
-        "text": "Left Optic Nerve",
+        "text": "Parieto-occipital Sulcus",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Optic Nerve = Monocular. Retro-chiasmal = Homonymous.",
-    "pdfPage": 29
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: V1 = Calcarine Sulcus.",
+    "pdfPage": 30
   },
   {
     "id": 35,
-    "category": "Vision: Visual Association Cortex",
-    "questionText": "Damage to the V4 area of the visual cortex leads to Cerebral Achromatopsia, which is:",
+    "category": "Visual Field Definition",
+    "questionText": "The left half of the visual field (from both eyes) is processed by the:",
     "options": [
       {
-        "text": "Loss of motion perception",
-        "explanation": "Incorrect (V5/MT)."
+        "text": "Left Visual Cortex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Loss of color perception (Seeing in black and white)",
-        "explanation": "Correct. Distinct from retinal color blindness. They know what color things 'should' be but see them as gray.",
+        "text": "Right Visual Cortex",
+        "explanation": "Correct. Contralateral processing.",
         "isCorrect": true
       },
       {
-        "text": "Blindness",
+        "text": "Both Cortices equally",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hallucinations",
+        "text": "Thalamus only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Face blindness",
+        "text": "Retina only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Central processing of color is separate from form and motion.",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Right Brain sees Left World.",
+    "pdfPage": 25
   }
 ];

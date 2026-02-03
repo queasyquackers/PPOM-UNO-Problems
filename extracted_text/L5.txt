@@ -1,0 +1,579 @@
+
+=== PAGE 1 ===
+Neuroimaging Clinical Applications
+Sherry Zakhary, D.O., M.S.
+Adjunct Lecturer, Medical Imaging
+
+=== PAGE 2 ===
+• Learn the modalities used in radiology to image 
+the brain
+• Understand the clinical indications for different 
+types of brain imaging
+• Understand contraindications to brain imaging
+• How to integrate imaging and other clinical tools 
+in managing neurological disease
+Session Objectives
+
+=== PAGE 3 ===
+• Syncope
+• Transient Ischemic Attack (TIA)
+• Stroke
+• Altered Mental Status
+• Signs of increased intracranial pressure
+– Papilledema
+– Cushing Triad: widened pulse pressure + bradycardia + 
+irregular respiration
+– Vomiting
+– Headache
+• Evaluation of known lesions - tumor, aneurysm, 
+neurologic disease (i.e. multiple sclerosis)
+Clinical Presentations 
+leading to Neuroimaging
+
+=== PAGE 4 ===
+• Cross-sectional Imaging
+– CAT scan (CT)
+– Magnetic Resonance Imaging (MRI)
+– Carotid Ultrasound
+• Conventional angiogram
+Modalities in 
+Neuroimaging
+
+=== PAGE 5 ===
+• Helical xray beams are 
+directed through the 
+brain, head, neck 
+• 2D cross sectional 
+images are compiled, 
+and images may be 
+integrated for a 3D 
+view
+• Images are displayed in 
+sagittal, coronal and 
+axial planes
+CT Scan
+
+=== PAGE 6 ===
+• Each tissue type attenuates the 
+xray beams differently, resulting in 
+different Hounsfield units
+CT
+
+=== PAGE 7 ===
+•
+CT images are viewed with different “windows” to 
+highlight the attenuation differences of various 
+tissues
+• Bone
+• Soft tissue
+• Lung
+• Brain 
+• Subdural
+• Liver
+CT Windows
+
+=== PAGE 8 ===
+CT: Bone and Brain Windows
+
+=== PAGE 9 ===
+CT: Lung and Soft Tissue Windows
+
+=== PAGE 10 ===
+•
+Superior visualization of:
+•
+Acute hemorrhage
+•
+Calcium, Bone 
+•
+Tumor calcifications, fracture
+•
+Good anatomic detail of multiple tissue types all in one study 
+•
+Fast 
+•
+Non-invasive
+•
+Relatively cost effective compared to MR
+Advantages of CT
+
+=== PAGE 11 ===
+•
+Emergencies
+•
+Trauma
+•
+Stroke
+•
+Syncope
+•
+Altered mental status
+•
+Characterize tumors
+•
+CT Angiography to evaluate arterial rupture, stenosis, 
+aneurysm, dissection
+Indications for CT in Neuroimaging
+
+=== PAGE 12 ===
+•
+Radiation
+•
+Current knowledge primarily based on acute high dose
+exposure after the atomic bomb
+•
+Acute dose of 500 mSV can cause nausea or skin 
+reddening
+•
+Acute dose of 1000mSV can cause death 
+without treatment
+•
+Difficult to quantify risk of low dose ionizing 
+radiation on humans – latent period
+•
+Normal life (3mSv/yr)
+•
+Frequent flying (.03 mSv roundtrip NYC-LA)
+•
+Medical Imaging
+•
+Risk of fatal + nonfatal cancer from 1 CT 
+scan is 1 in 2000, 1 in 1000 for nonfatal 
+cancer
+•
+Technical CT scan parameters may be adjusted
+•
+Low dose protocols, protective apron
+•
+Must weigh risks and benefits in pregnancy and children
+Disadvantage of CT
+
+=== PAGE 13 ===
+•
+An iodinated solution administered to highlight various 
+tissues via three routes: intravenous, oral, rectal
+•
+Oral and rectal forms allow visualization of the GI tract for 
+assessment of patency and perforation
+•
+Intravenous form opacifies the vasculature and is taken up 
+by tissues, in a process termed “enhancement”
+•
+Patterns of enhancement
+•
+Diffuse/uniform
+•
+Heterogenous 
+•
+Ring-enhancement
+CT Contrast 
+
+=== PAGE 14 ===
+CT Contrast
+PRE-CONTRAST                                   POST-CONTRAST
+Diffuse Enhancement
+Diagnosis - Meningioma
+
+=== PAGE 15 ===
+CT Contrast
+PRE-CONTRAST                                   POST-CONTRAST
+Ring Enhancement
+Diagnosis - Abscess
+
+=== PAGE 16 ===
+•
+Allergic reaction
+•
+Patients with history of allergy (seasonal, food, previous contrast 
+administration) are prone to having a histamine reaction to contrast
+•
+Mild, not requiring treatment (5-8%)
+• Feeling of warmth, nausea, itchy throat
+•
+Moderate (1%)
+• Severe vomiting, hives, swelling
+•
+Severe (.1%)
+• Life threatening anaphylaxis
+•
+Management
+•
+Prescribe contrast with discretion 
+•
+Pre-treatment with Benadryl or Prednisone
+•
+“crash cart” on site with epinephrine
+Risks of IV CT Contrast
+
+=== PAGE 17 ===
+•
+Nephropathy
+•
+Patients at risk: 
+•
+Renal impairment (creatinine >1.5)
+•
+Diabetics
+•
+Diabetic on metformin  - drug must be discontinued for 48hrs
+•
+Acute renal failure 
+•
+Pre screen for Cr  > 1.5 and other pertinent history
+•
+Schedule hemodialysis within 24 hrs of contrast administration if 
+patient is on hemodialysis
+•
+Pre-treat with sodium bicarbonate and hydration
+•
+Excretion into breast milk
+• Mortality associated with CT contrast 1 in 1.15 million
+Risks (Continued)
+
+=== PAGE 18 ===
+•
+Suspicion of :
+•
+Tumor
+•
+Vascular pathology – stroke, aneurysm, etc.
+•
+Infection or abscess  
+•
+Not used when suspecting acute hemorrhage
+•
+Acute hemorrhage is visible on CT without contrast 
+•
+Contrast can LIMIT visualization of hemorrhage
+•
+Free extravasated contrast can irritate brain tissue 
+Indications for Brain CT 
+with IV Contrast
+
+=== PAGE 19 ===
+• Magnetic excitation causes 
+changes in alignment of 
+atoms within the body
+• Tissues have distinct 
+patterns of proton 
+excitement and relaxation
+• Software measures 
+magnetization vectors that 
+result from the relaxation 
+of protons, producing a 3D 
+image 
+Magnetic Resonance 
+Imaging
+
+=== PAGE 20 ===
+• Main sequences are T1 and T2, in 
+which magnetization pulses and 
+image acquisition occur at different 
+times
+• This difference results in highlighting 
+of different anatomy and pathology
+• Additional variations of these 
+sequences include FLAIR, GRE, 
+Diffusion, Proton Density, and 
+increasingly more sequences
+MRI
+T2
+T1
+
+=== PAGE 21 ===
+•
+Superb visualization of soft tissues including brain, spinal 
+cord, nerves, ligaments, tendons and tumors
+•
+No radiation
+•
+Imaging of vasculature in renal compromised patients, 
+without the need for intravenous contrast
+Advantages of MRI
+CT
+MR
+I
+
+=== PAGE 22 ===
+• Early stroke (<12hrs)
+•
+MRI may be performed after initial CT to 
+detect a CT-occult stroke or to further 
+characterize the extent of ischemia
+• Characterization of tumors
+• Visualization of cranial nerves
+• MR angiography to evaluate 
+stenosis, aneurysm, dissection
+Indications for Brain MRI
+Diffusion MRI for stroke
+
+=== PAGE 23 ===
+•
+Costly (up to double CT)
+•
+Claustrophobia 
+•
+Slow (approx. 40 min 
+depending on sequences 
+performed)
+•
+Metal implants (pacemaker, 
+old prosthetic heart valves) 
+contraindicated 
+•
+Weight limit 350 lb.
+•
+IV contrast risks
+Disadvantages of Brain 
+MRI
+
+=== PAGE 24 ===
+• Gadolinium - based solution
+• Heavy metal group
+MRI IV Contrast
+
+=== PAGE 25 ===
+• Same as for CT:
+•
+Tumor
+•
+Vascular pathology
+•
+Infection
+Indications for MR Brain 
+with IV Contrast
+
+=== PAGE 26 ===
+MRI Contrast 
+PRE-CONTRAST            POST-CONTRAST
+Leptomeningeal Enhancement
+Diagnosis - Neurosarcoidosis
+
+=== PAGE 27 ===
+•
+Nephrogenic Systemic Fibrosis
+•
+Rare but serious condition characterized by fibrosis of skin 
+and other tissues which can occur hours to months after IV 
+gadolinium contrast administration
+•
+At risk:
+•
+Renal impairment, GFR <30
+•
+Incidence in this population is about 5%
+•
+Most institutions do not administer to GFR <30
+•
+Gadolinium deposition disease
+•
+Allergic reaction
+•
+Hypersensitivity - .35%
+•
+Mild - 1%
+•
+Anaphylaxis - .01%
+Risks of MRI IV Contrast
+
+=== PAGE 28 ===
+• Cross-sectional imaging of the CERVICAL 
+segments of the major vessels to the 
+head
+• Arteries evaluated on a standard duplex 
+ultrasound:
+•
+Common carotid
+•
+Internal carotid (cervical segments only)
+•
+External carotid
+•
+Vertebral (cervical)
+• Veins may also be evaluated
+Carotid Duplex Ultrasound
+
+=== PAGE 29 ===
+•
+Step 1 – Grayscale and Color 
+Doppler images
+•
+Ultrasound transducer is used on the 
+tissue of interest to send and receive 
+sound waves to and from tissue
+•
+Sound moves differently through 
+various tissues, producing a grayscale 
+image
+•
+Color doppler  - software uses received 
+signal to depict speed and direction of 
+blood flow with colors 
+Carotid Duplex Ultrasound
+
+=== PAGE 30 ===
+• Step 2 – Spectral analysis
+•
+Measures blood flow velocity and 
+provides a waveform
+Carotid Duplex Ultrasound
+
+=== PAGE 31 ===
+• Non invasive
+• Cost effective
+• May be performed 
+portably
+• Reliable
+Advantages of Carotid 
+Duplex Ultrasound
+
+=== PAGE 32 ===
+• Suspicion of, or to follow–up a known 
+carotid or vertebral artery stenosis
+• Common Clinical Presentations:
+• Altered mental status
+• Transient ischemic attack
+• Syncope
+• Stroke
+• Bruit on physical exam
+Indications for Carotid 
+Duplex Ultrasound
+
+=== PAGE 33 ===
+• Technical factors
+• Technician-dependent
+• Image degradation 
+secondary to
+•
+Large body habitus
+•
+Patient pain
+•
+IV lines, ventilator
+Disadvantages of Carotid 
+Duplex Ultrasound
+
+=== PAGE 34 ===
+• Fluoroscopy-guided imaging of a 
+vessel of interest by accessing a 
+peripheral vein or artery via 
+catheterization and using 
+intravenous contrast
+• Performed by neurosurgeons, 
+interventional radiologists, 
+interventional neuroradiologists, 
+interventional cardiologists
+Conventional Angiogram
+
+=== PAGE 35 ===
+Conventional Angiogram
+•
+To visualize or map 
+arteries and veins
+•
+Identify Pathology
+•
+Treat pathology
+
+=== PAGE 36 ===
+•
+Diagnostic AND 
+Therapeutic capabilities
+•
+If pathology is found, can 
+immediately treat
+•
+Superior to CT and MR 
+angiography in evaluating 
+plaque morphology in 
+cases of arterial stenosis
+Advantages of 
+Conventional Angiogram
+PRE-
+TREATMENT
+POST-
+TREATMENT
+
+=== PAGE 37 ===
+•
+Stenosis with intention to treat
+•
+Congenital
+•
+Atherosclerotic
+•
+Compression by external organs
+•
+Angioplasty
+•
+Balloon inflation within an area of stenosis
+•
+Often supported by stent placement
+•
+New * drug-eluting stents
+•
+Traumatic vascular injury
+•
+Aneurysm, arteriovenous malformation
+•
+Coil embolization
+•
+Plugs
+•
+Gel embolization
+Indications for 
+Conventional Angiogram
+Normal cerebral venogram
+Abnormal cerebral 
+venogram with 
+Diagnosis - arteriovenous 
+malformation
+
+=== PAGE 38 ===
+• Invasive
+•
+Requires sedation
+•
+Complications of vascular injury, bleeding, infection
+•
+Risk of IV contrast
+•
+May require hospital stay
+• Limited to visualization of vasculature and 
+clinicians often need additional cross 
+sectional imaging to observe how pathology 
+relates to surrounding organs
+Disadvantages of 
+Conventional Angiogram
+
+=== PAGE 39 ===
+•
+CT BRAIN
+•
+Best for acute trauma, intracranial hemorrhage
+•
+MR BRAIN
+•
+Best for evaluation of nerves, ligaments, and when trying to avoid 
+radiation to the patient 
+•
+CT BRAIN/MR BRAIN with INTRAVENOUS CONTRAST
+•
+To evaluate vascular pathology and patterns of enhancement in 
+other lesions
+•
+CAROTID DUPLEX STUDY
+•
+Cervical
+•
+CONVENTIONAL ANGIOGRAM
+•
+Best for vascular pathology and cases in which diagnosis and 
+treatment may be paired
+• Known aneurysm, stenosis
+Summary
+
+=== PAGE 40 ===
+https://comresearchdata.nyit.edu/redcap/surveys/?s=H
+RCY448FWYXREL4R
+Feedback
