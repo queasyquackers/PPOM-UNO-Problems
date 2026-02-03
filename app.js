@@ -1242,7 +1242,13 @@ document.addEventListener('DOMContentLoaded', () => {
                         `;
                         pdfBtn.onclick = (e) => {
                             e.stopPropagation();
-                            showPDF(pdfPath, pageNum);
+                            // Prepare search context for Smart Find
+                            const searchContext = {
+                                quote: state.questions[state.currentQuestionIndex].pdfQuote || null,
+                                category: state.questions[state.currentQuestionIndex].category || "",
+                                questionId: state.questions[state.currentQuestionIndex].id
+                            };
+                            showPDF(pdfPath, pageNum, searchContext);
                         };
                         btnContainer.appendChild(pdfBtn);
                     });
@@ -1403,9 +1409,130 @@ document.addEventListener('DOMContentLoaded', () => {
         queueRenderPage(currentPage + 1);
     };
 
-    const showPDF = (pdfPath, targetPageNum) => {
+    const showPDF = (pdfPath, targetPageNum, searchContext = null) => {
+        // Fallback: If searchContext is missing (e.g. stale button closure), derive it from current state
+        if (!searchContext) {
+            const state = getCurrentTestState();
+            if (state && state.questions && state.questions[state.currentQuestionIndex]) {
+                const q = state.questions[state.currentQuestionIndex];
+                searchContext = {
+                    quote: q.pdfQuote || null,
+                    category: q.category || "",
+                    questionId: q.id
+                };
+            }
+        }
+
         // 1. Check if viewer already exists
         let viewerContainer = document.getElementById('pdf-viewer-container');
+        
+        // CORRECTION: If viewer exists but lacks the new Find button (stale DOM from previous version), remove it
+        if (viewerContainer && !document.getElementById('pdf-find-btn')) {
+            viewerContainer.remove();
+            viewerContainer = null;
+        }
+
+
+
+        // Helper: Find Slide Logic
+        const findSlide = async () => {
+             // Debugging
+            console.log("Find Slide Clicked. Context:", searchContext);
+            
+            if (!pdfDoc) {
+                // Check if we are in iframe fallback mode
+                if (document.getElementById('pdf-frame')) {
+                    if (window.location.protocol === 'file:') {
+                        alert("Smart Find is unavailable.\n\nReason: Browsers block scripts from reading PDF text when opening 'index.html' directly (file:// protocol).\n\nSolution: Run a local server (e.g., 'python -m http.server') or scroll manually.");
+                    } else {
+                        alert("Smart Find is unavailable because the PDF viewer is in fallback mode.");
+                    }
+                } else {
+                    alert("Please wait for the PDF to finish loading.");
+                }
+                return;
+            }
+            if (!searchContext) {
+                alert("No search context available.");
+                return;
+            }
+
+            const btn = document.getElementById('pdf-find-btn');
+            const originalText = btn.innerHTML;
+            btn.innerHTML = `<svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-white" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> Searching...`;
+            btn.disabled = true;
+
+            try {
+                let foundPage = null;
+
+                // Priority 1: pdfQuote (Exact Match)
+                if (searchContext.quote) {
+                    const quote = searchContext.quote.toLowerCase();
+                    for (let i = 1; i <= pdfDoc.numPages; i++) {
+                        const page = await pdfDoc.getPage(i);
+                        const textContent = await page.getTextContent();
+                        const text = textContent.items.map(s => s.str).join(' ').toLowerCase();
+                        if (text.includes(quote)) {
+                            foundPage = i;
+                            break;
+                        }
+                    }
+                }
+
+                // Priority 2: Category (Fuzzy Match & Keyword Fallback)
+                if (!foundPage && searchContext.category) {
+                     // Clean Category (Remove "Review: ...")
+                     const rawCat = searchContext.category.split('(')[0].trim();
+                     const cat = rawCat.toLowerCase();
+                     const keywords = cat.split(' ').filter(w => w.length > 3);
+
+                     for (let i = 1; i <= pdfDoc.numPages; i++) {
+                        const page = await pdfDoc.getPage(i);
+                        const textContent = await page.getTextContent();
+                        const text = textContent.items.map(s => s.str).join(' ').toLowerCase();
+                        
+                        // Exact Category Match
+                        if (text.includes(cat)) {
+                            foundPage = i;
+                            break;
+                        }
+
+                        // Keyword Match (if strict match failed)
+                        // If any significant keyword is present (e.g. "Cerebellar" from "Cerebellar Function")
+                        const keywordMatch = keywords.some(k => text.includes(k));
+                        if (keywordMatch && !foundPage) {
+                           // Store potential match but prefer exact -> Actually, let's just take the first keyword match 
+                           // iterating pages 1->N, finding the first relevant slide is usually safe.
+                           foundPage = i;
+                           break;
+                        }
+                    }
+                }
+
+                if (foundPage) {
+                    renderPage(foundPage);
+                    // Scroll to it
+                    const canvas = document.getElementById(`pdf-page-${foundPage}`);
+                    if (canvas) canvas.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    
+                    // Show success feedback
+                    const toast = document.createElement('div');
+                    toast.className = "fixed bottom-4 left-1/2 transform -translate-x-1/2 bg-green-600 text-white px-4 py-2 rounded-lg shadow-lg z-[60]";
+                    toast.textContent = `Found "${searchContext.quote ? 'Quote' : 'Concept'}" on Page ${foundPage}`;
+                    document.body.appendChild(toast);
+                    setTimeout(() => toast.remove(), 3000);
+                } else {
+                    alert(`Could not find "${searchContext.quote || searchContext.category}" in this PDF.`);
+                }
+
+            } catch (e) {
+                console.error("Search failed", e);
+                alert("Search functionality encountered an error.");
+            } finally {
+                btn.innerHTML = originalText;
+                btn.disabled = false;
+            }
+        };
 
         if (!viewerContainer) {
             // Create container
@@ -1423,12 +1550,19 @@ document.addEventListener('DOMContentLoaded', () => {
                         <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
                         Lecture Source
                     </h3>
+                    <button id="pdf-find-btn" class="hidden ml-4 bg-indigo-600 hover:bg-indigo-700 text-white px-3 py-1 text-sm rounded-md transition flex items-center">
+                        <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        Find Slide
+                    </button>
                 </div>
                 <button id="close-pdf-btn" class="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
                 </button>
             `;
             viewerContainer.appendChild(header);
+
+            // Bind Find Button
+            header.querySelector('#pdf-find-btn').onclick = findSlide;
 
             // Content Container
             const content = document.createElement('div');
@@ -1443,6 +1577,20 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('close-pdf-btn').onclick = () => {
                 viewerContainer.classList.add('translate-x-full');
             };
+        } else {
+            // Re-bind Find Button Logic update for new context
+            const findBtn = document.getElementById('pdf-find-btn');
+            if (findBtn) findBtn.onclick = findSlide;
+        }
+
+        // Show Find Button if context exists
+        const findBtn = document.getElementById('pdf-find-btn');
+        if (findBtn) {
+            if (searchContext && (searchContext.quote || searchContext.category)) {
+                findBtn.classList.remove('hidden');
+            } else {
+                findBtn.classList.add('hidden');
+            }
         }
 
         // 2. Load PDF
@@ -1454,6 +1602,10 @@ document.addEventListener('DOMContentLoaded', () => {
         container.className = "flex-grow relative bg-gray-100 dark:bg-slate-900 overflow-y-auto overflow-x-hidden flex flex-col items-center p-4 gap-4";
 
         const loadingTask = pdfjsLib.getDocument(encodedPath);
+        
+        // Reset doc while loading
+        pdfDoc = null;
+        
         loadingTask.promise.then(async (pdf) => {
             pdfDoc = pdf;
 
