@@ -1,0 +1,337 @@
+
+=== PAGE 1 ===
+1
+Class of 2029
+Neocortical Development 
+PPOM1
+•
+Raddy L. Ramos, PhD
+•
+Assoc. Prof, Biomedical Sciences
+•
+Email: rramos02@nyit.edu
+
+=== PAGE 2 ===
+Session Objectives
+•
+Students will be able to describe the basic mechanisms of neuronal proliferation in the fetal 
+ventricular zones and how this relates to neocortical size and disorders such as 
+microcephaly. 
+•
+Students will be able to describe the basic principles of neuronal migration in the fetal 
+ventricular zone, subventricular zone, and cortical plate and how this relates to the 
+establishment of the neocortical lamina.
+•
+Students will be able to describe the mechanisms underlying disorders of neuronal migration 
+such as subcortical band heterotopia, lissencephaly, etc.
+•
+Students will be able to describe the basic organization of the formation of sulci and gyrii in 
+the developing neocortex.
+
+=== PAGE 3 ===
+3P’s of Brain Development & Function
+Neuronal Production – proliferation of neurons in order to 
+appropriately populate the brain.
+Neuronal Placement – the migration of neurons to their 
+appropriate laminar and areal position.
+Neuronal Performance – intrinsic neuronal physiology (ion 
+channels & transmitter receptors), synaptic physiology of 
+networks of neurons
+THE 3P’s ORGANIZE AND CONTROL BEHAVIOR:
+sensation & perception, cognition & memory, motor 
+control, sleep/wake, emotion, etc.
+
+=== PAGE 4 ===
+Neuronal Production
+ 
+- making and keeping the right #’s of neurons
+The adult mammalian neocortex displays a laminated cytoarchitecture
+1
+2
+4
+5
+6
+3
+wm
+
+=== PAGE 5 ===
+3P’s of Brain Development & Function
+Brain is growing in size 
+indicative of cellular 
+proliferation.
+Neocortex is changing from 
+smooth surface to full of sulci 
+and gyri – including 
+development of lamina 
+(layers).
+Lamina are found in many 
+tissues/organs.
+Caudal      → 
+Rostral
+
+=== PAGE 6 ===
+Neuronal Production - making and keeping the right #’s of neurons
+Neocortical development
+- nearly all cortical neurons are made prenatally
+- all excitatory neurons are made at the VZ
+Gestational
+Week
+
+=== PAGE 7 ===
+Gestational Week
+Layer 1/ Marginal zone / Molecular layer
+• More neurons being produced by 
+neuroepithelial cells (radial glia) at VZ
+• Newborn neurons migrate to CP 
+which is getting thicker. 
+• Layer 1 not getting thicker.
+
+=== PAGE 8 ===
+Cell division at the VZ surface
+Radial glial cells divide to produce neurons which become the 
+pyramidal neurons that populate the neocortex
+VZ
+IZ
+Kriegstein & Noctor 2002
+Noctor et al. 2001
+
+=== PAGE 9 ===
+Why is it important to understand neuronal proliferation in the brain?
+Neuronal production disorders: primary microcephaly
+Normal
+ASPM mutation
+Bond et al. 2002
+13 year old females
+Ventricular Zone
+Kouprina et al. 2005
+Johnson et al. 2018
+* ASPM important for mitotic 
+spindle formation
+KO                   Normal
+
+=== PAGE 10 ===
+Harding BN, et al. Am J Hum Genet. 2016 Aug 4;99(2):511-20.
+Roberts et al. 2000; J Neuroscience
+DiCunto et al. 2000; Neuron
+* Citron kinase (CK) mutations cause microcephaly in humans, rats, and mice
+Why is it important to understand neuronal proliferation in the brain?
+Neuronal production disorders: primary microcephaly
+Normal                        CK mutant rat
+Normal         CK KO mouse
+
+=== PAGE 11 ===
+Harding BN, et al. Am J Hum Genet. 2016 Aug 4;99(2):511-20.                                               
+Sarkisian et al. 2002; J Neuroscience                                   
+Citron Kinase mutations cause microcephaly by 
+impairing cytokinesis in radial glia resulting in 
+binucleate neurons and a reduction in the total number 
+of neurons in brain.
+
+=== PAGE 12 ===
+Poduri et al. Neuron. 2012 Apr 12; 74(1): 41–48.
+* Enlarged and malformed hemisphere with associated epilepsy and cognitive delay/disability
+Genetic studies show   - activating mutation in AKT3 which causes prolonged proliferative capacity of radial glia. AKT3 
+expression found in radial glia at VZ
+ 
+Why is it important to understand neuronal proliferation in the brain?
+Neuronal production disorders: Hemi-megalencephaly
+Beta catenin /nestin over exp; 
+Chenn A & Walsh CA 2002
+Experimental megalencephaly by increasing 
+proliferation in radial glia.
+
+=== PAGE 13 ===
+• Neuronal Production – proliferation of neurons in order to 
+appropriately populate the brain.
+• Radial glial are the proliferative cells that divide to make 
+neurons at the ventricular zone of the neuro-epithelium
+• Too much or too little neuronal production leads to 
+microcephaly or megalencephaly
+
+=== PAGE 14 ===
+Neuronal Placement in the developing neocortex
+ 
+- establishing neuronal lamina
+The adult mammalian neocortex displays a laminated cytoarchitecture
+1
+2
+4
+5
+6
+3
+wm
+
+=== PAGE 15 ===
+Kriegstein & Noctor 2002
+Neuronal placement includes dynamic cellular movement
+and dramatic changes in morphology
+SHAPE:    Bipolar           Multipolar           Bipolar                   Bipolar
+MVMNT:   Radial             Dynamic             Radial                     Radial
+I
+II/II
+IV
+V
+VI
+
+=== PAGE 16 ===
+Kriegstein et al. 2006
+Sequential neuronal proliferation and inside-out
+radial migration establishes neocortical lamina
+timescale of days
+VZ
+SVZ
+CP
+Nature 458, 501-504 (2009)
+1st
+2nd
+3rd
+4th
+1st
+2nd
+3rd
+4th
+1st
+2nd
+3rd
+L 6
+L 5
+L 4
+L 1
+L 2
+
+=== PAGE 17 ===
+Kriegstein & Noctor 2002
+Neuronal placement includes dynamic cellular movement
+and dramatic changes in morphology
+SHAPE:    Bipolar           Multipolar           Bipolar                   Bipolar
+MVMNT:   Radial             Dynamic             Radial                     Radial
+I
+II/II
+IV
+V
+VI
+
+=== PAGE 18 ===
+Born early                   Born late
+Inside-out radial migration establishes neocortical lamination
+I
+II
+III
+IV
+V
+VI
+Young neurons            Old neurons
+Can you spot some
+radial columns?
+
+=== PAGE 19 ===
+The sylvian fissure begins as a shallow 
+depression at 14 weeks gestation and 
+subsequently becomes grooved.
+Early appearance of 
+the precentral (arrow 
+1) and central (arrow 
+2) sulci, is depicted. 
+18 WEEKS
+30 WEEKS
+Cortical Maturation in Normal and Abnormal Fetuses as Assessed with Prenatal MR Imaging Radiology March 1999 vol. 210 no. 3 751-758 
+26 WEEKS
+Left, The cingulate sulcus (white arrows), parieto-occipital fissure (thin black arrow), and calcarine 
+fissure (thick black arrow) are seen. p = pons.  Right, the precentral (arrow 1), central (arrow 2), and 
+postcentral (arrow 3) sulci are seen. 
+Development of neocortical sulci & gyri
+
+=== PAGE 20 ===
+Mapping the Early Cortical Folding Process in the Preterm Newborn Brain. DuBois et al. Cereb. Cortex (2008) 18 (6): 1444-1454. 
+Large fissures are the first to develop. Frontal lobe sulci/gyri are the last to develop.
+
+=== PAGE 21 ===
+Neuronal placement disorders:
+ Periventricular-nodular heterotopia (PVH)
+- neurons fail to leave the ventricular zone forming nodules
+- associated with mutations of Filamin A (Flna) gene – actin binding protein
+- accompanied by cognitive impairment and epilepsy
+Houlihan SL et al. 2016
+PVH in mice w/ Flna mutation
+Cux1 - layer 2&3 marker 
+
+=== PAGE 22 ===
+Neuronal placement disorders:
+Subcortical Band Heterotopia/ “Double-cortex syndrome”
+Gleeson et al. 1998
+- neurons stuck in the IZ which becomes the white matter. Heterotopia are surrounded by WM
+- associated with mutations of the EML1, DCX, LIS1 – all microtubule associated proteins
+- accompanied by cognitive impairment and epilepsy
+- neurons fail to leave the intermediate zone (which becomes the WM)
+
+=== PAGE 23 ===
+- neurons migrate too far into the molecular layer
+Galaburda et al. 2006
+Geschwind 1990
+Molecular Layer
+aka Layer I
+Layer 2/3
+Neuronal placement deficits can result in 
+Molecular-layer heterotopia
+Found in brains of epilepsy patients and dyslexic patients.
+
+=== PAGE 24 ===
+Misplaced neurons belonging in all  layers are found in molecular layer 
+heterotopia in mice.
+Likely also true in humans with molecular layer heterotopia.
+data from Allen Brain Atlas
+Neuronal placement deficits can result in 
+Molecular-layer heterotopia
+RorB
+
+=== PAGE 25 ===
+Neuronal placement disorders:
+Lissencephaly – smooth brain
+Cortical thickness often greater than seen in normal individuals
+Lack of apparent lamination of neurons.
+Tan AP et al. 2018 Quant Imaging Med Surg
+https://www.ncbi.nlm.nih.gov/pubmed/30211035
+DiDonato et al. 2018
+https://www.ncbi.nlm.nih.gov/pubmed/29671837
+* Agyria: no gyri
+* Pachygyria: few, large, broad gyri
+ 
+-aka Incomplete lissencephaly
+* Lissencephaly: smooth brain surface
+
+=== PAGE 26 ===
+Lissencephaly due to Reelin mutations:
+Cajal-Retzius cells are found in the marginal zone of 
+the developing neocortex and secrete reelin. Reelin is 
+an important molecular cue that guides neurons to 
+their appropriate layer.
+Boyle et al. 2011
+Rakic & Caviness 1995
+Mouse with mutant Reelin gene
+Perez et al. 2013
+Normal
+Reelin mutant
+Mutant          Normal
+Sheep w mutant Reelin gene
+
+=== PAGE 27 ===
+Neuronal Migration & Placement
+• Radial glia (RG) fibers contact the pial surface forming a 
+substrate onto which newborn neurons can adhere & 
+migrate in an inside-outside pattern.
+• Migrating neurons must recognize the molecular cues that 
+instruct the direction, distance, and destination of their 
+journey. Intracellular proteins like microtubule associate 
+proteins contribute to shape change and movement 
+capabilities of neurons to reach their appropriate layer. 
+• Deficits in migration cause heterotopia and lissencephaly.
+
+=== PAGE 28 ===
+Feedback is welcomed
+28
+Input
+Output
+Feedback
+Please email with questions:
+rramos02@nyit.edu
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

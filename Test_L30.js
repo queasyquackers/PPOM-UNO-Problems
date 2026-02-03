@@ -1,490 +1,180 @@
 window.Test_L30 = [
   {
     "id": 1,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 55-year-old male presents with sudden onset weakness of the right face and arm. On examination, he cannot smile on the right side, but he CAN wrinkle his forehead on both sides. He also has right arm drift. This pattern of facial weakness suggests a lesion in:",
+    "category": "UMN vs LMN Definition",
+    "questionText": "Upper Motor Neurons (UMN) have their cell bodies in the ____ and project to ____.",
     "options": [
       {
-        "text": "The Right Facial Nerve (CN VII)",
-        "explanation": "Incorrect (Bell's Palsy would affect the WHOLE right face)."
+        "text": "Spinal cord; Skeletal muscle",
+        "explanation": "Incorrect. LMN."
       },
       {
-        "text": "The Left Motor Cortex / Corticobulbar Tract",
-        "explanation": "Correct. UMN lesion spares the forehead due to bilateral innervation.",
+        "text": "Cortex/Brainstem; Lower Motor Neurons",
+        "explanation": "Correct. UMNs never touch muscle directly.",
         "isCorrect": true
       },
       {
-        "text": "The Right Motor Cortex",
-        "explanation": "Incorrect (Would affect Left body)."
+        "text": "PNS ganglia; Spinal cord",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The Left Facial Nucleus",
-        "explanation": "Incorrect (Equivalent to LMN lesion)."
+        "text": "Cerebellum; Thalamus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "The Right Tigeminal Nerve",
+        "text": "Muscle; Spinal Cord",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Forehead sparing = UMN Lesion (Stroke/Tumor). Whole face paralysis = LMN Lesion (Bell's).",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: UMN = Commander. LMN = Soldier (touches muscle).",
+    "pdfPage": 3
   },
   {
     "id": 2,
-    "category": "Tract Function",
-    "questionText": "The Corticospinal Tract (CST) originates primarily from:",
+    "category": "Lower Motor Neuron",
+    "questionText": "Lower Motor Neurons (LMN) are defined by the fact that they:",
     "options": [
       {
-        "text": "Primary Somatosensory Cortex",
+        "text": "Cross in the medulla",
         "explanation": "Incorrect."
       },
       {
-        "text": "Primary Motor Cortex (M1), Premotor (PM), and Supplementary Motor Area (SMA)",
-        "explanation": "Correct. Precentral gyrus and adjacent frontal areas.",
+        "text": "Directly innervate skeletal muscle",
+        "explanation": "Correct. Final common pathway.",
         "isCorrect": true
       },
       {
-        "text": "Thalamus",
+        "text": "Have cell bodies in the cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia",
+        "text": "Are only inhibitory",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellum",
+        "text": "Do not release acetylcholine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CST origins = M1, PM, SMA (Frontal Lobe).",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: LMNs form nerves and hit the neuromuscular junction.",
+    "pdfPage": 3
   },
   {
     "id": 3,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient is in a coma following a severe head injury. When a painful stimulus is applied, the patient extends all four extremities rigidly. This 'Decerebrate Posturing' indicates a lesion at or below the level of:",
+    "category": "Corticospinal Decussation",
+    "questionText": "About 85% of Corticospinal Tract fibers decussate at the:",
     "options": [
       {
-        "text": "The Cerebral Cortex",
-        "explanation": "Incorrect (Decorticate)."
-      },
-      {
-        "text": "The Red Nucleus (Midbrain)",
-        "explanation": "Correct. Loss of Rubrospinal flexion leads to unopposed Vestibular extension.",
-        "isCorrect": true
-      },
-      {
-        "text": "The Spinal Cord",
-        "explanation": "Incorrect (Flaccid)."
-      },
-      {
-        "text": "The Cauda Equina",
+        "text": "Midbrain (Crus Cerebri)",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "The Thalamus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Decerebrate (Extension) = Lesion BELOW Red Nucleus.",
-    "pdfPage": 49
-  },
-  {
-    "id": 4,
-    "category": "Reflexes",
-    "questionText": "A positive Babinski sign (upgoing big toe) in an adult is a classic sign of:",
-    "options": [
-      {
-        "text": "Lower Motor Neuron lesion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Upper Motor Neuron / Corticospinal Tract lesion",
-        "explanation": "Correct. Indicates loss of cortical inhibition on spinal reflexes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebellar dysfunction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia dysfunction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Peripheral Neuropathy",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Babinski = UMN Damage (CST).",
-    "pdfPage": 23
-  },
-  {
-    "id": 5,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient presents with non-fluent, halting speech. He struggles to find words and speaks in short phrases like 'Walk... dog... now'. He appears frustrated and aware of his deficit. Comprehension is largely intact. This 'Expressive Aphasia' is associated with a lesion in:",
-    "options": [
-      {
-        "text": "Wernicke's Area (Temporal Lobe)",
-        "explanation": "Incorrect (Fluent Aphasia)."
-      },
-      {
-        "text": "Broca's Area (Inferior Frontal Gyrus)",
-        "explanation": "Correct. Anterior to the face motor area.",
-        "isCorrect": true
-      },
-      {
-        "text": "Primary Visual Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Angular Gyrus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Cerebellum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Broca's = Broken Speech (Inferior Frontal Gyrus).",
-    "pdfPage": 35
-  },
-  {
-    "id": 6,
-    "category": "Neuroanatomy",
-    "questionText": "The corticospinal tract fibers converge and descend through the forebrain in a white matter structure called the:",
-    "options": [
-      {
-        "text": "Corpus Callosum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Internal Capsule",
-        "explanation": "Correct. The posterior limb carries the CST.",
-        "isCorrect": true
-      },
-      {
-        "text": "Medial Lemniscus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cingulum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fornix",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Internal Capsule = CST Superhighway.",
-    "pdfPage": 14
-  },
-  {
-    "id": 7,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 70-year-old stroke patient comes to your clinic. When you ask him to abduct his affected arm, he also involuntarily flexes his elbow, wrist, and fingers. He cannot perform the movement in isolation. This phenomenon is known as:",
-    "options": [
-      {
-        "text": "Huntington's Chorea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Abnormal Synergy",
-        "explanation": "Correct. Pathological coupling of joints due to loss of individuated control.",
-        "isCorrect": true
-      },
-      {
-        "text": "Intention Tremor",
-        "explanation": "Incorrect (Cerebellar)."
-      },
-      {
-        "text": "Fasciculation",
-        "explanation": "Incorrect (LMN)."
-      },
-      {
-        "text": "Clasp-knife rigidity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Synergies = Loss of independent joint control.",
-    "pdfPage": 20
-  },
-  {
-    "id": 8,
-    "category": "Neuroanatomy",
-    "questionText": "Approximately 85-90% of Corticospinal Fibers decussate (cross) at the:",
-    "options": [
-      {
-        "text": "Midbrain (Red Nucleus)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Caudal Medulla (Pyramids)",
-        "explanation": "Correct. Forming the Lateral Corticospinal Tract.",
-        "isCorrect": true
       },
       {
         "text": "Pons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord (segmental level)",
-        "explanation": "Incorrect (Only the remaining 10% do this).",
+        "text": "Medullary Pyramids (Caudal Medulla)",
+        "explanation": "Correct. Pyramidal Decussation.",
         "isCorrect": true
+      },
+      {
+        "text": "Spinal Cord (Cervical level)",
+        "explanation": "Incorrect. Ventral CST does this.",
+        "isCorrect": false
       },
       {
         "text": "Internal Capsule",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pyramidal Decussation = Medullocervical junction.",
-    "pdfPage": 15
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Medullary decussation -> Contralateral control.",
+    "pdfPage": 10
   },
   {
-    "id": 9,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with a lesion in the Left Frontal Eye Field (Area 8) would likely manifest which oculomotor sign?",
+    "id": 4,
+    "category": "Ventral CST",
+    "questionText": "The 15% of fibers that form the Ventral Corticospinal Tract typically:",
     "options": [
       {
-        "text": "Inability to look to the Right (Contralateral gaze palsy)",
-        "explanation": "Correct. Eyes may deviate TOWARDS the lesion (Left) due to unopposed action of the right FEF.",
+        "text": "Never decussate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Decussate at the level of the spinal cord where they synapse",
+        "explanation": "Correct. They cross later.",
         "isCorrect": true
       },
       {
-        "text": "Inability to look to the Left",
+        "text": "Control only the face",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vertical gaze palsy",
+        "text": "Project to the cerebellum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Internuclear Ophthalmoplegia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ptosis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: FEF lesion = Eyes look 'Toward the Lesion' (Away from the paralysis).",
-    "pdfPage": 39
-  },
-  {
-    "id": 10,
-    "category": "Brainstem Tracts",
-    "questionText": "The Vestibulospinal Tract is primarily responsible for:",
-    "options": [
-      {
-        "text": "Fine digital movements of fingers",
-        "explanation": "Incorrect (CST)."
-      },
-      {
-        "text": "Anti-gravity support (Extension) and balance",
-        "explanation": "Correct. Activates extensors to maintain upright posture.",
-        "isCorrect": true
-      },
-      {
-        "text": "Flexion of the upper extremities",
-        "explanation": "Incorrect (Rubrospinal)."
-      },
-      {
-        "text": "Speech production",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain modulation",
+        "text": "Are sensory fibers",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Vestibulospinal = Extensors (Anti-gravity).",
-    "pdfPage": 47
+    "clinicalPearl": "Key takeaway: Ventral CST = Ipsilateral descent, Contralateral termination (mostly).",
+    "pdfPage": 10
   },
   {
-    "id": 11,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient has suffered a stroke affecting the genu of the internal capsule. He sticks out his tongue, and it deviates to the LEFT. There is no atrophy or fasciculation of the tongue. Where is the lesion likely located?",
+    "id": 5,
+    "category": "M1 Function",
+    "questionText": "The Primary Motor Cortex (M1) is located in the ____ and has the most ____ relationship to muscle action.",
     "options": [
       {
-        "text": "Left Hypoglossal Nerve",
-        "explanation": "Incorrect (Would cause Left deviation, BUT with Atrophy/Fasciculations)."
+        "text": "Postcentral Gyrus; Abstract",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Right Motor Cortex / Corticobulbar Tract",
-        "explanation": "Correct. UMN lesion causes contralateral weakness. Right lesion -> Left weakness -> Tongue pushes to weak side (Left).",
+        "text": "Precentral Gyrus; Direct",
+        "explanation": "Correct. Execution.",
         "isCorrect": true
       },
       {
-        "text": "Left Motor Cortex",
+        "text": "Superior Frontal Gyrus; Abstract",
         "explanation": "Incorrect."
       },
       {
-        "text": "Right Hypoglossal Nucleus",
+        "text": "Temporal Lobe; Emotional",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellum",
+        "text": "Occipital Lobe; Visual",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: UMN Tongue lesion = Deviates AWAY from lesion side (Contralateral).",
-    "pdfPage": 33
-  },
-  {
-    "id": 12,
-    "category": "Motor Cortex",
-    "questionText": "In the Motor Homunculus, the leg and foot are represented in which vascular territory?",
-    "options": [
-      {
-        "text": "Middle Cerebral Artery (Lateral surface)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Cerebral Artery (Medial surface)",
-        "explanation": "Correct. Medial wall contains the leg/foot representation.",
-        "isCorrect": true
-      },
-      {
-        "text": "Posterior Cerebral Artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basilar Artery",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vertebral Artery",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Leg/Foot = Medial = ACA.",
+    "clinicalPearl": "Key takeaway: M1 = Precentral Gyrus = Do it.",
     "pdfPage": 11
   },
   {
-    "id": 13,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Locked-in Syndrome is a tragic condition where a patient is fully conscious but quadriplegic and unable to speak. Vertical eye movements and blinking are often preserved. This is classically caused by a lesion in the:",
+    "id": 6,
+    "category": "Premotor Cortex",
+    "questionText": "The Premotor Cortex (PM) is primarily involved in:",
     "options": [
       {
-        "text": "Medulla",
-        "explanation": "Incorrect."
+        "text": "Direct muscle contraction",
+        "explanation": "Incorrect. M1."
       },
       {
-        "text": "Basis Pontis (Ventral Pons)",
-        "explanation": "Correct. Interrupts all corticospinal/bulbar tracts, sparing the midbrain tegmentum (reticular formation/consciousness and CN III).",
+        "text": "Planning movements (External cues)",
+        "explanation": "Correct. 'Get set' phase.",
         "isCorrect": true
       },
       {
-        "text": "Thalamus",
+        "text": "Sensory perception",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Frontal Lobe",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Locked-in = Basilar Pons Infarct.",
-    "pdfPage": 50
-  },
-  {
-    "id": 14,
-    "category": "Lower Motor Neurons",
-    "questionText": "Lower Motor Neurons (LMNs) differ from Upper Motor Neurons (UMNs) in that their axons:",
-    "options": [
-      {
-        "text": "Remain entirely within the CNS",
-        "explanation": "Incorrect (UMN)."
-      },
-      {
-        "text": "Exit the CNS to innervate skeletal muscle directly",
-        "explanation": "Correct. They form the peripheral nerves.",
-        "isCorrect": true
-      },
-      {
-        "text": "Always project contralaterally",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Release Glutamate",
-        "explanation": "Incorrect (LMNs release ACh)."
-      },
-      {
-        "text": "Do not have cell bodies",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LMN = Final Common Pathway to Muscle.",
-    "pdfPage": 3
-  },
-  {
-    "id": 15,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A soldier sustains a spinal cord injury. On exam, he has 'spinal shock'. Which of the following findings is characteristic of the ACUTE phase of spinal shock?",
-    "options": [
-      {
-        "text": "Spasticity",
-        "explanation": "Incorrect (Chronic)."
-      },
-      {
-        "text": "Flaccid paralysis and areflexia below the lesion",
-        "explanation": "Correct. UMN signs like spasticity take days/weeks to develop.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hyperreflexia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Clonus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Decerebrate posturing",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute UMN lesion = Shock (Flaccid). Chronic = Spastic.",
-    "pdfPage": 21
-  },
-  {
-    "id": 16,
-    "category": "Tract Function",
-    "questionText": "The Reticulospinal Tract is known for its contribution to 'startle' responses and:",
-    "options": [
-      {
-        "text": "Fine motor skills",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bilateral postural alignment and locomotion",
-        "explanation": "Correct. Can activate Central Pattern Generators (CPGs) for walking.",
-        "isCorrect": true
-      },
-      {
-        "text": "Eye movements",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tongue movements",
+        "text": "Visual processing",
         "explanation": "Incorrect."
       },
       {
@@ -493,21 +183,208 @@ window.Test_L30 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Reticulospinal = Posture/Locomotion (CPGs).",
-    "pdfPage": 44
+    "clinicalPearl": "Key takeaway: Premotor = Planning based on cues.",
+    "pdfPage": 7
   },
   {
-    "id": 17,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with Decorticate Posturing ('Mummy Pose') typically has a lesion:",
+    "id": 7,
+    "category": "Corticobulbar Face Control",
+    "questionText": "The Corticobulbar Tract innervates most cranial nerve nuclei bilaterally. The major exception is the ____ part of the Facial Nucleus.",
+    "options": [
+      {
+        "text": "Upper Face",
+        "explanation": "Incorrect. Bilateral."
+      },
+      {
+        "text": "Lower Face",
+        "explanation": "Correct. Contralateral only.",
+        "isCorrect": true
+      },
+      {
+        "text": "Whole Face",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Eyelid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Forehead",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lower face = Contralateral only. (Stroke spares forehead).",
+    "pdfPage": 4
+  },
+  {
+    "id": 8,
+    "category": "Bell's Palsy vs Stroke",
+    "questionText": "A patient cannot wrinkle their forehead, close their eye, or smile on the LEFT side of their face. This suggests:",
+    "options": [
+      {
+        "text": "Right Corticobulbar lesion (Stroke)",
+        "explanation": "Incorrect. Would spare forehead."
+      },
+      {
+        "text": "Left Facial Nerve/Nucleus lesion (Bell's Palsy)",
+        "explanation": "Correct. LMN lesion = Whole hemiface paralysis.",
+        "isCorrect": true
+      },
+      {
+        "text": "Left Corticobulbar lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral stroke",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Right Facial Nerve lesion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: If forehead is paralyzed, it's LMN (Bell's). If forehead moves, it's UMN (Stroke).",
+    "pdfPage": 19
+  },
+  {
+    "id": 9,
+    "category": "Stroke Presentation",
+    "questionText": "A patient presents with a drooping LEFT mouth corner but CAN wrinkle their LEFT forehead. This suggests:",
+    "options": [
+      {
+        "text": "LEFT Facial Nerve lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "RIGHT Corticobulbar/Cortex lesion (Stroke)",
+        "explanation": "Correct. Contralateral lower face weakness, forehead spared.",
+        "isCorrect": true
+      },
+      {
+        "text": "LEFT Corticobulbar lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "RIGHT Facial Nerve lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tongue lesion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stroke spares forehead (Bilateral backup).",
+    "pdfPage": 18
+  },
+  {
+    "id": 10,
+    "category": "Hypoglossal Deviation",
+    "questionText": "In a UMN lesion (Corticobulbar tract lesion), the tongue deviates to the ____ side of the lesion.",
+    "options": [
+      {
+        "text": "Same (Ipsilateral)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Opposite (Contralateral)",
+        "explanation": "Correct. Weak side pushes less.",
+        "isCorrect": true
+      },
+      {
+        "text": "Does not deviate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Upward",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Downward",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tongue licks the lesion (LMN). Tongue runs away from lesion (UMN) - Opp.",
+    "pdfPage": 11
+  },
+  {
+    "id": 11,
+    "category": "UMN Signs",
+    "questionText": "Which of the following is a classic sign of an Upper Motor Neuron (UMN) lesion?",
+    "options": [
+      {
+        "text": "Significant muscle atrophy",
+        "explanation": "Incorrect. LMN."
+      },
+      {
+        "text": "Fasciculations",
+        "explanation": "Incorrect. LMN."
+      },
+      {
+        "text": "Spasticity and Hyperreflexia",
+        "explanation": "Correct. Loss of inhibition.",
+        "isCorrect": true
+      },
+      {
+        "text": "Flaccidity",
+        "explanation": "Incorrect. LMN (or acute shock).",
+        "isCorrect": false
+      },
+      {
+        "text": "Absent Babinski",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: UMN = Spastic/Hyper. LMN = Flaccid/Hypo.",
+    "pdfPage": 20
+  },
+  {
+    "id": 12,
+    "category": "LMN Signs",
+    "questionText": "Which of the following is a classic sign of a Lower Motor Neuron (LMN) lesion?",
+    "options": [
+      {
+        "text": "Babinski Sign",
+        "explanation": "Incorrect. UMN."
+      },
+      {
+        "text": "Clasp-knife rigidity",
+        "explanation": "Incorrect. UMN."
+      },
+      {
+        "text": "Fasciculations and Atrophy",
+        "explanation": "Correct. Muscle is disconnected.",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased tone",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: LMN = Twitches (Fasciculations) and Wasting.",
+    "pdfPage": 20
+  },
+  {
+    "id": 13,
+    "category": "Decorticate Posture",
+    "questionText": "Decorticate rigidity ('Mummy Pose') is characterized by flexed upper limbs and extended lower limbs. The lesion is located:",
     "options": [
       {
         "text": "Below the Red Nucleus",
-        "explanation": "Incorrect (Decerebrate)."
+        "explanation": "Incorrect. Decerebrate."
       },
       {
-        "text": "Above the Red Nucleus (e.g., Internal Capsule/Cortex)",
-        "explanation": "Correct. Red Nucleus is spared -> Rubrospinal flexion of arms is intact. Legs extend due to loss of cortical inhibition.",
+        "text": "Above the Red Nucleus",
+        "explanation": "Correct. Red Nucleus (Flexor) is disinhibited.",
         "isCorrect": true
       },
       {
@@ -519,570 +396,697 @@ window.Test_L30 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "In the Vestibular Nerve",
+        "text": "In the muscles",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Decorticate = Arms Flexed (Red Nucleus Intact). Decerebrate = Arms Extended.",
-    "pdfPage": 48
+    "clinicalPearl": "Key takeaway: Decorticate = Hands near Cora (Heart). Red Nucleus intact.",
+    "pdfPage": 32
   },
   {
-    "id": 18,
-    "category": "Terminology",
-    "questionText": "The term 'Bulb' in 'Corticobulbar Tract' refers to the:",
+    "id": 14,
+    "category": "Decerebrate Posture",
+    "questionText": "Decerebrate rigidity is characterized by extension of ALL limbs. The lesion is located:",
     "options": [
       {
-        "text": "Olfactory Bulb",
-        "explanation": "Incorrect."
+        "text": "Above the Red Nucleus",
+        "explanation": "Incorrect. Decorticate."
       },
       {
-        "text": "Brainstem",
-        "explanation": "Correct. An archaic term for the medulla/brainstem.",
+        "text": "Below the Red Nucleus (e.g., Midbrain/Pons)",
+        "explanation": "Correct. Rubrospinal lost. Vestibulospinal (Extension) dominates.",
         "isCorrect": true
       },
       {
-        "text": "Eyeball",
+        "text": "In the Cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
+        "text": "In the Internal Capsule",
         "explanation": "Incorrect."
       },
       {
-        "text": "Thalamus",
+        "text": "In the frontal lobe",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Corticobulbar = Cortex to Brainstem.",
+    "clinicalPearl": "Key takeaway: Decerebrate = E for Extension (All 4). Worse prognosis.",
     "pdfPage": 4
   },
   {
-    "id": 19,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Fasciculations and significant muscle atrophy are hallmark signs of:",
-    "options": [
-      {
-        "text": "Upper Motor Neuron lesions",
-        "explanation": "Incorrect (Minimal atrophy, no fasciculations)."
-      },
-      {
-        "text": "Lower Motor Neuron lesions",
-        "explanation": "Correct. Denervation leads to spontaneous twitching and rapid muscle wasting.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebellar disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parkinson's disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory neuropathy",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fasciculations + Atrophy = LMN.",
-    "pdfPage": 25
-  },
-  {
-    "id": 20,
-    "category": "Cortical Hierarchy",
-    "questionText": "Motor areas are organized hierarchically. In general, moving from Posterior (M1) to Anterior (Prefrontal), the motor representations become:",
-    "options": [
-      {
-        "text": "More Concrete/Direct",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "More Abstract (Planning/Sequencing)",
-        "explanation": "Correct. M1 executes, Premotor plans, Prefrontal decides.",
-        "isCorrect": true
-      },
-      {
-        "text": "Smaller",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Unilateral",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory only",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior Frontal areas = Abstract Planning.",
-    "pdfPage": 10
-  },
-  {
-    "id": 21,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 4-month-old infant is examined. When the head is turned to the right, the right arm extends and the left arm flexes ('Fencing Posture'). This is the Asymmetrical Tonic Neck Reflex. Its persistence beyond infancy indicates:",
-    "options": [
-      {
-        "text": "Normal maturation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A cortical release sign (Developmental delay/Cerebral Palsy)",
-        "explanation": "Correct. Primitive reflexes should integrate/disappear.",
-        "isCorrect": true
-      },
-      {
-        "text": "Superior intelligence",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Deafness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blindness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Primitive reflexes (ATNR) re-emerge in UMN damage.",
-    "pdfPage": 45
-  },
-  {
-    "id": 22,
-    "category": "Brainstem Tracts",
+    "id": 15,
+    "category": "Rubrospinal Tract",
     "questionText": "The Rubrospinal Tract originates in the Red Nucleus and primarily facilitates:",
     "options": [
       {
-        "text": "Extension of the legs",
+        "text": "Extension of lower limbs",
         "explanation": "Incorrect."
       },
       {
-        "text": "Flexion of the upper extremities",
-        "explanation": "Correct. Important for the 'Decorticate' flexed posture.",
+        "text": "Flexion of upper limbs",
+        "explanation": "Correct. Why Decorticate has flexed arms.",
         "isCorrect": true
+      },
+      {
+        "text": "Locomotion",
+        "explanation": "Incorrect."
       },
       {
         "text": "Eye movements",
         "explanation": "Incorrect."
       },
       {
-        "text": "Autonomic functions",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Axial extension",
+        "text": "Tongue movements",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Rubrospinal = Flexors (Upper Limb).",
-    "pdfPage": 42
-  },
-  {
-    "id": 23,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Bell's Palsy is a common condition resulting in facial paralysis. Anatomically, this lesion occurs at:",
-    "options": [
-      {
-        "text": "The motor cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Facial Nerve (Peripheral/LMN)",
-        "explanation": "Correct. Affects all branches (Forehead + Chin).",
-        "isCorrect": true
-      },
-      {
-        "text": "The Internal Capsule",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "The Basal Ganglia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bell's Palsy = LMN VII Lesion.",
+    "clinicalPearl": "Key takeaway: Red = Flexors (Arms).",
     "pdfPage": 32
   },
   {
-    "id": 24,
-    "category": "Homunculus",
-    "questionText": "In the Motor Homunculus, the face and hand have very large representations compared to the trunk. This reflects:",
+    "id": 16,
+    "category": "Vestibulospinal Tract",
+    "questionText": "The Lateral Vestibulospinal Tract is primarily referred to as the 'Anti-gravity' tract because it promotes:",
     "options": [
       {
-        "text": "The physical size of the muscles",
+        "text": "Flexion of all limbs",
         "explanation": "Incorrect."
       },
       {
-        "text": "The degree of fine motor control/dexterity",
-        "explanation": "Correct. More neurons needed for fine movement.",
+        "text": "Extension of axial and proximal limb muscles",
+        "explanation": "Correct. Standing up against gravity.",
         "isCorrect": true
       },
       {
-        "text": "Blood supply",
+        "text": "Fine digital movements",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sensory receptors",
+        "text": "Eye closure",
         "explanation": "Incorrect."
       },
       {
-        "text": "Evolutionary age",
+        "text": "Sleep",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Homunculus size = Functional Dexterity (Cortical Magnification).",
-    "pdfPage": 13
+    "clinicalPearl": "Key takeaway: Vestibulospinal = Extensors.",
+    "pdfPage": 11
+  },
+  {
+    "id": 17,
+    "category": "Locked-In Syndrome",
+    "questionText": "Locked-In Syndrome is typically caused by a lesion in the ____, which disrupts bilateral corticospinal and corticobulbar tracts but spares eye movements.",
+    "options": [
+      {
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pons (Ventral)",
+        "explanation": "Correct. Basilar artery stroke.",
+        "isCorrect": true
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ventral Pontine lesion = Locked In. Can only look up/down/blink.",
+    "pdfPage": 31
+  },
+  {
+    "id": 18,
+    "category": "Frontal Eye Fields",
+    "questionText": "The Frontal Eye Fields (Area 8) control:",
+    "options": [
+      {
+        "text": "Reflexive eye movements",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Voluntary saccadic eye movements to the contralateral side",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pupil constriction",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Eyelid closure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: FEF pushes eyes to opposite side.",
+    "pdfPage": 23
+  },
+  {
+    "id": 19,
+    "category": "Babinski Sign",
+    "questionText": "A positive Babinski sign (Dorsiflexion of big toe, fanning of others) in an adult indicates:",
+    "options": [
+      {
+        "text": "Lower Motor Neuron damage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corticospinal Tract (UMN) damage",
+        "explanation": "Correct. Primitive reflex release.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cerebellar damage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basal Ganglia damage",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Healthy reflex",
+        "explanation": "Incorrect. Only in babies.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Babinski = UMN.",
+    "pdfPage": 20
+  },
+  {
+    "id": 20,
+    "category": "Spinal Shock",
+    "questionText": "Immediately following an acute UMN lesion (e.g., spinal cord injury), the patient initially presents with ____, a phase known as Spinal Shock.",
+    "options": [
+      {
+        "text": "Severe spasticity",
+        "explanation": "Incorrect. That comes later."
+      },
+      {
+        "text": "Flaccid paralysis and absent reflexes",
+        "explanation": "Correct. The shock phase.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decerebrate posture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tremors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Normal reflexes",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: UMN starts Flaccid (Shock) -> becomes Spastic.",
+    "pdfPage": 11
+  },
+  {
+    "id": 21,
+    "category": "Broca's Area",
+    "questionText": "Broca's Area is typically found in the Left Inferior Frontal Gyrus and drives:",
+    "options": [
+      {
+        "text": "Language comprehension",
+        "explanation": "Incorrect. Wernicke's."
+      },
+      {
+        "text": "Motor production of speech (Fluency)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Swallowing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Chewing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Broca = Motor Speech.",
+    "pdfPage": 32
+  },
+  {
+    "id": 22,
+    "category": "CST Somatotopy",
+    "questionText": "In the spinal cord, a lesion of the Lateral Corticospinal Tract affects the ____ side of the body.",
+    "options": [
+      {
+        "text": "Contralateral",
+        "explanation": "Incorrect. It crossed already."
+      },
+      {
+        "text": "Ipsilateral (Same)",
+        "explanation": "Correct. Crossed in medulla, now descending on same side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilateral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Upper body only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Face only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SC lesion = Ipsilateral weakness. Brain lesion = Contralateral weakness.",
+    "pdfPage": 11
+  },
+  {
+    "id": 23,
+    "category": "Capsule Lesion",
+    "questionText": "A lesion of the Internal Capsule (Posterior Limb) typically causes:",
+    "options": [
+      {
+        "text": "Pure motor hemiparesis of the contralateral body",
+        "explanation": "Correct. Dense fibers packed together.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ipsilateral hemiparesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pure sensory loss",
+        "explanation": "Incorrect (unless thalamocortical affected, but usually motor is prominent).",
+        "isCorrect": false
+      },
+      {
+        "text": "Aphasia only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Memory loss",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Internal Capsule stroke = Dense Contralateral Motor Deficit.",
+    "pdfPage": 10
+  },
+  {
+    "id": 24,
+    "category": "Reticulospinal Function",
+    "questionText": "The Reticulospinal tract is heavily involved in:",
+    "options": [
+      {
+        "text": "Fine finger movements",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Locomotion (CPG) and postural adjustments",
+        "explanation": "Correct. Walking/Posture.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hearing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smell",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Reticulospinal = Walking (Mesencephalic Locomotor Region).",
+    "pdfPage": 25
   },
   {
     "id": 25,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with ALS (Amyotrophic Lateral Sclerosis) typically presents with:",
+    "category": "Supplemental Motor Area",
+    "questionText": "The Supplemental Motor Area (SMA) is involved in:",
     "options": [
       {
-        "text": "Purely sensory loss",
+        "text": "Simple reflexes",
         "explanation": "Incorrect."
       },
       {
-        "text": "A mix of Upper and Lower Motor Neuron signs",
-        "explanation": "Correct. Degeneration of both CST (UMN) and Ventral Horn cells (LMN).",
+        "text": "Initiation and sequences of complex movements (internally generated)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Purely cognitive decline",
+        "text": "Visual tracking",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual field deficits",
+        "text": "Sensory perception",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hearing loss",
+        "text": "Balance only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ALS = UMN + LMN.",
-    "pdfPage": 17
+    "clinicalPearl": "Key takeaway: SMA = Internal Sequence. PM = External Cue.",
+    "pdfPage": 7
   },
   {
     "id": 26,
-    "category": "Tract Anatomy",
-    "questionText": "The corticospinal fibers that DO NOT cross in the medulla (approx 10%) continue caudally as the:",
+    "category": "Red Nucleus Location",
+    "questionText": "The Red Nucleus is located in the:",
     "options": [
       {
-        "text": "Lateral Corticospinal Tract",
-        "explanation": "Incorrect (This is the crossed 90%)."
+        "text": "Pons",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Ventral (Anterior) Corticospinal Tract",
-        "explanation": "Correct. Controls axial/proximal muscles.",
+        "text": "Midbrain",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Rubrospinal Tract",
+        "text": "Medulla",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinothalamic Tract",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dorsal Column",
+        "text": "Spinal Cord",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Ventral CST = Uncrossed (Proximal musculature).",
-    "pdfPage": 14
+    "clinicalPearl": "Key takeaway: Red Nucleus = Midbrain.",
+    "pdfPage": 11
   },
   {
     "id": 27,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Clonus (rhythmic beating of the foot upon rapid dorsiflexion) is a sign of:",
+    "category": "Pyramid Anatomy",
+    "questionText": "The medullary 'pyramids' are formed by fibers of which tract?",
     "options": [
       {
-        "text": "Muscle Fatigue",
-        "explanation": "Incorrect."
+        "text": "Corticobulbar",
+        "explanation": "Incorrect. Those end in brainstem.",
+        "isCorrect": false
       },
       {
-        "text": "Hyperreflexia / UMN Lesion",
-        "explanation": "Correct. A form of spasticity.",
+        "text": "Corticospinal",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "LMN Lesion",
-        "explanation": "Incorrect (Areflexia)."
-      },
-      {
-        "text": "Basal Ganglia Rigidity",
+        "text": "Rubrospinal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellar Ataxia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Clonus = UMN Hyperreflexia.",
-    "pdfPage": 19
-  },
-  {
-    "id": 28,
-    "category": "Cranial Nerves",
-    "questionText": "Which of the following Cranial Nerve motor nuclei receives significant BILATERAL cortical input?",
-    "options": [
-      {
-        "text": "Lower Facial Nucleus (VII)",
-        "explanation": "Incorrect (Contralateral only)."
-      },
-      {
-        "text": "Trigeminal Motor Nucleus (V)",
-        "explanation": "Correct. Muscles of mastication are bilaterally controlled (Safety factor).",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypoglossal Nucleus (XII)",
-        "explanation": "Incorrect (Mostly contralateral)."
-      },
-      {
-        "text": "Abducens Nucleus (VI)",
-        "explanation": "Incorrect (Driven by PPRF)."
-      },
-      {
-        "text": "All of them",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mastication/Swallowing/Upper Face = Bilateral Input.",
-    "pdfPage": 29
-  },
-  {
-    "id": 29,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 'Clasp-knife' phenomenon, where resistance to passive stretch suddenly gives way, is a characteristic feature of:",
-    "options": [
-      {
-        "text": "Lead-pipe rigidity",
-        "explanation": "Incorrect (Parkinson's)."
-      },
-      {
-        "text": "Spasticity",
-        "explanation": "Correct. Velocity-dependent increase in tone.",
-        "isCorrect": true
-      },
-      {
-        "text": "Flaccidity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Paratonia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dystonia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Clasp-knife = Spasticity.",
-    "pdfPage": 19
-  },
-  {
-    "id": 30,
-    "category": "Locomotion",
-    "questionText": "The Mesencephalic Locomotor Region (MLR) can induce walking in decerebrate cats by stimulating the:",
-    "options": [
-      {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Reticulospinal Tract",
-        "explanation": "Correct. Activates spinal CPGs for stepping.",
-        "isCorrect": true
-      },
-      {
-        "text": "Optic Nerve",
+        "text": "Spinothalamic",
         "explanation": "Incorrect."
       },
       {
         "text": "Dorsal Columns",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Olfactory Bulb",
-        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MLR -> Reticulospinal -> Walking.",
-    "pdfPage": 44
+    "clinicalPearl": "Key takeaway: Pyramids = CST.",
+    "pdfPage": 10
   },
   {
-    "id": 31,
-    "category": "Neuro: Clinical Case",
-    "questionText": "An MRI shows a tumor compressing the right Cerebral Peduncle (Crus Cerebri) in the midbrain. This would most likely cause:",
+    "id": 28,
+    "category": "Brainstem Reflexes",
+    "questionText": "The Startle Reflex (protective shrug) primarily involves which path?",
     "options": [
       {
-        "text": "Right-sided hemiparesis",
+        "text": "Corticospinal",
         "explanation": "Incorrect."
       },
       {
-        "text": "Left-sided hemiparesis",
-        "explanation": "Correct. CST fibers here have not yet crossed (they cross in medulla).",
+        "text": "Reticulospinal",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Bilateral leg weakness",
+        "text": "Dorsal Column",
         "explanation": "Incorrect."
       },
       {
-        "text": "Facial paralysis only",
+        "text": "Corticobulbar",
         "explanation": "Incorrect."
       },
       {
-        "text": "No motor deficit",
+        "text": "Spinothalamic",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Crus Cerebri contains Pre-decussation CST (Contralateral weakness).",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Startle = Reticulospinal.",
+    "pdfPage": 4
   },
   {
-    "id": 32,
+    "id": 29,
     "category": "Extrapyramidal System",
-    "questionText": "The 'Extrapyramidal System' traditionally refers to motor circuits involving the:",
+    "questionText": "The 'Extrapyramidal System' traditionally encompasses the functions of the:",
     "options": [
-      {
-        "text": "Corticospinal Tract only",
-        "explanation": "Incorrect."
-      },
       {
         "text": "Basal Ganglia and Cerebellum",
-        "explanation": "Correct. Structures that modulate movement but don't project directly to LMNs.",
+        "explanation": "Correct.",
         "isCorrect": true
+      },
+      {
+        "text": "Cortex only",
+        "explanation": "Incorrect."
       },
       {
         "text": "Thalamus only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
+        "text": "Spinal cord only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cranial Nerves",
+        "text": "Peripheral nerves",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Extrapyramidal = Modulation (BG/Cerebellum).",
+    "pdfPage": 4
+  },
+  {
+    "id": 30,
+    "category": "CST Origin",
+    "questionText": "While M1 is the primary source, the CST also receives significant fibers from:",
+    "options": [
+      {
+        "text": "Occipital Lobe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Premotor Cortex and SMA",
+        "explanation": "Correct. Frontal areas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Temporal Pole",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypothalamus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Extrapyramidal = BG + Cerebellum.",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: CST = M1 + PM + SMA.",
+    "pdfPage": 10
+  },
+  {
+    "id": 31,
+    "category": "Spasticity Mechanism",
+    "questionText": "Spasticity (velocity-dependent tone) is thought to arise from:",
+    "options": [
+      {
+        "text": "Loss of muscle fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of descending inhibition on spinal reflexes (Release phenomenon)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Excessive dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral Nerve injury",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Infection",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spasticity = Uncontrolled reflexes.",
+    "pdfPage": 13
+  },
+  {
+    "id": 32,
+    "category": "Circumductive Gait",
+    "questionText": "A 'Circumductive Gait' (swinging leg around) is a common compensation for:",
+    "options": [
+      {
+        "text": "Flaccidity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spastic hemiparesis (Extensor hypertonia preventing flexion)",
+        "explanation": "Correct. Leg is too straight/long.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ataxia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Parkinson's",
+        "explanation": "Incorrect. Shuffling."
+      },
+      {
+        "text": "Drunkenness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stiff leg -> Swing it around.",
+    "pdfPage": 33
   },
   {
     "id": 33,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with damage to the 'Premotor Cortex' (Area 6) would most likely have difficulty with:",
+    "category": "Asymmetrical Tonic Neck Reflex",
+    "questionText": "The Asymmetrical Tonic Neck Reflex (fencer pose) is normal in infants but pathological in adults. It involves:",
     "options": [
       {
-        "text": "Generating any muscle force",
-        "explanation": "Incorrect (M1)."
-      },
-      {
-        "text": "Motor planning and complex sequencing",
-        "explanation": "Correct. Apraxia or loss of fluid sequencing.",
+        "text": "Extension of arm on face side, Flexion on skull side",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Feeling touch",
+        "text": "Flexion of all limbs",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hearing sounds",
+        "text": "Extension of all limbs",
         "explanation": "Incorrect."
       },
       {
-        "text": "Seeing colors",
+        "text": "Smiling",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Crying",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Premotor = Planning.",
-    "pdfPage": 9
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: ATNR release in adults = Brainstem disinhibition.",
+    "pdfPage": 25
   },
   {
     "id": 34,
-    "category": "Reflexes",
-    "questionText": "The 'Startle Response' to a loud noise involves rapid flexion of the body. This is mediated by connections from the auditory/vestibular system to the:",
+    "category": "UMN vs LMN Face",
+    "questionText": "To distinguish a stroke (UMN) from Bell's Palsy (LMN), check the:",
     "options": [
       {
-        "text": "Corticospinal Tract",
+        "text": "Tongue",
         "explanation": "Incorrect."
       },
       {
-        "text": "Reticulospinal Tract",
-        "explanation": "Correct. Medullary Reticular Formation mediates startle.",
+        "text": "Forehead",
+        "explanation": "Correct. Forehead sparing = UMN.",
         "isCorrect": true
       },
       {
-        "text": "Dorsal Columns",
+        "text": "Hand",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinothalamic Tract",
+        "text": "Foot",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual Cortex",
+        "text": "Ear",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Reticulospinal = Startle.",
-    "pdfPage": 46
+    "clinicalPearl": "Key takeaway: Forehead spares = Stroke.",
+    "pdfPage": 11
   },
   {
     "id": 35,
-    "category": "Neuro: Clinical Case",
-    "questionText": "In a patient with 'Spinal Shock' due to acute trauma, reflexes that were initially absent may return and become hyperactive (Spasticity). This phenomenon is due to:",
+    "category": "CST Path",
+    "questionText": "After passing through the Internal Capsule, CST fibers descend through the midbrain in the:",
     "options": [
       {
-        "text": "Regrowth of the spinal cord",
+        "text": "Tectum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Plasticity and loss of descending inhibition",
-        "explanation": "Correct. The spinal cord becomes autonomous and hyperexcitable.",
+        "text": "Crus Cerebri (Cerebral Peduncle)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Muscle hypertrophy",
+        "text": "Tegmentum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increased blood flow",
+        "text": "Periaqueductal Gray",
         "explanation": "Incorrect."
       },
       {
-        "text": "infection",
+        "text": "Superior Colliculus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinal Shock resolves into Spasticity.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: Capsule -> Crus -> Pons -> Pyramids.",
+    "pdfPage": 11
   }
 ];

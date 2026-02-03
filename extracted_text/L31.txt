@@ -1,0 +1,639 @@
+
+=== PAGE 1 ===
+Supraspinal motor systems:
+Basal Ganglia
+Isaac Kurtzer, Ph.D. 
+Department of Biomedical Science
+ikurtzer@nyit.edu
+
+=== PAGE 2 ===
+1) Identify the nuclei and basic divisions of the basal ganglia
+2) Describe the internal and external connections of the basal ganglia 
+including neurotransmitters
+3) Understand how the direct and indirect pathways promote and inhibit 
+behavior, and the impact of neuromodulators
+4) Understand exemplar dysfunctions and their relation to the basic basal 
+ganglia circuit
+Session Objectives
+Nolte’s The Human Brain: An introduction to its functional anatomy
+Chapter 19 The Basal nuclei
+http://arktos.nyit.edu/login?url=https://www-clinicalkey-com.arktos.nyit.edu/#!/content/book/3-s2.0-B9780323653985000199
+
+=== PAGE 3 ===
+General features of the basal ganglia
+• Collection of gray matter nuclei: some surrounding the thalamus, others in the midbrain.
+  
+• Communicate with diverse cortical regions via the thalamus.
+• Involved with selecting automated actions and thoughts.
+On
+old 
+Olympus's 
+towering 
+top 
+a 
+Finn 
+and 
+German 
+viewed 
+some 
+hops
+
+=== PAGE 4 ===
+Basal Ganglia
+Thalamus
+Cortical loops through the basal ganglia*
+Input nuclei
+Intrinsic nuclei
+Modulatory nuclei
+Output nuclei
+*Basal ganglia communicates 
+with ipsilateral cerebral cortex
+via ipsilateral thalamus
+Which nuclei are which?
+How do they communicate among themselves?
+What neurotransmitters does each release? 
+How does all this create organized behavior?
+Cerebral Cortex
+
+=== PAGE 5 ===
+Ten nuclei of the basal ganglia
+Striatum
+Pallidum
+Nuclei within Midbrain and Diencephalon
+3
+3
+4
+Most release GABA, 2 release DOPA, and 1 releases Glu  
+
+=== PAGE 6 ===
+Striatum involves three nuclei
+Caudate nucleus (dorsal striatum)
+C-shaped structure (head body, and tail) that 
+  forms lateral walls of lateral ventricles. 
+Putamen (dorsal striatum)
+Egg-shaped structure surrounded by the caudate
+Grey matter connections between caudate and
+  putamen separated by internal capsule fibers
+  passing through. Looks like stripes, hence, “striated”.
+Nucleus accumbens (ventral striatum)
+Inferior to head of the caudate and anterior 
+   putamen 
+All are input nuclei and all release GABA.  
+Neuroanatomy through clinical cases. Blumenfeld, 2nd edition 
+
+=== PAGE 7 ===
+Globus Pallidus*
+Pale globe-shaped nucleus between the putamen 
+and thalamus. 
+Separated from the thalamus by the internal 
+capsule
+      (external segment, GPe)
+-
+Division closest to the putamen
+-
+Intrinsic nucleus, neither input nor output 
+nucleus)
+      (internal segment, GPi)
+-
+Division closest to the thalamus
+-
+Output nucleus
+Ventral pallidum
+-
+Division closest to the thalamus
+-
+Output nucleus
+Pallidum includes three nuclei
+All pallidal nuclei release GABA.  
+*caudate + globus pallidus are called lentiform nucleus, looks like a bean
+
+=== PAGE 8 ===
+Nuclei within the diencephalon and midbrain
+Subthalamic nucleus (STN)
+-
+Lateral to hypothalamus. 
+-
+Connected to both parts of globus pallidus.
+-
+Input from cerebral cortex
+-
+Releases glutamate
+Substantia nigra (pars compacta)
+-
+Inferior to subthalamic nucleus
+-
+Modulatory nucleus (dopamine)
+Substantia nigra (pars reticulata)
+-
+Output nucleus
+-
+Releases GABA
+Ventral tegmental area (VTA)
+-
+Medial to substantia nigra
+-
+Modulatory nucleus (dopamine)
+midbrain
+nuclei
+
+=== PAGE 9 ===
+Ten nuclei of the basal ganglia
+Caudate – Input to BG, GABA
+Putamen – Input to BG, GABA
+Nucleus accumbens – Input to BG,  
+                                            GABA
+Subthalamic nucleus – Input to BG+, Glu
+Ventral tegmental area – modulation of BG, DA
+Substantia nigra (pars reticulata) – Output of BG, GABA
+Substantia nigra (pars compacta) – modulation of BG, DA
+Striatum
+Pallidum
+Nuclei within Midbrain and Diencephalon
+GPe – Intrinsic to BG, GABA
+GPi – Output of BG, GABA
+Ventral Pallidum – Output of BG,  
+                                            GABA
+
+=== PAGE 10 ===
+Goal
+Eat cheese
+Take bath
+Possible actions
+Sniff
+Turn right
+Turn left
+Walk forward
+Stay still
+Clean paws
+Complex relation between goal and actions
+
+=== PAGE 11 ===
+How to create a sequence of actions
+Sniff        Turn right       Turn left       Walk forward Stay Still        Clean Paws
+Possible Actions #1
+Sniff        Turn right Turn left       Walk forward            Stay Still       Clean Paws
+Possible Actions #2
+Sniff    Turn right    Turn left    Walk forward    Stay Still    Clean Paws
+Possible Actions
+Must promote a particular action, 
+and demote other possibilities 
+Sniff        Turn right       Turn left       Walk forward Stay Still        Clean Paws
+Possible Actions #3
+Sniff        Turn right    Turn left 
+Walk forward           Stay Still       Clean Paws
+Possible Actions #4
+
+=== PAGE 12 ===
+Sometimes need quickly halt a 
+planned or ongoing action
+Possible actions
+Sniff
+Turn right
+Turn left
+Walk forward
+Stay still
+Clean paws
+Goal
+Eat cheese
+Take bath
+& Stop Everything!
+
+=== PAGE 13 ===
+Albin-DeLong Model
+Proposed in 1990!
+Most influential model of basal ganglia function to this day
+Accounts for some key features of basal ganglia anatomy
+Posits complementary pathways for promotion and demotion of potential actions:
+ 
+the direct pathway and indirect pathway
+
+=== PAGE 14 ===
+Direct pathway promotes candidate actions
+Excitatory cortical input projects to striate neurons in the caudate nucleus and putamen.
+Inhibitory neurons in the striatum project to inhibitory neurons in the globus pallidus (internal 
+segment) which inhibits thalamus.
+Disinhibition of thalamus leads to the initiation of an action.
+Cerebral Cortex
+Caudate &
+Putamen
+Thalamus
+DIRECT
+PATHWAY
+Glu, excitatory
+GABA, inhibitory
+GPe – globus pallidus external
+GPi – globus pallidus internal
+STN – subthalamic nucleus
+SNr – substantia nigra pars retic. 
+SNr &
+GPi
+
+=== PAGE 15 ===
+Thalamus
+DIRECT
+PATHWAY
+Direct pathway promotes candidate actions
+Caudate &
+Putamen
+Cerebral Cortex
+GPe – globus pallidus external
+GPi – globus pallidus internal
+STN – subthalamic nucleus
+SNr – substantia nigra pars retic. 
+SNr &
+GPi
+Glu, excitatory
+GABA, inhibitory
+more excitation
+more inhibition
+less 
+inhibition
+Excitatory cortical input projects to striate neurons in the caudate nucleus and putamen.
+Inhibitory neurons in the striatum project to inhibitory neurons in the globus pallidus (internal 
+segment) which inhibits thalamus.
+Disinhibition of thalamus leads to the initiation of an action.
+
+=== PAGE 16 ===
+STN
+Thalamus
+INDIRECT
+PATHWAY
+Excitatory cortical input projects to striate neurons in the caudate nucleus and putamen.
+Inhibitory neurons in the striatum project to inhibitory neurons in the globus pallidus (external segment) 
+which inhibits the subthalamic nucleus.
+STN excites Gpi. Disinhibition of STN leads to the inhibition of an action.
+GPe
+Indirect pathway demotes candidate actions
+Caudate &
+Putamen
+Cerebral Cortex
+GPe – globus pallidus external
+GPi – globus pallidus internal
+STN – subthalamic nucleus
+SNr – substantia nigra pars retic. 
+SNr &
+GPi
+Glu, excitatory
+GABA, inhibitory
+
+=== PAGE 17 ===
+GPe
+STN
+Thalamus
+INDIRECT
+PATHWAY
+Excitatory cortical input projects to striate neurons in the caudate nucleus and putamen.
+Inhibitory neurons in the striatum project to inhibitory neurons in the globus pallidus (external segment) 
+which inhibits the subthalamic nucleus.
+STN excites Gpi. Disinhibition of STN leads to the inhibition of an action.
+Indirect pathway demotes candidate actions
+Caudate &
+Putamen
+Cerebral Cortex
+GPe – globus pallidus external
+GPi – globus pallidus internal
+STN – subthalamic nucleus
+SNr – substantia nigra pars retic. 
+SNr &
+GPi
+Glu, excitatory
+GABA, inhibitory
+more
+inhibition
+less inhibition
+more
+inhibition
+more
+excitation
+
+=== PAGE 18 ===
+STN
+Thalamus
+HYPERDIRECT
+PATHWAY
+Hyperdirect pathway: quickly blocks most/all 
+candidate actions
+Excitatory cortical input to the subthalamic nucleus
+STN excites GPi, and so leads to inhibition of thalamus.
+Fastest pathway and affects the largest number of potential actions; countermands already initiated actions.
+Cerebral Cortex
+GPe – globus pallidus external
+GPi – globus pallidus internal
+STN – subthalamic nucleus
+SNr – substantia nigra pars retic. 
+SNr &
+GPi
+
+=== PAGE 19 ===
+Cerebral Cortex
+GPe
+SNr &
+GPi
+STN
+Thalamus
+SNpc
+DA
+D2
+D1
+Impact of dopamine on the two pathways
+There are two classes of medium spiny neurons (MSN). 
+One class contains a D1 receptor for dopamine, the other a D2 receptor.
+D1’s G-coupled effect is to increase that neuron’s excitability. More direct pathway activation           
+D2’s G-coupled effect is to decrease that neuron’s excitability. Less indirect pathway activation
+Caudate &
+Putamen
+SNr – substantia nigra pars reticulata 
+SNpc – substantia nigra pars compacta 
+accidentally misspeak on 1st pass
+
+=== PAGE 20 ===
+Cerebral cortex
+C/P
+GPe
+SNr
+GPi
+STN
+Thalamus
+SNpc
+DA
+D2
+D1
+Ach
+DA on D1: increase excitability in DIRECT pathway
+DA on D2: decrease excitability in INDIRECT pathway
+Ach on D1: decrease excitability in DIRECT pathway
+Ach on D2: increase excitability in INDIRECT pathway
+Opposite affects!
+Opposite impact of Ach on the two pathways
+
+=== PAGE 21 ===
+Distinct channels connect basal ganglia 
+and cerebral cortex
+Limbic
+Prefrontal
+Oculomotor Motor 
+mesolimbic
+nigrostriatal
+
+=== PAGE 22 ===
+Four channels involving basal ganglia, 
+thalamus, and cerebral cortex
+The motor, oculomotor, and prefrontal channels all receive DA from the SNc.
+The limbic channel receives DA from the ventral tegmental area.
+Channel
+Corticostriatal pathway
+Striatal Nuclei
+Pallidal Nuclei
+Thalamic Nuclei
+Cortical receiving areas
+Motor
+Primary somatosensory & 
+motor areas; premotor and 
+supplemental motor area
+Putamen
+Globus pallidus; 
+substantia nigra 
+pars reticulata
+Ventral Lateral; 
+Ventral Anterior
+Supplemental motor area, 
+premotor and primary motor 
+areas
+Oculomotor
+Prefrontal and posterior 
+parietal cortex
+Caudate nucleus
+Globus pallidus; 
+substantia nigra 
+pars reticulata
+Ventral Anterior; 
+MedioDorsal
+Frontal eye fields
+Prefrontal
+Prefrontal and posterior 
+parietal cortex
+Caudate nucleus 
+Globus pallidus; 
+substantia nigra 
+pars reticulata
+Ventral Anterior; 
+MedioDorsal
+Prefrontal cortex
+Limbic
+Temporal lobe; hippocampal 
+formation; amygdala
+Nucleus 
+accumbens
+Ventral palladium
+MedioDorsal
+Cingulate gyrus and orbital 
+frontal cortex
+
+=== PAGE 23 ===
+Frontal cortical targets of the basal ganglia 
+
+=== PAGE 24 ===
+Cerebral Cortex
+GPe
+SNr &
+GPi
+STN
+Thalamus
+BG output also targets the brainstem 
+Caudate &
+Putamen
+Superior colliculus
+MLR
+Reticular Formation
+
+=== PAGE 25 ===
+Ancient system 
+Grillner (2013) The evolutionary origin of the 
+vertebrate basal ganglia and its role in action selection 
+T-rex
+
+=== PAGE 26 ===
+Clinical manifestations of damage to basal ganglia
+•
+Basal ganglia damage often presents with movement disorders.
+•
+Movement disorders can be focal, generalized, unilateral or bilateral.
+•
+In unilateral movement disorders caused by focal basal ganglia lesions, 
+the movement disorder is contralateral to the lesion.   
+Cerebral Cortex
+Basal Ganglia
+Thalamus
+Input nuclei
+Intrinsic nuclei
+Modulatory nuclei
+Output nuclei
+All these connections are ipsilateral
+
+=== PAGE 27 ===
+Lesion to Direct Pathway 
+Hypokinetic
+disturbance
+Lesion to Indirect Pathway 
+Underactive cortex
+Slowed/absence of 
+voluntary movement
+Hyperkinetic 
+disturbance
+Overactive cortex
+Numerous involuntary 
+movements
+Too much or too little
+
+=== PAGE 28 ===
+Parkinson’s Disease
+Approximately 1% of the U.S. population over age 65
+Usual age of onset is between 40-70 y/o
+Generally no familial tendency
+Typically idiopathic
+Progression is insidious
+Disability and death over the course of  10-30 years
+Sir Willam Richard Gowers (1886)
+Armstrong and Okun (2020)
+
+=== PAGE 29 ===
+Defining pathology of Parkinson’s disease
+Massive loss of dopaminergic neurons 
+in the Substantia Nigra (pars compacta), 
+also in VTA
+Neurons in distinct regions also contain 
+cytoplasmic inclusions = Lewy Bodies
+Contain ubiquitin, α-synuclein
+Eosinophilic, Faint halo
+Lima (2012) Motor and non-motor features of Parkinson's disease
+Mensikova (2022) Lewy body disease or diseases with Lewy bodies?
+
+=== PAGE 30 ===
+Diagnosis of Parkinson’s Disease
+Motor symptoms (TRAP)
+• Tremor (resting)
+• Rigidity 
+• Akinesia/Bradykinesia
+• Postural instability
+Non-motor symptoms often precede motor symptoms can be very disruptive
+Non-motor symptoms
+• Anosmia – loss of smell
+• Sleep disturbance – insomnia, fragmentation
+• Autonomic – constipation, sialorrhea, excessive sweating
+• Neuropsychiatric – mood disorder, apathy, dementia
+• Expressionless face
+• Soft voice
+https://www.youtube.com/watch?v=sJqKvajUC3k
+
+=== PAGE 31 ===
+Cortex
+GPe
+STN
+Thalamus
+SNpc
+D2
+D1
+Basal Ganglia Circuit: Parkinson’s disease
+DA-D1: excitability     in DIRECT pathway to cortex
+DA-D2: excitability     in INDIRECT pathway to cortex 
+Caudate &
+Putamen
+SNr &
+GPi
+
+=== PAGE 32 ===
+DDx of Parkinsonism
+A diagnosis other than idiopathic PD should be suspected if symptoms are 
+symmetric, absence of resting tremor, or lack of response to DA-agents
+HEAD TRAUMA
+PD-like symptoms after various types of brain injury
+Particularly associated with prize fighting (Dementia pugilistica)
+MANGANESE (used in steel production) 
+Causes necrosis of the globus pallidus
+Toxins injure the brain in a way that produces PD-like symptoms.
+MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine)
+MPPP is a opioid analgesic drug 
+Incorrect production created MPTP→ crosses BBB.
+Neurotoxic effects in substantia nigra pars compacta
+“The case of the frozen addicts”
+Used in animal models of Parkinson’s
+
+=== PAGE 33 ===
+Treatment of PD
+Pharmacologically restore or aurgment dopamine
+     Dopamine precursor: Levodopa
+     D2 receptor agonist: Bromocriptine
+Pharmacologically decrease Ach activity
+      Benztropin
+Surgical lesion 
+ 
+Pallidotomy
+Virtual lesion 
+ 
+Deep brain stimulation
+All treatments impact symptoms, do not cure underlying cause
+
+=== PAGE 34 ===
+Hemiballismus
+Lesion of the subthalamic nucleus
+Results in motor dysfunction of one side of the body
+Spontaneous involuntary movements with rapid onset and 
+speed, i.e. ballistic
+Typically caused by local vascular occlusion
+-Decreased pallidal inhibition of thalamus (remember hyper-direct 
+pathway!)
+Movements can be improved with dopaminergic 
+antagonists, e.g. Haloperidol
+https://www.youtube.com/watch?v=RAATfknm1F4
+
+=== PAGE 35 ===
+•
+Inherited autosomal dominant disease.
+•
+Expansion of CAG repeats for encoding the protein huntingtin
+    Normal individuals have <30 repeats 
+     Individuals with >40 repeats have HD or will develop symptoms
+     Usually presents in 30-40s
+•  Progressive deterioration of motor function (chorea: rapid transient 
+     dance-like movements) and mental function (psychosis) 
+•  Death ~10-20yrs
+•  No effective treatment for the progressive dementia; 
+    Anti-dopaminergic medication for motor symptoms.
+Huntington’s Disease
+https://www.youtube.com/watch?v=RxWEilu-Mf4
+
+=== PAGE 36 ===
+Atrophy of striatum: caudate nucleus, putamen, and nucleus accumbens
+Disintegration of input nuclei of basal ganglia 
+Dilation of lateral and 3rd ventricles
+Huntington’s Disease
+
+=== PAGE 37 ===
+Treatments for different disorders can 
+induce PD-like symptoms
+D2 antagonists - antipsychotics and anti-emetics
+Rigidity, hypokinesia, resting tremor
+Abrupt onset, symmetrical symptoms
+Symptoms can persist for weeks after removal of offending 
+agent, and sometimes permanent symptoms
+“Tardive dyskinesia” – (“tardy” means “late”)
+     These syndromes present after a latency period following initiation of 
+     medications, > 3 months 
+     Often repetitive stereotypical movements of the mouth and tongue such are
+     chewing and smacking of the mouth and lips, tongue rolling or pushing 
+     against the inside of the cheek. 
+     Can be voluntarily suppressed, but returns upon distraction.
+
+=== PAGE 38 ===
+Summary
+• Basal ganglia is collection of nuclei communicating with cerebral cortex
+• Disinhibition is a prominent feature of internal processing
+• Three primary circuits in Albin-DeLong model: direct pathway (promoting 
+actions), indirect pathway (demoting actions), and hyper direct pathway 
+(global suppression of actions).
+• Some features of basal ganglia dysfunction can be understood with this 
+model
+
+=== PAGE 39 ===
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+Feedback is appreciated!

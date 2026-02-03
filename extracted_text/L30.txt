@@ -1,0 +1,501 @@
+
+=== PAGE 1 ===
+Supraspinal motor systems:
+cerebral cortex and brainstem
+Isaac Kurtzer, Ph.D. 
+Department of Biomedical Science
+ikurtzer@nyit.edu
+
+=== PAGE 2 ===
+Session Objectives
+1) Understand the origin and destination of descending cerebral motor tracts
+2) Identify the organization and destination of descending brainstem tracts
+3) Describe the organization and capabilities of the corticospinal tract
+4) Describe the organization and capabilities of the corticobulbar tract
+5) Understand the difference between upper and lower motor neurons and their 
+associated dysfunctions as well as brainstem damage
+Nolte’s The Human Brain: An introduction to its functional anatomy
+Chapter 18 Overview of motor systems
+"Motor Control Systems Involve Both Hierarchical and Parallel Connections" and afterwards.
+http://arktos.nyit.edu/login?url=https://www-clinicalkey-com.arktos.nyit.edu/#!/content/book/3-s2.0-B9780323653985000187
+
+=== PAGE 3 ===
+Lower motor neurons
+versus 
+Upper motor neurons 
+Nerves and ganglia are in PNS.
+Tracts and nuclei are in CNS.
+Lower motor neurons (also termed “motoneurons”) innervate 
+skeletal muscle.
+    Cells bodies in spinal cord or cranial nerve nuclei.
+     Their tracts rarely decussate.      
+      Their nerves never decussate.
+Upper motor neurons have cell bodies at the cerebral cortex 
+and brainstem. These project to lower motor neurons of the 
+brainstem and spinal cord, not to muscles. 
+ 
+Variety of projection patterns: some decussate, some 
+ 
+don’t, and some project bilaterally.
+
+=== PAGE 4 ===
+Confusing designation since only the corticospinal tract (for the body and limbs) forms the medullary 
+pyramids, not the corticobulbar tracts (for the cranial nerve nuclei).
+The pyramidal system = cerebral cortical 
+projections to the spinal cord and brainstem   
+
+=== PAGE 5 ===
+Pyramidal system involves several frontal areas 
+premotor cortex
+supplemental motor 
+area
+primary 
+motor cortex
+primary 
+motor cortex
+supplemental motor 
+area
+
+=== PAGE 6 ===
+Converging inputs to the pyramidal system
+Basal ganglia
+Cortical association
+areas
+Cerebellum
+Pyramidal system
+Spinal Cord
+These systems do not act on lower motor 
+neurons, but on upper motor neurons of the 
+cerebral cortex and brainstem.
+That’s why the basal ganglia and 
+cerebellum are called “extra-pyramidal”. 
+“Extrapyramidal symptoms” are 
+dysfunctions of the basal ganglia (typically) 
+and cerebellum.
+Cerebral cortex (e.g. pyramidal system) is 
+linked to ipsilateral basal ganglia and 
+contralateral cerebellum.
+
+=== PAGE 7 ===
+Regional specialization of pyramidal system
+Regions closer to the central sulcus contribute more fibers
+primary
+motor
+cortex
+(M1)
+ 
+% of fibers
+premotor
+cortex
+(PM) 
+supplemental
+motor
+area
+(SMA) 
+Primary motor cortex is the 
+single greatest contributor. 
+central sulcus
+Dum and Strick (1996) Spinal cord terminations of the medial wall motor areas in macaque monkeys.
+
+=== PAGE 8 ===
+Regions closer to the central sulcus are more directly related to muscle activity
+primary
+motor
+cortex 
+small 
+groups of 
+muscles
+Direct 
+Relation 
+to Action
+premotor
+cortex
+motor plans
+supplemental 
+motor area 
+action initiation, 
+action sequences
+Primary 
+motor
+cortex
+Premotor
+Cortex
+movement
+delay period
+Cisek (2003) Neural activity in primary motor and dorsal premotor cortex in reaching tasks
+delay period
+cue
+go
+movement
+Abstract 
+Relation 
+to Action
+Regional specialization of pyramidal system
+
+=== PAGE 9 ===
+Similar layout of somatosensory and motor 
+representations within cerebral cortex
+Motor homunculus (M1)
+Sensory homunculus (S1) 
+central 
+sulcus
+Left 
+Left, flipped 
+
+=== PAGE 10 ===
+The two paths of the corticospinal tract
+“Body-representation” fibers descend from cerebral cortex.
+At the lower medulla, 80-85% fibers decussate and form the
+lateral corticospinal tract.
+15-20% of fibers do not cross and descend ipsilaterally as 
+the ventral corticospinal tract. Most of these decussate in 
+the spinal cord.
+Thereby, cerebral cortex controls the contralateral body.
+M1, 
+PM, 
+SMA
+Internal 
+capsule
+Ventral 
+CST
+Lateral 
+CST
+Decussation
+
+=== PAGE 11 ===
+Corticospinal fibers converge and pass 
+downward through the posterior limb of the 
+internal capsule*, continue as the crus 
+cerebri, disperse in the ventral pons, regroup 
+in the medulla and come to the ventral surface 
+as the pyramid where they mostly decussate at 
+the lowermost portion and descend the spinal 
+cord to their relevant level.
+Damage to anywhere above decussation leads 
+to motor deficits on the contralateral side of the 
+body.
+Damage to the lateral spinal cord leads to motor 
+deficits on the same side.
+Corticospinal tract
+pons
+CC
+
+=== PAGE 12 ===
+Lesion of corticospinal tract 
+(upper motor neuron)
+• Impaired voluntary movement
+• Diminished strength, speed, and agility
+• Proximal joints and axial movements are less severely affected
+• Positive clinical symptoms reflect the “release” of brainstem and spinal 
+circuits previously dormant or well-managed. 
+• Increased stretch reflexes, abnormal synergies, & babinski sign
+• Stroke, spinal cord injury, multiple sclerosis, cerebral palsy
+
+=== PAGE 13 ===
+Augmented stretch reflexes
+Abnormal “synergies”
+Healthy
+Involuntary elbow and wrist 
+flexion especially  during arm 
+abduction
+Thillman et al (1991) The mechanism of spastic muscle hypertonus. 
+Variation in reflex gain over the time course of spasticity.
+Lesion of corticospinal tract (upper motor neurons)
+Clinical
+Spasticity from stroke or spinal cord damage can take days to weeks to develop. 
+The immediate motor symptom is weakness and flaccidity called “spinal shock”.
+Altered walking
+https://www.youtube.com/watch?v=y160w4sAQNw
+“Circumduction gait” - compensates 
+for poor weight-bearing and ability 
+to lift leg 
+
+=== PAGE 14 ===
+Normally present for infants < 1 year
+Also post-seizure states via 
+diminished/altered pyramidal control 
+Babinski sign
+Lesion of corticospinal tract (upper motor neurons)
+Normal
+
+=== PAGE 15 ===
+Flaccid paralysis (as opposed to spastic paralysis)
+•
+Diminished voluntary strength
+•
+Diminished reflexes & muscle tone
+•
+Fasciculations (spontaneous muscle twitches) 
+•
+Muscle atrophy (takes time)
+Example shows atrophy of left deltoid due to 
+damage of axillary nerve.
+Lesion of ventral horn (lower motor neuron) 
+or its efferent nerve
+Eichinger (2016) Outcomes following closed axillary 
+nerve injury  
+
+=== PAGE 16 ===
+More ventral origin than corticospinal tract.
+ 
+Projects to cranial nerve nuclei in the brain stem. 
+            
+Cerebral cortex = “upper motor neurons” 
+ 
+Cranial nerve nuclei = “lower motor neurons”
+Corticobulbar tract
+
+=== PAGE 17 ===
+Corticobulbar tract
+Bilaterally innervates cranial nuclei controlling jaw, tongue, 
+larynx, pharynx, and scm/upper trapezius. 
+EXCEPT: Fibers projecting to facial nucleus show 
+distinctive pattern:  
+Contralateral nucleus receives innervation from whole 
+corticobulbar tract (upper and lower face).
+Ipsilateral facial nucleus only receives innervation for 
+controlling upper face.
+No redundancy for lower face. No compensation for loss.
+Input to all other nuclei is bilateral though hypoglossal has 
+more from contralateral cerebral cortex, i.e. partial 
+compensation with tongue control.
+XI motor neurons
+(head turn/shrug)
+XI motor neurons
+(head turn/shrug)
+
+=== PAGE 18 ===
+Lesioning corticobulbar tract (upper motor neuron)
+Remember forehead /eyebrow cortical motor 
+neurons project bilaterally to facial motor nuclei, 
+but cheek cortical motor neurons only project 
+contralaterally to facial motor nuclei
+Patient can raise their eyebrows and close 
+eyelids, but cannot voluntarily move their lower 
+1/2 of face
+CN 7/Facial nerve
+Motor issues from a unilateral lesion of the corticobulbar 
+track can also include the tongue -> 
+deviation away from the lesioned side of cerebral cortex.
+
+=== PAGE 19 ===
+Lesioning corticobulbar tract (upper motor neuron)
+Remember forehead /eyebrow cortical motor 
+neurons project bilaterally to facial motor nuclei, 
+but cheek cortical motor neurons only project 
+contralaterally to facial motor nuclei
+Patient can raise their eyebrows and close 
+eyelids, but cannot voluntarily move their lower 
+1/2 of face
+Motor issues from a unilateral lesion of the corticobulbar 
+track can also include the tongue -> 
+deviation away from the lesioned side of cerebral cortex.
+"Overview of Motor Systems" Nolte's The Human Brain, 
+Eighth Edition  
+
+=== PAGE 20 ===
+Flaccid paralysis: loss of muscle tone and voluntary 
+movement of affected muscles, and atrophy of muscle
+•
+Idiopathic paralysis of facial nerve (CN VII)
+•
+Inability to control the affected side of face
+•
+Sudden onset, often resolves without intervention
+•
+Also issues with tearing, hearing, taste, and 
+salivation
+Lesion of cranial nerve or nuclei
+(lower motor neuron)
+Bell’s palsy
+
+=== PAGE 21 ===
+•
+Destruction of the hypoglossal nucleus or 
+nerve
+•
+Tongue deviates to the weak side due to 
+unopposed action of contralateral 
+genioglossus muscle
+Lesion of cranial nerve or nuclei
+(lower motor neuron)
+Hypoglossal nerve palsy
+Determining whether UMN or LMN requires 
+looking at other possible symptoms.  
+Facial control? What about the hand?
+Limited cortical stroke could 
+have similar features
+Haines (2026) Fundamental Neuroscience for Basic and Clinical Applications. 
+Cruz (2014) Unilateral lingual paralysis after isolated unilateral infarction in the primary 
+motor cortex
+R
+L
+R
+L
+R
+L
+
+=== PAGE 22 ===
+Broca’s area is spatially aligned 
+with the facial homunculus
+premotor cortex
+supplemental motor 
+area
+primary 
+motor cortex
+posterior 
+parietal 
+cortex
+primary 
+somatosensory 
+cortex
+Broca’s 
+area
+High order motor control specific for language.
+Damage leads to ‘expressive aphasia’.  Inability to 
+produce fluid spontaneous speech. May be able to 
+produce some words, but few and at great effort.  
+Facial expressions, laughter, chewing, mouth 
+opening, and swallowing are unaffected!
+https://www.youtube.com/watch?v=RMa9BVpJkYQ
+
+=== PAGE 23 ===
+PPRF
+area 8
+T
+A
+O
+“Frontal eye fields” control
+voluntary eye movements
+Area 8: superior and middle frontal gyri anterior to premotor cortex and supplemental motor area
+Receives inputs from visual cortical areas (contralateral hemifield), send axons to reticular formation. 
+Activity causes eye movements to the contralateral hemifield!
+Lesions cause eyes to tonically deviate to same side, and deficits towards contralateral hemifield. 
+
+=== PAGE 24 ===
+Brainstem nuclei for limb & 
+axial control
+Red nucleus – midbrain
+Reticular formation – pons and medulla
+Vestibular nucleus – medulla  
+Primarily control 
+proximal and axial 
+musculature, i.e. 
+approximate reverse of 
+cortical homunculus.
+
+=== PAGE 25 ===
+Brainstem tracts: 
+Rubrospinal tract
+- In midbrain 
+- Contralateral upper limbs
+- Very small tract in humans, but large in monkeys (typical 
+animal model)
+- Red nucleus is very large in humans and has strong 
+linkage to cerebellum 
+Red nucleus
+decussation
+Rubrospinal 
+tract
+Cervical 
+enlargement
+
+=== PAGE 26 ===
+- Nuclei in pons & medulla give rise to medial & lateral tracts
+- Quite large but understudied (technically difficult)
+- Often bilateral action of single neurons
+- Receives commands from reticular formation and cerebral 
+cortex
+Brainstem tracts: Reticulospinal tract
+
+=== PAGE 27 ===
+Brainstem tracts: Reticulospinal tract
+Musienko (2012) Spinal and supraspinal control of the direction of stepping during locomotion
+MLR
+(mesecephalic
+locomotor
+region)
+- Stimulation leads to forward location
+Asymmetrical tonic reflex – elbow flexion when head turns away, other 
+arm extends. Present in infants, re-expressed with cortical stroke
+Startle reflex - protective shoulder shrug and elbow flexion 
+elicited by loud unexpected sound
+
+=== PAGE 28 ===
+- Medial vestibulospinal tract controls head and neck 
+- Lateral vestibulospinal tract has strong extensor 
+activation for limb and axial muscles, e.g. activation 
+will extend ipsilateral legs
+- “Anti-gravity” function
+Brainstem tracts: Vestibulospinal tract
+Medial 
+longitudinal 
+fasciculus
+Cervical 
+enlargement
+Lumbosacral 
+enlargement
+Medial 
+Vestibulospinal 
+tract
+Lateral 
+Vestibulospinal 
+tract
+Vestibular 
+nucleus
+Cerebellum and CN VIII
+
+=== PAGE 29 ===
+Lesion above red nucleus (above superior colliculus)    
+             hyper-activity of reticular system, red nucleus, 
+& vestibular nuclei
+“Decorticate posture”
+– LE extended
+– UE flexed
+“Mummy pose”
+Severe brain injury reveals overexpression 
+of these brainstem systems
+
+=== PAGE 30 ===
+“Decerebrate posture”
+– LE extended
+– UE extended
+Even more severe
+Severe brain injury reveals overexpression 
+of these brainstem systems
+Lesion below red nucleus (below superior colliculus)    
+             hyper-activity of reticulospinal and vestibular 
+nuclei
+
+=== PAGE 31 ===
+“Locked-In” syndrome
+• Pontine lesion interrupts corticospinal & corticobulbar tracts
+• Lose all voluntary control, except some eye movements and blinks
+• Remain conscious and aware, normal sleep-cycle
+      but “locked in” their body.  
+• Difficult to determine missed cases, misdiagnosed as
+      persistent vegetative state
+Improved technology to allow faster interactions
+X
+
+=== PAGE 32 ===
+Summary
+•
+The corticospinal tract arises from the precentral gyrus (mostly M1) and 
+rostral adjacent cortex (PMC and SMA) and projects to the contralateral spinal 
+cord.
+•
+The corticobulbar tract arises from the same areas and projects bilaterally to 
+the cranial nerve nuclei, excepting the facial nucleus.
+•
+Upper motor neuron damage can be expressed as weakness and spastic 
+paralysis whereas lower motor neuron damage is expressed flaccid paralysis.
+•
+Different descending brainstem tracts have different projection patterns.
+•
+Damage above and below the red nucleus leads to decorticate and 
+decerebrate rigidity, respectively.
+
+=== PAGE 33 ===
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+Feedback is appreciated!

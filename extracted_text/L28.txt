@@ -1,0 +1,712 @@
+
+=== PAGE 1 ===
+1
+Anatomy & Physiology of the 
+Neocortex
+PPOM1
+•
+Raddy L. Ramos, PhD
+•
+Assoc. Prof, Biomedical Sciences
+•
+Email: rramos02@nyit.edu
+•
+Justin Thomas Popp
+•
+OMS 4
+•
+Email: Jpopp@nyit.edu
+
+=== PAGE 2 ===
+Session objectives
+• Students will be able to describe the gross organization of the 
+neocortex in relation to other structures in the brain as well as 
+organization according to major lobes, fissures, sulci, and gyrii.
+• Students will be able to describe the anatomy of neocortical 
+connections including those associated with intracortical, 
+intercortical, and subcortical circuits.
+• Students will be able to describe the basic cytoarchitecture of the 
+neocortex as it relates to its six layers.
+• Students will be able to describe the anatomy of the major neuron 
+types of the neocortex including the basic physiology of these 
+neurons.
+• Students will be able to describe the physiology of neocortical 
+neurons as it relates to sensation, voluntary motor function, 
+attention, and higher mental processes
+
+=== PAGE 3 ===
+Neocortex: organized by sulci, gyri, & lobes. 
+Axonal stain
+MRI
+Unstained
+Cell body stain (Nissl) stains Nissl 
+bodies, which are ER and 
+ribosome of neurons
+http://neurosciencelibrary.org/Specimens/primates/human/brain/human8sect6.jpg
+•
+It would take over a week to discuss every part 
+of the neocortex. We are covering the major 
+lobes and gyri, involved in sensation, 
+perception behavior etc.
+In vivo
+• Gray matter= 
+cell bodies of 
+neurons
+• White matter 
+= axons
+
+=== PAGE 4 ===
+Cyto-architecture of the neocortex
+What is the distribution, density, and/or pattern of cells in the neocortex?
+Neocortex has a 6-layered cytoarchitecture. Layer 1 has very few neurons and mostly axons
+• Sulci
+• Gyri
+• Box shows 
+pyramidal cells, 
+see next slide
+Layer 1
+• This is nissl stain
+
+=== PAGE 5 ===
+Cytology of the neocortex
+~ 85% of cortical neurons are pyramidal (Make + release Glutamate, spiny 
+dendrites)
+~ 15% are non-pyramidal neurons (Make and release GABA, non-spiny 
+dendrites) Not seen here, need different stain
+~ 75% of all cells in neocortex are glia i.e astrocytes, oligodendrocyte, microglia 
+(Circled in picture)
+Remember parts 
+of the neuron?
+Axon going to 
+Sub-cortical 
+white matter
+Pyramidal neuron, spiny dendrites 
+seen 
+
+=== PAGE 6 ===
+4 prototypical types of connections made 
+by neocortical excitatory neurons:
+1. Local cortico-cortical
+- within one area
+     - across/within layers
+2. Long range cortico-cortical
+- from one area to another
+3. Interhemispheric/callosal
+- generally homotopic areas in 
+opposite hemispheres
+4. Subcortical
+- thalamus, tectum, basal
+ganglia, limbic system, spinal cord
+Ex 1. Motor cortex projections 
+to contralateral motor cortex 
+and caudate + BG
+Ex 2. Somatosensory cortex 
+projections to contralateral 
+cortex and thalamus
+•
+These connections underpin the biology that drive complex 
+human behaviors such as emotional regulation, empathy, 
+morality, as well as sensorimotor integration etc
+•
+Makes it very very hard to understand what neural 
+pathways are responsible for what emotions i.e what neural 
+pathways are aberrant in generalized anxiety disorder?
+1
+1
+1
+1
+2
+2
+3
+4
+• Dye fills the neurons at the site of 
+injection and labels the axon targets of 
+those neurons.
+
+=== PAGE 7 ===
+Understanding difference in the cytoarchitecture *** of the different lobes, 
+gyri and sulci in various parts of the neocortex, as well as using functional 
+maps will help one understand how the neocortex works
+1. Major gyri are often distinct functional zones separated by major 
+sulci.
+-ex. central sulcus divides motor & somatosensory
+areas
+2. Brodman’s areas (1909) largely align with functional zones.
+- ex. auditory cortex & visual cortex. About 50 areas divided based 
+on histology of the tissue. Structure and function related, histological 
+differences differentiate/define tissue function relatively accurately
+• ***Red arrows point 
+to Betz neurons. 
+Unique to layer 5b of 
+the primary motor 
+cortex.  Send 
+projections via corona 
+radiata to 
+corticospinal tract. 
+Example of unique 
+cytoarchitecture 
+found in only one 
+layer of the neocortex. 
+Affected in ALS
+
+=== PAGE 8 ===
+Functional Neuroanatomy of the Neocortex: past & present
+•
+Clinical case reports documented brain injury, neoplasm, vascular accident, etc. in a specific area of the brain with 
+a correlated behavioral/clinical deficits ex) Wernicke's/Broca's area. Injury provides a clue of function 
+ 
+- Requires rigorous histopathology or sophisticated imaging (MRI), not all injury or pathology is similar in 
+extent or location among different patients (difficult to interpret)
+•
+Functional MRI useful for learning about brain activity in specific regions during behavioral, sensory or motor 
+tasks 
+•
+- Behavior limited in MRI environment and resolution is limited. Does not record single neuron, rather large groups 
+of neurons
+•
+Electrical brain stimulation coupled with behavioral observation during neurosurgery
+ 
+- Stimulation probably being performed during surgery for tumor or epilepsy treatment. Helps surgeon also to 
+know what pathways to possible avoid in surgery, ex) don’t cut out or damage Broca's area when excising this CNS 
+lymphoma. Limited regions sampled and not a healthy brain. Studies have caveats with this technique
+•
+Electrical recording of neuronal activity during behavior/cognitive task
+ 
+- Recoding probably being performed during surgery for tumor or epilepsy treatment. Limited regions 
+sampled and not a healthy brain. Both stimulation and recording can be done before a surgery to remove some lesion
+How do we learn about what the function of different parts of the human neocortex? 4 major ways
+
+=== PAGE 9 ===
+Frontal lobe/PFC: executive & 
+voluntary motor function 
+including speech, emotion, 
+cognition.
+•
+Executive functions (EF) are a collection of distinct but related cognitive 
+functions that typically refer to aspects of cognition and behavior required 
+to successfully execute complex tasks (Denckla, M. B. 1996).
+•
+Frontal lobe/ PFC functions include but not limited too: setting and 
+maintaining goals, planning, delayed gratification, organizing, 
+initiating, inhibiting, self-monitoring and evaluating, thinking and 
+acting strategically, problem-solving, shifting flexibly among cognitive 
+and affective sets, deliberately controlling cognitive functions, and 
+managing moment-to-moment events. 
+•
+Behavior at work vs with family 
+•
+A cognitive set governs a person's thinking and information processing, 
+while an affective set guides their emotional responses
+•
+Also remember the pre-motor cortex and supplementary motor area are in 
+the frontal lobe, which means frontal lobe has a role in planning, 
+organizing and executing complex motor tasks
+All cortical areas are connected to 
+numerous other cortical areas as well as 
+subcortical areas
+
+=== PAGE 10 ===
+Frontal lobe, mood and psychiatric disease
+*Psychiatric disease is associated with changes in frontal lobe function & neuroanatomy*
+Uchino et al. 2001 Cranial MR Imaging of Sequelae of Prefrontal Lobotomy
+•
+Frontal lobotomy developed in the mid 
+1930’s to treat psychiatric disease (eg 
+schizophrenia) by severing connections to 
+frontal lobe. MRI of 2 patients shown 
+below.
+•
+Procedure is very effective in blunting mood 
+and affect and relieving clinical symptoms 
+esp. in suicidal patients. No longer in use 
+due to advances in pharmacotherapy and 
+ethical issues, mortality, etc.
+Szczepanski and Knight 2015
+https://www.aaroncohen-gadol.com/en/patients/meningioma/overview
+Frontal lobe meningiomas or other 
+tumors 
+can 
+be 
+associated 
+with 
+depression, schizophrenia or other 
+psychiatric disorders.
+•
+Phineas Gage 1848 had an iron rod pierce through his orbitofrontal cortex (PFc). Before 
+the incident, Gage was a loving husband and father. After the incident became short-
+tempered, brash, and prone to devise and then immediately abandon any plans he made.
+•
+Great case study of frontal lobe injury leading to changes in personality, affect, 
+social behavior, etc.
+
+=== PAGE 11 ===
+SC Lanata & BL Miller 2016
+Deficits in Executive Function
+Poor decision-making, judgment, problem-solving, and organizational 
+skills. Examples include: Difficulty planning the day’s activities,  
+Questionable financial decisions, On-the-job mistakes.
+Disinhibition: A loss or lack of restraint based on social norms, leading to 
+inappropriate behavior and impulsivity. Behaviors may include: 
+- Making uncharacteristic rude or offensive comments → Boards 
+questions will usually include this in stem
+- Ignoring other people’s personal space, reckless spending
+- Touching strangers or inappropriate sexual behavior
+-
+Aggressive outbursts or Apathy
+•
+Onset is usually between 45-65 years old. Younger than Alzheimer's 
+Disease 
+Indifference or lack of interest in previously meaningful activities. 
+Behaviors may include: Loss of interest in work, hobbies, and personal 
+relationships, Neglect of personal hygiene.
+Loss of initiative, Emotional Blunting, Loss of warmth, empathy, or 
+concern for others. Behaviors may include: Indifference to important 
+events (e.g., death of a family member or friend); Failure to recognize that 
+loved ones are upset or unhappy, Compulsive or Ritualistic Behaviors, 
+Single behaviors or routines that are performed over and over. 
+Adapted from https://www.theaftd.org/
+bvFTD; behavioral variant FrontoTemporal Dementia/Degeneration
+bvFTD patient
+Caused by mutations in MAPT - tau
+Tau aggregates
+
+=== PAGE 12 ===
+PPRF
+area 8
+•
+Cortical area 8, 
+Sends projections to brainstem 
+(Paramedian Pontine 
+Reticular Formation)→ PPRF 
+then projects to abducens and 
+oculomotor nuclei to carry out 
+eye movement 
+T
+A
+O
+Frontal lobe area 8
+•
+Found in parts of superior and middle frontal gyri.
+•
+Receives inputs from visual cortical areas. 
+•
+Electrical stimulation causes eye movements.
+•
+Electrical recordings show action potentials in area 8 neurons before eye movements.
+•
+Area involved in imitation/planning of the eye movement
+•
+Lesion/injury to Area 8 cause deficits in voluntary eye movement 
+• Vital for rapid, saccadic 
+voluntary eye 
+movements 
+
+=== PAGE 13 ===
+Primary Motor Cortex
+Precentral Gyrus
+•
+Produces voluntary motor 
+movements via projections to 
+spinal cord
+•
+Many more neurons devoted 
+for movement of the fingers 
+and face musculature.
+• Afferents from motor, 
+vestibular, sensory  
+systems. i.e catching a 
+football with your 
+hands or catching 
+yourself from tripping 
+down the stairs
+• Efferents to thalamus, 
+brainstem, spinal cord, 
+basal ganglia for 
+voluntary motor 
+movements.
+• Electrical stimulation 
+causes muscle twitches.
+
+=== PAGE 14 ===
+Control of prostheses with neuronal activity from primary motor cortex
+https://www.braingate.org/publication-videos/
+• Intact motor cortex with a 
+spinal cord injury → 
+encode neuronal activity 
+from motor areas  and put 
+that information into a 
+computer to control a 
+protistic limb to bypass the 
+injured spinal cord. 
+• This can help patients who 
+have spinal cord injuries
+
+=== PAGE 15 ===
+Video
+https://www.nbcnews.com/health/health-
+news/paralyzed-woman-gets-robotic-arm-she-
+controls-her-mind-flna2910144
+
+=== PAGE 16 ===
+Cortical anatomy of speech production
+• Named by Paul Pierre Broca. Broca’s 
+area in frontal lobe. Broca’s aphasia 
+(Pierre1861): difficulty with production of 
+spoken language (also called 
+‘expressive aphasia’).
+https://doi.org/10.1093/brain/awm042
+Receives inputs from auditory and motor areas.
+
+=== PAGE 17 ===
+1. Somatotopy – map of dermatomes
+2. Many more neurons devoted for sensation 
+of the skin on the fingers and face.
+Postcentral Gyrus
+Parietal lobe:
+• Contains Primary Somatosensory cortex 
+(S1)
+• Higher order sensory processing (visual-
+spatial attention)
+
+=== PAGE 18 ===
+Right Posterior parietal lobe damage: 
+Spatial Hemineglect
+•
+Hemi-neglect: Lack of attention toward one side of the body & one side of the world. Will put clothes or makeup 
+on one side of the body. Not a vision problem. This is an issue of higher-level processing of the afferent 
+incoming sensory stimuli.
+•
+Usually seen with large lesions/ injury to right (usually non dominant) posterior parietal lobe. Artery supplying 
+this brain region is the Right MCA.  Right posterior parietal lobe involved in spatial processing for both left and 
+right sides.  
+•
+Right posterior parietal lobe seems to play role in visual appraisal/ attention to world around us. Primary visual 
+cortex has projections to parietal lobes. (Another lecture)
+•
+May present after a R MCA stroke
+•
+Patient asked to copy 
+of model picture 
+shown left.
+•
+Pts try to copy 
+from  memory, but 
+they draw the 
+clock/house/etc that is 
+missing the left hand 
+side of the images.
+•
+Patient asked to draw line 
+through middle of lines. 
+Left hemineglect
+https://pn.bmj.com/content/15/5/333.full
+•
+Patient asked to 
+circle all small stars. 
+**All the tests shown are administered by 
+putting the paper right in the middle of 
+their face so that left and right visual fields 
+can be assessed. When this Is done, the 
+patient only fills out one side of the paper, 
+likewise in the crossing the lines task or the 
+circle the stars task.
+
+=== PAGE 19 ===
+• Anatomist Dejerine 1891: 
+deficits in writing & reading 
+words (can also affect numbers)
+https://pure.mpg.de/rest/items/item_2310098/component/file_2453477/content
+Parietal Lobe: Angular Gyrus 
+•
+Lesions to Angular gyrus (part of inferior parietal lobule) lead to agraphia w/ alexia: deficits in writing (agraphia) & 
+reading words (alexia). Vital area for assigning meaning to words
+•
+Angular gyrus is a heteromodal association area. Meaning it integrates sensory information from visual, auditory 
+as well as sensory areas. Thus, it helps link areas of the brain associated in memory, spatial cognition and 
+language together.
+•
+Angular gyrus shows increased activity in fMRI during reading and writing
+•
+May also see some math calculation issues → see next slide
+
+=== PAGE 20 ===
+Gerstmann’s syndrome:
+is a dominant hemisphere stroke syndrome 
+affecting the left (inferior) parietal lobe in the 
+region of the left angular gyrus, consisting 
+of four clinical signs:
+– Dysgraphia/Agraphia→ writing deficits 
+– Dyscalulia/Acalculia: impaired arithmetic calculation abilities
+– Right-left disorientation: difficulty identifying right vs left side of body
+– Finger agnosia: inability to name or identify individual fingers
+Spatial/ 
+attention 
+defects
+
+=== PAGE 21 ===
+Occipital lobe: visual function
+Shape
+Size
+Location
+Orientation
+Spatial frequency
+Color
+Movement…
+topic of future lecture…
+• Arrows show how visual information created in visual cortex can project 
+to areas in parietal and temporal lobes involved in higher order functions 
+related to visual inputs.
+• Occipital lobes  
+projections to  
+higher order 
+processing areas 
+• Creation of image in 
+the occipital lobe, 
+appraisal/processing 
+occurring elsewhere
+• Much more info in 
+other lectures
+
+=== PAGE 22 ===
+•
+Primary auditory cortex→ damage leads to auditory deficits
+•
+Wernicke’s aphasia: in the inability to comprehend spoken language and
+often confabulation (also called ‘receptive aphasia’)
+– Area helps us listen to speech and then respond propel with fluent language .
+Temporal lobe: 
+Audition & memory, higher order visual processing, 
+spatial navigation (fMRI of taxicab drivers increased activity), speech 
+comprehension.
+
+=== PAGE 23 ===
+Temporal lobe areas that show 
+increased activation following 
+presentation of faces:
+1. Fusiform Gyrus/Face Area (FFA),
+2. Superior Temporal Sulcus (STS)
+3. Lateral occipital area
+Prosopagnosia: Inability to recognize faces
+after damage to inferotemporal lobe (FFA).Blur of face when pt is 
+asked. Still recognize voice of person. Different neural pathway 
+involved with that 
+Temporal lobe:
+Audition (future lecture) & memory , higher order 
+visual processing, spatial navigation.
+FFA damage 
+
+=== PAGE 24 ===
+https://www.jneurosci.org/content/32/43/14915
+• Electrical implants placed 
+into fusiform face area
+• Stimulation perturbed FFA 
+neuron physiology and 
+distorted pts perception of the 
+clinician’s face
+• FFA increased blood flow on 
+fMRI when showing a person 
+pictures of faces
+
+=== PAGE 25 ===
+Video
+
+=== PAGE 26 ===
+MTL vulnerable to injury after head trauma
+Stern et al. 2011 / 2012 Mar 12;1:2. doi: 10.1186/2193-1801-1-2. 
+MTL vulnerable to injury in Alzheimer's 
+disease
+Normal                       Pro football player
+Normal                               Patient w/ AD
+Neuropathological and transcriptomic characteristics of the aged 
+brain. Miller JA, et al. Elife. 2017. PMID: 29120328
+Tau staining → neuronal injury marker
+Medial Temporal Lobe
+•
+Whether Tau accumulation is the cause of memory loss or some 
+event preceding tau creation is essentially unknown at this point
+•
+Damage/neuronal pathology correlated with loss of memory 
+function
+
+=== PAGE 27 ===
+Insular Cortex and Cingulate Cortex
+Axonal stain
+MRI
+Unstained
+Cell body stain
+•
+Poorly 
+understood 
+areas 
+compared to 
+primary 
+sensory 
+areas
+
+=== PAGE 28 ===
+Connectivity of the Insular cortex 
+Fermin AS et al. 2022
+Insular cortex- diverse functions including: Gustation, olfaction, vestibular, pleasure, reward & addiction, visceral & autonomic 
+functions. Receives input related to these areas. A hub for interoception and translation interoceptive inputs into conscious feelings. 
+Damage to insular lobe can cause different clinical pictures. 
+•
+Insular cortex is activated in tasting rancid food as 
+well as stimuli that are deemed to be morally 
+disgusting (violence) via fMRI. Robert M. 
+Sapolsky. (2023). Determined: A Science of Life 
+without Free Will. Penguin Publishing Group.
+
+=== PAGE 29 ===
+•
+Insula is necessary for 
+the ability to 
+consciously appreciate 
+and derive pleasure 
+•
+Necessary for the 
+sensation of urges – 
+like the urge to smoke 
+seen in smokers.
+•
+Possibly area to target 
+with novel drugs or 
+TMS in the future.
+Naqvi et al 2007.
+
+=== PAGE 30 ===
+Electrical stimulation of the insula elicits taste sensation
+Jennifer Yih et al Social Cognitive and Affective Neuroscience, Volume 14, Issue 4, April 2019, Pages 339–
+351, https://doi.org/10.1093/scan/nsz015
+Subject 15 was an especially compelling case study as she reported a chocolate taste at lower intensity, 
+which became a distasteful `bad’ chocolate taste with increased dose and duration of stimulation to 
+the same electrode pairing. In one instance, subject 15 even made a disgusted expression with her face, 
+which had been neutral in prior stimulations (Video 1).
+Pt undergoing 
+neurosurgery. Insula is 
+being stimulated 
+
+=== PAGE 31 ===
+Bilateral anterior 
+Cingulotomy for drug-
+resistant depression or OCD
+1 wk after surgery; Sam-Eljamel 2008
+Surgery is safe and can be effective depending on numerous factors…
+Cingulate cortex: cognition, emotion, memory (Papez circuit), 4F’s
+This patient suffered from metastatic bone pain which was completely eliminated after 
+surgery and the effect remained for 20 months.  (Yen CP et al. 2005)
+Bilateral anterior Cingulotomy 
+for the treatment of chronic pain
+Cingulotomy also considered for Postherpetic Neuralgia & Trgeminal Neuralgia
+• Feeding, fighting, flighting, 
+fornicating
+
+=== PAGE 32 ===
+Cingulotomy performed at Columbia U/ NY Presbyterian in NYC 
+www.neurosurgery.columbia.edu/patient-care/treatments/cingulotomy
+
+=== PAGE 33 ===
+
+=== PAGE 34 ===
+Summary slide
+• The entire neocortex has a characteristic cytoarchitecture based on 
+lamina of radially-oriented pyramidal cells with diverse projections.
+• Different cortical areas produce sensory, motor, or cognitive functions 
+specific to particular modalities. These functional areas are created by 
+the synaptic connections made within and across the neocortex as well 
+as from synaptic input from subcortical brain regions. I.e thalamus
+• Injury to a particular neocortical brain area will result in specific 
+change in behavior or cognitive function which can be identified by a 
+physician.
+
+=== PAGE 35 ===
+Question
+• A 55-year-old man is brought into the family medicine clinic because of recent change in 
+behavior over the last 2 years. Once a sweet and reserved man the patient is now yelling 
+obscene comments at his coworkers on the job. His wife also reports that he is gotten 
+much ruder, and less empathetic to her needs over the last 2 years as well. He also has 
+spent $40,000 in the last month gambling. What is the most likely diagnosis and gene 
+associated with the diagnosis
+• A)  PARK2- Parkinson's
+• B) HTT- Huntington's 
+• C) APOE- Alzheimer's Disease
+• D) SOD1– Amyotrophic lateral Sclerosis
+• E) MAPT Frontotemporal Dementia
+
+=== PAGE 36 ===
+Answer
+• E) MAPT Frontotemporal Dementia
+
+=== PAGE 37 ===
+Question
+• A 38-year-old man gets hit in the head by a rock that was thrown at 
+him. It is noticed that the man cannot voluntarily move his eyes 
+from side to side. What brain area is most likely affected?
+• A) Temporal lobe (hippocampus)
+• B) Fusiform gyrus 
+• C) Broca’s Area
+• D) Wernicke's Area
+• E) Frontal Area 8
+
+=== PAGE 38 ===
+Answer
+• E) Frontal Area 8
+
+=== PAGE 39 ===
+Question
+• A pt suffers an ischemic stroke of the Right MCA. About a week after the stroke while the pt is 
+recovering in the hospital, a family member noticed the pt only eating food in the right side of his plate. 
+when asked to draw a clock he does this. What's the most likely diagnosis? 
+A) Prosopagnosia
+B) Broca’s aphasia 
+C) Angular gyrus lesion
+D) Gerstmann's syndrome 
+E) Hemi-spatial neglect
+
+=== PAGE 40 ===
+Answer
+• E) Hemi-spatial neglect
+
+=== PAGE 41 ===
+Question
+• A 27 year old patient is undergoing neurosurgery and the neurosurgeon is 
+placing electrodes into the brain of a patient. In order to map out a pathway 
+to dissect a tumor properly, the surgeon is stimulating a certain region of the 
+brain in order to map what the function of the specific area is. Upon heavy 
+electrical stimulation, the patient describes tasting rancid butter and is clearly 
+in disgust. What area was most likely stimulated area?
+A) Fusiform face area 
+B) Insular cortex
+C) Broca’s area 
+D) Frontal lobe area 8
+E) Angular gyrus 
+
+=== PAGE 42 ===
+Answer
+• B) Insular cortex
+
+=== PAGE 43 ===
+Question
+• A patient suffers an ischemic stroke in a branch of the left MCA. Upon 
+recovering in the hospital, a family member has noticed that the patient is 
+having trouble calculating in how many hours his daughter will visit him. A 
+nurse on staff also notes that the patient is now confusing is left side from his 
+right side and that he keeps stating his middle fingers are his pinkie fingers. 
+What brain region is most likely damaged from this stroke?
+A) Non dominant parietal lobe (Right)
+B) Temporal lobe 
+C) Occipital lobe 
+D) Insular cortex 
+E) Left angular gyrus ( left inferior parietal lobe)
+
+=== PAGE 44 ===
+Answer
+• E) Left angular gyrus ( left inferior parietal lobe)
+
+=== PAGE 45 ===
+Feedback is welcomed
+45
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL
+4R
+Input
+Output
+Feedback

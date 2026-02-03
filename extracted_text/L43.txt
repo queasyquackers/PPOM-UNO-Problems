@@ -1,0 +1,279 @@
+
+=== PAGE 1 ===
+Office of Academic Affairs 
+Pharmacology: Multiple Sclerosis (MS)
+Maria A. Pino, Ph.D
+Department of Clinical Specialties
+mpino@nyit.edu
+
+=== PAGE 2 ===
+Source: Course Syllabus
+1.  Review the pathogenesis of Multiple Sclerosis (MS).
+2. Describe the drugs used for acute flare-ups of MS, mainly  
+glucocorticoids. Identify adverse effects.
+3. Describe the use of immunotherapy for the treatment  of 
+MS.  Focus on the pharmacological target and adverse 
+effects.
+4.    Describe supplemental treatments for MS. Include           
+ mechanisms and adverse effects.
+ 
+Session Objectives
+
+=== PAGE 3 ===
+• Relapsing or progressive autoimmune disease
+• Involves inflammation, demyelination, plaques, neuronal loss.
+• B cell and T cell mediated (TH1), (TH17).
+• Sensory symptoms, optic neuritis, weakness, spasticity, 
+fatigue, urinary incontinence, depression, erectile dysfunction
+• Female > males
+• Young > older adults
+• Genetics, smoking, virus exposure
+• Low vitamin D levels?
+Multiple Sclerosis (MS)
+
+=== PAGE 4 ===
+Pathogenesis of Multiple Sclerosis
+https://openi.nlm.nih.gov/detailedresult.php?img=PMC4610886_ndt-11-2675Fig1&req=4
+
+=== PAGE 5 ===
+• Acute: glucocorticoids (prednisone,  IV methylprednisolone).  Optic 
+neuritis treatment.
+• Relapsing-remitting: Immunotherapy. Slow disease progression.
+ -Anti-CD52 drug (IV)
+ -Dimethyl fumarate (oral)
+ -Fingolimod (oral)
+ -Glatiramer acetate (sq)
+ -Interferon beta (sq, IM)
+ -Natalizumab (IV)
+ -Anti-CD20 drugs (IV)
+ -Teriflunomide (oral)
+ -Mitoxantrone (antineoplastic, secondary-progressive MS)
+- Cladribine (oral)
+Multiple Sclerosis (MS) Drugs
+
+=== PAGE 6 ===
+Glucocorticoids
+• Stimulate synthesis of lipocortin
+• Lipocortin inhibits Phospholipase A2
+• Blocks starting point for prostaglandin, leukotriene synthesis
+
+=== PAGE 7 ===
+Glucocorticoids
+HPA suppression: taper dose slowly
+
+=== PAGE 8 ===
+Alemtuzumab: Anti-CD52
+AE:
+•
+Pregnancy warning
+•
+Depletes lymphocytes
+•
+Autoimmune reactions
+•
+Infusion reactions
+Other uses: 
+• Chronic lymphocytic 
+leukemia (CLL)
+• T-cell lymphoma.
+Dubey, et al., 2015
+
+=== PAGE 9 ===
+Monoclonal Antibodies
+• -umab  =  human (only 
+human protein)
+• -momab  =  mouse (murine)
+• -ximab  =  chimeric (mix of 
+mouse and human)
+• -zumab  =  humanized (mix of 
+mouse and human, less 
+mouse protein compared to 
+chimeric)
+
+=== PAGE 10 ===
+Dimethyl fumarate
+• Nrf2 activator via 
+metabolite monomethyl 
+fumarate.
+• AE:  GI upset, flushing, 
+Progressive multifocal 
+leukoencephalopathy 
+(PML), elevated liver 
+enzymes, increased 
+infection risk. 
+
+=== PAGE 11 ===
+Fingolimod
+• Sequestering of lymphocytes
+• AE: Headache, bradycardia, 
+activation of infections, PML.
+• Basal cell carcinoma
+• Test VZV antibody
+• Evaluate EKG (at first dose, re-
+initiation).
+
+=== PAGE 12 ===
+Glatiramer acetate
+• AE: Injection site reactions
+• Post-injection reaction: flush, 
+SOB, palpitations ~occurs 
+once.
+• Lipoatrophy (SQ injection 
+effect)
+Why infusion reactions?
+How to manage infusion 
+reactions?
+
+=== PAGE 13 ===
+Interferon B1a
+• Cytokine, Via JAK-STAT 
+pathway
+• MS: inhibits T-cell 
+activation and migration 
+across BBB. 
+• AE: flu-like symptoms, 
+depression, injection 
+reactions, anemia.
+• Also treats hepatitis B, C.
+
+=== PAGE 14 ===
+Natalizumab
+• Binds (a4, b1) receptor, stops 
+T-lymphocyte adhesion to 
+VCAM
+• AE: infusion reactions, PML, 
+hepatotoxicity,  infection risk
+• Also used for Crohn’s disease
+
+=== PAGE 15 ===
+Anti-CD20 drugs
+•
+AE: infusion reactions, respiratory 
+infections, activation of viral 
+infections, such as hepatitis B
+•
+Rituximab ( B-cell lymphoma 
+treatment)
+•
+Ocrelizumab: Humanized
+•
+Ofatumumab: Fully human
+•
+Ublituximab:  twice yearly infusion
+https://www.researchgate.net/figure/Ocrelizumab-vs-Rituximab-characteristics-17-18_fig1_310388487
+
+=== PAGE 16 ===
+Teriflunomide
+https://www.researchgate.net/figure/Actions-of-teriflunomide-accounting-for-the-effects-on-the-
+immune-cells-Inhibition-of_tbl1_236603940
+• Metabolite of leflunomide 
+(used in RA)
+• AE: infections, 
+hepatotoxicity, and 
+teratogenicity
+• (Continue contraception 2 
+years post-therapy)
+
+=== PAGE 17 ===
+Mitoxantrone: Secondary Progressive 
+MS
+• Intercalating agent
+• “Doxorubicin” like. Anthracycline
+• DNA strand scission via effects 
+on topoisomerase II
+• Binding to membranes alters 
+fluidity
+• Generation of oxygen radicals
+• AE: cardio, N/V, alopecia, 
+immunosuppression
+• Also treats acute myeloid 
+leukemia (AML), prostate, breast 
+cancer
+
+=== PAGE 18 ===
+• Synthetic deoxyadenosine (purine) analog. 
+Antipyrimidine
+• Antimetabolite chemotherapeutic (treats hairy 
+cell leukemia)
+• Greater effect on B cells vs T cells; allows for 
+apoptosis of lymphocytes.
+• AE: Lymphopenia and infections (VZV)
+Cladribine
+
+=== PAGE 19 ===
+Summary: MS agents
+http://cp.neurology.org/content/3/5/404
+
+=== PAGE 20 ===
+Incontinence
+• M3 blockers: oxybutynin, 
+tolterodine, darifenacin 
+• Gq mechanism. AE??
+• Botulinum toxin: cleaves 
+SNARE protein (SNAP-25) 
+responsible for vesicle fusion. 
+AE: Paralysis
+Other uses: strabismus, 
+blepharospasm, wrinkles, 
+migraines, cervical dystonia
+https://www.researchgate.net/figure/Mechanism-of-Action-of-Botulinum-Toxin_fig1_231739992
+
+=== PAGE 21 ===
+G-receptor proteins (Gq)
+https://www.cvphysiology.com/Blood%20Pressure/BP011b
+
+=== PAGE 22 ===
+Spasticity
+Goal: Reduce muscle tone
+• Tizanidine (agonist of alpha 2 
+adrenergic receptor). Like 
+clonidine
+• Baclofen (GABA B agonist): G 
+protein (Gi) mechanism
+• AE: CNS depression
+
+=== PAGE 23 ===
+Depression and Fatigue
+• SSRIs (sertraline, fluoxetine, citalopram)
+• SNRIs (duloxetine)
+• Bupropion (also nicotinic antagonist; smoking cessation) 
+• Tricyclic Antidepressants (also helps urinary incontinence) M3 
+blockade. Doxepin, amitriptyline, imipramine
+• Amphetamines (methylphenidate, modafinil)
+
+=== PAGE 24 ===
+Erectile Dysfunction
+http://cvpharmacology.com/vasodilator/nitro
+Sildenafil, 
+Tadalafil, 
+Vardenafil
+Hydralazine
+
+=== PAGE 25 ===
+Other Drugs
+• Dalfampridine: 4-
+aminopyridine. Block 
+potassium channels. 
+Increases action potential 
+duration. Improved walking.
+   
+https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.12512
+
+=== PAGE 26 ===
+• Describe the drugs used for acute and relapsing MS. Focus on the pharmacological 
+target and adverse effects.
+• Describe supplemental treatments for MS. Include mechanisms and adverse effects
+Core References:
+1.
+Brunton and Knollman; Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e, 2023; Chapter 39: Immunotherapy for Multiple Sclerosis 
+2.
+Katzung and Vanderah; Basic & Clinical Pharmacology, 16e, 2024; Chapter 55: 
+Immunopharmacology
+3.
+Multiple Sclerosis drug summary and practice questions (Maria A. Pino, Ph.D)
+Summary Slide
+
+=== PAGE 27 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

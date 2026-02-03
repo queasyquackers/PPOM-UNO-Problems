@@ -1,233 +1,16 @@
 window.Test_L31 = [
   {
     "id": 1,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 68-year-old male presents with a resting tremor in his left hand ('pill-rolling'), stiffness, and slowness of movement. His symptoms have gradually worsened over the past 3 years. He also mentions a loss of his sense of smell years before the tremor started. The primary neurotransmitter deficit in this patient is:",
+    "category": "Basal Ganglia Components",
+    "questionText": "The Striatum constitutes the major input center of the Basal Ganglia (BG) and includes which nuclei?",
     "options": [
       {
-        "text": "Acetylcholine in the Cortex",
-        "explanation": "Incorrect (Alzheimer's)."
+        "text": "Globus Pallidus Internus and Externus",
+        "explanation": "Incorrect. Pallidum."
       },
       {
-        "text": "Dopamine in the Striatum",
-        "explanation": "Correct. Loss of nigrostriatal dopamine allows acetylcholine dominance and excessive inhibition of motor release.",
-        "isCorrect": true
-      },
-      {
-        "text": "GABA in the Cerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Glutamate in the Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Serotonin in the Raphe Nuclei",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Parkinson's = Loss of Dopamine (SNc) -> Hypokinesia.",
-    "pdfPage": 34
-  },
-  {
-    "id": 2,
-    "category": "Basal Ganglia Anatomy",
-    "questionText": "Which nucleus of the Basal Ganglia is the only one that releases Glutamate (Excitatory)?",
-    "options": [
-      {
-        "text": "Striatum (Caudate/Putamen)",
-        "explanation": "Incorrect (GABA)."
-      },
-      {
-        "text": "Subthalamic Nucleus (STN)",
-        "explanation": "Correct. It excites the GPi/SNr (the 'brake').",
-        "isCorrect": true
-      },
-      {
-        "text": "Globus Pallidus Internus (GPi)",
-        "explanation": "Incorrect (GABA)."
-      },
-      {
-        "text": "Globus Pallidus Externus (GPe)",
-        "explanation": "Incorrect (GABA)."
-      },
-      {
-        "text": "Substantia Nigra pars reticulata (SNr)",
-        "explanation": "Incorrect (GABA)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: STN = Glutamate (Safety on the trigger). All others = GABA (mostly).",
-    "pdfPage": 10
-  },
-  {
-    "id": 3,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 35-year-old woman presents with involuntary, jerky, dance-like movements of her arms and face (Chorea). Her husband notes she has become irritable and paranoid recently. An MRI reveals atrophy of the Caudate Nucleus with dilated lateral ventricles. Genetic testing would likely reveal:",
-    "options": [
-      {
-        "text": "Trisomy 21",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "CAG repeat expansion",
-        "explanation": "Correct. Huntington's Disease. Anticipation leads to earlier onset.",
-        "isCorrect": true
-      },
-      {
-        "text": "Alpha-synuclein mutation",
-        "explanation": "Incorrect (Parkinson's)."
-      },
-      {
-        "text": "Tau protein tangles",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "SOD1 mutation",
-        "explanation": "Incorrect (ALS)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Huntington's = CAG repeats -> Caudate Death -> Chorea.",
-    "pdfPage": 45
-  },
-  {
-    "id": 4,
-    "category": "Circuitry",
-    "questionText": "Activation of the 'Direct Pathway' results in:",
-    "options": [
-      {
-        "text": "Inhibition of the Thalamus",
-        "explanation": "Incorrect (Indirect Pathway)."
-      },
-      {
-        "text": "Disinhibition (Excitation) of the Thalamus",
-        "explanation": "Correct. Striatum inhibits GPi -> GPi stops inhibiting Thalamus -> Movement!",
-        "isCorrect": true
-      },
-      {
-        "text": "Inhibition of the Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Excitation of the STN",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Freezing of gait",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Direct Pathway = GO (Disinhibition).",
-    "pdfPage": 16
-  },
-  {
-    "id": 5,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 72-year-old male has a stroke involving a small perforating branch of the Posterior Cerebral Artery. Soon after, he develops wild, flinging, ballistic movements of his RIGHT arm and leg. This 'Hemiballismus' is caused by a lesion in the:",
-    "options": [
-      {
-        "text": "Left Subthalamic Nucleus",
-        "explanation": "Correct. Loss of STN excitation to GPi removes the 'brake' -> Contralateral ballismus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Right Subthalamic Nucleus",
-        "explanation": "Incorrect (Would affect LEFT side)."
-      },
-      {
-        "text": "Left Caudate Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Right Globus Pallidus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cerebellum",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Hemiballismus = Contralateral STN Lesion (Stroke).",
-    "pdfPage": 43
-  },
-  {
-    "id": 6,
-    "category": "Pharmacology/Mechanism",
-    "questionText": "Dopamine affects the Striatum via two receptor types. Binding to D2 receptors results in:",
-    "options": [
-      {
-        "text": "Excitation of the Direct Pathway",
-        "explanation": "Incorrect (D1)."
-      },
-      {
-        "text": "Inhibition of the Indirect Pathway",
-        "explanation": "Correct. D2 receptors are inhibitory (Gi). Inhibiting the Indirect (No-Go) pathway facilitates movement.",
-        "isCorrect": true
-      },
-      {
-        "text": "Excitation of the Indirect Pathway",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Direct excitation of the Thalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No effect",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: D2 = Inhibitory (Gi) -> Turns OFF the 'No-Go' switch -> Movement.",
-    "pdfPage": 22
-  },
-  {
-    "id": 7,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A schizophrenic patient has been treated with haloperidol (a strong D2 receptor antagonist) for 20 years. He presents with involuntary smacking of his lips, grimacing, and tongue protrusion. He cannot voluntarily stop these movements for long. This condition is known as:",
-    "options": [
-      {
-        "text": "Acute Dystonia",
-        "explanation": "Incorrect (Occurs early)."
-      },
-      {
-        "text": "Tardive Dyskinesia",
-        "explanation": "Correct. Chronic D2 blockade leads to receptor supersensitivity -> Hyperkinetic Orofacial movements.",
-        "isCorrect": true
-      },
-      {
-        "text": "Parkinsonism",
-        "explanation": "Incorrect (Characterized by hypokinesia, not hyperkinetic/dyskinesia)."
-      },
-      {
-        "text": "Huntington's Disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Akathisia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tardive Dyskinesia = Late complication of Antipsychotics (Oral-facial).",
-    "pdfPage": 47
-  },
-  {
-    "id": 8,
-    "category": "Neuroanatomy",
-    "questionText": "The 'Striatum' is structurally composed of the:",
-    "options": [
-      {
-        "text": "Globus Pallidus and Putamen",
-        "explanation": "Incorrect (Lentiform Nucleus)."
-      },
-      {
-        "text": "Caudate Nucleus, Putamen, and Nucleus Accumbens",
-        "explanation": "Correct. These share the 'striated' appearance.",
+        "text": "Caudate, Putamen, and Nucleus Accumbens",
+        "explanation": "Correct. The input nuclei.",
         "isCorrect": true
       },
       {
@@ -239,313 +22,345 @@ window.Test_L31 = [
         "explanation": "Incorrect."
       },
       {
-        "text": "Red Nucleus and Inferior Olive",
+        "text": "Red Nucleus and VTA",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Striatum = Input Nuclei (Caudate + Putamen).",
-    "pdfPage": 6
+    "clinicalPearl": "Key takeaway: Striatum = Input (Caudate + Putamen + Accumbens).",
+    "pdfPage": 2
   },
   {
-    "id": 9,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 22-year-old heroin addict arrives at the ER 'frozen'. He is rigidly immobile, cannot speak, and has a fixed stare. History reveals he injected a 'synthetic heroin' (MPTP). The toxic metabolite (MPP+) has selectively destroyed his:",
+    "id": 2,
+    "category": "Neurotransmitters",
+    "questionText": "The primary neurotransmitter released by Striatal neurons (Medium Spiny Neurons) is:",
     "options": [
       {
-        "text": "Cerebellar Purkinje Cells",
+        "text": "Glutamate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Substantia Nigra pars Compacta (SNc) Neurons",
-        "explanation": "Correct. Causes acute, irreversible Parkinsonism.",
+        "text": "GABA",
+        "explanation": "Correct. They are inhibitory.",
         "isCorrect": true
       },
       {
-        "text": "Anterior Horn Cells",
+        "text": "Dopamine",
+        "explanation": "Incorrect. Nigra releases this."
+      },
+      {
+        "text": "Serotonin",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual Cortex",
+        "text": "Acetylcholine",
+        "explanation": "Incorrect. Used by interneurons, but output is GABA.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Striatum inhibits targets (GPi/GPe).",
+    "pdfPage": 14
+  },
+  {
+    "id": 3,
+    "category": "Subthalamic Nucleus (STN)",
+    "questionText": "The Subthalamic Nucleus (STN) is unique among BG nuclei because it uses which neurotransmitter?",
+    "options": [
+      {
+        "text": "GABA",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hippocampus",
+        "text": "Glutamate (Excitatory)",
+        "explanation": "Correct. STN excites GPi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Glycine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Norepinephrine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MPTP = Toxic to Dopamine Neurons (Instant Parkinson's).",
-    "pdfPage": 40
+    "clinicalPearl": "Key takeaway: STN = Glutamate (Excitatory). All others (Striatum, Pallidum, SNr) are GABA (Inhibitory).",
+    "pdfPage": 16
   },
   {
-    "id": 10,
-    "category": "Circuitry",
-    "questionText": "In the Indirect Pathway, the Striatum inhibits the GPe. The GPe normally inhibits the STN. Therefore, when the Striatum fires in the Indirect Pathway, the result on the STN is:",
+    "id": 4,
+    "category": "Output Nuclei",
+    "questionText": "The major OUTPUT nuclei of the Basal Ganglia, which inhibit the Thalamus, are:",
+    "options": [
+      {
+        "text": "Caudate and Putamen",
+        "explanation": "Incorrect. Input."
+      },
+      {
+        "text": "Globus Pallidus Internus (GPi) and Substantia Nigra pars Reticulata (SNr)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Globus Pallidus Externus (GPe) and STN",
+        "explanation": "Incorrect. Intrinsic."
+      },
+      {
+        "text": "VTA and SNc",
+        "explanation": "Incorrect. Modulatory."
+      },
+      {
+        "text": "Thalamus only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Output = GPi + SNr (Both Inhibitory).",
+    "pdfPage": 2
+  },
+  {
+    "id": 5,
+    "category": "Direct Pathway",
+    "questionText": "The Direct Pathway's net effect on the Thalamus is:",
     "options": [
       {
         "text": "Inhibition",
         "explanation": "Incorrect."
       },
       {
-        "text": "Disinhibition (Excitation)",
-        "explanation": "Correct. You inhibit the inhibitor (GPe) -> STN becomes active -> STN excites GPi -> GPi slams the brakes.",
+        "text": "Disinhibition (Facilitation)",
+        "explanation": "Correct. Inhibits the inhibitor (GPi) -> Thalamus free to fire.",
         "isCorrect": true
       },
       {
-        "text": "No change",
+        "text": "No effect",
         "explanation": "Incorrect."
       },
       {
-        "text": "Apoptosis",
+        "text": "Hyperpolarization",
         "explanation": "Incorrect."
       },
       {
-        "text": "Long term depression",
+        "text": "Cell death",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Indirect Pathway Activates STN -> Suppression of movement.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Direct = GO (Promotes movement).",
+    "pdfPage": 14
   },
   {
-    "id": 11,
-    "category": "Neurophysiology",
-    "questionText": "Deep Brain Stimulation (DBS) for Parkinson's Disease often targets the Subthalamic Nucleus (STN). The goal of high-frequency stimulation here is to:",
+    "id": 6,
+    "category": "Indirect Pathway",
+    "questionText": "The Indirect Pathway's net effect on the Thalamus is:",
     "options": [
       {
-        "text": "Increase glutamate release to the cortex",
+        "text": "Excitation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Create a 'virtual lesion' (inhibit/disrupt) the overactive STN",
-        "explanation": "Correct. In PD, the STN is overactive (due to loss of D2 inhibition). DBS silences/disrupts this overdrive.",
+        "text": "Inhibition",
+        "explanation": "Correct. Increases GPi driving -> Inhibits Thalamus.",
         "isCorrect": true
       },
       {
-        "text": "Regrow dopamine neurons",
-        "explanation": "Incorrect (Impossible)."
-      },
-      {
-        "text": "Stimulate muscle contraction directly",
+        "text": "Disinhibition",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increase vision",
+        "text": "Seizure",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sleep",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PD = Overactive STN/GPi. DBS turns them down.",
-    "pdfPage": 42
+    "clinicalPearl": "Key takeaway: Indirect = NO-GO (Demotes movement).",
+    "pdfPage": 3
   },
   {
-    "id": 12,
-    "category": "Neuroanatomy",
-    "questionText": "The 'Lentiform Nucleus' is a descriptive anatomical term referring to:",
+    "id": 7,
+    "category": "Dopamine Receptors",
+    "questionText": "Dopamine (via D1 receptors) will ____ the Direct Pathway, and (via D2 receptors) will ____ the Indirect Pathway.",
     "options": [
       {
-        "text": "Caudate + Putamen",
-        "explanation": "Incorrect (Striatum)."
+        "text": "Inhibit; Excite",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Putamen + Globus Pallidus",
-        "explanation": "Correct. Shaped like a lens/wedge.",
+        "text": "Excite; Inhibit",
+        "explanation": "Correct. D1 stimulates Go. D2 inhibits No-Go.",
         "isCorrect": true
       },
       {
-        "text": "Subthalamic Nucleus + Thalamus",
+        "text": "Inhibit; Inhibit",
         "explanation": "Incorrect."
       },
       {
-        "text": "Red Nucleus + Substantia Nigra",
+        "text": "Excite; Excite",
         "explanation": "Incorrect."
       },
       {
-        "text": "Amygdala + Hippocampus",
+        "text": "Have no effect on; Destroy",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lentiform = Putamen + GP (Ice cream cone shape).",
-    "pdfPage": 7
+    "clinicalPearl": "Key takeaway: Dopamine facilitates movement via BOTH pathways (Goes on Direct, Stops the Indirect).",
+    "pdfPage": 20
   },
   {
-    "id": 13,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with Parkinson's Disease experiences 'Freezing of Gait' – they suddenly feel glued to the floor and cannot initiate a step. This reflects dysfunction in which functional loop comprising the Basal Ganglia?",
-    "options": [
-      {
-        "text": "Oculomotor Loop",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor Loop",
-        "explanation": "Correct. Specifically the connections to SMA (initiation).",
-        "isCorrect": true
-      },
-      {
-        "text": "Limbic Loop",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Auditory Loop",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual Loop",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Motor Loop = Initiation of movement.",
-    "pdfPage": 26
-  },
-  {
-    "id": 14,
-    "category": "Neurochemistry",
-    "questionText": "In the Striatum, Acetylcholine (ACh) generally has the OPPOSITE effect of Dopamine. Therefore, excessive cholinergic activity in the striatum results in:",
-    "options": [
-      {
-        "text": "Hyperkinesia (Chorea)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypokinesia / Rigidity",
-        "explanation": "Correct. This is why Anticholinergics (Benztropine) help tremor/rigidity in PD.",
-        "isCorrect": true
-      },
-      {
-        "text": "Euphoria",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hallucinations",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Drowsiness",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Balance: DA = Go, ACh = Stop. PD = Low DA/High ACh.",
-    "pdfPage": 24
-  },
-  {
-    "id": 15,
-    "category": "Pathology",
-    "questionText": "Lewy Bodies, the pathological hallmark of Parkinson's Disease, are cytoplasmic inclusions composed primarily of misfolded:",
-    "options": [
-      {
-        "text": "Beta-Amyloid",
-        "explanation": "Incorrect (Alzheimer's)."
-      },
-      {
-        "text": "Alpha-Synuclein",
-        "explanation": "Correct. Toxic accumulation kills DA neurons.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tau",
-        "explanation": "Incorrect (Alzheimer's/FTD)."
-      },
-      {
-        "text": "TDP-43",
-        "explanation": "Incorrect (ALS)."
-      },
-      {
-        "text": "Prion protein",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lewy Body = Alpha-Synuclein.",
-    "pdfPage": 36
-  },
-  {
-    "id": 16,
-    "category": "Neuroanatomy",
-    "questionText": "The Substantia Nigra pars Reticulata (SNr) functions physiologically most similarly to the:",
+    "id": 8,
+    "category": "Hyperdirect Pathway",
+    "questionText": "The Hyperdirect Pathway involves a direct projection from Cortex to which nucleus?",
     "options": [
       {
         "text": "Striatum",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Globus Pallidus Internus (GPi)",
-        "explanation": "Correct. Both are GABAergic OUTPUT nuclei inhibiting the thalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Globus Pallidus Externus (GPe)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Subthalamic Nucleus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cortex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GPi and SNr are the two OUTPUTS of the BG.",
-    "pdfPage": 9
-  },
-  {
-    "id": 17,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with 'Athetosis' exhibits slow, writhing, snake-like movements of the hands. This is often considered a slower, more continuous form of:",
-    "options": [
-      {
-        "text": "Chorea",
-        "explanation": "Correct. Often grouped as 'Choreoathetosis'. Basal ganglia dysfunction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tremor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rigidity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spasticity",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ataxia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Athetosis = Slow Chorea.",
-    "pdfPage": 45
-  },
-  {
-    "id": 18,
-    "category": "Circuitry",
-    "questionText": "The 'Hyperdirect Pathway' involves a projection from the Cortex directly to the:",
-    "options": [
-      {
-        "text": "Striatum",
-        "explanation": "Incorrect (This is the normal input)."
       },
       {
         "text": "Subthalamic Nucleus (STN)",
-        "explanation": "Correct. Bypasses the Striatum for fast inhibition/stopping.",
+        "explanation": "Correct. Fast stop.",
         "isCorrect": true
+      },
+      {
+        "text": "GPi",
+        "explanation": "Incorrect."
       },
       {
         "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hyperdirect = STN -> GPi (Global Inhibition/Stop).",
+    "pdfPage": 7
+  },
+  {
+    "id": 9,
+    "category": "Parkinson's Pathology",
+    "questionText": "Parkinson's Disease is primarily caused by the loss of ____ neurons in the ____.",
+    "options": [
+      {
+        "text": "GABA; Striatum",
+        "explanation": "Incorrect. That's Huntington's."
+      },
+      {
+        "text": "Dopaminergic; Substantia Nigra pars Compacta (SNc)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Glutamatergic; STN",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonergic; Raphe Nuclei",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cholinergic; Basal Forebrain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PD = Loss of SNc Dopamine.",
+    "pdfPage": 29
+  },
+  {
+    "id": 10,
+    "category": "Parkinson's Pathway Imbalance",
+    "questionText": "In Parkinson's Disease, the loss of dopamine leads to:",
+    "options": [
+      {
+        "text": "Overactive Direct pathway; Underactive Indirect pathway",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Underactive Direct pathway; Overactive Indirect pathway",
+        "explanation": "Correct. Less Go, More No-Go -> Hypokinesia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Overactive thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperkinesia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of cortical neurons",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PD = Hard to start moving.",
+    "pdfPage": 29
+  },
+  {
+    "id": 11,
+    "category": "TRAP Symptoms",
+    "questionText": "Which of the following is NOT one of the 4 cardinal 'TRAP' signs of Parkinson's?",
+    "options": [
+      {
+        "text": "Tremor (Resting)",
+        "explanation": "Incorrect. This is one."
+      },
+      {
+        "text": "Rigidity",
+        "explanation": "Incorrect. This is one."
+      },
+      {
+        "text": "Akinesia/Bradykinesia",
+        "explanation": "Incorrect. This is one."
+      },
+      {
+        "text": "Paralysis",
+        "explanation": "Correct. They are NOT paralyzed (weakness is not primary). They are stuck.",
+        "isCorrect": true
+      },
+      {
+        "text": "Postural Instability",
+        "explanation": "Incorrect. This is one."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: TRAP = Tremor, Rigidity, Akinesia, Postural instability.",
+    "pdfPage": 32
+  },
+  {
+    "id": 12,
+    "category": "Hemiballismus",
+    "questionText": "Hemiballismus (violent flailing of one side) is typically caused by a lesion of the:",
+    "options": [
+      {
+        "text": "Striatum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Subthalamic Nucleus (STN) contralateral to symptoms",
+        "explanation": "Correct. Loss of the 'brakes'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Substantia Nigra",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
@@ -554,239 +369,337 @@ window.Test_L31 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hyperdirect = Cortex -> STN -> GPi (FAST STOP).",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Hemiballismus = STN lesion (Hyperkinetic).",
+    "pdfPage": 34
   },
   {
-    "id": 19,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient presents with masked facies (hypomimia), a soft voice (hypophonia), and micrographia (small handwriting). These are classic signs of:",
+    "id": 13,
+    "category": "Huntington's Pathology",
+    "questionText": "Huntington's Disease is characterized by atrophy of the:",
     "options": [
       {
-        "text": "Cerebellar Ataxia",
+        "text": "Substantia Nigra",
         "explanation": "Incorrect."
       },
       {
-        "text": "Parkinson's Disease",
-        "explanation": "Correct. All are manifestations of hypokinesia/bradykinesia.",
+        "text": "Striatum (Caudate mainly)",
+        "explanation": "Correct. Ventricles dilate because medial wall (Caudate) shrinks.",
         "isCorrect": true
       },
       {
-        "text": "Huntington's Disease",
+        "text": "STN",
         "explanation": "Incorrect."
       },
       {
-        "text": "Essential Tremor",
+        "text": "Thalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Stroke",
+        "text": "Cerebellum",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Micrographia is a specific clue for PD.",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: Huntington's = Striatal death (esp. Indirect pathway neurons).",
+    "pdfPage": 36
   },
   {
-    "id": 20,
-    "category": "Mechanism",
-    "questionText": "In the absence of any input, the firing rate of the Globus Pallidus Internus (GPi) neurons is:",
+    "id": 14,
+    "category": "Lewy Bodies",
+    "questionText": "The cytoplasmic inclusions found in surviving neurons in Parkinson's Disease are called:",
     "options": [
       {
-        "text": "Silent",
+        "text": "Neurofibrillary Tangles",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tonically High (Active)",
-        "explanation": "Correct. They keep the Thalamus in a 'held' state (inhibited) until told to release.",
+        "text": "Amyloid Plaques",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lewy Bodies (Alpha-synuclein)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Bursting only",
+        "text": "Negri Bodies",
         "explanation": "Incorrect."
       },
       {
-        "text": "Variable",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Synchronization dependent",
+        "text": "Pick Bodies",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GPi is the 'Emergency Brake' - it's always ON until the Direct Pathway turns it OFF.",
-    "pdfPage": 16
-  },
-  {
-    "id": 21,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 50-year-old man develops impulse control disorders (gambling, hypersexuality) after starting a new medication for his movement disorder. He most likely has:",
-    "options": [
-      {
-        "text": "Alzheimer's Disease",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Parkinson's Disease (treated with Dopamine Agonists)",
-        "explanation": "Correct. Stimulation of the Limbic Loop (Nucleus Accumbens) causes impulsivity.",
-        "isCorrect": true
-      },
-      {
-        "text": "ALS",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Guillain-Barre",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dopamine Agonists -> Impulsivity (Limbic side effect).",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Lewy Bodies = Alpha-Synuclein = PD.",
     "pdfPage": 29
   },
   {
-    "id": 22,
-    "category": "Anatomy",
-    "questionText": "The Nucleus Accumbens is functionally considered the:",
+    "id": 15,
+    "category": "MPTP",
+    "questionText": "The synthetic opioid contaminant MPTP causes instant Parkinsonism by selectively destroying:",
     "options": [
       {
-        "text": "Motor Striatum",
+        "text": "Striatal GABA neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Limbic Striatum / Ventral Striatum",
-        "explanation": "Correct. Involved in reward, addiction, and motivation.",
+        "text": "Substantia Nigra Dopamine neurons",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Sensory Striatum",
+        "text": "Cortical pyramidal neurons",
         "explanation": "Incorrect."
       },
       {
-        "text": "Auditory Striatum",
+        "text": "Cerebellar Purkinje cells",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual Striatum",
+        "text": "Spinal motor neurons",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Accumbens = Limbic interface (Addiction/Reward).",
+    "clinicalPearl": "Key takeaway: MPTP -> MPP+ -> Kills SNc.",
+    "pdfPage": 32
+  },
+  {
+    "id": 16,
+    "category": "Lentiform Nucleus",
+    "questionText": "The 'Lentiform Nucleus' refers to the combination of:",
+    "options": [
+      {
+        "text": "Caudate + Putamen",
+        "explanation": "Incorrect. That's Striatum."
+      },
+      {
+        "text": "Putamen + Globus Pallidus",
+        "explanation": "Correct. Bean-shaped.",
+        "isCorrect": true
+      },
+      {
+        "text": "STN + SNr",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus + Hypothalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Caudate + Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Lentiform = Putamen + GP (anatomically next to each other).",
     "pdfPage": 7
   },
   {
-    "id": 23,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Wilson's Disease is a metabolic disorder leading to copper accumulation in the body. In the brain, copper prominently deposits in the Putamen and Globus Pallidus, causing degeneration. These patients often present with:",
+    "id": 17,
+    "category": "Tardive Dyskinesia",
+    "questionText": "Tardive Dyskinesia is a side effect of long-term use of:",
     "options": [
+      {
+        "text": "L-Dopa",
+        "explanation": "Incorrect. That causes dyskinesia too, but Tardive is usually associated with antagonists."
+      },
+      {
+        "text": "Dopamine D2 Antagonists (Antipsychotics)",
+        "explanation": "Correct. Supersensitivity upregulates.",
+        "isCorrect": true
+      },
+      {
+        "text": "Antibiotics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aspirin",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insulin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tardive = Late. Due to chronic blockade -> Receptor supersensitivity.",
+    "pdfPage": 32
+  },
+  {
+    "id": 18,
+    "category": "PD Non-Motor Symptoms",
+    "questionText": "An early, often premotor, symptom of Parkinson's Disease is:",
+    "options": [
+      {
+        "text": "Anosmia (Loss of smell)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hearing loss",
+        "explanation": "Incorrect."
+      },
       {
         "text": "Blindness",
         "explanation": "Incorrect."
       },
       {
-        "text": "Parkinsonism, Wing-beating tremor, and Dystonia",
-        "explanation": "Correct. 'Hepatolenticular Degeneration'.",
+        "text": "Hyperactivity",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Increased appetite",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Anosmia precedes tremor often.",
+    "pdfPage": 28
+  },
+  {
+    "id": 19,
+    "category": "Acetylcholine in BG",
+    "questionText": "In the Striatum, Acetylcholine (from interneurons) generally opposes Dopamine. Thus, Ach ____ the Direct pathway and ____ the Indirect pathway.",
+    "options": [
+      {
+        "text": "Excites; Inhibits",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibits; Excites",
+        "explanation": "Correct. Ach is 'Anti-Movement' relative to Dopamine.",
         "isCorrect": true
       },
       {
-        "text": "Paraplegia",
+        "text": "Excites; Excites",
         "explanation": "Incorrect."
       },
       {
-        "text": "Aphasia",
+        "text": "Inhibits; Inhibits",
         "explanation": "Incorrect."
       },
       {
-        "text": "Deafness",
+        "text": "Has no effect; Has no effect",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Wilson's = Copper -> Basal Ganglia Damage -> Wing-beating tremor.",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: Ach favors No-Go. Dopamine favors Go. That's why Anticholinergics help in PD.",
+    "pdfPage": 2
   },
   {
-    "id": 24,
-    "category": "Pharmacology",
-    "questionText": "Why is L-DOPA given to Parkinson's patients instead of Dopamine itself?",
+    "id": 20,
+    "category": "Oculomotor Channel",
+    "questionText": "The Oculomotor channel of the Basal Ganglia targets which cortical area?",
     "options": [
       {
-        "text": "Dopamine is too expensive",
+        "text": "M1",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dopamine cannot cross the Blood-Brain Barrier (BBB); L-DOPA can.",
-        "explanation": "Correct. L-DOPA crosses and is converted to Dopamine by Dopa-Decarboxylase.",
+        "text": "Frontal Eye Fields (FEF)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Dopamine is toxic to the liver",
+        "text": "V1",
         "explanation": "Incorrect."
       },
       {
-        "text": "L-DOPA works faster",
+        "text": "Auditory Cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "L-DOPA has no side effects",
+        "text": "Broca's Area",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dopamine hits the wall (BBB). L-DOPA is the Trojan Horse.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: BG helps select eye movements too.",
+    "pdfPage": 23
   },
   {
-    "id": 25,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient describes 'Lead-pipe rigidity' - sustained resistance to passive movement throughout the range of motion. This is in contrast to 'Spasticity' which is:",
+    "id": 21,
+    "category": "Striatal Appearance",
+    "questionText": "The 'Striatum' is named for the striped appearance caused by fibers of the ____ passing through the gray matter.",
     "options": [
       {
-        "text": "Velocity-independent",
+        "text": "Corpus Callosum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Velocity-dependent (Clasp-knife)",
-        "explanation": "Correct. Spasticity catches only with fast movement. Rigidity is constant.",
+        "text": "Internal Capsule",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Only in the legs",
+        "text": "Optic Tract",
         "explanation": "Incorrect."
       },
       {
-        "text": "Associated with LMN lesions",
+        "text": "Fornix",
         "explanation": "Incorrect."
       },
       {
-        "text": "Painful",
+        "text": "Medial Lemniscus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Rigidity (PD) = Constant. Spasticity (CST) = Velocity dependent.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: Internal Capsule stripes give Striatum its name.",
+    "pdfPage": 2
   },
   {
-    "id": 26,
-    "category": "Neuroanatomy / Pathways",
-    "questionText": "The Ventral Tegmental Area (VTA) sends dopaminergic projections primarily to the:",
+    "id": 22,
+    "category": "Substantia Nigra pars Reticulata",
+    "questionText": "The Substantia Nigra pars Reticulata (SNr) functions most similarly to the:",
     "options": [
       {
-        "text": "Dorsal Striatum (Caudate/Putamen)",
-        "explanation": "Incorrect (SNc does this)."
+        "text": "GPe",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Ventral Striatum (Nucleus Accumbens) and Cortex",
-        "explanation": "Correct. The Mesolimbic/Mesocortical pathway.",
+        "text": "GPi (Output Nucleus)",
+        "explanation": "Correct. Both are Output, Both are GABA.",
         "isCorrect": true
+      },
+      {
+        "text": "Caudate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Putamen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "STN",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SNr and GPi are functionally twins (Output).",
+    "pdfPage": 8
+  },
+  {
+    "id": 23,
+    "category": "Deep Brain Stimulation",
+    "questionText": "Deep Brain Stimulation (DBS) for Parkinson's often targets the ____ to perform a 'virtual lesion' (inhibition of the overactive nucleus).",
+    "options": [
+      {
+        "text": "Caudate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Subthalamic Nucleus (STN) or GPi",
+        "explanation": "Correct. STN is overactive in PD (Indirect path disinhibits it).",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect (Sometimes for tremor, but STN/GPi more common for rigidity).",
+        "isCorrect": false
       },
       {
         "text": "Cerebellum",
@@ -794,6 +707,64 @@ window.Test_L31 = [
       },
       {
         "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: DBS quiets the noisy/overactive STN in PD.",
+    "pdfPage": 32
+  },
+  {
+    "id": 24,
+    "category": "Hypkinetic vs Hyperkinetic",
+    "questionText": "Parkinson's is a ____ disorder, while Huntington's is a ____ disorder.",
+    "options": [
+      {
+        "text": "Hyperkinetic; Hypokinetic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypokinetic; Hyperkinetic",
+        "explanation": "Correct. PD = Slow. HD = Fast/Dance.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sensory; Motor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortical; Brainstem",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acute; Chronic",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: PD = Too little movement. HD = Too much.",
+    "pdfPage": 19
+  },
+  {
+    "id": 25,
+    "category": "VTA Projections",
+    "questionText": "The Ventral Tegmental Area (VTA) sends Dopamine primarily to the:",
+    "options": [
+      {
+        "text": "Dorsal Striatum (Caudate/Putamen)",
+        "explanation": "Incorrect. Nigra does that."
+      },
+      {
+        "text": "Ventral Striatum (Nucleus Accumbens) / Limbic System",
+        "explanation": "Correct. Reward/Limbic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spinal Cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum",
         "explanation": "Incorrect."
       },
       {
@@ -802,287 +773,317 @@ window.Test_L31 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: VTA = Dopamine for Limbic/Reward (Mesolimbic).",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: VTA = Limbic Dopamine. SNc = Motor Dopamine.",
+    "pdfPage": 2
   },
   {
-    "id": 27,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Tourette's Syndrome involves motor and vocal tics. It is believed to involve excess dopamine activity or hypersensitivity in the:",
+    "id": 26,
+    "category": "BG Loop Topology",
+    "questionText": "Basal Ganglia loops generally connect:",
     "options": [
       {
-        "text": "Cerebellum",
+        "text": "Ipsilateral Cortex to Contralateral Cortex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia loops",
-        "explanation": "Correct. Failure to suppress unwanted motor fragments.",
+        "text": "Ipsilateral Cortex to Ipsilateral Basal Ganglia to Ipsilateral Thalamus back to Ipsilateral Cortex",
+        "explanation": "Correct. It's an ipsilateral loop.",
         "isCorrect": true
+      },
+      {
+        "text": "Cortex to Spinal Cord directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellum to Basal Ganglia directly",
+        "explanation": "Incorrect (mostly)."
+      },
+      {
+        "text": "Left BG to Right Thalamus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: BG Loop is Ipsilateral. But affects Contralateral body via CST.",
+    "pdfPage": 4
+  },
+  {
+    "id": 27,
+    "category": "Huntington's Genetics",
+    "questionText": "Huntington's Disease is an autosomal ____ disorder involving CAG repeats on chromosome 4.",
+    "options": [
+      {
+        "text": "Recessive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dominant",
+        "explanation": "Correct. High penetrance.",
+        "isCorrect": true
+      },
+      {
+        "text": "X-linked",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mitochondrial",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Codominant",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: HD is Dominant.",
+    "pdfPage": 35
+  },
+  {
+    "id": 28,
+    "category": "Pallidotomy",
+    "questionText": "A Pallidotomy (mostly historical or refractory cases) involves lesioning the ____ to reduce inhibition on the thalamus.",
+    "options": [
+      {
+        "text": "GPe",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GPi",
+        "explanation": "Correct. Remove the 'brake'.",
+        "isCorrect": true
+      },
+      {
+        "text": "Caudate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Putamen",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus itself",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Kill GPi -> Less inhibition -> Movement flows.",
+    "pdfPage": 3
+  },
+  {
+    "id": 29,
+    "category": "CST Relationship",
+    "questionText": "The Basal Ganglia ultimately influences movement by modifying the activity of the:",
+    "options": [
+      {
+        "text": "Lower Motor Neurons directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Upper Motor Neurons (Pyramidal System)",
+        "explanation": "Correct. Via Thalamus -> Motor Cortex.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dorsal Horn",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle Spindles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sympathetic Chain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: BG is an 'Upper UMN'. It bossed the UMNs.",
+    "pdfPage": 2
+  },
+  {
+    "id": 30,
+    "category": "Dopamine Synthesis",
+    "questionText": "Levodopa is given instead of Dopamine because:",
+    "options": [
+      {
+        "text": "Dopamine is toxic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine cannot cross the Blood-Brain Barrier",
+        "explanation": "Correct. L-Dopa crosses, then converts.",
+        "isCorrect": true
+      },
+      {
+        "text": "L-Dopa is cheaper",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "L-Dopa works faster",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Doctors prefer Italian names",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: BBB blocks Dopamine.",
+    "pdfPage": 38
+  },
+  {
+    "id": 31,
+    "category": "GPe Function",
+    "questionText": "In the Indirect Pathway, the GABAergic Striatum projects to the GPe, which then projects GABA to the:",
+    "options": [
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Subthalamic Nucleus (STN)",
+        "explanation": "Correct. GPe inhibits STN.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortex",
+        "explanation": "Incorrect."
       },
       {
         "text": "Spinal Cord",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Auditory Nerve",
+        "text": "Red Nucleus",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tics = Unsuppressed Basal Ganglia loops.",
-    "pdfPage": 47
-  },
-  {
-    "id": 28,
-    "category": "Circuitry",
-    "questionText": "Which connection in the Basal Ganglia is INHIBITORY (GABAergic)?",
-    "options": [
-      {
-        "text": "Cortex to Striatum",
-        "explanation": "Incorrect (Glutamate)."
-      },
-      {
-        "text": "Striatum to Globus Pallidus Externus (GPe)",
-        "explanation": "Correct. The start of the Indirect Pathway.",
-        "isCorrect": true
-      },
-      {
-        "text": "STN to GPi",
-        "explanation": "Incorrect (Glutamate)."
-      },
-      {
-        "text": "Thalamus to Cortex",
-        "explanation": "Incorrect (Glutamate)."
-      },
-      {
-        "text": "SNc to D1 Receptors",
-        "explanation": "Incorrect (Modulatory/Excitatory Effect, though Dopamine is complex).",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Striatal outputs are ALWAYS Inhibitory (GABA).",
-    "pdfPage": 12
-  },
-  {
-    "id": 29,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with Huntington's Disease has 'Boxcar Ventricles' on MRI. This appearance is due to:",
-    "options": [
-      {
-        "text": "Hydrocephalus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Atrophy of the Caudate Nucleus",
-        "explanation": "Correct. The Caudate normally bulges into the Lateral Ventricle. When it shrinks, the ventricle wall flattens.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tumor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cyst",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Infarction",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Boxcar Ventricles = Caudate Atrophy (Huntington's).",
-    "pdfPage": 46
-  },
-  {
-    "id": 30,
-    "category": "Mechanism",
-    "questionText": "In Parkinson's Disease, the Indirect Pathway becomes overactive. This means there is excessive inhibition of the GPe, which leads to:",
-    "options": [
-      {
-        "text": "Inhibition of the STN",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Disinhibition (Overactivity) of the STN",
-        "explanation": "Correct. The STN goes wild, driving the GPi to crush the Thalamus.",
-        "isCorrect": true
-      },
-      {
-        "text": "Silence of the STN",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Decreased GPi firing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Increased Thalamic firing",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: PD chain: Low DA -> High Indirect -> Low GPe -> High STN -> High GPi -> Low Thalamus -> No Move.",
-    "pdfPage": 38
-  },
-  {
-    "id": 31,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Sydenham's Chorea is a pediatric movement disorder characterized by rapid, irregular, aimless movements. It is an autoimmune response following infection with:",
-    "options": [
-      {
-        "text": "Group A Streptococcus (Rheumatic Fever)",
-        "explanation": "Correct. Molecular mimicry attacks the Basal Ganglia.",
-        "isCorrect": true
-      },
-      {
-        "text": "Influenza Virus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Herpes Simplex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "E. coli",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Coronavirus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Rheumatic Fever -> Sydenham's Chorea (St. Vitus Dance).",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: Striatum -> GPe -> STN -> GPi.",
+    "pdfPage": 16
   },
   {
     "id": 32,
-    "category": "Anatomy",
-    "questionText": "The Substantia Nigra pars Compacta (SNc) contains neurons that produce the pigment:",
+    "category": "Evolution",
+    "questionText": "The Basal Ganglia is highly conserved evolutionarily, present even in:",
     "options": [
       {
-        "text": "Bilirubin",
+        "text": "Insects only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Neuromelanin",
-        "explanation": "Correct. A byproduct of dopamine synthesis. Gives the 'Black Substance' its name.",
+        "text": "Lampreys and Dinosaurs (T-Rex)",
+        "explanation": "Correct. Ancient system for action selection.",
         "isCorrect": true
       },
       {
-        "text": "Lipofuscin",
+        "text": "Plants",
         "explanation": "Incorrect."
       },
       {
-        "text": "Melatonin",
+        "text": "Bacteria",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hemoglobin",
+        "text": "Only primates",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Neuromelanin = Dopamine byproduct. Loss = Depigmentation in PD.",
-    "pdfPage": 35
+    "clinicalPearl": "Key takeaway: BG is ancient.",
+    "pdfPage": 25
   },
   {
     "id": 33,
-    "category": "Terminology",
-    "questionText": "'Bradykinesia' refers to:",
+    "category": "Manganese Toxicity",
+    "questionText": "Manganese toxicity (e.g., in miners) can cause Parkinsonism by damaging the:",
     "options": [
       {
-        "text": "Absence of movement",
-        "explanation": "Incorrect (Akinesia)."
+        "text": "Hippocampus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Slowness of movement",
-        "explanation": "Correct. Hallmark of PD.",
+        "text": "Globus Pallidus",
+        "explanation": "Correct. Necrosis of GP.",
         "isCorrect": true
       },
       {
-        "text": "Fast movement",
-        "explanation": "Incorrect (Tachykinesia)."
+        "text": "Cortex",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Weakness",
-        "explanation": "Incorrect (Paresis)."
+        "text": "Cerebellum",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Incoordination",
-        "explanation": "Incorrect (Ataxia)."
+        "text": "Olfactory bulb",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Bradykinesia = Slow. Akinesia = None.",
-    "pdfPage": 37
+    "clinicalPearl": "Key takeaway: Manganese loves the Pallidum.",
+    "pdfPage": 34
   },
   {
     "id": 34,
-    "category": "Mechanism",
-    "questionText": "The 'Countermanding' signal to stop an action abruptly (e.g., stopping yourself from stepping into traffic) is mediated by the:",
+    "category": "Thalamic Target",
+    "questionText": "The Basal Ganglia output projects primarily to which Thalamic nuclei?",
     "options": [
       {
-        "text": "Direct Pathway",
-        "explanation": "Incorrect."
+        "text": "VPM and VPL",
+        "explanation": "Incorrect. Sensory."
       },
       {
-        "text": "Hyperdirect Pathway",
-        "explanation": "Correct. Fast track to the STN brake.",
+        "text": "VA (Ventral Anterior) and VL (Ventral Lateral)",
+        "explanation": "Correct. Motor Thalamus.",
         "isCorrect": true
       },
       {
-        "text": "Indirect Pathway",
-        "explanation": "Incorrect (Too slow)."
-      },
-      {
-        "text": "Spinocerebellar tract",
+        "text": "LGN",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dorsal Columns",
+        "text": "MGN",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pulvinar",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hyperdirect = The 'Stop Button'.",
-    "pdfPage": 20
+    "clinicalPearl": "Key takeaway: Motor Thalamus = VA/VL.",
+    "pdfPage": 4
   },
   {
     "id": 35,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 40-year-old boxer develops Parkinsonian symptoms (Dementia Pugilistica). This is likely due to repeated trauma causing:",
+    "category": "Action Selection",
+    "questionText": "The primary functional role of the Basal Ganglia is described as:",
     "options": [
       {
-        "text": "Genetic mutation",
+        "text": "Direct muscle contraction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Shearing forces and neuronal death in the Substantia Nigra",
-        "explanation": "Correct. Pugilistic Parkinsonism.",
+        "text": "Selection of desired actions (Habits) and inhibition of competing actions",
+        "explanation": "Correct. Action selection/gating.",
         "isCorrect": true
       },
       {
-        "text": "Vitamin deficiency",
+        "text": "Sensation of pain",
         "explanation": "Incorrect."
       },
       {
-        "text": "Autoimmune attack",
+        "text": "Visual acuity",
         "explanation": "Incorrect."
       },
       {
-        "text": "Infection",
+        "text": "Hearing interpretation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Trauma can cause secondary Parkinsonism.",
-    "pdfPage": 39
+    "clinicalPearl": "Key takeaway: BG = The Selector / Habit maker.",
+    "pdfPage": 25
   }
 ];

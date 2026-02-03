@@ -1,535 +1,349 @@
 window.Test_L32 = [
   {
     "id": 1,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 55-year-old chronic alcoholic presents with a wide-based, staggering gait. However, his finger-to-nose testing and heel-to-shin testing are relatively preserved when he is lying down. This pattern of 'Truncal Ataxia' with sparing of the distal limbs is characteristic of degeneration in the:",
+    "category": "Cerebellar Function",
+    "questionText": "The Cerebellum contains ~80% of the brain's neurons and is primarily critical for:",
     "options": [
       {
-        "text": "Posterior Lobe (Lateral Hemisphere)",
-        "explanation": "Incorrect (Would cause appendicular ataxia)."
+        "text": "Initiating movement",
+        "explanation": "Incorrect. Basal Ganglia/Cortex do initiation."
       },
       {
-        "text": "Anterior Lobe (Vermis)",
-        "explanation": "Correct. Alcohol specifically targets the Anterior Vermis/Spinocerebellum, affecting gait/posture.",
+        "text": "Motor coordination and error correction",
+        "explanation": "Correct. The 'Quality Control' center.",
         "isCorrect": true
       },
       {
-        "text": "Flocculonodular Lobe",
-        "explanation": "Incorrect (Would affect eye movements/balance predominantly, but anterior vermis is the classic alcohol target)."
-      },
-      {
-        "text": "Dentate Nucleus",
+        "text": "Conscious perception of sensation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia",
+        "text": "Emotional regulation",
+        "explanation": "Incorrect (mostly)."
+      },
+      {
+        "text": "Hormone secretion",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alcohol = Anterior Vermis Atrophy = Broad-based Gait (Truncal Ataxia).",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: Cerebellum = Coordination (Ataxia if broken).",
+    "pdfPage": 2
   },
   {
     "id": 2,
-    "category": "Anatomy",
-    "questionText": "Which Cerebellar Peduncle contains primarily EFFERENT (Output) fibers traveling from the Deep Cerebellar Nuclei to the Thalamus?",
-    "options": [
-      {
-        "text": "Inferior Cerebellar Peduncle",
-        "explanation": "Incorrect (Inputs mostly)."
-      },
-      {
-        "text": "Middle Cerebellar Peduncle",
-        "explanation": "Incorrect (Input ONLY)."
-      },
-      {
-        "text": "Superior Cerebellar Peduncle",
-        "explanation": "Correct. The Brachium Conjunctivum. Major output channel.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebral Peduncle",
-        "explanation": "Incorrect (Midbrain)."
-      },
-      {
-        "text": "Peduncle of the Flocculus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: SCP = Output (EXIT). MCP = Input (ENTER). ICP = Mixed (mostly enter).",
-    "pdfPage": 25
-  },
-  {
-    "id": 3,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient is asked to rapidly flip their hands back and forth on their thighs (pronate/supinate). They perform this clumsy, irregular, and slow movements on the left side. This finding is termed:",
-    "options": [
-      {
-        "text": "Dysmetria",
-        "explanation": "Incorrect (Overshoot)."
-      },
-      {
-        "text": "Dysdiadochokinesia",
-        "explanation": "Correct. Difficulty with rapid alternating movements.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dysarthria",
-        "explanation": "Incorrect (Speech)."
-      },
-      {
-        "text": "Dystonia",
-        "explanation": "Incorrect (Muscle contraction)."
-      },
-      {
-        "text": "Dysphagia",
-        "explanation": "Incorrect (Swallowing)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dysdiadochokinesia = Rapid Alternating Movements (RAM) failure. Lateral Hemisphere sign.",
-    "pdfPage": 48
-  },
-  {
-    "id": 4,
-    "category": "Functional Anatomy",
-    "questionText": "The 'Vestibulocerebellum' anatomically corresponds to the:",
-    "options": [
-      {
-        "text": "Anterior Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior Lobe",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Flocculonodular Lobe",
-        "explanation": "Correct. Oldest part, deals with balance and eyes.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vermis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tonsils",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Vestibulocerebellum = Flocculonodular = Balance.",
-    "pdfPage": 14
-  },
-  {
-    "id": 5,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 10-year-old child presents with headaches, vomiting, and ataxia. MRI reveals a tumor in the roof of the 4th ventricle, compressing the flocculonodular lobe. The most likely diagnosis is:",
-    "options": [
-      {
-        "text": "Glioblastoma Multiforme",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Medulloblastoma",
-        "explanation": "Correct. Most common malignant pediatric brain tumor. Arises in midline cerebellum.",
-        "isCorrect": true
-      },
-      {
-        "text": "Meningioma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Schwannoma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pituitary Adenoma",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Medulloblastoma = Pediatric, Midline Cerebellum -> Hydrocephalus + Truncal Ataxia.",
-    "pdfPage": 51
-  },
-  {
-    "id": 6,
-    "category": "Neuroanatomy",
-    "questionText": "The Deep Cerebellar Nuclei, from Lateral to Medial, are:",
-    "options": [
-      {
-        "text": "Fastigial, Globose, Emboliform, Dentate",
-        "explanation": "Incorrect (Medial to Lateral)."
-      },
-      {
-        "text": "Dentate, Emboliform, Globose, Fastigial",
-        "explanation": "Correct. Mnemonic: 'Don't Eat Greasy Food'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dentate, Fastigial, Globose, Emboliform",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fastigial, Dentate, Emboliform, Globose",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Red Nucleus, Substantia Nigra, STN, GPi",
-        "explanation": "Incorrect (Basal Ganglia)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lateral -> Medial: D-E-G-F.",
-    "pdfPage": 16
-  },
-  {
-    "id": 7,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient exhibits an 'Intention Tremor'. As they reach for a pen, their hand begins to shake more violently as it approaches the target. This indicates a lesion in the:",
-    "options": [
-      {
-        "text": "Substantia Nigra",
-        "explanation": "Incorrect (Resting Tremor)."
-      },
-      {
-        "text": "Cerebellar Hemisphere (Cerebrocerebellum)",
-        "explanation": "Correct. Dysfunction of the feedback loop for fine motor correction.",
-        "isCorrect": true
-      },
-      {
-        "text": "Motor Cortex",
-        "explanation": "Incorrect (Weakness/Spasticity)."
-      },
-      {
-        "text": "Dorsal Columns",
-        "explanation": "Incorrect (Sensory Ataxia - worse with eyes closed)."
-      },
-      {
-        "text": "Lower Motor Neuron",
-        "explanation": "Incorrect (Flaccidity)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellar Tremor = Intention (Kinetic). Parkinson's Tremor = Resting.",
-    "pdfPage": 48
-  },
-  {
-    "id": 8,
-    "category": "Circuitry",
-    "questionText": "Purkinje cells provide the primary output from the Cerebellar Cortex. Their effect on the Deep Cerebellar Nuclei is:",
-    "options": [
-      {
-        "text": "Excitatory (Glutamate)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibitory (GABA)",
-        "explanation": "Correct. They 'sculpt' the tonically active DCN by inhibiting unwanted signals.",
-        "isCorrect": true
-      },
-      {
-        "text": "Modulatory (Dopamine)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Excitatory (Acetylcholine)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Silent",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Purkinje = GABA = Inhibition. This is the only way out of the Cortex.",
-    "pdfPage": 38
-  },
-  {
-    "id": 9,
-    "category": "Neuro: Clinical Case",
-    "questionText": "On physical exam, a patient has 'Nystagmus' (rhythmic oscillating eye movements) when looking to the sides. This implicates dysfunction of the:",
-    "options": [
-      {
-        "text": "Spinocerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vestibulocerebellum",
-        "explanation": "Correct. Connections with Vestibular Nuclei control eye tracking.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cerebrocerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Basal Ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual Cortex",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Nystagmus = Vestibulocerebellum (Flocculus) or Vestibular system issue.",
-    "pdfPage": 51
-  },
-  {
-    "id": 10,
-    "category": "Circuitry",
-    "questionText": "Climbing Fibers, which form powerful '1-to-1' synapses with Purkinje cells (Complex Spikes), originate exclusively from the:",
-    "options": [
-      {
-        "text": "Pontine Nuclei",
-        "explanation": "Incorrect (Mossy Fibers)."
-      },
-      {
-        "text": "Inferior Olivary Nucleus",
-        "explanation": "Correct. Providing the 'Error Signal' / Motor learning teaching signal.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vestibular Nuclei",
-        "explanation": "Incorrect (Mossy Fibers)."
-      },
-      {
-        "text": "Spinals Cord",
-        "explanation": "Incorrect (Mossy Fibers)."
-      },
-      {
-        "text": "Red Nucleus",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inferior Olive -> Climbing Fiber -> Complex Spike (Error Signal).",
-    "pdfPage": 38
-  },
-  {
-    "id": 11,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with a cerebellar lesion is tested for tone. When their arm is tapped, it swings back and forth like a pendulum for an extended period ('Pendular Reflexes'). This 'Hypotonia' is due to decreased facilitation of the:",
-    "options": [
-      {
-        "text": "Corticospinal Tract",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rubrospinal and Vestibulospinal Tracts (Gamma Loop)",
-        "explanation": "Correct. Cerebellum normally facilitates muscle tone via the gamma motor neurons.",
-        "isCorrect": true
-      },
-      {
-        "text": "Spinothalamic Tract",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsal Columns",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Optic Nerve",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellar damage -> Hypotonia (not Spasticity or Rigidity).",
-    "pdfPage": 49
-  },
-  {
-    "id": 12,
-    "category": "Anatomy",
-    "questionText": "The Middle Cerebellar Peduncle (MCP) carries inputs exclusively from the:",
+    "category": "Peduncles",
+    "questionText": "The Middle Cerebellar Peduncle (MCP) carries afferent fibers primarily from the:",
     "options": [
       {
         "text": "Spinal Cord",
         "explanation": "Incorrect."
       },
       {
-        "text": "Contralateral Pontine Nuclei",
-        "explanation": "Correct. Represents the Cortico-Ponto-Cerebellar pathway.",
+        "text": "Pontine Nuclei (Pons)",
+        "explanation": "Correct. Massive input from Cortex via Pons.",
         "isCorrect": true
       },
       {
         "text": "Inferior Olive",
-        "explanation": "Incorrect (ICP)."
+        "explanation": "Incorrect. Inferior Peduncle."
+      },
+      {
+        "text": "Vestibular Nuclei",
+        "explanation": "Incorrect."
       },
       {
         "text": "Red Nucleus",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: MCP = Middle = Massive input from Pons.",
+    "pdfPage": 9
+  },
+  {
+    "id": 3,
+    "category": "Superior Peduncle",
+    "questionText": "The Superior Cerebellar Peduncle (SCP) is the primary ____ pathway of the cerebellum.",
+    "options": [
+      {
+        "text": "Input (Afferent)",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Thalamus",
+        "text": "Output (Efferent)",
+        "explanation": "Correct. Output to Thalamus/Red Nucleus.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modulatory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Autonomic",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MCP is the bridge from the Cortex (via Pons). It is MASSIVE.",
-    "pdfPage": 29
+    "clinicalPearl": "Key takeaway: SCP = Superior = Sending it UP (Output).",
+    "pdfPage": 2
   },
   {
-    "id": 13,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A man has a stroke affecting the LEFT Cerebellar Hemisphere. Which side of the body will exhibit ataxia and dysmetria?",
+    "id": 4,
+    "category": "Deep Cerebellar Nuclei",
+    "questionText": "The Deep Cerebellar Nuclei, from Medial to Lateral, are:",
     "options": [
       {
-        "text": "Right side (Contralateral)",
-        "explanation": "Incorrect."
+        "text": "Dentate, Interposed, Fastigial",
+        "explanation": "Incorrect. Backwards."
       },
       {
-        "text": "Left side (Ipsilateral)",
-        "explanation": "Correct. The Cerebellum controls the IPSILATERAL body. (Double crossing cancels out).",
+        "text": "Fastigial, Interposed, Dentate",
+        "explanation": "Correct. 'Fast Gerbils Eat Donuts' or similar mnemonic (Medial -> Lateral).",
         "isCorrect": true
       },
       {
-        "text": "Both sides",
+        "text": "Caudate, Putamen, Globus Pallidus",
+        "explanation": "Incorrect. Basal Ganglia."
+      },
+      {
+        "text": "Red, Black, White",
         "explanation": "Incorrect."
       },
       {
-        "text": "Legs only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Face only",
+        "text": "Ventral, Dorsal, Lateral",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellum = Ipsilateral. Cortex = Contralateral. Basal Ganglia = Contralateral (mostly).",
-    "pdfPage": 27
+    "clinicalPearl": "Key takeaway: Fastigial (Midline) -> Interposed -> Dentate (Lateral).",
+    "pdfPage": 10
   },
   {
-    "id": 14,
-    "category": "Terminology",
-    "questionText": "The term for 'overshooting' or 'undershooting' a target (e.g., finger-to-nose) is:",
+    "id": 5,
+    "category": "Vestibulocerebellum",
+    "questionText": "The Vestibulocerebellum corresponds anatomically to the ____ and functions in ____.",
     "options": [
       {
-        "text": "Titubation",
+        "text": "Posterior Lobe; Fine motor skill",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dysmetria",
-        "explanation": "Correct. 'Bad Measure'.",
+        "text": "Flocculonodular Lobe; Balance and Eye movements",
+        "explanation": "Correct. Oldest part.",
         "isCorrect": true
       },
       {
-        "text": "Dyskinesia",
+        "text": "Anterior Lobe; Gait",
         "explanation": "Incorrect."
       },
       {
-        "text": "Akinesia",
+        "text": "Lateral Hemisphere; Speech",
         "explanation": "Incorrect."
       },
       {
-        "text": "Apraxia",
+        "text": "Vermis; Hand coordination",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dysmetria is the hallmark of Appendicular Ataxia.",
-    "pdfPage": 48
+    "clinicalPearl": "Key takeaway: Flocculonodular = Vestibular (Dizziness, Nystagmus).",
+    "pdfPage": 2
   },
   {
-    "id": 15,
-    "category": "Pathology",
-    "questionText": "Arnold-Chiari Malformation involves the downward displacement of which cerebellar structure through the Foramen Magnum:",
+    "id": 6,
+    "category": "Cerebrocerebellum",
+    "questionText": "The Cerebrocerebellum (Lateral Hemispheres) projects to the ____ nucleus and is involved in ____.",
     "options": [
       {
-        "text": "Vermis",
+        "text": "Fastigial; Balance",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tonsils",
-        "explanation": "Correct. Can compress the medulla -> respiratory arrest.",
+        "text": "Dentate; Motor planning and fine dexterity",
+        "explanation": "Correct. Newest part.",
         "isCorrect": true
       },
       {
-        "text": "Flocculus",
+        "text": "Interposed; Gait",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dentate Nucleus",
+        "text": "Vestibular; Eye movements",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Lobe",
+        "text": "Red; Flexion",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tonsillar Herniation (Chiari) is life-threatening.",
-    "pdfPage": 23
+    "clinicalPearl": "Key takeaway: Lateral Hemisphere = Dentate = Dexterity (Hands/Speech).",
+    "pdfPage": 2
   },
   {
-    "id": 16,
-    "category": "Functional Anatomy",
-    "questionText": "The Cerebrocerebellum (Lateral Hemispheres) projects primarily to which Deep Cerebellar Nucleus?",
+    "id": 7,
+    "category": "Spinocerebellum",
+    "questionText": "The Spinocerebellum (Vermis and Paravermis) is primarily concerned with:",
     "options": [
       {
-        "text": "Fastigial",
-        "explanation": "Incorrect (Vermis goes here)."
+        "text": "Cognitive thought",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Interposed",
-        "explanation": "Incorrect (Paravermal goes here)."
-      },
-      {
-        "text": "Dentate",
-        "explanation": "Correct. Lateral goes to Lateral (Dentate).",
+        "text": "Axial control and Gait (Walking)",
+        "explanation": "Correct. Trunk stability.",
         "isCorrect": true
       },
       {
-        "text": "Red Nucleus",
+        "text": "Finger piano playing",
+        "explanation": "Incorrect. Cerebrocerebellum."
+      },
+      {
+        "text": "Hearing",
         "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Olive",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Lateral Hemisphere -> Dentate -> Motor Planning.",
-    "pdfPage": 33
-  },
-  {
-    "id": 17,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient has 'Scanning Speech' - a staccato, explosive, and uncoordinated speech pattern. This is a form of:",
-    "options": [
-      {
-        "text": "Aphasia",
-        "explanation": "Incorrect (Cortical)."
-      },
-      {
-        "text": "Ataxic Dysarthria",
-        "explanation": "Correct. Incoordination of the speech muscles. Cerebellar sign.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dysphonia",
-        "explanation": "Incorrect (Laryngeal)."
-      },
-      {
-        "text": "Mutism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Apraxia of Speech",
+        "text": "Smell",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Singing/Scanning speech = Cerebellar Dysarthria.",
-    "pdfPage": 49
+    "clinicalPearl": "Key takeaway: Vermis = Spine = Walking (Drunken Sailor gait if damaged).",
+    "pdfPage": 2
   },
   {
-    "id": 18,
-    "category": "Circuitry",
-    "questionText": "Mossy Fibers exert an EXCITATORY effect on Granule Cells. Granule Cell axons then ascend and bifurcate to form:",
+    "id": 8,
+    "category": "Ipsilateral Control",
+    "questionText": "The Cerebellum controls the ____ side of the body.",
+    "options": [
+      {
+        "text": "Contralateral",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ipsilateral",
+        "explanation": "Correct. Double crossing means it ends up same side.",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Upper body only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower body only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cerebellum is Ipsilateral. Cortex is Contralateral.",
+    "pdfPage": 14
+  },
+  {
+    "id": 9,
+    "category": "Mossy Fibers",
+    "questionText": "Mossy Fibers bring input from ____ and terminate on ____.",
+    "options": [
+      {
+        "text": "Inferior Olive; Purkinje Cells",
+        "explanation": "Incorrect. That's Climbing fibers."
+      },
+      {
+        "text": "Pons/Spinal Cord; Granule Cells",
+        "explanation": "Correct. Mossy -> Granule -> Parallel -> Purkinje.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortex; Deep Nuclei only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Red Nucleus; Basket Cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle; Golgi Tendon Organs",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Mossy = Massive input (All except Olive).",
+    "pdfPage": 31
+  },
+  {
+    "id": 10,
+    "category": "Climbing Fibers",
+    "questionText": "Climbing Fibers originate exclusively from the ____ and synapse directly on ____.",
+    "options": [
+      {
+        "text": "Pons; Granule Cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Olive; Purkinje Cells",
+        "explanation": "Correct. 1:1 Powerful connection.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spinal Cord; Deep Nuclei",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibular Nuclei; Granule Cells",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Red Nucleus; Mossy Fibers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Climbing = Olive (Ivy climbing the Olive tree).",
+    "pdfPage": 2
+  },
+  {
+    "id": 11,
+    "category": "Purkinje Output",
+    "questionText": "Purkinje Cells provide the sole output of the Cerebellar Cortex and release ____ onto Deep Cerebellar Nuclei.",
+    "options": [
+      {
+        "text": "Glutamate (Excitatory)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GABA (Inhibitory)",
+        "explanation": "Correct. They carve/sculpt the output.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Purkinje = Inhibitory. Output is sculpted by inhibition.",
+    "pdfPage": 2
+  },
+  {
+    "id": 12,
+    "category": "Granule Cells",
+    "questionText": "Granule cells are the most numerous neurons in the brain. their axons form:",
     "options": [
       {
         "text": "Climbing Fibers",
@@ -537,30 +351,371 @@ window.Test_L32 = [
       },
       {
         "text": "Parallel Fibers",
-        "explanation": "Correct. They run parallel to the folia, contacting thousands of Purkinje dendrites.",
+        "explanation": "Correct. 'Telephone wires' across the Purkinje dendrites.",
         "isCorrect": true
       },
       {
-        "text": "Purkinje Axons",
+        "text": "Mossy Fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corticospinal Tract",
         "explanation": "Incorrect."
       },
       {
         "text": "Peduncles",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Granule -> Parallel -> Purkinje.",
+    "pdfPage": 23
+  },
+  {
+    "id": 13,
+    "category": "Intention Tremor",
+    "questionText": "A tremor that worsens as the patient's finger approaches a target (e.g., nose) is called ____ and indicates ____ dysfunction.",
+    "options": [
+      {
+        "text": "Resting Tremor; Basal Ganglia",
+        "explanation": "Incorrect. PD."
       },
       {
-        "text": "Corticospinal Tracts",
+        "text": "Intention Tremor; Cerebellar (Cerebrocerebellum)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Essential Tremor; Cortical",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Physiologic Tremor; Thyroid",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Pill-rolling Tremor; Nigral",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Granule Cells -> Parallel Fibers (The beam that excites Purkinje).",
-    "pdfPage": 40
+    "clinicalPearl": "Key takeaway: Intention Tremor = Cerebellum. Resting Tremor = Parkinson's.",
+    "pdfPage": 26
+  },
+  {
+    "id": 14,
+    "category": "Dysdiadochokinesia",
+    "questionText": "Dysdiadochokinesia refers to an inability to perform:",
+    "options": [
+      {
+        "text": "Rapid alternating movements (e.g., supination/pronation)",
+        "explanation": "Correct. The 'lightbulb screwing' test.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tandem gait",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Eye tracking",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mental math",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Speech",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: DDK = Can't flip hands fast.",
+    "pdfPage": 2
+  },
+  {
+    "id": 15,
+    "category": "Cerebellar Ataxia",
+    "questionText": "A patient with vermal (spinocerebellar) damage typically walks with a:",
+    "options": [
+      {
+        "text": "Shuffling, narrow-based gait",
+        "explanation": "Incorrect. PD."
+      },
+      {
+        "text": "Wide-based, staggering gait (Alcoholic gait)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Steppage gait",
+        "explanation": "Incorrect. Foot drop."
+      },
+      {
+        "text": "Scissor gait",
+        "explanation": "Incorrect. CP."
+      },
+      {
+        "text": "Normal gait",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vermal Ataxia = Drunk Walk (Wide base).",
+    "pdfPage": 14
+  },
+  {
+    "id": 16,
+    "category": "Essential Tremor",
+    "questionText": "Essential Tremor is a common, often inherited disorder characterized by a:",
+    "options": [
+      {
+        "text": "Resting tremor",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Postural/Action tremor (e.g., holding arms out)",
+        "explanation": "Correct. Worsens with posture/action, better with alcohol (unlike cerebellar).",
+        "isCorrect": true
+      },
+      {
+        "text": "Tremor that stops with movement",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tremor only during sleep",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Leg tremor only",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ET = Action Tremor. PD = Resting.",
+    "pdfPage": 26
+  },
+  {
+    "id": 17,
+    "category": "Nystagmus",
+    "questionText": "Nystagmus (repetitive eye oscillations) is most strongly associated with dysfunction of the:",
+    "options": [
+      {
+        "text": "Cerebrocerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vestibulocerebellum (Flocculonodular Lobe)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spinocerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Motor Cortex",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Vestibular = Eyes/Balance.",
+    "pdfPage": 28
+  },
+  {
+    "id": 18,
+    "category": "Alcohol Effect",
+    "questionText": "Chronic alcohol abuse typically causes degeneration of the:",
+    "options": [
+      {
+        "text": "Dentate Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Anterior Lobe (Vermis)",
+        "explanation": "Correct. Leg ataxia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Flocculus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inferior Olive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Red Nucleus",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alcohol rots the Anterior Vermis -> Gait Ataxia.",
+    "pdfPage": 3
   },
   {
     "id": 19,
-    "category": "Anatomy",
-    "questionText": "The Primary Fissure separates which two lobes of the Cerebellum?",
+    "category": "DANISH Mnemonic",
+    "questionText": "In the mnemonic DANISH for cerebellar signs, the 'H' stands for:",
+    "options": [
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect. UMN."
+      },
+      {
+        "text": "Hypotonia",
+        "explanation": "Correct. Floppy/Rag doll.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypertonia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hemiparesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Headache",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cerebellum = Hypotonia (Pendular reflexes).",
+    "pdfPage": 2
+  },
+  {
+    "id": 20,
+    "category": "Tonsillar Herniation",
+    "questionText": "Displacement of the Cerebellar Tonsils through the Foramen Magnum (Chiari Malformation) can compress the:",
+    "options": [
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla (Brainstem)",
+        "explanation": "Correct. Respiratory arrest risk.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Eye",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tonsils are medial/inferior. Herniation = Bad news.",
+    "pdfPage": 2
+  },
+  {
+    "id": 21,
+    "category": "Deep Nuclei Input",
+    "questionText": "The Deep Cerebellar Nuclei receive EXCITATORY input from ____ and INHIBITORY input from ____.",
+    "options": [
+      {
+        "text": "Purkinje cells; Mossy fibers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Mossy/Climbing fibers; Purkinje cells",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortex; Spinal Cord",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thalamus; Red Nucleus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Granule cells; Mossy fibers",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Deep Nuclei = (Input + Input) - Purkinje Inhibition.",
+    "pdfPage": 22
+  },
+  {
+    "id": 22,
+    "category": "Interposed Nuclei",
+    "questionText": "The Interposed Nuclei (Globose and Emboliform) are part of the ____ functional division.",
+    "options": [
+      {
+        "text": "Vestibulocerebellum",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinocerebellum",
+        "explanation": "Correct. Paravermis -> Interposed -> Rubrospinal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cerebrocerebellum",
+        "explanation": "Incorrect. Dentate."
+      },
+      {
+        "text": "Basal Ganglia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Limbic System",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Interposed = Spinocerebellum (Limb coordination).",
+    "pdfPage": 5
+  },
+  {
+    "id": 23,
+    "category": "Inferior Peduncle Function",
+    "questionText": "The Inferior Cerebellar Peduncle contains fibers connecting the Cerebellum with the:",
+    "options": [
+      {
+        "text": "Cerebral Cortex directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Medulla (Olive, Vestibular) and Spinal Cord",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Thalamus",
+        "explanation": "Incorrect. SCP."
+      },
+      {
+        "text": "Midbrain",
+        "explanation": "Incorrect. SCP."
+      },
+      {
+        "text": "Pons only",
+        "explanation": "Incorrect. MCP."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ICP = Medulla connections.",
+    "pdfPage": 2
+  },
+  {
+    "id": 24,
+    "category": "Primary Fissure",
+    "questionText": "The Primary Fissure separates which two lobes?",
     "options": [
       {
         "text": "Anterior and Posterior",
@@ -569,519 +724,364 @@ window.Test_L32 = [
       },
       {
         "text": "Posterior and Flocculonodular",
-        "explanation": "Incorrect (Posterolateral fissure)."
+        "explanation": "Incorrect. Posterolateral fissure."
       },
       {
-        "text": "Left and Right Hemispheres",
-        "explanation": "Incorrect (Vermis)."
-      },
-      {
-        "text": "Cerebellum and Brainstem",
+        "text": "Left and Right",
         "explanation": "Incorrect."
       },
       {
-        "text": "Temporal and Occipital",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Primary Fissure divides the Anterior and Posterior lobes.",
-    "pdfPage": 12
-  },
-  {
-    "id": 20,
-    "category": "Functional Anatomy",
-    "questionText": "The Spinocerebellum (Vermis & Paravermis) is primarily concerned with:",
-    "options": [
-      {
-        "text": "Motor Planning",
-        "explanation": "Incorrect (Cerebrocerebellum)."
-      },
-      {
-        "text": "Execution and correction of limb movements and posture",
-        "explanation": "Correct. Uses spinal cord feedback to adjust ongoing movements.",
-        "isCorrect": true
-      },
-      {
-        "text": "Conscious thought",
+        "text": "Medial and Lateral",
         "explanation": "Incorrect."
       },
       {
-        "text": "Visual processing",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Memory storage",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinocerebellum = Execution/Correction.",
-    "pdfPage": 31
-  },
-  {
-    "id": 21,
-    "category": "Neuro: Clinical Case",
-    "questionText": "If you perform the Romberg test on a patient with Cerebellar Ataxia, they will be:",
-    "options": [
-      {
-        "text": "Stable with eyes open, unstable with eyes closed",
-        "explanation": "Incorrect (This is Sensory Ataxia / Dorsal Columns)."
-      },
-      {
-        "text": "Unstable with eyes OPEN AND unstable with eyes CLOSED",
-        "explanation": "Correct. Cerebellar ataxia is not corrected by vision. They sway regardless.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stable in both conditions",
-        "explanation": "Incorrect (Normal)."
-      },
-      {
-        "text": "Able to stand on one foot perfectly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Able to tandem walk",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellar Ataxia = Sway with Eyes OPEN. Sensory Ataxia = Sway only with Eyes CLOSED.",
-    "pdfPage": 51
-  },
-  {
-    "id": 22,
-    "category": "Circuitry",
-    "questionText": "Granule Cells are unique in the nervous system because:",
-    "options": [
-      {
-        "text": "They are inhibitory",
-        "explanation": "Incorrect (Excitatory)."
-      },
-      {
-        "text": "They are the most numerous neurons in the brain",
-        "explanation": "Correct. Over 50% of the brain's neurons are these tiny cerebellar granule cells.",
-        "isCorrect": true
-      },
-      {
-        "text": "They have no axons",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They do not fire action potentials",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "They are the largest cells",
-        "explanation": "Incorrect (Purkinje are huge)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Granule Cells = Tiny but BILLIONS of them.",
-    "pdfPage": 39
-  },
-  {
-    "id": 23,
-    "category": "Anatomy",
-    "questionText": "The 'Nodulus' is part of the:",
-    "options": [
-      {
-        "text": "Vermis (Midline)",
-        "explanation": "Correct. It is the vermal portion of the Flocculonodular lobe.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hemisphere",
-        "explanation": "Incorrect (Flocculus is the hemispheric part)."
-      },
-      {
-        "text": "Tonsil",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Brainstem",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Thalamus",
+        "text": "Frontal and Parietal",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Nodulus = Midline. Flocculus = Lateral. Together they make the lobe.",
-    "pdfPage": 13
-  },
-  {
-    "id": 24,
-    "category": "Functional Anatomy",
-    "questionText": "The Interposed Nuclei (Globose and Emboliform) receive input primarily from the:",
-    "options": [
-      {
-        "text": "Vermis",
-        "explanation": "Incorrect (Fastigial)."
-      },
-      {
-        "text": "Paravermal (Medial) Hemisphere",
-        "explanation": "Correct. Intermediate zone -> Interposed Nuclei.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lateral Hemisphere",
-        "explanation": "Incorrect (Dentate)."
-      },
-      {
-        "text": "Flocculonodular Lobe",
-        "explanation": "Incorrect (Vestibular Nuclei)."
-      },
-      {
-        "text": "Frontal Lobe",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Paravermis -> Interposed -> Rubrospinal (Limb modification).",
-    "pdfPage": 16
+    "clinicalPearl": "Key takeaway: Primary Fissure = Anterior/Posterior split.",
+    "pdfPage": 8
   },
   {
     "id": 25,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient cannot coordinate the movements of their tongue and lips, leading to 'Slurred Speech'. This is most likely a defect in timing and coordination, which is the domain of the:",
+    "category": "Granule Cell Layer",
+    "questionText": "The deepest layer of the Cerebellar Cortex is the:",
     "options": [
       {
-        "text": "Hippocampus",
+        "text": "Molecular Layer",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellum",
-        "explanation": "Correct. Timing and magnitude of movements.",
+        "text": "Purkinje Layer",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Granule Cell Layer",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Amygdala",
-        "explanation": "Incorrect."
+        "text": "Deep Nuclei",
+        "explanation": "Incorrect. Not cortical."
       },
       {
-        "text": "Hypothalamus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory Cortex",
+        "text": "White Matter",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellum = The Brain's Clock/Timer.",
-    "pdfPage": 48
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Deepest = Granule.",
+    "pdfPage": 23
   },
   {
     "id": 26,
-    "category": "Neuroanatomy",
-    "questionText": "The large fiber tract that crosses the midline in the Pons to enter the Middle Cerebellar Peduncle is composed of axons from the:",
+    "category": "Fastigial Nucleus",
+    "questionText": "The Fastigial Nucleus is associated with the ____ and controls ____.",
     "options": [
       {
-        "text": "Pontine Nuclei",
-        "explanation": "Correct. Cortico-Pontine fibers synapse here, then cross as Transverse Pontine Fibers.",
+        "text": "Lateral Hemisphere; Fine touch",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vermis; Axial/Trunk muscles and Eye movements",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Red Nucleus",
+        "text": "Paravermis; Fingers",
         "explanation": "Incorrect."
       },
       {
-        "text": "Inferior Olive",
+        "text": "Flocculus; Hearing",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pyramidal Tract",
-        "explanation": "Incorrect (Longitudinal)."
-      },
-      {
-        "text": "Medial Lemniscus",
+        "text": "Tonsils; Taste",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Basis Pontis = Pontine Nuclei + Crossing Fibers -> MCP.",
-    "pdfPage": 29
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fastigial = Middle = Trunk.",
+    "pdfPage": 2
   },
   {
     "id": 27,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Dysfunction of the Vestibulo-Ocular Reflex (VOR) cancellation, allowing you to track a moving object while your head moves, is a sign of:",
+    "category": "Peduncle Decussation",
+    "questionText": "The Superior Cerebellar Peduncle decussates in the:",
     "options": [
       {
-        "text": "Floccular dysfunction",
-        "explanation": "Correct. The Flocculus is critical for VOR gain and cancellation.",
+        "text": "Medulla",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lower Midbrain",
+        "explanation": "Correct. Wernekinck's Commissure.",
         "isCorrect": true
       },
       {
-        "text": "Tonsillar herniation",
+        "text": "Pons",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Lobe atrophy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dentate nucleus destruction",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinal cord injury",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: VOR issues = Vestibulocerebellum (Flocculus).",
-    "pdfPage": 51
-  },
-  {
-    "id": 28,
-    "category": "Neurophysiology",
-    "questionText": "Cerebellar cortex has a uniform cytoarchitecture regardless of location. The output cells are always:",
-    "options": [
-      {
-        "text": "Pyramidal Cells",
-        "explanation": "Incorrect (Cerebral Cortex)."
-      },
-      {
-        "text": "Purkinje Cells",
-        "explanation": "Correct. The sole output of the cerebellar cortex.",
-        "isCorrect": true
-      },
-      {
-        "text": "Betz Cells",
-        "explanation": "Incorrect (Motor Cortex)."
-      },
-      {
-        "text": "Alpha Motor Neurons",
-        "explanation": "Incorrect (Spinal Cord)."
-      },
-      {
-        "text": "Renshaw Cells",
-        "explanation": "Incorrect (Spinal Cord)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Purkinje Cells = The Master Output of Cerebellar Cortex.",
-    "pdfPage": 38
-  },
-  {
-    "id": 29,
-    "category": "Circuitry",
-    "questionText": "Complex Spikes in Purkinje cells are low frequency but strong, and are thought to represent:",
-    "options": [
-      {
-        "text": "A motor command",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "An error signal",
-        "explanation": "Correct. 'You missed the target, adjust the weights.'",
-        "isCorrect": true
-      },
-      {
-        "text": "A sensory percept",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "A memory",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sleep spindles",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Complex Spike = Error. Simple Spike = State.",
-    "pdfPage": 39
-  },
-  {
-    "id": 30,
-    "category": "Functional Anatomy",
-    "questionText": "The Fastigial Nucleus controls the:",
-    "options": [
-      {
-        "text": "Fingers",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Axial skeleton/Trunk and Balance",
-        "explanation": "Correct. Medial system (Vermis) -> Medial Muscles (Trunk).",
-        "isCorrect": true
-      },
-      {
-        "text": "Tongue",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Prefrontal Cortex",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ears",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fastigial = Fast trunk adjustments (Balance/Posture).",
-    "pdfPage": 33
-  },
-  {
-    "id": 31,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient presents with 'Decomposition of Movement'. Instead of a smooth reach, they break the movement into robotic, isolated segments (shoulder, then elbow, then wrist). This implicates the:",
-    "options": [
-      {
-        "text": "Cerebrocerebellum (Lateral Hemisphere)",
-        "explanation": "Correct. Loss of multi-joint coordination.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vestibulocerebellum",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinocerebellum",
-        "explanation": "Incorrect (Usually gait)."
       },
       {
         "text": "Spinal Cord",
         "explanation": "Incorrect."
       },
       {
-        "text": "Muscle Spindle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Decomposition of Movement = Robot-like motion. Lateral Cerebellum failure.",
-    "pdfPage": 48
-  },
-  {
-    "id": 32,
-    "category": "Anatomy",
-    "questionText": "The Red Nucleus in the midbrain receives input primarily from which Deep Cerebellar Nuclei?",
-    "options": [
-      {
-        "text": "Fastigial",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Interposed and Dentate",
-        "explanation": "Correct. Via the Superior Cerebellar Peduncle.",
-        "isCorrect": true
-      },
-      {
-        "text": "Vestibular",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Caudate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Amygdala",
+        "text": "Cerebrum",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cerebellum talks to Red Nucleus to help sculpt Rubrospinal tract.",
-    "pdfPage": 34
+    "clinicalPearl": "Key takeaway: SCP crosses in Midbrain (Heading to Thalamus).",
+    "pdfPage": 2
   },
   {
-    "id": 33,
-    "category": "Neuro: Clinical Case",
-    "questionText": "Holmes Rebound Phenomenon is demonstrated when:",
+    "id": 28,
+    "category": "Dysmetria",
+    "questionText": "Dysmetria refers to:",
     "options": [
       {
-        "text": "A patient cannot stop their arm from hitting themselves when resistance is suddenly released",
-        "explanation": "Correct. Delayed antagonist checking response. Cerebellar sign.",
+        "text": "Inability to speak",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Overshooting or undershooting a target (Past-pointing)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "A patient falls when eyes are closed",
-        "explanation": "Incorrect (Romberg)."
-      },
-      {
-        "text": "A patient has a tremor at rest",
+        "text": "Tremor at rest",
         "explanation": "Incorrect."
       },
       {
-        "text": "A patient drags their toe",
+        "text": "Muscle weakness",
         "explanation": "Incorrect."
       },
       {
-        "text": "A patient cannot feel vibration",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Rebound Phenomenon = Failure to 'Check' the movement.",
-    "pdfPage": 49
-  },
-  {
-    "id": 34,
-    "category": "Functional Anatomy",
-    "questionText": "The Cerebellum contains 80% of the brain's neurons, yet occupies only 10% of the volume. This is due to the extreme packing density of the:",
-    "options": [
-      {
-        "text": "Purkinje Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Granule Cells",
-        "explanation": "Correct. Tiny and numerous.",
-        "isCorrect": true
-      },
-      {
-        "text": "Glial Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pyramidal Cells",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Golgi Cells",
+        "text": "Vision loss",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Granule cells are the 'sand' of the cerebellar hourglass.",
+    "clinicalPearl": "Key takeaway: Metria = Measure. Dysmetria = Bad measurement of distance.",
+    "pdfPage": 11
+  },
+  {
+    "id": 29,
+    "category": "Cerebellar Stroke",
+    "questionText": "A stroke affecting the PICA (Posterior Inferior Cerebellar Artery) causing Lateral Medullary Syndrome often presents with:",
+    "options": [
+      {
+        "text": "Contralateral Ataxia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ipsilateral Ataxia and Vertigo",
+        "explanation": "Correct. ICP affected.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pure motor hemiparesis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Aphasia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Memory loss",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cerebellar stroke = Ipsilateral Ataxia.",
+    "pdfPage": 2
+  },
+  {
+    "id": 30,
+    "category": "Medulloblastoma",
+    "questionText": "Medulloblastoma is a common childhood tumor that typically arises in the ____, causing ____.",
+    "options": [
+      {
+        "text": "Lateral Hemisphere; Hand ataxia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vermis/Flocculonodular lobe; Truncal ataxia and Hydrocephalus",
+        "explanation": "Correct. Midline tumor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pons; Locked-in syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cortex; Seizures",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinal Cord; Paraplegia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Medulloblastoma = Midline = Balance problems.",
     "pdfPage": 4
   },
   {
-    "id": 35,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with Multiple Sclerosis presents with a tremor that worsens as she tries to type or drink coffee. She also has slurred speech. These symptoms suggest a plaque within the:",
+    "id": 31,
+    "category": "Purkinje Layer",
+    "questionText": "The Purkinje Cell Layer is:",
     "options": [
       {
-        "text": "Posterior Columns",
+        "text": "Many cells thick",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebellar Peduncles / Pathways",
-        "explanation": "Correct. Common site for MS plaques ('Charcot\'s Triad of MS' includes intention tremor, nystagmus, scanning speech).",
+        "text": "One cell thick",
+        "explanation": "Correct. A monolayer.",
         "isCorrect": true
       },
       {
-        "text": "Substantia Nigra",
+        "text": "Absent in humans",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Horn",
+        "text": "Excitatory",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cerebral Cortex",
+        "text": "In the deep white matter",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS often hits the Cerebellar white matter (Peduncles).",
-    "pdfPage": 46
+    "clinicalPearl": "Key takeaway: Purkinje layer = Monolayer.",
+    "pdfPage": 23
+  },
+  {
+    "id": 32,
+    "category": "Cerebellar Learning",
+    "questionText": "The Cerebellum is crucial for:",
+    "options": [
+      {
+        "text": "Declarative memory (Events)",
+        "explanation": "Incorrect. Hippocampus."
+      },
+      {
+        "text": "Motor learning and adaptation (e.g., learning guitar)",
+        "explanation": "Correct. Muscle memory.",
+        "isCorrect": true
+      },
+      {
+        "text": "Visual object recognition",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Language comprehension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Face recognition",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Cerebellum learns the 'How-to' (Procedural).",
+    "pdfPage": 4
+  },
+  {
+    "id": 33,
+    "category": "Holmes' Observation",
+    "questionText": "Gordon Holmes studied WWI soldiers to map cerebellar function because:",
+    "options": [
+      {
+        "text": "They had foot injuries",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Their helmets exposed the back of their heads (occiput/cerebellum)",
+        "explanation": "Correct. British soup bowl helmets.",
+        "isCorrect": true
+      },
+      {
+        "text": "They were all drunk",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They had genetic defects",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They were left-handed",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: History lesson: Bad helmets -> Good science.",
+    "pdfPage": 3
+  },
+  {
+    "id": 34,
+    "category": "Cerebellar Surface Area",
+    "questionText": "The Cerebellar Cortex has a surface area roughly ____ of the Cerebral Cortex.",
+    "options": [
+      {
+        "text": "10%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "80%",
+        "explanation": "Correct. It's folded immensely.",
+        "isCorrect": true
+      },
+      {
+        "text": "150%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "1%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "200%",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Small volume, Huge surface area.",
+    "pdfPage": 2
+  },
+  {
+    "id": 35,
+    "category": "Slurred Speech",
+    "questionText": "Dysarthria (slurred speech) in cerebellar disease is often referred to as:",
+    "options": [
+      {
+        "text": "Scanning speech",
+        "explanation": "Correct. Staccato/Scanning.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fluent aphasia",
+        "explanation": "Incorrect. Wernicke's."
+      },
+      {
+        "text": "Non-fluent aphasia",
+        "explanation": "Incorrect. Broca's."
+      },
+      {
+        "text": "Word salad",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muting",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Cerebellar speech = Scanning/Explosive.",
+    "pdfPage": 13
   }
 ];

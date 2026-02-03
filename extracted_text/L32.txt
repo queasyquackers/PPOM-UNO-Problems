@@ -1,0 +1,417 @@
+
+=== PAGE 1 ===
+Supraspinal motor systems:
+Cerebellum
+Isaac Kurtzer, Ph.D. 
+Department of Biomedical Science
+ikurtzer@nyit.edu
+
+=== PAGE 2 ===
+Session Objectives
+1. Identify the lobes, nuclei, and peduncles of the cerebellum 
+along with associated brainstem nuclei. 
+2. Identify the pathways linking the cerebellar cortex and nuclei 
+to the spinal cord, brainstem, and cerebrum.
+3. Describe the basic cerebellar circuit, the input, internal 
+organization, and output.
+4. Understand how the functional specialization of different 
+cerebellar regions relate to various abilities along with the 
+origin and expression of cerebellar disorders.
+Nolte’s The Human Brain: An introduction to its functional anatomy
+Chapter 20 Cerebellum
+http://arktos.nyit.edu/login?url=https://www-clinicalkey-com.arktos.nyit.edu/#!/content/book/3-s2.0-
+B9780323653985000205
+
+=== PAGE 3 ===
+General features of the cerebellum
+•  “Little brain” composed of cortical sheet and nuclei
+     
+80% of surface area of cerebral cortex!                             
+80% of neurons in the brain!
+•   Critical for motor coordination.  
+•   Damage results in poor coordination.
+•   Does not directly drive motor neurons. 
+•   Less clear relation to cognitive & affective function. 
+Gordon Holmes studied wounded British 
+soldiers (WW1); the standard helmet did not 
+protect the back of their heads unlike German 
+solders.
+Holmes GM (1917) The symptoms of acute cerebellar injuries 
+due to gunshot injuries. Brain 40:461–535
+
+=== PAGE 4 ===
+Impressively understudied
+King (2019) Functional boundaries in the cerebellum revealed 
+by multi-domain task battery
+• about 10% of the research on cerebral cortex 
+• very few studies examine the variety of tasks  
+  needed to uncover cognition and emotion
+Wang (2025) Ignoring the cerebellum is hindering progress in 
+neuroscience
+
+=== PAGE 5 ===
+• Lobes and regions - functional divisions of the cortical sheet
+• Peduncles - fiber tracts conveying info to and from 
+• Internal Nuclei – the primary output nuclei of the cerebellum 
+• Associated external nuclei – input nuclei to the cerebellum 
+Gross cerebellar anatomy
+
+=== PAGE 6 ===
+Primary fissure
+Medial 
+Hemisphere
+Anterior Lobe
+Posterior Lobe
+Vermis
+Lateral 
+Hemisphere
+Anterior
+Posterior
+Lobes and regions: superior view
+
+=== PAGE 7 ===
+Lobes and regions: inferior view
+Medial 
+hemisphere
+Posterior Lobe
+Vermis
+Lateral 
+Hemisphere
+Anterior
+Posterior
+Flocculonodular lobe (Flocculus)
+
+=== PAGE 8 ===
+Anterior
+Posterior
+Primary fissure
+Anterior lobe
+Flocculonodular lobe 
+(nodulus)            
+Posterolateral fissure
+Posterior lobe
+Lobes and regions: sagitattal view
+
+=== PAGE 9 ===
+The internal nuclei (deep cerebellar nuclei)
+Relay information from the 
+cerebellar cortex to brainstem 
+and cerebral cortex 
+Fastigal nucleus
+Interposed nuclei
+Dentate nucleus
+nodulus
+
+=== PAGE 10 ===
+The internal nuclei (deep cerebellar nuclei)
+All output (with one exception) are axons from the 
+deep cerebellar nuclei.
+Relay information to the brainstem and cerebral cortex.
+Fastigal
+Dentate
+Interposed
+Fastigal
+Dentate
+Interposed
+
+=== PAGE 11 ===
+External brainstem nuclei linked to cerebellum
+Vestibular nucleus (medulla) – 
+   receives output from ipsilateral cerebellum   
+Red nucleus (midbrain) – 
+receives output from the 
+contralateral cerebellum
+Inferior Olive (medulla) - send inputs/afferents to 
+contralateral cerebellum 
+Pontine nuclei (pons) – transmits information from 
+ipsilateral cerebrum to contralateral cerebellum
+
+=== PAGE 12 ===
+External brainstem nuclei linked to cerebellum
+Vestibular nucleus (medulla) – 
+   receives output from ipsilateral cerebellum   
+Red nucleus (midbrain) – 
+receives output from the 
+contralateral cerebellum
+Inferior olive (medulla) - send inputs/afferents to 
+contralateral cerebellum 
+Pontine nuclei (pons) – transmits information from 
+ipsilateral cerebrum to contralateral cerebellum
+
+=== PAGE 13 ===
+Cerebellar peduncles
+
+=== PAGE 14 ===
+Spinal Cord
+Brainstem
+Cerebral cortex
+Cerebellum communicates with three major 
+portions of the nervous system
+Remember that cerebellum controls the ipsilateral body. Hence, signals (to and from) must 
+cross side to communicate with the cerebellum.  A mix from the spinal cord and brainstem.
+
+=== PAGE 15 ===
+Inferior peduncle      Middle Peduncle      Superior Penduncle
+Afferent tracts
+Cuneocerebellar(arm)
+Dorsal spinocerebellar(leg)
+Olivocerebellar
+Rostral spinocerebellar(arm)
+Recticulocerebellar
+Trigeminosensoricerebellar
+Vestibulocerebellar
+Cerebellovestibular 
+Cerebellorecticular
+Afferent tracts
+Corticopontocerebellar
+Afferent tracks
+Ventral spinocerebellar*(leg)
+Tectocerebellar
+Cerebellarthalamic
+Cerebellorubral
+Interpositotectal
+Afferents and efferents of the peduncles
+Efferent tracts
+Efferent tracks
+*no need to remember all tracts but recognize the breadth of connections 
+
+=== PAGE 16 ===
+Inferior peduncle      Middle Peduncle      Superior Penduncle
+Afferent tracts
+All remaining afferents
+Afferent tracts
+Corticopontocerebellar
+Everything
+A reasonable simplification
+Efferent tracts
+
+=== PAGE 17 ===
+Vestibulocerebellum 
+Flocculonodular lobe receives input 
+from vestibular nuclei and nerves.
+Head-eye coordination and balance.
+Three functional divisions of the cerebellum
+Cerebrocerebellum
+Lateral hemispheres of anterior and posterior lobes 
+receive cerebral cortical input via pontine nuclei.
+Voluntary movements especially learned and
+skillful movements
+Spinocerebellum
+Vermal and paravermal regions of 
+anterior & posterior lobes receive 
+spinal inputs.
+Axial control and gait.
+
+=== PAGE 18 ===
+Functional divisions 
+of the cerebellum
+Vestibular nuclei, 
+CN VIII
+Vestibular nuclei
+Spinocerebellum
+Eye and neck brainstem
+   nuclei
+Vestibulospinal tract
+Cerebral cortex
+Cerebrocerebellum
+Medial brainstem
+(reticulospinal)
+Lateral brainstem
+(rubrospinal)
+Vestibulocerebellum
+
+=== PAGE 19 ===
+How cerebral cortex communicates 
+with ipsilateral thalamus and contralateral cerebellum
+Thalamus
+Cerebral 
+cortex
+Cb
+Left
+Right
+Middle 
+cerebellar 
+peduncle 
+pontine
+nuclei
+Superior
+cerebellar 
+peduncle 
+midline 
+
+=== PAGE 20 ===
+How red nucleus and inferior olive 
+communicate with cerebellum
+IO
+Cb
+Left
+Right
+Inferior 
+cerebellar 
+peduncle 
+Red 
+nucleus
+Superior
+cerebellar 
+peduncle 
+midline 
+
+=== PAGE 21 ===
+How vestibular nucleus 
+communicates with cerebellum
+Cb
+Left
+Right
+Superior 
+cerebellar 
+peduncle 
+VN
+Inferior
+cerebellar 
+peduncle 
+midline 
+
+=== PAGE 22 ===
+Basic cerebellar circuit
+Mossy Fibers – afferents 
+from brainstem nuclei, 
+spinal cord and cerebrum; 
+excitatory (glutamate).
+Climbing fibers – afferents 
+of the olivocerebellar tract; 
+excitatory (glutamate).
+Deep cerebellar nuclei receives excitatory input (raw/“measured state” of the body and motor 
+commands) and a processed inhibitory input (processed/“predicted state” of the body) and the two 
+are compared. 
+Cortical Processing
+Purkinje cells project to 
+deep cerebellar nuclei; 
+inhibitory (GABA).
+
+=== PAGE 23 ===
+Layers of cerebellar cortex
+Molecular layer is closest to the surface - contains dendrites of Purkinje cells  and axons of granule cells
+Granule layer is the deepest layer and more neurons than all others in the nervous system. 
+Purkinje cell layer is between the two; one layer of Purkinje cell bodies.
+    Exclusive output from the cerebellar cortex.  GABAergic/inhibitory.
+molecular layer
+granule 
+cell layer
+Purkinje 
+cell layer
+
+=== PAGE 24 ===
+Summary of internal connections
+• Climbing fibers
+– olivocerebellar tract
+– excite cerebellar cortex and deep cerebellar nuclei 
+• Mossy fibers
+– all other tracts 
+– excite cerebellar cortex and deep cerebellar nuclei 
+• Purkinje cells 
+– output of cerebellar cortex
+• Deep cerebellar nuclei
+– excited by mossy fibers and climbing fibers (“raw” measured state)
+– inhibited by Purkinje cells (highly processed “predicted state”)
+– difference of this two is the final output of cerebellum
+
+=== PAGE 25 ===
+Cerebellar disorders can result 
+from a wide variety of causes
+ATAXIA is the most common symptom -  dyscoordination in timing & magnitude -> overshoots, 
+misdirected movements, and oscillations.
+Not weakness (palsy, paralysis), or spasticity!
+Similar to alcohol intoxication and are scrutinized in “Standard Field Sobriety Test”.
+Damage to just one region is rare, e.g. each cerebellar artery supplies different functional divisions.
+Damage specifically on one side would impact coordination on the same side.  
+Cerebellum controls the ipsilateral body.  
+Environmental: alcohol abuse, lithium, gluten intolerance
+Acute diseases: tumors, stroke (lateral medullary syndrome), trauma, & viral infections (chicken pox)
+Congenital malformations: Arnold-Chiari malformations & Dandy-Walker 
+Progressive hereditary disorders: Friedreich’s ataxia, multiple sclerosis
+
+=== PAGE 26 ===
+Cerebrocerebellar Dysfunction
+– Ataxia incl. misdirections and overshoots by the upper limb
+– Intention Tremor (increasing tremor as hand approaches the movement target) NOT resting tremor
+– *Dysdiadochokinesia (DDK),  pronunciation               dis-die-a-dah-ko-kinesia
+– Slurred speech
+– Hypotonia (low muscle tone)
+– Head trauma affecting dentate nuclei or lateral hemisphere, pontine degeneration
+Intention tremor
+Problems with rapid alternating movements*
+Causes
+Symptoms
+
+=== PAGE 27 ===
+Ataxic gait
+Anterior lobe degeneration
+Spinocerebellar dysfunction
+Dandy-Walker
+Causes
+Symptoms – Ataxic gait (feet too far apart or too close in irregular 
+progression, stagger, and reel in all directions as if intoxicated 
+by alcohol)
+– Anterior lobe degeneration (chronic alcoholism)
+– Dandy-Walker syndrome (underdeveloped vermis)
+– Arnold-Chiari syndrome (displaced tonsils)
+
+=== PAGE 28 ===
+Nystagmus (oscillating eye movements)
+Vestibulocerebellar dysfunction
+– Wide stance, loss of balance* -> fall to affected side, 
+*coordinated gait if the body is supported!
+– Nystagmus, inaccurate eye tracking & saccades, blurred vision
+– Vertigo and nausea
+– Medulloblastoma, vestibular cerebellar syndrome, viral 
+infection
+Causes
+Symptoms
+Balance impairment
+
+=== PAGE 29 ===
+Handy mnemonic!
+and some video examples
+•
+Dysdiadochokinesia  https://www.youtube.com/watch?v=ylcWsoBOGzk   
+•
+Ataxia   https://www.youtube.com/watch?v=vka_GwXd1os
+•
+Nystagmus
+•
+Intention tremor  https://www.youtube.com/watch?v=-dFMisBl1aM
+•
+Speech
+•
+Hypotonia
+DANISH
+
+=== PAGE 30 ===
+Essential Tremor
+Most common motor disorder, ~2% of population
+Present during postural hold or movement
+      (not rest tremor nor intention tremor)
+Nearly always involves the upper limb         
+(sometimes the vocal cords and head)
+Not associated with Parkinson’s dysfunction
+Appears around 40-50 yro
+Progressive 
+Strong genetic component (50% inheritance)
+No definitive cause BUT the consensus opinion 
+points to cerebellar dysfunction
+Ali (2022) Wearable sensors during drawing 
+tasks to measure severity of essential tremor
+https://www.youtube.com/watch?v=U3Ktz-UbqDo
+
+=== PAGE 31 ===
+Summary
+• Cerebellum is composed of a cortical sheet and internal nuclei.  
+• Processes information from the spinal cord, brainstem and cerebral cortex.
+• Functional divisions defined by cortical territory, output nuclei, and capabilities.
+• Information processing involves mossy fibers, climbing fibers, granule cells, 
+Purkinje cells and deep cerebellar nuclei.
+• Cerebellum is essential for coordination.  Dysfunction is manifest as ataxia.  
+
+=== PAGE 32 ===
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+Feedback is appreciated!

@@ -1,106 +1,102 @@
 window.Test_L34 = [
   {
     "id": 1,
-    "category": "Clinical Case: Asthma",
-    "questionText": "A 12-year-old girl with asthma is prescribed a \\\"rescue inhaler\\\" to be used only when she feels short of breath. Which of the following drugs is appropriate for this purpose due to its rapid onset and short duration?",
+    "category": "SABA vs LABA",
+    "questionText": "Which of the following is a Short-Acting Beta Agonist (SABA) used as a rescue inhaler for acute asthma?",
     "options": [
       {
         "text": "Salmeterol",
-        "explanation": "Incorrect (LABA - Long Acting, slow onset)."
-      },
-      {
-        "text": "Albuterol",
-        "explanation": "Correct. Albuterol is a Short-Acting Beta Agonist (SABA) used for acute bronchospasm.",
-        "isCorrect": true
+        "explanation": "Incorrect. LABA."
       },
       {
         "text": "Formoterol",
-        "explanation": "Incorrect (It is rapid onset, but usually classified as a LABA for maintenance, though rarely used as rescue in specific protocols, Albuterol is the classic SABA)."
+        "explanation": "Incorrect. LABA (though fast onset)."
       },
       {
-        "text": "Mirabegron",
-        "explanation": "Incorrect (Beta-3 for bladder)."
+        "text": "Albuterol",
+        "explanation": "Correct. The classic rescue inhaler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Indacaterol",
+        "explanation": "Incorrect. Ultra-LABA."
       },
       {
         "text": "Clonidine",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: SABA (Albuterol) = Rescue. LABA (Salmeterol) = Maintenance.",
-    "pdfPage": 9
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Albuterol = SABA (Rescue). Salmeterol = LABA (Maintenance).",
+    "pdfPage": 17
   },
   {
     "id": 2,
-    "category": "Pharmacology: Beta-2 Agonists",
-    "questionText": "Salmeterol is classified as a Long-Acting Beta Agonist (LABA) primarily because:",
+    "category": "Formoterol",
+    "questionText": "Formoterol is classified as a LABA (Long-Acting Beta Agonist), but it is unique because:",
     "options": [
       {
-        "text": "It binds irreversibly to the receptor",
+        "text": "It blocks Beta-1 receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is highly lipophilic and partitions into the cell membrane near the receptor",
-        "explanation": "Correct. This 'membrane anchor' allows it to stimulate the receptor over a long period (12+ hours).",
+        "text": "It has a rapid onset of action (1-3 mins)",
+        "explanation": "Correct. Fast onset unlike Salmeterol.",
         "isCorrect": true
       },
       {
-        "text": "It is not metabolized by the liver",
+        "text": "It is only given orally",
         "explanation": "Incorrect."
       },
       {
-        "text": "It stimulates Alpha receptors as well",
+        "text": "It causes sedation",
         "explanation": "Incorrect."
       },
       {
-        "text": "It is excreted unchanged",
+        "text": "It is an antagonist",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LABAs stick around because they dissolve into the lipid membrane (Lipophilic).",
-    "pdfPage": 12
+    "clinicalPearl": "Key takeaway: Formoterol = Fast onset LABA.",
+    "pdfPage": 9
   },
   {
     "id": 3,
-    "category": "Clinical Case: Premature Labor",
-    "questionText": "A pregnant woman at 30 weeks gestation presents with ********* contractions. Her physician administers Terbutaline (a beta-2 agonist) to delay labor. This 'Tocolytic' effect is mediated by:",
+    "category": "Tocolysis",
+    "questionText": "Terbutaline is a Beta-2 agonist used systemically in obstetrics to:",
     "options": [
       {
-        "text": "Contraction of uterine smooth muscle",
-        "explanation": "Incorrect."
+        "text": "Induce labor",
+        "explanation": "Incorrect. Oxytocin does that."
       },
       {
-        "text": "Relaxation of uterine smooth muscle via increased cAMP",
-        "explanation": "Correct. Beta-2 stimulation relaxes the myometrium.",
+        "text": "Delay premature labor (Tocolysis) for 48 hours",
+        "explanation": "Correct. Relaxes the uterus -> Buy time for steroids.",
         "isCorrect": true
       },
       {
-        "text": "Blockade of calcium channels",
-        "explanation": "Incorrect (Mechanism of Nifedipine, another tocolytic, but not Beta-2)."
-      },
-      {
-        "text": "Release of oxytocin",
+        "text": "Treat preeclampsia",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vasoconstriction of uterine arteries",
+        "text": "Increase milk production",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Constrict the cervix",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tocolysis = Uterine Relaxation. Beta-2 agonists do this (but also cause maternal tachycardia).",
-    "pdfPage": 19
+    "clinicalPearl": "Key takeaway: Terbutaline = Tocolytic (Stop labor).",
+    "pdfPage": 17
   },
   {
     "id": 4,
-    "category": "Pharmacology: Mirabegron",
-    "questionText": "Mirabegron acts on which specific receptor to treat Overactive Bladder (OAB)?",
+    "category": "Mirabegron",
+    "questionText": "Mirabegron is a selective ____ agonist used for Overactive Bladder (OAB).",
     "options": [
-      {
-        "text": "Alpha-1",
-        "explanation": "Incorrect."
-      },
       {
         "text": "Beta-1",
         "explanation": "Incorrect."
@@ -111,301 +107,26 @@ window.Test_L34 = [
       },
       {
         "text": "Beta-3",
-        "explanation": "Correct. Beta-3 receptors relax the detrusor muscle during the storage phase.",
+        "explanation": "Correct. Relaxes the detrusor.",
         "isCorrect": true
       },
       {
-        "text": "Muscarinic M3",
-        "explanation": "Incorrect (Antagonists are used here)."
+        "text": "Alpha-1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha-2",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: Mirabegron = Beta-3 Agonist = Bladder Relaxer.",
-    "pdfPage": 29
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Mirabegron -> Beta-3 -> Bladder relax.",
+    "pdfPage": 17
   },
   {
     "id": 5,
-    "category": "Clinical Case: Hypertension",
-    "questionText": "A patient with resistant hypertension is started on Clonidine. A few weeks later, he abruptly runs out of medication and stops taking it. He presents to the ER with severe headache, agitation, and a BP of 220/120. This 'Rebound Hypertension' is caused by:",
-    "options": [
-      {
-        "text": "Downregulation of Alpha-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sudden surge of sympathetic outflow from the CNS",
-        "explanation": "Correct. The 'brake' (Alpha-2 stimulation) was removed, and the pent-up sympathetic tone floods out.",
-        "isCorrect": true
-      },
-      {
-        "text": "Renal failure",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anaphylaxis to the withdrawal",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Activation of parasympathetic system",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: NEVER stop Clonidine abruptly. Rebound Hypertension can be fatal.",
-    "pdfPage": 40
-  },
-  {
-    "id": 6,
-    "category": "Pharmacology: Methyldopa",
-    "questionText": "Methyldopa is considered a 'False Transmitter' because it is converted into:",
-    "options": [
-      {
-        "text": "Alpha-methyl-epinephrine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alpha-methyl-norepinephrine",
-        "explanation": "Correct. This molecule replaces NE in vesicles and stimulates Alpha-2 receptors just like Clonidine.",
-        "isCorrect": true
-      },
-      {
-        "text": "Dopamine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Serotonin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acetylcholine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Methyldopa -> Alpha-methyl-NE -> Alpha-2 activation -> Lower BP.",
-    "pdfPage": 51
-  },
-  {
-    "id": 7,
-    "category": "Clinical Case: Pregnancy HTN",
-    "questionText": "A 32-year-old pregnant woman develops chronic hypertension. Which centrally acting alpha-2 agonist is considered safe and is a preferred agent for hypertension in pregnancy?",
-    "options": [
-      {
-        "text": "Clonidine",
-        "explanation": "Incorrect (Methyldopa is historically preferred)."
-      },
-      {
-        "text": "Methyldopa",
-        "explanation": "Correct. It has a long safety record and maintains uterine blood flow.",
-        "isCorrect": true
-      },
-      {
-        "text": "Lisinopril",
-        "explanation": "Incorrect (Contraindicated in pregnancy)."
-      },
-      {
-        "text": "Losartan",
-        "explanation": "Incorrect (Contraindicated)."
-      },
-      {
-        "text": "Furosemide",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Methyldopa = Mothers (Safe for HTN in pregnancy).",
-    "pdfPage": 54
-  },
-  {
-    "id": 8,
-    "category": "Pharmacology: Indirect Agonists",
-    "questionText": "Amphetamine exerts its sympathomimetic effect primarily by:",
-    "options": [
-      {
-        "text": "Directly binding to Beta-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Displacing Norepinephrine from storage vesicles and reversing the NET transporter",
-        "explanation": "Correct. It enters via NET, blocks VMAT, pushes NE out into cytosol, which then exits via NET (reverse transport).",
-        "isCorrect": true
-      },
-      {
-        "text": "Blocking the reuptake of Norepinephrine only (like Cocaine)",
-        "explanation": "Incorrect (Amphetamine actively RELEASES NE). "
-      },
-      {
-        "text": "Inhibiting MAO only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibiting COMT",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amphetamine forces NE OUT of the nerve terminal (Releaser).",
-    "pdfPage": 62
-  },
-  {
-    "id": 9,
-    "category": "Clinical Case: Diet Interaction",
-    "questionText": "A patient taking Phenelzine (an MAO Inhibitor) for depression attends a wine and cheese party. Later that night, he experiences a severe headache and palpitations. His BP is 210/110. This reaction is triggered by ingestion of:",
-    "options": [
-      {
-        "text": "Tyramine",
-        "explanation": "Correct. Tyramine (in aged foods) acts as an indirect sympathomimetic. Normally degraded by gut MAO, but with MAOI, it enters circulation and releases massive NE.",
-        "isCorrect": true
-      },
-      {
-        "text": "Tryptophan",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Phenylalanine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Gluten",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sodium",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: The 'Cheese Effect': MAOI + Tyramine = Hypertensive Crisis.",
-    "pdfPage": 66
-  },
-  {
-    "id": 10,
-    "category": "Pharmacology: Cocaine",
-    "questionText": "Cocaine functions as an indirect sympathomimetic by:",
-    "options": [
-      {
-        "text": "Entering the vesicle",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking the NET (Norepinephrine Transporter)",
-        "explanation": "Correct. It prevents reuptake, leaving more NE in the synapse.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stimulating Alpha-1 receptors directly",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibiting metabolism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Releasing Acetylcholine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Cocaine = Reuptake Inhibitor (NET blocker). Result: More synaptic NE.",
-    "pdfPage": 64
-  },
-  {
-    "id": 11,
-    "category": "Clinical Case: Mixed Agonist",
-    "questionText": "Ephedrine is often used to treat hypotension during anesthesia. It is classified as a 'Mixed Acting' sympathomimetic because:",
-    "options": [
-      {
-        "text": "It acts on both Alpha and Beta receptors directly AND causes release of stored NE",
-        "explanation": "Correct. Dual mechanism.",
-        "isCorrect": true
-      },
-      {
-        "text": "It acts on Dopamine and Serotonin receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It requires metabolic activation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It blocks both Alpha and Beta receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It has no direct effect",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Ephedrine = Mixed (Direct + Indirect).",
-    "pdfPage": 68
-  },
-  {
-    "id": 12,
-    "category": "Pharmacology: Formoterol",
-    "questionText": "Among the LABAs (Long-Acting Beta Agonists), Formoterol is unique because:",
-    "options": [
-      {
-        "text": "It has a very short half life",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It has a rapid onset of action (1-3 mins) similar to Albuterol",
-        "explanation": "Correct. Despite being long-acting, it starts working fast.",
-        "isCorrect": true
-      },
-      {
-        "text": "It only works on Beta-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is not inhaled",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It causes sedation",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Formoterol = Fast & Long.",
-    "pdfPage": 13
-  },
-  {
-    "id": 13,
-    "category": "Clinical Case: Decongestant",
-    "questionText": "A patient wishes to buy Pseudoephedrine for nasal congestion but is asked for ID at the pharmacy counter. This is because Pseudoephedrine is a precursor for the illicit manufacture of:",
-    "options": [
-      {
-        "text": "Cocaine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Methamphetamine",
-        "explanation": "Correct. Hence the 'Combat Methamphetamine Epidemic Act'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Heroin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "LSD",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Ecstasy",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pseudoephedrine = Meth precursor -> Behind the counter.",
-    "pdfPage": 70
-  },
-  {
-    "id": 14,
-    "category": "Pharmacology: Beta-2 Metabolic Effects",
-    "questionText": "Systemic administration of high-dose Beta-2 agonists (like Terbutaline or Albuterol) can cause which electrolyte abnormality?",
+    "category": "Beta Agonist Side Effects",
+    "questionText": "Systemic administration of Beta-2 agonists can cause which metabolic abnormality?",
     "options": [
       {
         "text": "Hyperkalemia",
@@ -413,8 +134,12 @@ window.Test_L34 = [
       },
       {
         "text": "Hypokalemia",
-        "explanation": "Correct. Beta-2 stimulation drives Potassium INTO skeletal muscle cells, lowering serum levels.",
+        "explanation": "Correct. Drives K+ into cells.",
         "isCorrect": true
+      },
+      {
+        "text": "Hypoglycemia",
+        "explanation": "Incorrect. Hyperglycemia."
       },
       {
         "text": "Hyponatremia",
@@ -423,253 +148,564 @@ window.Test_L34 = [
       {
         "text": "Hypercalcemia",
         "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta-2 agonists cause Hypokalemia and Tremor.",
+    "pdfPage": 17
+  },
+  {
+    "id": 6,
+    "category": "Clonidine Mechanism",
+    "questionText": "Clonidine lowers blood pressure by stimulating central ____ receptors, which decreases sympathetic outflow.",
+    "options": [
+      {
+        "text": "Alpha-1",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Hypermagnesemia",
+        "text": "Beta-1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha-2",
+        "explanation": "Correct. The brake pedal of the SNS.",
+        "isCorrect": true
+      },
+      {
+        "text": "Beta-2",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Clonidine = Central Alpha-2 Agonist -> Sympatholytic.",
+    "pdfPage": 19
+  },
+  {
+    "id": 7,
+    "category": "Rebound Hypertension",
+    "questionText": "Abrupt cessation of Clonidine can lead to severe:",
+    "options": [
+      {
+        "text": "Hypotension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Rebound Hypertension",
+        "explanation": "Correct. Sympathetic surge.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sedation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bradycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bronchospasm",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Beta-2 Agonists 'hide' Potassium in the cells -> Hypokalemia. (Insulin/Glucose does this too).",
-    "pdfPage": 23
+    "clinicalPearl": "Key takeaway: Never stop Clonidine cold turkey.",
+    "pdfPage": 19
   },
   {
-    "id": 15,
-    "category": "Clinical Case: Clonidine Side Effects",
-    "questionText": "A patient started on Clonidine for HTN complains of feeling extremely tired and having a 'cotton mouth'. These are common side effects representing:",
+    "id": 8,
+    "category": "Methyldopa",
+    "questionText": "Methyldopa is converted to ____, which acts as a 'false transmitter' and activates Alpha-2 receptors.",
     "options": [
       {
-        "text": "Sedation and Xerostomia (Dry Mouth)",
-        "explanation": "Correct. Very common with Alpha-2 agonists.",
+        "text": "Methyl-Epinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Alpha-Methylnorepinephrine",
+        "explanation": "Correct. Replaces NE in vesicles.",
         "isCorrect": true
       },
       {
-        "text": "Insomnia and Sialorrhea",
+        "text": "Dopamine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Diarrhea and Vomiting",
+        "text": "Tyramine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Tremor and Tachycardia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Muscle pain",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Clonidine makes you Sleepy and Dry.",
-    "pdfPage": 42
-  },
-  {
-    "id": 16,
-    "category": "Pharmacology: Route of Administration",
-    "questionText": "Why are Beta-2 agonists for asthma preferentially administered via inhalation rather than orally?",
-    "options": [
-      {
-        "text": "To increase systemic absorption",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To minimize systemic side effects (Tremor, Tachycardia) and maximize local effect",
-        "explanation": "Correct. Delivers drug right to the target (lungs) with minimal blood levels.",
-        "isCorrect": true
-      },
-      {
-        "text": "Because they are destroyed by stomach acid",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Because they taste good",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "To prevent metabolism by the lung",
+        "text": "Serotonin",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Inhalation = High Lung Dose, Low Body Dose.",
-    "pdfPage": 15
+    "clinicalPearl": "Key takeaway: Methyldopa -> Alpha-Methylnorepinephrine -> Alpha-2 agonist.",
+    "pdfPage": 40
   },
   {
-    "id": 17,
-    "category": "Clinical Case: Methyldopa Adverse",
-    "questionText": "A patient on Methyldopa develops fatigue. Labs show a positive Coombs test and anemia. The diagnosis is:",
+    "id": 9,
+    "category": "Pregnancy Hypertension",
+    "questionText": "The preferred Alpha-2 agonist for treating chronic hypertension in pregnancy is:",
     "options": [
       {
-        "text": "Iron deficiency anemia",
+        "text": "Clonidine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hemolytic Anemia",
-        "explanation": "Correct. Methyldopa can cause Type II Hypersensitivity (Autoimmune Hemolytic Anemia).",
+        "text": "Methyldopa",
+        "explanation": "Correct. Long safety record.",
         "isCorrect": true
       },
       {
-        "text": "B12 deficiency",
+        "text": "Phenylephrine",
         "explanation": "Incorrect."
       },
+      {
+        "text": "Epinephrine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Isoproterenol",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pregnant BP = Methyldopa (or Labetalol/Nifedipine).",
+    "pdfPage": 7
+  },
+  {
+    "id": 10,
+    "category": "Methyldopa Adverse Effects",
+    "questionText": "A rare but serious adverse effect of Methyldopa involves a positive Coombs test and:",
+    "options": [
       {
         "text": "Renal failure",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bone marrow suppression",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Methyldopa -> Positive Coombs -> Hemolysis.",
-    "pdfPage": 56
-  },
-  {
-    "id": 18,
-    "category": "Pharmacology: ADHD",
-    "questionText": "Clonidine and Guanfacine are Alpha-2 agonists used in ADHD. They are thought to work by:",
-    "options": [
-      {
-        "text": "Stimulating the Reward Center",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Modulating Prefrontal Cortex activity to improve attention and impulse control",
-        "explanation": "Correct. They 'tune' the signal-to-noise ratio in the PFC.",
+        "text": "Hemolytic Anemia",
+        "explanation": "Correct. Autoimmune hemolysis.",
         "isCorrect": true
       },
       {
-        "text": "Sedating the child completely",
-        "explanation": "Incorrect (Though sedation happens, it's not the goal for attention)."
-      },
-      {
-        "text": "Increasing muscle strength",
+        "text": "Lung fibrosis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dilating pupils",
+        "text": "Tachycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": " blindness",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alpha-2 agonists help the Prefrontal Cortex 'Focus'.",
-    "pdfPage": 45
+    "clinicalPearl": "Key takeaway: Methyldopa -> Coombs Positive Hemolytic Anemia.",
+    "pdfPage": 16
   },
   {
-    "id": 19,
-    "category": "Clinical Case: Withdrawal Management",
-    "questionText": "A patient is taking both Clonidine and a Beta Blocker (e.g., Propranolol). You need to stop the medications. The correct sequence is:",
+    "id": 11,
+    "category": "Amphetamine Mechanism",
+    "questionText": "Amphetamine increases synaptic Norepinephrine primarily by:",
     "options": [
       {
-        "text": "Stop Clonidine first, then Beta Blocker",
-        "explanation": "Incorrect (Dangerous - Unopposed Alpha constriction from rebound NE could cause hypertensive crisis)."
+        "text": "Directly binding Alpha receptors",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Stop Beta Blocker first (taper), then Clonidine",
-        "explanation": "Correct. Remove the beta-blockade so that if Clonidine withdrawal causes a NE surge, the Beta-2 receptors are available to vasodilate/buffer the pressure.",
+        "text": "Displacing NE from storage vesicles and reversing the NET",
+        "explanation": "Correct. The 'releaser'.",
         "isCorrect": true
       },
       {
-        "text": "Stop both simultaneously",
+        "text": "Blocking COMT",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increase the dose of both",
+        "text": "Inhibiting synthesis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Switch to a diuretic immediately",
+        "text": "Activating Muscarinic receptors",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: On & Off Rule: Beta-Blocker ON last, OFF first. (Never leave Alpha unopposed).",
-    "pdfPage": 47
+    "clinicalPearl": "Key takeaway: Amphetamines force NE out into the synapse.",
+    "pdfPage": 21
   },
   {
-    "id": 20,
-    "category": "Pharmacology: Alpha-2 Mechanism",
-    "questionText": "Activation of PRE-synaptic Alpha-2 receptors results in:",
+    "id": 12,
+    "category": "Cocaine Mechanism",
+    "questionText": "Cocaine increases synaptic catecholamines by:",
     "options": [
       {
-        "text": "Increased Calcium influx",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inhibition of Norepinephrine release",
-        "explanation": "Correct. Negative feedback loop.",
+        "text": "Blocking the Reuptake Transporters (NET/DAT)",
+        "explanation": "Correct. Reuptake inhibitor.",
         "isCorrect": true
       },
       {
-        "text": "Release of Dopamine",
+        "text": "Displacing vesicles",
+        "explanation": "Incorrect. That's Amphetamine."
+      },
+      {
+        "text": "Blocking MAO",
         "explanation": "Incorrect."
       },
       {
-        "text": "Post-synaptic excitation",
+        "text": "Activating Beta receptors directly",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vasodilation directly",
-        "explanation": "Incorrect (Presynaptic effect is on release)."
+        "text": "Blocking Alpha-2 receptors",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Cocaine = Reuptake Inhibitor.",
+    "pdfPage": 28
+  },
+  {
+    "id": 13,
+    "category": "Tyramine Reaction",
+    "questionText": "Patients taking MAO Inhibitors must avoid aged cheese and wine containing ____ to prevent hypertensive crisis.",
+    "options": [
+      {
+        "text": "Tyrosine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Tyramine",
+        "explanation": "Correct. Displaces NE if not broken down by MAO.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tryptophan",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Thiamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Theophylline",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Presynaptic Alpha-2 = The 'Off Switch' for NE release.",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: MAOi + Cheese (Tyramine) = Hypertensive Crisis.",
+    "pdfPage": 29
   },
   {
-    "id": 21,
-    "category": "Clinical Case: OAB Caution",
-    "questionText": "Mirabegron should be used with caution in patients with:",
+    "id": 14,
+    "category": "Pseudoephedrine",
+    "questionText": "Pseudoephedrine is an isomer of Ephedrine used as a nasal decongestant. It acts by:",
     "options": [
       {
-        "text": "Asthma",
+        "text": "Blocking Histamine receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Uncontrolled Hypertension",
-        "explanation": "Correct. Beta-3 stimulation can raise BP slightly.",
+        "text": "Releasing NE and directly stimulating Alpha receptors",
+        "explanation": "Correct. Mixed action.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocking Beta receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhibiting MAO",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Relaxing nasal vessels",
+        "explanation": "Incorrect. Constricts them."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Pseudoephedrine = Mixed Sympathomimetic (Decongestant).",
+    "pdfPage": 36
+  },
+  {
+    "id": 15,
+    "category": "ADHD Treatment",
+    "questionText": "Clonidine and Guanfacine are used in ADHD to:",
+    "options": [
+      {
+        "text": "Increase dopamine release",
+        "explanation": "Incorrect. That's stimulants."
+      },
+      {
+        "text": "Regulate prefrontal cortex activity via Alpha-2 agonism",
+        "explanation": "Correct. Non-stimulant option.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cause sedation only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Block Norepinephrine reuptake",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Antagonize Dopamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Alpha-2 agonists help focus in ADHD.",
+    "pdfPage": 20
+  },
+  {
+    "id": 16,
+    "category": "Ephedrine Use",
+    "questionText": "Ephedrine is historically used for:",
+    "options": [
+      {
+        "text": "Hypertension treatment",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypotension during anesthesia",
+        "explanation": "Correct. Pressor effect.",
         "isCorrect": true
       },
       {
         "text": "Glaucoma",
-        "explanation": "Incorrect (Antimuscarinics are the worry here)."
-      },
-      {
-        "text": "Diabetes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hypothyroid",
+        "text": "Insomnia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diarrhea",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Check BP before starting Mirabegron.",
-    "pdfPage": 30
+    "clinicalPearl": "Key takeaway: Ephedrine treats low BP in surgery.",
+    "pdfPage": 7
   },
   {
-    "id": 22,
-    "category": "Pharmacology: COMT Inhibitors",
-    "questionText": "Entacapone acts by inhibiting COMT. This is useful in Parkinson's disease because it:",
+    "id": 17,
+    "category": "Atomoxetine",
+    "questionText": "Atomoxetine used for ADHD is a selective inhibitor of:",
     "options": [
       {
-        "text": "Directly stimulates Dopamine receptors",
+        "text": "Serotonin Reuptake (SERT)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Prevents the peripheral degradation of Levodopa, allowing more to enter the CNS",
-        "explanation": "Correct. It extends the 'On' time for Levodopa.",
+        "text": "Norepinephrine Reuptake (NET)",
+        "explanation": "Correct. Non-stimulant NET inhibitor.",
         "isCorrect": true
       },
       {
-        "text": "Increases Acetylcholine",
+        "text": "Dopamine Reuptake (DAT)",
         "explanation": "Incorrect."
       },
       {
-        "text": "Blocks Serotonin reuptake",
+        "text": "MAO-A",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "COMT",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Atomoxetine = Selective NET inhibitor (ADHD).",
+    "pdfPage": 28
+  },
+  {
+    "id": 18,
+    "category": "Glucocorticoids in Asthma",
+    "questionText": "While LABAs are useful for asthma maintenance, they are typically combined with ____ for anti-inflammatory effects.",
+    "options": [
+      {
+        "text": "Beta blockers",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inhaled Glucocorticoids",
+        "explanation": "Correct. LABA monotherapy is dangerous in asthma.",
+        "isCorrect": true
+      },
+      {
+        "text": "Opioids",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Antibiotics",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Insulin",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Asthma Maintenance = LABA + Steroid.",
+    "pdfPage": 7
+  },
+  {
+    "id": 19,
+    "category": "Hypokalemia Mechanism",
+    "questionText": "Beta-2 agonists cause hypokalemia by:",
+    "options": [
+      {
+        "text": "Increasing renal excretion of K+",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Shifting K+ into skeletal muscle cells",
+        "explanation": "Correct. Direct uptake.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreasing K+ absorption in gut",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Vomiting",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sweating",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Beta-2 stimulants drive Potassium into cells.",
+    "pdfPage": 8
+  },
+  {
+    "id": 20,
+    "category": "OAB Mechanism",
+    "questionText": "Overactive Bladder (OAB) is treated with Beta-3 agonists (Mirabegron) which relax the bladder, OR with ____ antagonists.",
+    "options": [
+      {
+        "text": "Nicotinic",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscarinic (M3)",
+        "explanation": "Correct. Anticholinergics inhibit contraction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpha-1",
+        "explanation": "Incorrect. Alpha- blockers treat BPH, not OAB per se.",
+        "isCorrect": false
+      },
+      {
+        "text": "Beta-1",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dopamine",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: OAB = Beta-3 Agonist OR Muscarinic Antagonist.",
+    "pdfPage": 15
+  },
+  {
+    "id": 21,
+    "category": "Methyldopa Side Effects",
+    "questionText": "Besides hemolytic anemia, Methyldopa is associated with:",
+    "options": [
+      {
+        "text": "Tachycardia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sedation and Depression",
+        "explanation": "Correct. Central effects.",
+        "isCorrect": true
+      },
+      {
+        "text": "Insomnia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Weight loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Methyldopa can make you sleepy and depressed.",
+    "pdfPage": 25
+  },
+  {
+    "id": 22,
+    "category": "Clonidine Uses",
+    "questionText": "Which of the following is NOT a common therapeutic use for Clonidine?",
+    "options": [
+      {
+        "text": "Hypertension",
+        "explanation": "Incorrect. It is used.",
+        "isCorrect": false
+      },
+      {
+        "text": "Opioid Withdrawal",
+        "explanation": "Incorrect. It is used.",
+        "isCorrect": false
+      },
+      {
+        "text": "ADHD",
+        "explanation": "Incorrect. It is used.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anaphylaxis",
+        "explanation": "Correct. Use Epinephrine.",
+        "isCorrect": true
+      },
+      {
+        "text": "Epidural Pain Management",
+        "explanation": "Incorrect. It is used.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Clonidine lowers SNS outflow. Not for Anaphylaxis.",
+    "pdfPage": 17
+  },
+  {
+    "id": 23,
+    "category": "Cocaine vs Amphetamine",
+    "questionText": "Cocaine differs from Amphetamine in that Cocaine:",
+    "options": [
+      {
+        "text": "Displaces vesicles",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocks Na+ channels (Local Anesthesia)",
+        "explanation": "Correct. Also blocks reuptake, but the anesthetic part is unique.",
+        "isCorrect": true
+      },
+      {
+        "text": "Is not addictive",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Actives Muscarinic receptors",
         "explanation": "Incorrect."
       },
       {
@@ -678,410 +714,380 @@ window.Test_L34 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: COMT inhibitors save Levodopa from being eaten in the periphery.",
-    "pdfPage": 68
-  },
-  {
-    "id": 23,
-    "category": "Clinical Case: Nasal Congestion",
-    "questionText": "A patient uses Phenylephrine or Pseudoephedrine for a cold. The mechanism of decongestion is:",
-    "options": [
-      {
-        "text": "Beta-2 Vasodilation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Alpha-1 Vasoconstriction of nasal mucosa vessels",
-        "explanation": "Correct. Shrinks the swollen tissue (turbinates).",
-        "isCorrect": true
-      },
-      {
-        "text": "Histamine antagonism",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mucus drying (Antimuscarinic)",
-        "explanation": "Incorrect (Though antihistamines do this, sympathomimetics constrict)."
-      },
-      {
-        "text": "Cough suppression",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alpha-1 Squeeze = Nose clear.",
-    "pdfPage": 70
+    "clinicalPearl": "Key takeaway: Cocaine = Reuptake Inhibitor + Na+ Channel Blocker (Anesthetic).",
+    "pdfPage": 28
   },
   {
     "id": 24,
-    "category": "Pharmacology: Central Control",
-    "questionText": "Clonidine acts centrally in which part of the brainstem to reduce sympathetic outflow?",
+    "category": "LABA Safety",
+    "questionText": "In asthma, LABA monotherapy (without a steroid) is associated with:",
     "options": [
       {
-        "text": "Cerebellum",
+        "text": "Increased survival",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vasomotor Center (Nucleus Tractus Solitarius relationship)",
-        "explanation": "Correct. It tricks the brain into thinking BP is too high, so it turns down the sympathetic volume.",
+        "text": "Increased risk of asthma-related death",
+        "explanation": "Correct. Black box warning (historic).",
         "isCorrect": true
       },
       {
-        "text": "Thalamus",
+        "text": "Better outcomes",
         "explanation": "Incorrect."
       },
       {
-        "text": "Basal Ganglia",
+        "text": "Cure",
         "explanation": "Incorrect."
       },
       {
-        "text": "Hippocampus",
+        "text": "No effect",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Clonidine works at the control center (Brainstem).",
-    "pdfPage": 38
+    "clinicalPearl": "Key takeaway: Never use LABA alone in Asthma.",
+    "pdfPage": 42
   },
   {
     "id": 25,
-    "category": "Clinical Case: Pain Management",
-    "questionText": "Epidural Clonidine is sometimes used as an adjunct for severe pain. Mechanism?",
+    "category": "False Transmitter",
+    "questionText": "A 'False Transmitter' is a molecule that is stored and released like a neurotransmitter but has less or different activity. The classic example is:",
     "options": [
       {
-        "text": "Opioid receptor agonism",
+        "text": "Acetylcholine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Inhibition of pain transmission via Alpha-2 receptors in the spinal cord",
-        "explanation": "Correct. It blocks the pain signal traffic.",
+        "text": "Alpha-methylnorepinephrine (from Methyldopa)",
+        "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Anti-inflammatory effect",
+        "text": "Serotonin",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sedation only",
+        "text": "Glutamate",
         "explanation": "Incorrect."
       },
       {
-        "text": "Placebo effect",
+        "text": "Histamine",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alpha-2 agonists have analgesic properties in the spine.",
-    "pdfPage": 41
+    "clinicalPearl": "Key takeaway: Methyldopa creates a false transmitter.",
+    "pdfPage": 36
   },
   {
     "id": 26,
-    "category": "Pharmacology: NET Transporter",
-    "questionText": "The primary mechanism for terminating the action of synaptic Norepinephrine is:",
+    "category": "Tyramine Foods",
+    "questionText": "Tyramine is dangerous with MAOIs because it acts as a:",
     "options": [
       {
-        "text": "Metabolism by COMT",
-        "explanation": "Incorrect (Secondary)."
-      },
-      {
-        "text": "Metabolism by MAO",
-        "explanation": "Incorrect (Secondary)."
-      },
-      {
-        "text": "Reuptake into the presynaptic neuron via NET",
-        "explanation": "Correct. Recycling is the main way to stop the signal (approx 90%).",
-        "isCorrect": true
-      },
-      {
-        "text": "Diffusion away",
+        "text": "Direct Alpha agonist",
         "explanation": "Incorrect."
       },
       {
-        "text": "Binding to protein",
+        "text": "Indirect releasing agent",
+        "explanation": "Correct. Dumps NE vesicles.",
+        "isCorrect": true
+      },
+      {
+        "text": "Beta blocker",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscarinic agonist",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Calcium channel blocker",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Tyramine works like Amphetamine (Releaser).",
+    "pdfPage": 42
+  },
+  {
+    "id": 27,
+    "category": "Beta Blockers and Clonidine",
+    "questionText": "Why should Beta Blockers be withdrawn BEFORE Clonidine when stopping both?",
+    "options": [
+      {
+        "text": "To prevent hypotension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To prevent unopposed Alpha-mediated vasoconstriction during reflex surge (Rebound HTN)",
+        "explanation": "Correct. If B-blocked, A-squeeze is unchallenged.",
+        "isCorrect": true
+      },
+      {
+        "text": "To increase heart rate",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "To prevent sedation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No reason",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Withdrawing Clonidine causes NE surge. If Beta is blocked, NE hits Alpha only -> MASSIVE BP SPIKE.",
+    "pdfPage": 21
+  },
+  {
+    "id": 28,
+    "category": "Levalbuterol",
+    "questionText": "Levalbuterol is the ____ enantiomer of Albuterol.",
+    "options": [
+      {
+        "text": "R-isomer (active)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "S-isomer (inactive)",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Racemic mixture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Metabolite",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Prodrug",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Levalbuterol = Pure active Albuterol.",
+    "pdfPage": 17
+  },
+  {
+    "id": 29,
+    "category": "COPD Treatment",
+    "questionText": "Indacaterol and Olodaterol are 'Ultra-LABAs' used primarily for:",
+    "options": [
+      {
+        "text": "Acute asthma",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "COPD maintenance (Once daily)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Anaphylaxis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "ADHD",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hypotension",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ultra-LABAs = Once Daily COPD.",
+    "pdfPage": 7
+  },
+  {
+    "id": 30,
+    "category": "Ephedrine Efficacy",
+    "questionText": "Ephedrine has less potency than Epinephrine but:",
+    "options": [
+      {
+        "text": "A shorter duration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Oral availability and longer duration",
+        "explanation": "Correct. Resistant to COMT/MAO.",
+        "isCorrect": true
+      },
+      {
+        "text": "No CNS effects",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blocks receptors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Is inactive",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Ephedrine = Oral, Long-acting, Mixed.",
+    "pdfPage": 30
+  },
+  {
+    "id": 31,
+    "category": "Clonidine Side Effects - Dry Mouth",
+    "questionText": "A very common nuisance side effect of Clonidine is:",
+    "options": [
+      {
+        "text": "Diarrhea",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Xerostomia (Dry Mouth)",
+        "explanation": "Correct. Central inhibition of saliva.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hair loss",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Gingival hyperplasia",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cough",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Clonidine -> Dry Mouth & Sedation.",
+    "pdfPage": 19
+  },
+  {
+    "id": 32,
+    "category": "MAO Inhibitors",
+    "questionText": "MAO inhibitors increase levels of:",
+    "options": [
+      {
+        "text": "Norepinephrine only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Serotonin only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "DA, NE, and Serotonin (Monoamines)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acetylcholine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "GABA",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Reuptake (NET) is the vacuum cleaner of the synapse.",
-    "pdfPage": 60
-  },
-  {
-    "id": 27,
-    "category": "Clinical Case: Orthostasis",
-    "questionText": "Why does Clonidine cause orthostatic hypotension?",
-    "options": [
-      {
-        "text": "It blocks Beta-1 receptors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It blunts the sympathetic reflex vasoconstriction needed upon standing",
-        "explanation": "Correct. When you stand, gravity pulls blood down. Your sympathetic system usually tightens the vessels. Clonidine suppresses this reflex.",
-        "isCorrect": true
-      },
-      {
-        "text": "It causes volume depletion",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It causes loss of balance",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It weakens the heart muscle",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sympatholytics -> No Squeeze on Standing -> Dizzy (Orthostasis).",
-    "pdfPage": 42
-  },
-  {
-    "id": 28,
-    "category": "Pharmacology: Ephedrine Bioavailability",
-    "questionText": "Compared to Epinephrine, Ephedrine has:",
-    "options": [
-      {
-        "text": "Poor oral bioavailability",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "High oral bioavailability and longer duration",
-        "explanation": "Correct. It lacks the catechol structure (no OH groups), making it resistant to COMT/MAO breakdown in gut.",
-        "isCorrect": true
-      },
-      {
-        "text": "Shorter duration",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "No CNS penetration",
-        "explanation": "Incorrect (It crosses BBB, hence use as stimulant). "
-      },
-      {
-        "text": "Only Beta effects",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Non-Catechols (Ephedrine) = Oral active + Long lasting.",
-    "pdfPage": 68
-  },
-  {
-    "id": 29,
-    "category": "Clinical Case: Asthma Maintenance",
-    "questionText": "A patient with asthma uses Fluticasone (Steroid) and Salmeterol (LABA) daily. He asks if he can stop the steroid and just use the Salmeterol. You advise against this because:",
-    "options": [
-      {
-        "text": "Salmeterol doesn't work without steroids",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "LABA monotherapy in asthma is associated with increased mortality/severe exacerbations",
-        "explanation": "Correct. The 'Black Box' warning. LABAs mask symptoms while inflammation continues. Must use with steroid.",
-        "isCorrect": true
-      },
-      {
-        "text": "Salmeterol is addictive",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Salmeterol causes weight gain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Steroids are cheaper",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: In Asthma: LABA is a sidekick, never the hero (use with Steroid). In COPD, LABA monotherapy is fine.",
-    "pdfPage": 18
-  },
-  {
-    "id": 30,
-    "category": "Pharmacology: Definition",
-    "questionText": "A 'Sympatholytic' drug is one that:",
-    "options": [
-      {
-        "text": "Mimics the sympathetic system",
-        "explanation": "Incorrect (Sympathomimetic)."
-      },
-      {
-        "text": "Reduces or blocks sympathetic activity",
-        "explanation": "Correct. 'Lytic' = Cut/Break.",
-        "isCorrect": true
-      },
-      {
-        "text": "Increases heart rate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Causes mydriasis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Releases Epinephrine",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Clonidine is a Sympatholytic (blocks outflow). Epinephrine is a Sympathomimetic.",
-    "pdfPage": 38
-  },
-  {
-    "id": 31,
-    "category": "Clinical Case: Glaucoma drug",
-    "questionText": "Apraclonidine (derivative of clonidine) is used topically for glaucoma. It works by:",
-    "options": [
-      {
-        "text": "Increasing aqueous outflow via PGF2a",
-        "explanation": "Incorrect (Latanoprost)."
-      },
-      {
-        "text": "Decreasing aqueous humor production via Alpha-2 stimulation",
-        "explanation": "Correct. Alpha-2 receptors in ciliary body reduce production.",
-        "isCorrect": true
-      },
-      {
-        "text": "Constricting the pupil",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dilating the pupil",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Blocking Beta receptors",
-        "explanation": "Incorrect (Timolol)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alpha-2 agonists (Brimonidine/Apraclonidine) turn down the faucet in the eye.",
-    "pdfPage": 45
-  },
-  {
-    "id": 32,
-    "category": "Pharmacology: VMAT",
-    "questionText": "VMAT (Vesicular Monoamine Transporter) is the target blocked by which drug, allowing NE to leak into the cytosol?",
-    "options": [
-      {
-        "text": "Cocaine",
-        "explanation": "Incorrect (Blocks NET)."
-      },
-      {
-        "text": "Amphetamine",
-        "explanation": "Correct. Amphetamine enters via NET, then blocks VMAT. NE spills out, then reverses through NET.",
-        "isCorrect": true
-      },
-      {
-        "text": "Clonidine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Mirabegron",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Albuterol",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amphetamine attacks the storage vesicle (VMAT).",
-    "pdfPage": 62
+    "clinicalPearl": "Key takeaway: MAO degrades all monoamines.",
+    "pdfPage": 29
   },
   {
     "id": 33,
-    "category": "Clinical Case: Anaphylaxis prevention?",
-    "questionText": "While Epinephrine is used for acute anaphylaxis, which drug is used for *prevention* of bronchopsasm in asthma? (Repeated concept for emphasis)",
+    "category": "COMT Inhibitor Use",
+    "questionText": "COMT inhibitors (like Entacapone) are used in Parkinson's disease to:",
     "options": [
       {
-        "text": "Epinephrine",
+        "text": "Block Dopamine receptors",
         "explanation": "Incorrect."
       },
       {
-        "text": "Glucocorticoids + LABA",
-        "explanation": "Correct. Long term control.",
+        "text": "Prevent degradation of Levodopa periferally",
+        "explanation": "Correct. More L-Dopa gets to brain.",
         "isCorrect": true
       },
       {
-        "text": "Dobutamine",
+        "text": "Increase Acetylcholine",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dopamine",
+        "text": "Lower BP",
         "explanation": "Incorrect."
       },
       {
-        "text": "Phenylephrine",
+        "text": "Cause sedation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute = SABA/Epi. Chronic = LABA + Steroid.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: COMT inhibitors boost Levodopa.",
+    "pdfPage": 29
   },
   {
     "id": 34,
-    "category": "Pharmacology: Tachyphylaxis",
-    "questionText": "Regular use of SABA (Albuterol) multiple times a day is discouraged because it leads to:",
+    "category": "Dobutamine Tachyphylaxis",
+    "questionText": "The mechanism of Tachyphylaxis with Beta agonists involves:",
     "options": [
       {
-        "text": "Increased efficacy",
+        "text": "Receptor Upregulation",
         "explanation": "Incorrect."
       },
       {
-        "text": "Receptor downregulation / Tolerance",
-        "explanation": "Correct. The receptors hide (internalize), making the drug less effective.",
+        "text": "Receptor Desensitization/Internalization",
+        "explanation": "Correct. They hide inside the cell.",
         "isCorrect": true
       },
       {
-        "text": "Regeneration of lungs",
+        "text": "Enzyme induction",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dependency like opioids",
+        "text": "Increased excretion",
         "explanation": "Incorrect."
       },
       {
-        "text": "Increased Alpha receptors",
+        "text": "Antibody neutralization",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Don't overuse the rescue inhaler -> Tolerance.",
-    "pdfPage": 21
+    "clinicalPearl": "Key takeaway: Agonists cause Downregulation/Desensitization.",
+    "pdfPage": 17
   },
   {
     "id": 35,
-    "category": "Clinical Case: OAB Combination",
-    "questionText": "For Overactive Bladder, Mirabegron is often combined with which class of drugs for synergistic effect?",
+    "category": "Beta-2 vs Beta-1",
+    "questionText": "Selective Beta-2 agonists have less cardiac side effects than non-selective ones because they spare which receptor on the heart?",
     "options": [
       {
-        "text": "Alpha Blockers",
+        "text": "Alpha-1",
         "explanation": "Incorrect."
       },
       {
-        "text": "Muscarinic Antagonists (e.g., Oxybutynin)",
-        "explanation": "Correct. One stimulates relaxation (Beta-3), the other blocks contraction (M3).",
+        "text": "Beta-1",
+        "explanation": "Correct. Beta-1 is the primary heart motor.",
         "isCorrect": true
       },
       {
-        "text": "Beta Blockers",
+        "text": "Beta-2",
+        "explanation": "Incorrect. Some B2 in heart but B1 is main.",
+        "isCorrect": false
+      },
+      {
+        "text": "Muscarinic",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cholinesterase Inhibitors",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diuretics",
+        "text": "Alpha-2",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: OAB Two-Punch: Relax the bag (Mirabegron) + Stop the Squeeze (Anticholinergic).",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Selectivity avoids Tachycardia (mostly).",
+    "pdfPage": 8
   }
 ];

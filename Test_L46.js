@@ -1,1087 +1,1087 @@
 window.Test_L46 = [
   {
     "id": 1,
-    "category": "Neuro: Special Tests",
-    "questionText": "A 45-year-old male presents with severe neck pain radiating down the right arm. You perform the Spurling test by extending and rotating the head to the right and applying downward pressure. A positive result is indicated by:",
+    "category": "Sensory Pathways",
+    "questionText": "The Spinothalamic Tract conveys which modalities?",
     "options": [
       {
-        "text": "Relief of neck pain",
-        "explanation": "Incorrect (Relief = Distraction test)."
+        "text": "Fine touch and Proprioception",
+        "explanation": "Incorrect. Posterior columns."
       },
       {
-        "text": "Reproduction of pain radiating down the right arm",
-        "explanation": "Correct. Compresses the neural foramen, irritating the nerve root.",
+        "text": "Pain, Temperature, and Crude touch",
+        "explanation": "Correct. Small, unmyelinated/thinly myelinated axons.",
         "isCorrect": true
       },
       {
-        "text": "Pain localized only to the neck",
-        "explanation": "Incorrect (Must radiate for radiculopathy)."
-      },
-      {
-        "text": "Numbness in the left arm",
+        "text": "Motor only",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dizziness and vertigo",
-        "explanation": "Incorrect (Vertebral artery compression)."
+        "text": "Vibration only",
+        "explanation": "Incorrect. Posterior columns."
+      },
+      {
+        "text": "Vision",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spurling Test + Radiation = Cervical Radiculopathy.",
-    "pdfPage": 18
+    "clinicalPearl": "Key takeaway: Spinothalamic = Pain + Temperature + Crude touch.",
+    "pdfPage": 4
   },
   {
     "id": 2,
-    "category": "Neuro: Sensory",
-    "questionText": "Vibration sensation is best tested using a tuning fork of which frequency?",
+    "category": "Sensory Pathways",
+    "questionText": "The Posterior Columns convey which modalities?",
     "options": [
       {
-        "text": "512 Hz",
-        "explanation": "Incorrect (Hearing/Weber/Rinne)."
+        "text": "Pain and Temperature",
+        "explanation": "Incorrect. STT."
       },
       {
-        "text": "128 Hz",
-        "explanation": "Correct. Low frequency is best for vibration sense (PCML).",
+        "text": "Vibration, Proprioception, Kinesthesia, Pressure, and Fine touch",
+        "explanation": "Correct. Large, heavily myelinated axons.",
         "isCorrect": true
       },
       {
-        "text": "256 Hz",
+        "text": "Motor",
         "explanation": "Incorrect."
       },
       {
-        "text": "1024 Hz",
-        "explanation": "Incorrect."
+        "text": "Crude touch only",
+        "explanation": "Incorrect. STT."
       },
       {
-        "text": "64 Hz",
+        "text": "Auditory",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: 128 Hz = Vibration; 512 Hz = Hearing.",
-    "pdfPage": 8
+    "clinicalPearl": "Key takeaway: Posterior Columns (DCML) = Vibration + Proprioception + Fine touch.",
+    "pdfPage": 4
   },
   {
     "id": 3,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient complains of 'numbness' in the ring and little finger of the right hand, especially upon waking up. This distribution is most consistent with compression of which nerve?",
-    "options": [
-      {
-        "text": "Median Nerve",
-        "explanation": "Incorrect (Thumb/Index/Middle - Carpal Tunnel)."
-      },
-      {
-        "text": "Ulnar Nerve",
-        "explanation": "Correct. C8-T1 distribution, often compressed at the elbow (Cubital Tunnel).",
-        "isCorrect": true
-      },
-      {
-        "text": "Radial Nerve",
-        "explanation": "Incorrect (Dorsum of hand/web space)."
-      },
-      {
-        "text": "Musculocutaneous Nerve",
-        "explanation": "Incorrect (Lateral forearm)."
-      },
-      {
-        "text": "Axillary Nerve",
-        "explanation": "Incorrect (Shoulder)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Ring/Pinky numbness = Ulnar Nerve (Funny Bone).",
-    "pdfPage": 30
-  },
-  {
-    "id": 4,
-    "category": "Neuro: Sensory",
-    "questionText": "The inability to identify an object (like a key or coin) placed in the hand with eyes closed is termed:",
-    "options": [
-      {
-        "text": "Astereognosis",
-        "explanation": "Correct. Failure of tactile recognition (Parietal lobe function).",
-        "isCorrect": true
-      },
-      {
-        "text": "Agraphesthesia",
-        "explanation": "Incorrect (Number writing)."
-      },
-      {
-        "text": "Anesthesia",
-        "explanation": "Incorrect (No touch sensation)."
-      },
-      {
-        "text": "Analgesia",
-        "explanation": "Incorrect (No pain)."
-      },
-      {
-        "text": "Ataxia",
-        "explanation": "Incorrect (Coordination)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Stereognosis = identifying objects by touch.",
-    "pdfPage": 11
-  },
-  {
-    "id": 5,
-    "category": "Neuro: Special Tests",
-    "questionText": "You are performing a Straight Leg Raise (SLR) on a patient with lower back pain. They report shooting pain down the leg at 45 degrees. To confirm the sciatic origin (Braggart's Test), you lower the leg slightly and then:",
-    "options": [
-      {
-        "text": "Internally rotate the hip",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Dorsiflex the foot",
-        "explanation": "Correct. Stretches the sciatic nerve/tibial nerve further.",
-        "isCorrect": true
-      },
-      {
-        "text": "Plantarflex the foot",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Flex the knee",
-        "explanation": "Incorrect (Relieves tension)."
-      },
-      {
-        "text": "Ask them to cough",
-        "explanation": "Incorrect (Valsalva)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Braggart's = SLR + Dorsiflexion.",
-    "pdfPage": 21
-  },
-  {
-    "id": 6,
-    "category": "Neuro: Meningeal Signs",
-    "questionText": "Brudzinski's sign is positive when:",
-    "options": [
-      {
-        "text": "Passive extension of the knee causes neck pain",
-        "explanation": "Incorrect (Kernig-ish)."
-      },
-      {
-        "text": "Passive flexion of the neck causes involuntary flexion of the hips and knees",
-        "explanation": "Correct. Meningeal irritation stretches nerve roots.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stroking the sole of the foot causes big toe extension",
-        "explanation": "Incorrect (Babinski)."
-      },
-      {
-        "text": "Tapping the cheek causes facial spasm",
-        "explanation": "Incorrect (Chvostek)."
-      },
-      {
-        "text": "Neck flexion causes electrical shock down the spine",
-        "explanation": "Incorrect (Lhermitte's)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Brudzinski = Brain/Neck flexion -> Knees up.",
-    "pdfPage": 16
-  },
-  {
-    "id": 7,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient presents with weakness of the left leg. You suspect malingering. You perform the Hoover test by asking them to raise the 'weak' left leg while cupping their right heel. A positive result for malingering/lack of effort is indicated by:",
-    "options": [
-      {
-        "text": "Increased downward pressure of the right heel",
-        "explanation": "Incorrect (Normal physiologic response)."
-      },
-      {
-        "text": "Absence of downward pressure of the right heel",
-        "explanation": "Correct. If they were truly trying to lift the left leg, the right leg would drive down for leverage.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pain in the right heel",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cramping in the left leg",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Fasciculations in the left leg",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hoover Test: No contralateral heel pressure = lack of effort.",
-    "pdfPage": 24
-  },
-  {
-    "id": 8,
-    "category": "Neuro: Sensory",
-    "questionText": "Which dermatome corresponds to the level of the umbilicus?",
-    "options": [
-      {
-        "text": "T4",
-        "explanation": "Incorrect (Nipples)."
-      },
-      {
-        "text": "T10",
-        "explanation": "Correct. Umbilicus.",
-        "isCorrect": true
-      },
-      {
-        "text": "L1",
-        "explanation": "Incorrect (Inguinal)."
-      },
-      {
-        "text": "C6",
-        "explanation": "Incorrect (Thumb)."
-      },
-      {
-        "text": "S1",
-        "explanation": "Incorrect (Lateral foot)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: T4 = Teat/Nipple; T10 = Belly butTen.",
-    "pdfPage": 5
-  },
-  {
-    "id": 9,
-    "category": "Neuro: Terminology",
-    "questionText": "A painful sensation provoked by a stimulus that is normally not painful (e.g., bed sheets touching the feet) is called:",
-    "options": [
-      {
-        "text": "Analgesia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Allodynia",
-        "explanation": "Correct. Classic feature of neuropathic pain / CRPS.",
-        "isCorrect": true
-      },
-      {
-        "text": "Hypesthesia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Paresthesia",
-        "explanation": "Incorrect (Pins and needles, spontaneous)."
-      },
-      {
-        "text": "Anesthesia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Allodynia = Pain from non-painful stimulus.",
-    "pdfPage": 2
-  },
-  {
-    "id": 10,
-    "category": "Neuro: Special Tests",
-    "questionText": "Kernig's sign is performed by:",
-    "options": [
-      {
-        "text": "Flexing the neck",
-        "explanation": "Incorrect (Brudzinski)."
-      },
-      {
-        "text": "Flexing the hip and knee to 90 degrees, then extending the knee",
-        "explanation": "Correct. Positive if pain/resistance prevents extension.",
-        "isCorrect": true
-      },
-      {
-        "text": "Compressing the head downwards",
-        "explanation": "Incorrect (Axial Compression)."
-      },
-      {
-        "text": "Lifting the extended leg",
-        "explanation": "Incorrect (SLR)."
-      },
-      {
-        "text": "Stroking the palm",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Kernig = Knee extension causes pain.",
-    "pdfPage": 16
-  },
-  {
-    "id": 11,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A 22-year-old college student presents with severe headache, fever, and neck stiffness. Brudzinski and Kernig signs are positive. What is the most urgent diagnosis to rule out?",
-    "options": [
-      {
-        "text": "Migraine",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Meningitis",
-        "explanation": "Correct. Triad of Fever, Nuchal Rigidity, Mental Status Change.",
-        "isCorrect": true
-      },
-      {
-        "text": "Cervical Radiculopathy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tension Headache",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sinusitis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fever + Stiff Neck = Meningitis until proven otherwise.",
-    "pdfPage": 15
-  },
-  {
-    "id": 12,
-    "category": "Neuro: Documentation",
-    "questionText": "When documenting a normal exam of the cranial nerves 2-12, which of the following is an acceptable shorthand?",
-    "options": [
-      {
-        "text": "CN II-XII grossly intact bilaterally",
-        "explanation": "Correct. Indicates screening was normal.",
-        "isCorrect": true
-      },
-      {
-        "text": "CN all normal",
-        "explanation": "Incorrect (Too vague)."
-      },
-      {
-        "text": "Neuro wnl",
-        "explanation": "Incorrect (Avoid 'Within Normal Limits' without specifics)."
-      },
-      {
-        "text": "No deficits",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cranial nerves positive",
-        "explanation": "Incorrect (Confusing)."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Precise documentation matters. 'Grossly intact' implies screening exam.",
-    "pdfPage": 42
-  },
-  {
-    "id": 13,
-    "category": "Neuro: Stroke Risk",
-    "questionText": "Which of the following is considered a 'Modifiable' risk factor for ischemic ******?",
-    "options": [
-      {
-        "text": "Age > 65",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Family History",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypertension",
-        "explanation": "Correct. The #1 modifiable risk factor.",
-        "isCorrect": true
-      },
-      {
-        "text": "Male Gender",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Race/Ethnicity",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Treat HTN to prevent Stroke.",
-    "pdfPage": 38
-  },
-  {
-    "id": 14,
-    "category": "Neuro: Sensory",
-    "questionText": "Graphesthesia tests the ability to:",
-    "options": [
-      {
-        "text": "Identify an object by touch",
-        "explanation": "Incorrect (Stereognosis)."
-      },
-      {
-        "text": "Identify a number or letter drawn on the skin",
-        "explanation": "Correct. 'Graph' = Write.",
-        "isCorrect": true
-      },
-      {
-        "text": "Distinguish two points",
-        "explanation": "Incorrect (2-point discrimination)."
-      },
-      {
-        "text": "Localize a touch",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Feel vibration",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Graphesthesia = Number writing on palm.",
-    "pdfPage": 12
-  },
-  {
-    "id": 15,
-    "category": "Neuro: Clinical Case",
-    "questionText": "In a patient with suspected lumbar disc herniation, performing a 'Well' (Crossed) Straight Leg Raise involves raising the UN-affected leg. A positive test is:",
-    "options": [
-      {
-        "text": "Relief of pain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain in the UN-affected leg",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Pain reproduced in the AFFECTED leg",
-        "explanation": "Correct. Highly specific for disc herniation (root compression).",
-        "isCorrect": true
-      },
-      {
-        "text": "Back pain only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neck pain",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Crossed SLR is highly specific for herniated disc.",
-    "pdfPage": 22
-  },
-  {
-    "id": 16,
-    "category": "Neuro: Sensory",
-    "questionText": "Proprioception (Joint Position Sense) should be tested first at the:",
-    "options": [
-      {
-        "text": "Shoulders and Hips",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Elbows and Knees",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Distal Interphalangeal (DIP) joint of fingers and toes",
-        "explanation": "Correct. Test distally first. If intact, proximal is likely intact.",
-        "isCorrect": true
-      },
-      {
-        "text": "Wrists and Ankles",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neck",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Sensory testing goes Distal to Proximal.",
-    "pdfPage": 10
-  },
-  {
-    "id": 17,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient describes 'A shade being pulled over my eye' that lasted for 5 minutes and then resolved. This transient monocular blindness is known as:",
-    "options": [
-      {
-        "text": "Glaucoma",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Amaurosis Fugax",
-        "explanation": "Correct. A form of TIA mechanism (retinal embolus).",
-        "isCorrect": true
-      },
-      {
-        "text": "Cataract",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Migraine Aura",
-        "explanation": "Incorrect (Usually scintillating scotoma)."
-      },
-      {
-        "text": "Papilledema",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Amaurosis Fugax = Curtain down vision = Carotid/Retinal Embolus.",
-    "pdfPage": 27
-  },
-  {
-    "id": 18,
-    "category": "Neuro: Movements",
-    "questionText": "Brief, rapid, jerky, irregular, and unpredictable involuntary movements that occur at rest are termed:",
-    "options": [
-      {
-        "text": "Dystonia",
-        "explanation": "Incorrect (Sustained twisting)."
-      },
-      {
-        "text": "Chorea",
-        "explanation": "Correct. 'Dance-like'. Seen in Huntington's.",
-        "isCorrect": true
-      },
-      {
-        "text": "Athetosis",
-        "explanation": "Incorrect (Slow, writhing, snake-like)."
-      },
-      {
-        "text": "Tics",
-        "explanation": "Incorrect (Stereotyped, repetitive)."
-      },
-      {
-        "text": "Tremor",
-        "explanation": "Incorrect (Rhythmic, oscillatory)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Chorea = Jerky/Dance-like; Athetosis = Writhing; Dystonia = Twisting.",
-    "pdfPage": 37
-  },
-  {
-    "id": 19,
-    "category": "Neuro: Special Tests",
-    "questionText": "The Distraction Test is used to alleviate symptoms in:",
-    "options": [
-      {
-        "text": "Lumbar Radiculopathy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Cervical Radiculopathy",
-        "explanation": "Correct. Lifting the head opens the foramina, relieving root compression.",
-        "isCorrect": true
-      },
-      {
-        "text": "Meningitis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Carpal Tunnel Syndrome",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tension Headache",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Distraction relieves pain in Cervical Radiculopathy.",
-    "pdfPage": 18
-  },
-  {
-    "id": 20,
-    "category": "Neuro: Sensory",
-    "questionText": "Which spinal tract is responsible for light touch sensation?",
-    "options": [
-      {
-        "text": "Only Spinothalamic",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Only Dorsal Columns",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Both Spinothalamic and Dorsal Columns",
-        "explanation": "Correct. Light touch is redundant, carried by both tracts.",
-        "isCorrect": true
-      },
-      {
-        "text": "Corticospinal",
-        "explanation": "Incorrect (Motor)."
-      },
-      {
-        "text": "Spinocerebellar",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Light touch is preserved longer in spinal cord injuries due to dual pathways.",
-    "pdfPage": 3
-  },
-  {
-    "id": 21,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A diabetic patient has lost vibration sense in the toes. This finding is an early sign of:",
-    "options": [
-      {
-        "text": "Peripheral Neuropathy",
-        "explanation": "Correct. Large fibers (vibration) are often affected first.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stroke",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Spinal Cord transection",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myopathy",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Vibration loss is the first sign of diabetic neuropathy.",
-    "pdfPage": 9
-  },
-  {
-    "id": 22,
-    "category": "Neuro: History",
-    "questionText": "When evaluating syncope (fainting), which question is most critical to rule out a seizure?",
-    "options": [
-      {
-        "text": "Did you feel dizzy standing up?",
-        "explanation": "Incorrect (Orthostatics)."
-      },
-      {
-        "text": "Was there tongue biting or incontinence?",
-        "explanation": "Correct. These are highly suggestive of seizure activity vs simple syncope.",
-        "isCorrect": true
-      },
-      {
-        "text": "Did you eat breakfast?",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Do you have high blood pressure?",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Were you stressed?",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tongue biting + Urinary Incontinence = Seizure.",
-    "pdfPage": 34
-  },
-  {
-    "id": 23,
-    "category": "Neuro: Movements",
-    "questionText": "A slow, twisting, writhing movement, typically of the hands or fingers, is called:",
-    "options": [
-      {
-        "text": "Tremor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Athetosis",
-        "explanation": "Correct. 'Snake-like'.",
-        "isCorrect": true
-      },
-      {
-        "text": "Chorea",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myoclonus",
-        "explanation": "Incorrect (Lightning jerk)."
-      },
-      {
-        "text": "Tic",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Athetosis = Writhing/Snake-like.",
-    "pdfPage": 36
-  },
-  {
-    "id": 24,
-    "category": "Neuro: Special Tests",
-    "questionText": "The Axial Compression Test involves:",
-    "options": [
-      {
-        "text": "Pulling up on the head",
-        "explanation": "Incorrect (Distraction)."
-      },
-      {
-        "text": "Pressing down on the top of the head while neutral",
-        "explanation": "Correct. Reproduces pain in cervical compression.",
-        "isCorrect": true
-      },
-      {
-        "text": "Rotating the head and pressing down",
-        "explanation": "Incorrect (Spurling)."
-      },
-      {
-        "text": "Raising the legs",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Flexing the neck",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Axial loading increases disc/foraminal pressure.",
-    "pdfPage": 17
-  },
-  {
-    "id": 25,
-    "category": "Neuro: Symptoms",
-    "questionText": "Anesthesia refers to:",
+    "category": "Sensory Terms",
+    "questionText": "Analgesia refers to:",
     "options": [
       {
         "text": "Increased pain sensitivity",
-        "explanation": "Incorrect (Hyperalgesia)."
+        "explanation": "Incorrect. Hyperalgesia."
       },
       {
-        "text": "Absence of touch sensation",
+        "text": "Absence of pain sensation",
         "explanation": "Correct.",
         "isCorrect": true
       },
       {
-        "text": "Pins and needles sensation",
-        "explanation": "Incorrect (Paresthesia)."
+        "text": "Tingling sensation",
+        "explanation": "Incorrect. Paresthesia."
       },
       {
-        "text": "Absence of pain",
-        "explanation": "Incorrect (Analgesia)."
+        "text": "Decreased touch sensation",
+        "explanation": "Incorrect. Hypesthesia."
       },
       {
-        "text": "Burning pain",
+        "text": "Loss of temperature sensation",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anesthesia = No touch.",
-    "pdfPage": 2
+    "clinicalPearl": "Key takeaway: An-algesia = No pain.",
+    "pdfPage": 5
   },
   {
-    "id": 26,
-    "category": "Neuro: Sensory",
-    "questionText": "Extinction is a sign of a lesion in the:",
+    "id": 4,
+    "category": "Sensory Terms",
+    "questionText": "Paresthesia refers to:",
     "options": [
       {
-        "text": "Peripheral Nerve",
-        "explanation": "Incorrect."
+        "text": "Absence of sensation",
+        "explanation": "Incorrect. Anesthesia."
       },
       {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory Cortex (Parietal Lobe)",
-        "explanation": "Correct. Patient feels separate touches but one 'extinguishes' when touched simultaneously.",
+        "text": "'Pins and needles' tingling sensation",
+        "explanation": "Correct. Common in neuropathy.",
         "isCorrect": true
       },
       {
-        "text": "Thalamus",
+        "text": "Increased pain",
+        "explanation": "Incorrect. Hyperalgesia."
+      },
+      {
+        "text": "Decreased touch",
+        "explanation": "Incorrect. Hypesthesia."
+      },
+      {
+        "text": "Increased touch sensitivity",
+        "explanation": "Incorrect. Hyperesthesia."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Paresthesia = 'Pins and needles'.",
+    "pdfPage": 35
+  },
+  {
+    "id": 5,
+    "category": "Sensory Testing",
+    "questionText": "When testing vibration sense, where should you begin testing?",
+    "options": [
+      {
+        "text": "Proximal joints",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Distal joints (fingers/toes - DIP joint)",
+        "explanation": "Correct. If impaired, move proximally.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trunk",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Head",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "No specific order",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Test vibration DISTALLY first (fingers/toes).",
+    "pdfPage": 10
+  },
+  {
+    "id": 6,
+    "category": "Tuning Fork",
+    "questionText": "What frequency tuning fork should be used for testing vibration?",
+    "options": [
+      {
+        "text": "256 Hz",
+        "explanation": "Incorrect. Too high (better for hearing)."
+      },
+      {
+        "text": "128 Hz",
+        "explanation": "Correct. Low-pitched for vibration.",
+        "isCorrect": true
+      },
+      {
+        "text": "512 Hz",
+        "explanation": "Incorrect. Too high."
+      },
+      {
+        "text": "64 Hz",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "1024 Hz",
+        "explanation": "Incorrect. Far too high."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 128 Hz tuning fork for vibration testing.",
+    "pdfPage": 12
+  },
+  {
+    "id": 7,
+    "category": "Sensory Loss",
+    "questionText": "Vibration sense is often the FIRST sensation lost in:",
+    "options": [
+      {
+        "text": "Central cord syndrome",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral Neuropathy",
+        "explanation": "Correct. Classic early finding.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortical lesions",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Acute ******",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "MS",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Loss of vibration = early sign of peripheral neuropathy.",
+    "pdfPage": 12
+  },
+  {
+    "id": 8,
+    "category": "Dermatomes",
+    "questionText": "A dermatome is defined as:",
+    "options": [
+      {
+        "text": "Area innervated by a specific peripheral nerve",
+        "explanation": "Incorrect. Peripheral nerve pattern."
+      },
+      {
+        "text": "Band of skin innervated by the sensory root of a SINGLE spinal nerve",
+        "explanation": "Correct. Helps localize spinal cord level.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor territory",
+        "explanation": "Incorrect. Myotome."
+      },
+      {
+        "text": "Cortical region",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blood supply region",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Dermatome = Single spinal nerve sensory territory.",
+    "pdfPage": 8
+  },
+  {
+    "id": 9,
+    "category": "Discriminative Sensation",
+    "questionText": "Discriminative sensations require intact function of the:",
+    "options": [
+      {
+        "text": "Spinal cord only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensory Cortex (to correlate, analyze, interpret)",
+        "explanation": "Correct. Higher order processing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Motor cortex",
         "explanation": "Incorrect."
       },
       {
         "text": "Cerebellum",
         "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Extinction = Cortical sensory loss.",
-    "pdfPage": 14
-  },
-  {
-    "id": 27,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient presents with sudden onset of 'worst headache of my life' (Thunderclap headache). You suspect subarachnoid hemorrhage. Which exam finding would support meningeal irritation?",
-    "options": [
-      {
-        "text": "Positive Romberg",
-        "explanation": "Incorrect (Proprioception)."
       },
       {
-        "text": "Nuchal Rigidity (Stiff Neck)",
-        "explanation": "Correct. Along with Kernig/Brudzinski.",
-        "isCorrect": true
-      },
-      {
-        "text": "Positive Phalen's test",
-        "explanation": "Incorrect (Carpal Tunnel)."
-      },
-      {
-        "text": "Resting Tremor",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hyporeflexia",
+        "text": "Brainstem only",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: SAH causes chemical meningitis -> Stiff Neck.",
+    "clinicalPearl": "Key takeaway: Discriminative sensation = Sensory cortex function.",
+    "pdf Page": 13
+  },
+  {
+    "id": 10,
+    "category": "Stereognosis",
+    "questionText": "Stereognosis is the ability to:",
+    "options": [
+      {
+        "text": "Identify objects through touch (with eyes closed)",
+        "explanation": "Correct. Cortical integration.",
+        "isCorrect": true
+      },
+      {
+        "text": "See in 3D",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hear high frequencies",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Smell odors",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Balance on one foot",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Stereognosis = Identify objects by touch (cortical function).",
+    "pdfPage": 21
+  },
+  {
+    "id": 11,
+    "category": "Graphesthesia",
+    "questionText": "Graphesthesia is tested by:",
+    "options": [
+      {
+        "text": "Having patient identify a written number on their palm",
+        "explanation": "Correct. Eyes closed.",
+        "isCorrect": true
+      },
+      {
+        "text": "Testing grip strength",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Drawing a graph",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reading comprehension",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Visual field testing",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Graphesthesia = Number identification on palm.",
+    "pdfPage": 24
+  },
+  {
+    "id": 12,
+    "category": "Extinction",
+    "questionText": "In the 'Extinction' test, bilateral simultaneous stimulation is applied. A patient with a sensory cortex lesion will:",
+    "options": [
+      {
+        "text": "Feel both stimuli",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only feel the stimulus on the CONTRALATERAL side to the lesion (ipsilateral stimulus is 'extinguished')",
+        "explanation": "Correct. Neglect phenomenon.",
+        "isCorrect": true
+      },
+      {
+        "text": "Feel nothing",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Only feel ipsilateral stimulus",
+        "explanation": "Incorrect. Opposite."
+      },
+      {
+        "text": "Have pain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Extinction = Contralateral cortical lesion → Ipsilateral stimulus ignored.",
     "pdfPage": 15
   },
   {
-    "id": 28,
-    "category": "Neuro: History",
-    "questionText": "Risk factors for ****** include all of the following EXCEPT:",
+    "id": 13,
+    "category": "Meningeal Signs",
+    "questionText": "Brudzinski and Kernig signs are tested when you suspect:",
     "options": [
       {
-        "text": "Smoking",
-        "explanation": "Incorrect (Risk)."
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Diabetes",
-        "explanation": "Incorrect (Risk)."
-      },
-      {
-        "text": "High HDL Cholesterol",
-        "explanation": "Correct. High HDL ('Good' cholesterol) is protective. Low HDL is a risk.",
+        "text": "Meningeal inflammation (Meningitis or Subarachnoid hemorrhage)",
+        "explanation": "Correct. Neck stiffness.",
         "isCorrect": true
       },
       {
-        "text": "Atrial Fibrillation",
-        "explanation": "Incorrect (Major risk)."
-      },
-      {
-        "text": "Hypertension",
-        "explanation": "Incorrect (Risk)."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: HDL is protective; LDL is risk.",
-    "pdfPage": 40
-  },
-  {
-    "id": 29,
-    "category": "Neuro: Sensory",
-    "questionText": "Two-point discrimination is most sensitive (smallest distance felt) on the:",
-    "options": [
-      {
-        "text": "Back",
+        "text": "Cerebellar lesion",
         "explanation": "Incorrect."
       },
       {
-        "text": "Thigh",
+        "text": "Myasthenia gravis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Fingertips",
-        "explanation": "Correct. High density of mechanoreceptors (2-4mm).",
-        "isCorrect": true
-      },
-      {
-        "text": "Upper arm",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Shin",
+        "text": "Parkinson's disease",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Fingertips have the best resolution (Homunculus size).",
-    "pdfPage": 12
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Brudzinski/Kernig = Meningeal irritation signs.",
+    "pdfPage": 18
   },
   {
-    "id": 30,
-    "category": "Neuro: Movements",
-    "questionText": "Stereotyped, coordinated, repetitive movements such as winking, grimacing, or shoulder shrugging are called:",
+    "id": 14,
+    "category": "Brudzinski Sign",
+    "questionText": "A positive Brudzinski sign is:",
     "options": [
       {
-        "text": "Tremors",
-        "explanation": "Incorrect."
+        "text": "Pain with knee extension",
+        "explanation": "Incorrect. Kernig."
       },
       {
-        "text": "Tics",
-        "explanation": "Correct. Can be suppressed voluntarily for short periods.",
+        "text": "Flexion of hips and knees when neck is flexed forward",
+        "explanation": "Correct. Meningeal irritation.",
         "isCorrect": true
       },
       {
-        "text": "Chorea",
+        "text": "Absent ankle reflex",
         "explanation": "Incorrect."
       },
       {
-        "text": "Seizures",
+        "text": "Babinski sign",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Hyperreflexia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Positive Brudzinski = Neck flexion → Hip/knee flexion.",
+    "pdfPage": 17
+  },
+  {
+    "id": 15,
+    "category": "Kernig Sign",
+    "questionText": "A positive Kernig sign is:",
+    "options": [
+      {
+        "text": "Hip/knee flexion with neck flexion",
+        "explanation": "Incorrect. Brudzinski."
+      },
+      {
+        "text": "Pain and resistance to knee extension when hip is flexed",
+        "explanation": "Correct. Meningeal irritation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Absent reflexes",
         "explanation": "Incorrect."
       },
       {
         "text": "Fasciculations",
         "explanation": "Incorrect."
+      },
+      {
+        "text": "Clonus",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tics are stereotyped and repetitive.",
-    "pdfPage": 36
+    "clinicalPearl": "Key takeaway: Positive Kernig = Pain with knee extension (hip flexed).",
+    "pdfPage": 17
+  },
+  {
+    "id": 16,
+    "category": "Axial Compression Test",
+    "questionText": "The Axial Compression Test is used to assess for:",
+    "options": [
+      {
+        "text": "Lumbar radiculopathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cervical neck impingement",
+        "explanation": "Correct. Downward pressure on head.",
+        "isCorrect": true
+      },
+      {
+        "text": "Meningitis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar dysfunction",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Axial compression = Cervical spine impingement test.",
+    "pdfPage": 21
+  },
+  {
+    "id": 17,
+    "category": "Foraminal Distraction Test",
+    "questionText": "A positive Foraminal Distraction Test (upward traction on neck) indicates:",
+    "options": [
+      {
+        "text": "Worsening of cervical symptoms",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "RELIEF of cervical nerve impingement symptoms",
+        "explanation": "Correct. Opens neural foramina.",
+        "isCorrect": true
+      },
+      {
+        "text": "Meningitis",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cerebellar ataxia",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Foraminal distraction = Upward traction → Symptom relief (cervical radiculopathy).",
+    "pdfPage": 16
+  },
+  {
+    "id": 18,
+    "category": "Spurling Test",
+    "questionText": "The Spurling Test assesses for:",
+    "options": [
+      {
+        "text": "Lumbar radiculopathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cervical Nerve Root Compression",
+        "explanation": "Correct. Extension + rotation + compression.",
+        "isCorrect": true
+      },
+      {
+        "text": "Carpal tunnel",
+        "explanation": "Incorrect. Phalen's/Tinel's."
+      },
+      {
+        "text": "Ankle instability",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Shoulder impingement",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Spurling = Look over shoulder + Up + Compress → Reproduces radicular arm pain.",
+    "pdfPage": 21
+  },
+  {
+    "id": 19,
+    "category": "Straight Leg Raise",
+    "questionText": "The Straight Leg Raise test assesses for:",
+    "options": [
+      {
+        "text": "Cervical radiculopathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sciatic nerve pain/Lumbar radiculopathy",
+        "explanation": "Correct. L5 (most common).",
+        "isCorrect": true
+      },
+      {
+        "text": "Hip fracture",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Knee instability",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ankle sprain",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Straight Leg Raise = Sciatic/L5 radiculopathy (pain radiates below knee).",
+    "pdfPage": 23
+  },
+  {
+    "id": 20,
+    "category": "Bragard's Test",
+    "questionText": "Bragard's Test involves adding _________ to the Straight Leg Raise:",
+    "options": [
+      {
+        "text": "Plantarflexion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsiflexion of the foot",
+        "explanation": "Correct. Stretches L5 sciatic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hip rotation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Knee flexion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Inversion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Bragard's = SLR + Dorsiflexion → Stretches sciatic (L5).",
+    "pdfPage": 22
+  },
+  {
+    "id": 21,
+    "category": "Well Straight Leg Raise",
+    "questionText": "The Well (Opposite) Straight Leg Raise test is positive when:",
+    "options": [
+      {
+        "text": "Pain occurs on same side as raised leg",
+        "explanation": "Incorrect. Standard SLR."
+      },
+      {
+        "text": "Pain occurs on the OPPOSITE side of the raised leg (suggests space-occupying lesion/herniated disc)",
+        "explanation": "Correct. Crossed SLR.",
+        "isCorrect": true
+      },
+      {
+        "text": "No pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Bilateral pain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Muscle weakness",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Crossed SLR = Pain on opposite side → Herniated disc.",
+    "pdfPage": 23
+  },
+  {
+    "id": 22,
+    "category": "Hoover Test",
+    "questionText": "The Hoover Test is used to assess for:",
+    "options": [
+      {
+        "text": "Cervical radiculopathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Lumbar strain",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Malingering (non-organic weakness)",
+        "explanation": "Correct. Tests effort.",
+        "isCorrect": true
+      },
+      {
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Ankle fracture",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Hoover test = Malingering detection (lack of contralateral heel pressure).",
+    "pdfPage": 24
+  },
+  {
+    "id": 23,
+    "category": "Diabetic Neuropathy",
+    "questionText": "The most common neuropathy in diabetic patients is:",
+    "options": [
+      {
+        "text": "Mononeuritis multiplex",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Distal Symmetric Polyneuropathy",
+        "explanation": "Correct. Slowly progressive, often asymptomatic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Radial neuropathy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Autonomic neuropathy only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "CN III palsy",
+        "explanation": "Incorrect. Can occur but not most common."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: DM → Distal symmetric polyneuropathy (stocking-glove).",
+    "pdfPage": 35
+  },
+  {
+    "id": 24,
+    "category": "Diabetic Neuropathy Prevalence",
+    "questionText": "What percentage of long-term Type 2 diabetic patients develop neuropathy?",
+    "options": [
+      {
+        "text": "5%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "20%",
+        "explanation": "Incorrect. Type 1."
+      },
+      {
+        "text": "50%",
+        "explanation": "Correct. Very high prevalence.",
+        "isCorrect": true
+      },
+      {
+        "text": "10%",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "75%",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: 50% of long-term Type 2 DM → neuropathy (20% Type 1).",
+    "pdfPage": 35
+  },
+  {
+    "id": 25,
+    "category": "Diabetic Foot Exam",
+    "questionText": "Routine diabetic foot exams should assess all EXCEPT:",
+    "options": [
+      {
+        "text": "Pinprick/Temperature sensation",
+        "explanation": "Incorrect. Important."
+      },
+      {
+        "text": "Proprioception",
+        "explanation": "Incorrect. Important."
+      },
+      {
+        "text": "Vibration (128 Hz tuning fork)",
+        "explanation": "Incorrect. Important."
+      },
+      {
+        "text": "10-g Monofilament (light touch)",
+        "explanation": "Incorrect. Gold standard screening."
+      },
+      {
+        "text": "MRI of foot",
+        "explanation": "Correct. Not routine screening.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Key takeaway: DM foot exam = Monofilament + Vibration + Proprioception + Ankle reflexes.",
+    "pdfPage": 35
+  },
+  {
+    "id": 26,
+    "category": "Headache Red Flag",
+    "questionText": "The most concerning headache presentation is:",
+    "options": [
+      {
+        "text": "Gradual onset over days",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "'Worst headache of my life' (sudden, severe)",
+        "explanation": "Correct. Subarachnoid hemorrhage until proven otherwise.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mild headache",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Headache with caffeine withdrawal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Recurrent migraines",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: 'Worst headache of life' = Subarachnoid hemorrhage (SAH) until proven otherwise.",
+    "pdfPage": 24
+  },
+  {
+    "id": 27,
+    "category": "Dizziness vs Vertigo",
+    "questionText": "True vertigo is characterized by:",
+    "options": [
+      {
+        "text": "Lightheadedness",
+        "explanation": "Incorrect. Pre-syncope."
+      },
+      {
+        "text": "Leg weakness",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Sensation that the room is spinning",
+        "explanation": "Correct. Vestibular dysfunction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Headache only",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Blurry vision",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: True vertigo = Room spinning (vestibular). Dizziness = lightheaded/weak.",
+    "pdfPage": 24
+  },
+  {
+    "id": 28,
+    "category": "Weakness - CVA",
+    "questionText": "ABRUPT onset of motor or sensory deficit is classically seen in:",
+    "options": [
+      {
+        "text": "Progressive MS",
+        "explanation": "Incorrect. Gradual."
+      },
+      {
+        "text": "Peripheral neuropathy",
+        "explanation": "Incorrect. Gradual."
+      },
+      {
+        "text": "TIA or CVA (******)",
+        "explanation": "Correct. Sudden vascular event.",
+        "isCorrect": true
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect. Progressive."
+      },
+      {
+        "text": "Myasthenia Gravis",
+        "explanation": "Incorrect. Fatigable."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: ABRUPT onset = Think TIA/CVA.",
+    "pdfPage": 28
+  },
+  {
+    "id": 29,
+    "category": "Stocking-Glove Distribution",
+    "questionText": "'Stocking-glove' distribution of sensory loss suggests:",
+    "options": [
+      {
+        "text": "Spinal cord lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Peripheral Polyneuropathy (e.g., DM)",
+        "explanation": "Correct. Distal > proximal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cortical lesion",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Single nerve lesion",
+        "explanation": "Incorrect. Specific nerve distribution."
+      },
+      {
+        "text": "Root lesion",
+        "explanation": "Incorrect. Dermatomal."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stocking-glove = Distal polyneuropathy (DM, alcohol, B12 deficiency).",
+    "pdfPage": 7
+  },
+  {
+    "id": 30,
+    "category": "Syncope vs Near-Syncope",
+    "questionText": "The key difference between syncope and near-syncope is:",
+    "options": [
+      {
+        "text": "Duration",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Loss of consciousness (syncope) vs maintained consciousness (near-syncope)",
+        "explanation": "Correct.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trigger",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Age",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Time of day",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Syncope = LOC. Near-syncope = Maintained consciousness (hear voices).",
+    "pdfPage": 30
   },
   {
     "id": 31,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient with a history of hypertension presents with left-sided weakness involving the face, arm, and leg equally. This 'pure motor' presentation points to a lesion in the:",
+    "category": "Seizure Red Flags",
+    "questionText": "Features that suggest a seizure rather than syncope include all EXCEPT:",
     "options": [
       {
-        "text": "Cerebral Cortex",
-        "explanation": "Incorrect (Usually varying degrees of face/arm/leg due to homunculus)."
+        "text": "Tongue biting",
+        "explanation": "Incorrect. Classic seizure."
       },
       {
-        "text": "Internal Capsule (Right)",
-        "explanation": "Correct. Lacunar infarct affecting the tight bundle of motor fibers.",
+        "text": "Bowel/bladder incontinence",
+        "explanation": "Incorrect. Classic seizure."
+      },
+      {
+        "text": "Post-event drowsiness (post-ictal)",
+        "explanation": "Incorrect. Classic seizure."
+      },
+      {
+        "text": "Brief episode (<1 min) with immediate full recovery",
+        "explanation": "Correct. More consistent with syncope.",
         "isCorrect": true
       },
       {
-        "text": "Brainstem",
-        "explanation": "Incorrect (Crossed signs)."
-      },
-      {
-        "text": "Spinal Cord",
-        "explanation": "Incorrect (Spares face)."
-      },
-      {
-        "text": "Peripheral Nerve",
-        "explanation": "Incorrect."
+        "text": "Witnessed tonic-clonic activity",
+        "explanation": "Incorrect. Seizure."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pure Motor Hemiparesis = Internal Capsule (Lacunar Stroke).",
-    "pdfPage": 29
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Seizure = Tongue bite + Incontinence + Post-ictal state.",
+    "pdfPage": 25
   },
   {
     "id": 32,
-    "category": "Neuro: Sensory",
-    "questionText": "Romberg test assesses what sensory modality?",
+    "category": "Modifiable CVA Risk Factors",
+    "questionText": "Major modifiable risk factors for ischemic ****** include all EXCEPT:",
     "options": [
       {
-        "text": "Visual",
-        "explanation": "Incorrect (Eyes are closed)."
+        "text": "Hypertension",
+        "explanation": "Incorrect. Modifiable."
       },
       {
-        "text": "Proprioception (Dorsal Columns)",
-        "explanation": "Correct. Standing stable with eyes open but swaying with eyes closed = Proprioceptive deficit.",
+        "text": "Diabetes mellitus",
+        "explanation": "Incorrect. Modifiable."
+      },
+      {
+        "text": "Smoking",
+        "explanation": "Incorrect. Modifiable."
+      },
+      {
+        "text": "Dyslipidemia",
+        "explanation": "Incorrect. Modifiable."
+      },
+      {
+        "text": "Age",
+        "explanation": "Correct. Non-modifiable.",
         "isCorrect": true
-      },
-      {
-        "text": "Cerebellar function",
-        "explanation": "Incorrect (Cerebellar ataxia exerts sway even with eyes OPEN)."
-      },
-      {
-        "text": "Pain sensation",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Motor strength",
-        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Romberg is a test of Proprioception, not Cerebellum.",
-    "pdfPage": 9
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Key takeaway: Modifiable CVA risks = HTN, DM, smoking, dyslipidemia, inactivity.",
+    "pdfPage": 34
   },
   {
     "id": 33,
-    "category": "Neuro: Clinical Case",
-    "questionText": "A patient reports 'stocking-glove' distribution of numbness and tingling. This is characteristic of:",
+    "category": "Normal Neuro Exam - Mental Status",
+    "questionText": "Documentation of normal mental status should include:",
     "options": [
       {
-        "text": "Stroke",
-        "explanation": "Incorrect (Hemibody)."
+        "text": "Only orientation to person",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Polyneuropathy (e.g., Diabetic)",
-        "explanation": "Correct. Distal symmetric polyneuropathy.",
+        "text": "Alert, attentive, oriented to person/place/time, speech clear and fluent",
+        "explanation": "Correct. Complete assessment.",
         "isCorrect": true
       },
       {
-        "text": "Radiculopathy",
-        "explanation": "Incorrect (Dermatomal)."
+        "text": "Awake only",
+        "explanation": "Incorrect. Incomplete."
       },
       {
-        "text": "Mononeuropathy",
-        "explanation": "Incorrect (Single nerve)."
+        "text": "No documentation needed if normal",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Spinal cord injury",
-        "explanation": "Incorrect (Level)."
+        "text": "Reflexes only",
+        "explanation": "Incorrect. Wrong system."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Stocking-Glove = Length-dependent neuropathy (Diabetes, Alcohol, B12).",
-    "pdfPage": 31
+    "clinicalPearl": "Key takeaway: Document A&Ox3 + Speech quality.",
+    "pdfPage": 28
   },
   {
     "id": 34,
-    "category": "Neuro: Documentation",
-    "questionText": "Why is it important to ask about whether a patient was standing, sitting, or lying down when they experienced syncope?",
+    "category": "Normal CN Exam",
+    "questionText": "Normal documentation for CN III, IV, VI includes:",
     "options": [
       {
-        "text": "To determine fall risk",
-        "explanation": "Incorrect."
+        "text": "Pupils only",
+        "explanation": "Incorrect. Incomplete."
       },
       {
-        "text": "To identify orthostatic causes",
-        "explanation": "Correct. Syncope upon standing suggests orthostatic hypotension.",
+        "text": "Pupils reactive to light + EOMI (extraocular muscles intact) + No ptosis",
+        "explanation": "Correct. Complete assessment.",
         "isCorrect": true
       },
       {
-        "text": "To check for seizures",
-        "explanation": "Incorrect."
+        "text": "Vision only",
+        "explanation": "Incorrect. CN II."
       },
       {
-        "text": "To billing purposes",
-        "explanation": "Incorrect."
+        "text": "Facial strength",
+        "explanation": "Incorrect. CN VII."
       },
       {
-        "text": "None of the above",
-        "explanation": "Incorrect."
+        "text": "Hearing",
+        "explanation": "Incorrect. CN VIII."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Positional syncope = Orthostasis / Volume depletion.",
-    "pdfPage": 32
+    "clinicalPearl": "Key takeaway: CN 3,4,6 = Pupils + EOMI + No ptosis.",
+    "pdfPage": 37
   },
   {
     "id": 35,
-    "category": "Neuro: Sensory",
-    "questionText": "Which cranial nerve provides sensation to the face?",
+    "category": "Normal DTR Documentation",
+    "questionText": "Normal Deep Tendon Reflexes are documented as:",
     "options": [
       {
-        "text": "Facial (VII)",
-        "explanation": "Incorrect (Motor to face, Taste)."
+        "text": "0",
+        "explanation": "Incorrect. Absent."
       },
       {
-        "text": "Trigeminal (V)",
-        "explanation": "Correct. V1, V2, V3 dermatomes.",
+        "text": "1+",
+        "explanation": "Incorrect. Hypoactive."
+      },
+      {
+        "text": "2+ (normal)",
+        "explanation": "Correct. Intact, symmetric.",
         "isCorrect": true
       },
       {
-        "text": "Oculomotor (III)",
-        "explanation": "Incorrect."
+        "text": "4+",
+        "explanation": "Incorrect. Hyperactive."
       },
       {
-        "text": "Glossopharyngeal (IX)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Vagus (X)",
-        "explanation": "Incorrect."
+        "text": "5+",
+        "explanation": "Incorrect. Not standard scale."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: CN V = Face Sensation; CN VII = Face Movement.",
-    "pdfPage": 42
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: DTR scale: 0 (absent), 1+ (diminished), 2+ (normal), 3+ (brisk), 4+ (hyperactive + clonus).",
+    "pdfPage": 36
   }
 ];
