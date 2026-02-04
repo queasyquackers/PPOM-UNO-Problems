@@ -52,5 +52,18 @@ const testsToLoad = [
     { name: "4-Pharm: Multiple Sclerosis (L43)", data: window.Test_L43 },
     { name: "4-Ophtho: Introduction (L44)", data: window.Test_L44 },
     { name: "4-Neuro: Structure-Function Integration (L45)", data: window.Test_L45 },
-    { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 }
+    { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 },
+
+    // Part 2
+    { name: "Part 2 - Neuro: Cranial Nerves I-VI (L35)", data: window.Test_L35_Part2 },
+    { name: "Part 2 - Neuro: Cranial Nerves VII-XII (L36)", data: window.Test_L36_Part2 },
+    { name: "Part 2 - Hypothalamus (L11)", data: window.Test_L11_Part2 },
+    { name: "Part 2 - Thalamus Anatomy & Phys (L12)", data: window.Test_L12_Part2 },
+    { name: "Part 2 - Vestibular System (L18)", data: window.Test_L18_Part2 },
+    { name: "Part 2 - Path: Auditory/Vestibular (L23)", data: window.Test_L23_Part2 },
+    { name: "Part 2 - Neuro: Motor Systems I (L30)", data: window.Test_L30_Part2 },
+    { name: "Part 2 - Pharm: Sympathomimetics I (L33)", data: window.Test_L33_Part2 },
+    { name: "Part 2 - Neuro: Localization (L41)", data: window.Test_L41_Part2 },
+    { name: "Part 2 - Pharm: MS (L43)", data: window.Test_L43_Part2 },
+    { name: "Part 2 - Ophtho: Disorders (L44)", data: window.Test_L44_Part2 }
 ];
