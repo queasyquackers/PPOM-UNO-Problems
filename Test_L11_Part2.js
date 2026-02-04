@@ -2,621 +2,621 @@ window.Test_L11_Part2 = [
   {
     "id": 1,
     "category": "Hypothalamus: Temperature Regulation",
-    "questionText": "A 45-year-old male is brought to the emergency department after being found unconscious in an unheated apartment during a winter storm. His core body temperature is 32°C (89.6°F). He is bradycardic and hypotensive. Normally, the body would respond to this environment by vasoconstriction and shivering to retain heat. Which specific hypothalamic nucleus is responsible for driving these heat-retention behaviors?",
+    "questionText": "A 45-year-old homeless male is brought to the emergency department during a blizzard. He is conscious but confused. His core body temperature is 32°C (89.6°F). Physical examination reveals shivering and pale, cold skin. Which hypothalamic nucleus is primarily responsible for coordinating the physiological response of shivering and vasoconstriction observed in this patient?",
     "options": [
       {
         "text": "Anterior Hypothalamic Nucleus",
-        "explanation": "Incorrect. The Anterior nucleus is the 'AC' of the brain (A for AC). It senses heat and drives cooling mechanisms (sweating, vasodilation). Lesions here cause hyperthermia."
-      },
-      {
-        "text": "Ventromedial Nucleus",
-        "explanation": "Incorrect. This is the satiety center. Lesions cause hyperphagia/obesity."
+        "explanation": "Incorrect. The Anterior Hypothalamic Nucleus functions as the body's 'AC' (Air Conditioning). It senses heat and drives cooling mechanisms such as sweating and vasodilation. A lesion here would cause hyperthermia."
       },
       {
         "text": "Posterior Hypothalamic Nucleus",
-        "explanation": "Correct. The Posterior nucleus is like 'Putting on a Coat' (P for Posterior). It drives heat conservation (shivering, vasoconstriction) in response to cold. Lesions here result in poikilothermia (inability to thermoregulate), often manifesting as hypothermia in cold environments."
+        "explanation": "Correct. The Posterior Hypothalamic Nucleus functions as the body's heating system (mnemonic: 'Posterior = Putting on a coat'). It integrates cold signals and drives heat conservation (vasoconstriction) and heat production (shivering). Its intact function is driving the shivering response in this patient."
+      },
+      {
+        "text": "Ventromedial Nucleus",
+        "explanation": "Incorrect. The Ventromedial Nucleus is the satiety center involved in feeding behavior."
       },
       {
         "text": "Suprachiasmatic Nucleus",
-        "explanation": "Incorrect. This regulates circadian rhythms."
+        "explanation": "Incorrect. This nucleus regulates circadian rhythms."
       },
       {
-        "text": "Lateral Hypothalamic Nucleus",
-        "explanation": "Incorrect. This is the hunger center (Lateral = Lean if lesioned)."
+        "text": "Preoptic Nucleus",
+        "explanation": "Incorrect. While involved in the fever response (set-point), the immediate drive for cold-induced heat conservation is mediated by the posterior hypothalamus."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Anterior = AC (Cooling). Posterior = Poikilothermia/Putting on a Coat (Heating).",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Hypothalamus = Cooling (AC). Posterior Hypothalamus = Heating (Poikilothermia/Putting on a coat).",
     "pdfPage": 10,
-    "pdfQuote": "Lesions to this nucleus results in the inability to thermo-regulate"
+    "pdfQuote": "Posterior Hypothalamic Nucleus ... conservation and increased production of heat"
   },
   {
     "id": 2,
     "category": "Hypothalamus: Feeding Behavior",
-    "questionText": "A 12-year-old boy is brought to the pediatrician for rapid weight gain. His parents report that he has an insatiable appetite and 'never seems full,' often stealing food from the kitchen at night. He has gained 40 lbs in the last year. A MRI reveals a Craniopharyngioma compressing the ventral aspect of the hypothalamus. Which nucleus has likely been damaged to cause this presentation?",
+    "questionText": "A 10-year-old child is evaluated for morbid obesity. The parents report that the child has an insatiable appetite and has gained 30 kg in the last year. A brain MRI reveals a craniopharyngioma compressing the ventral aspect of the hypothalamus. Disruption of which specific nucleus is most likely the cause of this patient's hyperphagia?",
     "options": [
       {
         "text": "Lateral Hypothalamic Nucleus",
-        "explanation": "Incorrect. The Lateral Hypothalamus is the Hunger center. Lesions here cause Anorexia (failure to eat). This would be the correct answer if the patient presented with profound weight loss and refusal to eat."
+        "explanation": "Incorrect. The Lateral Hypothalamus is the 'Hunger Center'. Lesions here result in loss of appetite (anorexia) and weight loss (mnemonic: Lateral lesion makes you Lean)."
       },
       {
         "text": "Ventromedial Nucleus",
-        "explanation": "Correct. The Ventromedial Nucleus (VMN) is the Satiety center. Lesions here destroy the 'stop eating' signal, leading to hyperphagia and severe obesity. Mnemonic: VentroMedial injury makes you Very Massive."
-      },
-      {
-        "text": "Suprachiasmatic Nucleus",
-        "explanation": "Incorrect. Regulates sleep/wake cycles, not appetite."
+        "explanation": "Correct. The Ventromedial Nucleus (VMN) is the 'Satiety Center'. Under normal conditions, it inhibits feeding. Damage to the VMN removes this inhibition, leading to unchecked hyperphagia and obesity (mnemonic: VentroMedial injury makes you Very Massive)."
       },
       {
         "text": "Supraoptic Nucleus",
-        "explanation": "Incorrect. Produces ADH/Oxytocin. Damage causes Diabetes Insipidus."
+        "explanation": "Incorrect. This nucleus is primarily involved in ADH and Oxytocin production."
       },
       {
         "text": "Mammillary Bodies",
-        "explanation": "Incorrect. Involved in memory (Wernicke-Korsakoff). Damage causes amnesia."
+        "explanation": "Incorrect. These are involved in memory circuits; profound damage leads to Wernicke-Korsakoff syndrome."
+      },
+      {
+        "text": "Suprachiasmatic Nucleus",
+        "explanation": "Incorrect. This regulates circadian rhythms."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Ventromedial lesion = Hyperphagia/Obesity (Satiety center lost). Lateral lesion = Anorexia (Hunger center lost).",
+    "clinicalPearl": "Key takeaway: Ventromedial Nucleus = Satiety Center. Lesion = Hyperphagia/Obesity. Lateral Hypothalamus = Hunger Center. Lesion = Anorexia.",
     "pdfPage": 19,
-    "pdfQuote": "Lesions cause hyperphagia (overeating) and obesity"
+    "pdfQuote": "Ventromedial Nucleus ... Lesions cause hyperphagia (overeating) and obesity"
   },
   {
     "id": 3,
     "category": "Hypothalamus: Water Balance",
-    "questionText": "A 24-year-old male presents with polyuria and polydipsia following a severe head trauma. He reports urinating 'gallons' a day and having an unquenchable thirst for ice water. Urinalysis reveals specific gravity of 1.002 (very dilute). Water deprivation testing fails to concentrate the urine, but administration of Desmopressin (dDAVP) rapidly increases urine osmolality. Which neuronal population has been injured?",
+    "questionText": "A 22-year-old male is involved in a high-speed motor vehicle accident resulting in significant head trauma. Two days later, he develops polyuria, passing 8 liters of dilute urine per day. He is intensely thirsty. Labs show hypernatremia and high serum osmolality, but low urine osmolality. Administration of desmopressin (dDAVP) results in a rapid increase in urine concentration. Damage to which neuronal pathway is responsible?",
     "options": [
       {
-        "text": "Arcuate Nucleus",
-        "explanation": "Incorrect. Controls prolactin/GHRH and feeding, not water balance."
+        "text": "Hypothalamo-hypophyseal tract from Supraoptic/PVN nuclei",
+        "explanation": "Correct. This patient has Central Diabetes Insipidus (DI). Trauma has damaged the neurons in the Supraoptic and Paraventricular nuclei or their axons traveling 'down the stalk' to the posterior pituitary. This stops ADH release, preventing water reabsorption. The response to desmopressin confirms the kidneys work (ruling out Nephrogenic DI)."
       },
       {
-        "text": "Supraoptic and Paraventricular Nuclei",
-        "explanation": "Correct. These nuclei synthesize ADH (Vasopressin). Head trauma can shear the axons traveling to the posterior pituitary, causing Central (Neurogenic) Diabetes Insipidus. The response to Desmopressin confirms the kidneys are functional (ruling out Nephrogenic DI) and the problem is lack of central ADH production."
+        "text": "Tuberoinfundibular tract to the Anterior Pituitary",
+        "explanation": "Incorrect. This tract carries dopamine and releasing hormones to the median eminence for the Anterior Pituitary. Damage would affect Prolactin/GH/ACTH/TSH/Gonadotropins, not directly ADH."
       },
       {
-        "text": "Dorsomedial Nucleus",
-        "explanation": "Incorrect. Involved in aggression/rage behavior."
+        "text": "Mammillothalamic tract",
+        "explanation": "Incorrect. This connects the mammillary bodies to the anterior thalamus and is involved in memory."
       },
       {
-        "text": "Preoptic Nucleus",
-        "explanation": "Incorrect. Involved in GnRH secretion and sexual behavior."
+        "text": "Retinohypothalamic tract",
+        "explanation": "Incorrect. This connects the retina to the Suprachiasmatic Nucleus for circadian rhythm synchronization."
       },
       {
-        "text": "Lateral Hypothalamic Nucleus",
-        "explanation": "Incorrect. Drives hunger."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: ADH is made in the Supraoptic (and PVN) nuclei. Loss = Central Diabetes Insipidus (Polyuria, Polydipsia, Dilute Urine).",
-    "pdfPage": 11,
-    "pdfQuote": "Synthesizes: ... Anti-Diuretic Hormone (ADH)"
-  },
-  {
-    "id": 4,
-    "category": "Hypothalamus: Circadian Rhythms",
-    "questionText": "A 35-year-old business consultant travels from New York to Tokyo (13-hour time difference) and complains of severe jet lag, including insomnia and daytime fatigue. This physiological mismatch involves the disruption of the 'master clock' gene expression in which hypothalamic nucleus?",
-    "options": [
-      {
-        "text": "Suprachiasmatic Nucleus",
-        "explanation": "Correct. The SCN is the circadian pacemaker. It receives direct input from the retina (retinohypothalamic tract) to synchronize internal rhythms to light/dark cycles. Jet lag is a desynchronization of the SCN."
-      },
-      {
-        "text": "Mammillary Nucleus",
-        "explanation": "Incorrect. Involved in episodic memory."
-      },
-      {
-        "text": "Anterior Hypothalamic Nucleus",
-        "explanation": "Incorrect. Regulates cooling."
-      },
-      {
-        "text": "Posterior Hypothalamic Nucleus",
-        "explanation": "Incorrect. Regulates heating."
-      },
-      {
-        "text": "Ventromedial Nucleus",
-        "explanation": "Incorrect. Satiety center."
+        "text": "Fornix",
+        "explanation": "Incorrect. This is the output of the hippocampus to the mammillary bodies."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: SCN = Suprachiasmatic Nucleus = Circadian Rhythm (Master Clock). Input from Retina.",
-    "pdfPage": 17,
-    "pdfQuote": "Plays a role in the regulation of circadian rhythms"
+    "clinicalPearl": "Key takeaway: ADH is synthesized in Supraoptic and Paraventricular nuclei. Axonal damage leads to Central Diabetes Insipidus.",
+    "pdfPage": 11,
+    "pdfQuote": "Supraoptic Nucleus ... Synthesizes: ... Anti-Diuretic Hormone (ADH)"
+  },
+  {
+    "id": 4,
+    "category": "Hypothalamus: Autonomic Control",
+    "questionText": "A neuroscientist stimulates the ANTERIOR hypothalamic area in an experimental animal. Which of the following physiological responses would most likely be observed?",
+    "options": [
+      {
+        "text": "Pupillary dilation and tachycardia",
+        "explanation": "Incorrect. These are sympathetic responses, which are driven by the POSTERIOR hypothalamus."
+      },
+      {
+        "text": "Bradycardia and pupillary constriction",
+        "explanation": "Correct. The Anterior Hypothalamus generally controls Parasympathetic functions (Rest and Digest). Stimulation leads to bradycardia, vasodilation, and pupil constriction. (mnemonic: Anterior = AC = Cool/Calm/Parasympathetic)."
+      },
+      {
+        "text": "Piloerection and shivering",
+        "explanation": "Incorrect. These are heat conservation mechanisms driven by the Posterior hypothalamus."
+      },
+      {
+        "text": "Fearsome/aggressive behavior",
+        "explanation": "Incorrect. This is associated with the Dorsomedial nucleus (Sham Rage)."
+      },
+      {
+        "text": "Increase in blood pressure",
+        "explanation": "Incorrect. A sympathetic response typically driven by the posterior/lateral areas."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Anterior Hypothalamus = Parasympathetic. Posterior Hypothalamus = Sympathetic.",
+    "pdfPage": 6,
+    "pdfQuote": "Anterior ... Parasympathetic ... Posterior ... Sympathetic"
   },
   {
     "id": 5,
     "category": "Hypothalamus: Memory",
-    "questionText": "A 55-year-old male with a long history of alcohol use disorder is brought to the hospital with confusion and ataxia. Examination reveals nystagmus and ophthalmoplegia. During the interview, he confabulates answers to questions about his recent activities. An MRI would likely show atrophy in which hypothalamic structure?",
+    "questionText": "A 58-year-old male with a history of chronic alcohol use presents with confusion and gait ataxia. He makes up elaborate stories to fill gaps in his memory (confabulation). MRI imaging shows atrophy in specific hypothalamic structures. Which connection is disrupted in this syndrome?",
     "options": [
       {
-        "text": "Mammillary Bodies",
-        "explanation": "Correct. This is Wernicke-Korsakoff Syndrome (Thiamine/B1 deficiency). The Mammillary bodies are classically damaged (along with Dorsomedial thalamus), leading to anterograde amnesia and confabulation. They project to the Anterior Thalamus via the Mammillothalamic tract."
+        "text": "Mammillothalamic tract",
+        "explanation": "Correct. This patient has Wernicke-Korsakoff syndrome due to thiamine (B1) deficiency. The Mammillary Bodies are characteristically damaged. They project to the Anterior Thalamus via the Mammillothalamic tract. Disruption of this circuit leads to anterograde amnesia and confabulation."
       },
       {
-        "text": "Arcuate Nucleus",
-        "explanation": "Incorrect. Involved in neuroendocrine control (Prolactin/GH) and feeding."
+        "text": "Supraoptic-hypophyseal tract",
+        "explanation": "Incorrect. Involved in ADH/Oxytocin transport."
       },
       {
-        "text": "Supraoptic Nucleus",
-        "explanation": "Incorrect. ADH production."
+        "text": "Medial Forebrain Bundle",
+        "explanation": "Incorrect. A major pathway traversing the lateral hypothalamus, but the specific lesion for Korsakoff's memory deficit is the Mammillary body/Mammillothalamic tract."
       },
       {
-        "text": "Preoptic Area",
-        "explanation": "Incorrect. GnRH/Sexual behavior."
+        "text": "Stria terminalis",
+        "explanation": "Incorrect. Connects amygdala to hypothalamus/septal area."
       },
       {
-        "text": "Ventromedial Nucleus",
-        "explanation": "Incorrect. Satiety."
+        "text": "Retinohypothalamic tract",
+        "explanation": "Incorrect. Circadian rhythms."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Wernicke-Korsakoff = Mammillary Body atrophy. Causes anterograde amnesia/confabulation.",
+    "clinicalPearl": "Key takeaway: Wernicke-Korsakoff Syndrome = Mammillary Body damage. Disconnects Hippocampus -> Mammillary -> Thalamus circuit (Papez circuit).",
     "pdfPage": 16,
     "pdfQuote": "Patients with Wernicke-Korsakoff Syndrome ... lesions in the mammillary nucleus"
   },
   {
     "id": 6,
-    "category": "Hypothalamus: Endocrine Control",
-    "questionText": "A patient presents with galactorrhea (milk discharge) and amenorrhea. Workup reveals high levels of prolactin. A scan shows a mass compressing the pituitary stalk (infundibulum). How does compression of the stalk lead to HYPER-prolactinemia, unlike other pituitary hormones which usually decrease?",
+    "category": "Hypothalamus: Circadian Rhythms",
+    "questionText": "A 30-year-old nurse works rotating night shifts and complains of chronic insomnia and fatigue. She has difficulty adjusting her sleep cycle. Her condition involves desynchronization of the 'master clock' in the Suprachiasmatic Nucleus (SCN). Through which molecular mechanism does the SCN primarily track time?",
     "options": [
       {
-        "text": "Compression stimulates the Arcuate nucleus to secrete more Dopamine",
-        "explanation": "Incorrect. Dopamine INHIBITS prolactin. More dopamine would lower prolactin."
+        "text": "Pulsatile release of GnRH",
+        "explanation": "Incorrect. This is the function of the Preoptic area regulating reproduction."
       },
       {
-        "text": "Loss of Dopamine inhibition from the Arcuate Nucleus",
-        "explanation": "Correct. Prolactin is under tonic INHIBITION by Dopamine (PIF) secreted by the Arcuate Nucleus. Compression of the stalk blocks Dopamine delivery to the anterior pituitary, 'disinhibiting' the lactotrophs and causing high prolactin."
+        "text": "Cyclical expression of Clock genes",
+        "explanation": "Correct. Neurons in the SCN have an intrinsic oscillation of gene expression (Clock genes) that takes about 24 hours. This cycle is entrained (reset) by light input from the retina via the retinohypothalamic tract."
       },
       {
-        "text": "Increased secretion of GnRH from the Preoptic Area",
-        "explanation": "Incorrect. GnRH stimulates LH/FSH, not Prolactin. High prolactin actually suppresses GnRH (causing amenorrhea)."
+        "text": "Osmotic detection of plasma levels",
+        "explanation": "Incorrect. This occurs in the OVLT/Supraoptic nucleus for water balance."
       },
       {
-        "text": "Increased secretion of TRH from the Paraventricular Nucleus",
-        "explanation": "Incorrect. While TRH can stimulate prolactin, the primary mechanism of stalk effect is loss of dopamine inhibition."
+        "text": "Detection of blood glucose levels",
+        "explanation": "Incorrect. While hypothalamic neurons sense glucose, the 'Master Clock' mechanism is genetic oscillation."
       },
       {
-        "text": "Stimulation of the Supraoptic Nucleus",
-        "explanation": "Incorrect. Makes ADH/Oxytocin."
+        "text": "Release of Pro-opiomelanocortin (POMC)",
+        "explanation": "Incorrect. POMC is involved in feeding regulation in the Arcuate nucleus."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Prolactin is the only pituitary hormone under tonic INHIBITION (by Dopamine from Arcuate). Stalk section = High Prolactin.",
+    "clinicalPearl": "Key takeaway: SCN tracks time via expression of CLOCK genes. Reset by Light.",
+    "pdfPage": 18,
+    "pdfQuote": "regulated by the expression of the clock genes in the neurons in the suprachiasmatic nuclei"
+  },
+  {
+    "id": 7,
+    "category": "Hypothalamus: Endocrine Control",
+    "questionText": "A 35-year-old female presents with amenorrhea and milky nipple discharge (galactorrhea). MRI reveals a non-functioning pituitary macroadenoma compressing the pituitary stalk. Why does this physical compression lead to elevated prolactin levels, whereas other anterior pituitary hormones (like TSH, ACTH) typically decrease?",
+    "options": [
+      {
+        "text": "Compression stimulates the lactotrophs directly",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Disruption of the inhibitory dopamine Signal from the Arcuate Nucleus",
+        "explanation": "Correct. Prolactin is unique because it is under tonic INHIBITION by dopamine released from the Arcuate Nucleus. Compression of the stalk prevents this dopamine from reaching the anterior pituitary, thus 'releasing the brake' on lactotrophs, leading to hyperprolactinemia. Other hormones depend on STIMULATORY factors (releasing hormones) which are blocked, causing their levels to drop."
+      },
+      {
+        "text": "Increased TRH secretion from the Paraventricular Nucleus",
+        "explanation": "Incorrect. While TRH can stimulate prolactin, the primary cause in stalk compression is the loss of dopamine inhibition."
+      },
+      {
+        "text": "Damage to the posterior pituitary",
+        "explanation": "Incorrect. This would affect ADH/Oxytocin."
+      },
+      {
+        "text": "Increased conversion of POMC to alpha-MSH",
+        "explanation": "Incorrect. Not related to prolactin mechanism."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Stalk Effect = Hyperprolactinemia (due to loss of Dopamine inhibition) + Hypopituitarism (for everything else).",
     "pdfPage": 13,
     "pdfQuote": "Neurons produce dopamine which inhibits the secretion of prolactin"
   },
   {
-    "id": 7,
-    "category": "Hypothalamus: Autonomics",
-    "questionText": "The hypothalamus has a functional division regarding autonomic control. Electrical stimulation of the ANTERIOR hypothalamic area would most likely produce which response?",
-    "options": [
-      {
-        "text": "Tachycardia and Pupil Dilation",
-        "explanation": "Incorrect. These are Sympathetic responses, driven by the Posterior/Lateral hypothalamus."
-      },
-      {
-        "text": "Bradycardia and Pupil Constriction",
-        "explanation": "Correct. The Anterior hypothalamus generally drives PARASYMPATHETIC responses (slowing heart rate, digesting, cooling). The Posterior hypothalamus drives SYMPATHETIC responses."
-      },
-      {
-        "text": "Increased Blood Pressure and Vasoconstriction",
-        "explanation": "Incorrect. Sympathetic response (Posterior)."
-      },
-      {
-        "text": "Fight or Flight Response",
-        "explanation": "Incorrect. Sympathetic (Posterior)."
-      },
-      {
-        "text": "Shivering",
-        "explanation": "Incorrect. Posterior (Heat conservation)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Anterior = Parasympathetic (Rest/Digest/Cool). Posterior = Sympathetic (Fight/Flight/Heat).",
-    "pdfPage": 6,
-    "pdfQuote": "Anterior ... Parasympathetic. Posterior ... Sympathetic"
-  },
-  {
     "id": 8,
-    "category": "Hypothalamus: Leptin",
-    "questionText": "A 5-year-old child presents with severe, morbid obesity. Genetic testing reveals a mutation in the Leptin gene (Congenital Leptin Deficiency). Based on the hypothalamic feeding circuitry, what is the functional status of the Arcuate Nucleus neurons in this patient?",
+    "category": "Hypothalamus: Fever",
+    "questionText": "A patient with a viral infection develops a fever. Circulating pyrogens like IL-1 cannot easily cross the Blood-Brain Barrier (BBB). Which specialized hypothalamic structure lacks a BBB and allows these pyrogens to reach the thermoregulatory center to reset the body's set-point?",
     "options": [
       {
-        "text": "Overactivation of POMC neurons",
-        "explanation": "Incorrect. POMC neurons are anorexigenic (suppress appetite). Leptin normally STIMULATES them. Without Leptin, POMC activity is LOW."
+        "text": "Organum Vasculosum of the Lamina Terminalis (OVLT)",
+        "explanation": "Correct. The OVLT is a Circumventricular Organ (CVO) located in the lamina terminalis near the preoptic area. It lacks a BBB, detecting circulating pyrogens (and osmolarity/Angiotensin II) and signaling the preoptic nucleus to raise body temperature (fever)."
       },
       {
-        "text": "Overactivation of NPY/AgRP neurons",
-        "explanation": "Correct. Leptin normally INHIBITS the orexigenic (appetite-stimulating) NPY/AgRP neurons. Without Leptin, these neurons are disinhibited and chemically scream 'STARVATION', driving the child to eat voraciously (hyperphagia)."
+        "text": "Suprachiasmatic Nucleus",
+        "explanation": "Incorrect. Protected by BBB, regulates circadian rhythms."
       },
       {
-        "text": "Inhibition of the Lateral Hypothalamus",
-        "explanation": "Incorrect. The Lateral Hypothalamus (feeding center) would be strongly STIMULATED by the NPY/AgRP neurons."
+        "text": "Lateral Geniculate Nucleus",
+        "explanation": "Incorrect. Thalamic relay for vision."
       },
       {
-        "text": "Increased release of alpha-MSH",
-        "explanation": "Incorrect. alpha-MSH comes from POMC neurons (which are under-active). Low alpha-MSH contributes to obesity."
-      },
-      {
-        "text": "Decreased release of Ghrelin",
-        "explanation": "Incorrect. Ghrelin (from stomach) stimulates appetite. While not the primary defect here, the key hypothalamic dysregulation is the NPY/AgRP vs POMC imbalance."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Leptin stimulates POMC (Stop eating) and inhibits NPY/AgRP (Start eating). No Leptin = High NPY/AgRP = Obesity.",
-    "pdfPage": 21,
-    "pdfQuote": "LepR, Leptin receptor ... INHIBITS ... NPY/AGRP"
-  },
-  {
-    "id": 9,
-    "category": "Hypothalamus: Anatomy",
-    "questionText": "The hypothalamus is bounded superiorly by which structure, which separates it from the dorsal thalamus?",
-    "options": [
-      {
-        "text": "Lamina Terminalis",
-        "explanation": "Incorrect. Anterior border."
-      },
-      {
-        "text": "Hypothalamic Sulcus",
-        "explanation": "Correct. The Hypothalamic Sulcus is a groove on the wall of the 3rd ventricle that separates the Thalamus (dorsal) from the Hypothalamus (ventral)."
-      },
-      {
-        "text": "Optic Chiasm",
-        "explanation": "Incorrect. Anterior/Inferior boundary."
+        "text": "Subfornical Organ",
+        "explanation": "Incorrect. While a CVO, the OVLT is the classic site associated with Pyrogen detection for the preoptic area."
       },
       {
         "text": "Mammillary Bodies",
-        "explanation": "Incorrect. Posterior boundary."
+        "explanation": "Incorrect. Protected by BBB."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: OVLT = Circumventricular Organ (No BBB). Senses Pyrogens -> Fever.",
+    "pdfPage": 7,
+    "pdfQuote": "Organum vasculosum of the lamina terminalis (OVLT) ... site of osmoreceptors ... pyrogen from the circulation can enter"
+  },
+  {
+    "id": 9,
+    "category": "Hypothalamus: Glial Cells",
+    "questionText": "During lactation, the demand for oxytocin is extremely high. To facilitate synchronized burst firing of oxytocin neurons in the Supraoptic Nucleus, adjacent astrocytes undergo a structural change. What is this change?",
+    "options": [
+      {
+        "text": "They proliferate rapidly to increase support",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Internal Capsule",
-        "explanation": "Incorrect. Lateral boundary."
+        "text": "They refract/withdraw their processes from the synapse",
+        "explanation": "Correct. Astrocytes in the Supraoptic Nucleus physically retract their processes from between the neurons during high demand (dehydration/lactation). This reduces glutamate reuptake and allows 'ephaptic' transmission (spillover), enabling the neurons to fire synchronously to release a massive pulse of hormone."
+      },
+      {
+        "text": "They differentiate into new neurons",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They secrete large amounts of dopamine",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "They form a dense scar to isolate the neurons",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hypothalamic Sulcus separates Thalamus (top) from Hypothalamus (bottom).",
-    "pdfPage": 6,
-    "pdfQuote": "separated by this apparent line called hypothalamic sulcus"
+    "clinicalPearl": "Key takeaway: Supraoptic Astrocytes RETRACT during lactation/dehydration to allow neuronal synchronization.",
+    "pdfPage": 11,
+    "pdfQuote": "astrocytic processes are physically moving closer and away"
   },
   {
     "id": 10,
-    "category": "Hypothalamus: Paraventricular Nucleus",
-    "questionText": "The Paraventricular Nucleus (PVN) is considered one of the most complex integration centers. Which of the following is NOT a substance synthesized by neurons in the PVN?",
+    "category": "Hypothalamus: Narcolepsy",
+    "questionText": "A 25-year-old male presents with excessive daytime sleepiness and episodes where he collapses due to sudden loss of muscle tone when laughing (cataplexy). He is diagnosed with Narcolepsy. This condition is caused by the autoimmune destruction of neurons in the Lateral Hypothalamus that produce which neuropeptide?",
     "options": [
       {
-        "text": "Oxytocin",
-        "explanation": "Incorrect. PVN makes Oxytocin (and ADH)."
+        "text": "POMC",
+        "explanation": "Incorrect. Produced in Arcuate, involved in satiety."
       },
       {
-        "text": "CRH (Corticotropin Releasing Hormone)",
-        "explanation": "Incorrect. PVN makes CRH to drive the HPA axis."
-      },
-      {
-        "text": "TRH (Thyrotropin Releasing Hormone)",
-        "explanation": "Incorrect. PVN makes TRH to drive the Thyroid axis."
+        "text": "Orexin (Hypocretin)",
+        "explanation": "Correct. Orexin (also called Hypocretin) neurons are located in the Lateral Hypothalamus. They promote AROUSAL and wakefulness. Their loss leads to Narcolepsy."
       },
       {
         "text": "Somatostatin",
-        "explanation": "Incorrect. Actually, Somatostatin is primarily synthesized in the Periventricular nucleus (anterior part) and Lateral hypothalamus, though PVN is complex. However, looking for the 'best' wrong answer based on the lecture slides."
+        "explanation": "Incorrect. Inhibitory hormone."
       },
       {
-        "text": "Melatonin",
-        "explanation": "Correct. Melatonin is synthesized by the PINEAL GLAND, not the hypothalamus. The SCN regulates the Pineal gland, but does not make the hormone itself."
-      }
-    ],
-    "correctAnswerIndex": 4,
-    "clinicalPearl": "Key takeaway: PVN makes ADH, Oxytocin, CRH, TRH. Pineal makes Melatonin.",
-    "pdfPage": 11,
-    "pdfQuote": "Synthesizes: ... CRF ... TRH ... ADH ... Oxytocin"
-  },
-  {
-    "id": 11,
-    "category": "Hypothalamus: Drinking Behavior",
-    "questionText": "The 'Organum Vasculosum of the Lamina Terminalis' (OVLT) plays a critical role in fluid homeostasis. Why is its location 'circumventricular' functionally important?",
-    "options": [
-      {
-        "text": "It allows direct contact with the skull",
-        "explanation": "Incorrect."
+        "text": "Vasopressin",
+        "explanation": "Incorrect. Water balance."
       },
       {
-        "text": "It lacks a Blood-Brain Barrier",
-        "explanation": "Correct. CVOs (Circumventricular Organs) like the OVLT lose the tight junctions of the BBB. This allows hypothalamic osmoreceptor neurons to directly 'taste' the blood plasma osmolarity and detect circulating angiotensin II to drive thirst."
-      },
-      {
-        "text": "It is protected by the thickest meninges",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "It is the only source of CSF production",
-        "explanation": "Incorrect. Choroid plexus produces CSF."
-      },
-      {
-        "text": "It connects the lateral and 3rd ventricles",
-        "explanation": "Incorrect. That's the Foramen of Monro."
+        "text": "Leptin",
+        "explanation": "Incorrect. Adipose hormone."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: OVLT has no BBB. It senses Osmolarity and Angiotensin II to stimulate THIRST.",
-    "pdfPage": 7,
-    "pdfQuote": "Circumventricular organs ... OVLT ... site of osmoreceptors"
-  },
-  {
-    "id": 12,
-    "category": "Hypothalamus: Rage",
-    "questionText": "In animal experiments, stimulation of the Dorsomedial Nucleus (DMN) typically produces which behavior?",
-    "options": [
-      {
-        "text": "Deep sleep",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hypersexuality",
-        "explanation": "Incorrect. Often associated with destruction of Amygdala (Kluver-Bucy) or Preoptic manipulation."
-      },
-      {
-        "text": "Sham Rage / Aggression",
-        "explanation": "Correct. The Dorsomedial Nucleus is involved in Savage behavior/Rage stimulation in animals. 'Dorsomedial = Don't Mess with me'."
-      },
-      {
-        "text": "Profound amnesia",
-        "explanation": "Incorrect. Mammillary bodies."
-      },
-      {
-        "text": "Hypothermia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Dorsomedial Nucleus stimulation = Aggressive Behavior (Sham Rage).",
-    "pdfPage": 16,
-    "pdfQuote": "Stimulation in animals results in aggressive behavior"
-  },
-  {
-    "id": 13,
-    "category": "Hypothalamus: Development",
-    "questionText": "Embryologically, the hypothalamus develops from the walls of which fluid-filled cavity?",
-    "options": [
-      {
-        "text": "Lateral Ventricles",
-        "explanation": "Incorrect. Telencephalon."
-      },
-      {
-        "text": "Third Ventricle",
-        "explanation": "Correct. The Diencephalon (Thalamus/Hypothalamus) forms the walls of the midline Third Ventricle."
-      },
-      {
-        "text": "Cerebral Aqueduct",
-        "explanation": "Incorrect. Midbrain (Mesencephalon)."
-      },
-      {
-        "text": "Fourth Ventricle",
-        "explanation": "Incorrect. Metencephalon/Myelencephalon (Pons/Medulla)."
-      },
-      {
-        "text": "Central Canal",
-        "explanation": "Incorrect. Spinal Cord."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Diencephalon = 3rd Ventricle walls. Telencephalon = Lateral Ventricles.",
-    "pdfPage": 3,
-    "pdfQuote": "vesicle becomes the third ventricle ... walls form into ... hypothalamus"
-  },
-  {
-    "id": 14,
-    "category": "Hypothalamus: Narcolepsy",
-    "questionText": "A researcher is studying the Lateral Hypothalamic Nucleus. In addition to regulating hunger, this area contains neurons that synthesize Orexin (Hypocretin). Loss of these neurons is pathognomonic for:",
-    "options": [
-      {
-        "text": "Fatal Familial Insomnia",
-        "explanation": "Incorrect. Prion disease of the Thalamus."
-      },
-      {
-        "text": "Narcolepsy",
-        "explanation": "Correct. The Lateral Hypothalamus is an Arousal center. Orexin/Hypocretin neurons stabilize the 'awake' state. Their autoimmune destruction leads to Narcolepsy (sudden sleep transitions)."
-      },
-      {
-        "text": "Obesity",
-        "explanation": "Incorrect. Loss of Lateral Hypothalamus causes Anorexia (loss of hunger drive), not obesity."
-      },
-      {
-        "text": "Kluver-Bucy Syndrome",
-        "explanation": "Incorrect. Amygdala lesion."
-      },
-      {
-        "text": "Parkinson's Disease",
-        "explanation": "Incorrect. Substantia Nigra (Dopamine)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Lateral Hypothalamus = Hunger AND Arousal (Orexin). Lesion = Anorexia + Narcolepsy.",
+    "clinicalPearl": "Key takeaway: Lateral Hypothalamus = Orexin (Hypocretin). Loss = Narcolepsy. (Also hunger center).",
     "pdfPage": 19,
     "pdfQuote": "Lesion/reduced number of neurons cause narcolepsy-like phenotype"
   },
   {
-    "id": 15,
-    "category": "Hypothalamus: Preoptic Area",
-    "questionText": "The Preoptic Nucleus is sexually dimorphic and plays a key role in reproductive physiology. What is its primary endocrine function?",
+    "id": 11,
+    "category": "Hypothalamus: SIADH",
+    "questionText": "A 65-year-old patient with small cell lung carcinoma is found to have severe hyponatremia (Serum Na+ 112 mEq/L). He is confused. Urine osmolality is inappropriately high. This clinical picture of SIADH (Syndrome of Inappropriate ADH) biochemically mimics the overactivity of which hypothalamic nucleus?",
     "options": [
       {
-        "text": "Synthesis of FSH via constitutive secretion",
+        "text": "Paraventricular Nucleus",
+        "explanation": "Correct. ADH (Vasopressin) is synthesized in the Paraventricular (PVN) and Supraoptic nuclei. SIADH represents an excess of ADH, leading to water retention and dilutional hyponatremia. Although the source here is likely the tumor, the nucleus normally responsible for this output is the PVN/Supraoptic."
+      },
+      {
+        "text": "Dorsomedial Nucleus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Production and pulsatile release of GnRH",
-        "explanation": "Correct. The Preoptic area contains the GnRH neurons that project to the tuberoinfundibular tract to control the pituitary gonadal axis. It is essential for sexual behavior and reproduction."
+        "text": "Lateral Nucleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Synthesis of Oxytocin for labor",
-        "explanation": "Incorrect. PVN/Supraoptic."
+        "text": "Anterior Nucleus",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Release of Prolactin",
-        "explanation": "Incorrect. Anterior Pituitary (Lactotrophs)."
-      },
-      {
-        "text": "Inhibition of TSH",
-        "explanation": "Incorrect. Somatostatin/Dopamine."
+        "text": "Mammillary Nucleus",
+        "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Preoptic Area = GnRH (Gonadotropins) + Sexual Behavior.",
-    "pdfPage": 13,
-    "pdfQuote": "Production of gonadotropin-releasing hormone (GnRH)"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: SIADH = Excess ADH. ADH source = PVN/Supraoptic.",
+    "pdfPage": 12,
+    "pdfQuote": "Syndrome of Inappropriate ADH secretion (SIADH)"
   },
   {
-    "id": 16,
-    "category": "Hypothalamus: Fever",
-    "questionText": "During an infection, pyrogens (like IL-1) circulate in the blood. They act on the hypothalamus to 'reset' the thermal set-point to a higher level, causing the body to feel cold and shiver until the new temperature is reached (fever). Which area detects these blood-borne pyrogens?",
+    "id": 12,
+    "category": "Hypothalamus: Preoptic Area Function",
+    "questionText": "A 16-year-old female is evaluated for primary amenorrhea and lack of secondary sexual characteristics. She also reports an inability to smell (anosmia). This presentation (Kallmann Syndrome) results from the failure of specific neurons to migrate into the hypothalamus. Which area is the normal destination for these neurons?",
     "options": [
       {
-        "text": "Corpus Callosum",
-        "explanation": "Incorrect."
+        "text": "Preoptic Area",
+        "explanation": "Correct. GnRH neurons normally migrate from the olfactory placode to the Preoptic Area/Nucleus of the hypothalamus. These neurons drive the pulsatile release of GnRH necessary for puberty and reproduction. Their failure to migrate leads to hypogonadotropic hypogonadism + anosmia."
       },
       {
-        "text": "Preoptic Anterior Hypothalamus (via OVLT)",
-        "explanation": "Correct. The OVLT (circumventricular organ) in the Preoptic/Anterior hypothalamus detects pyrogens (like Prostaglandin E2 / IL-1) and signals the thermoregulatory center to raise body temperature."
+        "text": "Posterior Hypothalamus",
+        "explanation": "Incorrect. Thermoregulation."
+      },
+      {
+        "text": "Ventromedial Nucleus",
+        "explanation": "Incorrect. Satiety."
+      },
+      {
+        "text": "Supraoptic Nucleus",
+        "explanation": "Incorrect. ADH/Oxytocin."
       },
       {
         "text": "Mammillary Bodies",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Posterior Pituitary",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Subthalamic Nucleus",
-        "explanation": "Incorrect. Motor control."
+        "explanation": "Incorrect. Memory."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Pyrogens act on the Preoptic/Anterior Hypothalamus (OVLT) to cause FEVER.",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Preoptic Area houses GnRH neurons. Essential for Sex/Reproduction.",
     "pdfPage": 13,
-    "pdfQuote": "pyrogen from the circulation can enter ... reset internal thermostat"
+    "pdfQuote": "Preoptic Area ... Production of gonadotropin-releasing hormone (GnRH)"
   },
   {
-    "id": 17,
-    "category": "Hypothalamus: Obesity Treatment",
-    "questionText": "Gastric bypass surgery is effective not only due to restriction of stomach volume but also via hormonal modulation. Post-surgically, patients exhibit reduced levels of which hormone, thereby decreasing hunger drive?",
+    "id": 13,
+    "category": "Hypothalamus: Obesity Genetics",
+    "questionText": "A 4-year-old boy presents with severe obesity. Genetic analysis reveals a Congenital Leptin Deficiency. Physiologically, leptin normally regulates body weight by acting on the Arcuate Nucleus to:",
     "options": [
       {
-        "text": "Leptin",
-        "explanation": "Incorrect. Leptin levels drop with weight loss (less fat), which normally INCREASES hunger. This is counter-productive to weight loss maintenance."
+        "text": "Stimulate NPY/AgRP neurons and inhibit POMC neurons",
+        "explanation": "Incorrect. This would INCREASE hunger. Leptin is a 'satiety' signal."
       },
       {
-        "text": "Gastrin / Ghrelin",
-        "explanation": "Correct. The lecture highlights that Gastric Bypass significantly reduces Gastrin (and Ghrelin, though slide emphasizes Gastrin levels/Hunger relation) secretion. Since these are hunger signals from the gut, their reduction helps sustain weight loss."
+        "text": "Inhibit NPY/AgRP neurons and stimulate POMC neurons",
+        "explanation": "Correct. Leptin signals 'fat stores are sufficient'. It inhibits the 'Hunger' neurons (NPY/AgRP) and stimulates the 'Satiety' neurons (POMC/alpha-MSH). Loss of Leptin leads to overactive NPY/AgRP (starvation signal) and low POMC, causing hyperphagia and obesity."
       },
       {
-        "text": "Insulin",
+        "text": "Stimulate release of Ghrelin from the stomach",
+        "explanation": "Incorrect. Ghrelin is from the stomach, not a target of leptin in the brain."
+      },
+      {
+        "text": "Inhibit the release of TSH",
         "explanation": "Incorrect."
       },
       {
-        "text": "CCK",
-        "explanation": "Incorrect. CCK is a satiety signal; you'd want more of it."
-      },
-      {
-        "text": "Peptide YY",
-        "explanation": "Incorrect. Satiety signal."
+        "text": "Binds directly to the Lateral Hypothalamus to cause anorexia",
+        "explanation": "Incorrect. Its primary action is modulating the Arcuate inputs."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Gastric Bypass dampens Gastrin/Ghrelin signaling, reducing the drive to eat.",
+    "clinicalPearl": "Key takeaway: Leptin = Stop Eating. Mechanism: Stimulate POMC, Inhibit NPY/AgRP.",
+    "pdfPage": 21,
+    "pdfQuote": "LepR ... INHIBITS ... NPY/AGRP ... OREXIGENIC"
+  },
+  {
+    "id": 14,
+    "category": "Hypothalamus: Sham Rage",
+    "questionText": "A laboratory cat exhibits unexpected, unprovoked aggressive behavior, hissing and clawing when approached. This 'Sham Rage' behavior is classically associated with electrical stimulation or disinhibition of which hypothalamic nucleus?",
+    "options": [
+      {
+        "text": "Dorsomedial Nucleus",
+        "explanation": "Correct. The Dorsomedial Nucleus is associated with aggression and rage behaviors (mnemonic: Dorsomedial = Don't Mess with me)."
+      },
+      {
+        "text": "Suprachiasmatic Nucleus",
+        "explanation": "Incorrect. Circadian rhythm."
+      },
+      {
+        "text": "Supraoptic Nucleus",
+        "explanation": "Incorrect. Water balance."
+      },
+      {
+        "text": "Arcuate Nucleus",
+        "explanation": "Incorrect. Feeding/Endocrine."
+      },
+      {
+        "text": "Preoptic Nucleus",
+        "explanation": "Incorrect. Sex/Temp."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Dorsomedial Nucleus = Rage/Aggression.",
+    "pdfPage": 16,
+    "pdfQuote": "Stimulation in animals results in aggressive behavior"
+  },
+  {
+    "id": 15,
+    "category": "Hypothalamus: Gastric Bypass",
+    "questionText": "A 40-year-old female undergoes Roux-en-Y gastric bypass for weight loss. In addition to physical restriction, the surgery alters hormonal signals to the brain. Which hormonal change contributes most to the reduction in hunger drive seen post-operatively?",
+    "options": [
+      {
+        "text": "Increased Ghrelin secretion",
+        "explanation": "Incorrect. Ghrelin increases hunger."
+      },
+      {
+        "text": "Reduced Gastrin and Ghrelin secretion",
+        "explanation": "Correct. The isolation of the gastric fundus/body reduces the secretion of Gastrin and Ghrelin (hunger hormones). This reduction in 'hunger signals' reaching the hypothalamus is a key component of the weight loss success."
+      },
+      {
+        "text": "Decreased Leptin sensitivity",
+        "explanation": "Incorrect. You want increased sensitivity or levels, though leptin drops with fat loss."
+      },
+      {
+        "text": "Increased NPY production",
+        "explanation": "Incorrect. NPY increases hunger."
+      },
+      {
+        "text": "Reduced CCK release",
+        "explanation": "Incorrect. CCK signals satiety."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Gastric Bypass lowers Gastrin/Ghrelin (Hunger signals).",
     "pdfPage": 23,
     "pdfQuote": "gastric bypass significantly reduced gastrin secretion ... promotes the weight loss"
   },
   {
-    "id": 18,
-    "category": "Hypothalamus: GLP-1",
-    "questionText": "GLP-1 agonists (like Liraglutide) are revolutionizing obesity treatment. They act on the brain to reduce food intake. Research shown in the lecture suggests that which specific glial cells are responsible for transporting Liraglutide into the hypothalamus?",
+    "id": 16,
+    "category": "Hypothalamus: Tanycytes",
+    "questionText": "Research into GLP-1 agonists (like Liraglutide) shows they must enter the brain to exert anti-obesity effects. Which specialized cells lining the 3rd ventricle are responsible for transporting these molecules into the hypothalamic parenchyma?",
     "options": [
+      {
+        "text": "Ependymal cells (Tanycytes)",
+        "explanation": "Correct. Tanycytes are specialized ependymal cells with processes extending into the hypothalamus. They act as a gateway, transporting metabolic signals like GLP-1/Liraglutide from the CSF/ventricle into the Arcuate Nucleus to regulate feeding."
+      },
       {
         "text": "Microglia",
         "explanation": "Incorrect. Immune cells."
       },
       {
         "text": "Oligodendrocytes",
-        "explanation": "Incorrect. Myelin."
+        "explanation": "Incorrect. Myelinating cells."
       },
       {
-        "text": "Tanycytes",
-        "explanation": "Correct. Tanycytes are specialized ependymal cells lining the 3rd ventricle. They take up GLP-1/Liraglutide from the CSF/circumventricular organs and transport it into the medial basal hypothalamus to reach the Arcuate nucleus."
+        "text": "Astrocytes in the cortex",
+        "explanation": "Incorrect. While astrocytes are involved, Tanycytes are the specific answer for 3rd ventricle transport."
       },
       {
-        "text": "Schwann Cells",
-        "explanation": "Incorrect. PNS."
-      },
-      {
-        "text": "Satellite Cells",
-        "explanation": "Incorrect. PNS ganglia."
+        "text": "Choroid Plexus cells",
+        "explanation": "Incorrect. CSF production."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Tanycytes (specialized ependymal cells) transport GLP-1/Liraglutide into the Hypothalamus.",
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Tanycytes transport GLP-1 into the hypothalamus.",
     "pdfPage": 26,
     "pdfQuote": "Tanycytes control hypothalamic liraglutide uptake"
   },
   {
-    "id": 19,
-    "category": "Hypothalamus: SIADH",
-    "questionText": "A 60-year-old male with Small Cell Lung Cancer presents with confusion and seizures. Labs show severe hyponatremia (Na+ 115 mEq/L) and concentrated urine. This presentation (SIADH) mimics a primary pathology of which hypothalamic nucleus?",
+    "id": 17,
+    "category": "Hypothalamus: Anatomy",
+    "questionText": "Structure and function are linked in the hypothalamus. The 'Hypothalamic Sulcus' is an important anatomical landmark that separates the hypothalamus from which dorsal structure?",
     "options": [
       {
-        "text": "Paraventricular Nucleus",
-        "explanation": "Correct. SIADH is 'Syndrome of Inappropriate ADH'. ADH is made in the PVN and Supraoptic nuclei. While this potential paraneoplastic syndrome is ectopic production by the tumor, the physiological equivalent is hyperactivity of these hypothalamic neurons causing water retention and dilutional hyponatremia."
+        "text": "Thalamus",
+        "explanation": "Correct. The Hypothalamic Sulcus on the wall of the 3rd ventricle separates the Thalamus (Dorsal) from the Hypothalamus (Ventral)."
       },
       {
-        "text": "Lateral Hypothalamus",
+        "text": "Subthalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Mammillary Bodies",
+        "text": "Epithalamus",
         "explanation": "Incorrect."
       },
       {
-        "text": "Dorsomedial Nucleus",
+        "text": "Corpus Callosum",
         "explanation": "Incorrect."
       },
       {
-        "text": "Anterior Nucleus",
+        "text": "Optic Chiasm",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: SIADH = Too much ADH = Hyponatremia. ADH comes from Supraoptic/Paraventricular nuclei.",
-    "pdfPage": 12,
-    "pdfQuote": "Syndrome of Inappropriate ADH secretion (SIADH)"
+    "clinicalPearl": "Key takeaway: Hypothalamic Sulcus separates Thalamus (top) from Hypothalamus (bottom).",
+    "pdfPage": 6,
+    "pdfQuote": "separated by this apparent line called hypothalamic sulcus"
+  },
+  {
+    "id": 18,
+    "category": "Hypothalamus: Embryology",
+    "questionText": "The hypothalamus forms the walls of the 3rd ventricle. From which secondary embryonic brain vesicle does it initiate?",
+    "options": [
+      {
+        "text": "Telencephalon",
+        "explanation": "Incorrect. Becomes Cerebrum."
+      },
+      {
+        "text": "Diencephalon",
+        "explanation": "Correct. The Diencephalon gives rise to the Thalamus, Hypothalamus, Epithalamus, and Subthalamus, enclosing the 3rd ventricle."
+      },
+      {
+        "text": "Mesencephalon",
+        "explanation": "Incorrect. Midbrain."
+      },
+      {
+        "text": "Metencephalon",
+        "explanation": "Incorrect. Pons/Cerebellum."
+      },
+      {
+        "text": "Myelencephalon",
+        "explanation": "Incorrect. Medulla."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Hypothalamus is part of the Diencephalon.",
+    "pdfPage": 3,
+    "pdfQuote": "diencephalon ... walls form into ... hypothalamus"
+  },
+  {
+    "id": 19,
+    "category": "Hypothalamus: GLP-1 Pathway",
+    "questionText": "Endogenous GLP-1 released from the gut can activate a neural pathway to the brain to signal satiety. This involves activation of sensory afferents in the Vagus nerve, which then terminate in which brainstem nucleus?",
+    "options": [
+      {
+        "text": "Nucleus of the Solitary Tract (NTS)",
+        "explanation": "Correct. Vagal afferents carrying visceral sensation (like gut fullness or GLP-1 signals) project to the Nucleus Solitarius (NTS) in the medulla. The NTS then relays this to the hypothalamus."
+      },
+      {
+        "text": "Nucleus Ambiguus",
+        "explanation": "Incorrect. Motor output."
+      },
+      {
+        "text": "Dorsal Motor Nucleus",
+        "explanation": "Incorrect. Motor output."
+      },
+      {
+        "text": "Superior Olivary Nucleus",
+        "explanation": "Incorrect. Auditory."
+      },
+      {
+        "text": "Red Nucleus",
+        "explanation": "Incorrect. Motor."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Gut signals (Vagus) -> Nucleus of Solitary Tract (NTS) -> Hypothalamus.",
+    "pdfPage": 25,
+    "pdfQuote": "activate neurons of the solitary tract nucleus"
   },
   {
     "id": 20,
-    "category": "Hypothalamus: Astrocytes",
-    "questionText": "In the Supraoptic Nucleus, the release of Oxytocin and ADH is not just neuron-dependent but actively modulated by glial cells. During high demand (like physiological dehydration or lactation), astrocytes in this nucleus:",
+    "category": "Hypothalamus: PVN Functions",
+    "questionText": "The Paraventricular Nucleus (PVN) is a command center for homeostasis. Which of the following is NOT a primary function or product of the PVN?",
     "options": [
       {
-        "text": "Retract their processes from the synapse",
-        "explanation": "Correct. Astrocytes normally sheath the synapses. During high demand, they physically retract (pull away), allowing more glutamate to spill over and enabling 'ephaptic' cross-talk between neurons, synchronizing them for massive hormonal pulses."
+        "text": "Synthesis of TRH (Thyrotropin Releasing Hormone)",
+        "explanation": "Incorrect. PVN makes TRH."
       },
       {
-        "text": "Undergo apoptosis",
-        "explanation": "Incorrect."
+        "text": "Synthesis of CRH (Corticotropin Releasing Hormone)",
+        "explanation": "Incorrect. PVN makes CRH."
       },
       {
-        "text": "Release dopamine to inhibit the neurons",
-        "explanation": "Incorrect."
+        "text": "Synthesis of Melatonin",
+        "explanation": "Correct. Melatonin is made by the PINEAL GLAND. The PVN regulates the pineal gland via the sympathetic nervous system, but does not synthesize melatonin itself."
       },
       {
-        "text": "Form a scar barrier",
-        "explanation": "Incorrect."
+        "text": "Synthesis of Oxytocin",
+        "explanation": "Incorrect. PVN makes Oxytocin."
       },
       {
-        "text": "Differentiate into neurons",
-        "explanation": "Incorrect."
+        "text": "Direct autonomic projections to spinal cord",
+        "explanation": "Incorrect. PVN projects to autonomic centers."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Astrocytes in the Supraoptic nucleus actively retract during lactation/dehydration to allow neuronal synchronization.",
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: PVN = TRH, CRH, ADH, Oxytocin, Autonomics. Melatonin = Pineal Gland.",
     "pdfPage": 11,
-    "pdfQuote": "So astrocytic processes are physically moving closer and away"
+    "pdfQuote": "Synthesizes: ... CRF ... TRH ... ADH ... Oxytocin"
   }
 ];
