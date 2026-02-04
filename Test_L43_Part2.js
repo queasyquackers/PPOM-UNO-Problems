@@ -1,622 +1,642 @@
 window.Test_L43_Part2 = [
   {
     "id": 1,
-    "category": "MS Pharm: Acute Exacerbation",
-    "questionText": "A 28-year-old female with a history of Multiple Sclerosis presents with acute onset vision loss in the right eye and pain with eye movement (optic neuritis). What is the most appropriate acute treatment?",
+    "category": "MS: Acute Exacerbation",
+    "questionText": "A 28-year-old female with a history of Multiple Sclerosis presents to the emergency department with acute onset of painful vision loss in her right eye (optic neuritis). She describes pain with eye movement. MRI confirms a new enhancing lesion in the right optic nerve. What is the most appropriate initial pharmacological intervention to manage this acute exacerbation?",
     "options": [
       {
-        "text": "Oral Ibuprofen",
-        "explanation": "Incorrect. NSAIDs are insufficient."
+        "text": "Oral Prednisone taper starting at 60mg",
+        "explanation": "Incorrect. For acute optic neuritis, oral prednisone alone is associated with a higher rate of recurrence compared to IV pulse therapy. It is generally not the initial choice for severe acute exacerbations involving vision."
       },
       {
         "text": "High-dose IV Methylprednisolone",
-        "explanation": "Correct. Acute flare-ups (like optic neuritis) are treated with high-dose corticosteroids to reduce inflammation and speed recovery. They work by inducing lipocortin to inhibit Phospholipase A2."
+        "explanation": "Correct. The standard of care for acute, severe MS relapses (like optic neuritis) is high-dose IV corticosteroids (e.g., Methylprednisolone 1g/day for 3-5 days). This rapidly suppresses inflammation by inhibiting phospholipase A2 and lymphocyte migration, accelerating recovery.",
+        "isCorrect": true
       },
       {
-        "text": "Interferon Beta-1a",
-        "explanation": "Incorrect. This is for maintenance/prevention, not acute flares."
+        "text": "Initiation of Interferon beta-1a",
+        "explanation": "Incorrect. Interferons are disease-modifying therapies (DMTs) used for long-term prevention of relapses, not for the acute management of a current flare."
       },
       {
-        "text": "Glatiramer Acetate",
-        "explanation": "Incorrect. Maintenance."
+        "text": "Glatiromer Acetate subcutaneous injection",
+        "explanation": "Incorrect. Glatiromer Acetate is a maintenance DMT, not used for acute symptom management."
       },
       {
-        "text": "Ocrelizumab",
-        "explanation": "Incorrect. Maintenance."
+        "text": "Plasma Exchange (PLEX)",
+        "explanation": "Incorrect. PLEX is typically reserved as a second-line rescue therapy for severe attacks that do not respond to high-dose corticosteroids."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute MS Flare = High Dose Steroids (Methylprednisolone).",
-    "pdfPage": 5,
-    "pdfQuote": "Acute: glucocorticoids (prednisone, IV methylprednisolone). Optic neuritis treatment."
+    "clinicalPearl": "Key takeaway: Acute MS Flares (Optic Neuritis) → Treat with High-Dose IV Steroids (Methylprednisolone).",
+    "pdfPage": 6,
+    "pdfQuote": "IV methylprednisolone is actually the first medication that we will give for optic neuritis"
   },
   {
     "id": 2,
-    "category": "MS Pharm: Glatiramer",
-    "questionText": "Glatiramer Acetate is a polypeptide mixture that is thought to work by:",
+    "category": "MS: Steroid Adverse Effects",
+    "questionText": "A 35-year-old female with MS has required multiple courses of high-dose corticosteroids over the past year for frequent relapses. She presents to her primary care physician with complaints of new-onset back pain. An X-ray reveals a vertebral compression fracture. Which mechanism explains this adverse effect of her therapy?",
     "options": [
       {
-        "text": "Blocking Alpha-4 Integrin",
-        "explanation": "Incorrect. Natalizumab."
+        "text": "Inhibition of osteoclast apoptosis",
+        "explanation": "Incorrect. This is not the primary mechanism."
       },
       {
-        "text": "Acting as a decoy and shifting the immune response from Th1 to Th2",
-        "explanation": "Correct. It resembles myelin basic protein and acts as a 'decoy', promoting an anti-inflammatory Th2 response (suppressing the pro-inflammatory Th1 response). It also increases BDNF."
+        "text": "Increased intestinal calcium absorption",
+        "explanation": "Incorrect. Corticosteroids DECREASE intestinal calcium absorption (antagonize Vitamin D), leading to hypocalcemia and secondary hyperparathyroidism."
       },
       {
-        "text": "Depleting B-cells via CD20",
-        "explanation": "Incorrect. Rituximab/Ocrelizumab."
+        "text": "Stimulation of osteoclast activity and inhibition of osteoblasts",
+        "explanation": "Correct. Glucocorticoids increase the expression of RANKL (stimulating osteoclasts/bone resorption) and inhibit osteoblast proliferation/bone formation. They also decrease calcium absorption. This potent combination leads to rapid bone loss (osteoporosis) and fracture risk.",
+        "isCorrect": true
       },
       {
-        "text": "Sequestering lymphocytes in lymph nodes",
-        "explanation": "Incorrect. Fingolimod."
+        "text": "Increased renal calcium reabsorption",
+        "explanation": "Incorrect. Corticosteroids increase renal calcium EXCRETION (hypercalciuria), further contributing to bone loss."
       },
       {
-        "text": "Inhibiting pyrimidine synthesis",
-        "explanation": "Incorrect. Teriflunomide."
+        "text": "Direct destruction of collagen type II",
+        "explanation": "Incorrect. While they affect collagen, the bone loss is primarily cellular (osteoclast/osteoblast imbalance)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Glatiramer = Myelin Decoy -> Th2 shift (Anti-inflammatory). Safe in pregnancy.",
-    "pdfPage": 12,
-    "pdfQuote": "glatiromir, actually enhances Th2, which can actually be a therapeutic"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Chronic/High-dose Steroids → Osteoporosis (Increased Osteoclasts, Decreased Osteoblasts, Decreased Ca absorption).",
+    "pdfPage": 9,
+    "pdfQuote": "With the bone, these drugs increase osteoclasts ... break down bone"
   },
   {
     "id": 3,
-    "category": "MS Pharm: Natalizumab",
-    "questionText": "Natalizumab is a highly effective monoclonal antibody for MS, but it carries a Black Box Warning for which serious complication?",
+    "category": "MS: DMT Adverse Effects",
+    "questionText": "A 30-year-old female is starting Interferon beta-1a for Relapsing-Remitting MS. Two weeks into therapy, she complains of fever, chills, myalgias, and fatigue occurring a few hours after each injection. What is the best counseling point to manage these symptoms?",
     "options": [
       {
-        "text": "Cardiomyopathy",
-        "explanation": "Incorrect. Mitoxantrone."
+        "text": "Discontinue the medication immediately as this is an allergic reaction",
+        "explanation": "Incorrect. These are expected 'flu-like symptoms', not anaphylaxis."
       },
       {
-        "text": "Progressive Multifocal Leukoencephalopathy (PML)",
-        "explanation": "Correct. By blocking Alpha-4 Integrin, it prevents immune surveillance of the CNS, allowing reactivation of the JC Virus, leading to PML. Risk factors: JC virus antibodies, prior immunosuppression, long duration of treatment."
+        "text": "Pre-medicate with NSAIDs or Acetaminophen and titrate the dose",
+        "explanation": "Correct. Flu-like symptoms are the most common adverse effect of Interferons. They tend to dissipate over time. Management involves dose titration (starting low) and taking NSAIDs/Acetaminophen before the injection to mitigate the cytokine release symptoms.",
+        "isCorrect": true
       },
       {
-        "text": "Pulmonary Fibrosis",
-        "explanation": "Incorrect."
+        "text": "Switch to oral prednisone for maintenance",
+        "explanation": "Incorrect. Prednisone is not a maintenance DMT."
       },
       {
-        "text": "macular edema",
-        "explanation": "Incorrect. Fingolimod."
+        "text": "Administer the injection in the morning",
+        "explanation": "Incorrect. Injecting at bedtime is usually preferred so the patient sleeps through the worst of the symptoms."
       },
       {
-        "text": "Thyroiditis",
-        "explanation": "Incorrect. Alemtuzumab."
+        "text": "Take prophylactic antibiotics",
+        "explanation": "Incorrect. This is not an infection; it is a cytokine-mediated reaction."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Natalizumab = PML Risk (JC Virus activation). MOA: Blocks alpha-4 integrin.",
-    "pdfPage": 14,
-    "pdfQuote": "Natalizumab ... AE: infusion reactions, PML"
+    "clinicalPearl": "Key takeaway: Interferons cause Flu-Like Symptoms. Manage with NSAIDs + Bedtime administration.",
+    "pdfPage": 16,
+    "pdfQuote": "medication is effective, but it can cause flu -like symptoms ... fever ... sore throat"
   },
   {
     "id": 4,
-    "category": "MS Pharm: Fingolimod",
-    "questionText": "A patient is starting Fingolimod. Which monitoring step is essential after the first dose?",
+    "category": "MS: Glatiramer Acetate",
+    "questionText": "A 29-year-old male with RRMS is treated with Glatiramer Acetate. He comes to the clinic concerned about 'dents' in his thighs where he injects the medication. Examination reveals localized depression of the skin surface without inflammation. What is the mechanism of this drug and the reaction?",
     "options": [
       {
-        "text": "Audiometry",
-        "explanation": "Incorrect."
+        "text": "Alpha-4 Integrin blockade; Lipoatrophy",
+        "explanation": "Incorrect. Alpha-4 integrin blockade is Natalizumab."
       },
       {
-        "text": "ECG monitoring for 6 hours",
-        "explanation": "Correct. Fingolimod is a Sphingosine-1-Phosphate (S1P) receptor modulator. S1P receptors on the heart (atrial myocytes) can cause significant bradycardia or AV block with the first dose."
+        "text": "Synthetic myelin basic protein mimic; Lipoatrophy",
+        "explanation": "Correct. Glatiramer Acetate is a random polymer of 4 amino acids (L-glutamic acid, L-lysine, L-alanine, L-tyrosine) that mimics myelin basic protein. It acts as a decoy and shifts the immune response from Th1 (pro-inflammatory) to Th2 (anti-inflammatory). A common local reaction is Lipoatrophy (fat destruction) at injection sites, causing permanent dents.",
+        "isCorrect": true
       },
       {
-        "text": "Pulmonary Function Tests",
-        "explanation": "Incorrect."
+        "text": "S1P receptor modulator; Lipohypertrophy",
+        "explanation": "Incorrect. S1P modulator is Fingolimod. Lipohypertrophy is fat accumulation (like insulin lumps), not loss."
       },
       {
-        "text": "Serum Calcium",
-        "explanation": "Incorrect."
+        "text": "Pyrimidine synthesis inhibitor; Injection site necrosis",
+        "explanation": "Incorrect. This describes Teriflunamide (which is oral, so no injection site issues)."
       },
       {
-        "text": "Thyroid function tests",
-        "explanation": "Incorrect."
+        "text": "Monoclonal antibody to CD20; Extravasation injury",
+        "explanation": "Incorrect. CD20s (Rituximab/Ocrelizumab) are IV."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Fingolimod = First Dose Bradycardia (Monitor ECG). MOA: Sequesters lymphocytes in nodes.",
-    "pdfPage": 11,
-    "pdfQuote": "Evaluate EKG (at first dose, re-initiation) ... bradycardia"
+    "clinicalPearl": "Key takeaway: Glatiramer Acetate = Myelin Decoy (Th1->Th2). Causes Lipoatrophy (rotate injection sites!).",
+    "pdfPage": 14,
+    "pdfQuote": "subcutaneous injections can ... lead to something called lipoatrophy this is where there's a loss of fat at the injection site"
   },
   {
     "id": 5,
-    "category": "MS Pharm: Teriflunomide",
-    "questionText": "Teriflunomide inhibits dihydroorotate dehydrogenase, thereby inhibiting pyrimidine synthesis. It is strictly contraindicated in pregnancy due to:",
+    "category": "MS: Natalizumab Risk",
+    "questionText": "A 32-year-old female with highly active RRMS is being considered for Natalizumab. She is very concerned about the risk of a rare brain infection. Before starting therapy, what specific assay must be performed to stratify her risk for Progressive Multifocal Leukoencephalopathy (PML)?",
     "options": [
       {
-        "text": "Neonatal respiratory depression",
-        "explanation": "Incorrect."
+        "text": "Hepatitis B Surface Antigen",
+        "explanation": "Incorrect. Important for Anti-CD20s (Rituximab), but not the primary risk for Natalizumab."
       },
       {
-        "text": "Teratogenicity",
-        "explanation": "Correct. Interference with DNA synthesis causes severe birth defects. Washout with Cholestyramine may be needed if pregnancy occurs or is desired, as the drug stays in the body for up to 2 years."
+        "text": "Tuberculosis (PPD or quantiferon)",
+        "explanation": "Incorrect. Important for TNF blockers."
       },
       {
-        "text": "Risk of large babies",
-        "explanation": "Incorrect."
+        "text": "Anti-John Cunningham (JC) Virus Antibody",
+        "explanation": "Correct. Natalizumab increases the risk of PML, an opportunistic infection caused by the JC Virus. Patients are stratified by their anti-JCV antibody status. Positive titers indicate prior exposure and a significantly higher risk of developing PML on therapy.",
+        "isCorrect": true
       },
       {
-        "text": "Neonatal hypoglycemia",
-        "explanation": "Incorrect."
+        "text": "Serum Ceruloplasmin",
+        "explanation": "Incorrect. For Wilson's disease."
       },
       {
-        "text": "Kernicterus",
-        "explanation": "Incorrect."
+        "text": "HLA-B*5701",
+        "explanation": "Incorrect. For Abacavir hypersensitivity."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Teriflunomide = Teratogen. Contraindicated in pregnancy. Inhibits Pyrimidine synthesis.",
-    "pdfPage": 16,
-    "pdfQuote": "AE: infections ... teratogenicity ... Continue contraception 2 years post-therapy"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Natalizumab → Risk of PML (JC Virus). Check Anti-JCV antibodies.",
+    "pdfPage": 17,
+    "pdfQuote": "increase in PML, again, back to the JC virus"
   },
   {
     "id": 6,
-    "category": "MS Pharm: Ocrelizumab",
-    "questionText": "Which drug targets CD20 to deplete B-cells and is approved for both Relapsing-Remitting and Primary Progressive MS?",
+    "category": "MS: Fingolimod",
+    "questionText": "A 45-year-old male is prescribed Fingolimod for RRMS. He is instructed to take the first dose in the clinic and stay for 6 hours of observation with hourly vital signs and an ECG. What specific adverse effect is being monitored?",
     "options": [
       {
-        "text": "Natalizumab",
-        "explanation": "Incorrect."
+        "text": "Anaphylaxis",
+        "explanation": "Incorrect. While possible with any drug, the specific 6-hour cardiac monitoring protocol is for bradycardia."
       },
       {
-        "text": "Ocrelizumab",
-        "explanation": "Correct. It is a humanized anti-CD20 monoclonal antibody. It kills B cells (ADCC). Rituximab is similar but typically used off-label."
+        "text": "Acute Liver Failure",
+        "explanation": "Incorrect. Liver enzymes are monitored long-term, not hourly for 6 hours post-dose."
       },
       {
-        "text": "Interferon Beta",
-        "explanation": "Incorrect."
+        "text": "Symptomatic Bradycardia",
+        "explanation": "Correct. Fingolimod modulates S1P receptors. S1P receptors are also found in atrial myocytes (SA/AV nodes). The first dose can cause a transient activation of significant potassium efflux, leading to bradycardia and AV block. This effect creates the need for 'first-dose observation'.",
+        "isCorrect": true
       },
       {
-        "text": "Alemtuzumab",
-        "explanation": "Incorrect. Anti-CD52."
+        "text": "Macular Edema",
+        "explanation": "Incorrect. This is a side effect of Fingolimod, but it is monitored via ophthalmic exam at 3-4 months, not hourly ECG.",
       },
       {
-        "text": "Dimethyl Fumarate",
+        "text": "Seizures",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Ocrelizumab = Anti-CD20 (B cell depletion). Approved for Primary Progressive MS.",
-    "pdfPage": 15,
-    "pdfQuote": "Ocrelizumab: Humanized ... Anti-CD20 drugs"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Fingolimod = S1P Modulator. First Dose → Bradycardia (requires 6hr observation/ECG).",
+    "pdfPage": 13,
+    "pdfQuote": "episodes of patients having bradycardia when taking fingolimod"
   },
   {
     "id": 7,
-    "category": "MS Pharm: Spasticity",
-    "questionText": "A patient with MS suffers from painful leg spasms. Which medication acts as a GABA-B agonist to treat spasticity?",
+    "category": "MS: Dimethyl Fumarate",
+    "questionText": "A patient taking Dimethyl Fumarate complains of intense flushing (warmth, redness) and abdominal pain shortly after taking his medication. What is the mechanism of action of this drug?",
     "options": [
       {
-        "text": "Dantrolene",
-        "explanation": "Incorrect. Ryanodine receptor blocker (muscle only)."
+        "text": "Inhibits Dihydroorotate Dehydrogenase",
+        "explanation": "Incorrect. This is Teriflunamide."
       },
       {
-        "text": "Baclofen",
-        "explanation": "Correct. GABA-B agonist in the spinal cord. Increases K+ efflux, hyperpolarizing neurons and reducing muscle tone."
+        "text": "Activates Nrf2 pathway to induce antioxidants",
+        "explanation": "Correct. Dimethyl Fumarate (and its metabolite Monomethyl Fumarate) activates the Nrf2 pathway. Nrf2 translocates to the nucleus, binds ARE (Antioxidant Response Element), and increases glutathione/antioxidants to protect against oxidative stress. Flushing and GI upset are its hallmark side effects.",
+        "isCorrect": true
       },
       {
-        "text": "Diazepam",
-        "explanation": "Incorrect. GABA-A. Too sedating for chronic high dose use."
+        "text": "Sequesters lymphocytes in lymph nodes",
+        "explanation": "Incorrect. This is Fingolimod."
       },
       {
-        "text": "Tizanidine",
-        "explanation": "Incorrect. Alpha-2 agonist."
+        "text": "Binds CD52 to lyse lymphocytes",
+        "explanation": "Incorrect. This is Alemtuzumab."
       },
       {
-        "text": "Cyclobenzaprine",
-        "explanation": "Incorrect."
+        "text": "Blocks Potassium channels",
+        "explanation": "Incorrect. This is Dalfampridine."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spasticity = Baclofen (GABA-B) or Tizanidine (Alpha-2).",
-    "pdfPage": 22,
-    "pdfQuote": "Baclofen (GABA B agonist): G protein (Gi) mechanism"
+    "clinicalPearl": "Key takeaway: Dimethyl Fumarate → Nrf2 Activator (Antioxidant/Glutathione). Side effects: Flushing + GI.",
+    "pdfPage": 12,
+    "pdfQuote": "activate Nrf2 ... production of antioxidants ... glutathione"
   },
   {
     "id": 8,
-    "category": "MS Pharm: Walking Speed",
-    "questionText": "Dalfampridine is used to improve walking speed in MS patients. Its mechanism of action is:",
+    "category": "MS: Teriflunamide",
+    "questionText": "A 26-year-old female with MS wishes to become pregnant. She is currently taking Teriflunamide. What is the most appropriate management plan regarding her medication?",
     "options": [
       {
-        "text": "Potassium Channel Blockade",
-        "explanation": "Correct. By blocking K+ channels in demyelinated axons, it prevents K+ leakage, prolonging the action potential and improving conduction."
+        "text": "Continue the medication as it is safe in pregnancy",
+        "explanation": "Incorrect. Teriflunamide is highly teratogenic (Category X)."
       },
       {
-        "text": "Sodium Channel Blockade",
-        "explanation": "Incorrect. Lidocaine."
+        "text": "Stop the medication and attempt conception immediately",
+        "explanation": "Incorrect. The drug has a very long half-life (enterphepatic recirculation) and can stay in the body for up to 2 years. Stopping is not enough."
       },
       {
-        "text": "Calcium Channel Blockade",
-        "explanation": "Incorrect."
+        "text": "Undergo an accelerated elimination procedure with cholestyramine",
+        "explanation": "Correct. Because Teriflunamide persists for up to 2 years due to enterohepatic recycling, women desiring pregnancy must undergo a 'washout' procedure using cholestyramine (binds drug in gut) to rapidly lower plasma levels to undetectable limits (<0.02 mg/L) before conceiving.",
+        "isCorrect": true
       },
       {
-        "text": "Acetylcholinesterase Inhibition",
-        "explanation": "Incorrect."
+        "text": "Switch to Methotrexate",
+        "explanation": "Incorrect. Methotrexate is also teratogenic."
       },
       {
-        "text": "Glutamate Antagonist",
-        "explanation": "Incorrect."
+        "text": "Reduce the dose by half",
+        "explanation": "Incorrect. Still teratogenic."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Dalfampridine = K+ Channel Blocker -> Improves Walking Speed.",
-    "pdfPage": 25,
-    "pdfQuote": "Block potassium channels. Increases action potential duration. Improved walking."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Teriflunamide is Teratogenic and has a LONG half-life (2 years). Pregnancy requires Cholestyramine washout.",
+    "pdfPage": 19,
+    "pdfQuote": "continue the oral contraception for about 2 years post-therapy ... This drug has a long half-life"
   },
   {
     "id": 9,
-    "category": "MS Pharm: Mitoxantrone",
-    "questionText": "Mitoxantrone is reserved for worsening MS due to its toxicity profile. One major concern is:",
+    "category": "MS: Mitoxantrone",
+    "questionText": "A 55-year-old male with Secondary Progressive MS is starting Mitoxantrone. The nurse notes that his urine has turned a blue-green color. Additionally, the physician orders a baseline ECHO. Why is cardiac monitoring crucial for this drug?",
     "options": [
       {
-        "text": "Pulmonary fibrosis",
+        "text": "It causes QT prolongation and Torsades",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cardiotoxicity (dilated cardiomyopathy)",
-        "explanation": "Correct. Like Doxorubicin (anthracycline), it produces free radicals that damage the heart. There is a lifetime cumulative dose limit."
+        "text": "It causes irreversible dilated cardiomyopathy related to cumulative dose",
+        "explanation": "Correct. Mitoxantrone is an anthracycline derivative (like Doxorubicin). It causes dose-related, cumulative cardiotoxicity leading to dilated cardiomyopathy and CHF. There is a lifetime maximum cumulative dose cap.",
+        "isCorrect": true
       },
       {
-        "text": "Renal failure",
+        "text": "It causes coronary artery vasospasm",
         "explanation": "Incorrect."
       },
       {
-        "text": "Pancreatitis",
+        "text": "It causes valvular fibrosis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Stevens-Johnson Syndrome",
+        "text": "It causes constrictive pericarditis",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Mitoxantrone = Cardiotoxic (Echo monitoring). Blue urine.",
-    "pdfPage": 17,
-    "pdfQuote": "AE: cardio, N/V ... Doxorubicin like"
+    "clinicalPearl": "Key takeaway: Mitoxantrone (Anthracycline) = Cardiotoxicity (Dilated Cardiomyopathy). Monitor EF with ECHO.",
+    "pdfPage": 20,
+    "pdfQuote": "one of the most cardiotoxic antineoplastics available ... dilated cardiomyopathy"
   },
   {
     "id": 10,
-    "category": "MS Pharm: Dimethyl Fumarate",
-    "questionText": "A common side effect of Dimethyl Fumarate that can be mitigated by taking aspirin is:",
+    "category": "MS: Gait Improvement",
+    "questionText": "A 62-year-old male with MS reports increasing difficulty walking due to leg weakness and slowness. He is prescribed Dalfampridine. What is the mechanism by which this drug acts to improve walking speed?",
     "options": [
       {
-        "text": "Bradycardia",
-        "explanation": "Incorrect."
+        "text": "Blocks voltage-gated Potassium channels",
+        "explanation": "Correct. Dalfampridine (4-Aminopyridine) blocks voltage-gated potassium channels on demyelinated nerves. This prevents potassium efflux, broadens the action potential, and enhances conduction through demyelinated segments, improving muscle strength and walking speed.",
+        "isCorrect": true
       },
       {
-        "text": "Flushing",
-        "explanation": "Correct. Flushing is very common. Taking with food or aspirin helps. It works by activating the Nrf2 antioxidant pathway."
+        "text": "Blocks Sodium channels",
+        "explanation": "Incorrect. Blocking Na channels would stop conduction (like local anesthetics)."
       },
       {
-        "text": "Hair loss",
-        "explanation": "Incorrect."
+        "text": "Agonizes GABA-B receptors",
+        "explanation": "Incorrect. This is Baclofen (for spasticity, not walking speed per se; too much can make legs 'jello' and worse for walking)."
       },
       {
-        "text": "Hypertension",
-        "explanation": "Incorrect."
+        "text": "Inhibits Acetylcholinesterase",
+        "explanation": "Incorrect. This is for Myasthenia Gravis (Pyridostigmine)."
       },
       {
-        "text": "Hypoglycemia",
-        "explanation": "Incorrect."
+        "text": "Agonizes Dopamine receptors",
+        "explanation": "Incorrect. For Parkinson's."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Dimethyl Fumarate (Nrf2) = Flushing. PML is a rare risk.",
-    "pdfPage": 10,
-    "pdfQuote": "AE: GI upset, flushing"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Dalfampridine = K+ Channel Blocker. Improves Walking Speed in MS.",
+    "pdfPage": 21,
+    "pdfQuote": "blocks the potassium channels ... increasing the action potential nerve conduction"
   },
   {
     "id": 11,
-    "category": "MS Pharm: Interferon Beta",
-    "questionText": "Patients taking Interferon Beta-1a often complain of:",
+    "category": "MS: Spasticity",
+    "questionText": "A patient with MS suffers from painful muscle spasms in his legs, especially at night. He is prescribed Baclofen. How does this medication exert its muscle-relaxant effect?",
     "options": [
       {
-        "text": "Flu-like symptoms (fever, myalgia, malaise)",
-        "explanation": "Correct. Very common post-injection. Tylenol/NSAIDs can help. Depression is another concern."
+        "text": "Alpha-2 Agonist in spinal cord",
+        "explanation": "Incorrect. This is Tizanidine."
       },
       {
-        "text": "Weight gain",
-        "explanation": "Incorrect."
+        "text": "GABA-B Receptor Agonist",
+        "explanation": "Correct. Baclofen is a GABA-B agonist. It works pre-synaptically to close Ca channels (reducing excitatory transmitter release) and post-synaptically to open K channels (hyperpolarization). This spinal inhibition reduces muscle spasticity.",
+        "isCorrect": true
       },
       {
-        "text": "Insomnia",
-        "explanation": "Incorrect."
+        "text": "Direct inhibition of Calcium release from sarcoplasmic reticulum",
+        "explanation": "Incorrect. This is Dantrolene."
       },
       {
-        "text": "Dry mouth",
-        "explanation": "Incorrect."
+        "text": "Inhibition of Nicotinic ACh receptors",
+        "explanation": "Incorrect. This would cause paralysis (Curare)."
       },
       {
-        "text": "Constipation",
-        "explanation": "Incorrect."
+        "text": "Inhibition of Prostaglandin synthesis",
+        "explanation": "Incorrect. This is NSAIDs."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Interferon Beta = Flu-like symptoms + Depression.",
-    "pdfPage": 13,
-    "pdfQuote": "AE: flu-like symptoms, depression"
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Baclofen = GABA-B Agonist. Tizanidine = Alpha-2 Agonist. Both treat Spasticity.",
+    "pdfPage": 26,
+    "pdfQuote": "Baclofen is a GABA-B agonist. It has a G -inhibitory mechanism"
   },
   {
     "id": 12,
-    "category": "MS Pharm: Alemtuzumab",
-    "questionText": "Alemtuzumab targets CD52 causing profound lymphocyte depletion. A unique autoimmune side effect associated with this drug is:",
+    "category": "MS: Bladder Dysfunction",
+    "questionText": "A 72-year-old female with MS complains of urinary urgency and urge incontinence (overactive bladder). She also has mild cognitive impairment. Which antimuscarinic agent should be AVOIDED in this patient due to high risk of worsening cognition?",
     "options": [
       {
-        "text": "Type 1 Diabetes",
-        "explanation": "Incorrect."
+        "text": "Trospium",
+        "explanation": "Incorrect. Trospium is quaternary and doesn't cross BBB well."
       },
       {
-        "text": "Autoimmune Thyroid Disease (Graves/Hashimoto)",
-        "explanation": "Correct. Also ITP (thrombocytopenia). Need to monitor thyroid and platelets for years after treatment."
-      },
-      {
-        "text": "Lupus",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myasthenia Gravis",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Psoriasis",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Alemtuzumab (Anti-CD52) = Autoimmune Thyroiditis + ITP.",
-    "pdfPage": 8,
-    "pdfQuote": "Autoimmune reactions ... thyroiditis"
-  },
-  {
-    "id": 13,
-    "category": "MS Pharm: Bladder Dysfunction",
-    "questionText": "For a patient with MS and an overactive bladder (detrusor hyperreflexia), which drug would be appropriate?",
-    "options": [
-      {
-        "text": "Bethanechol",
-        "explanation": "Incorrect. Muscarinic Agonist (for retention)."
+        "text": "Mirabegron",
+        "explanation": "Incorrect. Beta-3 agonist, sparing cognition."
       },
       {
         "text": "Oxybutynin",
-        "explanation": "Correct. Antimuscarinic (M3 antagonist). Relaxes the detrusor muscle. Side effects: Dry mouth, constipation."
+        "explanation": "Correct. Oxybutynin is a non-selective muscarinic antagonist that easily crosses the Blood-Brain Barrier (BBB). In elderly patients, it significantly worsens cognition/delirium (Beers Criteria). Newer agents (Solifenacin/Tolterodine) or non-anticholinergics are preferred.",
+        "isCorrect": true
       },
       {
-        "text": "Tamsulosin",
-        "explanation": "Incorrect. Alpha-1 blocker (for BPH)."
+        "text": "Darifenacin",
+        "explanation": "Incorrect. More M3 selective, less CNS effect."
       },
       {
-        "text": "Finasteride",
-        "explanation": "Incorrect."
+        "text": "Botox injections",
+        "explanation": "Incorrect. Local effect."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Avoid Oxybutynin in the elderly/cognitively impaired. It crosses BBB (Confusion).",
+    "pdfPage": 23,
+    "pdfQuote": "oxybutynin is non-selective ... avoid as much as possible in the elderly ... patients become more delusional"
+  },
+  {
+    "id": 13,
+    "category": "MS: Ocrelizumab/Rituximab",
+    "questionText": "A patient is switched to Ocrelizumab, administered intravenously every 6 months. This drug targets CD20. What is the primary downstream effect of this blockade?",
+    "options": [
+      {
+        "text": "Inhibition of T-cell migration across BBB",
+        "explanation": "Incorrect. This is Natalizumab."
       },
       {
-        "text": "Desmopressin",
-        "explanation": "Incorrect."
+        "text": "Depletion of B-cells via ADCC and CDC",
+        "explanation": "Correct. Anti-CD20 antibodies (Rituximab, Ocrelizumab) bind to B-cells and lead to their destruction via Antibody-Dependent Cellular Cytotoxicity (ADCC) and Complement-Dependent Cytotoxicity (CDC). Depleting B-cells reduces autoantibody production and antigen presentation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shift from Th1 to Th2 phenotype",
+        "explanation": "Incorrect. This is Glatiramer."
+      },
+      {
+        "text": "Inhibition of Dihydroorotate Dehydrogenase",
+        "explanation": "Incorrect. This is Teriflunamide."
+      },
+      {
+        "text": "Cleavage of SNARE proteins",
+        "explanation": "Incorrect. This is Botox."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Overactive Bladder = M3 Antagonist (Oxybutynin, Tolterodine).",
-    "pdfPage": 20,
-    "pdfQuote": "M3 blockers: oxybutynin, tolterodine ... Incontinence"
+    "clinicalPearl": "Key takeaway: Anti-CD20 (Ocrelizumab/Rituximab) → B-Cell Depletion.",
+    "pdfPage": 18,
+    "pdfQuote": "deplete CD20 in both the B and also the T cells"
   },
   {
     "id": 14,
-    "category": "MS Pharm: Fatigue",
-    "questionText": "Fatigue is a debilitating symptom of MS. Which medication is commonly used off-label to manage this fatigue?",
+    "category": "MS: Alemtuzumab",
+    "questionText": "A patient treated with Alemtuzumab (Anti-CD52) requires monthly lab monitoring for several years after the last dose. One year post-treatment, her TSH is undetectable and T4 is high. She also complains of easy bruising. What two autoimmune conditions are associated with this drug?",
     "options": [
       {
-        "text": "Zolpidem",
-        "explanation": "Incorrect. For sleep."
-      },
-      {
-        "text": "Modafinil",
-        "explanation": "Correct. A CNS stimulant/wakefulness promoting agent."
-      },
-      {
-        "text": "Lorazepam",
+        "text": "Lupus and Rheumatoid Arthritis",
         "explanation": "Incorrect."
       },
       {
-        "text": "Diphenhydramine",
+        "text": "Thyroiditis and Immune Thrombocytopenic Purpura (ITP)",
+        "explanation": "Correct. Alemtuzumab causes profound lymphocyte depletion. As the immune system reconstitutes (B cells return before T regs), secondary autoimmune diseases occur. Thyroid disease (Graves/Hashimotos) affects ~30-40% of patients, and ITP (low platelets) affects ~1-2% but can be fatal if missed.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diabetes Type 1 and Addison's Disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "Gabapentin",
-        "explanation": "Incorrect. For neuropathic pain."
+        "text": "Psoriasis and Celiac Disease",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Myasthenia Gravis and Polymyositis",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: MS Fatigue = Modafinil or Amantadine.",
-    "pdfPage": 23,
-    "pdfQuote": "Amphetamines (methylphenidate, modafinil)"
+    "clinicalPearl": "Key takeaway: Alemtuzumab Risks: Autoimmune Thyroid Disease & ITP (Check TSH and CBC monthly).",
+    "pdfPage": 11,
+    "pdfQuote": "autoimmune response ... thyroiditis ... autoimmune thrombocytopenia"
   },
   {
     "id": 15,
-    "category": "MS Pharm: Tizanidine",
-    "questionText": "Tizanidine relieves spasticity by acting as an agonist at which receptor?",
+    "category": "MS: Cladribine",
+    "questionText": "Cladribine is an oral medication taken for short courses in Year 1 and Year 2. It is a purine analog. What is its mechanism of action?",
     "options": [
       {
-        "text": "Alpha-1 adrenergic",
-        "explanation": "Incorrect."
+        "text": "Mimics Adenosine, becomes phosphorylated, and disrupts DNA synthesis/repair",
+        "explanation": "Correct. Cladribine is a deoxyadenosine analogue. It is phosphorylated by deoxycytidine kinase to its active triphosphate form. This accumulates in lymphocytes (which lack the enzyme to break it down), inhibits ribonucleotide reductase and DNA polymerase, and causes DNA strand breaks/apoptosis. It essentially 'resets' the immune system.",
+        "isCorrect": true
       },
       {
-        "text": "Alpha-2 adrenergic",
-        "explanation": "Correct. Central Alpha-2 agonist. Reduces release of excitatory neurotransmitters. Side effects: Hypotension, drowsiness."
+        "text": "Inhibits Inosine Monophosphate Dehydrogenase",
+        "explanation": "Incorrect. This is Mycophenolate."
       },
       {
-        "text": "Beta-2 adrenergic",
-        "explanation": "Incorrect."
+        "text": "Alkylates DNA at the guanine N7 position",
+        "explanation": "Incorrect. This is Cyclophosphamide."
       },
       {
-        "text": "GABA-A",
-        "explanation": "Incorrect."
+        "text": "Inhibits Folic Acid pathway",
+        "explanation": "Incorrect. This is Methotrexate."
       },
       {
-        "text": "NMDA",
-        "explanation": "Incorrect."
+        "text": "Binds Tubulin and prevents polymerization",
+        "explanation": "Incorrect. This is Vincristine."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Tizanidine = Alpha-2 Agonist (Central Muscle Relaxant).",
-    "pdfPage": 22,
-    "pdfQuote": "Tizanidine (agonist of alpha 2 adrenergic receptor)"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Cladribine = Purine Analog. Disrupts DNA synthesis in Lymphocytes.",
+    "pdfPage": 20,
+    "pdfQuote": "synthetic deoxyadenosine purine analog ... affecting pyrimidines ... not synthesizing DNA"
   },
   {
     "id": 16,
-    "category": "MS Pharm: Cladribine",
-    "questionText": "Cladribine is an antimetabolite prodrug that mimics:",
+    "category": "MS: Fingolimod Mechanism",
+    "questionText": "Fingolimod acts as a functional antagonist at S1P receptors. What result does this interaction produce at the cellular level?",
     "options": [
       {
-        "text": "Adenosine (Purine)",
-        "explanation": "Correct. It is a purine analog resistant to degradation by Adenosine Deaminase. It accumulates in lymphocytes and inhibits DNA synthesis/repair, causing apoptosis."
-      },
-      {
-        "text": "Thymidine (Pyrimidine)",
+        "text": "Upregulation of the receptor and enhanced signaling",
         "explanation": "Incorrect."
       },
       {
-        "text": "Folic Acid",
+        "text": "Internalization and degradation of the receptor, trapping lymphocytes in nodes",
+        "explanation": "Correct. Fingolimod initially activates the S1P receptor but then causes it to be internalized and degraded. Without the S1P1 receptor on their surface, lymphocytes cannot sense the S1P gradient needed to exit the lymph node and enter circulation. They are 'sequestered' in the node.",
+        "isCorrect": true
+      },
+      {
+        "text": "Direct lysis of the lymphocyte membrane",
         "explanation": "Incorrect."
       },
       {
-        "text": "Vitamin B12",
-        "explanation": "Incorrect."
+        "text": "Inhibition of lymphocyte proliferation",
+        "explanation": "Incorrect. This is Teriflunamide/Methotrexate."
       },
       {
-        "text": "Glutamate",
-        "explanation": "Incorrect."
+        "text": "Blockade of VCAM-1 interaction",
+        "explanation": "Incorrect. This is Natalizumab."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Cladribine = Purine Analog. Causes lymphocyte depletion.",
-    "pdfPage": 18,
-    "pdfQuote": "Synthetic deoxyadenosine (purine) analog ... apoptosis of lymphocytes"
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Fingolimod 'sequesters' lymphocytes in lymph nodes by downregulating S1P receptors.",
+    "pdfPage": 13,
+    "pdfQuote": "sequesters means that it holds it in one place"
   },
   {
     "id": 17,
-    "category": "MS Pharm: Glucocorticoid Mechanism",
-    "questionText": "Glucocorticoids exert their anti-inflammatory effects by increasing the synthesis of Lipocortin (Annexin-1), which directly inhibits:",
+    "category": "MS: Glucocorticoid Withdrawal",
+    "questionText": "Why must high-dose glucocorticoids be tapered slowly rather than stopped abruptly after a long course?",
     "options": [
       {
-        "text": "Cyclooxygenase-1 (COX-1)",
+        "text": "To prevent rebound hypertension",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cyclooxygenase-2 (COX-2)",
+        "text": "To allow recovery of the Hypothalamic-Pituitary-Adrenal (HPA) axis",
+        "explanation": "Correct. Exogenous steroids suppress the body's natural production of ACTH and Cortisol (negative feedback). If stopped abruptly, the adrenal glands cannot immediately resume production, leading to acute Adrenal Crisis (hypotension, shock) and disease flare.",
+        "isCorrect": true
+      },
+      {
+        "text": "To prevent accumulation of toxic metabolites",
         "explanation": "Incorrect."
       },
       {
-        "text": "Phospholipase A2",
-        "explanation": "Correct. By inhibiting PLA2, they block the release of Arachidonic Acid from cell membranes, shutting down BOTH the Prostaglandin and Leukotriene pathways."
-      },
-      {
-        "text": "Lipoxygenase",
+        "text": "To avoid developing resistance",
         "explanation": "Incorrect."
       },
       {
-        "text": "NF-kB directly",
-        "explanation": "Incorrect (though they do inhibit NF-kB via other means, Lipocortin is PLA2)."
+        "text": "To prevent withdrawal seizures",
+        "explanation": "Incorrect. More common with alcohol/benzo withdrawal."
       }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Steroids -> +Lipocortin -> -Phospholipase A2 -> No AA -> No PG/LT.",
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Taper steroids to prevent Adrenal Insufficiency (HPA axis suppression).",
     "pdfPage": 6,
-    "pdfQuote": "Lipocortin inhibits Phospholipase A2"
+    "pdfQuote": "leukocorticoids can have an effect on hypothalamic pituitary axis suppression"
   },
   {
     "id": 18,
-    "category": "MS Pharm: Secondary Progressive",
-    "questionText": "Which drug is specifically indicated to reduce neurologic disability/frequency of relapse in patients with Secondary Progressive, Progressive Relapsing, or Worsening Relapsing-Remitting MS?",
+    "category": "MS: Botox Mechanism",
+    "questionText": "OnabotulinumtoxinA (Botox) is used for spasticity and overactive bladder in MS. What represents its molecular target?",
     "options": [
       {
-        "text": "Mitoxantrone",
-        "explanation": "Correct. It is a harsh drug used when others fail or disease progresses."
-      },
-      {
-        "text": "Ibuprofen",
+        "text": "Ryanodine Receptor",
         "explanation": "Incorrect."
       },
       {
-        "text": "Glatiramer",
-        "explanation": "Incorrect. Mild/RRMS."
+        "text": "SNARE proteins (e.g., SNAP-25)",
+        "explanation": "Correct. Botox is a protease that enters the nerve terminal and cleaves SNARE proteins (like SNAP-25). These proteins are required for the fusion of Acetylcholine vesicles with the membrane. Cleavage prevents ACh release, causing chemical denervation and muscle relaxation.",
+        "isCorrect": true
       },
       {
-        "text": "Interferon Beta",
-        "explanation": "Incorrect. RRMS."
-      },
-      {
-        "text": "Baclofen",
-        "explanation": "Incorrect. Symptomatic."
-      }
-    ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Secondary Progressive MS = Mitoxantrone (or Siponimod/Ocrelizumab nowadays, but Mitoxantrone is the classic answer for 'worsening' in older contexts).",
-    "pdfPage": 17,
-    "pdfQuote": "Mitoxantrone: Secondary Progressive MS"
-  },
-  {
-    "id": 19,
-    "category": "MS Pharm: PML Risk",
-    "questionText": "Before starting Natalizumab, it is crucial to test for antibodies to:",
-    "options": [
-      {
-        "text": "Herpes Simplex Virus (HSV)",
+        "text": "Nicotinic Receptor",
         "explanation": "Incorrect."
       },
       {
-        "text": "John Cunningham (JC) Virus",
-        "explanation": "Correct. JC Virus positivity significantly increases the risk of PML."
-      },
-      {
-        "text": "Epstein-Barr Virus (EBV)",
+        "text": "Voltage-gated Calcium Channel",
         "explanation": "Incorrect."
       },
       {
-        "text": "Cytomegalovirus (CMV)",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hepatitis C",
+        "text": "Acetylcholinesterase",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Natalizumab uses the 'TOUCH' prescribing program due to JC Virus/PML risk.",
-    "pdfPage": 10,
-    "pdfQuote": "activation of a JC virus ... Progressive multifocal leukoencephalopathy"
+    "clinicalPearl": "Key takeaway: Botox cleaves SNARE proteins (SNAP-25) → No ACh release → Muscle Relaxation.",
+    "pdfPage": 24,
+    "pdfQuote": "cleave SNAP25, there's no fusion ... no spitting out of acetylcholine"
+  },
+  {
+    "id": 19,
+    "category": "MS: Teriflunamide Mechanism",
+    "questionText": "What enzyme is primarily inhibited by Teriflunamide?",
+    "options": [
+      {
+        "text": "Dihydrofolate Reductase",
+        "explanation": "Incorrect. Methotrexate."
+      },
+      {
+        "text": "Dihydroorotate Dehydrogenase",
+        "explanation": "Correct. Teriflunamide inhibits Dihydroorotate Dehydrogenase (DHODH), a mitochondrial enzyme essential for de novo pyrimidine synthesis. Rapidly dividing lymphocytes rely on this pathway (unlike other cells which use salvage pathways), so they are selectively inhibited.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tyrosine Kinase",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Cyclooxygenase",
+        "explanation": "Incorrect. NSAIDs."
+      },
+      {
+        "text": "Phospholipase A2",
+        "explanation": "Incorrect. Steroids."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Teriflunamide inhibits Dihydroorotate Dehydrogenase (Pyrimidine synthesis).",
+    "pdfPage": 19,
+    "pdfQuote": "inhibits an enzyme known as dihydroorotate dehydrogenase ... inhibit something known as pyrimidines"
   },
   {
     "id": 20,
-    "category": "MS Pharm: Baclofen Withdrawal",
-    "questionText": "Abrupt discontinuation of intrathecal Baclofen can result in:",
+    "category": "MS: Fingolimod Contraindication",
+    "questionText": "Due to its mechanism of action on sphingosine receptors in cardiac tissue, Fingolimod is generally contraindicated or requires extreme caution in patients with which pre-existing condition?",
     "options": [
       {
-        "text": "Severe hypotension",
+        "text": "Asthma",
         "explanation": "Incorrect."
       },
       {
-        "text": "Profound sedation",
+        "text": "Peptic Ulcer Disease",
         "explanation": "Incorrect."
       },
       {
-        "text": "High fever, altered mental status, and rebound spasticity/rigidity",
-        "explanation": "Correct. Mimics sepsis or Neuroleptic Malignant Syndrome. Can be fatal (rhabdomyolysis, organ failure)."
+        "text": "Recent Myocardial Infarction or Heart Block",
+        "explanation": "Correct. Because it causes bradycardia and slows AV conduction, it is dangerous in patients with pre-existing heart block (2nd/3rd degree), prolonged QT, or recent MI/Heart failure.",
+        "isCorrect": true
       },
       {
-        "text": "Diarrhea",
+        "text": "Glaucoma",
         "explanation": "Incorrect."
       },
       {
-        "text": "Bleeding",
+        "text": "Epilepsy",
         "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Baclofen Withdrawal = Emergency! (Fever, Rigidity, Seizures).",
-    "pdfPage": 22,
-    "pdfQuote": "Baclofen ... AE: CNS depression (Note: withdrawal is severe)"
-  }
+    "clinicalPearl": "Key takeaway: Fingolimod affects the Heart (Bradycardia/Block). Check Cardiac History.",
+    "pdfPage": 13,
+    "pdfQuote": "The other thing is you need to test your varicella antibodies ... need to do an EKG"
+  },
 ];

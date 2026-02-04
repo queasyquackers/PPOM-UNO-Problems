@@ -1,622 +1,622 @@
 window.Test_L35_Part2 = [
   {
     "id": 1,
-    "category": "Cranial Nerve I: Olfaction",
-    "questionText": "A 55-year-old male presents with a complaint of reduced sense of smell for the past 6 months. He denies any recent head trauma, nasal congestion, or upper respiratory infections. His medical history is significant for mild constipation and REM sleep behavior disorder. Physical examination reveals bilateral anosmia. Cranial nerve examination is otherwise normal. Which of the following underlying pathologies should be highest on the differential diagnosis?",
+    "category": "Cranial Nerve I: Clinical Correlation",
+    "questionText": "A 55-year-old male presents to the neurology clinic with a 6-month history of decreased sense of smell and constipation. He reports that his wife has noticed he 'acts out his dreams' by thrashing around in bed. Physical examination reveals bilateral anosmia but is otherwise unremarkable. He has no history of head trauma, smoking, or chronic sinusitis. Which of the following pathological findings is most strongly associated with this patient's clinical presentation?",
     "options": [
+      {
+        "text": "Amyloid plaques in the temporal lobe",
+        "explanation": "Incorrect. Amyloid plaques are characteristic of Alzheimer's disease. While olfactory dysfunction can occur in Alzheimer's, the specific combination of anosmia, constipation, and REM sleep behavior disorder is the classic 'prodromal triad' for Parkinson's disease, not Alzheimer's. This would be the correct answer if the patient presented with primary memory deficits and visuospatial disorientation."
+      },
+      {
+        "text": "Lewy bodies in the olfactory bulbs",
+        "explanation": "Correct. This patient presents with the classic prodromal symptoms of Parkinson's disease: hyposmia/anosmia, constipation (autonomic dysfunction), and REM sleep behavior disorder. These symptoms often precede motor manifestations by years. The underlying pathology is the deposition of alpha-synuclein (Lewy bodies), which appears early in the olfactory bulbs and dorsal motor nucleus of the vagus."
+      },
       {
         "text": "Meningioma of the olfactory groove",
-        "explanation": "Incorrect. While a meningioma could compress the olfactory tract (Foster-Kennedy syndrome), it typically presents with unilateral anosmia and optic atrophy on the side of the lesion, and papilledema on the contralateral side. This patient's symptoms are bilateral and associated with other prodromal signs of neurodegeneration."
+        "explanation": "Incorrect. An olfactory groove meningioma (Foster-Kennedy syndrome) typically presents with unilateral anosmia, ipsilateral optic atrophy, and contralateral papilledema. It is a compressive mass lesion, not a neurodegenerative process. This would be the correct answer if the patient had unilateral anosmia and visual field deficits."
       },
       {
-        "text": "Kallmann Syndrome",
-        "explanation": "Incorrect. Kallmann syndrome is a congenital condition characterized by anosmia and hypogonadotropic hypogonadism. It would present in childhood or adolescence with delayed puberty, not as a new onset in a 55-year-old male."
+        "text": "Shearing of olfactory nerve fibers",
+        "explanation": "Incorrect. This is the mechanism of anosmia following traumatic brain injury (coup-contrecoup injury). This patient explicitly denies a history of head trauma. This would be the correct answer if the patient had recently been in a motor vehicle accident."
       },
       {
-        "text": "Parkinson's Disease",
-        "explanation": "Correct. Anosmia is one of the earliest non-motor signs of Parkinson's disease, often preceding motor symptoms by years. The presence of REM sleep behavior disorder and constipation further supports a prodromal synucleinopathy. Lewy bodies are found in the olfactory bulbs early in the disease process."
-      },
-      {
-        "text": "Fracture of the cribriform plate",
-        "explanation": "Incorrect. Trauma shearing the olfactory fibers at the cribriform plate is a common cause of anosmia. However, the patient explicitly denies head trauma. This would be the correct answer if there was a history of a recent car accident or fall."
-      },
-      {
-        "text": "Temporal lobe epilepsy",
-        "explanation": "Incorrect. Temporal lobe seizures can cause olfactory hallucinations (uncinate fits), usually unpleasant smells, rather than a simple loss of smell (anosmia). This patient reports loss of function, not positive symptoms."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Anosmia is an early prodromal sign of Parkinson's disease, associated with Lewy body deposition in the olfactory bulbs.",
-    "pdfPage": 4,
-    "pdfQuote": "Early sign of Parkinson’s disease"
-  },
-  {
-    "id": 2,
-    "category": "Cranial Nerve III: Palsy",
-    "questionText": "A 62-year-old female presents to the emergency department complaing of a 'droopy eyelid' and double vision. Physical exam reveals complete ptosis of the right eye. When the eyelid is manually elevated, the right eye is resting in a 'down and out' position. The right pupil is dilated and non-reactive to light. The left eye examination is normal. Which of the following is the most likely etiology?",
-    "options": [
-      {
-        "text": "Ischemic microvascular disease (Diabetes)",
-        "explanation": "Incorrect. Diabetic CN III palsy is typically 'pupil-sparing' because the pupillomotor fibers run superficially and receive collateral blood supply, while the core motor fibers are ischemic. This patient has a dilated (blown) pupil, making ischemia unlikely."
-      },
-      {
-        "text": "Posterior Communicating Artery Aneurysm",
-        "explanation": "Correct. This is a surgical emergency. The parasympathetic fibers of CN III run superficially on the nerve. Compressive lesions, such as a PComm aneurysm, compress these fibers first, causing a dilated, non-reactive pupil along with the motor palsy (ptosis, down and out deviation)."
-      },
-      {
-        "text": "Cavernous Sinus Thrombosis",
-        "explanation": "Incorrect. A cavernous sinus lesion usually affects multiple cranial nerves (III, IV, V1, V2, VI) causing a complex ophthalmoplegia and sensory loss. This patient has an isolated complete CN III palsy."
-      },
-      {
-        "text": "Midbrain infarction (Weber's Syndrome)",
-        "explanation": "Incorrect. A midbrain stroke affecting the CN III fascicles (Weber's syndrome) would typically present with an ipsilateral CN III palsy AND a contralateral hemiparesis. This patient has isolated ocular symptoms."
-      },
-      {
-        "text": "Myasthenia Gravis",
-        "explanation": "Incorrect. Myasthenia gravis can cause ptosis and diplopia, but the pupil is NEVER involved (it spares smooth muscle). The presence of a fixed, dilated pupil rules out neuromuscular junction disorders."
+        "text": "Demyelination of the optic nerve",
+        "explanation": "Incorrect. This describes optic neuritis, seen in Multiple Sclerosis. While MS can affect many systems, it does not typically present with this triad of prodromal Parkinsonian symptoms. This would be the correct answer if the patient was a young female with painful vision loss."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: A 'painful' CN III palsy with a dilated pupil is a PComm aneurysm until proven otherwise, whereas a pupil-sparing palsy is likely diabetic ischemia.",
+    "clinicalPearl": "Key takeaway: Anosmia, constipation, and REM sleep behavior disorder are the 'prodromal triad' of Parkinson's disease, associated with Lewy bodies in the olfactory bulbs.",
+    "pdfPage": 4,
+    "pdfQuote": "Lewy bodies present in olfactory bulbs"
+  },
+  {
+    "id": 2,
+    "category": "Cranial Nerve III: Compressive Lesion",
+    "questionText": "A 62-year-old female presents to the emergency department with a sudden onset of 'the worst headache of my life' and double vision. Vital signs show a blood pressure of 150/90 mmHg. Physical examination reveals the right eyelid is drooped. When the eyelid is elevated, the right eye rests in a down-and-out position. The right pupil is 7mm and non-reactive to light, while the left pupil is 3mm and reactive. Which of the following anatomical structures is most likely compressing the affected nerve?",
+    "options": [
+      {
+        "text": "Internal Carotid Artery aneurysm within the Cavernous Sinus",
+        "explanation": "Incorrect. A cavernous sinus aneurysm would likely affect multiple nerves (III, IV, V1, VI) and cause sensory deficits in the ophthalmic distribution. While it can cause a painful ophthalmoplegia, the classic 'surgical emergency' presentation of a painful, pupil-involving CN III palsy is a PComm aneurysm. This would be the correct answer if the patient also had numbness of the forehead and a Horner's syndrome."
+      },
+      {
+        "text": "Posterior Communicating Artery aneurysm",
+        "explanation": "Correct. This is the classic presentation of a Posterior Communicating (PComm) artery aneurysm. The aneurysm compresses the oculomotor nerve (CN III). Since the parasympathetic pupillomotor fibers run superficially on the nerve, they are compressed first, leading to a fixed, dilated pupil ('surgical third'). The motor fibers are also affected, causing ptosis and a down-and-out gaze."
+      },
+      {
+        "text": "Superior Cerebellar Artery aneurysm",
+        "explanation": "Incorrect. While the Superior Cerebellar Artery (SCA) is near CN III, compression is much more classically associated with the Posterior Cerebral Artery (PCA) or PComm. SCA aneurysms often present with ataxia or other cerebellar signs. This would be the correct answer if the patient presented with ipsilateral cerebellar ataxia."
+      },
+      {
+        "text": "Uncal herniation of the temporal lobe",
+        "explanation": "Incorrect. Uncal herniation does compress CN III and cause a blown pupil. However, this is typically a consequence of a large supratentorial mass (like a hematoma) causing raised intracranial pressure and coma. This patient is awake and presenting with a subarachnoid hemorrhage symptom (thunderclap headache) from a ruptured aneurysm, not necessarily herniation yet. This would be the correct answer if the patient was comatose after a TBI."
+      },
+      {
+        "text": "Microvascular ischemia of the vasa nervorum",
+        "explanation": "Incorrect. Ischemic CN III palsy (often diabetic) is typically 'pupil-sparing' because the deep motor fibers are affected by ischemia while the superficial parasympathetic fibers receive collateral blood supply. This patient's pupil is involved (dilated), making ischemia unlikely. This would be the correct answer if the patient had a history of diabetes and a normal pupillary reflex."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: A painful CN III palsy with a dilated pupil is a Posterior Communicating Artery (PComm) aneurysm until proven otherwise.",
     "pdfPage": 21,
     "pdfQuote": "Aneurisms of posterior cerebral or superior cerebellar arteries"
   },
   {
     "id": 3,
-    "category": "Visual Pathway: Reflexes",
-    "questionText": "A 25-year-old male is evaluated for vision loss in his left eye following a traumatic injury. Direct light stimulation of the left eye produces no pupillary constriction in either eye. Direct light stimulation of the right eye produces constriction in both the right and left pupils. Where is the lesion located?",
-    "options": [
-      {
-        "text": "Left Oculomotor Nerve (CN III)",
-        "explanation": "Incorrect. If the left CN III were damaged, the left pupil would never constrict, even when the right eye was stimulated (consensual response). In this case, the left pupil DOES constrict when the right eye is illuminated."
-      },
-      {
-        "text": "Left Optic Nerve (CN II)",
-        "explanation": "Correct. This is an Afferent Pupillary Defect (Marcus Gunn Pupil). The left optic nerve is not sensing light, so neither pupil constricts. However, the efferent arm (CN III) on the left is intact, as proven by the consensual constriction when the functioning right eye is stimulated."
-      },
-      {
-        "text": "Optic Chiasm",
-        "explanation": "Incorrect. A chiasmal lesion typically causes bitemporal hemianopsia. While it might affect the pupillary reflex, it wouldn't cause a complete block of the left afferent limb while preserving the right completely in this manner."
-      },
-      {
-        "text": "Left Edinger-Westphal Nucleus",
-        "explanation": "Incorrect. Damage to the EW nucleus would preventing constriction of the ipsilateral pupil regardless of light source. The left pupil is functioning mechanically (constricting consensually), so the nucleus is intact."
-      },
-      {
-        "text": "Bilateral Pretectal Nuclei",
-        "explanation": "Incorrect. The pretectal nuclei are involved in the light reflex relay. Bilateral damage would abolish reflexes from both eyes. The right eye's reflex is intact."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: In an optic nerve (afferent) lesion, the pupil won't constrict to direct light but WILL constrict consensually (when light is shined in the other eye).",
-    "pdfPage": 19,
-    "pdfQuote": "blind eye will not elicit light reflex"
-  },
-  {
-    "id": 4,
-    "category": "Cranial Nerve IV: Palsy",
-    "questionText": "A 34-year-old female presents complaining of vertical double vision that is worse when she looks down to read a book or walk down stairs. She has adopted a compensatory head tilt to the left. Which extraocular muscle is most likely paralyzed?",
-    "options": [
-      {
-        "text": "Left Inferior Oblique",
-        "explanation": "Incorrect. The inferior oblique elevates the eye. Paralysis would cause trouble looking up, not down."
-      },
-      {
-        "text": "Right Superior Oblique",
-        "explanation": "Correct. The Superior Oblique (CN IV) depresses the eye, especially when adducted. Paralysis causes the eye to drift up and in. The patient tilts her head AWAY from the lesion (to the left) to compensate for the lack of intorsion/depression on the right."
-      },
-      {
-        "text": "Left Superior Oblique",
-        "explanation": "Incorrect. A left SO palsy would cause a compensatory head tilt to the RIGHT (away from the lesion). This patient tilts to the left."
-      },
-      {
-        "text": "Right Inferior Rectus",
-        "explanation": "Incorrect. While the IR is a depressor, isolated IR palsy is rare. The classic presentation of vertical diplopia worsening with downward gaze and a compensatory head tilt is pathognomonic for CN IV (Superior Oblique) palsy."
-      },
-      {
-        "text": "Right Lateral Rectus",
-        "explanation": "Incorrect. Lateral rectus palsy causes horizontal diplopia (esotropia), not vertical diplopia."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Patients with CN IV palsy tilt their head AWAY from the affected side to reduce vertical diplopia.",
-    "pdfPage": 27,
-    "pdfQuote": "worse when looking down"
-  },
-  {
-    "id": 5,
-    "category": "Cranial Nerve VI: Palsy",
-    "questionText": "A 50-year-old male with a history of uncontrolled hypertension presents with sudden onset horizontal double vision. Examination reveals that his left eye cannot abduct past the midline. When he looks to the right, both eyes move normally. Convergence is intact. Where is the lesion?",
-    "options": [
-      {
-        "text": "Left Medial Longitudinal Fasciculus (MLF)",
-        "explanation": "Incorrect. An MLF lesion (INO) causes failure of ADduction in the ipsilateral eye. This patient has failure of ABduction in the left eye."
-      },
-      {
-        "text": "Left Abducens Nerve (CN VI)",
-        "explanation": "Correct. This is a classic CN VI palsy. The lateral rectus is paralyzed, preventing abduction of the left eye. Since the right eye moves normally and convergence is intact, the lesion is isolated to the nerve, likely due to microvascular ischemia from hypertension."
-      },
-      {
-        "text": "Left Abducens Nucleus",
-        "explanation": "Incorrect. A lesion of the abducens NUCLEUS would cause a gaze palsy. Neither eye would be able to look to the left (Left Lateral Rectus AND Right Medial Rectus would fail). Since the patient simply can't abduct the left eye, but the system is otherwise intact, it's a nerve lesion."
-      },
-      {
-        "text": "Right Oculomotor Nerve",
-        "explanation": "Incorrect. This would affect the right eye (adduction, elevation, depression). The right eye is normal."
-      },
-      {
-        "text": "Left PPRF",
-        "explanation": "Incorrect. A PPRF lesion causes an ipsilateral gaze palsy similar to a nuclear lesion—neither eye would look to the left."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: A CN VI nerve lesion causes isolated failure of abduction. A CN VI nuclear lesion causes failure of lateral gaze (both eyes) toward the side of the lesion.",
-    "pdfPage": 41,
-    "pdfQuote": "affects only CN VI, but NOT the MLF"
-  },
-  {
-    "id": 6,
-    "category": "Conjugate Gaze: INO",
-    "questionText": "A 28-year-old female with a history of Multiple Sclerosis complains of difficulty focusing when looking to the right. Exam reveals that when she looks right, her right eye abducts normally (with nystagmus), but her left eye remains midline and fails to adduct. Convergence is preserved. Which structure is damaged?",
-    "options": [
-      {
-        "text": "Left Oculomotor Nerve",
-        "explanation": "Incorrect. A CN III lesion would cause paralysis of the Medial Rectus, but it would also likely affect the pupil, lid, and vertical eye movements. Crucially, convergence (which uses the MR) is preserved, meaning the muscle and nerve are intact."
-      },
-      {
-        "text": "Right Abducens Nucleus",
-        "explanation": "Incorrect. A right abducens nuclear lesion would prevent BOTH eyes from looking right (Right Lateral Gaze Palsy)."
-      },
-      {
-        "text": "Left Medial Longitudinal Fasciculus (MLF)",
-        "explanation": "Correct. This is Internuclear Ophthalmoplegia (INO). The signal for lateral gaze travels from the Right Abducens nucleus -> crosses midline -> travels up the Left MLF -> Left Oculomotor nucleus. The Left MLF is damaged, so the signal never reaches the Left MR to adduct. Convergence is spared because it bypasses the MLF."
-      },
-      {
-        "text": "Right Medial Longitudinal Fasciculus (MLF)",
-        "explanation": "Incorrect. A Right MLF lesion would cause failure of the RIGHT eye to adduct when looking LEFT. The patient's deficit is with the left eye."
-      },
-      {
-        "text": "Left Lateral Rectus",
-        "explanation": "Incorrect. The Lateral Rectus performs Abduction. The deficit here is Adduction."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: INO is caused by an MLF lesion. The eye IPSILATERAL to the MLF lesion fails to ADDUCT during lateral gaze. Common in MS.",
-    "pdfPage": 42,
-    "pdfQuote": "affects medial movement in the context of conjugate"
-  },
-  {
-    "id": 7,
     "category": "Cranial Nerve III: Anatomy",
-    "questionText": "An attending physician asks you to test the integrity of the superior division of the Oculomotor nerve specifically. In addition to asking the patient to look up (testing the Superior Rectus), what other physical exam finding would assess this division?",
+    "questionText": "A 45-year-old male with a history of hypertension presents with diplopia. Examination reveals a left CN III palsy with complete ptosis and inability to adduct, elevate, or depress the left eye. The pupil is spared. If this condition is caused by a lesion within the brainstem affecting the oculomotor nucleus itself, which additional finding would be expected?",
     "options": [
       {
-        "text": "Checking for pupil constriction",
-        "explanation": "Incorrect. The parasympathetic fibers to the pupil run in the INFERIOR division of CN III."
+        "text": "Contralateral ptosis",
+        "explanation": "Incorrect. This describes a nuclear lesion. The levator palpebrae superioris is innervated by a single central subnucleus that projects bilaterally. Therefore, a nuclear lesion affecting the levator subnucleus would cause bilateral ptosis. This would be the correct answer if the patient had bilateral droopy eyelids."
       },
       {
-        "text": "Testing adduction (Medial Rectus)",
-        "explanation": "Incorrect. The Medial Rectus is innervated by the INFERIOR division."
+        "text": "Contralateral Superior Rectus weakness",
+        "explanation": "Correct. Uniquely, the Superior Rectus subnucleus of the Oculomotor complex sends fibers to the CONTRALATERAL Superior Rectus muscle. Therefore, a nuclear lesion destroying the entire left oculomotor nucleus would cause left-sided palsy of the MR, IR, and IO, but RIGHT-sided weakness of the Superior Rectus. This distinguishes a nuclear lesion from a nerve lesion."
       },
       {
-        "text": "Observing the eyelid position",
-        "explanation": "Correct. The superior division of CN III innervates the Superior Rectus and the Levator Palpebrae Superioris (eyelid elevator). Ptosis suggests involvement of the superior division."
+        "text": "Ipsilateral lateral rectus weakness",
+        "explanation": "Incorrect. The lateral rectus is innervated by the Abducens nerve (CN VI), which is located in the pons, not the midbrain. A CN III nuclear lesion does not directly affect the Lateral Rectus. This would be the correct answer if the patient had a CN VI palsy."
       },
       {
-        "text": "Testing depression (Inferior Rectus)",
-        "explanation": "Incorrect. The Inferior Rectus is innervated by the INFERIOR division."
+        "text": "Contralateral hemiparesis",
+        "explanation": "Incorrect. This describes Weber's Syndrome (fascicular CN III lesion + cerebral peduncle damage). This question specifically asks about a lesion of the *nucleus*, not the fascicles passing through the crus cerebri. This would be the correct answer if the lesion involved the cerebral peduncle."
       },
       {
-        "text": "Testing extorsion (Inferior Oblique)",
-        "explanation": "Incorrect. The Inferior Oblique is innervated by the INFERIOR division."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Superior Division of CN III = Superior Rectus + Levator Palpebrae. Inferior Division = Everything else (MR, IR, IO, Pupil/Lens).",
-    "pdfPage": 15,
-    "pdfQuote": "superior rectus & levator palpebrae superioris"
-  },
-  {
-    "id": 8,
-    "category": "Functional Anatomy: Eye Muscles",
-    "questionText": "During a neurology lecture, you are discussing the actions of the extraocular muscles. Which muscle is primarily responsible for extorsion (outward rotation) of the eye?",
-    "options": [
-      {
-        "text": "Superior Oblique",
-        "explanation": "Incorrect. The Superior Oblique causes INTORSION (inward rotation) and depression."
-      },
-      {
-        "text": "Inferior Oblique",
-        "explanation": "Correct. The Inferior Oblique is the primary extorter of the eye. It also elevates the eye, especially when the eye is adducted."
-      },
-      {
-        "text": "Superior Rectus",
-        "explanation": "Incorrect. The Superior Rectus is primarily an elevator, though it has a minor intorsion component."
-      },
-      {
-        "text": "Lateral Rectus",
-        "explanation": "Incorrect. The Lateral Rectus is a pure abductor."
-      },
-      {
-        "text": "Inferior Rectus",
-        "explanation": "Incorrect. The Inferior Rectus is primarily a depressor, though it has a minor extorsion component."
+        "text": "Ipsilateral Superior Oblique weakness",
+        "explanation": "Incorrect. The Superior Oblique is innervated by the Trochlear nerve (CN IV). The CN IV nucleus is distinct and caudal to the CN III nucleus. This would be the correct answer only if the lesion was large enough to involve the adjacent CN IV nucleus."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Obliques act opposite to their name for vertical movement (Superior brings it DOWN) and have opposite torques (Superior = Intorsion, Inferior = Extorsion).",
-    "pdfPage": 12,
-    "pdfQuote": "inferior oblique (ipsilateral) - extortion"
-  },
-  {
-    "id": 9,
-    "category": "Neuropathology: Foville's Syndrome",
-    "questionText": "A patient presents with a brainstem stroke. Examination reveals a left-sided facial weakness (CN VII) and an inability of EITHER eye to look to the left. When attempting to look left, the eyes remain midline. Convergence is intact. Vertical eye movements are intact. Where is the lesion?",
-    "options": [
-      {
-        "text": "Left Abducens Nerve",
-        "explanation": "Incorrect. A nerve lesion would only stop the left eye from abducting. The right eye would still adduct."
-      },
-      {
-        "text": "Right PPRF",
-        "explanation": "Incorrect. A Right PPRF (or abducens nucleus) lesion would cause inability to gaze RIGHT. This patient can't gaze LEFT."
-      },
-      {
-        "text": "Left Abducens Nucleus",
-        "explanation": "Correct. This is Foville's Syndrome (typically involving nearby CN VII). Determining the side: The Abducens Nucleus contains motor neurons for the ipsilateral Lateral Rectus AND interneurons that project to the contralateral Oculomotor nucleus via the MLF. Therefore, a lesion here abolishes ALL conjugate lateral gaze toward the side of the lesion."
-      },
-      {
-        "text": "Left MLF",
-        "explanation": "Incorrect. An MLF lesion causes INO—one eye fails to adduct, but the other eye CAN abduct. Here, neither eye moves left."
-      },
-      {
-        "text": "Left Oculomotor Nucleus",
-        "explanation": "Incorrect. This would cause a down-and-out eye and ptosis, not an isolated lateral gaze palsy."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: A lesion of the Abducens Nucleus causes an IPSILATERAL lateral gaze palsy (neither eye looks to that side).",
-    "pdfPage": 44,
-    "pdfQuote": "impairing lateral eye movement toward side of"
-  },
-  {
-    "id": 10,
-    "category": "Visual Pathway: Anatomy",
-    "questionText": "The pupillary light reflex relies on a specific pathway bypassing the lateral geniculate nucleus. Which structure does the optic tract project to in order to initiate the afferent limb of this reflex?",
-    "options": [
-      {
-        "text": "Superior Colliculus",
-        "explanation": "Incorrect. The superior colliculus receives visual input for orienting head/eye movements, but it is not the primary relay for the pupillary light reflex."
-      },
-      {
-        "text": "Pretectal Area",
-        "explanation": "Correct. Retinal ganglion cells project directly to the Pretectal Area (Pretectal Olivary Nucleus) in the midbrain. From there, neurons project bilaterally to the Edinger-Westphal nuclei to drive constriction."
-      },
-      {
-        "text": "Edinger-Westphal Nucleus",
-        "explanation": "Incorrect. The EW nucleus is the efferent (motor) start point. The optic tract does not project directly to it; it goes via the pretectal area."
-      },
-      {
-        "text": "Visual Cortex (Area 17)",
-        "explanation": "Incorrect. The cortical pathway is for conscious vision. The light reflex is a subcortical reflex loop."
-      },
-      {
-        "text": "Medial Geniculate Nucleus",
-        "explanation": "Incorrect. The MGN is part of the auditory pathway."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The pupillary light reflex pathway: Retina -> Optic Nerve -> Pretectal Area -> Bilateral Edinger-Westphal Nuclei -> CN III -> Ciliary Ganglion -> Sphincter Pupillae.",
-    "pdfPage": 5,
-    "pdfQuote": "pretectal area -> (bilaterally to) Edinger Westphal"
-  },
-  {
-    "id": 11,
-    "category": "Cranial Nerve I: Anatomy",
-    "questionText": "Which cranial nerve is unique in that its sensory fibers project directly to the cerebral cortex without relaying through the thalamus first?",
-    "options": [
-      {
-        "text": "Optic (CN II)",
-        "explanation": "Incorrect. Optic fibers project to the LGN of the thalamus."
-      },
-      {
-        "text": "Olfactory (CN I)",
-        "explanation": "Correct. The olfactory tract projects directly to the piriform cortex (paleocortex). This is evolutionarily ancient wiring. All other sensory modalities relay in the thalamus before reaching the cortex."
-      },
-      {
-        "text": "Vestibulocochlear (CN VIII)",
-        "explanation": "Incorrect. Projects to the MGN of the thalamus."
-      },
-      {
-        "text": "Trigeminal (CN V)",
-        "explanation": "Incorrect. Somatosensory input relays in the VPM of the thalamus."
-      },
-      {
-        "text": "Facial (CN VII)",
-        "explanation": "Incorrect. Taste relays in the VPM of the thalamus."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Olfaction is the only sense that bypasses the thalamus to reach the cortex directly.",
-    "pdfPage": 3,
-    "pdfQuote": "only sensory fibers to bypass thalamus"
-  },
-  {
-    "id": 12,
-    "category": "Cranial Nerve III: Nuclei",
-    "questionText": "A researcher is studying the brainstem nuclei involved in eye movement. They identify a contralateral projection from a specific sub-nucleus of the Oculomotor complex. Which muscle does this specific contralateral projection innervate?",
-    "options": [
-      {
-        "text": "Medial Rectus",
-        "explanation": "Incorrect. Innervated by the IPSILATERAL oculomotor nucleus."
-      },
-      {
-        "text": "Inferior Rectus",
-        "explanation": "Incorrect. Innervated by the IPSILATERAL oculomotor nucleus."
-      },
-      {
-        "text": "Superior Rectus",
-        "explanation": "Correct. Uniquely among the CN III muscles, the Superior Rectus is innervated by the CONTRALATERAL oculomotor sub-nucleus. The Levator Palpebrae Superioris is also centrally/bilaterally or contralaterally controlled depending on the model, but SR is the classic Answer."
-      },
-      {
-        "text": "Inferior Oblique",
-        "explanation": "Incorrect. Innervated by the IPSILATERAL oculomotor nucleus."
-      },
-      {
-        "text": "Sphincter Pupillae",
-        "explanation": "Incorrect. Innervated by the IPSILATERAL Edinger-Westphal nucleus."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: The Oculomotor nucleus innervates ipsilateral muscles EXCEPT for the Superior Rectus, which is contralateral.",
+    "clinicalPearl": "Key takeaway: A lesion of the Oculomotor Nucleus causes bilateral ptosis (central subnucleus) and contralateral Superior Rectus weakness (crossing fibers).",
     "pdfPage": 12,
     "pdfQuote": "superior rectus (contralateral)"
   },
   {
-    "id": 13,
-    "category": "Cranial Nerve IV: Anatomy",
-    "questionText": "Which cranial nerve has the longest intracranial course and is the only one to exit the brainstem dorsally?",
+    "id": 4,
+    "category": "Visual Pathway: Pupillary Light Reflex",
+    "questionText": "A 23-year-old female presents with blurred vision. Examination reveals that her right pupil does not constrict when light is shined directly into it, but the left pupil constricts normally (consensual response). When light is shined into the left eye, both the left and right pupils constrict. Which structure is damaged?",
     "options": [
       {
-        "text": "Oculomotor (CN III)",
-        "explanation": "Incorrect. Exits ventrally from the midbrain."
+        "text": "Right Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect. If the right CN III (efferent limb) were damaged, the right pupil would NEVER constrict, regardless of which eye was stimulated. In this case, the right pupil DOES constrict consensually, proving its motor supply is intact. This would be the correct answer if the right pupil was fixed and dilated."
       },
       {
-        "text": "Trigeminal (CN V)",
-        "explanation": "Incorrect. Exits ventrolaterally from the pons."
+        "text": "Left Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect. If the left CN III were damaged, the left pupil would fail to constrict. Here, the left pupil works fine."
       },
       {
-        "text": "Abducens (CN VI)",
-        "explanation": "Incorrect. Exits ventrally at the pontomedullary junction."
+        "text": "Right Optic Nerve (CN II)",
+        "explanation": "Correct. This is a classic Afferent Pupillary Defect (Marcus Gunn Pupil). The right optic nerve (afferent limb) cannot sense the light, so the reflex isn't triggered. However, the efferent machinery (CN III) on the right is intact, so it constricts when the healthy left eye drives the reflex."
       },
       {
-        "text": "Trochlear (CN IV)",
-        "explanation": "Correct. CN IV exits the dorsal midbrain, decussates, and wraps around the brainstem to reach the orbit. Its long course makes it highly susceptible to trauma."
+        "text": "Optic Chiasm",
+        "explanation": "Incorrect. A chiasmal lesion typically causes bitemporal hemianopsia. While it can produce a subtle band atrophy, it does not typically cause a dense unilateral afferent pupillary defect like this. This would be the correct answer if the patient had tunnel vision."
       },
       {
-        "text": "Facial (CN VII)",
-        "explanation": "Incorrect. Exits ventrally at the pontomedullary junction."
+        "text": "Right Edinger-Westphal Nucleus",
+        "explanation": "Incorrect. Damage to the EW nucleus (efferent start point) would prevent the right pupil from constricting under any circumstance, similar to a CN III lesion. The right pupil's preserved consensual response rules this out."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: CN IV is the 'odd one out': Dorsal exit, crosses midline, longest course, smallest nerve.",
-    "pdfPage": 24,
-    "pdfQuote": "only nerve leaving the brainstem dorsally"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: In an Afferent Pupillary Defect (CN II lesion), the affected eye has no direct response but preserves the consensual response.",
+    "pdfPage": 19,
+    "pdfQuote": "blind eye will not elicit light reflex"
   },
   {
-    "id": 14,
-    "category": "Eye Movements: Vergence",
-    "questionText": "When you focus on an object moving closer to your nose, your eyes must converge. Which muscle and nerve combination is primarily responsible for this action?",
+    "id": 5,
+    "category": "Cranial Nerve IV: Clinical Presentation",
+    "questionText": "A 35-year-old male presents after falling off a ladder. He complains of vertical double vision that worsens when he looks down to read his phone. Examination reveals he tilts his head to the left. When forced to tilt his head to the right, the diplopia worsens. Cover testing reveals the right eye is hypertropic (deviated upward) compared to the left. Which nerve is injured?",
     "options": [
       {
-        "text": "Lateral Rectus via CN VI",
-        "explanation": "Incorrect. This would diverge the eyes."
+        "text": "Right Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect. CN III palsy causes the eye to be 'down and out'. This patient's eye is deviated UP (hypertropic). Also, CN III palsy causes severe ptosis, which is not mentioned. This would be the correct answer if the eye was down and out with ptosis."
       },
       {
-        "text": "Medial Rectus via CN III",
-        "explanation": "Correct. Vergence (convergence) requires bilateral contraction of the Medial Rectus muscles, driven by the oculomotor nuclei. This movement involves the 'near triad': convergence, accommodation, and miosis."
+        "text": "Left Trochlear Nerve (CN IV)",
+        "explanation": "Incorrect. A CN IV palsy causes head tilt AWAY from the lesion. This patient tilts LEFT, implying a RIGHT-sided lesion. A left CN IV palsy would cause a right (contralateral) head tilt. This would be the correct answer if the patient tilted his head to the right."
       },
       {
-        "text": "Superior Oblique via CN IV",
-        "explanation": "Incorrect. This would depress and intort the eyes."
+        "text": "Right Trochlear Nerve (CN IV)",
+        "explanation": "Correct. The Superior Oblique (innervated by CN IV) acts to depress and intort the eye. When paralyzed, the unopposed elevators cause the eye to drift up (hypertropia). The patient tilts his head AWAY from the lesion (to the left) to minimize the need for intorsion in the affected right eye. The 'Bielschowsky head tilt test' confirms this: tilting toward the affected side (right) worsens the diplopia."
       },
       {
-        "text": "Inferior Oblique via CN III",
-        "explanation": "Incorrect. This would elevate and extort the eyes."
+        "text": "Right Abducens Nerve (CN VI)",
+        "explanation": "Incorrect. CN VI palsy causes horizontal diplopia (esotropia), not vertical. This would be the correct answer if the patient had side-by-side double vision."
       },
       {
-        "text": "Superior Rectus via CN III",
-        "explanation": "Incorrect. This would elevate the eyes."
+        "text": "Left Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect. This would affect the left eye. The findings clearly localize to the right eye (hypertropia)."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: CN IV palsy causes vertical diplopia worsening on downward gaze and head tilt AWAY from the affected side.",
+    "pdfPage": 27,
+    "pdfQuote": "often unconsciously compensate with head tilt"
+  },
+  {
+    "id": 6,
+    "category": "Cranial Nerve VI: Functional Anatomy",
+    "questionText": "A 58-year-old female with diabetes presents with sudden horizontal double vision. On examination, her left eye fails to abduct past the midline. Her right eye movements are full. Convergence is intact. There are no other neurological deficits. Which muscle function is compromised?",
+    "options": [
+      {
+        "text": "Adduction of the left eye",
+        "explanation": "Incorrect. Adduction is performed by the Medial Rectus (CN III). The stem describes failure of ABduction (moving eye out). This would be the correct answer if the patient had an INO or CN III palsy."
+      },
+      {
+        "text": "Abduction of the left eye",
+        "explanation": "Correct. The Lateral Rectus muscle, innervated by the Abducens nerve (CN VI), is responsible for abduction. Failure to abduct the left eye indicates a left CN VI palsy. The isolated nature suggests a microvascular ischemic etiology common in diabetes."
+      },
+      {
+        "text": "Depression of the adducted eye",
+        "explanation": "Incorrect. This describes the action of the Superior Oblique (CN IV). This would be the correct answer if the patient had vertical diplopia."
+      },
+      {
+        "text": "Elevation of the abducted eye",
+        "explanation": "Incorrect. This describes the action of the Superior Rectus (CN III). This would be the correct answer if the patient had trouble looking up."
+      },
+      {
+        "text": "Constriction of the pupil",
+        "explanation": "Incorrect. This is a parasympathetic function of CN III. The pupil is not involved in CN VI palsy. This would be the correct answer if the patient had a blown pupil."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Medial Rectus (CN III) is the workhorse of convergence.",
+    "clinicalPearl": "Key takeaway: CN VI innervates the Lateral Rectus, which is the sole abductor of the eye.",
+    "pdfPage": 31,
+    "pdfQuote": "lateral rectus: abduction (away from midline)"
+  },
+  {
+    "id": 7,
+    "category": "Conjugate Gaze: INO",
+    "questionText": "A 22-year-old female with a history of relapsing-remitting Multiple Sclerosis presents with visual difficulties. On examination, when asked to look to the right, her right eye abducts normally (with nystagmus), but her left eye remains in the midline and fails to adduct. Convergence is preserved. Where is the demyelinating plaque located?",
+    "options": [
+      {
+        "text": "Right Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Incorrect. A Right MLF lesion would affect the RIGHT eye's ability to adduct during LEFT gaze. This patient has a deficit in the LEFT eye."
+      },
+      {
+        "text": "Left Medial Longitudinal Fasciculus (MLF)",
+        "explanation": "Correct. This is Internuclear Ophthalmoplegia (INO). The MLF carries signals from the abducens nucleus (coordinating lateral gaze) to the contralateral oculomotor nucleus (for adduction). A lesion in the Left MLF blocks the signal to the Left Medial Rectus during rightward gaze. Convergence is spared because its input to the Medial Rectus bypasses the MLF."
+      },
+      {
+        "text": "Left Oculomotor Nerve (CN III)",
+        "explanation": "Incorrect. A CN III nerve lesion would paralyze the Medial Rectus completely, affecting BOTH lateral gaze AND convergence. The preservation of convergence proves the nerve and muscle are functional, localizing the lesion to the central pathway (MLF)."
+      },
+      {
+        "text": "Right Abducens Nucleus",
+        "explanation": "Incorrect. A lesion of the abducens nucleus would cause a lateral gaze palsy—NEITHER eye would look right. Here, the right eye abducts, so the gaze center is working."
+      },
+      {
+        "text": "Left PPRF",
+        "explanation": "Incorrect. The Paramedian Pontine Reticular Formation (PPRF) drives the abducens nucleus. A left PPRF lesion would cause a Left Lateral Gaze Palsy (failure to look left)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: INO is an MLF lesion causing ipsilateral adduction failure during lateral gaze, with preserved convergence.",
+    "pdfPage": 42,
+    "pdfQuote": "affects medial movement in the context"
+  },
+  {
+    "id": 8,
+    "category": "Cranial Nerve VI: Foville's Syndrome",
+    "questionText": "A 70-year-old male presents with acute onset right-sided facial droop and double vision. Examination reveals right-sided facial weakness involving both the upper and lower face (Peripheral CN VII palsy). Additionally, neither of his eyes can look to the right side. When attempting right lateral gaze, the eyes remain midline. Vertical eye movements are intact. Where is the lesion?",
+    "options": [
+      {
+        "text": "Right Abducens Nerve",
+        "explanation": "Incorrect. A nerve lesion would only paralyze the Right Lateral Rectus (Right eye fails to abduct). The left eye would still adduct. This patient has a global failure of gaze to the right."
+      },
+      {
+        "text": "Left Motor Cortex",
+        "explanation": "Incorrect. A cortical lesion typically causes a gaze deviation TOWARD the lesion (away from the hemiparesis), but it is usually temporary. More importantly, the facial weakness would be central (sparing the forehead). This patient has peripheral facial weakness."
+      },
+      {
+        "text": "Right Caudal Pons (Abducens Nucleus)",
+        "explanation": "Correct. This is Foville's Syndrome. The lesion is in the dorsal pons, affecting the Abducens Nucleus. Because the nucleus contains interneurons driving the contralateral MLF, a nuclear lesion knocks out lateral gaze for BOTH eyes. The proximity of the Facial Nerve (CN VII) fibers wrapping around the nucleus (Facial Colliculus) explains the concurrent peripheral facial palsy."
+      },
+      {
+        "text": "Right MLF",
+        "explanation": "Incorrect. An MLF lesion causes INO (one eye fails to adduct). It does not cause a conjugate gaze palsy."
+      },
+      {
+        "text": "Right Oculomotor Nucleus",
+        "explanation": "Incorrect. This is in the midbrain. A lesion here would cause a CN III palsy (ptosis, down and out), not a lateral gaze palsy."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Foville's syndrome (Abducens Nucleus lesion) causes ipsilateral gaze palsy and ipsilateral facial palsy.",
+    "pdfPage": 44,
+    "pdfQuote": "Foville’s syndrome knocks out abducens nucleus"
+  },
+  {
+    "id": 9,
+    "category": "Visual Reflexes: Anatomy",
+    "questionText": "In the pupillary light reflex, the signal travels from the retina to the pretectal area. From the pretectal area, to which structure does the signal explicitly project bilaterally to ensure the consensual response?",
+    "options": [
+      {
+        "text": "Superior Colliculus",
+        "explanation": "Incorrect. The superior colliculus helps orient the eyes to visual stimuli but is not the relay for the pupillary light reflex."
+      },
+      {
+        "text": "Lateral Geniculate Nucleus (LGN)",
+        "explanation": "Incorrect. The LGN is the relay for conscious vision to the cortex. The light reflex pathway branches off *before* the LGN."
+      },
+      {
+        "text": "Edinger-Westphal Nucleus",
+        "explanation": "Correct. The pretectal olivary nuclei project bilaterally to both Edinger-Westphal nuclei (the parasympathetic subnuclei of CN III). This bilateral projection is the anatomical basis for the consensual light reflex (light in one eye causes both pupils to constrict)."
+      },
+      {
+        "text": "Ciliary Ganglion",
+        "explanation": "Incorrect. The Ciliary Ganglion is the *next* step in the chain. The EW nucleus projects to the Ciliary Ganglion."
+      },
+      {
+        "text": "Oculomotor Nucleus (Somatic)",
+        "explanation": "Incorrect. The pretectal fibers project specifically to the visceral (parasympathetic) EW nucleus, not the somatic motor nucleus that moves the eye muscles."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Consensual light reflex exists because the Pretectal Area projects bilaterally to both Edinger-Westphal nuclei.",
+    "pdfPage": 5,
+    "pdfQuote": "pretectal area -> (bilaterally to) Edinger Westphal"
+  },
+  {
+    "id": 10,
+    "category": "Eye Movements: Vergence",
+    "questionText": "While testing a patient's visual fields, you ask them to focus on your finger as you move it towards the bridge of their nose. You observe the eyes converging and the pupils constricting. Which cranial nerve nucleus is the primary driver of the convergence component of this triad?",
+    "options": [
+      {
+        "text": "Abducens Nucleus",
+        "explanation": "Incorrect. The Abducens drives divergence (via Lateral Rectus)."
+      },
+      {
+        "text": "Oculomotor Nucleus",
+        "explanation": "Correct. Convergence is mediated by the bilateral contraction of the Medial Rectus muscles, which are innervated by the Oculomotor Nucleus (CN III). The accommodation reflex triad (Accommodation, Convergence, Miosis) is coordinated by the midbrain/CN III complex."
+      },
+      {
+        "text": "Trochlear Nucleus",
+        "explanation": "Incorrect. The Trochlear nucleus innervates the Superior Oblique, which depresses/intorts the eye."
+      },
+      {
+        "text": "Edinger-Westphal Nucleus",
+        "explanation": "Incorrect. The EW nucleus drives the Miosis (pupil constriction) and Accommodation (lens shape change) parts of the triad, but the actual *convergence* (muscle movement) is driven by the somatic Oculomotor nucleus."
+      },
+      {
+        "text": "Vestibular Nucleus",
+        "explanation": "Incorrect. Involved in VOR, not vergence."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The Near Triad is Convergence (CN III somatic), Accommodation (CN III visceral), and Miosis (CN III visceral).",
     "pdfPage": 37,
     "pdfQuote": "Vergence and accommodation by CN III"
   },
   {
-    "id": 15,
-    "category": "Clinical Case: Anisocoria",
-    "questionText": "A patient is brought in after a car accident. He is comatose. You notice his left pupil is fixed and dilated (blown), while his right pupil is normal size and reactive. CT scan shows a large epidural hematoma. What is the mechanism of this pupillary finding?",
+    "id": 11,
+    "category": "Cranial Nerve III: Divisions",
+    "questionText": "An ophthalmologist performs a partial tenotomy on a patient. Post-operatively, the patient has difficulty looking up (elevating) the eye, but eyelid elevation (opening the eye) is normal. The medial rectus and inferior oblique are functional. Based on the somatotopy of CN III, which sub-section was likely affected?",
     "options": [
       {
-        "text": "Direct trauma to the left eye",
-        "explanation": "Incorrect. While possible, the classic 'blown pupil' in trauma is a sign of herniation compressing the nerve, not local eye trauma."
+        "text": "Inferior Division of CN III",
+        "explanation": "Incorrect. The Inferior Division supplies the Medial Rectus, Inferior Rectus, and Inferior Oblique. If this were damaged, those muscles would be weak."
       },
       {
-        "text": "Uncal Herniation compressing CN III",
-        "explanation": "Correct. A supratentorial mass (hematoma) pushes the temporal lobe (uncus) medially, compressing the exiting CN III against the tentorium cerebelli. The superficial parasympathetic fibers are crushed first, causing a dilated pupil."
+        "text": "Superior Division of CN III",
+        "explanation": "Incorrect. The Superior Division supplies BOTH the Superior Rectus (elevation) and Levator Palpebrae Superioris (eyelid). If the whole division were cut, the patient would have ptosis. The question states eyelid function is normal."
       },
       {
-        "text": "Horner's Syndrome",
-        "explanation": "Incorrect. Horner's causes a CONSTRICTED (miotic) pupil, not a dilated one."
+        "text": "Superior Rectus branch of the Superior Division",
+        "explanation": "Correct. The Superior Division splits to innervate the Superior Rectus and the Levator Palpebrae. Since only elevation is affected (Superior Rectus) and the lid is spared (Levator), the injury must be isolated to the branch supplying the Superior Rectus muscle itself."
       },
       {
-        "text": "Pontine Hemorrhage",
-        "explanation": "Incorrect. Pontine hemorrhages typically cause pinpoint pupils due to loss of sympathetic drive."
+        "text": "Trochlear Nerve",
+        "explanation": "Incorrect. Supply Superior Oblique (depression)."
       },
       {
-        "text": "Optic Nerve Avulsion",
-        "explanation": "Incorrect. This would cause an afferent defect (pupils equal, but non-reactive to direct light on that side). It wouldn't cause a resting anisocoria with a dilated pupil."
+        "text": "Edinger-Westphal output",
+        "explanation": "Incorrect. Affects pupil and lens."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Superior Division CN III = Superior Rectus + Levator Palpebrae. Inferior Division = MR, IR, IO, Pupil.",
+    "pdfPage": 15,
+    "pdfQuote": "superior division: superior rectus & levator"
+  },
+  {
+    "id": 12,
+    "category": "Cranial Nerve IV: Anatomy",
+    "questionText": "A 22-year-old hockey player is struck in the back of the head. He develops diplopia. Imaging shows a small contusion on the dorsal aspect of the midbrain. Why is the Trochlear nerve particularly susceptible to injury in this location?",
+    "options": [
+      {
+        "text": "It passes through the cavernous sinus",
+        "explanation": "Incorrect. All ocular motor nerves pass through the cavernous sinus, but this is a ventral sensation. This does not explain dorsal midbrain susceptibility."
+      },
+      {
+        "text": "It exits the brainstem dorsally",
+        "explanation": "Correct. CN IV is unique: it is the ONLY cranial nerve to exit the brainstem from the dorsal surface. It then decussates and wraps around the brainstem. This dorsal exit point makes it vulnerable to compressive injuries from the tentorium or trauma to the dorsal midbrain."
+      },
+      {
+        "text": "It has the shortest intracranial course",
+        "explanation": "Incorrect. It actually has the LONGEST intracranial course, which adds to its vulnerability."
+      },
+      {
+        "text": "It arises from the medulla",
+        "explanation": "Incorrect. It arises from the midbrain."
+      },
+      {
+        "text": "It is a microscopic nerve",
+        "explanation": "Incorrect. While it is the thinnest nerve (smallest number of axons), its location is the key factor here."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: In a comatose patient, a unilateral blown pupil suggests uncal herniation compressing CN III on that side.",
+    "clinicalPearl": "Key takeaway: CN IV is the only nerve to exit dorsally and decussate. It is arguably the most fragile/trauma-prone cranial nerve.",
+    "pdfPage": 24,
+    "pdfQuote": "only nerve leaving the brainstem dorsally"
+  },
+  {
+    "id": 13,
+    "category": "Oculomotor Mechanics",
+    "questionText": "To isolate the action of the Superior Rectus muscle during a physical exam (making it a pure elevator), how should you instruct the patient to look?",
+    "options": [
+      {
+        "text": "Look nasally (Adduct), then look up",
+        "explanation": "Incorrect. When the eye is adducted, the pupil is aligned with the pull of the Inferior Oblique. Therefore, looking up from an adducted position primarily tests the Inferior Oblique."
+      },
+      {
+        "text": "Look temporally (Abduct), then look up",
+        "explanation": "Correct. The Superior Rectus inserts at an angle (23 degrees). When the eye is abducted 23 degrees, the visual axis aligns with the muscle pull, making the Superior Rectus a pure elevator. This is the optimal position to test its function."
+      },
+      {
+        "text": "Look temporally (Abduct), then look down",
+        "explanation": "Incorrect. Looking down while abducted tests the Inferior Rectus."
+      },
+      {
+        "text": "Look straight up from midline",
+        "explanation": "Incorrect. From midline, both the Superior Rectus and Inferior Oblique contribute to elevation/intorsion/extorsion. It doesn't isolate the muscle."
+      },
+      {
+        "text": "Look nasally (Adduct), then look down",
+        "explanation": "Incorrect. Looking down while adducted tests the Superior Oblique."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: To test Rectus muscles (SR/IR), ask patient to look OUT (Abduct). To test Oblique muscles (SO/IO), ask patient to look IN (Adduct).",
+    "pdfPage": 12,
+    "pdfQuote": "superior rectus (contralateral) – mainly elevation"
+  },
+  {
+    "id": 14,
+    "category": "Cranial Nerve VI: Etiology",
+    "questionText": "A 65-year-old male with a 20-year history of poorly controlled hypertension presents with horizontal diplopia. Exam shows an isolated left lateral rectus palsy. What is the most likely pathophysiological mechanism?",
+    "options": [
+      {
+        "text": "Compression by a tumor",
+        "explanation": "Incorrect. While possible, isolated palsies in patients with vascular risk factors are statistically more likely to be ischemic. A tumor would likely progress slowly or involve neighbor structures."
+      },
+      {
+        "text": "Microvascular infarction",
+        "explanation": "Correct. Isolated CN VI palsy in an older adult with vascular risk factors (HTN, Diabetes) is most commonly due to microvascular ischemia of the nerve. These typically resolve spontaneously over months."
+      },
+      {
+        "text": "Traumatic avulsion",
+        "explanation": "Incorrect. Requires a history of trauma."
+      },
+      {
+        "text": "Demyelination (MS)",
+        "explanation": "Incorrect. MS is a disease of young adults (typically females 20-40). It is unlikely to present for the first time in a 65-year-old male."
+      },
+      {
+        "text": "Aneurysmal compression",
+        "explanation": "Incorrect. Aneurysms (like PComm) affect CN III. ICA aneurysms in the cavernous sinus *can* affect CN VI, but microvascular ischemia is far more common for an isolated palsy."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: The most common cause of isolated CN VI palsy in the elderly is microvascular ischemia (Diabetes/HTN).",
+    "pdfPage": 31,
+    "pdfQuote": "Wide range of causes including... diabetic neuropathy"
+  },
+  {
+    "id": 15,
+    "category": "Cranial Nerve III: Herniation",
+    "questionText": "A 75-year-old female falls and hits her head. She is brought to the ED comatose. Her right pupil is fixed and dilated 'blown'. Her left pupil is reactive. Which specific anatomical event explains this finding?",
+    "options": [
+      {
+        "text": "Cerebellar Tonsillar Herniation",
+        "explanation": "Incorrect. Tonsillar herniation compresses the medulla through the foramen magnum, causing respiratory arrest (Cushing's triad). It does not typically cause a unilateral blown pupil."
+      },
+      {
+        "text": "Uncal Herniation",
+        "explanation": "Correct. The uncus of the temporal lobe herniates across the tentorial notch, compressing the ipsilateral Oculomotor Nerve (CN III). This crushes the superficial parasympathetic fibers, causing mydriasis (blown pupil)."
+      },
+      {
+        "text": "Subfalcine Herniation",
+        "explanation": "Incorrect. Cingulate gyrus pushes under the falx cerebri. Can compress the Anterior Cerebral Artery (leg weakness) but does not affect the pupil."
+      },
+      {
+        "text": "Central Herniation",
+        "explanation": "Incorrect. Downward displacement of the diencephalon. Causes smaller, reactive pupils initially, then fixed mid-position pupils."
+      },
+      {
+        "text": "Transcalvarial Herniation",
+        "explanation": "Incorrect. Brain pushes out through a skull fracture."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Uncal herniation = Ipsilateral blown pupil (CN III compression).",
     "pdfPage": 21,
     "pdfQuote": "Temporal lobe displaces CN III"
   },
   {
     "id": 16,
-    "category": "Cranial Nerve VI: Anatomy",
-    "questionText": "The Abducens nucleus is located in which part of the brainstem?",
+    "category": "Pretectal Area: Lesions",
+    "questionText": "A patient with a pineal gland tumor presents with Parinaud's syndrome. Examination reveals loss of the pupillary light reflex, but accommodation is preserved (light-near dissociation). Which structure's compression is responsible for the loss of the light reflex?",
     "options": [
       {
-        "text": "Rostral Midbrain",
-        "explanation": "Incorrect. This is the location of the Oculomotor (CN III) nucleus."
+        "text": "Lateral Geniculate Nucleus",
+        "explanation": "Incorrect. Visual relay."
       },
       {
-        "text": "Caudal Midbrain",
-        "explanation": "Incorrect. This is the location of the Trochlear (CN IV) nucleus."
+        "text": "Pretectal Nuclei",
+        "explanation": "Correct. The pineal gland sits just dorsal to the superior colliculi/pretectal area. Compression here disrupts the light reflex arc (Retina -> Pretectum -> EW) but spares the accommodation pathway (which approaches EW differently)."
       },
       {
-        "text": "Caudal Pons",
-        "explanation": "Correct. The Abducens (CN VI) nucleus is located in the dorsal aspect of the caudal pons, beneath the facial colliculus (formed by CN VII fibers looping around it)."
+        "text": "Ciliary Ganglion",
+        "explanation": "Incorrect. Damage here would abolish BOTH light and accommodation reflexes (Adie's pupil)."
       },
       {
-        "text": "Rostral Medulla",
-        "explanation": "Incorrect."
+        "text": "Optic Tract",
+        "explanation": "Incorrect. Would cause hemianopsia."
       },
       {
-        "text": "Caudal Medulla",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: CN III & IV = Midbrain. CN VI = Pons.",
-    "pdfPage": 30,
-    "pdfQuote": "caudal pons (facial colliculus)"
-  },
-  {
-    "id": 17,
-    "category": "Clinical Case: Diplopia",
-    "questionText": "A 60-year-old diabetic male complains of sudden double vision. He states that the images are side-by-side (horizontal). The diplopia is worse when he looks to the left. Which nerve is most likely affected?",
-    "options": [
-      {
-        "text": "Right CN VI",
-        "explanation": "Incorrect. Right CN VI palsy would cause diplopia worse on RIGHT gaze."
-      },
-      {
-        "text": "Left CN VI",
-        "explanation": "Correct. Horizontal diplopia worsening on lateral gaze suggests weakness of the lateral rectus on that side. Worsening on LEFT gaze implies the Left Lateral Rectus (Left CN VI) is weak."
-      },
-      {
-        "text": "Left CN III",
-        "explanation": "Incorrect. CN III palsy causes vertical and horizontal separation (down and out) and typically ptosis. It is not purely horizontal."
-      },
-      {
-        "text": "Left CN IV",
-        "explanation": "Incorrect. Vertical diplopia."
-      },
-      {
-        "text": "Right CN III",
-        "explanation": "Incorrect."
+        "text": "Oculomotor Nerve",
+        "explanation": "Incorrect. Would affect motor movement too."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Horizontal diplopia that worsens when looking in a direction points to the Lateral Rectus on that side.",
-    "pdfPage": 31,
-    "pdfQuote": "Horizontal Diplopia (side-by-side double vision)"
-  },
-  {
-    "id": 18,
-    "category": "Visual Pathway: Pretectal",
-    "questionText": "A lesion confined to the Pretectal Area would result in which specific deficit?",
-    "options": [
-      {
-        "text": "Contralateral Homonymous Hemianopsia",
-        "explanation": "Incorrect. This is a visual cortex or optic tract deficit."
-      },
-      {
-        "text": "Loss of the Pupillary Light Reflex",
-        "explanation": "Correct. The pretectal area is the essential relay station for the light reflex. Damage here (like in Parinaud's syndrome/pinealoma) abolishes the light reflex (pupils don't constrict to light) but accommodation is often spared (Light-Near Dissociation)."
-      },
-      {
-        "text": "Loss of color vision",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Inability to move eyes vertically",
-        "explanation": "Incorrect. While vertical gaze centers are nearby (riMLF), the pretectal area specifically handles the light reflex."
-      },
-      {
-        "text": "Bitemporal Hemianopsia",
-        "explanation": "Incorrect. This is a chiasmal lesion."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: The Pretectal area mediates the light reflex. Its damage leads to pupils that don't react to light (Argyll Robertson-like).",
+    "clinicalPearl": "Key takeaway: Pretectal compression (Pinealoma) causes light-near dissociation (Argyll Robertson-like pupil minus syphilis).",
     "pdfPage": 5,
     "pdfQuote": "pretectal area -> (bilaterally to) Edinger Westphal"
   },
   {
-    "id": 19,
-    "category": "Cranial Nerve III: Function",
-    "questionText": "What is the primary function of the Edinger-Westphal nucleus?",
+    "id": 17,
+    "category": "Cranial Nerve I: Anatomy",
+    "questionText": "Which feature of the olfactory pathway explains why smells can vividly trigger memories and emotions more directly than other senses?",
     "options": [
       {
-        "text": "Somatic motor control of the eyelid",
-        "explanation": "Incorrect. This is the central caudal nucleus (part of III complex)."
+        "text": "It relays through the Thalamus first",
+        "explanation": "Incorrect. Olfaction is the ONLY sense that does NOT relay through the thalamus first."
       },
       {
-        "text": "Visceral motor (parasympathetic) control of the iris and ciliary body",
-        "explanation": "Correct. The EW nucleus sends parasympathetic fibers to constrict the pupil (miosis) and contract the ciliary muscle (accommodation)."
+        "text": "It projects directly to the Paleocortex",
+        "explanation": "Correct. The olfactory tract projects directly to the piriform cortex (paleocortex) and entorhinal cortex, part of the limbic system. This direct connection to the emotional/memory centers (amygdala/hippocampus) bypasses the thalamic filter."
       },
       {
-        "text": "Somatic motor control of the Medial Rectus",
-        "explanation": "Incorrect. Main Oculomotor nucleus."
+        "text": "It uses Dopamine as a neurotransmitter",
+        "explanation": "Incorrect."
       },
       {
-        "text": "Sympathetic control of the pupil",
-        "explanation": "Incorrect. Sympathetics originate in the hypothalamus -> lateral horn T1-T2 -> SCG."
+        "text": "It has the fastest conduction velocity",
+        "explanation": "Incorrect. Olfactory fibers are unmyelinated (slow)."
       },
       {
-        "text": "Sensory innervation of the cornea",
-        "explanation": "Incorrect. This is CN V1."
+        "text": "It decussates immediately",
+        "explanation": "Incorrect."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Edinger-Westphal = Parasympathetic = Pupil Constriction + Accommodation.",
+    "clinicalPearl": "Key takeaway: Olfaction is the only sensory modality that projects directly to the cortex (limbic system) without a thalamic relay.",
+    "pdfPage": 3,
+    "pdfQuote": "only sensory fibers to bypass thalamus"
+  },
+  {
+    "id": 18,
+    "category": "Visual Pathway: Lesion Localization",
+    "questionText": "A 40-year-old male presents with bitemporal hemianopsia (tunnel vision). In addition to pituitary adenoma, which other pathology in the interpeduncular fossa could cause this by inflammation?",
+    "options": [
+      {
+        "text": "Multiple Sclerosis",
+        "explanation": "Incorrect. MS plaques typically cause optic neuritis or INO."
+      },
+      {
+        "text": "Tuberculous Meningitis",
+        "explanation": "Correct. The basal cisterns (interpeduncular fossa) are a common site for chronic basilar meningitis (TB or Syphilis). Inflammation here can entrap the optic chiasm (bitemporal hemianopsia) and CN III."
+      },
+      {
+        "text": "Stroke of the PCA",
+        "explanation": "Incorrect. Would cause occipital lobe infarction (homonymous hemianopsia with macular sparing)."
+      },
+      {
+        "text": "Glaucoma",
+        "explanation": "Incorrect. Intraocular pathology."
+      },
+      {
+        "text": "Retinal Detachment",
+        "explanation": "Incorrect. Unilateral vision loss."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Syphilitic or TB meningitis affects the basal brainstem, potentially compressing the optic chiasm and CN III.",
+    "pdfPage": 21,
+    "pdfQuote": "Syphilic & tuberculous meningitis... Interpeduncular fossa"
+  },
+  {
+    "id": 19,
+    "category": "Cranial Nerve III: Nuclei function",
+    "questionText": "If a patient has a lesion strictly limited to the Edinger-Westphal nuclei bilaterally, what functional deficit would be observed?",
+    "options": [
+      {
+        "text": "Complete ophthalmoplegia",
+        "explanation": "Incorrect. Somatic motors are spared."
+      },
+      {
+        "text": "Loss of accommodation and mydriasis",
+        "explanation": "Correct. The EW nucleus is the parasympathetic center. Loss leads to inability to constrict pupils (mydriasis) and inability to change lens shape for near vision (cycloplegia/loss of accommodation)."
+      },
+      {
+        "text": "Ptosis",
+        "explanation": "Incorrect. Levator is somatic."
+      },
+      {
+        "text": "Esotropia",
+        "explanation": "Incorrect. Medial rectus is somatic."
+      },
+      {
+        "text": "Loss of corneal reflex",
+        "explanation": "Incorrect. CN V and VII."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: EW lesion = Internal Ophthalmoplegia (pupil dilation + loss of accommodation).",
     "pdfPage": 13,
-    "pdfQuote": "Edinger Westphal nuclei (part of oculomotor complex)"
+    "pdfQuote": "Edinger Westphal nuclei ... lens & pupil"
   },
   {
     "id": 20,
-    "category": "Oculomotor Mechanics",
-    "questionText": "To look straight down (pure depression) while the eye is abducted (looking out), which muscle is primarily used?",
+    "category": "Anatomy: Sinus Cavernous",
+    "questionText": "A patient presents with septic thrombosis of the cavernous sinus. Which cranial nerve runs typically *through* the body of the sinus (associated with the Internal Carotid Artery) rather than in the lateral wall, making it most susceptible to early compression?",
     "options": [
       {
-        "text": "Superior Oblique",
-        "explanation": "Incorrect. The Superior Oblique is maximal as a depressor when the eye is ADducted (looking in)."
+        "text": "Oculomotor (CN III)",
+        "explanation": "Incorrect. Lateral wall."
       },
       {
-        "text": "Inferior Rectus",
-        "explanation": "Correct. The Inferior Rectus is the primary depressor when the eye is ABducted. This makes mechanical sense based on the muscle's insertion angle."
+        "text": "Trochlear (CN IV)",
+        "explanation": "Incorrect. Lateral wall."
       },
       {
-        "text": "Lateral Rectus",
-        "explanation": "Incorrect. Abducts only."
+        "text": "Abducens (CN VI)",
+        "explanation": "Correct. CN VI runs centrally within the cavernous sinus, right next to the path of the Internal Carotid Artery. It is often the first nerve affected in cavernous sinus pathology (aneurysm or thrombosis)."
       },
       {
-        "text": "Inferior Oblique",
-        "explanation": "Incorrect. Elevates."
+        "text": "Ophthalmic (CN V1)",
+        "explanation": "Incorrect. Lateral wall."
       },
       {
-        "text": "Superior Rectus",
-        "explanation": "Incorrect. Elevates."
+        "text": "Maxillary (CN V2)",
+        "explanation": "Incorrect. Lateral wall."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Recti act best as elevators/depressors when the eye is OUT (abducted). Obliques act best as elevators/depressors when the eye is IN (adducted).",
-    "pdfPage": 12,
-    "pdfQuote": "inferior rectus (ipsilateral) – mainly depression"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: CN VI is the 'straggler' inside the Cavernous Sinus, running with the Carotid Artery, unlike III, IV, V1, V2 which are in the wall.",
+    "pdfPage": 39,
+    "pdfQuote": "Conjugate lateral gaze controlled by abducens & oculomotor nuclei"
   }
 ];

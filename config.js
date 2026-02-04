@@ -62,6 +62,7 @@ const testsToLoad = [
     { name: "Part 2 - Vestibular System (L18)", data: window.Test_L18_Part2 },
     { name: "Part 2 - Path: Auditory/Vestibular (L23)", data: window.Test_L23_Part2 },
     { name: "Part 2 - Neuro: Motor Systems I (L30)", data: window.Test_L30_Part2 },
+    { name: "Part 2 - Neuro: Cerebellum (L32)", data: window.Test_L32_Part2 },
     { name: "Part 2 - Pharm: Sympathomimetics I (L33)", data: window.Test_L33_Part2 },
     { name: "Part 2 - Neuro: Localization (L41)", data: window.Test_L41_Part2 },
     { name: "Part 2 - Pharm: MS (L43)", data: window.Test_L43_Part2 },

@@ -1,623 +1,622 @@
 window.Test_L41_Part2 = [
   {
     "id": 1,
-    "category": "Myelopathy: Spinal Shock",
-    "questionText": "A 25-year-old male is brought to the ED after a motorcycle accident with a complete spinal cord transection at T6. On initial examination immediately after the injury, you would expect:",
+    "category": "Myelopathy",
+    "questionText": "A 6-year-old boy is brought to the pediatric ER with sudden onset of right arm weakness. His mother reports that he had a 'bad cold' with fever and coughing about 10 days ago, which had resolved. On examination, the child's right arm is flaccid and areflexic, with no sensation deficits noted. An MRI of the spine reveals a linear T2 hyperintensity in the central gray matter of the cervical spinal cord. Which of the following pathogens is the most likely etiology?",
     "options": [
       {
-        "text": "Hyperreflexia and spasticity below T6",
-        "explanation": "Incorrect. This occurs later."
+        "text": "Borrelia burgdorferi",
+        "explanation": "Incorrect. Lyme disease can cause radiculitis or facial palsy, but this classic 'polio-like' presentation of flaccid monoplegia with anterior horn cell involvement on MRI is pathognomonic for Acute Flaccid Myelitis."
       },
       {
-        "text": "Flaccid paralysis and areflexia below T6",
-        "explanation": "Correct. This is 'Spinal Shock'. Initially, there is a total loss of function (flaccidity, areflexia, loss of sensation) below the lesion. Spasticity and UMN signs develop weeks later."
+        "text": "Enterovirus D68",
+        "explanation": "Correct. This is a classic presentation of Acute Flaccid Myelitis (AFM). It typically affects children after a viral respiratory or GI illness. The virus (commonly Enterovirus D68 or 71) targets the Anterior Horn Cells, causing a Lower Motor Neuron pattern (flaccidity, areflexia) similar to Polio. The MRI finding of gray matter signal change is characteristic."
       },
       {
-        "text": "Normal reflexes",
-        "explanation": "Incorrect."
+        "text": "Campylobacter jejuni",
+        "explanation": "Incorrect. This is the classic trigger for Guillain-Barre Syndrome, which presents with symmetric ascending weakness, not asymmetric focal flaccidity."
       },
       {
-        "text": "Bilateral Babinski signs",
-        "explanation": "Incorrect. Toes are usually mute (don't move) in spinal shock initially."
+        "text": "Herpes Simplex Virus 2",
+        "explanation": "Incorrect. HSV-2 is a common cause of recurrent aseptic meningitis or radiculitis (Elsberg syndrome), but less likely to cause this specific anterior horn syndrome."
       },
       {
-        "text": "Decerebrate posturing",
-        "explanation": "Incorrect. Brainstem sign."
+        "text": "Treponema pallidum",
+        "explanation": "Incorrect. Syphilis can cause Tabes Dorsalis (posterior column disease), not acute anterior horn cell myelitis."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Spinal Shock = Temporary Flaccidity/Areflexia after acute cord injury.",
-    "pdfPage": 11,
-    "pdfQuote": "signs of a myelopathy ... Flaccid paralysis ... evolves to Weakness with increased tone"
+    "clinicalPearl": "Acute Flaccid Myelitis (AFM) is a 'Polio-like' illness often caused by Enterovirus D68. It targets Anterior Horn Cells, causing asymmetric flaccid paralysis.",
+    "pdfPage": 7,
+    "pdfQuote": "Answer: ACUTE FLACCID MYELITIS ... Associated with pathogens: enteroviruses D68"
   },
   {
     "id": 2,
-    "category": "Myelopathy: Brown-Sequard",
-    "questionText": "A patient presents with weakness and loss of vibration/position sense in the RIGHT leg, and loss of pain/temperature sensation in the LEFT leg. This pattern is characteristic of:",
+    "category": "Myelopathy",
+    "questionText": "A 22-year-old male is stabbed in the back during a bar fight. In the ED, he is found to have 0/5 strength in his right leg and 0/5 strength in his right arm. He has loss of vibration and proprioception on the right side of his body below the neck. On the left side, he has loss of pain and temperature sensation starting roughly two levels below the injury. This clinical picture is best described as:",
     "options": [
       {
-        "text": "Anterior Cord Syndrome",
-        "explanation": "Incorrect. Bilateral motor/pain loss, spared dorsal columns."
-      },
-      {
         "text": "Central Cord Syndrome",
-        "explanation": "Incorrect. Arms > Legs weakness."
+        "explanation": "Incorrect. Central Cord syndrome (often hyperextension injury in elderly) typically causes weakness in the Arms > Legs and variable sensory loss."
       },
       {
-        "text": "Hemitransection of the spinal cord (Brown-Séquard)",
-        "explanation": "Correct. Ipsilateral Motor (CST) and Dorsal Column loss (Vibration/Proprioception). Contralateral Spinothalamic loss (Pain/Temp). Since motor/vibration are Right, the lesion is on the Right. Pain/Temp crosses early, so the Left side is affected from a Right lesion."
+        "text": "Anterior Cord Syndrome",
+        "explanation": "Incorrect. Anterior Cord syndrome (infarct) causes bilateral loss of motor function and pain/temperature, but SPARES dorsal columns (vibration/proprioception)."
       },
       {
-        "text": "Complete Transection",
-        "explanation": "Incorrect. Bilateral everything."
+        "text": "Brown-Séquard Syndrome",
+        "explanation": "Correct. This is a spinal cord hemitransection. The Corticospinal tract (Motor) and Dorsal Columns (Vibration/Proprioception) stay ipsilateral, so the deficit is on the SAME side as the cut (Right). The Spinothalamic tract (Pain/Temp) crosses almost immediately, so the deficit is on the OPPOSITE side (Left) below the lesion."
       },
       {
         "text": "Posterior Cord Syndrome",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. This would cause isolated loss of vibration/proprioception bilaterally (e.g., B12, Tabes Dorsalis)."
+      },
+      {
+        "text": "Cauda Equina Syndrome",
+        "explanation": "Incorrect. This involves lumbar nerve roots, causing saddle anesthesia and bowel/bladder dysfunction, not a cervical cord level picture."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Brown-Sequard = Same Side Motor/Vibration, Opposite Side Pain.",
+    "clinicalPearl": "Brown-Séquard = Hemitransection. Ipsi Motor/Vibration, Contra Pain/Temp.",
     "pdfPage": 10,
-    "pdfQuote": "sensory level ... numbness or tingling below the level"
+    "pdfQuote": "Depends on the tracts affected and the disease process."
   },
   {
     "id": 3,
-    "category": "Myelopathy: Acute Flaccid Myelitis",
-    "questionText": "A 6-year-old child presents with sudden onset flaccid weakness of the right arm following a respiratory illness. MRI shows hyperintensity in the anterior gray matter of the spinal cord. This clinical picture is most consistent with:",
+    "category": "Motor Neuron Disease",
+    "questionText": "A 67-year-old man presents with a 6-month history of progressive slurring of speech and difficulty swallowing liquids. He has also noticed twitching in his tongue and weakness in his right hand. Examination reveals tongue atrophy with fasciculations, a brisk jaw jerk, hyperreflexia in the right arm, and weakness of the first dorsal interosseous muscle. Genetic testing for SMN survival motor neuron is negative. Changes in sensation are absent. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect. White matter demyelination."
+        "text": "Spinal Muscular Atrophy (SMA)",
+        "explanation": "Incorrect. SMA is a pure Lower Motor Neuron disease affecting anterior horn cells. This patient has UMN signs (brisk jaw jerk, hyperreflexia)."
       },
       {
-        "text": "Acute Flaccid Myelitis (Enterovirus D68)",
-        "explanation": "Correct. This is a visible 'Polio-like' illness affecting the Anterior Horn Cells (LMNs). It causes flaccid weakness. Often associated with Enterovirus D68 outbreaks."
+        "text": "Kennedy's Disease",
+        "explanation": "Incorrect. Kennedy's (Spinal Bulbar Muscular Atrophy) is X-linked, affects only males, and is purely LMN with androgen insensitivity signs (gynecomastia)."
       },
       {
-        "text": "Guillain-Barre Syndrome",
-        "explanation": "Incorrect. Usually symmetric ascending paralysis."
+        "text": "Amyotrophic Lateral Sclerosis (ALS)",
+        "explanation": "Correct. ALS is defined by the combination of Upper Motor Neuron signs (brisk jaw jerk, hyperreflexia) AND Lower Motor Neuron signs (atrophy, fasciculations) in multiple regions (bulbar, limb), with sparing of sensation."
       },
       {
-        "text": "Spinal Cord Infarct",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Botulism",
-        "explanation": "Incorrect. Descending paralysis."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Acute Flaccid Myelitis = Enterovirus D68. Polio-like (Anterior Horn)."
-    ,
-    "pdfPage": 7,
-    "pdfQuote": "Associated with pathogens: enteroviruses D68 ... acute flaccid myelitis"
-  },
-  {
-    "id": 4,
-    "category": "Myelopathy: ALS",
-    "questionText": "Amyotrophic Lateral Sclerosis (ALS) is distinct from other motor neuron diseases because it involves:",
-    "options": [
-      {
-        "text": "Only Upper Motor Neurons",
-        "explanation": "Incorrect. PLS."
-      },
-      {
-        "text": "Only Lower Motor Neurons",
-        "explanation": "Incorrect. SMA/Polio."
-      },
-      {
-        "text": "Both Upper AND Lower Motor Neurons",
-        "explanation": "Correct. The hallmark of ALS is the combination of UMN signs (Spasticity, Babinski) and LMN signs (Atrophy, Fasciculations) in more than one body segment."
-      },
-      {
-        "text": "Sensory loss and Motor loss",
-        "explanation": "Incorrect. Sensation is spared in ALS."
-      },
-      {
-        "text": "Demyelination",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: ALS = UMN + LMN Signs. Sensation Spared.",
-    "pdfPage": 22,
-    "pdfQuote": "Combination of upper and lower motor neuron symptoms"
-  },
-  {
-    "id": 5,
-    "category": "Myelopathy: Vitamin B12",
-    "questionText": "Subacute Combined Degeneration of the spinal cord is caused by a deficiency of:",
-    "options": [
-      {
-        "text": "Vitamin B1 (Thiamine)",
-        "explanation": "Incorrect. Wernicke/Beriberi."
-      },
-      {
-        "text": "Vitamin B12 (Cobalamin)",
-        "explanation": "Correct. Affects Dorsal Columns (Proprioception) and Corticospinal Tracts (UMN weakness). Can be caused by Nitrous Oxide abuse."
-      },
-      {
-        "text": "Vitamin E",
-        "explanation": "Incorrect. Similar symptoms but B12 is classic answer for 'Subacute Combined'."
-      },
-      {
-        "text": "Folate",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Copper",
-        "explanation": "Incorrect. Myelopathy too."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: B12 Deficiency = Dorsal Columns + CST (Subacute Combined Degeneration).",
-    "pdfPage": 9,
-    "pdfQuote": "M=B12 deficiency ... nitrous oxide toxicity"
-  },
-  {
-    "id": 6,
-    "category": "Myelopathy: Radiculopathy",
-    "questionText": "A patient with an L5 radiculopathy (e.g., from an L4-L5 disc herniation) would most likely present with:",
-    "options": [
-      {
-        "text": "Weakness of Plantarflexion (tiptoes)",
-        "explanation": "Incorrect. S1."
-      },
-      {
-        "text": "Weakness of Ankle Dorsiflexion (Foot Drop) and numbness on top of foot",
-        "explanation": "Correct. L5 innervates Tibialis Anterior (Dorsiflexion) and Extensor Hallucis Longus (Big toe extension). Pain radiates down lateral leg."
-      },
-      {
-        "text": "Loss of Knee Jerk reflex",
-        "explanation": "Incorrect. L4."
-      },
-      {
-        "text": "Saddle anesthesia",
-        "explanation": "Incorrect. Cauda Equina."
-      },
-      {
-        "text": "Quadriplegia",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: L5 = Foot Drop (Dorsiflexion). L4 = Knee. S1 = Ankle.",
-    "pdfPage": 32,
-    "pdfQuote": "foot drop is present ... 3/5 dorsiflexion weakness"
-  },
-  {
-    "id": 7,
-    "category": "Myelopathy: Guillain-Barre",
-    "questionText": "The classic CSF finding in Guillain-Barre Syndrome is 'Albuminocytologic Dissociation', which means:",
-    "options": [
-      {
-        "text": "High protein, High WBC count",
-        "explanation": "Incorrect. Bacterial Meningitis."
-      },
-      {
-        "text": "Normal protein, High WBC count",
-        "explanation": "Incorrect. Viral."
-      },
-      {
-        "text": "Elevated Protein, Normal WBC count",
-        "explanation": "Correct. The inflammation of nerve roots leaks protein into CSF, but there is no active infection in the CSF itself, so cells are low."
-      },
-      {
-        "text": "Low Glucose",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Bloody CSF",
-        "explanation": "Incorrect. SAH."
-      }
-    ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: GBS = High Protein, Normal Cells (Albuminocytologic Dissociation).",
-    "pdfPage": 47,
-    "pdfQuote": "albuminocytologic dissociation (elevated protein with a normal cell count)"
-  },
-  {
-    "id": 8,
-    "category": "Myelopathy: Myasthenia Gravis",
-    "questionText": "A 30-year-old female presents with double vision (diplopia) and droopy eyelids (ptosis) that worsen at the end of the day. Her pupil responses are normal. This fatiguable weakness is characteristic of:",
-    "options": [
-      {
-        "text": "Multiple Sclerosis",
-        "explanation": "Incorrect. INO, Optic Neuritis."
+        "text": "Primary Lateral Sclerosis (PLS)",
+        "explanation": "Incorrect. PLS is a pure Upper Motor Neuron disease (spasticity only, no atrophy/fasciculations)."
       },
       {
         "text": "Myasthenia Gravis",
-        "explanation": "Correct. Autoantibodies against Post-synaptic ACh receptors. Fatigability is key. Pupils are spared (unlike Botulism/CN III palsy)."
-      },
-      {
-        "text": "Lambert-Eaton Syndrome",
-        "explanation": "Incorrect. Improves with use (Calcium accumulation)."
-      },
-      {
-        "text": "ALS",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Horner's Syndrome",
-        "explanation": "Incorrect. Ptosis + Miosis + Anhidrosis. Not fatiguable."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Myasthenia Gravis = Fatiguable Ptosis/Diplopia. Worse at night.",
-    "pdfPage": 54,
-    "pdfQuote": "intermittent diplopia ... worse towards the end of the day ... sustaining upgaze"
-  },
-  {
-    "id": 9,
-    "category": "Myelopathy: Lambert-Eaton",
-    "questionText": "Lambert-Eaton Myasthenic Syndrome (LEMS) is caused by antibodies against:",
-    "options": [
-      {
-        "text": "Post-synaptic Acetylcholine Receptors",
-        "explanation": "Incorrect. Myasthenia Gravis."
-      },
-      {
-        "text": "Pre-synaptic Voltage-Gated Calcium Channels",
-        "explanation": "Correct. This blocks Ca++ entry, preventing ACh vesicle release. Repetitive stimulation builds up Ca++ inside, so strength IMPROVES with use."
-      },
-      {
-        "text": "MuSK protein",
-        "explanation": "Incorrect. MG variant."
-      },
-      {
-        "text": "Dystrophin",
-        "explanation": "Incorrect. Muscular Dystrophy."
-      },
-      {
-        "text": "Myelin",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: LEMS = Pre-synaptic Calcium Channels. Associated with Small Cell Lung Cancer.",
-    "pdfPage": 58,
-    "pdfQuote": "Antibodies against voltage gated calcium channels"
-  },
-  {
-    "id": 10,
-    "category": "Myelopathy: Botulism",
-    "questionText": "Botulism toxin causes paralysis by:",
-    "options": [
-      {
-        "text": "Blocking ACh receptors",
-        "explanation": "Incorrect. Curare/MG."
-      },
-      {
-        "text": "Preventing the release of Acetylcholine from presynaptic terminals",
-        "explanation": "Correct. It cleaves SNARE proteins, preventing vesicle fusion. Causes descending flaccid paralysis."
-      },
-      {
-        "text": "Demyelination",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Destroying Anterior Horn Cells",
-        "explanation": "Incorrect. Polio."
-      },
-      {
-        "text": "Excessive Glutamate release",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Botulism = Blocks ACh Release. Descending Paralysis.",
-    "pdfPage": 59,
-    "pdfQuote": "inhibits ACh release at the neuromuscular junction"
-  },
-  {
-    "id": 11,
-    "category": "Myelopathy: Shingles",
-    "questionText": "Reactivation of Varicella Zoster Virus (VZV) typically presents as:",
-    "options": [
-      {
-        "text": "Generalized rash",
-        "explanation": "Incorrect. Chickenpox."
-      },
-      {
-        "text": "Painful vesicular rash in a dermatomal distribution",
-        "explanation": "Correct. The virus lies dormant in the Dorsal Root Ganglion and travels down the sensory nerve when reactivated."
-      },
-      {
-        "text": "Painless motor weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Meningitis only",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Visual hallucinations",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Shingles = Dermatomal Vesicular Rash + Pain.",
-    "pdfPage": 27,
-    "pdfQuote": "Vesicular lesions occur along a dermatone"
-  },
-  {
-    "id": 12,
-    "category": "Myelopathy: Inclusion Body Myositis",
-    "questionText": "Inclusion Body Myositis (IBM) is unique among myopathies because it typically presents with:",
-    "options": [
-      {
-        "text": "Symmetric proximal weakness responsive to steroids",
-        "explanation": "Incorrect. Polymyositis."
-      },
-      {
-        "text": "Asymmetric weakness of finger flexors (grip) and knee extensors (quads)",
-        "explanation": "Correct. Also it is NOT responsive to steroids. Most common myopathy in elderly."
-      },
-      {
-        "text": "Ocular weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Sensory loss",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Rapid onset",
-        "explanation": "Incorrect. Very slow (years)."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: IBM = Finger Flexors + Quads. Elderly men. Steroid Resistant.",
-    "pdfPage": 62,
-    "pdfQuote": "Knee extensor weakness is most prominent ... weakness of deep finger flexors"
-  },
-  {
-    "id": 13,
-    "category": "Myelopathy: Neuralgic Amyotrophy",
-    "questionText": "Parsonage-Turner Syndrome (Neuralgic Amyotrophy) is characterized by:",
-    "options": [
-      {
-        "text": "Slow progressive weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Acute severe shoulder pain followed by weakness/atrophy as pain subsides",
-        "explanation": "Correct. Classic history. Often post-viral or post-vaccine. Inflammatory plexopathy."
-      },
-      {
-        "text": "Bilateral leg weakness",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Stocking-glove neuropathy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Tremor",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Parsonage-Turner = Painful Shoulder -> Weakness.",
-    "pdfPage": 38,
-    "pdfQuote": "acute onset of shoulder pain ... pain resolves, but then evolves into sensory loss and weakness"
-  },
-  {
-    "id": 14,
-    "category": "Myelopathy: Polio",
-    "questionText": "Poliomyelitis preferentially destroys:",
-    "options": [
-      {
-        "text": "Dorsal Root Ganglia",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Anterior Horn Cells (LMNs)",
-        "explanation": "Correct. Causes asymmetric flaccid paralysis."
-      },
-      {
-        "text": "Corticospinal Tracts",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Myelin",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Neuromuscular Junction",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Polio = Anterior Horn Cell destruction (LMN).",
-    "pdfPage": 19,
-    "pdfQuote": "infection of the anterior horns cells"
-  },
-  {
-    "id": 15,
-    "category": "Myelopathy: Neuropathy",
-    "questionText": "The most common cause of distal symmetric polyneuropathy in the developed world is:",
-    "options": [
-      {
-        "text": "Alcohol",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Diabetes Mellitus",
-        "explanation": "Correct. Diabetic neuropathy typically presents as a 'stocking-glove' sensory loss."
-      },
-      {
-        "text": "Leprosy",
-        "explanation": "Incorrect. Most common worldwide/developing world."
-      },
-      {
-        "text": "Chemotherapy",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "B12 deficiency",
-        "explanation": "Incorrect."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Most common neuropathy = Diabetes.",
-    "pdfPage": 44,
-    "pdfQuote": "Diabetes or prediabetes-most common"
-  },
-  {
-    "id": 16,
-    "category": "Myelopathy: GBS Treatment",
-    "questionText": "Which treatment is NOT effective for Guillain-Barre Syndrome?",
-    "options": [
-      {
-        "text": "IVIG (Intravenous Immunoglobulin)",
-        "explanation": "Incorrect. Effective."
-      },
-      {
-        "text": "Plasma Exchange (Plasmapheresis)",
-        "explanation": "Incorrect. Effective."
-      },
-      {
-        "text": "Corticosteroids (Prednisone)",
-        "explanation": "Correct. Studies have shown steroids do NOT help in GBS (unlike CIDP where they do help)."
-      },
-      {
-        "text": "Supportive Care (Ventilation)",
-        "explanation": "Incorrect. Essential."
-      },
-      {
-        "text": "Physical Therapy",
-        "explanation": "Incorrect."
+        "explanation": "Incorrect. MG causes fluctuating weakness and ptosis/diplopia. It does not cause atrophy, fasciculations, or hyperreflexia."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: GBS = IVIG or Plasma Exchange. NO Steroids.",
+    "clinicalPearl": "ALS clinical hallmark = UMN + LMN signs coexisting. Sensation is spared.",
+    "pdfPage": 22,
+    "pdfQuote": "Combination of upper and lower motor neuron symptoms. LMN- weakness, fasciculations, atrophy. UMN-spasticity, hyperreflexia"
+  },
+  {
+    "id": 4,
+    "category": "NMJ Disorders",
+    "questionText": "A 35-year-old female presents with double vision and drooping eyelids that worsens toward the end of the day. She also reports difficulty chewing her steak dinner because her jaw gets tired. Neurologic exam reveals bilateral ptosis and fatigable proximal arm weakness. Deep tendon reflexes are 2+ and symmetric. Which of the following is the mechanism of her disorder?",
+    "options": [
+      {
+        "text": "Antibodies against presynaptic voltage-gated calcium channels",
+        "explanation": "Incorrect. This describes Lambert-Eaton Myasthenic Syndrome (LEMS), which improves with exercise and areflexia."
+      },
+      {
+        "text": "Antibodies against postsynaptic acetylcholine receptors",
+        "explanation": "Correct. This is Myasthenia Gravis. The autoantibodies block/destroy the ACh receptors on the muscle side (postsynaptic), leading to fatigable weakness."
+      },
+      {
+        "text": "Inhibition of acetylcholine release via SNARE protein cleavage",
+        "explanation": "Incorrect. This is the mechanism of Botulism."
+      },
+      {
+        "text": "Demyelination of peripheral nerves",
+        "explanation": "Incorrect. This is Guillain-Barre or CIDP."
+      },
+      {
+        "text": "Destruction of anterior horn cells",
+        "explanation": "Incorrect. This is Polio or SMA."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Myasthenia Gravis = Postsynaptic ACh receptor antibodies. Fatigable weakness, ptosis, diplopia.",
+    "pdfPage": 57,
+    "pdfQuote": "Antibodies against AChR or MuSK ... fatigueable ocular, limb and bulbar muscle weakness"
+  },
+  {
+    "id": 5,
+    "category": "NMJ Disorders",
+    "questionText": "A 60-year-old male smoker with a history of small cell lung cancer presents with proximal leg weakness and dry mouth. On examination, his deep tendon reflexes are absent. However, after asking him to exercise his quadriceps for 10 seconds, the reflexes return and his strength transiently improves. This facilitation is characteristic of:",
+    "options": [
+      {
+        "text": "Myasthenia Gravis",
+        "explanation": "Incorrect. In MG, repetitive use makes weakness WORSE (fatigue)."
+      },
+      {
+        "text": "Lambert-Eaton Myasthenic Syndrome",
+        "explanation": "Correct. Initial antibody blockade of presynaptic Ca2+ channels prevents ACh release. High-frequency stimulation (exercise) floods the terminal with Ca2+, overcoming the block and releasing ACh. This is called 'facilitation' or 'post-exercise potentiation'."
+      },
+      {
+        "text": "Botulism",
+        "explanation": "Incorrect. Botulism causes fixed paralysis that does not improve with exercise."
+      },
+      {
+        "text": "Polymyositis",
+        "explanation": "Incorrect. This is a muscle inflammation, not a NMJ defect. No facilitation."
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect. UMN/LMN signs, not facilitation."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lambert-Eaton (LEMS) often accompanies Small Cell Lung Cancer. Weakness IMPROVES with use (facilitation).",
+    "pdfPage": 58,
+    "pdfQuote": "Weakness and DTRs briefly improves after exercise ... Half of patients with small cell lung cancer"
+  },
+  {
+    "id": 6,
+    "category": "Peripheral Neuropathy",
+    "questionText": "A 28-year-old female presents to the ER with progressive weakness starting in her feet and moving up to her thighs over the last 3 days. She reports tingling in her toes. Two weeks ago, she had a diarrheal illness. Exam shows 3/5 strength in the legs, 4/5 in the hands, and complete areflexia (0 reflexes) throughout. Her forced vital capacity is trending down. Which treatment is CONTRAINDICATED or ineffective?",
+    "options": [
+      {
+        "text": "Plasma Exchange (Plasmapheresis)",
+        "explanation": "Incorrect. This is a first-line proven treatment for GBS."
+      },
+      {
+        "text": "Intravenous Immunoglobulin (IVIG)",
+        "explanation": "Incorrect. This is a first-line proven treatment for GBS."
+      },
+      {
+        "text": "Oral Corticosteroids",
+        "explanation": "Correct. Multiple major trials have shown that corticosteroids (oral or IV) confer NO BENEFIT in Guillain-Barre Syndrome and may actually delay recovery. This is a key distinction from CIDP."
+      },
+      {
+        "text": "Intubation/Mechanical Ventilation if FVC drops",
+        "explanation": "Incorrect. This is life-saving supportive care."
+      },
+      {
+        "text": "Cardiac monitoring",
+        "explanation": "Incorrect. Dysautonomia is common and requires monitoring."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Treat GBS with IVIG or PLEX. Do NOT use Steroids (ineffective).",
     "pdfPage": 50,
     "pdfQuote": "Steroids are not effective"
   },
   {
-    "id": 17,
-    "category": "Myelopathy: Hoffman Sign",
-    "questionText": "A positive Hoffman sign (flicking the middle finger causes flexion of thumb/index) indicates:",
+    "id": 7,
+    "category": "Peripheral Neuropathy",
+    "questionText": "A 55-year-old man presents with numb, burning feet. He admits to a long history of poor diet and alcohol use, and his fasting glucose is 180 mg/dL. Examination demonstrates reduced sensation to pinprick and vibration in a 'stocking' distribution up to the ankles. What is the most likely underlying pathology?",
     "options": [
       {
-        "text": "Carpal Tunnel Syndrome",
-        "explanation": "Incorrect."
+        "text": "Demyelination of nerve roots",
+        "explanation": "Incorrect. This would suggest CIDP or GBS."
       },
       {
-        "text": "Cervical Myelopathy (UMN lesion)",
-        "explanation": "Correct. It is the upper limb equivalent of a Babinski sign. Suggests cord compression/damage in the neck."
+        "text": "Length-dependent axonal degeneration",
+        "explanation": "Correct. Diabetic neuropathy (and alcoholic neuropathy) typically presents as a 'dying back' axonopathy. The longest nerves are affected first, hence the 'stocking-glove' distribution starting in the feet."
       },
       {
-        "text": "Radial nerve palsy",
-        "explanation": "Incorrect."
+        "text": "Anterior horn cell degeneration",
+        "explanation": "Incorrect. This would be SMA or ALS."
       },
       {
-        "text": "Cerebellar disease",
-        "explanation": "Incorrect."
+        "text": "Dorsal root ganglionopathy",
+        "explanation": "Incorrect. This would cause non-length dependent sensory ataxia (e.g., Sjogren's, Paraneoplastic)."
       },
       {
-        "text": "Normal finding",
-        "explanation": "Incorrect (usually)."
+        "text": "Neuromuscular junction blockade",
+        "explanation": "Incorrect. MG/LEMS."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Hoffman = Upper extremity Babinski (Cervical UMN).",
+    "clinicalPearl": "Diabetic Neuropathy = Length-dependent (Stocking-Glove) Axonal Sensorimotor Polyneuropathy.",
+    "pdfPage": 44,
+    "pdfQuote": "Diabetes or prediabetes-most common ... Distal symmetric polyneuropathy"
+  },
+  {
+    "id": 8,
+    "category": "Plexopathy",
+    "questionText": "A 30-year-old man wakes up with excruciating, severe pain in his right shoulder. He goes to the ER but X-rays are normal. The pain subsides after 1 week, but he then notices he cannot raise his right arm effectively and there is visible atrophy of the deltoid and supraspinatus muscles. He had a flu-like illness 2 weeks prior. This is classic for:",
+    "options": [
+      {
+        "text": "C5 Radiculopathy",
+        "explanation": "Incorrect. Radiculopathy pain usually radiates constantly and coincides with weakness. The distinct 'severe pain FIRST, then weakness LATER' pattern is key for Parsonage-Turner."
+      },
+      {
+        "text": "Rotator Cuff Tear",
+        "explanation": "Incorrect. Would be mechanical pain, MRI would show tear. Atrophy wouldn't be this rapid or profound solely from disuse initially."
+      },
+      {
+        "text": "Neuralgic Amyotrophy (Parsonage-Turner Syndrome)",
+        "explanation": "Correct. This is an inflammatory plexopathy. The hallmark suggests: Acute severe pain -> Pain resolves -> Severe weakness/atrophy follows."
+      },
+      {
+        "text": "Thoracic Outlet Syndrome",
+        "explanation": "Incorrect. Usually positional vascular/neuro symptoms, lower trunk (C8/T1) more common."
+      },
+      {
+        "text": "Pancoast Tumor",
+        "explanation": "Incorrect. Horner's syndrome, hand weakness (C8/T1), constant pain."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Parsonage-Turner Syndrome: Severe Shoulder Pain --> Resolution --> Weakness/Atrophy.",
+    "pdfPage": 38,
+    "pdfQuote": "Typically presents with acute onset of shoulder pain ... Pain resolves, but then evolves into sensory loss and weakness"
+  },
+  {
+    "id": 9,
+    "category": "Myopathy",
+    "questionText": "A 72-year-old male is referred for slowly progressive difficulty walking. He says his 'knees give out' and he falls frequently. He also has trouble opening jars. Exam reveals asymmetric weakness and atrophy of the Quadriceps and the Deep Finger Flexors. Creatine kinase is mildly elevated. He was previously treated with prednisone for 'polymyositis' for 6 months with absolutely no improvement. What is the diagnosis?",
+    "options": [
+      {
+        "text": "Duchenne Muscular Dystrophy",
+        "explanation": "Incorrect. Presents in childhood."
+      },
+      {
+        "text": "Dermatomyositis",
+        "explanation": "Incorrect. Associated with rash (Gottron papules, Heliotrope). Steroid responsive."
+      },
+      {
+        "text": "Inclusion Body Myositis (IBM)",
+        "explanation": "Correct. IBM is the most common myopathy in the elderly (>50). The 'Finger Flexor and Quadriceps' atrophy pattern is classic. Crucially, it is RESISTANT to steroids/immunosuppression."
+      },
+      {
+        "text": "Polymyositis",
+        "explanation": "Incorrect. Usually symmetric proximal weakness. Steroid responsive. This patient failed steroids, making IBM more likely."
+      },
+      {
+        "text": "Statin-Induced Myopathy",
+        "explanation": "Incorrect. Would resolve with stopping statin, painful."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Inclusion Body Myositis (IBM): Elderly Men, Quads + Finger Flexors, Steroid Resistant.",
+    "pdfPage": 62,
+    "pdfQuote": "Knee extensor weakness is most prominent ... weakness of deep finger flexors"
+  },
+  {
+    "id": 10,
+    "category": "Radiculopathy",
+    "questionText": "A 45-year-old construction worker lifts a heavy box and feels a 'pop' in his low back, followed by shooting electrical pain down the lateral aspect of his left leg to the top of his foot. He drags his left foot when walking (foot drop). Which nerve root is most likely compressed?",
+    "options": [
+      {
+        "text": "L3",
+        "explanation": "Incorrect. Anterior thigh/knee."
+      },
+      {
+        "text": "L4",
+        "explanation": "Incorrect. Knee extension, medial leg sensation, patellar reflex."
+      },
+      {
+        "text": "L5",
+        "explanation": "Correct. The L5 root supplies the Tibialis Anterior (Dorsiflexion) and Extensor Hallucis Longus (Big toe). Weakness causes Foot Drop. Pain goes down the lateral leg to the dorsum (top) of the foot."
+      },
+      {
+        "text": "S1",
+        "explanation": "Incorrect. Plantar flexion (tiptoe walking), Achilles reflex, lateral foot/sole sensation."
+      },
+      {
+        "text": "S2",
+        "explanation": "Incorrect. Posterior thigh/buttock."
+      }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "L5 Radiculopathy = Foot Drop + Pain down lateral leg.",
+    "pdfPage": 32,
+    "pdfQuote": "foot drop is present (3/5 dorsiflexion weakness) ... Sensory loss on the lateral aspect"
+  },
+  {
+    "id": 11,
+    "category": "Myelopathy",
+    "questionText": "B12 deficiency results in 'Subacute Combined Degeneration'. Which two spinal cord tracts are primarily affected?",
+    "options": [
+      {
+        "text": "Spinothalamic and Corticospinal",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Dorsal Columns and Corticospinal Tracts",
+        "explanation": "Correct. B12 deficiency demyelinates the Dorsal Columns (loss of vibration/proprioception -> ataxia) and the Lateral Corticospinal Tracts (UMN signs -> spasticity/weakness). 'Combined' refers to these two systems."
+      },
+      {
+        "text": "Anterior Horn and Lateral Horn",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Spinothalamic and Dorsal Columns",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Corticobulbar and Rubrospinal",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Subacute Combined Degeneration = Dorsal Columns (Sensory) + Corticospinal (Motor).",
+    "pdfPage": 9,
+    "pdfQuote": "M=B12 deficiency ... nitrous oxide toxicity"
+  },
+  {
+    "id": 12,
+    "category": "Infectious",
+    "questionText": "A 5-month-old infant presents with constipation, poor feeding, and a weak cry. On exam, the baby is floppy (hypotonic) with head lag and has sluggish pupils. The parents mention they recently started sweetening the baby's pacifier with honey. What is the mechanism of the toxin responsible?",
+    "options": [
+      {
+        "text": "Blocks postsynaptic ACh receptors",
+        "explanation": "Incorrect. MG."
+      },
+      {
+        "text": "Prevents presynaptic release of Acetylcholine",
+        "explanation": "Correct. Infant Botulism (from C. botulinum spores in honey) produces a toxin that cleaves SNARE proteins, preventing the fusion of ACh vesicles. This stops ACh release, causing flaccid paralysis ('floppy baby')."
+      },
+      {
+        "text": "Destroys Schwann cells",
+        "explanation": "Incorrect. Diphtheria/GBS."
+      },
+      {
+        "text": "Hyperstimulates ACh receptors",
+        "explanation": "Incorrect. Organophosphates."
+      },
+      {
+        "text": "Inhibits Glycine release",
+        "explanation": "Incorrect. Tetanus."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Botulism = Presynaptic blockade of ACh release. Descending paralysis, pupils involved.",
+    "pdfPage": 59,
+    "pdfQuote": "inhibits ACh release at the neuromuscular junction ... intestinal colonization (infant)"
+  },
+  {
+    "id": 13,
+    "category": "Infectious",
+    "questionText": "A 65-year-old woman complains of intense burning pain in a band-like distribution around the left side of her torso at the T5 level. Two days later, a vesicular rash appears in the same distribution. This condition is caused by:",
+    "options": [
+      {
+        "text": "Primary infection with Herpes Simplex Virus",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Reactivation of Varicella Zoster Virus in the Dorsal Root Ganglion",
+        "explanation": "Correct. This is Shingles (Herpes Zoster). The virus remains latent in the DRG after chickenpox and travels down the sensory nerve upon reactivation."
+      },
+      {
+        "text": "Autoimmune attack on the nerve root",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Compression of the nerve by a disc",
+        "explanation": "Incorrect. No rash."
+      },
+      {
+        "text": "Tick-borne bacterial infection",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Shingles = Reactivation of VZV in Dorsal Root Ganglion.",
+    "pdfPage": 27,
+    "pdfQuote": "reside in the dorsal root ... reactivation infection, (herpes zoster-shingles)"
+  },
+  {
+    "id": 14,
+    "category": "Peripheral Neuropathy",
+    "questionText": "A patient has a chronic (>2 months), progressive, symmetric weakness of both proximal and distal muscles, along with sensory loss and areflexia. Spinal tap shows elevated protein without cells. Nerve conduction studies show slow conduction velocities (demyelination). Crucially, this patient RESPONDS WELL to corticosteroids. The diagnosis is:",
+    "options": [
+      {
+        "text": "Guillain-Barre Syndrome (AIDP)",
+        "explanation": "Incorrect. GBS is ACUTE (<4 weeks) and does NOT respond to steroids."
+      },
+      {
+        "text": "Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+        "explanation": "Correct. CIDP is essentially the 'Chronic' version of GBS (>8 weeks duration). Unlike GBS, CIDP typically responds to Corticosteroids."
+      },
+      {
+        "text": "Diabetic Neuropathy",
+        "explanation": "Incorrect. Axonal, not demyelinating. Not steroid responsive."
+      },
+      {
+        "text": "ALS",
+        "explanation": "Incorrect. Not demyelinating, no sensory loss."
+      },
+      {
+        "text": "Charcot-Marie-Tooth",
+        "explanation": "Incorrect. Hereditary, very slow progression over years, family history."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CIDP = Chronic (>2mo), Demyelinating, Steroid Responsive.",
+    "pdfPage": 51,
+    "pdfQuote": "develop over at least 2 months ... Treated with ... Corticosteroids"
+  },
+  {
+    "id": 15,
+    "category": "Physical Exam",
+    "questionText": "You are examining a patient with suspected cervical myelopathy. You flick the nail of the middle finger, and observe reflex flexion of the thumb and index finger. This is a positive:",
+    "options": [
+      {
+        "text": "Babinski Sign",
+        "explanation": "Incorrect. Babinski is stroking the foot."
+      },
+      {
+        "text": "Hoffman Sign",
+        "explanation": "Correct. A positive Hoffman sign indicates an Upper Motor Neuron (UMN) lesion in the cervical spinal cord (e.g., cervical stenosis/myelopathy)."
+      },
+      {
+        "text": "Brudzinski Sign",
+        "explanation": "Incorrect. Meningitis."
+      },
+      {
+        "text": "Tinel Sign",
+        "explanation": "Incorrect. Percussion of nerve (e.g., Carpal Tunnel)."
+      },
+      {
+        "text": "Lhermitte Sign",
+        "explanation": "Incorrect. Electric shock sensation with neck flexion (MS/Cervical cord)."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Hoffman Sign = UMN lesion (Cervical Cord).",
     "pdfPage": 11,
-    "pdfQuote": "Hoffman sign (if cervical cord is involved)"
+    "pdfQuote": "Hoffman sign ... Fingers and thumb flex involuntarily"
+  },
+  {
+    "id": 16,
+    "category": "Spinal Cord",
+    "questionText": "Immediately following a complete spinal cord transection, the patient exhibits 'Spinal Shock'. Which constellation of findings characterizes this acute phase?",
+    "options": [
+      {
+        "text": "Spasticity, Hyperreflexia, Clonus",
+        "explanation": "Incorrect. These are chronic UMN signs that develop weeks later."
+      },
+      {
+        "text": "Flaccid paralysis, Areflexia, Loss of all sensation",
+        "explanation": "Correct. The acute phase of spinal cord injury (Spinal Shock) results in a temporary shut-down of all cord reflexes below the level of injury, resembling a LMN lesion initially."
+      },
+      {
+        "text": "Rigidity and Tremor",
+        "explanation": "Incorrect. Basal ganglia."
+      },
+      {
+        "text": "Preserved reflexes with loss of sensation",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "Agitation and Confusion",
+        "explanation": "Incorrect."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Spinal Shock = Acute Flaccidity and Areflexia (mimics LMN) before Spasticity develops.",
+    "pdfPage": 11,
+    "pdfQuote": "Flaccid paralysis (corticospinal tract) evolves to Weakness with increased tone"
+  },
+  {
+    "id": 17,
+    "category": "Myopathy",
+    "questionText": "Which of the following myopathies typically presents with a 'rash' (heliotrope rash on eyelids, Gottron's papules on knuckles)?",
+    "options": [
+      {
+        "text": "Polymyositis",
+        "explanation": "Incorrect. Has similar muscle weakness but NO skin changes."
+      },
+      {
+        "text": "Dermatomyositis",
+        "explanation": "Correct. The name implies skin (Dermato) + muscle (Myositis) inflammation. It is an autoimmune condition associated with malignancy."
+      },
+      {
+        "text": "Inclusion Body Myositis",
+        "explanation": "Incorrect. No rash."
+      },
+      {
+        "text": "Duchenne Muscular Dystrophy",
+        "explanation": "Incorrect."
+      },
+      {
+        "text": "McArdle's Disease",
+        "explanation": "Incorrect. Metabolic/Glycogen."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Dermatomyositis = Proximal Weakness + Skin Rash.",
+    "pdfPage": 64,
+    "pdfQuote": "Inflammatory Myopathies"
   },
   {
     "id": 18,
-    "category": "Myelopathy: Sensory Level",
-    "questionText": "A 'Sensory Level' (e.g., loss of sensation below the umbilicus) strongly suggests localization to the:",
+    "category": "Infectious",
+    "questionText": "Leprosy (Hansen's Disease) is a common cause of infectious neuropathy worldwide. The 'Tuberculoid' form is characterized by:",
     "options": [
       {
-        "text": "Brainstem",
+        "text": "Diffuse symmetric sensation loss",
+        "explanation": "Incorrect. That is Lepromatous leprosy."
+      },
+      {
+        "text": "A few hypopigmented, anesthetic (numb) skin patches with thickened nerves",
+        "explanation": "Correct. The immune system contains the infection, resulting in localized nerve damage and numbness in specific patches."
+      },
+      {
+        "text": "Rapidly ascending paralysis",
+        "explanation": "Incorrect. GBS."
+      },
+      {
+        "text": "Chorea",
         "explanation": "Incorrect."
       },
       {
-        "text": "Spinal Cord",
-        "explanation": "Correct. The level corresponds to the spinal segment involved. Umbilicus is T10."
-      },
-      {
-        "text": "Peripheral Nerve",
-        "explanation": "Incorrect. Follows nerve distribution."
-      },
-      {
-        "text": "Plexus",
+        "text": "Dementia",
         "explanation": "Incorrect."
-      },
-      {
-        "text": "Cortex",
-        "explanation": "Incorrect. Homunculus pattern."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Sensory Level = Spinal Cord Lesion.",
-    "pdfPage": 10,
-    "pdfQuote": "Sensory level ... numbness or tingling below the level"
+    "clinicalPearl": "Leprosy = Anesthetic Skin Patches + Thickened Nerves.",
+    "pdfPage": 45,
+    "pdfQuote": "common cause of chronic, severe, mutilating infectious neuropathy"
   },
   {
     "id": 19,
-    "category": "Myelopathy: Duchenne",
-    "questionText": "Duchenne Muscular Dystrophy is caused by a mutation in the Dystrophin gene. It typically presents in young boys with:",
+    "category": "DRG",
+    "questionText": "A Sensory Neuronopathy (Ganglionopathy) affects the Dorsal Root Ganglion. Unlike a typical neuropathy, the sensory loss is:",
     "options": [
       {
-        "text": "Proximal muscle weakness and calf pseudohypertrophy",
-        "explanation": "Correct. Gowers sign (using hands to stand up) is classic. Calves look big but are filled with fat/fibrosis."
+        "text": "Length-dependent (Feet > Hands)",
+        "explanation": "Incorrect. This is typical axonal neuropathy."
       },
       {
-        "text": "Distal weakness",
+        "text": "Examples: Paraneoplastic, Sjögren's, B6 toxicity",
+        "explanation": "Correct. DRG lesions cause Non-Length Dependent sensory, often asymmetric, affecting the face/trunk early. It leads to severe sensory ataxia (loss of proprioception)."
+      },
+      {
+        "text": "Purely motor",
         "explanation": "Incorrect."
       },
       {
-        "text": "Sensory loss",
+        "text": "Associated with hyperreflexia",
+        "explanation": "Incorrect. Areflexia forms due to interruption of the reflex arc at the sensory arm."
+      },
+      {
+        "text": "Pain free",
+        "explanation": "Incorrect. Often very painful."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "DRG Lesion (Ganglionopathy) = Non-Length Dependent, Asymmetric, Severe Ataxia.",
+    "pdfPage": 29,
+    "pdfQuote": "Non-length dependent, asymmetric sensory deficits ... Proximal areas may be affected prior to distal"
+  },
+  {
+    "id": 20,
+    "category": "Myopathy",
+    "questionText": "Duchenne Muscular Dystrophy involves a mutation in the Dystrophin gene. The classic physical exam finding of 'Gowers Sign' represents:",
+    "options": [
+      {
+        "text": "Inability to look upward",
         "explanation": "Incorrect."
       },
       {
-        "text": "Myotonia",
-        "explanation": "Incorrect."
+        "text": "Using the hands to 'walk up' the legs/body to stand from a seated position",
+        "explanation": "Correct. This compensates for severe proximal hip girdle weakness."
+      },
+      {
+        "text": "Winged scapula",
+        "explanation": "Incorrect (though seen in FSHD)."
+      },
+      {
+        "text": "Delayed relaxation of hand grip",
+        "explanation": "Incorrect. Myotonia."
       },
       {
         "text": "Ptosis",
         "explanation": "Incorrect."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Duchenne = Proximal weakness + Big Calves due to lack of Dystrophin.",
-    "pdfPage": 65,
-    "pdfQuote": "Duchenne muscular dystrophy ... calf hypertrophy (image)"
-  },
-  {
-    "id": 20,
-    "category": "Myelopathy: GBS Respiratory",
-    "questionText": "The most dangerous complication of Guillain-Barre Syndrome requiring ICU monitoring is:",
-    "options": [
-      {
-        "text": "Pain",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Respiratory Failure",
-        "explanation": "Correct. From weakness of the diaphragm. Measured by FVC or NIF (Negative Inspiratory Force). Inability to count to 15 in one breath is a bedside test."
-      },
-      {
-        "text": "Urinary retention",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Skin breakdown",
-        "explanation": "Incorrect."
-      },
-      {
-        "text": "Hearing loss",
-        "explanation": "Incorrect."
-      }
-    ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: GBS Killer = Respiratory Failure (Watch FVC).",
-    "pdfPage": 49,
-    "pdfQuote": "Evolving respiratory distress ... Rapid decline in respiratory function"
+    "clinicalPearl": "Gowers Sign = Proximal Hip Weakness (Duchenne).",
+    "pdfPage": 65,
+    "pdfQuote": "Duchenne muscular dystrophy"
   }
 ];
