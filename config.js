@@ -66,5 +66,6 @@ const testsToLoad = [
     { name: "Part 2 - Pharm: Sympathomimetics I (L33)", data: window.Test_L33_Part2 },
     { name: "Part 2 - Neuro: Localization (L41)", data: window.Test_L41_Part2 },
     { name: "Part 2 - Pharm: MS (L43)", data: window.Test_L43_Part2 },
-    { name: "Part 2 - Ophtho: Disorders (L44)", data: window.Test_L44_Part2 }
+    { name: "Part 2 - Ophtho: Disorders (L44)", data: window.Test_L44_Part2 },
+    { name: "Part 2 - Blood Supply (L4)", data: window.Test_L4_Part2 }
 ];
