@@ -45,6 +45,18 @@ const PDF_MAPPING = {
     "L44": "pdfs/Lecture # 44. A. Nattis, D.O. (PPT).pdf",
     "L45": "pdfs/Lecture # 45. J. Xie, Ph.D. (PPT).pdf",
     "L46": "pdfs/Lecture # 46. R. Morgan, D.O. (PPT).pdf",
+    "L48": "pdfs/Lecture # 48. M. Pino, Ph.D. (PPT).pdf",
+    "L49": "pdfs/Lecture # 49. C. Abraham, M.D. (PPT)-1.pdf",
+    "L50": "pdfs/Lecture # 50. R. Ramos, Ph.D. (PPT).pdf",
+    "L51": "pdfs/Lecture # 51. A. Leder, D.O. (PPT)-1.pdf",
+    "L52": "pdfs/Lecture # 52. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L53": "pdfs/Lecture # 53. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L54": "pdfs/Lecture # 54. A. Leder, D.O. (PPT).pdf",
+    "L55": "pdfs/Lecture # 55. W. Zaloga, D.O. (PPT).pdf",
+    "L56": "pdfs/Lecture # 56. M. Plummer, M.D. (PPT).pdf",
+    "L57": "pdfs/Lecture # 57. A. Leder, D.O. (PPT).pdf",
+    "L58": "pdfs/Lecture # 58. M. Pino, Ph.D. (PPT).pdf",
+    "L59": "pdfs/Lecture # 59. P. Ryo, D.O. (PPT - with notes).pdf",
 
     "L102": "pdfs/L102.pdf",
     "L103": "pdfs/L103.pdf",
@@ -115,13 +127,13 @@ const PDF_MAPPING = {
     "Gross Divisions CNS": "pdfs/L136.pdf",
     "Neurons & Synapse": "pdfs/L137.pdf",
     "Neurochemistry": "pdfs/L138.pdf",
-    
+
     // Week 15 Mappings
     "Beta Lactams Pt2": "pdfs/L123.pdf",
     "Aminoglycosides": "pdfs/L124.pdf",
     "Protein Synthesis Inhibitors": "pdfs/L125.pdf",
     "Folic Acids": "pdfs/L126.pdf",
-    
+
     // Week 14 Mappings (Fix for Missing PDF Buttons)
     "Special Afferents": "pdfs/L112.pdf",
     "Autonomics of H&N": "pdfs/L113.pdf",
@@ -130,7 +142,7 @@ const PDF_MAPPING = {
     "Drug Interactions & Pharmacogenomics": "pdfs/L117L118.pdf",
     "Antimicrobials": "pdfs/L119.pdf",
     "Beta Lactams Pt1": "pdfs/L120.pdf",
-    
+
     // Full Test Name Mappings (from config.js) - Verified L1a-L13
     "OMM: Basics of Diagnosis (L1a)": "pdfs/Lecture # 1a. T. Li, D.O. (PPT).pdf",
     "OMM: Diagnosis of the Pelvis (L1b)": "pdfs/Lecture # 1b. M. Terzella, D.O. (PPT).pdf",
@@ -177,7 +189,8 @@ const PDF_MAPPING = {
     "Pharm: Multiple Sclerosis (L43)": "pdfs/Lecture # 43. M. Pino, Ph.D. (PPT)-1.pdf",
     "Ophtho: Introduction (L44)": "pdfs/Lecture # 44. A. Nattis, D.O. (PPT).pdf",
     "Neuro: Structure-Function Integration (L45)": "pdfs/Lecture # 45. J. Xie, Ph.D. (PPT).pdf",
-    "Neuro: Sensory Exam/Special Tests (L46)": "pdfs/Lecture # 46. R. Morgan, D.O. (PPT).pdf"
+    "Neuro: Sensory Exam/Special Tests (L46)": "pdfs/Lecture # 46. R. Morgan, D.O. (PPT).pdf",
+    "Pharm: Sedative Hypnotics (L48)": "pdfs/Lecture # 48. M. Pino, Ph.D. (PPT).pdf"
 };
 
 // Expose to global scope

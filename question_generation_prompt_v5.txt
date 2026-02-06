@@ -58,10 +58,17 @@ For the **CORRECT** answer choice:
 - **Randomize Correct Answer Position:** The correct answer must be randomly distributed among options A, B, C, D, E.
     - **Uniform Distribution:** Over the course of 35 questions, there should be an roughly equal number of A, B, C, D, and E correct answers (~7 of each).
     - **Avoid Pattern:** Do NOT place the correct answer in the same position (e.g., always "C") for multiple consecutive questions.
-- **Distractor Difficulty:**
-    - Distractors must be **plausible alternatives** (e.g., if the answer is a drug, all options must be drugs of a similar class or typically confused).
-    - No "throwaway" or obviously wrong answers.
-    - The correct answer should be "hard to find" - meaning it requires specific knowledge to distinguish from the distractors, not just test-taking skills.
+- **Advanced Distractor Engineering (TRICKY & HIGH-YIELD):**
+    - **Homogeneity is Key:** All answer choices must be homogeneous in length, grammatical structure, and category.
+        - *Bad:* 3 short drug names and 1 long detailed explanation.
+        - *Good:* 5 descriptions of mechanisms of action, all 6-10 words long.
+    - **"Right for the Wrong Patient":** Distractors should be the CORRECT answer for a similar disease or a different presentation of the same disease (e.g., "This would be correct if the patient were pregnant" or "This is the treatment for the viral form, but this patient has bacterial").
+    - **Avoiding "Buzzword Matching":** If the vignette describes "Apple Green Birefringence", DO NOT just put "Amyloidosis" as the answer. Ask for the *protein precursor* or the *stain mechanism* to force a second step of thinking.
+    - **Second/Third Order Thinking:**
+        - Do not ask: "What is the diagnosis?" (Too easy).
+        - Ask: "Which mechanism explains the primary symptom?" or "What is the most serious side effect of the first-line treatment?"
+    - **Plausible Misconceptions:** purposefully include answers that represent common student errors (e.g., confusing sympathetic vs. parasympathetic effects).
+    - **The "Best" Answer:** Construct options such that 2 options might seem potentially correct, but specific details in the vignette (vitals, allergies, timeline) clearly rule one out, making it a "tricky" but fair elimination process.
 
 **CRITICAL - "The Pearlbook" Requirements:**
 - Every question **MUST** have a `category` (e.g., "Cardiology: Heart Failure").
@@ -72,8 +79,9 @@ For the **CORRECT** answer choice:
 **Part 1: Thinking Process**
 Briefly outline your thought process:
 1. **High-Yield Concept:** What core principle is being tested?
-2. **Key Distractor:** What is the most common confusion point?
-3. **Vignette Strategy:** How will you write the stem to specifically exclude the Key Distractor?
+2. **The "Trap":** How will you trick the student? (e.g., "Students often confuse X with Y, so I will describe Y but include a subtle contraindication").
+3. **Key Distractor:** What is the most plausible alternative answer?
+4. **Vignette Strategy:** How will you write the stem to specifically exclude the Key Distractor using a subtle clue?
 
 **Part 2: JSON Code Block**
 You MUST provide the final output as a **single, valid JavaScript code block** containing an array of question objects.
