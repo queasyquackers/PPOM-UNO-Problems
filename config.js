@@ -54,11 +54,17 @@ const testsToLoad = [
     { name: "4-Neuro: Structure-Function Integration (L45)", data: window.Test_L45 },
     { name: "4-Neuro: Sensory Exam/Special Tests (L46)", data: window.Test_L46 },
 
-    // --- Week 6 (L48-53) ---
+    // --- Week 6 (L48-59) ---
     { name: "6-Pharmacology: Sedative Hypnotics (L48)", data: window.Test_L48 },
     { name: "6-Neurology: Sleep & Sleep Disturbances (L49)", data: window.Test_L49 },
     { name: "6-Neurology: Seizures & Epilepsy (L50)", data: window.Test_L50 },
-    { name: "6-Diff Dx of Memory Disorders (L51)", data: window.Test_L51 },
+    { name: "6-Neurology: Memory Disorders (L51)", data: window.Test_L51 },
     { name: "6-Pharmacology: Antiseizure Drugs I (L52)", data: window.Test_L52 },
-    { name: "6-Pharmacology: Antiseizure Drugs II (L53)", data: window.Test_L53 }
+    { name: "6-Pharmacology: Antiseizure Drugs II (L53)", data: window.Test_L53 },
+    { name: "6-Neurology: Aphasia & Stroke (L54)", data: window.Test_L54 },
+    { name: "6-Neurology: Cerebrovascular Disease (L55)", data: window.Test_L55 },
+    { name: "6-Neurology: Neurodegenerative Diseases (L56)", data: window.Test_L56 },
+    { name: "6-Neurology: Parkinson's Variants (L57)", data: window.Test_L57 },
+    { name: "6-Pharmacology: Parkinson & Alzheimer (L58)", data: window.Test_L58 },
+    { name: "6-Geriatrics: Aging Patient H&P (L59)", data: window.Test_L59 },
 ];

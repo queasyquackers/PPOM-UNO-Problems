@@ -627,3 +627,5 @@ const Test_L57 = [
         "pdfQuote": "REM sleep behavior disorder"
     }
 ];
+
+window.Test_L57 = Test_L57;
