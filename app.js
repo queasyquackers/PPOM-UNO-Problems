@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Validate and clean up stale entries before counting
         let list = getGlobalIncorrects(); // Raw list
         const initialLength = list.length;
-        
+
         // Filter out keys that don't match existing tests/questions
         list = list.filter(key => {
             const [tName, qId] = key.split('|');
@@ -170,7 +170,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!testObj) return false; // Test not found
             // Check if question ID exists in that test
             // Note: Data is already loaded in testsToLoad via config.js/index.html script tags
-            if (!testObj.data) return false; 
+            if (!testObj.data) return false;
             const q = testObj.data.find(item => String(item.id) === qId);
             return !!q;
         });
@@ -612,7 +612,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const randomInRange = (min, max) => Math.random() * (max - min) + min;
 
-            const interval = setInterval(function() {
+            const interval = setInterval(function () {
                 const timeLeft = animationEnd - Date.now();
 
                 if (timeLeft <= 0) {
@@ -812,6 +812,22 @@ document.addEventListener('DOMContentLoaded', () => {
             if (tempDiv.firstElementChild) {
                 questionContainer.appendChild(tempDiv.firstElementChild);
             }
+        }
+
+        // --- LECTURE SOURCE (Cumulative Exam Attribution) ---
+        if ((answerState.isSubmitted || state.examFinished) && question.lectureSource) {
+            const sourceDiv = document.createElement('div');
+            sourceDiv.className = "mt-4 p-4 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-gray-700 rounded-lg flex items-center gap-3";
+            sourceDiv.innerHTML = `
+                <div class="bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 p-2 rounded-full">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+                </div>
+                <div>
+                    <span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider">Source Material</span>
+                    <p class="font-medium text-gray-800 dark:text-gray-200">${question.lectureSource}</p>
+                </div>
+             `;
+            questionContainer.appendChild(sourceDiv);
         }
 
         // --- PDF REFERENCE LOGIC (NO IMAGE DISPLAY) ---
@@ -1182,6 +1198,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (q.clinicalPearl) {
                 questionEl.innerHTML += renderClinicalPearl(q.clinicalPearl);
+            }
+
+            if (q.lectureSource) {
+                questionEl.innerHTML += `
+                    <div class="mt-4 p-4 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-gray-700 rounded-lg flex items-center gap-3">
+                        <div class="bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 p-2 rounded-full">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+                        </div>
+                        <div>
+                            <span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider">Source Material</span>
+                            <p class="font-medium text-gray-800 dark:text-gray-200">${q.lectureSource}</p>
+                        </div>
+                    </div>
+                 `;
             }
 
             // --- PDF / Visual Aid Logic ---

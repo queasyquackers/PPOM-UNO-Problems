@@ -67,4 +67,5 @@ const testsToLoad = [
     { name: "6-Neurology: Parkinson's Variants (L57)", data: window.Test_L57 },
     { name: "6-Pharmacology: Parkinson & Alzheimer (L58)", data: window.Test_L58 },
     { name: "6-Geriatrics: Aging Patient H&P (L59)", data: window.Test_L59 },
+    { name: "6-Week 6 CUMULATIVE EXAM (L48-59)", data: window.Test_Cumulative_Week6 },
 ];
