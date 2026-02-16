@@ -68,4 +68,11 @@ const testsToLoad = [
     { name: "6-Pharmacology: Parkinson & Alzheimer (L58)", data: window.Test_L58 },
     { name: "6-Geriatrics: Aging Patient H&P (L59)", data: window.Test_L59 },
     { name: "6-Week 6 CUMULATIVE EXAM (L48-59)", data: window.Test_Cumulative_Week6 },
+
+    // --- Week 7 ---
+    { name: "7-OMM: Sacral MET 2 (L60)", data: window.Test_L60 },
+    { name: "7-Neurology: Gait & Movement (L61)", data: window.Test_L61 },
+    { name: "7-Neurology: Brachial Plexus (L62)", data: window.Test_L62 },
+    { name: "7-Neurology: Headache (L63)", data: window.Test_L63 },
+    { name: "7-Pharmacology: General Anesthetics 1 (L64)", data: window.Test_L64 },
 ];

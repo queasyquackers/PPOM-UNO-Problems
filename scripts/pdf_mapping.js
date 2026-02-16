@@ -57,6 +57,10 @@ const PDF_MAPPING = {
     "L57": "pdfs/Lecture # 57. A. Leder, D.O. (PPT).pdf",
     "L58": "pdfs/Lecture # 58. M. Pino, Ph.D. (PPT).pdf",
     "L59": "pdfs/Lecture # 59. P. Ryo, D.O. (PPT - with notes).pdf",
+    "L60": "pdfs/Lecture # 60. D. Whitson, D.O. (PPT).pdf",
+    "L61": "pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf",
+    "L62": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
+    "L63": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
 
     "L102": "pdfs/L102.pdf",
     "L103": "pdfs/L103.pdf",
@@ -190,7 +194,12 @@ const PDF_MAPPING = {
     "Ophtho: Introduction (L44)": "pdfs/Lecture # 44. A. Nattis, D.O. (PPT).pdf",
     "Neuro: Structure-Function Integration (L45)": "pdfs/Lecture # 45. J. Xie, Ph.D. (PPT).pdf",
     "Neuro: Sensory Exam/Special Tests (L46)": "pdfs/Lecture # 46. R. Morgan, D.O. (PPT).pdf",
-    "Pharm: Sedative Hypnotics (L48)": "pdfs/Lecture # 48. M. Pino, Ph.D. (PPT).pdf"
+    "Pharm: Sedative Hypnotics (L48)": "pdfs/Lecture # 48. M. Pino, Ph.D. (PPT).pdf",
+    "OMM: Sacral MET 2 (L60)": "pdfs/Lecture # 60. D. Whitson, D.O. (PPT).pdf",
+    "Neurology: Gait & Movement (L61)": "pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf",
+    "Neurology: Brachial Plexus (L62)": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
+    "Neurology: Headache (L63)": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
+    "Pharmacology: General Anesthetics 1 (L64)": "pdfs/Lecture #64. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf"
 };
 
 // Expose to global scope
