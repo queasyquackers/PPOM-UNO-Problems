@@ -1,0 +1,4167 @@
+Lecture 52 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Pharmacology of Antiseizure Drugs: Part 1
+Introduction to ASDs The “Big Picture”
+Sodium Channel Blockers
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Division of Pharmacology
+Department of Clinical Specialties
+lgolds01@nyit.edu
+
+--- Page 2 ---
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu
+--- Page 3 ---
+1. PK properties: Explain how the main pharmacokinetic features of the antiepileptic drugs and 
+their metabolic- and transport-related drug interactions relate to patient care.
+2. Mechanisms: Describe the various mechanisms of antiseizure drug action at the levels of 
+specific ion channels and neurotransmitter systems.
+3. Therapeutic uses: Differentiate the mechanisms and effects of drugs used in the treatment of 
+focal-onset seizures, generalized-onset seizures, various epileptic syndromes, and status 
+epilepticus by giving specific examples.
+4. Adverse effects: Correlate the adverse effects of the drugs covered in this lecture (the 
+“starred drugs”) with their pharmacokinetic properties and mechanisms of action.
+5. Pharmacogenomics: Explain the meaning and clinical relevance of HLA genetic 
+polymorphisms on adverse event risk.
+6. Drug-drug, drug-disease, drug-age interactions: Apply the distinctive class and drug-
+specific toxicities to the selection of antiepileptic therapy for the individual patients, including 
+children, adults, pregnant patients, and older patients.
+After completing the preparation materials, students should be able to:
+3
+--- Page 4 ---
+Required
+• ScholarRx Bricks  Practice Questions 
+Optional:
+• Video Lecture  Dr. Goldstein’s Notes Handout  Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+4
+--- Page 5 ---
+ScholarRx
+• Neurology and Special Senses > Seizures
+• Definitions, Pathophysiology, Diagnosis, Treatment: Seizures and Epilepsy: 
+https://exchange.scholarrx.com/brick/seizures-and-epilepsy 
+• Pharmacology:  Drugs to Treat Seizures: https://exchange.scholarrx.com/brick/drugs-to-treat-seizures 
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024: Chapter 24: Antiseizure Drug
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281750501 
+Review resources with practice questions:
+Access Medicine Katzung’s Pharmacology: Examination & Board Review, 14e, 2024: Chapter 24: Antiseizure Drugs
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3461&sectionid=285593532 
+LWW Health Libraries, Premier Basic Sciences: Lippincott’s Illustrated Reviews: Pharmacology 8e, 2023; Chapter 19: 
+Drugs for Epilepsy
+https://nyit.idm.oclc.org/login?url=https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253327374&bookid=3222
+Links to Resources
+5
+--- Page 6 ---
+• Epilepsy is a chronic disorder of brain function characterized by the recurrent and unpredictable 
+occurrence of seizures. Approximately 1% of the world’s population has epilepsy, which is the 
+fourth most common neurologic disorder after migraine, stroke, and Alzheimer disease.
+• The antiseizure drugs (ASDs) described in this lecture are typically used chronically to prevent the 
+occurrence of seizures in people with epilepsy.
+• They are also used occasionally in people who do not have epilepsy to prevent seizures that may 
+occur as part of an acute illness such as meningitis or in the early period following either 
+neurosurgery or traumatic brain injury. 
+• Certain ASDs terminate ongoing seizures such as in status epilepticus or prolonged febrile 
+seizures or following exposure to seizure-inducing nerve toxins. 
+• For seizures caused by an acute underlying toxic or metabolic disorder, such as hypocalcemia, 
+appropriate therapy should be directed toward correcting the specific abnormality.
+Core principles of antiseizure drug therapy
+6
+--- Page 7 ---
+• Adequate drug exposure must be maintained continuously to prevent seizures.
+• ASDs have different pharmacological profiles.
+• Many ASDs have narrow therapeutic windows. Dosing must avoid toxic exposure.
+• Many ASDs are metabolized in the liver. Drug interactions complicate therapy.
+• ASDs are typically grouped by their principal mechanism of action. However, for many 
+drugs, the precise mechanism is not known, or several mechanisms are supposed, based 
+on seizure protection in diverse studies in animal models.
+• Narrow spectrum agents only treat focal onset and focal evolving to bilateral tonic-clonic 
+seizures. 
+• Broad spectrum agents treat a broad range of seizure types, both focal onset and primary 
+generalized onset seizures.
+• When considering discontinuation of antiseizure therapy, the risk of seizure recurrence 
+should be weighed against the risk of side effects with continued ASD treatment. Certain 
+seizure types and benign epileptic syndromes may remit.
+7
+Core principles of antiseizure drug therapy
+--- Page 8 ---
+8Harrison’s; Goodman & Gilman
+Introduction: Seizure / Epilepsy
+Seizure: a paroxysmal 
+event due to abnormal 
+excessive or 
+synchronous neuronal 
+activity in the brain
+Epilepsy: a condition in 
+which a person has 
+recurrent seizures due to 
+a chronic, underlying 
+process
+Causes: many and diverse
+infection, trauma, neoplasm, toxic 
+substances, genetic predisposition
+--- Page 9 ---
+• Focal onset seizures arise from excessive, high-frequency, abnormally synchronous neuronal 
+activity within a specific, discrete local population of neurons in one cerebral hemisphere. 
+Neuronal hyperexcitability and hypersynchrony due to localized, rapidly firing voltage gated 
+sodium channels is a hallmark of focal onset seizures. Focal seizures can also evolve into 
+bilateral tonic-clonic seizures.
+• Primary generalized onset seizures arise in both hemispheres simultaneously, often involving 
+deep brain structures (thalamus, brainstem) and widespread cortical networks. The balance 
+between excitation and inhibition across both sides of the brain is disrupted.
+− Absence seizures
+− Generalized tonic-clonic seizures
+− Infantile spasms (West syndrome)
+− Lennox-Gestaut syndrome (developmental and epileptic encephalopathy)
+− Juvenile myoclonic epilepsy
+− Dravet syndrome
+• Status epilepticus is operationally defined as 5 minutes of continuous seizure activity or 2 
+discrete seizures between which there is incomplete recovery of consciousness.
+Classification of Seizure Disorders
+9
+
+--- Page 10 ---
+10
+Individualize ASD therapy:
+• Treat underlying conditions
+• Avoid precipitating factors
+• Preventive therapy for 
+suppression of recurrent 
+seizures
+• Address psychological and 
+social issues
+ASD therapy selection
+Consider the following:
+• Seizure classification and accurate diagnosis
+• Potential adverse effects of the drug
+• Comorbid medical conditions, especially but 
+not limited to hepatic and renal disease
+• Interactions with other medications 
+• Age and sex, including childbearing plans
+• Lifestyle and patient preferences
+• Cost
+Pharmacological Treatment of Seizure Disorders
+Goals of therapy: 
+• Controlling seizures
+• Avoiding treatment side effects
+• Maintaining or restoring quality 
+of life
+• Adequate drug exposure must be maintained 
+continuously to prevent seizures.
+• Most ASDs follow first-order kinetics.
+--- Page 11 ---
+11
+Drugs for Focal Onset Seizures
+Drugs for Focal Onset Seizures
+and Some Generalized Onset Seizures
+Lamotrigine
+Lacosamide
+Levetiracetam
+Perampanel
+Phenobarbital
+Primidone
+Felbamate
+Cenobamate
+Carbamazepine
+Oxcarbazepine
+Eslicarbazine
+Phenytoin
+Fosphenytoin
+Gabapentinoids 
+Drugs for Generalized-Onset 
+Seizures
+Valproate
+Topiramate
+Zonisamide
+Drugs for Generalized Absence 
+Seizures
+Ethosuximide
+Valproate
+Drugs for Other Types of Seizures
+Cannabidiol
+(Epidiolex)
+Clobazam
+Benzodiazepines
+Rufinamide
+Stiripentol
+Fenfluramine
+Benzodiazepines
+Diazepam
+Lorazepam
+Midazolam
+Clobazam
+Clonazepam
+Clorazepate
+Effective drugs based on seizure types
+--- Page 12 ---
+ASDs protect against seizures by interacting 
+with one or more molecular targets in the 
+brain to inhibit the local generation of seizure 
+discharges by:
+• reducing the ability of the neurons to fire 
+action potentials at a high rate,
+• reducing neuronal synchronization,
+• inhibiting the spread of epileptic activity to 
+nearby and distant sites by: 
+o strengthening the GABAergic inhibitory 
+activity, and/or 
+o inhibiting glutamate-mediated excitatory 
+transmission.
+o stabilizing membrane potential via K+ 
+channels
+VG Na+ channels: 
+Drugs that preferentially bind to the open and 
+inactivated state of voltage-activated Na+ 
+channels on presynaptic membranes → limit 
+the sustained, repetitive firing of neurons
+VG T-type Ca2+ channel: 
+Inhibition of voltage-activated Ca2+ channels 
+responsible for T-type Ca2+ currents in 
+thalamocortical neurons for management of 
+absence seizure
+Modulation of various other Ca 2+ channel types
+GABA / Glutamate: 
+Drugs that enhance GABA-mediated synaptic 
+inhibitory effect, and/or diminish glutamate’s 
+excitatory effects
+What is the common thread that connects this diverse group of antiseizure drugs?
+12
+The 3 major categories are:
+Na⁺ and Ca²⁺ channel modulation are the largest mechanistic classes of antiseizure drugs.
+--- Page 13 ---
+A) Excitatory glutamatergic synapse 
+B) Inhibitory GABAergic synapse 
+Presynaptic targets 
+diminishing glutamate release: 
+• Voltage-gated (VG) Na+ channels
+• VG K+ channels
+• 2-1 Ca2+ channels
+• SV2A synaptic vesicle proteins
+Postsynaptic targets 
+at excitatory synapses:
+• AMPA or NMDA glutamate receptors
+• T-type VG Ca2+ channels
+• VG K+ (KCNQ) channels
+Inhibitory synapses and in astrocytes:
+• GABA transaminase (GABA-T)
+• GABA transporter (GAT-1)
+• Synaptic GABA-A receptors
+• High GABA levels resulting from blockade of GABA-T may 
+act on extra-synaptic GABA-A receptors
+“The Big Picture” – mechanisms identified in in vitro studies
+Molecular targets for antiseizure drugs
+13
+Citation: Chapter 24 Antiseizure Drugs, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021, Figure 24-1. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250597700 Accessed: October 04, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+TAKEAWAY
+Molecular mechanisms are 
+usually identified in controlled, 
+reductionist in vitro studies 
+and then tested in rodent 
+seizure models.
+It is inferred (not proven) that 
+these mechanisms contribute 
+to antiseizure activity in 
+humans.
+Antiseizure drugs are used 
+because of demonstrated 
+clinical efficacy for specific 
+seizure types or epilepsy 
+syndromes.
+--- Page 14 ---
+14
+Class Pharmacokinetics and Relevance To Patient Care
+PK Property The TAKEAWAYS
+A Oral
+IV
+Other routes
+Oral use  convenience for patients and caregivers
+IV  rapid onset; hospital use
+IM, intraosseous, intranasal, rectal administration if IV access not obtained
+D Many ASDs >90% protein 
+bound 
+Widely distributed
+Displacement can cause a temporary rise in free fraction  transient acute toxicity 
+(Remember: narrow therapeutic windows.)
+Readily diffuse across BBB to sites of action – and cause central and systemic side effects.
+M
+Hepatic metabolism
+Active metabolites
+High potential for drug-drug interactions by enzyme induction or inhibition.
+• The ASDs’ metabolism / bioavailability may be altered.
+• The conversion to active metabolites may be affected by other drugs.
+• Some ASDs are enzyme inducers or inhibitors altering the metabolism of other drugs.
+F 80-100% Good bioavailability  predictable blood levels
+E Hepatic clearance and/or
+Renal clearance
+Hepatic and/or renal function can affect plasma drug levels.
+(Remember: narrow therapeutic windows.)
+t½ 
+Drug-specific
+Some ASDs have short half-lives  frequent daily administration
+Some ASDs have longer half-lives or come in extended-release versions  less frequent 
+dosing may improve adherence
+--- Page 15 ---
+Pharmacogenomics: Clinically important polymorphisms in HLA types
+HLA-B*15:02: Carbamazepine / oxcarbazepine, phenytoin, lamotrigine association with 
+Stevens-Johnson syndrome / toxic epidermal necrolysis (SJS/TEN)
+HLA-B*15:02 allele occurs almost exclusively in patients of Asian ancestry. Screening is 
+recommended for at-risk, treatment-naïve patients.
+Severe cutaneous adverse reactions (SCAR) – Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN): Severe, acute, life-
+threatening mucocutaneous hypersensitivity reactions can occur 1 to 4 weeks after starting the drug. Severe skin barrier loss  leads to fluid loss, 
+electrolyte imbalance, and hypothermia. Physical and psychological sequelae may occur during the chronic phase of convalescen ce and recovery. 
+Management includes screening and treatment to maintain quality of life.
+• SJS: Skin detachment affecting <10% of body surface area (BSA); mortality ~10%
+• TEN: Skin detachment affecting >30% of BSA; mortality >30%
+• SJS/TEN overlap: Skin detachment affecting 10% -30% of BSA
+Sepsis, acute respiratory distress syndrome, and multiorgan failure are the most common causes of in -hospital death.
+HLA-A*31:01: Carbamazepine / Oxcarbazepine strong association with drug reaction with 
+eosinophilia and systemic symptoms (DRESS). Screening is recommended in carbamazepine-
+naïve patients.
+HLA-A*31:01 allele is found in many populations and is more common overall: European, Japanese, 
+Koreans, Chinese, South Asians
+DRESS is a severe hypersensitivity reaction: Skin rash, visceral organ involvement, lymphadenopathy, eosinophilia, and atypic al lymphocytosis. The 
+disease course is typically prolonged and flares can occur despite cessation of the offending drug. DRESS can occur 2 to 8 we eks after initiation of the 
+drug. Estimated mortality rate is 2% -10%. DRESS survivors should undergo long -term monitoring for the development of autoimmune sequelae. 15
+--- Page 16 ---
+16
+• Toxicity potential: The therapeutic index for most AEDs is low, and toxicity is 
+not uncommon.
+• Withdrawal: Gradually taper to minimize the potential of increased seizure 
+frequency.
+• Suicidal ideations: A consequence of the drug therapy? or, of the seizure 
+disorder? (further research is needed)
+• Pregnancy: Increased risk of congenital malformations; folic acid and vitamin 
+K supplementation recommended
+• Pediatrics: Larger Vd in neonates, infants, children; neonate has immature 
+metabolic and elimination capabilities
+• Geriatrics: Comorbid conditions; physiologic changes
+• Drug interactions: Enzyme inducers/inhibitors; CNS depressants
+ Cautions
+--- Page 17 ---
+Choice of ASD in pregnancy: The goal is to choose the ASD with the lowest proven risk for major congenital 
+malformations and adverse neurodevelopmental consequences and administer the drug at the lowest 
+effective dose prior to conception. Monotherapy is preferred if possible.
+Valproate monotherapy is associated with 
+the highest rates of major malformationsRecommended to avoid this group in 
+patients of childbearing potential if possible.
+Slide adapted by LG
+--- Page 18 ---
+18
+Inducers of CYP3A4 and other CYPs, 
+UGTs, P-glycoprotein, other 
+transporters: 
+• phenobarbital, primidone
+• phenytoin
+• carbamazepine
+CYP3A4, only: 
+• oxcarbazepine
+• eslicarbazepine
+Inhibitor of CYPs and UGTs: 
+• Valproate
+AEDs with high potential for drug interactions
+• Many other AEDs may be weak 
+inducers or inhibitors of various 
+drug-metabolizing enzymes
+Even weak inducers can affect levels of the 
+substrate drugs with narrow therapeutic 
+windows, zero order kinetics, or 
+polypharmacy (burden on same enzymes).
+--- Page 19 ---
+19
+Discontinuation of antiseizure drugs may be considered in adults and children who 
+are seizure-free for 2 years or longer.
+• Antiseizure drugs are generally slowly tapered, usually several weeks to months 
+(no data indicating optimal tapering regimen). 
+• Abrupt cessation may be associated with return of seizures and even a risk of 
+status epilepticus. Some drugs are more easily withdrawn than others.
+• Physical dependence occurs with barbiturates and benzodiazepine, and there is 
+a well-recognized risk of rebound seizures with abrupt withdrawal.
+Withdrawal of Antiseizure Therapy
+--- Page 20 ---
+20
+Voltage-Gated Na+ Channel Inhibitors
+Fast Inactivation Enhancers Other
+Phenytoin Lacosamide (Slow inactivation enhancer)
+Fosphenytoin • Rufinamide (Stabilizes inactivation state)
+Carbamazepine
+• Oxcarbazepine
+• Eslicarbazepine
+Lamotrigine
+structurally 
+related
+structurally 
+related
+--- Page 21 ---
+Citation: Chapter 20 Pharmacotherapy of the Epilepsies, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e;  2023, 20-2. 
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=269718706 Accessed: October 04, 2023
+Copyright © 2023 McGraw -Hill Education. All rights reserved
+Antiseizure drug–enhanced Na+channel inactivation. Some antiseizure drugs (noted in blue text) 
+prolong the inactivation of the Na+ channels, thereby reducing the ability of neurons to fire at 
+high frequencies. The inactivated channel itself appears to remain open but is blocked by the 
+inactivation gate, I. Activation gate, A.
+• Physiology: Closed resting state → depolarization to 
+threshold → conformational change → open conducting 
+state → Na+ influx → cell depolarization, action potential 
+propagation → fast inactivation (<1 millisecond) → 
+refractory period → cell repolarizes to threshold voltage 
+(Illustrated on next slide.)
+• Fast inactivation enhancers preferentially bind a site 
+within the pore of the channel when the channel is in the 
+open and inactivated state, causing it to be stabilized in 
+this state, accumulate block during repetitive firing, and 
+bind more strongly at depolarized potentials.
+• Slow inactivation enhancers selectively enhance the 
+slow inactivation state , stabilizing the Na+ channel in a 
+long-lasting (seconds) nonconductive state. 
+• ASDs produce state-dependent, use-dependent, voltage-
+dependent block.
+State-dependent block: Preferential binding of the drug for a specific conformational state of the sodium channel – open, 
+fast-inactivated state (phenytoin, carbamazepine, lamotrigine) or slow-inactivated state (lacosamide).
+Use-dependent block: The high-frequency trains of action potentials are more effectively inhibited than either the individual 
+action potentials or firing at low-frequencies.
+Voltage-dependent block: A greater fraction of sodium channels exist in the inactivated state at depolarizing potentials. 
+Slide adapted by LG
+
+--- Page 22 ---
+Citation: Chapter 24 Antiseizure Medications, Todd W. Vanderah. Katzung’s Basic & Clinical Pharmacology, 16th Edition; 2024. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?sectionid=281750501&bookid=3382 Accessed: December 22, 2025
+Copyright © 2025 McGraw-Hill Education. All rights reserved
+Description of voltage-gate sodium channels (to help you understand – not for memorizing)
+(A1) Voltage-gated sodium channels mediate the upstroke of action potentials in brain 
+neurons. Fast inactivation of sodium channels (along with the activation of potassium 
+channels) terminates the action potential. 
+(A2) Voltage-clamp recording of sodium channel current following depolarization, 
+illustrating the time course of sodium channel gating. 
+(B) Schematic illustration of the voltage-dependent gating of sodium channels between 
+closed, open, and inactivated states. 
+(C1) Primary structures of the subunits of sodium channels. The main α subunit, 
+consisting of four homologous repeats (I–IV), is shown flanked by the two auxiliary β 
+subunits. Cylinders represent α-helical transmembrane segments.
+Blue α-helical segments (S5, S6) form the pore region. +, S4 voltage sensors; grey 
+circles, inactivation particle in inactivation gate loop; III-S6 and IV-S6 (red) are regions 
+where sodium channel–blocking antiseizure medications bind. 
+(C2) Schematic illustration of the sodium channel pore composed of the homologous 
+repeats arrayed around the central channel pore through which sodium flows into the 
+neuron. 
+The S5 and S6 transmembrane α-helical segments from each homologous repeat (I–IV) 
+form the four walls of the pore. The outer pore mouth and ion selectivity filter are formed 
+by re-entrant P-loops. The key α-helical S6 segments in repeat III and IV, which contain 
+the drug binding sites, are highlighted. A lamotrigine molecule is illustrated in 
+association with its binding site.
+
+--- Page 23 ---
+23
+Phenytoin
+Fosphenytoin (prodrug)
+Enhances fast inactivation state
+Phenytoin preferentially binds a site within the pore of the channel 
+when the channel is in the open and inactivated state, 
+• stabilizes the channel in the open/inactivated state, 
+• accumulates block during repetitive firing, and 
+• binds more strongly at depolarized potentials.
+fosphenytoin
+phosphate
+--- Page 24 ---
+Phenytoin Pharmacokinetics: Absorption and Distribution
+A Oral: sodium salt or phenytoin base (“free acid” form)
+100 mg phenytoin sodium  92 mg of free acid  adjust dose when switching dosage forms
+I.V.: propylene glycol (40%) and alcohol (10%) and adjusted to pH ~12 for solubility
+Avoid I.M. route: precipitation in tissues → irritation and painful local reactions, plus slow 
+erratic  absorption
+➢ Fosphenytoin: soluble prodrug → safer I.M. and I.V. use
+Oral absorption of phenytoin base is formulation-dependent (chew tabs; suspension) owing to 
+variations in particle size and additives between drug formulations and manufacturer: 20% to 90%. 
+The sodium salt (oral capsules) is nearly completely absorbed.
+D Phenytoin distributes to brain, liver, muscle, and fat
+Plasma protein binding ~90%
+Conditions that  free phenytoin levels can increase toxicity risk:
+• Low serum albumin levels: hypoalbuminemia (liver failure); nephrotic syndrome (protein losing); 
+burns (capillary leakage); pregnancy (larger blood volume); age (neonates/elderly), other 
+conditions
+• Displacement from albumin sites: uremia (renal failure); hyperbilirubinemia / severe jaundice, drug 
+interactions 24
+--- Page 25 ---
+Phenytoin Pharmacokinetics: Metabolism, Excretion, t½
+M Hepatic CYP2C9 (80%-90%), CYP2C19 (~10%-20%)
+Good bioavailability (low hepatic extraction ratio)
+Takeaway: 
+− CYP2C9 inhibitors / CYP2C9 poor metabolizers → reduced metabolism,  toxicity risk 
+− Phenytoin is a strong inducer of CYP2C9, 2C19, CYP3A4, P-gp, UGT1A1
+− Add CYP2C19 inhibitors / poor metabolizers = further reduce metabolism,  toxicity risk.
+ Monitor free phenytoin levels closely. Dosage adjustments may be necessary.
+E Glucuronide metabolites; minimal active drug excreted
+Renal / hepatic insufficiency: Increased free fraction may occur in patients with altered kidney or liver 
+function.
+ Monitoring of free (unbound) concentrations is recommended.
+t½ Zero order kinetics  t½ is dependent on plasma concentration
+t½ increases with increasing drug concentration
+(the Vmax in infants >6 months and children is greater than in adults)
+25
+Recap: 
+• Phenytoin (base) has erratic absorption.
+• Phenytoin IV solution contains propylene 
+glycol, ethanol, and adjusted to pH ~12.
+• Widely distributed; high protein binding.
+• Complex metabolism and enzyme induction. 
+• Unpredictable levels and half-life because of 
+zero order kinetics 
+--- Page 26 ---
+Figure: Richens A. and Dunlop A. (1975) Serum phenytoin levels in the management of epilepsy. Lancet 2: 247–248.)
+Zero-order kinetics:
+• Constant elimination of a fixed 
+amount of drug per unit of time.
+Nonlinear kinetics: 
+• An increase in dose produces a 
+disproportionately large increase in 
+serum level when metabolic and 
+binding capacity are saturated.
+Drug serum levels are 
+unpredictable when changing the 
+dose.
+Clearance and elimination t1/2 
+depend on the plasma 
+concentration.
+PHENYTOIN exhibits Zero-Order Kinetics at therapeutic levels.
+26
+The figure shows the relationship between serum phenytoin 
+concentration and daily dose in five patients. 
+Each point represents the mean  (SD) of 3 to 8 separate measurements 
+of phenytoin at steady state. 
+Saturation points differ between patients.
+therapeutic
+range
+--- Page 27 ---
+27
+1. Loading doses, I.V. or oral, are used to rapidly achieve therapeutic concentrations; 
+monitor (check blood levels within hours)
+2. Cautious adjustment of subsequent doses is recommended; several weeks may be 
+required to reliably assess the results of dose changes because the time to reach 
+steady state increases as the dose increases (nonlinear kinetics)
+3. Maintenance doses, but not loading doses, should be lower in patients with liver 
+failure, which causes reduced metabolism and hypoalbuminemia.
+Patients with organ impairment may require lower doses:
+4. Liver failure patients: Hypoalbuminemia and reduced drug metabolism may increase 
+free fraction.
+5. Kidney failure patients:. 
+• Nephrotic syndrome can cause hypoalbuminemia as protein is lost in the urine.
+• Kidney failure causes uremia, which may  protein binding and  free phenytoin 
+concentration. (uremia: toxic accumulation of urea/nitrogenous compounds)
+➢ Practice point: Measurement of free phenytoin may help guide dosing.
+Clinical correlates related to phenytoin pharmacokinetics
+--- Page 28 ---
+28
+For control of:
+• Focal onset seizures (especially impaired awareness, temporal lobe) 
+• Evolving into generalized tonic-clonic seizures
+• Status epilepticus (slow IV infusion with continuous cardiac monitoring*)
+• Prevention and treatment of seizures occurring during or following neurosurgery
+Efficacious, but toxicities and complex pharmacokinetics limit its use.
+Historical use: 
+*Phenytoin is an antiarrhythmic agent (like lidocaine), formerly an alternative in the 
+treatment of ventricular arrhythmias caused by digitalis intoxication. 
+ It has largely been replaced by newer more predictable drugs.
+Phenytoin Therapeutic Uses
+--- Page 29 ---
+29
+Major side effects Neurotoxic effects, dose -
+dependent: signs of toxicity
+Cardiovascular with 
+rapid IV admin*
+Hypersensitivity features:
+Rash, SJS, TEN (HLA-B*15:02)
+fever, hepatotoxicity
+agranulocytosis (rare) 
+Nystagmus / Double vision Hypotension
+Ataxia Bradycardia
+Slurred speech Heart block
+Folic acid deficiency
+( absorption, catabolism)
+Megaloblastic anemia
+Sedation at high drug levels Ventricular tachycardia
+Neuropathy 
+− >5yr therapy or elevated drug 
+concentrations
+Distal sensory loss
+Lower extremity areflexia
+Rarely, other serious 
+polyneuropathies
+Ventricular fibrillation
+Vitamin D deficiency – impaired 
+bone mineralization
+(Induction of hepatic Vit D catabolism)
+Rickets / Osteomalacia
+*CV side effects are rate- and dose-
+dependent.
+Phenytoin is a Na+ channel blocker with 
+cardiac effects. However, side effects 
+are largely attributable to the propylene 
+glycol solvent, which is a known 
+vasodilator and cardiac depressant.
+Fosphenytoin can cause CV effects but 
+is safer than phenytoin IV at 
+recommended rates of administration.
+Cosmetic side effects: 
+ Gingival hyperplasia 
+ Coarsening facial features 
+ Hirsutism (body hair)
+Infusion-related side effects:
+ Extravasation 
+ Purple glove syndrome
+Drug interactions: High potential! Levels of phenytoin and levels of other drugs can be affected.
+Additive adverse effects ADME mechs. especially through CYP induction / displacement from binding sites.
+--- Page 30 ---
+30
+Stevens-Johnson Syndrome: mucosal bullae in a 
+patient with fever, exfolliative rash, and hepatitis. 
+Gingival hyperplasia
+Hirsuitism
+http://www.women-health-info.com/55-Hirsutism-1.html
+Purple glove syndrome: Left hand edematous 
+with purplish-blue discoloration without blisters
+http://www.ruralneuropractice.com/article.asp?issn=0976-
+3147;year=2010;volume=1;issue=2;spage=121;epage=122;aulast=Se
+nthilKumaran
+
+--- Page 31 ---
+Fetal hydantoin syndrome: 
+Estimated 2.4-fold increased risk for any major malformation in 
+children with prenatal exposure compared to controls 
+− meta-analysis data from published observational studies 
+and pregnancy registries. 
+Specific fetal defects associated with chronic phenytoin use in 
+the pregnant woman include: 
+− intrauterine growth retardation
+− abnormalities of the skull and facial features
+− cleft palate
+− microcephaly
+− mental retardation
+− underdeveloped nails of the fingers and toes. 
+➢ Folic acid throughout pregnancy is recommended.
+Breastfeeding: Infant would be exposed to an estimated 0.5% -8% 
+of maternal weight-adjusted dosage of drug in breastmilk. Some 
+authorities advise against breastfeeding while taking the drug.
+Phenytoin in Pregnancy
+31
+Figure Facial features and limb abnormalities of fetal 
+hydantoin syndrome. Clinical photographs of the 
+patient showing A, hypertelorism, flat and broad 
+nasal bridge; B, short upturned nose, long philtrum, 
+thin upper lip; C, stiff tapered fingers with hypoplastic 
+fingernails; and D, hypoplastic toenails and 
+digitalized great toe. 
+Fetal Hydantoin Syndrome. Hegde, Avani et al.
+The Journal of Pediatrics, Volume 188, 304; Sept 27, 2017
+--- Page 32 ---
+32
+Mnemonic for Phenytoin Side Effects
+P P-450, P-glycoprotein interactions (an enzyme inducer)
+H Hirsutism
+E Enlarged gums (gingival hyperplasia)
+N Nystagmus
+Y Yellowing of skin (jaundice, indicative of rare but serious hepatotoxicity)
+T Teratogenicity 
+O Osteomalacia (impaired bone mineralization / bone softening in children, adults) –  CYP 
+induction leads to accelerated hepatic degradation of vitamin D, impaired Ca2+ absorption 
+→ bone resorption
+I Interference with folic acid absorption and folate breakdown → megaloblastic anemia
+N Neuropathies: vertigo, ataxia, headache
+S Skin coarsening; skin reactions; purple glove syndrome (I.V.)
+CV Rapid IV administration or high dose: 
+Phenytoin is a Na+ channel blocker and propylene glycol is a vasodilator and cardiac 
+depressant
+• Conduction abnormalities: Bradycardia, AV block, QRS widening, ventricular arrhythmias
+• Vasodilation: Hypotension
+--- Page 33 ---
+33
+PK Property TAKEAWAY: Relevance to Patient Care
+Oral formulations having 
+slow erratic absorption
+Difficult to predict the effect of phenytoin base formulations between patients and in 
+one patient at different times
+Phenytoin IV
+Fosphenytoin IV, IM
+Highly alkaline solution / propylene glycol, alcohol – Slow infusion into a large vein, 
+severe local irritation, closely monitor for extravasation. Avoid IM (precipitation). 
+Fosphenytoin preferred – water soluble, faster infusion, safer, rarely irritating; can 
+be given IM if vein not available.
+Plasma protein binding
+~90%
+Conditions that increase free phenytoin level increase toxicity risk:
+Low albumin: hypoalbuminemia, nephrotic syndrome, age (neonate / elderly)
+Displacement: uremia (kidney failure)
+Metabolism Hepatic CYP2C9, 2C19, 3A4
+Inducer: CYP3A4, CYP2B6, CYP2C9, 2C19, UGTs, and P-glycoprotein
+Clearance is not constant Zero-order kinetics, nonlinear: A small change in dose results in a disproportionately 
+large change in serum concentration.
+t½elimination is highly 
+variable.
+Metabolism follows zero-order kinetics. Elimination half -life increases with 
+increasing concentration. When metabolic enzymes are saturated, a fixed amount 
+of drug is metabolized per unit of time.
+Check your knowledge: Fill in the column on the right.
+--- Page 34 ---
+Check your knowledge of adverse effects: Define the terms of the acronym
+34
+P P 450 and P-glycoprotein interactions
+H Hirsutism
+E Enlarged gums – gingival hyperplasia
+N Nystagmus
+Y Yellowing of skin – jaundice due to rare but serious hepatotoxicity
+T Teratogenicity – Fetal hydantoin syndrome – some or all features
+O Osteomalacia – induction of hepatic Vit D breakdown →  calcium uptake
+I Interference with folate absorption and induction of folate breakdown
+N Neuropathies – vertigo, ataxia, nystagmus; polyneuropathies with long-term use
+S Skin coarsening; skin reactions; purple glove syndrome (I.V.)
+CV Rapid IV administration or high dose: 
+Phenytoin is a Na+ channel blocker and propylene glycol is a vasodilator and cardiac 
+depressant
+• Conduction abnormalities: Bradycardia, AV block, QRS widening, ventricular arrhythmias
+• Vasodilation: Hypotension
+--- Page 35 ---
+35
+Carbamazepine (CBZ)
+Oxcarbazepine (OXC)
+Eslicarbazepine (ESL)
+Enhance fast inactivation state
+iminostilbenes
+
+--- Page 36 ---
+36
+Carbamazepine Oxcarbazepine Eslicarbazepine acetate
+A
+D
+Oral
+Mid-high protein binding
+Oral prodrug
+Moderate protein binding
+Oral prodrug
+Low-moderate protein binding
+M CYP3A4 metabolism Rapid reduction to active MHD =  
+S-liscarbazepine (predominantly)
+P450 enzymes not involved.
+Rapid hydrolysis to active 
+S-licarbazepine (major) and 
+R- licarbazepine (minor)
+Bioavailability 75%-85% Good MHD bioavailability Bioavailability >90%
+E Urine/feces as metabolites
+negligible unchanged drug
+Urine: MHD (27%),
+glucuronide and other metabolites
+Urine: Licarbazepine (66%),
+glucuronide and other metabolites
+t½ Variable, 25-65 hours because of 
+autoinduction, which is usually 
+complete in 3-5 weeks
+Oxcarbazepine: ~2h
+MHD: ~9 hours
+S-licarbazepine 13-20 hours
+CYP3A4 Strong inducer → 
+Induces own metabolism 
+(autoinduction)
+Also induces, 2B6, 2C9, 1A2, 
+UGT1A1, P-gp, MRP2, OATs
+CYP3A4 Weak inducer
+Does not induce own 
+metabolism
+CYP3A4 moderate inducer
+Does not induce own 
+metabolism
+Pharmacokinetic Properties
+TAKEAWAYS: Carbamazepine is a strong CYP3A4 inducer and induces its own metabolism. 
+The congeners have more favorable PK profiles.
+--- Page 37 ---
+Carbamazepine and congeners: Therapeutic Uses
+Carbamazepine: 
+Gold standard – First-line option for treatment 
+of focal epilepsy in all ages
+CBZ is highly effective – It has been a 
+comparator in nearly all modern trials and 
+it is widely available, affordable, and long 
+clinical experience
+• Focal onset seizures and 
+• Focal evolving to generalized tonic-clonic 
+seizures
+• Not effective and may increase frequency 
+in absence, myoclonic, and akinetic 
+seizures.
+Nonseizure applications
+• Trigeminal neuralgia 
+• Hypomania and mild to moderate mania 
+associated with bipolar disorder
+• Bipolar major depression
+Oxcarbazepine and Eslicarbazepine
+• Monotherapy or adjunctive treatment of 
+focal-onset seizures
+in children and adults
+Nonseizure applications:
+Oxcarbazepine:
+• Trigeminal neuralgia
+• Acute mania associated with bipolar 
+disorder – adjunct when first-line agents 
+are ineffective or poorly tolerated
+37
+Carbamazepine dosing due to autoinduction:
+The carbamazepine is increased gradually 
+based on seizure control, tolerability, and serum 
+concentrations.
+--- Page 38 ---
+Adverse effects and cautions: CBZ, OXC, and ESL
+Acute, dose-related dizziness, sedation at high dose, ataxia, nystagmus, nausea
+Hypersensitivity reactions
+Rash: 3-20 days
+SCARS: 1-12 weeks
+after start of therapy
+Severe cutaneous adverse reactions (SCARs), T cell-mediated:
+SJS/TEN; DRESS (including hepatotoxicity)
+HLA-B*15:02 phenotype (Asian populations) and 
+HLA-A* 31:01 phenotype (European, Japanese, Korean, other Asian populations)
+Genotype screening prior to initiation of therapy in at-risk populations
+Hyponatremia Decreased serum sodium due to nephrogenic syndrome of inappropriate antidiuretic hormone 
+(SIADH): 
+Promotes insertion of aquaporins (AQP-2) in distal nephron → unregulated “free” water 
+reabsorption → hyponatremia and water intoxication can occur
+OXC greatest risk (incidence ~10%-73%) > CBZ  (incidence ~1%-40%) ≥ ESL 
+Hematologic effects 
+(low incidence, reversible)
+Both bone marrow suppressive ( synthesis of red cells, white cells, and platelets) and 
+proliferative effects ( synthesis of blood cells). Mechanism not known.
+Pregnancy CBZ: Increased incidence of spina bifida, craniofacial defects, cardiovascular malformations. 
+Other agents should be considered in patients of childbearing potential.
+OXC: may be considered during pregnancy; ESL: insufficient data
+Drug interactions High risk, numerous – CNS effects and metabolism/transport-related effects
+SJS: Stevens-Johnson syndrome; TEN: Toxic epidermal necrolysis; DRESS: Drugreaction with eosinophilia and systemic 
+symptoms – high fever, rash, hematologic and internal organ involvement 38
+--- Page 39 ---
+39
+Left: ©2023 UpToDate® Graphic 67632 Version 18.0                   Right: : ©2023 UpToDate® Graphic 59418 Version 10.0
+SJS: Generalized eruption of lesions that initially had 
+a target-like appearance but then became confluent, 
+brightly erythematous, and bullous. The patient had 
+extensive mucous membrane involvement and 
+tracheobronchitis.
+TEN: Multiple bullae and areas of denuded epidermis are present.
+--- Page 40 ---
+What are the meaning and effect of “fast inactivation enhancers”?
+• Physiology: In less than a millisecond after opening and Na+ conduction, the channel undergoes 
+a conformational change (gating) and enters the inactivated state (fast inactivation).
+• ASDs that are fast inactivation enhancers bind a site within the pore of the channel when the 
+channel is in the open and inactivated state, causing it to be stabilized in this state, accumulate 
+block during repetitive firing, and bind more strongly at depolarized potentials. High frequency 
+action potentials, as in seizure activity, are preferentially inhibited.
+What are the meaning, mechanism, and effect of carbamazepine autoinduction?
+• Carbamazepine is metabolized by CYP3A4 and it is a strong CYP3A4 inducer. 
+• It induces its own metabolism – autoinduction – which stabilizes in 3 to 5 weeks of therapy.
+• Therefore, the carbamazepine dose needs to be increased gradually based on seizure control, 
+tolerability, and serum concentrations. 
+Why is it important to screen at-risk populations for HLA-B*15:02 and HLA-A*31:01 variant alleles 
+before starting carbamazepine therapy?
+• Patients with HLA-B*15:02 or HLA-A*31:01 phenotypes are at risk for rash and severe 
+cutaneous adverse effects – SJS/TEN and DRESS.
+Check your knowledge
+40
+--- Page 41 ---
+What are the clinical applications of carbamazepine?
+• Seizure applications: focal onset seizures and focal evolving to generalized tonic-clonic 
+seizures.
+• Nonseizure applications: trigeminal neuralgia; bipolar disorder associate hypomania, mania, and 
+depressive episodes.
+Carbamazepine, oxcarbazepine, and eslicarbazepine should be avoided in what seizure types? 
+Why?
+• CBZ, OXC, and ESL are ineffective for and may worsen absence, myoclonic, and akinetic 
+seizures.
+What is the mechanism of carbamazepine-induced hyponatremia?
+• Nephrogenic syndrome of inappropriate antidiuretic hormone (SIADH): CBZ, OXC, and ESL 
+cause upregulation of AQP-2 in the distal nephron, resulting in unregulated water reabsorption, 
+which leads to low serum sodium levels (dilutional hyponatremia). 
+What effects in the newborn have been associated with carbamazepine use during pregnancy?
+• CBZ is associated with Increased incidence of spina bifida, craniofacial defects, cardiovascular 
+malformations. Other agents should be considered in patients of childbearing potential.
+What are the metabolism- and transport-related drug interactions associated with carbamazepine 
+use?
+• CBZ is a strong inducer of CYP3A4 and induces, 2B6, 2C9, 1A2, UGT1A1, P-gp, MRP2, OATs
+Check your knowledge
+41
+--- Page 42 ---
+42
+Lamotrigine
+Enhances fast inactivation state
+− Some evidence indicates that lamotrigine inhibits release 
+of glutamate and aspartate (excitatory neurotransmitter).
+
+--- Page 43 ---
+Lamotrigine Pharmacology
+43
+Pharmacokinetic profile
+A Oral (various dosage forms)
+D Protein binding 55%
+M Hepatic glucuronidation
+Bioavailability 98% (immediate release)
+(without concomitant inducers or inhibitors)
+E Urine, glucuronide metabolites
+t½ ~24 h
+• t½ more than doubled in patients taking 
+valproate
+• t½ reduced in patients taking strong 
+broad-spectrum inducer (carbamazepine, 
+phenytoin, phenobarbital, primidone)
+• t½ is increased in liver insufficiency
+Therapeutic uses:
+Lamotrigine’s broader spectrum of seizures 
+suggests that lamotrigine may have actions 
+in addition to Na+ channel inhibition.
+Broad spectrum
+• Focal onset seizures
+• Primary generalized tonic-clonic 
+seizures
+• Lennox-Gestaut syndrome
+• Absence epilepsy (second-line)
+Nonseizure uses
+• Bipolar disorder
+maintenance treatment – monotherapy 
+or add-on
+For preventing major depressive episodes
+Lamotrigine does not reliably prevent manic 
+episodes.
+Dosing guidelines and color-coded starter kits are available 
+to guide dosing and help patient adherence when initiating 
+therapy with valproate or a metabolism-inducing ASD.
+--- Page 44 ---
+44
+Most common: 
+• Nausea, dizziness, drowsiness
+• Low incidence of sedation and cognitive side 
+effects compared with other ASDs
+• Can worsen migraine headaches
+• Serious hypersensitivity reactions: 
+SJS /TEN / DRESS 
+– usually within 2-3 months
+– Screen for HLA-B*15:02 variant allele 
+before starting therapy in at-risk patients 
+of Asian descent
+To reduce the risk of rash, the drug should be 
+slowly titrated over 6 to 8 weeks – even 
+more cautiously if added to valproic acid.
+Lamotrigine adverse effects and cautions
+PREGNANCY Lamotrigine may be considered 
+in patients of childbearing potential.
+Lamotrigine monotherapy has been associated 
+with lower risks of major congenital 
+malformations compared to some other 
+ASDs.
+DRUG INTERACTIONS
+• Phenytoin, carbamazepine, and 
+phenobarbital induce metabolism of 
+lamotrigine (~50% decrease in t½)
+• Valproic acid inhibits lamotrigine’s 
+metabolism (~2-3x increase in t½)
+
+--- Page 45 ---
+45
+Lacosamide
+Enhances slow inactivation state
+Slow inactivation state: Lacosamide selectively enhances the slow inactivation 
+state, which stabilizes the Na+ channel in a long-lasting (seconds) 
+nonconductive state. (Predominant mechanism of action.)
+Fast inactivation state: Lacosamide also enhances the fast inactivation state, but with 
+slower binding/unbinding kinetics.
+(This mechanism is suggested in more recent studies.)
+Effect: Lacosamide preferentially targets pathologically overactive neurons, 
+preventing repetitive firing during sustained bursts, without broadly suppressing 
+normal brain function (physiological fast inactivation) → better seizure control 
+with fewer generalized side effects.
+
+--- Page 46 ---
+Lacosamide pharmacology
+46
+PK Oral, IV; minimal protein binding; hepatic metabolism (minor CYP); inactive 
+metabolites; 100% oral bioavailability; excretion urine 40% unchanged; t½ ~13 h
+Uses • Focal onset and primary generalized onset seizures
+• monotherapy and add-on; adults and children
+• Off-label: status epilepticus
+• Locasamide is a well tolerated alternative to carbamazepine
+Adverse 
+effects
+Generally well tolerated
+• Common: dizziness, drowsiness, headache, ataxia, confusion, others
+• PR interval increase (bradycardia, AV block); (ECG recommended prior to start)
+o Risk factors: cardiovascular disease, cardiac conduction anomalies
+• Hypersensitivity reactions reported ranging from mild skin rash → SJS/TEN and 
+DRESS (no large-scale evidence of association with HLA-B*15:02 variant allele)
+• Suicidal ideations and tendencies have been reported in association with 
+lacosamide.
+Drug 
+interactions
+CNS depressants may increase CNS depressant effects 
+--- Page 47 ---
+What are the mechanisms of action of lamotrigine and lacosamide?
+• Lamotrigine: Enhances fast inactivation so recovery is slower, which leads to progressive 
+reduction in available sodium channels and may inhibit the release of glutamate and aspartate.
+• Lacosamide: Selectively enhances the slow inactivation state, stabilizing the Na+ channel in a 
+long-lasting (seconds) nonconductive state (predominant mechanism) and binds to the fast 
+inactivation state, but with slower binding/unbinding kinetics. Lacosamide preferentially prevents 
+seizure activity without broadly suppressing normal brain function (physiological fast inactivation) 
+→ better seizure control with fewer generalized side effects.
+What is the clinical significance of the lamotrigine and lacosamide pharmacology compared with 
+that of the other sodium channel blockers?
+• Compared with carbamazepine, lamotrigine is effective for focal onset, focal evolving to 
+generalized tonic-clonic seizures, and absence seizures with a better pharmacokinetic profile. 
+Titration to therapeutic dose is slower to reduce risk of severe skin reactions.
+• Lacosamide is used for focal onset, focal evolving to generalized tonic-clonic seizures, and add-
+on for refractory primary generalized seizures. It has more favorable PK and adverse effect 
+profiles and can be titrated more rapidly than lamotrigine.
+Check your knowledge
+47
+--- Page 48 ---
+Why does lamotrigine have specific dosing requirements when used as an add-on agent with 
+valproate or phenobarbital? 
+• t½ more than doubled in patients taking valproate
+• t½ reduced in patients taking strong broad-spectrum inducer (carbamazepine, phenytoin, 
+phenobarbital, primidone)
+What are the lamotrigine dosing adjustments (in general)? Think about based on what you know.
+• Valproate: Very slow dose titration (every other day)
+• Inducers: Initiate at higher doses than when not taking and inducer.
+• Kits are available to help patients with adherence.
+What is the pathophysiologic basis of lamotrigine-associate skin reactions?
+• The likelihood of rash and severe cutaneous adverse reactions, SJS/TEN, is increased in 
+patients with the HLA-B*15:02 phenotype.
+• Screen at-risk patients before starting therapy and initiate at low doses and slowly titrate based 
+on response and tolerability.
+Check your knowledge
+48
+--- Page 49 ---
+Risk factors for a certain potential adverse effect of lacosamide are cardiovascular disease and 
+conduction anomalies. What is the adverse effect?
+• Lacosamide can cause increased PR interval leading to bradycardia and AV block.
+Although lacosamide has no evidence of an association with HLA-A or HLA-B variant alleles, what 
+adverse effects have been reported with the use of this ASD?
+• Reported hypersensitivity reactions ranging from mild skin reactions to severe cutaneous 
+reactions.
+What are the clinical applications of lamotrigine and lacosamide?
+• Lamotrigine: Focal onset seizures, primary generalized epilepsy, generalized seizures of 
+Lennox-Gestaut syndrome; prevention of major depressive episodes of bipolar disorder
+• Lacosamide: focal onset seizures, focal evolving to generalized tonic-clonic seizures, add-on for 
+resistant primary generalized seizures. 
+Check your knowledge
+49
+
+--- Page 50 ---
+Summary
+50
+--- Page 51 ---
+• Effective antiseizure drugs (ASDs) interact with one or more molecular targets in the brain. 
+Based on in vitro studies, ASDs inhibit seizure generation by various mechanisms. Some ASDs 
+reduce the ability of neurons to fire high frequency action potentials. Others strengthen inhibitory 
+effects of GABAergic interneurons and/or reduce glutamate-mediated excitatory 
+neurotransmission. Some ASDs have multiple mechanisms.
+• Diagnosis of a specific seizure type is important for prescribing the most appropriate ASD 
+therapeutic regimen. Drug choice is usually based on established efficacy in the specific seizure 
+state, the prior responsiveness of the patient, and the anticipated toxicity of the drug. 
+• Treatment may involve combinations of drugs, following the principle of adding known effective 
+agents if the preceding drugs are not adequate in controlling seizure activity.Therapeutic 
+monitoring of plasma levels and clearance in individual patients may be necessary in guiding 
+dosing for optimal therapy in the individual patient. 
+• Chronic therapy with ASDs is associated with specific toxic effects. Consideration of their 
+pharmacokinetic properties and adverse effect profiles are important for optimizing therapy and 
+avoiding toxicity and drug interactions. 
+• In general, antiseizure drugs are well absorbed orally and have good bioavailability. Most 
+antiseizure drugs are metabolized by hepatic enzymes, and in some cases active metabolites 
+are formed. 
+Summary
+51
+--- Page 52 ---
+• Children born of mothers taking anticonvulsant drugs have an increased risk of congenital 
+malformations. Fetal hydantoin syndrome has been described after phenytoin use by pregnant 
+women. Carbamazepine has been implicated as a cause of craniofacial anomalies and spina 
+bifida. Neural tube defects (eg, spina bifida) are associated with the use of valproic acid. 
+• Sodium channel blockers preferentially bind a site within the pore of the channel when the 
+channel is in the open and inactivated state.
+• Phenytoin, carbamazepine, and lamotrigine are enhancers of sodium channel fast inactivation, 
+meaning they stabilize and prolong the fast inactivation state, allowing the block to accumulate, 
+meaning that before the channel fully recovers, the next depolarization arrives → more channels 
+enter drug-bound inactivated state (the basis of use-dependent block). 
+• Lacosamide selectively enhances the slow inactivation state, stabilizing the Na+ channel in a 
+long-lasting (seconds) nonconductive state.
+• Phenytoin, carbamazepine, lamotrigine, and lacosamide are used as monotherapy or adjuncts in 
+the management of focal onset seizures and focal seizures evolving to generalized tonic-clonic 
+seizures.
+• Lamotrigine and lacosamide are also used as adjuncts in primary generalized seizures.
+Summary
+52
+--- Page 53 ---
+Citation: Chapter 17 Pharmacotherapy of the Epilepsies, Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 13e; 
+2017. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2189&sectionid=170106435 Accessed: February 16, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+Physiology of sodium channels: 
+Closed resting state → depolarization to threshold → 
+conformational change → open conducting state → Na+ influx 
+→ cell depolarization, action potential propagation → fast 
+inactivation (<1 millisecond) → refractory period → cell 
+repolarizes to threshold voltage.
+VG Na+ Channels shift to the non -conductive slow inactivation 
+state during prolonged or high -frequency membrane 
+depolarizations, typically lasting seconds to minutes, reducing 
+available current and regulating excitability.
+Summary: Mechanism of action of VG sodium channel blockers
+Sodium channel blockers typically exhibit use-, state-, and 
+voltage-dependent block, prolonging inactivation and 
+limiting repetitive, high frequency neuronal firing. 
+Phenytoin, Carbamazepine (& congeners), Lamotrigine
+• Enhancers of the fast inactivation state: They 
+preferentially bind a site within the pore of the channel 
+when the channel is in the open and inactivated state, 
+causing it to be stabilized in this state, accumulate block 
+during repetitive firing, and bind more strongly at 
+depolarized potentials.
+Lacosamide
+• Enhancer of the slow inactivation state: It selectively 
+enhances the slow inactivation state, which stabilizes 
+the Na+ channel in a long-lasting nonconductive state. 
+• Lacosamide also enhances fast inactivation with slow 
+binding/unbinding kinetics.
+--- Page 54 ---
+54
+Summary (Part 1): Adverse effects profiles of the sodium channel blockers
+Antiepileptic Drug Adverse Effects
+Phenytoin
+Nystagmus, diplopia, sedation, gingival hyperplasia, hirsutism, anemias, peripheral 
+neuropathy, rickets/osteomalacia, SJS/TEN (HLA-B*15:02 variant)
+Fetal hydantoin syndrome, induction of hepatic drug metabolism
+Carbamazepine
+Diplopia, cognitive dysfunction, ataxia; hyponatremia, SJS/TEN/DRESS (HLA-
+B*15:02, HLA-A*31:01); rare occurrence of severe blood dyscrasias; fetal 
+malformations; induces hepatic drug metabolism
+Oxcarbazepine
+Eslicarbazepine
+As for carbamazepine, but hyponatremia is more frequent with OXC (greater 
+propensity than carbamazepine and eslicarbazepine)
+Induce CYP3A4 but fewer drug interactions than carbamazepine and are not 
+autoinducers
+Lamotrigine
+Enhances fast 
+inactivation state
+Low incidence of sedation and cognitive side effects compared with other ASDs
+Skin rash / SJS/TEN (HLA-B*15:02): Start low, Go slow: Slowly titrate dose over 6-
+8 weeks to reduce severe cutaneous adverse reactions (SCARs)
+Dosing guidelines for concomitant valproate or enzyme inducer
+Lacosamide
+Enhances slow 
+inactivation state
+Generally well tolerated; PR interval increase (bradycardia, AV block); (ECG 
+recommended prior to start)
+SJS/TEN can occur but have not been associated with HLA-B*15:02 variant.
+--- Page 55 ---
+Check your knowledge - Answers
+55
+--- Page 56 ---
+56
+PK Property TAKEAWAY: Relevance to Patient Care
+Oral formulations having 
+slow erratic absorption
+Difficult to predict the effect of phenytoin base formulations between patients and in 
+one patient at different times
+Phenytoin IV
+Fosphenytoin IV, IM
+Highly alkaline solution / propylene glycol, alcohol – Slow infusion into a large vein, 
+severe local irritation, closely monitor for extravasation. Avoid IM (precipitation). 
+Fosphenytoin preferred – water soluble, faster infusion, safer, rarely irritating; can 
+be given IM if vein not available.
+Plasma protein binding
+~90%
+Conditions that increase free phenytoin level increase toxicity risk:
+Low albumin: hypoalbuminemia, nephrotic syndrome, age (neonate / elderly)
+Displacement: uremia (kidney failure)
+Metabolism Hepatic CYP2C9, 2C19, 3A4
+Inducer: CYP3A4, CYP2B6, CYP2C9, 2C19, UGTs, and P-glycoprotein
+Clearance is not constant Zero-order kinetics, nonlinear: A small change in dose results in a disproportionately 
+large change in serum concentration.
+t½elimination is highly 
+variable.
+Metabolism follows zero-order kinetics. Elimination half -life increases with 
+increasing concentration. When metabolic enzymes are saturated, a fixed amount 
+of drug is metabolized per unit of time.
+Check your knowledge: Fill in the column on the right.
+--- Page 57 ---
+Check your knowledge of adverse effects: Define the terms of the acronym
+57
+P P 450 and P-glycoprotein interactions
+H Hirsutism
+E Enlarged gums – gingival hyperplasia
+N Nystagmus
+Y Yellowing of skin – jaundice due to rare but serious hepatotoxicity
+T Teratogenicity – Fetal hydantoin syndrome – some or all features
+O Osteomalacia – induction of hepatic Vit D breakdown →  calcium uptake
+I Interference with folate absorption and induction of folate breakdown
+N Neuropathies – vertigo, ataxia, nystagmus; polyneuropathies with long-term use
+S Skin coarsening; skin reactions; purple glove syndrome (I.V.)
+CV Rapid IV administration or high dose: 
+Phenytoin is a Na+ channel blocker and propylene glycol is a vasodilator and cardiac 
+depressant
+• Conduction abnormalities: Bradycardia, AV block, QRS widening, ventricular arrhythmias
+• Vasodilation: Hypotension
+--- Page 58 ---
+What are the meaning and effect of “fast inactivation enhancers”?
+• Physiology: In less than a millisecond after opening and conduction Na+, channels undergo a 
+conformational change (gating) and enters the inactivated state (fast inactivation).
+• ASDs that are fast inactivation enhancers bind a site within the pore of the channel when the 
+channel is in the open and inactivated state, causing it to be stabilized in this state, accumulate 
+block during repetitive firing, and bind more strongly at depolarized potentials. High frequency 
+action potentials, as in seizure activity, are preferentially inhibited.
+• Phenytoin, carbamazepine, oxcarbazepine, eslicarbazepine, and lamotrigine
+What are the meaning, mechanism, and effect of carbamazepine autoinduction?
+• Carbamazepine is metabolized by CYP3A4 and it is a strong CYP3A4 inducer. 
+• It induces its own metabolism – autoinduction – which stabilizes in 3 to 5 weeks of therapy.
+• Therefore, the carbamazepine dose needs to be increased gradually based on seizure control, 
+tolerability, and serum concentrations. 
+Why is it important to screen at-risk populations for HLA-B*15:02 and HLA-A*31:01 variant alleles 
+before starting carbamazepine therapy?
+• Patients with HLA-B*15:02 or HLA-A*31:01 phenotypes are at risk for rash and severe 
+cutaneous adverse effects – SJS/TEN and DRESS.
+Check your knowledge
+58
+--- Page 59 ---
+What are the clinical applications of carbamazepine?
+• Seizure applications: focal onset seizures and focal evolving to generalized tonic-clonic 
+seizures.
+• Nonseizure applications: trigeminal neuralgia; bipolar disorder associate hypomania, mania, and 
+depressive episodes.
+Carbamazepine, oxcarbazepine, and eslicarbazepine should be avoided in what seizure types? 
+Why?
+• CBZ, OXC, and ESL are ineffective for and may worsen absence, myoclonic, and akinetic 
+seizures.
+What is the mechanism of carbamazepine-induced hyponatremia?
+• Nephrogenic syndrome of inappropriate antidiuretic hormone (SIADH): CBZ, OXC, and ESL 
+cause upregulation of AQP-2 in the distal nephron, resulting in unregulated water reabsorption, 
+which leads to low serum sodium levels (dilutional hyponatremia). 
+What effects in the newborn have been associated with carbamazepine use during pregnancy?
+• CBZ is associated with Increased incidence of spina bifida, craniofacial defects, cardiovascular 
+malformations. Other agents should be considered in patients of childbearing potential.
+What are the metabolism- and transport-related drug interactions associated with carbamazepine 
+use?
+• CBZ is a strong inducer of CYP3A4 and induces, 2B6, 2C9, 1A2, UGT1A1, P-gp, MRP2, OATs
+Check your knowledge
+59
+--- Page 60 ---
+What are the mechanisms of action of lamotrigine and lacosamide?
+• Lamotrigine: Enhances fast inactivation so recovery is slower, which leads to progressive 
+reduction in available sodium channels and may inhibit the release of glutamate and aspartate.
+• Lacosamide: Selectively enhances the slow inactivation state, stabilizing the Na+ channel in a 
+long-lasting (seconds) nonconductive state (predominant mechanism) and binds to the fast 
+inactivation state, but with slower binding/unbinding kinetics. Lacosamide preferentially prevents 
+seizure activity without broadly suppressing normal brain function (physiological fast inactivation) 
+→ better seizure control with fewer generalized side effects.
+What is the clinical significance of the lamotrigine and lacosamide pharmacology compared with 
+that of the other sodium channel blockers?
+• Compared with carbamazepine, lamotrigine is effective for focal onset, focal evolving to 
+generalized tonic-clonic seizures, and absence seizures with a better pharmacokinetic profile. 
+Titration to therapeutic dose is slower to reduce risk of severe skin reactions.
+• Lacosamide is used for focal onset, focal evolving to generalized tonic-clonic seizures, and add-
+on for refractory primary generalized seizures. It has more favorable PK and adverse effect 
+profiles and can be titrated more rapidly than lamotrigine.
+Check your knowledge
+60
+--- Page 61 ---
+Why does lamotrigine have specific dosing requirements when used as an add-on agent with 
+valproate or phenobarbital? 
+• t½ more than doubled in patients taking valproate (metabolic enzyme inhibition)
+• t½ reduced in patients taking strong broad-spectrum inducer (carbamazepine, phenytoin, 
+phenobarbital, primidone)
+What are the lamotrigine dosing adjustments (in general)? Think about based on what you know.
+• Valproate: Very slow dose titration (every other day)
+• Inducers: Initiate at higher doses than when not taking and inducer.
+What is the pathophysiologic basis of lamotrigine-associate skin reactions?
+• The likelihood of rash and severe cutaneous adverse reactions, SJS/TEN, is increased in 
+patients with the HLA-B*15:02 phenotype.
+• Screen at-risk patients before starting therapy and initiate at low doses and slowly titrate based 
+on response and tolerability.
+Check your knowledge
+61
+--- Page 62 ---
+Risk factors for a certain potential adverse effect of lacosamide are cardiovascular disease and 
+conduction anomalies. What is the adverse effect?
+• Lacosamide can cause increased PR interval leading to bradycardia and AV block.
+Although lacosamide no evidence of an association with HLA-A or HLA-B variant alleles, what 
+adverse effects have been reported with the use of this ASD?
+• Reported hypersensitivity reactions ranging from mild skin reactions to severe cutaneous 
+reactions.
+What are the clinical applications of lamotrigine and lacosamide?
+• Lamotrigine: Focal onset seizures, primary generalized epilepsy, generalized seizures of 
+Lennox-Gestaut syndrome; prevention of major depressive episodes of bipolar disorder
+• Lacosamide: focal onset seizures, focal evolving to generalized tonic-clonic seizures, add-on for 
+resistant primary generalized seizures. 
+Check your knowledge
+62
+
+--- Page 63 ---
+Fundamental concepts: 
+A drug must reach the site of action and maintain a therapeutically effective concentration at the target site 
+for a long enough duration with minimal undesired side effects.
+A drug should have a wide therapeutic window to allow some variability in dosing without major safety 
+concerns.
+A drug’s effect should correlate well with its plasma concentration for easier clinical management of the 
+dose-response relationship.
+• A: High, reliable bioavailability and a rate of absorption that achieves Cmax (peak concentration) 
+without causing a spike in concentration that causes adverse effects.
+• D: A drug should distribute to target tissues with minimal accumulation in off -target tissues (ideally) to 
+minimize toxicity. Predictable free drug concentrations because of predictable protein binding. Ability to 
+cross the BBB if the therapeutic effect is in the CNS; restricted ability to cross the BBB if the drug is not 
+intended for CNS effects.
+• M / E: A drug should exhibit predictable and consistent clearance with balanced renal and hepatic 
+elimination not reliant on a single organ system, which may reduce the risk of toxic drug accumulation 
+in organ impairment.
+• t½: A drug should have a reasonable half-life (not too short, not too long) to maintain drug levels at 
+convenient dosing intervals but short enough to avoid excessive accumulation and prolonged toxicity if 
+adverse effects occur
+• Drug interactions: Low potential for drug interactions by having a minimal propensity to inhibit or induce 
+metabolic enzymes and transporters.
+Bonus: Answer to the GRQ 
+What are the hallmarks of so-called “favorable” pharmacokinetic profiles?
+63
+--- Page 64 ---
+• Access Medicine Harrison’s Principles of Internal Medicine 21e, 2022; Chapter 425: Seizures 
+and Epilepsy
+• Access Medicine Goodman & Gilman’s Pharmacological Basis of Therapeutics 14e, 2023; 
+Chapter 20: Pharmacotherapy of Epilepsies
+• Access Medicine Katzung’s Pharmacology Examination and Board Review, 14e, 2024; Chapter 
+24: Antiseizure Drugs
+• Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 24: Antiseizure 
+Drugs
+• UpToDate Lexidrug monographs
+• UpToDate: various topics; References and links to clinical trials are listed.
+Resources:
+64
+--- Page 65 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R 
+
+
+--- Transcript Content ---
+Welcome students to
+the pharmacology of
+the anti-seizure drugs.
+This is the first
+of two parts. We'll
+begin with the
+introduction, which
+I think of as the big
+picture, and then
+we'll talk about the
+frequently used sodium
+channel blockers.
+Please do contact me
+if you'd like a helping
+hand with pharmacology
+or just to chat
+about it and tell me
+everything you know.
+Here are the
+learning objectives.
+I put headers on it
+to help you catch the
+gist of each of these
+learning objectives.
+Things that you
+really need to know
+to understand
+the pharmacology.
+And suggestions.
+I do try and help
+you with learning
+methods to help
+you retain the
+information better.
+My practice
+questions, of course,
+are full of click
+case vignettes
+to help you apply
+the information
+and let you know
+what you know well
+and what you'd
+like to work on.
+Here are links if
+you'd like to use them.
+Practice questions are
+all that I require.
+and the core principles
+of anti-seizure drug
+therapy to look at. As
+you wish, I recommend
+that you look at the
+PowerPoint printout,
+the PDF, before looking
+at the video to give
+yourself a general sense
+of what the lecture
+is about and the
+background information.
+The core principles
+of anti-seizure
+drug therapy
+are here and we
+will begin with
+our introduction.
+A seizure is a
+paroxysmal event due to
+abnormal excessive
+or synchronous
+neuronal activity in
+the brain. Epilepsy
+is a condition in
+which a person has
+recurrent seizures
+due to a chronic
+underlying process and
+the causes are very
+many and diverse
+infection, trauma,
+neoplasm, toxic
+substances,
+genetic predisposition
+can all be
+causes of epilepsy
+or seizures.
+Classification and the
+general classifications
+are here on this
+slide. Focal onset
+seizures and we'll be
+talking about drugs
+specifically for these in
+this Part 1. Focal onset
+seizures arise from
+excessive, high-frequency,
+abnormally synchronous
+neuronal activity
+within a specific,
+discrete, local population
+of neurons in one
+cerebral hemisphere.
+Neuronal
+hyperexcitability and
+hypersynchronous activity
+due to localized,
+rapidly firing,
+voltage-gated
+sodium channels. And
+that's the hallmark
+of these focal
+onset seizures.
+Focal seizures can
+also evolve into
+bilateral, tonic
+-clonic seizures.
+primary generalized
+onset seizures arise in
+both hemispheres
+simultaneously often
+involving deep brain
+structures like the thalamus
+and brainstem and
+widespread cortical
+networks the balance
+between excitation and
+inhibition across both
+sides of the brain is
+disrupted so we have
+our Focal onset seizures
+are primary generalized
+onset seizures and
+it is essential to be
+able to differentiate
+these in order to
+understand why certain
+drugs are chosen to
+treat certain seizures.
+I've listed here some
+primary generalized
+onset seizures that
+I'll briefly mention as
+we go along. Now,
+status epilepticus is
+operationally defined
+as five minutes or more
+of continuous seizure
+activity or two or
+more discrete seizures
+between which there
+is incomplete recovery
+or consciousness.
+So we will be
+talking about drugs
+specifically for
+the management
+of status
+epilepticus as well.
+We always need
+to know what
+are the goals
+of our therapy.
+Whatever our
+therapy is, in
+this case it's
+drug therapy.
+So the goals of
+therapy of our
+anti-seizure drugs is, of
+course, controlling
+the seizures,
+also avoiding treatment
+side effects, and
+maintaining or restoring
+quality of life. I'm
+sure you recognize
+that these would be the
+goals of therapy for
+any type of disorder.
+the therapy must be
+individualized just
+as true with any therapy
+treat the underlying
+conditions as I
+mentioned before
+seizure disorders can
+be caused by a different
+underlying conditions
+and if we know
+what it is and we know
+that's causing the
+seizure and we know
+we can treat that and
+that would certainly
+be the first step.
+To avoid precipitating
+factors, preventive
+therapy or maintenance
+therapy for
+suppression or
+recurrent seizures, and
+then patient
+-specific issues of
+addressing psychological
+and social issues.
+Epilepsy is a difficult
+disease to live with.
+And with regard to
+therapy selection, the
+seizure classification
+and an accurate
+diagnosis is essential.
+As I mentioned earlier,
+different drugs
+are used for
+different types
+of seizures, so an
+accurate diagnosis
+must be obtained.
+These drugs act in
+the central nervous
+system, and they
+have the potential
+for numerous
+adverse effects,
+CNS effects and
+peripheral effects.
+It's important
+to consider
+comorbid medical
+conditions.
+Not only hepatic
+and renal disease
+that we always think
+about for clearance
+issues, but other
+organs as well.
+Interactions naturally
+with other medications,
+and some of these
+have high potential
+for drug interactions
+and the age and
+*** of the individuals
+and whether or not
+the patient has any
+childbearing plans.
+Lifestyle, patient
+preferences, and cost.
+Adequate drug
+exposure must be
+maintained continuously
+to prevent seizures.
+Patient Adherence
+is important.
+Adjusting dosages
+is important.
+Frequency of dosing
+is important.
+Fortunately,
+all but one at
+therapeutic levels follow
+first-order kinetics,
+and we will begin with
+the drug that follows
+zero-order kinetics.
+This is the big picture
+on seizure drugs,
+and what types of
+seizures they treat.
+I've put stars on the
+drugs that you should
+know by name. You
+can see that it's
+slightly over half of
+the drugs, maybe half,
+on this list. There
+are approximately 25
+anti-seizure drugs
+available at this time.
+so what is the common
+thread that connects
+this diverse group of
+anti-seizure drugs well
+to be able to interrupt
+and prevent seizures
+they protect by interacting
+with one or more
+molecular targets so
+a common thread is
+acting on molecular
+targets in the brain to
+inhibit the generation
+of seizure discharges.
+So how is this done?
+I've indicated here
+the basic ways,
+which is reducing the
+ability of the
+neurons to fire action
+potentials at a high
+rate. That makes sense.
+Reducing neuronal
+synchronization. Inhibiting
+the spread of
+epileptic activity to
+nearby and distant sites.
+And how is that done?
+by strengthening
+the inhibitory side,
+which is the GABAergic
+interneuron activity,
+or inhibiting the
+excitatory side,
+the glutamate
+-mediated transmission.
+And potassium
+channels will lead to
+hyperpolarization,
+which is inhibition,
+so stabilizing
+membrane potential via
+potassium channels.
+That is a relatively
+small approach in
+terms of the number
+of drugs that do this.
+I'm not going
+to be including
+these drugs,
+but I will be
+talking about all
+of the others.
+So the three major
+categories are
+voltage-gated
+sodium channels.
+And I'll go into
+that mechanism
+in more detail
+in this lecture.
+stopping the T-type
+calcium currents,
+and, as I
+mentioned before,
+strengthening
+the GABA side and
+inhibiting the
+glutamate side.
+The most common
+anti-seizure drugs
+follow sodium or
+calcium channel
+modulation. Those are
+the biggest classes.
+This is just a
+look at all of the
+potential molecular
+mechanisms of the anti
+-seizure drugs. I'm
+not going to go
+through each and every
+one. I do encourage
+you to look closely
+at this slide
+and at all of these
+various mechanisms.
+I will be touching on
+them. But the takeaway
+for this big picture
+molecular targets
+is that the
+mechanisms usually are
+identified in controlled
+in vitro studies
+and then tested in
+rodent seizure models.
+It is not proven
+that these mechanisms
+contribute to anti-seizure
+activity in humans.
+but the drugs are
+chosen based on
+studies that demonstrate
+the evidence of
+their clinical
+efficacy for specific
+seizure types or
+epilepsy syndromes.
+So clinical efficacy
+But how do we know
+what they do in vitro
+studies, followed
+by animal models?
+So we know what
+the mechanisms
+are in these
+early studies.
+And it's inferred
+that these
+mechanisms contribute
+to the anti
+-seizure activity
+in humans.
+We don't know that
+for sure, though.
+So let's take a look at
+the class pharmacokinetics
+and the relevance
+to patient care.
+When I talk about
+pharmacokinetics,
+it's always so you can
+understand why
+we need to know
+pharmacokinetics
+in order to
+take care of
+our patients.
+So management of
+seizure disorder
+is going to be a
+long-term process.
+So the drugs
+that are useful
+should be able to
+be taken ******.
+Drugs that are needed
+for an acute response
+should be able to be
+given intravenously
+and should have a rapid
+onset when they are.
+Other routes, we
+have intramuscular,
+intraosseous,
+intranasal, ******,
+if an IV axis cannot
+be obtained. So
+we have lots of
+ways to introduce
+the drugs into the
+patient's system.
+A lot of them are highly
+plasma protein bound.
+They all distribute
+to the CNS, of course,
+because that's where
+the site of action is.
+And therefore,
+they're all widely
+distributed
+throughout the body,
+central and
+systemic effects.
+most of them undergo
+hepatic metabolism
+many of them have
+active metabolite active
+metabolites many
+of them have a high
+potential for drug drug
+interactions based on
+enzyme inhibition
+or induction the
+bioavailability is good
+fortunately for all of
+them really and except
+for one of the One,
+this good
+bioavailability will
+provide predictable
+blood levels.
+Predictable is key
+because when we
+start a dose or
+adjust a dose, we need
+to be able to expect
+a certain response
+based on predictable
+blood levels.
+Many of them, most
+of them, undergo
+hepatic clearance.
+Some of them, and
+most of them, the
+metabolites will be
+excreted in urine.
+Some of them have
+some amount of
+active drug in urine.
+And drug-specific
+half-lives, some have
+short half-lives. That
+requires frequent daily
+administration. Some
+have longer half
+-lives. And those with
+the shorter half-lives
+often come in extended
+release versions.
+so that the drug
+needs to be taken less
+frequently than the
+immediate release.
+And that can hopefully
+improve patient
+adherence to taking
+the medication.
+Pharmacogenomics.
+We have some
+very important
+issues here.
+We have a couple of
+immune-related variant
+alleles that we need
+to remember about.
+HLA-B-star-1502, this
+is carbamazepine,
+and it's congeners,
+carbamazepine,
+phenytoin and
+lamotrigine.
+So why is this
+important? Because
+individuals who have
+this variant allele
+have a greater
+frequency of severe
+cutaneous adverse
+reactions. Severe
+cutaneous adverse
+reactions, which of
+course has received
+an acronym SCAR.
+What are these reactions?
+Stevens-Johnson Syndrome
+Toxic Epidermal
+Necrolysis.
+We've talked
+about this before,
+this particular reaction.
+It is severe, acute,
+and life-threatening.
+It affects the
+skin and mucous
+membranes. It's a
+hypersensitivity reaction.
+It is delayed.
+It can occur one to four
+weeks after
+starting the drug.
+And SJS has a mortality
+of around 10% and
+toxic epidermal
+necrolysis of about 30%.
+very, very important
+adverse effects. So who
+is at risk? It's
+patients of various and
+Asian ancestry. So the
+recommendation before
+starting this therapy
+is for people who are
+at risk to get a
+screening to see if they
+carry the HLA-B star
+1502 variant allele.
+And another one,
+HLA star 3101
+variant allele. This
+is carbamazepine,
+and its daughter,
+oxcarbazepine,
+or cousin, or
+however you want
+to think about
+the related drug.
+This is so
+strongly associated
+with DRESS, drug
+reaction with
+eosinophilia and
+systemic symptoms.
+It is what it sounds
+like. It's the
+various organ involvement,
+the organ of the
+skin and the visceral
+organs. This allele
+is found in, is more
+widespread. It's
+found in more
+populations, European,
+Japanese, Korean,
+Chinese, South Asians.
+And this is related
+to carbamazepine
+in particular and
+oxcarbazepine.
+Please do remember those.
+So some big picture
+adverse effects,
+Toxicity potential,
+the therapeutic
+index for most of
+the anti-epileptic
+drugs, anti
+-seizure drugs, is
+low. And toxicity
+is not uncommon.
+It's common.
+Withdrawal,
+gradually taper,
+gradually taper,
+reduce the dose
+gradually over time
+to minimize the
+potential of increased
+seizure activity.
+If that drug is
+abruptly withdrawn,
+the patient can
+suffer seizures.
+Suicidal ideations.
+This has long
+been attached to
+various CNS drugs.
+The anti-seizure
+drugs, the
+antidepressants,
+the anti-psychotics.
+With continued study
+of this particular
+adverse effect over
+time, The question is
+raised whether or not
+these suicidal ideations,
+which can exist, is
+a consequence of the
+drug therapy or of
+the seizure disorder.
+In any case,
+patients, particularly
+younger patients,
+should be observed for
+particular suicidal
+ideations. Now,
+pregnancy. Well, this is
+a chronic condition.
+Epilepsy seizure disorder
+is a chronic condition,
+and individuals
+who become pregnant
+need to be treated.
+So, what drugs
+are more likely
+to not cause harm
+to the fetus?
+Because with certain
+of them, there is
+increased risk of
+congenital malformations.
+which I'll talk about
+in the next slide.
+So folic acid and
+vitamin K supplements
+are recommended for
+individuals who intend
+to become pregnant
+and who are pregnant.
+What about the
+youngsters,
+infants and children?
+The many seizure
+disorders are
+seen in the
+pediatric population.
+So in terms of
+pharmacokinetics,
+they have larger
+volumes of
+distribution in the
+neonates and infants,
+and especially
+young children.
+And in addition, the
+neonate has immature
+metabolic and
+elimination capabilities.
+So dosing must be
+done by individuals
+who are neonatologists
+and understand how
+to dose anti-seizure
+drugs neurologists.
+geriatrics well the
+older patient first of
+all has physiologic
+changes and that can
+vary depending on the
+age of the patient the
+the status physical
+status of the patient
+and also comorbid
+conditions most older people
+have some sort of
+comorbid conditions and
+some people have a
+number of comorbid
+conditions. So now we
+really do have to think
+about drug interactions
+because older patients
+tend to be on a
+number of medications.
+But not only older
+patients. People who have
+seizure disorders
+may be on one or more
+anti-seizure drugs and
+other types of drugs.
+this chart from
+up to date shows
+various studies
+what various studies
+have found in terms
+of major congenital
+malformation
+rates this is for
+monotherapy just the
+one drug at a time
+first i'd like to point
+out that valproate
+has the has shown the
+highest potential for
+major malformations
+valproate should be avoided
+if possible sometimes
+it can't be avoided
+the individual is
+well controlled on
+valproate so that has to
+be a discussion with the
+patient We have
+phenobarbital, also relatively
+high, phenytoin,
+also relatively high,
+and look at these
+various studies have this
+big difference in the
+confidence intervals,
+carbamazepine and
+topiramate. So I put
+a box, this box with
+this broken line
+around it, to point
+out to you the
+drugs that really
+should be avoided in
+individuals of
+childbearing potential
+who are being
+initiated on therapy.
+If the patient is
+already on these
+drugs and well
+-controlled, old,
+then, as I said before,
+you have a conversation
+with the patient
+about it.
+Levateracetam,
+lamotrigine, and
+oxcarbazepine have
+been shown to be
+relatively okay
+for patients who
+are planning on
+becoming pregnant.
+High potential for drug
+interactions.
+You're going to hear
+me say this a
+number of times.
+Inducers, the CYP3A4
+and other CYPs
+and UGTs and P
+-glycoproteins and
+organic anion
+transporters and so on.
+I had you memorize a
+list of inducers and
+now we get to apply
+it to the pharmacology
+of drugs we're
+learning about, these
+anti-seizure drugs.
+So what were they?
+Phenatoin, carbamazepine,
+phenobarbital.
+Primidone is related to
+phenobarbital, and
+oxcarbazepine and
+eslacarbazepine are
+related to carbamazepine.
+Valproate is
+an inhibitor.
+and then many of the
+other anti-seizure
+drugs may be affecting
+the metabolic
+enzymes either by
+inducing them or
+inhibiting them either
+weekly or moderately
+in any case this is
+something that you
+can look up in the
+drug monograph when
+the time comes that
+you are faced with
+patients who are
+taking these drugs.
+I'm personally
+thinking about
+your clinical rotations.
+So withdrawal.
+Discontinuation of
+anti-seizure drugs
+may be considered in
+adults and children
+who are seizure
+-free for two years
+or longer. That's
+a recommendation.
+They need to be slowly
+tapered, usually
+over several
+weeks, even months.
+there is no data to
+indicate what the optimal
+tapering regimen
+the neurologist will
+have experience at this
+with this neurologists
+are the ones who use
+these drugs abrupt
+cessation may be
+associated with a return of
+seizures even a risk
+of status epilepticus
+some drugs are more
+easily withdrawn than
+others and that's going
+to depend on their
+half-lives on how
+long the patient's
+been on the drugs and
+various other factors
+what about physical
+dependence well
+we we've talked
+about benzodiazepines
+or have we perhaps
+we haven't yet
+uh tolerance
+can develop to
+benzodiazepines and
+also to barbiturates
+But we have talked
+about tolerance.
+So here we are now
+with our voltage
+-gated sodium
+channel inhibitors,
+which is the topic
+of this part one.
+I've separated it
+into two groups.
+Put a line down
+here if you like.
+The fast inactivation
+enhancers.
+You see that's the
+majority of them.
+and another one called
+this one has a star
+on it lycosamide
+is known as a slow
+inactivation enhancer
+and then we have
+rafinamide which i'm not
+going to go into which
+also stabilizes an
+inactivation site
+the exact mechanism
+really isn't clear so
+let's talk about
+sodium channels a bit
+First, we need to
+know how they actually
+work, and this little
+cartoon can be helpful
+in giving you the
+basic idea of them.
+So physiologically,
+they're in a closed
+resting state. They're
+resting. Nothing
+is flowing through
+the channel. Now, when
+the depolarization
+hits the threshold,
+the channel undergoes a
+conformational change,
+and it opens, and
+sodium flows through.
+And then, it
+quickly undergoes a
+gating. You see
+this gating here?
+This is called the
+open and inactivated
+state. It's open
+because sodium is able
+to flow into the
+channel, but again, the
+sodium doesn't
+actually go all the way
+through because of the
+gate on the bottom.
+It's inactivated.
+And this
+allows for a
+refractory period.
+Then the cell repolarizes
+to the threshold
+voltage, and it can
+be activated again.
+So that's the basic
+idea, basic physiology.
+So the drugs that
+are fast inactivation
+enhancers, that's
+what we're talking
+about here, they
+inactivate this portion
+here. They bind to
+a site in the sodium
+channel. They have
+to first get inside
+the cell and they bind
+inside and they hold
+it in this open and
+activated state.
+So that's causing it
+to be stabilized in
+this state. In other
+words, to stay in
+that state for a
+longer period of time.
+And because a number of
+sodium channels
+are firing,
+the drug will
+accumulate block during
+this repetitive
+firing. And that's a
+good thing. And then
+the drug will bind
+more strongly at
+depolarized potentials.
+So, we have the state
+-dependent block,
+open and inactivated,
+we have use
+-dependent block during
+repetitive firing,
+and we have voltage
+-dependent block, binds
+more tightly at
+depolarized potential.
+So that we see
+with the phenytoin,
+carbamazepine, and its
+congeners, and lamotrigine.
+Now, licosamide
+is known as a slow
+inactivation enhancer
+because a slow
+inactivation state is
+actually a mechanism
+for regulating
+excitability by reducing
+sodium influx. So a
+neuron that remains
+depolarized during
+this repetitive firing
+or this pathologic
+hyperexcitability
+enters a gradual
+shift to a stable non
+-conducting state and
+this is called slow
+inactivation and it
+occurs over seconds.
+Compare that to less
+than a millisecond
+with the fast
+inactivation and this will
+involve a conformational
+change in the pore.
+So, glucosamide is a
+drug that will bind
+to the channel at
+the slow inactivation
+state and that will enhance
+the slow inactivation
+state, stabilize
+the sodium channel
+for a long-lasting
+non-conductive state.
+So those are the
+basic ideas now about
+the sodium channel
+blocking action.
+It's about enhancing
+inactivation time.
+This is how sodium
+channels work. I put
+it here in case you
+want to get more
+familiar with the
+sodium channel and its
+components and where
+the drugs bind and
+all of that. I'm not
+going to go through
+this with you. I'm
+not going to test
+you on this, but it
+really is helpful
+for understanding
+about sodium channels.
+So let's talk now
+about phenytoin.
+Phosphenytoin is
+a prodrug. As you
+can see from the
+name, it's got
+phosphate on it.
+And we'll talk about why
+that's there in
+the next slide.
+So So phenytoin is an
+enhancer of the fast
+inactivation state.
+Preferentially binds
+a site within the
+pore of the channel
+when the channel is
+open and inactivated.
+Stabilizes the channel in
+the open and
+activated state.
+Accumulates block
+during repetitive
+firing. Binds more
+strongly at depolarized
+potentials, so we
+have state dependent,
+use dependent,
+and voltage
+dependent activity.
+I'm not going to test
+you on the structures.
+It's hard to tell
+from these flat
+two-dimensional
+structures, but in 3D space
+they will fit into
+the sodium channel.
+Now the pharmacokinetics
+of phenytoin is
+really important to
+understand and I've
+got two whole
+slides just on the
+pharmacokinetics because
+it is that important
+for patient care. So
+first of all oral,
+okay good,
+sodium salt or phenytoin
+base and phenytoin
+base simply means
+that it's just
+plain phenytoin. It's
+not in a salt form.
+In this case, phenytoin
+would be in a
+sodium salt.
+It's actually an
+acid. Phenytoin is
+a weak acid, and
+it's got a high pKa.
+So, in solution,
+well, actually,
+it doesn't go
+into solution.
+Therefore,
+it has to be formulated
+together with
+propylene glycol,
+look at that, 40% of
+the product is
+propylene glycol, plus
+alcohol, another 10%,
+and then the whole
+thing gets adjusted
+to a pH of 12 in order
+to keep it in
+solution in an IV bag.
+Additionally,
+it shouldn't be
+given IM because it
+will precipitate in
+the tissues which
+is irritating and
+painful and harmful.
+And on top of that
+it's not well absorbed.
+It's not absorbed
+slowly and radically.
+So enter phosphenatoid.
+Phosphenatoid,
+they form with the
+phosphate on it doesn't
+need to be formulated
+with poly sorry
+propylene glycol
+and alcohol and
+adjusted it to pH it's
+ready to go it can
+be put into an IV bag
+and it will go into
+solution so it's
+safer for IV use
+and safer for IM use
+now let's talk
+about these oral
+products for a
+moment the base
+is really erratically
+absorbed it comes in
+chewable tablets and
+suspension so if you
+think about chewable
+tablets and you think
+about suspension you're
+probably thinking
+about oh that it would
+be a good way for kids
+to be taking the drug
+yes and that's true
+unfortunately the
+absorption can be very
+erratic with the
+phenytoin base this free
+acid form just because
+of the particles
+of various features
+you don't have to
+memorize those just
+remember please that it's
+uh got this erratic
+absorption so if you
+see such a big range
+of absorption then
+you say to yourself
+gosh i wonder how
+predictable those blood
+levels are now the
+sodium salt which
+comes in capsules is
+really has really good
+absorption but But
+the issue now becomes,
+if the patient is
+getting the sodium
+salt and gets switched
+over to the acid or
+the other way around,
+the patient, for
+example, learns
+how to swallow
+capsules and gets
+switched over
+to the capsules,
+then there needs to
+be an adjustment made
+based on bioavailability.
+So that's all I'm
+going to say about that.
+That's why we care.
+Distribution.
+Well, naturally,
+it goes to the
+brain, also liver,
+muscle, fat, wide
+distribution,
+high plasma
+protein binding,
+narrow therapeutic
+window,
+high plasma
+protein binding,
+narrow therapeutic
+window.
+We have to think
+about potential drug
+interactions related
+to protein binding.
+Conditions that
+increase free
+phenytoin, free
+phenytoin levels
+can increase
+toxicity risk.
+And you will see
+that this drug is
+associated with
+numerous toxicities.
+So what can cause
+an increase in free
+phenytoin levels?
+levels. So
+hypoalbuminemia, we have
+low serum albumin. So
+remember, it's
+highly protein bound,
+mainly to albumin.
+So if we don't
+have as much albumin
+around, we're
+going to have
+higher free levels.
+And this can occur
+in liver failure,
+nephrotic syndrome,
+nephrotic, nephron,
+nephron, that
+sounds like kidney.
+And that's where
+it's a kidney disease
+where protein gets lost
+right into the urine.
+So it goes out of the
+blood, low albumin,
+burns because of
+capillary leakage,
+pregnancy because of
+a larger blood volume,
+age just because
+certain patients
+are going to have
+different albumin
+levels based on
+neonate to elderly.
+And then we have
+to think about
+displacement. So
+uremia, this is a kidney
+failure in which we
+get an accumulation
+of nitrogenous waste
+products, which
+can get carried
+around on the albumin,
+which can displace
+then the phenytoin.
+And hyperbilirubinemia,
+bilirubin
+travels around
+on the albumin
+binding sites.
+And then drug
+interactions, of course.
+Now looking at
+metabolism, I'll come
+back to the recap
+when I get done.
+cyp2c9 that's the
+certainly the majority of
+the drug gets metabolized
+by that enzyme
+and 2c19 good
+bioavailability so it's a low
+hepatic extraction
+ratio it goes around
+and around and eventually
+gets metabolized by
+these iso enzymes
+so the takeaway with
+metabolism is that
+CYP2C9 inhibitors or poor
+metabolizers will have
+reduced metabolism,
+therefore increased
+drug levels,
+therefore increased
+toxicity risk.
+And since this
+is zero-order
+pharmacokinetics,
+it makes dosage
+adjustment a little
+complicated. it.
+Additionally,
+phenytoin is a strong
+inducer of all of
+these various proteins,
+CYP2C9, CYP2C19,
+CYP3A4, P-glycoprotein,
+UDP
+-glucuronosyltransferases,
+especially 1A1, which is
+one of the major ones.
+Now, what if
+CYP2C19 is also
+inhibited by some
+reason or another?
+80 to 90 percent, 10 to
+20 percent. My goodness,
+that is definitely
+going to
+increase the
+toxicity risk.
+So what do we do about
+it? Well, we look.
+We see what the
+free phenytoin
+levels are. We
+can measure that.
+So that will
+help with dosing.
+Excretion of
+the glucuronide
+metabolites, not
+much, if any,
+active phenytoin gets
+excreted in the urine.
+So increased
+refraction may occur
+in patients with
+altered kidney or
+liver function. We
+talked about the
+mechanisms on the
+previous slide.
+zero order kinetics.
+I'm sure you
+remember about
+that. The half
+-life is dependent
+on the plasma
+concentration.
+As the concentration
+gets above the Km
+and the metabolic
+processes are saturated,
+the drug levels
+will just keep going
+up as long as the
+drug keeps going in.
+So half-life is dependent
+on the plasma
+concentration.
+At zero-order
+kinetics, the drug
+just gets metabolized
+at the rate
+that the metabolic
+enzymes can go.
+And once it gets
+significantly
+below the KM,
+then we will see
+first-order
+metabolism. This
+chart here shows
+the inter-individual
+differences in
+phenytoin metabolism.
+So I'll read this part
+to you. The figure
+shows the relationship
+between serum
+phenytoin concentration
+and daily dose in five
+patients. One, two,
+three, four, five.
+Each point represents
+the mean of
+three to eight
+separate measurements
+of phenytoin at
+steady state.
+So what it's
+showing is that
+saturation points
+differ between
+patients. So for
+this patient,
+just barely into
+the therapeutic
+window here at
+approximately 100.
+And here at
+approximately 150, it's
+approaching the
+toxicity stage. compare
+this to the one
+on the right hand
+side where it's
+just barely reaching
+the therapeutic window
+at about 450 450
+and the toxic range
+at about 575 so
+you can see there's
+a huge difference.
+So that's making dosing
+unpredictable when
+initiating therapy,
+when changing the dose.
+Okay, here are some
+clinical correlates
+related to the
+pharmacokinetics of phenytoin.
+Loading doses,
+IV or oral,
+are used to
+rapidly achieve
+therapeutic
+concentrations. Okay,
+same as any loading dose.
+Cautious adjustment
+of subsequent doses
+is recommended
+because with each
+subsequent dose, we
+can't be sure of what
+blood level will
+be achieved by it.
+Several weeks may be
+required to reliably
+assess the results
+of dosing changes
+because of the time
+to reach steady state,
+which increases as
+the dose increases
+because of the non
+-linear kinetics.
+maintenance doses
+but not loading doses
+should be lower in
+patients with liver
+failure which causes
+reduced metabolism and
+hypoalbuminemia makes
+sense doesn't it
+patients with liver
+failure hypoalbuminemia
+i mentioned reduced
+drug metabolism
+and patients with
+kidney failure
+we're worried about
+nephrotic syndrome
+which is a protein
+losing syndrome
+and uremia, so
+the buildup of the
+nitrogenous wastes
+that can displace
+phenytoin from the
+protein binding sites.
+What do we use it
+for? Well, focal onset
+seizures, really. That's
+the only thing that
+it's useful for, and
+particularly the type that
+are the impaired
+awareness arising from the
+temporal lobe. It's
+very, very effective
+for that. But it can
+be used to treat other
+focal onset seizures,
+including those evolving
+to the generalized
+tonic-clonic seizures.
+And it's useful for
+status epilepticus. Now
+you may recall I said
+it's got a pretty slow
+onset of action, including
+with IV infusion.
+And I'm introducing
+you here, introducing
+to you this idea of
+continuous cardiac
+monitoring with IV phenytoin.
+Now, why would that
+be? Well, it's a
+sodium channel blocker.
+And it just so happens
+that phenytoin has
+anti-arrhythmic
+activity like lidocaine.
+And in fact, it was
+formerly used for
+digitalis intoxication,
+but it's not anymore.
+it can also be used
+for the prevention and
+treatment of seizures
+occurring during or
+following neurosurgery
+okay so phenytoin
+is efficacious what's
+the problem toxicities
+and complex
+pharmacokinetics limit its
+use phenytoin has been
+around for nearly 90
+years in clinical
+practice for 90 years.
+And so there's great
+experience with its use.
+But since then,
+many drugs have been
+developed that are much
+less complex to use.
+So phenytoin,
+while it still has
+an important
+place in therapy,
+is not the first
+line any longer.
+Major side effects.
+Gosh, look at the
+side effects all over the
+place hypersensitivity
+so here we have
+our 1502 our HLA
+B star 1502 SJS TEN
+fever that comes with
+the severe toxicities
+severe skin
+toxicities folic acid
+deficiency because it it
+really reduces the
+absorption, increases
+the breakdown of
+folic acid. That can
+lead to megaloblastic
+anemia. How do we
+manage that? Folic
+acid supplementation.
+Vitamin D deficiency.
+Why? Because of
+induction of hepatic
+vitamin D breakdown.
+So with vitamin D
+deficiency comes impaired
+bone mineralization,
+rickets in kids,
+osteomalacia in
+older patients,
+weakening of the bones.
+Cosmetic side
+effects, well, they're
+not serious and
+harmful, but they're
+certainly concerning
+to patients.
+Gingival hyperplasia,
+where the
+gums grow down
+over the teeth.
+Coarsening of
+facial features,
+hirsutism, body
+hair growing.
+And then we have our
+neurotoxic effects,
+the nystagmus and
+double vision.
+The ataxia,
+which is a gait
+disturbance and
+slurred speech.
+Sedation at
+higher levels.
+Generally, there's
+no sedation at
+the usual
+therapeutic levels.
+And neuropathy
+with long-term use.
+Distal sensory loss.
+Lower extremity
+areflexia.
+Polyneuropathies.
+Fortunately,
+those are really rare.
+Infusion-related side
+effects. Extravization.
+Purple glove syndrome.
+you may notice that I
+put that in lavender
+to help you remember
+purple glove
+syndrome cardiovascular
+side effects hypotension
+bradycardia heart
+block ventricular
+tachycardia and
+fibrillation let's break
+this down a bit as
+I said it's a sodium
+channel blocker So
+that can slow the
+activity through the
+heart, slow the beat,
+slow the conduction.
+And that's the point
+of it as an anti
+-arrhythmic. That's the
+point of anti-arrhythmics.
+But like all
+anti-arrhythmics,
+it can cause arrhythmia.
+Heart block,
+ventricular tachycardia,
+and fibrillation.
+Now, the
+hypotension, where
+is that coming from?
+That's coming from the
+propylene glycol solvent,
+which is known to
+be a vasodilator
+and a cardiac depressant.
+Phosphenatoin can
+be safer to use. It
+will still have these
+cardiac effects.
+But generally, the
+drug can be given
+at a somewhat more
+rapid intravenous
+infusion, which is
+good for onset, as long
+as it's at recommended
+rates. I mean,
+it still has to be
+a slow infusion.
+And it doesn't
+have the propylene
+glycol solvent,
+so it doesn't
+have that
+hypotensive effect.
+Some pictures of
+these various adverse
+effects, the
+gingival hyperplasia,
+Stevens-Johnson syndrome,
+hirsutism, this is a
+woman who's just growing
+a lot of hair on
+her face that she
+wouldn't normally have.
+purple glove syndrome.
+This is obviously a left
+hand. We see some edema.
+Let's see the spot here
+that shows pitting edema.
+The purplish coloration
+and there are no
+blisters that we see.
+And the mechanism is
+not 100% clear.
+This is a picture of
+osteomalacia, actually
+vitamin D resistant
+rickets in this patient
+who was receiving
+phenytoin actually
+I'm not sure it was a
+patient receiving phenytoin
+but it's certainly
+vitamin D resistant
+rickets this is
+megaloblastic anemia
+with the hyper segmented
+neutrophil that is
+seen this can generally
+be avoided with folate
+supplementation.
+And now in
+pregnancy, something
+called the fetal
+hydantoin syndrome.
+Fenytoin is a hydantoin
+drug chemically.
+Estimated 2.4-fold
+increased risk for
+any major malformation
+in children with
+prenatal exposure
+compared to controls.
+And this is based
+on a meta-analysis.
+The specific
+fetal defects,
+intrauterine
+growth retardation,
+abnormalities
+of skull and
+facial features,
+cleft palate,
+microcephaly,
+mental retardation,
+and underdeveloped
+nails of the fingers
+and toes. That's what
+you see on the lower
+figure. with regard
+to nursing the infant
+some of the drug
+will be excreted in
+breast milk it's not
+a huge amount but some
+authorities recommend
+against breastfeeding
+that's a conversation
+between the
+neurologist and the
+mother of the child
+so there is a mnemonic
+for phenytoin side
+effects that I found on
+the internet might help
+you with spelling out
+phenytoins and I put
+cardiovascular on
+the bottom because we
+can't forget that and I
+put the mechanism here
+so I encourage you to
+take a look at this
+Perhaps you want to
+pause the video and take
+it in. It's everything
+we just talked about.
+So now we have some
+check your knowledge.
+Fill in the column
+on the right. And
+this is the takeaway of
+these pharmacokinetic
+properties. So
+with regard to oral
+formulations having
+slow erratic absorption,
+it's difficult to
+protect the effect
+of the phenytoin
+-based formulations.
+And IV?
+Well, phenytoin is
+a highly alkaline
+solution with propylene
+glycol and alcohol.
+Slow infusion
+into a large vein
+can cause severe
+local irritation,
+close monitoring for
+extravasation, and
+it can precipitate
+in an intramuscular
+injection, so it
+shouldn't be done.
+Phosphenytoin is
+preferred. It's water
+-soluble, faster infusion,
+safer, rarely irritating,
+and it can be given
+IM if necessary.
+Well, what about
+plasma protein binding?
+Conditions that
+increase free phenytoin
+level, increased
+toxicity risk,
+low albumin,
+and displacement
+from protein binding.
+And metabolism, we
+have our CYP2C9,
+2C19, a little bit of
+3A4. But the important
+issue here is that
+the drug is an
+inducer of all of
+these various proteins,
+strong inducer. And
+if its own metabolism
+is inhibited,
+then the phenytoin
+levels, pre-phenytoin
+levels can rise.
+What about clearance?
+Clearance is not constant
+because of zero
+-order kinetics.
+And it's nonlinear.
+A small change in
+dose results in a
+disproportionately
+large change in
+serum concentration.
+And what about the half
+-life? It's variable
+because of the zero
+-order kinetics.
+Elimination half
+-life increases
+with increasing
+concentration.
+In other words, it
+takes longer to clear
+that drug with the
+higher concentrations.
+And, when metabolic
+enzymes are
+saturated, a fixed
+amount of drug is
+metabolized per unit
+of time. So, that is
+the definition of
+zero-order kinetics.
+So, check your knowledge
+with the adverse
+effects. Define the
+terms. So, P stands
+for P450 and P
+glycoprotein interactions.
+H stands for hirsutism.
+E stands for
+enlarged gums,
+or gingival hyperplasia.
+N is nystagmus.
+Y, yellowing of skin,
+or jaundice, due
+to rare but serious
+hepatotoxicity. And
+when there's jaundice,
+there's elevated
+bilirubin, which can
+displace the drug
+from protein binding
+sites. and teratogenicity
+with T, fetal
+hydantoin syndrome
+and osteomalacia
+induction of hepatic
+vitamin D breakdown,
+which will decrease
+calcium intake and
+lead to softened bones.
+I, interference
+with folate
+absorption and
+induction of folate
+breakdown and
+neuropathies.
+Vertigo, ataxia,
+nystagmus, we've
+seen nystagmus
+here two times,
+polyneuropathies
+with long-term use.
+And S,
+skin, skin coarsening,
+skin reactions,
+purple glove syndrome,
+skin reactions, we
+can think about the
+HLA-B star 1502 allele.
+And which group?
+In certain
+Asian groups. And
+cardiovascular,
+rapid IV administration
+or high dose,
+phenytoin is a sodium
+channel blocker, and
+propylene glycol is a
+vasodilator and cardiac
+depressant. So
+conduction abnormalities
+can occur, such as
+bradycardia, AV block,
+QRS widening on the
+EKG, ventricular
+arrhythmias,
+and vasodilation
+will cause this
+hypotension.
+so we'll go through
+the next group the
+next three more quickly
+because they they're
+less complicated
+although carbamazepine
+has complications
+of its own so these
+are enhancers of fast
+inactivation state
+i've highlighted
+carbamazepine because that's
+the one with the star
+on it it's important
+to recognize how the
+others are different,
+so I put the takeaways
+here at the top.
+Carbamazepine is a
+strong CYP3A4 inducer
+and induces its own
+metabolism. It also
+induces a number of
+other proteins, and
+oxcarbazepine and
+eslacarbazepine have more
+favorable pharmacokinetic
+profiles, and
+they do not induce
+their own metabolism
+because they're
+not metabolized by
+CYP3A4. But they are
+inducers of CYP3A4.
+Okay, let's look
+at carbamazepine.
+Oral, that's good.
+Mid to high protein
+binding, not to the
+same extent as we
+see with phenytoin.
+CYP3A4 metabolism.
+Bioavailability
+is pretty decent.
+Octocarbazepine is
+actually a pro-drug.
+This is the active
+metabolite, which is
+actually S-licarbazepine.
+There's no S there.
+S-licarbazepine.
+Oh, look at that.
+That's the other drug.
+So they have decent
+bioavailability,
+all of them.
+Carbamazepine.
+negligible unchanged
+drug is excreted
+either in the urine
+or the feces and
+the half-life variable
+oh dear variable
+half-life because
+of auto induction
+now that auto induction
+generally occurs
+over three to five
+weeks and then it
+plateaus so the patient
+can be on a stable
+dose after that time.
+But in the interim,
+as the enzymatic
+activity increases,
+the dose that is started
+with will produce
+lower levels as the
+weeks go by. So the
+dose has to be
+gradually increased for
+that reason. It's a
+pharmacokinetic reason.
+here's what else it
+induces all of these
+CYPs plus the UGT1A1
+plus p-glycoprotein plus
+this multi-resistant
+protein too which is
+an efflux pump
+plus organic anion
+transporter so just
+remember high potential for
+adverse effects
+because of all of this
+and therapeutic uses
+well caramazepine
+is the gold standard
+if anything take this
+away gold standard
+first line option
+for the treatment of
+focal onset epilepsy
+in all ages it is
+highly effective plus
+evidence we have to
+think about evidence
+how do we know it's
+highly effective It
+has been a comparator
+in nearly all modern
+trials, and it is
+widely available,
+affordable, and long
+clinical experience.
+Focal onset seizures,
+focal evolving
+to generalized tonic
+-clonic seizures.
+Just that. It's not
+effective and may
+increase the frequency
+of these other
+types of primary
+generalized seizures.
+Plus, it's got some non
+-seizure applications,
+which I'd like you
+to be familiar with.
+Trigeminal neuralgia.
+That is the
+drug that is
+generally used for the
+management of this
+painful facial
+aberration.
+Trigeminal neuralgia.
+Also, for
+bipolar disorder.
+Management of
+hypomania, management of
+mania, management of
+the major depression
+that can come with
+bipolar disorder.
+Carbamazepine dosing,
+please be sort of
+generally familiar
+with this idea. I'm not
+asking you to remember
+the exact dosages and
+time frames, but get
+the idea that it is
+increased gradually
+based on seizure control,
+tolerability, and
+serum concentrations.
+Seizure control,
+tolerability,
+and serum concentrations.
+Okay, speaking
+of tolerability,
+well, we've got some very
+important HLAs here
+to think about.
+HLA B1502 phenotype.
+therefore certain
+populations asian
+populations are at
+increased risk of
+stevens johnson
+syndrome toxic epidermal
+necrolysis and hla
+3101 increased risk
+of all of these sjs
+t en and d r e s s
+hyponatremia spend a
+little time on this
+hyponatremia is low
+levels low serum
+levels of sodium. So
+how does this happen?
+Another acronym
+for you, SIADH.
+This stands
+for Syndrome of
+Inappropriate
+Antidiuretic Hormone.
+Antidiuretic hormone
+is made in the
+hypothalamus, is
+stored in the posterior
+pituitary, and it
+acts in the kidney.
+So what we're talking
+about here, at
+least as far as has
+been identified as
+nephrogenic syndrome
+of inappropriate
+antidiuretic hormone,
+meaning it's at the
+level of the kidney. So
+how does this happen?
+Carbamazepine
+appears to promote
+the insertion of
+aquaporins, just what
+it sounds like. These
+are water channels
+and they have a name,
+AQP2, and the distal
+nephron. This is
+a place called the
+collecting tubules.
+And when those channels
+are inserted, free
+water gets reabsorbed.
+So what is free
+water? Free water
+just means it's water
+without solutes in
+it. So that free water
+gets reabsorbed and
+goes into the capillary
+system, into the
+systemic system. So
+now we have more
+water flowing through
+the vessels. and
+that will reduce the
+concentration of sodium
+within the vessels.
+Hyponatremia and
+water intoxication,
+too much water,
+can occur.
+Now the greatest risk is
+actually with
+oxcarbazepine.
+Carbamazepine can
+still cause it.
+Look at that range.
+That depends on
+what studies have
+been looked at.
+And eslacarbazepine
+can also cause
+it. So all of them
+can cause this
+hyponatremia and it
+should be monitored.
+Hematological effects,
+bone marrow suppression,
+so decreased
+synthesis of red and
+white cells and platelets,
+and proliferative
+effects, just
+to be confusing.
+And the mechanism is
+not known. Fortunately,
+it doesn't happen
+often. It is reversible.
+So bottom line,
+you just have
+to watch for
+it. Pregnancy.
+Increased
+incidence of spina
+bifida, craniofacial
+defects,
+cardiovascular
+malformations.
+Other agents should
+be considered in
+patients of
+childbearing potential.
+Oxcarbazapine doesn't
+seem to cause those
+effects to the same degree.
+It can be considered
+during pregnancy.
+It is effective for
+focal onset seizures.
+and the eslacarbazepine
+we just don't know
+yet there's not enough
+data to tell us drug
+interactions high
+risk numerous what else
+i don't need to say
+more about that you
+should know the mechanisms
+of these drug
+interactions mechanisms
+mechanisms mechanisms
+so more pictures on the
+left we see stevens
+johnson syndrome and on
+the right is toxic
+epidermal necrolysis
+which is just really
+an extension of more
+serious adverse effects
+that extend from SJS.
+So check your knowledge.
+What are the
+meaning and effect
+of fast inactivation
+enhancers?
+Well, physiology of
+the sodium channel
+is that in less than
+a millisecond after
+opening and sodium
+conduction, the
+channel undergoes a
+conformational change
+with gating that
+enters the inactivated
+state. So, open and
+inactivated, and
+that's fast inactivation,
+and these drugs
+enhance that effect,
+stabilizing the
+channel in the open
+and inactivated state,
+and they cause
+accumulation during the
+repetitive firing
+and they bind more
+strongly at
+depolarized potentials.
+So, high frequency
+action potentials
+are preferentially
+inhibited.
+Well, preferential
+to what?
+Well, preferential
+to the normal
+activation, which
+is much slower.
+What are the
+meaning, mechanism,
+and effect? of
+carbamazepine
+auto induction.
+Now it's so easy.
+It's metabolized by
+CYP3A4. It's a strong
+CYP3A4 inducer and
+so it induces its
+own metabolism which
+occurs generally
+over three to five
+weeks of therapy and
+then it will plateau
+and at that point
+the patient can be
+on a stable dose.
+And what is the
+importance of these HLAs?
+HLA-B-1502 and HLAA
+-3101 phenotypes
+are at risk for rash and
+severe cutaneous
+adverse effects.
+What are the
+clinical applications
+of carbamazepine?
+Well, focal
+onset seizures,
+focal evolving to
+generalized tonic
+-clonic seizures,
+trigeminal neuralgia,
+bipolar disorder,
+and carbamazepine,
+oxcarbazepine,
+eslacarbazepine
+should be avoided
+in what seizure
+types and why?
+they are ineffective
+for the other types and
+on top of it they
+can worsen absence my
+absence or absence
+myoclonic and akinetic
+seizures and hyponatremia
+how does that happen
+nephrogenic siadh
+these drugs can cause
+up regulation or
+increased insertion of
+these aquaporin type
+2 channels into the
+distal nephron,
+into the collecting
+tubules, resulting in
+unregulated free water
+reabsorption, which
+leads to low serum
+sodium levels. And
+this is a delusional
+hyponatremia. What
+effects in the
+newborn have been
+associated with
+carbamazepine use
+during pregnancy.
+Increased
+incidence of spina
+bifida, craniofacial
+defects,
+cardiovascular
+malformations.
+Other agents should be
+considered in patients
+of childbearing
+potential, if possible.
+And drug interactions?
+Well, it is a strong
+inducer of CYP3A4,
+2B6, 2C9, 1A2, UGT1A1,
+p-glycoprotein,
+organic anion
+transporters, and so on.
+So lamotrigine now,
+another enhancer
+of fast inactivation
+state, plus
+it seems to have,
+there is evidence
+that it has other
+mechanisms as well
+by inhibiting the
+release of glutamate, the
+excitatory neurotransmitter,
+and aspartate,
+which is another excitatory
+neurotransmitter,
+certainly not as
+prevalent as glutamate.
+Let's look at the
+pharmacokinetics.
+This is what you call a
+favorable
+pharmacokinetic profile.
+It's oral, various dosage
+forms, so
+infants, children,
+adults.
+Protein binding is
+really moderate. it.
+Hepatoglucuronidation for
+metabolism,
+that's about it.
+Bioavailability
+is 98%. That's for
+the immediate
+release. And that
+is when there are
+no other drugs
+that are affecting
+those enzymes.
+And it's excreted
+in the urine
+as glucuronide
+metabolites.
+Very little free
+drug, if any.
+Half-life, really
+nice half-life,
+24 hours.
+Now, I put in red these
+concepts you
+must remember.
+Valproate, you recall,
+is an inhibitor of
+CYPs of various
+enzymes, including UDP
+-glucuronacil transferase,
+and therefore the half
+-life is more than
+doubled in patients who
+are taking valproate.
+So if lamotrigine, which
+is frequently used as
+an add-on, is given
+to patients with
+valproate, it really needs
+to be slowly, slowly
+titrated up. And we'll
+talk about why it has
+to be so slow, much
+slower than the other
+anti-seizure drugs.
+Now in patients
+who are taking an
+inducer, the half
+-life will be reduced.
+And if the patient has
+liver insufficiency,
+the half-life is
+going to be increased.
+This all makes sense.
+I know you understand
+this from your basic
+pharmacokinetic
+principles that you
+learned last term.
+Fortunately, there are
+color-coded starter
+kits available to
+help patients to keep
+their medication
+schedule straight when
+they are being initiated
+on these drugs.
+Oops,
+didn't mean to move on.
+Therapeutic uses.
+Well, this is a
+sodium channel
+blocker, a fast
+activation enhancer.
+But recall that
+it also has other
+activities. So
+lamotrigine is actually a
+broad spectrum anti
+-seizure drug. So
+it's effective for
+focal onset seizures,
+and it's effective
+for certain primary
+generalized tonic
+-clonic seizures.
+Effective for
+something called
+Lennox-Gastaut
+syndrome, which is a
+childhood epilepsy
+encephalopathy.
+And for absence
+seizures, second
+line. First line,
+ethosuximide,
+valproate if
+necessary, and then
+lamotrigine if
+still necessary.
+Non-seizure uses,
+bipolar disorder.
+However,
+it's only for preventing
+major depressive
+episodes. It's not
+really useful for mania,
+for preventing mania.
+and it needs to be so
+slowly introduced, so
+slowly titrated, it
+cannot be used for
+acute bipolar episodes.
+Side effects, really it's
+pretty well tolerated,
+especially compared
+to phenytoin. You
+get some nausea,
+dizziness, drowsiness.
+Low incidence
+of sedation, it
+can occur in
+certain patients.
+Low incidence of
+cognitive side
+effects, although
+they can occur.
+But it can worsen
+migraine headaches,
+so people who
+get migraines
+perhaps shouldn't
+get lamotardine.
+And serious
+hypersensitivity
+reactions. Here
+we have our HLA-B
+star 1502 variant
+allele again.
+and this is what I
+absolutely, positively
+want to impress on you
+that you need to know.
+To reduce the
+risk of rash,
+the drug should
+be slowly titrated
+over 6 to 8 weeks,
+even more cautiously
+if added to
+valproic acid. Why?
+Why? Because valproate
+is an inhibitor
+of the metabolism
+of lamotrigine.
+And in fact, the
+recommendation is
+even lower dose
+and every other day
+on initiation rather
+than every day.
+Cosamide now
+enhances the slow
+inactivation state.
+So this one has a
+slightly different
+mechanism of action.
+Yes, it's a sodium
+channel blocker.
+The slow inactivation
+state occurs later
+when there has been
+pathologic activity
+in the sodium channel.
+It will slowly
+transition over to
+this slow inactivation
+state, which is a
+protective mechanism.
+So, licosamide
+will actually
+stabilize this state.
+So it produces a long
+-lasting non-conductive
+state. And this
+appears to be, anyway,
+the predominant mechanism
+of action of licosamide.
+Licosamide also
+seems to enhance the
+fast inactivation
+state. This Mexicanism
+has been suggested in
+more recent studies.
+However, the drug
+has what's called
+slower binding and
+unbinding kinetics.
+So it's not exactly
+the same as the other
+ones we saw. Well,
+what's the effect?
+It preferentially targets
+the pathologically
+overactive neurons,
+preventing repetitive
+firing during
+sustained birth without
+broadly suppressing
+normal brain function.
+So it appears to
+produce better seizure
+control with fewer
+generalized side effects.
+This drug has
+come to the market
+more recently, certainly
+than phenytoin,
+carbamazepine,
+and lamotrigine.
+Again, really favorable
+pharmacokinetics,
+oral, IV, minimal
+protein binding, hepatic
+metabolism with minor
+CYP involvement, in
+active metabolites, 100
+% oral bioavailability,
+excreted in urine,
+about 40% unchanged,
+and the half-life is
+approximately 13 hours,
+which is pretty good,
+twice daily dosing.
+It's used for focal
+onset and also
+primary generalized
+onset seizures, mainly
+add-on for these,
+but it can used as
+monotherapy or add
+-on for focal onset.
+Off-label,
+it's being used
+occasionally for
+status epilepticus.
+We do have other
+drugs for that.
+The benzodiazepines,
+which we'll talk
+about in the next
+lecture, are first line.
+Fenytoin,
+levotiracetam, and
+licosamide are all
+potential second agents
+adverse effect generally
+well tolerated commonly
+dizziness drowsiness
+cns of course
+headache the gait
+disturbance ataxia
+confusion etc but generally
+better tolerated than
+say phenytoin pr this
+is something different
+unique feature pr
+interval increase
+bradycardia and AV block.
+So it's recommended
+the patient have an
+ECG before starting
+this drug to get a
+baseline look at their
+cardiac function.
+Individuals who have
+cardiac problems
+probably should
+avoid this drug, and
+there are certainly
+other options.
+Hypersensitivity
+reactions can occur.
+SJS and TEN and DRESS
+rarely have been
+reported, but there
+is no evidence of this
+HLA-B 1502 variant
+allele involvement.
+The usual suicidal
+ideations and tendencies
+have been reported
+and associated with
+licosamide and drug
+interactions, mainly the
+CNS effects. We don't
+see much in the way
+of pharmacokinetic
+interactions. So it certainly
+seems like easier
+to use drug anyway.
+So let's take a quick
+check on the knowledge.
+Mechanisms of action
+of lamotrigine
+and licosamide are
+fast inactivation
+enhancer
+lamotrigine, slow
+inactivation state
+enhancer licosamide.
+The clinical
+significance.
+Compared with
+carbamazepine, lamotrigine
+is effective
+for focal onset,
+focal evolving to
+generalized tonic
+-clonic seizures,
+and absence seizures
+with a better
+pharmacokinetic profile.
+Titration to therapeutic
+dose is slow to
+reduce the risk of
+severe skin reactions.
+Licosamide is used
+for focal onset,
+focal evolving to
+generalized tonic-clonic
+seizures, add-on
+for refractory
+primary generalized
+seizures, more favorable
+pharmacokinetics
+again, adverse
+effect profiles
+better, and it can be
+titrated more rapidly
+than lamotrigine.
+Why does lamotrigine
+have specific dose
+requirements when
+used as an add-on
+agent with valproate
+or phenobarbital.
+The half-life is
+more than doubled
+in patients taking
+valproate, whereas
+when taken with
+a strong inducer,
+the half-life is reduced.
+And this broad
+spectrum, meaning it
+induces a lot of
+proteins. That's what the
+broad spectrum means
+here. and what are
+the lamotrigine
+dosing adjustments in
+general well valproate
+very slow dose
+titration it's always
+slow but this is even
+slower and inducers
+initiate at higher
+doses but still slow
+titration and fortunately
+there are kits
+color-coded kits
+available to help
+patients with adherence.
+And the physiological
+basis of the skin
+reactions is HLA
+-B1502 for lamotrigine,
+and these
+patients should be
+screened before
+starting therapy.
+Risk factors for
+cardiovascular
+adverse effects
+of licosamide
+is increased PR
+interval leading to
+bradycardia and AV
+block, and I pointed
+out this PR interval
+on the EKG here.
+Skin reactions can occur,
+but they're
+not associated
+with these HLA
+variant alleles.
+And clinical
+applications of the two
+drugs, lamotrigine
+focal onset, primary
+generalized
+epilepsy, generalized
+seizure, like Lennox
+-Gastaut syndrome,
+prevention of major
+depressive orders and
+bipolar, licosamide,
+focal onset seizures,
+evolving to generalized,
+and add-on for
+resistant primary
+generalized seizures.
+So that brings us to
+the end. In the interest
+of time, I'm not
+going to go through
+the summary I invite
+you to look at it on
+the PowerPoint PDF and
+I have included the
+mechanism here again
+and some adverse
+effects and the check
+your knowledge answers
+concludes part one of the
+lecture on anti
+-seizure drugs
+

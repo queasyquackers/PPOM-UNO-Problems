@@ -1,0 +1,2860 @@
+Lecture 66 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Pharmacology of Local Anesthetics
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+
+--- Page 2 ---
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu
+--- Page 3 ---
+1. Structure activity relationship: Describe the structure-activity relationship of the two 
+classes of local anesthetics.
+2. Pharmacokinetics: Relate the influence of the PK properties on the clinical use of LAs.
+3. Properties: Interpret how the drug pKa and tissue pH influence the rate of onset, potency, 
+and duration of action of the ester-type and amide-type local anesthetics. 
+4. Mechanism of action: Explain the mechanism of action of local anesthetics with respect to 
+state-dependent, use-dependent, and voltage-dependent block.
+5. Fiber susceptibility: Differentiate the physiologic and structural factors that determine the 
+susceptibility of nerve fibers to local anesthetic blockade.
+6. Clinical application: Apply the fiber susceptibility factors to justify the therapeutic uses and 
+routes of administration of the individual local anesthetics.
+7. Toxicity mechanisms: Summarize the mechanisms underlying the major toxic effects 
+associated with each local anesthetics.
+8. Vasoconstrictors: Predict the effects of epinephrine on the duration of action, systemic 
+absorption, and toxicity risk of local anesthetic therapy.
+9. Vasoconstrictor cautions: Identify the mechanisms that influence cautions and 
+contraindications of vasoconstrictor use.
+After completion of the preparation materials, students should be able to:
+3
+--- Page 4 ---
+Required
+• ScholarRx Bricks  Practice Questions  See next slide.
+Optional materials:
+• Video Lecture  Dr. Goldstein’s Notes Handout  Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+4
+--- Page 5 ---
+ScholarRx Brick: Neurology and Special Senses > Disorders of the Nervous System and Special Senses > Pain 
+Mechanisms and Treatment > Diagnostic Approach to Disorders of the Nervous System and Special Senses
+Title of Brick(s): Principals of Anesthesia > Local Anesthetics
+Link: https://exchange.scholarrx.com/brick/local-anesthetics 
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2022; Chapter 26: Local Anesthetics 
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281751050 
+Access Medicine Katzung’s Examination & Board Review, 14e, 2024; Chapter 26: Local Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3461&sectionid=285593969 
+LWW Health Library, Premium Basic Science: Lippincott’s Illustrated Reviews, 8e, 2023; Chapter 13: Anesthetics 
+https://premiumbasicsciences-lwwhealthlibrary-com.nyit.idm.oclc.org/content.aspx?sectionid=253327491&bookid=3222 
+Anesthesia Textbooks
+Clinical Key Anesthesia Secrets, 7e, 2022; Chapter 18: Local Anesthetics
+https://www-clinicalkey-com.nyit.idm.oclc.org/#!/content/book/3-s2.0-B9780323640152000184 
+Access Medicine Morgan & Mikhail’s Clinical Anesthesia, 7e, 2013; Chapter 16: Local Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3194&sectionid=266518950
+Links to Resources
+5
+--- Page 6 ---
+Key points
+6
+Pharmacokinetic properties: Structural and physicochemical properties of the drugs  influence protein 
+binding, tissue distribution, onset and duration of action, metabolism, and toxicity.
+Structure aromatic (lipophilic) ring – ester or amide link – amine (hydrophilic)
+Weak bases with pKa between 7.5-9.0 (except benzocaine, 3.5)
+Routes of
+administration
+topicalinfiltrationperipheral nerve blockI.V. regional nerve block
+neuraxial blocks – spinal, epidural / caudal
+Absorption LAs are slowly absorbed from the site of injection. Doses are typically small.
+Extent and rate of absorption depend on dosesiteroutevascularitydrug properties
+Systemic absorption 1) terminates effect and 2) can cause adverse effects
+Distribution First pass extraction by lungs and other highly perfused organs, then sequestration in 
+muscles and fat
+Bind tissue proteins and plasma proteins (alpha -1 acid glycoprotein)
+Metabolism Ester linked: Pseudocholinesterase to para -aminobenzoid acid (PABA)
+Amide linked: Hepatic oxidation / CYPs
+Excretion Urine, metabolites
+--- Page 7 ---
+Key points
+7
+t½ LAs are typically injected into confined spaces in tissues as a single bolus. 
+Half-life becomes important when injected into the bloodstream (inadvertently or 
+continuous infusion) for determining toxicity potential and the need for treatment.
+Onset of 
+action
+Lower pKa (closer to physiologic pH ~7.4) → more uncharged base → faster onset
+Potency Greater lipid solubility → greater affinity for the lipid membrane → greater fraction of 
+of the dose can enter the neurons → a lower dose is needed to produce an 
+equivalent effect
+Duration of 
+action depends 
+on how quickly 
+the drug is 
+cleared from 
+the nerve.
+Vascularity at injection site
+In areas of high blood flow, the LA is quickly removed → shorter duration of action
+• Vasoconstriction by epinephrine or other vasoconstrictor slows removal of the LA from 
+the anesthetic site → systemic absorption is decreased and duration is increased. 
+Protein binding
+LAs bind plasma proteins, tissue proteins and sodium channel proteins.
+Protein-bound drugs act as a reservoir, slowly releasing the drug.
+• Lipid soluble drugs tend to bind more tightly to tissue proteins and be retained in nerve 
+membranes → longer duration of action.
+--- Page 8 ---
+Key points
+8
+Mechanism of 
+action
+Local anesthetics (LAs) preferentially bind the open and inactivated state of 
+voltage-gated sodium channels → stabilize the fast inactivation state, 
+accumulate block during repetitive firing, and bind more strongly at depolarized 
+potentials, with minimal effect on normal low frequency nerve impulses. 
+state-dependent, use-dependent, and voltage-dependent block
+Differential nerve 
+blockade
+Sensitivity to nerve block: sympathetic (most sensitive) → sensory → motor
+Tiny rapid-firing sympathetic fibers first→ 
+small, thinly myelinated and unmyelinated fibers (pain, temperature, light 
+touch)→ 
+deep pressure→ finally motor function
+--- Page 9 ---
+9
+Ester linked
+Procaine The prototype and no longer marketed. 
+It has fast onset and short duration of activity.
+Chloroprocaine Very fast onset / short duration of action / rapid recovery → 
+useful for outpatient procedures
+Tetracaine High potency / slow onset / long duration of action (1.5-3 hours)
+Spinal and topical use
+Benzocaine Topical only. 
+It is almost entirely uncharged at physiologic pH
+Benzocaine readily penetrates mucous membranes to reach the nerves but is 
+poorly absorbed through intact skin.
+Systemic toxicity: Methemoglobinemia
+Cocaine Topically for nasal and airway surgeries 
+Its intrinsic vasoconstriction reduces bleeding and controls spasms
+Role of 
+Epinephrine
+Vasoconstrictor typically used with short- and intermediate-acting LAs to prolong 
+the duration of local or regional anesthesia (not obstetric)
+Inadvertent IV injection → hypertension, palpitations, cardiac arrhythmias
+Key points
+--- Page 10 ---
+10
+Amide linked
+Lidocaine Intermediate duration / broad use by several routes, IV antiarrhythmic
+Mepivacaine Intermediate duration / local and regional anesthesia / dental use
+Prilocaine Intermediate duration / methemoglobinemia due to o-toluidine metabolite
+Eutectic mixture of lidocaine + prilocaine  → topical analgesic cream
+Bupivacaine High potency / High protein binding / Long duration / Many clinical applications
+Most frequently used LA worldwide for long-acting block and analgesia
+Highest potential for cardiotoxicity because of strong binding affinity
+Ropivacaine High potency but less than bupivacaine / High protein binding / Long duration
+Broad clinical use, including labor epidurals, spinal anesthesia for C-sections, 
+ambulatory surgery.
+Ropivacaine differs from bupivacaine in sensory block with less intense motor block 
+(faster return of function), reduced cardiotoxicity, lower CNS toxicity.
+Role of 
+Epinephrine
+Vasoconstrictor typically used with short- and intermediate-acting LAs to prolong the 
+duration of local or regional anesthesia (but not in obstetrics)
+Inadvertent IV injection → hypertension, palpitations, cardiac arrhythmias
+Key points
+--- Page 11 ---
+Local Anesthetics (LAs)
+• Esters (e.g. procaine)
+• Amides (e.g. lidocaine)
+Ester
+Amide
+Amphipathic structure: 
+A lipophilic aromatic group (left side in the figure) is joined to an ionizable hydrophilic tertiary 
+amine base (right side) by an intermediate ester or amide linkage (center).
+– Ester links are more prone to hydrolysis than amide links → tend to have a shorter 
+duration of action than the amide linked LAs.
+Weak bases: pKa range ~7.5-9.0
+11
+--- Page 12 ---
+12
+Absorption
+LAs are intended to 
+remain at injection site 
+LAs are typically slowly absorbed from the site of action.
+Systemic absorption 1) terminates effect, 2) can cause adverse effects
+Extent of systemic absorption is determined by dose, local vascularity, use of 
+vasoconstrictor, physicochemical properties of drug
+Protein binding
+plasma and tissue 
+proteins
+Amide-linked local anesthetics are extensively (55% to 95%) bound to plasma 
+alpha-1 acid glycoprotein.
+Protein-bound drugs act as a reservoir, slowly releasing the drug.
+• Highly lipid soluble drugs tend to bind more tightly to plasma and tissue 
+proteins.
+1) Distribute first to highly perfused tissues
+2) Then to moderately perfused tissues Potential for 
+organ toxicity 
+with high LA 
+concentrations
+First-pass extraction: Highly perfused lungs sequester significant amounts of circulating 
+LA before it reaches the arterial circulation. Brain, liver, heart, kidney also sequester LA.
+Followed by distribution to muscles / fat (both have large capacity for storing LA)
+Metabolism Ester-linked: Rapid by pseudocholinesterase to PABA (inactive)
+Amide-linked: Hepatic CYPs
+Excretion Metabolites are excreted in urine primarily 
+(very little unchanged drug)
+Pharmacokinetics of systemically absorbed local anesthetic
+--- Page 13 ---
+• Topical: Application to skin or mucous membranes
+• Infiltration: Injection in area of peripheral nerve endings of wounds or 
+incision sites
+• Nerve blocks: Injection in major nerve trunks
+• Neuraxial block: Injection into the tissues surrounding the nerve roots 
+(epidural, caudal) or cerebral spinal fluid surrounding the spinal cord 
+(spinal)
+• Bier block: Intravenous regional anesthesia
+Administration of local anesthetics
+13
+--- Page 14 ---
+http://www.wisegeekhealth.com/what-
+is-a-topical-anesthetic.htm
+EXAMPLES of topical uses: dermatological; lidocaine patch; dental 
+https://www.lidopatch.com/lidopatch NYSORA.com
+14
+--- Page 15 ---
+EXAMPLE
+Terminal nerve block
+Radial nerve block at the 
+elbow
+EXAMPLE
+Peripheral field block
+Targets terminal cutaneous 
+nerves, such as the 
+intercostobrachial nerve
+Morgan & Mikhail's Clinical Anesthesiology, 6e, 2018 > Chapter 46. Peripheral Nerve Blocks
+Left Figure 46-31; Right Figure 46-1
+ 15
+--- Page 16 ---
+Citation: Chapter 26 Local Anesthetics, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021, Figure 26-4. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250598245 Accessed: January 23, 2022
+Copyright © 2022 McGraw-Hill Education. All rights reserved
+Schematic diagram of the typical sites of injection of 
+local anesthetics in and around the spinal canal. 
+• Epidural block: Local anesthetics injected 
+extradurally
+• Caudal block:  A specific type of epidural block in 
+which a needle is inserted into the caudal canal 
+via the sacral hiatus. 
+• Perineural block: Injections around peripheral 
+nerves (eg, paravertebral block). 
+• Spinal block: Intrathecal injection into 
+cerebrospinal fluid in the subarachnoid space
+
+--- Page 17 ---
+Citation: Chapter 46 Peripheral Nerve Blocks, Butterworth IV JF, Mackey DC, Wasnick JD. Morgan & Mikhail's Clinical Anesthesiology, 6e; 2018,, Figure 46-37. 
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2444&sectionid=193555896 Accessed: January 23, 2022
+Copyright © 2022 McGraw-Hill Education. All rights reserved
+Intravenous regional anesthesia provides surgical anesthesia 
+for procedures of short duration.
+Intravenous regional 
+anesthesia 
+• Provides surgical anesthesia 
+for procedures of short 
+duration (45-60 minutes) on 
+an extremity
+➢Intravenous anesthesia 
+should be administered in an 
+area where standard 
+hemodynamic monitors, 
+supplemental oxygen, and 
+resuscitative medications and 
+equipment are readily 
+available.
+--- Page 18 ---
+Practice point:
+Infected tissue is more 
+acidic (lower extracellular 
+pH).
+A greater fraction of the drug 
+is in the ionized (LAH+) form 
+→ a lower concentration of 
+uncharged base.
+Thus, local anesthetics are 
+less effective when injected 
+into infected tissue.
+Onset of action is related to pKa.
+Weak bases (pKa 7.5 to 9)
+Principles of Pharmacology: 
+The Pathophysiologic Basis of Drug Therapy, 
+4e,  2017
+Figure 12-5 18
+lipophilic
+lipophilic
+very
+lipophilic
+Slide adapted by LG
+Onset of action: 
+Therefore, a higher concentration of 
+the LA with the pKa closer to pH 7.4 
+is delivered to the site of action → 
+more rapid onset of action.
+Comparing the ratios of non -protonated to 
+protonated forms of LAs with different pKa 
+values at the same pH (~7.4):
+LA + H+   LAH+
+pKa = pH – log[B]/[BH+] 
+• The LA with the pKa closer to 
+physiological pH will have a greater 
+fraction of the drug in the uncharged 
+form than one with a higher pKa.
+• The uncharged form diffuses through 
+the membrane.
+--- Page 19 ---
+19
+Potency is related to lipid solubility. 
+Highly lipid soluble LAs easily diffuse 
+through neuron membranes. 
+greater lipid solubility
+
+greater affinity for the lipid membrane
+
+a greater fraction of molecules in the 
+dose can enter the neurons
+
+a lower dose is needed 
+to produce an equivalent effect
+Physicochemical Characteristics
+ESTER-LINKED Relative
+POTENCY
+DURATION
+OF ACTION
+Procaine 1 Short
+Chloroprocaine ~2 Short
+Cocaine 2 Medium
+Tetracaine 16 Long
+Benzocaine <1 Topical only
+AMIDE-LINKED DURATION
+Lidocaine 4 Medium
+Mepivacaine 2 Medium
+Prilocaine 3 Medium
+Bupivicaine 16 Long
+Ropivacaine slightly <16 Long
+Articaine not listed Medium
+Stereochemistry: S-enantiomer is less toxic than the R-enantiomer (in general)
+--- Page 20 ---
+Vascularity at injection site
+• In areas of high blood flow, the LA is 
+quickly removed → shorter duration of 
+action
+Vasoconstriction by epinephrine or 
+other vasoconstrictor slows removal 
+of the LA from the anesthetic site → 
+systemic absorption is decreased and 
+duration is increased. 
+20
+Duration of action 
+Determined by how quickly the drug is cleared from the nerve, which 
+depends on local blood flow and protein binding, rather than metabolism.
+Protein binding
+• LAs bind plasma and tissue proteins 
+and sodium channel proteins.
+• Protein-bound drugs act as a 
+reservoir, slowly releasing the drug.
+Highly lipid soluble drugs tend to 
+bind more tightly to plasma and tissue 
+proteins and be retained in nerve 
+membranes → longer duration of 
+action
+Ester-linked LAs have a shorter duration of action because they are rapidly metabolized 
+by pseudocholinesterase.
+--- Page 21 ---
+Citation: Chapter 16 Local Anesthetics, Butterworth IV JF, Mackey DC, Wasnick JD. Morgan & Mikhail’s Clinical Anesthesiology, 7e; 2022, Figure 16-2. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=3194&sectionid=266518950 Accessed: October 13, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+VG Na+ channels exist in (at least) 3 states:
+• resting (closed)
+• open (activated) and 
+• inactivated (open and non-conducting)
+Resting Nav channels activate and open 
+when they are depolarized, briefly allowing 
+sodium ions to pass into the cell down their 
+concentration gradient, then rapidly 
+inactivate. 
+Inactivated Nav channels return to the 
+resting state as the cell membrane 
+repolarizes. 
+In the figure, Na+ ions are shown on the 
+extracellular side of the cell membrane. 
+Extracellular Na+ ions conduct only through 
+open Nav channels that have not bound a 
+local anesthetic molecule. 
+LAs bind the inner pore of the VG Na+ channel in the 
+open and inactivated state, preventing generation and 
+conduction of nerve impulses.
+Local Anesthetics (LAs) Mechanism of Action
+--- Page 22 ---
+The nonionized form of the LA passes through the nerve membrane and re-equilibrates in the 
+cytosol into its ionized and nonionized forms. 
+The ionized (LAH+) form of the LA preferentially binds the sodium channel in the open and 
+inactivated state by binding a site in the inner vestibule → stabilizes the fast inactivation state, 
+accumulates block during repetitive firing, and binds more strongly at depolarized potentials, with 
+minimal effect on normal low frequency signaling.
+• State-dependent block: 
+Channels in the open and inactivated state have a much higher affinity for the local anesthetic 
+than do channels in the closed resting state. They enhance the fast inactivation of the 
+channels. Recovery from drug-induced block is 10 to 1000 times slower than recovery of 
+channels from normal inactivation.
+• Use-dependent block: 
+Rapidly firing nerves are preferentially blocked by LAs. Blockade by local anesthetics is more 
+marked at higher frequencies of depolarization (accumulates in rapidly firing axons) than in 
+resting fibers.
+• Voltage-dependent block: 
+Voltage changes cause changes in the conformation of the inner pore during channel opening 
+and activation (voltage-dependent gating). More positive membrane potentials (as in the 
+depolarized state) increase the degree of anesthetic block.
+LA mechanism of action and the terms that describe it
+22
+--- Page 23 ---
+How do the pharmacokinetic properties of local anesthetics influence clinical use?
+• Structural and physicochemical properties of the drugs influence protein binding, tissue 
+distribution, onset and duration of action, metabolism, and toxicity.
+• Ester-linked LAs are rapidly metabolized by pseudocholinesterase so tend to have a shorter 
+duration.
+• Amide-linked LAs are metabolized by the liver so tend to have a longer duration. 
+How is the pKa of a LA related to the onset of action?
+• The LA with the pKa closest to physiological pH will have a greater proportion of the molecule 
+in the uncharged form (compared to a drug with a higher pKa). The uncharged form diffuses 
+through the membrane. Therefore, a higher concentration of the LA is delivered to the site of 
+action → more rapid onset. 
+How is the potency of a LA related to its lipid solubility?
+• Highly lipid soluble LAs easily diffuse through neuron membranes, whereas penetration by less 
+lipid soluble LAs is less efficient. Highly lipid soluble LAs have greater affinity for the nerve cell 
+membrane (and surrounding tissues). Thus, a lower dose is needed to produce an equivalent 
+effect. Furthermore, higher lipid soluble LAs have also have a longer duration of action.
+Check your knowledge
+23
+--- Page 24 ---
+What factors determine the duration of action of a local anesthetic?
+• Duration of action is primarily determined by how quickly the drug is cleared from 
+the nerve, which depends on local blood flow (vascularity) and protein binding, 
+rather than metabolism.
+What are the mechanisms?
+• Vascularity: High vascularity (high blood flow) at the local site → faster washout 
+→ shorter duration
+➢ Vasoconstriction by epinephrine or other vasoconstrictor slows removal of the 
+LA from the anesthetic site → systemic absorption is decreased and duration 
+is increased.
+• Protein binding: Binding to tissue proteins acts as a reservoir that slowly 
+releases the drug.
+➢ Highly lipid soluble LAs tend to bind more tightly to tissue proteins and are 
+retained in nerve membranes → longer duration of action
+Check your knowledge
+24
+--- Page 25 ---
+Which form of the weak base binds to the inner vestibule of the Na+ channel and 
+prolongs the inactivation phase?
+• The ionized form: LAH+.
+What are the components of the mechanism of action?
+• The LA preferentially binds the sodium channel in the open and inactivated state 
+→ stabilizes the fast inactivation state, accumulates block during repetitive firing, 
+and binds more strongly at depolarized potentials, with minimal effect on normal 
+low frequency signaling.
+• State-dependent, use-dependent, voltage-dependent block
+Check your knowledge.
+25
+--- Page 26 ---
+26
+Sensitivity to blockade is determined by fiber diameter, fiber myelination, and various 
+other anatomic and physiological factors.
+• Tiny rapid-firing sympathetic fibers first→ small, thinly myelinated and 
+unmyelinated fibers (pain, temperature, light touch)→ deep pressure→ finally 
+motor function.
+Differential nerve sensitivity
+Not all nerve fibers are equally affected by local anesthetics. 
+• Sympathetic neurons (B, C fibers) are very sensitive to sodium channel block → 
+blocked first
+– Preganglionic B fibers are small lightly myelinated fibers.
+– Postganglionic C fibers are small unmyelinated fibers.
+• Sensory neurons are typically smaller, thinly myelinated or unmyelinated and 
+respond to sodium channel block before motor neurons.
+– pain (C, A), temperature (A) light touch (A)
+• Motor fibers (A) are heavily myelinated and have many nodes → more drug is 
+required to block conduction
+--- Page 27 ---
+Local Anesthetics Toxicity
+Mechanisms and Effects
+27
+LAs are intended to remain at the site of injection. 
+• Systemic absorption of toxic concentrations of drug can occur by inadvertent 
+vascular administration or continuous infusion.
+• The rate and extent of systemic absorption are determined by dose, site of 
+administration, local vascularity, presence of vasoconstrictor, first pass 
+extraction, sequestration in muscle and fat, plasma protein binding, and 
+metabolism.
+Local anesthetic systemic toxicity (LAST) – CNS and cardiotoxicity
+Transient neurologic symptoms (TNS)
+Cauda equina syndrome
+Methemoglobinemia
+Hypersensitivity
+--- Page 28 ---
+28
+CNS Toxicity Cardiovascular toxicity
+Early excitation:
+Perioral numbness, metallic taste, 
+dizziness, nystagmus, tinnitus
+Sympathetic outflow is transiently increased 
+→ then  sympathetic outflow
+Sympathetic outflow → Initial BP and tachycardia 
+→ then vasodilation / hypotension, bradycardia 
+Direct cardiovascular Na+ block:
+Hypotension, bradycardia, 
+depression of conduction velocity → indirect  Ca2+ 
+influx →  myocardial contractility 
+Mitochondrial dysfunction →  energy outputFollowed by CNS depression:
+Agitation, muscle twitching → 
+CNS and myocardial depression → 
+death by respiratory depression
+Followed by:
+ventricular arrhythmias, 
+CARDIOVASCULAR COLLAPSE
+Treatment: Intralipid therapy, seizure control, and cardiopulmonary resuscitation
+Lipid rescue: Proposed mechanisms: I.V. Intralipid emulsion creates an expanded lipid 
+compartment that extracts LA from the blood (lipid sink) and redistributes (lipid shuttle) it to the liver 
+(detoxification) and storage organs. Lipid therapy supplies long -chain fatty acids for ATP production.
+LA systemic toxicity (LAST): CNS and CV toxicities / Can occur with all LAs
+LAST may be fatal. The danger is proportional to LA concentration in plasma.
+Clinical harbinger: CNS symptoms typically appear before cardiovascular collapse → 
+an early warning sign of impending cardiotoxicity.
+
+--- Page 29 ---
+29
+highest next moderate lowest risk
+Bupivacaine
+CNS = CV
+Ropivacaine 
+CNS before CV effects
+Lower cardiotoxicity
+Lidocaine,
+Mepivacaine 
+CNS effects well before 
+CV collapse
+Prilocaine
+Lower CNS and cardiac 
+toxicity
+(but causes 
+methemoglobinemia)
+Reasons for differences (comparisons with bupivacaine)
+High lipid solubility
+High protein binding
+Slow Na+ channel 
+dissociation
+CNS warnings may be 
+brief or absent
+Less lipid soluble
+Faster Na+ channel 
+dissociation
+Faster Na+ channel 
+dissociation
+Wider safety margin
+Rapid metabolism
+Wide safety margin
+Relative Risks of LAST
+--- Page 30 ---
+30
+Lidocaine spinal anesthesia: Transient neurologic symptoms (TNS)
+• Pain or burning, prickly, achy sensation (dysesthesia) radiating from the lower back/gluteal 
+region to the posterior thighs. 
+• Pain can be mild to severe. TNS is not associated with sensory loss, motor weakness, or 
+bowel and bladder dysfunction.
+• Reversible: Symptoms usually resolve after several days without sequelae.
+Serious and permanent complications after spinal anesthesia are very rare.
+• Mepivacaine: occurs / lower incidence
+• Not seen with the other LAs.
+Methemoglobinemia
+• Prilocaine → toxic metabolite o-toluidine → methemoglobinemia → cyanosis → death 
+potentially
+• Benzocaine (pKa 3.5) aerosol spray→ well absorbed through mucous membranes during 
+bronchoscopy, endoscopy, transesophageal echocardiography → absorption → toxic N-
+hydroxy aromatic amines → methemoglobinemia
+• Avoid benzocaine in teething infants and children’s mouth sores.
+Lidocaine spinal administration: Cauda equina syndrome (very rare)
+• Irreversible. Compression of the nerve root bundle extending from the end of the spinal cord 
+→ saddle anesthesia/paresthesia, urinary / fecal incontinence and lower extremity weakness
+--- Page 31 ---
+Hypersensitivity: 
+• Ester LAs:
+Metabolized to p-aminobenzoic acid 
+(PABA), which has been implicated in 
+hypersensitivity reactions.
+Contraindication to all ester LAs.
+• Amide LAs: 
+Very low incidence of hypersensitivity 
+reactions.
+A patient allergic to one amide LA may be 
+given a different amide. 
+Pregnancy:
+epidural or spinal administration 
+depending on the drug and clinical use:
+labor or vaginal or cesarean delivery
+Local anesthetics commonly used in labor 
+and delivery:
+Bupivacaine
+Ropivacaine  
+Tetracaine
+Lidocaine
+Other Effects
+31
+Caution: Epinephrine should be avoided in obstetrical patients. 
+Vasoconstriction can compromise blood flow to the uterus and placenta, and risk 
+maternal hypertension, tachycardia, and arrhythmias if absorbed systemically.
+--- Page 32 ---
+• What are the manifestations of LAST?
+CNS:
+• Sympathetic NS: Sympathetic outflow is transiently increased → then  sympathetic outflow
+• Early symptoms: perioral numbness, metallic taste, dizziness, tinnitus, nystagmus
+• Later CNS symptoms:  agitation, muscle twitching → CNS and myocardial depression → 
+death by respiratory depression
+Cardiovascular:
+• Sympathetic → Initial BP and tachycardia → then vasodilation / hypotension, bradycardia 
+Direct cardiovascular Na+ block:
+• Hypotension, bradycardia
+• depression of conduction velocity → indirect  in Ca2+ influx →  myocardial contractility 
+Mitochondrial dysfunction →  energy output
+What is the reversal agent for LAST?
+• LAST can be fatal. Lipid rescue: IV lipid emulsion administration
+Which LA is associated with the highest risk of cardiotoxicity?
+• Bupivacaine rapidly and strongly binds sodium channels and dissociates slowly (fast in, slow 
+out) → Bupivacaine is the most cardiotoxic LA. 
+• CNS and CV toxicity occur almost simultaneously.
+Check your knowledge
+32
+--- Page 33 ---
+What are the cause, manifestations, and prognosis of TNS? 
+• Lidocaine spinal anesthesia may cause transient neurological symptoms: pain, burning, 
+prickly, achy sensations (dysthesia), which is not associated with sensory loss, motor 
+weakness, or bowel and bladder dysfunction
+• Reversible: Usually resolves within several days.
+• Lower incidence with mepivacaine.
+What are the cause, manifestations of cauda equina syndrome, and potential prognosis of it?
+• Lidocaine subarachnoid administration can very rarely lead to irreversible compression of the 
+nerve root bundle extending from the end of the spinal cord, which can lead to urinary / fecal 
+incontinence and lower extremity weakness
+What are the causes and effects of methemoglobinemia?
+• Prilocaine toxic metabolite o-toluidine; benzocaine (spray) toxic metabolite N-hydroxy aromatic 
+amines. Can lead to cyanosis.
+Which LAs have the highest incidence of hypersensitivity reactions?
+• Ester-linked LAs are rapidly metabolized to PABA, which is associated with hypersensitivity 
+reactions.
+• Amide-linked LAs have a low potential for allergic reaction.
+Check your knowledge
+33
+--- Page 34 ---
+Local Anesthetics
+Esters Amides
+Procaine Lidocaine
+Chloroprocaine Prilocaine
+Tetracaine Mepivacaine
+Cocaine Bupivacaine
+Benzocaine Ropivacaine
+Articaine
+34
+--- Page 35 ---
+Ester-linked Local Anesthetics
+35
+--- Page 36 ---
+36
+Procaine, Chloroprocaine, Tetracaine, and Benzocaine
+Pseudocholinesterase: Rapid hydrolysis (<1 min) → p-aminobenzoic acid (PABA)
+→ Short plasma half-lives
+→ Reduced / absent plasma cholinesterase → drug accumulation → toxicity risk
+→ PABA may cause a hypersensitivity reaction in PABA-allergic patients
+➢ Note: Spinal fluid contains little or no esterase → anesthetic effect persists until 
+agent has been absorbed into the circulation
+Excretion: Urine, PABA and ionized drug
+Cocaine (natural benzoic acid ester of Erythroxylum coca)
+Metabolized by pseudocholinesterase and hepatic esterases → toxic N-hydroxy aromatic amines
+Ester-linked local anesthetics: Pharmacokinetics
+--- Page 37 ---
+37
+Drug Clinical use Properties Toxicities
+Procaine
+The prototype
+Manufacture 
+discontinued
+Subcutaneous infiltration 
+for minor skin and dental 
+procedures
+Low potency
+Rapid onset
+Short-acting
+All ester-linked LAs:
+Hypersensitivity reactions in 
+PABA-allergic patients
+Chloroprocaine Infiltration
+Peripheral nerve block
+Spinal anesthesia
+Low potency
+Very rapid onset
+Short-acting
+As for procaine
+Tetracaine Spinal anesthesia Highly lipophilic
+High potency
+Long-acting (2-3 h)
+Significant toxicity when 
+used for high-volume 
+peripheral block
+Benzocaine Topical only
+(rapid absorption from mucous 
+membranes but poorly from skin)
+Various forms, including 
+aerosol spray
+Low pKa (3.5) → exists 
+as nonionized base at 
+physiologic pH
+Methemoglobinemia
+Aerosol spray for 
+bronchoscopy, endoscopy, 
+transesophageal 
+echocardiograph
+Cocaine Topical for nose, mouth, 
+pharynx procedures
+(highly vascular tissues)
+Intrinsic vasoconstriction 
+Rapid onset
+Short-acting
+Abuse potential
+(dopamine, serotonin, 
+norepinephrine reuptake 
+inhibitor)
+Ester-linked local anesthetics 
+--- Page 38 ---
+Amide-linked local anesthetics
+38
+--- Page 39 ---
+39
+Drug Properties Clinical uses
+Lidocaine Rapid onset, moderate potency, moderate duration
+Hepatic CYP1A2,3A4 metabolism to active xylidide 
+metabolites
+Local, regional, neuraxial anesthesia
+Topical derm products, eye, ear, mouth,
+transdermal patch (OTC and Rx)
+Prilocaine Rapid onset, moderate potency, moderate duration
+Hydrolysis, hepatic and renal amidases to o-toluidine 
+(oxidizing metabolite → methemoglobin; dose-depen.)
+Metabolite excreted in urine
+Lidocaine + Prilocaine topical cream 
+(eutectic mixture)
+The only use currently available in US
+Mepivacaine Rapid onset, moderate potency, moderate duration
+Hepatic metabolism; metabolites excreted in urine
+Dental anesthesia
+Local, regional, neuraxial anesthesia
+Bupivacaine Rapid onset, high potency, long-acting
+Hepatic CYPs; metabolites excreted in urine
+Local, regional, neuraxial anesthesia
+Low dose: Pain management
+Higher dose: Sensory and motor block
+Ropivacaine Rapid onset, high potency, long-acting
+Hepatic CYP1A2 and other CYPs; urine / metabolites
+Local, regional, neuraxial anesthesia
+Pain management: post-surg / obstetrics
+Articaine Plasma carboxyesterase to inactive metabolite; 
+metabolite excreted in urine
+Dental anesthesia
+(formulated with epinephrine)
+Amide-linked local anesthetics: Properties and Therapeutic Uses
+Clearance is highly dependent on hepatic blood flow, hepatic extraction, enzyme function. 
+--- Page 40 ---
+40
+Drug Toxicities
+LAST All LAs can cause local anesthetic systemic toxicity – neurotoxicity and 
+cardiotoxicity – in clinical concentrations. 
+• Degree of toxicity is dose-dependent and drug-dependent
+• Lipid rescue: Administration of intravenous lipid emulsion 20%. 
+Bupivacaine is the most cardiotoxic of the LAs. CNS and CV toxicity occur almost simultaneously.
+Lidocaine • Transient neurological symptoms (TNS) – Characterized by reversible back pain 
+with radiation to buttocks or legs following spinal anesthesia.
+− High incidence (14-37%) with spinal lidocaine
+− Resolves in a few days usually without sequelae
+− Mepivacaine: occurs but lower incidence
+• Cauda equina syndrome: Irreversible nerve injury (very rare) following spinal 
+anesthesia: saddle anesthesia or paresthesia, urinary and/or fecal incontinence, 
+lower extremity weakness
+Prilocaine Methemoglobinemia due to o-toluidine (oxidizer) → cyanosis in susceptible patients
+Amide-linked local anesthetics: Toxicities Reminder 
+--- Page 41 ---
+Summary and 
+Answers to the Check your knowledge questions
+41
+--- Page 42 ---
+Structure and classification:
+• A lipophilic aromatic ring determines lipid solubility and potency.
+• An intermediate ester or amide chain classifies the drugs and determines its metabolic 
+pathway.
+• A hydrophilic amine group affects the drug’s pKa and water solubility.
+• Esters: procaine, chloroprocaine, tetracaine, cocaine, benzocaine
+• Amides: lidocaine, mepivacaine, prilocaine, bupivacaine, ropivacaine
+Pharmacokinetics
+• pKa and onset: pKa determines the ratio of ionized to nonionized forms at physiological pH. 
+The nonionized form is lipid-soluble and can cross the nerve cell membrane. Once inside the 
+cell, it re-ionizes. LAH+ binds the target inside the Na+ channel from the cytoplasmic side.
+• Lipid solubility and potency: Higher lipid solubility correlates with increased potency and faster 
+onset of action.
+• Protein binding and distribution: High protein binding in the plasma and tissues correlates with 
+longer duration of action.
+• Vasoconstrictors: Agents like epinephrine are often added to local anesthetics to cause 
+vasoconstriction, which limits systemic absorption, prolongs the local effect, and reduces the 
+risk of systemic toxicity. 42
+--- Page 43 ---
+Mechanism of action
+• Target: primarily voltage-gated Na+ channels on the neuronal membrane
+• Blockade – state-, use-, voltage-dependent: LAs preferentially bind the open and inactivated 
+state of the Na+ channel. LAs enhance the fast inactivate state (prolongs block), accumulate 
+block in frequently firing neurons, and bind more strongly at depolarized potentials.
+• Differential block: Small myelinated and unmyelinated nerve fibers (A and C fibers) that 
+transmit pain and temperature are generally more susceptible to block than larger myelinated 
+motor fibers, which can result in a differential loss of sensation. Sympathetic nerve fibers are 
+most sensitive.
+Toxicity
+• Systemic toxicity is dose-dependent. It can occur if large amounts of LA enter the bloodstream.
+• CNS: Initial symptoms may include circumoral numbness, tinnitus, dizziness, progressing to 
+muscle twitching, CNS depression, seizures, and ultimately respiratory depression. CNS 
+symptoms typically appear before cardiovascular effects.
+• Cardiovascular effects: At very high concentrations, LAs can cause hypotension, bradycardia,  
+depressed cardiac function leading to arrhythmias and eventually cardiovascular collapse. 
+• Bupivacaine is the most cardiotoxic LA. It tightly binds Na+ channels. CNS and CV toxicity 
+occur almost simultaneously. 
+• TNS, caudal equina syndrome: Lidocaine spinal anesthesia
+• Methemoglobinemia: toxic metabolites of prilocaine and benzocaine 43
+--- Page 44 ---
+How do the pharmacokinetic properties of local anesthetics influence clinical use?
+• Structural and physicochemical properties of the drugs influence protein binding, tissue 
+distribution, onset and duration of action, metabolism, and toxicity.
+• Ester-linked LAs are rapidly metabolized by pseudocholinesterase so tend to have a shorter 
+duration.
+• Amide-linked LAs are metabolized by the liver so tend to have a longer duration. 
+How is the pKa of a LA related to the onset of action?
+• The LA with the pKa closest to physiological pH will have a greater proportion of the molecule 
+in the uncharged form (compared to a drug with a higher pKa). The uncharged form diffuses 
+through the membrane. Therefore, a higher concentration of the LA is delivered to the site of 
+action → more rapid onset. 
+How is the potency of a LA related to its lipid solubility?
+• Highly lipid soluble LAs easily diffuse through neuron membranes, whereas penetration by less 
+lipid soluble LAs is less efficient. Highly lipid soluble LAs have greater affinity for the nerve cell 
+membrane (and surrounding tissues). Thus, a lower dose is needed to produce an equivalent 
+effect. Furthermore, higher lipid soluble LAs have also have a longer duration of action.
+Check your knowledge
+44
+--- Page 45 ---
+What factors determine the duration of action of a local anesthetic?
+• Duration of action is primarily determined by how quickly the drug is cleared from the 
+nerve, which depends on local blood flow and protein binding, rather than metabolism.
+What are the mechanisms?
+• Vascularity: High vascularity (high blood flow) at the local site → faster washout → 
+shorter duration
+➢ Vasoconstriction by epinephrine or other vasoconstrictor slows removal of the LA 
+from the anesthetic site → systemic absorption is decreased and duration is 
+increased.
+• Protein binding: Binding to tissue proteins acts as a reservoir that slowly releases the 
+drug.
+➢ Highly lipid soluble LAs tend to bind more tightly to tissue proteins and are retained 
+in nerve membranes → longer duration of action
+Check your knowledge
+45
+--- Page 46 ---
+Which form of the weak base binds to the inner vestibule of the Na+ channel and 
+prolongs the inactivation phase?
+• The ionized form: LAH+.
+What are the components of the mechanism of action?
+• The LA preferentially binds the sodium channel in the open and inactivated state 
+→ stabilizes the fast inactivation state, accumulates block during repetitive firing, 
+and binds more strongly at depolarized potentials, with minimal effect on normal 
+low frequency signaling.
+• State-dependent, use-dependent, voltage-dependent block
+Check your knowledge.
+46
+--- Page 47 ---
+• What are the manifestations of LAST?
+CNS:
+• Sympathetic NS: Sympathetic outflow is transiently increased → then  sympathetic outflow
+• Early symptoms: perioral numbness, metallic taste, tinnitus, nystagmus
+• Later CNS symptoms:  agitation, muscle twitching → CNS and myocardial depression → 
+death by respiratory depression
+Cardiovascular:
+• Sympathetic → Initial BP and tachycardia → then vasodilation / hypotension, bradycardia 
+Direct cardiovascular Na+ block:
+• Hypotension, bradycardia
+• depression of conduction velocity → indirect  in Ca2+ influx →  myocardial contractility 
+Mitochondrial dysfunction →  energy output
+What is the LAST reversal agent?
+• LAST may be fatal. Lipid rescue: IV lipid emulsion administration
+Which LA is associated with the highest risk of cardiotoxicity?
+• Bupivacaine rapidly and strongly binds sodium channels and dissociates slowly (fast in, slow 
+out) → Bupivacaine is the most cardiotoxic LA. 
+• CNS and CV toxicity occur almost simultaneously.
+Check your knowledge
+47
+--- Page 48 ---
+What are the cause, manifestations, and prognosis of TNS? 
+• Lidocaine spinal anesthesia may cause transient neurological symptoms: pain, burning, 
+prickly, achy sensations (dysthesia), which is not associated with sensory loss, motor 
+weakness, or bowel and bladder dysfunction
+• Reversible: Usually resolves within several days.
+• Lower incidence with mepivacaine.
+What are the cause, manifestations of cauda equina syndrome, and potential prognosis of it?
+• Lidocaine subarachnoid administration can very rarely lead to irreversible compression of the 
+nerve root bundle extending from the end of the spinal cord, which can lead to urinary / fecal 
+incontinence and lower extremity weakness
+What are the causes and effects of methemoglobinemia?
+• Prilocaine toxic metabolite o-toluidine; benzocaine (spray) toxic metabolite N-hydroxy aromatic 
+amines. Can lead to cyanosis.
+Which LAs have the highest incidence of hypersensitivity reactions?
+• Ester-linked LAs are rapidly metabolized to PABA, which is associated with hypersensitivity 
+reactions.
+• Amide-linked LAs have a low potential for allergic reaction.
+Check your knowledge
+48
+--- Page 49 ---
+4
+9
+--- Page 50 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWY
+XREL4R​
+
+
+--- Transcript Content ---
+Welcome students
+to the Pharmacology
+of the Local Anesthetics.
+Dr. Goldstein speaking.
+Please contact
+me if you'd like
+to chat about
+pharmacology.
+Here are the
+learning objectives.
+I put headings on
+each one of them
+so that you can
+more easily tell
+what it is you
+need to learn.
+Preparation materials.
+they strongly
+advise you to work
+with the materials.
+The only thing that
+I expect from you is
+the practice questions.
+You can gather the
+new learning any way
+you like to do it.
+Here are links
+to help you
+if you wish to use them.
+Key points, I put
+them into tables
+to help separate
+the ideas for you.
+You can use these key
+points as an overview,
+can be helpful as
+an outline, or as a
+summary or something
+to help you learn by.
+And that brings
+us to the lecture.
+The local anesthetics
+are divided into
+two categories the
+ester linked and the
+amide linked esters
+and amides for short
+the ester linkage
+here the amide
+linkage here you
+can see it's linking
+two components of
+the molecule on
+this side of this
+figure we have an
+aromatic ring and
+it is lipophilic.
+On the other side is
+a hydrophilic group
+and these characteristics
+are important
+for the function of
+local anesthetics.
+We'll begin with a
+pharmacokinetics just
+because I think of
+it this way. First we
+have to get the drug
+into the patient.
+Local anesthetics
+are intended to
+be used locally as
+their name says.
+They are usually given
+by one bolus injection
+into the site of
+action and it can be
+a small amount or a
+larger amount depending
+on the type of block
+that is intended.
+Once at the site of
+injection, they're
+generally slowly absorbed
+into the bloodstream.
+So systemic absorption,
+as you would expect,
+removes the drug from
+the site of action
+into the bloodstream,
+terminates the effect.
+and depending on how
+much drug enters the
+bloodstream, adverse
+effects can happen.
+The extent of
+systemic absorption is
+determined by the dose,
+the local vascularity,
+whether or not a
+vasoconstrictor has been
+used together with the
+local anesthetic, and
+of course the properties
+of the drug itself.
+Local anesthetics
+are plasma
+and tissue protein bound.
+The amide link
+anesthetics range from
+55 to 95 percent
+bound and this is
+determined by the
+lipophilicity of the drug.
+So this is a range
+for the amide
+local anesthetics
+from one to the other.
+They bind to a
+protein in the plasma
+called alpha-1
+acid glycoprotein.
+This is synthesized
+in the liver and
+expressed in higher
+amounts in people who have
+fever, inflammation,
+that sort of thing.
+now protein binding
+we know from our basic
+pharmacology lecture
+prevents the drug from
+being free and only
+free drug is available
+to go to the site of
+action be metabolized etc
+I'm sure you remember
+that so protein bound
+drugs bound to plasma
+and tissue proteins
+act as a
+reservoir, and they
+slowly release the drug.
+I put this in bold,
+this feature here in
+bold. Highly lipid
+-soluble drugs tend to bind
+more tightly to plasma
+and tissue proteins,
+and we'll see how this
+becomes important.
+Distribution.
+First, the highly
+perfused tissues.
+We're injecting them
+into the body. They'll
+enter the bloodstream
+at some point.
+And they will naturally,
+like all drugs,
+go to the highly
+perfused tissues
+first and then to the
+moderately perfused
+tissues. Now remember,
+these drugs have
+a certain degree
+of lipid solubility
+and it depends on
+the particular drug.
+So what can happen?
+first pass extraction.
+The lungs have a
+high vascularity
+and a high surface area.
+These lipid soluble
+drugs therefore can
+will pass through the
+lungs first, and a
+significant amount of
+the molecules of the
+dose will be sequestered
+in the tissue.
+And then, of course,
+it goes on to the
+highly perfused other
+organs. And finally,
+on to the less perfused
+muscles and fat.
+And here's why we
+think about that.
+Depending, of course,
+on the dose, there
+is a potential for
+organ toxicity with
+high local anesthetic
+concentrations.
+Toxicity.
+Metabolism. The
+ester-linked ones
+are rapidly
+metabolized in the
+blood by
+pseudocolonesterase.
+I'm sure you remember
+pseudocolonesterase,
+also called
+plasmacolonesterase, also called
+butyrylcholinesterase.
+It's all the same thing.
+And they are
+converted into para
+-aminobenzoic acid
+paba, which is
+inactive. So that
+happens rapidly.
+The amide link are
+oxidized by the hepatic
+CYPs. So it takes a
+little bit longer. And
+the metabolites are
+excreted in the urine.
+and very little
+unchanged drug goes out.
+Administration,
+topically, by
+infiltration directly
+into the local area
+of the peripheral
+nerve endings.
+There could
+be small areas
+where the peripheral
+nerves are.
+Nerve blocks is injection
+into the major
+nerve trunks.
+Neuraxial block means
+it's going
+into the spine.
+So it's injected
+into the tissue
+surrounding the
+nerve roots, and they
+are epidural or
+caudal or spinal.
+Spinal goes into
+the cerebral spinal
+fluid surrounding
+the spinal cord.
+And something
+called beer block or
+intravenous regional
+anesthesia, I think
+is a more frequently
+used term now.
+is intravenous,
+and I'll talk more
+about that when I
+get to the picture.
+I've been thinking
+intravenous, but aren't
+we supposed to be
+using them locally?
+Here's an example
+of a cream
+being applied
+to the skin.
+This is a patch
+applied to
+the skin, typically
+lidocaine,
+lidopatch. patch.
+And here the topical
+anesthetic is being
+applied to the mucous
+membranes of this,
+what appears to be a
+child, by the dentist.
+The nerve block
+will block a
+certain set of
+nerves. It's injected
+into the deeper
+tissues and this
+is an example of
+neuraxial block.
+You should be
+familiar with this
+term, neuraxial
+block, where it goes
+right into the
+spine. And epidural,
+caudal, also
+paraneural, and spinal.
+And finally the
+intravenous regional
+anesthesia. This It
+stays locally because the
+tourniquet is first
+placed over the upper arm
+in order to, in this
+picture anyway, over
+the upper arm to stop
+the flow of blood
+into the extremity.
+It has to be a fairly
+rapid procedure, 45 to
+60 minutes, and then
+the tourniquet would
+be released gradually,
+and the local anesthetic
+would be gradually
+absorbed into the
+systemic circulation.
+Let's talk about
+PKA now. I'm sure
+you remember our
+friends Henderson
+and Hasselbach and
+their equation.
+These are weak
+bases, pKa 7.5 to 9,
+depending on the
+particular antibiotic.
+Now, why is this
+important? Well, we're
+going to, with the
+Anderson-Hasselbach
+equation, I put it
+in this form, because
+we are comparing
+the different pKa
+values at pH of about
+7.4, the same pH.
+Why 7.4? Because
+that's physiologic pH.
+Now,
+think about the local
+anesthetic that has a
+pKa of 7.5. Well, that's
+just about 7.4. So
+at physiologic pH,
+there would be about a
+50-50 ratio of ionized
+to unionized, right?
+Approximately. But
+the drug with the
+pKa of 9 is going to
+have a much higher
+concentration of
+the protonated form.
+So, the local
+anesthetic with the pKa
+closer to physiologic
+pH will have a greater
+fraction of the drug
+in the uncharged
+form than the one
+with the higher PKA.
+This particular
+information is important
+because it is the uncharged
+form that diffuses
+through the nerve
+membrane. And the side of
+action is inside the
+sodium channel on the
+cytosolic side. So the
+drug has to get through
+the membrane in order
+to reach the site
+of action, which means
+it's the uncharged form
+that's needed. So for
+a drug that's, say,
+50-50 rather than
+1 to 1,000, just
+to throw some
+numbers out there.
+The drug with a pKa of
+7.5 is going to have
+a much larger ratio
+of the uncharged form
+and therefore, well, a
+greater amount of the
+local anesthetic will
+reach the cytoplasm.
+Now,
+this is important
+for the onset of
+action. In order
+for the drugs to
+start acting, It's
+got to get there.
+So it's got to
+pass through.
+And the amount of drug
+that passes through
+and gets to the site
+of action in adequate
+dose to block the
+sodium channel is going
+to have a faster onset
+of action than the
+drug that has a
+smaller amount of the
+uncharged form passing
+through. the membrane.
+Now, I have a practice
+point over here
+and it's related to
+pH. We think about
+the physiologic pH
+being around 7.4.
+In infected tissue,
+the area is more
+acidic. There's a lower
+pH. So as the
+extracellular pH goes more
+acidic, the ratio
+goes more towards the
+charged form. So a
+smaller amount of a
+given drug will reach
+the site of action.
+So they're less
+effective at that dose.
+Now let's talk
+about potency.
+Potency is related
+to lipid solubility.
+Well why would that be?
+Because the greater
+the lipid solubility,
+the greater the
+affinity for the
+lipid bilayer of
+the nerve membrane.
+Therefore, a greater
+fraction of the
+molecules in the dose
+can enter the neurons.
+So on the one side,
+we have to think
+about pKa and the
+fraction of uncharted
+form that's available
+to pass through, but
+it also has to be
+lipid-soluble enough
+to actually pass
+through the membrane.
+And the potencies are
+different based on
+their relative lipid
+solubilities. So
+procaine is the prototype,
+and it was assigned
+arbitrarily 1 as a
+comparison point.
+Chloroprocaine,
+which I don't have a
+star on, is almost
+two times more potent.
+******* is about
+twice as potent.
+Tetracaine is very,
+very potent compared
+to procaine. And
+benzocaine is used
+topically only, and
+it's not very potent.
+All right, so
+these are the ester
+linked. Remember
+how the esterolinks
+are metabolized.
+That's the
+pseudocolonesterase
+in the plasma.
+So they have a short
+duration of action
+largely because, one,
+low potency, and two,
+the rapid metabolism.
+Tetrocaine is
+an exception.
+Tetrocaine is usually
+given by spinal
+anesthesia,
+and there are little
+to no, probably no,
+pseudocolonesterase
+in the
+vicinity of
+the injection.
+And therefore, they
+are highly potent,
+and they have a long
+duration of action.
+Those are the takeaways
+with tetrocaine.
+As you can see,
+it's unique features
+compared to the
+other estrelinked.
+local anesthetics.
+Let's take a look
+at the amide link.
+Lidocaine is
+widely, widely used,
+probably the
+most widely used
+local anesthetic
+in the world.
+It has a moderate
+potency, so we'll
+think about that
+as four. It's
+about four times
+more potent than
+procaine. These
+are approximations.
+and it has a
+rapid onset and
+a medium duration
+of action.
+Bupivacaine, I
+don't have a star
+on. It's similar
+to lidocaine.
+It's approximately
+the same rate
+of onset and
+duration of action.
+Prolocaine is,
+again, in the same
+kind of neighborhood
+as lidocaine.
+So, bupivacaine and
+ropivacaine are
+really potent.
+Ropivacaine is slightly
+less potent than
+bupivacaine, which
+becomes an important
+idea later on. But
+it's not a lot less
+potent. We still
+call it potent. And
+they both have a long
+duration of action.
+High potency, long
+duration of action.
+Articane I put on
+here just so we
+remember that it
+actually is in the group,
+but I'm not going
+to talk about
+it. It's for
+dental use only.
+Duration of action
+is determined by the
+vascularity at the
+injection site and
+protein binding.
+Now, I mentioned
+before that metabolism
+can influence it to
+some extent, but
+it is these two
+features, vascularity
+and protein binding,
+that really determine
+the duration of
+action, because
+what is the duration
+of action? It's how
+quickly the drug
+is cleared from
+the nerve. When the
+drug moves out of the
+site of application,
+then the effect
+is terminated.
+So in areas of high
+blood flow, the
+local anesthetic
+is quickly removed.
+Makes sense,
+right? So there's
+a shorter duration
+of action.
+If a vasoconstrictor
+is used, and it's
+usually epinephrine,
+which is present together
+in the vial with the
+local anesthetic,
+then naturally the
+local anesthetic is
+going to stay around
+a little bit longer.
+So the duration
+is increased.
+Local anesthetics
+bind plasma and
+tissue proteins, I
+mentioned before,
+and of course,
+sodium channel
+proteins, that's
+a side of action.
+Protein-bound drugs
+act as a reservoir.
+They sequester
+the drug, and the
+drug will therefore
+be moved from
+those protein
+-binding sites slowly.
+Therefore,
+highly lipid-soluble
+drugs tend to bind
+more tightly to
+plasma and tissue
+proteins, be retained
+in the nerve membranes,
+and get a longer
+duration of action.
+So to circle,
+highly lipid-soluble
+drugs have a longer
+duration of action.
+Follow me? Let's
+talk about the mechanism,
+but before we talk
+about the mechanism,
+we have to understand
+about sodium channels
+and how they work.
+Voltage-gated sodium
+channels exist in at
+least three states.
+We're thinking about
+three for these local
+anesthetics. The
+resting state, you see
+that in this picture.
+The open and
+activated state, we
+see these little
+dots rushing
+through. Those
+are sodium ions.
+And it quickly
+moves to the
+inactivated state.
+We talked about fast
+inactivation
+state previously.
+And then it
+will go back to
+resting and so
+on and so forth.
+The local anesthetic,
+I mentioned before,
+needs to get into the
+cytosol and it will
+bind to the open and
+inactivated channel.
+There's a site inside
+the sodium channel
+where the drug will
+bind, and that will
+prolong this state,
+the inactivated state.
+So that's how they
+work. By prolonging
+the inactivated
+state, that
+reduces the high
+frequency firing.
+So let's get into
+more details now about
+the mechanism. I'll
+do a little repetition
+here. The non-ionized
+form of the LA passes
+through the nerve
+membrane into the cytosol,
+and once inside the
+cytosol, it's going
+to re-equilibrate into
+its ionized and non
+-ionized forms. And it
+is the ionized form
+that binds the
+sodium channel in
+the open and
+inactivated state.
+By doing so, it
+stabilizes the fast
+inactivation state,
+accumulates block during
+repetitive firing, and
+binds more strongly
+at depolarized potentials
+with minimal effect
+on the normal low
+-frequency signaling.
+I believe this sounds
+very familiar to
+you. This is the
+description of the
+mechanism of action
+of the sodium channel
+blockers that are
+anti-seizure drugs.
+State-dependent block
+channels in the open
+and activated state have
+a much higher affinity
+for the local anesthetic
+than the channel
+in the closed state,
+closed resting state.
+So what happens?
+They enhance the fast
+inactivation state
+and just as a frame of
+reference, recovery from
+drug induced block is
+ten to thousand times
+slower than the recovery
+of channels from the
+normal inactivation.
+So, stabilizing the
+fast inactivation
+state. That's our
+state dependent block.
+Use dependent block.
+Rapidly firing nerves
+are preferentially
+blocked by the
+local anesthetics.
+Blockade is more
+marked at higher
+frequencies of
+depolarization. So that's
+this accumulating
+block during
+repetitive firing
+is the use dependent
+And voltage changes
+causes changes in
+the conformation
+of the inner pore
+during channel opening
+and activation.
+So that's voltage
+-dependent gating.
+The more positive
+potentials, as in the
+depolarized state,
+increase the degree of
+anesthetic block,
+voltage-dependent block.
+So, let's have a little
+check your
+knowledge quiz.
+And I invite you to
+pause your computer
+and think about
+these, maybe look
+back if you don't
+remember, and then
+try and articulate
+it without looking.
+How do the pharmacokinetic
+properties of
+local anesthetics
+influence clinical use?
+That's why we care about
+pharmacokinetic
+properties.
+The structural and
+physicochemical
+properties, well,
+obviously the structure
+will determine the
+physicochemical
+properties of the
+drugs, influence
+protein binding,
+tissue distribution,
+onset and duration
+of action,
+metabolism, and toxicity.
+The ester-linked ones
+are metabolized by
+pseudocolonesterase,
+so they tend to have
+a shorter duration than
+the amide ones. The
+amide-linked are
+metabolized in the liver,
+so they tend to have
+a longer duration.
+How is the pKa of an LA
+related to the
+onset of action?
+The drug with a pKa
+closest to physiologic
+pH will have a
+greater proportion
+of the molecule
+in the uncharged
+form, which is
+necessary for passing
+through the membrane
+of the nerve cell.
+Therefore, a higher
+concentration
+of the local
+anesthetic is delivered
+to the site of
+action. Therefore,
+there's a more
+rapid onset.
+How is the potency
+of a local anesthetic
+related to its
+lipid solubility?
+Highly lipid soluble
+local anesthetics easily
+diffuse through the
+neuron membranes,
+whereas *********** of
+the less soluble drugs
+is less efficient. Highly
+lipid soluble local
+anesthetics have a
+greater affinity for the
+nerve cell membrane and
+also the surrounding
+tissue proteins,
+and let's not forget
+plasma proteins. Thus,
+a lower dose is needed
+to produce an equivalent
+effect. So back up.
+Easily diffuse through
+neuron membranes.
+Where am I?
+So a lower dose
+is needed to
+produce an
+equivalent effect.
+Plus they have a longer
+duration of action.
+What factors
+determine the duration
+of action of a
+local anesthetic?
+primarily determined
+by how quickly the
+drug is cleared from
+the nerve or washed
+out, that's called,
+which depends on
+the local blood flow,
+vascularity, and
+protein binding rather
+than metabolism.
+And how does this happen?
+High blood flow
+at the local site,
+faster washout,
+shorter duration.
+We had a vasoconstrictor,
+it slows it down.
+Binding to tissue
+proteins and also
+plasma proteins
+act as a reservoir
+that slowly
+releases the drug.
+Highly lipid-soluble
+drugs are bound
+more tightly to tissue
+proteins, retained
+in the nerve membranes
+also, therefore
+there's a longer
+duration of action.
+which form of the
+weak base binds to the
+inner vestibule that's
+the target of the
+sodium channel and
+prolongs the inactivation
+phase remember the
+ionized form what
+are the components
+of the mechanism of
+action preferentially
+binds the sodium
+channel in the open
+and inactivated state
+stabilizes the fast
+inactivation state,
+accumulates block during
+repetitive firing,
+binds more strongly
+at depolarized
+potentials, with
+minimal effect on
+the normal low
+-frequency signaling.
+State-dependent,
+use-dependent,
+voltage-dependent block.
+The rate of block
+also depends on the
+nerve sensitivity of
+the different nerves.
+because not all nerve
+fibers are equally
+affected by local
+anesthetics. Some are
+more sensitive, some
+are less sensitive.
+Sensitivity to
+block is determined
+by the diameter
+of the fiber,
+whether it's
+tiny or larger,
+the myelination
+of the fiber, and
+various other anatomic
+and physiologic
+factors. So
+the tiny, rapid
+-firing, sympathetic
+fibers are first.
+Then the small,
+thinly myelinated and
+unmyelinated fibers
+that transmit pain
+temperature and
+light touch are next.
+That's the
+point of a local
+anesthetic, is to
+block the pain.
+And then the
+deep pressure and
+finally the motor
+function is lost,
+is blocked.
+And I put here
+the various fiber
+types. I'm not
+going to be testing
+you on specific B
+fiber types, C fiber
+types, A delta,
+A beta, A alpha.
+But you should
+be aware of the
+differential sensitivity
+to blockade of
+each of these sets
+of neurons. There
+are anatomical
+factors involved as
+well. I'm not going
+into all of that.
+so let's talk about
+the effects of local
+anesthetic toxicity
+so when does toxicity
+happen it happens
+when the drug reaches
+the bloodstream and
+toxic doses so local
+anesthetic systemic
+toxicity, LAST, is a CNS
+and cardiotoxic effect
+of local anesthetics
+that have been
+systemically absorbed.
+We'll talk
+about transient
+neurologic symptoms,
+cauda equina syndrome,
+methamoglobinemia,
+and hypersensitivity.
+Remember, as the
+local anesthetics are
+intended to remain
+at the site of
+injection. They're
+not intended to be
+introduced into the
+systemic circulation.
+So how does it get
+there? Well it can occur
+by inadvertent
+vascular administration
+or continuous
+infusion. The
+lidocaine actually
+is an antiarrhythmic
+given by continuous
+infusion.
+The example of the
+intravenous nerve block,
+what if the tourniquet
+isn't tight enough?
+That drug will go
+straight into the system.
+The rate and
+extent of systemic
+absorption are, as
+I mentioned earlier,
+determined by the
+dose, the site of
+administration, local
+vascularity, presence of
+a vasoconstrictor,
+first pass extraction,
+Sequestration
+in muscle and
+fat, plasma
+protein binding,
+and to some
+extent, metabolism.
+Now, I hope you
+don't find this slide
+too busy. I know
+it's pretty busy, but
+I tried to break
+it up for you in a
+way you can easily
+see it. But I want
+to keep the CNS toxicity
+and cardiovascular
+toxicity next
+to each other so
+that you always think
+of them together.
+because last
+can be fatal.
+And the danger, of
+course, is related to
+how much drug gets
+into the bloodstream.
+And here's a clinical
+harbinger, a warning.
+This is a warning.
+CNS symptoms typically
+appear before
+cardiovascular collapse.
+So if a patient
+is starting to indicate
+numbness around
+his mouth and his
+metallic taste and
+feels dizzy, It should
+be, uh-oh, we've
+got drug going into
+the bloodstream.
+So early signs
+of CNS toxicity,
+which, as I
+said, tends to
+occur before the
+cardiovascular,
+are the perioral
+numbness, so
+the numbness
+around the mouth,
+this metallic
+taste, dizziness,
+nystagmus tinnitus.
+And remember, the
+sympathetic nervous system
+is very sensitive to
+local anesthetics. So the
+outflow is transiently
+increased as we
+block sodium channels
+in the inhibitory
+interneurons. And then, as
+the plasma concentration
+increases, there
+is a decrease in the
+sympathetic outflow.
+The sodium channels of
+the preganglionic and
+ganglionic sympathetic
+nerves are blocked.
+The greater degree of
+CNS depression that
+we see with the
+larger amounts are
+agitation and muscle
+twisting. and then
+that is followed by CNS
+depression, myocardial
+depression, and
+death by respiratory
+depression. So these
+are CNS effects.
+I want to draw your
+attention here. So
+this is a CNS
+effect but it's the
+cardiotoxic effect.
+With the increase in
+sympathetic outflow
+initially the blood
+pressure will go up
+and the heart rate
+will go up and then
+that's followed by
+Vasodilation,
+hypotension, and
+bradycardia. Add
+to that the direct
+effects of sodium
+channel block on
+the heart and
+vasculature. Again,
+hypotension
+and bradycardia
+from the direct effects.
+Depression of
+conduction velocity. and
+in that pathway what
+will occur is an
+indirect decrease in
+calcium influx and
+calcium influx is
+necessary for the heart
+muscle to contract
+so there will be
+a decrease in myocardial
+contractility.
+Now on top of that the
+local anesthetic can
+diffuse into the
+mitochondria and cause
+mitochondrial dysfunction.
+And what are the
+mitochondria for?
+They're our powerhouse.
+They provide the energy.
+So that gets interrupted.
+And then what can
+happen? Ventricular
+arrhythmias and
+cardiovascular collapse.
+So I bring your attention
+back to the
+opening statement.
+Well, fortunately,
+we do have a reversal
+agent, and it's
+called intralipid,
+IV intralipid
+emulsion, and in case
+you're interested
+in doses, it's 20%.
+This is a picture
+of the bottle,
+and there are
+long-chain fatty
+acids and other
+things in there.
+so there are a couple
+of theories as to
+how this lipid rescue
+works by introducing
+intralipid emulsion
+and into the veins
+intravenously that's
+going to create
+an expanded lipid
+compartment obviously
+and the local anesthetics
+are lipophilic
+they will partition
+into the lipid
+compartment And that
+is referred to as lipid
+sink. The drugs sink
+into the lipids.
+And redistribute,
+so shuttled, they
+get shuttled to the
+liver for detoxification
+and to the storage
+organs. Wherever
+the blood is going,
+takes the drug
+with them, the
+lipid with the drug.
+And there are
+guidelines on how to
+use this intralipid
+for lipid rescue.
+Well, what are
+the relative risks
+of LAS between
+these various drugs?
+So bupivacaine is by far
+the most cardiotoxic.
+Most cardiotoxic.
+Why? Why? Because
+high lipid solubility,
+high protein
+binding, plasma and
+tissue proteins,
+slow channel
+dissociation, fast on,
+slow off, and the
+CNS warnings can be
+brief or absent.
+CNS equals CV, and I
+said before, it's
+generally the CNS that
+occur first as a
+warning, but with
+bupivacaine, it
+isn't necessarily so.
+Now, ropivacaine, we
+know that that's also
+very potent. It is
+slightly less potent
+than bupivacaine, and
+CNS effects are seen
+before the cardiovascular
+effects. So it
+has lower cardiotoxicity.
+This is not to say
+it doesn't have
+cardiotoxicity. It does.
+It tends to be a
+little bit less
+lipid soluble with a
+bit faster dissociation
+rate from the
+sodium channel.
+Now,
+lidocaine and
+mipivacaine are moderate
+CNS effects
+well before the
+cardiovascular
+collapse because of the
+faster sodium
+channel dissociation.
+They have this
+wider safety margin.
+And prolocaine has
+the lowest risk,
+wide safety margin,
+rapid metabolism.
+However, it can cause
+methemoglobinemia,
+cyanosis,
+cyanosis, this is an
+A, which can be fatal.
+So, whereas it may
+have a wide safety
+margin in relation
+to systemic toxicity,
+it does cause
+methemoglobinemia.
+Now, these three others
+are on this slide.
+Notice that
+it's lidocaine
+spinal analgesia
+for these two.
+Transient neurologic
+symptoms, TNS.
+What is this? It occurs
+pretty frequently.
+I've read up to
+a third of the
+patients can
+develop this with
+lidocaine spinal
+anesthesia.
+Get this pain or burning.
+It's really painful.
+Prickly, achy sensation.
+this is called
+dysesthesia,
+radiating from
+the lower back and
+gluteal region to
+the posterior thighs.
+It can be mild or
+severe, and when
+it's severe, it's
+just unbearable.
+It is not associated
+with sensory
+loss, motor weakness,
+or bowel and
+bladder dysfunction.
+It is reversible,
+and it generally
+goes away by
+itself within
+several days.
+serious and permanent
+complications
+after spinal anesthesia
+with the lidocaine
+are very rare
+mapivacaine is another
+one that occurs
+with lower incidence
+and it's not seen with
+high frequency with
+the other local
+anesthetics i'm sure
+there are case reports
+but in general it's
+much lower incidence.
+Now, cauda equina
+syndrome fortunately is
+very rare, but because
+it's irreversible,
+that's why it's
+fortunate it's very rare.
+Compression of the
+nerve root bundle
+extending from the end
+of the spinal cord will
+produce this saddle
+anesthesia or
+paresthesia, meaning
+the areas that would be
+affected when you're
+sitting on a saddle.
+Urinary and *****
+incontinence and
+lower extremity
+weakness can occur with
+these. See how
+different it is from
+the transient
+neurologic symptoms?
+And methemoglobinemia.
+Methemoglobinemia
+occurs when the
+iron within the
+hemoglobin of red
+blood cells is
+converted to the ferric
+form, which does
+not bind oxygen.
+So this toxic metabolite
+of prolocaine called
+otoluidine can lead
+to methemoglobinemia.
+And because it's not
+binding oxygen, that
+can lead to cyanosis
+and death, potentially.
+All dose-dependent,
+of course.
+Now benzocaine,
+I mentioned, is
+only, I don't know
+if I mentioned it.
+Benzocaine is only
+used topically.
+It's quite hydrophobic.
+Look at that
+PKA. However,
+when used as an aerosol
+spray for procedures
+such as bronchoscopy,
+endoscopy,
+transesophageal
+echocardiography, it is well
+absorbed through mucous
+membranes. It doesn't
+absorb through skin
+very well, but it does
+absorb through mucous
+membranes and it
+will get into the systemic
+circulation and it
+forms toxic N
+-hydroxyaromatic amines,
+which in turn can lead
+to methemoglobinemia.
+And the advice from
+our authorities is
+to avoid benzocaine
+in teething infants
+and children's mouth
+sores. those are
+mucous membranes,
+and we know that
+benzocaine can be
+absorbed through them.
+Hypersensitivity.
+Well, the ester local
+anesthetics is
+associated with a fairly
+high degree of
+hypersensitivity reactions
+compared to other
+types of drugs, and
+this is related to
+the metabolite paba.
+It's the paba
+that's causing
+the hypersensitivity
+reaction.
+The amylocal
+anesthetics has a
+very low incidence.
+Pregnancy, well we
+always want to know
+can we use the drug
+in pregnancy and in
+fact I'm sure you're
+all aware that
+local anesthetics are
+widely used to manage
+the pain during
+labor and delivery.
+It's given epidural,
+spinal, depending
+on the degree of
+anesthesia that's needed,
+labor or vaginal or
+cesarean delivery.
+The local
+anesthetics that are
+frequently used
+are bupivacaine,
+ropivacaine, tetracaine,
+and possibly lidocaine.
+now we talked
+about epinephrine
+being used
+together with the
+local anesthetic
+to keep it
+in place a little
+longer but it should
+not be used in
+obstetrical patients
+so think about this it
+is a vasoconstrictor
+vasoconstriction
+can compromise
+blood flow to the
+uterus and placenta
+and it can risk maternal
+hypertension
+tachycardia and
+arrhythmia if it
+does get absorbed
+so i invite you
+to pause the video
+again and think
+about these
+questions look back
+if you like and
+then try and repeat
+it from memory
+what are the
+manifestations of
+local anesthetic
+systemic toxicity
+cns and cardiovascular
+that should
+jump right out at
+you so early and late
+that you should be
+thinking about that, and
+also remember sympathetic
+nervous system.
+So manifestations,
+CNS, cardiovascular,
+early, late, and
+sympathetic
+nervous system.
+So the sympathetic
+nervous system, the
+sympathetic outflow
+is transiently
+increased as the
+sodium channels on the
+inhibitory interneurons
+are blocked, and
+then sympathetic
+outflow is decreased.
+Early symptoms, perioral
+numbness, metallic
+taste, dizziness,
+tinnitus, nystagmus,
+and then later,
+agitation, muscle
+twitching, CNS and
+myocardial depression,
+death usually by
+respiratory depression.
+And cardiovascular
+effects, well we get the
+CNS sympathetic effects,
+and we know that
+That reduced
+sympathetic outflow plus
+inhibition of sodium
+channels on the preganglionic
+and ganglionic
+neurons will lead to
+vasodilation, hypotension,
+and bradycardia.
+And then local anesthetics
+can act directly
+on cardiovascular
+sodium channels to lead
+to hypotension and
+bradycardia through
+that mechanism.
+depression of conduction
+velocity with indirect
+decrease in calcium
+influx into the
+myocardial cells, and that
+will decrease the
+contraction of the heart
+myocardial cells, and
+then also the myocardial
+dysfunction that
+decreases the energy
+output. I forgot to
+mention that part of the
+theory of the lipid
+rescue is that it's
+supplying these long
+-chain fatty acids that
+the mitochondria can
+use to produce ATPs.
+And the reversal agent,
+intralipid. And I
+should put that here.
+long chain fatty acids.
+Which LA is associated
+with the highest
+risk of cardiotoxicity?
+Say it out loud.
+Yes,
+bupivacaine.
+It strongly binds sodium
+channels, dissociates
+slowly, and CNS
+and cardiovascular
+toxicity can occur
+almost simultaneously.
+What are the cause
+manifestations
+and prognosis of TNS?
+Transient neurologic
+symptoms with
+lidocaine spinal
+anesthesia, so pain and
+burning and prickly,
+achy sensations.
+It is not associated
+with sensory loss,
+motor weakness, or
+bowel and bladder
+dysfunction,
+reversible, and usually
+resolves by itself
+within several days.
+We see it also
+with pivacaine,
+but a lower incidence.
+And cauda
+equina syndrome,
+lidocaine subarachnoid
+administration,
+that's spinal anesthesia,
+can very rarely
+lead to irreversible
+compression of
+the nerve root
+bundle extending from
+the end of the spinal
+cord, which can
+lead to urinary and
+***** incontinence and
+lower extremity
+weakness and that's
+saddle area, paresthesias
+and numbness.
+And what are
+the causes and
+effects of
+methemoglobinemia?
+prolocaine and benzocaine
+and the LA's with
+the highest incidence
+of hypersensitivity
+reactions the ester
+linked and that brings us
+to the individual
+drugs chloroprocaine is
+not starred because
+its activity is really
+pretty much the same as
+procaine but procaine
+is not on the market
+anymore. Chloroprocaine
+is. So it's very rapid
+acting, very rapid
+onset, and short
+duration of action. Those
+are the takeaways with
+chloroprotein. Ester,
+pseudoclonesterase
+metabolism.
+So you know.
+Tetrocaine, *******.
+Tetrocaine because
+it's very important in
+clinical use. *******
+because it's actually
+still used as a local
+anesthetic. Benzocaine
+for the reasons
+that we saw earlier.
+Lidocaine because it's
+the local anesthetic.
+Prolocaine because of
+the methemoglobinemia.
+Mepivacaine is pretty
+much like lidocaine,
+so I'm not including
+a star on that.
+And bupivacaine or
+opivacaine, I think
+you can see why it's
+important to know
+those. So let's start
+with the estralink.
+Procaine, chloroprocaine,
+tetracaine,
+and benzocaine, these
+are all synthetic.
+Pseudocholinesterase,
+metabolism,
+rapid hydrolysis,
+so it's less than
+a minute, so you
+can imagine how
+short the duration
+of action is.
+2-PAPA. um
+patients who have
+reduced or absent plasma
+cholinesterase
+because of a genetic
+single nucleotide
+polymorphism those drugs
+will not be metabolized
+as rapidly so
+they can accumulate
+and the therefore we
+might see the same
+types of toxicities
+we see with the other
+amide linked ones.
+And then we have our paba
+hypersensitivity
+reactions.
+I included here a
+reminder that spinal fluid
+contains a little or
+no esterase so the
+effect of tetracane for
+spinal administration,
+spinal anesthesia is
+going, plus the fact that
+it's highly potent,
+it will stay around
+for quite some time,
+long duration of action.
+******* is a
+natural product.
+It is metabolized by
+pseudocolonesterase
+and also hepatic
+esterases
+to a toxic n
+-hydroxyaromatic
+amines.
+some other features
+of this group of
+drugs manufacturing
+discontinued well if
+it's not manufactured
+anymore why do i
+need to know it it is
+the prototype it is
+the drug to which
+everything else was
+compared it prototype
+means it was the
+first one you may
+have heard of it is
+Novocaine. It was widely
+used in dentistry.
+You can read these
+for yourselves. This
+is everything that
+I've been saying.
+Chloroprocaine,
+same deal.
+Tetracaine I put in
+a shade here. This
+happens to be a light
+green shade because
+it's for spinal
+anesthesia, highly
+lipophilic, high
+potency, long-acting, and
+there is significant
+toxicity potential when
+used for high volume
+peripheral block.
+Benzocaine topical
+only, rapid absorption
+from mucous
+membranes, but poorly
+absorbed from the
+skin, comes in various
+topical forms,
+including that aerosol
+spray I mentioned
+before, very low pKa.
+And it can cause
+met hemoglobinemia
+when systemically
+absorbed. *******,
+all right, what do
+we use this for?
+Topically for
+nose, mouth, and
+pharynx procedures,
+this is why.
+These are highly
+vascular tissues and
+******* has an intrinsic
+vasoconstriction
+action. So epinephrine
+isn't even needed.
+Rapid onset, short
+acting, and of
+course, ******* has
+the ***** potential.
+The amides,
+lidocaine,
+rapid onset,
+moderate potency,
+moderate duration
+of action,
+hepatic CYP metabolites,
+metabolism to the
+xylodide metabolites.
+You should remember
+the xylodides. They
+are active. They also
+go into the CNS and
+can contribute to last.
+They're not as potent
+as lidocaine, but
+they can still block
+sodium channels.
+So that's why you
+need to remember
+these xylodide
+metabolites,
+plus the others
+don't have them.
+This may become an
+issue when lidocaine is
+used intravenously as
+an anti-arrhythmic.
+And lots and lots
+and lots of uses.
+Prilocaine really
+is only used
+topically here in
+the United States.
+Now,
+prilocaine is mixed
+together with lidocaine.
+They're both solids,
+and when you mix them
+together, it causes
+the melting point to
+go down, and they turn
+into a topical cream.
+Mepivacaine, rapid
+onset, moderate
+potency, moderate
+duration,
+hepatic metabolism,
+so pretty much the
+same as lidocaine. It's
+used in dental
+anesthesia quite a bit.
+Bupivacaine, rapid onset,
+high potency,
+long duration,
+hepatic CYPs,
+metabolites out in the
+urine. You see this
+pattern here? You don't
+have to remember every
+single one, every
+single individual
+drug, because it's
+pretty much the same
+all the way through.
+You do have to
+know what it's
+used for, local,
+regional, and
+norexial
+anesthesia mainly.
+A low dose is good
+pain management.
+Higher dose,
+we start to see
+the sensory and
+motor block.
+Rupivacaine, same
+thing. It's pretty much
+the same as bupivacaine.
+We remember, though,
+that it seems to be
+a little bit safer
+because the cardiotoxicity
+does occur after
+the CNS toxicity
+symptoms are manifest.
+Artecanum, just
+dental anesthesia.
+So toxicities, they
+can all cause local
+anesthetic systemic
+toxicity. The
+degree of severity of
+the toxicity Depends
+on the dose and on
+the drug itself.
+And then there's the
+lipid rescue that
+will bind up that
+drug, bring it into the
+lipid, and move it
+around. Move it to
+the liver, move it to
+the storage organs.
+Bupifacaine is the
+most cardiotoxic.
+You can never say
+that too much.
+Lidocaine, we see the
+transit neurologic
+symptoms, and the
+quadokina, and prolocaine,
+the methemoglobinemia.
+So this slide
+is really a reminder
+of the others, and
+I'm putting it here
+because I want to
+make sure that you
+understand the toxicities
+of these drugs. It's
+worth repeating.
+And summary. I'm not
+going to read the
+summary to you. This
+is everything we've
+been talking about.
+Hopefully this summary
+is arranged in a
+way that will help
+you. And then we have
+your answers to the
+Check Your Knowledge
+questions and hope
+you remain pain-free.
+That concludes
+this lecture.
+

@@ -1,0 +1,849 @@
+Lecture 56 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Neurodegenerative diseases and 
+Selective Neuropathies
+Principles and Practices of Osteopathic Medicine I
+Maria M. Plummer, M.D.
+Associate Professor
+Department of Clinical Specialties
+mplummer@nyit.edu
+--- Page 2 ---
+• 1. Discuss and describe the pathogenesis and morphological (including 
+histological) changes of Alzheimer disease and Pick disease with 
+clinicopathological correlation.
+• 2. Discuss and describe the pathogenesis and morphological (including 
+histologic changes) of Parkinson disease with clinicopathological 
+correlation.
+• 3. Discuss and describe the pathogenesis and morphological (including 
+histological) changes of Huntington disease with clinicopathological 
+correlation.
+• 4. Discuss and describe the pathogenesis and morphological (including 
+histological) changes of ALS and prion encephalopathies with 
+clinicopathological correlation.
+• 5. Discuss and describe the pathogenesis and morphological (including 
+histological) changes of selected neuropathies including Charcot-Marie-
+Tooth disease, diabetic peripheral neuropathy, and traumatic and 
+compression neuropathywith clinicopathological correlation.
+Session Objectives
+
+--- Page 3 ---
+NEURODEGENERATIVE 
+DISEASES
+• Mostly grey matter diseases - progressive loss of neurons 
+and associated secondary changes in white matter tracts
+• Common theme – accumulation of protein aggregates 
+(inclusions) resistant to degradation 
+• Small protein aggregates – aberrant localization within 
+neurons, elicit stress response in neurons, toxic to neurons; 
+appear as inclusions (micro)
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+--- Page 4 ---
+ALZHEIMER DISEASE
+• Most common cause of dementia in people > 50 years , increasing 
+incidence with age 
+• Neurodegenerative disease affecting cerebral cortex
+• Major clinical manifestation: dementia; progressive loss of cognitive 
+function
+• Begins as slow impairment of higher cognitive function with changes 
+in mood and behavior; progresses to disorientation, memory loss, 
+visuospatial disorientation, judgement problems, personality changes 
+and aphasia over 5 – 10 year period or longer
+• Patients become severely disabled, mute, immobile; pneumonia 
+usually terminal event
+• Most cases sporadic; 5 – 10% cases familial
+• Pathological examination of brain tissue at autopsy needed for 
+definitive diagnosis though clinical assessment and modern 
+radiology can make premortem diagnosis in 80 to 90% of cases
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+
+--- Page 5 ---
+Alzheimer’s disease
+• Cortical atrophy with 
+gyral narrowing and sulcal 
+widening especially in 
+frontal, temporal, and 
+parietal lobes
+• With significant atrophy - 
+compensatory ventricular 
+enlargement 
+(hydrocephalus ex 
+vacuo) secondary to 
+reduced brain volume
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+https://image.slidesharecdn.com/copingandcaringwithalzheimersdisease-150608185522-lva1-
+app6891/95/coping-and-caring-with-alzheimers-disease-and-dementia-your-action-group-in-action-68-
+638.jpg?cb=1433789954
+--- Page 6 ---
+Robbins and Cotran, Pathologic Basis of Disease, 11h ed., 2025, Ch. 28
+• Accumulation of two proteins (Aβ and tau) in specific brain regions, 
+likely because of excessive production and defective removal 
+• Two pathologic hallmarks of AD: amyloid (neuritic) plaques and 
+neurofibrillary tangles 
+• Plaques: deposits of aggregated Aβ (A-beta) peptides in the neuropil
+• Tangles: aggregates of microtubule binding protein tau; develop 
+intracellularly and persist extracellularly after neuronal death
+• Both plaques and tangles contribute to neural dysfunction
+• Number of neurofibrillary tangles correlates better with the degree of 
+dementia than does the number of neuritic plaques
+• Progressive, eventually severe, neuronal loss and reactive gliosis in same 
+regions of plaques and tangles
+AD - pathogenesis
+6
+--- Page 7 ---
+Robbins and Cotrin, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+• Fundamental problem : deposition of A-beta peptides, derived from 
+processing of APP (amyloid precursor protein) 
+• Aβ generation seems to be critical initiating event for development 
+of AD
+• Processing of APP begins with cleavage in extracellular domain, 
+followed by intramembranous cleavage
+• Two extracellular sites of cleavage – may be by two different proteases, 
+α-secretase and β-secretase
+• IF first cut occurs at α-secretase site: Aβ not generated (non-
+amyloidogenic pathway)
+• Surface APP can be endocytosed into vesicles, where it can be cleaved 
+by β-secretase (cuts at slightly more N-terminal site within APP: the 
+amyloidogenic pathway) 
+Role of A-beta  in AD
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+--- Page 8 ---
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+• Following cleavage of APP at either of these sites, the γ-
+secretase complex (contains presenilin-1 or presenilin-2, 
+nicastrin, PEN2, and APH1) performs an intramembranous 
+cleavage
+• Cleavage by α-secretase and β-secretase releases 
+Aβ42, capable of aggregation and amyloid formation
+• Aβ42 highly prone to aggregation—first into small oligomers 
+(toxic form responsible for neuronal dysfunction); eventually 
+into large aggregates and fibrils visualized by microscopy 
+Role of A-beta in AD (continued)
+--- Page 9 ---
+AD, genetics
+• Familial forms of AD support Aβ generation as critical step for initiation of 
+AD pathogenesis 
+– Gene encoding APP, on chromosome 21 (in Down syndrome region) 
+– Down syndrome patients show cognitive impairment and 
+histopathologic AD findings in 2nd and 3rd decades of life followed by 
+neuro decline 20 years later 
+– Point mutations in APP are another cause of familial AD
+– Chrom. 14; gene for presenilin-1 leads to increased A-beta production, 
+especially A-beta 42, and early onset familial AD
+– Chrom.1; gene for presenilin-2 also leads to increased A-beta 
+production, especially A-beta 42 and early onset familial AD
+– Chrom. 19: gene for apolipoprotein E leads to mutation in allele epsilon 
+4 resulting in increase risk of development of AD and decrease age at 
+onset of AD (ApoE4 – increased risk) – patients with epsilon 4 allele 
+overrepresented in AD
+Robbins and Cotrin, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 10 ---
+Robbins and Cotrin, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+• Tau protein
+• Microtubule-associated protein present in axons in association 
+with microtubular network
+• Development of tangles in AD, becomes hyperphosphorylated, - 
+loses ability to bind to microtubules
+• Tangles may elicit a stress response or loss of tau may destabilize 
+microtubules
+• Inflammation
+• Small aggregates and larger deposits of Aβ elicit inflammatory response 
+from microglia and astrocytes
+• Probably helps in clearance of aggregated peptide, but may also 
+stimulate secretion of mediators causing damage
+Role of tau protein and inflammation in AD
+--- Page 11 ---
+AD: Plaques and tangles
+Neuritic plaques – focal, spherical collections of dilated, tortuous, 
+neuritic processes usually around a central amyloid core, surrounded 
+by clear halo; found in hippocampus, amygdala, and neocortex, with 
+relative sparing of primary motor and sensory cortices (also for 
+neurofibrillary tangles)
+ (NFT = neurofibrillary tangle)
+NFT
+Neuritic 
+plaques
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 12 ---
+AD: amyloid core (Congo red) – mainly made up of A-
+beta peptide, processed from proteolytic cleavage of  
+amyloid precursor protein, APP
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 13 ---
+Plaques: diffuse or neuritic
+ “Senile” plaques seen with Bielschowsky have been divided into diffuse and neuritic 
+subtypes. from CERAD handbook
+ Diffuse – no surrounding neuritic reaction, probably represents early stage plaque 
+(mostly A-beta 42) mostly in superficial parts of cerebral cortex, basal ganglia, cerebellar 
+cortex
+  Neuritic plaques contain both Aβ 40 and Aβ 42 .
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 14 ---
+Neuritic plaques : H and E  v. Silver stain 
+--- Page 15 ---
+Neurofibrillary tangles
+NFTs- tau containg bundles 
+of filaments in cytoplasm 
+of neurons which 
+displace or encircle 
+nucleus 
+Commonly found in cortical 
+neurons, especially in 
+entorhinal cortex, as well as 
+in pyramidal cells of  
+hippocampus,  amygdala,  
+basal forebrain, and raphe 
+nuclei
+Unlike neuritic and diffuse 
+plaques, NFTS found in 
+other neurodegenerative - 
+not specific for AD
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+https://www.cureus.com/articles/27530-the-neuroprotective-effects-of-exercise-on-cognitive-decline-a-
+preventive-approach-to-alzheimer-disease
+--- Page 16 ---
+Neurofibrillary tangles
+ NFTs composed of fibrillar aggregates 
+made of paired helical filaments
+ Insoluble, resitant to clearance in vivo, 
+remaining visible as “ghost or tombstone 
+tangles” (right, arrows) after death of host 
+neuron
+ The number of NFTs correlates better 
+with the degree of dementia than does 
+the number of neuritic plaques
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 17 ---
+Tau accumulation in AD
+ NFTs are made of abnormal accumulations of 
+hyerphosphorylated tau protein.
+ In late stages of AD, NFTs are frequent in neocortical 
+areas and accompanied by numerous neuropil 
+threads (tau immunostains above)
+
+--- Page 18 ---
+AD: Amyloid and Tau
+ AD characterized by extracellular accumulation of Abeta 
+amyloid (plaques) and intracellular accumulation of tau 
+(neurofibrillary tangles and neuropil threads)
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28.
+
+--- Page 19 ---
+AD Biomarkers
+• Biochemical markers correlated with degree of dementia: 
+– loss of choline acetyltransferase
+– loss of synaptophysin immunoreactivity
+– amyloid burden
+• Aβ deposition in brain may be shown using imaging methods (with18F-
+labeled amyloid-binding compounds): can identify asymptomatic patients 
+who in early stages of AD
+• AD pathology also shows increased phosphorylated tau and reduced 
+Aβ in the CSF -  biomarkers helpful in identification of preclinical stages of 
+AD, before dementia
+• Pharm clinical trials more shifted to prevention of earlier disease, e.g., 
+clearance of A-beta via immunological approaches or disruption of 
+generation of A-beta with agents that target secretases, as well as 
+prevention of alterations in tau
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020. Ch. 28
+
+--- Page 20 ---
+PICK DISEASE – Frontotemporal 
+lobar degeneration - tau
+• FTLDs - heterogeneous group of disorders with focal degeneration of frontal and/or 
+temporal lobes; clinically distinguished from AD: alterations in personality, behavior, 
+and language (aphasias) preceding memory loss; postmortem pathologic evaluation 
+required for definitive diagnosis
+• FTLDs associated with cellular inclusions of specific proteins - two most common 
+patterns: tau inclusions (FTLD-tau) and TDP-43 inclusions (FTLD-TDP)
+• FTLD – tau:  forms of FTLD where affected cortical regions show progressive 
+neuronal loss and reactive gliosis, and cytoplasmic tau inclusions in neurons
+• FTLD-tau may be associated with mutations in MAPT, gene that encodes tau, or may 
+arise sporadically
+• Inverse relationship between degree of tau phosphorylation and ability to bind 
+microtubules; Phosphorylated tau tends to aggregate
+• Pick disease (subtype of FTLD-tau) -  brain shows pronounced, usually asymmetric 
+atrophy of frontal and temporal lobes, sparing of  posterior two-thirds of the 
+superior temporal gyrus
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed. 2020, Ch. 28.
+
+--- Page 21 ---
+Pick Disease: severe atrophy of the 
+frontal and temporal lobes (lobar atrophy), 
+often with “knife-edge” atrophy of the gyri. 
+Thin, wafer-like gyri.
+
+--- Page 22 ---
+Pick Disease Severe 
+neuronal 
+loss with 
+intense 
+gliosis in 
+affected 
+cortical 
+regions
+
+--- Page 23 ---
+An autopsy study is performed of patients who died from 55 to 80 
+years of age. A subset of these patients had cerebral atrophy and 
+brain weights that were less than normal for age and body size. 
+The brains showed hydrocephalus ex vacuo, but no focal lesions. 
+Microscopic examination showed the presence of increased 
+numbers of neurofibrillary tangles and neuritic plaques within the 
+cerebral cortex. Which of the following was most likely present in 
+those groups of patients?
+    A. symmetric muscle weakness
+    B. gait disturbances
+    C.  grand mal seizures
+    D. progressive dementia
+    E. choreiform movements
+Case Question
+
+--- Page 24 ---
+Parkinson Disease
+• Neurodegenerative hypokinetic movement disorder caused by loss of 
+dopaminergic neurons from substantia nigra 
+• Clinical - diminished facial expression (masked facies), stooped posture, 
+slowing of voluntary movement, festinating gait (shuffling), rigidity, and “pill-
+rolling” tremor: (TRAPS – tremor, rigidity, akinesia (or bradykinesia), postural 
+instability, shuffling gait)
+• Similar symptoms can occur with dopaminergic antagonists or toxins that 
+selectively damage the dopaminergic system
+• Clinical triad— tremor, rigidity, and bradykinesia—in absence of  toxic or 
+other known underlying etiology - confirmed by symptomatic response to
+     L-DOPA replacement therapy
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed. 2025, Ch. 28
+--- Page 25 ---
+Parkinson disease 
+• Degeneration of substantia nigra  (motor symptoms) represents mid-stage in 
+progression from involvement lower in brainstem and eventually cerebral cortex, 
+leading to cognitive impairment 
+• Note: acute parkinsonian syndrome and destruction of neurons in substantia nigra 
+follows exposure to MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine), 
+contaminant in synthesized illegal batches of opioid meperidine
+• Pesticide exposure may be risk factor for PD; caffeine and nicotine appear to be 
+protective
+• Dopaminergic neurons of substantia nigra project to the striatum; degeneration in 
+PD associated with reduction in the striatal dopamine content 
+• Severity of motor syndrome proportional to dopamine deficiency 
+• Can be partially corrected by L-Dopa (immediate precursor of dopamine); does not 
+reverse morphological changes or arrest progress of disease 
+• As disease progresses, drug therapy less effective
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020, Ch. 28
+
+--- Page 26 ---
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020, Ch. 28
+Protein accumulation and aggregation, mitochondrial abnormalities, and 
+neuronal loss in the substantia nigra and other areas of brain
+Most PD is sporadic, but some genetic causes help explain pathogenesis:
+•First mutations identified in autosomal dominant PD involve SNCA, gene 
+that encodes α-synuclein, lipid-binding protein normally localized to synapses; 
+major component of the Lewy body, diagnostic hallmark of PD
+•α-synuclein forms aggregates; toxic to neurons
+OF INTEREST :
+•Mitochondrial dysfunction implicated as contributing factor based on autosomal recessive forms of PD caused by 
+mutations in genes that encode the proteins DJ-1, PINK1, and parkin
+•In about 5% of PD: Heterozygous mutations in lysosomal enzyme glucorebrosidase most important risk factor for 
+development of PD- suggests dysfunction of lysosome-autophagy pathway contributing to PD pathogenesis, most 
+likely via abnormal metabolism of α-synuclein, activation of unfolded protein response, and increased 
+inflammation
+•Mutations in gene encoding LRRK2 (leucine-rich repeat kinase 2) most common cause of autosomal dominant 
+PD and also found in some late-onset, apparently sporadic cases
+Pathogenesis of PD
+26
+--- Page 27 ---
+Parkinson’s Disease
+Loss of pigment (dopa catecholaminergic neurons) 
+in the substantia nigra and locus ceruleus - pallor
+Robbins and Cotran, Pathologic Basis of Disease, 9th ed.
+
+--- Page 28 ---
+Parkinson’s Disease
+Neuronal loss in the substantia nigra accompanied by 
+numerous pigment-laden macrophages 
+(melanophages, arrow) and gliosis
+
+--- Page 29 ---
+Lewy bodies in substantia nigra – cytoplasmic, 
+eosinophilic, round/elongated inclusions with dense 
+core surrounded by pale halo – EM shows fine 
+filaments, densely packed in core but loose at rim; 
+composed of α-synuclein
+Roins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28.
+
+--- Page 30 ---
+Lewy Bodies
+ PD associated with 
+alpha-synuclein (lipid 
+binding protein 
+associated with 
+synapses)
+ Lewy bodies: 
+abnormal aggregates 
+of alpha-synuclein. 
+ Immunostaining for 
+alpha-synuclein 
+strongly labels both 
+Lewy Bodies and 
+Lewy neurites 
+(dystrophic processes  
+containing aggregated 
+α-synuclein) in 
+substantia nigra. 
+ 
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020, Ch. 28
+
+--- Page 31 ---
+A 70 year old man has had increasing difficulty with voluntary 
+movements because of muscular rigidity. On physical exam, he 
+has difficulty initiating movement, but he can keep moving if he 
+follows someone walking ahead of him. He has an expressionless 
+facies. When he is sitting, his hands have a resting, "pill-rolling" 
+tremor. Which of the following histopathological findings is most 
+likely to be present in his brain?
+    A. Cerebral neurofibrillary tangles and neuritic plaques
+    B. Neuronal loss with gliosis in the caudate and putamen
+    C.  Loss of pigmented neurons in the substantia nigra
+    D. Hemosiderosis and gliosis in the mamillary bodies
+    E. Acute inflammation and bacteria in the meninges
+Case Question
+
+--- Page 32 ---
+Huntington Disease
+• Autosomal dominant, progressive movement disorder with dementia caused by degeneration 
+of striatal neurons – progressive and fatal; avg. course of disease 15 years 
+• Jerky, hyperkinetic, sometimes dystonic movements involving all parts of body 
+(chorea)  -  later may develop bradykinesia and rigidity
+• Chorea: 
+ Sudden jerky, irregular movements with muscle contractions
+• Athetosis: 
+ Twisting and writhing motions
+• Dystonia: 
+ Sustained muscle contractions - usually result of repetitive motions
+Summary:  Progressive chorea
+    Hypertonicity (Fidgety movements)
+        Behavioral disturbances
+                  Dementia
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed, 2025, Ch. 28
+--- Page 33 ---
+Huntington Disease
+Normal brain (left) v. HD case (right) showing severe 
+atrophy of caudate – notice dilation of ventricles
+HD: mild cortical atrophy and severe atrophy of basal 
+ganglia (caudate nucleus >> putamen)
+
+--- Page 34 ---
+Huntington Disease
+Caudate especially shows severe striatal neuronal loss and severe gliosis
+. 
+ Direct relationship between degree of degeneration in striatum and severity of clinical 
+symptoms
+Protein aggregates containing huntingtin can be found in neurons in the striatum 
+and cerebral cortex
+
+--- Page 35 ---
+HD – genetics/pathogenesis
+• Prototype of polyglutamine trinucleotide repeat expansion
+• No sporadic form
+• HD gene, HTT, on chrom. 4 p16.3, encodes huntingtin protein
+• In first exon of gene - CAG repeats which encode polyglutamine region 
+near N terminus of protein; normally 6 to 35 copies of the repeat. If more, 
+HD usually develops - the longer the repeats, the earlier the onset of 
+disease
+• Repeat expansions occur during spermatogenesis - paternal transmission 
+associated with earlier onset in next generation (known as anticipation) 
+• Expansion of the polyglutamine region = toxic gain-of-function on 
+huntingtin 
+• Development of intranuclear inclusions containing huntingtin- pathologic 
+hallmark of HD, but not directly involved in cellular injury
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020, Ch. 28
+--- Page 36 ---
+HD 
+• Loss of striatal neurons (usually dampen motor activity), causes 
+increased motor output - choreoathetosis
+• Associated cognitive changes probably related to neuronal loss in cerebral 
+cortex
+• Motor symptoms usually precede cognitive impairment
+• Age at onset commonly in fourth and fifth decades - related to length of the 
+CAG repeat in HTT gene
+• Movement disorder of HD is choreiform, with increased and involuntary 
+jerky movements of all parts of the body; writhing movements of extremities
+• Early symptoms of higher cortical dysfunction include forgetfulness, 
+cognitive and affective dysfunction, with progression to severe dementia
+• Most common immediate cause of death in HD patients is pneumonia, 
+usually at advanced stage of the disease
+• Ethics of screening
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020, Ch. 28
+--- Page 37 ---
+Case Question
+• A 50 year old man is brought to his doctor by family 
+members who state that he has become more forgetful 
+in the past few months. He is emotionally labile. His 
+mother dies a few years after experiencing similar 
+symptoms. On physical exam, he has some choreiform 
+movements of his extremities. Which of the following 
+findings is most likely present in this patient?
+•     A. Decreased levels of hexosaminidase A enzyme
+•     B. Mutation in presenilin genes
+•     C. Extra chromosome 21
+•     D. Abnormal prion protein
+•     E. Increased trinucleotide CAG repeats
+
+--- Page 38 ---
+Amyotrophic Lateral Sclerosis
+• Progressive disease - loss of upper motor neurons in cerebral cortex and lower 
+motor neurons in spinal cord and brain stem
+• Neuronal loss causes denervation of muscles – results in weakness, increasing as 
+disease progresses
+• Incidence about 2/100,000, affects men slightly more than women, usually in 5th 
+decade or later
+• Sporadic more common than familial, latter may account for up to 20%
+• Familial variant autosomal dominant – mutations in gene encoding copper-zinc 
+superoxide dismutase (SOD1) on chrom 21; mutated SOD1 protein misfolds and 
+aggregates, causing cell injury via various mechanisms
+ 
+• OF INTEREST
+• Most common mutation that gives rise to ALS and FTLD simultaneously - expansion 
+of hexanucleotide repeat in the 5′-untranslated region of a transcript of unknown 
+function, C9orf72 (present in up to 40% of familial ALS and smaller percentage of 
+sporadic cases of ALS)
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed, 2020. Ch. 28.
+
+--- Page 39 ---
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+• Asymmetric weakness of hands, early – dropping of objects 
+and difficulty with fine -motor tasks along with cramping and 
+spasticity of arms and legs
+•With progression, decrease in muscle strength and bulk, 
+fasciculations (involuntary contractions)
+•Eventually affects respiratory muscles, leading to episodes of 
+pneumonia
+•Familial cases develop symptoms earlier than sporadic
+•Considered to be motor system disease but, significant fraction have 
+more widespread cerebral cortical disease
+•Clinical presentation of cerebral disease is usually a frontotemporal 
+dementia, with pathology similar to FTLD associated with TDP -43 
+inclusions (either behavioral problems or language deficits)
+ALS
+39
+--- Page 40 ---
+Amyotrophic Lateral Sclerosis
+Loss of upper and lower motor 
+neurons.
+ Anterior roots of  spinal cord are 
+thin due to loss of lower motor 
+neuron axons
+ Precentral motor gyrus in cortex 
+may be atrophic in very severe 
+cases. 
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 20
+--- Page 41 ---
+Amyotrophic Lateral Sclerosis
+.
+Reduction in number of anterior horn neurons throughout length 
+of spinal cord, associated with reactive gliosis
+Skeletal muscles innervated by degenerated lower motor neurons show neurogenic atrophy
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 20
+
+--- Page 42 ---
+Amyotrophic Lateral Sclerosis
+Loss of neurons in motor cortex is accompanied by 
+gliosis,  lacking in the adjacent sensory cortex
+
+--- Page 43 ---
+Prion Diseases
+• Rapidly progressive neurodegenerative diseases caused by aggregation 
+and intercellular spread of misfolded (abnormal) prion protein (PrP); 
+may be sporadic, familial, transmitted 
+• Prion protein present in brain normally; unknown function - Normal 
+secondary structure mainly alpha-helical (PrPc), easily digested by 
+proteases
+• Abnormal prion protein (cause of prion diseases) is same protein, 
+secondary structure mainly beta-pleated sheets (PrPsc) 
+(conformational change)  - more prone to aggregate and resistant to 
+protease digestion, esp. by proteinase K
+• Brain grossly shows “spongiform change” - intracellular vacuoles in 
+neurons and glia, no inflammation; clinical rapidly progressive 
+dementia  
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28.
+
+--- Page 44 ---
+.
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+• Conformational change resulting in PrPsc may occur 
+spontaneously at extremely low rate (sporadic CJD) or higher 
+rate if mutations present in PrPc  (familial CJD) 
+• PrPsc facilitates conversion of other PrPc molecules to PrPsc 
+molecules; spreading of PrPsc accounts for transmissible 
+variants of prion diseases 
+• Abnormal prion protein “recruits” normal prion to 
+abnormal shape (secondary structure),allowing for 
+“propagation”
+• Allows pathogenic protein to acquire characteristics of 
+infectious agent: ability to disrupt integrity of normal cellular 
+components through conformational changes
+Pathogenesis 
+--- Page 45 ---
+• α-helical PrPc may 
+spontaneously shift to β-sheet 
+PrPsc conformation (occurs 
+at higher rate in familial 
+diseases associated with 
+germline PrP mutations)
+• PrPsc may also be acquired 
+from contaminated food, 
+medical instrumentation, or 
+medicines
+• PrPsc converts additional 
+molecules of PrPc into PrPsc 
+through physical interaction, 
+leading to formation of 
+pathogenic PrPsc aggregates
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., Ch. 20, Fig. 28.34
+--- Page 46 ---
+Case
+A 53 year old female with a hx of corneal transplant 6 months ago, presents with loss 
+of balance, mood swings and memory loss. She had not noticed these symptoms 
+until her coworkers and family pointed it out to her. These symptoms presented 4 
+months ago, and began to interfere with her daily activities. Her ataxia has 
+progressed to the point that she is stumbling and falling.
+Her family reports that over the past month her memory quickly deteriorated to the 
+point that she is unable to recognize friends, is unable to drive, is not able to work 
+and forgets if she has eaten. A CT scan of her brain is performed and shows no 
+abnormalities
+ What abnormal protein in the brain is associated with this condition?
+A. Alpha-synuclein
+B. Beta-amyloid
+C. Tau
+D. PrPsc
+E. Myelin
+
+--- Page 47 ---
+Creutzfeldt-Jakob Disease
+• Most common prion disease , rare disorder - rapidly progressive 
+dementia
+• Sporadic form of CJD - annual incidence approximately 1 per 
+1,000,000; accounts for about 90% of CJD cases
+• Familial forms caused by mutations in PRNP, gene that encodes 
+PrP
+• May also have iatrogenic transmission, from corneal or dural 
+transplantation, deep implantation of electrodes in brain, and 
+administration of contaminated cadaveric human growth hormone 
+• Starts with subtle changes in memory and behavior followed by 
+rapidly progressive dementia
+• Often associated with pronounced involuntary jerking muscle 
+contractions on sudden stimulation (startle myoclonus); ataxia, 
+(cerebellar involvement) present in minority
+• Uniformly fatal; average survival 7 months after onset of 
+symptoms
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+--- Page 48 ---
+CJDMost cases show 
+little or no 
+cerebral 
+atrophy – 
+clinically rapid, 
+progressive 
+dementia
+Fatal within 7 - 12 
+months of 
+onset.
+90% cases 
+sporadic
+Familial forms 
+caused by 
+mutations in 
+PRNP
+ Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+--- Page 49 ---
+CJD
+• Spongiform changes of 
+both cortical and deep 
+gray matter, neuronal 
+loss and gliosis
+• Uneven formation of 
+small and empty 
+microscopic vacuoles of 
+varying sizes within 
+neuropil and sometimes 
+in perikaryon of neurons 
+- inflammation absent
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 50 ---
+CJD - prion plaques
+• In 15% of CJD cases “kuru” (prion) plaques found in cerebellum: 
+extracellular deposits of aggregated abnormal protein:  Congo red + and 
+PAS +
+• Abundant in cerebral cortex in vCJD – see next slide
+• IHC staining shows presence of proteinase K–resistant PrPsc in tissue (all 
+forms of prion disease)
+• Note- Kuru is transmissible neurodegenerative disease first seen in 
+Papua New Guinea (funerary cannibalism) – kuru means “trembling” - 
+tremors and loss of coordination from neurodegeneration
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 28
+--- Page 51 ---
+Variant CJD
+• 1995 UK – new CJD-like illness
+• Clinical- young adults, behavior disorders 
+prominent early and neuro more slowly 
+progressive.
+• Linked to consumption of bovine 
+spongiform encephalopathy agent from 
+eating contaminated foods or by transfusion 
+of blood from patients in 
+asymptomatic/preclinical stage of vCJD.
+• Public health measures limited spread of 
+vCJD
+• Incidence in UK peaked in 2000
+• vCJD  = cortical and cerebellar “florid” 
+plaques and moderate spongiform change
+Robbins and Cotran, Pathologic Basis of Disease, 11th ed., 2025, Ch. 28
+--- Page 52 ---
+SELECTED NEUROPATHIES
+• Charcot-Marie Tooth disease
+• Diabetic neuropathy
+• Traumatic/compression 
+neuropathy
+• (Metabolic/nutritional/hormonal peripheral neuropathies - Renal failure, 
+Thiamine deficiency, Vitamin B12 deficiency, Vitamin B6 deficiency, 
+thyroid dysfunction (compression), deficiencies in copper and zinc)
+• (Toxic – alcohol, lead, mercury, arsenic, thalium, chemotherapy)
+• (Neuropathies associated with malignancy- Direct compression/infiltration 
+by tumor, paraneoplastic effects)
+--- Page 53 ---
+Hereditary Motor and Sensory Neuropathies 
+Charcot-Marie Tooth Disease
+Most common inherited peripheral neuropathies, affecting up to 1 in 2500; clinical phenotype can 
+result from mutations in more than 50 different genes
+•CMT1 - group of AD demyelinating neuropathies, collectively most common subtype of 
+hereditary motor and sensory neuropathy
+– CMT1A: 55% of genetically defined CMT - caused by duplication of region on 
+chromosome 17 that includes peripheral myelin protein 22 (PMP22) gene; usually 
+presents in second decade of life - slowly progressive distal demyelinating motor and 
+sensory neuropathy 
+– CMT1B: caused by mutations in the myelin protein zero gene (MPZ) and accounts for 
+about 9% of genetically defined cases of CMT
+– Usually presents in childhood/early adulthood, normal life span
+– Peroneal muscular atrophy
+– Distal muscle weakness, atrophy of leg beneath knee, secondary orthopedic issues 
+(pes cavus)
+• OF INTEREST :
+•CMTX - X-linked forms of CMT disease - mutations in GJB1 gene, encodes connexin32, gap junction 
+component expressed in Schwann cells.
+•CMT2 includes autosomal dominant neuropathies associated with axonal injury (not demyelinating); caused by 
+mutations in MFN2 gene, needed for normal mitochondrial fusion - Usually severe, disease onset in early 
+childhood Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 27
+--- Page 54 ---
+progressive muscular 
+atrophy of the calf
+
+--- Page 55 ---
+CMT - Hypertrophic changes: "Onion bulb" formations: 
+concentric layers of Schwann cell processes and collagen 
+around axons, caused by repetitive  segmental 
+demyelination  and regeneration of myelin. May cause 
+gross thickening of peripheral nerves (hypertrophic 
+neuropathy) which can be clinically palpated.
+
+--- Page 56 ---
+Peripheral Neuropathy -  Diabetes
+• DM – most common peripheral neuropathty - up to 50% with diabetes overall and up 
+to 80% who have had DM for more than 15 years
+• Sensimotor (distal symmetric sensory), autonomic, and/or focal or multifocal 
+asymmetric 
+• Sensimotor (most common) – ascending distal symmetric sensorimotor 
+polyneuropathy
+– Major finding - axonal neuropathy with some segmental demyelination
+– Endoneurial arterioles show thickening, hyalinization, and extensive reduplication of 
+basement membranes
+– Usually presents with sensory symptoms - numbness, loss of pain sensation, difficulty 
+with balance, and paresthesias or dysesthesias
+– “stocking and glove” – decreased sensation in distal extremities; loss of pain 
+can lead to ulcers which heal poorly because of vascular injury in diabetes 
+(may require amputation)
+• Dysfunction of autonomic system affects 20% - 40% of individuals with DM, in 
+association with a distal sensorimotor neuropathy - includes, postural hypotension, 
+incomplete emptying of the bladder (resulting in recurrent infections), and erectile 
+dysfunction.
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 27
+--- Page 57 ---
+•Mechanism of diabetic neuropathy complex, not 
+completely resolved
+•Both metabolic and secondary vascular 
+changes may contribute to damage of axons and 
+Schwann cells
+•Hyperglycemia causes nonenzymatic 
+glycosylation of proteins, lipids, and nucleic acids 
+- resulting  in advanced glycosylation end -
+products (AGEs) - may interfere with normal 
+protein function and activate inflammatory 
+signaling 
+•Excess glucose in cells reduced to sorbitol -  
+depletes NADPH and increases intracellular 
+osmolality
+•May predispose peripheral nerves to injury by 
+reactive oxygen species
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 27
+--- Page 58 ---
+Traumatic neuropathy/Compression neuropathy
+• Trauma - Axonal regeneration slow - regrowth complicated by discontinuity between 
+proximal and distal parts of nerve sheath/misalignment of nerve fascicles
+– If axons continue to grow, (distal segments not positioned correctly) - mass of tangled 
+axonal processes result:  Traumatic or amputation neuroma; histo - small bundles of 
+axons randomly oriented, each surrounded by organized layers of Schwann cells, 
+fibroblasts, and perineural cell
+• Compression – When peripheral nerve has chronic increased pressure 
+– Carpal tunnel syndrome , most common entrapment neuropathy - compression of 
+median nerve at  level of wrist within compartment delimited by transverse carpal 
+ligament
+– Women more commonly affected than men, frequently bilateral 
+– May be associated with tissue edema, pregnancy, inflammatory arthritis, hypothyroidism, 
+amyloidosis, acromegaly, diabetes mellitus, and excessive repetitive motions of the wrist
+– Symptoms limited to dysfunction of median nerve  - include numbness and 
+paresthesias of tips of thumb and first two digits
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 27
+
+--- Page 59 ---
+• Morton neuroma – compression 
+neuropathy in foot, affecting 
+interdigital nerve at 
+intermetatarsal sites, histo – 
+perineural fibrosis
+• Occurs more often in women 
+than in men (high heels)
+•  Leads to foot pain 
+(metatarsalgia)
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 27
+--- Page 60 ---
+60
+Italo Maratta
+January 5, 1934 – March 8, 2021
+--- Page 61 ---
+• Alzheimer’s disease – dementia, global atrophy, hydrocephalus ex vacuo, neuritic 
+plaques contain amyloid, neurofibrillary tangles have tau protein
+• Pick’s disease (FTLD-tau)  – dementia, similar to Alzheimer’s disease, 
+frontotemporal, knife-edge gyri
+• Parkinson’s disease – loss of dopamine in substantia nigra, movement disorder, 
+Lewy bodies contain alpha-synuclein, tremor, bradykinesia
+• Huntington’s disease – AD, movement disorder which can also have dementia, 
+atrophy of caudate, CAG repeats (greater number earlier onset of disease), chorea
+• ALS – upper and lower motor neuron degeneration
+• Prion encephalopathies – CJD – abnormal configuration of prion proteins, rapid 
+dementia, sporadic, hereditary, and acquired forms, Kuru plaques
+• Charcot-Marie-Tooth disease – Hereditary motor and sensory neuropathy: distal 
+muscle atrophy (peroneal), sensory loss, foot deformities (pes cavus), segmental 
+demyelination, palpable peripheral nerves
+• Diabetic, traumatic, and compression neuropathies
+Summary Slide
+
+--- Page 62 ---
+
+--- Page 63 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+
+
+--- Transcript Content ---
+[Unsupported Format: Lecture #56_ Neurodegenerative Disease and Selective Neuropathy Faculty_ M. Plummer, M.D..dfxp]
+

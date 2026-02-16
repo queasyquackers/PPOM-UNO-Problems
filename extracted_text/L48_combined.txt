@@ -1,0 +1,2879 @@
+Lecture 48 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Office of Academic Affairs 
+Pharmacology: Sedative-Hypnotics
+Maria A. Pino, Ph.D
+Department of Clinical Specialties
+mpino@nyit.edu
+--- Page 2 ---
+Source: Course Syllabus
+• Identify sedative-hypnotic drugs.
+• Describe MOA, use, and adverse effects of barbiturates.
+• Describe MOA and adverse effects, and specific uses of benzodiazepines 
+(BDZ). 
+• Describe the differences between barbs, BDZs, and ethanol in MOA and 
+adverse effects. Include management of overdose, withdrawal, and 
+abstinence.
+• Describe non-sedating anxiolytic drugs.
+• Describe drugs used to induce sleep.
+• Describe drugs for narcolepsy.
+Session Objectives
+--- Page 3 ---
+Sedative-Hypnotic Drugs
+• Barbiturates
+• Benzodiazepines
+• Ethanol
+• Non-benzodiazepines (zolpidem, zaleplon, eszopiclone)
+• 1st generation antihistamines
+• Newer drugs (melatonin agonists, orexin antagonists)
+Degree of sedation-hypnosis depends on dose
+--- Page 4 ---
+Sedative-Hypnotic Drugs
+Source: Sedative-Hypnotic Drugs, Basic & Clinical Pharmacology, 14e
+Citation: Katzung BG. Basic & Clinical Pharmacology, 14e; 2017 Available at: 
+http://accessmedicine.mhmedical.com/content.aspx?bookid=2249&sectionid=175218773 Accessed: December 08, 2022
+--- Page 5 ---
+Barbiturates
+• Pentobarbital, Secobarbital, Phenobarbital, Amobarbital, Thiopental
+• Lipid soluble drugs (thiopental) are redistributed from brain.
+• Elderly and those with hepatic disease have increase in t1/2.
+• CYP inducers (3A4)
+• Exacerbation of porphyria
+• Use: anxiety and insomnia (fallen out of use), seizures 
+(phenobarbital), induction of anesthesia (thiopental).
+--- Page 6 ---
+Redistribution
+Lippincott Illustrated Reviews: Pharmacology 6th edition (Lippincott Illustrated Reviews Series) 6th Edition 
+--- Page 7 ---
+Barbiturates
+• Increase duration of GABA action. Opens the chloride 
+gate in the absence of GABA. 
+• “No ceiling effect”
+• Induce full respiratory arrest. 
+• Provide supportive care alkalinize urine
+--- Page 8 ---
+MOA: Potentiates GABA
+
+--- Page 9 ---
+Barbiturate Adverse Effects
+• Highly sedative with a hangover effect
+• Physical dependence: tolerance and  
+withdrawal.
+• Highly abused (pentobarbital)
+• Also, meprobamate and chloral hydrate.
+--- Page 10 ---
+Benzodiazepines
+• Chlordiazepoxide (Librium®) –long acting
+• Clorazepate (Tranxene ®)- long acting
+• Flurazepam (Dalmane ®)- long acting
+• Diazepam (Valium ®)- long acting
+• Lorazepam (Ativan ®)- intermediate acting
+• Temazepam (Restoril®)- intermediate acting
+• Alprazolam (Xanax®)-short acting
+• Triazolam (Halcion®)- short acting
+• Oxazepam (Serax®)- short acting
+• Midazolam (Versed®)-short acting
+• Flunitrazepam (Rohypnol)- “date-rape” drug
+--- Page 11 ---
+Benzodiazepines
+• Chlordiazepoxide and Diazepam (long acting).  
+Alcohol detoxification.
+• Alprazolam (short acting). Panic disorder.
+• Lorazepam, Clonazepam, Diazepam (seizure 
+disorder). 1st line for Status epilepticus
+• Midazolam (anesthesia)
+• Remimazolam (newest; rapid onset and offset)
+• Estazolam and Flurazepam (insomnia)
+--- Page 12 ---
+Benzodiazepines
+• Liver metabolism (converted to active metabolites).
+• Chlordiazepoxide, diazepam, flurazepam (metabolites 
+make the drug long acting).  Appropriate for 
+detoxification protocols.
+• Oxazepam, temazepam, and lorazepam are safest for 
+elderly. Bypass phase I metabolism (only conjugated).
+• Use all benzos cautiously in elderly.
+--- Page 13 ---
+Benzodiazepine Biotransformation
+
+--- Page 14 ---
+Benzodiazepines
+• Potentiates GABA by increasing frequency of 
+chloride channel opening. Needs GABA to work.
+• “Ceiling effect”
+• No respiratory depression, unless combined with 
+other CNS depressants.
+• Use: anxiety, sedative-hypnotic, insomnia 
+anterograde amnesia, muscle relaxant, 
+anticonvulsant,  anticipatory N/V
+--- Page 15 ---
+MOA: Potentiates GABA
+
+--- Page 16 ---
+Benzos vs Barbituartes
+
+--- Page 17 ---
+Benzodiazepines Adverse Effects
+• Drowsiness, hangover
+• Mild euphoria (abuse potential)
+• Anterograde amnesia
+• Physical dependence: tolerance and withdrawal 
+symptoms: rebound anxiety, insomnia, seizures 
+(alprazolam).
+• Fetal malformations “floppy infant”
+--- Page 18 ---
+Flumazenil
+• Benzodiazepine antagonist, IV
+• Reverses benzodiazepine toxicity in overdose.
+• When flumazenil is used after midazolam, this 
+drug will rapidly result in patient recovery.
+• Caution in chronic BDZ users, precipitates 
+“withdrawal”
+--- Page 19 ---
+Non-Benzodiazepines “z drugs”
+• Zolpidem, zaleplon, eszopiclone
+• Minimal effect on REM sleep (unlike barbs and 
+BDZ).
+• Shorter duration of action
+• Less hangover effect
+• Target specific GABAA subunit.
+• Potentiated by ethanol
+--- Page 20 ---
+Ramelteon, Tasimelteon, and 
+Melatonin
+• MT-1and MT-2 melatonin agonists. No effect on 
+GABAergic neurotransmission. Not a controlled 
+substance. Substrate for CYP 1A2. 
+• Melatonin: released from pineal gland, produces 
+drowsiness. Used for jet lag.
+--- Page 21 ---
+Other “Sedative” Drugs
+• Suvorexant, lemborexant, and daridorexant  
+(orexin antagonists at OX1, OX2 receptors)
+• H1 receptor antagonists (1st Generation only) 
+Adverse effects?
+• Tricyclic antidepressants (doxepin)
+• Trazodone (H1 blockade)
+• Ethanol (avoid with other CNS “depressants”)
+--- Page 22 ---
+H1 receptor mechanism (Gq)
+
+--- Page 23 ---
+Tricyclic Antidepressants
+pharmacologycorner.com
+--- Page 24 ---
+Ethanol: Potentiates GABA
+NMDA receptor 
+antagonist
+--- Page 25 ---
+Ethanol (chronic)
+• Dilated cardiomyopathy
+• Thiamine deficiency (Wernicke’s encephalopathy): thiamine 
+before glucose.
+• Fetal alcohol syndrome
+• Zero order kinetics
+• Induces CYP 2E1 (enhanced acetaminophen toxicity)
+• Increased inflammation/neoplasia
+• Loss of liver function
+--- Page 26 ---
+Ethanol: Oxidative Metabolism
+High NADH:NAD ratio 
+with ethanol 
+consumption
+1. Lactate 
+accumulates
+2. Increases fatty acid
+3. Lose glutathione
+
+--- Page 27 ---
+Fetal Alcohol Syndrome
+
+--- Page 28 ---
+Zero Order Elimination
+
+--- Page 29 ---
+Ethanol Intoxication
+• Slurred speech, nystagmus, stupor, or coma.
+• Hypotension and tachycardia 
+• Hypoglycemia, lactic acidosis, hypokalemia, 
+hypomagnesemia
+• Dehydration
+• Treatment: supportive care, ventilation
+• 80mg/dL BAC (intoxication)
+--- Page 30 ---
+Ethanol Withdrawal
+Up-to-date, 2016
+
+--- Page 31 ---
+Ethanol Overdose, Withdrawal, and
+Alcohol Use Disorder
+• Overdose: maintain airway, supportive care
+• Symptoms of withdrawal: CNS stimulation, 
+seizures, “delirium tremens” BENZO must be 
+administered. Long-acting Benzo (ex. 
+Chlordiazepoxide).
+• Alcohol use disorder: Naltrexone (opioid blocker); 
+Acamprosate (restores GABA/glutamate balance); 
+CBT
+--- Page 32 ---
+Disulfiram: Antabuse
+Antabuse
+Metronidazole
+Chlorpropamide
+www.esciencecentral.org
+fomepizole
+--- Page 33 ---
+Clonidine
+• Alpha2 adrenergic agonist
+• Reduce sympathetic NS effects following alcohol, 
+opioid, and nicotine withdrawal.
+• Adverse effects: sedation, depression, 
+bradycardia, hypotension
+--- Page 34 ---
+Anxiety
+• Natural pattern of behavior
+• Heightened state of arousal and preparedness
+• Elevated sympathetic N.S.
+• Central Nucleus of Amygdala has a variety of 
+neurotransmitters:  GABA, Glu, 5-HT, NE
+• Benzos constitute the most used group of anxiolytics.
+--- Page 35 ---
+Anxiety Classification and 
+Treatment
+• Acute anxiety:  Benzodiazepine
+• Panic disorder: Alprazolam, then SSRI for long-term.
+• Phobic disorder: Benzo then SSRI.
+•  Propranolol (“Situational anxiety”)
+• OCD: SSRI and psychotherapy
+• Generalized anxiety disorder (GAD): Benzo, then SSRI, 
+SNRI, or buspirone
+--- Page 36 ---
+Propranolol
+• Non-selective β adrenergic blocker
+• Stage Fright “situational anxiety”
+• Anxiety involves the Sympathetic N.S.
+• B2 activity: caution in asthma, diabetes, 
+peripheral vascular disease
+--- Page 37 ---
+Buspirone
+• Partial 5HT1A agonist, not GABA.
+• Weak D2 antagonist
+• Use: chronic anxiety (GAD)
+• Reduces anxiety in absence of tolerance, rebound, 
+or dependence. 
+• Full anxiolytic effect may be 4-6 weeks
+• Adverse effects: dizziness
+--- Page 38 ---
+Narcolepsy
+• Daytime sleepiness, despite sleeping at night
+• Treat with sympathomimetics “stimulants”, also for ADHD
+• Amphetamine, dextroamphetamine, and methylphenidate 
+inhibit reuptake of NE and DA.  Also increases release of 
+catecholamines from nerve terminals.
+• Adverse effects: Cardiovascular, weight loss, anxiety.
+• Modafinil and armodafinil (greater DA vs NE reuptake 
+inhibition and release). Less anxiety and anorexia than 
+amphetamines.  Skin rash reported. Activates orexin, 
+inhibits GABA.
+--- Page 39 ---
+Cocaine vs Amphetamine
+ReleasersBlock reuptake
+Modafinil
+
+--- Page 40 ---
+Stimulant Overdose
+• Symptoms of overdose: difficult to 
+differentiate schizophrenia symptoms, 
+tachycardia, mydriasis, hypertension, 
+hyperthermia, seizures.
+• “Cocaine bugs”
+• Overdose: acidify urine, supportive 
+therapy (lorazepam, haloperidol, and 
+vasodilator).  Labetalol
+--- Page 41 ---
+Sodium Oxybate
+• Treats narcolepsy with cataplexy.
+• Sodium salt of gamma-hydroxybutyrate 
+(GHB), metabolite of GABA.
+• Agonist of GABAB receptor, short t 1/2
+• Risk Evaluation and Mitigation (REMS) 
+program. Mitigates the risk of abuse and 
+misuse.
+• AE: N/V , confusion, not to be administered 
+with ethanol or sedative hypnotics (increased 
+risk of respiratory depression).
+• Stimulant may be taken during day
+--- Page 42 ---
+• Describe the differences between barbs, benzos, and ethanol in MOA and safety.
+• Describe drugs used to induce sleep and manage narcolepsy
+Core References:
+1. Basic & Clinical Pharmacology, 16e. Bertram G. Katzung, Todd Vanderah; Chapter 
+22, Sedative-Hypnotic Drugs; Chapter 23, The Alcohols; Chapter 32, Drugs of Abuse
+2. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e, Chapter 22, 
+Hypnotics and Sedatives; Chapter 27, Ethanol
+3.      Sedative-Hypnotics  Summary Guide and Practice Questions (Maria A. Pino, Ph.D)
+Summary Slide
+--- Page 43 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+
+
+--- Transcript Content ---
+Hello class, this
+lecture will focus on
+the pharmacology of
+sedative hypnotics.
+So in this lecture,
+I will discuss
+barbiturates, benzos,
+ethanol, the Z drugs which
+achieve CNS depression
+by potentiation of
+GABA, the inhibitory
+neurotransmitter. So
+I'll go through the
+mechanisms and the
+adverse effects and I
+will distinguish the
+newer drugs and the
+benzodiazepines from
+barbiturates and
+ethanol. And the reason
+being is that alcohol
+and barbiturates are
+not widely used anymore
+because they are in
+fact, based on their
+specific mechanism
+on that chloride channel,
+can actually induce
+respiratory depression
+which is fatal.
+I'll also talk about
+non-sedating anxiolytics
+and that will include
+something like buspirone
+or even the SSRIs.
+I will talk about
+other drugs that can
+induce sleep and that can
+include H1 receptor
+antagonists that you can
+buy over the counter
+like Unisom or Nitol.
+And lastly, I'll
+talk about drugs that
+are used for excessive
+daytime sedation
+and that's known as
+narcolepsy and I'll
+discuss the main
+class which includes
+amphetamines to
+treat this condition.
+So the first
+four that are in
+green are in fact
+going to be the
+ones that will
+potentiate GABA.
+And understand that
+the degree of sedation
+and hypnosis that
+the patient will
+in fact have will
+depend on the dose.
+And in this figure,
+you can see that with
+respect to drug A
+and drug B, as you
+increase the dose
+of A, you go from a
+sedation to an
+ultimate coma where the
+patient can have a
+respiratory depression.
+And drug A really
+represents medications
+such as barbiturates
+and ethanol.
+With the blue line,
+that's going to
+be drug B. And
+that's going to be
+really representing
+benzos, maybe the
+drugs that we consider
+to be Z drugs.
+And that happens to
+be that there is going
+to be a degree of
+sedation and hypnosis
+that occurs with
+those drugs. However,
+you can see that the
+line plateaus, where
+even if you increase
+the dose higher than
+what you need for
+hypnosis, the patient
+will not go into
+respiratory depression.
+Okay, and I'll
+explain why
+that happens in a moment.
+So, borbitorates were
+probably the first
+developed, and they
+include several
+medications. they end
+in barbital. I will say
+that phenobarbital
+is still used mainly
+for epilepsy. It's
+used first line in
+newborns who experience
+seizures. So say
+they are born and
+they're in withdrawal,
+phenobarbital is
+oftentimes used.
+And they are considered
+to be second line
+for status epilepticus.
+Status epilepticus
+is a seizure that
+occurs and it lasts
+more than three to
+five minutes. It can be
+fatal. And usually the
+first line is going
+to be something
+like diazepam or
+lorazepam, which is
+a benzodiazepine. And
+oftentimes if that
+doesn't work, you can give
+phosphonatoin and
+you'll study that
+when you do
+anticonvulsants, probably
+in the next few
+weeks, or you can
+give something
+like phenobarbital.
+These drugs
+are considered
+to be lipid-soluble.
+Biopental is considered
+to be the most.
+And this drug
+specifically has
+something called
+redistribution.
+And I'll explain this
+concept in a few moments.
+If you are an older
+patient or you're
+somebody that has
+a hepatic disorder,
+you're going to
+increase the half-life
+of this medication
+class. And that can lead
+to not only excessive
+sedation, but it
+can lead to the
+respiratory depression.
+And the elderly are
+going to be very
+sensitive to all of
+these medications.
+Because if they get
+a higher dose or
+the drug persists
+in the body longer,
+these patients
+are going to
+be prone to
+getting falls.
+And a fall in an
+elderly patient
+can sometimes be
+fatal in itself.
+The other thing
+to note is that
+barbiturates are
+inducive as CIP,
+cytochrome P450,
+in the liver,
+specifically
+isoenzyme 3A4.
+So inducing means that
+you're going to get
+a lower amount of
+substrate. So if the patient
+was getting, say,
+barbitol, and maybe was
+taking a medication
+for contraception,
+induction means that
+the levels of the oral
+contraceptives will be
+lower and that can result
+in pregnancy the
+other thing that's
+interesting is that there
+may be an exacerbation
+of perforia in those
+patients that use
+barbiturates and this
+condition is where there's
+a deficiency in an
+enzyme that makes heme.
+And incidentally,
+barbiturates, due
+to the fact that
+they induce P450,
+there may be an
+increase in heme
+itself. And that will
+increase the risk
+of this porphuria.
+And with these patients,
+and this is all
+again occurring in the
+liver, in these liver
+enzymes, they may end
+up getting confusion,
+brown urine. And
+so we say if the
+patient has this diagnosis,
+they should avoid
+barbiturates. I think
+they also would avoid
+antibiotics like
+sulfonamides as well.
+And as I mentioned,
+these can be used
+for anxiety and for
+insomnia, but given
+the fact that we
+have newer, safer
+drugs, you're not
+going to see patients
+getting, say,
+phenobarbital for sleep.
+They're going to be
+used specifically for
+certain seizures, as
+I mentioned, and the
+induction of anesthesia
+and that's going
+to be thiopental and
+redistribution is an
+important concept for
+you to to understand
+this is you know this
+whole idea of the
+fact that thiopental
+will cause a rapid
+onset of anesthesia
+but a rapid offset is
+due to redistribution
+so So for example,
+diopental is going to
+be infused and once
+it gets into highly
+perfused organs like
+the brain, the liver,
+and the kidney, the
+patient will quickly
+become unconscious.
+So that would be probably
+within 15 seconds.
+The idea that it only
+lasts 5 to 10 minutes
+means that once it
+does its job in those
+higher areas of perfusion,
+it's going to go
+to the less perfused
+area. And that would
+include the muscle tissue
+and the fat tissue.
+So if, for say, if
+you use thiopentol to
+induce anesthesia,
+it would probably be
+the case that you would
+use another anesthetic
+to kind of continue
+things along. But I
+will say that thiopentol
+with the drugs that
+we have for anesthesia
+is not as widely
+used. I'm only saying
+it because the concept
+of redistribution can
+appear on an exam.
+So barbiturates,
+okay, and here is
+very important. This
+is where barbiturates
+and ethanol share
+a similar mechanism.
+They're going to
+increase the duration
+of GABA action. They're
+going to open that
+chloride channel.
+The chloride is going
+to flow in. That's
+a negative charge.
+That's going to lead
+to hyperpolarization,
+and that, in
+essence, is going to
+potentiate GABA and the
+CNS effects. The
+issue is that in order
+for that channel to
+open, it does not
+need GABA to be included
+on that channel.
+And that is where
+the issue happens,
+because with the
+others, you're going
+to see that they
+need GABA present.
+Alcohol and barbitroids
+don't. So because
+of that, there is
+no sealing effect,
+okay?
+And that now is going to
+lead to CNS depression.
+And the other
+problem with
+barbiturates and
+ethanol is that
+there's no
+specific antidote.
+The Z-drugs and
+benzodiazepines
+will have their
+antidote, flumazenil.
+These two don't.
+You really got
+to provide
+supportive treatment.
+Perhaps you're
+going to need a
+ventilator to maintain
+their breathing.
+And the other thing
+is that you alkanalize
+the urine. Because
+barbiturates especially,
+they will undergo
+the ion trapping. So
+if you're ionizing,
+then everything goes
+out the kidney. Because
+remember, non-ionized,
+it goes back, it
+gets reabsorbed into
+the cell membrane. So
+that would be something
+that's also specific
+to barbiturates.
+And as you can see,
+the ethanol and
+the barbiturate
+binding site are
+going to be slightly
+different than
+what we see for the
+benzodiazepines.
+Barbiturates
+bind between the
+alpha and beta
+subunit. And again,
+they don't need
+GABA to work.
+Barbiturates are
+highly sedative
+and they have a
+hangover effect.
+Again, that's because
+of metabolites that
+maybe can't go out
+the liver and kidney,
+especially in the elderly
+where you're going
+to see reduced hepatic
+and renal function.
+There will be
+tolerance, and tolerance
+means that you're
+going to need
+a higher dose to
+get the efficacy.
+So you put your patient
+on 5 milligrams.
+After a while,
+the 5 milligrams
+doesn't work.
+You need a higher
+dose. The patient
+became tolerant.
+And there's
+also withdrawal.
+And it seems to be
+that those with the
+shorter half-life
+are going to be more
+highly abused,
+like pentobarbital,
+and not because of
+the high. And you'll
+see this when I
+talk about opioids.
+Patients are not
+abusing because
+they're getting
+high. They're
+doing it to really
+avoid the low.
+And you'll see
+in a moment that
+sometimes we'll
+actually use a longer
+acting formulation
+of that drug in the
+same class to prevent
+the withdrawal.
+Meprobamide and
+chlorohydrate, I will say,
+you don't really have
+to know much about.
+Chlorohydrate
+used to be used in
+anesthesia, especially
+in pediatric patients.
+It used to be
+available as a liquid.
+They were taken off
+the market, first
+of all, for safety
+and ***** potential.
+And again, as I
+mentioned, we have
+other medications
+which probably are more
+effective with less
+adverse effects.
+Benzos will come next.
+And I highlighted the
+ones in green that
+are probably going to
+be the most widely
+prescribed and on boards.
+I'm not going to
+ask you brand names.
+You will need to
+somewhat understand
+the difference,
+say, between
+a long-acting and
+a short-acting.
+But I will never test
+you on brand names.
+So here is what
+I'm trying to say.
+Chlordiazoxapide and
+diazepam are long
+-acting. So if
+we're talking about
+alcohol detox, and
+I'll probably expand
+on this by the end
+of this lecture.
+When you are detoxing
+somebody from alcohol,
+you never want to
+do this abruptly.
+Because if you do, you're
+going to get rebound.
+And what can happen
+is a condition called
+delirium tremens,
+where the patient can
+have a seizure and
+they can end up dying.
+So the idea
+here is you want
+to give a long
+-acting benzo.
+And that basically
+being long-acting
+is going to keep the
+patient, the GABA,
+going. but they're
+not going to have
+withdrawal that is
+going to, you know,
+make them take
+more medication.
+Alpazolam is short
+-acting. This is Xanax.
+This is the one that
+they use mainly for
+panic disorder. Probably
+it's the most widely
+abused because of its
+short-acting nature.
+Lorazepam, clonazepam,
+and diazepam are
+used mainly for seizure
+disorders. They're
+considered to be
+first-line for status
+epilepticus, especially
+lorazepam and diazepam.
+They're also
+available rectally,
+so that can
+help, say, if you
+had a child who
+was epileptic.
+Midazolam is used for
+anesthetic purposes.
+It's been widely
+replaced with
+propofol, especially
+for shorter-acting
+procedures like
+a colonoscopy.
+Remamzolam is
+a newer one.
+This is for
+those procedures
+that are maybe
+about 30 minutes,
+okay? Maybe for a
+colonoscopy. Again,
+it's going to depend
+on where you're
+practicing because
+certain protocol,
+certain formularies
+might approve one
+versus the other. So
+just remember that.
+And this newer
+one has a rapid
+onset and a rapid offset.
+And then Estazolam
+and Fluorazepam
+were used for insomnia.
+benzodiazepams go
+through the liver and in
+the liver when we talk
+about the long-acting
+ones like chlorodiazoxipide
+and diazepam
+they're considered to
+be the longest acting
+diazepam is metabolized
+to a metabolite known
+as desmethyl diazepam
+and the half-life of
+that medication is
+about 40 to 100 hours so
+that's going to be great
+if you're trying to
+wean your patient off
+say alcohol and you want
+to prevent them from
+getting a seizure
+however diazepam would
+be an absolute no if you
+had an elderly patient
+because that long half
+-life of 40 to 100
+hours would create
+excessive sedation that
+patient will wake up the
+next morning and they'd
+be groggy. If you
+are thinking about your
+elderly grandmother,
+that can result in
+dizziness and even a fall
+and even confusion. And
+that's why all benzos
+should be cautiously
+used in the elderly.
+For the elderly, we
+prefer probably
+lorazepam.
+Oxazepam and temazepam
+can be used, but I
+see that the one
+that most physicians
+will go for is
+lorazepam. And the reason
+being, it's going to
+bypass phase one it's
+only conjugated and
+what does that mean
+well remember phase
+one back from intro to
+pharmacology was your
+oxidation reduction
+and hydrolysis it
+seems to be in the
+elderly that's going to
+be an issue as you get
+older so if you give
+something that is
+only conjugated and
+only goes to phase two
+that's going to be
+better for the elderly
+patient if in fact
+you need a benzoyl.
+So again, here
+is liver, and as
+you can see,
+chlordiazoxepam,
+diazepam, they're
+going to be, again,
+metabolized as their
+initial metabolite
+as this methyl
+diazepam. That's
+the one that's
+40 to 100 hours.
+And then ultimately,
+it becomes oxazepam,
+it's conjugated,
+and then it goes
+through urinary
+excretion. As I mentioned,
+lorazepam, which is
+the preferred one in
+the elderly, just
+gets conjugated and it
+goes out the urine.
+So we always prefer
+this for the elderly
+versus the others.
+But again, if you
+had that patient who
+you're trying to wean
+off, say, alcohol,
+and you wanted
+to prevent them
+from getting,
+say, a seizure,
+these two that
+have a longer path
+to excretion would
+be preferred.
+so why benzos versus
+barbiturates because
+same thing is going to
+happen they're going
+to potentiate GABA
+they're going to increase
+the chloride channel
+opening and they're
+going to increase the
+frequency but here's
+the thing while the
+other two do not need
+GABA to open that channel
+this group does need
+GABA to work and
+because of that there's
+going to be a sealing
+effect. And I showed
+you in that first
+slide, you get like a
+plateau when you look at
+benzos versus barbiturates
+and alcohol where
+there's no sealing.
+Here's the thing,
+even though on their
+own, there is less
+respiratory depression.
+If you take a benzo after
+a night of drinking,
+I would say you need
+to be very careful
+you can go into
+respiratory depression
+if you took say a benzo
+and you had fentanyl
+in your body expect
+respiratory depression
+if you use benzo with
+say even cannabinoids
+you could expect
+respiratory depression
+so here's the thing
+Patients need to be
+cautioned that even
+though you're not going
+to expect respiratory
+depression, if you're
+putting it with
+another medication, you
+will get respiratory
+depression and even CNS
+depression, okay?
+And this is another
+thing. When you are
+prescribing any of these,
+okay, so you're the
+physician, you're giving
+a benzo for say, you know,
+as an anticonvulsant,
+you need to make
+sure the patient
+understands that CNS
+depression will happen. So
+they need to be mindful
+if they are driving,
+if they're operating
+anything that needs,
+you know, very, very
+effective cognition,
+because CNS depression
+can be a problem. Okay,
+so no driving when
+you're taking benzos,
+when you're taking an
+opioid, when you're
+taking alcohol, all of
+that comes into play.
+The use, as you can
+see here, we have
+anxiety, sedative
+hypnosis, insomnia.
+Antigrade amnesia is
+an interesting one,
+and that's the reason
+why we use midazolam
+for, say, a procedure
+like a colonoscopy.
+Antigrade amnesia
+means that you don't
+remember the event
+that is happening
+at the time
+you're under the
+influence of
+the medication.
+That would be a
+good thing. Nobody
+wants to remember
+a colonoscopy. But
+if you're thinking
+about the date
+**** drug, and I
+showed it to you on
+that slide with all
+the medications,
+flu nitrazopam or
+ronhiponol, that's a
+date **** drug. And
+that was the big issue.
+When people were
+under the influence of
+that, And that used
+to be, and again, it
+might still happen,
+unfortunately, when
+somebody illicitly
+pours this in a drink,
+well, what is
+happening is, of
+course, you get
+sedation, and the
+patient would not
+remember the event.
+They would not remember
+that they were being
+violated, and that's
+because these drugs
+cause the antigrade
+amnesia. The other
+thing is that you'll see
+that these medications
+can cause muscle
+relaxation and it
+seems to be because
+benzos will calm motor
+neurons and because
+they're relaxing motor
+neurons and also
+decreasing the action in
+the spinal cord, that
+helps reduce spasms.
+anticonvulsants i
+already spoke about and
+their role in in status
+epilepticus and then
+the next thing is
+anticipatory nausea and
+vomiting this i'll go
+through next year when
+i do anti-emetics this
+is oftentimes given
+maybe one dose before
+a patient goes say for
+some type of cancer
+treatment chemotherapy
+they're going to
+be given a bunch of
+medications you know on
+the Ancetron or Epitant,
+okay, you don't have
+to worry about that,
+but oftentimes patients
+will say just the idea
+of going back and
+getting their chemo
+infusions makes them
+nauseous, so it's not uncommon
+that the physician
+may prescribe maybe
+one tablet in the hour
+before they have the
+their chemotherapy,
+but again, whenever we
+would give this out,
+we would always say
+make sure you're not
+the person driving there
+and driving back so
+with benzodiazepines
+as you can see there's
+going to be a little
+bit of a difference
+again we're binding to
+the GABA receptor you're
+allowing chloride to
+come into the channel
+to cause hyperpolarization
+to enhance the
+CNS depression that you
+want but the binding
+site is going to be
+different than it is
+for alcohol or barbiturates
+And then again,
+you have to have GABA
+binding in order to
+open this channel.
+These two didn't, and
+that's why those two
+are more likely to cause
+a respiratory depression
+that can be fatal.
+So as you can see,
+as you increase
+the log dose of
+benzodiazepines,
+you don't see much
+of an increase
+in the respiratory
+depression.
+With barbiturates,
+as you see in the
+red line, as you
+increase the log dose,
+you increase the
+incidence of respiratory
+depression. So this
+is something you
+really need to be
+mindful of. Okay,
+especially, again,
+those that consume
+barbiturates and, you
+know, have a drink.
+Very dangerous.
+benzodiazepines their
+adverse effects drowsiness
+and hangover they can
+cause some euphoria
+and that's going to
+be true especially
+of the shorter acting
+ones like alprazolam and
+that's why it's going
+to be more abused
+than say diazepam the
+antigrate amnesia i spoke
+about which may be
+a valuable thing if
+you're doing a procedure
+but it may be a crime
+if you were if you
+had a patient that was
+in fact using was given
+this and and they were
+violated the physical
+dependence again we
+understand that there
+are two terms physical
+dependence is when the
+patient will experience
+withdrawal when they
+stop the drug okay
+and the other thing to
+know is rebound anxiety
+insomnia and seizures
+so again with
+something like alprazolam
+if you were taking it
+and you were abusing
+it and you stopped it
+abruptly that's going
+to cause more of a
+rebound effect patient
+may even end up getting
+a seizure because of
+that so that's why if
+in these detox mechanisms
+you always would
+want to use something
+long-acting like diazepam.
+I also want to
+differentiate between
+physical and psychological
+dependence. As I
+mentioned, physical
+dependence is when you get
+withdrawal symptoms
+when you stop the drug.
+Psychological dependence
+is when you have
+an intense need to
+have it when it's
+missing. You're not
+going through withdrawal,
+but you just know
+that it's missing and
+you need to have
+it so that's the
+difference between
+physical and psychological
+the other thing to know
+is that these drugs
+should not be given
+in pregnancy it's been
+shown that the babies
+born to mothers who
+have taken benzos will
+have first of all there
+may be some there may
+be some effects where
+there might be some
+breathing changes,
+number one. And the other
+thing is that you may
+get poor muscle tone
+and sometimes it's
+called floppy baby where
+the patient, the baby
+has almost like a doll
+-like appearance where
+their arms and legs are
+almost like flopping
+And that's due to
+the poor muscle tone.
+As I mentioned,
+with ethanol and
+barbiturates, it's really
+supportive therapy.
+But with benzos and
+the Z drugs, which
+you'll see in a
+moment, we do have an
+antagonist. And it's
+known as flumazanil.
+and this can
+be given if the
+patient is brought
+to the hospital
+and maybe has
+taken, for whatever
+reason, an overdose,
+say, of clonazepam
+and sometimes if you
+use midazolam, say,
+for a surgical procedure
+and the patient
+comes to and they're
+still groggy they can
+give some flumazanil
+to offset the
+benzodiazepine But the
+thing to know is that in
+the hospital, you
+have to do this very
+carefully. Because if
+we give flumazenil to
+somebody who's using
+a benzo chronically,
+that might actually
+precipitate withdrawal.
+So the idea here
+is don't just give
+flumazenil fast.
+Make sure you do
+it slowly so that
+if the patient was
+a chronic user and
+you didn't know,
+they would not go
+into withdrawal.
+so now we have
+the Z-drugs and as
+you can see that's
+Zolpidem or Ambien
+Zalpilon and
+S-Zolpicholone
+and these are interesting
+unlike barbiturates
+and even benzos they
+don't really affect REM
+sleep and the issue is
+they have a shorter
+duration of action and
+because of that they
+have less of a hangover
+effect but here's a
+couple of things that
+we have to understand
+you have to be able
+to devote seven to
+eight hours of sleep and
+this is interesting
+because if you gave
+this medication say
+at four in the morning
+and you had to get up
+at seven even though
+we know there's less
+less hangover there
+would be if you had a
+short amount of sleep,
+okay?
+So only give this
+if the patient can
+devote the 7 to 8
+hours because if they
+can't, they're going
+to be very groggy
+and they'll be
+prone to falls. If
+they have to drive,
+they will be basically
+hungover, okay?
+the other thing is
+you don't want
+to give these at
+all with other
+CNS depressants
+including alcohol
+so if this patient
+is taking this
+medication and they're
+going out for drinks
+on a Friday or
+Saturday they should
+not get the Z drug
+the other thing we
+don't want to give
+this for a long period
+of time and I will
+have to make you
+understand for sleep
+it's good to
+know that there
+are certain medications
+like the Z drugs
+and I'll talk about
+the melatonin
+agonist in a moment
+but there's nothing
+more important
+than enforcing the
+sleep hygiene because
+you don't want to be
+on these medications
+for life so
+again, avoiding
+stimulants close to
+bedtime, exercising
+earlier in the day
+watching your diet,
+not scrolling, which
+many of us do right
+before bedtime, making
+sure that when you're
+getting ready for sleep,
+you're doing something
+relaxing. So just to
+put that out there.
+These melatonin agonists
+have actually been
+increased in use, so
+to speak, in these
+years because not only
+do they not affect
+GABA, they're not
+controlled substances.
+Okay,
+so remelteon,
+tasmelteon, these are
+considered to meet
+melatonin-1 and melatonin
+-2 agonists. So by
+binding to those
+receptors and
+activating, they're
+increasing melatonin.
+The only thing that you
+need to understand
+is that they are
+considered to be
+substrates for CYP1A2.
+So for example, if
+you're using this
+medication, one of these
+would say ciprofloxacin,
+which is a fluoroquinolone
+antibiotic,
+cipro does inhibit
+this isoenzyme. So you
+may get an increase
+in the melatonin
+agonist, and that can
+lead to more sedation.
+Melatonin is really
+where all of this came
+from. and melatonin
+itself is released from
+the pineal gland and
+it produces drowsiness
+it also regulates
+the circadian rhythm
+melatonin is used
+for jet lag some
+people do use it for
+sleep they have it
+over the counter they
+have it as gummies
+I think it's between
+1 mg and 10 mg
+here's the
+thing melatonin
+is not FDA approved
+remelteon and tasmelteon
+is and here's the thing
+if you told me that
+a younger healthy
+person was taking
+melatonin once in a while
+to induce sleep or
+maybe for a few days
+until they got better
+because they've been
+in Asia and now
+they're off in their
+sleep cycles now that
+they came back home
+I would probably be
+okay with that But if
+you're talking about
+an elderly patient
+who's on many medications
+and is using, say,
+an anticoagulant, I
+probably would not
+support that because
+since it's not FDA
+approved, there has not
+been rigorous studies.
+So we don't know
+pharmacokinetics.
+We don't know
+drug interaction
+information. So
+again, that's
+just something
+to understand,
+not just about melatonin
+but about all
+supplements.
+So just to consider
+that for the future.
+Other sedative
+hypnotics that have been
+bought to the
+market is something
+called an orexin
+antagonist. They call it
+blockers of the OX1
+and OX2 receptors.
+Orexin is a neuropeptide.
+It's made in
+the hypothalamus. It
+actually stimulates
+appetite and has an
+effect on cognition.
+It supports sleep
+and wakefulness.
+So the idea here
+is if you block
+with something
+like suvorexanth,
+that's going to
+induce sleep.
+The thing to note is that
+they are the newer drugs.
+They have been definitely
+approved, but they
+are considered to be
+controlled substance.
+They have a schedule for
+classification. so
+patients can become
+addicted to the
+orexin antagonist.
+H1 receptor
+antagonists you've
+studied hopefully
+already.
+And we have two
+generations.
+We have the first
+generation, diphenhydramine,
+doxalamine, which
+you can use for
+allergies. You can
+use it for nausea and
+vomiting, especially
+with motion sickness.
+And you have the
+second generation.
+like loratadine,
+fexofenadine.
+Here's the difference.
+The first generation
+are considered
+to be lipophilic
+and they cross the
+blood-brain barrier.
+And those are the ones
+that can cause sedation.
+Something like Allegra,
+which is fexofenadine
+or Claritin, the
+reason why they were
+bought to market is that
+they were not lipophilic.
+And because of that,
+you could take your
+allergy medicine, drive
+to school you know
+do your OMM lab without
+feeling sedated so
+if you have a question
+about which drug do
+we use for sedation it's
+going to be generation
+one okay the only
+problem with generation
+one is they have the
+muscarinic blockade
+so you're going to
+expect dryness you're
+going to expect urinary
+retention which can
+be a problem to say
+older patients that have
+benign prostatic
+hypertrophy, they can cause
+constipation, they
+can cause tachycardia.
+So these drugs, too,
+should be used carefully.
+And again, I would not
+be comfortable with
+patients taking it for
+a long period of time
+because there's also
+a connection between
+these medications and
+long-term cognition.
+And that can have
+an effect on memory.
+Patients that,
+say, have AD or
+dementia should
+not be taking
+H1 receptor
+blockers as well.
+Tricyclics,
+doxepin, and we'll
+talk about
+tricyclics in a
+moment and in a
+future lecture.
+Doxepin has H1
+block. That's why
+before we had
+these medications,
+some patients
+would take Vaxapin
+for depression and
+they would be able
+to sleep because
+of the H1 block.
+Trazodone, another
+antidepressant, was used
+to induce sleep because
+of the H1 block.
+And then I have ethanol
+on the list. And,
+you know, patients
+will say, well, if I
+have a drink at night,
+it helps me sleep.
+That may be true,
+but we should
+never encourage
+patients to use
+alcohol for any
+of these purposes.
+And the other thing to
+know is whenever you
+give ethanol with any
+CNS depressant, that
+can be a problem.
+Whether it be if they
+need to drive or it
+could be, in certain
+cases, an increase of
+respiratory depression.
+So I always like to
+review past concepts in
+my lecture. I want to
+say the H1 receptor
+and maybe the alpha-1,
+just as another review
+point, are going to
+follow a GQ mechanism.
+So histamine binds to
+the receptor. You're
+going to increase protein
+lipase C, and that's
+going to increase
+DAG and IP3, which is
+going to allow now,
+through the action of
+protein kinase C, to
+get more calcium inside.
+That makes sense. If
+I'm thinking about
+alpha-1 and the action
+on the arteriole,
+and I'll probably say
+this again in the future,
+that action of A1-alpha-1
+agonism in the arteriole,
+more calcium in is
+going to cause more
+contraction. and more
+contraction means
+vasoconstriction.
+And that makes sense.
+Alpha-1 agonists are
+going to increase
+vasoconstriction
+and they'll increase
+blood pressure through
+that mechanism.
+So tricyclics,
+again, I don't want
+to talk much about
+them. I will say
+that in order to
+treat depression,
+they're going to
+inhibit the reuptake
+of norepinephrine
+and serotonin.
+So what does
+that mean to you?
+Well, more
+norepinephrine and more
+serotonin here are
+going to bind to
+the post-synaptic
+membrane and that's
+going to help with
+the depression.
+But tricyclics,
+they also block H1.
+And what does that
+mean to you? Well,
+they're going to
+cause more sedation.
+But on the
+flip side, they
+also will block alpha-1.
+If you're blocking
+alpha-1, I just
+mentioned, And
+instead of getting an
+increase in blood
+pressure, there's
+going to be a
+decrease. And that's
+where you get
+orthostatic hypotension.
+So the patient gets
+up, and the next
+thing you know,
+they feel dizzy.
+They feel like
+they're going to fall.
+And then if you're
+blocking muscarinic
+receptors, you're going
+to get what I just
+told you. You're
+going to get urinary
+retention, constipation,
+dry mouth, dry
+eyes. If you are somebody
+that has now even
+glaucoma, that's
+going to complicate
+because muscarinic
+block causes medriasis.
+So again, these
+concepts will be covered
+throughout the semester
+and even next year.
+But start to understand
+what these receptors
+do and what blockade
+will also achieve.
+So ethanol, as
+I mentioned,
+will potentiate GABA.
+Okay, so that's going
+to be responsible
+for the CNS
+depression effects.
+Ethanol, just like
+barbiturates and benzos,
+will open that
+channel to allow
+chloride in. The
+negative charge is
+going to cause
+hyperpolarization and
+you're going to
+get CNS depression.
+But ethanol and
+barbiturates, and I
+know I'm repeating
+myself, but it's an
+important concept.
+They open this channel
+without GABA needing
+to be present,
+and that's going
+to produce the idea
+of increase in
+respiratory depression.
+The other thing is
+that ethanol inhibits
+the NMDA receptor
+for glutamate.
+Glutamate is the excitatory
+neurotransmitter.
+So what will
+happen is that if
+you block NMDA with
+chronic alcohol
+use, NMDA is going
+to be upregulated.
+And that's going to be
+responsible for
+the tolerance,
+dependence, and
+also for some of
+those withdrawal
+effects. And I'll
+explain that when I
+talk about some of
+the drugs that we
+use for withdrawal,
+like acomposate,
+in a few minutes.
+So ethanol,
+acutely, may cause
+some, of course,
+euphoria.
+And that does
+make sense, if you
+think about it.
+When you have a
+drink, you feel
+nice and relaxed.
+But again, if you
+keep drinking,
+even in an acute setting,
+you're going to
+become impaired.
+It's going to change
+your cognition.
+So that's why it's
+important that
+we always are
+mindful how much we
+drink and what we
+do when we drink.
+Driving,
+operating machinery,
+things of that nature.
+But chronic alcohol
+use is going to affect
+many other things.
+Number one is something
+known as dilated
+cardiomyopathy, where
+mitochondrial dysfunction
+and the production of
+ROSs, reactive oxygen
+species, are going to
+have some effect on the
+contractile proteins
+in the heart, and
+that's going to affect
+the left ventricle.
+and that over time may
+lead to a patient
+having a problem with
+their heart, mainly
+congestive heart failure.
+The other thing
+is something known
+as Wernicke's
+encephalopathy.
+This means that over
+time, you're going
+to deplete your
+thiamine stores. You're
+going to get a
+thiamine deficiency.
+and that decrease in
+thiamine in the brain
+means that now you
+don't have enough
+glucose for brain
+function and that is going
+to affect neurotransmitters
+it's going to
+have an effect on
+again oxidative stress
+and with this condition
+when the patient is
+brought into the
+hospital who is going to
+be very confused, is
+going to be talking
+about things, making
+up stories, because
+they're having an effect
+on brain function,
+you would have to give
+thiamine first before
+the glucose, because
+without the thiamine,
+the glucose can't
+really do its job.
+Alcohol can cause
+fetal alcohol syndrome.
+if you're thinking about
+pregnancy and
+fetal development
+ethanol, aspirin,
+and phenytoin and
+you'll see it later
+is going to exhibit
+a zero-order kinetics
+zero-order elimination
+in that no matter
+how much of this
+drug you give it's
+not going to change
+the elimination
+rate and that means
+toxicity is going
+to be pretty severe
+Ethanol will also
+induce CYP2E1 And if
+you're using
+acetaminophen or Tylenol
+with ethanol That's
+going to create more
+hepatotoxicity That's
+why on the box of
+Tylenol They always
+say if you're
+drinking more than 3
+alcoholic beverages per
+day You should not
+take acetaminophen
+Ethanol does increase
+inflammatory mediators
+It also increases
+the risk of cancer.
+And by now we know
+that many cancers are
+attributed to
+excessive alcohol use.
+And then, of course,
+we always know that
+the main organ is
+going to be the liver.
+Again, that has to do
+with the idea of ROSs.
+So ethanol is going
+to be broken down by
+alcohol dehydrogenase
+to acetylaldehyde
+and then acetylaldehyde
+dehydrogenase makes
+it a water soluble
+compound which is
+excreted and that's
+acetic acid When there's
+much ethanol consumed
+there's going to
+be a change in the
+NADH to *** ratio So,
+high NADH is going
+to result in some
+of the problems
+that we see, where
+lactate accumulates.
+You're going
+to get an increase
+in fatty acid.
+So,
+again, fatty
+liver can be other
+things, but
+another contributor
+is excessive alcohol use.
+And then you lose
+glutathione. And
+glutathione is produced
+in the liver, and it's
+considered in very
+simple terms to be
+our body's own natural
+antioxidant. So
+if you're missing
+that, that's why ROSs
+start forming and
+creating more damage.
+So ethanol goes
+through an oxidative
+mechanism. So that's
+considered to be
+phase one. And I'll
+talk about other
+drugs that affect
+this pathway, such
+as aldehyde dehydrogenase
+in a moment.
+Fetal alcohol syndrome.
+Again, the most
+critical time for fetal
+development is the
+first trimester and
+that's you know something
+that is sometimes
+difficult because there
+may be some patients
+that don't know they're
+pregnant for a while
+and they may be
+still using alcohol
+they may be using other
+medications so that's
+why you know going
+through prenatal care
+is just so important.
+And this is some of the
+physical
+manifestations of FAS.
+There can be other
+things where the child
+may have some disabilities
+with learning.
+But just a mention about
+fetal alcohol syndrome.
+And again, the zero
+order, as I said,
+a constant amount of drug
+is eliminated per time.
+So you're not
+changing the rate just
+because you're
+adding more drug.
+So the line is going to
+be the straight line.
+Somebody is intoxicated
+with alcohol.
+They may have
+slurred speech.
+Nystagmus, which
+means it's a rapid,
+involuntary
+movement of the eye.
+They'll be sedated.
+They may be in a
+stupor or, in a worse
+case, in a coma.
+Hypotension can
+occur, and that
+might be due to
+the fact that
+There's more nitric oxide
+produced in the
+endothelium, and
+that can increase
+vasodilation.
+With vasodilation,
+you may get an
+increase in
+neurotransmitters, and
+that norepinephrine
+gets to the heart,
+and that may
+cause tachycardia.
+Hypoglycemia may
+be due to the fact
+that you're impairing
+gluconeogenesis
+in the liver. So
+the patient is
+going to have a
+lower blood sugar.
+Lactic acidosis,
+when you're
+increasing NADH,
+you're shifting your
+pyruvate to lactate.
+And that's where
+you get the
+acidotic condition.
+Hypokalemia and
+hypomagnesemia
+may be due to
+the fact that
+the patient may
+be dehydrated.
+Maybe they're vomiting.
+The other thing
+with dehydration is
+that there may be
+an inhibition of
+antidiuretic hormone.
+And if that happens,
+you're going to
+lose more fluids.
+With alcohol, just
+like barbiturates,
+there's no
+specific antidote
+like flumazenil
+for benzos.
+So you're going to
+provide supportive
+care. You're going
+to make sure the
+patient's respiratory
+airway is preserved
+with a ventilator.
+And remember, if
+you're pulled over
+80 mg per deciliter,
+you're considered
+to be intoxicated.
+As I mentioned,
+alcohol withdrawal is
+something that has to
+be done clinically.
+Patients should not
+do it at home because
+the idea of them
+getting a seizure is
+really high. So they
+really need to be
+managed clinically in
+a hospital setting or
+a detox setting when
+you do withdrawal.
+So in an overdose,
+I already said it,
+you maintain the airway.
+You provide
+supportive care.
+So you're watching
+their blood
+pressure, their
+heart rate.
+You're looking to
+see about their
+electrolytes, their
+blood glucose.
+the symptoms of
+withdrawal can be cns
+stimulation or in
+worst case the delirium
+tremens and remember
+with the cns stimulation
+they could be
+anxious they can have
+some degree of tachycardia
+palpitations as
+you see here so what
+you want to do number
+one to prevent the
+seizure is to give
+the long-acting benzo.
+So we like to give
+chlordiazoxapide or
+the diazepam. And
+remember from that
+slide that I had at the
+beginning, those are
+the two that are going
+to have a long half
+-life because they
+have to go through
+phase one and then phase
+two metabolism before
+they're excreted.
+Then we have alcohol
+use disorder.
+And there's
+several ways we can
+manage the patient.
+Number one,
+we have a drug
+called naltrexone.
+And naltrexone, I'll
+talk about in opioids.
+It's considered to
+be an oral opioid
+antagonist. But here's
+the thing that makes
+it very valuable for
+alcohol withdrawal,
+is that it decreases
+the reward and the
+cravings because it has
+a decrease in dopamine.
+Remember, dopamine
+is responsible for
+the reward phenomena
+behind addiction.
+Then we have a newer
+drug, or maybe it's
+not new, but they're
+using it somewhat more,
+is acamprosate. And
+as I mentioned, with
+chronic drinking, you're
+going to have an effect
+on the balance between
+GABA and glutamate,
+with GABA being the
+inhibitory and glutamate
+being the excitatory
+neurotransmitters.
+So this medication is
+going to restore GABA.
+And by restoring GABA,
+you're going to get
+some degree of CNS
+depression. So the patient
+is going to be more
+calm in presentation.
+And as I mentioned,
+with chronic
+alcohol, you
+are getting an
+upregulation of
+the NMDA receptors.
+So this medication
+will stop the NMDA
+receptor upregulation.
+And that stops
+the excitability,
+so that too can be
+more of a calming
+effect on the patient.
+And you could also
+do CBT, and that's
+important. Patients
+should not just rely
+on medication. They
+should have some
+degree of talking to
+professionals that
+can also assist them
+in this condition.
+In the past, we
+had disulfiram.
+and this was
+known as Antabuse.
+And what this
+medication did was
+to be a deterrent
+because it
+blocked aldehyde
+dehydrogenase.
+And that's going to
+be used, the enzyme
+used to convert
+acetaldehyde to the
+water-soluble,
+excretable acetic acid.
+If you're blocking
+this enzyme, you're
+going to increase
+acetaldehyde and
+that's going to cause
+a horrible reaction.
+The patient is going
+to be sweating.
+They're going to be
+experiencing
+palpitations.
+And because of that,
+we don't want to use
+that anymore because
+it's actually, it seems
+like the treatment is
+worse than the cure.
+But I will bring
+this up because
+later on, when I talk
+about chlorpropamide,
+which is used
+for diabetes, or
+metronidazole,
+which is commonly
+given for giardia
+or trichomoniasis,
+we have to tell
+our patients
+not to drink
+alcohol because
+they can increase
+this action.
+Acetylaldehyde
+being high can cause
+flushing, nausea,
+vomiting, and palpitations.
+And then formipizol
+is interesting
+because this is going
+to be the antidote
+for those patients
+that drink,
+mainly children, if
+they get into the
+garage and they
+drink antifreeze,
+you want to give this
+from epizol because
+by blocking alcohol
+dehydrogenase,
+you're going to stop
+the metabolism of
+that toxic alcohol
+and it'd be eliminated
+quickly. And
+that's an antidote.
+So that's just a
+little bit about that.
+Clonidine is an alpha
+-2 adrenergic agonist.
+It's going to work
+presynaptically. It's
+going to reduce
+norepinephrine in that area.
+And because of that,
+it does have an
+effect at reducing
+the sympathetics that
+is involved with
+withdrawal, whether it
+be alcohol, opioid,
+and even nicotine.
+The issue is that it
+can cause sedation. It
+can cause some degree
+of depression in the
+patient. And of course,
+since it's decreasing
+norepinephrine
+presynaptically, it will
+lower your heart rate
+and blood pressure.
+Anxiety is actually a
+natural pattern
+of behavior.
+Because if you were
+not anxious and
+you saw, say, a
+bear in the woods,
+you would not run.
+So anxiety, to a
+degree, it does
+protect us from harm.
+The problem is when
+you have too much
+of these transmitters
+and it starts
+to affect the
+patient's daily life.
+And the idea here
+is the transmitters
+are coming from
+the amygdala and
+they include the
+standard glutamate,
+GABA, serotonin,
+and norepinephrine.
+Benzos are the most
+widely used group
+of anxiolytics, but
+they're only to be
+used for short term
+because we do worry
+about the possibility
+of addiction.
+So what we tend to do
+for panic disorder,
+we would start the
+patient on the alpazolam
+to stop the acute
+episode and then we
+would give something
+like an SSRI or even
+Buspirone for the
+generalized anxiety.
+Propanolol I
+need to mention
+because we do
+have a condition
+known as
+situational anxiety.
+The patient has not
+been diagnosed with
+anxiety at all, but
+they're doing something
+that causes them
+to be anxious. So
+for example, they have
+an exam, they have
+to perform as a
+violinist in a concert,
+giving propanolol is
+effective because,
+number one, by
+blocking norepineprin,
+you're going to decrease
+that sympathetic
+overdrive, and
+that makes sense.
+The second thing
+is that if you gave
+something like this
+before performance,
+you're not going
+to get, number one,
+any addiction
+liability like
+you would if you
+took a benzo.
+And the other thing,
+you won't be sedated.
+You would not want to
+take a benzo before
+an exam because you
+don't want to be sedated
+while having to
+concentrate. So giving
+propanolol would be
+effective for this reason.
+The only problem is
+that propanolol being
+non-selective is
+going to block beta-2.
+So if you have an
+asthmatic patient,
+a diabetic, or
+somebody with PVD,
+blocking B2 in the
+lungs is going to
+cause more of a
+problem with breathing.
+It's going to
+cause bronchospasm,
+so that would be a
+contraindication.
+Buspirone is a
+serotonin 1A agonist.
+It has no effect
+on GABA. it does
+have some weak
+dopamine blockade.
+And it is used for
+chronic anxiety.
+And one thing to
+know about this
+medication is that
+it has no dependence,
+there's no tolerance,
+there's no rebound.
+So this is why
+you would start
+the patient on
+the benzo and then
+switch them over
+to buspirone.
+The other reason why we
+need to start patients
+on a benzo is that
+this drug, along with
+the SSRIs, take a
+while to work. There's
+probably about four to
+six weeks when the patient
+really gets full
+effect. But definitely
+in the first two weeks,
+as the patient starts
+to get adjusted to
+this medication, you
+would want to have a
+benzodiazepine on board.
+And I just want to say
+that serotonin itself,
+even though we use it
+mostly for depression,
+and you'll see the
+SSRIs are used for
+major depressive disorder
+in a future lecture,
+serotonin enhancement
+does calm patients down.
+The other thing is
+that the partial D2
+activity does have
+an effect on anxiety.
+Adverse effects can
+be some dizziness.
+Narcolepsy is considered
+to be a situation
+where the patient has
+daytime sleepiness.
+Even though they're
+getting enough
+sleep, they will
+complain that they
+can't get their
+job done because
+they're very sleepy
+during the day.
+How you manage is by
+giving a sympathomimetic.
+And you also use a
+sympathomimetic for
+attention deficit and
+hyperactivity disorder.
+Amphetamine,
+dextroamphetamine, and
+methylphenidate, they work
+to do two things. They
+inhibit the reuptake
+of norepinephrine and
+dopamine. They also
+increase the release
+of catecholamines from
+the nerve terminals.
+The adverse
+effects can be by
+increasing norepinephrine.
+You're going
+to get an increase
+in heart rate,
+maybe an increase
+in blood pressure.
+That increase can
+also contribute
+to weight loss and
+even anxiety because
+I explained before
+that increasing
+neurotransmitters,
+norepineprin,
+GABA, can have an
+effect on anxiety.
+Modafinil and ometafinil
+are newer drugs.
+They have a greater
+effect at the reuptake
+and release of dopamine
+versus norepineprin.
+That means, since
+there's not much effects
+on norepinephrine,
+you're going to have
+less anxiety and less
+of the weight loss.
+The only issue is that
+it does cause skin rash.
+And the other thing
+is that it activates
+orexin and inhibits
+GABA. And I
+explained to you
+before, orexin blockers
+were used to induce
+sleep. So it makes
+sense if you're
+activating orexin and
+you're also inhibiting
+GABA, you would
+probably be able
+to not feel sleepy.
+So again, going
+back to this
+picture is
+very important.
+The difference
+between ******* and
+amphetamines is
+that ******* is a
+reuptake inhibitor
+of dopamine and
+norepinephrine,
+mainly dopamine.
+Amphetamines can
+do the same thing,
+but they also
+allow for the
+release of these
+neurotransmitters.
+Modafinil is going
+to be interesting.
+It's going to
+have an increase
+in the release
+of dopamine.
+And that, in
+fact, is going
+to increase wakefulness.
+No effect on GABA.
+orexin will in fact
+be increased and
+that's going to enhance
+alertness and the
+same thing with
+histamine because I
+explained that a
+histamine blocker is going
+to be used for
+sedation if you're
+increasing histamine
+you're going to be more
+stimulated so that
+does make sense so
+in summary you can
+say that blocking
+histamine will in fact
+cause more sleepiness
+but increasing histamine
+would cause more
+alertness. And we'll
+talk more about
+histamine in future
+lectures, especially when
+it's involved in the
+allergic process.
+This lecture is going
+a little over. I
+realize it, but I don't
+know any other place
+where you may have
+some of this. And
+this is important when
+it comes to boards.
+When patients overdose
+on stimulants,
+especially if we're
+talking about *******,
+some of the symptoms
+are going to be
+hard to differentiate
+from schizophrenia.
+And I'll talk about
+those medications
+in a later lecture.
+So the patient will
+be in somewhat in
+a delusional phase.
+They will be
+hallucinating.
+And on an autonomic
+perspective,
+they're going to have
+tachycardia. They're
+going to have
+medriasis because
+you're turning on
+sympathetics, so
+you're thinking about
+fight or flight.
+They will be hypertensive,
+and that causes
+in the heart may be
+due to the increase
+in norepinephrine
+that I mentioned.
+They will have
+hyperthermia,
+and they will
+have seizures.
+So for the hyperthermia,
+we probably
+will do some degree
+of cooling blankets.
+That's considered
+to be the supportive
+therapy for that. But
+the other thing you
+will notice is that
+they may experience some
+type of tactile
+sensation that they feel
+like bugs are crawling
+all over them.
+And we call that
+******* bugs. That might
+be due to the hallucinations
+that are being
+caused by the reuptake
+of the dopamine.
+How we manage is we
+acidify the urine
+because these drugs
+are considered
+more basic in
+structure. So by causing
+acidification, you
+ionize and the rest
+of the drug goes
+out in the urine.
+Supportive therapy,
+as I mentioned,
+the cooling blankets,
+the lorazepam
+for the possibility
+of seizures,
+haloperidol, which
+is going to block D2
+that is responsible
+for causing some
+of these delusions
+and hallucinations.
+And lastly, to
+relieve the autonomic
+effects on the heart,
+we give labetalol.
+And the idea here is
+most patients think,
+what about propanolol?
+And the problem with
+propanolol is that it's
+only going to block
+the beta receptors
+against norepinephrine
+in the heart. You need
+something that's also
+going to participate
+at blocking the alpha
+receptors. And the
+betalolol is considered
+to be a mixed alpha
+and beta receptor
+antagonist. So that's
+usually the right choice.
+and that's it for now.
+Lastly, I want to talk
+about sodium oxybate
+and this is going
+to treat a condition
+known as narcolepsy
+with cataplexy and
+cataplexy refers to
+the fact that the
+patient is getting a
+loss of muscle tone.
+So this medication
+is considered to be a
+salt of gamma
+-hydroxybutyrate It's known
+as GHB, which itself
+is an illicit drug.
+It's a metabolite
+of GABA, and this
+drug, as you can
+see, is going to act
+as an agonist of
+the GABA-B receptor.
+Has a very strong half
+-life, but by acting
+as an agonist here at
+both the GABA-B and
+the GHB receptor,
+what you're going to
+get is an induction of
+a deep sleep. And that
+is said to help
+patients that have this
+narcolepsy with this
+loss of muscle tone.
+The issue, since
+I mentioned that
+it is considered
+to be GHB is an
+illicit drug, you
+need to be enrolled
+in a program known
+as Risk Evaluation
+and Mitigation.
+It's called REMS.
+And this is where it's
+not dispensed from
+a normal pharmacy
+where the doctor
+writes a prescription.
+It has to go to a
+central pharmacy,
+which monitors the use
+and prescribing of
+this drug. It will also
+have certain paperwork
+that is going
+to be involved in
+letting the patient know
+the risk for *****
+and what to avoid.
+In adverse effects,
+patients can become
+more nauseous They can
+become more confused
+And if this is ever
+taken with ethanol or
+sedative hypnotics
+You're going to increase
+respiratory depression
+So that's why
+having it in a REMS
+program is going to be
+very important Because
+that information will
+be communicated to
+the patient The other
+thing about sodium
+oxybate It's not uncommon
+that the patient will
+get this medication
+at night and maybe
+during the day get an
+amphetamine like we
+talked about before,
+like dextroamphetamine,
+amphetamine
+itself, maybe
+even modafinil.
+So in summary, I want
+the students to really
+understand the mechanisms
+of these drugs,
+some of the more
+important adverse
+effects, and again,
+the differences between
+even drugs that are
+considered to be gabaminergic,
+the difference
+between barbiturates
+and ethanol versus
+benzodiazepines, some
+of the drugs that
+we went through for
+anxiety, like the idea
+of using buspirone for
+generalized anxiety
+disorder, and these
+drugs for narcolepsy.
+I will be doing the
+question review, which
+I know will be helpful
+in going through this
+lecture, which I do
+realize there's a
+lot going on here. So
+do listen to that
+review because it will
+help you kind of cement
+all these concepts.
+If there are
+any questions,
+please let me know.
+Until then, be
+well and I will
+see you soon.
+

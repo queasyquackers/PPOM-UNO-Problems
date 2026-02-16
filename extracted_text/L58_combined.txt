@@ -1,0 +1,2669 @@
+Lecture 58 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Office of Academic Affairs 
+Pharmacology: Parkinson’s and Alzheimer’s disease
+Maria A. Pino, Ph.D
+Department of Clinical Specialties
+mpino@nyit.edu
+--- Page 2 ---
+Source: Course Syllabus
+1.   Review the pathogenesis of Parkinson’s disease.
+2.   Describe all the classes of drugs used in the management of 
+Parkinson’s disease. Identify adverse effects
+3.   Explain the drugs which can induce Parkinsonism.
+4.   Review the pathogenesis of Alzheimer’s disease
+5.  Describe the drugs used to manage Alzheimer’s disease. 
+Include novel therapies.
+ 
+Session Objectives
+--- Page 3 ---
+• Loss of dopaminergic neurons in substantia nigra.
+• Rigidity, postural instability, bradykinesia, tremor, affective 
+disorders.
+Drugs with PD-like effects:
+• Antipsychotics (D2 receptor blockers; haloperidol, 
+fluphenazine, chlorpromazine)
+• Antiemetics (metoclopramide, prochlorperazine)
+• Vesicular monamine transporter-2 inhibitor (tetrabenazine). 
+Depletes monoamines, used for chorea.
+Parkinson’s Disease
+--- Page 4 ---
+Dopamine Pathway
+
+--- Page 5 ---
+Parkinson’s Disease Pathogenesis
+https://www.researchgate.net/figure/Pathogenesis-of-Parkinsons-
+disease-at-molecular-level-showing-different-complex_fig2_324803436
+--- Page 6 ---
+L-Dopa
+• Precursor of Dopamine (DA). L-dopa crosses BBB
+• Converted to dopamine by dopa decarboxylase in nigrostratium
+• Drug efficacy ceases as dopaminergic neurons are lost
+• Dyskinesia (involuntary movements). Relates to unequal 
+distribution of striatal dopamine.
+• On-off phenomena. Drug holiday not effective. Use other drugs.
+--- Page 7 ---
+L-Dopa Metabolism
+Youdim et al. Nature Reviews Neuroscience 7, 295–309 (April 2006) | doi:10.1038/nrn1883
+--- Page 8 ---
+L-Dopa Adverse effects
+• Nausea, vomiting (DA in CTZ)
+• Orthostatic hypotension 
+• Cardiac arrhythmia 
+• Hallucinations, delusions, compulsive behavior. May be relieved 
+by atypical antipsychotics.
+• Carbidopa decreases adverse effects (dopa decarboxylase 
+inhibitor). Reduces L-dopa dose requirement. Peripheral action.
+--- Page 9 ---
+
+--- Page 10 ---
+L-dopa interactions 
+• High protein foods decrease L-dopa absorption.
+• Vitamin B6 increases decarboxylation
+• MAO-A inhibitors (can induce hypertensive crisis with 
+L-dopa)
+• Metabolites: homovanillic acid; dihydoxyphenylacetic 
+acid (DOPAC)
+--- Page 11 ---
+Amantadine
+• Treatment and prophylactic 
+(influenza A)
+• For PD: Increases dopamine release, 
+muscarinic blockade, and NMDA 
+receptor block (antidyskinetic effect).
+• Oral, Renal clearance
+• Adverse effects: Dopaminergic, 
+muscarinic block effects, livedo 
+reticularis (skin)
+
+--- Page 12 ---
+H+ must enter virus via M2 ionic 
+channel to acidify pH and cause 
+uncoating and release of RNA.  
+Amantadine blocks M2 channel, 
+prevents release of RNA. This is 
+antiviral MOA.
+Resistance: Mutation of the M2 
+protein
+
+--- Page 13 ---
+Catechol-O-Methyltransferase 
+Inhibitors
+•Tolacapone and Entacapone
+•Stabilizes dopamine levels 
+•Increases bioavailability of levodopa
+•Tolacapone: Acute hepatitis
+•Entacapone: safer, no liver toxicity. But only acts in 
+periphery
+•Opicapone (long acting) 
+•Adverse effects: related to increase in L-dopa levels (N/V, 
+cardiac, dyskinesias).
+--- Page 14 ---
+
+--- Page 15 ---
+Levodopa, Carbidopa, Entacapone
+http://www.orion.fi/en/Research-and-developement/Research-Areas-/Central-Nervous-System-medicines/
+--- Page 16 ---
+MAO-B Inhibitors
+• Selegiline, Rasagiline (irreversible). 
+• Selegiline metabolite is metamphetamine
+• Safinamide (decreases off phenomena, reversible). Inhibits 
+glutamate release.
+• MAO-B blockade:
+• Increases DA levels, allows for levodopa dose reduction.
+• Decreases hydrogen peroxide formation (less ROS)
+• Prevents MPTP induced Parkinsonism (toxin)
+--- Page 17 ---
+https://www.mdpi.com/1422 -0067/17/1/108/htm
+--- Page 18 ---
+MAO-B Inhibitors:  Adverse effects
+• MAO-B: dopamine specific. Minimal interaction with 
+tyramine-containing food (unlike phenelzine).  Unless 
+administered at high doses. 
+o Selegiline metabolized into amphetamine.
+o Serotonin syndrome (with co-administration of 
+meperidine, dextromethorphan, St. John’s wort) 
+o Safinamide not indicated in severe hepatic impairment.
+• MAO-A: NE, 5HT, dopamine (phenelzine). 
+Antidepressants
+--- Page 19 ---
+
+--- Page 20 ---
+• Pramipexole: D3 receptor agonist. Scavenger of hydrogen peroxide.
+• Ropinirole: D2, D3 receptor agonist
+• Bromocriptine: D2 receptor agonist. Treats elevated prolactin. Ergot 
+derivative (vasospasm)
+• Rotigotine: transdermal formulation
+• Administer with L-dopa; reduces on-off phenomena
+• Adverse effects: confusion, vivid dreams, hallucinations, N/V , compulsive 
+behavior (D3).
+• Also used for restless legs syndrome (pramipexole, ropinirole)
+D2and D3 Receptor Agonists
+--- Page 21 ---
+
+--- Page 22 ---
+• Dopamine receptor agonist (nonergoline). Postsynaptic D2 in 
+caudate nucleus and putamen.
+• Injectable, sq, sl  to provide supplemental dopamine action.
+• Limits “off” episodes
+• Adverse effects: Nausea and vomiting. Can be managed by 
+trimethobenzamide. 
+• Increased QT interval. 
+Apomorphine
+--- Page 23 ---
+
+--- Page 24 ---
+• Benztropine, trihexyphenidyl 
+• Restore some of the “balance”(Ach vs DA)
+• Reduce tremor and rigidity
+• Adverse effects: Antimuscarinic
+• Elderly????
+o M1: CNS, M2: cardiac; M3: exocrine glands
+Muscarinic Antagonists
+--- Page 25 ---
+5-HT2A, Alpha1, M3, H1 Mechanism of Action 
+(Gq)
+
+--- Page 26 ---
+• Selective adenosine A2A 
+receptor antagonist in basal 
+ganglia
+• GABAergic neurotransmission 
+is reduced in globus pallidus
+• Manages the off-phenomena
+• Adverse effects: insomnia, 
+reduced appetite
+Istradefylline 
+
+--- Page 27 ---
+• Most common form of dementia, progressive
+• Loss of brain cells to impair memory & cognition.
+• Greater incidence with age, 20% in patients over 85.
+• Familial & sporadic (single family member) forms 
+identified. APOE-4 gene
+• No cure, only slow progression.
+Alzheimer’s disease
+--- Page 28 ---
+• Intraneuronal fibrillary tangles consisting of the tau 
+protein. 
+• Amyloid- deposited in the cerebral cortex, 
+cerebrovascular lesions.
+• Progressive loss of neurons in cerebral cortex and 
+cholinergic neurons.
+• Decreased acetylcholine synthesis.
+Pathology
+--- Page 29 ---
+From the left: mitochondrial dysfunction, possibly involving glucose utilization; synthesis of protein tau & aggregation in 
+filamentous tangles; synthesis of amyloid  (A) & secretion into the extracellular space, where it may interfere with 
+synaptic signaling and accumulates in plaques. 
+--- Page 30 ---
+• Donepezil, Rivastigmine, Galantamine, Tacrine 
+• Approved for treatment of mild to moderate Alzheimer’s Disease.
+• Rivastigmine: antagonism of butyrylcholinesterase provides 
+greater benefit 
+• Galantamine: nicotinic receptor agonist
+• Adverse effects: muscarinic agonist actions (SLUDGE, bradycardia, 
+bronchospasm) increased adverse effects with CYP450 inhibitors.
+Anticholinesterase Inhibitors
+--- Page 31 ---
+https://slideplayer.com/slide/678035/
+--- Page 32 ---
+DRUG BIOAVAILABILITY (%) t (h)
+ELIMINATION 
+HALF-LIFE (h)
+HEPATIC 
+MET ABOLISM
+REVERSIBLE 
+INHIBITION OF 
+AChE
+OTHER 
+CHOLINOMIMETIC 
+EFFECTS
+Donepezil 100 3–5 60–90 Yes Yes
+Rivastigmine 40 0.8–1.8 2 No No* BuChEI
+Galantamine 85–100 0.5–1.5 5–8 Yes Yes nAChR agonist
+tmax = time to maximum plasma concentration;
+*Rivastigmine is a “pseudo-irreversible” inhibitor of AChE and BuChE; AChE = acetylcholinesterase; BuChEI = butyrylcholinesterase 
+inhibitor; nAChR agonist = non-potentiating ligand of the nicotinic receptor.
+Referenced from: Golan 2nd edition-Lippincott- For teaching purposes only not for
+publication.
+Pharmacokinetics of Donepezil, 
+Rivastigmine, and Galantamine
+--- Page 33 ---
+• NMDA Receptor Antagonist; 
+uncompetitive.
+• Reduces calcium conductance in 
+pathways of learning and 
+memory.  Overactivity causes 
+cell damage and loss of function.
+• Indicated for moderate/severe 
+AD.
+• Adverse effects: N/V,  diarrhea, 
+reduce dose in renal impairment
+Memantine
+
+--- Page 34 ---
+• Monoclonal antibody; targets 
+amyloid beta; Decreases amyloid 
+plaques. Start during mild AD 
+symptoms. PET scan/CSF 
+confirmation 
+• Adverse effects: Amyloid related 
+imaging abnormalities (ARIA)
+• ARIA-E (edema)
+• ARIA-H (bleeding)
+• MRI to be performed specific 
+intervals to infusion 
+Aducanumab, w/d 2024 
+
+--- Page 35 ---
+• IV every 2 weeks for lecanemab, monthly for donanemab
+• All similar MOA, Lecanemab targets protofibrils
+• AE: ARIAs, headache, infusion reactions.
+• MRI to be performed at specific intervals
+Lecanemab, 2023 and Donanemab, 2024 
+
+--- Page 36 ---
+• Atypical Antipsychotics (risperidone, olanzapine, and quetiapine) for 
+agitation and psychosis. Adverse effects?
+• SSRIs (depression). Citalopram preferred?
+• Antioxidants (Ginkgo Biloba, vitamin E)?
+• Caution with antimuscarinics in elderly (Beer’s criteria)
+• Concurrent geriatric conditions (hypertension, type II diabetes, etc)
+• Anticoagulants
+• Antimicrobials
+Alzheimer’s Disease: Other Drugs
+--- Page 37 ---
+• Describe the drugs used to manage Parkinson’s disease. Include adverse 
+effects. Explain other drugs associated with Parkinsonism.
+• Describe the drugs used to manage Alzheimer’s disease. Describe 
+additional medications used to manage this population of patients.
+Core References:
+1. Katzung & Venderah Basic and Clinical Pharmacology, 16e, 2024; Chapter 
+28 Pharmacologic Management of Parkinsonism and Other Movement 
+Disorders;  Chapter 7 Basic Pharmacology of the indirect-acting 
+cholinomimetics.
+2. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e, 
+2023; Chapter 21: Treatment of Central Nervous System Degenerative 
+Disorders
+3. Drugs for Parkinson’s and Alzheimer’s disease summary (Maria A. Pino, 
+Ph.D)
+Summary Slide
+--- Page 38 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+
+
+--- Transcript Content ---
+Hello everyone,
+this lecture
+will be the
+pharmacology of
+Parkinson's and
+Alzheimer's disease.
+So with Parkinson's
+disease, it's going
+to be the loss of
+dopaminergic neurons
+from the substantia
+*****, and the patient
+will present with
+tremors, rigidity,
+slowed movements,
+and the main drug
+here is going
+to be L-DOPA, which
+is going to be
+sort of a precursor
+to dopamine.
+And with that medication,
+we also have other
+medications that are
+also used to prevent
+the breakdown either
+of L-dopa or dopamine
+itself. So in the
+lecture, I'll go through
+each class and I will
+identify the adverse
+effects. I will also
+explain drugs which
+can induce a Parkinson
+-like effect. We call
+it EPS and that is
+known as extrapyramidal
+side effects. And
+that's going to be very
+true with the drugs that
+block the D2 receptor,
+and those are known
+as antipsychotics,
+first generation.
+I will also review
+the pathogenesis of
+Alzheimer's, which in
+this case, we have a
+deficiency of
+acetylcholine. So the main
+treatment is going to
+be to increase this
+neurotransmitter, we
+in the past few years
+have had the development
+of monoclonal
+antibodies that actually
+will bind amyloid
+protein and that would
+help someone that was
+maybe diagnosed
+recently because we use
+those for, you know,
+early diagnosis of AD.
+so with parkinson's
+disease again it's
+about the dopamine
+and its loss in the
+substantia ***** with
+both conditions whether
+it be pd or ad
+patients are going to
+have some degree of
+change in say their
+affective disorder
+so what i'm trying to
+say is they'll present
+with depression
+anxiety they'll have
+a certain degree
+of say delusions
+some hallucinations
+so it's going to be
+necessary that other
+medications are
+going to be put on
+board to kind of
+manage those symptoms
+what i also need to
+mention is that with
+both disorders they
+tend to happen in
+older adults and
+what we tend to have
+as patients become
+older in the elderly
+population, there
+are other medications
+that are oftentimes
+needed, whether it
+be something for
+hypertension, hyperlipidemia,
+the patient
+may have atrial
+fibrillation, they may
+have COPD or asthma.
+And here is where you
+need to closely evaluate
+all the medications
+because there can
+be an exacerbation of
+adverse effects, and
+I'll try to go through
+them in this lecture
+or they can even be
+drug interactions. So
+it's important to know
+when you're dealing
+with these populations
+you really have to look
+at the big picture.
+Not just dealing with
+the neurological
+component but everything
+else that might be
+affecting that patient.
+So antipsychotics,
+these are the first
+generation. They block
+the D2 receptors,
+and they're going to
+block in the mesolimbic
+area, which is
+responsible for
+causing some of that
+disorganized thought,
+those delusions. And
+that will, in fact,
+help the patient that
+is experiencing
+a psychotic
+break, so to speak.
+And that would
+be something
+that we would want
+in those cases. But
+if you block D2 in
+the tuberal infundibular
+pathway, or you
+block here in the
+nigrostriadium, you're
+going to get number
+one, an increase
+in prolactin. And
+I'll cover that when
+we get to the
+antipsychotic medications.
+And here you're going
+to get the patient
+experiencing a degree
+of movement change.
+So that is something
+that we need to
+understand. And I will
+say that now the typical
+antipsychotics,
+those that block D2,
+have been widely
+replaced by the atypical
+antipsychotics. And
+those block more than
+D2, they block
+serotonin. So we'll talk
+about the differences
+and some of the adverse
+effects of those
+other drugs coming up.
+The other thing
+with emesis,
+understand that
+emesis comes from the
+area of postremia
+in the brain.
+We call it the
+chemo trigger zone.
+And in that area,
+we have muscarinic
+receptors, we
+have D2 receptors,
+we have serotonin
+receptors.
+So if you gave,
+say, a D2 receptor
+antagonist like
+prochlorperazine,
+that patient, of
+course, would be
+better. They
+won't be vomiting.
+but if they had something
+like parkinson's
+disease they could
+get an exacerbation
+of the symptoms so it's
+important to understand
+that even though
+again for emesis we
+have newer drugs like
+the serotonin blockers
+you need to identify
+medications that
+have this d2 block
+because it can in fact
+induce some of
+these symptoms that
+you're trying to treat
+in your pd patient
+And then we have
+another medication.
+It's known as a vesicular
+monoamine transporter
+2 inhibitor. It's
+known as tetrabenazine,
+and we use this
+for Huntington's
+disease. And this
+medication, by blocking this
+specific transporter,
+is going to deplete
+monoamines, including
+dopamine. So, patients
+that are using this
+for Huntington's may
+experience some effect
+on their movement.
+So, again, understanding
+the loss of
+dopaminergic neurons
+in the nigrostriadium
+and the effect
+that we talk about
+when we use those
+D2 blockers is
+called EPS, extrapyramidal
+side effects.
+So it's thought
+that PD can
+come from various
+mechanisms.
+The first one is
+going to be glutamate
+being the excitatory
+transmitter
+binding to its
+receptor, NMDA.
+And this glutamate, as
+you know, is responsible
+for exo-citation,
+basically. okay
+excitability and it does
+so by this increase in
+calcium so the more that
+you get excitability
+the more the neuron
+can be damaged and you
+can see that in the
+picture the other thing
+to know is through this
+increase in calcium
+and through other
+pathways that might be
+involved in maybe in
+inflammation you're going
+to have an effect in
+the mitochondria and the
+mitochondria we know is
+is there to synthesize
+energy and when you
+start to get production
+of say oxidative stress
+or neuroinflammation
+you also are going
+to lose energy and
+that's going to result
+in the death of the
+dopaminergic neuron
+okay and then we do have
+something that might
+be protective and these
+are known as a neurotropic
+GDNF, which stands
+for glial cell line
+derived growth factor.
+And just as the word
+says, this particular
+factor when it binds
+to the receptor
+has been shown to
+actually be somewhat
+protective to the
+neurons. So we'll
+see in the future.
+I'm sure they are
+trying to develop
+something that actually
+enhances GDNF, but
+we'll stay tuned.
+And then the other
+thing that's been
+implicated, both
+in PD and another
+type of condition
+that falls in that
+group, it's called
+Lewy body dementia,
+seems to be due to
+the fact that you're
+getting these folds
+alpha-synuclein and what
+happens is it's not
+the folds but there's a
+misfolding that happens
+and what tends to result
+is an accumulation of
+this alpha-synuclein
+and that has been shown
+to number one make
+Lewy bodies and also
+create neural neuronal
+damage so you can
+understand that that
+mechanism will damage
+the dopaminergic neurons.
+Again, in this next
+picture, you can see
+there's going to be
+a connection with the
+substantia ***** for
+dopamine and the corpus
+striatum. And we'll see
+a little bit later, we
+do have a drug that
+actually has some effects
+on the corpus striatum
+for GABA. In a normal
+patient, you can see
+that the signal for
+dopamine is considered
+to be strong as you
+can see in that solid
+red line and there's a
+good balance between
+acetylcholine and GABA.
+In Parkinsonism you see
+that the red line is
+now dotted so to speak
+so that shows the
+loss and then there
+may be some effects on
+acetylcholine and GABA
+because once dopamine is
+lost you may increase
+acetylcholine, you can
+increase GABA. So we
+do have drugs that can
+help with those
+neurotransmitters, but it's
+just showing you the
+difference between
+normal and a patient
+with Parkinson's disease.
+So L-DOPA is the drug
+of choice. For many
+years, it's been first
+line. Most physicians
+are going to start
+that medication first
+there may be some
+exceptions and the reason
+being is that dopamine
+if it was given
+it would not cross the
+blood-brain barrier
+we use dopamine in
+in in several um
+situations like if the
+patient has um some
+type of cardiovascular
+maybe shock but
+if you were to give
+dopamine as a pill,
+it would not cross
+the blood-brain
+barrier. So it has to
+be given in a L form,
+L-isomer, and it's known
+as levodopa or L-dopa.
+This is able to cross
+the blood-brain barrier.
+Once it gets in,
+it's going to be
+converted to dopamine
+by an enzyme known
+as dopa decarboxylase.
+and that's going
+to be present in
+the nigrostriadium.
+One problem is, as the
+disease progresses,
+and again, we need to be
+clear, for
+both PD and AD,
+both diseases are
+going to progress.
+None of these
+are cures. These
+are just to slow
+the progression.
+Eventually, the
+patient will worsen.
+But as these
+neurons are lost,
+the drug efficacy is
+going to start
+to go down.
+and the other thing
+is that you're
+going to see
+that with long
+-term use patients
+are going to get
+dyskinesia and that
+has to be really now
+saying that the
+patient is is having
+different movements
+they're going to be
+fidgety they're going
+to be swaying and
+that has to do with
+the fact that as
+you're losing the
+neurons, you're not
+going to have an equal
+distribution of the
+dopamine in the
+nigrostriadium. Okay.
+The other thing
+with L-DOPA is,
+and this is, you
+know, probably the
+reason why a
+lot of these new
+drugs are added on
+for this reason.
+Patients are going
+to have periods where
+on means that they
+have good mobility.
+That means it's a
+good period, the
+drug is working,
+everything is good.
+In the off period, that's
+when they're
+going to have a
+fluctuation of drug
+levels and they're
+going to start to
+have more symptoms.
+In the past,
+what they used to
+do is they would
+take the patient
+off L-Dopa for
+a period of time
+and then they
+would reinstate and
+incidentally it did not
+work well because number
+one you have to re
+-establish a level
+you have to tight
+read the dose you may
+get the introduction
+of adverse effects
+again that you have
+to manage it just did
+not work well for the
+patient in the end
+And they did see that
+patients did poorly
+with this phenomena
+of drug holiday.
+So now we have the
+other drugs. And I'll
+explain to you what
+they are coming up. We
+have the Mal-B inhibitors.
+We have the Comt
+inhibitors. We have
+even dopamine agonists.
+So as you can see,
+L-DOPA's fate is
+twofold. It's outside the
+blood-brain barrier
+in the periphery, and
+what happens is that
+if you give L-DOPA,
+in the periphery, that
+DOPA decarboxylase
+breaks down some
+of that drug.
+So what we give
+with L-dopa, and
+this is the
+formulation known as
+Sinemet, is something
+called carbidopa.
+L-dopa with carbidopa,
+levodopa and
+carbidopa. And carbidopa
+is not doing anything
+for the Parkinson's
+disease. it's just
+preventing L-DOPA
+from being broken down
+so that more of it
+can enter the CNS.
+Because I will
+explain in a moment,
+you cannot go really
+high with a level
+of L-DOPA either,
+because patients
+are going to have
+adverse effects
+and some of them
+can be more serious.
+As you can see here,
+and I will go through
+it step by step in the
+next few slides, we
+do have certain enzymes
+that try to break
+down either L-DOPA
+and that is catechol-O
+-methyltransferase and
+that is going to be
+inhibited by the COMT
+inhibitors like entacopone
+or inside the CNS is
+tolicopone. We have
+MAO-B that tries to
+break down dopamine.
+So in order to stop
+that enzyme from
+breaking down the
+dopamine and keeping the
+dopamine levels up
+here in the CNS, we
+would give something
+like seleguline.
+And then later on,
+when we're talking
+about the postsynaptic,
+we have the D2
+receptors, D2, D3,
+D1. And the drugs
+that I'll talk about
+that go under the
+name of dopamine
+agonists will include
+drugs like pramipexole
+or rapinerol.
+So the adverse effects
+of L-DOPA, well,
+number one, I did
+mention about dopamine
+being in the chemo
+trigger zone. So
+anything that's going
+to aggravate the
+receptors in that area
+are going to cause
+the patient to be
+nauseous and they will
+*****. So initially,
+when you start this
+medication, make
+sure we are doing it
+slowly because that
+can be something that
+can prevent the
+patient from, you know,
+taking their
+medication. If they
+start feeling
+this early on,
+they're not going
+to be compliant.
+The other thing is
+orthostatic hypotension.
+And this means
+that when you get
+up from, say, a lying
+down position or
+you're sitting down,
+you get up quickly,
+you feel dizzy and
+sometimes faint.
+And this happens, I
+think you might have
+done the alpha
+blockers, the sin drugs
+like prazosin,
+pterazosin. If you get up
+quickly, the blood is
+going to take time to
+pull to the extremities
+because of the
+alpha blockade, and
+you get this feeling.
+This is a problem,
+especially in the elderly,
+and patients with PD
+tends to be an older
+population. So the
+idea here is when you
+start the medication,
+not only are you starting
+at a low dose, you're
+going to warn the
+patient, don't get up
+fast from lying down.
+and that adverse
+effect, if we
+want to say what's
+the mechanism,
+it may be that when
+L-DOPA is given, it
+may be converted to
+dopamine, and dopamine
+in itself reduces
+peripheral vascular
+resistance, and that
+lowers blood pressure.
+Some patients can get
+an exacerbation of
+cardiac arrhythmia,
+so again, making sure
+you're doing baseline
+tests. If you need to
+do, say, an EKG, that
+would be recommended.
+That has to do with
+the fact that dopamine
+could be converted
+to norepinephrine,
+and that norepinephrine
+in the beta receptors
+of the heart will
+increase heart rate.
+And then, of course,
+if I'm talking to
+you about drugs that
+we use to manage
+psychosis, if you're
+increasing dopamine,
+you're going to be
+more prone that the
+patient is going
+to have delusions,
+compulsive behavior,
+and hallucinations.
+And going back to what
+I said, D2 blockers
+take care of that. But
+D2 blockers will cause
+more of the problem
+with the movement. So
+what do you do in this
+case? You may give them
+the atypical antipsychotics
+that I mentioned.
+Something like
+quetiapine or rispidone
+which instead of blocking
+d2 they have a stronger
+blockade for the
+serotonin 2a receptors
+so aside from that this
+is why when i mentioned
+you need to keep the
+dose of l-dopa at a
+place where it's effective
+and it's not going
+to cause these adverse
+effects and that
+is why we give the
+carbidopa because if you
+gave it without carbidopa,
+you might have to
+give a higher dose.
+Carbidopa keeps the dose
+stable and you avoid
+these adverse effects.
+Understand that
+carbidopa is
+going to work
+peripherally.
+Okay.
+Okay. So this is
+important to note because
+in the gut,
+things will happen
+to levodopa. Much
+of it is going
+to be broken
+down in the gut.
+So if you see the
+first curve, L-dopa
+alone, you can see
+that 70% of it is going
+to be lost in the
+gut. It's broken down.
+And in looking at
+the toxicity, there
+may be deposition in
+peripheral tissues.
+But ultimately,
+only one to three percent
+gets into the blood
+-brain barrier. So you're
+having more adverse
+effects and less
+in the blood-brain
+barrier. And that's not
+really what we want as
+an outcome when you
+give it with carbidopa
+you're going to get less
+of a breakdown in the
+GI tract okay and
+ultimately what you see
+more is in the blood
+and that is a good thing
+because then it can
+get through the blood
+brain barrier and
+you can see that the
+difference is here you
+get 10 percent through the
+blood brain barrier
+when levodopa is given
+with carbidopa there are
+some drug interactions
+with l-dopa number
+one high protein foods
+will decrease the l
+-dopa absorption so it
+doesn't mean that you
+can't have you know
+eggs or steak or anything
+like that but you
+just need to be mindful
+perhaps not give the
+l-dopa during food
+maybe give it an hour
+before you have the meal
+b6 is also interesting
+in that it does increase
+the metabolism of
+l-dopa in the brain
+periphery and it would
+stop ultimately it
+from getting into the
+brain so again i i want
+to say if you're taking
+more than say five
+milligrams of b6 that
+would be an issue. A
+multivitamin should not
+really give this change
+in drug absorption.
+Mal-A inhibitors.
+So again,
+this lecture comes before
+antipsychotics and
+antidepressants.
+You'll understand
+it more when we
+get to those lectures.
+Mal-A inhibitors
+used to be used
+for depression.
+If you gave one of
+those drugs with L
+-DOPA, you may induce
+hypertensive crisis.
+Okay, I'll explain
+that mechanism when we
+get to that lecture.
+First of all, MAO-A
+inhibitors are not
+given anymore because
+we have SSRIs, SNRIs,
+we have newer drugs
+like bupropion that
+we use for depression,
+but this would be
+mainly a board concept.
+And the metabolites
+of L-DOPA are
+similar to what you
+see with dopamine.
+You have homovanillic
+acid and you have
+dihydroxyphenolacetic
+acid that we
+know as DOPAC,
+metabolites of dopamine.
+so another drug that
+can be given and
+sometimes physicians may
+want to give this early
+on is amantadine
+amantadine you'll also
+see or maybe you have
+already observed it
+if you've done any
+drugs for viruses this
+medication is used
+for both the treatment
+and prophylaxis of
+influenza A not B because
+B would require
+something like Tamiflu
+but we don't use
+this as much anymore
+because again
+we have other
+medications we also
+assume that most patients
+will agree to
+be vaccinated
+against the flu and
+that's a good thing
+but for early PD
+there seems to be
+several things that
+occur number one it
+increases dopamine
+release and that's a
+good thing It
+creates muscarinic
+blockade, which will
+help with some of the
+tremors that these
+patients may have.
+And then there's that
+NMDA receptor block.
+And I talked about
+the relationship
+between glutamate,
+excitability, increasing
+calcium, and damage
+to the neurons.
+It's given ******,
+so it's convenient.
+But those patients that
+have renal insufficiency
+may need to have a
+dosage adjustment.
+And then the
+adverse effects.
+Well, if you're
+giving dopamine,
+patients may end up
+being delusional.
+They can end up
+having hallucinations,
+okay?
+Muscarinic block
+effects. So again,
+throughout this
+block, I'm going to
+say, you know,
+the hot as a hair,
+dry as a bone,
+the heart runs alone,
+mad as a hatter,
+because muscarinic
+block is going to
+turn on sympathetics.
+It's going to
+affect cognition,
+creating tachycardia,
+medriasis.
+Patients are
+going to be dry.
+So that's something
+to be expected.
+And then there's a
+skin side effect, I
+want to say, known as
+levito-verticularis.
+Where the patient
+is going to appear
+to have this
+like purplish net
+look to say their
+arms and legs.
+And this has to do with
+constriction of the
+vessels that is
+decreasing the blood flow.
+They say that this may
+be due to the blockade
+of the glutamate at
+the NMDA receptor.
+So since we're doing
+this, I just want
+to review the
+antiviral mechanism of
+amantadine and the other
+one is rimantadine.
+But we don't use
+rimantadine for PD.
+So one thing that
+needs to happen
+is that you
+need to get an
+acidification of a
+specific channel.
+Because when that
+channel gets acidified,
+there's going to
+be an uncoating
+and that's going to
+release the mRNA.
+So what amantadine does,
+it blocks this
+M2 channel.
+So if you're blocking,
+you're not getting
+that hydrogen ion
+in, you're not
+getting acidification,
+and you're not getting
+uncoating and
+release of the virus.
+The resistance with
+this may be that
+there's a mutation
+of the M2 protein. So
+you might have seen
+this now for the first
+time. Again, it may
+be something that
+you might see on a
+board exam, but that's
+the antiviral mechanism
+of amantidine.
+so we have the catecholol
+-methyltransferase
+inhibitors and we
+like to call them
+the capone family of
+drugs because they
+both end in capone
+these are going to
+stabilize the dopamine
+levels because they
+in fact increase
+levodopa bioavailability
+because they prevent
+its breakdown one
+of the drugs can only
+do it in the periphery
+and that's going
+to be enter capone
+tolacopone can do
+it in both places it
+blocks comped both in
+the periphery and in
+the cns the problem is
+that tolacopone given
+that it has this
+greater action and maybe
+it might be slightly
+more effective than
+entacopone can cause
+acute hepatitis so
+that's what you're
+really sacrificing. Most
+physicians will be
+okay with endocapone.
+If the patient
+starts to experience
+right upper quadrant
+pain, if they get
+yellowing of their
+eyes and of their skin,
+you know to call
+them in to do their
+liver function test
+and you would have
+to see if tolicapone
+should be removed.
+We have a newer one
+which is opicapone that's
+considered to be long
+acting. So instead
+of giving entacupone
+several times a day.
+Opicupone might be just
+once a day and that
+makes things very
+effective, more convenient
+for your patient
+than anything else.
+And then the
+adverse effects,
+you know, anytime you're
+looking to increase
+L-dopa levels, you have
+to expect the adverse
+effects of levodopa.
+So the changes, say,
+in the patient's
+personality, they might be
+delusional, they may
+have hallucinations,
+they may have the
+orthostatic hypotension,
+they may have changes in
+cardiac rate, and then
+of course they may
+have some dyskinesias.
+So again,
+these drugs are just
+add-ons. They make
+things better, they
+prolong the action of L
+-DOPA, but as I mentioned,
+And we are going to
+be dealing with a
+disease of degeneration.
+So this picture
+shows specifically,
+number one, you can
+see L-DOPA coming
+through the blood
+-brain barrier into the
+CNS. We have DOPA
+decarboxylase, which
+is inhibited by
+carbidopa, and that's
+going to keep our L
+-DOPA here elevated.
+So once it comes
+through, there's going
+to be more dopa
+decarboxylase, which is
+going to shift now the
+L-dopa to dopamine.
+Dopamine is here. It
+finds its receptors.
+Entacupone and tolocupone
+will inhibit COMT
+here in the periphery.
+So you're not
+going to get conversion
+of L-dopa to 3-OMD.
+And then as I
+mentioned, the only one
+that works centrally
+is going to be
+the Tola Capone at
+inhibiting COMPT.
+So this is a picture
+just showing, again,
+levodopa alone,
+carbidopa and
+levodopa, and then
+all three together.
+And as you can see,
+with respect to
+the levels of
+dopamine that get
+through ultimately
+into the CNS, you can
+see that the signal
+gets stronger
+when you add the
+three medications.
+And again, that
+has to do with the
+fact that you're
+inhibiting COMPT
+and that's allowing
+more L-DOPA
+to get through to
+become dopamine.
+Now we have the
+MAO-B inhibitors.
+And we have two of
+them that are known
+as selegiline and
+risagiline. These are
+irreversible inhibitors
+of this enzyme.
+Selegiline is considered
+to be a metabolite
+of it is known as
+metamphetamine.
+Okay, and so that
+drug, as you know,
+amphetamines, they
+can be used for ADHD.
+They do have a illicit
+use in some cases.
+okay and that's
+important to know because
+if you're metabolizing
+to methamphetamine
+and the patient say
+was getting a test
+a drug test they can
+test positive for
+this so it's important
+that if patients
+are undergoing any
+types of testing they
+let the testing place
+or the physician
+there know that they're
+taking seleguline.
+safinamide is
+interesting because it's
+reversible and it
+also decreases the off
+phenomena so remember
+the off phenomena is
+when the patient is
+going to have more
+symptoms of pd they're
+going to have more
+bradykinesia they're
+going to have freezing
+episodes where they
+can't move this
+really helps with that
+issue and the other
+thing as i had said
+before Or this one
+is another option where
+you inhibit glutamate
+at the NMDA receptor.
+So it has an
+added benefit as opposed
+to the other two.
+What happens when
+you block MAL-B?
+Well, you're increasing
+your dopamine
+levels. So again,
+you're keeping your
+levodopa dose
+low. and so you're
+preventing those adverse
+effects. You also
+decrease hydrogen
+peroxide formation.
+And this is
+important and I'll
+get to it in
+the next slide.
+Less hydrogen peroxide,
+less ROSs. Less
+ROSs, less effects
+on the mitochondria,
+less effects at reducing
+ATP and ultimately
+neurons dying. and
+then it also prevents
+something known
+as mptp-induced
+parkinsonism now mptp
+is is a neurotoxin it's
+a metabolite
+incidentally of synthetic
+****** it's got a
+long name it stands
+for 1-methyl-4-phenol
+-tetrahydropyridine.
+On its own, MPTP is
+not really a toxin.
+When it gets
+metabolized by MALB,
+it gets this positive,
+MPP positive.
+And what does that mean
+is this is the toxic
+metabolite. and that
+now that goes on
+to create ROSs it makes
+the hydrogen peroxide
+you're going to get
+neuronal death dopamine
+depletion and and
+you're going to have
+a negative effect on
+Parkinson's disease
+and this is probably
+interesting because
+this is how these drugs
+came into development
+because they saw
+that this particular
+metabolite, MPP, was
+creating this effect,
+this loss of dopaminergic
+neurons. And from
+that, these MAO-B
+inhibitors have been
+developed and they actually
+work very well when
+we're talking about
+the management of PD.
+So again, I did mention
+the MAO inhibitors
+for depression
+and this is a MAO
+inhibitor. But there's
+subtle differences.
+MAO-B, which are
+the ones that we are
+using here, like
+selegiline and risagiline,
+MAO-B is specific
+for dopamine.
+Okay? So you block that
+enzyme, you
+increase dopamine.
+The MAO-A, which I
+will show you later,
+the antidepressants,
+the phenolzine,
+by blocking MAO-A,
+they're going to
+increase all the
+transmitters norepinephrine,
+serotonin, and dopamine
+and also tyramine
+and here's where
+the issue becomes
+interesting and it
+will be repeated if in
+a rare, rare case
+because I told you that
+for depression we
+have other medications
+like SSRIs and
+tricyclics, not even
+those anymore SNRIs,
+bupropion, trazodone
+if you use this medication
+you have to avoid
+certain foods that
+contain tyramine that
+can include aged cheese
+wine this is known as
+the wine and cheese
+effect so that if you
+were taking phenylzine
+and you went to a party
+and you had wine and
+cheese what happens
+is by inhibiting tyramine
+from being broken
+down norepinephrine
+gets displaced into the
+circulation and it's
+going to find the alpha
+receptors on the
+vessels. And what's going
+to happen is the patient
+is going to get this
+really dangerous increase
+in blood pressure,
+and that's known as
+hypertensive crisis.
+And that can
+be serious. You
+have to go to the
+hospital. They
+have to give
+you fentolamine.
+The question is, does
+this happen with MALB?
+And the answer is,
+unless you're having
+a ton of those substances
+those foods the
+answer is no okay
+you're not going to
+get the wine and cheese
+effect with mal b
+inhibitors the mal
+a you would okay the
+other thing to know
+is when we're talking
+about mal b and
+we're talking about
+especially the drug
+that we know as um um,
+seleguline,
+there may be some
+effects at
+raising serotonin.
+And if that does
+happen, the patient can
+develop something called
+serotonin syndrome.
+Okay. Especially if
+they're given other
+serotonergic drugs.
+So if you gave, say,
+seleguline with, say,
+an SSRI, the patient
+may get serotonin
+syndrome and that is
+another dangerous
+adverse effect where the
+patient spikes a fever
+they end up having you
+know increase in blood
+pressure heart rate
+usually they would come
+to the hospital you
+would give them you
+know a serotonin
+blocker and they should
+be okay but this this
+serotonin syndrome i
+will repeat it probably
+later when i do
+antidepressants. And the
+other thing is
+safinamide. Even though it
+has the extra effects
+at blocking the NMDA
+receptor, it also can
+be a problem if the
+patient has severe
+hepatic impairment. So
+realize that with these
+medications, you're
+not just going to
+start them. We have to
+understand that we
+have to look at the
+patient's overall liver
+and kidney function.
+Not just for
+these medications,
+but for almost
+everything.
+So, as you can see,
+the MAL-B inhibitors
+are going to work
+centrally. They're
+going to stop now the
+conversion of dopamine
+to DOPAC, and that
+is going to keep the
+levels of dopamine
+higher in the central
+nervous system.
+So, now we have the
+D2 and the D3 receptor
+agonist. I will have
+you understand that
+with respect to their
+similarities their
+dopamine receptors but
+D2 has more of the motor
+effects and more of
+the reward and it
+makes somewhat sense
+because if you block D2
+that's going to
+cause more Parkinson
+-like effects say with an
+antipsychotic and it
+will have an effect
+on the patient's
+emotional state.
+With D3, there
+seems to be more
+effects on cognition
+and behavior.
+Compulsion is going
+to be more with
+the D3 receptor.
+So we have a couple
+of them. We have
+pramipexol, and this
+is a specific D3
+receptor agonist.
+It's a scavenger
+of hydrogen
+peroxide, so
+again, it has some
+effects at
+decreasing ROSs.
+Ropinavol has both,
+both D2 and D3.
+Bromocryptine is a
+D2 receptor agonist.
+You're not going
+to see it too much
+in Parkinson's
+disease. You're
+going to see it
+in cases where
+patients have high
+prolactin levels.
+And that will come
+next year when I talk
+about pituitary. If
+somebody has a tumor
+in that area and
+is secreting a high
+amount of prolactin,
+what you'll see is that
+they'll have menstrual
+irregularities.
+There might be some
+effects on, say,
+fertility.
+So before you can
+do the surgery to
+remove the tumor,
+you would have to
+give something like
+bromocryptine. The
+other thing about
+bromocryptine, it
+has an ergotamine
+in its structure.
+Ergotamines can
+cause vasospasm
+because they are
+vasoconstrictors.
+Rodigotine is probably
+one of the ones that
+they like now because
+it's transdermal.
+So with transdermal,
+remember, you're not
+going to have the first
+pass effect. and it
+also keeps the level
+of drug pretty, pretty
+stable because it's
+a transdermal patch.
+When you give
+these with L-DOPA,
+they're going
+to reduce the
+on and off
+phenomena, okay?
+And then the adverse
+effects kind of make
+sense. You're going
+to get some confusion,
+okay?
+Vivid dreams,
+hallucinations,
+nausea and vomiting
+and the compulsive
+behavior is
+probably due to
+the fact of the
+D3 receptors being
+agonized in the
+mesolimbic system.
+So what is compulsive
+behavior? Well,
+you know, there's
+been reports that
+patients have, you
+know, hypersexual type
+of actions. They may
+be gambling more.
+So it is something
+to be mindful of.
+And then for restless
+leg syndrome, they
+say that blocking
+dopamine will help
+patients that have this
+disorder where they
+may be sitting down
+and all of a sudden
+their legs will move
+without them trying.
+So they tend to
+give pramipexol
+and repinerol for
+that condition.
+So again, once
+L-DOPA gets
+through the blood
+-brain barrier
+and is converted
+to dopamine,
+now dopamine will
+find its specific
+receptors, whether
+it's D2, D3.
+So apomorphine needs
+to be discussed
+because this
+is mainly used
+for advanced
+Parkinson's disease.
+It's going to be
+the rescue for
+patients that have
+the off period.
+So basically with
+the off period,
+they're going to
+have that freezing.
+They're not going
+to be able to move.
+I will say that it is
+a D2 receptor agonist,
+but it's going to
+also affect the D2
+in the putamin and
+the chordate nucleus.
+So it's somewhat, I
+can say it's a little
+stronger than the
+other D2 agonist.
+It's available
+subcutaneously and
+sublingually, and it
+does provide extra
+dopamine action in
+these freezing periods.
+And one thing
+to know is that
+it does cause
+a significant
+amount of nausea
+and vomiting.
+So how do we manage?
+Well, there's only one
+approved medication,
+and that's
+trimethylbenzamide. And that
+medication has some
+weak antihistamine, some
+anticholinergic, and
+some weak D2 blockade.
+So the question
+is, why can't I use
+a serotonin blocker
+like Ondansetron?
+Ondansetron is not
+indicated because it's
+been shown that patients
+that take Ondansetron
+with apomorphine
+are going to get a
+severe decrease in
+blood pressure. And
+remember, with anything
+that lowers blood
+pressure and causes
+orthostasis, and I talked
+about that when we
+covered L-DOPA earlier
+in the lecture, you're
+going to get the
+patient having a higher
+risk of falls. That's
+the last thing you
+want in somebody with
+any of these
+neurodegenerative diseases,
+okay? Because a fall
+can be almost, you
+know, critical, and
+maybe some patients will,
+in fact, die of
+falls, okay? Depending
+on how serious is the
+injury. Do they break
+a hip? Do they have
+a head injury? It's
+really serious. So we
+need to be mindful.
+And that's why, as I
+keep saying, the doses
+of these medications
+need to be done very
+carefully and chitrate
+up very carefully.
+And the other thing
+is apomorphine
+can increase
+the QT interval.
+And that has to do
+perhaps going into
+cardio. That
+might be due to a
+prolonged repolarization.
+And that has to
+do with blocking
+potassium channels.
+So again,
+doing your
+baseline EKG is
+going to be
+important. it.
+So we talked about
+the striadium
+and the neurotransmitters
+and dopamine and
+acetylcholine.
+It seems to be
+that as you affect
+dopamine, there's
+also going
+to be somewhat
+of an increase
+of acetylcholine.
+And that acetylcholine
+increase may
+have an effect on
+this whole idea
+of the patient
+experiencing tremors.
+So giving a muscarinic
+antagonist may
+sometimes help. We do
+have adverse effects that
+we need to discuss,
+but if the patient
+is having tremors
+that they really can't
+move or do anything, you
+may need to give them
+something like benstrapine
+and trihexifenadol.
+And looking at the
+name benstrapine,
+it looks like atropine,
+and atropine is
+the prototype of the
+muscarinic blockers.
+So what are the
+adverse effects?
+You know, again,
+the dryness,
+the urinary retention,
+the constipation,
+the medriasis.
+Okay, if you have a
+patient, a male patient
+that's elderly with
+benign prostatic
+hypertrophy, If you're
+blocking the M3 receptors
+in the bladder, he's
+not going to be able
+to urinate. So that
+needs to be considered.
+And then in the elderly,
+if we're talking
+about the whole idea
+of what's happening
+in those elderly
+patients when they
+take muscarinic
+blockers, we do have a
+criteria. It's called
+the Beers criteria.
+And when we look
+at that list,
+that's a list of
+drugs that need to
+be used cautiously
+in the elderly.
+And these drugs
+need to be used
+cautiously because if you
+give patients
+that are elderly
+muscarinic blockers
+for an extended
+period of time,
+they can also
+develop changes
+in cognition.
+In the past lecture,
+I kind of alluded to
+this with the
+benzodiazepines and to be
+mindful in giving which
+one to give and the
+dose because again, they
+can be more susceptible
+to the metabolites
+persisting, and that
+can cause grogginess.
+That can also cause
+confusion, and that
+can also cause falls.
+So I always like to
+bring a viewpoint, and
+since we have talked
+about muscarinic
+receptors, we talked
+about histamine, alpha
+-1, and serotonin 2A,
+which I will discuss
+in the future, they're
+all GQ mediated.
+So looking at
+the picture, the
+example that they
+give is the alpha
+1 receptor. The
+agonist binds.
+GQ is now going to allow
+for dissociation of
+the beta and gamma
+subunit from the alpha.
+And now you're
+going to increase
+your phospholipase
+C and that's
+going to increase
+IP3 and DAG.
+And now calcium is
+going to come into the
+cell and it's going
+to activate protein
+kinases. The thing
+to know is that with
+the alpha one, if
+you gave an agonist,
+this is the mechanism
+of how it causes
+elevated blood pressure
+because more calcium
+in to the arterial,
+you're going to get
+more contraction,
+more vasoconstriction,
+you're going to
+increase blood pressure.
+So, istradephalin is
+one of these newer drugs
+that came to market
+probably in the last
+five years and this
+is an interesting
+medication because it
+resembles something called
+theophylline and
+theophylline itself is
+derived from theobromide
+which is the active
+ingredient of caffeine
+okay so there's a
+connection between these
+adenosine and caffeine.
+I'm not going to talk
+too much about it.
+This is going to
+block adenosine A2A
+receptors in the
+basal ganglia, okay?
+And it's going to
+restore balance
+in the striadium
+and another
+area known as the
+globus pallidus.
+When you have dopamine
+loss from Parkinsonism,
+this path is going
+to be overactive, and
+there's going to be
+more GABA coming in to
+the area, and that's
+going to allow now for
+the patient's motor
+function to be reduced.
+And this is
+probably one of the
+mechanisms of how
+the off phenomena,
+the freezing
+phenomena, is caused.
+So here in this
+picture, you
+can see under
+normal conditions,
+everything is working
+well. The dopamine
+receptor has dopamine
+here. you see
+adenosine is here, you
+see a normal amount of
+GABA, the patient is
+able to walk well.
+When you deplete your
+dopaminergic system,
+not a lot of dopamine
+coming here now,
+you start to see that
+adenosine is going to
+be somewhat enhanced,
+And now there's going
+to be more GABA in
+the globus pallidus.
+And you can see now the
+patient has low
+motor function.
+Now if you give
+istradephylene,
+that's going to
+block the adenosine.
+And what happens is
+that in essence lowers
+the GABA action. And
+now the patient can
+move better. okay some
+of the adverse effects
+insomnia and that
+can probably be tied
+to the fact that it
+is obtained from a
+caffeine derivative
+okay so maybe give this
+medication earlier in
+the day and then reduced
+appetite and that can
+somewhat make sense
+if you're thinking
+about patients taking
+caffeine stimulants it's
+not just the insomnia
+but it's also the
+effects on appetite
+You're not going to
+want to eat as much.
+Think about in that
+last lecture when
+I talked about the
+drugs for narcolepsy
+and they're using
+them for ADHD.
+So AD, it's the most
+common form of dementia.
+We have others,
+we have Lewy
+body, we have
+frontal temporal,
+vascular.
+All of them are
+progressive.
+They say that this
+is the one that
+lasts the longest
+when the patient
+is diagnosed. It
+can be 8 or 10
+years, depending
+on the diagnosis.
+There's going to be
+a loss of neurons
+that impair memory
+and cognition.
+The greatest
+risk factor is H.
+20% of patients over
+85 will have this
+condition. It seems to
+be more in females, maybe
+because they live
+longer. that's obvious,
+but it could be due to
+maybe hormonal, okay?
+We do have familial
+and sporadic cases, and
+there seems to be a
+higher risk in those
+that have the APOE4
+gene, because with that
+gene, you're going to
+produce more amyloid.
+There are some testing
+that can be done. I
+mean, that really
+depends on the patient.
+It tends to happen
+more in those that have
+greater incidence
+in their family.
+And just like PD,
+AD, there is no cure.
+There's only a
+way to slow the
+progression and to
+manage the symptoms.
+So the pathology.
+The
+interneural fibrillary
+tangles have tau protein.
+Amyloid B is really
+the villain, we want
+to say. It's deposited
+in the cerebral
+cortex and also the
+cerebrovascular lesions.
+And with those amyloid B,
+the loss of neurons
+and the cerebral cortex
+and the cholinergic
+neurons become less
+and less. So with the
+loss of cholinergic
+neurons, you're going
+to get a decrease in
+acetylcholine. So the
+main drugs that we
+will consider first
+is going to be the
+cholinergic agonist.
+So you can see here the
+whole idea of the
+amyloid plaques and the
+fact that over time it
+affects the neurons.
+So anticholinesterase
+inhibitors are going
+to increase acetylcholine.
+It makes sense.
+We have donepizel,
+rivastigmine,
+galantamine, and
+tachrine. Tachrine was
+an earlier drug.
+It's not used as much
+anymore because it
+has a higher risk of
+adverse effects than
+the other three. These
+are approved for
+mild to moderate AD.
+Rivastigmine has
+a greater benefit
+because in addition
+to inhibiting
+anticholinesterase,
+it also antagonizes
+butyrocholinesterase.
+Galantamine
+also has an added
+action that it
+enhances the action
+at the nicotinic
+receptor. It's an
+agonist over there.
+And the adverse
+effects are going
+to be that of a
+muscarinic agonist.
+So you're going
+to have sludge,
+salivation,
+lacrimation, urination,
+diarrhea,
+increase in GI activity,
+okay?
+And bradycardia, so
+that's a slow heart rate,
+and you also
+run the risk of
+bronchospasms. So if
+you're considering
+the population
+that has AD,
+bradycardia can be
+an issue, especially
+if they were taking,
+say, a beta blocker
+for, say, AFib. So
+you have to be mindful
+that you do a test
+EKG on them regularly.
+The other thing is if
+you're giving a SIP
+inhibitor, that can
+raise the level of these
+medications, and that
+can cause a problem
+as well with respect
+to the bradycardia.
+Okay, so that's just a
+little bit about that.
+So looking at the
+mechanisms, as
+you can see, you
+have the presynaptic
+and the postsynaptic
+terminal.
+And with donepazyl,
+rivastigmine, and
+galantamine, you're
+getting an inhibition
+of the acetylcholinesterase.
+And what
+that means is your
+levels of acetylcholine
+come higher. So,
+acetylcholine
+will bind to the
+postsynaptic receptors.
+As I mentioned,
+galantamine has an added
+benefit that it binds
+the nicotinic receptor,
+and that would mean
+that more acetylcholine
+is going to be able
+to be released.
+And then rivastigmine
+has a dual action.
+It can block
+acetylcholinesterase and
+butylcholinesterase.
+So, ultimately,
+more acetylcholine
+is available to
+bind to the
+postsynaptic receptors.
+Okay, I'm not going
+to test you on the
+pharmacokinetics, but
+just really understand
+how they work to
+raise acetylcholine
+in the postsynaptic
+cleft and how
+rivastigmine has
+the added effect on
+butylcholinesterase
+and galantamine will be
+an agonist of the
+nicotinic receptors.
+so memantine is an
+interesting medication
+it's going to block
+the NMDA receptor
+for glutamate and I
+explained that excitability
+is not what you
+want because that's
+going to damage
+neurons and we saw that
+with PD the same
+thing happens here but
+the one thing to know
+like this uncompetitive
+blocker. What does
+that mean? Well,
+it's going to bind
+not at the place where
+the glutamate binds,
+but very close by.
+And the reason why you
+want that is you need
+glutamate for some of
+your neuronal action.
+You cannot block
+glutamate totally because
+that would be a negative
+outcome, but you
+want to bind the excessive
+amounts of glutamate
+that can be causing
+this overactivity.
+so that is the reason
+why memantine is an
+uncompetitive blocker
+okay it will in
+fact bind but not at
+the same place okay
+and what it uses as
+its conduction instead
+of calcium it's going
+to use magnesium
+okay when do we give
+this medication well
+in later stages of
+AD when patients are
+in the moderate to
+severe. And it can be
+paired with the
+acetylcholine esterase
+inhibitors. Some of
+the adverse effects can
+be nausea and vomiting,
+some diarrhea.
+And again, in those
+patients that have a
+renal impairment, you
+should adjust the dose.
+So aducanumab was
+withdrawn in 2014.
+So you're saying
+to me, why are you
+doing this? Well, I
+need to explain the
+concept because the
+other two that we'll
+go through have
+the same mechanism.
+These drugs are monoclonal
+antibodies, okay?
+They're humanized.
+They're going to target
+amyloid beta, and by
+targeting them, they're
+going to kind of clear
+out these plaques.
+The only issue
+is that you
+need to start this early,
+okay? When the
+patient has mild
+symptoms, when
+they have MCI
+or mild cognitive
+impairment,
+you're also going to
+have to do various
+testing. You're going to
+have to do a PET scan.
+You're going to have to
+do a CSF confirmation,
+which could be taxing
+to the patient.
+The other thing that
+is going to be true
+with all of these
+medications is that you
+need to have an MRI
+at specific intervals.
+You'll have to have
+the MRI first, then
+within three to six
+months have another
+MRI. So you have to
+do consistent MRIs,
+which again can be
+taxing to the patient.
+It's also, MRIs
+are very expensive.
+And the reason
+being is there are
+two adverse effects
+that we have to
+look for. And
+these are known as
+amyloid-related
+imaging abnormalities.
+One is area E, which is
+considered to be edema.
+and the other
+one, ARIA-H, is
+when the patient
+has bleeding.
+So again, the patient
+has to be very
+cognizant to have these
+appointments and to
+have these MRIs because
+if these effects are
+shown, you have to
+stop the medication.
+The Canamab and
+Zonanamab were approved
+later. They're
+still available.
+Okay.
+Licanumab is given
+intravenously
+every two weeks.
+Donanimab is given
+monthly. Again,
+it's not done at
+home. You have to
+go to a specific
+site in the hospital
+or clinic to have
+this infused.
+Okay.
+Similar mechanisms,
+they're going to try
+to get rid of the
+amyloid and the plaques.
+Licanumab is
+special because it's
+going to target
+proto-fibrils.
+Okay. And protofibrils
+are actually
+considered to be
+very toxic because
+they cause lots
+of inflammation.
+And that increase
+in inflammation is
+going to be involved
+in the loss of
+cognition that the
+patient is experiencing.
+So targeting that is
+very, very special.
+The adverse effects,
+as I mentioned,
+the effects that
+I had just said,
+the imaging
+abnormalities that
+can include edema
+or bleeding,
+patient may get
+a headache, and
+of course an
+infusion reaction.
+So that you can probably
+prepare for. They
+can take some kind of
+medication to prevent
+that from happening,
+whether it be an
+antihistamine or
+glucocorticoid. And then
+again, MRIs need to
+be done consistently.
+So as mentioned,
+these two diseases
+are neurodegenerative.
+You're going to slow
+the progression.
+You're going to reduce
+the symptoms, but
+understand there is
+no specific cure.
+So, other things
+are going to come
+up. If the patient
+is agitated,
+you can give an
+atypical, okay?
+And we'll talk
+about this later.
+Atypicals, again, they
+don't block D2, so
+they're not going to
+cause movement issues,
+but they're going
+to affect serotonin.
+They're going to block
+serotonin receptors.
+These can cause weight
+gain and changes
+in metabolics, whether
+it be diabetes,
+whether it be high
+triglycerides.
+So that has to be
+taken into account.
+Patients will appear to
+be depressed, anxious.
+They say that citalopram,
+the SSRI, is preferred.
+Antioxidants.
+Ginkgo biloba,
+vitamin E, I
+have that in
+question mark.
+Again, supplements
+are not well
+tested in this type
+of population. when
+they're already
+taking medications,
+I would probably
+vote against it.
+Anti-muscarinics,
+you need
+to be mindful of that.
+Beers criteria,
+again, in the Beers
+criteria, we do
+have benzodiazepines.
+We do have the
+muscarinic blockers.
+They need to be
+dosed very carefully
+in the elderly.
+Geriatric conditions,
+I mentioned.
+It's going to be that
+you have a patient
+with PD or AD and they
+have hypertension.
+they have type 2
+diabetes, they have
+hyperlipidemia, they
+might need anticoagulants.
+In later stages, when
+they start developing
+infections, and
+they get, whether it
+be bronchitis, or they
+end up, unfortunately,
+in the hospital
+with pneumonia, what
+medication do we give
+them? You have to
+look at renal function,
+liver function.
+And then, of course,
+you know, always
+encourage preventative
+care, like vaccines.
+So that's it for
+now. I do have a
+question session to
+follow up on this
+topic. Thank you
+for your attention.
+I hope you found
+this lecture to be
+informative. I know there's
+a lot of medication,
+so try to give
+a listen to the
+question review.
+Thank you all for your
+attention. I'll see
+you soon and be well.
+

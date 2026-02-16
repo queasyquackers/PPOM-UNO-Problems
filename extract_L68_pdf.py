@@ -2,8 +2,9 @@
 import sys
 from pypdf import PdfReader
 
-pdf_path = "d:/PPOM-UNO-Problems/pdfs/Lecture #69. A. Coladner, D.O. (PPT).pdf"
-output_path = "d:/PPOM-UNO-Problems/extracted_L69_text.txt"
+# Correct path found in previous step
+pdf_path = "d:/PPOM-UNO-Problems/pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf"
+output_path = "d:/PPOM-UNO-Problems/extracted_L68_pdf_text.txt"
 
 try:
     reader = PdfReader(pdf_path)

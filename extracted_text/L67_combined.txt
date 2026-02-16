@@ -1,0 +1,1379 @@
+Lecture 67 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Office of Academic Affairs 
+Opioids
+Maria A. Pino, Ph.D
+Department of Clinical Specialties
+mpino@nyit.edu
+--- Page 2 ---
+Source: Course Syllabus
+1. Describe the opioid analgesic drug classes; including full and partial 
+agonists. 
+2. Identify the specific drugs. Correlate the use of each drug to the 
+mechanism of action. 
+3. Describe the specific adverse effects associated with the use of 
+opioids. 
+4. Identify how differences in pharmacokinetics can enhance adverse 
+effects.
+5. Recognize the signs and symptoms of an opioid overdose. 
+Differentiate an opioid overdose from withdrawal.
+6. Describe the critical use of opioid antagonists in overdose situations.
+ 
+Session Objectives
+--- Page 3 ---
+
+--- Page 4 ---
+Opium Extraction
+Source: C.E. Ophardt, Elmhurst College, Virtual Chembook
+--- Page 5 ---
+Primary Natural Opioids
+Papaverine-like
+Source: C.E. Ophardt, Elmhurst College, Virtual Chembook
+--- Page 6 ---
+World Health Organization
+www.practicalpainmanagement.com
+--- Page 7 ---
+Opioid Receptors
+• δ: analgesia, anxiety/mood
+• μ : analgesia, euphoria, physical 
+dependence, bradycardia, GI, respiratory 
+depression, and miosis 
+• Κ: analgesia, sedation, hallucinations, 
+dissociation, and dysphoria.
+--- Page 8 ---
+Opioids: Gi Receptor Mechanism
+
+--- Page 9 ---
+Pharmacokinetics
+• Well absorbed, rapid distribution.
+• Highly lipophilic
+• First pass effect
+• Glucuronidation to metabolites: morphine-6-glucuronide, 
+normeperidine. 
+• Renal excretion
+• Patient controlled analgesia (PCA) and spinal delivery
+--- Page 10 ---
+Analgesia
+• Strong agonists: morphine, methadone, heroin, 
+meperidine, fentanyl
+• Mixed agonist-antagonist: buprenorphine
+• Weak (or partial) agonist: codeine, hydrocodone 
+(often combined with COX inhibitor).
+--- Page 11 ---
+Cardio-Respiratory
+• Vasodilation= hypotension
+• Reduction of myocardial oxygen demand, cardiac work.
+• Decrease PVR, preload, afterload 
+• Cause of death in overdose =Respiratory depression
+• Opioids decrease the sensitivity of the medulla to 
+increased carbon dioxide.
+• Increase intracranial pressure (worsen head injury 
+outcome).
+--- Page 12 ---
+• Constipation (inhibit motility)
+• Encourage docusate, fiber, fluid
+• Constriction of spinchter of Oddi, urinary spinchter
+• Uterus: Prolong labor 
+• Emesis (chemotrigger zone, CTZ)
+Gastrointestinal
+--- Page 13 ---
+• Parasympathetic effect
+• Stimulation of the Edinger-Westphal nucleus of oculomotor 
+nerve III
+• Miosis is characteristic of the use and abuse of the opioids.
+• No tolerance is observed (diagnostic).
+Eye
+Miosis Mydriasis
+--- Page 14 ---
+• Histamine release (pruritis, bronchospasm, vasodilation)
+• Increased prolactin release
+• Inhibition of LH, FSH release
+• Suppress immunity
+• Adjunctive in anesthesia (Alfentanil, Sulfentanil, Remifentanil). 
+Provides sedation and analgesia
+Other effects
+--- Page 15 ---
+• The fetus may become physically dependent in utero and 
+manifest withdrawal symptoms early postpartum 
+• Withdrawal symptoms in the infant: irritability, shrill 
+crying, diarrhea, or seizures.
+• More severe withdrawal: camphorated tincture of opium 
+(previous). Current: Morphine, methadone
+• Phenobarbital and clonidine (adjunctive use)
+Neonatal Abstinence Syndrome
+--- Page 16 ---
+• Occurs with all opioids
+• Receptor uncoupling and 
+degradation (fewer receptors on 
+surface)
+• Dysfunction of structural interactions 
+between the μ receptor G proteins, 
+second-messenger systems
+• No tolerance to miosis or constipation
+• This (and dependence) should not be 
+used as a barrier to providing patients 
+with the best possible care and quality 
+of life. 
+https://www.cell.com /fulltext/S0092-8674%2802%2900666 -9
+Tolerance: Changing Theories
+
+--- Page 17 ---
+• Occurs 6-12 h after last dose, continues for several days, and ends 
+within 72 h.
+• Symptoms: Rhinorrhea, sweating, lacrimation, chills, gooseflesh, 
+yawning, anxiety, aggression, mydriasis
+• Drugs with a long t1/2, produce a prolonged withdrawal 
+(Methadone)
+• Opioids bind in the nucleus accumbens, release dopamine leading 
+to addiction “reward center”
+Opioid Withdrawal
+--- Page 18 ---
+• Increase the sensation of pain
+• Activation of the bradykinin and NMDA receptors 
+are likely causes.
+• Discourage opioids for chronic pain
+Hyperalgesia
+--- Page 19 ---
+• “Standard” opioid agonist
+• Reacts with all opioid receptors
+• Uses: moderate-severe pain, reduces dose of anesthetics, and 
+anxiolytic effect.
+• MI: produces vasodilation
+• Hypersensitivity in respiratory disease
+• Respiratory depression (fatal)
+• Not for head trauma patients
+• Intense sedation and respiratory depression when combined 
+with other sedatives, alcohol, or barbiturates.
+Morphine
+--- Page 20 ---
+• Mild-moderate pain; metabolized to morphine. Considered to have 
+“partial” activity.
+• Combined with non-opioids to relieve pain.
+• Antitussive 
+• Codeine undergoes CYP2D6 metabolism to morphine. Genetic 
+polymorphisms may increase effects. 
+• “Ultra-fast metabolizer” is a concern.
+Codeine
+--- Page 21 ---
+• Rapid onset-short duration of action.
+• Normeperidine (metabolite) can induce CNS stimulation.
+• Serotonin syndrome with SSRIs, linezolid, tricyclic antidepressants, 
+“triptan” drugs for migraines. 
+• Not with monoamine oxidase inhibitors (MAOIs) 
+• Anti-muscarinic effects (mydriasis, tachycardia)
+• Some local anesthetic effects
+Meperidine
+--- Page 22 ---
+• SSRIs, TCAs, meperidine, dextromethorphan, St. John’s Wort, 
+linezolid, “triptans”
+• Symptoms: rigidity, hyperthermia, myoclonus, delirium, 
+hypertension, tachycardia within 24 hrs, unlike neuroleptic 
+malignant syndrome (weeks to months). Also, GI effects
+• Treatment: Benzodiazepines, cyproheptadine, ventilation 
+Serotonin Syndrome
+--- Page 23 ---
+• Antidiarrheal
+• Atropine reduces abuse potential 
+• Loperamide: derivative of diphenoxylate.  Does not 
+cross BBB.
+Diphenoxylate
+--- Page 24 ---
+• 80-100x more potent than morphine; transdermal or 
+transmucosal. Lipophilic
+• Every 3 days (patch)
+• Lozenges to induce anesthesia in children.
+• Contraindicated in pregnancy
+Fentanyl
+--- Page 25 ---
+• L-isomer of morphine
+• Moderate to severe pain
+• D-isomer (Dextromethorphan; DM). Not addictive 
+cough suppression at normal doses. 
+oNMDA receptor antagonist
+oSERT and NET reuptake inhibition
+Levorphanol
+--- Page 26 ---
+• Like morphine, but has better bioavailability 
+and long duration (t1/2= 15-40h)
+• Treats heroin addiction.
+• CYP 3A4 substrate
+• NMDA receptor antagonist
+• Moderate to severe pain
+Methadone
+--- Page 27 ---
+• Injected, snorted, adulterated.
+• Chronic injection leads to collapse of vessels 
+• Highly lipophilic
+• Metabolized to morphine ~diacetylmorphine
+• Pregnancy: newborn addicted to heroin, withdrawal.
+• Increased incidence of HIV and hepatitis (needle sharing)
+• Oxycontin®- gave a “heroin like” effect when crushed and 
+snorted. New formulations provide special coatings to prevent 
+crushing. 
+Heroin: Schedule I
+--- Page 28 ---
+• µ receptor agonist and reuptake inhibitor of NE and 5HT
+• Can precipitate withdrawal. 
+• CYP2D6 polymorphism “ultra-fast metabolism”
+• Used for chronic pain (neuropathic)
+• Combined with acetaminophen/NSAIDs
+• Tapentadol (µ receptor agonist and reuptake inhibitor of NE, 
+minimal effect on 5-HT). 
+• Both have serotonin syndrome warning.
+Tramadol
+--- Page 29 ---
+• Treats opioid-induce constipation.
+• Does not cross blood brain barrier (BBB). Quaternary 
+ammonium cation
+• Alvimopan: treats postoperative ileus. Antagonist of of 
+mu receptor in GI tract. Contraindicated in patients who 
+had opioids within 7 days; do not give alvimopan for 
+more than 7 days. MI risk increased.
+Methylnaltrexone
+--- Page 30 ---
+• Pentazocine, Butorphanol, Nalbuphine
+• Retains analgesia with reduced addiction potential (ĸ > µ 
+receptor). 
+• Less physical dependence and respiratory depression.
+• Psychomimetic effects (ĸ receptor). Pentazocine
+• Precipitate withdrawal in morphine addicted patient.
+Mixed Agonist-Antagonist
+--- Page 31 ---
+• Partial µ agonist.  At higher doses is an antagonist because of K receptor 
+blockade
+• Slow dissociation from µ receptor.
+• CYP 3A4 substrate
+• Sublingual, transdermal, parenteral
+• Adverse effects are similar to morphine and pentazocine
+• Treats opioid dependence
+• Precipitate withdrawal in opioid users
+• Buprenorphine and naloxone (Suboxone®)
+Buprenorphine
+--- Page 32 ---
+• Naloxone: IV; fast onset for opioid 
+overdose (1-3 min). Rapid offset. 
+Repeated administration until opioid is 
+cleared.
+• Approved in neonates with respiratory 
+depression born to heroin mothers
+• Naltrexone: oral; long-duration. 
+Maintenance therapy. Reduces alcohol 
+cravings. Combined with bupropion for 
+weight loss potential.
+Opioid Antagonists
+
+--- Page 33 ---
+• Heroin: Rapid tolerance and dependence
+• MOA: μ  and κ receptor agonism
+• Overdose: IV naloxone and ventilation
+• Symptoms: “everything is down”, stupor, bradycardia, decreased 
+respirations, miosis.
+• Withdrawal: Methadone or buprenorphine
+• Symptoms: lacrimation, rhinorrhea, yawning, sweating, gooseflesh, 
+tremors.
+Opioid Abuse
+--- Page 34 ---
+
+--- Page 35 ---
+• Non-opioid
+• MOA: Sodium channel blocker, 
+works in periphery
+• Use: moderate-to-severe acute 
+pain, not more that 14 days.
+• Adverse effects: itch, muscle 
+spasms (increased creatine 
+kinase), N/V.
+Suzetrigine
+
+--- Page 36 ---
+• Describe opioid analgesic drug classes; including full and partial agonists
+• Describe the critical use of opioid antagonists in overdose situations.
+Core References:
+• Basic & Clinical Pharmacology 15e, 2024. Bertram G. Katzung, Todd W. 
+Vanderah; Chapter 31: Opioid Agonists & Antagonists
+• Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e, 2023; 
+Chapter 23: Opioid Analgesics 
+• Opioids Summary guide and Practice questions (Maria A. Pino, Ph.D)
+Summary Slide
+--- Page 37 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+
+
+--- Transcript Content ---
+Hello everyone,
+this will be
+the question
+review for opioids.
+So in this first question,
+we have a 70 year
+old female with
+metastatic ovarian cancer
+and she was started on
+transdermal fentanyl
+patch for pain
+management, which of
+the following
+describes the receptor
+pharmacology of this
+drug. so we're dealing
+here with of course
+an opioid and we know
+that with that
+class of drug I did
+mention that everything
+is slowed the heart
+rate the blood pressure
+the GI motility
+the eyes are going
+to be pinpoint and
+of course at worst
+you're going to
+have the respiratory
+depression. So I
+did say that would
+be a way to identify
+this group as
+being G-inhibitory.
+And G-inhibitory is
+also going to be true
+of the alpha 2
+receptors something like
+clonidine because it's
+going to be affecting
+sympathetic overdrive
+in the presynaptic area.
+And that would mean
+that with clonidine,
+you're getting
+a reduction of
+heart rate and blood
+pressure as well.
+GQ tends to be alpha
+-1 histamine, the
+muscarinic receptors.
+and then later when we
+do the serotonin 2a
+drugs that too has a
+gq mechanism g
+stimulatory is going to be
+the beta receptors
+nuclear transcription
+and you realize i'm
+reviewing past pharmacology
+is going to be
+anything like the fat
+soluble vitamins
+hormones glucocorticoids
+of course with the
+hormones I'm thinking
+about thyroid hormone
+and the *** hormones
+tyrosine kinase you'll
+see a little bit
+later that's going to
+be insulin receptors
+maybe growth factors
+and then ligand
+gated channel
+incidentally we could
+be talking a little
+bit about ions. So
+maybe we're talking
+about the sodium
+channel, potassium
+channel. So in this
+question, A is going
+to be the best answer.
+And going further
+into its mechanism,
+the opioids bind to
+these receptors and the
+alpha dissociates from
+the beta and gamma
+subunit. And next
+you're going to have a
+reduction of adenyl
+cyclase, decreased cyclic
+AMP, a decrease in
+intracellular calcium
+because there's a
+closure of the calcium
+channels which will
+prevent calcium's entry.
+On the flip side,
+with potassium,
+there's going to be an
+opening of the
+potassium channels and
+that allows the
+potassium now to exit,
+as you can see
+here. It's an efflux
+and that refers to
+hyperpolarization.
+And that's going
+to decrease all the
+neurotransmitters that
+are involved in pain,
+like substance P
+would be an example.
+with pharmacokinetics
+these drugs are
+widely absorbed and
+rapidly distributed
+they're going to have
+a high lipophilic
+potential so they're
+going to cross the blood
+brain barrier and
+they cause sedation
+along with getting
+through the placenta
+they have a degree
+of first pass effect
+and that does change
+of course if you're
+giving this drug class
+****** it's glucuronidated
+and that's considered
+to be a phase
+two metabolism to
+morphine six glucuronide
+which is actually more
+potent than morphine
+and I explained since
+these drugs go out
+the kidney if you have
+a degree of kidney
+impairment you can
+get more toxicity if
+you build up the
+morphine 6-glucuronide,
+and that can create
+sedation, and in worst
+case scenario, the
+respiratory depression.
+And with normiparidine,
+I explained that's
+the metabolite of
+meparidine, another strong
+agonist, and that itself
+is more excitatory.
+It may increase the
+risk of seizures.
+A 50-year-old
+homeless man was
+brought to the
+emergency department
+having overdosed
+on ******.
+Which of the
+following will
+this patient
+present with?
+So this is now
+looking at diagnosis.
+And I explained that
+everything would
+be down. So, looking
+at the choices,
+diarrhea would imply
+that there is increased
+gut motility and
+we know that in
+reality, the opioids
+do cause constipation
+because they are
+decreasing contractions.
+So, I will say
+that in this
+case, this is incorrect.
+mental alertness so
+no if anything we
+would be more in a
+patient having sedation
+he'd be unconscious
+okay so this is a
+no would he have a
+low respiratory rate
+i'm probably going
+to agree with this.
+Some patients have
+a breaths per minute
+being very low, even
+up to or down to eight
+breaths per minute.
+So I'm going to
+vote that this is
+the best answer.
+Tachycardia is a no.
+If anything, we realize
+that it's going to be
+bradycardia because
+these drugs will in fact
+decrease the workload
+of the heart and then
+increase urination
+given the fact that
+these drugs do have a
+constrictive effects
+on sphincters including
+the sphincter of odai
+and the urinary sphincter
+you will probably
+get more of a urinary
+retention so c would
+be the best answer and
+what drug should he be
+administered for the
+emergency so that's
+going to be straight up
+an opioid antagonist
+like naloxone and i said
+that naloxone works
+quickly and that's a
+good thing if we have
+a patient that is in
+respiratory depression
+but it also has a rapid
+offset which would mean
+is that you have to
+continue giving naloxone
+until the opioid is
+cleared from the body
+because there have
+been cases that patients
+were given a shot and
+within minutes they
+go back into toxicity.
+And that's another
+reason why even
+if the patient is
+somewhere and is
+having opioid toxicity,
+you could give
+it via nasal and
+you are encouraged
+to prevent that
+patient from dying,
+but you still have
+to get them to the ED
+to make sure that they
+are, in fact being
+taken care of that
+that opioid is being
+cleared okay so
+that's a little bit
+about that and i
+mentioned these drugs can
+relax smooth muscle
+and i spoke about
+papavirine being a
+drug that does relax
+smooth muscle and it
+can be used before
+we had like drugs
+like viagra for those
+patients that have
+erectile dysfunction.
+It's going to
+decrease myocardial
+oxygen demand and
+the cardiac work.
+And that's going
+to also now lead to
+a decrease in
+preload, afterload,
+and peripheral
+vascular resistance.
+So I did say that
+there were times,
+and there still
+may be, that in
+addition to giving
+oxygen, aspirin,
+nitrates,
+there may be some
+benefit in giving
+morphine to somebody
+that's having an MI
+but it really depends
+because we also want
+to be mindful that
+this patient does
+not get some of the
+adverse effects and
+in worst case scenario
+become addicted.
+The respiratory
+depression is really due
+to the fact that
+the medulla does not
+sense the enhancement
+of carbon dioxide and
+that's where
+patients get the the
+respiratory depression
+and then with respect
+to the increased
+intracranial pressure again
+the vasodilation may
+be attributing to
+enhancing edema in
+that area and that
+can worsen the
+intracranial pressure
+especially in somebody
+that has a head injury
+the meiosis is
+parasympathetic okay and
+parasympathetic pinpoint
+okay and that makes
+sense for these drugs
+and also drugs that we
+use sometimes for glaucoma
+that are considered
+to be meiotic something
+like pilocarpine
+this is a muscarinic
+agonist so understand that
+when you have meiosis,
+the eye can drain
+itself basically a
+fluid that's jacking up
+the intraocular pressure
+and that might be a
+good thing if you have
+somebody with glaucoma.
+With medriasis, the
+action is that it's
+going to dilate the
+pupil. We expect in a
+sympathetic crisis,
+whether it be ******* or
+amphetamine overdose
+that the patient would
+have medriasis muscarinic
+blockers since that
+is turning on
+sympathetics that too will
+produce medriasis and
+thinking about glaucoma
+if the if the eye is
+becoming dilated very
+simply it's almost like
+now it's becoming dilated
+and it's not allowing
+that fluid that i
+just mentioned to drain
+out so to speak and
+that will increase the
+pressure of the eye.
+Meiosis is going to
+be very important as a
+diagnostic criteria
+because persons coming
+in with everything
+being low and there is
+meiosis, you have to
+expect that this is
+a likely opioid overdose.
+And then tolerance
+is not observed to
+meiosis, which is
+a good thing, and that
+makes it an effective
+way to diagnose
+an overdose or in
+constipation. A person
+will be constipated
+at the first dose or
+even the last dose.
+So trying to get
+ahead and preventing
+constipation is going
+to be important,
+especially if we're
+talking about somebody
+that is in later
+stages like hospice
+care or somebody
+that just had surgery
+because, you know,
+being constipated
+is going to contribute
+more to pain.
+So going off that,
+we have a 67-year
+-old male living at
+home and he reported
+severe pain due to
+metastatic carcinoma
+and was being treated
+with transdermal
+fentanyl. So he
+was getting the
+patch that we can
+use for three days.
+After the three
+days, you take it off
+and you put a patch
+in another area.
+And I mentioned,
+by the way, if
+the patient has
+breakthrough pain,
+you could give
+something ******.
+When considering
+the specific
+gastrointestinal
+effects, which additional
+medication should
+be considered?
+So looking at the
+choices I have,
+pretty much can
+narrow down the fact
+that A and D and E,
+having mu receptor
+agonist effects,
+they were probably
+going to create
+more constipation.
+So they're going
+to decrease the
+motility of
+the gut and the
+patient becomes
+more constipated.
+loperidine is
+interesting because it
+gives us a moment to
+discuss that in the
+event that the patient
+has diarrhea they
+can be given a mu
+receptor agonist like
+loperamide and that's
+and that's going
+to specifically work
+now in preventing
+those contractions
+and what I would say
+with loperamide, and
+I did mention it,
+is that we don't have
+much of patients having
+addiction liability
+because this is the one
+that doesn't cross the
+blood-brain barrier,
+unlike diphenoxalate.
+But I did mention
+if patients take it
+upon themselves to
+exceed the recommended
+daily dose, there could
+be a possibility and
+there were some reports
+of patients trying
+to get a high off
+that. So make sure
+that we are very clear
+with our patients that
+they should not exceed
+any medication without
+getting some type
+of guidance from
+healthcare professionals.
+And then Doc, you say
+we don't know much about
+laxatives and and how
+they work but docusate
+is considered to be
+a stool softener it
+almost works like a
+surfactant and that would
+make the stool easier
+to pass if the patient
+you know needed to
+take um this dose of
+fentanyl for metastatic
+cancer pain so b is
+in fact the the best
+answer and again encourage
+that the patient
+can get fiber fluids
+and exercise with respect
+to the emesis just
+to review that point
+that might be due to
+the fact that these drugs
+can enhance or agonize
+dopamine receptors
+in the chemo trigger
+zone with the sphincter
+of odi I mentioned
+if that should be
+constricted, that's
+responsible for moving bile
+through the gallbladder
+and pancreas. And if
+that does not move
+freely, there can
+be patients that may
+experience pain and pressure,
+especially if they're
+patients that have
+gallbladder disease.
+So, a 36-year-old
+male IV ****** user
+was brought to the
+hospital with chills,
+sweating, and
+pyloerection. And remember,
+that means that if
+you look at their arm,
+the hair of their
+arm is standing up.
+Sometimes they call it
+a goose flesh. anyway
+after stabilization
+he was started on
+methadone as part of a
+detox program which of
+the following is the
+reason for the use
+of this drug so
+understand that couple of
+things methadone
+itself is considered to
+be a strong agonist
+of the mu receptor so
+it does behave like
+morphine and miperidine
+and even ****** so
+the answer here that
+it's a partial mu
+agonist is incorrect it's
+actually a full is
+it excreted faster
+than ****** no it's
+not okay there is a
+specific reason? Is it
+highly protein bound?
+No, not really.
+We're looking
+for why it's used
+for detox. And
+as mentioned,
+methadone is going
+to follow the same
+pattern of morphine,
+but the idea with using
+this in detox, it
+has a long half-life.
+So that's going to
+prevent withdrawal
+and really when we're
+talking about why
+patients ***** medication
+it's not so much
+for the high but it's
+really for the low
+because when you are
+in withdrawal the
+symptoms are horrible
+so you are prone to
+take more to feel
+better so the idea here
+is that you want to
+give something and
+I explained that when
+we did the benzos.
+Diazepam also has a
+long half-life so that
+too prevents the
+withdrawal that somebody
+would have say from
+alcohol or maybe
+a shorter benzodiazepine
+like alprazolam.
+So methadone has the
+enhanced half-life
+so it can do that
+and then methadone
+equal mechanism to
+naloxone? No, naloxone
+is for toxicity, is
+for overdose, because
+naloxone carries the
+mechanism that this
+is a blocker of the
+opioid receptors.
+So D, in fact,
+is the best
+answer for this question.
+And the other thing
+that can be used with
+respect to withdrawal
+that's getting
+more popular is
+buprenorphine because this
+one is a partial
+agonist number one so
+it helps with again
+the the withdrawal and
+also some of the
+cravings at higher doses
+it behaves like a
+a kappa antagonist.
+It can be given
+as suboxone,
+which is known as
+a formulation that
+has buprenorphine and
+naloxone on board.
+And the other
+thing that makes it
+extremely special is
+that it binds to the
+mu receptor, but it
+dissociates slowly.
+And that is another
+thing that would
+make the drug persist
+longer to prevent
+now the withdrawal
+symptoms, okay?
+And then remember, also,
+when you're thinking
+about an overdose,
+you have to watch
+the airway. So there
+may be situations where
+the patient would
+have to be ventilated
+as well in the overdose
+situation, okay?
+Methadone also has NMDA
+receptor blockade
+for glutamate,
+And it can also be
+used, since it's a
+full agonist, for
+moderate to severe pain.
+Not really as
+much, because we
+tend to use
+this drug mainly
+for the withdrawal
+purposes,
+but it can relieve pain.
+And the other thing
+which makes it a little
+bit more concerning
+than buprenorphine,
+if you overdose on
+methadone, you will
+go into the respiratory
+depression. The
+fact that buprenorphine
+is the partial
+agonist, that makes
+it a little bit less
+able to cause the
+respiratory depression.
+But again, patients
+can still take
+either one and
+end up in danger.
+A 22-year-old female
+was brought to the
+ED with delirium
+and episodes of
+rigidity. On exam, her
+heart rate was 190,
+blood pressure was
+70 over 90, 170
+over 90, so it's
+a high blood
+pressure, and a
+temperature of 104.
+She was recently
+treated with linezolid
+for a VRE, urinary
+infection, and
+given some analgesic
+for pain. Which
+of the following
+was she given that
+may have induced
+this presentation?
+So,
+linezolid is used
+for vancomycin
+-resistant enterococci.
+That's one
+of the drugs that
+could be used.
+It is a 50S protein
+synthesis inhibitor.
+and one of the
+things that it can
+do it does have
+an effect on the
+bone marrow but
+it does have some
+mal inhibition and I
+explained that mal can
+by its blockade
+can raise certain
+neurotransmitters so back
+when we did
+Parkinson's disease
+the mal B increased
+dopamine which would
+be a good thing in
+somebody with PD And
+that's going to be true
+of, say, pramipexol.
+But linezolid
+has more of the
+MAU-A, which
+means that you can
+get some increase
+in serotonin.
+And that now makes
+sense, because this
+presentation of
+delirium, episodes
+of maybe being
+rigid, and then
+involuntary shakes and
+the high autonomics
+and the temperature
+points to something
+that we call
+serotonin syndrome.
+And serotonin syndrome,
+I will explain
+it a little bit
+more when I do,
+of course, the
+antidepressants, because
+they are a big culprit
+of this, especially
+the SSRIs and the
+tricyclics. And also,
+with the rigidity,
+I'll explain the
+difference between
+between serotonin syndrome
+and neuroleptic
+malignant syndrome.
+But for right now,
+I want to look for
+the drug that has
+some serotonin action.
+So buprenorphine is
+not. If anything, this
+is a partial mu agonist.
+It has some kappa
+receptor blockade.
+and it also can
+dissociate from the mu
+receptor slowly. So this
+is the one that we
+give for withdrawal.
+Mepiridine is considered
+to be a strong
+agonist. It has
+anticholinergic effects. So I
+did mention that in an
+overdose of Mepiridine,
+instead of having
+bradycardia and meiosis,
+it can be that the
+anti-muscarinic actions
+of medriasis and
+tachycardia can prevail.
+But aside from that,
+meperidine does
+have some serotonergic
+potential.
+So if you were
+to give this with
+linezolid, you
+possibly can
+enhance the
+serotonin syndrome.
+So B is likely the
+best answer. The other
+methyl naltrexone is
+going to be the one that
+is used for opioid
+-induced constipation.
+It has a quaternary
+ammonium cation,
+and being positively
+charged, it
+doesn't cross the
+blood-brain barrier.
+So you're not going to
+get a high off that.
+It's going to stay
+in the periphery, and
+it's going to have an
+effect on the mu receptors
+in the periphery,
+specifically the gut.
+Now, Trexone is another
+opioid antagonist,
+but we tend to use it
+****** for those patients
+that have alcohol
+dependence because it's
+going to stop now the
+cravings because it's
+decreasing dopamine
+in the reward center.
+Pentazocene is a partial
+agonist or mixed,
+and this one can
+also have a, since
+it's working more at
+the kappa receptor,
+there's less dependence,
+but it also has this
+effect on mood where
+the patient can appear
+to be somewhat
+dissociative, delusional,
+hallucinating. And then
+remifentanil, alfentanil,
+are sometimes used
+adjunctively in
+anesthesia in that they
+would provide some degree
+of sedation. They can
+help the patient feel
+less anxious due to
+that sedatory effect.
+And the other thing
+is that they do,
+if the patient is
+having surgery, have
+some effect at
+promoting analgesia.
+So B is the best
+answer here. Okay,
+and probably the
+other thing that
+I need to go
+back is that the
+normiparidine can
+induce CNS stimulation.
+Okay, so if your
+body or mainly the
+kidneys cannot clear
+this metabolite,
+you can get
+exocitation. The patient
+can present with more
+of a neurological
+effects that can
+lead to seizures.
+and these are the drugs
+that are implemented
+in serotonin syndrome
+dextromethorphan
+I'm going to
+mention it because I
+said it in this
+lecture this is the one
+that we buy over the
+counter that will
+have an effect on
+the coughing reflex
+in the medulla unlike
+codeine it does not
+cause the addiction
+liability but again
+if you take a whole
+bottle of it which
+people have tried to
+do to get the high,
+you could become
+addicted over time.
+And dextromethorphan,
+in addition to having
+that mu receptor agonist
+potential, it also
+has an effect at the
+reuptake of serotonin.
+So you can get
+serotonin syndrome with
+dextromethorphan
+and say an SSRI. And
+dextromethorphan too can
+also have an NMDA receptor
+blockade just like you
+saw with methadone.
+And the treatment for
+serotonin syndrome,
+you stop the
+drug and then you
+provide supportive
+care. The patient might
+be having these
+movements which can
+increase the
+incidence of myoclonic
+effects. So you give
+the benzodiazepine.
+ciproheptadine is
+going to be the one
+that is going to
+block the serotonin
+receptors and then
+ventilation is of course
+going to preserve
+that patient's airway
+so now this last question
+we have a 42 year
+old male presenting to
+the ed with a painful
+stab wound and he
+was administered
+pentazesine for the pain
+after taking the drug he
+experienced sweating,
+restlessness, and an
+increase in pain
+sensation, which is the
+most likely explanation
+for these symptoms.
+So given this presentation,
+we are going to
+probably say he's in
+some type of withdrawal.
+And the answer is,
+you know, why? He was
+given pentazocene. This
+should work. so what
+what's happening that
+would cause him to have
+withdrawal first we
+have to think that
+pentazocene is a partial
+agonist and that's going
+to play a role in
+answering this question
+so looking at the the
+choices the patient is
+allergic if the
+patient was allergic he
+probably would start to
+get probably hives he
+would his blood pressure
+would probably go down
+and he He would
+probably, and this is the
+worst case scenario,
+he would go into
+anaphylaxis. So this is
+not an allergic reaction.
+Is the patient
+a ****** addict?
+So again, this might
+be the best answer,
+but looking
+forward, is it an
+ineffective analgesic?
+No, because it does
+have some effects
+on the mu receptor.
+It is a partial
+agonist, so it is
+going to have a
+degree of pain relief.
+was he administered
+this as an incorrect
+dosage this is
+probably, we have
+no information on
+that we assume that
+he was given the
+right dose because
+he is getting some
+type of response
+and pentazesine
+does not cross
+the blood-brain
+barrier, no
+all of these drugs
+have a degree of
+lipophilicity so
+they're going to cross
+so looking at the
+idea of the fact that
+this is a partial
+agonist well Heberwin is
+a full agonist and what
+could have happened
+is since he's a
+Heberwin addict and he's
+given pentazocene
+it being the partial
+agonist and having in
+itself opioid blockade
+putting those two
+together the blockade
+would dominate and now
+the patient is going
+into withdrawal okay
+so he's experiencing
+withdrawal because
+he has a full agonist
+on board and now he's
+been given a partial
+agonist so now
+instead of getting
+efficacy you're going
+to get the symptoms of
+the withdrawal and
+probably an aggravation
+of the pain because
+pentazocene is really
+not working for what
+you need it to work
+for at this moment.
+So B is going to be
+the best answer for
+this question. Okay.
+And the other thing
+to know is that even
+though they have less
+physical dependence
+and respiratory
+depression, given
+their partial or mixed
+agonist antagonist
+action, um, you still
+can get a patient
+addicted to these
+medications, okay?
+So that's it for today.
+If there are any
+questions on this topic,
+please let me know.
+Until then, have a great
+day, and I'll
+see you soon.
+

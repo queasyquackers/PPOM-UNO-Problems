@@ -1,0 +1,2799 @@
+Lecture 65 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Pharmacology of Antiseizure Drugs, Part 2:
+Broad spectrum ASDs, 
+ASDs that act on other molecular targets
+Leslie Goldstein, Pharm.D.
+Associate Professor 
+Division of Pharmacology
+Department of Clinical Specialties
+lgolds01@nyit.edu
+
+--- Page 2 ---
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu
+--- Page 3 ---
+1. Explain the various mechanisms of antiseizure drug action at the levels of specific 
+ion channels and neurotransmitter systems.
+2. Describe the main pharmacokinetic features of the antiepileptic drugs and their 
+metabolic- and transport-related drug interactions.
+3. Compare and contrast the drugs used in the treatment of focal onset seizures, 
+generalized onset seizures, various epileptic syndromes, and status epilepticus by 
+giving specific examples.
+4. Correlate the adverse effects of the drugs covered in this lecture (the “starred 
+drugs”) with their mechanisms of action
+5. Explain the meaning and clinical relevance of HLA genetic polymorphisms on 
+adverse event risk.
+6. Apply the distinctive class and drug-specific toxicities to the selection of 
+antiepileptic therapy for the individual patients, including children, adults, pregnant 
+patients, and older patients.
+After completing the preparation materials for the Pharmacology of 
+Antiseizure Drugs, students should be able to:
+3
+--- Page 4 ---
+Required
+• ScholarRx Bricks  Practice Questions and Clinical Vignettes
+Highly relevant optional materials:
+• Dr. Goldstein’s Word handout  Video Lecture Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+4
+--- Page 5 ---
+ScholarRx
+• Neurology and Special Senses > Seizures
+• Definitions, Pathophysiology, Diagnosis, Treatment: Seizures and Epilepsy: 
+https://exchange.scholarrx.com/brick/seizures-and-epilepsy 
+• Pharmacology:  Drugs to Treat Seizures: https://exchange.scholarrx.com/brick/drugs-to-treat-seizures 
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024: Chapter 24: Antiseizure Drug
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281750501 
+Review resources with practice questions:
+Access Medicine Katzung’s Pharmacology: Examination & Board Review, 14e, 2024: Chapter 24: Antiseizure Drugs
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/content.aspx?bookid=3461&sectionid=285593532 
+LWW Health Libraries, Premier Basic Sciences: Lippincott’s Illustrated Reviews: Pharmacology 8e, 2023; Chapter 19: 
+Drugs for Epilepsy
+https://nyit.idm.oclc.org/login?url=https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253327374&bookid=3222
+Links to Resources
+5
+--- Page 6 ---
+6
+ASDs with Multiple Mechanisms of Action
+Valproate / Divalproex sodium
+Topiramate
+• Zonisamide (not included in this lecture)
+Broad Spectrum ASDs
+--- Page 7 ---
+7
+ Valproate
+ Divalproex sodium
+(valproic acid-valproate sodium complex)
+short branched-chain fatty acid
+--- Page 8 ---
+8
+• Oral; I.V.
+• Protein binding 80-92% (saturable, concentration-dependent) 
+• Hepatic metabolism:
+– mitochondrial -oxidation
+– glucuronide conjugation
+– other pathways via several CYPs to a lesser extent
+• Bioavailability ~90%
+• t½ varies: 
+adults 9-16h
+children 7-13h
+prolonged in neonates and patients with liver disease
+Pharmacokinetics of Valproate
+Main metabolic pathways
+What is the take-away? Monitor blood levels of the drug. 
+--- Page 9 ---
+9
+1. VG Na+ channel block suppresses high -frequency, repetitive neuronal firing
+(different sites than phenytoin and carbamazepine) 
+2. Reductions in voltage-gated T-type Ca2+ currents
+3. Increases GABA concentrations, stimulates GABA synthesis, and inhibits GABA 
+degradation
+Other potential actions observed in experimental systems.
+The relevance of these actions to antiseizure activity is not established.
+Valproic acid: 
+Multiple cellular mechanisms observed in model systems
+--- Page 10 ---
+10
+Monotherapy or adjunctive therapy in:
+• Focal-onset seizures 
+• Generalized-onset tonic-clonic seizures
+• Absence seizures, simple or complex
+– Valproic acid and ethosuximide are first-line agents
+• Myoclonic epilepsy syndromes / Atonic seizures
+• Status epilepticus (valproate I.V., off-label alternative)
+Non-seizure applications: 
+• Acute mania associated with bipolar disorder
+• Migraine acute treatment and prophylaxis
+Valproate is considered 
+first-line for treating a range of seizure types in adults and children
+Takeaway:
+Valproate is useful for 
+many seizure types and 
+it has non-seizure 
+applications.
+--- Page 11 ---
+11
+• Common: 
+– nausea, vomiting, abdominal pain and heartburn (gradually titrate dose)
+– sedation, dizziness, ataxia, cognitive impairment 
+• Tremor, hair loss, and weight gain (4-9% of patients) 
+• Hepatotoxicity (range: from an  in LFTs to fulminant liver failure and death)
+• Hematological: Thrombocytopenia / Reduced platelet function
+• Hyperammonemia / encephalopathy (related to inhibition of mitochondrial carbamoyl 
+phosphate synthase necessary for ammonia elimination; dose-dependent effect)
+• Acute pancreatitis, rare (US Boxed Warning)
+• Hypersensitivity reactions: Rash, SJS, TEN, DRESS
+➢ Caution: Patients with hereditary neurometabolic syndromes caused by mitochondrial 
+DNA polymerase gamma (POLG) gene mutations are at increased risk of acute liver 
+failure and death – valproate is contraindicated
+Valproate Adverse Effects (not a complete list)
+--- Page 12 ---
+12
+PREGNANCY: Teratogenic
+Neural tube defects (spina bifida)
+Craniofacial defects (eg, cleft palate)
+Cardiovascular malformations
+Other body malformations
+Lower cognitive test scores
+Neurodevelopmental defects
+DRUG INTERACTIONS: 
+Valproate inhibits  the metabolism of 
+many drugs, including lamotrigine, 
+phenobarbital, and ethosuximide → may 
+increase the serum levels of the drugs.
+Lamotrigine: 
+➢ Practice point: Slow titration of 
+lamotrigine dose when added to 
+valproate therapy
+Valproate: additional cautions
+--- Page 13 ---
+13
+Topiramate
+
+--- Page 14 ---
+14
+Favorable PK profile:
+• good absorption
+• good bioavailability
+• low plasma protein binding
+• minor non-CYP hepatic metabolism
+• renal excretion ~70% unchanged 
+• may undergo proximal tubule 
+reabsorption → t½ 20-30h
+Antiseizure effects are likely due to  a 
+combination of actions
+• VG Na+ channel inhibition
+• Depresses glutamate AMPA/kainite 
+excitatory action
+• Enhances GABAA inhibitory effect
+• Carbonic anhydrase inhibition 
+(weak) – antiseizure relevance 
+unknown
+Topiramate
+Pharmacokinetics Mechanisms
+--- Page 15 ---
+15
+Seizure applications
+• Focal-onset seizures 
+• Generalized-onset tonic-clonic 
+seizures
+• Lennox-Gastaut syndrome (adjunctive 
+therapy)
+• May be effective in other childhood 
+seizure types
+Topiramate Therapeutic uses in adults and children
+Non-seizure applications: 
+• Prophylaxis of migraine and cluster 
+headaches
+• Weight loss 
+(in fixed-combination with phenteramine, a 
+sympathomimetic similar to amphetamine)
+• Binge eating disorder
+• Alcohol use disorder
+• and others
+--- Page 16 ---
+Topiramate: Adverse Effects and Cautions
+Common
+• Somnolence, fatigue, dizziness, cognitive slowing, paresthesia, 
+nervousness, moodiness, and confusion 
+• Weight loss reported
+Carbonic 
+anhydrase 
+inhibition
+Children are most vulnerable to the following effects:
+• Metabolic acidosis:  serum HCO3- due to renal HCO3- loss
+• Bone loss / reduced growth
+• Reduced sweating / Hyperthermia: 
+normal heat-related perspiration becomes severely impaired; children 
+especially susceptible
+• Renal calculus:  increase the risk of kidney stones (low incidence)
+16
+--- Page 17 ---
+Topiramate: Pregnancy and Drug Interactions
+Pregnancy
+Adverse effects in animal reproduction studies 
+• May cause fetal harm: oral clefts reported
+• Consider alternative medication for patients who wish to become 
+pregnant. 
+• Effective contraception recommended for people who or reproductive 
+potential who are not planning to become pregnant.
+• Pregnant women and newborns should be monitored for metabolic 
+acidosis, which may be induced by topiramate.
+Drug 
+Interactions
+• Enzyme inducers increase clearance
+• Concurrent use of topiramate and valproic acid may increase the risk of 
+hyperammonemia and associated encephalopathy.
+• CNS depressant effects of other drugs may enhance topiramate’s 
+depressant effects.
+17
+--- Page 18 ---
+Thinking of valproate’s mechanisms, therapeutic uses, and side effects, what are three takeaways 
+regarding valproate?
+• Valproate has multiple mechanisms of action.
+• Valproate is a broad-spectrum ASD and first-line therapy in a range of seizure types in adults 
+and children and has non-seizure applications (acute mania in biopolar disorder; migraine).
+• Valproate has numerous and common GI and CNS side effects, tremor, hair loss, and weight 
+gain. It can cause decreased platelet function, hyperammonemia, hepatotoxicity, and 
+hypersensitivity reactions.
+Questions
+18
+Thinking of topiramate’s mechanisms, therapeutic uses, and side effects, what are three 
+takeaways regarding topiramate?
+• Topiramate has multiple mechanisms of action.
+• Topiramate is a broad-spectrum ASD and used in a range of seizure types for adults and 
+children. Topiramate has several non-seizure uses (weight loss, migraine prevention, and 
+more).
+• Topiramate has numerous and common CNS side effects. As a weak carbonic anhydrase 
+inhibitor, it can cause decreased sweating and hyperthermia in children, reduced growth in 
+children, and metabolic acidosis. Kidney stones may occur. 
+What about usage in pregnancy or individuals who may become pregnant?
+• AVOID. Valproate is teratogenic. Topiramate may cause fetal harm.
+--- Page 19 ---
+19
+ASDs that interact with other molecular targets
+--- Page 20 ---
+20
+NMDA receptor blocker
+and other mechanisms
+Felbamate
+For seizure disorders
+refractory to other ASDs
+
+--- Page 21 ---
+Felbamate pharmacology
+PK: 
+excellent bioavailability
+CYP3A4 metabolism
+20-hr half-life (adults)
+MOA: 
+1. Use-dependent block of NMDA glutamate receptor
+2. Potentiation of GABAA-mediated inhibitory effect
+Therapeutic uses:
+Seizure disorder refractory to other ASDs
+ Informed consent must be obtained
+• Focal-onset seizures with or without 
+generalization
+• Seizures of Lennox-Gestaut syndrome
+High rates of fatal aplastic anemia 
+and hepatitis failure compared with 
+those treated with other ASDs.
+• GI / CNS side effects
+• DDIs: 
+CYP3A4, CNS depressants
+21
+--- Page 22 ---
+22
+Inhibitors of 
+Voltage-Sensitive 
+Ca2+ Channels 
+In Cortical Neurons
+Gabapentinoids:
+Gabapentin
+• Pregabalin
+ GABA analogs:
+amino acid-like molecules
+related to GABA
+-aminobutyric acid (GABA)
+
+--- Page 23 ---
+23
+ADVERSE EFFECTS
+– Sedation; dizziness; weight gain; 
+peripheral edema
+FDA warning: Respiratory depression; 
+increased risk with opioids, CNS 
+depressants; elderly
+PREGNANCY
+• Adverse events observed in animal 
+reproduction studies
+• Pregnancy registry outcome data is 
+limited
+DRUG INTERACTIONS
+• No known metabolic interactions
+Gabapentin / Pregabalin
+The precise mechanism for the gabapentinoids’ actions is not known.
+PK: Uptake via L-amino acid transporter 
+(saturable)
+Not metabolized
+Renal excretion 100% unchanged
+Nonseizure: Neuropathic pain and several 
+other off-label uses
+MOA: Block α2δ subunit on VG Ca2+ channel 
+on presynaptic neuron → may  synaptic 
+release of excitatory neurotransmitters
+May involve other mechanisms.
+USES: 
+Focal-onset seizures (adjuncts)
+Nonseizure: Neuropathic pain, restless legs 
+syndrome, hot flashes of menopause, and 
+many other uses
+--- Page 24 ---
+24
+Synaptic Vesicle Proteins (SV2A)
+Levetiracetam
+• Brivaracetam
+
+--- Page 25 ---
+25
+PK:
+• oral, 100% bioavailability
+• I.V.
+• nonhepatic hydrolysis
+• renal, unchanged drug 
+• t½ ~7h (2x daily dosing)
+• TU: broad spectrum
+Adjunctive use
+– Focal-onset seizures
+– Generalized-onset tonic-clonic 
+seizures
+– Myoclonic seizures
+• AE: Mild-moderate, often subside
+– Fatigue, irritability, somnolence, 
+dizziness
+– Psychotic symptoms
+• DDI: Low potential for metabolic drug 
+interactions
+Levetiracetam pharmacology
+Drug binding to SV2A appears to 
+reduce the synaptic release of 
+glutamate and GABA.
+--- Page 26 ---
+26
+Suppressors of T-Type Ca2+ Currents
+Ethosuximide (narrow spectrum)  
+Valproate (broad spectrum)
+--- Page 27 ---
+27
+Ethosuximide
+A cyclic succinimide
+--- Page 28 ---
+28
+Pharmacokinetics Oral
+CYP3A4 metabolism
+Renal excretion of metabolites (small amount unchanged) 
+t½ 50-60 h (adults), 30 h children
+Mechanism of action See next slide
+Therapeutic use Absence seizures
+Adverse effects Most common:
+Nausea and vomiting
+somnolence, sleep disturbance, hyperactivity 
+Drug interactions CYP3A4-mediated
+Ethosuximide does not induce or inhibit metabolic enzymes
+➢ Practice point: Ethosuximide is often given 2 to 3 times daily to reduce GI side effects.
+Ethosuximide pharmacology
+--- Page 29 ---
+29
+Top: Goodman & Gilman 14e Figure 20 -2
+Bottom: © 2023 UptoDate Graphic 91022 v. 2.0
+Ethosuximide reduces low-threshold Ca2+ 
+currents (T-type currents) in thalamocortical 
+neurons → 
+• suppresses paroxysmal 3Hz spike -and-wave 
+pattern in absence seizures
+3 hertz means the waveform repeats 3 times in 1 second.
+• depresses nerve transmission in the motor 
+cortex and increases seizure threshold
+Ethosuximide Mechanism of Action
+
+--- Page 30 ---
+A particular broad-spectrum ASD that inhibits NMDA and potentiates GABA at GABAA receptors is 
+used only in refractory seizures, such as Lennox-Gastaut syndrome. Informed consent is required. 
+Why?
+• Felbamate is associated with a high rates of fatal aplastic anemia and hepatic failure compared 
+with patients taking other ASDs.
+A particular class of drugs that acts at a presynaptic site is used for neuropathic pain, a number of 
+other nonseizure uses, and as add-on therapy for management of focal seizures. What is its 
+mechanistic target?
+• Gapapentinoids block the α2δ subunit on VG Ca2+ channel on presynaptic neuron, which may 
+decrease synaptic release of excitatory neurotransmitters.
+A broad spectrum ASD with 100% bioavailability, nonhepatic metabolism, renal excretion of 
+unchanged drug has mild-moderate side effects and low potential for drug interactions. What are 
+the drug and the mechanistic target?
+• Levetiracetam blocks SV2A, which may prevent docking of the vesicle and release of the 
+neurotransmitter.
+What are the most common side effects of the narrow spectrum drug for absence seizures?
+• Nausea and vomiting. somnolence, sleep disturbance, hyperactivity (CYP3A4 DDIs)
+Questions
+30
+--- Page 31 ---
+31
+Enhancing Synaptic GABA Activity
+GABAA receptor positive allosteric modulators
+Phenobarbital
+• Primidone
+Benzodiazepines
+• Cenobamate 
+(and preferential inhibition of persistent sodium current, INaP)
+
+--- Page 32 ---
+32
+Phenobarbital
+Primidone 
+Phenobarbital and primidone are used less often for epilepsy than in the 
+past due to the high incidence of adverse effects (chronic sedative 
+effects).
+
+--- Page 33 ---
+Pharmacokinetics: Phenobarbital and Primidone
+Phenobarbital Primidone
+A Oral (good bioavailability); I.V.; I.M.
+I.V. onset of action  ~5 minutes
+Oral only, 90-100% bioavailability
+D Protein binding ~50% bound
+Vd is larger in neonates and infants than in 
+older individuals
+Protein binding ~30%
+M Hepatic  via CYP2C9 Hepatic to phenobarbital and PEMA*
+All 3 compounds are active
+Phenobarbital and primidone (and all other barbiturates) are strong inducers
+of CYP1A2, 2B6, 2C8/9, 3A4, UGT, and P-glycoprotein
+E Renal 25-50% unchanged Renal unchanged drug, phenobarbital, and 
+PEMA*
+t½ 1½-5 days in adults
+Less in infants and children
+Primidone 5-15 hours; PEMA 16 hours
+Age-dependent
+*PEMA: phenylethylmalonamide 33
+--- Page 34 ---
+34
+Therapeutic uses:
+• Focal-onset seizures
+• Generalized tonic-clonic seizures 
+(especially children)
+• Status epilepticus (alternative)
+Phenobarbital: GABAA receptor positive allosteric modulator
+• Barbiturates bind to allosteric site on both  and  
+subunits; 
+prolong duration of the channel openings permitting 
+Cl- influx and hyperpolarization → enhanced GABA-
+mediated inhibition 
+• High-doses: Barbiturates also have GABA -mimetic 
+activity (direct stimulation of GABA A receptors)
+Katzung Figure 22-6: A model of the GABAA 
+receptor-chloride ion channel macromolecular 
+complex
+--- Page 35 ---
+35
+• Sedation
+• Depression of mood
+• Cognitive impairment
+• Hyperactivity particularly in children 
+and patients in acute pain
+• Agitation, confusion in elderly
+• Porphyrias (barbiturates can 
+precipitate symptoms)
+• Rash
+• Hepatotoxicity
+• Bone marrow toxicity
+Intravenous
+• Respiratory depression – esp 
+when used after benzodiazepine
+• Hypotension
+Phenobarbital Adverse Effects
+POTENT INDUCER of CYPs
+Positive evidence of human fetal risk
+--- Page 36 ---
+36
+Antiseizure Benzodiazepines
+Diazepam
+seven member 
+diazepine ring structure 
+Diazepam Clonazepam
+Lorazepam Clorazepate
+Midazolam Clobazam
+--- Page 37 ---
+Pharmacokinetics of Benzodiazepines
+Diazepam Lorazepam Midazolam
+A IV, IM, rectal, intranasal, oral IV,IM, oral, sublingual IV, IM, intranasal, buccal
+Onset Immediate (I.V.) 5-10 min (I.V.) IV 3-5 min, IM ~15 min
+Duration of 
+antiseizure 
+effect
+15-30 min 6-8 hours IV <2 h, IM up to 6 h
+M CYP2C19, 3A4, active 
+metabolite, glucuronidation
+glucuronide conjugation CYP3A4, active metabolites
+E Urine, 
+glucuronide metabolites
+Urine, 
+glucuronide metabolites
+Urine, metabolites
+t½ Diazepam: ~40 hours 
+Nordiazepam ≥3 days
+~20 hours (adults) 2-7 h
+Note: Diazepam accumulates with multiple dosing and the t½terminal is slightly 
+prolonged as the drug moves out of fat stores. 37
+--- Page 38 ---
+Diazepam: Rapid Termination of Effect by Redistribution
+A single bolus dose of diazepam has a short duration of 
+anti-seizure effect in status epilepticus, about 15-30 
+minutes, despite its long half-life.
+38
+1) Diazepam is very lipid soluble so the initial rapid 
+distribution of a single bolus dose into highly perfused 
+CNS tissue produces an immediate effect.
+• Then,
+2) As plasma levels of drug decrease, diazepam moves 
+down its concentration gradient out of the brain tissue 
+terminating the effect of the single bolus dose.
+• Diazepam rapidly redistributes into the less perfused 
+muscle and fat tissues.
+
+--- Page 39 ---
+Citation: Chapter 22 Sedative-Hypnotic Drugs, Vanderah TW. Katzung’s Basic & Clinical Pharmacology, 16<sup>th</sup> Edition; 2024, Figure 22-6. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=3382&sectionid=281750253 Accessed: January 24, 2024
+Copyright © 2024 McGraw-Hill Education. All rights reserved
+A model of the GABAA receptor–chloride ion channel macromolecular complex. A hetero-oligomeric glycoprotein, the complex consists of five or more membrane-spanning subunits. Multiple forms of α, β, 
+and γ subunits are arranged in different pentameric combinations so that GABAA receptors exhibit molecular heterogeneity. GABA appears to interact at two sites between α and β subunits triggering chloride 
+channel opening with resulting membrane hyperpolarization. Binding of benzodiazepines and the newer hypnotic drugs such as zolpidem occurs at a single site between α and γ subunits, facilitating the 
+process of chloride ion channel opening. The benzodiazepine antagonist flumazenil also binds at this site and can reverse the hypnotic effects of zolpidem. Note that these binding sites are distinct from 
+those of the barbiturates. (See also text and Box: The Versatility of the Chloride Channel GABA Receptor Complex.)
+ Tolerance to the anticonvulsant effects of BZs 
+develops within weeks to months, limiting their 
+use (except in myoclonic seizures).
+Benzodiazepines bind to allosteric sites
+on GABAA receptor
+
+increase the frequency of the 
+channel openings permitting 
+Cl- influx and hyperpolarization
+
+enhanced GABA-mediated inhibition
+Benzodiazepines: Positive Allosteric Modulators
+Slide adapted by LG
+--- Page 40 ---
+Benzodiazepines therapeutic uses
+40
+Status epilepticus: 
+Bolus dosing of benzodiazepines for initial 
+treatment
+Diazepam: 
+• Immediate onset
+• Short duration of action (15-30 min) is a 
+disadvantage
+Lorazepam: 
+longer duration of antiseizure action (6-8 h)
+Midazolam: 
+IM, intranasal, buccal alternative if IV 
+access not available
+rapid onset; short t½elimination 2-7h
+Chronic epilepsy management
+Oral therapy
+Clonazepam and Clorazepate: 
+Lennox-Gastaut syndrome
+Atonic and myoclonic seizures
+Monotherapy or adjuncts with other ASDs
+Clobazam: 
+Lennox-Gastaut syndrome
+Treatment-refractory seizures
+Adjunctive use
+Nonseizure applications
+Anxiety; panic disorder; alcohol withdrawal; muscle 
+relaxant (esp diazepam); sedative-hypnotic; preop 
+sedation, anxiolysis, and amnesia; induction of 
+anesthesia (balanced anesthesia); sedation for 
+mechanically ventilated patients
+--- Page 41 ---
+41
+Oral / rectal:
+Sedation
+Depression
+Incoordination
+Behavioral 
+disturbances in 
+children
+Clobazam:
+Severe skin reactions
+Parenteral:
+Acute hypotension
+Ataxia 
+Respiratory depression 
+due to rapid rise in CNS 
+concentrations
+➢Gradually titrate to effect to avoid 
+respiratory depression.
+Caution: 
+Benzodiazepines may produce 
+withdrawal seizures upon 
+discontinuation of the drug.
+Drug interactions
+Drugs with similar effects
+Drugs that induce or inhibit hepatic 
+enzymes
+PREGNANCY
+• Teratogenic effects observed (additional studies are 
+needed)
+• Hypoglycemia, respiratory problems
+• Neonatal withdrawal symptoms
+• Hypotonia: Floppy baby syndrome
+Withdrawal symptoms may occur days to weeks after birth.
+Benzodiazepines side effects and cautions
+--- Page 42 ---
+Cannabidiol (pharmaceutical)
+[Epidiolex®]
+42
+--- Page 43 ---
+Cannabidiol (pharmaceutical) pharmacology
+PK: Oral, high protein 
+binding, extensive 
+distribution and hepatic 
+metabolism CYP3A4, active 
+metabolite, feces, t½ ~60 h
+MOA: Unknown
+May act on several endogenous systems
+(It does not appear to directly activate CB1 or CB2 
+receptors.)
+Therapeutic uses:
+• Seizures associated with Dravet 
+syndrome, Lennox-Gestaut 
+syndrome, or tuberous sclerosis 
+complex in patients ≥1 year of age.
+• Sedation, lethargy
+• Elevated liver transaminases
+DDIs: high potential
+• Valproate: enhanced hepatotoxic effects
+• CYP2C19: clobazam, citalopram, 
+clopidogrel (antiplatelet drug)
+• CYP3A4: numerous
+• CNS depressants
+43
+--- Page 44 ---
+What is the mechanism of action of GABAA receptor positive allosteric modulators?
+• The drugs bind an allosteric site on the GABAA receptor and enhance the receptor’s 
+inhibitory action by increasing chloride ion influx.
+What drugs fall into this class?
+• Benzodiazepines and barbiturates.
+What are the first-line drugs for the treatment of status epilepticus?
+• Lorazepam, diazepam, and midazolam
+When treating status epilepticus, what drug-drug combination increases the risk of 
+respiratory depression?
+• Benzodiazepine with phenobarbital
+What is the explanation for the short duration of a single bolus dose of diazepam?
+• Termination of effect by redistribution out of CNS tissue into muscle and fat tissues.
+What are the antiseizure indications for pharmaceutical cannabidiol?
+• Seizures associated with Dravet syndrome, Lennox-Gestaut syndrome, or tuberous 
+sclerosis complex in patients ≥1 year of age
+Questions
+44
+--- Page 45 ---
+Summary of Antiseizure Drugs
+45
+--- Page 46 ---
+46
+Summary: Molecular Targets of Antiseizure Drugs
+
+--- Page 47 ---
+Figure 1 Mechanisms of action of antiepileptic drugs
+Modified with permission from Macmillan Publishers Ltd © Bialer, M. & White, H. S. 
+Nat. Rev. Drug Discov. 9, 68–82 (2010)
+Löscher, W. & Schmidt, D. (2012) Perampanel—new promise for refractory epilepsy?
+Nat. Rev. Neurol. doi:10.1038/nrneurol.2012.222
+Inhibitory 
+Synapse
+Excitatory
+Synapse
+--- Page 48 ---
+48
+Drugs for Focal-Onset Seizures
+Drugs for Focal-Onset Seizures
+and Some Generalized-Onset 
+Seizures
+Lamotrigine
+Lacosamide
+Levetiracetam
+Phenobarbital
+Primidone
+Felbamate
+Perampanel
+Carbamazepine
+Oxazepine
+Eslicarbazine
+Phenytoin
+Gabapentinoids
+Cenobamate 
+Drugs for Generalized-Onset 
+Seizures
+Valproate
+Topiramate
+Zonisamide
+Drugs for Generalized Absence 
+Seizures
+Ethosuximide
+Valproate
+Drugs for Other Types of Seizures
+Cannabidiol
+(pharmaceutical)
+Clobazam
+Benzodiazepines
+Rufinamide
+Stiripentol
+Fenfluramine
+Benzodiazepines
+Diazepam
+Lorazepam
+Midazolam
+Clobazam
+Clonazepam
+Clorazepate
+Drugs Effective for Seizures
+--- Page 49 ---
+49
+Summary of Adverse Effects
+Antiepileptic Drug Adverse Effects
+Benzodiazepines Sedation, tolerance, dependence
+Carbamazepine
+Diplopia, cognitive dysfunction, ataxia; rare occurrence of severe 
+blood dyscrasias and SJS/TEN/DRESS syndrome; hyponatremia; 
+induces hepatic drug metabolism
+Ethosuximide Nausea, lethargy, headache, dizziness
+Felbamate Aplastic anemia, hepatic failure
+Gabapentin Dizziness, sedation, ataxia, nystagmus; does not affect drug 
+metabolism (pregabalin is similar)
+--- Page 50 ---
+50
+Summary of Adverse Effects of Commonly Used ASDs
+Antiepileptic Drug Adverse Effects
+Lamotrigine Dizziness, ataxia, nausea, rash, rarely SJS/TEN; slow titration 
+of dose to reduce risk of rash
+Levetiracetam Dizziness, sedation, weakness, irritability, hallucinations, and 
+psychosis have occurred
+Oxcarbazepine Similar to carbamazepine, but hyponatremia is more common; 
+fewer drug interactions
+Phenobarbital Sedation, cognitive dysfunction, tolerance, dependence, 
+induction of hepatic drug metabolism; primidone is similar
+Phenytoin
+Nystagmus, diplopia, sedation, gingival hyperplasia, hirsutism, 
+anemias, peripheral neuropathy, SJS/TEN rarely; induction of 
+hepatic drug metabolism
+--- Page 51 ---
+51
+Summary of Adverse Effects
+Antiepileptic Drug Adverse Effects
+Tiagabine Abdominal pain, nausea, dizziness, tremor, asthenia; drug 
+metabolism is not induced
+Topiramate Drowsiness, dizziness, ataxia, psychomotor slowing and 
+memory impairment; paresthesias, weight loss, acute myopia
+Valproic acid Drowsiness, nausea, tremor, hair loss, weight gain, 
+hepatotoxicity (infants), inhibition of drug metabolism
+Vigabatrin Sedation, dizziness, weight gain; visual field defects/blindness 
+with long-term use, which may not be reversible
+Zonisamide Dizziness, confusion, agitation, diarrhea, weight loss, rash, 
+Stevens-Johnson syndrome
+--- Page 52 ---
+Thinking of valproate’s mechanisms, therapeutic uses, and side effects, what are three takeaways 
+regarding valproate?
+• Valproate has multiple mechanisms of action.
+• Valproate is a broad-spectrum ASD and first-line therapy in a range of seizure types in adults 
+and children and has non-seizure applications (acute mania in biopolar disorder; migraine).
+• Valproate has numerous and common GI and CNS side effects, tremor, hair loss, and weight 
+gain. It can cause decreased platelet function, hyperammonemia, hepatotoxicity, and 
+hypersensitivity reactions.
+Questions
+52
+Thinking of topiramate’s mechanisms, therapeutic uses, and side effects, what are three 
+takeaways regarding topiramate?
+• Topiramate has multiple mechanisms of action.
+• Topiramate is a broad-spectrum ASD and used in a range of seizure types for adults and 
+children. Topiramate has several non-seizure uses (weight loss, migraine prevention, and 
+more).
+• Topiramate has numerous and common CNS side effects. As a weak carbonic anhydrase 
+inhibitor, it can cause decreased sweating and hyperthermia in children, reduced growth in 
+children, and metabolic acidosis. Kidney stones may occur. 
+What about usage in pregnancy or individuals who may become pregnant?
+• AVOID. Valproate is teratogenic. Topiramate may cause fetal harm.
+--- Page 53 ---
+A particular broad-spectrum ASD that inhibits NMDA and potentiates GABA at GABAA receptors is 
+used only in refractory seizures, such as Lennox-Gastaut syndrome. Informed consent is required. 
+Why?
+• Felbamate is associated with a high rates of fatal aplastic anemia and hepatic failure compared 
+with patients taking other ASDs.
+A particular class of drugs that acts at a presynaptic site is used for neuropathic pain, a number of 
+other nonseizure uses, and as add-on therapy for management of focal seizures. What is its 
+mechanistic target?
+• Gapapentinoids block the α2δ subunit on VG Ca2+ channel on presynaptic neuron, which may 
+decrease synaptic release of excitatory neurotransmitters.
+A broad spectrum ASD with 100% bioavailability, nonhepatic metabolism, renal excretion of 
+unchanged drug has mild-moderate side effects and low potential for drug interactions. What are 
+the drug and the mechanistic target?
+• Levetiracetam blocks SV2A, which may prevent docking of the vesicle and release of the 
+neurotransmitter.
+What are the most common side effects of the narrow spectrum drug for absence seizures?
+• Nausea and vomiting, somnolence, sleep disturbance, hyperactivity (CYP3A4 DDIs)
+Questions
+53
+--- Page 54 ---
+What is the mechanism of action of GABAA receptor positive allosteric modulators?
+• The drugs bind an allosteric site on the GABAA receptor and enhance the receptor’s 
+inhibitory action by increasing the frequency of channel opening →  chloride ion influx.
+What drugs fall into this class?
+• Benzodiazepines and barbiturates.
+What are the first-line drugs for the treatment of status epilepticus?
+• Lorazepam, diazepam, and midazolam
+When treating status epilepticus, what drug-drug combination increases the risk of 
+respiratory depression?
+• Benzodiazepine with phenobarbital
+What is the explanation for the short duration of a single bolus dose of diazepam?
+• Termination of effect by redistribution out of CNS tissue into muscle and fat tissues.
+What are the antiseizure indications for pharmaceutical cannabidiol?
+• Seizures associated with Dravet syndrome, Lennox-Gestaut syndrome, or tuberous 
+sclerosis complex in patients ≥1 year of age
+Questions
+54
+--- Page 55 ---
+Access Medicine Harrison’s Principles of Internal Medicine 21e, 2022; Chapter 425: Seizures and 
+Epilepsy
+Access Medicine Goodman & Gilman’s Pharmacological Basis of Therapeutics 14e, 2023; 
+Chapter 20: Pharmacotherapy of Epilepsies
+Access Medicine Katzung’s Pharmacology Examination and Board Review, 14e, 2024; Chapter 
+24: Antiseizure Drugs
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 24: Antiseizure 
+Drugs
+UpTodate Lexidrug monographs
+UpToDate: various topics
+Resources:
+55
+--- Page 56 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R 
+
+
+--- Transcript Content ---
+Welcome, students,
+to our continuation
+on the pharmacology
+of anti
+-seizure drugs. Dr.
+Goldstein speaking.
+In this part of the
+lecture, we will
+describe the broad
+spectrum anti
+-seizure drugs and
+other molecular
+targets and the drugs
+that act on them.
+Our learning objectives,
+always important.
+Pharmacokinetics,
+mechanisms,
+mechanisms, mechanisms.
+You should be able
+to recognize which
+drugs are being used,
+just as a general
+statement, for focal
+seizures versus
+primary generalized
+onset seizures.
+star drugs of course
+we talked about
+polymorphisms in the first
+part we'll mention at
+one time in this section
+and thinking about
+all of the different
+pharmacology features
+of the drugs for
+the selection of the
+appropriate therapy for
+the individual patient
+materials and links
+if you wish to use
+them. We'll begin with
+our broad spectrum
+anti-seizure drugs,
+valproate and
+topiramate. Divalpro
+-X is also valproate.
+I'm not going to talk
+about zanisamide.
+The pharmacology
+of zanisamide is
+pretty comparable to
+other anti-seizure
+drugs such as
+topiramate and you can
+pick it up later
+on if you need to.
+Beginning with valproate.
+The structure is
+important in terms of
+the pharmacokinetics
+of the drug and some
+adverse effects. We
+see it's just this
+small fatty acid and
+as a fatty acid it
+undergoes mitochondrial
+beta-oxidation.
+Also, glucuronide
+conjugation, which is
+going to make it water
+-soluble. And there
+are certainly other
+pathways involved with
+the metabolism
+of L-proate. Good
+bioavailability. Now,
+going back to the top,
+it's given ****** or
+IV, very convenient.
+pretty high protein
+binding which is saturable
+and that's going to
+depend on the dose
+the higher the dose
+the greater the risk of
+saturation the greater
+the probability of
+saturation and hence the
+greater the free drug.
+Half-life varies So
+between this feature
+and this feature,
+it's very important
+to be monitoring
+blood levels in the
+individual patient to
+make sure that it's
+right there in the
+therapeutic range.
+As a broad-spectrum
+drug, it has
+multiple cellular
+mechanisms that
+have been observed
+in model systems.
+As I have mentioned
+before, with all
+of these drugs, the
+actual mechanisms in
+human beings, in
+mammalian patients,
+hasn't been empirically
+demonstrated. These
+are effects that
+are seen in animal
+models, in laboratory
+models, and then it's
+been extrapolated to
+say these may be the
+actions of anti-seizure
+effect in people.
+The takeaway here
+is broad spectrum,
+multiple cellular
+mechanisms.
+So, with valproate,
+we see blocking of
+the sodium currents,
+voltage-dependent
+sodium currents. We
+see reductions in the
+voltage-dependent T
+-type calcium currents.
+And here you will
+become familiar that
+when you see T-type
+calcium currents,
+you're going to be
+thinking absence,
+as it's pronounced
+in French,
+absence in
+English, seizures.
+And increasing
+in GABA will,
+at least theoretically,
+increase the effects of
+GABA, which
+are inhibitory.
+well proate is
+a first line
+agent this is a
+very important
+drug in the anti
+-seizure drug
+armamentarium it can
+be used alone it can
+be used as adjunct
+adjunct means in
+combination with other
+anti-seizure drugs.
+And it treats a
+variety of different
+types of seizure,
+both focal
+onset, primary
+generalized onset,
+refractory seizures,
+and status epilepticus.
+It's actually
+used off-label
+for status epilepticus,
+but it's effective non
+-seizure applications
+also it is used for
+the management of acute
+mania in patients who
+have bipolar disorder
+and it can be used
+for the prevention of
+migraine prevention is
+better than treatment
+always with migraine
+and what's our takeaway
+Valproate is useful
+for many seizure
+types and it has non
+-seizure applications
+because of its
+multiple mechanisms
+and broad spectrum
+of activity.
+Boy, it has quite a
+list of adverse effects,
+doesn't it? And this
+is not complete.
+We would expect
+the CNS effects,
+of course. All
+anti-seizure drugs
+have CNS effects and
+CNS side effects,
+therapeutic and
+side effects.
+Sedation, dizziness,
+ataxia, cognitive
+impairment. This
+looks a little
+bit like taking too
+much alcohol in.
+these GI effects with
+valproate can really
+make it difficult for
+the patient to tolerate
+it and remember many
+children have seizure
+disorder and will be
+taking valproate nausea
+vomiting on top of
+that the heart bank
+heartburn and just plain
+ordinary abdominal pain
+So in order to improve
+tolerance, it's
+suggested to start low
+and gradually titrate
+the dose upward.
+Start low, go slow.
+And that may help, but
+another thing
+to do is food.
+Also, formulations.
+There are
+different formulations
+of valproate
+that can at least
+reduce the abdominal
+side effects
+to some extent.
+Tremor.
+Patients who take
+valproate can
+develop this fine
+tremor, and it's
+noticeable. Hair
+loss, weight gain,
+hepatotoxicity,
+thrombocytopenia, and
+reduced platelet
+function.
+Ammonia. This is ammonia
+here. Blood ammonia.
+Hyperammonemia.
+Too much ammonia in
+the blood. When it gets
+into the brain in high
+enough concentrations,
+it can actually cause
+an encephalopathy.
+And this effect,
+go back now to the
+fact that valproate
+is metabolized in
+the mitochondria.
+It can inhibit the
+enzyme that's
+necessary for ammonia
+elimination through
+the urea cycle.
+So this, of
+course, would be a
+concentration-related
+effect. The higher
+the dose, the
+higher the risk.
+Pancreatitis can
+occur. it's quite rare
+fortunately but we
+remain alert and look
+for it hypersensitivity
+reactions i'm
+sure you've noticed
+this is a running theme
+with pretty much
+all of these anti
+-seizure drugs we've
+seen up to this point
+rash stevens johnson
+syndrome toxic epidermal
+necrolysis drug
+reaction with
+eosinophilia and systemic
+symptoms, and that
+can be fatal. All of
+these can be fatal.
+Caution. So now
+here we have a
+polymorphism to talk
+about, and it's related
+to this mitochondrial
+DNA polymerase
+gamma. That's the
+particular type of
+polymerase within
+the mitochondria.
+Of course it has
+an acronym P-O-L-G.
+So mutations in the gene
+that express
+this polymerase
+put patients at
+increased risk for
+this liver failure
+and death naturally.
+If a patient has this
+valproate is
+contraindicated.
+Valproate is teratogenic.
+It causes neural tube
+defects, craniofacial
+defects, cardiovascular
+malformations,
+other malformations,
+and this is not a
+teratogenic effect, but
+there is an increased
+risk of lower IQs and
+neurodevelopmental
+defects in the children
+of people who have
+been taking valproate
+during pregnancy.
+So, therefore,
+the drug is
+contraindicated for
+non-seizure uses,
+all non-seizure
+uses in
+individuals who are
+pregnant or may
+become pregnant.
+And regarding
+seizure disorder, if
+valproate can be
+changed prior to
+pregnancy, then that
+would be desirable.
+Drug interactions,
+it's an inhibitor
+of the metabolism
+of many drugs.
+and specifically,
+we want to remember
+lamotrigine.
+Lamotrigine has
+been found to have
+an increased risk
+of these skin
+reactions, these
+serious skin reactions
+due to this HLA
+-B polymorphism.
+So lamotrigine, even
+given as monotherapy,
+must be gradually,
+carefully titrated up to
+the therapeutic dose.
+When it's given together
+with valproate, that
+process needs to be
+even slower because
+of this inhibitory
+effect of valproate on
+lamotrigine metabolism.
+moving to topiramate
+now i give you the
+structures but you
+don't have to remember
+them this is not as
+important as remembering
+the valproate structure
+you don't have
+to actually draw out
+valproate structure
+you just remember it's
+a little fatty acid
+with topiramate
+it's got a favorable
+pharmacokinetic profile
+good absorption good
+bioavailability low
+plasma protein binding.
+Minor hepatic
+metabolism that does not
+use CYPs, a large
+percentage of it is
+excreted in the
+urine, and it might
+actually be reabsorbed
+in the nephron.
+Again, we see a number
+of mechanisms therefore
+multiple mechanisms
+what are we thinking
+broad spectrum i did
+mention that in the
+beginning i'll mention
+it again multiple
+mechanisms broad
+spectrum it's been found
+that it will inhibit
+the voltage dependent
+sodium current it also
+depresses glutamate
+activity through
+blocking ampokinate
+receptors. It enhances
+GABA-A inhibitory
+effect, and it has
+carbonic anhydrase
+inhibition. Now,
+is this part of its
+anti-seizure activity?
+That's not known.
+Carbonic anhydrase
+inhibitors, given alone,
+are known to have
+some weak anti-seizure
+activity. This is
+relevant because of
+toxicity. That's why
+I'm bringing it up.
+I'll get to that
+when I get to the
+toxicities. For now,
+let's talk about the
+therapeutic uses
+adults and children.
+As a broad spectrum
+anti-seizure drug,
+it is good for focal
+onset seizures,
+generalized onset
+seizures, difficult-to
+-treat seizures. Lennox
+-Gastaut syndrome
+is a seizure disorder
+with onset in
+childhood and it may
+be effective in other
+childhood seizure
+types, time will tell.
+Topiramate also has
+several non-seizure
+applications. Here we
+see migraine again.
+Prophylaxis of
+migraine, prophylaxis of
+cluster headaches. It
+causes weight loss. That's
+been observed as one
+of its side effects.
+So a drug company put
+it together in the
+same dosage form,
+fixed combination, with
+this amphetamine
+-like sympathomimetic.
+the topiramate has
+also been used for
+binge eating
+disorder alcohol use
+disorder and there
+are others as well
+adverse effects the cns
+effects are quite common
+we see the sleepiness
+the tiredness
+dizziness the
+the slow thinking
+paresthesias,
+nervousness,
+moodiness, confusion.
+I did mention the
+weight loss before.
+Now, carbonic
+anhydrase inhibition in
+relation to the
+toxicities of topiramate.
+And children are the
+most vulnerable, as
+we hear over and
+over with many drugs.
+Carbonic anhydrase
+inhibition, well, let
+me just say the
+carbonic anhydrase
+inhibitors were
+originally developed for,
+as a diuretic,
+it's a very weak
+diuretic, so it's
+not used for that.
+They do act within
+the nephron.
+They act in the kidney.
+And one of the things
+they do in the kidney
+is to decrease
+serum bicarbonate by
+increasing excretion of
+bicarbonate. And that
+That can lead to a mild
+metabolic acidosis.
+Children, as I mentioned
+before and will
+mention again, are
+at the greatest risk.
+Carbonic anhydrase
+is very, very
+important in many,
+many, many functions
+of the body,
+including in the bone.
+So bone loss has been
+seen in children,
+and that leads to
+reduced growth.
+importantly it can
+reduce the ability
+to sweat and sweating
+is our one of our
+air conditioning
+mechanisms it helps us
+to manage heat
+and if sweating is
+reduced that can lead
+to hyperthermia when
+are we thinking about
+this when the child
+or the individual
+anybody taking topiramate
+is in a warm a very
+warm environment
+so what are warm
+environments well the first
+thing we think about
+is being out in the
+hot sun or being in a
+very very very warm room
+those sort of things
+being overdressed in
+uh so that the child
+is becomes overheated
+and kidney stones this
+can happen in anybody,
+this increased risk
+of kidney stones. It
+doesn't happen too
+often, very low
+incidence, and it
+certainly can happen when
+carbonic anhydrase
+inhibitors are used
+alone. It's just
+one of the potential
+effects of carbonic
+anhydrase inhibition.
+Pregnancy. Adverse
+effects have been
+reported in animal
+reproduction studies.
+um so should we use them
+in the pregnant
+individual
+well sometimes we
+can't change a person's
+anti-seizure therapy
+it's just too
+dangerous so the
+pregnant woman should
+be monitored pregnant
+person should
+be monitored for a
+metabolic acidosis.
+Newborns should be
+monitored for that.
+It should be avoided
+in patients who are
+taking topiramate for
+the non-seizure uses.
+It should be switched
+if possible for
+individuals who are
+wishing to become pregnant.
+Drug interactions.
+Well, as you would
+expect, enzyme
+inducers increase
+the clearance
+of practically
+everything.
+Concurrent use of
+topiramate and valproic
+acid may increase the
+risk of hyperammonemia.
+What do we think
+about with too much
+ammonia in the
+bloodstream? We think about
+encephalopathy. And
+of course it's a CNS
+depressant. We saw
+that with the adverse
+effects and other
+drugs that are CNS
+depressants are going
+to increase that effect.
+So here are a
+few very simple
+little questions
+for review.
+Thinking of
+valproate's mechanisms,
+therapeutic uses, and
+side effects, what are
+three takeaways
+regarding valproate? At
+this point I invite
+you to pause the video
+and think about these
+three questions.
+See if you can come
+up with the answers.
+Certainly go back into
+the PowerPoint and look
+for the answers.
+They're right in there.
+So I will continue now.
+The answer to the
+first one, Valproate's
+mechanisms, uses,
+and side effects.
+Valproate has multiple
+mechanisms of action.
+Valproate is a broad
+-spectrum anti-seizure
+drug and first-line
+therapy in a range
+of seizure types in
+adults and children,
+and it has non
+-seizure applications.
+Belproate has numerous
+and common GI and
+CNS side effects,
+causes tremor and hair
+loss and weight gain.
+It can cause decreased
+platelet function,
+thrombocytopenia,
+hyperammonemia,
+hepatotoxicity,
+hypersensitivity reactions.
+Now, thinking of
+topiramate's mechanisms,
+therapeutic uses, and
+side effects, What
+are three takeaways
+regarding topiramate?
+Well, it has multiple
+mechanisms of
+action. It is a
+broad-spectrum anti
+-seizure drug and
+used in a range of
+seizure types for
+adults and children.
+So that's one
+concept there,
+broad-spectrum,
+variety of seizure
+types, common to
+both topiramate and
+valproate. Belproate
+is first line.
+Topiramate, not
+necessarily first line.
+Topiramate has
+numerous and
+common CNS side effects.
+It's a weak
+carbonic anhydrase
+inhibitor, and it
+can cause decreased
+sweating and
+hyperthermia in children,
+reduced growth,
+metabolic acidosis,
+and possibly kidney
+stones in anybody.
+Well, what about
+usage in pregnancy or
+individuals who may
+become pregnant?
+So let's move on
+now to the anti
+-seizure drugs
+that interact with
+other types of
+molecular targets.
+And we will begin
+with Felbamate.
+this is the broad
+spectrum anti-seizure
+drug the mechanisms that
+have been identified
+the one of the main
+one is that it's an
+nmda receptor blocker
+the nmda receptor is
+a type of glutamate
+excitatory receptor.
+I have circled the NMDA
+receptor on the post
+-synaptic membrane
+right here so we can
+see NMDA receptor and
+ions moving through.
+So that gets blocked
+by felbomate.
+Excellent
+bioavailability,
+CYP3A4 metabolism,
+long half-life in
+adults. Remember in
+kids, Half-lives
+can be different, so
+it's always important
+to look up the
+half-lives in the
+drug monographs and
+certainly to monitor
+the drug levels.
+So, NMDA glutamate
+receptor blocker. This
+is a use-dependent
+block, meaning the NMDA
+glutamate receptors
+that are activated.
+I'm not going into
+more details than
+that at this
+point. And it might
+be potentiating
+GABA-A inhibition.
+Oh, that's a
+mistake. It might be
+potentiating GABA-A
+-mediated activity.
+You know what? Let's
+back up. It might be
+potentiating GABA-A
+-mediated inhibitory
+actions. That's what I
+meant to put on here,
+inhibitory actions.
+Seizure disorders
+refractory to other anti
+-seizure drugs. Okay,
+we don't use felbomate
+until other drugs
+are not producing
+the anti-seizure
+outcomes that are needed.
+and informed
+consent must be
+obtained. So we say
+to ourselves, uh
+-oh, what's going
+on with this drug?
+It's been found
+with the use of this
+drug, there are
+high rates of fatal
+aplastic anemia
+and hepatitis and
+hepatic failure
+compared with those
+treated with other
+anti-seizure drugs.
+It's used for these
+very difficult
+-to-treat Lennox
+-Gastaut syndrome
+seizures, focal onset
+seizures, with or
+without generalization,
+but I really
+do want to emphasize
+refractory.
+Some other side
+effects, GI, CNS, drug
+interaction, CYP3A4, CNS
+depressants, pretty much
+what we see with other
+anti-seizure drugs.
+Now
+we're going
+to look at the
+gabapentinoids
+and gabapentin. In
+particular, this
+is the prototype.
+The other one in
+the group pregabalin
+is pretty much the
+same as gabapentin.
+If you know one,
+you know the other.
+This is a really little
+molecule. It's
+an amino acid.
+So it's real
+simple to remember.
+I've indicated
+over here the point
+at which it acts.
+This is a presynaptic
+voltage-gated
+calcium channel.
+And I'll get into
+the details of the
+mechanism when I get
+there. But see if you can
+visualize where this
+is on the presynaptic
+neuron. Remember, the
+presynaptic calcium
+channels, when an
+action potential comes
+down, triggers its
+opening, calcium flows
+in, and the vesicles
+then move down to
+the plasma membrane,
+and the neurotransmitter
+becomes exocytosed
+into the synapse.
+So we have our gabapentin
+pregabalin binding there.
+starting with the
+pharmacokinetics well
+it's an amino acid
+so it's taken up
+by amino acid transporter
+which of course
+being a transporter
+is saturable it
+is not metabolized
+it's excreted through
+the kidney 100%
+unchanged it's got
+more non-seizure uses
+than seizure uses
+the seizure uses i
+see i didn't put oh
+here right here focal
+onset seizure only add
+-ons it's it's not it
+doesn't work as well
+for monotherapy and
+a whole slew of non
+-seizure uses but
+neuropathic pain is right
+there at the top of
+the list restless
+leg syndrome hot flashes
+due to menopause,
+diapetic neuropathy,
+fibromyalgia.
+So you can see these are
+related to
+neuropathic pain.
+It's even been
+used in general and
+social anxiety
+disorder, and on we go.
+Looking at the
+pharmacokinetics,
+there are no known
+metabolic interactions.
+You see how those
+two connect.
+Pregnancy, adverse
+events have been
+observed in animal
+reproduction studies.
+And we don't have
+a lot of data
+for the use of
+the gabapentinoids
+in pregnant individuals.
+So adverse effects,
+sedation, and the higher
+the dose, the more
+likely these CNS
+effects, dizziness. It
+can also cause weight
+gain and peripheral
+edema. Here's an FDA
+warning, respiratory
+depression, and that can
+be increased together
+with other drugs that
+cause respiratory
+depression, like opioids,
+some CNS depressants,
+and in individuals
+who are at risk.
+Now,
+rivaracetam. I
+don't have a star on
+that one. It's
+basically the same
+pharmacology as
+levotiracetam. This is
+something called
+an SV2A synaptic
+vesicle protein
+inhibitor. I've got the
+circle here.
+This acts presynaptically.
+We see the SV2A
+receptor there on
+the vesicle. and by
+inhibiting that, it
+inhibits the docking to
+the plasma membrane,
+which will in turn
+inhibit release of
+the neurotransmitter.
+SVE2A appears to
+reduce the synaptic
+release of
+glutamate and gamma.
+Pharmacokinetics.
+This, again, has
+really attractive
+pharmacokinetic
+profile. oral, 100
+% bioavailability.
+It also can be
+given intravenously.
+Non-hempatic hydrolysis.
+It goes out in the
+urine as unchanged
+drug, and it's got
+an okay half-life.
+It does require two
+times a day dosing.
+Broad spectrum.
+So, it's got several
+anti-seizure uses.
+now here we go this
+way you haven't seen
+before the it's really
+got an attractive side
+effect profile in
+relation to the other anti
+-seizure drugs at least
+mild to moderate uh
+sometimes they even
+subside some patients do
+complain about the
+fatigue and and the the
+crankiness sleepiness
+dizziness they do complain
+about the cns effects
+and it's been observed
+to cause psychotic
+symptoms as well but
+low potential for
+drug interactions
+so levotiracetam
+is used quite
+frequently simply
+because one it's broad
+spectrum and
+effective and it's got
+these attractive
+pharmacokinetic
+properties and side
+effect profile.
+And now suppressors
+of the T-type calcium
+occurrence,
+ethosuximide. We talked
+about valproate. I put
+it back here so you
+remember to associate
+valproate with
+suppressing the T
+-type calcium currents.
+Ethosuximide, however,
+is narrow spectrum.
+it appears that this is
+ethylsuximide's
+only action.
+Here is ethylsuximide
+structure.
+You don't have
+to remember that.
+Pharmacokinetics, oral,
+CYP3A4 metabolism.
+So we have to remember
+about drug interactions.
+Renal excretion of
+metabolites, but not
+much unchanged drug.
+it's got a really long
+half-life even in
+children but I'm going
+to come back to that
+in a minute we'll
+talk about mechanism
+after this absence
+seizures that's it
+that's the only thing
+nausea vomiting so
+what what what can we
+do food sleepiness
+can disturb the sleep
+and this is a drug
+that's frequently given
+to children because
+it's children that
+most commonly have
+the absinthe seizures.
+So, as happens
+with a lot of CNS
+depressants, it can
+have that paradoxical
+effect in children
+and actually cause
+hyperactivity.
+What's the mechanism?
+That hasn't been
+figured out yet.
+The good thing
+is ethyl suxamide
+does not inhibit
+or induce other
+CYPs or other
+metabolic enzymes.
+Now, long half-life,
+but it still might be
+given two to three times
+a day. So what does
+that mean? The 24-hour
+dose would be divided
+into two or three
+times a day, and the
+whole point is to reduce
+the GI side effects
+by giving a smaller
+dose more frequently.
+Mechanism.
+Ethosuximide reduces the
+low-threshold calcium
+currents, these are
+called T-type calcium
+currents, and the
+thalamocortical neurons.
+They have a picture
+here of ethosuximide
+binding site on the
+calcium channel.
+So what does this
+do? By reducing these
+calcium currents,
+it suppresses the
+paroxysmal 3 Hz spike
+and wave pattern
+that's typical of
+absence seizures.
+And I've defined what
+3 Hz means here. The
+waveform repeats three
+times in one second.
+And we have a
+picture of an EEG
+where we have the
+spike and wave
+typical of
+absence seizures.
+so let's have
+some questions
+I invite you to
+pause your video
+and think about the oh I
+didn't cover the
+answers amazing
+I'll cover them now
+so
+I'm sure you
+can pause the
+computer and see
+them but do try
+and think about
+them without
+looking at the
+answers, or go back in
+the PowerPoint and
+look at the answers.
+So a particular
+broad-spectrum anti
+-seizure drug that
+inhibits NMDA and
+potentiates GABA
+at GABA-8 receptors
+is used only in
+refractory seizures
+such as Lennox
+-Gassault syndrome.
+Informed consent
+is required. Why?
+And a particular
+class of drugs that
+acts at presynaptic
+site is used
+for neuropathic pain,
+a number of other
+seizure uses, and
+as add-on therapy
+for management of
+focal seizures.
+What is its
+mechanistic target?
+So presynaptic
+site, it's used
+mainly for non
+-seizure uses.
+And think about
+what its target is.
+A broad-spectrum anti
+-seizure drug with 100
+% bioavailability, non
+-hepatic metabolism,
+renal excretion
+of unchanged drug,
+mild to moderate
+side effects, and a
+low potential for
+drug interactions.
+Broad spectrum.
+And so what is the
+drug? What is the
+mechanistic target?
+And what are the
+most common side
+effects of the narrow
+-spectrum drug for
+absence seizures?
+So I'll uncover
+the answers.
+Felbamate is
+associated with high
+rates of fatal
+aplastic anemia and
+hepatic failure
+compared with patients
+taking other anti
+-seizure drugs.
+Gappapentanoids block
+the alpha-2 delta
+subunit of the voltage
+-gated calcium channel
+on presynaptic neurons,
+which may decrease
+the synaptic release
+of excitatory
+neurotransmitters.
+The actual mechanism
+is not known,
+and in fact, this
+has been theoretical.
+There have been
+many theories put
+forward since the
+drugs were developed.
+And regarding the
+broad-spectrum anti
+-seizure drugs with
+really excellent
+pharmacokinetic profile
+and low-potential and
+mild-to-moderate side
+effects, of course,
+that's levotiracetam,
+which blocks the
+SV2A, which may prevent
+docking of the vesicle
+and release of the
+neurotransmitter.
+And the common side
+effects of ethosuxamide,
+nausea, vomiting,
+somnolent, sleep disorder,
+and hyperactivity.
+And I put in here also
+the CYP3A4-related
+drug-drug interactions.
+Now, moving to drugs
+that enhance synaptic
+GABA activity. These
+are called GABA-A
+receptor-positive
+allosteric modulators.
+And we're going to
+be talking about
+phenobarbital and
+the benzodiazepines.
+Here is the point
+of the mechanism of
+action. It's at
+the postsynaptic
+membrane, and you can
+see the arrows are
+pointing, both of
+these arrows are
+just pointing to
+the GABA-A receptor.
+So we'll begin
+with phenobarbital.
+I'm not going to
+talk about primidone.
+I'm just going to
+mention a couple of
+things about it
+because it's board
+relevant. It may come
+up in a board exam.
+so just for now
+phenobarbital is the
+one with the star on
+it and here is the
+phenobarbital i'm
+just going to go down
+the pharmacokinetics
+of phenobarbital
+for now and i'll
+point out a couple
+of things about
+primidone so oral good
+bioavailability iv
+i am so variety of
+methods to introduce
+the drug to the patient.
+IV onset of action
+is fairly quick.
+Protein binding
+pretty high.
+We need to be
+remembering that
+neonates and infants
+who may be who are
+patients who might be
+receiving phenobarbital
+have a different
+volume of distribution.
+They're basically
+little bags of water. So
+the neonatologist would
+be careful with the
+dosing of the drug and
+recommendations are
+in the monograph. We
+see CYP2C9 involved
+with the actual metabolism
+of phenobarbital.
+Phenobarbital is
+a strong inducer
+and you can see
+this variety of CYPs
+that are induced
+by phenobarbital.
+1A2, B6, C3A4,
+UDP-glucuronaciltransferase,
+and this
+is not an enzyme,
+of course, but
+the efflux transporter
+P-glycoprotein
+is also induced
+by phenobarbital.
+Some of the drug
+goes out unchanged,
+and so renal dosing
+is important.
+long half-life look
+at this one and a half
+to five days in adults
+it's still long in
+infants and children
+but probably not that
+long one and a half
+to five days in adults
+takes a long time to
+get to steady state
+now primidone what
+i want to point out
+here is the metabolism
+it is metabolized
+to phenobarbital and
+this active metabolite,
+so that primidone,
+phenobarotol,
+and the active metabolite
+are all active.
+That's the sort
+of thing that
+might appear on
+a board exam.
+And it is oral only.
+How does it work?
+the barbiturates bind
+to an allosteric site
+on both alpha and beta
+subunits of the GABA
+ion channel and on
+this figure we see
+they're located within
+the lipid bilayer high
+doses this is so
+important to remember high
+doses also have a GABA
+mimetic effect and
+this means that even
+in the absence of GABA,
+barbiturates can
+directly stimulate
+the GABA-A receptors, and
+this can lead to
+coma and death.
+The therapeutic uses for,
+in terms of seizure uses,
+focal onset,
+generalized tonic-clonic
+seizures in
+children, and as an
+alternative to
+status epilepticus.
+Alternative.
+We'll see the first
+line in a few moments.
+the positive allosteric
+modulators of GABA
+-A receptor cause
+sedation because GABA-A
+activity is increased.
+Oh, I forgot to mention.
+Very important.
+Barbiturates bind
+to the allosteric
+site and prolong
+the duration,
+prolong the duration
+of the channel
+opening. And since
+the channel is opened
+longer, more chloride
+ion can flow through,
+and that can cause
+hyperpolarization,
+and that's what GABA
+receptors do, and
+that can increase the
+inhibitory effect.
+I'm sorry, I had
+to go backwards.
+I forgot to mention
+this before.
+okay now we'll talk
+about the adverse
+effects so cns
+depression basic global
+cns depression sedation
+mood depression
+cognitive depression
+hyperactivity in
+children this is
+again that hyper that
+paradoxical effect
+that we see with the
+not always but sometimes
+see in children
+elderly folks
+can also become
+confused it makes sense
+and something called
+porphyrias i'm not
+going to go into detail
+on that at this point
+but it's because the
+barbiturates
+induce the enzymes
+Involved in heme
+synthesis, heme metabolism,
+and individuals
+with porphyria have
+deficiencies, and as
+a result, porphyrins
+can accumulate and
+cause certain symptoms.
+what else rash
+naturally hepatotoxicity
+bone marrow toxicity
+these are well at
+least bone marrow
+toxicity is not as common
+but we still have to
+be watching for all of
+these things now
+intravenous we're sticking
+drug into a vein
+it's going in in high
+concentrations barbiturates
+are positive allosteric
+modulators and also
+GABA memetics so
+respiratory depression is
+a risk with phenobarbital
+and especially when used
+after benzodiazepine
+i said before that
+phenobarbital is an
+alternative in the
+treatment of status
+epilepticus well
+benzodiazepines are first line
+and sometimes if that
+if those seizures cannot
+come under control
+phenobarbital may be
+administered after the
+benzodiazepine so we
+have to be thinking
+about this respiratory
+depression potential
+and hypotension speaking
+of benzodiazepines
+i have just put
+stars on three of
+them i've listed out
+all of them that
+are used i i'm
+going to briefly
+mention them. I'm not
+asking you to
+memorize their names.
+Well, let's see
+if we can compare
+some pharmacokinetics
+here.
+Well, a variety of
+routes of administration,
+onset diazepam, and
+we're talking about
+a single bolus dose,
+bolus dose as is used
+for status epilepticus
+i'm not talking
+about for non
+-seizure uses here so
+immediate with diazepam
+a few minutes with
+lorazepam and a few
+minutes with midazolam
+IM you can see takes
+a little bit longer
+Duration
+Diazepam It's short I'll
+get to the reason why
+Lirazepam It's
+good several
+hours Midazolam
+It's IV is still
+One to two hours
+Diazepam CYPs
+are involved.
+Midazolam, CYP is
+involved, including
+an active
+metabolite. Diazepam
+has an active
+metabolite as well,
+and that's called
+nordiazepam.
+Lorazepam, no CYPs.
+and we see our
+glucuronide
+metabolites going
+out in the urine
+diazepam's actual half
+-life in adults is long
+40 hours an active
+metabolite very long
+three days or more
+lorazepam also a long half
+-life about a day and
+midazolam is a much
+shorter half-life by
+comparison to the other
+two these drugs are
+going to keep coming up
+over and over and
+over they're very very
+important drugs diazepam
+accumulates with
+multiple dosing and the
+terminal half-life is
+slightly prolonged as
+the drug moves out of
+fat stores so diazepam
+is highly lipophilic
+and it gets
+stored in the fat.
+The others do
+too, but diazepam
+is particularly
+lipophilic.
+Now, I said that
+diazepam has a short
+duration of
+action, and that's
+because of this
+redistribution effect.
+Rapid termination because
+of redistribution.
+Looking at this
+figure here,
+drug is administered
+okay drug goes into
+the blood right here this
+is ivy administration
+one dose one bolus
+dose and it gets goes
+into the uh blood and
+it gets distributed
+through the body and
+one of the places it
+goes to is the brain
+highly perfused tissues
+the brain has also
+got a lot of fatty
+tissue in it. So the
+drug goes into the brain
+tissue, causes its CNS
+depressive effects.
+One dose, remember.
+And as the blood
+levels keep dropping,
+the levels in the CNS
+will drop as the drug moves
+down its concentration
+gradient back into
+the bloodstream.
+And it will
+be distributed
+to the lean
+tissue, muscle.
+And it will be stored
+in the muscle. And
+it will be distributed
+to the fat tissue.
+And how much gets stored
+in the fat depends
+really on how long
+that drug is on board.
+But we're talking
+about one bolus dose.
+So that's redistribution.
+It moves out
+of the CNS. And as it
+moves out of the CNS,
+the effect is reduced.
+It's terminated.
+and it's not
+leaving the body
+it's just moving to other
+tissues that's
+all there is to it
+a single bolus dose
+of diazepam has a
+short duration of anti
+-seizure effect and
+status epilepticus
+about a quarter hour
+to a half hour despite
+its long half-life
+mechanism
+Oh, I put an arrow
+here pointing to the
+benzodiazepine that's
+been indicated on this
+figure by basic and
+clinical pharmacology.
+A positive
+allosteric modulator
+also, GABA-A receptor,
+binds to allosteric
+site as we can see.
+It's not binding
+to the active site
+where GABA binds.
+it increases the
+frequency of channel
+opening and as a
+result a greater
+concentration of chloride
+will be introduced
+into the cell.
+So benzos is frequency,
+barbiturates is duration.
+The benzodiazepines do
+not have GABA mimetic
+activity. So if the
+GABA goes, it gets
+used up for some
+reason because of high
+activity, the benzos will
+not continue upwards.
+So if we were to look
+at it on the chart,
+barbiturates
+look like this,
+keep going, going, going,
+whereas the benzos
+will plateau.
+But used together,
+what are we worried
+about? Respiratory
+depression, high doses
+of a benzo delivered
+rapidly can also
+increase the risk of
+respiratory depression.
+Now,
+benzos are associated
+with tolerance.
+Tolerance can develop to
+the anticonvulsive
+effects.
+It develops in weeks
+to months, and as
+a result, they're
+not useful for the
+chronic management of
+nearly all seizures.
+The one exception is
+myoclonic seizures,
+which I'll mention
+in the next slide.
+Benzos, status
+epilepticus,
+and also other
+acute seizures.
+so bolus dosing of
+the benzos for the
+initial treatment in
+other words first line
+diazepam immediate
+onset and the
+short duration
+of action because
+of that
+redistribution effect
+lorazepam takes a few
+minutes but it has a
+much longer anti-seizure
+duration of action
+midazolam is used if
+an IV axis cannot be
+obtained so it can be
+given intramuscularly
+intranasally it can be
+given to be absorbed
+through the buccal
+mucosa so that's really
+the place in therapy
+of midazolam for its
+anti-seizure uses now
+chronic therapy these
+are the drugs that
+are used clonazepam
+and chlorazepate they've
+been around a long
+time we see again the
+Lennox-Gastaut syndrome
+the myoclonic seizures
+atonic seizures
+usually used as add
+-ons and clobasm is a
+newer agent for the
+Lennox-Gastaut syndrome
+and other types of
+treatment refractory
+seizures as an add
+-on now benzos have a
+whole list of non
+-seizure applications i'm
+you'll be learning
+about those as you
+go along and as we
+get to them we'll talk
+about them the next
+lecture is on anesthesia
+and we'll be talking
+about them again
+oral ****** No
+dosing, sedation,
+depression, and
+coordination. Some
+of the usual
+things that we see.
+Acute hypotension,
+ataxia, respiratory
+depression. This
+is due to the
+rapid rise of the
+drug in the CNS
+concentrations. So the
+idea is to introduce
+it by slow
+intravenous injection.
+benzodiazepines that
+are taken chronically
+or even for the
+management of status
+epilepticus can produce
+withdrawal seizures upon
+discontinuation of the
+drug so with status
+epilepticus the benzo
+will be given as
+initial treatment and
+then something else that
+is has a much slower
+onset and longer
+duration of activity such
+as phenytoin or valproic
+acid or possibly even
+levotiracetam would
+be put on at the
+same time in order to
+manage the potential
+for seizures later on.
+Pregnancy.
+Benzos, and now
+we're really talking
+about them when they're
+used chronically
+rather than just
+that one or two doses
+that would be used
+for the acute seizure.
+Hypoglycemia,
+respiratory problems,
+neonatal withdrawal,
+and hypotonia.
+This is called floppy
+baby syndrome and
+I've given you a
+picture of it here.
+So this is with
+chronic use.
+Our last one,
+cannabidiol, the
+mechanism is not known.
+It does not appear
+to act on cannabinoid
+receptors.
+It's taken ******
+and it's got
+really massive hepatic
+metabolism, extensive
+distribution.
+Therapeutic uses
+really for these
+refractory seizures
+associated with
+Dravet syndrome, Lennox
+-Gastaut syndrome,
+this tuberous
+sclerosis complex,
+which is a terrible
+seizure disorder.
+Those are the indications
+it's received
+from the FDA.
+Sedation, elevated
+liver enzymes, high
+potential for drug
+interactions. Those
+are the takeaways
+with cannabidiol.
+Oh,
+I'll cover them
+up quickly.
+And what is the
+mechanism of
+action of the
+GABA-A receptor
+-positive allosteric
+modulators?
+What drugs fall
+into this class?
+What are the first
+-line drugs for the
+treatment of
+status epilepticus?
+When treating status
+epilepticus, what
+drug-drug combination
+increases the
+risk of respiratory
+depression? What
+is the explanation
+for the short duration
+of single-bolus
+dose of diazepam?
+And what are the anti
+-seizure indications
+of the pharmaceutical
+cannabidiol?
+So I'll uncover now.
+The drugs bind an
+allosteric side on the
+GABA-A receptor and
+enhance the receptor's
+inhibitory action by
+increasing chloride
+ion influx. Of course,
+we're talking about
+the GABA-A receptor
+-positive allosteric
+modulators, the
+barbiturates, and the benzos.
+First-line drugs for
+status epilepticus,
+lorazepam, diazepam,
+midazolam. Lorazepam
+is used most
+frequently. Diazepam
+might also be used in
+certain situations.
+when treating status
+epilepticus what
+drug-drug combination
+increases the risk
+of respiratory
+depression the benzo with
+the phenobarbital
+and why does diazepam
+a single bolus
+dose have a short
+duration of action
+because of the termination
+of effect by
+redistribution out of
+the CNS into the
+muscle and fat tissues
+And what are
+the indications
+for pharmaceutical
+cannabidiol,
+the anti-seizure
+indications,
+Treves syndrome,
+Lennox-Gasot syndrome,
+and tuberous
+sclerosis complex.
+So I've given you
+some figures here
+of the various
+molecular targets
+of the drugs
+and they've been
+labeled by the
+textbook illustrators.
+And here are some
+more. Just focus on the
+ones we talked about.
+But this gives you a
+big picture that really
+any kind of receptor
+is fair game for blocking
+the seizure activity,
+excitatory synapse
+activity. or
+increasing the
+inhibitory effect.
+The question is,
+are they effective?
+If effective, how
+tolerable are they?
+I'm not going into
+all of those details
+in this lecture.
+I've organized these by
+seizure types, treatment,
+and a summary of
+the adverse effects.
+hopefully these tables
+will help you and
+here are the resources
+and that concludes
+the lectures on the
+anti-seizure drugs
+

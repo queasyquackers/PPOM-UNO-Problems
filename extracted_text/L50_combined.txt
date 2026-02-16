@@ -1,0 +1,3520 @@
+Lecture 50 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+1
+PPOM1 Class of 2029 - Seizures 
+& Epilepsy
+Justin Thomas Popp
+Research Scholar OMS 4
+Email: Jpopp@nyit.edu
+Raddy L. Ramos, PhD
+Assoc. Prof, Biomedical 
+Sciences
+Email: rramos2@nyit.edu
+
+--- Page 2 ---
+Session Objectives
+1) Students will apply the pathophysiology of seizures to 
+distinguish between different types of seizure 
+presentations. 
+2) Discover how genetic mutations can cause epilepsy 
+syndromes. 
+3) The students will be informed about different types of 
+epilepsy therapy approaches. 
+
+--- Page 3 ---
+Seizures Throughout History (Not Tested)
+• The word "seizure" originates from the Latin word sacire, meaning "to take 
+possession of" or "take by force". The word seizure" was first used in the 
+Middle English period (1150—1500).
+• The word "epilepsy" comes from the Greek word epilēpsía, which comes 
+from the verb lambánein, meaning "to seize".The word epilambanein means 
+"to seize, possess, or afflict".
+• Seizures and epilepsy in humans and the concept in general has been 
+documented as early as 2500 BC.In the Homeric Era, people believed that 
+epilepsy was a sacred disease induced by gods.In his work “ On the Sacred 
+Disease”, Hippocrates challenged this perception of a goldy origin of seizures. 
+He proposing that seizures and epilepsy had natural or biologic causes.
+• Epilepticus Sic Curabitur (“the way 
+to cure an epilepticus”) From 
+Sloane Manuscript, collection of 
+medical manuscripts, end of the 
+12th century. Author unknown. 
+One of the first artistic descriptions 
+of epilepsy surgery
+• The pt undergoing trepanation (drilling into skull) and cauterization at 
+simultaneously. 
+• Seizures have been apart of human culture and experience for thousands of 
+years. A lot philosophy behind medical practice was superstition. Trepanation → 
+to drain evil spirits
+• People have been making noble yet rudimentary steps at trying to treat seizures 
+and epilepsy for hundreds of years. Painting depicts a surgical approach. 
+• Careers in neurology with epileptology
+--- Page 4 ---
+Seizures Having Various Clinical Presentations
+• Seizure is a clinical sign. Used for hundreds of years to help clinicians diagnose and try to treat it
+• Different brain regions involved relating to the patient presentation
+• Major Point: All things we experience; every variation of emotion, urge, desire or movement, sensation and 
+perception has underpinning neuroanatomical location(s) that is/are intimately involved in the interpretation 
+and manifestation of that specific experience.
+
+--- Page 5 ---
+Drugs, chemicals, compounds, etc reported to induce seizures 
+Alcohols and glycols
+Anesthetics, general
+*Antibiotics
+Anticonvulsants
+Anticholinergics
+Antidepressants 
+Antifungals
+Antihistamines
+Antineoplastics
+Antiparasitics
+Antivirals
+Asphyxiants
+Cardiovascular agents
+Drugs of abuse
+Drug withdrawal
+Hypoglycemics
+Hydrocarbons
+Immunosuppressives
+Inhalants
+Insecticides
+Metal Chelators
+Insect repellent
+Metals
+Muscle relaxants
+Mushrooms
+Neuroleptics
+Neuromuscular 
+blockers
+NSAIDs 
+Opioids
+*Plants
+*Radiographic contrast 
+media
+Rodenticides
+Sympathomimetics
+Vaccines (due to fever)
+Causes of seizures are diverse 
+- head injury, acute metabolic or electrolyte 
+changes, medications, stroke, tumor, fever, 
+hydrocephaly, infection (neurocysticercosis, 
+COVID-19), etc… )
+- Can be focal (discretely localized to one 
+hemisphere) or generalized (diffusely 
+distributed across both hemispheres.)
+VITAMINS – mnemonic for seizure cause
+Vascular event
+Infection 
+Trauma
+Autoimmune
+Metabolic
+Ingestion or wIthdrawal (ex. Alcohol)
+Neoplasm
+pSych →EEG negative
+Seizure: – clinical sign
+• Transient alteration in CNS sensory, motor, autonomic, and/or 
+cognitive function due to excessive & synchronous abnormal 
+neuronal activity from a population of cells in the brain (neocortex, 
+thalamus, etc). 
+• This excessive & synchronous abnormal neuronal activity leads to 
+disruption in the homeostatic balance between excitation and 
+inhibition. 
+• Can have seizures but not have epilepsy, but cannot have 
+epilepsy without seizures→ strict definition later slide
+• Don’t 
+memorize this
+Pregnancy → Eclampsia
+--- Page 6 ---
+Common Types of Seizures:  behavioral profile
+1] Tonic seizures: stiffening of muscles of the body, generally those in the back, legs, and arms. 
+2] Clonic seizures: repeated jerking movements of muscles on one or both sides of the body. 
+3] Myoclonic seizures: twitches of limited body parts, arms, or legs (https://www.youtube.com/watch?v=dU8R0LCCn6k). 
+4] Atonic seizures/”drop attacks”: loss of muscle tone. The affected person will fall down or may drop his or her head 
+involuntarily. Prone to head/musculoskeletal injury and need helmet. 
+5] Tonic-clonic (Grand mal) seizures: a mixture of symptoms, including stiffening of the body and repeated jerks of the arms 
+and/or legs as well as loss of consciousness. Often preceded by sudden vocalization. Loss of bowel/bladder control during seizure. 
+Sleepiness & confusion follow the seizure (https://www.youtube.com/watch?v=Nds2U4CzvC4).
+6] Absence seizures (Petit mal): the person may appear to be staring into space (change in consciousness). Often go right back 
+to activity after the seizure. (https://www.youtube.com/watch?v=H3iLQi6wt94)
+7] Gelastic seizures bouts of laughing/giggling without other convulsive seizures (https://www.youtube.com/watch?v=x98yqTt754k)
+8] Dacrystic seizures bouts of crying with lacrimation. Often follow bouts of gelastic seizure.
+9] Emetic seizures: convulsive seizure followed by a bout of nausea and vomiting.
+7] Psychogenic seizure: episodes of movements(convulsions),  sensations, or behaviors that are similar to epileptic seizures but 
+do not have a neurologic origin (no signature EEG change)
+--- Page 7 ---
+More on Terminology/Experiential Phenomena
+Convulsion
+• Old and vague term typically used to denote a tonic-clonic seizure
+• May be used to indicate a seizure with prominent motor activity
+Automatism
+• Repetitive motor activities that are coordinated and resemble a voluntary movement but are not purposeful (lip-
+smacking, chewing, swallowing, opening/closing fingers). 
+• This is not tardive dyskinesia!!! D2 receptor antagonism on cholinergic neurons in the striatum of the basal ganglia 
+leads to aberrant and excessive acetylcholine release causing the features of TD. Pt who are manic, or psychotic will get 
+antipsychotic medications in the ED setting, see on rotations. 
+• Many classifications of automatisms (gelastic = bouts of laughing/giggling without other convulsive seizures; dacrystic 
+= bouts of crying with lacrimation. Often follow bouts of gelastic seizure.)
+Sensory/subjective phenomena
+• Visual (occipital lobe) and auditory (temporal lobe) hallucinations (Flickering/flashing lights, visual loss, spots in 
+vision or hearing changes
+• Somatosensory (paresthesia's, shock-like sensations, numbness, pain, or a sense of movement or a desire to move 
+a body part); Gustatory (e.g. metallic taste)
+Experiential phenomena
+• Fear, sadness, elation; 
+• feelings of familiarity (déjà vu) or unfamiliarity (jamais vu); 
+complex hallucination (such as seeing people or hearing music) and illusions (alterations of perception
+--- Page 8 ---
+1] Generalized seizures are a result of abnormal 
+neuronal activity on both sides of the brain & typically 
+cause loss of consciousness, falls, or massive muscle 
+spasms.
+2] Focal seizures occur in one hemisphere or one 
+lobe in one hemisphere. For example, someone might 
+be diagnosed with focal frontal lobe seizures (based on 
+EEG). Partial is old term as well as simple
+ 
+Classifying seizures…always evolving with advances in medicine…
+Operational classification of seizure types by the 
+International League Against Epilepsy: Position 
+Paper of the ILAE Commission for Classification 
+and Terminology.  Fisher et al. 2017 Epilespia
+• Simple Partial → Focal aware
+•  Complex Partial → Focal Impaired awareness
+Old terminology
+New terminology ( know for 
+exam)
+--- Page 9 ---
+Guyton and Hall, Textbook of Medical Physiology
+Seizure Neuroanatomy:
+Cortic-cortical
+Cortico-subcortical
+Thalamo-cortical
+• Spread of epileptic activity 
+through circuits in the brain
+• Vital part of  
+absence seizure 
+pathophysiology
+--- Page 10 ---
+Focal and Generalized Seizures in next slides..
+
+--- Page 11 ---
+Focal Onset: Focal Aware Seizures
+• Formerly called Simple Partial seizures
+• Focal → Originates on one hemisphere of the brain,  
+can become generalized if seizure activity crosses 
+corpus callosum or anterior commissure
+• Automatisms can occur such as involuntary lip-
+smacking or blinking
+• Awareness or mental status is not impaired
+• Focal aware seizures can have auras which are = 
+subjective and experiential phenomena such as 
+alterations of sensory perception (like taste and 
+smell.) The manifestations depend on brain region 
+involved
+– E.g. clonic movement of the left upper extremity 
+indicates right pre-central gyrus seizure activity. 
+Think of the homunculus!!
+
+--- Page 12 ---
+Focal Onset: Focal Impaired Awareness Seizure
+• “FAIS”
+• Formerly known as Complex Partial Seizures (complex = altered 
+mentation)
+• Characterized by altered awareness or mental status during the 
+seizure
+• May be very subtle, manifesting with slight confusion, or 
+slowing of responses
+• May experience amnesia after the event
+• Sometimes difficult to determine if awareness was impaired. 
+– may be totally conscious (Focal-aware) but unable to 
+respond verbally because of aphasia/motor deficit. Pt may 
+be aware during seizure, but seizure is occurring in the 
+Broca’s area, may look like pt cannot follow commands or 
+has alerted mental status
+• Most common location is temporal lobe
+– Common in the uncal formation and the hippocampus → 
+can maybe explain the amnesia a person may experience
+• Most common motor manifestation is automatisms
+
+--- Page 13 ---
+Focal-Aware Seizures: Differences in Origin
+• Frontal and temporal lobe seizures can cause autonomic dysfunction
+• Frontal lobe seizure can cause personality and executive function 
+changes
+--- Page 14 ---
+Generalized Tonic-Clonic Seizure
+• “Grand mal” is an old term 
+• Do not have an aura (such as a flash of 
+light),but may be preceded by a prodrome, 
+which is a vague sense that a seizure will 
+occur; and this can occur days before the 
+seizure happens. May include headache, 
+mood changes, sleep disturbances or 
+anxiety.
+• Seizure onset is abrupt, most often with loss 
+of consciousness and a generalized tonic 
+contraction
+• May be initiated with a series of myoclonic 
+jerks
+• Tonic, clonic and postictal phases --> 
+discussed in next slide.
+
+--- Page 15 ---
+Generalized Tonic-Clonic Seizure
+• Tonic: Upward eye deviation with eyes half open and the mouth open. There is 
+involvement of the respiratory muscles usually produces a forced expiration that 
+produces a loud guttural vocalization, often referred to as the epileptic cry. 
+• Cyanosis may occur during the tonic phase in association with apnea. The tonic phase 
+gradually evolves to clonic activity. 
+• Clonus: Series of rhythmic jerky motions of clonus that slowly decrease in frequency 
+over the course of the seizure
+• Postictal: The individual is limp and unresponsive. 
+• Respiration is loud and snoring → as pt regains control over masseter and other jaw 
+muscles. ABC’s !!! Make sure airway is patent. Pt may awaken briefly with postictal 
+confusion. 
+• Tongue biting common on the side of the tongue→ not a reliable indictor if someone 
+had a seizure. 
+• Incontinence of urine and stool. 
+--- Page 16 ---
+Generalized Seizures: Status Epilepticus
+• Neurological emergency that requires immediate intervention
+• Very clinically relevant concept. “Status” in the ED. 
+• Goal of therapy is to stop seizure activity before neuronal injury → Neuro-excitotoxicity, metabolic 
+homeostasis is altered.  Time is tissue survival, like stroke
+• Definition: seizure that lasts more than a certain number of minutes or a series of seizures in rapid 
+succession without full neurological recovery in the interictal period
+• Typically, status epilepticus is considered at 5 minutes for convulsive seizures and at 10 minutes for 
+nonconvulsive seizures → https://www.uptodate.com/contents/nonconvulsive-status-epilepticus-
+classification-clinical-features-and-
+diagnosis?search=status%20epilepticus%20definition&source=search_result&selectedTitle=4~150&u
+sage_type=default&display_rank=4#H327107905
+• Any seizure can evolve into status epilepticus
+• First line treatment is lorazepam (Ativan) at 0.1 mg/kg/dose, up to 4mg max. 
+(https://pubmed.ncbi.nlm.nih.gov/36610189/) → Dr. Goldstein lectures
+• It is important to recognize that most cases of status epilepticus do not have a history of epilepsy
+--- Page 17 ---
+Generalized Seizures: 
+Focal to Bilateral Tonic-Clonic Seizures
+• A lot of generalized seizures can start as focal-aware or 
+FIAS and progresses to a generalized seizure → due to 
+hypersynchrony of neurons causing pathological action 
+potential firing. I.e one neuron firing in an hyper-
+excitatory, aberrant pattern may cause resting membrane 
+potential of another neuron to be closer to threshold 
+(more likely to fire an AP!!)
+• The pattern of evolution may be clonic-tonic-clonic in 
+some instances. 
+• The bilateral tonic phase may be asymmetrical (e.g. flexion 
+on one side and extension on the other), also known as 
+figure-of-4
+
+--- Page 18 ---
+Generalized Seizures: Absence Seizures
+• Sudden blank stare with motor arrest, usually lasting less than 15 seconds
+• Usually unresponsive and unaware
+• Returns immediately to a baseline level of function with no postictal confusion, important for step exams
+• EEG during absence seizure: 3 -5 hz spike & dome/wave
+• Resemble slow-wave sleep EEG. Behavior during absence seizure resembles a sleep -like state.
+• High-yield for boards
+• EEG hallmark of a typical generalized absence seizure is generalized 3 - to 5-Hz spike-and-wave activity with a normal interictal
+background.
+• Hyperventilation is can be a trigger , can be used for diagnosis 
+ • Clinical presentation may look something like this: A 
+child presents to the pediatrician for complaints of 
+”staring off into space” or ”not paying attention or 
+focusing in class or at home when told to do things”. 
+If absence seizure is suspected, the physician will 
+ask the child to hyperventilate to see if this will elicit 
+an absence seizure. This will help confirm our 
+diagnoses and this pt will be most likely treated with 
+ethosuximide. 
+• Treatment: ethosuximide, non -selective inhibition of 
+Ca+ T-type channel Cav1,Cav2, Cav3 variants 
+• Long term prognosis: most outgrow
+
+--- Page 19 ---
+Generalized Seizures: Febrile Seizures 
+– Affects 2%–5% of all children, mostly between 3 months and 6 years 
+– Most common form of seizure in children
+– Benign in themselves in the vast majority, but do increase the risk of 
+other epilepsies later in life (7% by age 25)
+– Most febrile seizures are generalized tonic-clonic in presentation. 
+– May be prolonged to qualify for the definition of febrile status 
+epilepticus. 
+– Can cause brain injury (especially hippocampus)
+– On step 2 boards, if pt has febrile seizure and you are in the ER, treat 
+with antipyretic such as acetaminophen and discharge the pt once 
+vitals are stable and follow up.
+– There is evidence for strong genetic influence (likely polygenic)
+– Some genetic epilepsy syndromes are known to start with febrile 
+seizures (Especially Dravet syndrome)
+
+--- Page 20 ---
+Jacksonian march (seizure)
+• One kind of a focal aware seizure, so 
+consciousness is not lost or altered and EEG 
+activity is on one hemisphere.
+• Characteristic features of Jacksonian march are (1) 
+it only occurs on one side of the body; (2) Seizure 
+activity on EEG will essentially “ March across the 
+homunculus’ be it somatosensory or motor.
+• This will manifest as twitching or a tingling sensation 
+in a limb or weakness in a finger, a big toe or the 
+corner of the mouth, then marches over a few 
+seconds to the entire hand, foot or facial muscles. 
+This reflects the spread of abnormal neuronal 
+activity to more parts of the brain. 
+Classifying seizures… the importance of behavioral characterization
+https://link.springer.com/rwe
+/10.1007/978-3-319-47829-
+6_1427-1
+
+--- Page 21 ---
+EEG evaluation – gold standard for seizure detection, done after CT/MRI
+Surface EEG
+Epidural EEG
+Intracranial electrode EEG
+• More 
+precision in 
+localizing 
+seizure 
+focus, yet 
+more 
+invasive 
+Spatial & temporal characterization of abnormal activity.
+Psuedo-seizures:
+* Behavioral events that look like seizures but with no 
+epileptiform activity on EEG. 
+* Psych manifestation of some underlying issue.
+* Treat: psychotherapy, though seizures may recur during 
+times of stress
+• Craniotomy 
+and surface 
+electrodes on 
+surface of 
+brain
+• CT= very quick, 
+usually ordered 
+before MRI in 
+most 
+emergency 
+settings. CT will 
+be ordered first 
+in order to rule 
+out any 
+structural 
+defects that 
+may be causing 
+the seizure. MRI 
+is more 
+expensive and 
+can help identify 
+more subtle 
+lesions. MRI’s 
+take longer to 
+complete than 
+CT scans.
+--- Page 22 ---
+What is epilepsy?
+Epilepsy
+:
+Disease
+ or
+ syndrome
+ in
+ which
+ chronic,
+ recurrent,
+ unprovoked
+ seizures
+ is
+ the
+ salient
+ feature
+.
+Diagnosed
+ by
+ extensive
+ clinical
+ work
+-
+up
+i
+.
+e
+.
+ documenting
+ frequency,
+ duration,
+ behavioral
+ profile,
+ etc
+ of
+ seizures,
+EEG,
+ MR
+ Imaging,
+ bloodwork,
+ PMH,
+ age,
+ family
+ history,
+ genetics,
+ diet,
+ lifestyle,
+ etc
+…
+Disease of the brain with: 
+(1) at least two unprovoked seizures >24 hours apart
+(2) One unprovoked or reflex seizure in an individual with a high risk of subsequent seizures (e.g., after 
+traumatic brain injury, stroke, CNS infections)
+(3) diagnosis of an epilepsy syndrome
+• Seizures and epilepsy are not just about neurons. Mutations can cause defects 
+in astrocytes, endothelial cells and channels associated with these structures. 
+*Think about tripartite synapse
+65 MILLION: Number of people around the world who have epilepsy.
+3.4 MILLION: Number of people in the United States who have epilepsy.
+1 IN 26 people in the United States will develop epilepsy at some point in their lifetime.
+150,000: Number of new cases of epilepsy in the United States each year
+6 OUT OF 10: Number of people with epilepsy where the cause is unknown.
+       
+ Epilepsy Foundation
+• About 1 in 100 people in the U.S. 
+has had a single unprovoked 
+seizure or has been diagnosed 
+with epilepsy
+• BETWEEN 4 AND 10 OUT OF 
+1,000: Number of people on 
+earth who live with active 
+seizures at any one time.
+--- Page 23 ---
+• All effect ADL and quality of life for patients 
+and family. 
+• Increased mortality due to  a number of 
+factors.
+• All these syndromes have salient features 
+that help distinguish one condition from 
+another differentiate each 
+• Don’t memorize this
+• Effects all ages, diverse clinical syndromes 
+that separate each syndrome from the other
+• Age of onset matters a lot, adolescent vs 
+neonatal, etc
+• Epilepsy fellow will be familiar with these 
+syndromes
+• More epilepsy syndromes to come in later 
+slides
+Incomplete List of Epilepsy Syndrome
+--- Page 24 ---
+1. Structural/metabolic: (MRI/CT positive)
+A distinct condition or disease that has been demonstrated to be 
+associated with a substantially increased risk of developing 
+epilepsy.  
+• Neuronal migration, brain malformation ex later. Visible on MRI
+2. Genetic: (MRI/CT Negative)
+a direct result of a known or presumed genetic defect(s) in which 
+seizures are the core symptom of the disorder.
+• Genetic mutations encoding for Ach, GABA, Glutamate 
+receptors, Na+, K+, Cl- ion channel. Not generally visible on 
+MRI 
+3.Unknown/idiopathic
+Causes of epilepsy
+These categories 
+are becoming 
+blurred due to 
+increased use of 
+genomic sequencing 
+in clinical medicine.
+--- Page 25 ---
+Neocortical malformations are associated with epilepsy
+Lissencephaly- no sulci/ gyri 
+Smooth
+Double-cortex syndrome Periventricular nodular heterotopia
+Callosal dysgenesis or agenesis
+Hemi-meganencephaly
+• Different issue 
+compared to 
+people who get 
+corpus 
+callosotomies to 
+treat seizures
+Correction: 
+Neurons 
+caught in 
+subcortical 
+white 
+matter in 
+DCX!!
+--- Page 26 ---
+• Malformations of neocortical development 
+• Neurocutaneous syndromes (Tuberous sclerosis, Sturge-Weber syndrome)
+• Brain Tumor
+• Infection (meningitis, AIDS, neuroinflammation)
+• Trauma Head injury (25% acute seizures; 10 -25% chronic epilepsy)
+• Brain Angioma/ vascular malformation 
+• Peri-natal insult (fetal anoxia)
+• Stroke (11% of all new cases of adult-onset epilepsy)
+Note: In next slides we will go over a lot of different types of epilepsy and seizures. 
+For your studying and your exam, look for SALIENT and Distinguishing features in 
+the descriptions of each disorder . This will help you distinguish one disorder from 
+another .
+• Ex) genes, patient presentation, inheritance, age of patient, etc… --> tying these 
+concepts together for each disorder is what Dr . Ramos and myself will test you on 
+Structural/Metabolic causes of both seizures and epilepsy
+
+--- Page 27 ---
+Selected Epilepsy Syndromes (Testable on 
+Exam): Dravet Syndrome
+• De novo mutation in SCN1A gene - encoding the α-1 sodium channel subunit of voltage-
+gated sodium channel in neurons. 
+• SCN1A gene mutation has been shown to make Nav 1.1 Na+ channel in neurons open more 
+easily, open for longer periods of time, or re-open faster after closing. More AP’s fired!!
+• Good example of epilepsy syndrome with known gene and direct mechanism related to 
+membrane physiology of neurons (action potentials)
+• MRI Positive or Negative?
+• Also called severe myoclonic epilepsy of infancy
+• Typical clinical presentation: previously normally developing infant has febrile status 
+epilepticus at 6 months old, then get recurrent generalized seizures often triggered by 
+fever.
+• After 1 year of age, other seizure types appear, including myoclonic seizures, absence 
+seizures, and focal-impaired-awareness and atonic seizures
+• The prognosis is poor (intellectual disability, ataxia and spasticity)
+--- Page 28 ---
+Cacna1H/ Cacna1A mutations & Absence 
+Epilepsy
+• Thalamus has Thalamocortical relay cells (TCR neurons) which are involved in the regulation of 
+sleep-wake states as well as transmission of sensory inputs to the neocortex for conscious 
+appraisal. When TCR neuron are hyperpolarized (more negative charge inside cell)  this 
+cause de-inactivation of Type T Ca2+ channels and eventual creation of burst firing 
+patterns seen in absence epilepsy and SWS. Gates incoming sensory info to cortex. Tonic 
+mode occurs in (Ach) depolarized TCR neurons (awake and rem sleep)
+• TCR neurons have 2 modes, Tonic and burst. Tonic mode occurs in depolarized TCR neurons 
+and this permits consistent signal transmission along TCR neurons. Occurs in REM and 
+wakefulness.
+• Excessive calcium influx through the Type T Ca2+ channels in a hyperpolarized TCR neuron is 
+the mechanism from burst mode.  This locks the TCR neurons into the characteristic 3 hz spike 
+and dome patterns. This oscillation pattern inhibits transmission of external environmental 
+stimuli.
+• The Cacna1H mutation thalamic Type T Ca2+ channels of Thalamocortical relay cells cause 
+aberrant calcium influx into TCR neurons during wakefulness of patients with absence epilepsy, 
+causing the EEG finding shown.
+• Cacna1a gene may also be implicated in disease process.
+ 
+• Treatment: ethosuximide, non -
+selective inhibition of Ca+ T-type 
+channel Cav1,Cav2, Cav3 
+variants
+• Long term prognosis: most 
+outgrow
+.
+
+--- Page 29 ---
+Lennox Gastaut syndrome
+• Lennox-Gastaut Syndrome (LGS) is a lifelong, developmental epileptic encephalopathy
+• Onset before age 8, with peak onset between the ages of 3 and 5. 
+• A recent study estimates the incidence of LGS to be between 14.5 and 28.0 per 100,000 individuals, 
+with a prevalence ranging from 5.8 to 60.8 per 100,000 individuals*
+• Characterized by frequent seizures, including atonic, tonic, and atypical absence seizures → 
+creates neuropsychiatric issues such behavioral disorders and intellectual disabilities. 
+• LGS can arise from genetic mutations, cortical malformations, brain tumors, neurocutaneous 
+disorders such as tuberous sclerosis complex, hypoxic-ischemic injury, meningitis, or head trauma. 
+No singular cause. However, in approximately 40% of cases, no identifiable cause is found
+• EEG findings may include interictal 2.5 Hz slow spike-wave discharges and generalized 
+paroxysmal fast activity during sleep.
+• Gene to know: GABRB3 mutation, implicated in LGS pathophysiology, makes beta-3 subunit of 
+GABA-A receptor
+• Diagnosis relies on clinical presentation, EEG findings, brain magnetic resonance imaging, and 
+genetic testing.
+• LGS significantly impacts patients' quality of life, placing considerable strain on caregivers and 
+healthcare systems. Multidisciplinary care needed.
+--- Page 30 ---
+Landau-Kleffner Syndrome
+• Landau-Kleffner syndrome (LKS) is a rare age-related epileptic encephalopathy of children aged roughly 3 to 
+8 years old with previously normal neuropsychiatric development. 
+• Disorder is characterized by language regression and seizures and is often associated with social cognitive 
+deficits.
+• Disorder characterized by a developmental regression Broca's and Wernicke's areas, and 
+electroencephalogram (EEG) anomalies located in those areas. 
+• New onset receptive and then later expressive aphasia in previously normally developing individual is 
+hallmark of this disease
+• The seizures, if present, are mainly absence seizures or tonic-clonic episodes which may occur more often 
+during sleep.
+• Disorder associated with the GRIN2A gene
+• This gene makes GluN2A protein:This protein is a subunit of NMDA receptors in neurons.
+• NMDA receptors:These are crucial glutamate-gated ion channels in the brain that control the flow of sodium, 
+exciting neurons and transmitting signals.
+• Role in the brain:NMDA receptors are known to be involved in learning, memory brain development, and 
+synaptic plasticity.
+
+--- Page 31 ---
+Autosomal dominant partial epilepsy with 
+auditory features (ADPEAF)
+• Autosomal dominant epilepsy with auditory features (ADEAF) is a focal epilepsy syndrome
+•  During the seizure, a patient may have auditory symptoms i.e humming, buzzing, or ringing and/or receptive 
+aphasia 
+• The receptive (Wernicke’s) aphasia during the seizure consists of a sudden onset of inability to understand spoken or 
+written language without general confusion. 
+• Other less common symptoms during the seizure may include visual, olfactory, vertiginous, motor, and autonomic 
+symptoms.
+•  Age at onset is usually in adolescence or early adulthood (age 10-30 years). The clinical course of ADEAF is benign. 
+Seizures are usually well controlled after initiation of medical therapy.
+• Since this this disorder has an AUTOSOMAL DOMINANT inheritance. Use Family History to potentially help you 
+make the diagnosis. If similar presentations have occurred in the patient’s family before, this may help you in making 
+your differential diagnosis. Rates of de novo pathogenetic mutations are very low 
+• Mandatory criteria to make diagnosis include a normal MRI, as well as Focal sensory auditory seizures and/or 
+focal cognitive seizures with receptive aphasia without generalized confusion during the seizure.
+• Genes to know that are implicated in this disorder include LGI1, MICAL1, or RELN. 
+• Know RELN for test→ codes for Reelin
+
+--- Page 32 ---
+Zitelli & Davis’ Atlas of Pediatric
+Physical Diagnosis, 7th ed.
+Sturge-Weber Syndrome
+• Nice example of a disorder with a known gene, robust 
+physical/clinical presentation, characteristic MRI signature
+• Congenital nonhereditary anomaly of neural crest derivatives. 
+**Somatic mosaicism of an activating mutation in one copy of 
+the GNAQ gene. GNAQ gene vital for blood vessel 
+development
+• Somatic Mosaicism: DNA mutations or alternations in copy 
+number of cellular genomes occur post-fertilization that create 
+two distinct populations of cells. Somatic mosaicism mutations 
+are not inherited, but genetic mosaicism mutations can be. 
+• Capillary vascular malformations → port- wine stain in Cranial 
+N. V1/V2 distribution; risk of neuro-ocular issues
+• ipsilateral leptomeningeal angioma with calcifications → 
+seizures/ epilepsy; intellectual disability; early-onset 
+glaucoma.
+Port wine stain
+--- Page 33 ---
+Endothelial cells & epilepsy – Glut1 gene (glucose transporter) →GLUT1 
+deficiency syndrome
+GLUT1 deficiency 
+syndrome
+- symptoms can include 
+developmental delay, 
+intellectual disability, 
+movement problems, and 
+frequent seizures (diverse 
+types of seizures like atonic, 
+tonic-clonic, etc).
+- Problem in vascular transport 
+out of blood into brain
+- Hypoglycorrhachia: low 
+concentration of glucose in 
+the CSF
+- Think of BGL as your 6th vital 
+as a clinician!!!• Glut 1 in brain. Glut 4 mostly in skeletal 
+muscle and adipose
+• Astrocytes get glucose from cerebral arteries. 
+Astrocytes transform glucose to lactate and help 
+shuttle lactate to neurons for ATP production
+• Trouble transporting 
+glucose from cerebral 
+arteries into 
+astrocytes 
+Ex) after ruling out 
+infectious 
+agent/meningitis and 
+the patient has had 
+a seizure and you 
+see low glucose in 
+the CSF, think about 
+this disorder as a 
+potential cause of 
+the seizure
+--- Page 34 ---
+Astrocytes & Epilepsy: EAST Syndrome
+EAST syndrome: KCNJ10 gene→ 
+Epilepsy, ataxia, sensorineural deafness 
+and kidney tubulopathy. 
+• KCNJ10 gene encodes an ATP-sensitive 
+K+ channel found only in astrocytes 
+(Kir4.1)→ encodes channel for astrocyte to 
+clear out extracellular potassium. 
+• Too much potassium in extracellular space 
+results in depolarization of neurons – 
+hyperexcitability. Remember the massive 
+role of K leak channel in RPM maintenance
+. 
+
+--- Page 35 ---
+Astrocytes & Epilepsy: Glutamine deficiency 
+syndrome
+https://www.researchgate.net /figure/Glutamin
+e-synthesis-and-hydrolysis-Glutamine-is-
+mainly-synthesized-by-the-
+enzyme_fig1_328480694
+Glutamine deficiency 
+syndrome: 
+• Mutation of Glul gene, encodes 
+glutamine synthetase, preferentially 
+expressed in astrocytes. 
+• Onset of seizures in the first days or 
+weeks of life. Affected infants show 
+severely impaired psychomotor 
+development with hypotonia, 
+spasticity, lack of speech, poor visual 
+fixation, feeding difficulties may 
+necessitating tube feeding.
+• Increased ammonia may contribute to 
+developmental issues. GABA/glutamate 
+balance is disrupted 
+• Glutamine hit with enzyme glutaminase → 
+glutamate → GABA +Co2  via glutamate 
+decarboxylase ( in neurons )
+--- Page 36 ---
+DEE- Developmental and epileptic 
+encephalopathy 41
+DEE41 syndrome: 
+•  Mutation of EAAT2 (Excitatory amino 
+acid transporter) gene →  too much 
+glutamate in extracellular space results in 
+depolarization of neurons – 
+hyperexcitability.Characterized by the 
+onset of seizures in the first days or 
+weeks of life. Affected infants show 
+severely impaired psychomotor 
+development with hypotonia, spasticity, 
+lack of speech, poor visual fixation, and 
+feeding difficulties sometimes 
+necessitating tube feeding
+https://onlinelibrary.wiley.com/doi/10.1111/jnc.13200
+--- Page 37 ---
+Zitelli & Davis’ Atlas of Pediatric Physical Diagnosis, 7th ed.
+• Neurocutaneous disorder with autosomal 
+dominant inheritance pattern (genes identified in 
+1990’s)
+• TSC1 chrom 9q → hamartin: tumor 
+suppressor (downregulates mTOR)
+• TSC2 chrom 16p → tuberin: tumor suppressor 
+(downregulates mTOR)
+• Genes involved may explain hamartoma 
+presence in various systems
+• Clinical mnemonic (ASHLEAF)
+• Ashleaf spots
+• Shagreen patches (skin hamartoma)
+• Heart rhabdomyosarcoma
+• Lung hamartomas
+• Epilepsy (brain hamartomas)
+  – difficult to control→ can cause 
+seizures 
+• Angiomyolipoma in kidney
+• Facial angiofibroma
+Tuberous Sclerosis
+• mTOR=mammalian target of 
+rapamycin. Involved, in cell 
+growth, autophagy and 
+metabolism
+Ashleaf spot Shagreen patch
+Facial 
+angiofibroma
+Brain Hamartomas
+--- Page 38 ---
+Hypothalamic hamartoma & seizures
+JL Freeman et al 2004
+• Gelastic seizures bouts of laughing.
+• Dacrystic seizures bouts of crying.
+• Child may experience early puberty and
+irritability and aggression between seizures due to 
+premature GnRH elevations and pulsations
+• Treatment includes surgical resection.
+• Brain hamartoma made up of 
+neurons and glia. Not a tumor, 
+just abnormal proliferation of  
+tissue type in the area
+
+--- Page 39 ---
+• About 30% cases are intractable. Minimal 
+Pharmacological treatment
+• Temporal lobe epilepsy accounts for 70% of 
+intractable epilepsy
+• MTLE usually manifest as Generalized Tonic-
+clonic seizure. Starts most commonly in 
+hippocampus (MTL)
+• MTL Sclerosis = scarring and volume loss 
+(atrophy) of medial temporal structures 
+(most notably hippocampus)
+• Dx: MRI 
+• Characterized by neuronal loss and gliosis of 
+the hippocampus and adjacent structures
+• Unclear Pathophysiology of MTS
+Medial Temporal Lobe Epilepsy 
+Lee TS et al. 2006
+Sclerosis in 
+this 
+hippocampus
+--- Page 40 ---
+Autoimmune Encephalopathies: Rasmussen 
+Syndrome (RAS-muss-en)
+• Rasmussen Syndrome is a rare pediatric encephalitis that effects one 
+hemisphere of the brain .
+• 1.8 to 2.4 out of every 10 million people annually, or 0.18 per 
+100,000 people, usually in previously normally developing 
+pediatric boys (aged 6 -8 most common)
+• Drug resistant seizures are a hallmark feature 
+• T-cell-dominated encephalitis with activated microglial cells 
+and reactive astrogliosis is apparent on histopathological 
+examination. What is causing this microglia activation and 
+subsequent astrogliosis is unknown. No antigen that CNS immune 
+cells attack has been identified
+• Characterized by recurrent seizures, delayed developmental 
+milestones, progressive cognitive decline. This can be acquired via 
+through medical history.
+•  neuroimaging with chronic inflammatory changes, and 
+progressive hemispheric atrophy
+• In short, we really don’t know what causes this disease
+• Treatment involves a hemispherectomy of the affected brain 
+lobe/hemisphere
+
+--- Page 41 ---
+Autoimmune Encephalopathies: NMDA Encephalitis
+• Anti-NMDA Receptor encephalitis is the most common (one affected out of 1.5 million people per year) 
+autoimmune encephalitis
+• IgG antibodies against the NR1 subunit of the NMDA receptors in the central nervous system(CNS) are a 
+hallmark of this disease. Unlike Rasmussens, we have an idea about what antibody is attacking what antigen. 
+These antibodies are identifiable in the serum or the cerebrospinal fluid (CSF)
+• Plasma exchange helps reduce amount of Anti-NMDA receptor antibodies in serum
+• Seems to be triggered by viruses such as Herpes simplex or ovarian teratomas (tumor)
+• Transvaginal ultrasonography is the most crucial test for young women presenting with the illness due to the 
+high incidence of underlying ovarian teratoma. 
+• As with most autoimmune disorders, women aged 25-35 are most commonly affected 
+• 5 clinical Stages: prodromal phase, psychotic phase, unresponsive phase, hyperkinetic phase, and recovery phase.
+1. Prodrome: can mimics common viral infections.
+2. Psychotic: Psych symptoms in adults. Includes visual or auditory hallucinations, acute schizoaffective episodes, depression, mania, apathy, 
+anxiety, fluctuating sensorium, bizarre behaviors, hypersexuality, aphasia, amnesia, sleep-wake cycle disruption or eating disorders can appear 
+rapidly within days to weeks in these patients with no prior psychiatric diagnosis. Children who are affected suffer less psych symptoms and 
+more from movement disorders and seizures in this period
+3. Unresponsive phase: unresponsive phase characterized by mutism, decreased motor activity, and catatonia
+4. Hyperkinetic phase: Lip and tongue smacking common, as well as autonomic instability
+5. Recovery of language function and behavioral symptoms occurs at the end.
+--- Page 42 ---
+Treatments
+• Goal of Therapy:
+• Ex: seizure freedom! >> reduction in seizure frequency, no complex 
+seizures, simple partial seizures only 
+• Pharmacological → future Dr. Goldstein lecture
+• Surgery
+• Brain stimulation 
+• Vagus Nerve Stimulator – increase parasympathetic tone
+• Ketogenic Diet – not entirely understood mechanism. May effect cellular 
+metabolism enough to increase seizure threshold. Usually diet minimal 
+in carbohydrates, this stimulates lipolysis ketone release from liver (liver 
+cannot use ketones as energy) which may effect resting neuronal 
+membrane potential and overall proclivity to fire action potential
+• Stress Modulators
+• Yoga
+• Acupuncture
+• Seizure Alert Dogs
+
+--- Page 43 ---
+Stimulation of the hippocampus and temporal cortex for intractable epilepsy
+Hippocampus - bilateralTemporal cortex
+Jobst BC et al. 2010
+Similar approach to pace- 
+maker for cardiac arrhythmia
+Effective in some patients
+Can be combined with other 
+therapy modalities
+--- Page 44 ---
+Deep brain stimulation of the thalamus for intractable-epilepsy
+Zumsteg D et al. 2006 Similar approach to pace- maker for cardiac arrhythmia
+Effective in some patients (50%+ reduction in seizures after 5-6yrs; 
+Andrade et al. 2006)
+Can be combined with other therapy modalities
+
+--- Page 45 ---
+Surgical resection treatment of MTL epilepsy
+Chong S et al. 2018
+• Goal – to destroy the abnormal circuits that initiate generalized seizures
+• Challenge – to NOT destroy circuits important for other functions in activities of daily living.
+• Last resort type of option  
+--- Page 46 ---
+Hemispherectomy
+• Patients with unilateral epilepsy that is poorly controlled with 
+medication are candidates for this type of surgery.
+• Given how invasive this is, would you expect this to be done in 
+adults or peds more? And what difference accounts for this reason?
+
+--- Page 47 ---
+Callosotomy for the treatment of epilepsy
+Goal: to limit epileptic activity to one hemisphere while preserving the callosal 
+connections important for behavior. Prevent focal seizure from becoming a generalized 
+seizure
+Splenium left intact
+--- Page 48 ---
+Conclusions
+• Seizures & epilepsy
+– Definitions: of seizure vs epilepsy. Seizure type ex) 
+dacrystic vs gelastic 
+– Types of seizures: focal onset vs generalized.. 
+Jacksonian March, febrile seizures etc..
+– Causes of epilepsy and example syndromes: 
+Dravet’s syndrome, Absence Epilepsy..
+– Treatments for epilepsy: Surgery, Deep Brain 
+Stimulation or Vagus Nerve Stimulator among 
+others
+--- Page 49 ---
+Question
+• A 9 year-old pt is brought to his pediatrician for ”spacing out” in both class and at home. During these episodes, the 
+pt is seen abruptly stopping what he was doing. He then turns his head at an angle and look up at the ceiling for 
+about 10 seconds. After this, the pt resumes what he was doing before the episode without any confusion or 
+amnesia after the event. 1) What should the pediatrician do to help establish a diagnosis in this poor patient? 2) 
+What is the drug used to treat this patient? 3) What is the theorized mechanism of action of the drug? 4) What major 
+brain pathway or tract is affected by this condition?
+A) Hyperventilation of the pt, Levetiracetam, SVA2 synaptic vesicle binding in presynaptic neuron, thalamocortical 
+circuits
+B) Hypoventilation of the pt, ethosuximide, partially blockage of T-type calcium channels in thalamic neurons, 
+corticospinal tract
+C) Hyperventilation of  the pt, carbamazepine, blockage of presynaptic voltage gated Na+ channels, Cerebral 
+Peduncle
+D )Hypoventilation of the pt, carbamazepine, blockage of presynaptic voltage gated Na+ channels, thalamocortical 
+circuits
+E) Hyperventilation of the pt, ethosuximide, partially blockage of T-type calcium channels in thalamic neurons, 
+thalamocortical circuits
+--- Page 50 ---
+Answer
+E) Hyperventilation of the pt, ethosuximide, partially 
+blockage of T-type calcium channels in thalamic neurons, 
+thalamocortical circuits
+--- Page 51 ---
+Question
+• A 75 year-old man with no past medical history presents to the ED with a complaint of abnormal twitching of his 
+right upper arm for the past 2 minutes. The man said he was completely aware he was having a seizure and did 
+not lose consciousness. The patient has no other neurological complaint and has had no neurological issues in the 
+past. After CT and MRI was completed, EEG was positive for seizure activity. Which of the following is true about 
+this patient?
+• A) This patient is having a generalized seizure with seizure activity in the motor cortex bilaterally 
+• B) This patient is having a focal impaired awareness seizure in the motor cortex bilaterally 
+• C) This patient is having a focal aware seizure in the left motor cortex 
+• D) This patient is having a focal aware seizure in the right motor cortex
+• E) This patient is in status epilepticus and needs lorazepam
+--- Page 52 ---
+Answer 
+C)This patient is having a focal aware seizure in the left motor cortex
+--- Page 53 ---
+Question
+Pt is  9 year old male who presents in the outpatient clinic after being admitted and treated 
+for a seizure. The seizure lasted about 3 minutes and the pt’s mother said they had no 
+altered consciousness but a change in visual perception during the seizure. On physical 
+exam, there are several hypopigmented skin patches on the neck of the patient. On the 
+face of the patient, there are malformations made of fibrous tissue and blood vessels. 
+What is one of the two genes involved in the pathogenesis of this disorder?
+A) GNAQ
+B) Hamartin (TSC1)
+C) Kir 4.1
+D) SCN1A
+E) Cacna1H
+--- Page 54 ---
+Answer
+• Hamartin (TSC1)
+--- Page 55 ---
+Question
+A 7-year-old boy with previous normal neuropsychiatric development presents with to the family med 
+physician after being discharged 2 weeks ago from the hospital for a tonic-clonic seizure. About 6 
+months ago, the mother states her child is  having trouble following commands and listening. Now the 
+patient's mother states her child is not speaking as well as he previously did as is. EEG shows 
+abnormalities in what correlates to Broca's and Wernicke's areas. What is the Diagnosis ad the gene 
+implicated in the pathogenesis of the diagnosis?
+A) Absence Seizures, Cacna1H 
+B) EAST Syndrome, KCNJ10 
+C) Sturge Weber Syndrome, GNAQ
+D) Autosomal dominant partial epilepsy with auditory features, RELN
+E) Lennox Gastaut syndrome, GABRB3
+--- Page 56 ---
+Answer
+E) Lennox Gastaut syndrome, GABRB3
+--- Page 57 ---
+Feedback is welcomed
+• https://comresearchdata.nyit.edu/redcap/surveys/?
+s=HRCY448FWYXREL4R
+Input Output
+Feedback
+--- Page 58 ---
+References
+• Stuart M. Cain, Terrance P. Snutch,T-type calcium channels in burst-firing, network synchrony, and 
+epilepsy,Biochimica et Biophysica Acta (BBA) - Biomembranes,Volume 1828, Issue 7,2013,Pages 1572-
+1578,ISSN 0005-
+2736,https://doi.org/10.1016/j.bbamem.2012.07.028.(https://www.sciencedirect.com/science/article/pii/S0
+00527361200260X)
+
+
+--- Transcript Content ---
+Hello, class of 2029.
+My name is Justin
+Popp, and I'm here
+today to give you
+a lecture on seizures
+and epilepsy.
+Dr. Randy Ramos
+helped me create this
+lecture, and I just want
+to thank him for all
+the help and guidance
+along the way, as well
+as him helping me
+through my scholarly.
+Here are our
+emails if you
+guys have any questions.
+These are the
+assessment objectives
+for you to read
+at your own time.
+I'm not going to talk
+about much of the
+history here. This
+is more background
+information for
+you to think about
+and realize how far
+we've come in terms
+of society and the
+stigma around seizures
+as well as the
+treatment of them.
+This slide is also
+here to show you that
+all three of these
+people are having
+seizures, yet they look
+physically different.
+You see a little
+child staring off
+into space. You see
+a man on the floor
+posturing with his
+arms extended, and you
+see a man staring
+off into space here.
+And these are
+different types of
+seizures that
+we'll get into, but
+the point is
+that seizures can
+present in various
+different ways.
+And that is
+because of the area
+affected might
+be different.
+Area of the
+brain might be
+different
+that's affected.
+so a seizure is a
+transient alteration in
+cns sensory motor
+autonomic and or cognitive
+function due to
+excessive and synchronous
+abnormal neuronal
+activity from a
+population of cells
+in the brain and that
+could be in the
+neocortex or the thalamus
+for example this
+excessive and synchronous
+abnormal neuronal
+activity leads to a
+disruption in the
+homeostatic balance between
+excitation and
+inhibition of neurons.
+Important to note,
+you can have seizures
+but not have epilepsy,
+but you cannot
+have epilepsy without
+seizures. We'll
+get into a strict
+definition later on.
+Some causes of seizures
+include head trauma,
+acute metabolic
+or electrolyte
+changes,
+medication, ******,
+tumor, fever, especially
+common in children,
+hydrocephaly,
+infection, etc. And the
+seizures can be
+focal, meaning it's
+discreetly localized
+to one hemisphere or
+generalized. And that
+means it's diffusely
+distributed across
+both hemispheres.
+This vitamins
+mnemonic can help you
+remember some causes
+of seizures. So
+V, vascular event,
+infection, trauma,
+autoimmune,
+metabolic ingestion,
+or withdrawal of alcohol.
+Neoplasm, you could have
+psychiatric seizures
+where you display
+symptoms of a seizure,
+but your EEG is
+negative, and pregnancy,
+and that's through
+eclampsia, which you'll
+learn about in your
+reproductive slash OB-GYN
+section of your medical
+school education.
+And these are also
+some drugs, chemicals,
+and compounds
+that are known to
+induce seizures,
+and you could see
+it's vast, so just
+things to be aware
+of when you get out
+into into the clinic
+and actually
+practicing medicine.
+So these are some
+different terminologies
+that you'll see here.
+I'm not going to go over
+all of them. I would
+recommend you read these
+on your own and also
+watch the YouTube
+video clips as it'll
+help cement and help you
+retain the information
+and the categorization
+of the seizure by
+watching an actual person
+unfortunately suffer
+that type of seizure.
+Some important
+ones to note, you
+have tonic seizures
+where you see
+a stiffening of
+the limbs, whether
+it's the back,
+arms, and legs.
+Anything that says
+colonis or colonis or
+clonic is repeated
+jerking movements of
+muscles on one or
+both sides of the
+body. It's like,
+imagine like swatting a
+fly repeatedly out of
+your face. You could
+have a tonic or drop
+attack seizures.
+And these patients
+who suffer these may
+need a helmet to
+prevent head trauma.
+You have your tonic
+-clonic grand
+mal seizures,
+absence seizures,
+where the person may
+look like they're
+staring off into space
+and they'll go right
+back to their regular
+activity with no
+postictal confusion.
+You could have gelastic
+seizures of both
+with laughing and
+giggling without other
+convulsive seizures, as
+well as you could have
+digrastic seizures with
+bouts of crying, or
+emetic seizures followed
+by bouts of nausea
+and vomiting. And I
+mentioned psychogenic
+seizures earlier,
+where a person may sort
+of act like they're
+having a seizure with
+no neurological origin
+and a negative EEG.
+And this is
+usually treated
+with psychotherapy. be.
+So more terms. The
+term convulsion is old
+and vague, and it was
+used to denote a tonic
+-clonic seizure, and
+it may be used to
+indicate a seizure
+with a prominent motor
+activity. Another term
+you should know is
+fortimatism, and this
+is a repetitive motor
+activity that are
+coordinated and resemble
+voluntary movement but
+are not purposeful, such
+as lip smacking,
+chewing, swallowing. A
+point I would like to
+make here is this is
+not tardive dyskinesia.
+Tardive dyskinesia
+happens when you give
+D2 antagonizing drugs
+to psychotic patients
+such as haloperidol.
+This D2 receptor
+antagonism on the
+cholinergic neurons
+in the striatum of the
+basal ganglia will
+lead to aberrant and
+excessive acetylcholine
+release, which
+causes the feature of
+tardive dyskinesia.
+Patients who are manic
+or psychotic will
+get these medications
+like I described.
+But what I want to
+mention is that this
+tardive dyskinesia may
+look like an automatism
+clinically. However,
+the neuronal
+path of physiology
+underlying
+these two conditions
+is different.
+You may also have
+sensory or subjective
+phenomena. If the seizure
+is in the occipital
+lobe. You might have
+visual symptoms,
+auditory symptoms if it's
+in the temporal lobe.
+Hallucinations
+might also occur
+with seizures in
+the temporal lobe.
+You may have
+paresthesias,
+sock-like sensations,
+numbness, pain
+if the seizure is
+occurring in the
+somatosensory cortex,
+for example. And
+you may also have
+experiential phenomena
+such as fear,
+sadness, elation,
+or feelings
+of deja vu or jamie vu.
+This slide is to
+show you guys that
+this is the classification
+of seizures.
+A point I'd like
+to make is that
+there is some old
+terminology here.
+I am not telling
+you much about
+the old terminology
+because I'm not
+trying to confuse
+you. However,
+I would like to
+mention some of the old
+terminology. So for
+example, A focal aware
+seizure was originally
+called a simple
+partial. So what I
+have here is that the
+simple is an old term
+for consciousness
+not being affected,
+so the patient's
+aware. So simple was
+aware. Simple is now
+aware. and you see
+complex is referring to
+impaired awareness
+while partial is
+referring to the focal
+nature, meaning one
+hemisphere of the
+brain is only affected.
+But we'll go through
+all of these.
+We'll go through
+this categorization.
+This new terminology
+is the terminology
+you need to know
+for your exam.
+So this diagram
+is just for you to
+understand how seizure
+activity can spread
+from one region of the
+brain to the other.
+So if we look at
+this diagram here,
+so what we see
+is that you have
+a seizure focal
+region. Let's
+say it's in the
+cortex somewhere.
+This seizure, this region
+can send seizure signals,
+hypersynchronous,
+aberrant neuronal
+activity. It may cross
+the corpus callosum.
+It may be going
+through the internal
+capsule. It may
+cross the anterior
+commissure to another
+region of the brain.
+And that is how
+this signal spreads.
+And you see dye is
+injected here into one
+part of the cortex.
+It crosses midline
+and then goes into
+the other area of
+the exact mirror
+image of the opposite
+side of the cortex
+here. And you can
+also see it goes
+subcortically as well.
+you might have
+seizure activity that
+starts somewhere else
+in the cortex that
+goes to the thalamus
+and this then spreads
+diffusely across a
+lot of other brain
+regions and it's
+important to realize
+these thalamocortical
+pathways here are
+vital in the pathology
+of absinon seizures
+and you can see that
+here you have some
+dye injected into
+the thalamus and you
+could see it spreading
+into the cortex.
+So let's start with
+the categorization
+and a little bit about
+each of these
+types of seizures.
+So you have focal
+aware seizures. These
+were your simple
+partial seizures and
+focal means it originates
+in one hemisphere
+of the brain and it
+can be generalized
+if the seizure
+activity crosses the
+corpus callosum or
+anterior commissure.
+Automatisms are
+common such such
+as lip smacking
+or blinking, and
+important to note
+that awareness
+or mental status
+is not impaired.
+Vocal aware seizures
+can have auras, which
+are subjective
+experiential phenomena,
+such as alterations
+of sensory
+perception like
+taste or smell, and
+naturally these
+manifestations
+depend on the brain
+region involved.
+And another example
+I'd like to give
+here is that imagine
+clonic movement
+in the left upper
+extremity of the
+patient may indicate
+right precentral
+gyrus seizure
+activity. And I like to
+say, think of your
+homunculus, right?
+Next, you have focal
+impaired awareness
+seizures. These
+are your complex
+partial seizures,
+where you have
+complex meaning
+altered mentation.
+And it's naturally
+characterized
+by altered
+awareness or mental
+status during
+the seizure.
+And it may start very
+subtly manifesting
+with slight
+confusion or slowing
+of responses, and
+the patient may
+experience amnesia
+after the event.
+A point I'd like
+to make is that
+it's sometimes
+difficult to
+determine if awareness
+was impaired.
+For example,
+you may be totally
+conscious you might
+have a focal aware
+seizure, but not be able
+to respond to verbal
+stimuli because
+of the seizure being
+located in Broca's
+area. So you may be
+aware during the seizure,
+but if the seizure
+is occurring in
+Broca's area, it may
+look like you can't
+respond to people
+around you, and it might
+seem that your
+awareness is impaired.
+The most common
+location for these
+seizures is the
+temporal lobe,
+specifically the oncus
+and the hippocampus,
+and this may
+explain some of the
+amnesia a person may
+experience. And the
+most common manifestation
+is automatisms.
+The most common motor
+manifestation
+is automatisms.
+So I put this slide up
+here to realize that
+truly how a person
+presents with their
+seizure truly does
+depend on what part of
+your brain is actually
+experiencing seizure
+activity. So for
+example, you have your
+motor cortex and your
+somatosensory cortex,
+your central sulcus
+dividing them. And if
+you have seizure
+activity on different
+areas of the motor strip
+or the somatosensory
+cortex, you'll have
+different symptoms.
+Maybe if the seizure
+activity is located
+medially on the
+motor cortex, you
+might have leg
+twitching, for example.
+While a little
+bit more laterally
+on the motor
+strip, you might
+have grimacing,
+for example.
+If the seizure
+is located in the
+occipital lobe, you
+might see scotomas,
+flashes of light,
+for example. It's in
+the auditory cortex.
+You might experience
+ringing, hissing,
+or other noises.
+And another thing
+to realize is that
+frontal and temporal
+lobe seizures may cause
+autonomic dysfunction,
+and frontal lobe
+seizures can cause
+personality and executive
+function changes
+during the seizure.
+Moving on to
+generalized tonic-clonic
+seizures, the old
+term, maybe some of you
+have heard this, is
+a grand mal seizure.
+These seizures usually
+do not have an aura,
+such as a flash of
+light, but it may be
+preceded by a prodrome,
+which is a vague sense
+that a seizure will
+occur. And this can
+happen days before the
+seizure occurs, and
+this may include a
+headache, mood changes,
+sleep disturbances,
+or even anxiety.
+Seizure onset is
+abrupt, most often with
+loss of consciousness
+and generalized
+tonic contraction,
+and it may be
+initiated with a series
+of myoclonic jerks.
+And there's usually
+three phases, a tonic,
+colonic, and postictal
+phase, which we have
+described here. So
+the tonic phase might
+manifest its upward
+eye deviation with your
+eyes half open and
+your mouth wide open as
+well. There may be
+involuntary movement
+of the contraction of
+your respiratory muscles,
+and this produces a
+forced expiration.
+This is your
+epileptic cry.
+I would Google this and
+try to listen to it.
+It's quite scary. and
+it'll also help you
+remember sort of what
+that sounds like and
+might make you think
+what a patient might be
+feeling when they're
+having this experience.
+Cyanosis may occur
+during the tonic stage
+in association with
+apnea and then the
+tonic phase gradually
+evolves to a clonic
+activity and the clonic
+activity is a series
+of rhythmic jerks that
+slowly decrease in
+frequency over the
+course of the seizure.
+and during the postictal
+phase the individual
+is limp and unresponsive
+so post meaning
+after and ictal
+refers to seizure so
+this is just after the
+seizure the patient
+will be limp and
+unresponsive respirations
+may be loud and snoring
+as the patient starts
+to get control over
+their masseter and
+other jaw muscles please
+remember your abcs
+make sure the patient's
+airway is patent
+in the postictal
+phase because, like I
+said, they're starting
+to regain control of
+these muscles, and
+they might not have a
+patent airway, and that
+would be very bad if
+the airway of the
+patient is not patent.
+Tongue biting is
+common, but it's not
+necessarily a
+reliable indicator if
+someone had a seizure,
+and the patient may
+have incontinence
+of urine or stool.
+so this concept status
+epilepticus is a
+board's favorite it's
+very clinically relevant
+which is why we're
+talking about it status
+epilepticus is a
+neurological emergency
+that requires immediate
+intervention and the
+goal of the therapy
+is to stop seizure
+activity before neuronal
+injury occurs and
+this might be due to
+excitotoxicity and
+metabolic homeostasis
+being altered like ******
+time is tissue survival.
+And the definition
+is a seizure that lasts
+more than a certain
+number of minutes or
+a series of seizures
+in rapid succession
+without full
+neurological recovery in
+the interrectal period.
+Typically, status is
+considered at five
+minutes for convulsive
+seizures and at
+10 minutes for non
+-convulsive seizures.
+I leave it to Dr.
+Goldstein to teach
+you more about the
+treatment of this,
+but usually first
+line is Ativan.
+And another fact
+I'd like to mention
+is that most
+cases of status
+do not have a
+history of epilepsy.
+Moving on, focal
+to bilateral
+tonic-clonic seizures.
+So a lot of generalized
+seizures can start
+as focal-aware or focal
+-impaired awareness
+seizures and progress
+to a generalized
+seizure. And this
+is due to your
+hypersynchrony of neurons
+causing pathological
+action potential
+firing. So for example,
+one neuron firing in
+a hyper excitatory
+aberrant pattern
+may cause resting
+potential of another
+neuron to be closer
+to threshold. And
+that makes it more
+likely to fire an
+action potential.
+And what you see
+here is the spread of
+the dye going from one
+area, one hemisphere
+of the brain to
+the other. And this
+shows how seizure
+activity actually can
+spread from one
+hemisphere to the other.
+Another board's
+favorite type of seizure
+to talk about are
+absence seizures. These
+manifest a sudden
+blank stare with motor
+arrest, usually lasting
+less than 15 seconds.
+During the seizure,
+the patient is usually
+unresponsive and
+unaware, but they
+return immediately
+to a baseline level
+of function with no
+postictal confusion.
+Very, very important
+to know for your exam
+and the boards is the
+EEG during absence
+seizure shows these
+three to five hertz spike
+and dome wave formations
+that you see here.
+This is pathognomonic
+for absence seizures,
+and you are very
+likely to be tested on
+this both for your comp
+and on your boards.
+And another thing I'd
+like to mention is
+that hyperventilation,
+it can actually
+be used to trigger
+and thus diagnose the
+seizure. And I give
+you this example here.
+A child may present
+to the pediatrician
+for complaints of
+staring off into space
+or not paying attention
+or focusing in
+class or at home when
+told to do things.
+If you rule out some sort
+of issue like autism,
+a learning disability,
+speech issues,
+etc., and a
+physician suspects
+abson seizure, the
+physician can ask
+the child to
+hyperventilate to see if
+this will elicit
+an napson seizure.
+And then before the
+hyperventilation
+occurs, you could
+hook EEG electrodes up
+to the patient's
+brain, ask them to
+hyperventilate, and you
+may see this pattern
+here. And then
+you can make your
+diagnosis, and then
+your treatment is with
+ethosuxamide, which
+is a non-selective
+inhibitor of key T
+-type calcium channels.
+And we'll get into a
+little bit more of this
+in a later slide,
+but the long-term
+prognosis, most of these
+patients outgrow this.
+another board's favorite
+febrile seizures
+and this affects two
+to five percent of
+all children mostly
+between three months
+and six years old and
+it is the most common
+form of seizure in
+children they are
+benign in themselves
+in the vast majority
+but do increase the
+risk of other epilepsies
+later in life
+unfortunately most
+febrile seizures are
+generalized tonic-clonic
+in their presentation
+and this poor little
+child, you can see
+the toes, the fingers,
+and the patient's
+lips are cyanotic.
+And these seizures
+can cause brain
+injury, especially
+in the hippocampus.
+For your boards, if
+a patient, usually
+a child, has a febrile
+seizure and you're
+in the emergency
+room, you can treat
+with an antipyretic
+such as acetaminophen
+and discharge your
+patient once vitals
+are stable and
+follow up with them.
+And there is a
+strong evidence
+for genetic
+influence of these
+disorders. It's
+likely polygenic.
+And some genetic
+epilepsy syndromes
+are known to
+start with febrile
+seizures, especially
+Gervais syndrome,
+which we'll get
+into a little bit.
+So this type of seizure
+is a Jacksonian march.
+You can imagine that
+it's one kind of focal
+aware seizure. so
+consciousness is not
+lost or altered, and
+EEG activity is on one
+side of one hemisphere
+of the brain. But
+why it's called a
+Jacksonian march is because
+seizure activity seems
+to march from one
+area on the motor strip
+or the somatosensory
+cortex to the other.
+So a patient might
+manifest with twitching
+or tingling sensation
+in a limb or weakness
+in a finger. Then
+you might have
+weakness or tingling in
+their big toe or your
+corner of your mouth,
+and then the seizure
+marches over to other
+areas as you see here.
+So the seizure might
+start here at midline,
+affecting the knee,
+and it might march
+all the way over, and
+now the patient's jaw
+or lips are twitching.
+And this represents
+the spread of
+the abnormal
+neuronal activity
+to different parts
+of the brain.
+so eeg is the gold
+standard for evaluating
+seizures after ct
+and m or mri is done
+quick point to note is
+that ct scans are very
+quick usually ordered
+before mris in most
+emergency settings a
+ct scan will be ordered
+first in order to rule
+out any structural
+defects that might be
+causing the seizure
+while your mri is
+more expensive it can
+help identify more
+subtle lesions, and MRIs
+take longer to complete
+than CAT scans.
+So what we see here
+is that you have
+different types of
+EEGs that you can
+use. As you can see
+with this arrow here,
+as we move through
+these different
+types of EEGs, you
+have more precision
+in localizing a
+seizure foci. However,
+it's more invasive.
+So you can plant
+surface electrodes
+on a patient's
+scalp in this
+first example here.
+You also can plant
+electrodes on
+the surface of a
+patient's brain.
+After doing craniotomy
+here, it looks like
+maybe it's on the
+arachnoid layer here.
+And you would also
+put intracranial
+electrodes into
+the patient's
+brain, as you
+can see here.
+And what's cool about
+the EEG is that you
+have different leads.
+For example, you have
+a frontal lobe lead,
+a temporal lobe
+lead, an occipital
+lobe lead. And this can
+be shown on both sides
+of the brain, for
+example. And what you
+see here is this is
+normal activity. However,
+what you see here
+is in the generalized
+seizure is activity
+in all of these lobes
+here, for example,
+both in the frontal,
+the temporal, and
+the occipital, while
+a partial seizure
+or a focal seizure
+might only be
+in one lobe, for
+example. So this might
+just be a frontal
+lobe seizure or
+a temporal lobe
+seizure. for example.
+I mentioned pseudo
+-seizures before,
+psychiatric seizures,
+where the patient
+might be acting
+like they're having
+a seizure, maybe
+they're twitching,
+maybe their muscles
+are shaking,
+but your EEG is
+negative, and the
+treatment for this
+is psychotherapy.
+So what is epilepsy,
+right? Epilepsy is a
+disease or syndrome in
+which chronic, recurrent,
+unprovoked seizures
+are the salient
+feature. It is diagnosed
+by an extensive clinical
+workup, example
+documenting frequency,
+duration, behavioral
+profile of the seizures.
+You can use EEG, MR
+imaging, blood work,
+past medical history,
+age, family history,
+etc. And it's also
+a disease of the
+brain with one, at
+least two unprovoked
+seizures greater
+than 24 hours apart.
+It's also one unprovoked
+or reflex seizure
+in an individual
+with a high risk of
+subsequent seizures,
+example after a TBI,
+******, or CNS
+infection, or there's
+just a diagnosis of
+an epilepsy syndrome.
+A key point here
+that I want to
+make is that
+seizures and epilepsy
+are not just
+about neurons.
+Mutations can cause
+defects in astrocytes,
+endothelial cells,
+and other channels
+associated with these
+structures. Think about
+your tripartite
+synapse, and I'll try to
+talk about some good,
+have some good images
+later in the slides
+here to show you.
+And just some stats
+here. Look at this.
+One out of 26 people
+in the U.S. will
+develop epilepsy at
+some point in their
+life. This affects
+a lot of people. And
+that's not to say you
+can become a neurologist
+and get a fellowship
+in epilepsy and
+really make an impact
+on some of these
+patients' lives and
+do a lot of good. So
+this is an incomplete
+list of epilepsy
+syndromes, but
+the point is that
+all of these affect
+activities of
+daily living and
+the quality of life
+for the patients
+and their family.
+There's naturally an
+increased mortality
+due to a number of
+factors, but a key
+thing is that all of
+these syndromes have
+key salient features
+that help distinguish
+them from one
+syndrome from another.
+And epilepsy affects
+all ages. There's
+diverse clinical
+syndromes that
+separate each syndrome
+from the other.
+Age of onset matters
+a lot, and we'll
+go through some of
+these differences
+between the different
+syndromes here.
+And also realize
+an epilepsy
+fellow will be
+very familiar with
+a lot of these
+syndromes here.
+so the purpose of
+this slide is to
+realize that before
+we had advanced
+genetic analyses
+to try to figure
+out why someone was
+having a seizure
+the first thing that
+we would do is take
+an mri or a ct of
+someone having a seizure
+and sometimes this the
+mri the imaging would
+be negative or positive
+and if it's positive
+you could see a
+distinct condition or
+disease um that might
+be causing the seizure
+for example you might
+see a neuronal migration
+pattern or brain
+malformations we might
+see this we'll see this
+later and this will
+be visible on mri
+however you might have a
+genetic mutation encoding
+for some channel,
+or a neurotransmitter
+related to some channel,
+such as acetylcholine,
+GABA, or glutamate
+receptors, sodium,
+potassium, or chloride
+ion channels. These
+mutations aren't visible
+on an MRI, but these
+converging arrows are
+showing that with
+genetic analyses, we can
+understand why structural
+issues with brain
+migration patterns
+or issues with ion
+channels might be causing
+the patient seizure.
+And these categories
+are becoming
+blurred due to
+the use of genomic
+sequencing in
+clinical medicine.
+So neochaurical
+malformations that can be
+associated with
+epilepsy. You have least
+encephaly. There's no
+sulky or gyri. It's
+a very smooth brain,
+as you can see here.
+You have your double
+cortex syndrome,
+where some neurons
+fail to migrate
+out of the
+ventricular zone here.
+You also have
+periventricular
+nodule heterotopia.
+That might be a
+cause of epilepsy.
+Here you have
+hemimegalaencephaly,
+where one side
+of the brain is
+larger than the other.
+And you could also have
+colossal dysgenesis
+or agenesis.
+And this is a different
+issue compared
+to people who get corpus
+callosotomies to
+treat their seizures,
+which we'll get into
+in a little bit.
+So there are different
+structural or
+metabolic causes of
+seizures in epilepsy.
+You could have
+malformations of neocortical
+development that I
+mentioned before a
+little bit. You may
+have neurocutaneous
+syndrome, such as
+tuberous sclerosis or
+Sturge-Weber syndrome.
+Brain tumors can
+cause seizures,
+infection, head trauma,
+vascular malvernations,
+fetal anoxia, as well
+as strokes, which 11
+% of all new cases of
+adult onset epilepsy
+are caused by strokes.
+And now, in the next
+slides, we're going
+to go over a lot of
+different types of
+seizures and epilepsy.
+For your studying for
+your exam, look for
+salient and distinguishing
+features in the
+descriptions of
+each disorder, and
+this will help you
+distinguish one disorder
+from another. So, for
+example, look at
+the genes involved,
+patient presentation,
+inheritance, age, etc.
+Tying these
+concepts together
+for each diagnosis
+is what Dr.
+Ramos and myself
+will test you on.
+So, one of the selected
+epilepsy syndromes
+we have is Dervais
+syndrome, and this is
+caused by a de novo
+mutation in the scn1a
+gene and this encodes
+the alpha 1 sodium
+channel subunit of
+voltage gated sodium
+channels in neurons
+this gene has been shown
+to make nav 1.1
+sodium channels and
+neurons open more easily
+open for longer periods
+of time or reopen
+faster after closing
+and naturally this
+leads to more action
+potentials being fired
+and this is a good
+example of an epilepsy
+syndrome with a
+known gene mutation
+and a direct mechanism
+related to membrane
+physiology of neurons.
+And this is an example
+of where your MRI
+would be negative. And
+you might, and back in
+the day, if you were
+to take an MRI of
+this patient's brain,
+you would not know what's
+causing this person's
+seizure. However,
+genetic analyses
+are helping
+bring this to
+light of what's
+causing this
+patient seizure.
+To a typical clinical
+presentation,
+you'll see a
+previously normally
+developing infant that
+has febrile status
+epileptics at six
+months years old.
+Then this patient
+will get recurrent
+generalized seizures,
+often triggered by a fever.
+After one year of age,
+other seizure types
+may appear, including
+myoclonic seizures,
+abson seizures,
+and focal-impaired
+awareness and
+atonic seizures.
+Unfortunately, this
+prognosis is poor.
+The patient may
+suffer intellectual
+disability, ataxia,
+and spasticity.
+So next, we're
+moving on to absence
+seizures. The gene here
+to note is CACNA1H.
+And I'll go into the
+pathophysiology a
+little bit, but I'll
+leave it to another
+professor to talk about
+it. But essentially,
+what's something to
+think about is you have
+thalamocortical relay
+cells, which in your
+thalamus that go to
+your cortex that are
+involved in the
+regulation of sleep-wake
+states, as well as
+transmission of sensory
+inputs to the
+neocortex for conscious
+appraisal. When the TCR
+neurons are hyperpolarized,
+meaning more negative
+charge inside
+the cell, this causes
+a de-inactivation of
+type T calcium channels
+and the eventual
+creation of burst
+firing patterns seen in
+absence epilepsy as
+well as slow-life sleep.
+Importantly, this
+gates incoming sensory
+info to the cortex
+and blocks appraisal
+of the incoming
+sensory information
+from your environment.
+This explains why
+patients who are
+having an absent
+seizure seem to stare
+off into space and
+can't respond to
+their environment.
+And going on,
+when these type T
+calcium channels
+are de-inactivated,
+excessive calcium
+influx through the type
+T calcium channel
+essentially causes
+this burst mode to
+occur, and it locks
+these thalamicocortical
+neurons in this
+sort of three hertz
+spike and dome pattern
+oscillation that
+inhibits the transmission
+of external
+environmental stimuli.
+And we treat this with
+ethosuxamide, which
+blocks these type
+T calcium channels.
+So it's important
+to realize the
+pathophysiology and very
+important to realize
+the gene involved and
+know your spike in
+dome, three to five
+hertz pattern here.
+Another syndrome to
+understand is Lennox
+-Gutztow syndrome. And
+this is a lifelong
+developmental epileptic
+encephalopathy
+that occurs usually
+before age of 8 with
+a peak onset between
+ages 3 and 5. A recent
+study estimates
+the incidence to be
+about 14.5 to 28 per
+100,000 individuals.
+And it's characterized
+by frequent seizures
+including a tonic
+as well as atypical
+absence seizures. This
+leads to neuropsychiatric
+issues such as
+behavioral disorders
+as well as intellectual
+disabilities.
+Lennox-Disco can
+arise from genetic
+mutations, cortical
+malformations, brain
+tumors, neurocutaneous
+disorders such as
+tuberous sclerosis,
+as well as hypoxic
+ischemic injury. So
+the point is that there
+is no singular cause,
+and in about 40% of
+cases, there is no
+identifiable cause.
+An important EEG
+finding to know is an
+interrectal 2.5 Hz slow
+spike wave discharges
+and generalized paroxysmal
+fast activity during
+sleep. However, we're
+less likely to test
+you on that EEG pattern,
+but what I would
+definitely know is the
+GABRB3 mutation that
+is implicated in this
+disorder, and this
+makes a beta-3 subunit
+of a GABA receptor.
+So you can imagine
+maybe if a GABA receptor
+isn't functioning
+correctly, you have less
+GABA, or the activity
+of GABA is sort of
+disrupted, and this may
+disrupt your excitation
+inhibition balance of
+the neurons in your
+brain, and this may
+lead to your seizure.
+The diagnosis
+relies on a clinical
+presentation,
+EEG findings,
+brain MRI imaging, as
+well as genetic testing.
+LGS significantly
+impacts patients' quality
+of life, and this places
+considerable strain
+on caregivers and
+healthcare systems, and
+usually multidisciplinary
+care is needed.
+Another syndrome, Landau
+-Kleffner syndrome,
+and this is a rare
+age-related epileptic
+encephalopathy of
+children aged roughly
+three to eight
+years old with a
+previously normal
+psychiatric development.
+It's important
+to realize that
+this can be
+distinguished from
+Lennox-Gastaut
+syndrome by language
+regression and
+seizures in Broca's and
+Wernicke's area, and
+there is often associated
+with a social
+cognitive deficit. Like
+I mentioned before,
+this disorder is
+characterized by the
+developmental regression
+of Broca's and
+Wernicke's areas and
+EEGs may show seizures
+in these areas.
+So the patient
+may present with
+new-onset receptive
+and then later
+expressive aphasia
+in a previously
+normally developing
+individual.
+The seizures, if
+present, are mainly
+absence or tonic
+-clonic episodes, which
+may occur more
+often during sleep.
+Importantly, the gene
+involved is this G
+-R-I-N-2-A gene, And
+this gene makes a
+subunit of MDMA
+receptors in the neurons.
+And naturally,
+MDMA receptors have
+implications in
+learning, memory,
+brain development,
+etc. et cetera.
+Another epilepsy
+syndrome is autosomal
+dominant partial
+epilepsy with auditory
+features. So this is
+an autosomal dominant
+inheritance pattern
+epilepsy that is a focal
+epilepsy syndrome. And
+during the seizure,
+a patient will have
+auditory symptoms such
+as humming, buzzing,
+or ringing, and or
+a receptive aphasia.
+The Wernicke's aphasia
+during the seizure
+consists of a sudden
+onset inability to
+understand spoken or
+written language without
+general confusion.
+Less commonly, a
+patient will have
+visual olfactory or
+autonomic symptoms.
+The age of onset
+is around 10
+to 30 years old,
+and the clinical
+course is
+actually benign,
+and the seizures are
+usually well controlled
+after the initiation
+of medical therapy.
+Something that'll
+help you remember
+this for your test
+is that the seizure
+is autosomal dominant
+in inheritance.
+So naturally, use
+family history
+to help you make
+the diagnosis.
+If similar presentations
+have occurred
+in the patient's
+family before,
+this will definitely
+help you make
+the diagnosis, as
+rates of de novo
+pathogenic mutations
+are very low.
+So mandatory
+criteria to make
+the diagnosis
+include a normal
+MRI, as well as
+focal sensory,
+auditory seizures,
+and or focal cognitive
+seizures with receptive
+aphasia without
+generalized confusion
+during the seizure. There
+are various genes that
+are involved in this,
+but the one that I
+chose for you to know
+is RELN, which actually
+encodes for realin.
+So next is Sturge-Weber
+syndrome, and this
+is a nice example of a
+disorder with a known
+gene, a robust clinical
+physical and clinical
+presentation and a
+classic MRI signature.
+So this is a congenital
+non-hereditary
+anomaly of neural crest
+cell derivatives, and
+the pathogenesis involves
+somatic mosaicism
+of an activating
+mutation in one copy of
+the GNAQ gene. The
+GNAQ gene is vital for
+blood vessel development.
+Remember, somatic
+mosaicism involves
+genetic DNA mutations
+or alterations in copy
+number of cellular
+genomes that occur post
+-fotolarization that
+create two distinct
+populations of cells.
+And what we see here
+is that it involves
+specific regions of
+the brain. You see this
+unilateral picture here
+of where you see an
+ipsilateral leptomeningeal
+angioma with
+calcifications. And you
+also see a port wine stain
+here involved in the
+V1 or V2 distribution.
+And this also
+increased the risk
+of neuroocular
+issues as well.
+So you may have
+intellectual
+disability or early
+onset glaucoma.
+So another syndrome
+that actually doesn't
+involve neurons directly,
+it actually involves
+astrocytes, is the
+GLUT1 deficiency
+syndrome. So it's
+important to realize that
+astrocytes get glucose
+from cerebral arteries.
+Astrocytes then
+transform glucose to
+lactate to help shuttle
+lactate to neurons
+for ATP production.
+However, what we see here
+in this diagram here
+is that you have this
+GLUT1 transporter in
+the endothelial cell.
+However, if there's
+a mutation in this
+GLUT1, it's hard to
+transport glucose from
+the blood vessel, from
+the endothelial cell
+into the astrocyte,
+and if that doesn't
+happen, how can the
+astrocyte then send glucose
+or lactate to the
+nerve cell for fuel?
+So this is an issue
+where you have
+an issue that's
+actually not occurring
+in a neuron, rather
+an astrocyte,
+or I'm sorry, an
+endothelial cell.
+And something to
+think about is after
+ruling out infectious
+age through
+meningitis, and the
+patient has had a seizure,
+and you see low
+glucose in the CSF,
+think about this
+disorder as a potential
+cause, as
+hypoglycorrhokia, or low
+concentration of
+glucose in the CSF, is a
+very defining feature
+of this syndrome.
+Symptoms may include
+developmental
+delay, intellectual
+disability, movement
+problems, and
+frequent seizures.
+Another syndrome is
+EAST syndrome. EAST
+syndrome involves a
+mutation in the KCNJ10
+gene, and this presents
+with epilepsy, ataxia,
+and sensoriminal
+deference, as well as
+kidney tubulopathy.
+And what we see here is
+that this gene encodes
+for an ATP-sensitive
+potassium channel
+that's only found in
+astrocytes and this
+gene encodes for a
+channel for astrocytes to
+clear out extracellular
+potassium going
+back to membrane
+physiology remember
+that too much potassium
+in the extracellular
+space results in
+depolarization of
+neurons as this actually
+makes the threshold
+for firing it raises it
+raises resting membrane
+potential of the
+neuron closer to
+threshold. And remember the
+massive role of potassium
+leak channels in
+maintaining resting
+membrane potential.
+And we have the
+tripartite synapse
+here, where we see
+the gene encoding
+the KIR 4.1 channel
+that's essentially
+involved in
+shuttling potassium
+out of the synapse
+into the astrocyte.
+Now, the next syndrome
+we're going to
+talk about is glutamine
+deficiency syndrome.
+And this mutation
+of the one gene
+that includes glutamine
+synthase that is
+preferentially
+expressed in astrocytes.
+So the onset of the
+seizures will occur in
+the first few days of
+life or weeks of life.
+Affected infants will
+show severely impaired
+psychomotor development
+with hypotonia,
+spasticity, lack of
+speech, poor visual
+fixation, as well as
+feeding difficulties that
+may necessitate a feeding
+tube. Now, what we
+see here is that the
+GLU1 gene includes
+glutamine synthetase
+here that's involved in
+the conversion of
+glutamine to glutamine. And
+naturally, if this gene
+and this enzyme are
+deficient, you're
+going to have a buildup
+of reactants and one
+of those reactants is
+actually ammonia and
+it's possible that the
+increased ammonia may
+contribute to developmental
+issues and naturally
+from this your
+GABA and glutamate
+balance can be disrupted
+and it's also important
+to realize that
+glutamine is hit with
+this enzyme glutaminase
+and it converts,
+glutamine gets converted
+back to glutamate
+here, and glutamate is
+actually then hit
+with another enzyme,
+glutamate decarboxylase,
+and that turns
+glutamate to GABA, and
+that occurs in neurons.
+Another syndrome is
+developmental and
+epileptic encephalopathy
+41, DEE 41, and this
+occurs because of a
+mutation of the EAA2
+excitatory amino
+acid transporter. And
+the issue here, as
+you see, is that there
+is too much glutamine
+in the extracellular
+space. And glutamine,
+as we know, is an
+excitatory
+neurotransmitter. And this
+causes depolarization
+of neurons leading to
+hyperexcitability
+and the propagation
+of aberrant
+action potentials.
+So we see the EAA2
+gene on what probably
+is an astrocyte here
+that's responsible
+for shuttling glutamate
+that's released
+from the presynaptic
+neuron back into the
+glia out of the synapse
+so that glutamate
+can't bind to its
+receptor and cause the
+polarization of the
+postsynaptic neuron.
+It's characterized by
+the onset of seizures
+in the first days or
+weeks of life. affected
+infants may show
+severely impaired
+psychomotor activity with
+hypotonia, spasticity,
+or a lack of speech or
+poor visual fixation.
+So naturally, there are
+very similar presenting
+manifestations
+here between these
+two types of
+syndromes, but the
+most important thing
+I would know is
+your gene. If you
+know the gene,
+you will be
+able to get the
+answer it right
+on the test.
+Next, a board's favorite,
+tubular sclerosis.
+This is a neurocutaneous
+disorder with
+autosomal dominant
+inheritance pattern,
+and the genes were
+identified in the
+You have two genes
+here, TCS1 and TSC2.
+So what we see here
+is TCS1 is encoding
+hermitin, while TSC2
+is encoding tuberin.
+Both of these
+things actually down
+-regulate mTOR, and
+mTOR is the mammalian
+target of rapamycin.
+that's involved in
+cell growth, autophagy,
+and metabolism.
+So you can imagine
+that if cell growth
+is not downregulated,
+you will have
+essentially hermitomas
+in different
+areas of your body.
+So for example,
+a shade green patch is
+just a hyperproliferation
+of some type of
+skin cells here.
+Brain hermitomas
+here also can occur.
+You could also get
+an ash leaf spot,
+which is a piece of
+area of hypopigmented
+skin, as well as a
+facial angiofibroma.
+And it's important to
+realize a harmatoma
+is a proliferation
+of tissue that's in
+the area affected. So
+if I have a harmatoma
+in my brain, for
+example, it will be
+composed of neurons
+or glia, for example.
+And your mnemonic,
+the clinical
+mnemonic, is ash
+leaf. So you have
+ash leaf spots,
+shea green patches,
+heart rhabdomyosychomas,
+lung hematomas, and
+brain hematomas that
+will cause your
+epilepsy. And these
+seizures are very
+difficult to control.
+You could also have
+angiomyolipomas in the
+kidney as well as
+facial angiofibromus.
+you could also have a
+hypothalamic hermitoma
+and seizures from that
+and what we see here
+is the hypothalamus
+is big because there
+is a abnormal proliferation
+of the cells there
+and like I said before
+hermitoma is just
+an abnormal proliferation
+of the tissue type
+in the area so this
+cell this mass here is
+just made of neurons
+and glia. And very
+important to note, this
+hypothalamic hormatoma
+can cause gelastic or
+dicrastic seizures. And
+also important to
+realize that a child may
+experience early puberty
+and irritability,
+as well as aggression
+between seizures due to
+********* GNRH or
+gonadotropin-releasing
+hormone elevations and
+pulsations, which you'll
+learn about into your
+endocrine section.
+And so, well, think
+about this. This
+could also help you
+make your diagnosis.
+Maybe we give
+you that in the
+question, for
+example, mention
+that in the stem
+of it, right?
+And the treatment of this
+includes surgical
+resection.
+Next, medial temporal
+lobe epilepsy.
+30% of these are
+inretractable, and
+pharmacological
+treatment is minimal.
+and temporal lobe
+epilepsy accounts for
+about 70% of
+intractable epilepsies.
+MTLE usually manifests
+as generalized
+toniclonic seizures
+and they most
+commonly start in
+the hippocampus.
+And medial temporal
+lobe sclerosis, what
+you see here is you
+have scarring and a
+loss of volume and
+atrophy of the medial
+temporal lobe structures,
+most notably of
+the hippocampus. What
+we see here is that
+you have sclerosis in
+this hippocampus, and
+you could see some
+atrophy of some of
+these hippocampal cells
+here in the image.
+And the pathophysiology
+underlying MTS is
+medial temporal lobe
+sclerosis is unknown.
+another very rare
+clinical syndrome is
+rasmussen syndrome
+named after a canadian
+neurosurgeon and it's a
+rare pediatric encephalitis
+that affects one
+hemisphere of this brain
+this very pathognomonic
+mri showing how
+one half of the brain
+is inflamed uh what you
+see here is It's a T-cell
+-dominated encephalitis
+with activated
+microglial cells, and
+it creates a reactive
+astrogliosis that is
+apparent on histiopathological
+examination.
+It's very rare. You
+have a 1.8 to 2.4
+out of every 10 million
+people affected,
+and so it's very
+uncommon, and it
+usually presents in
+normally developing
+pediatric boys age
+6 to 8 most common.
+um going back to this
+activation of microglial
+cells and reactive
+astrogliosis what's
+causing this microglial
+activation and
+subsequent astrogliosis
+is unknown no antigen
+that cns immune
+cells attack has been
+identified it's
+characterized by recurrent
+seizures delayed
+developmental milestones
+as well as progressive
+cognitive decline and
+this can be acquired
+throughout through
+a medical history
+neuroimaging will show
+chronic inflammatory
+changes and progressive
+hemispheric atrophy.
+In short, we really
+don't know what causes
+this disease, and
+the treatment involves
+a hemisphere rectomy
+of the affected brain
+lobe or hemisphere.
+A disorder that's
+actually coming
+a little bit more
+to light, and we
+figured out a little
+bit more about
+it recently, is
+NDMA encephalitis.
+So this is actually
+one of the most common
+encephalitis. It
+occurs in one out
+of every 1.5 million
+people per year.
+And pathognomonic disorder
+are IgG antibodies
+forming against
+the NR1 subunit of
+the NDMA receptors of
+the central nervous
+system. This is a
+hallmark of the disease.
+I would know this
+fact for your test.
+Unlike Rasmussen
+syndrome, we actually have
+an idea about what
+antibody is attacking
+antigen, and these
+antibodies are identifiable
+in the serum or the
+CSF. Plasma exchange
+helps reduce the
+amount of anti-MDMA
+receptor antibodies
+in the serum, and this
+disorder seems to be
+triggered by viruses such
+as ****** simplex or
+ovarian teratomas,
+which is a type of tumor
+you'll learn about.
+And with that being
+said, transvaginal
+ultrasonography is
+a very crucial test
+for young women presenting
+with the illness
+due to high incidence
+of underlying
+ovarian teratomas with
+NEMA encephalitis.
+As with most autoimmune
+disorders, women
+aged 25 to 35 are most
+commonly affected.
+Here are some of these
+five clinical stages.
+You could have a
+prodrome phase that
+might mimic a viral
+infection. There's a
+psychotic phase where you
+might have psychiatric
+symptoms, including
+visual or auditory
+hallucinations, even
+acute schizoaffective
+episodes, depression,
+mania, apathy, etc.
+There's the next,
+the unresponsive
+phase where the patient
+might be mute with
+decreased motor
+activity or catatonia.
+After that,
+you evolve to a
+hyperkinetic phase with
+lip and tongue smacking
+as well as autonomic
+instability.
+And then five is a
+recovery of language and
+behavioral symptoms
+that occur at the end.
+And I like this
+syndrome because it
+really makes you think
+that maybe psychiatric
+conditions and
+neurological conditions
+aren't that different
+because you're
+having a neurological
+disorder causing
+psychiatric symptoms.
+And it's a very
+interesting disorder
+where it's sort of
+affecting a person
+from both a neurologic
+as well as a
+psychiatric standpoint.
+something that actually
+interests me
+very, very much.
+So treatments,
+right? We talked
+a lot about some
+of these disorders.
+What can we
+do about them?
+The goal of the therapy
+is seizure freedom
+or to at least reduce
+seizure frequency,
+have seizures that don't
+affect consciousness
+or at least take a
+generalized seizure
+down to a focal
+seizure, for example.
+Dr. Goldstein
+will teach you a
+lot about the
+pharmacology here.
+Some types of seizures
+and epilepsy can
+be treated with surgery,
+as well as brain
+stimulation, as
+well as vagal nerve
+stimulators, as
+shown here, that can
+essentially increase
+parasympathetic tone.
+Interestingly enough,
+a ketogenic diet might
+actually help seizures.
+The mechanism is
+entirely understood.
+It may affect cellular
+metabolism enough to
+increase the seizure
+threshold. Usually a diet
+minimal in carbohydrates.
+This can stimulate
+lipolysis of ketones
+from the liver, which
+may be affecting
+resting membrane potential
+and overall proclivity
+of neurons to fire
+action potentials.
+There's also roles for
+yoga, acupuncture, etc.
+So what we see here is
+that we could actually,
+if someone has
+intractable epilepsy in
+the temporal lobe, you
+could actually stick
+an electrode in the
+patient's brain and
+sort of monitor electrical
+activity in that
+area of the brain.
+It's kind of like a
+pacemaker for cardiac
+arrhythmia, where you
+have electrodes essentially
+hooked up to the
+focal area that the
+seizure is occurring.
+This is in the
+hippocampus
+bilaterally, and
+this one's in the
+temporal lobe, as
+you can see here.
+And the stimulation
+and the implantation
+of these devices
+can be effective
+in some patients,
+and it can be
+combined with other
+therapy modalities.
+Very cool here. A
+neurosurgeon can
+implant a device
+here for deep brain
+stimulation for
+intractable epilepsy.
+And what we see here
+is that you have
+different things,
+whether it's you
+can stick something
+in the let's
+look at the anatomy
+here where you have
+the head of the
+caudate, putamen.
+Here's part of your
+thalamus, two little
+spots here for your
+deep brain stimulation
+that could affect
+seizure activity.
+And like before, it's
+like a pacemaker,
+similar to a cardiac
+arrhythmia, where you
+implant an electrical
+device that sort of
+recognizes aberrant
+electrical activity in the
+foci it's in, and
+then actually goes and
+attenuates some of the
+activity of the area.
+And this is effective
+in some patients
+with a 50% reduction
+in seizures
+after five to six
+years, and it could
+also be combined with
+other modalities.
+to treat medial temporal
+lobe epilepsy you
+could also use a
+surgical resection and
+really the goal is to
+destroy the abnormal
+circuits that initiate
+the generalized seizures
+as well as to not
+destroy the circuits
+important for our
+functions of daily living
+and think about your
+temporal lobe maybe
+it's involved in
+memory hearing so you
+don't want to destroy
+the pathways that are
+actually vital for a
+patient's functioning.
+Naturally, this is a
+last resort option here.
+Now, you could even
+use a hemispirectomy.
+Patients with unilateral
+epilepsy that is
+poorly controlled with
+medications are candidates
+for this type of
+surgery. You can imagine
+how invasive this
+is, and you could see
+how this is definitely
+a last resort option
+here. And given how
+invasive this is? Would
+you expect this to
+be done in adults or
+peds more? And what
+would account for this
+difference? This is
+just a thought question,
+but this would be
+more likely to be done
+in pediatrics because
+pediatric brains,
+child's brains, there's
+more synaptic pruning.
+Neuroplasticity is
+heightened during this
+time. And if you remove
+a part of a patient's
+brain that might be
+involved in maybe some
+type of cognition, for
+example, another area
+of the patient's brain
+in this neuroplastic
+state may accommodate
+that lost function
+of the area of the
+brain that was resected.
+While in an
+adult brain, this
+is much less
+likely to happen.
+This, what we see
+here, is actually a
+corpus callosotomy in
+an attempt to treat
+generalized seizures.
+And why would we cut
+the corpus callosomized?
+Because it's a
+white matter tract
+that's connecting both
+hemispheres of the
+brain. But what's
+interesting here is that
+we leave the splenium
+intact because the
+splenium seems to
+be important for sort
+of these emotional
+sort of emotions
+that a person might
+feel. So if you leave
+the splenium intact,
+you could
+essentially stop the
+seizure from
+progressing while
+also maintaining
+some function. I
+also want to mention
+that this is different
+than a person who
+might just have a
+seizure due to a
+malformed corpus callosum.
+Here you actually
+remove the corpus
+callosum to help try
+to treat the seizure.
+These are some of
+your conclusions to
+think about. We talked
+about a lot today,
+different types
+of seizures and
+epilepsy, the
+pathophysiology behind it,
+as well as some
+potential treatments.
+I tried to stress to
+you guys how to look
+at some of these
+syndromes, what to look at,
+presentation, age
+of presentation,
+how the patient
+presents, inheritance,
+genes involved. And if
+you keep these things
+straight, you will
+increase your chances
+of getting the questions
+right on the test.
+and I have some questions
+here for you that
+you can go over on
+your own um I have
+four of them I'm not
+going to go through
+them uh this that'll
+take too long and uh
+I'm not going to go
+through it now I don't
+want to give the
+answers away but um if
+you guys have any
+questions related to these
+questions please let
+Dr. Ramos and I know
+and any feedback is
+welcomed I appreciate
+your time Have a
+lovely day. Thank you
+

@@ -1,0 +1,1454 @@
+Lecture 49 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Office of Academic Affairs 
+Sleep and Sleep Disorders
+Dr. Carl J. Abraham, Jr.
+Clinical Medicine
+cabrah04@nyit.edu
+Wilson Hall 424C
+--- Page 2 ---
+Source: Course Syllabus
+• Session Objectives:
+1. Understand the basics of sleep physiology
+2. Recognize, diagnose and manage patients with sleep 
+disorders, including use of the polysomnogram for 
+evaluation and when to obtain outside consultation
+3. Understand the importance of sleep wellness to 
+optimize provider cognition and patient safety
+• Connections
+• ScholarRx: Sleep physiology; Sleep Disorders: QR→ 
+• Lecture on Pharmacology of Sedatives/ Hyponotics 
+(PPOM1)
+• Lecture on Sleep Physiology and Sleep Apnea 
+(PPOM2)
+P
+h
+y
+s
+I
+o
+l
+o
+g
+y
+D
+i
+s
+o
+r
+d
+e
+r
+s
+--- Page 3 ---
+Sleep Physiology
+--- Page 4 ---
+Sleep and Its Abnormalities. Chap 18 Adams and Victor’s Principles of Neurology, 12e. Ropper, A., et al [ed]
+• Recommended: 7-9 hours (h)/night
+• Americans average 6.9 h
+• Requirement varies with age
+• Newborn 16-20 h
+• Child 10-12 h
+• Mid-adolescence 9-10 h (weekend cath-up)
+• Young adult 7-7.5 h
+• Pattern is also regional and changes with aging
+• Siesta
+• Earlier sleep time in older adults
+Sleep in Health & Human Development
+--- Page 5 ---
+The Role of Circadian Biology in Health and Disease, Jameson J, Fauci AS, Kasper DL, 
+Hauser SL, Longo DL, Loscalzo J. Harrison's Principles of Internal Medicine, 21e;  2022
+Sleep Wake Cycle
+Fun Fact 3!
+Our body's clock 
+cycle without 
+the influence of 
+the day-night 
+cycle is actually 
+25 hours.
+Fun Fact 1!
+Circadian 
+rhythms are 
+present in 
+almost all 
+living things.
+Fun Fact 2!
+Circadian 
+rhythms result 
+in physical, 
+mental and 
+behavioral 
+changes.
+
+--- Page 6 ---
+Adapted from: Jasper HH. Report of the committee on methods of clinical examination in 
+electroencephalography: 1957. Electroencephalogr Clin Neurophysiol 1958; 10:370.
+Measuring Sleep: The Polysomnogram
+• Overnight sleep study
+• EEG, EOG, EMG, ECG, airflow, 
+respiratory effort, O2 saturation, 
+limb movements, etc.
+• Usually performed in sleep lab 
+(Neurology, Pulmonary)
+• Gold standard to diagnosis sleep 
+apnea, narcolepsy, parasomnias, 
+RLS
+EEG = electroencephalopgram, EOG = electrooculogram, EMG = electromyogram, 
+ECG = electrocardiogram, RLS = restless legs syndrome, REM = rapid eye movements
+--- Page 7 ---
+Sleep and Its Abnormalities. Chap 18 Adams and Victor’s Principles of Neurology, 12e. Ropper, A., et al [ed].
+AASM: American Academy of Sleep Medicine. EEG: Electroencephalogram.
+Sleep Architecture
+AASM EEG Other features
+W
+Posterior alpha 9-11 Hz intermixed 
+low-voltage fast activity of mixed 
+frequency
+Electromyogram is silent except for 
+facial muscles
+N1 Progressively lower voltage and mixed 
+frequency with a loss of alpha waves;
+Eyelids begin to droop, the eyes may 
+rove slowly from side to side, and 
+the pupils become smaller
+N2
+0.5- to 2-s bursts of biparietal 12- to 
+14-Hz waves (sleep spindles) and 
+intermittent high-amplitude, central-
+parietal sharp slow-wave complexes 
+appear (vertex waves)
+N3
+Appearance and increasing proportion 
+of high-amplitude delta waves (0.75-
+μV, 0.5-to 2-Hz) in the EEG 
+R (REM)
+Desynchronized, i.e., it has a low-
+voltage, high-frequency discharge 
+pattern.
+Further reduction in muscle tone 
+except in the extraocular muscles 
+and with bursts of rapid eye 
+movement
+--- Page 8 ---
+*REM: rapid eye movement
+Sleep and Its Abnormalities. Chap 18 Adams and Victor’s Principles of Neurology, 12e. Ropper, A., et al [ed] .
+AASM: American Academy of Sleep Medicine. EEG: Electroencephalogram.
+Physiologic Effects of Sleep
+NREM REM*
+Autonomic Nervous 
+System Increased parasympathetic tone
+Unstable
+Brief surges in sympathetic and 
+parasympathetic activity
+Cardiovascular 
+system
+Heart rate is slow and regular
+Blood pressure is lower
+Heart rate is irregular
+Transient increases in blood pressure
+Respiratory system
+Mild decreased ventilatory drive in 
+response to hypoxia and hypercapnia
+Decreased respiratory rate
+Significant decrease in ventilatory drive in 
+response to hypoxia and hypercapnia
+Increased respiratory rate
+Temperature 
+regulation
+Decreased hypothalamic temperature 
+set point Decreased thermoregulation
+Reproductive 
+system
+Penile erections
+Increased vaginal blood flow
+Dreaming Less vivid More vivid, visually intense
+Skeletal Muscle
+Decreased tone with occasional 
+movements that decrease in 
+frequency the deeper the NREM sleep
+Almost complete paralysis (REM atonia)
+--- Page 9 ---
+Sleep Disorders
+--- Page 10 ---
+ScholarRx
+• Dyssomnias – disorders of sleep-wake time and/or quality
+• Primary (intrinsic)
+• Primary insomnia
+• Sleep-related movement disorders, e.g., restless legs syndrome
+• Central disorders of hypersomnolence, e.g., narcolepsy
+• Secondary (extrinsic)
+• Secondary insomnia, e.g., depression, anxiety
+• Circadian rhythm sleep-wake disorders, e.g., jet-lag
+• Obstructive sleep apnea, congestive heart failure, GERD, acute illness, etc.
+• Parasomnias – physical behaviors (e.g., sleepwalking) or experiences (e.g., 
+sleep terrors) that occur during or around sleep
+Categorization of Sleep Disorders
+--- Page 11 ---
+C1B; S1B
+• Occurs episodically in up to 95% of adults, 
+but is chronic in only about 10%
+• Patients complain of not being able to fall asleep, day 
+time sleepiness, and/or fatigue
+• Primary insomnia (10%)
+• No secondary cause found
+• May occur after a stressful period has resolved
+• Usually resolves spontaneously
+Insomnia
+--- Page 12 ---
+PTSD = post-traumatic stress disorder, ADHD = attention deficit hyperactivity disorder, OCD = obsessive compulsive disorder, 
+LSD = lysergic acid diethylamide, MDMA = 3,4-Methylenedioxymethamphetamine, COPD = chronic obstructive pulmonary disease, 
+SHF = systolic heart failure, BPH = benign prostatic hypertrophy
+C1B
+• Up to 50% of secondary insomnia is due to 
+a psychiatric condition, e.g.,  depression, anxiety, mania, PTSD, 
+ADHD, or OCD
+• Medications: stimulants (caffeine, nicotine, amphetamines, 
+cocaine), depressants opiates, alcohol, barbiturates, 
+benzodiazepines), hallucinogens (phencyclidine, LSD, marijuana, 
+MDMA), diuretics
+• Acute or chronic medical illness, e.g., COPD, SHF, BPH, acute 
+gastroenterocolitis
+Secondary Insomnia (90%)
+--- Page 13 ---
+• Treat underlying conditions or discontinue 
+substances that promote insomnia
+• Regular exercise and nutritious diet
+• Sleep Hygiene
+• Nonbenzodiazepine hypnotics
+• Zolpidem, Zaleplon, esZopiclone (ZZZ…)
+General Treatment of Insomnia
+--- Page 14 ---
+*In the past, benzodiazepines were so commonly prescribed 1st or 2nd line for insomnia that you may see 
+them still prescribed earlier than the above scheme, a prescriber habit that should be updated.
+• 1st Line: sleep hygiene
+• 2nd: pharmacologic: ZZZ…, Melatonin receptor agonists
+• 3rd: benzodiazepines* – disrupts sleep cycle, addiction
+• 4th: antipyschotics, antidepressants, antihistamines – 
+last resorts due to high side effect profile
+• Above may be different for specific sleep disorders, e.g., 
+narcolepsy
+Specific Treatment of Insomnia
+--- Page 15 ---
+• Attempt prior to medical therapy
+• Wake up in the morning and go to sleep at night at 
+same time daily
+• Avoid late day caffeine, alcohol, large meals, screens 
+(TV, computer, gaming, phone, e-Reader, etc.)
+• Sleep in a dark, quiet, stress-, phone- and pet-free 
+environment
+Sleep Hygiene
+--- Page 16 ---
+S1B
+• Restless Legs Syndrome
+• Leg burning, itching, tinging, etc. that is relieved by 
+movement
+• 5%-15% of US population
+• Cause unknown in most cases, but in few…
+• RLS may be secondary to pregnancy, iron deficiency, 
+peripheral neuropathy, chronic kidney disease, ADHD
+• Treatment: pregabalin, dopamine agonists, gabapentin. RLS 
+associated with pregnancy usually resolves after delivery
+Sleep-related movement disorders
+--- Page 17 ---
+C1B; S1B
+• Jet lag
+• Treatment: melatonin, stay-awake while the sun is up
+• Uncommon:
+• Delayed sleep-phase disorder – going to bed and waking up late
+• Blindness, night shift work
+• Advanced sleep-phase disorder - going to bed and waking up early
+• Treatment: sleep hygiene, light therapy, melatonin receptor agonist 
+(tasimelteon)
+Circadian Rhythm Sleep-Wake Disorders
+--- Page 18 ---
+HLA = human leukocyte antigen, SSRI = selective serotonin reuptake inhibitor, TCA = tricyclic antidepressant
+C1B; S1B
+• Narcolepsy
+• REM intrusion into wakefulness
+• Sleep paralysis - inability to talk or move on 
+awakening or falling asleep
+• Excess hypnopompic or hypnagogic hallucinations
+• Cataplexy after strong emotions may result in 
+trauma
+• Excessive daytime sleepiness
+• Onset young adults, non-progressive
+• <0.2% of US population, peaks at 15 and 35 years old
+• 90% have HLA-DQB1*0602 allele (present in those 
+without narcolepsy only 12-34%)
+• Decreased orexin production, may follow viral or bacterial 
+infections
+Central Disorders of Hypersomnolence
+• Diagnosis
+• Polysomnogram shows rapid sleep onset, early 
+REM and night awakening
+• Multiple sleep latency test: shorter time to enter 
+REM associated with more severe disease
+• Treatment
+• Sleep hygiene
+• Stimulants: modafinil, methylphenidate, 
+methamphetamine, SSRIs, serotonin and 
+norepinephrine reuptake inhibitors (e.g., 
+duloxetine), TCAs, sodium oxybate
+• Prognosis
+• Excellent with treatment
+• Cormorbid depression and anxiety
+--- Page 19 ---
+PCOD = polycystic ovary disease, SHF = systolic heart failure, CKF = chronic kidney failure
+Resp Med 2025; C1B; S1B
+• Obstructive sleep apnea
+• Mechanical obstruction by excess soft tissues resulting in rapid, repetitive
+airway collapse and hypooxygenation
+• Risk: increased age, obesity, large tonsils/neck, PCOD, hypothyroidism, genetic predisposition, SHF , CKF , 
+alcohol, smoking, male
+• Prevalence: 32% in U.S. adults > 20 years; 59% male, 41% female
+• Results in snoring and inability to reach deep sleep (often
+brought to medical attention by sleep partner)
+• Diagnosis: Polysomnogram
+• Treatment: 
+• Continue positive airway pressure (CPAP) is treatment of choice
+• Facemask strapped to face delivers air at increased pressure to open airways 
+during inhalation
+• Uvulopalatopharyngoplasty (UPPP)
+• Repositioning or resection of uvula and tonsils
+• Enlargement of pharynx
+• Rarely required
+Sleep-related Breathing Disorders
+
+--- Page 20 ---
+C1B; S1B
+• Sleep Terror Disorder
+• Night awakening in inconsolable panic and may be 
+associate with tachycardia, tachypnea and 
+diaphoresis
+• No subsequent memory of the event after waking in 
+the morning
+• Affects 1% of children
+• Usually resolves spontaneously
+Parasomnias (N3)
+--- Page 21 ---
+C1B; S1B
+• Sleepwalking aka somnambulism
+• Despite being physiologically asleep, the person appears awake and 
+performs activities and have no memory of the event the next morning
+• Occurs in up to 30% of the US population as a single, non-repeating event. 
+• Chronic sleepwalking may affect up to 2%
+• Usually resolves spontaneously in children
+• Treatment in adults: safety, treat underlying medical or psychological 
+conditions, benzodiazepines
+Parasomnias (N3)
+--- Page 22 ---
+S1B
+• REM Sleep Behavior Disorder
+• Acting out dreams by yelling, kicking, punching, grabbing, or 
+jumping
+• Usually older persons who remember the dreams, but not 
+their behavior while sleeping
+• Polysomnogram shows REM sleep despite lack of atonia
+• Treatment: melatonin or low-dose clonazepam
+• Brainstem histology shows Lewy bodies that may be 
+associated with Parkinson’s, multisystem atrophy and Lewy 
+body dementia
+Parasomnias (REM)
+--- Page 23 ---
+Systems-based Practice: 
+Patient Safety
+--- Page 24 ---
+• Fatal familial insomnia, a rare prion disease, results in 
+progressive insomnia and eventual death
+• A few days without sleep causes progressive slowed, 
+altered cognition and motor control; hallucinations; 
+paranoia; memory loss; and psychosis
+• Guiness record for longest awake is 18 days, 21 hours and 
+40 minutes without sleep
+• Guiness no longer monitors or records sleep deprivation 
+due to the negative health effects
+• The risk of motor vehicle accidents increases significantly 
+with sleep deprivation
+Consequences of Sleep Deprivation
+GuinessWorldRecords.com
+BMC Medicine
+--- Page 25 ---
+Effects of Sleep Deprivation: Impaired Cognition
+Marcus, C., Loughlin, G. Sleep. 1996;19:763-6
+Van Dongen, H., et al. Sleep. 2003;26:117-26.
+Gastaldi, M., et al. Procedia Soc Behav Sci 2014;111:955-64
+
+--- Page 26 ---
+Killgore, W., et al. J Sleep Res 2006;15:7-13
+Harrison, Y., Horne, J. Org Behavior Hum Decision Making. 1999;78:128-45.
+Venkatraman, V., et al. Sleep. 2007;30:603-9
+Killgore, W., et al. Aviat Space Environ Med. 2007;78:957-62
+Effects of Sleep Deprivation: Impaired Decision Making
+
+--- Page 27 ---
+Cohen, S., et al. Arch Intern Med 2009;169;62-7
+Prather, A, et al. Sleep. 2015;38:133-9
+Prather, A, et al. Sleep. 2012;35:1063-9
+Patel, S. et al. Sleep. 2012;35:97-101
+Sleep Deprivation: Infection
+
+--- Page 28 ---
+• Summary
+1. Normal sleep physiology is dictated by circadian rhythms 
+that orchestrate hormonal and physiologic functions that 
+maintain normal homeostasis
+2. Sleep disorders are prevalent and many can be diagnosed 
+by a primary provider with sleep studies while some 
+require outside consultation for management
+3. Sleep is an integral part of physician wellness that optimizes 
+safety and care of the patient
+• Feedback
+Thank you for reviewing and good luck!
+
+
+--- Transcript Content ---
+Hello, everyone.
+Welcome to our
+session on
+sleep and sleep
+disorders. I'm
+Dr. Carl Abraham,
+and today we're
+going to explore how
+sleep works, why it
+matters, and what
+happens when it
+goes wrong. Think of
+this as your foundation
+for understanding
+one of the most
+essential yet
+often overlooked
+physiologic processes.
+I don't know about
+any of you. It's also
+a subject that's very
+dear to my heart.
+We're going to cover
+the basics of sleep
+physiology, then how
+to recognize and manage
+common sleep disorders,
+including when
+to order a polysomnogram
+and when to
+involve a specialist.
+And then we'll finish
+by talking about sleep
+wellness and why it's
+critical for both
+patient safety and
+your own performance
+as a future physician.
+I've included some
+connections to other
+lectures on this
+slide, as well as
+QR codes that pointed
+to the scholar
+Rx Bricks for,
+on the top, sleep
+physiology and underneath
+sleep disorders.
+We're going to start
+with sleep physiology
+in order to understand
+what is healthy
+before we take a look
+at what is a disorder.
+So, as you know, we
+assess sleep health in
+every patient as part
+of the social history.
+Sleep needs change
+dramatically
+across the lifespan.
+Newborns may sleep
+up to 20 hours a day.
+Children and
+adolescents still
+require much more
+sleep than adults.
+Most adults need
+somewhere between
+seven to nine
+hours every night.
+There are cultural and
+regional differences,
+for example,
+siestas, that still
+result in normal
+amounts of sleep. and as
+we age, especially
+as we become elderly,
+we tend to go to
+sleep earlier.
+Our sleep-wake
+cycle is governed by
+circlinging rhythms.
+These are internal
+biological clocks present
+in almost all living
+organisms. Without
+sunlight or other
+external clues, the
+human natural rhythm
+actually runs closer
+to 25 hours. These
+rhythms shape our
+physical, mental, and
+behavioral patterns
+throughout the day.
+If it isn't obvious,
+sleep is a repeating
+cyclical behavior
+that follows the
+circadian or 24-hour
+rhythm. The processes
+that maintain homeostasis
+differ between
+wakefulness and
+sleep. For example,
+wakefulness is marked
+by feeding while
+sleeping is a fasting
+state. As you can
+see on this slide,
+many metabolic and
+cannabolic processes
+are influenced by these
+states. For example,
+muscle glycolysis
+and cortisol, bile
+acid, and insulin
+secretion occur more
+during the waking state,
+while melatonin,
+growth hormone, and
+leptin secretion, and
+oxidative metabolism
+in muscle primarily
+occurs during sleep.
+Importantly, animal
+models have shown
+that CNS neurotoxins
+such as amyloid,
+beta, and tau
+are cleared more
+efficiently during
+sleep. In addition,
+although they are
+poorly understood,
+dreams may function
+to reduce stress
+and sleep is important
+in consolidating
+memory, a fact
+you can use to
+improve the efficiency
+of studying.
+So the bottom
+line, sleep is far
+more than just
+rest for the body.
+And key tool
+in evaluating
+sleep disorders is
+the polysomnogram
+or overnight sleep study.
+It records brain
+waves, eye movements,
+muscle tone, heart
+rhythm, breathing
+patterns, oxygen levels,
+and limb movements.
+This comprehensive
+monitoring makes it
+the gold standard for
+diagnosing conditions
+such as sleep
+apnea, narcolepsy,
+parasomnias, and the
+rest of Flegge syndrome,
+all of which we'll
+talk about later.
+The picture on the
+top right shows lead
+placement for an
+electroencephalogram.
+These leads then
+feed into a computer,
+previously onto
+a piece of paper,
+sort of like a
+lie detector test,
+that transcribed the
+electrical activity
+in various places
+in the brain.
+The result are the
+patterns to the right,
+which show the
+different types of waves
+seen in the different
+stages of sleep.
+You can also see that
+as we fall into deeper
+and deeper sleep,
+the cycles of brain
+electrical activity slow.
+beta waves are rapid
+frequency waves that
+are present while awake
+and active alpha waves
+are present while awake
+and at rest theta
+waves are present at
+early stages of sleep
+and delta waves the
+slowest waves during deep
+sleep not shown is the
+brain activity during
+REM or REM which is
+erratic alternating
+between slow and fast
+frequency waves the
+picture on the bottom is
+an example of one person
+who underwent a sleep
+study. One of the
+misunderstandings of the
+stages of sleep is
+that we cycle through
+the stages in order and
+then enter REM and then
+move back through
+the stages in reverse
+order. That's actually
+not true. As you can
+see, this particular
+patient enters REM sleep
+later in the night
+without entering the
+deepest stages of sleep,
+which is typical. The
+time the patient goes
+to bed until the patient
+falls asleep is called
+the sleep latency.
+In this patient, it's
+about 30 minutes. The
+time from the beginning
+of sleep until the
+first REM sleep is
+called the REM latency.
+Sleep architecture
+refers to the
+structure of sleep
+across the night.
+The American Academy
+of Sleep defines
+wakefulness and
+the stages of sleep
+N1, N2, N3, and
+REM based on the
+distinct EEG
+patterns and physical
+characteristics of
+each of these states.
+Wakefulness, or stage W,
+here refers to awake
+at breast. Alpha waves
+on EEG are 9 to 11
+hertz, and there is
+very little muscle
+tone except for in the
+face. As we drift
+toward sleep, stage N1,
+EEG slows,
+eyelids droop, and
+pupils constrict,
+and the eyes may rove
+from side to side.
+Stage N2 is
+characterized by slower
+waves overall, but
+also sleek spindles.
+These are faster
+waves detected
+at the bitemporal reads.
+Delta waves are
+characteristic
+of deepest sleep.
+REM EEG patterns are
+erratic, and there
+is a further decrease
+in muscle tone
+except for the
+extraocular muscles,
+resulting in bursts of
+rapid eye movements.
+Physiologically,
+non-REM and REM sleep
+differ in important
+ways. Non-REM is
+characterized by stable vital
+signs and increased
+parasympathetic tone.
+Dreams occur in non
+-REM sleep, but they are
+much less vivid and
+intense compared to
+the dreaming that
+characterizes REM sleep.
+REM brings bursts of
+autonomic activity,
+irregular heart
+rhythm, decreased
+thermoregulation,
+vivid dreaming,
+and near-complete
+muscle paralysis,
+except for the
+extraocular movements.
+Now that we've covered
+normal sleep, let's
+look at sleep disorders,
+conditions that
+disrupt sleep quality,
+timing, or physiology.
+has fallen to two broad
+categories, disomnias
+and parasomnias.
+Disomnias are disorders
+of sleep-wake time
+and or quality, while
+parasomnias are physical
+behaviors such as
+sleepwalking or experiences
+like sleep terrors that
+occur during or around
+the time of sleep.
+Disomnias can also
+be broken down
+into two categories,
+primary or
+extrinsic, and
+secondary or extrinsic.
+Primary dysomnias
+include primary
+insomnia, which
+we'll talk about in a
+minute, sleep-related
+movement disorders,
+such as restless
+leg syndrome, or
+central disorders
+of hypersomnolence,
+for example, narcolepsy.
+Secondary or extrinsic
+dysomnias include
+secondary insomnia,
+in other words, the
+insomnia that's caused
+by mostly psychiatric
+disorders or other
+things, but again we'll
+talk about that again
+in the next few slides,
+circadian sleep
+rhythm disorders, for
+example jet lag, or
+other medical illnesses
+that specifically cause
+trouble sleeping. A
+very common one is
+obstructive sleep apnea,
+but any other illness
+that affects sleep
+can be a secondary
+cause of insomnia. For
+example, congestive
+heart failure that
+causes frequent paroxysmal
+nocturnal dyspnea,
+nocturnal reflux
+esophagitis, or even
+acute illnesses such
+as an infection.
+It occurs episodically
+in about 95% of adults
+at some point, but
+it's chronic in only
+about 10% adults.
+Patients complain of not
+being able to fall asleep,
+daytime sleepiness,
+and or fatigue or not
+having enough energy.
+Primary insomnia, in
+other words, insomnia
+for which no secondary
+cause is found,
+makes up only about
+10% of those with
+insomnia. One pattern
+of primary insomnia
+that has been noted
+is that which occurs
+after a stressful
+period has resolved. The
+good news for these
+cases is that most
+of the time this
+resolves spontaneously.
+About 90% of those
+with insomnia have
+secondary insomnia.
+About 50% of these
+cases are due to a
+psychiatric condition
+such as depression,
+anxiety, mania, PTSD,
+ADHD, or OCD.
+Medications that may
+cause secondary insomnia
+include stimulants,
+for example,
+caffeine, nicotine,
+amphetamines, and *******,
+depressants such as
+opiates, alcohol,
+barbiturates, and
+benzodiazepines,
+hallucinogens like
+phancyclidine,
+***, *********, and
+MDMA, or diuretics that
+are prescribed to
+the patient close to
+bedtime so that they are
+going to the bathroom
+repeatedly at night,
+acute and chronic
+medical conditions
+such as COPD, systolic
+heart failure, BPH, acute
+gastroenterocolitis,
+or even post-surgical
+pain can stop
+people from having a
+good night's sleep.
+Treatment of insomnia
+includes treating
+underlying conditions or
+discontinuing substances
+or medications that
+promote insomnia
+for those with secondary
+insomnia, regular
+exercise and a nutritious
+diet, sleep hygiene,
+which we'll talk
+about in a minute, and
+non-benzodiazepine
+hypnotics, such as Zolpidem,
+Xaloplon, and Esopoclon.
+These medications
+can be remembered
+by the mnemonic ZZZ.
+For insomnia, should
+be sleep hygiene,
+which we'll talk about
+on the next slide.
+Pharmacologic
+treatment should start
+with the ZZZ, non
+-benzodiazepine
+hypnotics, or
+melatonin receptor
+agonists. If these
+don't work, then
+benzodiazepines can
+be tried. However,
+there are disadvantages
+to benzodiazepines.
+They disrupt the
+sleep cycle and
+specifically prevent
+deep sleep. They may be
+addictive and they
+are associated with
+falls that lead to
+trauma in the elderly.
+If benzodiazepines
+don't work, then
+antipsychotics, antidepressants,
+and antihistamines
+can be tried. These
+are last resorts
+due to very high
+side effect profiles.
+If the treatment
+scheme is different
+than this for specific
+sleep disorders,
+I'll mention it when
+we talk about them.
+The attempted prior
+to pharmacologic
+therapy and
+pharmacologic therapy
+should not be given
+without attention
+to sleep hygiene
+because of its influence
+on sleep. What
+is sleep hygiene?
+The patient should
+wake up in the
+morning and go to
+sleep at night about
+the same time every
+day. They should
+avoid late-day
+caffeine, alcohol, large
+meals, and screens
+close to bedtime.
+And sleep should happen
+in a quiet, dark,
+stress, phone, and
+pet-free environment.
+Many of us don't
+follow this regimen,
+but research has
+shown that this is how
+to get a good night's
+sleep most nights.
+Let's start talking
+about specific sleep
+disorders Although
+restless leg syndrome is
+considered a sleep
+movement disorder The
+patient's symptoms occur
+while awake and actually
+prevent sleep The
+patient experiences leg
+burning, itching,
+or tingling that is
+relieved by movement It
+occurs in about 5-15% of
+the population at
+some time during their
+life The cause is
+unknown in most cases but
+in a few, it may be
+secondary to pregnancy,
+iron deficiency,
+peripheral neuropathy,
+chronic kidney
+disease, or ADHD.
+Importantly,
+restless leg syndrome
+is not the presenting
+symptom in any of
+these except for iron
+deficiency. So any
+patient with restless leg
+syndrome should have
+iron studies and iron
+deficiency should be
+treated if present.
+Specific treatment
+for restless
+leg syndrome
+is pregabalin,
+dopamine agonists,
+and gampapentin.
+The restless leg
+syndrome that
+is associated
+with pregnancy
+usually resolves
+after delivery.
+The circadian rhythm
+sleep-wake disorders
+are those which
+disrupt sleep timing.
+For example, the most
+common is probably
+jet lag, the
+treatment of which is
+usually melatonin,
+although a recent study
+suggested that if one
+can stay awake while
+the sun is up at
+your destination and
+wait to go to sleep
+when the sun goes
+down, the severity of
+jet lag is reduced.
+Uncommon causes
+of circadian
+rhythm sleep-wake
+disorders include
+delayed sleep
+phase disorder.
+People with this
+go to bed and
+wake up later than
+the usual times.
+It may occur in
+those who are blind
+and those who do
+night shift work.
+Advanced sleep
+phase disorder is
+similar, but
+instead the patient
+goes to bed and
+wakes up early.
+Treatment for
+these include
+sleek hygiene,
+light therapy, and
+melatonin
+receptor agonists.
+The prototypical
+central disorder of
+hypersomnolence is narcolepsy.
+Think of narcolepsy
+as REM intrusion into
+wakefulness. There
+is sleep paralysis
+or the inability to
+talk or move on awakening
+or falling asleep.
+Hypnopopic and hypnagogic
+hallucinations are
+those that occur when
+you wake or fall asleep,
+respectively. They
+may occur in those
+without narcolepsy, but
+are much more frequent
+in those with it.
+Those with narcolepsy
+may also have cataplexy
+after experiencing
+strong emotions that
+can result in sometimes
+significant trauma.
+Patients complain of
+daytime sleepiness.
+Onset is usually in
+young adults and the
+condition is not
+progressive. It occurs
+in less than 0.2% of
+the U.S. population
+with peaks at 15
+and 35 years of age.
+90% of those have
+an HLA-DQB1-0602
+allele, which is
+present much less
+commonly in those
+without narcolepsy.
+Studies have shown
+that patients may
+have decreased
+orexin production.
+Onset may follow a
+viral or bacterial
+infection. The
+diagnosis is made
+by polysomnogram,
+which shows rapid
+sleep onset,
+short REM latency.
+Shorter REM latency
+is associated
+with more severe disease.
+Treatment is sleep
+hygiene and stimulants,
+such as those
+was listed on the
+slide. Prognosis is
+usually excellent
+with treatment.
+Patients with narcolepsy
+commonly require
+concomitment
+treatment for depression
+and or anxiety.
+Obstructive sleep apnea
+is a sleep-related
+breathing disorder
+caused by mechanical
+obstruction of excess
+soft tissue that
+results in a rapid
+repetitive airway
+collapse, in other
+words, snoring, and
+hypoxygenation due to
+short apneic episodes.
+Risk factors include
+increased age, obesity,
+large tonsils
+or a large neck,
+polycystic ovary
+disease, hypothyroidism,
+genetic predisposition,
+systolic heart failure,
+chronic kidney failure,
+alcohol use, smoking,
+and the male gender.
+Prevalence is
+about 32% in U.S.
+adults greater
+than 20 years old.
+Most are male. The
+storing results
+in the inability
+to reach deep
+sleep and is often
+brought to medical
+attention by the
+sleep partner.
+Diagnosis is by
+polysomnogram.
+Treatment is continuous
+positive airway
+pressure, which is shown
+in the picture at right.
+A tightly fitting
+mask delivers air at
+increased pressure that
+keeps the airways open
+and prevents the
+collapse of soft tissue.
+Patients may require a
+uvulopoadopharyngeoplasty
+that repositions
+or resex the uvula,
+resex the tussles,
+and enlarges the
+pharynx, but this
+is rarely done.
+So let's leave the
+disomnias and talk about
+parasomnias. Remember
+the parasomnias
+are behaviors or
+experiences that occur
+during sleep. We'll talk
+about the most common
+and there are many
+others. The parasomnias
+are also categorized
+by which stage of
+sleep in which they
+occur. The first
+parasomnia we'll talk
+about, sleep terrors,
+occurs in stage N3.
+About 1% of children
+will have them. The
+child wakes at night
+scared, upset, maybe
+yelling, maybe panicking,
+and is completely
+inconsolable. There
+may be associated
+autonomic sympathetic
+activation with
+tachycardia, tachypnea, and
+diaphoresis. The
+child eventually calms
+down, goes back to
+sleep, and in the morning
+has no recollection
+that this occurred.
+Prognosis is excellent
+with the sleep
+terrors eventually
+resolving spontaneously.
+Another parasomnia,
+sleepwalking or somnambulism
+also occurs in stage
+N3. Despite being
+asleep, the person
+appears awake and
+performs activities
+such as walking, working
+in the kitchen, or
+many other types of
+activities and has no
+memory of the event the
+next morning. This
+occurs in up to 30% of
+the U.S. population as
+a single non-repeating
+event, but chronic
+sleepwalking may affect
+up to 2% of the adult
+population. Treatment
+is difficult and
+centers around keeping
+the patient safe,
+since some of the
+activities such as walking
+out of the house or
+working in the kitchen
+are dangerous. It
+usually resolves
+spontaneously in children.
+If it doesn't in
+adults, underlying
+medical or psychological
+conditions that are
+the root of the
+behavior should be
+treated, and some
+patients are treated with
+benzodiazepines with
+varying success.
+The last parasomnia
+we'll talk about
+is REM sleep
+behavior disorder.
+This occurs in adults
+who yell, kick,
+punch, grab, jump, or
+perform other aggressive
+or violent behaviors
+while asleep.
+It usually occurs
+in older persons
+who remember dreams
+that explain their
+behavior, but they
+don't remember
+performing the behavior
+while sleeping.
+Polysomnobram
+shows REM sleep
+despite the
+lack of atonia.
+Treatment is
+melatonin or low
+-dose clonazepam.
+Very importantly,
+brainstem histology
+at autoxy has shown
+Lewy bodies that
+are also seen in
+Parkinson's,
+multisystem atrophy, and
+Lewy body dementia,
+and some feel that
+REM sleep behavior
+disorder is an early
+manifestation of
+these conditions.
+We've talked about
+sleep physiology and
+sleep disorders. Now
+let's apply these
+concepts in a way
+that highlights the
+importance of sleep
+wellness to a subject
+that we as students
+of medicine should be
+at the top of our
+minds, patient safety.
+Before we talk
+about patient safety
+specifically, let's clear
+up some myths and define
+the negative health
+outcomes of sleep
+deprivation. There is a
+very rare prion disease
+called fatal familial
+insomnia that results
+in progressive insomnia
+and eventual death
+in all patients. This
+suggests that the
+total lack of sleep
+can be deadly. However,
+based on anecdotal
+evidence of people who
+have tried to break the
+Guinness Book Record
+for longest time awake,
+we do know some of the
+effects of sleep
+deprivation and true
+fatalities from sleep
+deprivation are exceedingly
+rare. A few days
+without sleep results in
+progressive, slowed, and
+altered cognition and
+motor control.
+This is followed by
+hallucinations,
+paranoia, memory
+loss, and eventually
+psychosis in some
+persons who are sleep
+-deprived for long periods.
+The Guinness record
+for the longest time
+awake is 18 days, 21
+hours and 40 minutes.
+If I remember correctly,
+this particular person
+had a few symptoms
+of sleep deprivation.
+However, there have been
+enough people trying
+for the record who
+have had severe symptoms
+after sleep deprivation,
+some possibly
+permanent, that Guinness
+no longer monitors or
+reports sleep deprivation
+records due to the
+negative health effects.
+And we all know that
+sleep deprivation does
+increase the risk of
+falling asleep at the
+wheel and serious motor
+vehicle accidents.
+One of the most sleep
+-deprived population is
+house staff, medical,
+surgical, psychiatry,
+family practice, and
+OB residents who are
+sometimes up for 24 or
+36 hours more at a time.
+They make an excellent
+study population.
+The first study looked
+at house staff who are
+on call every fourth
+night. 44% reported
+falling asleep at a
+stoplight, 49% fell asleep
+at the wheel, and 23
+% while the car was in
+motion. 90% of these
+events occurred post
+-call. The second study
+shows being sleep-deprived
+increases the risk
+of near-misses and
+accidents in driving
+simulations, and the third
+shows subjects
+performed worse in every
+measure of cognitive
+function when tested even
+with moderate sleep
+deprivation and that
+prolonged periods of
+sleep deprivation for
+example four to five
+hours of sleep nightly had
+a cumulative effect
+resulting in increasing
+cognitive impairment
+not only that but when
+you don't get enough
+sleep judgment is impaired
+and the result is
+poor decisions. Sleep
+deprivation results in
+increased risk-taking,
+likely secondary to
+suboptimal or abnormal
+functioning of the
+prefrontal cortex, nucleus
+accumbens, and insula.
+It results in more
+rigid thinking,
+perseveration of ideas, and
+difficulty in incorporating
+new information.
+And here's the worst
+news. It's likely that
+coffee or other
+caffeinated beverages can't
+stop one who is sleep
+deprived from poor
+performance, secondary
+to cognitive deficits,
+making poor decisions
+and taking undue risks.
+Have you ever
+spent more than 24
+hours awake and then
+two or three days
+later had a cold
+or a sore throat?
+Well, it turns out
+that if we don't
+get enough sleep,
+we are three times
+more likely to get
+a cold. At less than
+five hours a night
+chronically, we
+are four times as
+likely. In addition,
+sleep deprivation
+results in decreased
+antibody responses
+to vaccines
+and increases the
+risk of pneumonia.
+The truth is, if you
+don't take care of
+yourself, you really
+can't take care of others.
+In summary, normal
+sleep physiology is
+dictated by circadian
+rhythms that
+orchestrate hormonal and
+physiologic functions
+that maintain
+normal homeostasis.
+stasis. Sleep disorders
+are prevalent and
+many can be diagnosed
+by a primary provider
+with sleep studies,
+while some require
+outside consultation
+for management.
+Sleep is an integral
+part of physician
+wellness that optimizes
+safety and care of the
+patient. And please
+give us feedback on this
+lecture. We really do
+value your opinion.
+Thank you. Good
+luck and stay well.
+

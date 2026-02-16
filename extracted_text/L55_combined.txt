@@ -1,0 +1,3939 @@
+Lecture 55 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Pathology of 
+Cerebrovascular Diseases
+William Zaloga, D.O.
+Assistant Professor
+Department of Clinical Medicine
+New York Institute of Technology 
+at Arkansas State University
+Wilson Hall, Room 424F
+Office #: (870) 680-8899
+wzaloga@nyit.edu
+--- Page 2 ---
+Session Objectives
+1. Describe cerebrovascular pathology, including ischemic stroke, hemorrhagic stroke, transient ischemic 
+attack, and brain trauma.
+2. Outline the histological changes in ischemic infarction based on the time since the ischemic event.
+3. Explain the etiologies and classifications of ischemic strokes, including thrombotic, embolic, and global 
+hypoperfusion.
+4. Classify and differentiate hemorrhagic strokes:
+1. Intracerebral hemorrhage (ICH): Hypertension vs. Cerebral Amyloid Angiopathy (CAA).
+2. Subarachnoid hemorrhage (SAH): Traumatic, Aneurysmal, and Arteriovenous Malformations 
+(AVMs).
+5. Identify and describe the pathology of cerebrovascular trauma, including brain herniation, skull fractures, 
+concussion, subdural, and epidural hematomas.
+6. Discuss and describe the pathogenesis and morphological principles of direct parenchymal injuries, 
+including contusion, coup-contrecoup injury, diffuse axonal injury.
+--- Page 3 ---
+HEAD CT (w/o contrast) quick reference 
+NOT ON TEST – good to know
+HYPERDENSE ISODENSE HYPODENSE
+• HU: Measures tissue density, water = 0 HU, air = -1000 
+HU
+• Less dense ones like fat appearing dark (negative HU)
+• Denser materials like bone appear bright (high positive 
+HU)
+• Blood has high HUdue to high protein and iron content
+https://ddxof.com/ct-
+interpretation-head/
+--- Page 4 ---
+Cerebrovascular disease (CVD)
+• Common is US
+• All disorders with an area of the brain temporarily or permanently affected by 
+ischemia or bleeding and one or more cerebral blood vessels are involved in the 
+pathological processes
+• AKA Stroke = Brain blood flow suddenly reduced with cell hypoxia due to 
+hypoxemia (low blood O2) or ischemia (low blood flow) causes cell disability and 
+death/infarction:
+• When blood to the brain is reduced, tissue survival depends on collateral circulation 
+presence, ischemia duration (sustained → infarction) & magnitude and rapidity of 
+reduction 
+• Collateral flow source is circle of Willis, external carotid-ophthalmic artery 
+collaterals - Little if any collateral flow for thalamus, basal ganglia & deep white 
+matter deep penetrating vessels 
+
+--- Page 5 ---
+Different types of strokes/ 
+cerebrovascular accidents (CVA)
+Ischemic stroke
+• 87%
+• Caused by blockage of an artery (rare cases vein), result 
+= lack of perfusion
+• Hemorrhagicstroke
+• 13%
+• Caused by bleeding cerebral artery
+https://figures.semanticscholar.org/a14f6c3
+aef5265960e7fd1f29ecbbe3cc7d72986/23-
+Figure1.1-1.png
+• The transition region between necrotic tissue and normal brain is an area of “at-risk” brain, referred to as 
+the penumbra - can be rescued from cell death with anti -apoptotic interventions, suggesting ischemic 
+neurons die by apoptosis and necrosis
+--- Page 6 ---
+• Arterio-/arteriolosclerosis, atherosclerosis may 
+produce carotid/ vertebral/ and intracranial 
+stenosis (stenotic/ turbulent areas at risk):
+• Thrombotic: Atherosclerosis(vulnerable plaque 
+acute in -situ thrombus like CAD) & 
+Lipohyalinosis (associated with hypertension)
+• Embolic: Cardiogenic mostly (ex. MI, valve dz, afib. w/ 
+cardiac mural thrombi) vs non-cardiogenic (ex. usually 
+from atherosclerotic plaques in internal carotid artery)
+• Middle cerebral artery territory most frequently 
+affected by emboli which tend to lodge at vessel 
+branch or in pre-existing luminal stenosis
+• Other less common causes - pathology discussed in another 
+class:
+• Vasculitides may also cause luminal narrowing & occlusion 
+(ex. Polyarteritis nodosa)
+• Drug abuse may cause vascular spasms and occlusion
+• Aneurysms, vascular malformations, coagulopathies
+Ischemic stroke etiology
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fw
+ww.amboss.com%2Fus%2Fknowledge%2Foverview-of-
+stroke&psig=AOvVaw2J9dN5xyP7kuOEHOBkVLG3&ust=176
+8134836160000&source=images&cd=vfe&opi=89978449&v
+ed=0CBIQjRxqFwoTCMC-qNv9gJIDFQAAAAAdAAAAABAE
+• Global ischemia: Watershed zones (border zones) are at junctions of 
+two major artery territories (vulnerable to ischemia) – there’s a later 
+slide about this
+--- Page 7 ---
+Ischemic stroke molecular pathogenesis
+• Ischemia can cause excitatory
+amino acid neurotransmitters
+inappropriate release such as 
+glutamate - can damage 
+neurons by allowing excessive 
+influx of calcium ions through 
+N-methyl-D- aspartate 
+(NMDA)-type glutamate 
+receptors (phenomenon called
+excitotoxicity)
+Maida CD, Norrito RL, Rizzica S, Mazzola M, Scarantino ER, Tut tolomondo A. 
+Molecular Pathogenesis of Ischemic and
+Hemorrhagic Strokes: Background and Therapeutic Approaches. Int J Mol Sci. 
+2024 Jun 7;25(12):6297. doi: 10.3390/ijms25126297. PMID: 38928006; PMCID: 
+PMC11203482
+DO NOT MEMORIZE
+--- Page 8 ---
+Ischemic stroke
+• Acute neurologicalconditionwith arterial supply is impaired - cause is occlusion 
+of an upstream artery → possible infarction (pathological process results in 
+necrotic tissue due to acute interruption of blood flow)
+• Ischemia→ tissue hypoxia → irreversibleneuronal injury (can be as fast as 5 min
+after hypoxia)
+• Sustained ischemia → infarction → liquefactivenecrosis (digestion of dead cells 
+by hydrolytic enzymes from inflammatory cells or microorganisms with complete 
+loss of cellular architecture, results in liquid viscous mass)
+• Over time, macrophages clear the debris, leading to the formation of a cystic 
+space
+• Grossly, little change in first 6 hours of irreversible injury: 48 hours, pale, soft, 
+and swollen, gray-white matter junction indistinct; 2-10 days, brain becomes 
+gelatinous and friable; 10 days-3 weeks, tissue liquefies, leaving fluid-filled 
+(reabsorbed) cavity
+https://en.wikipedia.org/wiki/Stroke
+CT Head
+--- Page 9 ---
+Ischemic stroke molecular events
+https://en.wikipedia.org/wiki/File:Hypoxic_neur
+onal_injury,_HE_1.jpg https://www.alamy.com/stock-image-liquefactive-necrosis-in-
+brain-tissue-165987706.html
+Cerebral cortex shows neuron loss 
+and reactive astrocytes, microglia, 
+fibroblasts, endothelial cells
+https://en.wikipedia.org/wiki/Glial_scar
+--- Page 10 ---
+• Acute cerebral infarction: Marked 
+edema (pale areas)
+• 6-24 hours, eosinophilic neuronal 
+necrosis (↑ cytoplasm eosinophilia & 
+nuclear pyknosis/ karyorrhexis - “dead
+red neurons”)
+• Reactive gliosis begins and recedes after 
+several months: Glial cells, mainly 
+astrocytes, swell, and myelinated fibers 
+begin to disintegrate
+ • Anoxic injury: Red neurons dying as a result of 
+hypoxia
+• <48 hours, neutrophilicemigration 
+progressively increases, then falls off
+• >48 hours to 2-3 wks., macrophages 
+& activated microglia predominate
+• Foamy macrophages cleaning up 
+lipid debris from the liquefactive 
+necrosis
+ • Surrounded by residual 
+gliosis is resolution of 
+liquefactive necrosis that 
+leaves cystic spaces
+Ischemic stroke histological changes
+1. Red Neurons
+2. Neutrophils
+3. Macrophages
+4. Liquefactive 
+necrosis
+5. Cystic cavity
+https://www.slideshare.net/slideshow/cpc434cnsstroke-pathlecview/1840700
+--- Page 11 ---
+Thrombotic ischemic stroke: Atherosclerotic 
+cerebrovascular disease
+• Most common type of stroke (~40%)
+• Associated with hypertension and diabetes
+• Caused by thrombus (blood clot that may fragment and embolize) 
+developing in arteries supplying the brain that cause progressive 
+luminal narrowing
+• Seen in older persons, especially those with high cholesterol and 
+atherosclerosis 
+• Common sequence of events: Atherosclerotic plaque rupture → thrombus 
+formation → ischemia → infarct
+• Most common at carotid bifurcation, middle cerebral artery origin & 
+either end of the basilar artery
+https://interventionalneurology.com/carotid-artery-disease
+
+--- Page 12 ---
+Thrombotic ischemic stroke: 
+Atherosclerosis
+Common sites of occlusion
+• Common Carotid bifurcation
+• Clot travel up to 1st intracranial branch of ICA, ophthalmic 
+artery → amaurosis fugax (transient, seconds-minutes for 
+small emboli/fibrinolysis, vision loss from hypoperfusion of 
+retina or optic nerve)
+• Middle cerebralartery - distal to carotid terminus
+• https://www.cns.org/nexus/spine/case/acute-ischemic-stroke-from-mca-occlusion
+• CT angiogram of brain with atherothrombotic stroke in the 
+lenticulostriate arteries - red circle, highlights affected 
+lenticulostriate arteries 
+• Lenticulostriate arteries: Small perforating artery branches from MCA 
+to deep brain structures (basal ganglia (putamen, globus pallidus, 
+caudate nucleus, internal capsule) – common site of small stroke 
+(lacunar infarcts) & hemorrhages due to small size and lack of 
+collateral flow → pure motor or sensory loss)
+CTA
+--- Page 13 ---
+Thrombotic ischemic stroke: Lipohyalinosis
+• Pathological process affects small arteries (arteriosclerosis) and arterioles (arteriolosclerosis), 
+associated with hypertension & diabetes, can lead to lacunar strokes
+• Arteries thicken/ narrow due to fatty (lipo) and glassy/proteinaceous (hyaline) material: Ex. 
+Lenticulostriate arteries accumulation of lipid and hyaline material have thickened arterial walls → 
+narrowing and potential occlusion
+• Chronic hypertensive vasculopathy → lipohyalinosis of the small vessels → occlusion of small, 
+penetrating arteries → lacunar stroke (basal ganglia & subcortical white matter most prominent)
+• Named for the characteristic “lake-like” appearance of the resulting cavities in the 
+brain tissue on MRI of the brain
+• Axial T2-weighted brain MRI showing hyperintense signals in the basal 
+ganglia/internal capsule region and other deep brain structures (hyperintensity
+causes include stroke, demyelination, inflammation, or tumors)
+• Commonly affected regions: Internal capsule, basal ganglia, pons, corona radiata
+• Depending on location, clinically silent or severe impairment
+MRI-T2W
+Robbins and Cotran 
+Pathologic Basis of 
+Disease, 10th ed. fig. 
+28.16 Lacunar 
+infarcts in the 
+caudate and 
+putamen (arrows)
+--- Page 14 ---
+Internal capsule
+https://anatomyqa.com/internal-capsule/#google_vignette
+--- Page 15 ---
+Embolic ischemic stroke
+• ~20% of strokes
+• Caused by occlusion of flow due to an embolus from another 
+part of the body
+• Can affect multiple vascular territories: Embolic
+shower (cardiogenic)- often refers to fat emboli, typically after 
+long bone fracture or orthopedic surgery
+• Fat emboli syndrome Sx/Sx: Blockages in small vessels, 
+mostly in lungs, brain, and skin w/ general cerebral 
+dysfunction (higher cortical function & consciousness, 
+often w/o localizing signs), characteristic white matter 
+hemorrhagic lesions of bone marrow emboli after trauma
+• Cardiogenic causes include:
+• Atrial fibrillation: Stasis of blood--> clots
+• Post-MI
+• Mitral valve prolapse
+• Prosthetic valve
+• Atrial myxoma
+• Endocarditis: Septic emboli
+• Rheumatic heart disease
+https://interventionalneurology.com/carotid-artery-
+disease
+https://www.ecgbook.com/atrial-fibrillation/
+Noncardiogenic 
+from thrombus
+--- Page 16 ---
+Embolic ischemic stroke
+• Paradoxicalcerebral embolus: If arteriovenous shunt present, ex. heart (septal) defect present:
+• Venousthromboembolism (ex. DVT) can become systemic → cardiac septal defect →carotid circulation
+• Non-cardiogenic/ non-thrombotic cerebral/ pulmonaryemboli examples: 
+• Fat embolism: Globule enter arteries after long bone fracture (in pulmonary capillaries, microscopic globules deform, pass to 
+arterial (systemic) circulation reform) - also can bypass lungs through arteriovenous shunts
+• Amniotic fluid embolism: Amniotic fluid & debris enters mother’s prenatal/pe rinatal circulation (emergency)
+• Clinical triad:Respiratoryfailure (PE occurs), focal neuro. deficits (due to anaphylactoid-like reaction) → pulmonary vasoconstriction, 
+acute right heart failure, hypotension, and hypoxemia) & petechial rash (DIC and vascular spasm → focal cerebral ischemia (stroke) or 
+hemorrhage)
+• Also, tumor and air (ex. via syringe) have produced emboli
+https://emedicine.medscape.com/art
+icle/460607-overview#a4
+--- Page 17 ---
+Embolic ischemic stroke -
+intravenous fat embolism 
+• Rarely seen on CT:
+https://www.jtraumainj.org/upload//thumbnail
+s/jti-31-103f2.jpg 3D CT reconstruction o femur 
+shaft fracture - longest and strongest bone in 
+the body, significant force required to break it 
+(ex. motor vehicle collision )
+https://www.jtraumainj.org/upload//thumbnails/jti
+-31-103f5.jpg Fat embolism in his right common 
+iliac vein was shown on the coronal plane of 
+abdominal computed tomography (arrow)
+https://www.jtraumainj.org/upload//thumbnails/jti -31-
+103f4.jpg Fat embolism in his right common iliac vein on 
+the axial plane of abdominal C (To determine whether 
+consistent with fat, Hounsfield unit measured at yellow 
+Asterisk showed −86 Hounsfield units)
+→→
+--- Page 18 ---
+Global ischemic stroke
+• h t t p s :// j ou rn a l s. p l os . org/ p l oso n e/ ar ti c l e /f i g u res ?i d = 1 0 . 13 7 1 /j ou rn a l . p on e . 0 10 8 71 2
+• Watershed infarcts (WSI) territories indicated/ blue & red with FL A I R MRI: (a) 
+Frontal region between anterior and middle cerebral arterial territories (b) 
+Occipital WSI– between middle and posterior arteries (c) Internal WSI: B etween 
+superficial and deep perforators territories of middle cerebral artery (d) 
+Paramedian WSI: Between anterior and middle cerebral arteries
+• Brain regions situated at border zones 
+between major cerebral arteries: Anterior, 
+middle, and posterior cerebral arteries
+particularly
+• During global hypoperfusion → prone to 
+infarction
+• Cortical Watershed (“watershed” is a 
+drainage basin) Zones: Outer cortical areas 
+where ACA, MCA, and PCA territories meet
+• Subcortical Watershed Zones: Deep brain
+regions, typically between deep vascular 
+territories of MCA and ACA
+FLAIR (Fluid-Attenuated Inversion Recovery) 
+MRI suppresses bright signal of water in the 
+CSF to make lesions with extra water (like 
+inflammation or damaged tissue) stand out 
+against the dark fluid
+--- Page 19 ---
+Global ischemic stroke
+• Neurons – are VERY sensitive to hypoxia
+• Most vulnerable: Hippocampus (CA1 region),
+neocortex (layer 3, 5, and 6 pyramidal neurons, insula, 
+precentral gyrus, and frontal lobes) cerebellum 
+(Purkinje cells), watershed areas (including
+reticular thalamus, caudate, putamen – deep
+locationsbetween artery territories → last to 
+receive blood & high metabolic activity demands 
+oxygen and glucose)
+• Mnemonic: Vulnerable hippos need pure water
+• If mild, only transient post-ischemic
+confusion with complete recovery
+• If widespread neuron death & pt. survives → 
+often persistent vegetative state
+• https://renaissance.stonybrookmedicine.edu/pat
+hology/neuropathology/chapter2
+• Liquefactive necrosis at the 
+paramedian watershed zone of 
+the neocortex
+• “Insular cortex ribbon“ ribbon loss, 
+"insular ribbon sign" on left: Visible 
+gray-white matter boundary of 
+cortex loss is a key early CT 
+indicator of acute ischemic stroke 
+in MCA territory
+• Vulnerable to hypoperfusion → 
+rapid edema blurs normal gray and 
+white matter boundary
+• Right side insula cortex is 
+highlighted and with arrows
+https://lens.usercontent.google.com/image?vsrid=CN2EhdH1hsKFtA
+EQAhgBIiRhZWY4MDRkMS1mYTMyLTQwODgtOWY0NS05OTY1MzI4
+Yzc2OWUyBiICbm4oBTjd7NG-
+7YOSAw&gsessionid=mxw9C6yIbAnLHS-kXeC98-0jzaka8Y-
+ZzSAshb9W5PCQjTeenWT-Og
+--- Page 20 ---
+Transient ischemic attack aka “mini stroke”
+• Brief, reversible episodes of focal, non- convulsive ischemic 
+neurologic disturbance: Usually 2 – 15 minutes, may be longer (If 
+symptoms disappear within 24 hours, event is termed “transient 
+ischemic event/ attack” - symptoms same as full stroke, no 
+permanent brain damage, to prevent a major stroke get
+immediate medical attention)
+• Can experience many, and between attacks may show normal neuro 
+exam
+• Associated with cerebral atherosclerosis
+• Amaurosis fugax
+• Often a warning sign for a stroke or permanent blindness
+
+--- Page 21 ---
+Clinical management of ischemic stroke
+Rx = medicine <4.5 
+hours of symptoms 
+onset to dissolve 
+clots, or surgical 
+removal
+Time Is Tissue Loss!
+• https://www.heart.org/en/-/media/Data-
+Import/images/7/9/8/0501-Feature-
+Stroke_WP.jpg?h=300&w=671&sc_lang=en
+• Stroke/ Cerebrovascular Accident (CVA) 
+results in acute focal neurological 
+symptoms
+• Symptoms of a stroke can include sudden
+headache, blurry vision, dizziness, slurred 
+speech, confusion, contralateralarm and 
+face weakness (facial drooping) & 
+numbness
+• Thrombolytic therapy is contraindicated
+in a brain hemorrhageof any etiology: Rx= 
+Control BP, reverse any anticoagulants, 
+reduce brain swelling, repair underlying 
+cause and relieve pressure
+Recall BEFAST acronym of suspected 
+stroke
+B - Balance: Sudden dizziness, loss of 
+balance, or trouble walking.
+E - Eyes: Sudden trouble seeing in 
+one or both eyes, or double vision.
+F - Face Drooping
+A - Arm Weakness
+S - Speech Difficulty
+T - Time to Call 911 (note the time 
+symptoms started)
+• https://www.itnonline.com/sites/default/files/styles/content_la
+rge/public/GettyImages-135138064.jpg?itok=0JS33-iQ
+• Infarction’s deficits determined by damages 
+anatomic distribution , rather than underlying cause
+--- Page 22 ---
+Ischemic stroke hemorrhagic transformation
+• Sustained ischemia→ vessels near infarct 
+core damaged → reperfusion → 
+hemorrhagic conversion of infarct
+• Or maybe, ischemia-reperfusion injury 
+after spontaneous or therapeutic 
+dissolution/ fragmentation of material
+• Larger ischemic territories are more 
+prone
+• Types:
+• Hemorrhagic infarction: Petechial 
+bleeding into infarct without mass 
+effect
+• Parenchymal hemorrhage: More 
+severe bleeding with mass effect, 
+potentially life threatening
+• https://www.thelancet.com/journals/laneur/article/PIIS1474-
+4422(13)70055-3/abstract
+• Brain coronal-section after hemorrhagic 
+stroke of basal ganglia (petechiae), showing 
+an accumulation of blood with intraventricular 
+hemorrhage (IVH) & brain’s midline shift
+Head CT https://www.thelancet.com/cms/10.1016/S1474-4422(13)70055-3/asset/bfa2a079-9a79-4f2b-ab86-de3ed4807324/main.assets/gr1.sml
+• HI-2 (Hemorrhagic Infarction type 2): 
+More confluent petechial hemorrhages 
+→no significant mass effect 
+• PH-2 (Parenchymal hematoma type 2): 
+Hematoma occupies >30% of infarcted 
+region → significant mass effect
+
+--- Page 23 ---
+Hemorrhagic stroke
+• Hemorrhagic stroke contributes to 10%-20% of strokes annually
+• Hemorrhagic stroke is due to bleeding into the brain by the 
+rupture of a blood vessel and is subdivided into intracerebral 
+hemorrhage (ICH) & subarachnoid hemorrhage (SAH)
+• ICH is bleeding directly into the brain tissue (parenchyma) and is 
+commonly caused by hypertension or cerebral amyloid angiopathy 
+(CAA)
+• SAH is bleeding in the space around the brain – commonly caused 
+by a ruptured aneurysm, head trauma, or an arteriovenous 
+malformation (AVM)
+• More common in men and increases with age
+• In people on anticoagulant treatment, hemorrhagic infarcts may be 
+extensive 
+• Venous infarcts are often hemorrhagic - may occur after 
+thrombotic occlusion of superior sagittal sinus, other sinuses, or 
+deep cerebral veins
+• Epidural hemorrhage (EDH) & subdural hemorrhages  (SDH) are 
+types of intracranial bleeding & can cause stroke-like symptoms 
+and rarely true ischemic stroke due to compression, but it's often 
+misdiagnosed as stroke because it mimics symptoms
+https://www.sciencedirect.com/science/article/pii/S0146280622002250
+--- Page 24 ---
+Hemorrhagic stroke pathophysiology
+• Spontaneous (nontraumatic) intraparenchymal hemorrhages most common incidence 
+~60 years of age
+• Hemorrhagic infarctions parallel ischemic with blood extravasation and resorption
+• Vessel rupture
+• Hypertension, CAA, trauma, aneurysm or vascular malformations
+• Blood extravasates into brain parenchyma or subarachnoid space
+• Mass effect & edema(see, asterix & arrowhead)
+• Hematoma compresses surrounding brain (hyp erd ense area  o n CT, u sually in brain 
+tiss ue)
+• Results in elevated intracranial pressure (ICP)
+• Acute hemorrhages have central core of clotted blood that compresses adjacent 
+parenchyma → secondary infarction of the affected brain tissue, with anoxic neuronal 
+and glial changes as well as edema (eventually resolves) → hemosiderin and lipid-laden 
+macrophages appear & proliferation of reactive astrocytes at periphery
+• Secondaryischemia &stroke
+• Adjacentvessels constrict → worsenstissue hypoxiawith secondary ischemic
+strokes
+• Toxic effects of blood products
+• Hemoglobin breakdown releases free iron and reactive oxygen species (ROS) → 
+cellular injury, BBB disruption, andneuroinflammation
+Head CTFLAIR  MRI
+• NeurobiolDis. 2023 Jan:176:105948
+• Brain edema formation and therapy after ICH
+• (A) ICH patient’s 2 days MRI FLAIR after hemorrhage showing 
+significant hyperintense perihematomal edema (white asterisk) 
+& lateral ventricle compression (B) ICH patient’s 1 hour CT after 
+hemorrhage showing low-density brain edema region (white 
+arrow) around the hematoma
+--- Page 25 ---
+Intracerebral hemorrhage: Chronic hypertension
+• Hypertensivechangecauses non-lobar (rather than cerebral lobes) intracranial
+hemorrhage(ICH)
+• Hypertension vessel wall abnormalities include accelerated atherosclerosis in 
+larger arteries, hyaline arteriolosclerosis in smaller arteries – in severe cases, 
+frank necrosis of arterioles
+• If small vessels with arteriolosclerosis do not rupture but are occluded → 
+lacunar infarction
+• Long standinghypertension →Charcot-Bouchard microaneurysms (due to 
+degenerationof tunica media, elasticlamina & smoothmuscles, lipohyalinosis,
+subendothelial fibrinoidnecrosis, microaneurysms) – commonlyfind bulge in a 
+small penetrating arteries supplying basal ganglia (originate from basilar
+arteries or anterior,middle, or posterior cerebral arteries(eg, lenticulostriate 
+arteries)
+• Acute hypertension can also cause ICH, ex. Eclampsia - known as postpartum 
+ICH
+https://prod-images-static.radiopaedia.org/images/55112913/downloaded_image20240702-
+55476-21y445.png
+--- Page 26 ---
+Intracerebral hemorrhage: Cerebral 
+amyloid angiopathy (CAA)
+• Caused by accumulation of cerebral amyloid-β (Aβ) in tunica media 
+and adventitia of leptomeningeal & cortical vessels
+• Amyloid deposits lead to inflammation, causing lesions, hemorrhages -
+requires immunosuppression for inflammation
+• Causes  vascular fragility tends to manifest in normotensive elderly 
+patients as lobar intracerebral hemorrhage
+• CAA ↑age, ~50% >70 years have CAA - recurrent hemorrhages can occur 
+due to CAA
+• Associated with variations in the gene encoding apolipoprotein E (either 
+an ε2 or ε4 allele, ↑risk of bleeding)
+CT Head
+https://researchmgt.monash.edu/ws/portalfiles/portal/
+321744859/292856193_oa.pdf
+--- Page 27 ---
+CAA & ICH
+• Pathology similar to Alzheimer's disease (AD), 
+however in AD amyloid deposits in brain 
+parenchyma
+• Patients with CAA have evidence of numerous 
+microhemorrhages within brain (“microbleeds”) 
+→ may cause vascular dementia
+• https://radiopaedia.org/cases/pres-and-cerebral-
+amyloid-angiopathy
+• SWI MRI technique highly sensitive to 
+blood/ blood products, iron, and calcium to 
+visualize microbleeds, veins, and 
+calcifications - for diagnosing 
+neurodegenerative diseases, strokes & 
+traumatic brain injuries
+• In SWI MRI, foci of SWI susceptibility 
+artifact in both cerebral and 
+cerebellar hemispheres with sparing
+of the basal ganglia, thalami & 
+brainstem - more consistent with 
+cerebral amyloid angiopathy
+• Susceptibility WeightedImaging SWI MRI:
+highlights blood products (hemosiderin) as
+blooming artifacts (in medical imaging 
+some lesions appear larger than actual)
+showing dot hemorrhages (pure water or 
+fluids like CSF generally appear as a dark
+(low signal intensity) signal
+• https://lmpimg.med.utoronto.ca/LMP
+36980.htm?utm_campaign=Full&utm_
+medium=referral&utm_source=dlml
+• Beta amyloid angiitis
+• Immunohistochemical 
+staining for Aβ (beta 
+amyloid) will show 
+deposited in vessel walls
+SWI MRI
+--- Page 28 ---
+Subarachnoid hemorrhage (SAH)
+• In the subarachnoid space (CSF circulates here) -
+Imaging: Blood in the subarachnoid space on CT
+• Most commonly from trauma, then ruptured 
+aneurysms (e.g., berry aneurysms)
+• Presents as a sudden onset of a severe 
+“thunderclap” headache ( patients may say “this is 
+the worst headache of my life” reaching maximum 
+intensity in minutes), neck stiffness, photophobia
+and can rapidly loose consciousness
+Normal head CT
+Head CT showing hemorrhages 
+arrow: Ruptured aneurysmal SAH 
+in a starburst pattern (blood in 
+basal cisterns), but also right 
+sylvian fissure ( Classic pattern of 
+SAH with high density blood 
+surrounding the circle of Willis, 
+where majority of berry 
+aneurysms are located)
+https://commons.wikimedia.org/wiki/File:SubarachnoidP.png#/media/File:SubarachnoidP.png
+--- Page 29 ---
+SAH: Trauma commonly produces 
+sulcal SAH (see head CT arrow)
+• Most common overall cause of SAH
+• Classically presents with blood in the sulcus of the brain due 
+to tear of small arteries travelling in subarachnoid space
+• Often occurs near bony regions, like over the skull base as
+brain hits againstbone from trauma
+CT Head
+• https://www.researchgate.net/figure/Traumatic-
+subarachnoid-hemorrhage-Axial-non-enhanced-
+CT-shows-high-density-hematoma-
+in_fig4_7426978
+• Non-contrast enhanced head CT 
+with high density blood in cortical 
+sulci (arrow)
+--- Page 30 ---
+SAH: Spontaneous - aneurysm
+• Most common spontaneous SAH is aneurysmal
+• Most commonlysaccular, aka "berry" aneurysms of the Circle of Willis (in subarachnoid space)
+• Berry aneurysms - small, thin-walled protrusions of usually arteries of circle of Willis or major 
+branches
+• Majority are on anterior circle ofWillis (an terio r com mun icat in gart erymostcommon – see diagram)
+• In ~ 2% of population; multiple in 20-30% of cases in autopsy series
+• Risk factures
+• Collagen/Elastindisease(ex. Marfan’s & Ehlers
+Danlos syndromes)
+• Female
+• Familyhistory
+• Smoking
+• Autosomal dominant polycystic kidney dz
+• Aneurysms are few millimeters to 2 or 3 cm in diameter, bright red, shiny surface and thin, 
+translucent wall - risk of bleed ↑ with size: >10 mm diameter have ~50% risk of bleeding per year
+• May rupture any time, but ~1/3rd of cases acute ↑ICP, like straining at stool or sexual orgasm
+• 25-50% of patients die with first rupture, but survivors often improve and recover consciousness 
+in minutes - repeat bleeding is common with worse prognosis each time
+• Other aneurysm types include atherosclerotic (fusiform; mostly of the basilar artery), mycotic, 
+traumatic, and dissecting but more often cause cerebral infarction than SAH
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2021 
+Chapter 28 fig. 28.19
+--- Page 31 ---
+Clinical management of cerebral aneurysms
+include the following:
+https://teachmesurgery.com/neurosurgery/neurovascular-disease/subarachnoid-haemorrhage/
+--- Page 32 ---
+SAH: Spontaneous- (art eriovenous malformations ) AVM
+• Important cause of spontaneous SAH, but can also 
+result in intracerebral hemorrhage
+• Region of dysplastic dilated blood vessels (neither 
+arteries nor veins) arterial blood flows directly into 
+draining veins without normal interposed capillary beds
+• Usually congenital and enlarge with age, and often 
+progress from low-flow juvenile lesions at birth to 
+medium-to-high-flow high-pressure lesions in adulthood
+• Although lacking features of typical neoplasms, AVMs 
+frequently have activating mutations in KRAS oncogene in 
+endothelial cells
+• Grossly are “tangle of vessels” in subarachnoid space, 
+brain, or both
+
+--- Page 33 ---
+SAH: Spontaneous- AVM
+• Males : female = 2:1
+• Often presents between 10-30 yrs of age as a seizure disorder, intracerebral hemorrhage, or 
+SAH
+• Most common site is middle cerebral artery territory, especially posterior branches
+• Management of unruptured AVM involves surgical resection based on Spetzler- Martin Grade 
+(size, location, venous drainage)
+Angiogram
+DO NOT MEMORIZE!
+https://radiopaedia.org/articles/spetzler-martin-
+arteriovenous-malformation-grading-system-2?lang=us
+--- Page 34 ---
+CNS trauma
+• Physical forces causing head injury may cause skull fractures, 
+parenchymal injury & vascular injury, or all three
+• Can include the following types of forces: Penetrating, blunt, 
+blast, accelerating-decelerating - either open or closed injury
+• Multiple etiologies – automobiles, abuse, falls, bullets, etc.
+• Head injury/trauma is leading cause of death - ages 15 – 40 yrs
+• Major cause of permanent disability
+• Most common cause of pediatric traumatic death
+https://www.rxteach.com/emergency-tbi-management/
+--- Page 35 ---
+Skull fractures: Depressed type – types & mgmnt.
+• Depressed skull fracture cause compression of bone into brain: Parenchyma or 
+cortical vessels
+• Surgery is considered for depressed skull fractureswith deficits referable to 
+underlying brain
+• Distance greater than thickness of bone =displaced skull fracture
+Head CT 
+https://my.clevelandclinic.org/
+health/diseases/skull-fracture
+• https://learningradiology.com/notes/generalnotes/depr
+essed%20skull%20fx.htm
+• CT of the brain in bone window with 
+depressed skull fracture of right 
+parietal bone (red arrows) with one 
+part of fracture depressed beneath 
+inner table of the other fragment
+• White arrow shows soft tissue 
+swelling
+• Bone window: Contrast is set to 
+highlight dense tissues like bone
+• Diastatic = suture separation
+--- Page 36 ---
+Skull fracture: Basilar
+• Typically see orbital roof, sphenoid bone, or 
+petro-mastoid portion of temporal bone
+fractures (usually occiput or sides of head impact) 
+• Typical signs: Battle's sign - ecchymosis
+behind ear (mastoid process), raccoon’s eye signs
+(blood from skull fracture seeps into soft tissue 
+around eyes)
+• CSF leakage from the nose or ear
+(rhinorrhea/otorrhea) and infection (meningitis) 
+may follow
+ CT Head
+• https://www.jetir.org/papers/JETIR1901762.pdf
+• Head axial non-contrast CT Head shows linear 
+fracture involving foramen magnum
+https://neupsykey.com/neurologic-history-examination/
+https://neupsykey.com/neurologic-history-examination/
+--- Page 37 ---
+Traumatic brain injury (TBI)
+• Brain injury from trauma results from two distinct processes: Primary brain injury at time of 
+trauma (cortical contusions, lacerations, bone fragmentation, diffuse axonal injury, and brainstem 
+contusion); Secondary injury after initial injury from intracranial hematomas, edema, hypoxemia, 
+ischemia (primarily due to elevated intracranial pressure (ICP) and/or shock), vasospasm
+• Concussion is a functional manifestation of mild traumatic brain injury
+• https://standardofcare.com/concussion/#:~:text=A%20sport%20related%20concussion%20is%20a%20traumatic,psychological%20implications%20in%20both%20short%20and%20long%2Dterm
+• Concussion: Clinical syndrome biomechanical induced alteration of brain function (typically affects memory & orientation, may involve loss of 
+consciousness)
+• Typically with immediate & transient loss of consciousness with a brief period of amnesia following force to the body (including head, rapid brain 
+movement causes axonal stretching and microstructural damage) that effects the brain - neurologic recovery usually complete
+• Diagnosis based on history & physical: Acute Sx - Headache, dizziness, confusion, nausea, blurred vision; delayed Sx - mood changes, memory issues, sleep 
+disturbances
+• Functional manifestation of mild traumatic brain injury, but no trauma related intracranial abnormalityis seen on CT or MRI 
+• Neurometabolic cascade causes brain to be more sensitive to stress and further injury until fully recovered
+--- Page 38 ---
+Coup/contre-coup injury
+• Blow to head may result in contusion at point of contact (coup injury) or on brain 
+surface diametrically opposite it (contrecoup injury)
+• Coup injury = injury at point of contact/impact (head generally immobile at time of 
+trauma)
+• Contre-coup injury = damage to brain surface opposite of impact
+• https://www.radiologymasterclass.co.uk/gallery/ct_brain/ct_brain_images/extradural_contracoup_ct_brai
+n#top_1st_img
+• Brain CT shows large left acute epidural hematoma & contrecoup 
+injury on the right keeping with a coup-contrecoup injury pattern
+https://radiopaedia.org/articles/coup-contrecoup-injury-brain
+
+--- Page 39 ---
+Direct parenchymal injury
+• Contusion: Bruise caused by blunt trauma
+• Wedge-shaped, broad base along surface at impact point 
+• Blow to surface of brain, transmitted through skull, leads to rapid tissue displacement, disruption 
+of vessels, hemorrhage, tissue injury & edema
+• Manifestations of parenchymal injury range from mild (concussion) to severe (contusions and 
+lacerations)
+• Postconcussive neuropsychiatric syndromes, typically associated with repetitive injuries - chronic 
+traumatic encephalopathy (CTE, previously “dementia pugilistica”), a dementing illness after 
+repeated head trauma
+• CTE brains are atrophic, enlarged ventricles, accumulation of tau- neurofibrillary tangles in gyri 
+and perivascular in frontal and temporal lobe cortices
+• Important sequelae of brain trauma include posttraumatic epilepsy (focus is healed injury site), 
+risk of infection, posttraumatic hydrocephalus, and psychiatric disorders
+Head CT 
+• https://commons.wikimedia.org/wiki/File:Brain_trauma_CT.jpg#:~:text=Multiple%20frontal%2C%20p
+arietal%2C%20and%20temporal%20lobe%20contusions,was%20noted%20without%20shift%20of%20
+midline%20structures.%22
+• Bilateral frontal lobe damage: Areas of high density (white) both 
+sides of frontal lobes indicate contusions (bruising)
+--- Page 40 ---
+Diffuse axonal injury (DAI)
+• Traumaticbrain injuries damage deep white matter regions, cerebral peduncles, superior
+colliculi, and deep reticular formation in brainstem
+• Widespread brain injury from acute stretching & shearing forces during trauma, damaging nerve 
+fibers (axons)
+• Microscopic findings include axonal swelling, and focal hemorrhagic lesions subsequently there’s 
+degeneration of involved fiber tracts
+• Imaging studies show petechial hemorrhages in white matter tracts
+• High speed brain injury may occur from marked changes in angular acceleration (e.g., blast
+injuries, MVC), even in absence of physical impacts of skull
+• Associated with immediate, deep coma
+• Cerebral edema and ↑ICP
+• Mortality 30-40%
+MRI SWI
+• magnetom_flash_ismrm_issue_62-02161984_1800000002161984.pdf
+• For detecting tiny hemorrhages (microbleeds) and axonal damage invisible to CT, especially in white matter, 
+brainstem, and corpus callosum - SWI is highly sensitive for detecting these hemorrhagic lesions, which are key 
+indicators of DAI
+• Susceptibility-weighted magnetic resonance imaging (MRI) scan of the brain, highlighting multiple cerebral 
+microbleeds
+• Dark spots (red arrows) represent hemosiderin deposits from old, small hemorrhages
+--- Page 41 ---
+Epidural hematoma (EDH)
+• Located between skull and periosteal layer of dura
+• Often due to trauma, particularly with skull fractures that 
+damage the middle meningeal artery – arterial blood
+• Presents usually with “lucid interval” followed by rapid 
+deterioration - symptoms include headache, vomiting, and 
+potential loss of consciousness
+• Prompt diagnosis needed, surgery for drainage - fatal brain 
+herniation may occur in a few hours - neurosurgical 
+emergency that most often requires evacuation of hematoma 
+using craniotomy
+Head CT
+• https://www.neurosurgicalatlas.com/volumes/emergency-neurosurgery-
+and-trauma/traumatic-hematoma/epidural-hematoma
+• Almost always associated with skull fracture (red 
+circles)
+• Arrows show soft tissue swelling & EDH
+• https://quizlet.com/64534757/first-aid-cns-part-three-flash-cards/
+• Biconvex, lentiform-shaped extra-axial fluid 
+collection characteristic of an epidural 
+hematoma
+Bone flap
+craniotomy
+--- Page 42 ---
+Subdural hematoma (SDH)
+• Located between dura and arachnoid mater
+• Usually due to tearing of bridging veins (venous blood) often from head injuries (often in elderly and chronic 
+alcoholics (brain atrophy) associated with minor trauma or falls→ chronic subdural)
+• Usually, venous bleeding is self-limited and the resulting hematoma is broken down and organized - slowly 
+progressive neurologic deterioration is typical, but acute decompensation may also occur
+• Organized hematoma is firmly attached to dura by fibrous tissue and can eventually retract as granulation tissue 
+matures until thin layer of connective tissue remains - multiple recurrent episodes of bleeding may occur (chronic 
+subdural hematoma), presumably from the thin-walled vessels of granulation tissue and re-injury
+• Symptoms, may develop over hrs-wks, include headache, confusion, & focal neurological deficits -risk of repeat 
+bleeding is greatest in first few months after initial hemorrhage
+• Treatment of subdural hematomas = remove blood and organizing tissue
+• At surgery, acute SDH hematoma looks like grape jelly, chronic SDH has motor oil appearance & SDH forms a capsule 
+around hematoma (neovascularization)
+CT Head
+https://www.slideshare.net/slideshow/neurosurgery-72534011/72534011
+• https://radiopaedia.org/cases/acute-subdural-haemorrhage-with-subfalcine-herniation
+• Imaging shows crescent-shaped (concave) bleed on CT scan
+• Large right frontal acute subdural hematoma with significant mass effect, left 
+midline shift and subfalcine herniation
+• Crescent-shaped bright (hyperdense) blood on right side 
+• A shift of midline structures of the brain to the left
+• Compression of underlying brain tissue
+--- Page 43 ---
+• https://www.saskoer.ca/ece142hsn2ed/chapter/chapter-six-child-maltreatment/
+• A severe form of child abuse caused by violent shaking of an infant or 
+young child - neck muscles are not strong enough to restrict head 
+movement
+• Brain bangs against skull/ tearing of bridging veins→ SDH/ can also cause
+diffuse axonal injury
+• Sx/Sx: Lethargy, seizures, apnea, retinal hemorrhages (>80% of cases)
+• Associated findings a history of many fractures (e.g., ribs, long bones)
+• https://www.hawaii.edu/medicine/pediatrics/pemxray
+/v5c07.html
+• Acute subdural hematoma right 
+fronto-temporal region
+• Compression of right lateral 
+ventricle with shift of midline 
+structures from right to left
+• Hematoma is crescent shaped as 
+classically described with subdural 
+hematomas
+SDH - shaken baby syndrome
+--- Page 44 ---
+Intraventricular hemorrhage
+• Located within the brain’s ventricular system
+• Can result from extension of intracerebral hemorrhage or trauma
+• Commonly seen in preterm infants (germinal matrix - transient, highly vascular layer in the 
+developing fetal brain, located near the ventricles, that produces neurons and glial cells - 
+hemorrhage)
+• Presentation is variable - may cause symptoms of hydrocephalus if blood obstructs CSF flow
+• Imaging shows blood in ventricular spaces on CT
+Head CT
+• https://pacs.de/term/intraventricular-
+hemorrhage#&gid=1&pid=13
+• Basal ganglia hemorrhage with 
+intraventricular extension
+--- Page 45 ---
+Brain herniations
+C
+A
+B
+• A brain herniation occurs when something inside the skull produces pressure that shifts 
+brain tissues
+• Most often result of brain swelling or bleeding from a head injury, stroke or tumor
+• Types: A. Transtentorial (uncal) herniation: Medial portion of temporal lobe – uncus herniates 
+down through tentorium cerebelli; B. Transforaminal (tonsillar)herniation: Cerebellar tonsils 
+herniate down through foramen magnum Brain CT
+• Riveros Gilardi B, Muñoz López JI, Hernández Villegas AC, Garay Mora JA, Rico 
+Rodríguez OC, ChávezAppendiniR, De la Mora Malváez M, Higuera Calleja JA. 
+Types of Cerebral Herniation and Their Imaging Features. Radiographics. 2019 
+Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 31589570C
+• C. Subfalcine/ cingulate herniation: Cingulate gyrus 
+herniates down below falx cerebri (*), midline shift 
+of ventricles (arrowheads)
+• Most common type
+• Can cause headaches due to increase intracranial 
+pressure, also contralateral leg weakness 
+(herniating cingulate gyrus can compress ipsilateral 
+anterior cerebral artery against the falx → 
+infarction (stroke) - ACA's supplies motor cortex for 
+lower limb)
+--- Page 46 ---
+Transtentorial herniation
+• Uncus compresses ipsilateral oculomotor nerve: Ipsilateral fixed & dilated 
+pupil, “blown pupil” – see image A below
+• Need immediate neurosurgicalintervention: Craniectomy to 
+evacuation of hematoma and relieve pressure
+Left blown pupil
+Demetriades D, Benj ami n ER. Head Inj ury . In: Demetriades D, Chudnofsky CR, 
+Benjam in ER, eds . Color A tl as of Emergency Traum a. Ca mbridge U niversity 
+Press; 2021: 1-23.
+CT brain
+CT brain
+• Blown pupil: Large pupil that doesn't react to light at all 
+(fixed mydriasis) is a serious sign
+• Normal in Bright Light: 2-4 mm
+• Normal in Dim Light: 4-8 mm
+• https://pubs.rsna.org/doi/abs/10.1148/rg.2019190018
+• Subdural hematoma, right pupil was dilated and 
+unresponsive to light
+• Axial CT image: Uncus displaced down across tentorial 
+incisura (curved arrow)
+• Ipsilateral perimesencephalic cistern (double-headed 
+arrow) is widened
+• Contralateralcistern is compressed
+• Also contralateral dilatation of the temporal horn of the 
+lateral ventricle (*)
+• Compression of posterior cerebral artery (white arrowhead)
+& oculomotor nerve (black arrowhead, ipsilateral blown 
+pupil (arrow) and contralateral temporal horn dilatation (*)
+--- Page 47 ---
+Transforaminal/ tonsillar herniation
+Tonsillar herniationForamen magnum
+• Cerebellar tonsils protrude through foramen magnum due to ↑ICP, 
+often from conditions like TBI, hemorrhage, or tumor
+• Compression of brainstem &
+medulla oblongata, disrupting vital functions such as respiration and 
+cardiovascular regulation
+• Obtundation → Neurosurgicalemergencywith often very poor prognosis
+• Riveros Gilardi B, Muñoz López JI, Hernández Villeg as AC, Garay Mora JA, Rico Rodríguez OC, Chávez 
+Appendini R, De la Mora Malvá ez M, Higuera Calleja JA. Types ofCerebral Herniation and Their 
+Imaging Features. Radiographics. 2019 Oct;39(6):1598-1610. doi: 10.1148/rg.2019190018. PMID: 
+31589570
+• Sagittal T1-weighted MR image: Downward displacement of 
+cerebellar tonsils (>5 mm) relative to the dashed line (McRae line)
+• Obliteration of the cisterna magna
+• Anterior displacement of the medulla (arrow)
+• Hydrocephalus (*)
+Brain MRI-T1
+--- Page 48 ---
+Summary
+Ischemic Stroke Etiologies
+Hemorrhagic Stroke Etiologies
+Skull FracturesCNS Trauma types Traumatic Brain Injury: Hemorrhagic bleeds
+Histological Changes of ischemic Infarct
+--- Page 49 ---
+THANK YOU!
+Lecture and Lab Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+
+
+--- Transcript Content ---
+Hello, my name is
+Aluga, D.O. I'm a
+pathologist at Arkansas
+State University,
+New York Institute
+of Technology.
+There's my office,
+phone number,
+email, so feel free to
+contact me if you
+have questions.
+There's a survey
+at the end, you
+can email me or
+any questions.
+This is going to
+be the pathology
+of cerebrovascular
+diseases discussion
+today, and here's
+our objectives,
+and I highlighted
+what they were,
+obviously pathology,
+ischemic ******,
+hemorrhagic ******,
+transient ischemic,
+brain trauma,
+so anything dealing
+with blood vessels
+and blood and loss
+of oxygen, loss
+of blood flow,
+loss of perfusion.
+There's a lot of
+changes in ischemic
+infarctions,
+classifications of those
+strokes, different
+kinds of ischemia
+that can occur
+through thrombosis,
+emboli, or global
+hyperperfusion.
+Hemorrhagic strokes,
+those are going to
+be looking a little
+different. And what's
+associated with
+those, hypertension
+or something called
+amyloid angiopathy,
+subarachnoid
+hemorrhage, and
+what kind of
+hemorrhage that leads
+to, intercerebral
+hemorrhage.
+And then there's
+subarachnoid hemorrhage
+associated with
+traumatic, aneurysmal, and
+what's called arterial
+venous malformations.
+So what can happen
+with trauma?
+We're going to talk
+about herniations,
+skull fractures,
+concussion, surgery,
+and epidural hematomas.
+still dealing
+with trauma, we're
+going to talk about
+contusions and coo
+-contra-coo injuries
+and something
+called diffuse
+axonal injury, okay?
+So this isn't one of
+the disorders that
+we're going to be
+discussing. This is just
+something good to know
+because it's used a
+lot, I mean, used a lot
+of imaging when you're
+looking at the
+cerebrovascular diseases.
+There's something
+called the Hounsfield
+unit used with CT
+and a non-contrast CT
+is going to be a common
+test that's going
+to be done with someone
+with a head trauma
+or some other
+abnormality of the CNS
+due to possible
+cerebrovascular disorder.
+So Hounsfield unit,
+and here's a chart
+here, and I guess Mr.
+Hounsfield, Dr. Hounsfield
+made up this chart
+a long time ago.
+And so less dense,
+so water has a,
+is set as zero hounds
+field units okay so
+water is going to
+blood as a water where
+is it here water is
+zero ones that are
+positive are going to
+appear bright okay for
+example hemorrhage gray
+matter so hemorrhage
+is a little brighter
+than gray matter
+you can see here so it's
+a little it's bright
+but it's a little gray
+it's not dark like
+the fluid in the
+ventricles of CSF muscle
+about the same white
+matter about the
+same but bone that's
+going to be very bright
+okay so very dense so
+hemorrhage and bony
+structure high positive
+Hounsworth units.
+Blood is a high
+Hounsworth unit number
+because of a lot of
+protein and iron in it,
+in that material.
+Less dense ones like
+fat are going to appear
+dark. Okay, so you can
+see the white matter,
+that appears darker
+than the gray matter.
+Okay,
+and then
+so it's going to be
+negative, and then air,
+that's going to be
+very negative, okay,
+and appear dark.
+Here is how it
+might appear, and so
+you can use your
+Hounsfield units to
+see what you might
+think this would
+be, so this is an
+acute hemorrhage,
+so it's hyperdense
+and bright,
+so a lot of positive
+hounds field units
+there so maybe thinking
+it's blood but then
+it's starting to
+consolidate and my creatures
+are coming in and
+starting to clean this
+up so it becomes more
+I mean less bright
+so it may be isodense
+with the surrounding
+CMS then it becomes
+hypodense as you know
+that's you know starts
+to resolve later and
+it becomes cystic you
+know because there
+could be some cystic
+degeneration of portions
+of the brain and
+also this mass tube
+might start
+disintegrating, dissolving,
+because of the macrophages
+and other enzymes.
+Cerebrovascular disease
+are common in the
+United States of
+America and they include
+all disorders that
+involve any part of the
+brain with temporary,
+or that is temporarily
+or permanently
+affected by ischemia
+or bleeding.
+So the things that
+blood vessels do,
+that's all disorders
+that could possibly
+be associated with
+those processes.
+And one or more cerebral
+vessels are involved.
+Here's a diagram
+that shows several
+cerebral vessels here
+to the right. and
+different disorders
+that might occur from
+rupture and hemorrhage
+to thrombosis to
+looks like atherosclerotic
+plaque here
+and then maybe an
+emboli came and
+launched right there
+so those would cause
+the processes that
+we just mentioned all
+right so i wrote
+aka ****** so when
+a part of the brain
+temporarily or
+permanently affected
+by ischemia or
+bleeding that's also
+known as ******,
+so brain blood flow
+suddenly reduced,
+so cells become
+hypoxic due to
+hypoxemia, low blood
+O2, or ischemia,
+low blood flow,
+which you want
+to have the oxygen
+that supplies.
+That can cause cell
+disability and possible
+infarction, which is
+necrosis, cell death.
+so when blood flow is
+reduced by any process
+survival depends
+on what's called
+collateral circulation
+so the connections with
+other blood vessels
+for that territory that
+that blood was supplying
+okay how how long
+that loss of blood
+flow and oxygen is
+lasting how great the
+drop in blood flow was
+was it maximum you
+know what normal was
+to nothing all at once
+and how rapidly that
+reduction occurs a
+lot of the collateral
+circulation for the
+CNS comes out of this
+circle of Willis with
+his various branches
+but also external
+carotid ophthalmic artery
+collaterals there's
+little if any for
+those really deep
+structures like the thalamus
+basal ganglia and
+deep white matter
+collateral flow so they
+can suffer from like
+global hyper hyper
+perfusion of the brain
+because of the lack of
+that collateral flow
+different types of
+strokes looks like I
+left a bullet point
+out of this up of this
+one so strokes are also
+called cerebrovascular
+accidents or CBAs
+the different types
+are ischemic or
+hemorrhagic 87% so the
+vast majority are going
+to be ischemic where
+you have loss of
+perfusion to a territory
+of the brain that
+vessel was applying.
+Bloxychloroquine
+vein may be like
+maybe superior
+saturated sinus
+in the brain or,
+but that's rare.
+Storm cell, a lack of
+fusion, hemorrhagic
+strokes,
+13% are caused by
+a bleeding artery.
+Okay, so as you can
+see, blood is going to
+extravasate and it's
+going to be reabsorbed.
+But because this blood
+is going into the
+tissues, it's not
+supplying the cells
+that the capillary
+beds were supposed to
+supply oxygen and
+remove carbon dioxide
+from those cells so
+the tissue surrounding
+in this area is
+going to become
+hypoxic okay and also
+because it's an expanding
+mass you know it's
+going to become
+a hematoma that's going
+to cause compression
+and necrosis and
+the adjacent bone
+CNS structures.
+The transition region
+and we'll say this
+gray area is going to
+be then the carotid
+tissue this tissue is
+deceased and normal brain
+tissue you know this
+tissue out here so
+just around the edges
+to variable degrees
+depending on you know
+like claterals things
+like that is going to
+be an area that's at
+risk okay so this area
+may not be functioning
+properly because it
+has reduced levels
+of oxygen but it can
+recover as long as it
+gets its perfusion back
+that's known as the
+penumbra and that can
+be rescued so you and
+that's what you want
+to do so you want to
+do that as quickly as
+possible so you can
+preserve as much CNS
+tissue as possible so
+you can use anti
+apoptotic interventions,
+so medicines to prevent
+this, and that suggests
+that ischemic neurons
+die by apoptosis
+and necrosis. So that
+was kind of an experiment
+someone did to see
+if there's apoptosis
+going on there, and
+apparently there is.
+So different etiologies,
+and this is going
+to be the ischemic type
+******, where there's
+going to be a loss
+of blood flow. Okay,
+so here's two different
+examples of what's
+called a thrombotic
+******, and one of the
+simplest one to
+understand, most common, is
+going to be atherosclerotic
+plaques. They're
+going to cause a
+narrowing here, and
+these plaque surfaces,
+they're fragile, and if
+there's like fast flow
+or something happens
+and that ruptures
+that plaque, then that
+could form a thrombus
+and block that flow.
+So, lipohylinosis
+is another one. It's
+associated with,
+see, this is going
+towards these
+larger vessels. So,
+you see like the
+middle cerebral, middle
+meningeal artery
+here is affected.
+And here is these
+smaller deep penetrating
+arteries, okay, that
+are going to be affected
+by, in this case,
+usually hypertension,
+okay. And that's
+going to cause
+the lumen to be
+thinned as well,
+okay. So, and that's
+also going to damage
+the vessel wall and
+make that susceptible
+to reactive oxygen
+species and injury
+from high flow and
+a thrombus may form.
+Okay, so thrombotic
+atherosclerosis, we
+already went over
+that. Lipohyanosis,
+we went over that.
+Then there's embolic.
+Okay, so here's
+an embolus. It
+can come from
+various locations.
+if it's in the arterial
+system it could
+come from the heart
+you could have atrial
+fibrillation a piece
+could break off and then
+travel into your CNS
+circulation and lodge
+at the narrowest part
+that it can reach
+and so I mentioned
+cardiogenic then
+there's non-cardiogenic
+and that's usually
+from things like
+atherosclerotic plaque
+so this could be
+say for example the
+common carotid artery
+and then a portion
+could break off
+and then go through
+the CNS circulation
+and once again reach
+a narrow point and
+block that area.
+So it's going to
+usually, non-cardiogenic
+is going to be
+atherosclerotic
+plaques in the internal
+carotid artery.
+The middle
+cerebral artery
+characteristic
+most frequently
+is one most frequently
+affected by M-malli.
+And those tend to
+lodge in an eventual
+branch with a pre
+-existing stenosis.
+So like I said,
+when it reaches the
+narrow point,
+it's going to get
+lodged there and
+it's going to stop.
+Okay.
+Other,
+see I didn't highlight
+any of this down
+here, but these are
+other things you
+may have been wondering
+about. Yeah, if
+it gets inflamed,
+vasculitis can cause
+luminal narrowing
+and occlusion. For
+example, polyarteritis
+nodosa, drug *****
+may cause vascular
+spasm, like *******,
+opioids, and
+even occlusion.
+Aneurysm, AVMs, and
+coagulopathy, they
+can all cause
+thrombosis, and of
+course you get thronged
+by developing an
+aneurysm, but they
+can rupture too.
+Vascular malformations
+steal blood from
+surrounding tissue
+and they become
+hypoxic, and they
+may rupture as well.
+There's something
+called global ischemia,
+where these processes
+aren't occurring, but
+the person becomes
+severely hypotensive.
+And when that occurs,
+there's areas called
+border zones or
+watershed zones. And a
+watershed is a basin where
+water drains to, okay?
+That's what a watershed
+is. So it's a region
+where things are
+flowing towards, okay?
+so in the brain you
+can think of it you
+know kind of like that
+so it's gonna be at
+the junctions of two
+major arteries territories
+so between them they
+may not reach each
+other exactly so the
+cells right between
+them if there's a little
+they may be getting
+just as much oxygen
+as they need but
+if it drops just a
+little bit they're gonna
+be in trouble okay
+maybe they'll start
+going into some sort
+of reversible injury
+program and you know
+start to get ballooning
+degeneration and these
+kind of things that
+happen but that could
+be reversible as long
+as you increase the
+perfusion pressure.
+So these areas are
+vulnerable to ischemia
+and there's a slide
+about that later.
+So this is a
+molecular path,
+this is just
+something about
+something called
+excitotoxicity.
+That comes from this
+molecule glutamate
+and this molecule
+can damage neurons by
+allowing calcium ions
+to influx because
+it interacts with
+this NMD8 receptor.
+How does a lot
+of glutamate
+get into ischemic areas?
+Well ischemia can
+cause these amino acids
+to be inappropriate
+released from the
+damaged cells and
+then it's released
+into the adjacent
+surrounding structures.
+So don't memorize this
+this is just something
+scientific to know
+so here's an example
+of an ischemic ******
+this would be not
+acute okay this be kind
+of a resolving ******
+this would be what
+have happened a while
+back because of its
+because of how dark it
+is compared to the
+rest of the surrounding
+serene cortex okay if
+an artery becomes so
+what happens ischemic
+****** ischemic ******
+there's occlusion of
+an upstream artery
+and again infarction
+downstream infarction
+because you get tissue
+hypoxia then you and
+then once you get
+past reversible cell
+injury, if the epoxy
+persists long enough or is
+reduced quickly enough,
+then irreversible
+neuronal injury, it
+can be as fast as five
+minutes after the
+tissue becomes hypoxic.
+If there's
+sustained ischemia,
+that can produce
+infarction.
+And what's called
+liquefactive necrosis,
+which you learned a
+long time ago, which is
+one of the characteristics
+of CNS necrosis.
+It's very sensitive
+to the enzymes that
+are released by cells
+in that tissue when
+they become necrotic
+for digestion of
+all its components,
+all its lipids, all its
+carbohydrates, all
+its proteins, all of
+that. And it turns it
+into a liquid kind of
+gelatinous, kind of
+thick mass of cells.
+Okay, so the hydrolytic
+enzymes do that.
+Those come from
+inflammatory cells
+and enzymes from the
+tissues themselves
+that are being
+released. Over time
+macrophages are
+going to clear it and
+they're going to be
+left with a cystic
+space. This doesn't
+show cystic space.
+It shows you got this
+mass, it happened
+a while back and
+it's shifting the
+midline so you see
+this was one of the
+ventricles but now
+it's over on this
+side, the left side
+of the ball cerebrine
+when it's supposed
+to be over here.
+So this is what
+you see grossly,
+little change
+in the first six
+hours of
+irreversible injury.
+This is grossly.
+At about 48 hours it may
+become pale,
+soft swollen,
+about two to ten
+days gelatinous It's
+probably 10 days to
+weeks, it liquefies.
+And this is just
+another timeline,
+these are the molecular
+events you would
+see, or the
+microscopic events you
+would see. So about
+12 to 24 hours, you'll
+start seeing the
+cytoplasm, see this
+neuron, which is
+ischemic compared to
+this neuron over
+here, which is not,
+this cytoplasm is darker,
+pinker. maybe more
+magenta color it's
+darker more vibrant
+and look at this nucleus
+it's becoming very
+dark compared to these
+other ones you don't
+even see that big
+nucleolus anymore that is
+indicative of a neuron
+I see is a big dark
+nucleus so when you
+get these really dark
+red neurons those
+are indicating it's a
+necrotic neuron, okay?
+So about 12, 24 hours.
+Because of that,
+neutrophils are going
+to come in, and
+for the next couple
+days, they're going
+to respond to the
+signals of this tissue
+that is ischemic.
+And after that,
+after about three
+days, they're going to
+peak, and then they're
+going to start to fall
+off, and macrophages
+are going to become
+predominant cells along
+with microglia and
+they're going to go in
+and phagocyte hose all
+that dead tissue and
+the astrocytes are
+going to become more
+active at about a week
+and they need to
+rebuild as much of the
+architecture as they
+can they are glial cells
+so they're going to be
+become a bit hypertrophic
+cytoplasm is going
+to become plop
+they're going to have to
+send out extensions so
+they can guide neurons
+around to where they
+need to go to restore
+as much function as
+possible and get the
+vasculature restored
+as much as it can be
+done and this is an
+example of liquid
+effectiveness process in a
+photographic image
+all this what you see
+grossly here is going
+to be the chronic
+tissue and you see
+the discolored area
+right around the
+edges that's probably
+the penumbra, the
+area at risk, okay.
+So after this cystic
+space has been removed
+by macrophages and then
+the glial cells come
+in and try to repair
+this and help get
+neurons back in there
+as much as they can,
+you're going to get a
+lot of reactive gliosis,
+okay, so a lot of
+these cells here,
+there's going to be
+some degenerating
+neurons here but
+you see a lot
+of these little
+cells, these are
+oligodendrocytes and
+these are going to
+be your astrocytes. So
+they have big nuclei
+with big nucleoli,
+a lot of cytoplasm,
+so they're very
+active trying to do as
+much as they can to
+remove the tissues
+as best can be done.
+And so when they're
+done, they're going to
+be left with a glial
+scar, which will
+show a lot of neuron
+loss. There might
+be some neurons that
+can be restored, guided
+into that region.
+You're going to see
+a lot of reactive
+astrocytes there
+still. You'll see a
+bunch of fibroblasts
+because they're
+trying to hold the
+tissue together and
+endothelial cells
+trying to revascularize
+that tissue and
+microglia because
+those are the
+macrophages of the brain.
+So these are the
+histologic changes.
+Once again,
+you know, I'm staying
+on topic. acute
+cerebral infarction so
+this the vessel that was
+causing the problem
+you get marked edema
+pale areas okay so
+these cells have a lot
+of extra fluid within
+their cytoplasm right
+now so they look pale
+six to twenty four
+hours you get once
+again eosinophilic
+neurons red dead neurons
+you get that really
+dark ignotic or cario
+-rectic where it starts
+to break up nucleus so
+red neurons Neurons,
+neutrophils, macrophages,
+and the cystic
+cavity are going to
+be characteristic
+features. Here's the
+red neurons and you can
+see how red they look
+compared to, I can't
+see any normal ones
+here, but let's see,
+yeah they didn't
+include any of that,
+they just took
+a picture of
+what area that
+was necrotic,
+okay. Okay,
+so up to about four
+to eight hours,
+neutrophils
+immigrate into that
+area where you've
+got necrosis,
+but then it falls
+off after that,
+macrophages become
+more prominent. So
+they're going to be
+lipid-laving because
+you know the myelin
+sheath is going
+to be covered with
+a lot of lipids.
+And they're going
+to be engulfing all
+these damaged
+structures and tissues
+that liquefactor
+necrosis has produced.
+Okay, I'm trying to get
+rid of that material.
+And then glial cells
+are going to come in
+and they're going to be
+around the edges where
+this lucrofactor
+necrosis is occurring and
+that material is being,
+you know, removed.
+And they're going to,
+as soon as much of
+it can be removed,
+they're going to come in
+and try to repair it
+as much as they can.
+But you're
+going to be left
+with these cystic spaces.
+So this is a thrombotic
+ischemic ******. So,
+commonly, they have
+a plaque, commonly in
+the internal carotid,
+and that's going to
+reduce blood flow,
+okay, create turbulence
+too. So, that's an
+environment for plaque
+rupture and thrombosis
+to occur, most
+commonly in this
+internal carotid artery.
+So, the most
+common type of
+******, thrombotic,
+associated
+with hypertension
+and diabetes,
+you know, they accelerate
+atherosclerosis.
+uh throngous uh
+uh and you get
+progressive luminal
+narrow narrowing we've
+commonly seen an older
+person um okay um
+and those with a lot
+of uh high cholesterol
+and atherosclerosis
+um and i kind of
+explained the process
+already oh most
+common at the carotid
+bifurcation here,
+the middle
+cerebral artery
+origin, so right
+up here, and either
+end of the
+basilar artery.
+No, they don't
+really show it.
+Okay.
+Okay.
+Staying on the
+thrombotic ischemic
+****** and
+atherosclerosis,
+common sight, I already
+mentioned these.
+The common carotid,
+though, bifurcation,
+if you have a clot
+that is going to be a
+thrombotic ischemic
+******, it's going to
+travel up to the first,
+well, this is talking
+about NY. so part
+of that thrombus can
+break off okay so and
+they can travel up to
+the first intracranial
+branch of the internal
+carotid artery and
+that's the ophthalmic
+artery I mentioned
+that because it's going
+to find this narrowest
+point and it's
+going to get stuck
+there and that vessel is
+applying the territory
+of the retina and
+that's not going to
+be functioning anymore
+so that's what's called
+amorosis fugax so
+it's transient sextaminus
+because these small
+vessels So fibrinolysis
+will be able to
+take care of things
+quickly and maybe get
+rid of it for any
+damage for small emboli.
+So vision loss from
+hyperperfusion,
+retina, or the
+optic nerve itself.
+And that's another common
+area I already mentioned.
+So here's a CT angiogram.
+It's showing what's called
+the lenticulostriate
+arteries. And that
+thrombus, again,
+right there at
+the, looks like
+the, I guess
+it's bifurcation
+of the middle
+meningeal artery.
+I think, okay,
+that's where the most
+common, you get that
+atherosclerotic plaque
+forming and that
+thrombus forming, and
+then you might get
+some little bits
+flying off that. Here's
+a CT angiogram of
+a ******, and you're
+looking at these
+lenticulostriate
+arteries in this case.
+And in this red circle,
+this is an angiogram,
+so there's a contrast
+in these blood
+vessels and you can see
+some of the vessels with
+the contrast in it,
+but maybe one here,
+but like there's a
+whole area with nothing.
+So this part of the,
+this is going to be
+in the internal capsule
+basal ganglia area
+that the lenticulostrite
+arteries, uh,
+um, provide blood
+to, and, well, yeah,
+basal ganglia, pitamen,
+I don't know why
+that, uh, I gotta
+remove that currency,
+uh, globus pallidus,
+coniote nucleus,
+uh, internal capsule,
+common site, uh,
+the lenticulostrite
+arteries
+are a common
+site for small
+strokes, those
+are small vessels,
+small territory, so, of
+what's called lacunar
+infarcts but you can
+have a lot of lacunar
+infarcts and it's in
+a very critical area
+of the internal capsule
+and the basal ganglia
+too and that region
+lacks collateral a lot
+of if any collateral
+flow because they're
+very small and they come
+from deep penetrating
+arteries okay so
+they're susceptible to
+watershed infarcts and
+also this because there's
+not a lot of collateral
+flow okay one of
+the characteristic
+features of this region
+though is if you get
+ischemia you'll get pure
+motor or sensory loss
+okay so that might
+be included with what
+you're dealing with so
+lipohylinosis and here's
+the MRI that shows
+lesion there's lacuna
+infarcts and here's
+this is good this is
+throwing a atherosclerotic
+plaque in comparison
+with lipohylinosis.
+What the hylin is
+is when you look
+under a microscope
+or even just
+grossly at the
+thickened wall it looks
+kind of pink orange
+and homogeneous
+glassy thickened wall.
+There may be some
+component of
+atherosclerosis there too
+because you can have
+two things at once.
+But that's due
+to hypertension.
+And that damaging
+vessels and causing
+extravization of plasma
+proteins into the wall
+of the vessel, causing
+thickening of it.
+Okay.
+So, lipohyognosis
+affects small arteries,
+arteriosclerosis,
+and arterioles. So,
+that's arteriolosclerosis
+associated with
+hypertension and diabetes.
+And that's associated
+with these small
+vessels, so
+lenticulostriates, going
+into the basal ganglia
+and you get these
+small lacunar infarcts.
+That's not the only
+place you can get
+lacunar infarcts, but
+that's a common place.
+So the artery is
+thick and narrow due
+to, like I said, some
+fat, but also this
+glassy protonaceous
+hyaline material.
+It could lead to
+a condition of
+chronic hypertensive
+vasculopathy where
+you get that
+lipohylenosis of many
+small vessels and
+get these lacunar
+strokes of all of
+this region here.
+And lacunar is
+named for the lake
+-like effect when
+you see it on an
+imaging study.
+This is a T2 MRI,
+okay,
+so hyper-intent
+signal in the base
+of ganglia caused
+that ******.
+It can be silent or
+severe impairment,
+it all depends
+on the anatomical
+location that
+was affected.
+And this is just a
+reminder, this is where
+the internal capsule
+is, it's right
+here, it has a posterior
+part, posterior
+limb, and an anterior
+limb, anterior part of
+the brain, posterior
+part of the brain.
+and that's where the
+axon nerve fibers
+are sent in a
+fan-like pattern
+from the cerebral
+cortex down into
+the spinal cord
+into your body
+and this is
+called the corona
+radiata below the
+cerebral cortex
+that's just a reminder
+embolic strokes
+that's 20% of
+strokes caused by
+embolus from somewhere
+else in the body
+there can be something
+called an embolic
+shower and
+that's going to be
+cardiogenic which means
+that's going to be
+the material is
+going to be flowing
+through the heart
+well I don't
+know why it's
+cardiogenic there
+think about removing
+that I mean the
+heart is moving it
+but it often refers
+to fat emboli
+typically after a long
+bone fracture like car
+crash and orthopedic
+surgery. And so
+you get a lot of
+these tiny flat back
+globules and they
+do pass through your
+heart and lungs.
+Alright.
+So, often referring
+to fat emboli.
+Fat emboli syndrome
+of blockages of
+small vessels,
+mostly in the lungs,
+brain, and skin so
+you can get petechia
+with general
+cerebral dysfunction.
+Okay?
+You know,
+disorder of
+consciousness,
+often without
+localizing signs
+and it's characteristically
+affecting
+the white matter with
+hemorrhagic lesions
+of bone marrow emboli
+it's called fat
+emboli because there's
+a lot of fat in bone
+marrow if you ever
+look at it so there's
+a lot of fat in
+there you'll see bone
+marrow elements in
+the embolus as well
+cardiac causes most
+common is atrial
+fibrillation because
+it's just sitting there
+quivering and so blood
+is going to become
+still and begin to
+clot and some of
+those clots can travel
+to different parts of
+the body. After an
+MI, maybe there'll
+be a region of the
+heart not functioning
+properly, you could
+get a thrombus there
+which can have a
+piece break off. Vowel
+problems, prosthetic
+bowels, some tumors,
+inflammation, you can
+get septic emboli,
+which means you
+get bacteria
+and other debris
+that travels as
+an embolus from
+septic focus.
+Romantic disease
+is an example of an
+infection that
+damages heart valves
+and other structures
+in the heart.
+So now we're talking
+about embolic
+ischemic strokes of
+something coming from
+somewhere else in the
+body and affecting
+your brain. Okay so
+it has to go through
+this structure right
+here, the aorta.
+It can get there
+by passing through
+the lungs and there
+are some things that
+can pass through
+the lungs um but
+there's some odd
+conditions where it
+doesn't have to pass
+through the lungs
+uh if you have a a
+pain uh cardiac septum
+um from foreign middle
+valley or something
+else then if you
+have a clock you know
+coming from the venous
+circulation okay like
+a dbt or something
+like that um and uh it
+doesn't have to go
+through the lungs or it
+could be a big opening
+right here so it
+could travel right
+over to the systemic
+circulation up through
+the aorta and cause a
+****** that came from
+the venous circulation,
+DBT but that's a
+paradoxical cerebral
+embolus you wouldn't
+expect that to happen
+so central defects
+can cause that
+and I gave the
+example of DBT
+so non-cardiogenic,
+non-thrombotic
+cerebral or pulmonary
+emboli examples
+I already mentioned
+fat embolism
+and the reason I
+mention the fat one is
+because how do they
+get from because
+they come from the
+venous circulation
+right how do they come
+from there and get
+through the lungs
+and go to the stem
+because not everybody
+has a septal defect
+although more than
+you would think too
+so these globules
+they're tiny and they
+enter the arteries
+after a fracture
+and
+the microglob
+microscopic globules can
+deform and pass into
+the arterial or systemic
+circulation by
+bypassing the lung or
+through arteriovenous
+shunts, okay? So,
+there'll be tiny
+little microscopic
+globules and then
+they'll pass through
+the lungs and
+then maybe they'll
+start associating
+with each other and
+start making bigger
+globules, okay?
+Okay.
+amniotic fluid embolism
+can occur and that
+so that's where
+amniotic fluid and some
+debris like skin cells
+and things like that
+entered mom's
+circulation and it's an
+emergency medical
+emergency there's a triad
+that occurs with this
+also with fat embolism
+they can trigger
+this kind of triad it
+can cause respiratory
+failure of PE is going
+to happen and cause
+focal neuro deficits
+and in this case with
+this embolism it can
+trigger an anaphylactoid
+like reaction by
+releasing tissue
+factor and other stuff
+from this debris into
+the mom circulation.
+So you get neural
+effects, lung effects
+and then the pulmonary
+vasoconstriction
+that's also going to
+be affecting the brain
+and so you can end
+up with heart failure
+okay you know from
+this pp hypotension and
+hypoxemia okay so
+that's your neuro effect
+then it could trigger
+DIC as well because
+I mentioned tissue
+factor already and
+cause vascular spasms
+so can cause vocal
+ischemic strokes and
+hemorrhages as well,
+okay, because it
+can activate the
+complement cascade,
+it can activate the
+coagulation cascade,
+okay, because of
+the factors in the
+skin cells and other
+cells that are
+forming these emboli.
+And fat emboli
+can trigger the
+same sort of
+phenomena as well,
+but amniotic fluid
+embolism can,
+and produce what's
+called disseminated
+intravascular
+coagulation.
+So also, this
+is just as a, by
+the way, tumors
+can break out
+little pieces
+and cause emboli.
+Air, like from a
+syringe, if you
+don't get the air
+out before you
+inject, they can
+produce air emboli
+and have negative
+consequences.
+So here's an
+example of the fat
+embolism. This is
+just a good diagram.
+Here's a reconstruction
+from a 3-D CT.
+I wrote O again.
+It's supposed
+to be of the femur
+shaft fracture,
+which you can
+see right there.
+Okay.
+Here, you rarely
+see these fat emboli
+on CTs. But here is
+the iliac vein, and
+it shows the fat
+embolism right here.
+Okay.
+which you don't really
+see that often, and
+here would be the, I
+guess it's the iliac,
+okay, so it would
+be the psoas
+muscles, I
+guess, intestine,
+okay,
+part of the pelvis,
+I think, okay,
+so yeah, I guess
+that would be
+one of the iliacs
+right there,
+okay, and you
+can see there's
+some blood, but
+there's also,
+where that yellow
+asterisk is,
+just like here a defect
+and it appears dark
+okay so the panembolism
+is in the right
+common iliac vein on
+the axial plane of
+abdominal oh I didn't
+put the T in that should
+be CT gosh I thought
+I did proofread this
+bunch time but okay
+so I that level of
+intensity is consistent
+with fat and the asperage
+showed 86 Hounsfield
+units which is
+consistent with fat so
+that's why knowing a
+few things about like
+things like Hounsfield
+units helps this is
+that global ischemic
+ischemia I was
+talking about before
+it causes strokes
+in those watershed
+regions and so these
+colors show where
+those watershed
+regions are okay so
+So those are between
+the different
+branches of the
+internal carotid artery.
+So the middle
+cerebral, anterior
+cerebral, watershed
+area would be here,
+posterior cerebral,
+middle cerebral,
+watershed area would be
+here, and also some of
+the deeper penetrating
+arteries will have
+watershed regions as
+well and produce strokes
+in those characteristic
+regions and I
+show them on these
+different image images
+let's see what this is a
+flare MRI and I put
+what that is over here
+it suppresses bright
+signals okay so it
+makes you be able to
+pick up blood a little
+bit easier so this
+happens if there's global
+hyperperfusion it can
+lead to infarcts in
+these watershed zones,
+okay, so between
+the major blood vessel,
+you know, branches.
+Typically, deep brain
+structures can be
+affected, typically
+between deep vascular
+territories of the
+MCA and ACA, okay,
+so C here is an
+internal watershed and
+part between the
+superficial and deep
+perforators of the
+middle cerebral artery.
+So it's those deep
+perforators, remember,
+those are subject to
+not penetrating deeply
+enough and maybe just
+supplying the bare
+minimum of oxygen that
+those cells needed to
+function properly. But
+now the blood pressure
+drops super low and
+now they're hypoxic.
+Okay,
+so A is showing
+those watershed
+regions, D here
+is showing this,
+okay, so that's blood,
+so that's between
+the anterior and
+middle cerebral
+arteries, okay, so
+this region here and
+also this region here,
+anterior and middle
+would come in, send
+some perforating
+branches to that area
+right there that's
+susceptible to a
+watershed infarct.
+This is what a global
+ischemic ******
+might look like.
+Remember, cystic cavities.
+There's something called
+the insular ribbon
+and I'll explain it.
+Well, you can read it.
+But I'll tell
+you real quick.
+So neurons, as you know,
+very sensitive
+to hypoxia.
+But the most vulnerable
+ones are going
+to be the hippo,
+the hippocampus,
+CA1 region, neocortex,
+these layers,
+Purkinje cells in the
+cerebellum,
+watershed areas,
+and deep locations
+between artery
+territories, like we
+were just looking at.
+And so there's
+a mnemonic that
+vulnerable hippostate
+pure water.
+Let's help you
+remember that.
+Okay,
+so if it's mild,
+there might just be a
+little bit of
+confusion and you might
+recover with this
+global ischemic ******.
+However, it's
+widespread neuron death,
+but you survive.
+There's a high
+likelihood of persistent
+vegetative state
+at that point.
+Okay.
+So, here's an
+example of an early
+CET indicator of
+acute ischemic
+****** in the
+MCA territory.
+There's something
+called the insular
+cortex ribbon
+or ribbon loss,
+okay, and that's called
+the insular ribbon
+sign when there is
+a loss, okay, so
+on the left side here,
+you have a question
+mark because you don't
+see what's called
+the insular ribbon,
+which is a clear
+distinction between
+the gray matter and
+white matter in this
+region on the insular
+cortex, okay, you
+do see, it's It's
+kind of highlighted
+with brighter here
+and these arrows and
+over here it's not,
+but
+you can see how
+there's loss of the
+distinction between
+those, that's one of the
+early signs. It's
+vulnerable to hyperperfusion
+and rapid edema
+blurs the normal gray
+and white matter boundary
+okay on the right
+side that's what it
+normally would look
+like except for the
+highlighting that they
+put there that's an
+early indicator okay
+TIA also known as a
+mini ****** that's
+in a schema kind of
+attack and we already
+had this picture here
+so something could
+come through here and
+stop right there as
+an embolic and causing
+an embolic ******.
+Mini ****** is a
+transient ischemic attack.
+Transient means it's
+going to be brief, it's
+reversible, and there's
+going to be focal
+effects. For example,
+here it's affecting
+one of the eyes. That's
+non-convulsive and
+ischemic neurologic
+disturbance, usually up to
+15 minutes. It can be
+a little bit longer,
+about 24 hours, and
+it's still called a TIA.
+But you can have
+many of these,
+but between
+attacks, you may
+show a normal
+neurological exam.
+This is going
+to be associated
+with cerebral
+atherosclerosis, because
+part of that
+might break off.
+And the condition called
+amaurosis fugax,
+which I already
+explained, which
+is transient.
+But it is transient,
+but it's often a warning
+sign for a ****** or
+permanent blindness,
+because that was
+just one shot.
+Who's to say there's
+not more coming?
+So you should have a full
+neurologic workout
+for ******.
+So clinical management
+of ischemic ******.
+It results in focal acute
+neurologic symptoms,
+such as this one
+shown here by
+this gentleman.
+And they can
+include sudden
+headache, blurry
+vision, dizziness,
+slurred speed, confusion,
+contralateral arm and
+face pain, and here
+I italicize face
+grouping, and numbness.
+so thrombolytic therapy
+is contraindicated
+in a brain hemorrhage
+of any cause
+what do you do if
+it's going to be
+you know a hemorrhagic
+****** I know we were
+talking about ischemic
+but I put in hemorrhagic
+because in this case
+you probably want
+to give thrombolytic
+as quick as you can but
+down here maybe not
+what do you do well try
+to control the blood
+pressure reverse any
+anticoagulants that could
+possibly be on reduce
+the brain spoiling
+because that's going to
+happen you don't want
+to injure the brain
+anymore than it already
+is and repair whatever
+underlying cause it
+is and of the bleeding
+and relieve pressure
+okay on the brain and
+the blood pressure you
+know because that could
+cause more hemorrhaging
+okay okay here we
+are with ischemic
+****** though right so
+remember time is tissue
+loss okay so same thing
+for hemorrhagic ******
+too quick as you can
+you know start treatments
+but remember there's
+an acronym for these
+ischemic ****** do
+they have a problem with
+balance do they have
+a problem seeing a
+double vision face group
+arm weakness speech
+difficulty T is time to
+call 911 that's the
+be fast acronym if
+suspect ****** because
+time is tissue loss so
+they could be losing a
+CNS rapidly right now.
+So this shows that
+they need to get
+identified through
+a CT non-contrast
+what kind of ******
+they're having
+and this is just
+an example of a CT.
+and here's you know
+get them to definitive
+therapy less than
+four and a half
+hours of system onset
+so we make sure you
+know the time of
+this symptom started
+so when those folks
+arrive you can tell
+them you know they
+had symptoms one
+hour ago so they know
+you know they need
+to get in the hospital
+which they have.
+So there's medicines
+that can solve clots if
+it's ischemic, not
+hemorrhagic, or there
+can be surgical removal
+through thrombectomy.
+Okay.
+There's something
+called ischemic ******
+hemorrhagic
+transformation, and that's
+where a vessel near
+the infarct is damaged
+because because of
+inflammation, you know,
+there's necrosis,
+neutrophils, all that.
+And so there's
+reperfusion, and
+then hemorrhage
+occurs because
+of these damaged
+blood vessels.
+Or maybe there's
+ischemia or reperfusion
+injury from
+thrombolytic therapy.
+Okay.
+So different kinds of
+hemorrhagic infarct.
+If it's just small
+hemorrhages throughout
+the brain as can
+occur with something
+that's called CAA,
+which I'll go over
+with you, then that
+can produce no mass
+effect. But if it's
+a large parenchymal
+hemorrhage, and that
+usually is due to
+more severe bleeding
+with mass effect, it
+could be potentially
+life-threatening.
+This is showing
+petechiae scattered
+around these lenticular
+striped arteries.
+So there's been
+accumulation, because of
+this hemorrhage, it
+was converted from
+ischemic to hemorrhagic
+and it broke through
+this side of the
+ventricle. And now there's
+blood in the ventricle.
+So you can see
+the petechiae, but
+you can also see the
+interventricular
+hemorrhage and the brain's
+midline shift. okay
+so this would be the
+right hemisphere that's
+supposed to be around
+the right side but
+that's pushing the
+left hemisphere over the
+same and the ventricles
+are being shifted
+so so this is a
+hemorrhaging infarct
+type 2 that you see here
+there's no significant
+mass effect that
+you can tell and this
+is a a significant
+parenchymal hematoma,
+parenchymal hemorrhage
+type 2, occupies
+more than 30% of the
+region, and you have
+significant mass effect
+and more significant
+sequelae from that.
+Hemorrhagic strokes
+can be, okay,
+hemorrhagic ******,
+that's bleeding into the
+brain from a ruptured
+vessel. It can
+be intracerebral,
+ICH or subarachnoid,
+ICH most commonly
+associated with hypertension
+as intracerebral
+and or cerebral
+amyloid angiopathy,
+also known as CAA.
+Subarachnoid is bleeding
+in the space around
+the brain, commonly
+caused by ruptured
+aneurysm, head trauma
+or an AVM, that's
+more common in men and
+increases with age.
+I just want to mention
+EDH, epidural and
+subdural are types of
+intracranial bleeding,
+but they're not,
+and can cause ******
+-like symptoms, but
+they're not causes,
+they're not
+types of strokes.
+Okay, they're not
+hemorrhage strokes
+or anything
+like that, they
+don't come from a
+cerebral vessel.
+But it's often
+misdiagnosed a
+****** because
+they mimic, okay.
+So here's some
+pathophysiology.
+So the most common
+incidence, about
+60 years, hemorrhagic
+and parched
+parallels ischemic with
+blood, extravasation
+and resorption
+being added on top.
+The vessel ruptures,
+hypertension, CAA,
+trauma, aneurysm,
+blood extravasates,
+you get a mass effect
+and so as blood
+extravasates from there
+you'll get swelling
+and that's what
+the asterisk shows.
+Let's see, where's
+the white arrow?
+Yeah, that's edema
+in that region.
+Okay,
+so that tissue
+swelling and everything
+is going to start
+compressing adjacent
+tissues, as well
+as the hematoma.
+Okay,
+what you see
+on the head, CT
+is bright, and
+it's flare MRI.
+This is a dark region.
+And then the edema
+is going to be
+the white asterisk
+on this flare MRI.
+So, the hematoma
+is going to
+press surrounding
+structures and
+elevate intracranial
+pressure.
+There
+is some toxic effects
+of blood products as
+well because reactive
+oxygen species are
+released and that does
+cause inflammation and
+damaging of surrounding
+cells and tissues.
+So, that needs to
+be managed, the
+inflammation of
+the brain because
+that's going to
+cause edema as well.
+So, chronic hypertension
+is going to be most
+associated with
+intracerebral hemorrhage.
+And rather than the
+cerebral hemispheres
+or lobes, like frontal
+and all that, it's
+going to be more deep
+structures, okay?
+Like those
+small arteries,
+the lenticular stride
+arteries you talked
+about that are supplying
+the basal ganglia, so
+it's going to be
+commonly occurring there.
+If it's long-standing
+hypertension, it could
+cause outpouching of
+those vessels. Thin
+-walled balloons that
+develop over time, those
+are called Charcot
+-Bouchard microaneurysms.
+Okay.
+And this is a
+cerebral amyloid
+angiopathy caused by
+amyloid beta and the
+tunic amenia
+adivaticia of cortical
+vessels, but also
+in the Maniches.
+It causes vascular
+fragility.
+The system has a
+normal, a normal
+tensive elderly
+person that has low
+bar, because
+remember there was
+that senile amyloid
+that does occur,
+A normal tensive
+elderly person that has
+low-bar intracerebral
+hemorrhage, okay,
+versus non-low-bar
+that we just mentioned.
+So CAA increases
+with age.
+You can have
+recurrent hemorrhages
+due to this CAA,
+and it's associated
+with a gene encoding
+apolipoprotein E,
+okay? And here's an
+example that's more
+cortical than in the
+basal ganglia region.
+So here's intracerebral
+hemorrhage.
+You can see how the
+CAA, the beta amyloid,
+weakens the vessel
+wall, and there's
+perivascular
+hemorrhages that you
+can see in these
+regions. And these are
+going to be these
+tiny pockets that
+are picked up on
+what's called SWI MRI.
+And that's just a special
+procedure that
+allows you to see
+these hemorrhages
+more clearly.
+So you can see it's an
+inflammatory response,
+It's damaging the
+vessels, the aneloid
+is damaging the vessels
+itself, but also the
+inflammation is, and
+so we get bleeding.
+Subarachnoid
+hemorrhage, okay,
+is blood in the
+subarachnoid space.
+And you can see
+that on your CT,
+and here's an
+example of that.
+Here's what would
+be a normal. You
+see it's dark here,
+it's not, okay.
+Most commonly
+from trauma,
+then ruptured aneurysms,
+also known as very
+aneurysms. They
+present with sudden
+severe thunderclap
+headache. The
+patient may even say,
+it's the worst
+headache of my life.
+Next to stiffness,
+photophobia,
+and rapidly lose
+consciousness.
+And so here's a
+starburst pattern of
+probable ruptured very
+aneurysm, because this
+is in the subarachnoid
+space, location of
+where most of the
+very aneurysms are
+located which is circle
+which is in subarachnoid
+space okay trauma
+commonly produces
+socal subarachnoid
+hemorrhage so like when
+you hit your head so
+in the sulci vessels
+on the surface may
+bleed into the sulci
+okay it's the most
+common overall cause
+So blood in the
+sulci because tears
+small arteries traveling
+into that space.
+Often occur in a bony
+region like the skull
+base because it's
+really irregular
+there. So if the brain
+scrapes along that,
+you may get some
+tearing of those small
+vessels and bleeding
+in subarachnoid space.
+Spontaneous hemorrhages.
+Most common
+spontaneous one is
+going to be due to
+an aneurysm. and
+this is where
+they mostly occur,
+okay, in the circle
+of willis, but within
+the circle of
+willis, the anterior
+communicating artery is
+the most frequent, okay.
+So, he's also called
+saccular or bari.
+The majority, circle
+of willis, but there
+are some risk
+factors, like otters,
+domos, those collagen
+disorders, and marfans,
+being female, smoking,
+family history,
+polycystic kidney
+disease, the autodomal
+dominant type, is also
+associated with very
+aneurysms so this is
+just about the size they
+can rupture any time you
+have acute increasing
+cranial pressure
+like straining on the
+stool or possibly even
+****** ****** 50% of
+patients die after
+the first rupture but
+survivors often improve
+and recover in minutes
+but repeat bleeding
+can be common and it's
+worse prognosis each
+time it does blazed.
+So this is how they
+would be treated
+and I just gave an
+image to show you.
+If it's a fusiform
+kind of aneurysm, it's
+just kind of becoming
+dilated in that region.
+A stent can be used
+to bridge that vessel.
+Or if this is like
+an outpouching of the
+side of the vessel and
+that becomes involved,
+you can put this
+coiled material that
+causes clotting in that
+region and that could
+close that off or you
+could clip that okay
+so blood doesn't flow
+in there anymore.
+Arteriovenous malformation
+so there should
+be capillaries between
+the arteries and
+the veins but sometimes
+it's malformed in
+some individuals and
+it can affect the CNS.
+One way it does affect
+is these are arteries
+going directly into
+veins, no capillaries
+in between. So it's high
+flow, a lot of blood
+flows through here
+and so the surrounding
+tissue is not going
+to get as much. But if
+there's hemorrhage or
+clot forms then that
+will cause that territory
+to have ischemia.
+Okay, let's see.
+These are usually
+congenital and enlarge
+with age and often
+progress from low flow
+juvenile to high flow
+high pressure adult
+types okay so you'll see
+it in adults more then
+you see it more in
+adulthood and grossly
+if you look at it it
+just looks like tangle
+of vessels of blood
+vessels and here's an
+example of one this
+one's really big okay
+and this is just some
+kind of window they
+use just to kind of
+look at this spot right
+here there's kind of
+blocking this part
+off affects males more
+often often presents
+up to 30 10 to 30 years
+of age as a seizure
+disorder of the ABM,
+but you can have an
+inner cerebral hemorrhage
+or subarachnoid.
+Most commonly, the
+middle meningeal
+artery territory is
+going to be affected.
+Management of
+one that's not
+ruptured yet is surgical,
+and then here's
+a grade to
+help with
+surgical planning.
+You don't memorize that.
+Trauma. Physical
+forces may cause skull
+fractures, you can
+get parenchymal
+and muscular injury.
+Here are just many
+different ways you
+can get injuries
+that are shown in
+this cartoon diagram.
+So following types
+of forces we're
+going to go over
+a little bit,
+not so much
+penetrating, but blunt,
+acceleration,
+deceleration,
+open or closed injury
+refers to if there's
+skin over the surface
+or if the fractured
+components are open to
+the environment, okay?
+multiple
+etiologies, you can
+fall, you can
+get shot, you can
+get me in a car
+that crashes.
+Head injury from
+trauma is a leading
+cause of death
+for ages 15 to 40
+years in the United
+States of America.
+And it's a major cause
+of permanent disability.
+It's the most
+common cause
+of pediatric
+traumatic death.
+So this is the depressed
+type of skull fracture.
+It The bone descends
+more than the thickness
+of the bone that it
+was connected to.
+So this is the depressed
+skull fracture.
+Surgery is considered
+on these fractures
+with deficits
+that are going to
+be referable. Once
+again, it's the
+anatomic region that's
+going to determine
+what kind of
+deficits you have.
+Okay,
+so this is showing
+a depressed skull
+fracture, the white
+arrow shows soft tissue
+swelling, and this
+is how the repair
+is done with these
+plates and screws,
+put these pieces
+back together.
+This is showing
+diastatic fracture
+where the suture
+comes apart.
+B is going to be your
+depressed fracture,
+linear fracture shown
+here in a bad area of
+middle minute shields
+there and this is
+going to be a basilar
+fracture which is bad.
+Basilar fracture
+will show raccoon
+eyes and battle
+sign which is blood,
+okay, well bruising
+which is blood.
+This is basilar skull
+fracture typically
+seen on the oval
+roof so that's
+why you might see
+this pretty readily.
+It's ecumosis behind
+the ear, mastoid
+process, raccoon's eyes,
+blood from the skull
+fracture seeps into
+soft tissues okay and
+so you can also see CSF
+leakage from the nose
+or ear rhinorrhoea
+and that could be a
+sign of basilar skull
+fracture or meningitis
+may fall once again
+that could be a sign
+if you don't have any
+obvious signs could
+be a basilar skull
+fracture and here is
+skull fracture involving
+the foramen magnum.
+Traumatic brain injury is
+two distinct processes.
+You got the primary
+brain injury where you
+get a cortical
+contusion. Contusion is
+just bleeding into that
+tissue. You can get
+lacerations. You get
+bone fragments in
+there. You get something
+called diffuse axonal
+injury. You can get
+brain stem contusion
+which is bad because
+the brain stem.
+Secondary injury, so
+after the initial one,
+you can get intracranial
+hematomas, edema,
+ischemia.
+All these are
+kind of due to
+elevated intracranial
+pressure or shock.
+There can be
+basal spasm too.
+Concussion is a functional
+manifestation of
+mild traumatic brain
+injury. I give a little
+bit about concussion
+down here. It's a
+functional brain syndrome
+that typically affects
+memory and orientation
+and may involve loss
+of consciousness,
+but not always. It's
+typically immediate,
+transient, a brief period
+of amnesia, following
+a force to the body.
+Recovery is usually
+complete, it's based
+on signs and symptoms,
+I list some here.
+It's functional
+manifestation, but no trauma
+-related intracranial
+abnormalities seen.
+If this does happen,
+then it causes this
+metabolic problem in
+the brain where it's
+more sensitive to
+stress or injury until
+it's fully recovered.
+So it has to be a
+period where the
+brain recovers because
+it's more sensitive.
+The next injury
+might be more severe.
+Coup contra, coup
+injury, okay,
+so this is where
+you get an injury
+on the exact
+opposite side from
+being, from one
+blow to your head.
+So at the contusion
+point, you will have
+a point of contact
+coup injury, so
+this is showing your
+coup injury in this
+case, on the CT, I
+mean MRI, CT, sorry.
+coup injury at the point
+of injury and contra
+-coup damage of the
+brain force a brain
+opposite and this is
+kind of showing how that
+would occur so you get
+your coup injury here
+hit and then the brain
+is pushed over to this
+side you know from
+that that force that
+impacted the head and
+the brain from here where
+it was hit, hits the
+other side of the
+skull because it's a closed
+structure, and that's
+where you get your
+contraceptive injury.
+Direct parenchymal injury
+is a bruise or contusion.
+Well, it could be
+laceration and severe
+cerebral hemorrhage,
+I wouldn't call that
+a bruise, but if
+it's an impact with
+hemorrhages within a
+region, a localized
+region, then that
+can be considered a
+contusion or a bruise,
+and that's going to be
+caused by blood trauma.
+It's usually red
+-shaped, red-shaped,
+rod-based along the
+surface, and it's
+transmitted through
+the skull and causing
+rapid displacement.
+Manifestations could
+be concussion or, what
+I was saying, contusions
+and lacerations.
+There are
+neuropsychiatric
+syndromes that can occur.
+Chronic traumatic
+encephalopathy was called
+dementia pugilistica
+in the past, and
+that's an illness after
+repeated head trauma,
+for example in
+boxers or I think in
+people who play football
+or soccer might have
+a similar effect with
+long-term playing.
+So let's just give
+an example, you get
+tau neurofibrillary
+tangles in the gyri,
+but that's with
+direct parenchymal
+injury from
+repeated trauma.
+Diffuse axonal injury
+is something that might
+develop after traumatic
+brain injury and
+that's damage of deep
+white matter regions.
+What you get is some
+sort of traumatic
+injury that's going to
+cause stretching and
+shearing forces
+and that's going to
+injure the axons, you
+know, the extensions
+from the neurons. So
+the neurons are not
+going to be functioning
+properly anymore.
+So what you'll see is
+axonal swelling and
+focal hemorrhages and
+degeneration of the
+fiber as artifacts
+so you can see it in
+these region here okay
+so these are white
+matter based lesions
+you know loss of those
+structures and the
+image shows particular
+hemorrhages in these
+white matter tracks
+okay so those axons
+aren't functioning anymore
+and there's hemorrhage
+in that region.
+So high-speed
+brain injury may
+do that. For
+example, blast
+injury or motor
+vehicle crash.
+Even in the absence
+of physical impacts on
+the skull, you get
+cerebral edema and
+increased intracranial
+pressure. Cardiac mortality
+is high, up to 50%.
+So the SWI, once
+again, is really good at
+picking up hemorrhages
+which are known as
+microbleeds from this
+axonal damage and
+you can see that in
+these regions right here
+this one doesn't look
+so micro these ones
+look more small these
+ones are bigger but
+it's picked up on SWI
+those are those dark
+dark spots representing
+hemocytral deposits of
+old small hemorrhages
+epidural hematoma
+is located between
+the skull and the
+dura And it's going to
+look like a lens.
+And it's going to be
+biconcave, lentiform
+-shaped extra-axial fluid.
+And that's going to
+be the characteristic.
+Okay?
+And it's commonly
+due to a fracture
+just over the middle
+meningeal artery.
+And then it's going to
+involve laceration of
+that and arterial
+blood going into that
+space. so you get that
+lenticular pattern so
+it's going to present
+as a loose interval then
+rapid deterioration
+uh you're going to get
+headache vomiting lost
+consciousness so you're
+going to need prompt
+diagnosis and surgery
+to drain that because
+brain herniation
+becomes a risk in this
+situation so it's an
+emergency so craniotomy
+would need to be done
+there's a bone flap and
+there's the hole and
+then there's hematoma
+ready to be evacuated.
+So it's almost always
+evolving a
+skull fracture.
+Subdural hemorrhage
+is between the
+dura and the arachnoid
+matter. So it
+involves tearing
+and bridging veins.
+So it's low pressure,
+often, low
+pressure blood.
+Often it's going to
+be elderly because
+the brain shrinks a
+little bit so those
+veins are under a
+little bit of tension,
+and they're stretched
+a little bit.
+Chronic alcoholics,
+so brain atrophy.
+So minor traumas
+can cause
+chronic subdural
+hemorrhages.
+And these ones are
+going to be crescent
+-shaped, okay, on
+their CT scans. And
+that's going to be an
+acute subdural. What
+you see here is sub
+-falcine herniation,
+because here's a
+false form ligament.
+and this is pushing
+the right side
+cerebral brain structures
+over to the left.
+Okay,
+so you get a shift of
+midline and compression.
+It's usually self
+-limited and the hematoma
+is usually broken
+down and organized
+and usually Usually
+there's progressive
+neurological
+deterioration which is
+typical but if you
+get care you recover.
+Shaken baby syndrome
+is child *****,
+can't shake babies
+because their neck
+muscles can't keep
+their head from those
+very violent forces
+on their brain.
+What you see here
+is an acute subdural
+hemorrhage on the
+right frontal temporal
+bone, and you see
+starting to see
+this midline shift
+that's developing,
+and this is kind
+of crescent-shaped,
+to describe the subdural.
+So the brain
+bangs against the
+skull, tearing the
+bridging veins.
+So you get
+lethargy, seizures,
+retinal
+hemorrhages in 80%.
+So that's why
+in case of child
+***** where it
+could be death,
+retinal hemorrhage
+is something
+that you always look for.
+You can also
+have a history of
+many fractures.
+So you look at the
+medical record,
+you might find that
+they have a
+clavicle fracture,
+radius fracture, all
+kinds of fractures.
+interventricular
+hemorrhage you can see that
+this blood which is
+bright is within these
+lateral ventricles so
+it's in the ventricular
+system and that
+can result from an
+intracerebral hemorrhage
+or trauma or preterm
+inference germinal
+matrix which is primitive
+cells just below
+the surface of the
+ventricles that helps
+produce neurons and
+they're it's a highly
+vascular layer in the
+brain and it can and
+because that region it's
+a preterm infants it's
+not fully developed
+and successful to
+injury may bleed and if
+clots, you can
+cause hydrocephalus.
+Brain herniations.
+So,
+falsiform ligament. So
+if you get some mass
+effect that pushes
+the brain over this
+way, then that's sub
+-falsiform herniation.
+And if that mass effect
+pushes this part of
+the cortex down below
+the tentorium cerebelli,
+then that's going to
+be transtentorial.
+If it pushes
+down through the
+foramen magnum,
+but this is
+part of the
+cerebellar tonsil,
+then you see that
+below the foramen
+magnum, that's a
+tonsillar herniation.
+Right here you
+see that on a CT,
+midline shift and
+herniation below the
+falso, this is a
+subfalcine herniation.
+So, something inside
+is producing pressure
+and pushing the brain,
+often from brain
+swelling or bleeding,
+so it can be a ******
+or tumor, and I went
+over these types.
+This isn't
+really indicating
+it, but the most
+common type is
+going to be the
+subphalcine.
+I guess I should have put
+it with that
+material there,
+and it's describing
+this image. The sub
+-fowl scene is also
+called cingulate because
+the cingulate gyrus
+is what goes beneath.
+Below the falk
+cerebrite, you get that
+midline shift, and it's
+the most common type.
+Symptoms, it can
+cause headache due
+to increased ICP,
+contralateral leg
+weakness, it sets
+the region on the,
+what's that called,
+the homunculus?
+You know, that
+image of, you know,
+the motor sensory
+regions supplied by
+the cerebral cortex,
+That's the motor
+region on the brain.
+And that's the
+region that the
+legs would supply.
+Okay.
+Transtentorial
+herniation. Okay.
+So below the
+tentorium cerebelli,
+there are some
+structures down there,
+including these
+oculomotor nerves.
+Okay. And that can
+produce what is called
+a blown pupil. So
+you need an immediate
+intervention because
+you know you're
+herniating right now.
+So what does that mean?
+So this pupil bright
+light should be a
+little bit constricted.
+This pupil is
+very large in bright
+light if you want to
+make sure you can
+use your pin light.
+So you got a
+very large pupil
+that doesn't
+react at all when
+you shine bright
+light in it.
+That's a long pupil.
+So it needs immediate
+neurosurgical
+intervention to
+evacuate that
+hematoma and relieve
+the pressure.
+transporaminal tonsillar
+herniation okay
+so this is looking
+a little bit like a
+Chiari malformation
+to me but it could be
+because there's some
+increase in pressure
+somewhere maybe there's
+cerebral edema so you
+get compression of the
+brainstem and medulla
+oblongata you can see
+the medulla oblongata
+would be here. Here's
+the brain stem.
+Disrupting vitals
+functions such as
+respiration and
+cardiovascular system.
+It's a neurosurgical
+emergency,
+has a very
+poor prognosis.
+And this is the
+summary of these
+different types.
+The histology,
+ischemic hemorrhagic,
+traumatic fractures,
+trauma, and thank
+you. Here's the link
+for the feedback
+form, and please fill
+it out and let me
+know what you think.
+I think I probably went
+a few minutes over, okay,
+sorry,
+I'll do better,
+okay, thanks for
+your time, good luck
+with your studies,
+send me emails,
+calls, or come see
+me if you want.
+Okay, have a
+good day, bye.
+

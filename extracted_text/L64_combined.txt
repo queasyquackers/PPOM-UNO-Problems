@@ -1,0 +1,4189 @@
+Lecture 64 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Pharmacology of General Anesthetics Part 1
+Inhaled anesthetics, General Principles
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+
+--- Page 2 ---
+2
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu
+--- Page 3 ---
+Inhaled anesthetics
+• Identify the proposed mechanisms of action of the inhaled anesthetics and relate them to the desired 
+effects.
+• Explain speed of onset and rate of recovery in relation to the FA/FI ratio for inhaled anesthetics. 
+• Describe how solubility in blood, alveolar blood flow, and the difference in partial pressure between the 
+alveolar blood gas and venous blood affect uptake of inhaled anesthetic.
+• Apply the minimum alveolar concentration (MAC) to its clinical application in anesthesia. 
+• Differentiate the properties and the side effects of the inhaled anesthetics in common use.
+Intravenous anesthetics
+• Identify the proposed mechanisms of action of the intravenous anesthetics and relate them to the 
+desired effects.
+• Explain redistribution and context-sensitive half-time in relation to recovery from a single dose and from 
+repeated bolus doses of continuous infusion of I.V. anesthetics.
+• Differentiate the specific intravenous general anesthetics in relation to their clinical uses and their drug-
+specific side effect profiles. 
+• Define the goal of balanced anesthesia.
+• Explain the typical method for achieving balanced anesthesia.
+After completing the preparation materials, students should be able to:
+3
+--- Page 4 ---
+Required
+• ScholarRx Bricks  Practice Questions  See next slide.
+Optional materials:
+• Dr. Goldstein’s Word handout  Video Lecture Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+4
+--- Page 5 ---
+ScholarRx Brick: Neurology and Special Senses > Disorders of the Nervous System and Special Senses > Pain 
+Mechanisms and Treatment > Diagnostic Approach to Disorders of the Nervous System and Special Senses
+Principals of Anesthesia > General Anesthetics https://exchange.scholarrx.com/brick/general-anesthetics
+Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024: Chapter 25: General Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281750826 
+Access Medicine Katzung’s Pharmacology Examination & Board Review, 14e, 2024; Chapter 25: General Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3461&sectionid=285593753
+LWW Health Libraries, Premium Basic Sciences: Lippincott’s Illustrated Reviews, 8e, 2023; Chapter 13: Anesthetics 
+https://premiumbasicsciences-lwwhealthlibrary-com.nyit.idm.oclc.org/content.aspx?sectionid=253327491&bookid=3222 
+Anesthesia Textbook Chapters:
+Clinical Key: Anesthesia Secrets, 6e, 2021; Chapter 14: Inhaled Anesthetics
+https://www-clinicalkey-com.nyit.idm.oclc.org/#!/content/book/3-s2.0-B9780323640152000147 
+Clinical Key: Anesthesia Secrets, 6e, 2021: Chapter 15: Intravenous Anesthetics
+https://www-clinicalkey-com.nyit.idm.oclc.org/#!/content/book/3-s2.0-B9780323640152000159 
+Access Medicine: Morgan & Mikhail’s Clinical Anesthesia, 7e, 2022; Section II: Clinical Pharmacology, Chapter 8: 
+Inhalational Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3194&sectionid=266517982 
+Access Medicine: Morgan & Mikhail’s Clinical Anesthesia, 7e, 2022; Section II: Clinical Pharmacology, Chapter 9: 
+Intravenous Anesthetics
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3194&sectionid=266518173
+Links to resources
+5
+--- Page 6 ---
+Terminology
+6
+General anesthesia Medically induced state of unconsciousness accompanied by a loss of protective 
+reflexes, resulting from the administration of one or more anesthetic agents.
+Balanced anesthesia An approach to anesthesia that uses a combination of different drugs and techniques 
+to achieve the desired effects of general anesthesia while minimizing side effects
+Volatile anesthetic A type of inhaled anesthetic that is in a liquid form at room temperature and delivered 
+to the patient via a vaporizer connected to an anesthesia machine
+Partition coefficient (λ)
+(anesthesia)
+The relative affinity of an anesthetic agent for two different phases, such as blood and 
+gas or oil and gas, and how that anaesthetic distributes itself between the two phases 
+when equilibrium has been achieved
+FA The concentration of anesthetic gas in alveoli
+FI The concentration of anesthetic gas in inspired air
+FA/FI ratio Ratio of the alveolar gas concentration to the inspired gas concentration
+FA/FI ratio indicates how quickly the concentration of the anesthetic in the alveoli 
+approaches the concentration of gas in the inspired air.
+F
+A/FI ratio is a key concept in the pharmacokinetics of inhaled anesthetic gases. 
+--- Page 7 ---
+Terminology
+7
+MAC The alveolar concentration that prevents movement in 50% of patients in response to a 
+standardized stimulus (eg, surgical incision).
+Redistribution The process by which a highly lipid soluble intravenous drug moves from the central 
+compartment to peripheral tissues (such as muscle and fat) after initial administration, 
+reduces the concentration of the drug in the central compartment, leading to a decrease in 
+its anesthetic effect.
+The termination of the anesthetic effect after a single bolus dose is primarily due to 
+redistribution rather than metabolism or excretion. As the drug moves away from the brain 
+to other tissues, its concentration in the brain decreases, leading to the patient regaining 
+consciousness.
+Context-sensitive 
+half-time
+The time required for the plasma concentration of a drug to decrease by 50% after 
+discontinuing an infusion that has been running for a specific duration. The "context" 
+refers to the duration of the infusion.
+The context-sensitive half-time varies depending on how long the drug infusion has been 
+administered. Longer infusions typically result in longer context-sensitive half-times due to 
+the accumulation of the drug in peripheral tissues
+--- Page 8 ---
+General Anesthetics Introduction
+• Sedation of patients facilitates surgical interventions provides reduced anxiety, anterograde amnesia, 
+skeletal muscle relaxation, suppression of reflexes, analgesia, and general anesthesia. No single agent 
+provides all of these objectives. Several categories of drugs are combined to produced optimal 
+sedation.
+• Preoperative anxiolytics and analgesics mitigate the anxiety and pain of the procedure.
+• Neuromuscular blockers enable endotracheal intubation and muscle relaxation to facilitate surgery.
+• Inhaled or intravenous general anesthetics are used to rapidly induce and/or maintain a state of general 
+anesthesia.
+• Inhaled gases are used primarily for maintenance of anesthesia after administration of an intravenous 
+anesthetic. Depth of anesthesia can be rapidly altered by changing the inhaled gas concentration. 
+Inhalational anesthetics are delivered in a recirculation system that a CO
+2 absorber to remove carbon 
+dioxide, preventing CO2 accumulation and allow rebreathing of the gas.
+• Inhalational anesthetics have steep dose-response curves with very narrow therapeutic windows (small 
+therapeutic indices). The difference in concentrations that elicit general anesthesia and the 
+concentrations that induce cardiopulmonary collapse is small. There are no antagonists that reverse 
+general anesthetics.
+8
+--- Page 9 ---
+General Anesthetics Introduction
+• Goals for induction of anesthesia are to rapidly and pleasantly produce hypnosis, amnesia, analgesia, 
+akinesia, and autonomic and sensory block while maintaining oxygenation, ventilation, and 
+hemodynamic stability.
+• The goals for the maintenance phase of anesthesia are to maintain Stage III anesthesia at a safe 
+anesthetic depth and while maintaining respiratory and hemodynamic stability.
+• Intravenous anesthetics cause rapid induction of anesthesia, often occurring in a minute or less. It is 
+the most frequent method for inducing anesthesia before the maintenance phase with an inhaled agent. 
+IV anesthetics may be used as single agents for short procedures or administered as infusions for 
+maintenance anesthesia during longer surgeries (total intravenous anesthesia).
+• Inhaled anesthetics in common use are the volatile halogenated agents, isoflurane, desflurane, and 
+sevoflurane, and nitrous oxide, which is a gas at standard temperature and ambient pressure.
+• Inhaled anesthetics are taken up by the pulmonary circulation through gas exchange in the alveoli and 
+distribute to the CNS and other body compartments.
+• When the partial pressure of the anesthetic gas in the inspired air, alveoli, arterial blood, and 
+CNS are in equilibrium (steady state), the desired clinical effect will be produced.
+• Equilibrium ensures that the anesthetic concentration in the CNS is stable and effective for 
+maintaining anesthesia during the procedure.
+9
+--- Page 10 ---
+• The FA/FI ratio is the key determinant of the speed of inhaled anesthesia induction and recovery. 
+– The fractional rise of anesthetic partial pressure during induction is expressed as a ratio of alveolar 
+concentration (FA) over inspired concentration (FI).
+– The faster FA/FI approaches 1 (representing inspired-to-alveolar equilibrium), the faster anesthesia 
+onset will be during inhaled induction of anesthesia.
+• FA/FI ratio is influenced by increasing the delivered concentration of anesthetic, alveolar ventilation, the 
+solubility of the anesthetic (defined by the blood:gas partition coefficient), cardiac output, alveolar to 
+venous partial pressure difference, and the volume of the breathing circuit and fresh gas flow. 
+• Rate of recovery when the anesthetic is withdrawn is the reverse of the principles that influence 
+induction.
+• Potency is quantitatively defined as the minimum alveolar concentration (MAC) that produces immobility 
+in 50% of patients exposed to a standardized stimulus, such as pain of a surgical incision. It is used as a 
+measure of anesthetic in the alveoli and, thus, the concentration in the central nervous system.
+• MAC is the median effective dose (ED
+50) of the anesthetic, expressed as the percentage of gas in a 
+mixture required to achieve the desired anesthetic effect. Quantitatively in vol%, MAC is small for potent 
+anesthetics (eg isoflurane) and large for less potent anesthetics (eg nitrous oxide). 
+• MAC is decreased by old age, hyponatremia, hypothermia, opioids, barbiturates, alpha-2 adrenergic 
+agonists, acute alcohol intoxication, and pregnancy. MAC is increased by young age (6-12 months), 
+hyperthermia, hypernatremia, chronic alcoholism, and CNS stimulants.
+Inhaled Anesthetics Key Points
+10
+--- Page 11 ---
+• Mechanisms of action likely include effects on ion channels by interactions with membrane lipids or 
+proteins and subsequent effects on central neurotransmitters: 1) facilitated GABA-mediated inhibition, 2) 
+block of central excitatory NMDA glutamate receptors and acetylcholine nicotinic receptors. Nitrous oxide 
+is a noncompetitive NMDA receptor antagonist.
+• Muscle effects: All potent (volatile) inhaled anesthetics induce dose-dependent relaxation of skeletal 
+and smooth muscle through several mechanisms.
+• CNS effects: Inhaled anesthetics decrease the metabolic activity of the brain, cause dose-dependent 
+cerebral vasodilation and increase intracranial pressure, and blunt cerebral autoregulation.
+• Cardiovascular effects: Isoflurane, desflurane, and sevoflurane primarily cause vasodilation with 
+relatively little initial effect on myocardial force of contraction (inotropy), which preserves cardiac output. 
+Isoflurane and desflurane tend to produce dose-dependent tachycardia because they cause less 
+depression of the baroreflex. Desflurane can cause transient activation of the sympathetic nervous 
+system and elevated catecholamine levels, resulting in tachycardia and hypertension. The older agents 
+halothane and enflurane (no longer in clinical use in the US) cause dose-dependent myocardial 
+depression resulting in reduced cardiac output and hypotension.
+• Respiratory effects: Airway irritation by isoflurane and desflurane may cause coughing, laryngospasm, 
+or bronchospasm. Sevoflurane and nitrous oxide are nonpugent. Sevoflurane’s bronchodilator effects 
+make it a preferred agent for patients with underlying breathing problems. Dose-dependent respiratory 
+effects (Stage III/IV) blunt ventilatory response to hypercapnia and hypoxic ventilatory drive. Ventilatory 
+assist becomes necessary depending on the stage of anesthetic depth and the patient’s clinical status. 
+Inhaled Anesthetics Key Points
+11
+--- Page 12 ---
+• Desiccated CO2 absorbers in breathing circuits react with the halogenated anesthetics passing through 
+them, causing production of carbon monoxide (CO): 
+– Relative likelihood of CO production: desflurane > isoflurane > > sevoflurane.
+• Nitrous oxide is a weak anesthetic – it does not achieve full anesthesia when used alone. It is a 
+noncompetitive NMDA receptor antagonist with significant analgesic and sedative properties. It is mainly 
+used as an adjunct to other anesthetics. 
+• N2O causes body space distension, diffusion hypoxia, second gas effect, and inactivates vitamin B12. 
+N2O should be avoided in patients with increased middle ear pressure, bowel distention, pneumothorax, 
+pneumoperitoneum, or pneumocephalus and those with megaloblastic anemia (vitamin B12 deficiency). 
+Diffusion hypoxia occurs on discontinuation; O2 rather than air should be administered when N2O is 
+discontinued.
+• N/V: All inhaled anesthetics increase the risk of post-operative nausea and vomiting.
+• Environment: All inhaled anesthetics, including nitrous oxide, are greenhouse gases.
+Inhaled Anesthetics Key Points
+12
+--- Page 13 ---
+• Currently used general anesthetics do not provide the five desired effects of an ideal anesthetic: 
+unconsciousness, amnesia, analgesia, inhibition of autonomic reflexes, and skeletal muscle relaxation. 
+• Balanced anesthesia technique employs multiple drugs in smaller doses to achieve the desired 
+combination of effects while minimizing unwanted effects by using less of each drug than if it were 
+administered alone.
+• Redistribution describes the process in which a single bolus of a lipophilic drug is initially distributed to 
+highly perfused organs (eg the brain, liver, kidneys) and then moves to tissues with lower blood flow (eg 
+muscle, fat), resulting in a short duration of effect.
+• Context-sensitive half-time describes the elimination half-time after a continuous intravenous infusion 
+of a drug as a function of the duration of the infusion. Initial anesthetic effects may be terminated by 
+redistribution from CNS tissues; full recovery occurs when the drug is eliminated from the body by 
+metabolism and excretion.
+• Some drugs have short, stable context-sensitive half-times and effects wear off quickly and predictably 
+after stopping the infusion while others have longer context-sensitive half-times and take longer to wear 
+off and are less predictable.
+• Appropriate dosing of intravenous anesthetics requires consideration of intravascular volume status, 
+comorbidities, age, and chronic medications.
+Intravenous Anesthetics Key Points
+13
+--- Page 14 ---
+Propofol, ketamine, etomidate, midazolam, opioids (primarily fentanyl and remifentanil), and 
+dexmedetomidine, and lidocaine are the intravenous anesthetics used most frequently in contemporary 
+anesthetic practice.
+• Propofol is a GABA-A receptor positive allosteric modulator widely used for induction and maintenance 
+of anesthesia and in monitored anesthesia care. 
+– Propofol has antiemetic and anticonvulsant properties but does not provide analgesia. It can cause 
+respiratory depression and is associated with bradyarrhythmias and ECG abnormalities. Injection 
+is painful. 
+– Propofol is formulated with soybean oil and egg lecithin and supports bacterial growth. It should be 
+avoided in children with known anaphylaxis to eggs. 
+• Etomidate is an ultra-rapid acting GABA-A receptor positive allosteric modulator used for induction and 
+maintenance of anesthesia. 
+– Etomidate has negligible cardiac and vascular effects. It may be a good option for patients with 
+cardiovascular instability or who are critically ill because it. It does not provide analgesia.
+– Etomidate inhibits 11-beta-hydroxylase, which is involved in steroidogenesis, and may transiently 
+decrease cortisol plasma levels. Therefore, it should not be infused for extended periods. 
+– Etomidate causes myoclonus on induction, which is not related to convulsions.
+– Injection site pain, nausea and vomiting, and involuntary skeletal movements are common. 14
+Intravenous Anesthetics Key Points
+--- Page 15 ---
+• Ketamine is a short-acting NMDA receptor inhibitor used as an adjunct in surgical anesthesia and 
+monitored anesthesia care. It produces a dissociative state with profound analgesia. 
+– Ketamine has excellent bronchodilator properties and maintains airway reflexes respiratory drive. 
+– Ketamine stimulates sympathetic outflow with increases in blood pressure, heart rate, cardiac 
+output, pulmonary artery pressure, and intracranial pressure. 
+– Psychomimetic effects may cause hallucinations, nightmares, and vivid dreams, which limit its use. 
+– Ketamine is typically used as an adjunctive agent for patients undergoing painful surgery to limit 
+opioid use. 
+• Benzodiazepines, frequently midazolam, are GABA-A receptor positive allosteric modulators that 
+provide sedation and anterograde amnesia in anesthetic techniques. 
+– Benzodiazepines have minimal cardio-depressant effects.
+– Benzodiazepines can cause respiratory depression, especially when combined with other CNS 
+depressants, such as opioids. 
+15
+Adjunctive Intravenous Agents Key Points
+--- Page 16 ---
+• Dexmedetomidine is an alpha-2 adrenergic receptor agonist. It has sedative, analgesic, anxiolytic, and 
+sympatholytic properties. 
+– It is used in intensive care units, surgery and monitored anesthetic care. 
+– It does not cause respiratory depression and blunts undesirable cardiovascular responses. 
+– It can cause bradycardia and hypotension and increased time to emergence.
+• Opioids, frequently fentanyl or remifentanil, rapidly provide analgesia and have a short duration of 
+effect. 
+– Opioids do not have amnestic properties.
+– Opioids cause respiratory depression, hypotension, and postoperative nausea and vomiting.
+• Lidocaine IV infusion may be used during induction of general anesthesia to suppress the cough 
+reflex and laryngospasm, reduce the pain of injection or other induction agents, and supplement 
+anesthetic effects. 
+– Lidocaine-induced ventricular rate can contribute to arrhythmia. Arrhythmias are uncommon when 
+IV lidocaine is used for pain control.
+16
+Adjunctive Intravenous Anesthetics Key Points
+--- Page 17 ---
+http://www.oasor.com/patient-info/what-is-anesthesia
+17
+--- Page 18 ---
+18
+• General anesthesia induces a physiological state that typically includes analgesia, amnesia, loss of 
+consciousness, inhibition of sensory and autonomic reflexes, and skeletal muscle relaxation
+• Currently used general anesthetics do not provide the five desired effects of an ideal anesthetic: 
+unconsciousness, amnesia, analgesia, inhibition of autonomic reflexes, and skeletal muscle 
+relaxation. 
+• Balanced anesthesia technique: Modern anesthesia typically involves a combination of 
+intravenous and inhaled drugs – neuronal depressants.
+– Additive/synergistic favorable effects allowing lower doses of multiple agents, which minimizes 
+their adverse effects
+– Minimizes patient risk and maximizes patient comfort and safety.
+– Examples: preoperative benzodiazepines, induction of anesthesia with an intravenous 
+anesthetic, and maintenance of anesthesia with a combination of inhaled and intravenous drugs 
+or total intravenous anesthesia, plus opioid for pain, and neuromuscular blocker to facilitate 
+tracheal intubation and surgery.
+• Other anesthesia techniques include total intravenous anesthesia and monitored anesthesia care.
+General anesthesia
+Balanced anesthesia
+--- Page 19 ---
+19
+Types of General Anesthetics
+• Volatile anesthetics: Liquids at room temperature and sea level 
+ambient pressure
+• Gases: Gases at typical ambient temperatures and pressures
+Inhaled
+anesthetics 
+• Lipid soluble drugs that preferentially partition into highly perfused 
+lipophilic tissues (brain, spinal cord) → rapid onset of action
+• Redistribution → short duration of action (single dose)
+• Context-dependent half-times (infusion and repeated doses)
+Intravenous 
+anesthetics
+--- Page 20 ---
+Phases of General Anesthesia
+Induction phase: 
+The time from the administration of the anesthetic to the onset of effective surgical 
+anesthesia in the patient
+The induction phase is important for avoiding the dangerous excitatory stage, 
+characterized by delirium and irregular respiration.
+Maintenance phase: 
+Sustained surgical anesthesia
+Recovery phase: 
+The time from withdrawal of anesthetic postoperatively to return to consciousness
+It depends on the rate of removal of the drug from the brain.
+The patient is monitored for return to consciousness and for delayed toxic 
+reactions.
+20
+--- Page 21 ---
+• The goals for induction of anesthesia are to rapidly and pleasantly produce hypnosis, 
+amnesia, analgesia, akinesia, and autonomic and sensory block while maintaining oxygenation, 
+ventilation, and hemodynamic stability
+• The goals for the maintenance phase of anesthesia are to maintain Stage III anesthesia at a 
+safe anesthetic depth and while maintaining respiratory and hemodynamic stability.
+--- Page 22 ---
+Citation: Chapter 25 General Anesthetics, Vanderah TW. Katzung’s Basic & Clinical Pharmacology, 16e; 2024, Figure 25-1. 
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250598021
+Copyright © 2025 McGraw-Hill Education. All rights reserved
+ACh: acetylcholine, GABA: γ-aminobutyric acid.
+Proposed Mechanisms of Action:
+Anesthetics affect neurons at various cellular locations.
+Anesthetic drugs may… 
+Panel A: Enhance inhibitory synaptic activity, or 
+Panel B: Diminish excitatory activity
+Actions at different locations may be cumulative.
+Molecular targets that have been studied
+Inhibitory
+• GABA-gated chloride 
+channels
+• Glycine-gated chloride 
+channels
+• Potassium channels
+Excitatory
+• Ion channels activated by ACh 
+(nicotinic and muscarinic)
+• Glutamate AMPA, kainite, NMDA 
+receptors
+• Serotonin 5-HT
+2/3
+• Neural networks altered by general anesthetics
+Nitrous oxide:
+Noncompetitive 
+NMDA 
+antagonist
+--- Page 23 ---
+Inhaled Anesthetics
+photo: Richard Struthers,
+The Anesthesia Machine,
+http://www.anes.med.umich.edu/machine/
+In common use Not in common use
+Volatile anesthetics
+(liquids at room temperature and vaporized for inhalation)
+Isoflurane Halothane
+Desflurane Enflurane
+Sevoflurane
+Gases
+(gases at room temperature and standard pressures) 
+Nitrous Oxide Xenon (noble gas)
+23
+
+--- Page 24 ---
+B:G=blood:gas partition coefficient; B:B=brain:blood partition coefficient
+Partition coefficient: The ratio of anesthetic gas concentration partitioning between two tissues at equilibrium (at 37°C). 
+MAC is the anesthetic concentration that produces immobility in 50% of patients exposed to a noxious stimulus.
+Katzung, 2024; Table 25-1
+Pharmacological Properties of Inhaled Anesthetics
+Anesthetic B:G B:B MAC Metabolism Comments Pungency
+Nitrous oxide 0.47 1.1 > 100 None Incomplete anesthetic, 
+rapid onset and recovery
+Nonpungent
+Suitable for induction
+Desflurane 0.42 1.3 6–7 < 0.05% Rapid onset and recovery
+Most Pungent, high incidence 
+airway irritation → coughing, 
+bronchospasm
+Sevoflurane 0.69 1.7 2.0 2–5% 
+(fluoride)
+Rapid onset and recovery 
+unstable in soda-lime, 
+forms Compound A
+Nonpungent, bronchodilation 
+action; preferred for pts. with 
+airway problems
+Isoflurane 1.40 2.6 1.40 < 2% Medium rate of onset and 
+recovery
+Pungent, airway irritation → 
+coughing, bronchospasm
+Enflurane 1.80 1.4 1.7 8% Medium rate of onset and 
+recovery Pungent
+Halothane 2.30 2.9 0.75 > 40% Medium rate of onset and 
+recovery Nonpungent
+Halogenated anesthetics
+24
+--- Page 25 ---
+Inhaled Anesthetics
+Uptake, Distribution, and Elimination
+Figure: 3D Science.com www.3dscience.com/clip_art_viewer/clip_art19.html 25
+Key pharmacokinetic concept: Equilibrium
+When the partial pressure of the anesthetic gas in the inspired air, alveoli, 
+arterial blood, and CNS are in equilibrium (steady state), the desired clinical 
+effect will be produced.
+Equilibrium ensures that the anesthetic concentration in the CNS is 
+stable and effective for maintaining anesthesia during the procedure.
+--- Page 26 ---
+Pharmacokinetic Principles of General Anesthesia
+Anesthetic uptake into the blood is determined by pharmacokinetic characteristics of 
+each anesthetic agent as well as patient factors.
+26
+− Inspired concentration of anesthetic gas
+− Solubility of gas in blood (defined by the blood:gas partition coefficient)
+− Cardiac output
+− Alveolar-venous partial pressure difference
+Figure: BC Campus Open Education 
+https://opentextbc.ca/biology/chapter/
+20-1-systems-of-gas-exchange/  
+• Gases move from one body compartment to another according to 
+the partial pressure gradients.
+• Inhaled anesthetics are taken up through gas exchange 
+between the alveoli of the lung and the pulmonary circulation 
+for distribution to the body compartments. 
+• Four factors influencing uptake of anesthetic between the lung 
+and the blood (and thus the speed of anesthetic induction) are the:
+The speed of anesthetic exchange between the lungs and blood is a crucial factor in determining 
+the speed of onset of anesthesia.
+--- Page 27 ---
+Citation: Chapter 8 Inhalation Anesthetics, Butterworth IV JF, Mackey DC, Wasnick JD. Morgan & Mikhail’s Clinical Anesthesiology, 7e; 2022, Figure 8-1. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=3194&sectionid=266517982 Accessed: October 12, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+When steady state has been reached, 
+the partial pressures of the gas in inspired air ≈ alveolar air ≈ arterial blood ≈ brain → clinical effect.
+FA/FI ratio: The driving force for gas uptake is 
+the ratio between inspired concentration 
+(partial pressure) and alveolar concentration.
+Inspired Concentration and Uptake of Inhaled Anesthetics
+Slide adapted by LG
+Equilibrium (FA/FI=1) is achieved when the 
+partial pressure in the inspired gas is equal to 
+the partial pressure in the alveolar gas.
+Alveolar partial pressure determines how 
+much anesthetic gas will dissolve in the blood 
+– the higher the partial pressure in the 
+alveolus, the higher the partial pressure in the 
+blood.
+FA: concentration of alveolar gas
+FI: concentration of inspired gas
+Inhalation anesthetic agents must pass through many 
+barriers between the anesthesia machine and the brain.
+--- Page 28 ---
+The faster the uptake of anesthetic agent, the greater the difference between 
+inspired and alveolar concentrations and the slower the rate of induction.
+Why?
+• Alveolar concentrations lag behind inspired concentrations (FA<FI) because anesthetics are 
+taken up by the pulmonary circulation during induction.
+High uptake
+• When uptake is fast, a large amount of anesthetic is absorbed into the blood from the alveoli.
+Concentration difference
+• Rapid uptake creates a significant difference between the inspired concentration and the 
+alveolar concentration (FA<FI) as the alveoli are depleted of anesthetic faster than they can be 
+replenished by inhalation.
+Speed of induction
+• Anesthesia induction depends on equilibrium between the alveolar and CNS concentrations. 
+When uptake is high, it takes longer to reach steady state (F
+A/FI=1).
+28
+--- Page 29 ---
+Increasing the alveolar ventilation continuously replaces anesthetic taken up by the 
+pulmonary bloodstream → better maintenance of alveolar concentration
+• By increasing ventilation, the anesthesiologist can 
+increase the rate of induction.
+• Increasing the rate and depth of breathing 
+(ventilation) delivers more fresh gas to the alveoli 
+per unit of time.
+Minute ventilation in mL/min = tidal volume x respiratory rate
+• Increasing the partial pressure of the anesthetic in 
+the alveoli creates a steeper gradient, which 
+leads to faster equilibration with arterial blood.
+• Thus, the partial pressure of the anesthetic in the 
+brain required to produce the clinical effect is 
+achieved more quickly, which increases the 
+speed of induction.
+29
+Ventilation 
+Picture: https://www.foundationhealth.org/services/hospital_care/anesthesiology 
+--- Page 30 ---
+Citation: Chapter 25 General Anesthetics, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021, Figure 25-5. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250598021 Accessed: February 07, 2022
+Copyright © 2022 McGraw-Hill Education. All rights reserved
+Clinical Key Brenner & 
+Stevens Pharmacology
+Slide adapted by LG
+Why is the speed of induction slower with the more soluble anesthetic gases?
+more soluble → greater capacity for uptake → slower rate of rise in partial pressure → longer time for FA/FI to approach equilibrium
+less soluble → blood is quickly saturated → rapid rate of rise in partial pressure → equilibrium is quickly established
+An inhaled anesthetic’s blood:gas partition coefficient defines the relative 
+affinity of a gas for the blood compared to its affinity for the alveolar air.
+In this schematic diagram, solubility in blood is represented by 
+the relative size of the blood compartment (more soluble, larger 
+the compartment). 
+• Relative partial pressures of the agents in the compartments 
+are indicated by the degree of filling of each compartment. 
+• For a given concentration of the two anesthetic gases in the 
+inspired air, it will take much longer for the blood partial 
+pressure of the more soluble gas (halothane) to rise to the 
+same partial pressure as in the alveoli. 
+(Recall: The partial pressures in the alveoli, blood, and brain 
+must reach equilibrium for the anesthetic to be effective.)
+• Since the concentration of the anesthetic agent in the brain 
+can rise no faster than the concentration in the blood, the 
+onset of anesthesia will be slower with halothane than with 
+nitrous oxide.
+--- Page 31 ---
+Cardiac output relates to pulmonary blood flow:
+• ↓ cardiac output → ↓ pulmonary blood flow → the partial pressure in blood rises more quickly 
+→ faster speed of onset (effect is more pronounced with insoluble agents)
+• ↑ pulmonary blood flow → the partial pressure in blood rises at a slower rate →  the speed of 
+onset is reduced (effect is more pronounced with soluble agents)
+Effects of cardiac output and alveolar-venous blood gradient on 
+anesthesia uptake
+31
+Alveolar-venous blood partial pressure difference and the uptake of anesthetic by tissues:
+• Tissue uptake from arterial blood reduces partial pressure of the anesthetic in the venous blood.
+• Venous circulation returns to pulmonary circulation with little or no dissolved anesthetic gas → 
+generates a partial pressure difference between alveolar gas and pulmonary blood. 
+– A large alveolar to venous partial pressure difference indicates peripheral gas uptake must be high. 
+• The greater the difference in gas concentrations, the longer the time to achieve equilibrium with 
+brain tissue.
+• Anesthetic transfer from blood to neural and non-neural tissues (tissue uptake) is determined by:
+1. Tissue solubility of the agent (blood:tissue partition coefficient)
+2. Tissue blood flow, and
+3. Difference in partial pressure gradient between arterial blood and the tissue
+--- Page 32 ---
+anesthetic gas diffuses 
+from arterial blood to 
+tissues
+venous blood returning 
+to the alveoli is depleted 
+of anesthetic
+more gas moves from 
+the lungs into the blood
+The greater the difference in alveolar and venous gas concentrations, 
+the longer the time to achieve equilibrium with brain tissue.
+32
+Lower 
+concentration 
+of anesthetic in 
+venous blood
+--- Page 33 ---
+Citation: Chapter 8 Inhalation Anesthetics, Butterworth IV JF, Mackey DC, Wasnick JD. Morgan & Mikhail’s Clinical Anesthesiology, 7e; 2022, figures 8-2 and 8-3. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=3194&sectionid=266517982 Accessed: October 12, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+FA rises toward FI faster with nitrous oxide (an insoluble agent) 
+than with halothane (a soluble agent). 
+The shape of this graph is determined by the uptakes 
+of individual tissue groups.
+The rate of rise slows as the vessel-rich group, and 
+eventually the muscle group, approaches steady 
+state levels of saturation.
+FA: concentration of alveolar gas  FI: concentration of inspired gas
+Recall: FA/FI ratio is a key concept in the pharmacokinetics of inhaled 
+anesthetic gases. It indicates how quickly the concentration of the anesthetic 
+in the alveoli approaches the concentration of gas in the inspired air.
+Anesthetic uptake produces a characteristic curve that relates the 
+rise in alveolar concentration to time.
+The initial steep rise in F
+A/FI is due to unopposed filling of the 
+alveoli by ventilation.
+FA/FI=1: equilibrium
+Slide adapted by LG 33
+--- Page 34 ---
+34
+Characteristic Vessel Rich Group Muscle Fat Vessel Poor Group
+Percentage of 
+body weight 10 50 20 20
+Percentage of 
+cardiac output 75 19 6 0
+Perfusion 
+(mL/min/100 g) 75 3 3 0
+Relative solubility 1 1 20 0
+Concepts First to receive 
+anesthetic → first to 
+approach steady 
+state.
+Small volume limits 
+capacity of uptake.
+Less perfused so 
+uptake is slower.
+Greater capacity for 
+uptake due to 
+greater tissue 
+volume → uptake 
+sustained for hours
+Perfusion similar to 
+muscle group but 
+tremendous 
+solubility of 
+anesthetic in fat 
+increases total 
+capacity → days to 
+approach steady 
+state
+Minimal perfusion 
+→ insignificant 
+uptake
+Vessel rich group: highly perfused tissue: brain, heart, liver, kidney, endocrine organs
+Vessel poor group: minimally perfused tissue: bones, ligaments, teeth, hair, cartilage
+Steady state: arterial and tissue partial pressures are equal
+Adapted from Access Medicine Morgan & Mikhail’s Clinical Anesthesiology, 2022, Table 8-2
+Tissue Groups Based on Perfusion and Solubilities
+--- Page 35 ---
+Check your knowledge
+What is the fundamental concept that ensures that the anesthetic concentration in the CNS is 
+stable and effective for maintaining anesthesia during the procedure?
+• When the partial pressure of the anesthetic gas in the inspired air, alveoli, arterial blood, and 
+CNS are in equilibrium (steady state, F
+A/FI=1), the desired clinical effect will be produced.
+What four factors influence the uptake of anesthesia?
+• Inspired concentration of anesthetic gas
+• Solubility of gas in blood (defined by the blood:gas partition coefficient)
+• Cardiac output
+• Alveolar-venous partial pressure difference
+Why does faster the uptake of anesthetic agent lead to a slower speed of induction?
+• When uptake is fast, a large amount of anesthetic is absorbed into the blood from the alveoli → 
+creates a significant difference between the inspired concentration and the alveolar 
+concentration (F
+A<FI) as the alveoli are depleted of anesthetic faster than they can be 
+replenished by inhalation → it takes longer to reach equilibrium(FA/FI=1)
+35
+--- Page 36 ---
+Check your knowledge
+Why is the speed of induction slower with the more soluble anesthetic gases?
+• The more soluble the anesthetic is in blood (the higher the partition coefficient) → the greater 
+the capacity for uptake into the blood → the slower rate of rise in partial pressure → the longer 
+it takes to reach equilibrium
+How does an increase in cardiac output lead to a slower speed of induction?
+• ↑ cardiac output → ↑ pulmonary blood flow → the partial pressure of the gas in blood rises 
+more slowly → slower rise in FA/FI towards equilibrium → slower speed of onset 
+• This effect is more pronounced with soluble agents, which achieve equilibrium slower.
+How does a large alveolar to venous partial pressure difference influence the speed of induction?
+• Anesthetic gas is taken up from arterial blood into nonneural tissues → venous circulation 
+returns to pulmonary circulation with little or no dissolved anesthetic gas → generates a partial 
+pressure difference between alveolar gas and pulmonary blood.
+• The greater the difference in gas concentrations, the longer the time to achieve equilibrium 
+with brain tissue.
+36
+--- Page 37 ---
+37
+Recovery: Anesthetic transfer in reverse Elimination
+Solubility: 
+Lower the solubility → faster the elimination
+Lungs: 
+Exhalation is the major route. 
+Ventilation: 
+↑ ventilation →↑ rate of elimination
+Liver: 
+some drugs
+Exposure: 
+Longer exposure → greater tissue saturation 
+with drug → prolonged elimination time
+Rank order of drugs eliminated by hepatic 
+metabolism:
+Methoxyflurane > halothane > enflurane >
+sevoflurane > isoflurane > desflurane > N
+2OAnesthetic circuit volume: 
+The lower the anesthetic circuit volume, the 
+faster the elimination of inhaled anesthetic.
+Recovery and Elimination of inhaled anesthetics
+Methoxyflurane, halothane, and enflurane are no longer 
+used in U.S.
+~5% (CYP2E1) <0.2% 0.02% <0.004%
+(These values are listed to provide perspective.)
+--- Page 38 ---
+38
+MAC is a standardized measure of potency and allows for consistent dosing across different 
+patients and clinical settings.
+• 1 MAC = the alveolar concentration that prevents movement in 50% of patients in response to 
+a standardized stimulus (eg, pain of surgical incision)
+• MAC should be considered a statistical average (median).
+• MAC can be altered by several physiological and pharmacological variables: age, pregnancy, 
+acidosis, IV anesthetics, opioids, and more.
+Potency
+MAC is expressed in vol%:
+Dosing
+Usual dose is 0.5-1.5 MAC
+1 MAC of N2O = 105 vol%
+1 MAC Halothane = 0.75 vol%
+1 MAC Sevoflurane = 2 vol%
+1 MAC Desflurane = 6%
+MAC values are additive:
+0.5 MAC N
+2O + 0.5 MAC isoflurane 
+= 1 MAC of anesthetic gas
+vol %: the percentage of vapor pressure at 1 atmosphere that is the anesthetic
+Minimum Alveolar Concentration (MAC) 
+Figure:http://www.chem.uiuc.edu/rogers/Text9/Tx96/tx96.html
+
+--- Page 39 ---
+Date of download:  2/4/2022
+Copyright © Wolters Kluwer
+Minimal alveolar concentrations (MAC) for anesthetic gases are used to 
+compare pharmacologic effects of different agents (high MAC = low 
+potency).
+From: 13 Anesthetics
+Lippincott® Illustrated Reviews: 
+Pharmacology, 7e,  2019
+Clinical Utility of MAC
+• Correlation: 
+MAC provides a direct 
+correlation between the 
+alveolar anesthetic 
+concentration and the 
+concentration at the sites of 
+action in the CNS.
+• Comparison: 
+MAC permits comparison of the 
+relative anesthetic potencies of 
+the different anesthetics.
+Slide adapted by LG 39
+--- Page 40 ---
+Date of download:  2/4/2022
+Copyright © Wolters Kluwer
+From: 13 Anesthetics
+Lippincott® Illustrated Reviews: 
+Pharmacology, 7e,  2019
+Slide adapted by LG
+Overall patient considerations when administering 
+an anesthetic.
+• Patient history: Previous reactions to anesthetic, 
+allergies, medication
+• Age and weight
+• Cardiovascular health
+• Respiratory function
+• Liver and kidney function
+• Neurological status, especially seizure history
+• Aspiration risk
+• Pregnancy
+• Drug interactions
+• Postop care and monitoring: pain management, 
+nausea/vomiting, delirium
+• Patient consent and education
+40
+--- Page 41 ---
+Summary
+41
+--- Page 42 ---
+Anesthetic B:G B:B 1MAC Comments
+Nitrous oxide 0.47 1.1 >100
+Weak anesthetic; rapid onset and recovery
+Not metabolized
+Can cause expansion of air-fill cavities / Diffusional hypoxia
+Prolonged exposure can result in megaloblastic anemia, peripheral neuropathies
+Desflurane 0.42 1.3 6-7
+Low volatility; rapid onset/recovery; poor induction agent (respiratory irritation)
+SNS stimulation → transient, often marked, tachycardia, ↑BP
+Carbon monoxide can be produced from desiccated CO2 absorbents in breathing 
+circuit
+Sevoflurane 0.69 1.7 2.0
+Rapid onset/ recovery
+Smooth rapid inhalation induction; bronchodilating – preferred for patients with 
+airway problems
+Hepatic metabolism (~5% of absorbed drug)
+Interaction with soda-lime → Compound A vinyl ether (renal toxicity not reported)
+Isoflurane 1.40 2.6 1.4 Medium rate of onset and recovery; pungent odor → poor induction agent; 
+dilates coronary arteries
+Enflurane 1.80 1.4 1.7 Medium rate of onset / recovery; limited biodegradation; seizure potential
+Halothane 2.30 2.9 0.7 Relatively slow onset / recovery; significant hepatic metabolism; halothane 
+hepatitis – reactive intermediary – direct toxicity, immune reaction
+1MAC=median alveolar concentration in vol%: the anesthetic concentration that produces immobility in 50% of patients exposed to noxious 
+stimulus; MAC is small for potent anesthetics and large for less potent anesthetics.
+B:G=blood:gas partitions coefficients; B:B=brain:blood partition coefficients
+Adapted from Basic & Clinical Pharmacology Table 25-2
+42
+Summary of Inhaled Anesthetics
+--- Page 43 ---
+43
+Advantages
+• Ease of administration
+• Reliable block of sensory input (ie, pain)
+• Bronchodilation
+• Decrease in skeletal and smooth muscle 
+tone (dose-dependent)
+• Decreased cerebral metabolic rate
+• Increased cerebral blood flow by direct 
+vasodilatory effect
+• Monitoring end-tidal anesthesia 
+concentration as a measure of 
+anesthetic depth
+Disadvantage
+• Dose-dependent…
+− Suppression of airway reflexes
+− Respiratory depression
+− Hypotension due to myocardial 
+depression and vasodilation
+• Increased post-op nausea/vomiting 
+compared to IV anesthetics 
+(antiemetic needed)
+• Malignant hyperthermia potential in 
+susceptible individuals
+Common advantages and disadvantages of potent volatile anesthetics
+--- Page 44 ---
+44
+Anesthetic effects Incomplete (weak) anesthesia
+ Adjunctive use with inhalation and intravenous anesthetics for sedation, 
+analgesia, and anxiolytic effects
+Muscle effects Does not relax skeletal muscle → does not enhance the effects of 
+neuromuscular blocking drugs
+Does not relax uterine smooth muscle
+ Does not cause malignant hyperthermia
+Organ effects Sympathetic stimulation → maintains hemodynamics
+Increases respiratory rate
+Reduces hepatic and renal blood flow not hepato- or nephrotoxic
+Other effects • Body space volume expansion and increased pressure in spaces with 
+noncompliant walls.
+• Interferes with vitamin B12 function; avoid in patients with disorders of 
+B12 deficiency and folate or methionine synthesis
+• Diffusion hypoxia
+• Second gas effect (concentration effect)
+Nitrous Oxide: Summary of effects
+--- Page 45 ---
+Check your knowledge
+What is the fundamental concept that ensures that the anesthetic concentration in the CNS is 
+stable and effective for maintaining anesthesia during the procedure?
+• When the partial pressure of the anesthetic gas in the inspired air, alveoli, arterial blood, and 
+CNS are in equilibrium (steady state, F
+A/FI=1), the desired clinical effect will be produced.
+What four factors influence the uptake of anesthesia?
+• Inspired concentration of anesthetic gas
+• Solubility of gas in blood (defined by the blood:gas partition coefficient)
+• Cardiac output
+• Alveolar-venous partial pressure difference
+Why does faster the uptake of anesthetic agent lead to a slower speed of induction?
+• When uptake is fast, a large amount of anesthetic is absorbed into the blood from the alveoli → 
+creates a significant difference between the inspired concentration and the alveolar 
+concentration (F
+A<FI) as the alveoli are depleted of anesthetic faster than they can be 
+replenished by inhalation → it takes longer to reach equilibrium(FA/FI=1)
+45
+--- Page 46 ---
+Check your knowledge
+Why is the speed of induction slower with the more soluble anesthetic gases?
+• The more soluble the anesthetic is in blood (the higher the partition coefficient) → the greater 
+the capacity for uptake into the blood → the slower rate of rise in partial pressure → the longer 
+it takes to reach equilibrium
+How does an increase in cardiac output lead to a slower speed of induction?
+• ↑ cardiac output → ↑ pulmonary blood flow → the partial pressure of the gas in blood rises 
+more slowly → slower rise in FA/FI towards equilibrium → slower speed of onset 
+• This effect is more pronounced with soluble agents, which achieve equilibrium slower.
+How does a large alveolar to venous partial pressure difference influence the speed of induction?
+• Anesthetic gas is taken up from arterial blood into nonneural tissues → venous circulation 
+returns to pulmonary circulation with little or no dissolved anesthetic gas → generates a partial 
+pressure difference between alveolar gas and pulmonary blood.
+• The greater the difference in gas concentrations, the longer the time to achieve equilibrium 
+with brain tissue.
+46
+--- Page 47 ---
+Check your knowledge
+What is the acronym MAC stand for?
+• Minimum alveolar concentration
+How does MAC define potency?
+• 1 MAC = the concentration of the inhaled gas in the alveoli that prevents movement in 50% of 
+patients in response to a standardized stimulus (eg, surgical incision) at standard temperature 
+and ambient pressure.
+• MAC reflects brain partial pressure and allows comparisons of potency between agents.
+How is MAC used in dosing inhaled anesthetics?
+• Dosing of inhaled anesthetics is guided by MAC and MAC values are additive. 
+Which inhaled anesthetics are potent volatile agents in common use?
+• Isoflurane, desflurane, sevoflurane
+Why is nitrous oxide referred to as a weak anesthetic?
+• Nitrous oxide has low potency. Even 100% nitrous oxide does not achieve 1 MAC. Therefore, it 
+is combined with a potent volatile anesthetic.
+47
+--- Page 48 ---
+Check your knowledge
+Why may isoflurane, desflurane, and sevoflurane be suitable for patients with impaired myocardial 
+function?
+• Isoflurane, desflurane, and sevoflurane cause vasodilation, which lowers systemic vascular 
+resistance and blood pressure with minimal change in cardiac output (preserves cardiac 
+output) – of course, with close monitoring to ensure patient safety and optimal outcomes.
+What is the concern with the use of desflurane in patients with coronary artery disease?
+• Although desflurane causes vasodilation with minimal effect on the force of contraction 
+(inotropy), its transient sympathomimetic properties cause tachycardia and hypertension, 
+especially at high dose. These cardiac effect may induce cardiac ischemia and heart attack.
+Which inhaled anesthetics are associated with malignant hyperthermia in patients with a genetic 
+disorder in skeletal muscle calcium regulation?
+• The halogenated anesthetics: isoflurane, desflurane, sevoflurane, halothane, enflurane
+• Not nitrous oxide.
+48
+--- Page 49 ---
+Check your knowledge
+49
+Match the toxicities with the drugs that cause them
+Body space volume expansion Nitrous oxide
+Carbon monoxide production in desiccated CO2 absorber Halogenated volatile anesthetics
+Cortisol synthesis inhibition Isoflurane
+Diffusion hypoxia Nitrous oxide
+Environmental toxicity All inhaled anesthetics
+Malignant hyperthermia Halogenated volatile anesthetics
+Myoclonus Isoflurane
+Nausea and vomiting All inhaled anesthetics
+Nephrotoxicity (potentially) by compound A Sevoflurane
+Sympathetic stimulation → tachycardia and hypertension Desflurane
+Vitamin B12 inhibition Nitrous oxide
+--- Page 50 ---
+• Access Medicine Goodman & Gilman’s The Pharmacological Basis of Therapeutics, 14e 2022; 
+Chapter 24: General Anesthetics and Therapeutic Gases
+• Access Medicine Katzung’s Basic & Clinical Pharmacology 16e, 2024; Chapter 25: General 
+Anesthetics
+• Access Medicine Morgan & Mikhail’s Clinical Anesthesiology, 7e, 2022; Chapter 7: 
+Pharmacological Principles; Chapter 8: Inhalation anesthetics; Chapter 9: Intravenous 
+Anesthetics; Chapter 52: Thermoregulation, Hypothermia, & Malignant Hyperthermia
+• Lexidrug monographs
+• UpToDate various articles; literature current through Dec 2024
+References
+50
+--- Page 51 ---
+Lecture Feedback Form:
+https://www.surveymonkey.com/r/NYITCOMLectureFeedback
+
+
+--- Transcript Content ---
+Welcome students to
+the Pharmacology of
+General Anesthetics,
+Dr. Goldstein speaking.
+This lecture entails
+the inhaled anesthetics,
+the intravenous
+anesthetics, and
+the various
+intravenous drugs that
+are used in
+anesthesia techniques.
+Please contact
+me if you'd like
+to talk about
+pharmacology.
+The learning objectives
+are basically
+a guide to what
+it is you need
+to know about this
+group of drugs.
+I will be taking
+time to explain
+them because
+the concepts may
+be unfamiliar
+to many of you.
+The materials.
+Only the practice
+questions are
+required. Nothing
+else is required.
+You can learn
+about anesthetics
+by any method that
+works for you.
+The practice questions
+will help you assess
+your knowledge and to
+apply it in context.
+Here are some resources
+if you wish to
+use them. The review
+books have practice
+questions, and of
+course, ScholarRx,
+Brex, have practice
+questions as well.
+Terminology is how
+we understand things.
+We understand what
+the words mean,
+the terms mean, and
+we can understand
+the concepts. So,
+my recommendation,
+my strong recommendation,
+is to look at these,
+look at the terminology,
+understand the
+terminology before
+listening to this
+video. I also recommend
+always to look over
+the PowerPoint before
+you watch the video.
+It will give you an
+idea of what's being
+covered, the flow, the
+concepts, so that when
+you actually watch
+the video, you already
+have in mind what
+it's going to be
+talking about. and maybe
+you've even asked
+yourself some questions
+and you're ready to
+hear the answers.
+So I'm not going to
+to read all of this
+to you. Please take
+the time to do that.
+And the key points
+also is to give you an
+overview. You can look
+at it or not look at
+it. You can use it as
+a self-assessment to
+discover how well you
+understand the learning.
+I will not read this
+to you either. This
+is just for you if
+you wish to use it.
+So you can see there's
+quite a bit to
+cover today.
+And And so we begin.
+General anesthesia
+induces a
+physiologic state
+that typically
+includes
+analgesia, amnesia,
+loss of consciousness,
+inhibition of sensory
+and autonomic
+reflexes, and skeletal
+muscle relaxation. The
+currently used general
+anesthetics do not
+provide all of this.
+Therefore,
+other drugs are
+used alongside
+it, adjuncts.
+Balanced anesthesia
+technique is a modern
+anesthesia technique
+that typically involves
+a combination of
+intravenous and inhaled
+drugs to cause the
+depression of the CNS.
+what is the advantage
+well additive and very
+often synergistic
+effects of of the
+different drugs that are
+put together will allow
+lower doses of each
+of the agents and
+what have we remembered
+from the lower lowering
+of doses is we reduce
+at least theoretically
+the potential for
+adverse effects. Of
+course, these drugs are
+potentially dangerous
+and should be handled
+only by people
+who are trained and
+qualified in their use.
+And I've given some
+examples here and
+I've mentioned some
+other anesthesia
+techniques that I'll
+mention again later.
+The two types that
+we'll be looking at
+are the inhaled
+anesthetics which are
+gases that are inhaled
+by the patient.
+Volatile anesthetics
+are actually
+liquids at room
+temperature and then they
+are at room
+temperature and ambient
+pressure and they
+are volatilized so
+the patient will
+breathe in the gas.
+And then gases
+themselves, nitrous oxide
+is the only one we
+use is already a gas
+and the patient
+breathes in that gas.
+The IV anesthetics are
+lipid-soluble drugs
+that preferentially
+partition into the
+highly perfused
+lipophilic tissues. In
+other words, they're
+lipid-soluble, they
+go straight to the
+brain, which is a highly
+perfused brain and
+spinal cord, and
+that will produce a
+rapid onset of action.
+They also redistribute
+out of the CNS. They
+go into our peripheral
+tissues, and if it's
+one dose that's given,
+the drug will partition
+out of the CNS, and
+the patient will
+emerge from anesthesia.
+And we'll talk about
+context-dependent half
+times for repeated doses
+of intravenous
+anesthetics. That's later.
+The phases of
+general anesthesia
+are induction.
+So the patient
+has not received
+any anesthesia.
+The anesthesia is
+administered and the
+anesthetic effect is
+induced. So that's
+the induction phase.
+Maintenance days
+is to keep that
+anesthesia level in
+equilibrium throughout
+the procedure, throughout
+the surgery, to
+maintain that surgical
+anesthesia. And
+then when the drug
+is withdrawn, the
+patient will recover.
+You do not have to
+memorize this, these
+two charts. They're
+here to get you
+into the context of
+what we're talking
+about, the stages of
+anesthetic depths.
+Stage 1, where
+the patient is
+being introduced
+to the anesthetic.
+Stage 2 is a
+delirium stage.
+The point of anesthesia
+techniques is to
+bypass that delirium
+stage and go to stage 3.
+notice stage four
+is the organ systems
+are shutting down
+cardiovascular system
+respiratory system
+medullary depression
+you do need to know
+the goals goals for
+induction of anesthesia
+are to rapidly
+and pleasantly produce
+hypnosis, amnesia,
+analgesia, low
+movement, akinesia, and
+the autonomic and
+sensory block while
+maintaining oxygenation,
+ventilation,
+and hemodynamic
+stability. Please
+remember this goal of
+induction, maintaining
+the oxygenation
+and hemodynamic
+stability. So that's
+phase stage three.
+The goals for
+maintenance are
+obviously to maintain
+the patient under
+anesthesia during
+the procedure.
+Simple goals.
+You know these
+intuitively.
+Mechanisms.
+Well, this has
+been a subject of
+debate for many,
+many years, decades,
+hundreds of years
+since anesthesia
+was first noticed
+and used. The
+proposed mechanisms
+of action that are
+based on studies
+have identified
+molecular targets,
+actually proteins,
+that are affected
+by the various
+anesthetics. We
+have presynaptic and
+postsynaptic, which is
+what these figures on
+the left hand side
+are demonstrating.
+The inhaled
+anesthetics, with
+the exception of
+nitrous oxide,
+likely diminish the
+excitatory activity
+and enhance the
+inhibitory activity.
+Makes sense.
+Nitrous oxide is a
+mechanism of action has
+been identified as
+non-competitive NMDA
+antagonists. I put
+that on the side here.
+The molecular targets
+is what you are
+learning about since
+the beginning of the
+year and continuing
+through this term.
+So you should be aware
+of the inhibitory
+and excitatory
+molecular targets and I
+will be mentioning
+these as we go along.
+The inhaled
+anesthetics in common
+use are these
+four isoflurane,
+desflurane, seboflurane,
+nitrous oxide.
+Halothane, even
+though it's not
+in common use,
+has a star on it
+because it is
+board relevant.
+There are certain
+features about it that
+the board that you can
+find on board questions
+and I want to make
+you aware of them.
+N-flurane has not
+started. It has
+been withdrawn
+from the market.
+You may see the N
+-flurane mentioned in
+your board review
+studying when you get to
+it, but I'm not going
+to go over it now.
+It's mainly about
+its detrimental
+properties. it's
+maybe I should
+say unfavorable
+properties.
+The gases are nitrous
+oxide and xenon.
+Xenon is a noble gas and
+it's actually considered
+an ideal anesthetic.
+It doesn't have
+a star on it but I
+will mention it later.
+The volatile anesthetics
+are halogenated.
+We see halothane with the
+fluoride, the bromide,
+the chloride,
+several fluorine
+is only fluoride,
+isoflurane is almost all
+fluoride but a chloride,
+desflurane is all
+fluoride. So these are
+the halogens and
+they are called
+halogenated anesthetics
+and they are stored
+in bottles because
+they're liquids at
+sea level and the
+standard temperatures.
+So we call those
+volatile anesthetics.
+Some properties. I
+have highlighted in
+colors, different
+properties here. So let's
+take a look at the
+blood gas partition
+coefficient. This is
+a key concept to know.
+Nitrous oxide
+has a low one,
+desflurane has
+a pretty similar
+to nitrous oxide,
+several fluorine
+is low a little
+bit higher.
+Isoflurane is higher
+still. Here is
+halothane with
+considerably higher still.
+I'll be talking
+about this partition
+coefficient in
+terms of solubility.
+So a low blood
+gas gas partition
+coefficient has low
+solubility, meaning
+the gas has low
+solubility in blood.
+This is the key concept.
+Halothane has a
+considerably higher
+blood gas partition
+coefficient, so it
+is considerably more
+soluble in blood.
+I will explain that
+in a few slides.
+There are tissue
+solubility blood partition
+coefficients. This
+is for the brain
+blood. the tendency
+of the gas to dissolve
+in the brain tissue.
+There are also muscle
+and blood tissue
+partition coefficients,
+fat blood. I didn't
+list those here but the
+concept is the same.
+It's the tendency of
+the anesthetic to
+dissolve in that tissue.
+Now, this feature,
+the MAC, we
+will talk about
+in a future slide,
+is a measure
+of potency. The
+point I want to make
+here is that there
+are differences in the
+potency of these drugs
+and that's going to
+be related to dosing.
+That concept you are
+familiar with, we
+talked about that in
+the foundations course
+and so when we get
+to this slide you'll
+be able to understand
+that fairly well.
+Metabolism, we'll
+talk about that.
+Nitrous oxide
+is an incomplete
+anesthetic. It
+is low potency
+and a weak anesthetic.
+We'll use all
+those terms.
+The others are potent.
+And So this is
+the effect on
+the airway when
+the agent is being
+breathed in by
+the patient.
+There are two that
+are not pungent.
+You need to know
+this, and I will
+expand on this
+concept later.
+And you need to know the
+ones that are pungent.
+pungent means they
+cause airway irritation
+an airway irritation
+can cause the
+patient to hold their
+breath to cough it can
+cause bronchospasm
+laryngospasm so if the
+patient is going
+to be coughing and
+getting bronchospasm
+obviously it's not a
+good drug to induce
+the anesthesia effect.
+Those are the takeaways.
+All right let's talk
+about pharmacokinetics.
+Pharmacokinetics of the
+inhaled anesthetics
+is the key
+pharmacokinetic concept
+to understanding
+the use of
+these this drug.
+What are we looking at.
+Equilibrium. Through
+everything we talk
+about regarding the
+inhaled anesthetics,
+please remember the
+concept of equilibrium.
+Equilibrium is
+another term for
+steady state. This
+is a concept with
+which you are very
+familiar by now.
+So, when the partial
+pressure, so let's
+talk about partial
+pressure for a moment.
+This is concentration.
+Partial pressure is related
+to the concentration
+of the anesthetic
+gas. It's a gas, so
+we talk about the
+pressure, the fractional
+pressure of this gas
+in the various tissues.
+In the inspired
+air, in the
+alveolar air, in
+the blood, in the
+brain, in the
+spinal cord, etc.
+The partial
+pressure is related
+to the concentration
+of the drug.
+Okay,
+so thinking
+partial pressure,
+thinking concentration.
+When the partial
+pressure of the
+anesthetic gas in
+the inspired air, the
+alveoli, and the
+arterial blood, and the
+CNS are in equilibrium,
+that's when
+we're going to see
+the clinical effect.
+Equilibrium ensures
+that the anesthetic
+concentration in the
+CNS is stable and
+effective for
+maintaining anesthesia
+during the procedure.
+That's the point.
+Equilibrium.
+Equilibrium is the
+key pharmacokinetic
+concept around which
+all of the rest
+of what we'll talk
+about revolves.
+This is a general
+idea here now. Now,
+anesthetic uptake
+into the blood is
+determined by the
+pharmacokinetic
+characteristics of each
+anesthetic agent as
+well, as always,
+as patient factors.
+Pharmacokinetic
+characteristics.
+Gases move from one
+body compartment to
+another down their partial
+pressure gradients.
+Inhaled anesthetics are
+taken up through gas
+exchange. I have a
+picture here of alveoli.
+The inspired air goes
+into the alveoli, so
+we have alveolar air,
+and whatever gases are
+in that air that make
+up each of the different
+fractions of gases
+in the alveolar air.
+this little alveolus
+shows the pulmonary
+circulation the capillary
+network around the
+alveolus and this is
+where gas exchange
+happens we think about
+gas exchange in terms
+of cardio carbon dioxide
+being removed from
+blood oxygen being
+placed into blood and
+we're going to be talking
+about the anesthetics
+now going into the
+blood coming out of
+the blood after the
+anesthetic is withdrawn.
+So inhaled anesthetics
+are taken up through
+gas exchange between
+the alveoli of
+the lung and the
+pulmonary circulation and
+from the pulmonary
+circulation the blood
+goes back to the
+heart and gets pushed
+out into the aorta and
+arteries and circulates
+through the blood,
+through the body,
+to the different
+body compartments.
+Simple idea.
+Blood goes in,
+sorry, gas goes in
+and circulates, gets
+to the brain, gets
+to the other tissues.
+Four factors
+influencing the uptake.
+So now this drug
+has, these gases have
+to be taken up into
+the blood from the
+alveoli, from the
+alveolar air, in
+order to be distributed
+throughout. So
+we're going to be
+talking about uptake
+from the alveolar
+air into the blood.
+And that is going
+to be related to
+the speed of
+anesthetic induction,
+inducing that
+anesthetic effect in
+the patient. So
+here are the four.
+Well, how much
+gas is the patient
+breathing in? The
+inspired concentration.
+The solubility of
+the gas in the blood.
+I mentioned before
+that that is related
+to the blood gas
+partition coefficient.
+with a low blood
+gas partition
+coefficient indicating
+a low solubility of
+the gas in the blood
+and vice versa.
+Of course,
+the rate of induction,
+the speed of
+induction is going
+to depend on the
+cardiac output. How
+much is that heart,
+how much blood is
+the heart pumping
+out in a defined
+time per minute?
+And the alveolar
+venous partial
+pressure
+difference, which
+I'll explain
+when I get there.
+The speed of
+anesthetic exchange
+between lungs and
+blood is the crucial
+factor in
+determining the speed
+of onset of the
+anesthesia. Well,
+let's first talk
+about the inspired
+concentration of the
+anesthetic and its uptake in
+the blood and the
+pulmonary circulation.
+So this concept here,
+the F-A to F-I ratio,
+something you
+must understand.
+This is all about
+equilibrium.
+FA is the
+concentration of
+the fractional
+concentration,
+so the fraction
+of the gas in the
+inspired air that's
+in the alveoli.
+Concentration of
+gas in the alveoli.
+Fi is the
+concentration that the
+patient is
+breathing in. The FA
+to FI ratio,
+when it equals 1,
+means that the drug
+is in equilibrium.
+So the FA to
+FI ratio is the
+driving force for uptake.
+And the ratio
+is between the
+inspired
+concentration and the
+alveolar concentration.
+That's it.
+Alveolar partial pressure
+determines, so how
+much of that gas,
+what's the concentration
+of the anesthetic
+gas in the alveolar
+air, determines
+how much of the
+anesthetic gas will
+dissolve in the blood,
+well of course that's
+going to depend
+on the concentration
+that's delivered
+to the patients in
+the inspired gas,
+the higher the partial
+pressure in the
+alveolus, the higher
+the partial pressure
+in the blood. Obviously,
+greater concentration
+in the alveoli,
+there's going to
+be a greater concentration
+in the blood.
+When steady state
+is reached, remember
+steady state is
+the equilibrium,
+the partial pressures
+of gas in the inspired
+air is approximately
+equal to alveolar
+error, to the
+arterial blood, to the
+brain, and now we get
+the clinical effect.
+So equilibrium,
+or you'll see it
+referred to as
+approaching
+equilibrium. Let's
+take a look at
+this figure now.
+Here is the
+anesthesia machine
+with our volatile
+anesthetic in it.
+and the gas coming
+out of their
+canisters is called
+a fresh gas flow.
+That goes into the
+breathing circuit and
+it goes into the
+lungs. Of course, the
+patient is breathing
+in and out, comes out
+of the lung, goes out,
+and it goes around
+and around and around.
+so when the the
+amount of fresh gas flow
+is going to determine
+the amount that's
+inspired that's going
+to determine the
+amount in the alveoli
+and here we have the
+interface the pulmonary
+capillaries to the
+alveoli and the
+drug is going down the
+concentration gradient
+into the pulmonary
+circulation and into
+the arterial blood
+and into the brain.
+And then it's also
+going to go to the
+venous blood and it's
+also going to go out
+of the brain and into
+the venous blood.
+And
+it's in this blue
+color here because the
+concentration of drug
+now in the venous
+blood is lower than
+in the arterial blood.
+That's the
+basic idea here.
+Another concept. The
+faster the uptake of
+anesthetic agent, the
+greater the difference
+between the inspired and
+alveolar concentrations,
+and the slower the
+rate of induction.
+This is all about
+equilibrium, rate of
+induction, clinical
+effect. So why is this
+happening? Faster
+uptake, slower rate.
+Alveolar concentrations
+lag behind the
+inspired concentrations,
+and that's expressed
+this way. alveolar
+concentrations
+are lower than the
+inspired, because the
+anesthetics are taken
+up by the pulmonary
+circulation during
+this initial phase.
+The gas goes into the
+breathing circuit,
+goes into the lungs, goes
+down the concentration
+gradient, into
+the blood. So the
+amount that's in the
+alveoli is going to be
+lower because it's
+it's moving out than
+what is coming in
+through the inspired air.
+When uptake is
+rapid, a fast uptake,
+a large amount of
+anesthetic is absorbed
+into the blood
+from the alveoli.
+Which means, now keep
+and remember to think
+about equilibrium, the
+rapid uptake creates
+a significant difference
+between the inspired
+concentration and the
+alveolar concentration
+as the alveoli are
+depleted faster than
+they can be replenished
+by the inspired air.
+And that's what I
+described before.
+Remember for the
+clinical effect
+to occur this
+has to equal one
+where these two
+values are equal.
+Speed of induction.
+Anesthesia induction
+depends on the
+equilibrium between
+the alveolar and
+CNS concentrations.
+When uptake is
+high, it takes
+longer to reach
+equilibrium.
+Follow me?
+If you want you
+can stop the video
+and kind of review
+this if you want
+to think about
+it a little more.
+well ventilation now
+the anesthesiologist
+can is the one who
+controls the amount of the
+gas that's being
+inspired by the patient
+increasing the alveolar
+ventilation continuously
+replaces the
+anesthetic taken up by
+the pulmonary bloodstream
+and that's going to
+provide better maintenance
+of that alveolar
+concentration as it's
+being replenished.
+By increasing the
+ventilation, the
+anesthesiologist can
+increase the rate
+of induction,
+bringing in more gas,
+increasing the
+rate and depth of
+breathing, that's
+what ventilation is,
+delivers more fresh
+gas to the alveoli
+per unit of time.
+So what are we
+talking about?
+Speed of induction.
+Increasing the
+partial pressure, so
+increasing the concentration
+of the anesthetic
+in the alveoli creates
+a steeper gradient,
+makes sense, right?
+Which leads to faster
+equilibration with
+the arterial blood
+because we're sending
+more of the gas in.
+The partial pressure
+of anesthetic in
+the brain required to
+produce the clinical
+effect is therefore
+achieved more
+quickly, increases the
+speed of induction.
+So let's talk about
+solubility now.
+Why is the speed
+of induction slower
+with the more soluble
+anesthetic gases?
+The figures on the
+right-hand side are
+typically shown in a
+variety of textbooks.
+So let's see if we
+can figure this out.
+So the concepts
+are the more
+soluble the anesthetic
+is in blood,
+the greater the capacity
+of the blood for
+taking up the anesthetic,
+In other words,
+more gas is required,
+and that's going to
+take longer to achieve
+that equilibrium,
+and therefore
+induction will be
+slower, and then
+the opposite
+is true with the
+less soluble.
+In this figure here,
+these larger spheres
+compared to these little
+spheres indicate that
+this anesthetic gas
+is very insoluble.
+Nitrous oxide is the
+prototype here for this.
+The very soluble
+prototype is halothane.
+Now remember,
+what is the point?
+How do we get to
+that induction
+point? Well, equilibrium.
+So this is the
+amount that's being
+inspired, and in
+the blood and brain,
+we need to get
+up to this point
+in order to achieve
+the equilibrium.
+FI, FA to FI ratio
+equals 1, equilibrium.
+So that's the goal.
+We see on this figure
+that it's pretty close,
+nitrous oxide is pretty
+close to equilibrium
+already because it
+doesn't dissolve much
+in the blood. And
+compared to halothane,
+well, gosh, we have a
+big difference here.
+It's going to take
+much longer to
+achieve the same
+concentration in
+the alveoli, in
+the arterial blood,
+and in the brain
+with halothane.
+And this is
+another way to
+show it, this
+figure here.
+Nitrous oxide, halothane,
+nitrous oxide fast,
+halothane slow.
+The difference in
+blood gas partial
+pressures, partition
+coefficients, sorry,
+is a difference
+of about 35 times.
+Halothane is
+much, much, much
+more soluble than
+nitrous oxide.
+Let's talk now
+about cardiac output
+and the difference
+between the alveolar
+and venous blood
+partial pressures.
+So cardiac output first.
+Alright,
+now think about
+cardiac output. Cardiac
+output is the amount
+of blood that the
+heart, that the
+ventricles are pushing
+into the circulation
+per unit of time.
+So, if that
+cardiac output goes
+down, that's going
+to reduce the
+pulmonary blood
+flow, clearly.
+It will reduce the
+volume going into
+the pulmonary
+circulation and the speed
+at which it goes
+into the circulation.
+Therefore,
+the gas in the alveolar
+air is going to
+have more time to
+move into the blood.
+The partial pressure
+in blood rises more
+quickly when cardiac
+output is reduced.
+And therefore, that will
+increase the speed
+of induction.
+That is more
+pronounced with the
+insoluble agents because
+they don't dissolve
+in the blood as
+readily as we see
+with the soluble ones.
+Now, the opposite
+is true when cardiac
+output goes up.
+Increasing cardiac
+output is going
+to increase
+pulmonary blood flow.
+That means there's
+a greater amount of
+blood going through the
+pulmonary circulation,
+and it's going at a
+faster rate. So the
+partial pressure
+in blood rises at a
+slower rate, more blood
+moving faster, and
+the speed of onset
+is reduced. And, of
+course, this would be
+more pronounced with
+soluble agents because
+if there's more blood,
+it's just going to
+take longer for them
+to reach that
+equilibrium point that's
+necessary to produce
+the clinical effect.
+Now, looking at the
+alveolar venous blood
+concentration difference
+in relation to the
+uptake of the anesthetic
+into the blood.
+Tissue uptake from
+arterial blood
+reduces the
+partial pressure of
+the anesthetic in
+the venous blood.
+The blood comes
+out of the left
+ventricle, is pushed
+into the aorta, which
+moves into the
+arterial circulation.
+The highly perfused
+organs, highly
+perfused tissues
+will take up the
+blood, will move
+that anesthetic.
+Now let me start over.
+Because certain
+tissues like the
+brain, the CNS, the
+spinal cord, brain
+and spinal cord,
+are highly perfused,
+they will get
+this drug first.
+Meanwhile, the
+anesthetic is moving
+throughout the body and
+the tissues are taking
+up the anesthetic
+and therefore when
+the blood returns
+to the heart through
+the venous system,
+the concentration of
+the anesthetic in
+the veins is going to
+be lower than when
+it's in the arteries.
+that's here venous
+circulation returns
+to pulmonary circulation
+with little or
+no dissolved anesthetic
+gas and this is
+going to generate
+the partial pressure
+difference between
+the alveolar hair and
+the pulmonary circulation
+if that difference
+is large that That
+indicates that
+the tissue uptake must
+be also very high.
+The greater the
+difference in gas
+concentration, which
+we talked about before,
+the longer the
+time to achieve
+equilibrium in
+the brain tissue,
+so longer time
+to induction.
+Anesthetic transfer
+from the blood to the
+neural and non-neural
+tissues, so that's
+all of the body
+tissues, is determined
+by the solubility of
+the anesthetic in the
+tissue, the blood
+flow to the tissue,
+highly perfused,
+moderately perfused, low
+perfused, and the
+difference in the
+concentration, the
+partial pressure gradient
+between the arterial
+blood and the tissue.
+I have a picture of
+that here. We see this
+figure again where I
+wanted to demonstrate
+that the venous
+blood has very little
+anesthetic in it
+compared to the arterial
+blood. A big difference
+between them.
+Anesthetic gas diffuses
+from arterial blood
+to tissues. Venous
+blood returning to
+the alveoli is depleted
+of anesthetic, more
+gas moves from the
+lungs into the blood.
+The greater
+the difference,
+the longer the
+time to achieve
+equilibrium and
+brain tissue.
+And this is displayed
+graphically.
+On the x axis, we
+have time in minutes.
+On the y-axis, we
+have the FA to FI
+ratio, with one up
+here being equilibrium.
+Halothane, we remember,
+is highly soluble.
+Nitrous oxide is
+highly insoluble.
+this point here
+the patient hasn't
+received any anesthetic
+gas so the inspired
+gas is going right
+into the alveoli so
+we get this big steep
+curve and then it
+levels off the
+nitrous oxide achieves
+approaches equilibrium
+much faster than
+halothane does. It's
+way far away from
+equilibrium at this
+point, 30 minutes.
+Isoflurane does
+better. This
+actually has a
+medium onset.
+Sevolflurane
+and desflurane
+are considered
+rapid onset. We
+see they're approaching
+equilibrium rapidly
+and that's why.
+Looking at the lower
+figure, this shows
+tissue distribution.
+Again, we have a rapid
+steep curve here as the
+patient is initially
+breathing in
+anesthetic. Goes to the
+vessel-rich group,
+the brain, spinal
+cord, other well
+-perfused organs, and as
+time goes by it drops
+off quickly from
+those as it is entering
+the less well-perfused
+tissues, muscle
+group in this case,
+fat group in this case.
+You do not need
+to memorize these
+numbers. They're here
+to give you context.
+The concepts that
+you do need to
+know are that the
+vessel-rich group,
+and I've indicated
+that here,
+are the first to
+receive the anesthetic
+and the first to
+approach study state.
+This tissue, the CNS
+tissue, the highly
+perfused tissue,
+tends to have a small
+volume of a small
+capacity to take
+up the drug compared
+to muscle and fat.
+So muscle is less
+perfused so the uptake
+is slower, but think
+about how much muscle
+is on our bodies it
+has a much greater
+capacity to take up
+drug and it's going to
+do that over time now
+fat is the perfusion
+is pretty similar to
+the muscle however
+the drug lipophilic
+drug loves lipid is
+going is very soluble
+in the fat in our
+adipocytes and that's
+going to take that's
+a large capacity and
+it's going to take a
+long time to approach
+steady state in those
+tissues so for the
+average procedure the
+drug is not going
+to fill up that fat
+reservoir but for
+longer procedures it can
+Oops, sorry, pushed
+the wrong button.
+And then the
+vassal pore group,
+that's the bones,
+teeth, et cetera.
+Really doesn't
+take up much drug.
+Let's check knowledge.
+I invite you to
+stop the video and
+look at the next
+two slides and see
+if you can answer
+the questions.
+Okay,
+what is the fundamental
+concept that
+ensures the anesthetic
+concentration in
+the CNS is stable
+and effective for
+maintaining anesthesia
+during the procedure?
+When the partial pressure
+of the anesthetic
+gas in the inspired
+air, alveoli, arterial
+blood, and CNS are
+in equilibrium, which
+is defined as F-A or F
+-I ratio equals 1, the
+desired clinical effect
+will be produced.
+What four
+factors influence
+the uptake of anesthesia?
+The amount of
+drug that's coming
+in through the
+inspired air,
+the solubility of
+the gas in the blood,
+and the cardiac output
+and the difference
+in the concentration
+of anesthetic
+gas between the
+arteries and the veins.
+Why does the faster
+uptake of anesthetic
+agent lead to a slower
+speed of induction?
+When uptake is fast,
+a large amount of
+anesthetic is absorbed
+into the blood from
+the alveoli. this
+creates a significant
+difference between the
+inspired concentration
+and the alveolar
+concentration expressed
+as the FA is less
+than the Fi as the
+alveoli are depleted
+of anesthetic faster
+than they can be
+replenished by inhalation.
+So it takes longer
+to reach equilibrium.
+Why is the speed
+of induction slower
+with more soluble
+anesthetic gases?
+The more soluble
+the anesthetic
+is in the blood,
+which is a
+higher partition
+coefficient,
+blood gas partition
+coefficient, the greater
+the capacity for uptake
+into the blood, the
+slower the rate of rise
+in partial pressure,
+the longer it takes
+to reach equilibrium.
+How does an increase
+in cardiac output
+lead to a slower
+speed of induction?
+Increased cardiac
+output will increase the
+volume and the rate of
+pulmonary blood flow.
+The partial pressure
+of the gas in the blood
+is therefore going
+to rise more slowly
+because there's more
+blood to dissolve in and
+that will cause a slower
+rise towards equilibrium
+and therefore a
+slower speed of onset.
+In this case the effect
+is more pronounced
+with the soluble
+agents which achieve
+equilibrium more slowly
+in the first place.
+How does a large
+alveolar tube
+venous partial
+pressure difference
+influence the
+speed of induction.
+Anesthetic gas is taken
+up from the arterial
+blood into the non
+-neural tissues and
+that will reduce the
+venous circulation as
+I should say the
+concentration in the
+venous circulation
+as it returns to the
+pulmonary circulation with
+little or no dissolved
+anesthetic gas and
+that's going to
+generate a partial
+pressure difference between
+the alveolar gas
+and pulmonary blood.
+The greater the
+difference, the
+longer the
+time to achieve
+equilibrium with
+the brain tissue.
+Recovery is just
+the reverse.
+That's it.
+The longer the
+exposure, the
+greater the tissue
+saturation, the
+longer the time
+for the patient to
+emerge from
+anesthesia, and the
+longer the
+elimination time.
+The anesthetic circuit
+volume, I haven't
+mentioned that before,
+but there is gas in
+that circuit. The
+lower the anesthetic
+circuit volume, the
+faster the elimination of
+the inhaled anesthetic.
+Only makes sense.
+now elimination they
+go out the way they
+come in through the
+lungs now some drugs have
+a well most drugs have
+some level of hepatic
+metabolism the older
+drugs these are not
+used methoxyflurane
+is super super soluble
+and its utility was gone
+long long ago but it
+was one of the early
+inhaled anesthetics.
+These three drugs are no
+longer in use in the US.
+It's these drugs
+that I put the
+information on
+because we use them.
+So sevoflurane,
+about 5% of it
+actually undergoes
+hepatic metabolism.
+It's the CYP2E1
+that mainly
+handles these
+lipophilic drugs, these
+lipophilic
+halogenated drugs.
+Isoflurane, next.
+Disflurane, very little.
+And nitrous oxide, really
+virtually no
+hepatic metabolism.
+Let's talk now
+about potency.
+The minimum alveolar
+concentration,
+MAC,
+is the standardized
+standardized
+measure of potency.
+So what do we use
+it for? It helps
+us with dosing.
+Definition. One MAC is
+defined as the alveolar
+concentration that
+prevents movement in
+50% of patients in
+response to a pain, a
+noxious stimulation, a
+standardized stimulus
+pain of surgical
+incision. So 50 percent.
+This is a obviously
+a statistical
+average. It's a median.
+Therefore it's essential
+to individualize
+therapy because
+MAC can be altered
+by a number of
+different factors.
+A number of
+different variables
+physiologic and
+pharmacologic. I'm not
+asking you to memorize
+the variables.
+Just please remember
+that MAC is altered
+by several things,
+and MAC is just a
+statistical average.
+I will repeat the
+definition. The
+alveolar concentration,
+so the amount of
+drug in the alveolar
+air that prevents
+movement in 50% of
+patients in response
+to a standardized
+pain, pain of surgical
+incision stimulus.
+Okay, now how does
+that relate to potency?
+Well,
+this is a concept that
+you're familiar with.
+We know that potency
+is really determined
+by the amount of
+drug at the site
+of action that will
+produce the effect.
+The gas canisters,
+and therefore the
+amount of drug
+that's breathed in,
+contain, let me
+just back up.
+The drug is actually
+measured in volume
+percent, how much of
+the gas coming through
+that's being inspired,
+how much of it, what
+percentage of it is
+the anesthetic gas.
+With nitrous oxide,
+even 100% of nitrous
+oxide being breathed
+in by the patient
+does not produce
+full anesthesia.
+It is a really non
+-potent anesthetic,
+a weak anesthetic.
+Halothane, less than
+one volume percent
+is going to produce
+one MAC. It's going to
+produce, it's going to
+prevent the movement
+to a pain stimulus
+in 50% of patients.
+Only less than one
+volume percent.
+Sevolflurane
+is also potent.
+Desflurane, 6%, still
+considered potent.
+Don't need much of the
+anesthetic to
+produce the effect.
+So these are potent,
+isoflurane also, and
+this one is weak.
+Nitrous oxide is weak.
+Now, how do we use
+that with dosing?
+First of all, Now,
+by talking about the
+potency of the drug
+in terms of MAC,
+we can therefore
+compare the amount of
+drug needed to produce
+this desired effect.
+The usual dosage is a
+half to one and a half
+max, and different
+drugs can be combined
+together. So a half MAC
+of one drug, frequently
+nitrous oxide, can
+be combined with a
+half MAC of another,
+of a potent, volatile
+anesthetic, and that's
+going to equal one MAC
+of anesthetic. And if
+that is the desired
+concentration to produce
+the anesthetic effect
+in an individual
+patient, there you go.
+Potency and dosing.
+So, correlation.
+And this graph here
+will help you to see
+the differences in
+the potencies of
+these drugs. Still
+potent, not potent.
+MAC provides a
+direct correlation
+between the
+alveolar anesthetic
+concentration and the
+concentration at the
+sites of action in
+the CNS potency.
+MAC permits
+comparison of the
+relative anesthetic
+potencies of the
+different anesthetics.
+Very useful.
+Always think about
+the patient factors.
+Individualize
+patient care.
+I cannot say this
+too many times.
+Individualize.
+You don't have to
+memorize these.
+Just keep in mind
+the concept of
+individualization.
+the fact that
+physiologic as well
+as pharmacologic
+factors can alter MAC,
+alter the dose
+that's necessary to
+induce anesthesia,
+maintain
+anesthesia in the
+individual patient.
+Okay,
+effects.
+I'm going to spend
+quite a bit of
+time talking
+about the effects.
+cardiovascular.
+So what are we thinking
+about here? I know
+you haven't had the
+cardiovascular system,
+but we're going to
+just keep it simple.
+We're talking about
+the blood vessels
+and we know blood
+vessels will
+constrict, vasoconstriction.
+We know blood
+vessels will dilate
+vasodilation.
+Vasoconstriction
+increases blood pressure.
+Vasodilation decreases
+blood pressure.
+We also know that the
+strength or the force
+of myocardial contraction
+is what pushes
+the blood out of the
+ventricles and into,
+one, the pulmonary
+circulation and, two,
+the aorta. So we're
+going to be talking
+about cardiac output.
+Cardiac output is the
+amount of blood that
+the heart pushes out
+in a specific amount
+of time per minute.
+So that's cardiac output.
+When the cardiac output
+is reduced, that's
+going to cause a lower
+blood pressure. When
+the cardiac output
+increases, that's going
+to cause a higher
+blood pressure because
+there's more blood to
+push against the vessels,
+and therefore the
+blood pressure goes up.
+Now we need to talk about
+the baroreflex again.
+Baroreflex senses
+the pressure of
+the blood within
+the vasculature,
+mean arterial pressure.
+When the mean arterial
+pressure goes up,
+the baroreflex is to
+activate the parasympathetic
+nervous system to
+reduce the heart
+rate. When the baroreflex
+senses low blood
+pressure, then the
+sympathetic nervous system
+becomes disinhibited
+and that will increase
+the heart rate, even
+causing tachycardia,
+and constrict the
+blood vessels, the
+vasculature, to bring
+up the blood pressure.
+So cardiac output increases
+and the vasculature
+vasoconstricts
+and both together
+increase blood pressure.
+So that's the baroreflex
+that we're going to
+be talking about.
+So how do these
+inhaled anesthetics
+affect the various
+organ systems? Well,
+we see that they're
+depressant on
+the nervous system
+and they're basically
+depressant on the
+other systems.
+However, they have
+differences among them.
+On this chart,
+I'm only talking
+about isoflurane,
+desflurane,
+sevoflurane, and
+nitrous oxide,
+because they're the
+ones that are used.
+We'll talk more about
+the cardiovascular,
+in which I include
+halothane again,
+because it could
+appear on a board exam.
+Basically, the inhaled
+anesthetics, the
+volatile anesthetics
+decrease the blood
+pressure with little or
+no effect on the cardiac
+output. I'm talking
+about these three.
+And they depress
+the baroreflex
+and I've indicated
+to what degree.
+Now one other thing
+happens. Desflurane
+actually caused
+sympathetic stimulation.
+I'll talk more about
+that on the next slide.
+Nitrous oxide
+has negligible
+effects on the
+cardiovascular chair,
+mainly because
+of net effects.
+This is the
+takeaway though.
+So hemodynamic
+stability. Think about if
+it has low effects on
+the cardiovascular,
+the cardiovascular
+system,
+like nitrous oxide, then
+there's hemodynamic
+stability.
+Respiratory. Well,
+respiratory
+depression mainly.
+Decreased tidal
+volume, so that's
+how much is being
+breathed in,
+and minute ventilation
+over minutes.
+decreased ventilatory
+response to
+carbon dioxide
+so when carbon
+dioxide levels in
+the blood go up
+the way we reduce
+those is to blow them
+off so normally
+when carbon dioxide
+blood vessels blood
+levels go up we breathe
+faster we breathe
+deeper to blow off
+that carbon dioxide
+well that response
+has been depressed
+by the anesthetics,
+so the respiratory
+center is less sensitive
+to noticing elevations
+in carbon dioxide.
+A good thing is
+that they cause
+bronchodilation,
+especially sevoflurane.
+That said, the
+drugs that are
+pungent, even
+though they cause
+bronchodilation,
+can cause coughing,
+breath-holding,
+laryngospasm of
+the larynx, and
+bronchospasm, because
+that's the reflex
+response to this
+airway irritation.
+Cevoflurine
+doesn't cause that.
+Cerebral effects,
+well cerebral
+depression, the The
+vasodilation is going
+to increase how much
+blood is flowing
+through the cerebral
+vasculature.
+So there's going to be
+more blood
+flowing through.
+And more blood
+flowing through means
+the pressure
+inside the cranium,
+which doesn't expand
+with that increased
+pressure, is going
+to be higher.
+And as these
+are depressants,
+CNS depressants,
+the cerebral
+metabolic rate is
+going to go down.
+Sevolflurane, we know,
+causes bronchodilation,
+but it also decreases
+the cerebral
+blood flow and
+the intracranial
+pressure to a
+lesser extent.
+Nitrous oxide increases
+all of these things.
+Neuromuscular.
+Well, these volatile
+anesthetics are skeletal
+muscle relaxants,
+which is a good
+thing for surgery.
+However, by giving a
+neuromuscular blocker,
+then we don't need
+as much depth of
+anesthesia to produce
+that skeletal muscle
+relaxation, Which
+is a good thing,
+because we know the
+deeper the anesthesia,
+the greater the risk
+of moving into that
+stage 4 and shutting
+down the organ systems.
+These drugs have a really
+narrow therapeutic
+window.
+nitrous oxide
+does not relax
+skeletal muscle
+or a smooth muscle
+and speaking of
+smooth muscle
+the and the volatile
+anesthetics also relax
+smooth muscle so we're
+thinking about the
+vasodilation the
+bronchodilation we're
+thinking about uterine
+smooth muscle relaxation
+and when does this
+matter in pregnancy.
+So at times of labor
+and delivery, uterine
+smooth muscle relaxation
+is not desirable.
+Decreased renal blood
+flow and that in
+turn is going to
+decrease the glomerular
+filtration rate and
+decrease urine output.
+So decreasing the whole
+renal, the
+kidney process.
+Decreasing
+hepatic blood flow
+also and here
+I've got the
+hepatic metabolism
+numbers again.
+Don't have to
+memorize the these
+numbers just
+take the concept.
+All right let's
+talk further
+about these
+hemodynamic effects.
+Depression of
+cardiac contractility
+will decrease the mean
+arterial pressure.
+Okay, why?
+Depressing cardiac
+contractility means
+reducing the force of
+contraction, which means
+less volume of blood
+is going to be pushed
+out of the heart in a
+given amount of time,
+which means a decreased
+cardiac output.
+Alright, how are
+these different drugs?
+What's the differences
+between these drugs?
+Halothane and Enflurane,
+more myocardial
+depression, in
+other words, more
+depression of this
+cardiac contractility.
+So that's going to
+decrease the cardiac
+output. Compared to
+others, there's less
+vasodilation, so that's
+not going to change
+the systemic vascular
+resistance that much.
+Looking at isoflurane,
+desflurane, and
+sevoflurane, it causes
+vasodilation, which
+is going to decrease
+the blood pressure,
+decrease the systemic
+vascular resistance,
+which decreases
+blood pressure. But
+there's very little
+change in the cardiac
+output, which means
+that these three drugs
+preserve cardiac
+output, and between
+preserving cardiac output
+and the vasodilation,
+which decreases the
+pressure that the
+ventricles have to
+push against, and
+decreases the preload,
+which decreases the
+amount of drug coming
+back into the heart.
+These are considered
+preferable effects
+compared to halothane
+and influrane.
+Why?
+Isoflurane, desflurane,
+and seboflurane
+have minimal myocardial
+depressant effects.
+that's this part,
+preserved cardiac output,
+and favorable
+hemodynamic profiles and
+may be suitable for
+patients who have impaired
+myocardial function.
+And what does that
+mean? Myocardial
+function, that is the
+strength of contraction
+of the myocardium.
+Now desflurane
+has another little
+feature here that
+I briefly referred
+to earlier. It
+causes a transient
+sympathetic
+stimulation because
+it releases
+catecholamines.
+Well, sympathetic
+stimulation, we're
+talking about
+catecholamines, correct?
+It's the
+catecholamines that
+produce the
+adrenergic effects.
+So what's going
+to happen?
+Heart rate's going
+up, tachycardia,
+blood pressure's
+going up.
+These are transient,
+that means they last
+for a matter of minutes,
+several minutes,
+especially when
+the high doses are
+used or the dose has
+been increased by
+ventilation by the
+anesthesiologist.
+Tachycardia can
+persist. Okay, usually
+that's not going to be
+much of a problem, but
+if a person has
+coronary artery disease,
+which is plaques,
+angina, meaning the
+coronary arteries
+tend to be occluded
+and don't deliver
+as much oxygen as
+in the non diseased
+coronary arteries,
+that can lead to
+a heart attack. An
+ischemic episode
+and a heart attack.
+So that's a word
+of caution with the
+desflurane because of that
+sympathetic stimulation.
+Even though it only
+lasts probably less
+than 10 minutes, it
+can still be a problem
+in people with coronary
+artery disease.
+All right, emergence.
+So patients, the
+drug has been discontinued
+and the patient
+will now be emerging
+from the anesthetic.
+All of these
+volatile anesthetics
+can cause nausea
+and vomiting. It
+just is. And nitrous
+oxide seems to
+have the highest
+incidence of it.
+They cause nausea
+and vomiting because,
+after all, they're
+going everywhere
+and they're basically
+a poison. The
+body doesn't
+recognize these drugs,
+recognizes them as
+intruders, as poison.
+So that's going to
+trigger the chemoreceptor
+trigger zone and
+vomiting center.
+nausea and vomiting.
+Well this can be
+managed fortunately
+with antiemetics
+and I've listed
+some here. You don't
+have to memorize
+those. Just remember
+drugs that prevent
+nausea and vomiting.
+Avoid nitrous oxide.
+Use propofol. Now
+this is an intravenous
+that happens to
+have anti-emetic
+properties. We'll be
+talking about this one.
+And don't use
+opioids. Use something
+else. Ketorolac
+is an NSAID,
+non-steroidal anti
+-inflammatory drug.
+This is the main
+one, but there are
+different strategies
+as you can see.
+So a patient's blood
+pressure and heart
+rate are going to go
+up. They're coming
+out of this traumatic
+episode they've
+been through, even
+though they've been
+anesthetized. And
+they're also going to
+be likely in pain,
+and that's going to
+increase hypertension
+and tachycardia.
+And it just so
+happens that there is
+post-anesthesia
+shivering. The ORs tend to
+be cold, the body
+cavity has been
+opened, and possibly
+the IV fluids that are
+being used are cold,
+and so that core
+temperature goes
+down, patients shiver.
+And emergence
+excitement, tachycardia,
+restlessness, crying,
+moaning, thrashing,
+and the neurologic
+signs have also
+been temporarily
+altered, so we can see
+differences in our
+neurologic signs.
+Okay, toxicity.
+This is just a little
+chart to help you
+see which ones
+tend to be, which
+toxicities the individual
+drugs will show.
+Malignant hyperthermia,
+the takeaway here
+is the halogenated
+drugs, not nitrous oxide.
+They all have a very
+narrow therapeutic
+window, this is low
+therapeutic index.
+Hepatotoxicity,
+this is the reason
+I've included
+halothane here.
+I've seen this on
+board exams, I've
+seen this in board
+review questions,
+and it's an
+important concept.
+Sevolflurane produces
+this product here
+that's been given
+the name Compound A,
+which has been
+theorized to cause
+nephrotoxicity. It
+hasn't been seen in
+humans, but it has
+been seen in animals.
+and fluorine as far
+as I'm concerned
+you don't have to
+look at that one now
+b12 deficiency here
+we have nitrous
+oxide vitamin b12 and
+anemia environmental
+toxicity every
+single one of them
+These drugs, these
+inhaled anesthetics,
+are vented into the
+outside environment.
+Now I have descriptions
+here. The other
+was just a chart to
+help you organize them.
+The acute toxicities,
+because of the narrow
+therapeutic range,
+organ damage is low,
+when it's used by
+trained people but it can
+be high if it's used
+by people who have not
+been are not qualified
+to use these drugs.
+Malignant hyperthermia,
+this is related
+to people who have
+genetic disorders of
+skeletal muscle which
+may not be obvious.
+They can develop
+the rigidity,
+hyperthermia,
+tachycardia,
+hypercapnia,
+that's elevated
+carbon dioxide levels,
+elevated potassium
+levels, and metabolic
+acidosis. We talked
+about it with
+succinylcholine.
+It also happens with
+the halogenated,
+which are the
+volatile anesthetics.
+Nitrous oxide
+does not cause it.
+We talked about
+nephrotoxicity
+before. hepatotoxicity.
+Hepatic dysfunction
+following surgery
+and general
+anesthesia is most
+likely caused by
+what the patient is
+going through rather
+than the drug.
+I'll talk about halothane
+hepatitis at
+a later slide.
+Neurotoxicity.
+There is this concern
+of neurotoxicity
+in infants and
+young children.
+Studies are ongoing.
+So far, it's just
+not clear what the
+neurotoxic effects
+are in children. Let's
+talk about carbon
+monoxide poisoning.
+Carbon monoxide,
+think about the
+breathing circuit. Well,
+inside that breathing
+circuit is a product
+that will remove
+carbon dioxide from the
+breathing circuit so
+that the patient can
+reuse the air in that
+breathing circuit.
+Well, if that product is
+dried out, the halogenated
+anesthetics can
+form carbon monoxide,
+which will then be
+breathed in by the
+patient. Really important
+to change that carbon
+dioxide absorber so
+that there's fresh
+the fresh absorber in
+there it's not dried out
+and here's the potential
+for carbon dioxide
+carbon monoxide
+formation desflurane
+is the worst offender
+isoflurane and several
+fluorine much less so but
+it can still cause it
+carcinogenicity well
+these drugs don't
+appear to cause cancer.
+Pregnancy.
+Pregnant patients are
+sometimes going to
+have to have surgery,
+and the surgery may
+require the use of an
+inhaled anesthetic.
+There appears to be
+an increased incidence
+in loss of the fetus
+with these drugs,
+but the reason for
+it is not clear. And
+then I mentioned the
+environment before.
+These drugs are
+super, super,
+super potent
+greenhouse gases.
+Nitrous oxide has
+some other features to
+be aware of. So the
+ones that we saw before,
+all those features.
+Now, it can cause
+body space volume
+expansion. You need to
+understand the mechanisms
+of these effects.
+So nitrous oxide, N2O,
+is 35 times
+approximately more
+soluble in blood
+than nitrogen, N2.
+Therefore, nitrous
+oxide diffuses
+into cavities faster
+than nitrogen can
+diffuse out. So
+we're talking about
+air-filled cavities
+at this point.
+So because there
+is both nitrous
+oxide and nitrogen
+in there, that
+increases the
+volume inside the
+cavity, and so the
+cavity expands.
+However, when
+the walls of the
+cavity are rigid,
+such as in the
+eye, such as in
+the middle ear.
+The pressure will rise
+instead of the volume.
+Cautions, these
+are the cautions.
+So people who have
+a pneumothorax,
+people with
+intracranial error,
+middle ear surgery,
+bowel obstruction.
+Nitrous oxide
+should be avoided in
+these patients
+because of this
+body space volume
+expansion effect.
+And just an FYI,
+the nitrous oxide
+can also diffuse
+into the tracheal
+tube cuff and
+that can increase
+the pressure
+against the trachea.
+Vitamin B12.
+Nitrous oxide interferes
+with vitamin
+B12 functions.
+Vitamin B12 is essential
+for functions
+of methionine.
+When vitamin B12
+is deficient, that
+can cause anemia.
+It's called vitamin
+B12 megaloblastic
+anemia, and megaloblastic
+anemia due to vitamin
+B12 deficiency
+can cause peripheral
+neuropathy.
+So nitrous oxide
+should not be used
+for chronic pain
+relief because the
+patient will be
+exposed to this nitrous
+oxide repeatedly and
+over time. And that
+will eventually
+reduce the stores of
+B12 and lead to
+megaloblastic anemia.
+The drug should
+also be avoided
+in patients who
+already have B12
+deficiency,
+folate deficiency,
+methionine synthesis, or
+metabolism deficiency.
+Diffusion hypoxia
+now. So when nitrous
+oxide is discontinued,
+the nitrous oxide
+naturally is going
+to diffuse out of the
+blood back into the
+lungs via the alveoli.
+The nitrous oxide
+will then dilute the
+oxygen in the alveoli.
+So what do we do?
+administer oxygen
+and this is done
+for a few minutes
+before the nitrous
+oxide is discontinued
+and afterwards.
+Now there's something
+called a second
+gas effect.
+When we remember that
+nitrous oxide is in
+thought fairly is quite
+insoluble in blood.
+Therefore, it is taken up
+rapidly from the alveoli.
+It moves into
+the blood and
+quickly approaches
+equilibrium.
+Well, contraction
+of the alveolar
+volume as the
+nitrous oxide leaves
+concentrates the co
+-administered inhaled
+drug that's left in
+the alveoli. So now we
+have more concentration
+higher higher
+concentration and that's
+going to speed induction
+this is something
+that's always brought up
+remember nitrous
+oxide isn't used alone
+it's used with other
+things it produces a
+nice smooth induction
+um but it's probably
+actually insignificant
+in clinical practice.
+It's still
+something that it's
+a concept you
+need to remember.
+Alright, now we're on to
+halothene hepatitis.
+This is rare.
+Halothene is
+still used in some
+areas of the world.
+It's quite cheap.
+It is metabolized by
+CYP2E1 and it forms
+reactive intermediate,
+which is unstable,
+and I've indicated
+right here, and it can
+form something called
+neoantigen. So it
+binds to liver proteins
+and it will draw
+the immune system.
+It's immunogenic. It
+will draw the immune
+system to attack it.
+And the immune system
+attack will cause
+inflammation and
+liver cell damage.
+So we have direct
+toxicity by
+this unstable
+intermediate,
+and we have this
+immune attack.
+There are certain
+risk factors for this.
+For example, previous
+exposure to halothane.
+It seems to be
+higher incidence in
+the obese female.
+That doesn't mean that
+nobody else will
+develop this, but that's
+the way the population
+incidence goes.
+And the CO2 absorber,
+I've given you a
+picture here of the
+product and the CO2
+absorber within the
+breathing circuit.
+These are highly
+basic, although
+the newer ones
+are less so.
+And when this CO2
+absorber is dried
+out and the anesthetic,
+the halogenated
+anesthetic, passes
+through it, this
+is when carbon
+monoxide can be formed.
+That's the basic idea.
+That's the concept.
+And the prevention?
+Make sure that
+it's fresh.
+dust fluorine greater
+than n-flurane
+which there's I
+mean they all still
+produce carbon
+monoxide dust fluorine
+seems to be the
+worst culprit though
+okay here's xenon
+you do not have to
+memorize this this
+is an example of what
+the ideal gas anesthetic
+would look like
+highly insoluble
+inert at room
+temperature and standard
+pressure doesn't
+catch on fire
+this one xenon
+happens to be a non
+-competitive antagonist
+of NMDA receptor
+and other effects
+has minimal side
+effects how good is
+that no cardiovascular
+vascular effects,
+respiratory
+depression, renal
+or hepatic toxicity,
+not metabolized,
+environmentally safe,
+but it is super
+expensive because it's
+obtained by extracting
+it from air.
+And it's not
+approved in the
+U.S. It is
+approved elsewhere.
+All right, check
+your knowledge.
+What is the acronym
+that MAC stands for?
+Minimum alveolar
+concentration.
+How does it
+define potency?
+One MAC is the
+concentration of inhaled
+gas in the alveoli
+that prevents
+movement in 50% of
+patients in response
+to a standardized
+stimulus at standard
+temperature and
+ambient pressure.
+MAC reflects the
+brain partial
+pressure and
+allows comparisons
+of potency
+between agents.
+So how is it
+used in dosing?
+Dosing is guided
+by MAC and
+MAC values are additive.
+Which ones are the potent
+volatile anesthetics?
+Isoflurane, desflurane,
+and sevoflurane
+are the ones that
+are in common use.
+And why is nitrous oxide
+referred to as a
+weak anesthetic?
+It has low potency.
+Even 100% nitrous
+oxide does not
+achieve one MAC.
+Therefore, it's
+combined with a potent
+volatile anesthetic.
+That's the typical use.
+Why may isoflurane,
+desflurane, and
+sevoflurane be
+suitable for patients
+with impaired
+myocardial function?
+because they cause
+vasodilation which lowers
+systemic vascular
+resistance and blood
+pressure without a
+with minimal change to
+cardiac output which
+preserves cardiac
+output and of course
+always we do have to be
+monitoring patients
+throughout anesthesia
+care, and although
+desflurane causes
+vasodilation with minimal
+effect on force of
+contraction, myocardial
+depressant effects,
+its transient
+sympathomimetic properties
+cause tachycardia and
+hypertension, especially
+at high dose, and
+that can cause, that
+can induce cardiac
+ischemia and heart attack
+in patients with
+coronary artery disease.
+Which inhaled anesthetics
+are associated
+with malignant
+hyperthermia in
+patients with
+genetic disorder and
+skeletal muscle
+calcium regulation?
+Allogenated ones, but
+not nitrous oxide.
+And this is
+just a matching.
+I invite you to
+do this on your
+own. The answers
+to all of
+these questions
+are at the end.
+I hope you try it
+on your own first.
+and intravenous
+anesthetics. We'll be
+able to go through
+these pretty quickly.
+These are basic concepts,
+basic pharmacokinetic
+concepts that
+you are familiar
+with because these
+drugs are administered
+intravenously and
+use milligram doses.
+So let's take a look
+at their features.
+Redistribution is an
+important concept with
+highly lipophilic
+drugs so a single bolus
+dose one dose is
+administered and it will
+go to the highly
+perfused tissues first
+the CNS and other
+highly perfused organs
+see this two-way arrow
+then as the circulation
+goes around again,
+makes the circuit,
+it will go through
+the venous system,
+the arterial system,
+venous system,
+drop off some drug
+to the various
+compartments, muscle
+and fat, and circle back
+to the brain at
+lower concentrations.
+And now
+the drug will move
+out of the brain
+back into the
+circulation where it
+again goes into
+the other tissues,
+decreasing the amount
+of drug in the brain
+tissue. As the drug
+concentration in
+blood decreases, the
+anesthetic begins to
+redistribute out of
+the CNS to the less
+perfused tissues,
+diminishing the effect.
+The patient emerges
+from anesthesia. So
+the patient emerges
+because the concentration
+of drug in the
+brain tissue is low
+even though the drug
+is still in the body.
+But eventually the drug
+will be eliminated. it.
+Now context-sensitive
+half-time is the half
+-life related, the
+plasma half-life related
+to the duration of
+infusion. So half
+-time, you're familiar
+with that concept. Time
+required for the
+concentration of drug
+to decrease by 50% after
+stopping a continuous
+infusion. We're
+talking about not one
+bolus dose now but a
+continuous infusion.
+And that amount of
+time is going to depend
+on how long that drug
+has been infused.
+So we know the IV
+anesthetic initially
+distributes to
+the well-perfused
+tissue and the drug
+redistributes to the
+less-perfused
+tissue. So the longer
+the infusion, the
+more drug accumulates
+in the muscle and
+fat compartments.
+So after the infusion
+is stopped, the
+drug will leave the
+blood by the usual
+elimination methods,
+metabolism and
+excretion, and that
+will mobilize the
+drug to move out
+of the tissue
+compartments and back
+into the bloodstream.
+drug redistributes
+from peripheral
+compartments back
+into the bloodstream.
+For drugs that have been
+infused for a
+long duration,
+the context-sensitive
+half-time, so the
+amount of time to
+decrease by 50% out of the
+blood, can be
+significantly longer than
+we would see with that
+same drug in a short
+infusion. because of the
+extensive accumulation
+in the fat and
+muscle compartments.
+Why do we care?
+Context-sensitive
+halftime helps predict
+how long it will
+take the patient to
+recover after the
+infusion is stopped.
+And this chart
+will show the
+differences in
+context-sensitive
+halftimes between
+the various drugs.
+Diazepam, thiopental,
+which isn't used
+anymore, have these really
+long context-sensitive
+half-times. They're
+highly lipophilic,
+and they cling to the
+peripheral tissues.
+Propofol, etomidate,
+ketamine, they're
+down here on the
+bottom. So their
+recovery tends to
+be faster with them.
+looking at the
+mechanisms and the
+uses propofol
+atomidate and
+ketamine which i'm
+focusing on here
+ketamine is a non
+-competitive nmda receptor
+antagonist the others
+are gaba a receptor
+positive allosteric
+modulators like the
+benzodiazepines like
+the barbiturates rapid
+anesthesia induction,
+rapid sequence intubation,
+total intravenous
+anesthesia,
+especially propofol,
+sedative, hypnotic, and
+ICU, especially propofol,
+monitored anesthesia care
+sedation,
+especially propofol.
+Propofol is really
+useful intravenous
+anesthetic. It has of
+many favorable qualities.
+And here they
+are. Propofol
+causes bronchodilation,
+decreases the
+cerebral metabolic
+rate of oxygen
+consumption,
+which is measurable.
+The cerebral blood flow,
+the intracranial
+pressure, it is anti
+-emetic and anti
+-pyritic, prevents
+itching and
+anticonvulsant properties.
+And here are some
+problems with it. These
+are pretty common we
+see with anesthetics,
+hypotension,
+respiratory depression.
+Propofol infusion
+syndrome, I've indicated
+down here, you should
+be familiar with this.
+It is rare, but the
+anesthesiologist
+really has to be alert to
+looking for signs
+and symptoms.
+It's a painful
+injection. It's usually
+given with an opioid
+anyway for anesthesia.
+This is an
+interesting feature
+of the actual
+formulation.
+It comes in a four
+-ounce bottle. It's not
+a big amount. So in
+certain anesthesia and
+certain surgical
+procedures, a large number
+of these bottles is
+going to be necessary
+because in order to
+emulsify this propofol,
+it's in an egg phosphate
+and soybean oil
+vehicle, which is a
+lovely bacterial medium.
+and as a result
+there is a potent
+microbial sorry a
+high microbial risk
+and also with this
+egg stuff and soybean
+stuff their
+potential allergens.
+So once the the bottle
+is spiked for the
+IV infusion it has to
+be used right away.
+etomidate hemodynamic
+stability so there
+are no changes in
+blood pressure that's a
+big takeaway also it's
+really really fast
+acting uh and it has anti
+-convulsant properties
+now this has some
+interesting side effects
+uh painful i mean
+these you can expect
+has no analgesic effects.
+It causes myoclonus.
+This is myoclonus, so
+clonus. So this
+involuntary muscle
+movements, and it's not
+related to seizures.
+Myoclonus can
+sometimes be related to
+seizures, but this is
+not. And it inhibits this
+enzyme called 11-beta
+hydroxylase which is
+necessary for the
+synthesis of cortisol so
+it's going to cause
+this adrenal suppression
+for this short amount
+of time that the
+atomidate is in the body
+which means atomidate
+should not be used for
+long infusions such
+as would be sedation
+of the mechanically
+ventilated patient
+in the ICU so this is
+some unique feature that
+should be remembered
+and this one this is
+not serious but it is
+a unique feature this
+myoclonus now ketamine
+has profound analgesic
+properties this
+is a non-competitive
+NMDA inhibitor receptor
+inhibitor like nitrous
+oxide and both of
+them have these great
+analgesic properties,
+pain inhibition.
+Ketamine causes
+bronchodilation,
+also a nice feature.
+Sympathetic stimulation
+I have on both sides.
+So sympathetic stimulation
+can be beneficial
+in people who have
+hemodynamic instability,
+but it can be harmful
+in patients who have
+hypertension or
+coronary artery disease.
+So sympathetic
+stimulation is
+something to remember
+here too, and
+it can be given
+IM if necessary.
+This is also
+a key feature,
+all these are key
+features, but this is
+a unique feature. It
+can cause hallucinations
+and delirium,
+dissociative
+experiences terrible
+nightmares and nausea and
+vomiting upon
+withdrawal of the drug.
+And all of these
+are drugs you
+need to know
+for this block.
+Dexmedetomidine I
+have in here because
+it's an alpha 2 agonist
+and its features
+are like Clonidine,
+which was in
+block one, which is
+why it has a star on
+it. You've already
+learned about it.
+And I've defined here
+monitored anesthesia
+care. These drugs
+are often used in
+monitored anesthesia
+care, which is IV drugs.
+And the patient usually
+has no endotracheal
+intubation. And so
+the anesthesiologist
+is just monitoring
+the level of sedation.
+i've talked about
+them here i'm
+not going to
+go into details
+you can see them
+for yourself
+benzodiazepines is
+uh we talked about in
+seizures you'll
+you'll see them again
+and sedative hypnotics
+propofol we talked
+about ketamine we talked
+about dexmedetomidine
+is this Alpha-2
+-adrenergic agonist,
+which is like
+clonidine, has the same
+effects as clonidine.
+It is more sedating,
+got good anxiolytic
+properties. It has
+some analgesic
+properties. So these are
+important features
+of dexmedetomidine.
+Slower onset
+of sedation, so
+they're not great
+for the immediate
+sedation or
+nearly immediate.
+Gradycardia, hypotension,
+dry mouth, same
+as clonidine.
+So this is
+features of the
+alpha-2 receptor agonism,
+central, so inhibition of
+central sympathetic
+actions.
+Opioids is part
+of this block.
+Lidocaine is part of
+this block. So you can,
+these are just
+brief summaries of
+the effects you'll
+learn more, that
+you have learned
+or will learn more
+about each individual
+group of drugs.
+And the summary, I'm
+not going through this
+all with you, I had
+this in the beginning.
+advantages and
+disadvantages,
+nitrous oxide,
+all of the
+various IV agents,
+and the answers
+to the questions.
+So thank you very much.
+This had to be a
+long video because
+there is so much
+to tell you about.
+Good luck.
+

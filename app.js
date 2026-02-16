@@ -840,8 +840,9 @@ document.addEventListener('DOMContentLoaded', () => {
             // Option 1: New format with direct pdfPage
             if (question.pdfPage) {
                 shouldShowPDF = true;
-                // Extract lecture ID from test name (remove week prefix like "13-")
-                lectureId = currentTestName.replace(/^(\d+-)/, '');
+                // Extract lecture ID from test name (search for (Lxx) pattern)
+                const lectureIdMatch = currentTestName.match(/\((L\d+[a-z]?)\)/);
+                lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
                 pageNum = question.pdfPage;
                 console.log("Direct PDF reference - Lecture:", lectureId, "Page:", pageNum);
             }
@@ -1222,7 +1223,9 @@ document.addEventListener('DOMContentLoaded', () => {
             // Option 1: New format with direct pdfPage
             if (q.pdfPage) {
                 shouldShowPDF = true;
-                lectureId = currentTestName.replace(/^(\d+-)/, '');
+                // Extract lecture ID from test name (search for (Lxx) pattern)
+                const lectureIdMatch = currentTestName.match(/\((L\d+[a-z]?)\)/);
+                lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
                 pageNum = q.pdfPage;
             }
             // Option 2: Legacy format with slideImagePath

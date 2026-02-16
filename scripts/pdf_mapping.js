@@ -60,7 +60,11 @@ const PDF_MAPPING = {
     "L60": "pdfs/Lecture # 60. D. Whitson, D.O. (PPT).pdf",
     "L61": "pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf",
     "L62": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
+    "L67": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
+    "L68": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf",
     "L63": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
+    "L69": "pdfs/Lecture #69. A. Coladner, D.O. (PPT).pdf",
+    "L70": "pdfs/Lecture # 70. A. Patel, D.O. (PPT).pdf",
 
     "L102": "pdfs/L102.pdf",
     "L103": "pdfs/L103.pdf",
@@ -199,7 +203,11 @@ const PDF_MAPPING = {
     "Neurology: Gait & Movement (L61)": "pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf",
     "Neurology: Brachial Plexus (L62)": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
     "Neurology: Headache (L63)": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
-    "Pharmacology: General Anesthetics 1 (L64)": "pdfs/Lecture #64. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf"
+    "Pharmacology: General Anesthetics 1 (L64)": "pdfs/Lecture #64. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
+    "Pharmacology: Antiseizure Drugs, Part 2 (L65)": "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT).pdf",
+    "Pharmacology: Local Anesthetics (L66)": "pdfs/Lecture # 66. L. Goldstein, Pharm.D. (PPT).pdf",
+    "Pharmacology: Opioid Analgesics (L67)": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
+    "Physiology: Drug Addiction (L68)": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf"
 };
 
 // Expose to global scope

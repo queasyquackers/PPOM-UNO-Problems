@@ -1,0 +1,2936 @@
+Lecture 59 Content
+===================
+
+--- PDF Content ---
+--- Page 1 ---
+Office of Academic Affairs The Aging PatientPaula Ryo, DOFamily Medicinepryo@nyit.edu
+1
+--- Page 2 ---
+•By the end, the student will be able to:•Describe the basic principles of aging and how they lead to geriatric syndromes that affect patient overall health and wellbeing.•Describe some of the effects of aging on the human body.•Obtain a history from a geriatric patient.•Complete a geriatric assessmentSession Objectives
+2
+--- Page 3 ---
+•The branch of medicine that focuses on the care of the elderly•Focus is on prevention and care of chronic illnesses•Geriatric patient ≥ 65 yo•Oldest Old ≥80 yoGeriatrics
+3
+--- Page 4 ---
+SOURCE: Suzman RM, Haaga JG. World Demography of Aging. In: Kasper D, Fauci A, Hauser S, Longo D, Jameson J, Loscalzo J. eds. Harrison's Principles of Internal Medicine, 19e. New York, NY: McGraw-Hill; 2015.Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021• The world’s population is aging at a rapid rate• This demographic transitionis accompanied by an epidemiologic transition•Demographic imperative: maximize not only life span but also “that older adults maintain full function as long as possible” (Bates)Geriatric population
+• This demographic transitionis accompanied by an epidemiologic transition• Non-communicable chronic diseases are becoming the major causes of death and contributors to the burden of disease and disability.• Concomitant change in “dependency” — the ratio of adults in the workforce to those typically out of the workforce (infants, children, retired “young old” (those still active but in ways other than paid work), the oldest old, etc.)• There is a ripple effect on economic growth, migration, patterns of work and retirement, family structures, pension and health systems, etc.4
+--- Page 5 ---
+This epidemiologic change and the size of age groups will have effects downstream that will impact healthcare and societal programs.  The rate of natural increase of a population depends on birth and death rates, which are strongly influenced by the population age structure. Births occur primarily to people in the younger-adult age groups. If there are comparatively more young adults than older adults, then even at replacement fertility levels (when each woman has about an average of two children) there will be more births than deaths, which means a population that is able to sustain itself and grow accordingly. A population of young people needs a sufficient number of schools and, later, enough jobs to accommodate them. Countries with a large proportion of older people must develop retirement systems and medical facilities to serve them. Therefore, as a population ages, needs change from childcare and schools to jobs, housing, and medical care and the increase in number of geriatric population sharing a limited number of resources strains the environment so transitions to supported services are necessary: for example:Example: ratio of children to older people will affect the relative demand for pediatricians versus geriatricians & the number of hospital beds needed as well as the types of care providers needed will change and the governmental policies and educational structure (medical schools, residencies, fellowships, etc) will also need to change.4
+--- Page 6 ---
+1.  He, Wan, Goodkind, Daniel, and Kowal, Paul. An Aging World: 2015 – International population reports. NIH. Issued March 2016. https://www.census.gov/content/dam/Census/library/publications/2016/demo/p95-16-1.pdf2.  United Nations Population Fund,https://www.unfpa.org/ageing• One in eight people are 60yo or older2• 12.3 % of people worldwide are 60 yrs old and older -> 617 million people2• By 2050, it is expected to be 22% of the worldwide population2• The worldwide population of the oldest old (80 or older) is expected to triple by 2050 – from 126.5 million to 446.6 million• In the US, the 65 and over population is expected to nearly double by 2050 - from 48 million to 88 millionGeriatric population worldwide
+5
+--- Page 7 ---
+SOURCE: He, Wan, Goodkind, Daniel, and Kowal, Paul. An Aging World: 2015 – International population reports. NIH. Issued March 2016. https://www.census.gov/content/dam/Census/library/publications/2016/demo/p95-16-1.pdfGeriatric population - 2015 versus 2050
+6
+--- Page 8 ---
+United Nations Population Fund, accessed January 2022, https://www.unfpa.org/data/world-population-dashboardGeriatric population worldwide as of 2021
+7
+--- Page 9 ---
+• Effects of Aging• Multiple co-morbidities• Poly-pharmacy• Disability/impaired recoveryGeneral Principles that Affect the Geriatric PatientIn the next few slides we will cover the general principles that affect the geriatric population that impact how we, as clinicians, work with this group of patients.
+8
+--- Page 10 ---
+SOURCE: Greenspan SL, Korytkowski M, Resnick NM. Chapter 23. Geriatric Endocrinology. In: Gardner DG, Shoback D. eds. Greenspan’s Basic & Clinical Endocrinology, 9e. New York, NY: McGraw-Hill; 2011.•The inevitable, irreversible decline that occurs in organs over time even in the absence of illness/injury/poor lifestyle choices•Manifested initially by the reduced capacity of the organ(s) to maintain homeostasis in illness/injury•Cardiovascular, renal and CNS systems are especially vulnerableGeneral Principles: Aging
+9
+--- Page 11 ---
+SOURCE: FerrucciL, Studenski S. Clinical Problems of Aging. In: Kasper D, Fauci A, Hauser S, Longo D, Jameson J, Loscalzo J. eds. Harrison's Principles of Internal Medicine, 19e. New York, NY: McGraw-Hill; 2015.Model of aging, frailty & geriatric syndromes
+Here we see a model that describes how aging leads to changes in body composition, energy production/utilization, homeostasis and neurodegeneration.  These in turn lead to frailty which in turn leads to further changes in changes in body composition, energy production/utilization, homeostasis and neurodegeneration AND also contributes to the development of geriatric syndromes which impact the patient’s response to disease/illness, as well as healing/recovering from illness.
+10
+--- Page 12 ---
+SOURCE: Greenspan SL, Korytkowski M, Resnick NM. Chapter 23. Geriatric Endocrinology. In: Gardner DG, Shoback D. eds. Greenspan’s Basic & Clinical Endocrinology, 9e. New York, NY: McGraw-Hill; 2011.Effects of aging on physiology
+We can see from this diagram some of the physiologic changes that occur in the aging patient – decrease in nerve conduction velocity, basal metabolic rate, cardiac function, renal function, & respiratory function, etc.  
+11
+--- Page 13 ---
+SOURCE: Greenspan SL, Korytkowski M, Resnick NM. Chapter 23. Geriatric Endocrinology. In: Gardner DG, Shoback D. eds. Greenspan’s Basic & Clinical Endocrinology, 9e. New York, NY: McGraw-Hill; 2011.•Geriatric patients often have multiple concomitant illnesses that interact with one another to impact the patient’s physiology, presentation of illness, and recovery•Symptoms of disease often present in the most compromised organ system•Example: hyperthyroidism in a patient with advanced heart disease could present as atrial fibrillation•Example: hypothyroidism in a patient with poorly controlled diabetes could present as severe constipation or fecal impactionGeneral Principles: Multiple Co-morbidities
+12
+--- Page 14 ---
+SOURCE: Greenspan SL, Korytkowski M, Resnick NM. Chapter 23. Geriatric Endocrinology. In: Gardner DG, Shoback D. eds. Greenspan’s Basic & Clinical Endocrinology, 9e. New York, NY: McGraw-Hill; 2011.• Aging (and comorbidities) affect a drug’s• Absorption• Volume of distribution• Protein binding• Elimination• All of the above lead to fluctuations in therapeutic drug levels & increased risk of under/over-dosing• In the geriatric patient that takes multiple medications, these effects may mimic or mask signs/symptoms of disease in other systems such as the endocrine system for exampleGeneral Principles: Poly-pharmacy
+13
+--- Page 15 ---
+Ferrucci L, Studenski S. Clinical Problems of Aging. In: Kasper D, Fauci A, Hauser S, Longo D, Jameson J, Loscalzo J. eds. Harrison's Principles of Internal Medicine, 19e. New York, NY: McGraw-Hill; 2015•Disability in the geriatric patient is almost always multifactorial:•lower body fat composition•reduced lean body mass with reduced muscle strength & fitness•reduced energy efficiency•poor nutritional intake•neurologic dysfunction•cognitive impairment•Disability occurs late in the process after all the reserves and ability to compensate have been exhausted•Disability affects the person’s ability to recover and to compensate for changes that have occurred with the illness/injuryGeneral Principles: Disability/impaired recovery
+14
+--- Page 16 ---
+SOURCE: Greenspan SL, Korytkowski M, Resnick NM. Chapter 23. Geriatric Endocrinology. In: Gardner DG, Shoback D. eds. Greenspan’s Basic & Clinical Endocrinology, 9e. New York, NY: McGraw-Hill; 2011.Aging’s physiologic changes to endocrine system Menopause, ↓ estrogen and progesteronesecretion ↓ Testosterone secretion ↓ Growth hormone secretion ↓ Vitamin D absorption and activation ↑ Incidence of thyroid abnormalities ↑ Insulin resistance and glucose intolerance ↑ Bone mineral loss ↑ Secretion of ADH in response to osmolar stimuli ↑ Incidence of diabetes ↓ Muscle mass ↓Bone mass ↑ Fracture risk Vaginal dryness, dyspareunia Changes in skin Tendency toward water intoxication Here is an example of how the changes that occur with aging can affect the endocrine system.
+15
+--- Page 17 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Cardiovascular changes•Temperature regulation•Visual Acuity•Hearing•Oral changes•Respiratory changesOther physical/physiologic changes that occur1. Systolic blood pressure rises as we age, aorta and large arteries stiffen and become atherosclerotic, and a decline in cardiac pacemaker cells affects maximal heart rate and the response to exercise and stress.  Cardiac output is decreased and valvular leaflet changes/stiffening can occur.  These changes can lead to orthostatic hypotension or to the development of arrhythmias, cardiac murmurs like aortic stenosis or mitral regurgitation.  Changes to ventricular compliance and reductions in ventricular filling can lead to a 4thheart sound (which is normal in the older patient).2. Temperature regulation changes so that the aging patient is more likely to have hypothermia OR may not mount a fever at all during illness.3. Visual acuity decreases due to the development of cataracts, glaucoma or macular degeneration, OR from the effect of illnesses like diabetes or hypertension, or from the development of presbyopia.  These changes affect quality of life and also make the patient increasingly susceptible to falls and injuries.4. Hearing decreases usually after age 5 yo which can affect communication and quality of life.5. There is decreased saliva production which affects the oral health of the patient leading to increased cavities, gum disease, etc.  Teeth may wear down, fall out or become abraded over time – loss of dental health affects feeding, communication, mental health, and appearance.6. Lose lung capacity – the chest wall becomes stiffer and harder to move, diaphragmatic 16
+--- Page 18 ---
+strength decreases, respiratory muscles weaken, lungs lose some of their elastic recoil, surface area for gas exchange shrinks and there can be changes to the thoracic spine that lead to increased kyphosis – these lead to a less effective coughing mechanism and also to an increased predisposition to atelectasis and pneumonia.
+16
+--- Page 19 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Breasts•Abdomen/GI•Genitourinary system•MSK•Nervous systemOther physical/physiologic changes that occur
+1. Breasts in particular in women become smaller, more flaccid and pendulous, and the glandular tissue atrophies leading to ducts that become more palpable as stringy strands.  Males may develop gynecomastia or increased breast fullness due to obesity or hormonal changes. 2. Abdominal muscles tend to weaken, fat may accumulate in the lower abdomen and the hips so that the appearance of the patient changes.  Aging can blunt symptoms of GI disease – pain may be less severe, guarding and rebound tenderness may be diminished or absent, fever is less pronounced, etc.3. Sexual interest appears to remain intact but frequency of intercourse decreases.  Pubic hair decreases and becomes gray.  In males, decreased testosterone levels lead to decrease in penis size, testicles drop lower in the scrotum and erections decrease. The incidence of prostatic hypertrophy and prostate cancer increased. In women, menses ends, and menopause leads to a variety of symptoms including vaginal dryness.  The labia and clitoris become smaller, the vagina shortens and the vaginal mucosa atrophies and becomes thinner – these changes lead to increased pain with intercourse.  The suspensory ligaments of the adnexa, uterus and bladder may also relax leading to urinary incontinence.  Additional things that can contribute to urinary incontinence are decreased innervation and contractility of the bladder muscle, loss of bladder capacity, 17
+--- Page 20 ---
+urinary flow rate and the ability to inhibit voiding.4. In the MSK system, there is loss of bone with increased development of osteoporosis and increased risk for fractures as well as a loss of height & the development of kyphosis.  There is a 30 to 50% decline in muscle mass and ligaments lose some of their tensile strength and we move and react with less speed and agility.  Osteoarthritis affects range of motion and can lead to chronic pain.  Tremors and other movement disorders can affect mobility and function.5. Aging and chronic disease states contribute to neurodegeneration which affects memory, strength, reflexes, balance, coordination.  This affects quality of life, mood,  and recovery from illness as well. 
+17
+--- Page 21 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Clinical elements include:•Health history – including frequent medication review•Physical exam•Assessment of functional status•Assessment of goals of care and prognosis•Access to care – in particular a team-based approach•Long-term planning – including palliative care when neededCare of the Geriatric PatientCaring for the geriatric patient necessitates some changes and adaptations to our usual patterns of seeing adult patients.  Mostly these adaptations are to accommodate the needs of the patient and also cover topics that we might not be discussing with our younger patients like long term planning, palliative care, and hospice.
+18
+--- Page 22 ---
+•Office setting•Communication•Time•RecordsApproach to the Geriatric PatientOffice setting – the patient’s first interaction with you is when they walk into the office, so it’s beneficial to the patient to arrange it to meet the needs of the geriatric patient:Moderate temperatures – not too cool, not too warmBrighter lighting – since eyesight is diminishedLess clutter – remove obstacles (from hallways, entrances, exam rooms) that can interfere with walking or with canes, wheelchairs, etc.Quiet exam rooms that are free from distractionsChairs with higher seating – easier to get out of19
+--- Page 23 ---
+Stool with handrail so patient can get on/off the exam tableCommunication:  ways to facilitate communication with your patient: Have forms with larger font and mail or email them earlier so that they can complete them without feeling rushed or stressed.  Ask them to bring family or friends with them to the appointments to ensure that the care plans are understood, and action is taken on any orders. Have someone available to help the patient with technology that might be used in the office – like sign in kiosks, patient portals, etc.  Ask the patient to turn on hearing aids, put on glasses and insert dentures.  Face the patient directly and sit at their eye level.  Have a clear HIPAA document that covers who can and cannot receive information on the patient – patients in this group often have specific people that they want to be involved but sometimes they assume that you’ll just communicate with all their children or family – knowing who is the point person or who you can communicate with or who can assist you and the patient is very important.  Make sure that the patient and family/caregiver always have a clear list of current medications with dose, route and frequency and why the medication is 19
+--- Page 24 ---
+being taken.  Additionally, make sure that anything you give the patient that is educational is in a large enough print or in their preferred language.Time: make sure that appointments have enough time to allow you to do your tasks and allow the patient/family/caregiver time to ask questions and for telling their stories.  Adjust your pace so that you’re not speaking too rapidly or making the patient feel rushed. If needed, consider scheduling two appointments to allow time for everything that needs to be covered and so it won’t also be fatiguing for the patient.Records: the geriatric patient often has a variety of specialists that are involved in their care, getting these consultation reports is sometimes challenging but keeping records up to date as much as possible means that you have a comprehensive picture of what is happening when the patient is outside of your care.  Don’t forget to document conversations with specialists, vendors who provide special services like care product deliveries, insurance companies, and with the patient/family and caregivers.  Have uptodate files on advance directives like DNR/DNI, MOLST forms, healthcare proxy, living wills, etc. will ensure that we comply 19
+--- Page 25 ---
+with our patients wishes and care instructions.
+19
+--- Page 26 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•History taking•Use as many sources of information as possible – this prevents repetition of material, reinforces what the patient is stating and provides a more accurate picture of the patient’s current status and needs•Use direct questions and listen carefully•Keep in mind the patient experience and perspective•Listen•Cultural dimensions –•Review Table 27-2 in Bates, 13thedition, chapter 27 for examples of questions related to cultural dimensionsApproach to the Geriatric Patient: HistorySource that are available to us: Family membersCaregiversHome health aidesOther physiciansHospital discharge recordsPrevious medical recordsThe patient is the one who is experiencing illness/disease states or decline, so please keep that in mind.  Ask patients a thorough history and review of systems when it is necessary using direct questions.  Sometimes patients may underreport symptoms for fear of losing independence or fear of being diagnosed with an illness that they fear like malignancy; sometimes they have common symptoms or signs but think they are part of aging (like joint pain, back pain, memory deficits, etc.) but that are masking another underlying diseases that is readily treatable. Patients may have cognitive impairment and may not provide an accurate timeline or description of what they are feeling/experiencing because they have forgotten – family, caregivers, etc. can help with this. Additionally, many geriatric patients' perspective of their life shifts to how many more years do I have left and what will those years look like for me, how can I stay independent and live my own home, who can help me, etc.  While it’s important to have the family and 20
+--- Page 27 ---
+caregivers involved, we are still responsible to the patient for their wishes so it’s important that they are involved in the decision making process (barring of course something that diminishes their capacity to make decisions).  To avoid making assumptions or missing key points about how the patient views themselves, their condition or their prognosis, make sure to listen to what they are expressing and explore their comments when you note that there is a lack of clarity or something they say may sound confusing.  For example, a patient with chronic pain who says “I don’t want to live with this anymore” could be expressing that the pain is unbearable OR they could be expressing a depression with suicidial ideation – explore this further to ensure that you both have a shared understanding of what the patient is telling you.Finally, there is diversity in our aging population in the United States and in other countries around the world reflecting the demographic shifts that have happened with immigration, wars, and conflicts but also with socioeconomic factors like poverty, discrimination, climate changes, education, etc.  Culture shapes our beliefs about aging, illness, death, diseases, mental health, choices in doctors and healers, and about the healthcare system in general.  It is important to try to understand your patient’s cultural norms and to adjust care plans to reflect those whenever necessary.  Let patients establish their cultural identity with you –explore where they are from, what are their culture’s explanations about illness, dying, aging; what are factors that impact level of function and psychosocial environment and what is the expectation of the clinician patient relationship.  This is especially important in discussions about end of life care and decision making.
+20
+--- Page 28 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Special areas of concern•Areas that may require additional evaluation or exploration include:•Functional impairments in daily living or instrumental activities of daily living•Medication management and side effects•Smoking •Alcohol•Nutrition•Pain•Cognitive impairment•Urinary incontinence•FallsApproach to the Geriatric Patient: History &physical
+21
+--- Page 29 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Activities of daily living•Instrumental activities of daily livingApproach to the Geriatric Patient: History &physicalADLs – ask how well the patient performs these 6 basic self care abilities: bathing, dressing, toileting, transferring, continence and feeding.IADLs – ask how the patient performs these 8 functions: using a telephone, shopping, preparing food, housekeeping, laundry, transportation, taking medication and managing money or finances.It’s important to know whether the person is independent and can manage on their own without any difficulty OR if someone needs to assist them for whatever reason.  These not only give you a sense of the person’s ability to be independent and how well they are functioning at that level but can also help you to make decisions about any additional services that they may need (like home care, physical therapy, mobility aids, social services like meals on wheels or transportation to and from medical visits) or if someone needs to step in to assist when the patient can no longer manage or perform these actions on their own.22
+--- Page 30 ---
+Approach to the Geriatric Patient: HistoryBeers Criteria for Potentially Inappropriate Medication Use in Older Adults •A list of about 100 medications or medication classes that is published by the American Geriatrics Society approximately every 3 years•Acts as a guide for healthcare providers to make safe prescribing decisions for geriatric patients•Includes 5 sections:•Medications to avoid for those 65 and older and who are not in hospice or palliative care settings•Medications to avoid in people with certain health conditions•Medications to avoid that cause drug interactions that are potentially harmful•Medications with potential side effects whose risk outweigh the benefits•Medications to use in limited doses or avoided due to their effects on kidney function•2023 publication: https://agsjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/jgs.18372A caveat to the Beers Criteria: it is not specific to one person; it attempts to provide guidance for a broad group of people.  Because of this, it doesn’t take into consideration a specific patient’s overall health, all underlying medical conditions/situations that may cause a provider to select a specific medication. Therefore, the Beers Criteria is considered a tool that providers can use, but it does not make the final decisions on behalf of a provider .  Documenting why a specific medication was chosen will allow others to understand how the medication was chosen and why.  Revisiting the continued use of the medication at each visit, including asking about side effects and efficacy, will help to determine if it should be continued or if it should be stopped or changed to something different.  
+23
+--- Page 31 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Use validated tools and screening tests such as•10 Minute Geriatric Screener•Beck Depression Inventory•PHQ2 and PHQ9 for depression •GAD-7 for anxiety •Alzheimer’s disease assessment scale - assess the severity of cognitive and non-cognitive dysfunction •Mini Mental State evaluation (MMSE) or the Montreal Cognitive Assessment (MoCA) for screening for memory disorders•Timed getup and go test for Fall risk assessmentApproach to the Geriatric Patient: History &physicalScreening tools: These tools have been tested and proven to be useful for these purposes –you must use the test as it is described, in some cases some minor training is required to ensure the evaluation is reliable. Use of validated screening tools helps us gather information in an organized fashion and helps us make clinical decisions as well as track the progression of illness/disease. Using these ADLs and IADLs along with these screening tools to establish functional status provides a baseline for the patient and allows us to making interventions, identify geriatric syndromes that may be present and helps us to optimize the patient’s care and function for as long as possible.
+24
+--- Page 32 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 202110- Minute Geriatric screener
+The 10 minute geriatric screener covers 3 areas: cognitive, psychosocial and physical function.
+25
+--- Page 33 ---
+Folstein, M., Folstein, S.E., McHugh, P.R. (1975). “Mini-Mental State” a Practical Method for Grading the Cognitive State of Patients for the Clinician. Journal of Psychiatric Research, 12(3); 189-198. Approach to the Geriatric Patient: HistoryMini Mental Status Exam (MMSE)•Created in 1975 and validated multiple times in English and other languages•11-question measure that tests five areas of cognitive function: •orientation, registration, attention and calculation, recall, and language.  •Takes approximately 5 to 10 minutes to administer•Max score is 30.  A score of 23 or lower is indicative of cognitive impairment. •Helps to differentiate patients with cognitive impairment from those without cognitive impairment•Limitations: relies heavily on speaking, reading and writing.  Therefore, patients who hearing or visually impaired, have low English proficiency, or other communication disorders may perform poorly even if they are cognitively intact.  Performance can also be impacted by fatigue, lack of sleep, and substance use/abuse.
+26
+--- Page 34 ---
+Folstein, M., Folstein, S.E., McHugh, P.R. (1975). “Mini-Mental State” a Practical Method for Grading the Cognitive State of Patients for the Clinician. Journal of Psychiatric Research, 12(3); 189-198. 
+27
+--- Page 35 ---
+Approach to the Geriatric Patient: HistoryMontreal Cognitive Assessment (MoCA)•A rapid screening instrument for mild cognitive dysfunction.•Assesses 8 different cognitive domains: •attention and concentration, executive functions, memory, language, visuoconstructionalskills, conceptual thinking, calculations, and orientation•Available in approximately 100 languages; training takes about 1 hour•Validated multiple times for patients age 55 to 85 years old•Has a variety of versions to meet needs of different patients: telephone only version, blind version, hearing impaired version•For more information: https://mocacognition.com/
+28
+--- Page 36 ---
+29
+--- Page 37 ---
+Approach to the Geriatric Patient: HistoryMini-Cog•A rapid screening instrument for cognitive dysfunction.  Not recommended to screen for mild cognitive impairment.•Test is 3 items: a 3-item recall test for memory and a simply scored clock drawing test: •Available in multiple languages•Takes about 3 minutes to administer•Validated multiple times for patients age 55 to 85 years old•Has an online version•For more information: https://mini-cog.com/step-by-step-mini-cog-instructions/
+30
+--- Page 38 ---
+Reference: https://www.alz.org/media/documents/mini-cog.pdf
+31
+--- Page 39 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021Get up and go test
+The 10 minute geriatric screener covers 3 areas: cognitive, psychosocial and physical function.
+32
+--- Page 40 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Physical exam•vitals•General survey•Systems Approach to the Geriatric Patient: History &physicalWhen documenting vitals, pay attention to norms for the patient and any deviation from norms, in particular changes to weight which can be a good indicator that something is wrong or has changed in the patient.  When necessary, perform orthostatic measurements of BP and heart rate especially when the patient complains of things like weakness, dizziness, light headedness, syncope, or visual changes with position changes.General survey:  important to pay attention to mental status, appearance (grooming, cleanliness of clothing, shoes), and mobility (how do they get into the room, do they need a mobility aid or do they need assistance).Perform a physical examination that maintains patient’s modesty & respects cultural norms. Remember to remove clothing and evaluate directly on skin to minimize the risk of missing a sign of illness.  Provide your patient with a gown and drape and ask the patient if family or caregivers that are with them can stay in the room before you perform the physical exam. The physical examination generally will entail examining all systems.33
+--- Page 41 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Use descriptive phrases whenever necessary or the patient’s own words if needed•Share with other members of the healthcare team•Include a plan of care for any chronic or acute disease state so that everyone who is involved knows what the goals and the treatment plan are for the patientApproach to the Geriatric Patient: SOAP note
+34
+--- Page 42 ---
+Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP. 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Screening•Exercise and other physical activity•Household safety•Immunizations•Elder abuse/mistreatmentApproach to the Geriatric Patient: Preventive care/health promotionAs more adults live to an older age, in particular those that are 80 yo and older, the decision about when to screen for things like cancer, becomes more complex and requires a discussion about the limitations in this age group, treatment and affects on quality of life if a disease is found.  The decision to screen should also include the patient’s level of health and function, comorbidities, prognosis, and expectations – age should not be the only factor that is considered.  Use screening guidelines where you can to help you have these conversations with your patients.Other things to screen for are found in the 10 minute geriatric screener and require less complex conversations: vision, hearing, falls, mobility, etc.  These should be completed and the patient should be informed of important findings and what the plan is to address them.Exercise and physical activity are important for maintaining mobility & independence, reducing falls and pain, and keeping the person engaged in activities outside of the home thereby reducing social isolation.  Recommendations include aerobic activity and muscle strength training activities for major muscle groups.  Obviously these can be adapted depending on the person’s ability and if needed a physical therapist should be part of the healthcare team if there are any issues with exercise or physical activity.House hold safety – often overlooked as we age in our homes, but essential to preventing 35
+--- Page 43 ---
+injury. Some basic things that can be done in and outside of the home (like the garden or garage): ensure appropriate lighting, get rid of furniture is that is too low or too high to get into or out of, install handrails in both directions on staircases, remove clutter & ensure clear paths from one room to another, remove area rugs or tape them down so that they don’t move, ensure easy access to telephones to call for help by moving them to low tables or having a mobile phone OR getting the person a clinical alert device that can call for help. Wear well fitting shoes in and out of the house – remove laces and use Velcro if needed to minimize tripping on a shoelace; keep commonly used items within reach to minimize need to stand on a step stool, install grab bars in the tub and shower, use a shower chair if necessary.  Remove any cords that could be a tripping hazard and secure all firearms.  Finally, have someone or a plan on who will check on the patient on a daily basis or multiple times per day if necessary.Immunizations that geriatric patients should receive include flu, Dtap, varicella, shingles/zoster, pneumococcal, RSV and Covid-19.  it is not enough to ask the patient if they ‘are up to date on their vaccines” – you should have a record of when they were administered.Elder abuse or mistreatment is not always reported because of fear of reprisal or increased abuse – about 90% of the time it is a family member or caregiver who perpetrates the abuse.   Although the USPSTF has noted that there is no valid reliable screening tool for abuse it is still  important to ask about abuse, neglect, exploitation and abandonment.  Ask your patient if anyone has hurt them or abused them in anyway or has restricted access to things like money or food.  Pay attention to history and physical exam data that could be indicative of abuse or mistreatment.  Self-neglect is also important to pay attention to: this is a patient who threatens their own health/safety by not taking care of themselves or by not following care plans.  If there is any suspicion of any of these happening, including self-neglect, the patient should be reported to adult protective services.   
+35
+--- Page 44 ---
+Reference: https://www.cdc.gov/nceh/radiation/dexa-scan.html•Bone Density•Imaging used to screen for osteoporosis and determine fracture risk•x ray beams of two different energies (dual x ray absorptiometry or DEXA) are passed through specific bones (hip, lumbar spine, wrist). •The bone mineral density (BMD) is calculated for each bone and then converted into values related to the average female/male peak bone mass or to the bone mass relative to the patient's age. These are called T scores and Z scores.•T scores and Z scores values are usually based on women though in some places there is sufficient male data; use the same cutoffs for both men and women when male data is not available•Medicare covers DEXA scans every other year for women 65 yo and older and men 70 yo and older ORyounger patients if they have certain conditions•Osteoporosis is more prevalent in women, but men have greater morbidity related to osteoporotic  fracturesApproach to the Geriatric Patient: Preventive care/health promotionThe complications of broken bones related to osteoporosis are often severe including increased mortality, increased morbidity such as loss of mobility, pain, loss of independence, increased risk of future fractures, etc. The World Health Organization (WHO) and the International Society for Clinical Densitometry (ISCD) have defined diagnostic criteria for low bone mass (osteopenia) and osteoporosis based on bone mineral density (BMD) measurements in a dual-energy x-ray absorptiometry (DEXA) scan compared with a reference population that reflects predominantly postmenopausal women.According to the World Health Organization, osteoporosis is defined based on the following bone density levels:•A T-score within 1 SD (+1 or -1) of the young adult mean indicates normal bone density.•A T-score of 1 to 2.5 SD below the young adult mean (-1 to -2.5 SD) indicates low bone mass.•A T-score of 2.5 SD or more below the young adult mean (more than -2.5 SD) indicates the presence of osteoporosis.36
+--- Page 45 ---
+References: https://www.cdc.gov/nceh/radiation/dexa-scan.html; https://www.ncbi.nlm.nih.gov/books/NBK538531/•Bone density testing is recommended for 1. Women 65 yo or older OR women who are 50 to 64 with certain risk factors like a) post-menopausal not taking estrogen OR who is tall (over 5 ft 7 in) ORthin (less than 125 lbs)b) Have a personal or maternal history of hip fracture c) Have a personal history of smoking.2. A 70 yo man ORman age 50 to 69 yo with risk factors such as clinical conditions associated with bone loss (e.g., rheumatoid arthritis)3. Use medications known to cause bone loss, including corticosteroids, anti-seizure medications, certain barbiturates, high-dose thyroid replacement drugs or the birth control injection known as Depo Provera.4. Have chronic liver disease, chronic kidney disease or a family history of osteoporosis.5. Have certain endocrine disorders such as hyperthyroidism, type 1 diabetes, or hyperparathyroidism, hypogonadism, vitamin D deficiency.6. Have experienced a fracture after only mild trauma.7. Have x-ray evidence of vertebral fracture or other signs of osteoporosis.Approach to the Geriatric Patient: Preventive care/health promotion
+37
+--- Page 46 ---
+Reference: https://www.cdc.gov/nceh/radiation/dexa-scan.html•FRAX•The Fracture Risk Assessment Tool •Generates a score that is used to determine a person’s 10-year risk of major osteoporotic fracture•Calculated based on 12 factors:•Age (between 40 and 90), Sex, Weight in kilograms (kg), Height in centimeters (cm), Prior fracture, Hip fracture in a parent, Current smoking, Steroid use, Having rheumatoid arthritis, Having a secondary cause of osteoporosis, Drinking three or more alcoholic beverages per day, and T-score at the femoral neck•https://fraxplus.org/calculation-toolApproach to the Geriatric Patient: Preventive care/health promotionThe Fracture Risk Assessment Tool was developed in 2008 by a team based within the World Health Organization (WHO) who was collaborating with the Centre for Metabolic Bone Diseases hosted at the University of Sheffield For patients with osteopenia based on DEXA criteria without prior history of osteoporotic fractures, it is recommended to use the FRAX calculator to determine the decision for treatment.In patients 50 years and older with osteopenia based on DEXA criteria and a 10-year hip fracture probability 3% or higher or a 10-year major fracture probability 20 % or higher based on the U.S.-adapted WHO absolute fracture risk model warrants treatment.In a patient with a fragility fracture, a diagnosis of osteoporosis based on DEXA is not needed to initiate treatment.38
+--- Page 47 ---
+•Geriatrics is the branch of medicine that focuses on the care of the elderly, emphasizing prevention and care of chronic illnesses.  The geriatric patient is, by convention, anyone who is ≥ 65 years old. •Aging is the inevitable, irreversible decline that occurs in organs over time even in the absence of illness, injury, or poor lifestyle choices.  This leads to changes in body composition, discrepancy in the production and utilization of energy, homeostatic dysregulation, and neurodegeneration.  These changes in turn lead to frailty – increased susceptibility to disease, reduced functional reserves, reduced healing, failure to thrive and a series of geriatric syndromes that include gait disorders/increased falls, anorexia/malnutrition, disability, urinary incontinence, delirium, sleep disorders, and cognitive impairment. •Geriatric patients often have multiple concomitant illnesses that interact with one another to impact the patient’s physiology, presentation of illness, and recovery from illness.  •It’s important to know how to work with your patient as they age so that they can remain independent and healthy for as long as they can be.Summary
+39
+--- Page 48 ---
+•If you have any questions, please email me at pryo@nyit.eduQuestions?
+40
+--- Page 49 ---
+Thank you for listening!Lecture feedback form:https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+41
+--- Page 50 ---
+•Bickley LS, Szilagyi PG, Hoffman RM, Soriano RP . 2021. Bates' Guide to Physical Examination and History Taking, 13e, Chapter 27: Older Adult. Wolters Kluwer, 2021•Ferrucci L, Studenski S. Clinical Problems of Aging. In: Kasper D, Fauci A, Hauser S, Longo D, Jameson J, Loscalzo J. eds. Harrison's Principles of Internal Medicine, 19e. New York, NY: McGraw-Hill; 2015•Fraswer WD. Chapter 8: Endocrine and Metabolic. In: Gosney M, Harper A, Conroy S. Geriatric Medicine (Oxford Desk Reference). Oxford UK.  Oxford University Press. 2012•He, Wan, Goodkind, Daniel, and Kowal, Paul. An Aging World: 2015 – International population reports. NIH. Issued March 2016. https://www.census.gov/content/dam/Census/library/publications/2016/demo/p95-16-1.pdf •Sowers MR. Chapter 46. Menopause and Midlife Health Changes. In: Halter JB, Ouslander JG, Tinetti ME, Studenski S, High KP , Asthana S. eds. Hazzard's Geriatric Medicine and Gerontology, 6e. New York, NY: McGraw-Hill; 2009.•Suzman RM, Haaga JG. World Demography of Aging. In: Kasper D, Fauci A, Hauser S, Longo D, Jameson J, Loscalzo J. eds. Harrison's Principles of Internal Medicine, 19e. New York, NY: McGraw-Hill; 2015.•United Nations Population Fund, https://www.unfpa.org/data/world-population-dashboardReferences
+42
+
+
+--- Transcript Content ---
+Hi everyone, this
+is Dr. Rio from
+the Department of
+Family Medicine.
+Today's topic is going
+to be the aging patient.
+Our objectives by the
+end of this session
+is that you'll be able
+to describe some of
+the basic principles
+of aging and how they
+contribute to the
+development of geriatric
+syndromes that affect
+patients overall
+health and well-being,
+describe some of the
+effects of aging on
+the human body, obtain
+a history from a
+geriatric patient, and be
+able to complete a
+geriatric assessment.
+So what is geriatrics?
+Basically, it's the
+branch of medicine
+that focuses on
+the care of the
+elderly, focuses on
+prevention and care
+of chronic illness,
+and keeping people
+independent for as
+long as possible.
+A geriatric patient
+is someone who is 65
+years of age or older,
+and there's a subset
+of this category that
+we call the oldest
+old, and those are
+patients who are
+80 years old or
+older so something to
+understand about the
+geriatric population the
+world's population
+is aging at a rapid
+rate this demographic
+transition is
+accompanied by an
+epidemiologic transition what
+we're observing is
+that non-communicable
+chronic diseases are
+the major cause of
+death and contributors
+to the burden of
+disease and disability
+in our population
+there's also
+concomitant change in
+dependency this is like
+the ratio of adults
+who are in the workforce
+to those who are
+typically out of the
+workforce so for example
+workforce would be
+patients who are
+you know 14 and older
+who can work and
+out of the workforce
+would be infants,
+children, the
+retired, or the young
+old, who are still
+active but are not
+working in paid work.
+This dependency
+and epidemiologic
+transition causes a
+ripple effect on things
+like economic growth,
+migration patterns,
+patterns for work
+and retirement,
+family structures,
+pension and health
+systems, social
+services, supports,
+etc. There is a lot
+that is dependent on
+your population now
+with this epidemiologic
+change what we're talking
+about in this effect
+downstream is that we
+know it will affect
+health care and
+societal programs for
+example the rate of
+natural increase of a
+population depends on
+birth and death rates so
+and these are dependent
+on or influenced by
+our age structure births
+typically occur in
+people in the younger
+adult-to-age groups,
+and if there are
+comparatively more young
+adults than older
+adults, then there will
+be obviously more births
+than deaths, which
+means a population
+that is able to sustain
+itself and grow
+accordingly. A population of
+young adults needs
+things like a sufficient
+number of schools and
+later on enough jobs
+to accommodate them,
+housing, food, etc.
+Countries with a
+larger proportion of
+older patients or
+people must develop
+systems for retirement
+as well as for
+social services and
+for medical care to
+serve their needs.
+They are dependent
+sometimes on a greater
+quantity of things.
+So as our population
+ages, our needs change
+from child care in
+schools to jobs and
+housing to medical care
+and other social support
+systems. Now our
+geriatric population
+then means that they
+are sharing a limited
+number of resources
+in our environment and
+so we have to plan for
+these accordingly and
+what we're noticing is
+that as our population
+ages around the
+world sometimes these
+systems aren't in place
+fast enough to help
+support them so geriatric
+population worldwide
+when we look at the
+world as a whole we
+see that one in eight
+people are 60 years old
+or older at least
+12 percent of people
+worldwide fit this
+demographic so that's about a
+little over 600 million
+people when we look
+at further into the
+future we're expecting
+that this will be
+22% of the worldwide
+population. And when we
+look at the breakdown of
+65 years and older or
+oldest old, we'll see
+that the worldwide
+population of the oldest
+old is expected to
+triple. So we're going to
+go from 126.5 million
+to 446.6 million, which
+is an enormous shift. In
+the U.S. specifically,
+the 65 and over
+population is expected
+to nearly double by
+2050. We're talking
+about 48 million to
+roughly 80 million people.
+When we look at some
+of the imagery that's
+available to help us
+to understand this
+concept, if you look
+around the world, you'll
+see that in 2015, the
+population in the United
+States and canada was
+14 to 20.9 percent
+who were in the geriatric
+category whereas by
+2050 that's expected to
+be 21 to 27.9 percent
+and you'll notice
+that in some countries
+like europe for
+example that's going to
+actually be 28 or higher
+in some countries there
+is absolutely no
+population growth and
+their deaths are exceeding
+their birth rates.
+Here's another
+example. This is from
+the United Nations
+Population Fund.
+If you click on
+the link in the
+reference here at
+the bottom, you can
+delve deeper into
+different countries.
+But again, it shows
+pretty much the same
+thing. And this is
+as of 2021 right now.
+so what are some of
+the general principles
+that affect the geriatric
+population we're
+going to cover those
+in the next few slides
+but there are four
+basic principles the
+effects of aging
+multiple comorbidities
+polypharmacy and disability
+or impaired recovery
+so aging itself is the
+inevitable irreversible
+decline that occurs
+in all of us in
+our organs over time
+even in the absence
+of poor lifestyle
+choices illness or
+injury so we're all
+going to age regardless
+of how healthy we
+are now or even later
+in life now initially
+this is manifested
+by a reduced capacity
+of organ systems to
+maintain homeostasis
+in illness and injury.
+But later on, this
+also affects recovery,
+which causes a
+cycle of illness
+recovery, illness
+recovery, and that recovery
+becomes more and more
+limited each time.
+The cardiovascular,
+renal, and CNS
+systems are especially
+vulnerable to the
+effects of aging.
+Now here we see a model
+that describes how
+aging leads to changes
+in body composition,
+energy production
+and utilization,
+homeostasis, and
+neurodegeneration.
+These in turn
+lead to frailty.
+So if you start
+here, right, we're
+the aging person
+and we have all of
+these things happening
+in us right now.
+Eventually they lead
+to frailty. Now frailty
+in turn contributes
+to the continuance
+of these domains, but
+it also then leads to
+these geriatric
+syndromes that are here.
+And so these geriatric
+syndromes impact
+the patient's response
+to disease and illness,
+as well as healing
+and recovering from
+it. And those are
+anorexia or malnutrition,
+gait or disorders or
+falls, disability,
+deceased
+susceptibility or
+comorbidity, urinary
+incontinence,
+decubitus ulcer,
+sleep disorders,
+delirium and
+cognitive impairment.
+You can see from
+this diagram
+some of the
+physiologic changes
+that occur in the
+aging patient.
+Down across the x
+-axis here, you'll
+see that we're
+starting here at
+30 years of age
+and going up to 90.
+And then you can see
+how much on the y-axis,
+how much of that organ
+system or physiologic
+function is remaining
+as we age. And so
+as you go across,
+you can see there's a
+progressive decline
+some of them are steeper
+than others in things
+like nerve conduction
+velocity basal metabolic
+rates cardiac function
+renal function and
+respiratory function
+geriatric patients
+often have multiple
+concomitant illnesses
+this is one of
+the other principles
+of aging and these
+will interact with
+one another to impact
+the patient's
+physiology how they
+present with illness
+and recovery. And
+symptoms of disease
+that are often present
+and shows up in patients
+will often affect
+the most compromised
+organ system. So the
+typical presentation
+for hypo or
+hyperthyroidism, for
+example, in someone who's 30
+years old may not be
+what you see in someone
+who's geriatric. So
+for hyperthyroidism,
+if they have heart
+disease of any kind,
+then hyperthyroidism
+may just show
+up in this patient as
+atrial fibrillation
+and not your
+typical symptoms.
+Or on the opposite
+side, hypothyroidism
+in a patient who
+has like really
+poorly controlled
+diabetes or has
+had diabetes for many
+years, they might
+present with some
+simple symptoms
+such as constipation
+or ***** impaction,
+but they're not
+presenting with
+the other symptoms
+of hypothyroidism.
+So these are, this
+is really important
+when you're considering
+your patient who's
+in front of you and what
+kind of comorbidities
+do they have.
+What else are they
+suffering from? And if
+there's disease that's
+presenting in that
+system or that it's
+worsened suddenly,
+then that may be a sign
+that there's something
+else happening.
+okay another principle
+is polypharmacy now
+a few things to understand
+about pharmaceuticals
+right you've
+already learned some
+of this is that aging
+as well as some of
+our comorbidities
+will affect the drug's
+absorption volume of
+distribution how it binds
+to proteins and how
+we eliminate it now
+any changes in our
+ability to do any of that
+obviously lead to
+fluctuations in therapeutic
+drug levels and an
+increased risk of
+under or overdosing
+a patient. So when we
+think about the geriatric
+patient who's on
+multiple medications,
+these effects of
+aging on the body's ability
+to clear medications
+or absorb them or
+bind them can lead
+to signs or symptoms of
+things like endocrine
+disease or they may
+mask signs or symptoms
+of things like
+endocrine disease or in
+any other system.
+So just keep that in
+mind when you're
+prescribing medications and
+also when you're
+considering how the patient
+is presenting with
+a specific illness.
+We get down to our
+fourth principle now,
+which is disability
+and impaired recovery.
+Now, disability in
+the geriatric patient
+is always multifactorial.
+They have a
+variety of different
+things that have led to
+this or that are
+compounding everything.
+So, lower body fat
+composition, reduced
+lean body mass, reduced
+energy efficiency,
+poor nutritional
+intake sometimes,
+neurologic dysfunction,
+cognitive impairment,
+and there's a variety
+of other things
+that can contribute.
+Now, disability occurs
+late in the process
+after we've expended all
+of our reserves and our
+ability to compensate
+has been exhausted.
+So you can be sick
+for quite a while before
+suddenly everything
+starts to have
+considerable dysfunction.
+Now, when we also think
+about not only just
+the development of
+disease, but also then
+the recovery from it, so
+disability may contribute
+to the development
+or progression of
+disease. But then we
+also have to recover from
+it. And so if we have all
+of these multifactorial
+things contributing
+to our disability,
+we know that they'll
+also contribute to
+our ability to recover
+and to compensate for
+what's happening when
+we are ill or injured.
+And that sets up a
+vicious cycle of illness
+injury, illness injury,
+recovery, but sometimes
+or oftentimes the
+recovery is never back
+to the former baseline
+that they were at.
+Okay, so here's an
+example of aging,
+physiologic changes to
+the endocrine system.
+you can see there's
+a variety of things
+that are lost over
+time or a variety
+of things that develop
+over time sorry
+about that that
+was the printer
+decided to go
+off I apologize
+all right so there
+are other physical and
+physiologic changes
+that occur and we're
+going to cover these
+over the next two
+slides there is an
+entire table in Bates
+which is very helpful
+that lists a lot more
+than this, but I'm
+going to cover some
+main points that I'd
+like you to remember.
+So systolic blood
+pressure rises as we age,
+the aorta and arteries
+stiffen and become
+atherosclerotic, and
+there is a decline in
+cardiac pacemaker
+cells that affects our
+maximal heart rate and
+our ability to respond
+to exercise and
+stress. Cardiac output
+decreases and valvular
+leaflet changes or
+stiffening can occur
+as we age. And these
+changes can lead to
+things like orthostatic
+hypotension or to
+the development of
+arrhythmias or cardiac
+murmurs like aortic stenosis
+or mitral recurgitation
+murmurs. Changes
+to ventricular
+compliance and reductions
+in ventricular filling
+can lead to a fourth
+heart sound, which
+is normal in an older
+adult. So if you hear
+that fourth heart
+sound, that's generally
+normal for that
+patient. The temperature
+regulation changes so
+that the aging patient
+is more likely to
+have hypothermia.
+They're more sensitive to
+temperature fluctuations,
+especially to the
+cold, or they may not
+mount a fever like
+you would normally
+expect during illness.
+Visual acuity
+decreases due to the
+development of cataracts,
+glaucoma, or macular
+degeneration, or
+from the effects of
+illnesses like diabetes
+or hypertension,
+or from the simple
+development of
+presbyopia, the need
+for reading glasses.
+These changes will
+and can affect
+the patient's
+quality of life and
+also make the
+patient increasingly
+susceptible to
+falls and injuries.
+Hearing decreases
+usually after the age
+of 50, which can
+affect communication
+and quality of life.
+Visual and hearing
+deficits and mobility
+problems can socially
+isolate someone
+quite significantly.
+now for oral changes
+there is decreased
+saliva production
+which affects
+the oral health
+of the patient
+leading to things like
+increased cavities
+gum disease
+periodontal disease
+teeth can wear down
+fall out or become
+abraded over time based
+on our diet and so the
+loss of dental health
+affects things like
+feeding communication
+our appearance which
+can affect our mental
+health in the respiratory
+system we lose lung
+capacity our chest
+wall becomes stiffer
+and harder to move,
+diaphragmatic strength
+decreases, respiratory
+muscles weaken, lungs
+lose some of their
+elastic recoil, and
+the surface area for
+gas exchange shrinks.
+And there can be
+changes in the thoracic
+spine, which lead to
+increased kyphosis,
+which can also affect
+our respiratory ability.
+Now, all of these
+combine to leading to
+a less effective cough
+mechanism and increasing
+our predisposition
+or our risk for
+developing atelectasis
+and pneumonia with
+respiratory conditions.
+The breasts in particular
+in women tend to
+become smaller, more
+flaccid and pendulous,
+and the glandular
+tissue atrophies so that
+things like ducts
+become more palpable
+as ropey or stringy
+strands. In males, they
+may develop gynecomastia
+or an increased
+breast fullness, especially
+if they've developed
+obesity or had some
+hormonal changes.
+abdominal muscles
+tend to weaken the fat
+may accumulate in
+lower abdomen and the
+hips so that our
+appearance changes even
+if our weight hasn't
+and aging can blunt
+some of the symptoms
+of gi disease so they
+might have less pain
+guarding or rebound
+tenderness um it
+may be completely
+diminished or absent
+and remember fever is
+less pronounced so if
+there's anything going
+on in the GI system
+and they're afebrile.
+Don't rule out an
+infectious process.
+For the *******
+urinary system,
+****** interest appears
+to remain intact,
+but the frequency of
+*********** will decrease.
+***** hair decreases
+and becomes gray in
+color. In males, decreased
+testosterone levels
+lead to decreases
+in things like *****
+size. The ********* drop
+lower in the *******
+and erections also
+decrease the incidence
+of prostatic hypertrophy
+and prostate cancer
+will increase and in
+women menses and in
+menopause begins and
+menopause leads to a
+variety of symptoms
+including hot flashes mood
+swings and vaginal
+dryness amongst others the
+***** and ********
+will become smaller the
+vagina shortens and
+the vaginal mucosa
+atrophies and becomes
+thinner these changes lead
+to increased pain
+with *********** which
+can make it very
+uncomfortable and affect the
+patient's quality
+of life or how they
+perceive themselves the
+suspensory ligaments of
+the adnexa uterus and
+bladder may also relax
+which can contribute
+to urinary incontinence
+and some other things
+that can contribute
+to urinary incontinence
+include decreased
+innervation and
+contractility of the bladder
+muscles loss of bladder
+capacity urinary
+flow rate and the ability
+to inhibit avoiding
+incontinence in general
+is very socially
+isolating for
+patients, and so
+addressing it with
+them is important and
+helping them to find
+ways to manage it.
+In the MSK system,
+there is a loss
+of bone with increased
+development of
+osteoporosis and
+increased risk for
+fractures, as well
+as loss of height
+and the development
+of kyphosis.
+There is a 30 to 50
+percent decline in
+muscle mass and ligaments,
+lose some of their
+tensile strength,
+and we also move and
+react with less speed
+and agility as we age.
+Osteoarthritis
+affects our range
+of motion and can
+lead to chronic
+pain and issues
+with mobility.
+And tremors and other
+movement disorders
+can also affect our
+mobility and function.
+Now when we get down
+to the nervous system,
+we know that aging
+and chronic disease
+states contribute
+to neurodegeneration
+which affects things
+like memory strength
+reflexes balance
+coordination and these in
+turn lead to effects
+on the quality of
+life mood and recovery
+from illness as well
+all right so we're
+next we're going to
+cover the care of the
+geriatric patient and
+this necessitates
+some changes and
+adaptations to our
+usual patterns of seeing
+adult patients. Most
+of these adaptations
+are to accommodate the
+needs of the patient
+and also cover topics
+that we might not
+be discussing with
+our younger patients.
+Elements that we want
+you to pay attention
+to are health
+history, physical
+exam, assessment of
+functional status,
+assessment of goals and
+of care and prognosis,
+access to care,
+in particular a
+team-based approach,
+and long-term planning,
+which includes things
+like palliative
+care and hospice
+when necessary. So
+let's talk about
+the approach to the
+geriatric patient and
+some of the things that
+will impact or
+require adaptation. So
+the office setting
+in particular, the
+patient's first
+interaction with you and
+with your staff is when
+they walk into your
+office. And so it's
+beneficial to the
+patient to arrange it
+to meet their needs.
+And so things like
+having moderate
+temperatures, not too
+cool or not too warm,
+ensuring that
+there is brighter
+lighting,
+especially because
+eyesight has
+diminished as we age.
+Removing any obstacles
+from hallways,
+entrances, exam rooms, and
+making sure that things
+are generally less
+cluttered can make
+it easier for the person
+who needs a mobility
+aid, like a walker or
+a cane or a wheelchair,
+or even has difficulty
+with gait to
+get around and into and
+out of spaces in the
+office having quiet
+exam rooms is also
+important they should be
+free from distractions
+especially noise so
+that the person can
+concentrate and stay
+focused and hear what's
+happening chairs with
+higher seating make
+it easier to get in
+and out of for patients
+who are geriatric
+and having stools
+available in the examination
+room with a handrail
+so the patient can
+get on and off the
+exam table will facilitate
+the physical exam
+Now, in terms of
+communication,
+there are a variety of
+things that you can do.
+Have forms with larger
+fonts and to make
+it easier for them
+to see and complete,
+but also mail or email
+them earlier so that
+they can complete them
+without that feeling
+of, I'm being rushed
+or causing them
+stress to complete
+the forms immediately.
+It's important to ask
+them to bring family
+or friends with them
+to the appointments to
+ensure that the care
+plans are understood
+and that the action
+is any action that's
+needed is taken on any
+orders that are given
+on a care plan and
+this is especially true
+on patients who have
+difficulty with communication
+language barriers
+or have cognitive
+deficits now having
+someone available on
+staff to help patients
+with technology that
+might be used in our
+offices today things like
+sign-in kiosks patient
+portals will be
+very helpful them as well
+to help continue that
+flow of communication
+now when they're in
+their space with you
+ask the patient to
+turn on their hearing
+aids put on their glasses
+and put in their dentures
+all are essential
+they should be able
+to see you hear you
+and be able to speak
+clearly so that
+communication is facilitated
+as much as possible
+and you want as
+the provider you
+want to face the
+patient directly
+and sit at
+their eye level
+Finally, you want
+to have some clear
+HIPAA documents that
+cover who can and cannot
+receive information
+on this patient.
+Geriatric patients
+often have very specific
+people that they
+want involved in
+their care, but
+sometimes there's an
+assumption that you'll
+just tell everyone.
+You'll tell their
+children, you'll tell
+their family members.
+And so for you,
+knowing who is the
+point person or who
+you can communicate
+with or who can assist
+you when necessary
+is very important.
+Now, make sure that
+the patient and family
+caregiver always have
+a clear list of current
+medications with dose,
+route, frequency,
+and why the medication
+is taken as well.
+And additionally, make
+sure that anything
+you give the patient
+that is educational
+isn't a large
+enough font or in
+their preferred language
+so that they can
+read it independently.
+independently.
+Time-wise you want to
+make sure that your
+appointments have enough
+time to allow you to
+do your tasks and
+allow the patient and
+their family or
+caregivers to ask you any
+questions that they
+might have but also allow
+them to tell you some of
+their stories. Sometimes
+the stories for
+geriatric patients can
+begin a specific point
+and they spread out
+over time and having
+that picture is often
+helpful for us. You
+want to adjust your pace
+so that you're not
+speaking too rapidly or
+that you're making the
+patient feel rushed.
+And if necessary or
+when necessary, consider
+scheduling follow
+-up appointments or
+double appointments
+to allow time for
+everything that needs
+to be covered. It will
+also be helpful to the
+patient who, especially
+as they get older
+and older, because
+fatigue is a consideration
+here as well.
+And finally, records.
+The geriatric patient
+often has a variety
+of specialists that
+are involved in their
+care. So getting these
+consultation reports is
+sometimes a challenge,
+but keeping your
+records up to date as
+much as possible
+means that you have a
+comprehensive picture
+of what is happening
+when the patient is
+outside of your care. Now
+this also means that
+you want to document
+conversations with any
+specialists or vendors
+who provide special
+services like delivering
+adult diapers or
+providing wheelchairs,
+insurance companies,
+and with the patient,
+family, and caregivers.
+You also want to
+have updated files um
+on record for advanced
+directives so things
+like healthcare
+proxies living wills
+dnr dni and this because
+this will ensure that
+we are complying with
+our patients wishes
+and their care
+instructions all right
+so let's get down to the
+history and physical
+portion for history
+taking you want to use
+as many resources of
+information as possible
+For one, this prevents
+repetition of
+material. It reinforces
+what the patient is
+telling you and validates
+it, and it also
+provides a more accurate
+picture of their current
+status and needs.
+So sources that
+are available to
+us include things
+like family members,
+caregivers, home
+health aides,
+other specialists
+or physicians,
+hospital discharge
+records, and previous
+medical records. So
+there's a little bit of
+detective work sometimes
+that's necessary.
+You want to ask direct
+questions and you
+want to listen carefully
+throughout this
+whole process. And you
+want to keep in mind
+the patient experience
+and their perspective.
+And the patient is the
+one who's experienced
+the illness or the
+disease state or
+decline. And so you
+want to always remember
+that, that when you're
+getting their history
+and performing their
+physical, that you're
+keeping them at the
+forefront of this.
+you want to ask thorough
+histories complete
+review of systems
+when it's necessary
+and keep and also
+remember that sometimes
+patients under report
+symptoms because
+their fear of they
+have a fear of losing
+independence or a fear
+of being diagnosed
+with an illness like
+a malignancy and they
+just you know they're
+at the point where
+they're like I don't
+really want to know
+sometimes they have
+common symptoms or signs
+but they they think
+they're part of like
+normal aging like joint
+pain, back pain, memory
+deficits. But those
+symptoms or signs might
+be masking other
+underlying diseases that
+are readily treatable
+or that we can help
+them with. And so a
+review of systems is often
+the place where we
+gather what's happening.
+Now, a patient may have
+cognitive impairment
+and may not provide
+an accurate timeline
+or description of what
+they're feeling our
+experience because
+they've forgotten and that
+can happen, right? So
+this is where family
+and caregivers can
+really help fill in the
+blanks for us or explain
+what they're observing
+in the patient from
+their usual baseline.
+And finally, you
+want to consider
+the patient's perspective
+of this shift
+in their life.
+Oftentimes what
+they're looking at now
+is not so much as
+how many years have
+I lived, but more so
+how many more years
+do I have left? What
+will those years
+look like? How can
+I stay independent,
+live in my own home?
+Who can help me?
+You know, will there
+be any suffering? So
+those are things that
+are in their perspective
+and what might be
+contributing to how they
+interact with you. So
+while it's important
+to have the family and
+caregivers involved,
+we're still responsible
+to the patient for
+their wishes. So we
+want to keep them
+involved in the decision
+-making process, of
+course, barring anything
+that might be diminishing
+their capacity to
+make those decisions.
+And finally, we
+want to think about
+cultural dimensions.
+There's table 27.2
+in Bates in chapter
+27 is an excellent,
+has a list of
+excellent questions to
+ask. And so I want
+you to have a look
+at that so that you
+have an idea of how
+you might formulate
+those questions.
+But cultural dimensions
+are important in
+the care of the geriatric
+patients. We don't
+want to make assumptions
+or miss key points
+about how the patient
+views themselves,
+their condition, their
+prognosis. We want
+to make sure that we
+listen to what they're
+expressing and that
+we're exploring their
+comments when we think
+that they're not clear
+or that something
+might sound confusing.
+And so for an example
+of something that
+I've heard from a
+geriatric patient living
+with chronic pain was,
+I don't want to live
+with this anymore.
+Now, that expression
+could mean like, you know,
+the pain's unbearable,
+find a way to help
+me minimize it. But
+that expression could
+also mean that they're
+depressed and they're
+considering suicide.
+So if you ever hear
+something like this,
+you want to explore
+that, you want to ask
+more questions and
+get more information.
+And finally,
+consideration of diversity
+in our aging population
+in the United
+States and in other
+countries around
+the world that reflects
+this demographic
+shift that we've
+talked about earlier.
+And this demographic
+shift, you know, has
+happened because of
+immigration wars, conflicts,
+but also because of
+socioeconomic factors
+like poverty, discrimination,
+climate change,
+education, and a
+variety of other things.
+Culture shapes our
+beliefs about aging,
+illness, death, disease,
+mental health, our
+choices in our doctors
+and our healers, and
+about the healthcare
+care system in general.
+So it's important to
+try to understand your
+patient's cultural
+norms and to adjust your
+care plans to reflect
+those whenever necessary.
+Let patients establish
+their cultural
+identity with you. Explore
+where they're from.
+What are their cultural
+explanations about
+almost dying or aging?
+And what are factors
+that impact level of
+function and their
+environment? And what is
+the expectation of you
+as their clinician and
+in this relationship
+that you're developing
+or have developed.
+And when we think
+about how culture
+impacts this, this
+becomes especially
+important in
+discussions about end
+-of-life care and
+decision-making. All
+right, so in the history,
+when you're gathering
+that, there's areas
+that might require
+additional exploration
+or getting more
+information from your
+patient, and that includes
+finding out if there
+any impairments in
+their daily living or
+in their instrumental
+activities of daily living
+medication management
+and side effects
+so you want to know
+like how are they
+getting their medications
+who's dispensing it for
+them if they can't do
+it themselves who picks
+up refills and are
+they having any side
+effects and also are
+they taking their
+medications as prescribed
+smoking obviously alcohol
+use drug use those
+are things that we
+would also explore But
+in particular, the
+disease burden that
+they contribute to in
+the geriatric patient
+is important to make
+sure that you have
+accurate information
+about how much, how often,
+when was the last
+time they used any of
+these products, have
+they ever had any issues
+with *****, or are they
+considering quitting
+if they are using
+something regularly.
+nutrition also do they
+have access to food
+so important to know
+about sometimes we
+don't consider the
+availability of food products
+to the person we
+only think about like
+what are they eating
+and so having access
+to food or and to food
+that is healthy is
+also a special area of
+concern. Pain, chronic
+pain, acute pain,
+important to explore
+and see if it is an
+indicator of not only
+just a current issue,
+but also possibly
+contributing to other
+problems in a person's
+life like isolation,
+mobility, or increasing
+their risk for *****
+of pain medications.
+Cognitive
+impairment impacts
+the patient's
+life from A to Z.
+You know, this is
+everything. It's how
+they interact with
+family, friends,
+their environment,
+social environment,
+health care, whether
+they're taking care
+of themselves or
+taking medications,
+even eating or
+remembering to cook meals.
+You know,
+so knowing whether
+your patient has
+a cognitive impairment
+is essential.
+Urinary incontinence
+can also
+contribute to
+social isolation.
+Isolation can
+also be a sign of
+other illnesses
+that are happening
+or medication
+side effects.
+And finally, falls.
+Falls are a huge
+contributor to
+patients' morbidity and
+mortality, especially
+as we get older. So
+when we talk about the
+concept of activities
+of daily living
+versus instrumental
+activities of daily
+living, we want to
+ask a few basic
+questions, and they
+give us an idea of
+whether the person is
+independent and functional
+at their optimal
+level. So ADLs, you
+want to ask your
+patient if they can
+perform six basic
+self-care abilities,
+bathing, dressing,
+toileting,
+transferring,
+continence, and feeding.
+For IADLs, you want
+to ask about eight
+functions, And that's
+the use of a telephone,
+shopping, preparing
+food, housekeeping,
+laundry,
+transportation,
+taking medication, and
+managing money
+or finances.
+And it's really
+important to know
+whether the person is
+independent and can
+manage these 14
+items on their own
+without any difficulty
+or if they need
+assistance from
+someone for any reason.
+Once you have the
+answers to all of these,
+it gives you a
+clearer sense of the
+person's ability, how
+well they're functioning
+at this current
+level that they're
+at, whether there's
+been any changes in
+the level of function.
+It also helps you
+to make decisions about
+additional services
+that they might need,
+things like home
+care, physical
+therapy, mobility aids,
+adult diapers, social
+services like Meals
+on Wheels for nutrition
+or transportation
+to and from medical
+visits. or if someone
+needs to just step in
+and assist the patient
+because they can no
+longer manage or perform
+these actions on their
+own and not having
+someone to assist them
+will be detrimental
+to the patient and
+to their health there
+are things that we
+take into consideration
+when we're taking a
+patient's history and
+also making clinical
+decisions at the end
+of that visit one of
+those is using the
+beers criteria to help
+make decisions about
+what medications a
+patient should continue
+and this is called
+the beers criteria for
+potentially inappropriate
+medication use
+in older adults it's a
+list of approximately
+100 medications or
+medication classes that
+is published by the
+american geriatric
+society approximately
+every three years the
+last publication was
+in 2023 and you can
+see the link down
+here at the bottom of
+this slide if you're
+interested in looking
+at what's posted. This
+acts as a guide for
+healthcare providers to
+make safe prescribing
+decisions for their
+geriatric patients
+and there are five
+different sections that
+it covers medications
+that should be avoided
+in patients who are
+of geriatric age
+and who are also not in
+hospice or palliative
+care settings,
+medications to avoid in
+patients with certain
+health conditions or
+avoid those that
+cause certain drug
+interactions that could
+be potentially harmful,
+limiting doses or
+avoiding medications due
+to their effects on
+kidney function, and
+also medications with
+potential side effects
+whose risks clearly
+outweigh any benefits.
+One of the caveats to
+the Beers criteria to
+remember is that it
+is not specific to one
+person. It is a
+guideline. So it's trying
+to provide guidance
+for a broad group of
+people. And because of
+this, it doesn't take
+into consideration
+a patient's specific
+overall health, any
+underlying medical conditions
+or situations that
+might make the provider
+pick a medication
+that is on this list.
+So we consider
+it as a tool to
+use, but it doesn't
+make the final
+decision on behalf
+of a provider.
+So one of the important
+things to do is
+when we are documenting
+our clinical
+decisions is that
+we also document why
+a specific medication
+was chosen despite
+meeting some of
+these criteria from
+BEERS so that any
+others will understand
+how the medication
+was chosen and why.
+Additionally, at every
+follow-up visit, we
+continue to revisit
+that medication list and
+continue to take this
+into consideration.
+And one thing we
+should always ask at
+follow-up visits
+are asking about
+side effects as well
+as the efficacy of
+the medication that
+was prescribed.
+And this will help
+us to make a final
+determination of
+whether we continue
+this medication
+or if we stop it
+or change it to
+something different.
+So we're going to
+talk about screening
+tools here as part
+of your history and
+physical exam of the
+geriatric patient.
+It's really important
+that you use
+validated tools and
+screening tests. And here
+I've put up a list
+of common examples.
+There are a greater
+variety than this.
+You can certainly
+refer to Bates or any
+geriatric textbook
+for more. But these
+are common ones that
+are used. And these
+screening tools have
+been validated through
+testing and are
+proven to be useful
+for the purposes that
+they're intended.
+So an important note
+is that you must
+use the test as it's
+described. So make
+sure that you follow
+all the instructions
+and that you score
+as it's written
+because that's how the
+test was validated.
+And there are some
+minor cases where
+training might be
+required to ensure that
+you're doing this
+evaluation reliably.
+So beyond helping us
+to get a sense of what
+our patient's function
+is, they help us
+to gather information
+in an organized fashion
+and help us to make
+clinical decisions.
+And they can also
+be used to track
+progression of illness
+or disease. So if
+you do these multiple
+times, you can
+see whether there's
+change happening,
+whether for the
+better or the worse.
+Now, when you add
+in all the questions
+that you ask about
+ADLs and IADLs, along
+with these screening
+tools, you get
+a very good sense of
+the baseline function
+of your patient.
+And so if you need
+to step in and make
+any interventions,
+then you can do so
+knowing that you have the
+most appropriate
+information available for
+a patient. Oftentimes
+insurance companies
+also require this
+information in order to
+authorize dispensing
+things like wheelchairs
+or commodes or hospital
+beds to a patient.
+And then finally,
+you can also identify
+any geriatric
+syndromes that might be
+present and then
+help to optimize the
+patient's care and
+make sure that you have
+everybody on your
+team that you might
+need to help you care
+for your patient.
+So I'm going to
+share two examples of
+commonly used screening
+tests or tools.
+And so here's the 10
+-minute geriatric screener.
+This is taken directly
+from the example
+in Bates, if you want
+to refer there as
+well. But these are
+the parts that are
+covered, cognitive,
+psychosocial, and physical
+function including
+vision, hearing, and
+urinary continence
+as well. It gives you
+a very good sense
+of how the patient's
+doing and obviously
+when you go down to
+physical disability you
+can see that some of
+the questions go along
+with IADLs or ADLs.
+Another validated
+screening test for memory
+disorders, there
+are three that I'm
+going to touch upon.
+We're going to start
+with the New Mental
+Status Exam or the
+MMSC developed by
+Fulstein and Fulstein in
+1975 and has been
+validated multiple
+times in English as
+well as several other
+languages. It's an 11
+-question measure. It
+tests five areas of
+cognitive function,
+orientation, registration,
+attention, and
+calculation, recall,
+and language. It takes
+about 5 to 10 minutes
+to administer by a
+trained provider and
+the maximum score is
+out of 30 points a
+score of 23 or lower is
+indicative of cognitive
+impairment and
+obviously the lower the
+score the greater the
+cognitive impairment
+this test is very
+effective at helping to
+differentiate patients
+with cognitive
+impairment from those
+without cognitive
+impairment and one of its
+benefits is that it
+detects mild cognitive
+impairment very well
+some of its limitations
+are that it relies
+heavily on speaking
+reading and writing
+and so any patients who
+are hearing or visually
+impaired or have low
+English proficiency or
+any other communication
+disorders may
+perform poorly even
+though they are cognitively
+cognitively intact
+sorry about that
+performance can also be
+affected by things
+like fatigue, lack of
+sleep, and anything
+that alters your mental
+function such as
+substance use or *****.
+Moving on to the
+next slide, you can
+see here an example
+of this examination.
+This is all of the
+items. So for example,
+for orientation,
+you would ask all of
+these things here. What
+is the year, season,
+date, day, and month?
+And this would be
+scored out of
+five points. And
+you would go down
+through all of
+these different
+steps, ending with
+having the patient
+copy the design
+that is shown
+here. And then
+you would total
+up your score. The
+next one is called the
+MOCA, or the Montreal
+Cognitive Assessment.
+It's a rapid screening
+instrument also
+for mild cognitive
+dysfunction it has eight
+different cognitive
+domains attention and
+concentration executive
+functions memory
+language this visual
+construction skills
+conceptual thinking
+calculations and orientation
+it's available in
+approximately 100
+languages you do have to
+go through training in
+order to know how to
+administer this
+effectively and it takes
+approximately one hour
+to administer It's
+been validated multiple
+times for patients
+between the ages of 55
+and 85 years old, and
+there are a variety
+of different versions
+to meet the needs of
+different patients.
+For example, there's a
+telephone-only version.
+There's a version
+for patients who are
+blind. There's a hearing
+-impaired version.
+If you'd like to
+see more information
+about this
+examination, you can
+look at the website
+posted here.
+and here is what the
+Montreal cognitive
+assessment score sheet
+would look like and
+finally we have the
+mini cog the mini cog
+is also a rapid screening
+instrument it's for
+cognitive dysfunction
+however it is not
+recommended to screen
+for mild cognitive
+impairment this is
+better at picking up more
+advanced cognitive
+dysfunction it has three
+items recall tests for
+memory so you'll see
+that on the next page
+and a simply scored clock
+drawing test it's also
+available in multiple
+languages it takes
+about three minutes
+to administer so it
+functions very well for
+visits with your patient
+and it is encouraged
+to be used by Medicare
+for the annual
+geriatric wellness exam
+it's validated multiple
+times for patients
+between the ages of 55
+to 85 years old also
+there is an online
+version so if you can't
+see your patient face
+-to-face you can do it
+online with them or
+they can do it independently
+and if you want
+more information this is
+one of the the website
+where you can find
+more information about
+it and this is what
+the score sheet would
+look like so the first
+part of that recall
+is you go through one
+of these lists of words
+and you have the
+patient listen and then
+you repeat then you
+have your clock drawing
+in between there and
+this is the circle here
+for the clock drawing
+and then you do the
+recall and then you
+tally up everything and
+based on that a
+determination is made and
+then here's one for
+mobility it's called
+the time to get up and
+go test when you're
+in DPR lab you'll be
+there's gonna be an
+opportunity for you
+to see what that looks
+like but basically
+what you want to do is
+have your patient wear
+their regular footwear
+and if they need any
+mobility device or
+assisted device like a
+walker or a cane that
+they have it with
+them. You're going to
+sit them back in an
+armless chair and you're
+going to instruct
+your patient to get up
+from this armless chair.
+When they hear the
+word go, they're going
+to walk three meters
+in a straight line
+as best as they can,
+turn around, walk
+back to the chair and
+sit down. On your part,
+you're going to observe
+the patient for any
+instability, difficulty
+with gait or you
+know stride length
+etc you're also going
+to be timing them with
+this test now if they
+can do all the steps
+1 through 5 in less
+than 10 seconds that's
+considered a normal
+test and if it's
+abnormal if it's greater
+than 20 seconds and
+this is a good way to
+screen for fall risk
+Okay, so we're going to
+touch on the physical
+examination here.
+You already know how
+to perform the majority
+of the physical
+exams necessary, so I'm
+not going to revisit
+those, but I am
+going to talk about
+what's important for
+the geriatric patient.
+So one of the things
+with physical exams,
+obviously, is your
+vitals. And so when
+you're paying attention
+to your vitals,
+you want to pay attention
+to the norms and
+the patterns that
+your patient has. So
+you're not just going
+to look at today's
+vitals, you're going
+to compare it to past
+vitals. And any
+deviation from those
+norms or from those
+patterns is an indicator
+of illness, injury,
+or disease state.
+And in particular,
+changes to weight
+can be a really
+good indicator that
+something's going on
+with your patient.
+A sudden weight
+gain or sudden
+weight loss are
+clear indicators
+that something's
+happening.
+And so you really want
+to look at not just
+today's but past
+vitals as well. Okay.
+When necessary, perform
+orthostatic measurements
+of blood pressure
+and heart rate,
+especially if a patient
+complains of things
+like weakness, dizziness,
+lightheadedness,
+syncope, or that
+they're having visual
+deficits or changes
+whenever they
+stand up or have
+postural changes.
+Your general survey,
+this is you observing
+your patient coming into
+the space that you're
+in, your office or
+the examination room.
+And it's really important
+to pay attention
+into their mental status,
+to their appearance,
+like what's their
+grooming like, the
+cleanliness of their
+clothing, what do their shoes
+look like, and their
+mobility. How do they
+go into the room? Do
+they need a mobility
+or assistive device?
+Do they need someone to
+help them get onto
+examination tables? Can
+they do it independently?
+That's going to give
+you a lot of good
+information on the person's
+ability to just, one,
+that they're caring
+for themselves and to
+that they can move.
+And now when we talk
+about performing
+a physical exam,
+obviously we take
+a systems approach,
+head to toe,
+you know, assessing
+or paying special
+attention to
+those areas where
+the patient might
+have a complaint.
+But it's also
+important to maintain
+your patient's
+modesty and respect
+any cultural norms
+that they have.
+Remember, you want to
+remove clothing and
+evaluate directly on
+skin to minimize the
+risk that you're missing
+a sign of illness
+and also signs of
+injury or ***** or
+maltreatment you want
+to provide your patient
+with a gown and a drape
+and ask the patient
+before you even physical
+begin the physical
+exam you want to ask
+the patient if it's
+okay if any family
+members or caregivers
+stay in the room
+sometimes they don't want
+them present and they
+may ask that they not
+be allowed or ask
+them to step out Okay.
+For the SOAP note and
+for documentation,
+you're going to be as
+descriptive and detailed
+as possible. When
+necessary, use the
+patient's own words,
+especially if it's important
+to highlight a particular
+point or explain
+something. And you
+want to share your
+progress note with
+other members of your
+healthcare team. So if
+there's a patient navigator
+or a specialist who's
+involved in their
+care, you want them
+to be aware of what
+happened during this
+visit so that they also
+have updated information
+and so it's important
+to include a plan of
+care for any chronic
+or acute disease
+state so that everyone
+can see like what were
+the goals for this
+what's the treatment
+plan what kind of
+medications are we giving
+or diagnose diagnostics
+or were there referrals
+to other caregivers
+or members of the
+health care team and
+finally let's talk about
+preventive care and
+health promotion in
+the geriatric patient
+so as more adults live
+to an older age in
+particular those that
+are 80 years old and
+older. The decision
+about when to screen for
+things like cancer,
+for example, becomes
+more complex and requires
+a discussion about
+the limitations that
+are available for these
+screenings in this
+age group, treatment,
+and the effects on
+quality of life if a
+disease is found. The
+decision to screen should
+also include things
+like the patient's
+level of health and
+function, comorbidities,
+prognosis, and expectations
+of the patient.
+Age should never
+be the only factor
+that's considered.
+You shouldn't
+just go, well,
+you're 85, we're
+going to stop
+screening you, right?
+You should take into
+consideration all
+of these things. Now,
+there are screening
+guidelines
+available for these
+things, so use them
+wherever appropriate
+to help educate your
+patient, but also
+to have this
+conversation with them.
+Now other things to
+screen for are found in
+the 10-minute geriatric
+screener that we
+looked at earlier. These
+require less complex
+conversations, you
+know, vision, hearing,
+falls, mobility, but
+they should be completed
+and the patient
+should be informed of
+important findings and
+also what is the plan
+to address any deficits
+that are observed.
+Exercise and physical
+activity, really
+important for
+maintaining mobility
+and independence,
+reducing falls and
+pain, and keeping
+the person engaged
+in activities outside
+of the home thereby
+reducing social isolation
+this tends to happen
+a lot if i can't
+get around because i'm
+physically unable to
+patient tends to stay
+home tends to not
+be involved or the
+family sometimes
+just is unable to come
+to the patient and
+therefore they're
+not really engaged
+or involved in
+which leads to other
+factors like depression
+for example and
+greater effects on
+cognition and mobility
+so um you know
+recommendations for this
+age group are that
+they do aerobic
+activity and also
+muscle strength training
+training for major
+muscle groups so
+that they can maintain
+their mobility
+Now, obviously, you'd
+adapt any exercise
+recommendations to
+the person's current
+ability, like if they
+need a cane or a walker
+to stand and walk
+properly, then maybe doing
+exercises in a chair
+is better for them
+than trying to stand
+and do the exercises.
+But whenever necessary,
+you can involve
+a physical therapist
+or a physiatrist in
+the care of the
+patient to address any
+issues with exercise
+or physical activity
+and help put together
+a plan that's
+appropriate to them and
+that's safe for them.
+Household safety also
+very important for
+your patient's health
+and well-being and it's
+often overlooked as
+we age within our own
+homes right but it's
+essential that we
+prevent injury and so
+some basic things that
+can be done in and
+around the home like
+garages and gardens you
+want to ensure appropriate
+lighting you want to
+get rid of furniture
+that's too low or too
+high to get in and
+out of so if you need
+a stool to get into
+bed, that's not safe
+for you. If you sit
+in a chair and you
+can't get out of it,
+that's not safe for
+you. You want to install
+handrails in both
+directions on staircases.
+Most staircases have
+only one unidirectional
+handrail, so you want
+one on each side.
+You want to remove
+clutter and ensure
+clear paths from
+one room to another.
+Nothing should
+be in the way of
+somebody safely
+walking from like a
+kitchen to a bathroom
+or to a bedroom
+and you want to
+ensure easy access to
+telephones to call
+for help so things you
+can do is move them
+to a low-lying table
+or close to the sofa
+or close to whatever
+area where there's
+a risk for a fall
+so the patient can
+call for help or
+you can provide a
+mobile phone or get a
+clinical alert device
+that can call for
+help in the event
+that the person falls.
+You want to instruct
+your patients
+to always wear
+well-fitting shoes
+in and outside of
+the home, right?
+So loose slippers,
+for example,
+not safe.
+And also consider
+the safety of
+laces for your
+patient, especially
+if they have
+shuffling gates.
+So you may want
+to just remove
+laces entirely and
+just use Velcro.
+And then keep commonly
+used items within
+reach to minimize the
+need to stand on a step
+stool or a ladder
+install grab bars in the
+tub and shower and
+use a shower chair if
+necessary if there's
+issues with balance or
+standing you also want
+to remove any cords
+that could be a tripping
+hazard and secure
+all firearms to keep
+everyone safe and finally
+you want to have a
+plan in place of a
+system where someone
+checks on the patient on
+a daily basis at least
+once or if needed
+multiple times throughout
+the day to ensure
+that they are safe
+and if you don't hear
+from them immediately
+or they don't respond
+within the time frame
+that you're used to
+that you can call for
+help and get them help
+and finally elder *****
+and mistreatment is
+not always reported
+because of the fear of
+reprisal or increased
+*****. About 90% of
+the time, it is a family
+member or a caregiver
+who perpetrates
+the *****, and so
+they're often afraid
+to say anything because
+they don't know what
+the outcomes will be for
+them. And although
+the USPSTF has noted
+that there is no valid
+or reliable screening
+tool for elder *****,
+it is still important
+to ask about it. So
+ask your patient if
+they are being
+abused, neglected, and
+exploited, or feel like
+they've been abandoned.
+You know,
+a simple question is
+anyone hurting you or
+abusing you but also
+asking about restriction
+to access to things
+like money or food pay
+attention to the
+history that they're
+providing you how they
+say things what they say
+and also how they
+interact with any family
+or caregivers that are
+present at the visit
+additionally you also
+want to pay attention
+to your physical exam
+for signs that could
+be indicative of
+***** or mistreatment.
+Self-neglect is also
+something that's important
+to pay attention to,
+and this is a patient
+who is a threat to
+themselves because
+they're not taking care
+of themselves. So they
+may not be following
+your care plan, may
+not be taking their
+medications, may be
+ignoring their own health
+for whatever reason.
+So if there's any
+suspicion on your part
+of any of these
+things happening,
+including self-neglect,
+the patient should
+be reported to adult
+protective services
+as soon as you're
+aware of it or
+consider it so that
+they can step in and
+help the patient as
+much as possible.
+Okay.
+And finally, immunizations.
+Geriatric patients
+should receive
+immunizations like flu,
+DTaP or an updated
+tetanus toxoid,
+varicella,
+shingles or zoster
+vaccine, pneumococcal,
+and now during
+this time, the
+COVID-19 vaccine.
+The complications of
+fractures related to
+osteoporosis are often
+severe and can include
+increased mortality,
+increased morbidity
+such as loss of
+mobility, increased pain,
+loss of independence,
+increased risk for
+future fractures,
+and an increased risk
+of having to be
+transferred to a nursing
+home or needing additional
+help. So this is
+why it's very
+important to screen for
+osteoporosis and determine
+fracture risks using
+bone density testing
+and the FRAX score.
+So bone density
+testing is done
+by x-ray. It's
+imaging used to screen
+for osteoporosis,
+and it can
+also help determine
+fracture risk.
+The x-rays are
+usually two different
+energies. That's
+why it's called
+a DEXA, a dual X
+-ray absorptometry.
+And these are just the
+X-ray beams that are
+passed through
+specific bones, such as
+the hip, the lumbar
+spine, or the radius in
+the wrist. The bone
+mineral density is
+calculated for each bone
+after the person has
+gotten this X-ray, and
+then it's converted
+into values that are
+related to the average
+female or male peak
+bone mass or to the
+bone mass relative
+to the patient's age.
+And these are called
+T-scores and Z-scores.
+T-scores and Z-score
+values are usually based
+on women, although
+in some places there
+is sufficient male data
+to base it on males.
+When that male data
+is not available, we
+use the same cutoffs
+for men and women.
+Now, the World Health
+Organization and
+the International
+Society for Clinical
+Densitometry have
+defined diagnostic
+criteria for low bone
+mass namely osteopenia
+and osteoporosis
+based on the DEXA scan
+compared with the
+reference population
+according to the World
+Health Organization
+osteoporosis is
+defined based on the
+following of bone
+density values a t-score
+within one standard
+deviation plus or
+minus one of the young
+adult mean indicates
+normal bone density.
+A T-score of 1 to
+2.5 standard deviations
+below the young
+adult mean or minus 1
+to minus 2.5 standard
+deviations indicates
+low bone mass or
+osteopenia. A T
+-score of 2.5 standard
+deviations or more below
+the young adult mean
+indicates the presence
+of osteoporosis.
+Now We'll cover
+a DEXA scan every
+other year for women
+who are 65 years
+and older, and men
+who are 70 years
+and older, or for
+a younger patient
+if they have
+specific conditions.
+Now, while
+osteoporosis is
+more prevalent in women,
+men tend to have a
+greater morbidity
+related to
+osteoporotic fractures.
+So, who do we recommend
+bone density testing
+for? So here's a
+list of specific
+criteria. There are
+others, but these are the
+most common ones. Women
+65 years or older,
+or women who are 50
+to 64 with certain
+risk factors like
+postmenopausal, not taking
+estrogen, or someone
+who is tall, over 5
+'7", or thin, weighing
+less than 125 pounds,
+for example. Or they
+have a personal and
+maternal history of
+hip fractures, where
+they have a personal
+history of smoking.
+Additionally,
+if they are a 70-year
+-old man or a male
+who is 50 to 69-year
+-old with risk factors
+like clinical conditions
+associated with
+bone loss such as
+rheumatoid arthritis.
+Additionally,
+certain medications
+can cause accelerated
+bone loss or
+certain chronic
+medical conditions
+such as liver disease,
+kidney disease,
+hyperthyroidism,
+type 1 diabetes,
+hyperparathyroidism,
+hypogonadism,
+and vitamin D deficiency,
+to name a few.
+Additionally, if a
+patient's experienced a
+fracture after very mild
+trauma, it's also an
+indication to screen,
+or if it's an incidental
+finding, for example,
+they have back
+pain and they get an x
+-ray and there you see a
+vertebral fracture that
+the person was unaware
+of, or there are
+signs of osteoporosis.
+The FRAC score is
+called the Fracture Risk
+Assessment Tool. It
+was developed in 2008
+by a team based within
+the World Health
+Organization who is
+collaborating with the
+Center for Metabolic
+Bone Disease hosted
+at the University of
+Sheffield in England.
+And basically what it
+does is it generates
+a score that is used
+to determine a person's
+10-year risk of major
+osteoporotic fractures.
+And it's calculated
+based on 12 factors.
+They're all listed
+here, age, ***, weight,
+height, prior factor,
+history, et cetera.
+The link on this
+slide will take you
+to the online
+calculator for this so
+you can test it
+out if you'd like.
+There are options.
+One of the options is
+that you have to have
+a T-score, but on the
+online calculator,
+you can calculate the
+risk if the person has
+not yet had a bone
+density and if you're
+trying to determine
+who should be treated.
+So for patients with
+osteopenia based on DEXA
+criteria but who do not
+have a prior history
+of osteoporotic
+fractures, we use this
+calculator to help
+determine the decision for
+treatment. In patients
+50 years and older
+with osteopenia based
+on DEXA criteria and who
+have a 10-year hip
+fracture probability of
+3% or higher or a 10
+-year major fracture
+probability of 20% or
+higher using this tool,
+then we recommend
+treatment for osteopenia.
+For patients with a
+fragility fracture,
+a diagnosis of
+osteoporosis based on DEXA
+is not needed to
+initiate treatment and
+you don't need to do
+the calculation here.
+Right so here's
+a summary of
+things that
+we've discussed.
+So it's really important
+to not only know
+the effects of aging
+on the human body,
+the presentation
+of illness in the
+geriatric patient,
+but also the geriatric
+syndromes and how all
+of these interplay
+to affect the health
+and well-being of
+your patient and with
+the ultimate goal
+is that we keep our
+patient independent
+and healthy for as
+long as they can be.
+If you have
+any questions,
+please shoot me an email.
+Thank you for
+listening to this
+lecture. If you
+have any feedback,
+please use the
+link on this slide.
+And here are some of the
+references that
+were used today.
+Thank you for
+listening and for
+participating.
+I hope you have
+a great day and
+a great week.
+
