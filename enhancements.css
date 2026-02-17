@@ -99,6 +99,7 @@ h6 {
 }
 
 @keyframes pulseSoft {
+
   0%,
   100% {
     opacity: 1;
@@ -114,6 +115,7 @@ h6 {
 }
 
 @keyframes shake {
+
   0%,
   100% {
     transform: translateX(0);
@@ -169,11 +171,9 @@ h6 {
 
 /* Buttons */
 .btn-primary {
-  background-image: linear-gradient(
-    135deg,
-    var(--accent-color),
-    var(--accent-hover)
-  );
+  background-image: linear-gradient(135deg,
+      var(--accent-color),
+      var(--accent-hover));
   border: none;
   position: relative;
   overflow: hidden;
@@ -396,12 +396,10 @@ body.dark-mode .image-context-header {
   left: -150%;
   width: 60%;
   height: 100%;
-  background: linear-gradient(
-    to right,
-    rgba(255, 255, 255, 0) 0%,
-    rgba(255, 255, 255, 0.3) 50%,
-    rgba(255, 255, 255, 0) 100%
-  );
+  background: linear-gradient(to right,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.3) 50%,
+      rgba(255, 255, 255, 0) 100%);
   transform: skewX(-25deg);
   animation: sheen 3s infinite;
 }
@@ -528,7 +526,7 @@ body.dark-mode .week-dropdown-panel .test-item-btn:hover {
 }
 
 /* --- UPDATED: QUESTION STEM (MAIN QUESTION) --- */
-#question-container > p {
+#question-container>p {
   font-size: 1.15rem;
   font-weight: 500;
   line-height: 1.7;
@@ -552,7 +550,7 @@ body.dark-mode .week-dropdown-panel .test-item-btn:hover {
   margin-bottom: 2rem;
 }
 
-body.dark-mode #question-container > p {
+body.dark-mode #question-container>p {
   background-color: rgba(0, 0, 0, 0.3) !important;
   border-color: var(--border-color) !important;
   border-left-color: var(--accent-color) !important;
@@ -599,6 +597,7 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 
 /* Welcome Screen Button Pulse */
 @keyframes pulse-subtle {
+
   0%,
   100% {
     transform: scale(1);
@@ -630,27 +629,27 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
   animation: slideInUp 0.3s ease-out backwards;
 }
 
-#question-container .space-y-3 > div {
+#question-container .space-y-3>div {
   animation: slideInUp 0.4s ease-out backwards;
 }
 
-#question-container .space-y-3 > div:nth-child(1) {
+#question-container .space-y-3>div:nth-child(1) {
   animation-delay: 0.05s;
 }
 
-#question-container .space-y-3 > div:nth-child(2) {
+#question-container .space-y-3>div:nth-child(2) {
   animation-delay: 0.1s;
 }
 
-#question-container .space-y-3 > div:nth-child(3) {
+#question-container .space-y-3>div:nth-child(3) {
   animation-delay: 0.15s;
 }
 
-#question-container .space-y-3 > div:nth-child(4) {
+#question-container .space-y-3>div:nth-child(4) {
   animation-delay: 0.2s;
 }
 
-#question-container .space-y-3 > div:nth-child(5) {
+#question-container .space-y-3>div:nth-child(5) {
   animation-delay: 0.25s;
 }
 
@@ -692,6 +691,134 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 .flip {
   transform: rotateY(180deg);
 }
+
+/* === NEW ENHANCEMENTS === */
+
+/* 1. Circular Answer Letter Badges */
+.answer-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  min-width: 28px;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.8rem;
+  background-color: var(--bg-hover);
+  color: var(--text-secondary);
+  border: 2px solid var(--border-color);
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.option-btn-selected .answer-badge {
+  background-color: var(--accent-color);
+  color: white;
+  border-color: var(--accent-color);
+}
+
+.option-btn-correct .answer-badge {
+  background-color: var(--correct-border);
+  color: white;
+  border-color: var(--correct-border);
+}
+
+.option-btn-incorrect .answer-badge {
+  background-color: var(--incorrect-border);
+  color: white;
+  border-color: var(--incorrect-border);
+}
+
+body.dark-mode .option-btn-correct .answer-badge {
+  background-color: #22c55e;
+  border-color: #22c55e;
+}
+
+body.dark-mode .option-btn-incorrect .answer-badge {
+  background-color: #ef4444;
+  border-color: #ef4444;
+}
+
+/* 2. Active Exam Indicator in Nav */
+.week-toggle-btn.test-selector-btn-active {
+  background-color: var(--accent-color) !important;
+  color: white !important;
+  border-color: var(--accent-color) !important;
+  box-shadow: 0 2px 8px rgba(38, 139, 210, 0.3);
+}
+
+.test-item-btn.test-selector-btn-active {
+  background-color: rgba(99, 102, 241, 0.15) !important;
+  color: var(--accent-color) !important;
+  font-weight: 700;
+}
+
+/* 3. Subtle Background Texture */
+body {
+  background-image:
+    radial-gradient(circle at 20% 50%, rgba(38, 139, 210, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(42, 161, 152, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 50% 80%, rgba(108, 113, 196, 0.03) 0%, transparent 50%);
+}
+
+body.dark-mode {
+  background-image:
+    radial-gradient(circle at 20% 50%, rgba(38, 139, 210, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(42, 161, 152, 0.04) 0%, transparent 50%),
+    radial-gradient(circle at 50% 80%, rgba(108, 113, 196, 0.04) 0%, transparent 50%);
+}
+
+/* 4. Keyboard Shortcut Key Styling */
+.shortcut-key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  padding: 0 0.4rem;
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* 5. Option Strikethrough */
+.option-strikethrough {
+  opacity: 0.4;
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+}
+
+/* 6. Persistent Text Highlight */
+.persistent-highlight {
+  background-color: #fef08a !important;
+  /* Vibrant yellow */
+  color: #1a1a1a !important;
+  display: inline;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+body.dark-mode .persistent-highlight {
+  background-color: #fef08a !important;
+  color: #1a1a1a !important;
+}
+
+/* Maintain native selection style as well (optional, but good for active dragging) */
+::selection {
+  background-color: rgba(250, 204, 21, 0.4);
+}
+
+::-moz-selection {
+  background-color: rgba(250, 204, 21, 0.4);
+}
+
+
 /* Theme Toggle Animation */
 #dark-mode-toggle {
   transition:
@@ -711,24 +838,7 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
   transform: rotate(360deg);
 }
 
-/* Theme Toggle Animation */
-#dark-mode-toggle {
-  transition:
-    transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55),
-    background-color 0.3s;
-}
 
-#dark-mode-toggle:active {
-  transform: scale(0.9) rotate(180deg);
-}
-
-#dark-mode-toggle svg {
-  transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
-}
-
-.dark-mode #dark-mode-toggle svg {
-  transform: rotate(360deg);
-}
 
 /* Hide Old Header Buttons */
 #flashcard-mode-btn,
@@ -750,7 +860,8 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 
 body.dark-mode .flashcard-front,
 body.dark-mode .flashcard-back {
-  background-color: #1e293b !important; /* Slate-800 */
+  background-color: #1e293b !important;
+  /* Slate-800 */
   border-color: #334155 !important;
 }
 

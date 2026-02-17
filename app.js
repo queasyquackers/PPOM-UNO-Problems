@@ -451,7 +451,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 const parsedState = JSON.parse(savedState);
                 const state = testStates[testObject.name];
                 state.currentQuestionIndex = parsedState.currentQuestionIndex;
-                state.userAnswers = parsedState.userAnswers.map(a => ({ ...a, strikedOutIndices: new Set(a.strikedOutIndices) }));
+                state.userAnswers = parsedState.userAnswers.map(a => ({
+                    ...a,
+                    strikedOutIndices: new Set(a.strikedOutIndices),
+                    highlights: a.highlights || { question: null, options: {} }
+                }));
                 state.flaggedQuestions = new Set(parsedState.flaggedQuestions);
                 state.timer.elapsedTime = parsedState.timer.elapsedTime;
                 // Restore finished state
@@ -466,7 +470,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         selectedIndex: null,
                         isSubmitted: false,
                         isCorrect: false,
-                        strikedOutIndices: new Set()
+                        strikedOutIndices: new Set(),
+                        highlightedIndices: new Set()
                     }));
                     state.flaggedQuestions = new Set();
                     state.currentQuestionIndex = 0;
@@ -479,7 +484,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     selectedIndex: null,
                     isSubmitted: false,
                     isCorrect: false,
-                    strikedOutIndices: new Set()
+                    strikedOutIndices: new Set(),
+                    highlights: { question: null, options: {} }
                 }));
             }
         }
@@ -763,8 +769,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const qText = document.createElement('p');
-        qText.className = 'text-lg leading-relaxed mb-6 animate-slide-entry';
-        qText.innerHTML = question.questionText;
+        qText.className = 'text-lg leading-relaxed mb-6 animate-slide-entry highlight-section';
+        qText.dataset.section = 'question';
+        qText.innerHTML = answerState.highlights.question || question.questionText;
         questionContainer.appendChild(qText);
 
         const optsContainer = document.createElement('div');
@@ -774,7 +781,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const btn = document.createElement('button');
             btn.className = 'w-full text-left p-4 rounded-lg option-btn';
             btn.dataset.index = index;
-            btn.innerHTML = `<span class="font-bold mr-2">${String.fromCharCode(65 + index)}.</span> ${opt.text}`;
+            const optTextHTML = answerState.highlights.options[index] || opt.text;
+            btn.innerHTML = `<span class="answer-badge">${String.fromCharCode(65 + index)}</span> <span class="flex-1 highlight-section" data-section="option-${index}">${optTextHTML}</span>`;
             if (answerState.strikedOutIndices.has(index)) btn.classList.add('option-strikethrough');
             const explanationEl = document.createElement('div');
             explanationEl.className = 'explanation';
@@ -953,6 +961,54 @@ document.addEventListener('DOMContentLoaded', () => {
         saveState();
     };
 
+    const handleTextHighlight = (e) => {
+        const selection = window.getSelection();
+        if (!selection || selection.isCollapsed || selection.rangeCount === 0) return;
+
+        const range = selection.getRangeAt(0);
+        // Find the nearest highlight-section container
+        const container = range.commonAncestorContainer;
+        const sectionBlock = (container.nodeType === 1 ? container : container.parentElement).closest('.highlight-section');
+        if (!sectionBlock) return;
+
+        const sectionKey = sectionBlock.dataset.section;
+        const mark = document.createElement('mark');
+        mark.className = 'persistent-highlight';
+
+        try {
+            // Logic to toggle: if the selection is entirely inside a highlight, unwrap it
+            const startMark = range.startContainer.parentElement.closest('.persistent-highlight');
+            const endMark = range.endContainer.parentElement.closest('.persistent-highlight');
+
+            if (startMark && endMark && startMark === endMark) {
+                // Unwrap highlight
+                const text = document.createTextNode(startMark.textContent);
+                startMark.parentNode.replaceChild(text, startMark);
+            } else {
+                // Wrap highlight
+                range.surroundContents(mark);
+            }
+
+            // Clear selection
+            selection.removeAllRanges();
+
+            // Persist the resulting HTML
+            const state = getCurrentTestState();
+            if (state) {
+                const answerState = state.userAnswers[state.currentQuestionIndex];
+                if (sectionKey === 'question') {
+                    answerState.highlights.question = sectionBlock.innerHTML;
+                } else if (sectionKey.startsWith('option-')) {
+                    const optIndex = sectionKey.split('-')[1];
+                    answerState.highlights.options[optIndex] = sectionBlock.innerHTML;
+                }
+                saveState();
+            }
+        } catch (err) {
+            console.warn("Could not apply highlight due to complex selection structure.", err);
+        }
+    };
+
     const saveState = () => {
         const state = getCurrentTestState();
         // Allow saving 'finished' state so we can resume/view stats later
@@ -1080,6 +1136,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
         });
+
+        // Update live stats bar
+        const totalQ = state.questions.length;
+        const answeredCount = state.userAnswers.filter(a => a.isSubmitted).length;
+        const correctCount = state.userAnswers.filter(a => a.isCorrect).length;
+        const accuracy = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+
+        const statsAnswered = getEl('stats-answered');
+        const statsAccuracy = getEl('stats-accuracy');
+        const statsFill = getEl('stats-progress-fill');
+
+        if (statsAnswered) statsAnswered.textContent = `${answeredCount}/${totalQ} answered`;
+        if (statsAccuracy) {
+            statsAccuracy.textContent = answeredCount > 0 ? `${accuracy}% accuracy` : '—';
+            statsAccuracy.style.color = accuracy >= 70 ? 'var(--correct-border)' : accuracy > 0 ? 'var(--incorrect-border)' : 'var(--accent-color)';
+        }
+        if (statsFill) statsFill.style.width = `${(answeredCount / totalQ) * 100}%`;
     };
 
     const jumpToQuestion = (index) => {
@@ -1305,6 +1378,7 @@ document.addEventListener('DOMContentLoaded', () => {
     getEl('flag-question-btn').addEventListener('click', toggleFlag);
     getEl('question-container').addEventListener('click', handleSelectAnswer);
     getEl('question-container').addEventListener('contextmenu', handleStrikeThrough);
+    getEl('question-container').addEventListener('mouseup', handleTextHighlight);
     getEl('finish-test-btn').addEventListener('click', showModal);
     getEl('reset-progress-btn').addEventListener('click', resetState);
     getEl('modal-cancel-btn').addEventListener('click', hideModal);
@@ -1640,6 +1714,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // ? key toggles shortcuts modal
+    document.addEventListener('keydown', (e) => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        if (e.key === '?' || (e.shiftKey && e.key === '/')) {
+            e.preventDefault();
+            const modal = getEl('shortcuts-modal');
+            if (modal) modal.classList.toggle('hidden');
+        }
+    });
+
     function selectOption(index) {
         const state = getCurrentTestState();
         if (!state || state.examFinished || state.userAnswers[state.currentQuestionIndex].isSubmitted) return;
@@ -1681,64 +1765,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 
-    // 4. Keyboard Shortcuts Info UI
-    function renderKeyboardShortcuts() {
-        // Find the Control Center card
-        const controlCenter = document.querySelector('aside .card');
-        if (!controlCenter) return;
 
-        // Avoid duplicates
-        if (document.getElementById('keyboard-shortcuts-info')) return;
-
-        const shortcutsHTML = `
-            <div id="keyboard-shortcuts-info" class="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
-                <h3 class="font-semibold mb-3 text-sm uppercase tracking-wider" style="color: var(--text-primary)">Keyboard Shortcuts</h3>
-                <div class="grid grid-cols-2 gap-2 text-xs text-secondary">
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Prev/Next</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">←/→</span>
-                    </div>
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Select</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">1-5</span>
-                    </div>
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Submit</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">Enter</span>
-                    </div>
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Flag</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">F</span>
-                    </div>
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Timer</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">P</span>
-                    </div>
-                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
-                        <span class="font-medium">Reset</span>
-                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm flex items-center justify-center w-8">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        `;
-
-        // Insert before the finish button
-        const finishBtn = document.getElementById('finish-test-btn');
-        if (finishBtn) {
-            // Add a bit more spacing to the finish button if needed, but the border-t handles separation well.
-            finishBtn.insertAdjacentHTML('beforebegin', shortcutsHTML);
-
-            // Ensure finish button has margin top if it doesn't already (it usually does via flow or class)
-            // But let's add a class just in case to ensure spacing from our new block
-            finishBtn.classList.add('mt-6');
-        }
-    }
-
-    renderKeyboardShortcuts();
-
-    renderKeyboardShortcuts();
 
     // --- FLASHCARD MODE LOGIC ---
     const startFlashcardSession = () => {
@@ -1985,6 +2012,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initial check
     updateGlobalReviewButton();
+
+    // Shortcuts modal event listeners
+    getEl('shortcuts-help-btn')?.addEventListener('click', () => {
+        const modal = getEl('shortcuts-modal');
+        if (modal) modal.classList.toggle('hidden');
+    });
+    getEl('close-shortcuts-btn')?.addEventListener('click', () => {
+        getEl('shortcuts-modal')?.classList.add('hidden');
+    });
+    getEl('shortcuts-backdrop')?.addEventListener('click', () => {
+        getEl('shortcuts-modal')?.classList.add('hidden');
+    });
 });
 
 
