@@ -81,4 +81,5 @@ const testsToLoad = [
     { name: "7-Physiology: Drug Addiction (L68)", data: window.Test_L68 },
     { name: "7-Psychiatry: Substance Use Disorders (L69)", data: window.Test_L69 },
     { name: "7-Pediatrics: H&P Part 1 (L70)", data: window.Test_L70 },
+    { name: "7-Week 7 CUMULATIVE EXAM (L48-70)", data: window.Test_Cumulative_Week7 }
 ];
