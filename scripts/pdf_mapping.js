@@ -204,7 +204,8 @@ const PDF_MAPPING = {
     "Neurology: Brachial Plexus (L62)": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
     "Neurology: Headache (L63)": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
     "Pharmacology: General Anesthetics 1 (L64)": "pdfs/Lecture #64. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
-    "Pharmacology: Antiseizure Drugs, Part 2 (L65)": "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT).pdf",
+    "Pharmacology: Antiseizure Drugs, Part 2 (L65)": "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
+    "L65": "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
     "Pharmacology: Local Anesthetics (L66)": "pdfs/Lecture # 66. L. Goldstein, Pharm.D. (PPT).pdf",
     "Pharmacology: Opioid Analgesics (L67)": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
     "Physiology: Drug Addiction (L68)": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf"
