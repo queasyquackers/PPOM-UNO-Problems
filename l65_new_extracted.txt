@@ -1,0 +1,1113 @@
+--- SLIDE 1 ---
+Pharmacology of General Anesthetics, Part 2
+• Effects and Toxicities of Inhaled anesthetics
+• Intravenous anesthetics
+and adjuncts in anesthesia techniques
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+
+--- SLIDE 2 ---
+*↑Intracranial pressure: Caution in patients with brain tumor, intracranial hemorrhage, or head injury. 
+Anesthetic-related increase in the ICP can cause potentially devastating neurological complications.
+2
+Isoflurane
+Desflurane
+Sevoflurane
+Nitrous Oxide
+Cardiovascular
+(next slide)
+↓ blood pressure, little to no effect on cardiac output
+Depress baroreflex (sevoflurane > isoflurane and desflurane)
+Desflurane: sympathetic stimulation → tachycardia, HTN
+Isoflurane / Sevoflurane →↑HR with increasing doses
+Negligible effects
+(mild ↑ SNS stimulation that 
+offsets myocardial depression)
+Respiratory
+Respiratory depression (profound with isoflurane)
+↓ tidal volume and minute ventilation
+↓ ventilatory response to carbon dioxide
+Bronchodilation (most pronounced with sevoflurane)
+Minimal change in minute 
+ventilation and resting 
+arterial pCO2
+Cerebral
+↑ cerebral blood flow and ↑ intracranial pressure*
+↓ cerebral metabolic rate
+Sevoflurane decreases increases CBF and ICP to lesser extent.
+↑CBF, ↑ICP
+↑ cerebral metabolic rate
+Neuromuscular
+Relax skeletal muscle
+Enhance the effects of neuromuscular blockers
+Does not relax skeletal 
+muscle or smooth muscle
+Smooth muscle
+Relax smooth muscle → vasodilation, bronchodilation, uterine 
+smooth muscle relaxation
+Renal
+↓ renal blood flow, ↓ glomerular filtration rate, ↓ urine output
+The same
+Hepatic
+↓ hepatic blood flow
+The same
+Hepatic metabolism 0.2%
+<0.1%
+5%
+0.004%
+Dose-dependent effects of inhaled anesthetics on organ systems
+
+--- SLIDE 3 ---
+Hemodynamic effects of inhaled anesthetics (dose-dependent)
+Effects
+Comments
+Depression of 
+cardiac 
+contractility
+Decrease mean arterial pressure in direct proportion to the alveolar concentration 
+of the gas
+Vasodilation
+Halothane / enflurane more 
+myocardial depression than the 
+others, minimal vasodilation
+↓
+↓ CO with little change in SVR
+Isoflurane, desflurane, sevoflurane
+↓
+Vasodilation (↓BP) / minimal change in CO
+↓
+Preserve CO + ↓ afterload, ↓ preload
+Takeaway: Isoflurane, desflurane, and sevoflurane have minimal myocardial depressant effects and 
+favorable hemodynamic profiles and may be suitable for patients with impaired myocardial function.
+Desflurane
+Transient sympathetic stimulation → 
+tachycardia and hypertension, especially at 
+high doses. Tachycardia may persist.
+Use with caution and close 
+monitoring in patients with 
+coronary artery disease.
+CO: cardiac output; SVR: systemic vascular resistance
+At high doses that induce Stage IV anesthesia, all agents can cause cardiovascular collapse.
+3
+
+--- SLIDE 4 ---
+Emergence and Postoperative Phenomena
+Effects
+Comments
+Nausea and 
+vomiting
+Drug-induced stimulation of chemoreceptor trigger zone and vomiting center
+Management:
+1) antiemetics: metoclopramide, ondansetron, droperidol
+2) avoidance of nitrous oxide (N2O)
+3) use of propofol as an induction agent
+4) use of ketorolac as a substitute for opioids
+Hypertension 
+and tachycardia
+↑ Sympathetic tone
+Sympathetic tone is enhanced by pain.
+Post-anesthesia 
+shivering
+Result of decrease core temperature (hypothermia) and neurological after-
+effects of the general anesthetic agent.
+Emergence 
+excitement
+Tachycardia, restlessness, crying, moaning, and thrashing, and a variety of 
+neurologic signs, including delirium, spasticity, hyperreflexia, and Babinski 
+signs
+4
+
+--- SLIDE 5 ---
+Toxicities of Inhaled Anesthetics
+5
+
+--- SLIDE 6 ---
+6
+Desflurane
+Sevoflurane
+Isoflurane
+Enflurane
+Halothane
+Nitrous oxide
+Acute toxicity
+Low TI
+Low TI
+Low TI
+Low TI
+Low TI
+Low TI
+Malignant 
+hyperthermia
+
+
+
+
+
+Hepatotoxicity
+
+“halothane 
+hepatitis”
+Nephrotoxicity
+
+Compound A*
+vinyl ether cpd
+
+Prolonged 
+exposure
+Carbon monoxide
+
+
+
+
+
+Anemia
+B12 deficiency
+
+Environmental 
+toxicity
+
+
+
+
+
+
+Low TI: Low therapeutic Index = Narrow therapeutic window
+Toxicities at a glance
+*No reports of renal injury in humans.
+
+--- SLIDE 7 ---
+7
+Toxicity
+Isoflurane
+Desflurane
+Sevoflurane
+Halothane
+Enflurane
+Nitrous oxide
+Acute
+Narrow therapeutic range
+Acute organ damage is low when used by trained practitioners
+Malignant 
+hyperthermia
+Individuals with genetic disorders of skeletal muscle can develop muscle 
+rigidity, hyperthermia, rapid onset of tachycardia and hypercapnia, 
+hyperkalemia, and metabolic acidosis when exposed to succinylcholine or 
+halogenated anesthetic agents
+__
+Nephrotoxicity
+__
+__
+compound A 
+vinyl ether
+No renal 
+injury 
+reported
+__
+Prolonged 
+exposure
+__
+Hepatotoxicity
+Hepatic dysfunction following surgery and general anesthesia is most likely caused by 
+hypovolemic shock, infection conferred by blood transfusion, or other surgical stresses 
+rather than by volatile anesthetic toxicity.
+Halothane: Fulminant liver failure (1 in 20,000 to 35,000) by direct toxicity and immune response.
+Descriptions of Toxicities
+
+--- SLIDE 8 ---
+8
+Isoflurane
+Desflurane
+Sevoflurane
+Halothane
+Enflurane
+Nitrous oxide
+Neurotoxicity
+Neural toxicity in infants and young children is an emerging concern. Some, not all, studies 
+suggest increased risk of neurodevelopmental deficits in motor function and behavior. 
+Inadequate evidence to directly attribute the effects to the anesthesia.
+Carbon monoxide 
+production
+All halogenated anesthetics can produce some carbon monoxide (CO) from 
+their interaction with strong bases in desiccated (dried out) carbon 
+dioxide absorbers. CO binds with hemoglobin with high affinity, reducing 
+oxygen delivery to tissues.
+Prevention: Fresh carbon dioxide absorbent / avoid dessication
+__
+Potential for CO formation from most to least:
+desflurane > isoflurane > > sevoflurane
+Carcinogenicity
+Under normal conditions, inhaled anesthetics are neither mutagens nor carcinogens.
+No study has demonstrated a causal relationship between anesthetics and cancer.
+Pregnancy
+In the US, at least 50,000 pregnant women each year undergo anesthesia and surgery for 
+indications unrelated to pregnancy. The risk of abortion is clearly higher following this 
+experience. It is not obvious whether the underlying disease, surgery, anesthesia, or a 
+combination of these factors is the cause of the increased risk.
+Environment
+All inhaled anesthetics are greenhouse gases – hundreds of thousands of times more potent 
+than CO2 – They are vented out the buildings into the environment.
+See slide 47
+
+--- SLIDE 9 ---
+9
+Nitrous oxide’s drug-specific effects
+Body space 
+volume expansion
+N2O is ~35x more soluble in blood than N2 →
+N2O diffuses into cavities faster than N2 diffuses out →
+increases the volume inside the cavity → 
+expansion of the cavity
+When walls surrounding the cavity are rigid, the 
+pressure rises instead of the volume.
+Cautions: 
+Pneumothorax Intracranial air 
+Middle ear surgery Bowel obstruction
+•
+N2O will also diffuse into tracheal 
+tube cuffs, increasing the pressure 
+against the tracheal mucosa.
+Vitamin B12 
+inhibition
+Nitrous oxide interferes with vitamin B12 cofactor 
+functions →
+inactivation of methionine synthase → 
+• Signs of vitamin B12 deficiency megaloblastic 
+anemia peripheral neuropathy
+N2O should not be used for chronic pain relief 
+(analgesia) or as a sedative in critical care settings. 
+Avoid in patients with disorders of B12, folate, or 
+methionine synthesis or metabolism.
+Biochemistry: Vitamin B12 is a cofactor 
+of methionine synthase, which 
+generates methionine from 
+homocysteine.
+Methionine is necessary for the 
+formation of tetrahydrofolate, which is 
+required for the synthesis of DNA 
+precursors.
+Diffusion hypoxia
+On discontinuation of N2O administration, N2O diffuses 
+from the blood to the alveoli, which dilutes the oxygen in 
+alveoli.
+Prevention: 100% O2 administration 
+instead of air when N2O is discontinued
+Second gas effect
+The concentration 
+effect of one gas 
+on another
+Rapid uptake of N2O from the alveoli → contraction of 
+alveolar volume associated with the N2O uptake →  
+concentrates the co-administered inhaled anesthetic 
+remaining in the alveoli → speeds induction
+Probably insignificant in the clinical 
+practice of anesthesiology
+
+--- SLIDE 10 ---
+Elimination pathway: JPET April 1, 1997 vol. 281 no. 1 400-411 http://jpet.aspetjournals.org/content/281/1/400.full
+Halothane forms is metabolized by CYP2E1, forming the reactive intermediate trifluoroactylchloride 
+that binds covalently to liver proteins forming neo-antigens, which induces an immune attack that 
+results in liver cell damage and inflammation.
+Halothane hepatitis can rapidly progress to fulminant liver failure.
+Risk factors: Genetic predisposition and previous halothane exposure.
+Halothane Hepatitis (rare): Proposed mechanism
+10
+Reductive 
+metabolites may 
+contribute to 
+hepatotoxic effects
+nontoxic trifluoroacetic acid (TFA) 
+Trifluoroacetylchloride
+(unstable intermediate)
+may contribute to hepatotoxicity
++ Cl− + Br−
+renal excretion
+Elevated serum aminotransferases can occur with or without prior halothane exposure. Most 
+patients are asymptomatic.
+
+--- SLIDE 11 ---
+Carbon dioxide absorbers in closed breathing environments remove carbon 
+dioxide from exhaled breath.
+Older CO2 absorbers in anesthesia breathing circuits consist of strong bases 
+(granular KOH, NaOH) that prevent accumulation of CO2 in the breathing 
+circuit as the patient exhales. 
+Desiccated CO2 absorbers → carbon monoxide (CO) production:
+The volatile anesthetics can produce some carbon monoxide from 
+interaction with the strong bases in dry carbon dioxide absorbers.
+Drägersorb® Soda Lime 
+http://en.wikipedia.org/wiki/Soda_lime#mediaviewer/File:Dr%C3%A4gersorb_Soda_Lime.jpg
+11
+Desiccated absorbers containing stronger alkalis result in 
+greater CO production. 
+Amount of CO formed at equiMAC doses:
+desflurane > enflurane > isoflurane >> sevoflurane
+Prevention of CO production:
+Fresh CO2 absorbers should be used and should be changed 
+before they are completely dried out. 
+CO2 absorber in breathing circuit
+
+--- SLIDE 12 ---
+•
+Colorless, odorless, heavy, inert gas at room temperature and standard pressure 
+•
+Obtained by extracting it from the air
+•
+Partition coefficient (λ ): λb/g 0.12
+•
+Rapid induction and recovery (extremely insoluble in blood, tissues)
+•
+Noncompetitive antagonism of the NMDA receptor and agonism at the TREK channel 
+(K2P channel, a ligand-gated ion channel present in neurons)
+•
+Minimal side effects
+•
+No cardiovascular effects, no respiratory depression, no known renal or hepatic toxicity
+•
+Not metabolized by human body
+•
+Environmentally safe
+•
+Extremely expensive
+•
+Not approved in the U.S.
+Xenon (noble gas)
+Xe, atomic number 54
+12
+
+--- SLIDE 13 ---
+Check your knowledge
+What is the acronym MAC stand for?
+•
+Minimum alveolar concentration
+How does MAC define potency?
+•
+1 MAC = the concentration of the inhaled gas in the alveoli that prevents movement in 50% of 
+patients in response to a standardized stimulus (eg, surgical incision) at standard temperature 
+and ambient pressure.
+•
+MAC reflects brain partial pressure and allows comparisons of potency between agents.
+How is MAC used in dosing inhaled anesthetics?
+•
+Dosing of inhaled anesthetics is guided by MAC and MAC values are additive. 
+Which inhaled anesthetics are potent volatile agents in common use?
+•
+Isoflurane, desflurane, sevoflurane
+Why is nitrous oxide referred to as a weak anesthetic?
+•
+Nitrous oxide has low potency. Even 100% nitrous oxide does not achieve 1 MAC. Therefore, it 
+is combined with a potent volatile anesthetic.
+13
+
+--- SLIDE 14 ---
+Check your knowledge
+Why may isoflurane, desflurane, and sevoflurane be suitable for patients with impaired myocardial 
+function?
+•
+Isoflurane, desflurane, and sevoflurane cause vasodilation, which lowers systemic vascular 
+resistance and blood pressure with minimal change in cardiac output (preserves cardiac 
+output) – of course, with close monitoring to ensure patient safety and optimal outcomes.
+What is the concern with the use of desflurane in patients with coronary artery disease?
+•
+Although desflurane causes vasodilation with minimal effect on the force of contraction 
+(inotropy), its transient sympathomimetic properties cause tachycardia and hypertension, 
+especially at high dose. These cardiac effect may induce cardiac ischemia and heart attack.
+Which inhaled anesthetics are associated with malignant hyperthermia in patients with a genetic 
+disorder in skeletal muscle calcium regulation?
+•
+The halogenated anesthetics: isoflurane, desflurane, sevoflurane, halothane, enflurane
+•
+Not nitrous oxide.
+14
+
+--- SLIDE 15 ---
+Check your knowledge
+15
+Match the toxicities with the drugs that cause them
+Body space volume expansion
+Isoflurane
+Carbon monoxide production in desiccated CO2 absorber
+Desflurane
+Cortisol synthesis inhibition
+Sevoflurane
+Diffusion hypoxia
+Nitrous oxide
+Environmental toxicity
+Malignant hyperthermia
+Myoclonus
+Nausea and vomiting
+Nephrotoxicity (potentially) by compound A
+Sympathetic stimulation → tachycardia and hypertension
+Vitamin B12 inhibition
+
+--- SLIDE 16 ---
+Intravenous Anesthetics
+Propofol
+Etomidate
+Ketamine
+16
+propofol
+etomidate
+ketamine
+Intravenous anesthetics are small hydrophobic, 
+substituted aromatic or heterocyclic compounds. 
+Methohexital is a barbiturate used for induction for 
+electroconvulsive therapy. Availability is limited.
+
+--- SLIDE 17 ---
+Single bolus dose:
+1.
+Rapid onset:
+Highly lipophilic IV anesthetics partition 
+into the highly perfused and lipophilic 
+tissues of the brain and spinal cord → 
+anesthesia in a single circulation time.
+2.
+Termination of effect:
+As the drug concentration in blood 
+decreases, the anesthetic begins to 
+redistribute out of CNS to less 
+perfused tissues, diminishing the effect 
+→ patient emerges from anesthesia
+3.
+Elimination:
+Eventually, the drug is metabolized by 
+the liver and excreted by the kidneys.
+Redistribution and intravenous anesthetic’s duration of effect
+Three compartment model for a lipid soluble drug.
+© The Board of Management and Trustees of the British Journal of Anaesthesia 
+[2007]. All rights reserved. For Permissions, please email: 
+journals.permissions@oxfordjournals.org
+17
+brain and viscera
+muscle, skin, fat
+bone, ligaments
+cartilage, etc
+
+--- SLIDE 18 ---
+1. IV anesthetic initially distributes to the well perfused tissues.
+2. The drug redistributes to the less perfused tissues over time.
+3. The longer the infusion, the more the drug accumulates in the muscle and fat compartments.
+4. After the infusion is stopped and the drug is metabolized and excreted, blood levels begin to 
+decrease.
+5. The drug redistributes from the peripheral compartments back into the bloodstream.
+•
+For drugs with a long infusion duration, the context-sensitive half-time (time it takes for the 
+concentration of drug in the blood to decrease by one-half) can be significantly longer due to 
+extensive accumulation of drug in peripheral compartments.
+Context-sensitive half-time
+18
+Half-time: The time required for the concentration of drug to decrease by 50% after 
+stopping a continuous infusion.
+Context: The duration of the infusion
+Clinical importance: 
+Context-sensitive half-time helps predict how long it will take the patient to recover after 
+the infusion is stopped.
+
+--- SLIDE 19 ---
+Citation: Chapter 21 General Anesthetics and Therapeutic Gases, Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 
+14e; 2023. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2189&sectionid=170269975 Accessed: February 04, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+After prolonged infusions, drug context-sensitive 
+half-times and durations of action are dependent on 
+a complex interaction between the:
+− rate of redistribution of the drug, 
+− amount of drug accumulated in fat, 
+− and the drug’s metabolic rate. 
+•
+Propofol, etomidate, and ketamine have brief 
+context-sensitive half-times: 
+Compared to diazepam and thiopental:
+• they bind less avidly to muscle and fat tissue 
+and
+• they are rapidly metabolized by the liver 
+•
+Recovery occurs promptly.
+•
+Propofol is preferred for IV maintenance.
+•
+Adverse effects limit etomidate and ketamine 
+use.
+•
+Diazepam is rarely used in balanced anesthesia. 
+Thiopental manufacture has been discontinued.
+
+--- SLIDE 20 ---
+I.V. Anesthetics Mechanisms of action and Uses
+20
+Drug
+MOA
+Therapeutic uses
+Propofol
+GABA-A receptor positive allosteric 
+modulator
+• Rapid anesthesia induction
+• Rapid sequence intubation
+• Total intravenous anesthesia
+• Propofol with opioid; other adjuncts 
+for patient-specific or procedure-
+specific reasons
+• Sedative-hypnotic in ICU
+• Propofol
+• Ketamine, alternative in critically 
+patients without cardiac conditions
+• Monitored anesthesia care sedation
+• Propofol
+Etomidate
+GABA-A receptor positive allosteric 
+modulator
+Ketamine
+Noncompetitive NMDA receptor 
+antagonist
+
+--- SLIDE 21 ---
+I.V. Anesthetics Mechanisms of action and Uses
+21
+Drug
+Advantages
+Disadvantages
+Propofol
+Bronchodilation
+Decreases CMRO2, CBF, ICP
+Antiemetic / antipruritic
+Anticonvulsant
+Hypotension, dose related
+Respiratory depression, dose related
+*Propofol infusion syndrome
+Painful injection
+Egg phosphate in soybean oil vehicle (looks like bottled milk): 
+Potential allergens and microbial risk
+Etomidate
+Hemodynamic stability; no changes in BP, 
+HR, or CO
+Decreases CMRO2, CBF, ICP
+Anticonvulsant
+High incidence of postop nausea/vomiting
+Painful injection
+No analgesic effects
+Involuntary myoclonic movements
+Transient acute adrenal suppression 
+Inhibits 11-β-hydroxylase → ↓ cortisol synthesis
+Ketamine
+Profound analgesic properties
+Bronchodilation
+Sympathetic stimulation → maintains CO 
+and MAP without inhibiting respiratory 
+drive (may be beneficial in cardiac instability)
+Maintains airway reflexes and respiratory 
+drive
+IM route if IV access is lost
+Sympathetic stimulation increases HR, BP, CO and 
+myocardial O2 demand (may be harmful in CAD or HTN), 
+Increase pulmonary arterial pressure SBP
+Potentiates cardiovascular toxicity of cocaine, tricyclic 
+antidepressants
+Increases CBF, ICP
+Hallucinations, delirium upon withdrawal, dissociative 
+experiences, nightmares, nausea/vomiting
+CMRO2: cerebral metabolic rate of oxygen; CBF: cerebral blood flow; ICP: intracranial pressure; BP: blood pressure; HR: heart rate; CO: cardiac 
+output; MAP: mean arterial pressure; SBP: systemic blood pressure; CAD: coronary artery disease; HTN: hypertension
+*Propofol infusion syndrome, a rare complication: metabolic acidosis, hypotension, hepatomegaly, hyperlipidemia, rhabdomyolysis, CV collapse 
+
+--- SLIDE 22 ---
+Intravenous Agents Used in Monitored Anesthesia Care
+BenzodiazepinesPropofolKetamineDexmedetomidineOpioids Lidocaine
+22
+Monitored anesthesia care: 
+A technique without endotracheal intubation in which the anesthesiologist continually 
+monitors and supports the patient’s vital functions; diagnoses and treats clinical problems that 
+occur; administers sedative, anxiolytic, or analgesia medications if needed; and converts to 
+general anesthesia if required.
+An anesthesia clinician continually monitors and supports the patient’s vital functions; 
+diagnoses and treats clinical problems that occur; administers the medications, if needed, 
+and converts to general anesthesia as required.
+
+--- SLIDE 23 ---
+Drugs with rapid onset and short duration of action are preferred to 
+allow rapid titration to effect and quick recovery.
+23
+Benzodiazepines 
+Midazolam
+GABA-A receptor positive allosteric modulator
+⋅
+Anxiolysis, sedation, amnesia
+⋅
+Repeated bolus doses or infusions prolongs sedation, confusion, and 
+amnesia into the postop period
+⋅
+Respiratory depression
+⋅
+Reversal agent: Flumazenil
+Propofol
+GABA-A receptor positive allosteric modulator
+⋅
+Amnestic and antiemetic properties at subhypnotic doses
+⋅
+Depth of sedation can be rapidly adjusted.
+⋅
+Narrow therapeutic window; patients may rapidly transition to deeper 
+sedation.
+⋅
+Respiratory depression
+⋅
+No reversal agent
+
+--- SLIDE 24 ---
+24
+Ketamine
+Noncompetitive NMDA receptor inhibitor that blocks glutamate
+⋅
+Dissociative state, amnesia, profound analgesia that can decrease need for 
+opioids
+⋅
+Minimal respiratory depression
+⋅
+Central sympathetic stimulation; ↑HR, BP, cardiac output
+⋅
+Intrinsic myocardial depression; cardiac depressant in catecholamine-
+depleted patients
+⋅
+Salivation that can cause laryngospasm
+⋅
+Emergence phenomena: hallucinations, vivid dreams, out-of-body 
+experiences
+Dexmedetomidine
+Highly selective the α2-adrenergic receptor agonist which inhibits sympathetic 
+actions at brainstem and spinal cord
+⋅
+Sedative, anxiolytic, analgesic (modest) properties
+⋅
+Does not provide reliable amnesia or anesthesia
+⋅
+Slower onset of sedation (10-15 min)
+⋅
+Less respiratory depressant effect than other sedatives
+⋅
+Bradycardia, hypotension, dry mouth
+
+--- SLIDE 25 ---
+25
+Opioids: 
+Fentanyl, Remifentanil
+(short-acting)
+Mu opioid receptor agonists
+⋅
+Analgesia: increase pain threshold, alter pain perception, and inhibit 
+ascending pain pathway
+⋅
+Cause intraoperative and postoperative nausea and vomiting
+⋅
+Respiratory depression
+⋅
+Reversal agent: Naloxone
+Lidocaine IV infusion
+Voltage-gated sodium channel blocker
+⋅
+May be used during induction of general anesthesia to suppress the 
+cough reflex and laryngospasm, reduce the pain of injection or other 
+induction agents, and supplement anesthetic effects. 
+⋅
+Lidocaine-induced ventricular rate can contribute to arrhythmia. 
+Arrhythmias are uncommon when IV lidocaine is used for pain control.
+⋅
+Lidocaine infusion requires close monitoring for signs of cardiac and local 
+anesthetic systemic toxicity(LAST)
+
+--- SLIDE 26 ---
+Summary
+26
+
+--- SLIDE 27 ---
+Anesthetic
+B:G
+B:B
+1MAC
+Comments
+Nitrous oxide
+0.47
+1.1
+>100
+Weak anesthetic; rapid onset and recovery
+Not metabolized
+Can cause expansion of air-fill cavities / Diffusional hypoxia
+Prolonged exposure can result in megaloblastic anemia, peripheral neuropathies
+Desflurane
+0.42
+1.3
+6-7
+Low volatility; rapid onset/recovery; poor induction agent (respiratory irritation)
+SNS stimulation → transient, often marked, tachycardia, ↑BP
+Carbon monoxide can be produced from desiccated CO2 absorbents in breathing 
+circuit
+Sevoflurane
+0.69
+1.7
+2.0
+Rapid onset/ recovery
+Smooth rapid inhalation induction; bronchodilating – preferred for patients with 
+airway problems
+Hepatic metabolism (~5% of absorbed drug)
+Interaction with soda-lime → Compound A vinyl ether (renal toxicity not reported)
+Isoflurane
+1.40
+2.6
+1.4
+Medium rate of onset and recovery; pungent odor → poor induction agent; 
+dilates coronary arteries
+Enflurane
+1.80
+1.4
+1.7
+Medium rate of onset / recovery; limited biodegradation; seizure potential
+Halothane
+2.30
+2.9
+0.7
+Relatively slow onset / recovery; significant hepatic metabolism; halothane 
+hepatitis – reactive intermediary – direct toxicity, immune reaction
+1MAC=median alveolar concentration in vol%: the anesthetic concentration that produces immobility in 50% of patients exposed to noxious 
+stimulus; MAC is small for potent anesthetics and large for less potent anesthetics.
+B:G=blood:gas partitions coefficients; B:B=brain:blood partition coefficients
+Adapted from Basic & Clinical Pharmacology Table 25-2
+27
+Summary of Inhaled Anesthetics
+
+--- SLIDE 28 ---
+28
+Advantages
+•
+Ease of administration
+•
+Reliable block of sensory input (ie, pain)
+•
+Bronchodilation
+•
+Decrease in skeletal and smooth muscle 
+tone (dose-dependent)
+•
+Decreased cerebral metabolic rate
+•
+Increased cerebral blood flow by direct 
+vasodilatory effect
+•
+Monitoring end-tidal anesthesia 
+concentration as a measure of 
+anesthetic depth
+Disadvantage
+•
+Dose-dependent…
+−
+Suppression of airway reflexes
+−
+Respiratory depression
+−
+Hypotension due to myocardial 
+depression and vasodilation
+•
+Increased post-op nausea/vomiting 
+compared to IV anesthetics 
+(antiemetic needed)
+•
+Malignant hyperthermia potential in 
+susceptible individuals
+Common advantages and disadvantages of potent volatile anesthetics
+
+--- SLIDE 29 ---
+29
+Anesthetic effects
+Incomplete (weak) anesthesia
+Adjunctive use with inhalation and intravenous anesthetics for sedation, 
+analgesia, and anxiolytic effects
+Muscle effects
+Does not relax skeletal muscle → does not enhance the effects of 
+neuromuscular blocking drugs
+Does not relax uterine smooth muscle
+Does not cause malignant hyperthermia
+Organ effects
+Sympathetic stimulation → maintains hemodynamics
+Increases respiratory rate
+Reduces hepatic and renal blood flow not hepato- or nephrotoxic
+Other effects
+•
+Body space volume expansion and increased pressure in spaces with 
+noncompliant walls.
+•
+Interferes with vitamin B12 function; avoid in patients with disorders of 
+B12 deficiency and folate or methionine synthesis
+•
+Diffusion hypoxia
+•
+Second gas effect (concentration effect)
+Nitrous Oxide: Summary of effects
+
+--- SLIDE 30 ---
+IV Agents MOA
+Benefits
+Adverse effects
+Notes
+Propofol
+GABA-A positive 
+allosteric 
+modulator
+Excellent sedation
+Bronchodilation
+Antiemetic
+Antiseizure
+Antipruritic
+Dose related 
+hypotension
+No absolute 
+contraindications
+Ultra-short-acting
+Frequent use for 
+maintenance of 
+anesthesia during total 
+IV anesthesia
+Etomidate GABA-A positive 
+allosteric 
+modulator
+Excellent sedation with 
+little hypotension
+Suppresses adrenal 
+function
+Myoclonus (not related 
+to seizure)
+Ultra-short-acting
+Caution in sepsis
+Initial dose of 
+glucocorticoid may be 
+needed
+Ketamine
+Blocks excitation 
+by glutamate at 
+NMDA receptors
+Stimulates 
+catecholamine release
+Bronchodilation excellent
+Maintains airway 
+reflexes and respiratory 
+drive
+Analgesia excellent
+Sympathetic 
+stimulation→↑HR, BP, 
+cardiac output
+May be preferred in 
+patients with 
+bronchospasm, septic 
+shock and hemodynamic 
+compromise
+Caution in ischemic 
+heart disease
+30
+
+--- SLIDE 31 ---
+IV Agents
+MOA
+Benefits
+Adverse effects
+Notes
+Midazolam
+GABA-A 
+positive 
+allosteric 
+modulator
+Sedation
+Anxiolytic
+Anterograde amnesia
+Antiseizure
+Mild vasodilation, ↓BP 
+and cardiac output
+Respiratory depression 
+with concurrent opioid
+Not frequently used for 
+deep sedation – propofol 
+and etomidate have 
+superior effectiveness
+Opioids
+Mu opioid 
+receptor 
+agonists
+Analgesia
+Supplemental sedation
+Suppress airway reflexes 
+during intubation
+Reduce stress 
+responses
+Respiratory depression
+Bradycardia 
+Exacerbate hypotension 
+by sedative-hypnotic
+Nausea, vomiting, ileus
+Common use
+Short-acting opioids 
+during induction
+Lidocaine 
+IV infusion
+Blocks 
+voltage-gated 
+sodium 
+channels in 
+nerve cells
+Suppress the cough 
+reflex  laryngospasm
+Reduces pain of injection 
+or other induction 
+agents, and supplement 
+anesthetic effects
+Decreases need for 
+opioids
+Lidocaine-induced 
+ventricular rate can 
+contribute to arrhythmia. 
+Arrhythmias are 
+uncommon when IV 
+lidocaine is used for pain 
+control.
+Lidocaine infusion 
+requires close monitoring 
+for signs of cardiac and 
+local anesthetic systemic 
+toxicity(LAST)
+31
+
+--- SLIDE 32 ---
+Check your knowledge
+What is the fundamental concept that ensures that the anesthetic concentration in the CNS is 
+stable and effective for maintaining anesthesia during the procedure?
+•
+When the partial pressure of the anesthetic gas in the inspired air, alveoli, arterial blood, and 
+CNS are in equilibrium (steady state, FA/FI=1), the desired clinical effect will be produced.
+What four factors influence the uptake of anesthesia?
+•
+Inspired concentration of anesthetic gas
+•
+Solubility of gas in blood (defined by the blood:gas partition coefficient)
+•
+Cardiac output
+•
+Alveolar-venous partial pressure difference
+Why does faster the uptake of anesthetic agent lead to a slower speed of induction?
+•
+When uptake is fast, a large amount of anesthetic is absorbed into the blood from the alveoli → 
+creates a significant difference between the inspired concentration and the alveolar 
+concentration (FA<FI) as the alveoli are depleted of anesthetic faster than they can be 
+replenished by inhalation → it takes longer to reach equilibrium(FA/FI=1)
+32
+
+--- SLIDE 33 ---
+Check your knowledge
+Why is the speed of induction slower with the more soluble anesthetic gases?
+•
+The more soluble the anesthetic is in blood (the higher the partition coefficient) → the greater 
+the capacity for uptake into the blood → the slower rate of rise in partial pressure → the longer 
+it takes to reach equilibrium
+How does an increase in cardiac output lead to a slower speed of induction?
+•
+↑ cardiac output → ↑ pulmonary blood flow → the partial pressure of the gas in blood rises 
+more slowly → slower rise in FA/FI towards equilibrium → slower speed of onset 
+•
+This effect is more pronounced with soluble agents, which achieve equilibrium slower.
+How does a large alveolar to venous partial pressure difference influence the speed of induction?
+•
+Anesthetic gas is taken up from arterial blood into nonneural tissues → venous circulation 
+returns to pulmonary circulation with little or no dissolved anesthetic gas → generates a partial 
+pressure difference between alveolar gas and pulmonary blood.
+•
+The greater the difference in gas concentrations, the longer the time to achieve equilibrium 
+with brain tissue.
+33
+
+--- SLIDE 34 ---
+Check your knowledge
+What is the acronym MAC stand for?
+•
+Minimum alveolar concentration
+How does MAC define potency?
+•
+1 MAC = the concentration of the inhaled gas in the alveoli that prevents movement in 50% of 
+patients in response to a standardized stimulus (eg, surgical incision) at standard temperature 
+and ambient pressure.
+•
+MAC reflects brain partial pressure and allows comparisons of potency between agents.
+How is MAC used in dosing inhaled anesthetics?
+•
+Dosing of inhaled anesthetics is guided by MAC and MAC values are additive. 
+Which inhaled anesthetics are potent volatile agents in common use?
+•
+Isoflurane, desflurane, sevoflurane
+Why is nitrous oxide referred to as a weak anesthetic?
+•
+Nitrous oxide has low potency. Even 100% nitrous oxide does not achieve 1 MAC. Therefore, it 
+is combined with a potent volatile anesthetic.
+34
+
+--- SLIDE 35 ---
+Check your knowledge
+Why may isoflurane, desflurane, and sevoflurane be suitable for patients with impaired myocardial 
+function?
+•
+Isoflurane, desflurane, and sevoflurane cause vasodilation, which lowers systemic vascular 
+resistance and blood pressure with minimal change in cardiac output (preserves cardiac 
+output) – of course, with close monitoring to ensure patient safety and optimal outcomes.
+What is the concern with the use of desflurane in patients with coronary artery disease?
+•
+Although desflurane causes vasodilation with minimal effect on the force of contraction 
+(inotropy), its transient sympathomimetic properties cause tachycardia and hypertension, 
+especially at high dose. These cardiac effect may induce cardiac ischemia and heart attack.
+Which inhaled anesthetics are associated with malignant hyperthermia in patients with a genetic 
+disorder in skeletal muscle calcium regulation?
+•
+The halogenated anesthetics: isoflurane, desflurane, sevoflurane, halothane, enflurane
+•
+Not nitrous oxide.
+35
+
+--- SLIDE 36 ---
+Check your knowledge
+36
+Match the toxicities with the drugs that cause them
+Body space volume expansion
+Nitrous oxide
+Carbon monoxide production in desiccated CO2 absorber Halogenated volatile anesthetics
+Cortisol synthesis inhibition
+Isoflurane
+Diffusion hypoxia
+Nitrous oxide
+Environmental toxicity
+All inhaled anesthetics
+Malignant hyperthermia
+Halogenated volatile anesthetics
+Myoclonus
+Isoflurane
+Nausea and vomiting
+All inhaled anesthetics
+Nephrotoxicity (potentially) by compound A
+Sevoflurane
+Sympathetic stimulation → tachycardia and hypertension
+Desflurane
+Vitamin B12 inhibition
+Nitrous oxide
+
+--- SLIDE 37 ---
+•
+Access Medicine Goodman & Gilman’s The Pharmacological Basis of Therapeutics, 14e 2022; 
+Chapter 24: General Anesthetics and Therapeutic Gases
+•
+Access Medicine Katzung’s Basic & Clinical Pharmacology 16e, 2024; Chapter 25: General 
+Anesthetics
+•
+Access Medicine Morgan & Mikhail’s Clinical Anesthesiology, 7e, 2022; Chapter 7: 
+Pharmacological Principles; Chapter 8: Inhalation anesthetics; Chapter 9: Intravenous 
+Anesthetics; Chapter 52: Thermoregulation, Hypothermia, & Malignant Hyperthermia
+•
+Lexidrug monographs
+•
+UpToDate various articles; literature current through Dec 2024
+References
+37
+
+--- SLIDE 38 ---
+Lecture Feedback Form:
+https://www.surveymonkey.com/r/NYITCOMLectureFeedback
+

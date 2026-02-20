@@ -75,7 +75,7 @@ const testsToLoad = [
     { name: "7-Neurology: Brachial Plexus (L62)", data: window.Test_L62 },
     { name: "7-Neurology: Headache (L63)", data: window.Test_L63 },
     { name: "7-Pharmacology: General Anesthetics 1 (L64)", data: window.Test_L64 },
-    { name: "7-Pharmacology: Antiseizure Drugs, Part 2 (L65)", data: window.Test_L65 },
+    { name: "7-Pharmacology: General Anesthetics 2 (L65)", data: window.Test_L65 },
     { name: "7-Pharmacology: Local Anesthetics (L66)", data: window.Test_L66 },
     { name: "7-Pharmacology: Opioid Analgesics (L67)", data: window.Test_L67 },
     { name: "7-Physiology: Drug Addiction (L68)", data: window.Test_L68 },
