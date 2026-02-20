@@ -1,6 +1,6 @@
 // Lecture 62: Brachial Plexus Lesions and Neuropathies
 // Variables
-const Test_L62 = [
+window.Test_L62 = [
     {
         "id": 1,
         "category": "Neurology: Brachial Plexus",

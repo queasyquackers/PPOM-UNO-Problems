@@ -1,6 +1,6 @@
 
 // Lecture 60: OMM Lab 20 Prep Lecture - Sacral MET (Part 2)
-const window_Test_L60 = [
+window.Test_L60 = [
     {
         "id": 1,
         "category": "Osteopathic Manipulative Medicine: Sacrum",

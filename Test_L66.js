@@ -11,32 +11,32 @@ window.Test_L66 = [
             {
                 "text": "Lidocaine",
                 "explanation": "Correct. Lidocaine is an amide-linked local anesthetic. Amides are extremely rare causes of true allergic reactions and do not show cross-sensitivity with ester anesthetics (which metabolize to PABA). Given the patient's history of reaction to dental anesthesia (often esters like procaine/novocaine historically, though amides are common now, the 'bad reaction' description warrants switching classes), an amide is the safest choice.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Chloroprocaine",
                 "explanation": "Incorrect. Chloroprocaine is also an ester-linked anesthetic and follows the same metabolic pathway as procaine, producing PABA. It carries a similar risk of allergic reaction. This would be the correct answer if the goal was a very short-acting anesthetic in a non-allergic patient.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Benzocaine",
                 "explanation": "Incorrect. Benzocaine is an ester-linked topical anesthetic. It is potent for causing sensitization and allergic contact dermatitis. This would be the correct answer if the patient needed topical anesthesia for a mucous membrane procedure and had no history of ester allergy.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Procaine",
                 "explanation": "Incorrect. Procaine is an ester-linked local anesthetic. Esters are metabolized to para-aminobenzoic acid (PABA), which is associated with a high rate of hypersensitivity reactions. This patient's history suggests an ester allergy. This would be the correct answer if the patient had an allergy to amides.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Tetracaine",
                 "explanation": "Incorrect. Tetracaine is a long-acting ester-linked anesthetic. Like other esters, it poses a risk of cross-reactivity in patients with PABA sensitivity. This would be the correct answer if a long-acting spinal anesthetic was required in a patient without ester allergies.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Ester local anesthetics (one 'i') metabolize to PABA, causing allergies; Amides (two 'i's) are non-allergenic. Switch classes if allergy is suspected.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 2,
@@ -46,32 +46,32 @@ window.Test_L66 = [
             {
                 "text": "Drug A will have a slower onset due to ion trapping.",
                 "explanation": "Incorrect. Ion trapping typically refers to acidic environments (like infection). At normal pH, Drug A has the advantage. This would be correct if Drug A were injected into highly acidic tissue.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Drug B will have a faster onset because it is more ionized.",
                 "explanation": "Incorrect. A higher pKa further from physiologic pH means MORE drug is ionized. The ionized form cannot cross the nerve membrane. This would be correct if the ionized form were the penetrating species, which is false.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Both drugs will have the same onset time.",
                 "explanation": "Incorrect. The pKa difference necessitates different ratios of unionized drug, directly impacting the speed of membrane penetration. This would be correct if pKa did not influence membrane permeability.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Drug B will have a faster onset because it is more lipid soluble.",
                 "explanation": "Incorrect. While lipid solubility affects potency and duration, pKa is the primary determinant of latency (onset). Even a lipid-soluble drug will have a slow onset if it is 99% ionized. This would be correct if we were discussing potency or duration.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Drug A will have a faster onset because a larger fraction is unionized.",
                 "explanation": "Correct. The onset of action is determined by the amount of drug in the unionized (uncharged) form, as this form crosses the lipid nerve membrane. Drug A's pKa (7.8) is closer to physiologic pH (7.4) than Drug B's (8.9), meaning Drug A will have a higher ratio of unionized to ionized molecules, allowing faster entry into the nerve.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 4,
         "clinicalPearl": "Onset of action is determined by pKa; pKa closer to physiologic pH (7.4) = more unionized drug = faster membrane penetration.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 3,
@@ -81,32 +81,32 @@ window.Test_L66 = [
             {
                 "text": "The acidic environment favors the non-ionized form, preventing intracellular binding.",
                 "explanation": "Incorrect. This is backward. Acidic environments favor the CHARGED (ionized) form. The non-ionized form is needed to cross the membrane.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Bacterial enzymes rapidly degrade the amide linkage.",
                 "explanation": "Incorrect. While esterases degrade esters, bacterial enzymes are not the primary cause of failure. The physicochemical pH trap is the dominant factor. This would be correct if specific bacterial peptidases targeted amides.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "The infected tissue has a higher pH, causing drug precipitation.",
                 "explanation": "Incorrect. Infected tissue has a LOWER pH (acidic), typically around 5-6, not higher. This would be correct if infection caused alkalosis.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Increased local blood flow washes out the drug too slowly.",
                 "explanation": "Incorrect. While inflammation increases blood flow which clears the drug faster (shortening duration), the primary issue with *efficacy* and *onset* in infection is pH-related ionization. Increased washout affects duration more than peak effect.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Tissue acidosis increases the ionized fraction, preventing membrane penetration.",
                 "explanation": "Correct. Local anesthetics are weak bases. In the acidic environment of an abscess (pH < 7.4), the equilibrium shifts towards the protonated (ionized) form. Since only the uncharged form can penetrate the nerve membrane to reach the site of action, the drug cannot enter the neuron effectively, leading to failed anesthesia.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 4,
         "clinicalPearl": "Infected tissue is acidic; this ionizes weak base anesthetics, preventing them from crossing the nerve membrane (Ion Trapping).",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 4,
@@ -116,32 +116,32 @@ window.Test_L66 = [
             {
                 "text": "It is an amide, so it resists hydrolysis in the CSF.",
                 "explanation": "Incorrect. Tetracaine is an ESTER, not an amide. However, CSF lacks plasma esterases, so this doesn't limit its duration in the spine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "High lipophilicity and lack of CSF esterases confer a long duration of action.",
                 "explanation": "Correct. Tetracaine is a potent ester. However, unlike in the blood, the cerebrospinal fluid (CSF) has little to no pseudocholinesterase activity. Combined with its high lipophilicity (protein binding/potency), clinical spinal anesthesia with Tetracaine has a prolonged duration.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It selectively blocks motor fibers while sparing sensory fibers.",
                 "explanation": "Incorrect. Local anesthetics block sensory fibers (small, myelinated) before motor fibers (large). Sparing sensory fibers would defeat the purpose of anesthesia. This would be correct if the goal was motor paralysis without analgesia.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It is rapidly metabolized by plasma cholinesterase, ensuring safety.",
                 "explanation": "Incorrect. While true for esters in blood, in the CSF there is little to no esterase activity. Rapid metabolism would make it short-acting, which is the opposite of why it's used (long duration). This would be correct for chloroprocaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It has very low lipid solubility, preventing systemic absorption.",
                 "explanation": "Incorrect. Tetracaine is highly lipid soluble. This high solubility increases its potency and nerve binding. This would be correct if it were a hydrophilic drug.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Tetracaine is a long-acting ester for spinal use because CSF lacks cholinesterases and the drug is highly lipophilic.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 5,
@@ -151,32 +151,32 @@ window.Test_L66 = [
             {
                 "text": "It causes intense vasoconstriction, leading to myocardial ischemia.",
                 "explanation": "Incorrect. ******* is the anesthetic known for intrinsic vasoconstriction. Bupivacaine is a vasodilator (like most LAs) and depresses conduction directly. This would be correct for *******.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It has a fast dissociation rate from sodium channels.",
                 "explanation": "Incorrect. Lidocaine has a fast dissociation rate ('fast-in, fast-out'). Bupivacaine dissociates SLOWLY, which is why it accumulates and causes re-entrant arrhythmias. This would be correct for Lidocaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It dissociates slowly from sodium channels and binds strongly during diastole.",
                 "explanation": "Correct. Bupivacaine is highly lip, potent, and has 'fast-in, slow-out' kinetics. It binds tightly to cardiac sodium channels and dissociates very slowly during diastole, causing cumulative blockade, severe conduction depression, and refractory arrhythmias.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It is metabolized into a toxic metabolite that uncouples oxidative phosphorylation.",
                 "explanation": "Incorrect. While mitochondrial dysfunction is a mechanism of toxicity, the unique cardiotoxicity distinguishing it from lidocaine is primarily the channel kinetics. Uncoupling is not the primary mechanism described. This would be correct if referring to specific metabolic poisons.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It primarily blocks calcium channels, not sodium channels.",
                 "explanation": "Incorrect. While it has some indirect effects on calcium influx, its primary mechanism is still sodium channel blockade. The indirect calcium effect decreases contractility. This would be correct for Verapamil.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Bupivacaine is highly cardiotoxic due to slow dissociation from cardiac Na+ channels ('Fast-in, Slow-out').",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 6,
@@ -186,32 +186,32 @@ window.Test_L66 = [
             {
                 "text": "Direct depression of the respiratory drive in the medulla.",
                 "explanation": "Incorrect. While LAST causes respiratory depression, it is usually preceded by excitation/seizures. The specific sign of chocolate blood points to hemoglobin modification. This would be correct for opioid overdose.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Allergic reaction causing bronchospasm.",
                 "explanation": "Incorrect. While esters can cause allergy, cyanosis unresponsive to O2 and chocolate blood are pathognomonic for methemoglobinemia, not anaphylaxis. This would be correct if there was wheezing and urticaria.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Hemolysis of red blood cells.",
                 "explanation": "Incorrect. While hemolysis causes anemia, it presents with jaundice/pallor, not typically 'chocolate' blood or immediate profound cyanosis with normal PaO2 (though low SaO2). This would be correct for G6PD deficiency crisis.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Displacement of oxygen by carbon monoxide.",
                 "explanation": "Incorrect. This describes carbon monoxide poisoning. Local anesthetics do not generate CO. This would be correct for a house fire victim.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Oxidation of hemoglobin iron from ferrous (Fe2+) to ferric (Fe3+).",
                 "explanation": "Correct. Benzocaine (and Prilocaine) can cause Methemoglobinemia. The drug oxidizes the iron in hemoglobin from the ferrous (Fe2+, oxygen-binding) state to the ferric (Fe3+, non-oxygen-binding) state. This results in functional anemia and 'chocolate cyanosis'.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 4,
         "clinicalPearl": "Benzocaine and Prilocaine can cause Methemoglobinemia (Fe2+ -> Fe3+), presenting with cyanosis and 'chocolate' blood.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 7,
@@ -221,32 +221,32 @@ window.Test_L66 = [
             {
                 "text": "Bupivacaine",
                 "explanation": "Correct. Bupivacaine (specifically the 0.75% concentration) is contraindicated in obstetrics at high concentrations due to reports of refractory cardiac arrest. While lower concentrations are the standard of care for labor, the high cardiotoxicity profile makes it the 'high risk' answer in this context.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Lidocaine",
                 "explanation": "Incorrect. Lidocaine is used, though less commonly for maintenance labor analgesia than bupivacaine/ropivacaine due to duration/motor block. It is not the one specifically black-boxed for high-concentration cardiac arrest in OB. This would be correct if asking about TNS.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Ropivacaine",
                 "explanation": "Incorrect. Ropivacaine was developed specifically to be a safer alternative to bupivacaine. It has similar potency but separates sensory/motor block better and has LESS cardiotoxicity. This would be correct if asking for the safer alternative.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Chloroprocaine",
                 "explanation": "Incorrect. Chloroprocaine is often used for 'rescue' or rapid C-sections due to its speed. It is very safe metabolically (ester). This would be correct if asking for a rapid-onset emergency drug.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Prilocaine",
                 "explanation": "Incorrect. Prilocaine is not a standard epidural agent for labor, primarily due to the risk of methemoglobinemia (which crosses the placenta). But Bupivacaine is the classic answer for CARDIOTOXICITY. This would be correct if asking about fetal cyanosis.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Bupivacaine (0.75%) is contraindicated in OB procedures due to the risk of refractory cardiac arrest (cardiotoxicity).",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 8,
@@ -256,32 +256,32 @@ window.Test_L66 = [
             {
                 "text": "To directly block sodium channels via alpha receptors.",
                 "explanation": "Incorrect. Epinephrine acts on alpha-1 adrenergic receptors to cause paramyocytes constriction, not sodium channel blockade. It has no direct anesthetic effect on the nerve. This would be the correct answer if describing clonidine's adjuvant effect.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To decrease local blood flow and systemic absorption.",
                 "explanation": "Correct. Epinephrine causes local vasoconstriction via alpha-1 receptors. This reduces local blood flow (washout), thereby keeping the anesthetic at the nerve site longer (increasing duration) and reducing the peak plasma concentration (decreasing systemic toxicity).",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To prevent the metabolism of ester anesthetics.",
                 "explanation": "Incorrect. Epinephrine does not inhibit pseudocholinesterase. It keeps the drug local, but doesn't stop the enzymatic degradation once it's in the blood. This would be correct for a cholinesterase inhibitor.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To increase the pH of the solution and improve onset.",
                 "explanation": "Incorrect. Epinephrine solutions are actually acidic (containing bisulfite), which can lower pH and slightly delay onset. Buffering with bicarb does this, not epi. This would be correct for Bicarbonate addition.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To increase the lipid solubility of the anesthetic.",
                 "explanation": "Incorrect. A vasoconstrictor changes the hemodynamics of the tissue, not the chemical structure or lipophilicity of the anesthetic molecule. This would be correct if we were alkalinizing the solution.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Epinephrine is added to LA solutions to cause vasoconstriction, which decreases systemic absorption (reducing toxicity) and increases duration of action.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 9,
@@ -291,32 +291,32 @@ window.Test_L66 = [
             {
                 "text": "Ascending motor weakness affecting the diaphragm.",
                 "explanation": "Incorrect. This describes a high spinal or Guillain-Barre-like picture, not TNS. TNS is a pain syndrome, not a weakness syndrome. This would be correct for high spinal blockade.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Severe pain and dysesthesia in the buttocks and legs without motor deficit.",
                 "explanation": "Correct. TNS is characterized by painful dysesthesia (burning, aching) in the buttocks and posterior thighs. Crucially, there is NO sensory loss, NO motor weakness, and NO bowel/bladder dysfunction, and it resolves spontaneously in days.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Permanent paralysis of the lower extremities.",
                 "explanation": "Incorrect. TNS is transient and reversible. Permanent paralysis suggests cauda equina syndrome or direct cord damage. This would be correct for Cauda Equina Syndrome.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Loss of bowel and bladder function lasting weeks.",
                 "explanation": "Incorrect. TNS explicitly spares bowel and bladder function. This is a hallmark of Cauda Equina Syndrome. This would be correct for Cauda Equina Syndrome.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Profound hypotension and bradycardia.",
                 "explanation": "Incorrect. These are hemodynamic complications of spinal anesthesia (sympathectomy), not TNS, which is a neurologic pain syndrome. This would be correct for Sympathetic Blockade.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Transient Neurologic Symptoms (TNS) with Lidocaine spinal: Pain/Dysesthesia in buttocks/legs, NO motor/sensory loss, reversible.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 10,
@@ -326,32 +326,32 @@ window.Test_L66 = [
             {
                 "text": "It chelates calcium to prevent tetany.",
                 "explanation": "Incorrect. The mechanism is unrelated to calcium chelation. In fact, calcium is needed for contractility. This would be correct for EDTA.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It directly antagonizes the sodium channel binding site.",
                 "explanation": "Incorrect. It acts pharmacokinetically (redistribution), not pharmacodynamically (receptor antagonism). It does not block the channel site itself. This would be correct for a competitive antagonist.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It acts as a 'lipid sink' to draw the lipophilic drug out of potential binding sites.",
                 "explanation": "Correct. The 'Lipid Sink' theory suggests that the lipid emulsion creates a separate lipid compartment in the blood. The highly lipophilic local anesthetic partitions into this lipid 'sink', removing it from the heart and brain tissues. It also provides fatty acids for mitochondrial energy.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It increases the pH of the blood to trap the drug in the urine.",
                 "explanation": "Incorrect. Lipid emulsion is not a buffer. pH manipulation is not the mechanism of Intralipid. This would be correct for Bicarbonate.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It increases hepatic blood flow to speed up metabolism.",
                 "explanation": "Incorrect. While it shuttles drug to the liver, the primary acute rescue effect is the sequestration ('sink'), not the speed of enzymatic degradation. This would be correct for a hepatic enzyme inducer.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Lipid Rescue (Intralipid) acts as a 'Lipid Sink', drawing lipophilic local anesthetics out of cardiac tissue.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 11,
@@ -361,32 +361,32 @@ window.Test_L66 = [
             {
                 "text": "The outer pore of the channel.",
                 "explanation": "Incorrect. Local anesthetics bind the INNER vestibule of the channel, not the outer pore. Tetrodotoxin (TTX) binds the outer pore. This would be correct for TTX.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Resting State only.",
                 "explanation": "Incorrect. The resting (closed) state has low affinity for local anesthetics. If they bound here, block would be independent of activity. This would be correct for toxins like TTX (binding outer pore).",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Open and Inactivated States.",
                 "explanation": "Correct. Local anesthetics exhibit 'State-Dependent' block. They have a much higher affinity for the Open and Inactivated states (which occur during and after an action potential). This leads to 'Use-Dependence', where rapidly firing nerves (spending more time open/inactivated) are blocked more strongly.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Hyperpolarized State.",
                 "explanation": "Incorrect. Hyperpolarization puts channels in the Resting state, which has low affinity. Depolarized potentials favor block. This would be correct if they potentiated resting states.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "They bind irrespective of the channel state.",
                 "explanation": "Incorrect. This would be 'Tonic' block, not use-dependent. The clinical utility relies on the differential block of active nerves. This would be correct for general membrane disruptors.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 2,
         "clinicalPearl": "Local Anesthetics preferentially bind to Open and Inactivated sodium channels (State-Dependent Block), causing Use-Dependent blockade.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 12,
@@ -396,32 +396,32 @@ window.Test_L66 = [
             {
                 "text": "Intrinsic vasoconstriction.",
                 "explanation": "Correct. ******* blocks the reuptake of catecholamines (NET blockade), causing local vasoconstriction. This shrinks the nasal mucosa and reduces bleeding, making it unique and ideal for ENT procedures without needing added epinephrine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It selectively blocks pain without affecting motor function.",
                 "explanation": "Incorrect. ******* produces a typical block. The vasoconstriction is the unique feature. This would be correct for Ropivacaine (to some extent).",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Intrinsic vasodilation.",
                 "explanation": "Incorrect. Most LAs are vasodilators, which worsens bleeding in nasal surgery. ******* is unique because it is NOT a vasodilator. This would be correct for Procaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It has no systemic toxicity.",
                 "explanation": "Incorrect. ******* has significant systemic toxicity (cardiac and CNS stimulation/addiction). This would be correct for a non-absorbed drug.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It is an amide, avoiding allergies.",
                 "explanation": "Incorrect. ******* is an ESTER. It serves as the bridge between natural and synthetic esters. It is not an amide. This would be correct for Lidocaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "******* has intrinsic vasoconstrictive activity (blocks NE reuptake), making it useful for reducing bleeding in mucous membrane procedures.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 13,
@@ -431,32 +431,32 @@ window.Test_L66 = [
             {
                 "text": "Large, myelinated A-alpha motor fibers.",
                 "explanation": "Incorrect. Large fibers are the hardest to block. Motor function is typically lost LAST. This would be correct if the order were reversed.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Fibers carrying deep pressure and proprioception.",
                 "explanation": "Incorrect. These are generally larger than pain fibers (A-beta). They are blocked AFTER pain fibers. This would be correct for the middle of the sequence.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "All fibers are blocked simultaneously.",
                 "explanation": "Incorrect. Differential blockade is a hallmark of LA action, allowing for 'differential spinal' exams. This would be correct for a neurolytic agent.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Small, unmyelinated C fibers (pain) and small myelinated A-delta fibers.",
                 "explanation": "Correct. Sensitivity to block is determined by diameter and myelination. Small fibers are blocked before large fibers. Therefore, Pain (C and A-delta) and Sympathetic fibers are blocked first, followed by Touch, Deep Pressure, and finally Motor (A-alpha). Note: Sympathetic are often first, but among sensory/motor, Pain is first.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Large, unmyelinated fibers.",
                 "explanation": "Incorrect. This is not the primary determinant. Small size favors block. This would be an unusual fiber type.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 3,
         "clinicalPearl": "Differential Block order: Sympathetic > Pain/Temp (Small) > Touch/Pressure > Motor (Large).",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 14,
@@ -466,32 +466,32 @@ window.Test_L66 = [
             {
                 "text": "Ropivacaine",
                 "explanation": "Incorrect. Ropivacaine is an amide, metabolized by the liver. This would be correct if asking which drug to avoid.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Lidocaine",
                 "explanation": "Incorrect. Lidocaine is an amide, metabolized by hepatic CYPs. Liver failure extends its half-life significantly. This would be correct if asking which drug to avoid.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Mepivacaine",
                 "explanation": "Incorrect. Mepivacaine is an amide, metabolized by the liver. This would be correct if asking which drug to avoid.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Chloroprocaine",
                 "explanation": "Correct. Chloroprocaine is an ester-linked anesthetic. Esters are metabolized by plasma pseudocholinesterase, NOT by the liver. Therefore, its metabolism is independent of hepatic function (unless plasma esterases are also low, but it's the classic 'liver-safe' choice). ",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Bupivacaine",
                 "explanation": "Incorrect. Bupivacaine is an amide, hepatically metabolized. Liver failure increases the risk of toxicity. This would be correct if asking which drug to avoid.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 3,
         "clinicalPearl": "Esters (Chloroprocaine) are metabolized by plasma esterases, so they are safer in liver failure than Amides (Lidocaine), which require hepatic metabolism.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 15,
@@ -501,32 +501,32 @@ window.Test_L66 = [
             {
                 "text": "The placenta actively pumps the drug into the fetus.",
                 "explanation": "Incorrect. Transfer is largely passive diffusion. This would be correct for active transport nutrients.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "The fetal liver cannot metabolize esters.",
                 "explanation": "Incorrect. While fetal metabolism is immature, ion trapping is a physical chemistry phenomenon related to pH gradients, not metabolism. This would be correct for prolonged half-life, not trapping.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Fetal proteins bind the drug more avidly.",
                 "explanation": "Incorrect. Typically fetuses have LOWER alpha-1 acid glycoprotein levels, meaning MORE free drug, but this isn't 'ion trapping'. This would be correct for increased free fraction.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Fetal blood pH is slightly lower (more acidic) than maternal blood.",
                 "explanation": "Correct. Fetal pH is naturally lower (7.3) than maternal pH. Local anesthetics (weak bases) cross the placenta in the unionized form. Once in the more acidic fetal blood, they become ionized (protonated) and cannot cross back out. This traps the drug in the fetus ('Ion Trapping').",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Fetal neurons have more open sodium channels.",
                 "explanation": "Incorrect. This refers to pharmacodynamics. Ion trapping is pharmacokinetic. This would be correct for increased sensitivity.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 3,
         "clinicalPearl": "Fetal acidosis (lower pH) causes 'Ion Trapping' of local anesthetics (weak bases), as they become ionized in the fetus and cannot diffuse back to the mother.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 16,
@@ -536,32 +536,32 @@ window.Test_L66 = [
             {
                 "text": "Lidocaine",
                 "explanation": "Incorrect. Lidocaine is an amide and is metabolized by the liver, not pseudocholinesterase. It is safe in this condition. This would be the safe alternative.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Tetracaine",
                 "explanation": "Correct. Tetracaine is an ester. Esters rely on plasma pseudocholinesterase for clearance. In a patient with atypical/deficient enzyme, metabolism is slowed, leading to prolonged levels and increased toxicity.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Ropivacaine",
                 "explanation": "Incorrect. Ropivacaine is an amide. Safe here. This would be the safe alternative.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Mepivacaine",
                 "explanation": "Incorrect. Mepivacaine is an amide. Safe here. This would be the safe alternative.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Bupivacaine",
                 "explanation": "Incorrect. Bupivacaine is an amide, liver metabolized. Safe here. This would be the safe alternative.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 1,
         "clinicalPearl": "Patients with atypical pseudocholinesterase will have prolonged effects/toxicity from Ester anesthetics (Tetracaine, Procaine, Chloroprocaine).",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 17,
@@ -571,32 +571,32 @@ window.Test_L66 = [
             {
                 "text": "It causes more profound motor block.",
                 "explanation": "Incorrect. Ropivacaine actually causes LESS motor block for the same degree of sensory block (differential block), which is desirable for labor (walking epidural). This would be correct for Etidocaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It is metabolized by pseudocholinesterase.",
                 "explanation": "Incorrect. Ropivacaine is an amide (liver). This would be correct for an ester.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It has a much faster onset of action.",
                 "explanation": "Incorrect. Both have similar onset (pKa dependent). The advantage is safety profile. This would be correct for Chloroprocaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It has reduced cardiotoxicity and separates sensory from motor block.",
                 "explanation": "Correct. Ropivacaine is the S-enantiomer propyl analogue. It is slightly less potent but has significantly reduced affinity for cardiac sodium channels (less cardiotoxicity) and provides good sensory analgesia with less motor blockade compared to Bupivacaine.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "It is an ester, preventing allergic reactions.",
                 "explanation": "Incorrect. It is an amide. And amides are the ones that avoid allergies anyway. This would be correct if it were an amide replacing an ester.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 3,
         "clinicalPearl": "Ropivacaine has LOWER cardiotoxicity than Bupivacaine and produces less motor block (better for labor/walking).",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 18,
@@ -606,32 +606,32 @@ window.Test_L66 = [
             {
                 "text": "To bind to plasma proteins.",
                 "explanation": "Incorrect. Protein binding is largely driven by the lipophilic portion (hydrophobic interaction). This would be correct for the aromatic ring.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To determine the metabolic pathway (ester vs amide).",
                 "explanation": "Incorrect. The intermediate chain (linkage) determines the class (ester vs amide). This would be correct for the intermediate chain.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To cause vasoconstriction.",
                 "explanation": "Incorrect. Structure doesn't dictate vasoconstriction directly (except in *******). This would be correct for an alpha agonist.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To penetrate the lipid membrane.",
                 "explanation": "Incorrect. The aromatic (lipophilic) ring handles membrane penetration. The hydrophilic group ensures solubility. This would be correct for the aromatic ring.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "To allow the drug to exist in ionized and non-ionized forms (weak base).",
                 "explanation": "Correct. The tertiary amine acts as a weak base acceptor. It allows the drug to become protonated (ionized) at physiologic pH. The ionized form is required to bind the receptor, while the unionized form crosses the membrane. Without this group, it wouldn't be an injectable anesthetic.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 4,
         "clinicalPearl": "The hydrophilic amine group allows the LA to act as a weak base, existing in both unionized (penetrating) and ionized (active) forms.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 19,
@@ -641,32 +641,32 @@ window.Test_L66 = [
             {
                 "text": "Intravenous Lipid Emulsion (20%)",
                 "explanation": "Correct. IV Lipid Emulsion (Intralipid 20%) is the standard of care antidote for LAST, especially bupivacaine toxicity. It extracts the drug from the heart/brain.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Intravenous Sodium Bicarbonate",
                 "explanation": "Incorrect. Used for tricyclic antidepressant overdose or to alkalinize LA solutions, but not the specific antidote for LAST. This would be correct for TCA toxicity.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Intravenous Calcium Chloride",
                 "explanation": "Incorrect. While calcium supports contractility, it doesn't remove the drug. It is part of ACLS but not the antidote. This would be correct for Calcium Channel Blocker overdose.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Intravenous Epinephrine",
                 "explanation": "Incorrect. Used for resuscitation, but small doses are recommended in LAST to avoid compounding arrythmias. It treats the symptoms, not the cause. This would be correct for Anaphylaxis.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Intravenous Flumazenil",
                 "explanation": "Incorrect. This is the antidote for Benzodiazepines. This would be correct for Valium overdose.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 0,
         "clinicalPearl": "Intralipid (20%) is the specific antidote for Local Anesthetic systemic toxicity.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     },
     {
         "id": 20,
@@ -676,31 +676,31 @@ window.Test_L66 = [
             {
                 "text": "Temperature (A-delta)",
                 "explanation": "Incorrect. Temperature functions travels with pain fibers and is blocked early. This would be correct for early loss.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Sympathetic tone (B fibers)",
                 "explanation": "Incorrect. Autonomic fibers are very susceptible and blocked first (vasodilation signs). This would be correct for the very first sign.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "All sensations are lost at the exact same time.",
                 "explanation": "Incorrect. Differential nerve block is a fundamental property. This would be correct for nerve section.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Pain (C fibers)",
                 "explanation": "Incorrect. Pain fibers are small and blocked first. This would be correct for the first sensation lost.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             },
             {
                 "text": "Motor function (A-alpha)",
                 "explanation": "Correct. Motor and deep pressure/proprioception fibers (A-alpha/beta) are large and myelinated. They are the most resistant to blockade and are blocked LAST. This is why patients feel 'pressure' or 'movement' during surgery even when they feel no sharp pain.",
-                "lectureSource": undefined
+                "lectureSource": "L66"
             }
         ],
         "correctAnswerIndex": 4,
         "clinicalPearl": "Motor and Deep Pressure fibers are large; they are blocked LAST. Pain/Temp are blocked FIRST.",
-        "lectureSource": undefined
+        "lectureSource": "L66"
     }
 ];

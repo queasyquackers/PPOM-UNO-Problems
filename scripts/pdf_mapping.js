@@ -60,6 +60,8 @@ const PDF_MAPPING = {
     "L60": "pdfs/Lecture # 60. D. Whitson, D.O. (PPT).pdf",
     "L61": "pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf",
     "L62": "pdfs/Lecture # 62. M. Mihlbachler, Ph.D. (PPT).pdf",
+    "L64": "pdfs/Lecture #64. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
+    "L66": "pdfs/Lecture # 66. L. Goldstein, Pharm.D. (PPT).pdf",
     "L67": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
     "L68": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf",
     "L63": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",

@@ -3,7 +3,7 @@
 // Source: Lecture # 70. A. Patel, D.O. (PPT).pdf + Transcript
 // 20 Questions (Types A & B interleaved)
 
-const Test_L70 = [
+window.Test_L70 = [
     {
         "id": 1,
         "category": "Newborn Exam",

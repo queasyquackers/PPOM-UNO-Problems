@@ -1,5 +1,5 @@
 
-const Test_L63 = [
+window.Test_L63 = [
     {
         "id": 1,
         "category": "Neurology: Secondary Headache",

@@ -1,5 +1,5 @@
 // Replace [TEST_NAME_VARIABLE] with the actual variable name, e.g., window.Test_L43
-const Test_L68 = [
+window.Test_L68 = [
     {
         "id": 1,
         "category": "Pharmacology: Stimulants",

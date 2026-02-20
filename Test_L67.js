@@ -2,7 +2,7 @@
 // Lecture 67: Pharmacology of Opioid Analgesics
 // Based on transcripts from M. Pino, Ph.D.
 
-const Test_L67 = [
+window.Test_L67 = [
     {
         "id": 1,
         "category": "Pharmacology: Opioid Analgesics",

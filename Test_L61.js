@@ -2,7 +2,7 @@
 // Lecture 61: Gait and Movement (Focus on Parkinson's Disease Assessment)
 // Content Source: pdfs/Lecture # 61. A. Leder, D.O. (PPT - updated 1.29.26).pdf
 
-const Test_L61 = [
+window.Test_L61 = [
     {
         "id": 1,
         "category": "Neurology: Parkinson's Disease",

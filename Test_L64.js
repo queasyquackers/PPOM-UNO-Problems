@@ -1,5 +1,5 @@
 
-const Test_L64 = [
+window.Test_L64 = [
     {
         "id": 1,
         "category": "Pharmacology: Inhaled Anesthetics",
