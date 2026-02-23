@@ -67,6 +67,15 @@ const PDF_MAPPING = {
     "L63": "pdfs/Lecture #63. A. Reno, DO, MPH (PPT).pdf",
     "L69": "pdfs/Lecture #69. A. Coladner, D.O. (PPT).pdf",
     "L70": "pdfs/Lecture # 70. A. Patel, D.O. (PPT).pdf",
+    "L71": "pdfs/Lecture # 71. T. Li, D.O. (PPT).pdf",
+    "L72": "pdfs/Lecture # 72. M. Plummer, M.D..pdf",
+    "L73": "pdfs/Lecture # 73. M. Plummer, M.D..pdf",
+    "L74": "pdfs/Lecture # 74. W. Zaloga, D.O. (PPT).pdf",
+    "L75": "pdfs/Lecture # 75. T. Chan, D.O. (PPT).pdf",
+    "L76": "pdfs/Lecture # 76. T. Chan, D.O. (PPT)-1.pdf",
+    "L77": "pdfs/Lecture # 77. A. Hurst, M.D. (PPT).pdf",
+    "L78": "pdfs/Lecture # 78. A. Hurst, M.D. (PPT)-1.pdf",
+    "L79": "pdfs/Lecture # 79. D. Cummins, Pharm.D., BCPS (PPT).pdf",
 
     "L102": "pdfs/L102.pdf",
     "L103": "pdfs/L103.pdf",
@@ -210,7 +219,23 @@ const PDF_MAPPING = {
     "L65": "pdfs/Lecture # 65. L. Goldstein, Pharm.D. (PPT) 2.12.26.pdf",
     "Pharmacology: Local Anesthetics (L66)": "pdfs/Lecture # 66. L. Goldstein, Pharm.D. (PPT).pdf",
     "Pharmacology: Opioid Analgesics (L67)": "pdfs/Lecture # 67. M. Pino, Ph.D. (PPT).pdf",
-    "Physiology: Drug Addiction (L68)": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf"
+    "Physiology: Drug Addiction (L68)": "pdfs/Lecture # 68. G. Otazu, Ph.D. (PPT).pdf",
+    "8-Neurooncology: Gliomas & Ependymomas (L72)": "pdfs/Lecture # 72. M. Plummer, M.D..pdf",
+    "8-Neuronal Tumors, Medulloblastoma & Meningioma (L73)": "pdfs/Lecture # 73. M. Plummer, M.D..pdf",
+    "8-Neuro Birth Defects (L74)": "pdfs/Lecture # 74. W. Zaloga, D.O. (PPT).pdf",
+    "8-Pediatric Neuro 1 (L75)": "pdfs/Lecture # 75. T. Chan, D.O. (PPT).pdf",
+    "8-Pediatric Neuro II (L76)": "pdfs/Lecture # 76. T. Chan, D.O. (PPT)-1.pdf",
+    "8-Neurodevelopment & Behav Problems (L77)": "pdfs/Lecture # 77. A. Hurst, M.D. (PPT).pdf",
+    "8-ADHD & Adolescent Development (L78)": "pdfs/Lecture # 78. A. Hurst, M.D. (PPT)-1.pdf",
+    "8-Pharmacologic Management of ADHD (L79)": "pdfs/Lecture # 79. D. Cummins, Pharm.D., BCPS (PPT).pdf",
+    "8-Bipolar and Depressive Disorders (L80)": "pdfs/Lecture #80. C. Dyson, M.D. (PPT).pdf",
+    "8-Anxiety Disorders (L81)": "pdfs/Lecture # 81. A. Raj, Psy.D. (PPT).pdf",
+    "8-Schizophrenia and Psychotic Disorders (L82)": "pdfs/Lecture # 82. C. Dyson, M.D. (PPT).pdf",
+    "8-Unusual Neurological Diseases (L83)": "pdfs/Lecture # 83. A. Leder, D.O. (PPT).pdf",
+    "L82": "pdfs/Lecture # 82. C. Dyson, M.D. (PPT).pdf",
+    "L83": "pdfs/Lecture # 83. A. Leder, D.O. (PPT).pdf",
+    "L84": "pdfs/Lecture # 84. A. Patel, D.O. (PPT).pdf",
+    "8-Pediatrics Part 2 (L84)": "pdfs/Lecture # 84. A. Patel, D.O. (PPT).pdf"
 };
 
 // Expose to global scope

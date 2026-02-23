@@ -1,0 +1,525 @@
+--- SLIDE 1 ---
+Office of Academic Affairs 
+The Pharmacologic Management of ADHD
+Dosha Cummins, PharmD, BCPS 
+Department of Biomedical & Anatomical Sciences
+Chair & Associate Professor
+dcummins@nyit.edu
+Phone:  870-680-8809
+Please email to set up a meeting
+
+--- SLIDE 2 ---
+Source: Course Syllabus
+1. Explain the mechanism(s) of action for ADHD medications.
+2.
+Describe the clinical benefits of ADHD drug therapy.
+3.  Recognize key differences between medications used to treat 
+ADHD.
+4.
+Identify adverse effects related to ADHD pharmacotherapy.
+5.
+Recommend appropriate monitoring parameters for patients 
+ 
+on ADHD medications.  
+Session Objectives
+
+--- SLIDE 3 ---
+1.
+COMLEX-USA
+1.
+Dimension 2:  Clinical Presentations
+ 
+Human Development, Reproduction, and Sexuality
+2.
+USMLE® Content 
+IV. Behavioral Health
+7.  Disorders originating in infancy/childhood
+ii. Attention-deficit/hyperactivity disorder
+
+--- SLIDE 4 ---
+AAP Clinical Practice Guidelines. Pediatrics. 2019; 144(4):e2019528. 
+• Pharmacotherapy is only one modality
+• Psychosocial treatments 
+• Behavioral therapy 
+• Training interventions
+• Mindfulness, cognitive training, EEG biofeedback, 
+counseling, dietary modification  
+ADHD Management 
+
+--- SLIDE 5 ---
+DePiro JT, 8e, 2011 (Ch. 72) & DePiro JT, 10e, 2017 (Ch. 63) 
+• Key considerations regarding pharmacologic treatment:
+• The goal is to control symptoms and behavior that impair 
+learning and development.
+• Individualized and specific behavioral, academic, and social 
+target goals and treatments should be identified.
+• Response to medications is not a paradoxical effect.
+ADHD Management
+
+--- SLIDE 6 ---
+Friedman LA , Rapoport JL.  Brain development in ADHD. Curr Opin  Neurobiol. 2015 Feb;30:106-11.
+• Default attention mode is established via a network between 
+the prefrontal cortex, the medial parietal lobe (precuneus), 
+and the posterior cingulate
+• Normally, this default is active during a resting state and 
+inhibited during active attention
+• A lack of connectivity within this network in ADHD may result 
+in the default mode not being suppressed
+• Consequence is inattentiveness and lack of impulse control 
+Default Mode Network 
+
+--- SLIDE 7 ---
+Purper-Ouakil D, Ramoz N, Lepagnol-Bestel AM, et al. Neurobiology of attention deficit/hyperactivity disorder. 
+Pediatr Res. 2011 May; 69(5 Pt 2):69R-76R.
+• Proposed benefit of medications
+• Increase in dopamine (DA) reduces background ‘noise’ 
+(restore inhibitory activity of dopamine)
+• Increase in norepinephrine (Nor) – may strengthen 
+connections (increase signals)
+Neurobiology of ADHD & Drug Response 
+
+--- SLIDE 8 ---
+Katzung’s Basic and Clin Pharm, 16e, 2024; 
+Ch. 6.(Fig. 6-5).
+Biosynthesis of Catecholamines
+
+--- SLIDE 9 ---
+Katzung’s Basic and Clin Pharm, 
+16e, 2024; 
+Ch. 6. (Fig. 6-4)
+Generalized Noradrenergic Junction
+
+--- SLIDE 10 ---
+Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e, 2023.  
+Ch. 14. Adrenergic Agonists and Antagonists (Fig. 14-1)
+(Relative) Classification of Adrenergic Agonists
+
+--- SLIDE 11 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch.9): Adrenoceptor Agonists & Sympathomimetic Drugs  (Fig. 9-3)
+Pharmacologic Targeting of Monoamine Transporters
+NET has equal affinity for dopamine
+
+--- SLIDE 12 ---
+1937 - Benzedrine (racemic amphetamine)
+1943 - Desoxyn (methamphetamine     
+            hydrochloride)
+1955 - Ritalin (methylphenidate)
+1955-1983 - Biphetamine (mixed 
+         amphetamine/dextroamphetamine)
+1960 - Adderall (mixed  amphetamine      
+           /dextroamphetamine salts)
+1975-2003 - Cylert (pemoline)
+1976 - Dextrostat (dextroamphetamine)
+1976 - Dexedrine (dextroamphetamine)
+1982 - Ritalin SR
+1999 - Metadate ER (methylphenidate)
+2000 - Concerta (methylphenidate)
+2000 - Methylin ER (methylphenidate)
+2001 - Metadate CD (methylphenidate)
+2001 - Focalin (dexmethylphenidate)
+2001 - Adderall XR
+2002 - Ritalin LA
+2002 - Methylin (methylphenidate) oral    
+           solution and chewable tablet
+2002 - Strattera (atomoxetine)
+2005 - Focalin XR (dexmethylphenidate)
+2006 - Daytrana (methylphenidate patch)
+2007 - Vyvanse (lisdexamfetamine 
+           dimesylate)
+2008 - Procentra (liquid dextroamphetamine)
+2009 - Intuniv (guanfacine hydrochloride)
+2010 - Kapvay (clonidine hydrocloride)
+2012 - Quillivant XR (liquid methylphenidate)
+2016 - Adzenys XR-ODT (amphetamine oral
+           disintegrating tablet)
+2016 - Quillichew ER (chewable    
+           methylphenidate)
+2017 – Mydayis 
+2019 – Jornay PM
+2021 – Azstarys, Qelbree
+ADHD Pharmacotherapy Timeline
+https://www.verywellmind.com/adhd-history-of-adhd-2633127; Accessed 1/9/26
+
+--- SLIDE 13 ---
+• TJ is an 8-year-old boy who is in the 3rd grade. He was recently diagnosed 
+with ADHD after his teacher noticed that he does not follow through on 
+tasks, is easily distracted, is very forgetful, and does not seem to listen.
+• Social and behavioral interventions have been initiated at home and 
+school.  However, the decision has been made to begin pharmacotherapy 
+since TJ continues to struggle in the classroom.   
+• What is a reasonable therapy to recommend?
+Case
+
+--- SLIDE 14 ---
+AAP Clinical Practice Guidelines. Pediatrics. 2019; 144(4):e2019528. 
+• Stimulants are first-line therapy, unless the patient has certain 
+co-morbidities.
+• The stimulant group includes amphetamines & 
+methylphenidate.  
+• Approximately 40% respond to both.
+• 40% respond to only one.
+• ADHD subtype does not predict response to specific agent. 
+Stimulants
+
+--- SLIDE 15 ---
+• Several formulations are available 
+• Immediate-release
+• Can be dosed in lower amounts for younger children
+• Must be dosed 2 to 3 times a day
+• Delayed-release
+• Some may be dosed once daily, preventing the need for a dose 
+during school  
+• IR and delayed-release combination products
+• Capsule-filled beads
+• Transdermal delivery
+• Oral suspension
+Stimulants
+
+--- SLIDE 16 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch. 9), 
+Goodman & Gilman 14e, 2023 (Ch. 14) 
+• MOA: Increase DA and Nor in synaptic cleft via: 
+     displacement from pre-synaptic storage vesicle; 
+     reverse transport; blockade of reuptake transporters (non-selective)
+• Isomers of amphetamine 
+• d-isomer (dextroamphetamine) is 3-4 times more potent than the    
+l-isomer in CNS effects
+• l-isomer slightly more potent in cardiovascular actions
+• Mixed amphetamine salts (Adderall®)
+• d-isomer to l-isomer = 3:1 ratio
+• Racemic mixture (Evekeo®)
+• Dextroamphetamine (Dexedrine®)
+Stimulants:  Amphetamines
+
+--- SLIDE 17 ---
+• Lisdexamfetamine (Vyvanse®)
+• L-lysine, covalently bound to d-amphetamine
+• Metabolized by red blood cells to d-amphetamine and L-lysine
+• Potential for reduced risk of abuse
+• [Methamphetamine (Desoxyn®- former product name)]
+Stimulants:  Amphetamines
+
+--- SLIDE 18 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch. 9), Goodman & Gilman 14e, 2023 (Ch. 14) 
+• MOA: DA and Nor increased in synaptic 
+    cleft through blockade of reuptake transporters (non-
+    selective)
+• Methylphenidate (Ritalin®)
+• Multiple formulations are available
+• Dexmethylphenidate (Focalin®)
+Stimulants:  Methylphenidate
+
+--- SLIDE 19 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch. 9): Adrenoceptor Agonists & Sympathomimetic Drugs  (Fig. 9-3)
+Stimulants:  Mechanisms of Action
+Amphetamine
+Methylphenidate
+
+--- SLIDE 20 ---
+Citation: Drugs of Abuse, Katzung BG. Basic & Clinical Pharmacology, 14e; 2017. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2249&sectionid=175220606 Accessed: March 20, 2019
+Copyright © 2019 McGraw-Hill Education. All rights reserved
+Mechanism of action of cocaine and amphetamine on synaptic terminal of dopamine (DA) neurons. Left: Cocaine inhibits the dopamine transporter (DAT), 
+decreasing DA clearance from the synaptic cleft and causing an increase in extracellular DA concentration. Right: Since amphetamine (Amph) is a 
+substrate of the DAT, it competitively inhibits DA transport. In addition, once in the cell, amphetamine interferes with the vesicular monoamine transporter 
+(VMAT) and impedes the filling of synaptic vesicles. As a consequence, vesicles are depleted and cytoplasmic DA increases. This leads to a reversal of 
+DAT direction, strongly increasing nonvesicular release of DA, and further increasing extracellular DA concentrations.
+
+--- SLIDE 21 ---
+DePiro JT. 10e, 2017 (Ch. 63) & Pediatrics. 2011;128:1007–1022.
+• Drug therapy should be chosen based on dosing, 
+     duration, side effects, patient’s ability to swallow a pill, cost.
+• Height, weight, eating and sleeping patterns should be recorded at 
+baseline and every 3 months.
+• Initial dose should be titrated to individualize dose and to minimize 
+adverse effects.
+• Can be titrated on a 3-to-7-day basis.
+• Dose may be titrated with a weekly or biweekly telephone call to the family 
+during the first month.
+• A face-to face follow-up visit is recommended by the fourth week of 
+medication.
+• Response to medication can be assessed, as well as  adverse effects, pulse, 
+blood pressure, and weight.
+Initiation, Titration & Monitoring of Stimulants
+
+--- SLIDE 22 ---
+DePiro JT, 10e, 2017 (Ch. 63) & Goodman & Gilman ,14e, 2023 (Ch. 14)
+•
+Typically dose-related
+•
+Insomnia 
+• Dose stimulants earlier in the day
+• Less insomnia with IR formulations
+•
+Growth suppression
+• Weight loss – minimal for most children
+• Methylphenidate:  ↓ 3 kg in first year, 1.2 kg in 2nd year
+• Primarily due to reduced food intake vs ↑ in metabolism
+• Administer high calorie meal at breakfast or dinner; snacks
+• Products vary regarding administration with food (methylphenidate IR products, take 
+30-45 minutes before a meal)
+•
+Headache - treat
+•
+Abdominal pain 
+• Administer with food; make sure meals are eaten
+Stimulants:  Adverse Effects
+
+--- SLIDE 23 ---
+AAP Clinical Practice Guidelines. Pediatrics 2019; 144(4):e2019528. 
+• Cardiovascular effects
+• Average increase in heart rate (1-2 BPM)
+• Increase in blood pressure (1-4 mmHg for SBP and DBP)
+• 5-15% may have more substantial increases in HR and BP
+Stimulants:  Adverse Effects
+
+--- SLIDE 24 ---
+AAP Clinical Practice Guidelines. Pediatrics 2019; 144(4):e2019528
+• Baseline screening recommendations
+• Medical and family history
+• Sudden death, CV symptoms, Wolff-Parkinson-White 
+syndrome, hypertrophic cardiomyopathy, long QT 
+syndrome
+• Avoid stimulants if known structural cardiac abnormalities
+• Baseline electrocardiogram if risk factors present 
+Stimulants:  Adverse Effects
+
+--- SLIDE 25 ---
+JAMA Netw Open. 2022;5(11):e2243597. doi:10.1001/jamanetworkopen.2022.43597
+• Zhang L, Honghui Y, Lin L, et al. Risk of cardiovascular diseases associated with 
+medications used in attention-deficit/hyperactivity disorder: A systematic review 
+and meta-analysis. JAMA Network 2022;5(11):e2243597.
+• 19 observational studies investigating associations between ADHD medication use 
+and risk of any CVD across age groups
+• Outcomes:
+•
+No significant association with risk of CVD events across age groups
+•
+No significant association of CVD risk in subgroup analyses
+• 2/8 studies with long-term follow-up showed increased risk in those with history of CVD
+Stimulants:  Adverse Effects
+
+--- SLIDE 26 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63):  Attention 
+Deficit/Hyperactivity Disorder. 
+• Tics or abnormal movements
+• A tic is a brief, rapid, recurrent, and seemingly purposeless 
+stereotyped motor contraction (blinking, twitching of the nose, 
+jerking of the neck).
+• Priapism 
+• Definition: prolonged (> 4 hours) and sometimes painful erection 
+• Post-marketing cases with methylphenidate prompted warning in 
+December 2013
+• Mean age of patients has been 12.5 years
+• Has occurred on and off the medication 
+Stimulants:  Adverse Effects
+
+--- SLIDE 27 ---
+Shier AC, et al. 2013; 5: 3-11 & DePiro JT, 10e, 2017
+• Improvement in scholastic performance 
+    has been documented in elementary students.
+• Increased reading and math score compared to non-treated 
+patients
+• Scores still lag behind non-ADHD peers
+• Scales used at baseline can be evaluation tools for efficacy. 
+• Conners Comprehensive Behavior Rating Scales (Conners 
+CBRS)
+• One for teacher, parent, child 
+Stimulants:  Efficacy
+
+--- SLIDE 28 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63):  Attention 
+Deficit/Hyperactivity Disorder.  
+• Increase the dose:
+• Off-label high doses – potential increase in cardiac events
+• Variation in treatment response 
+• Pharmacology of medications
+• Pharmacokinetic variations
+• Pharmacogenetic differences
+• Change to a different formulation or to a different class of stimulant
+• Patient history is important – (ex, medication effective but wearing off)
+• Dose conversion information is available for switching between 
+products 
+Stimulants:  Lack of Desired Response
+
+--- SLIDE 29 ---
+Adderall® Product Information, accessed 1/9/26  
+Stimulants:  Dependence
+WARNING: ABUSE, MISUSE, AND ADDICTION
+Adderall® has a high potential for abuse and misuse, which can lead to the 
+development of a substance use disorder, including addiction. Misuse and abuse 
+of CNS stimulants, including Adderall®, can result in overdose and death, and this 
+risk is increased with higher doses or unapproved methods of administration, 
+such as snorting or injection.
+Before prescribing Adderall®, assess each patient’s risk for abuse, misuse, and 
+addiction. Educate patients and their families about these risks, proper storage 
+of the drug, and proper disposal of any unused drug. Throughout 
+Adderall® treatment, reassess each patient’s risk of abuse, misuse, and addiction 
+and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
+
+--- SLIDE 30 ---
+Pediatrics. 2011;128:1007–1022; Pediatrics 2019; 144(4):e2019528
+• Alternatives to stimulants if co-morbidities present
+• Not as effective as stimulant medications
+• Onset is 2-4 weeks vs 1-2 hours with stimulants
+• Patients with cardiovascular risk factors at baseline may need further 
+evaluation (electrocardiogram, consult with a cardiologist)
+Non-Stimulant Medications 
+
+--- SLIDE 31 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch. 9) & DePiro JT. 10e, 2017 (Ch. 63)
+• Atomoxetine (Strattera®)
+• MOA:  Selective inhibitor of Nor reuptake transporter
+• Slower therapeutic benefit than stimulants
+• Full benefit may take 6 to 12 weeks 
+• May need to overlap with stimulants when transitioning from stimulants 
+because of delayed effect. 
+Nonstimulants:  Atomoxetine 
+
+--- SLIDE 32 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63)  Attention 
+Deficit/Hyperactivity Disorder & Strattera® product information
+• Adverse effects:  
+• Abdominal pain
+• Somnolence
+• Decreased appetite
+• Cardiovascular effects:  ↑ in heart rate and blood pressure 
+• Metabolized by CYP2D6 
+• Poor metabolizers have AUCs that are 10x ↑ and peak concentrations that are 4x ↑ extensive 
+metabolizers
+• Rare liver injury may occur
+• Routine monitoring of hepatic labs is not recommended
+• Should be discontinued if signs of liver injury present (pruritus, dark urine, jaundice, right upper 
+quadrant tenderness)
+• Warning about suicidal ideation due to mechanism that is similar to 
+antidepressants
+Nonstimulants:  Atomoxetine 
+
+--- SLIDE 33 ---
+Katzung’s Basic and Clinical Pharm, 16e, 2024 (Ch. 9) & DePiro JT. 10e, 2017 (Ch. 63)
+• Viloxazine (Qelbree®)
+• MOA:  Selective inhibitor of Nor reuptake transporter
+• Adverse effects
+• Somnolence
+• Headache
+• Decreased appetite
+• Cardiovascular effects:  ↑ in heart rate and blood pressure 
+• Warning about suicidal ideation
+Nonstimulants:  Viloxazine
+
+--- SLIDE 34 ---
+DePiro JT, 10e, 2017 & Katzung’s Basic and Clin Pharm, 16e, 2024 (Ch. 6) 
+• MOA:  Traditionally defined as pre-synaptic 
+     alpha-2 agonists (eg, antihypertensive agents); 
+     data indicates a post-synaptic alpha-2A agonist effects in ADHD
+• Post-synaptic effect associated with increased blood flow in prefrontal 
+cortex, which is thought to enhance memory and improve executive 
+functioning.
+• Indicated as monotherapy or in combination with stimulants 
+• Are options for patients who can not tolerate stimulant side effects, or 
+who have co-morbid tics or aggression, high risk for drug dependence  
+• Guanfacine, extended-release (Intuniv®); can give once daily
+• Clonidine, extended-release (Kapvay®)
+Nonstimulants:  Alpha 2a Adrenergic Agonists
+
+--- SLIDE 35 ---
+
+--- SLIDE 36 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63):  Attention 
+Deficit/Hyperactivity Disorder.  
+• Adverse effects
+• Sedation
+• May be a benefit
+• Bradycardia and hypotension
+• Potential for rebound hypertension when stopped
+• Constipation
+Nonstimulants:  Alpha 2a Adrenergic Agonists
+
+--- SLIDE 37 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63):  Attention 
+Deficit/Hyperactivity Disorder.  
+• Stimulants, atomoxetine, alpha-2 agonists all have 
+     a warning about the potential for certain psychiatric adverse effects.
+• Psychiatric cases have been reported with all three classes, but more 
+frequently with the stimulants.
+• Three categories of effects:
+• Psychosis – hallucinations involving visual or tactile sensations; 
+delusions
+• Mood disturbances – irritability, depression, labile mood  
+• Severe anxiety/panic attacks
+FDA Warning:  Stimulants, Atomoxetine, Alpha-2 Agonists
+
+--- SLIDE 38 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63):  Attention 
+Deficit/Hyperactivity Disorder
+• ‘Holidays’ are periods of time off medication
+• Weekends, summertime
+• Potential benefits
+• ‘Catch-up’ in growth
+• Re-assessment for continued need of drug therapy
+• Benefit must be balanced against any negative impact of stopping 
+medication, such as learning, self-image, socialization 
+• Atomoxetine and alpha-2 agonists have a more gradual onset of 
+action and longer duration of effect
+• Drug holidays not recommended
+Pharmacotherapy:  Drug Holiday
+
+--- SLIDE 39 ---
+DePiro JT.  Pharmacotherapy:  A Pathophysiologic Approach., 10e, 2017 (Ch. 63)  Attention 
+Deficit/Hyperactivity Disorder; Goodman & Gilman 14e, 2023 (Ch. 18)
+• Bupropion (Wellbutrin®, Zyban®)
+• MOA: A weak Nor and DA reuptake inhibitor
+• Approved for depression, smoking cessation
+• Used off-label in children, adolescents, and adults
+• Considered an alternative to other agents; benefit inconsistent  
+• Adverse effects: appetite suppression (less than stimulants), insomnia, 
+tachycardia; may lower seizure threshold in some patients
+• Class suicidal ideation warning 
+Nonstimulants:  Buproprion
+
+--- SLIDE 40 ---
+• Stimulants are Schedule II  drugs per the federal Drug 
+Enforcement Agency (DEA)
+• Prescriptions can not be refilled. 
+• Criteria for prescribing stimulants in the treatment of ADHD 
+may vary by state. 
+• When to stop ADHD medications 
+• Individualized discussion with patient and/or parents  
+Pharmacotherapy of ADHD:  Practice Points
+
+--- SLIDE 41 ---
+• Pharmacotherapy is only one 
+    management modality.
+• Therapeutic goals should be identified before medication is 
+initiated.
+• Stimulants are first-line therapy pharmacotherapy for most 
+patients.
+• Stimulant doses should be titrated to maximize efficacy and 
+minimize adverse effects.
+• Patients should be periodically assessed for efficacy and 
+toxicity of ADHD medications.
+Summary Slide:  Pharmacological Management of ADHD
+
+--- SLIDE 42 ---
+Core references:
+1. Katzung’s Basic and Clinical Pharmacology, 16e, 2024; 
+ Chapter 6. Introduction to Autonomic Pharmacology. Section “Adrenergic 
+Transmission ” 
+ Chapter 9: Adrenoceptor Agonists & Sympathomimetic Drugs. Sections           
+“The Norepinephrine Transporter” &  “Indirect-Acting Sympathomimetics”   
+2. 
+Reynolds A; Angulo A; Breheney M; Green J; Goldson E. Child Development & 
+Behavior. In: Bunik M, Hay WH, Levin MJ, Abzug MJ, eds. Current Diagnosis & 
+Treatment: Pediatrics, 26e, 2022; Chapter 3, Child Development & Behavior, 
+“Attention-Deficit/Hyperactivity Disorder” section.
+Summary Slide:  Pharmacological Management of ADHD
+
+--- SLIDE 43 ---
+• What is a stimulant                                             
+(in the management of ADHD)? 
+
+--- SLIDE 44 ---
+Lecture Feedback Form:
+44
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+

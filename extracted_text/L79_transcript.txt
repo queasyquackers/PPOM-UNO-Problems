@@ -1,0 +1,403 @@
+Hello, everyone. I'm Dr. Dusha Cummins, a faculty member on the Arkansas campus. We will be
+discussing the pharmacologic management of ADHD during this session. I have included on your slide
+set my email address and the phone number to my office. You're welcome to reach out to me at any
+time if you have questions. I'm glad to speak with you in person over the phone via email or set up
+a Zoom session. so you have already reviewed the objectives for this session I will add that this
+topic is a great review of some other pharmacologic concepts which you have discovered elsewhere and
+so I hope this is a good opportunity for you to review some things as well to tie new concepts
+together we do not have a lot of drug therapies to discuss it discuss so I want to make sure that
+you are aware of key differences. It is very important with this patient population, as with all
+conditions, that we have a good understanding of drug therapies and their adverse effects because it
+is the mechanism of action and the adverse effects which really distinguish these medications from
+each other when we look at the classes used for ADHD. I've included how this topic maps to
+blueprints for both USMLE and for Comlex, this is just for your information. So let's get started. I
+will start by emphasizing that pharmacotherapy for managing ADHD is only one treatment modality.
+Medications alone may not be sufficient to obtain the intended outcome or reach desired goals of
+therapy. It's easy to think about drug therapy only with this condition, but other components of
+therapy include psychosocial stimulants such as behavioral therapy and training interventions. These
+other therapies are particularly important, especially for young patients such as four to five-year
+-old patients in whom we may not want to start drug therapies just yet. However, these additional
+therapies can be used in patients of all ages. I won't go into great detail, but I will describe
+some of what these therapies involve. Behavioral therapy tends to involve training of the adults who
+interact with the pediatric ADHD population, whether there's caregivers or teachers. This helps
+these individuals learn skills to help manage the patients. Training interventions are targeted
+towards skill development in the patients themselves and revolve around feedback over time. The
+third bullet under psychosocial treatment includes mindfulness, cognitive training, and dietary
+modifications. These other therapies have not been systemically evaluated and analyzed, but you do
+see them mentioned in the literature, and I wanted to include them for completeness. Some key
+considerations in using drug therapy. Keep in mind we're trying to control symptoms and behavior in
+these patients that impair learning and development. Thus, goals are very much individualized to
+specific behaviors, academic goals, and social targets. To meet these goals, it's important that we
+identify before patients start drug therapy what the goals actually are, because that is the only
+way to really determine if we're meeting our goals once drug therapy is initiated. One of the take-
+home points I hope you gain from this lecture is that response to medications is not a paradoxical
+effect. We use the term stimulant quite a bit, and we'll talk about that a little more. This can be
+confusing because stimulant sounds very counterintuitive when we're talking about a condition in
+which patients look hyperactive. We're going to delve into the pharmacological understanding of why
+the drug classes we use to treat ADHD are thought to work. But it's not a paradoxical effect.
+There's a proposed mechanism based on our current understanding of how these drugs work. And I
+highlight this because you may find yourselves in a position to educate others on this mistruth of
+the paradoxical effect. So in order to understand these concepts, we need to discuss the default
+mode network, which is sometimes referred to as our default attention mode. This is a network
+between various parts of our brain. More specifically, the connections are between the prefrontal
+cortex, which controls our decision -making and executive functioning, and our medial parotel lobe
+and posterior cingulate, which help us with integration of information and memory recall. Normally,
+this default mode is active during a resting state. For example, if you're sitting in a chair
+thinking about what you're going to do for the day or whenever you're not actively engaged in a
+task, this default mode is active. One way to think about it is as a normal background active state.
+Typically, when we switch from a resting state to attend a task, this default attention mode is
+inhibited. The background activation gets turned off normally. Our understanding is that there is a
+lack of inhibition in the ADHD population that causes them not to suppress this background
+activation state when they need to focus. Thus, the consequences look like inattentiveness and or
+lack of impulse control. So to summarize, one way to think about it precisely is that there's a
+failure of an inhibitory system in these patients. Their inhibition of the default attention mode,
+for whatever reason, is not there. So how do we help this pharmacologically speaking? The proposed
+benefit of the medications is that they work by increasing dopamine and or norepinephrine. And by
+increasing these neurotransmitters, we help reestablish the connections that restore this inhibition
+that is lacking. More specifically, it's thought that dopamine helps restore the overall inhibitory
+effect that is lacking and norepi strengthens the signals between the areas of the brain within the
+network. I know you've seen this biosynthesis flowchart before. Keep in mind, just to help you with
+this topic we're discussing now, that dopamine and norepi are structurally similar. And when you
+look at this closely, you see that they only differ by a hydroxyl group. I mention this because
+we'll discuss neurotransmitter transporters, which, again, you've also discussed that elsewhere. Our
+images show neurotransmitter, excuse me, transmitter-specific transporters. However, the
+transporters are really not that specific and the type of neurotransmitter they recognize and take
+up, for instance. And it goes back to this structure. When we look at dopamine and norepinephrine,
+they're very, very similar. So these neurotransporters, even though we call some neuro
+epitransporters and some dopamine transporters, they can also transport the other neurotransmitter
+because, frankly, they're not that different when you look at the structure. And we can talk about
+the treatment of ADHD without revisiting this image as well. Just as a quick review here, and I know
+you know this really well, tyrosine is taken up into the presynaptic neuron, converted into
+dopamine. which is then taken up into the storage vesicle, where it's converted into norepi. And
+then norepi is released into the synapse when an action potential comes along and this vesicle fuses
+with the surface membrane. Norepi is normally taken back up into the presynaptic neuron via these
+transporters that I just mentioned. And as you can see, there are several medications slash
+substances which can impact, i.e. block the transport of the neurotransmitter back up into the
+presynaptic neuron. You often see ******* on these images as a classic example, but there are other
+things besides ******* that have similar properties, such as tricyclic antidepressants, and as we'll
+talk about later, methylphenidate. So even though our classic diagrams like this include *******,
+For our purposes, we're looking at a medication such as mentholfenidate, which we'll discuss in a
+little bit more detail. So let's look at this in a different context, which will hopefully help you
+via a different route. This is another image you've seen before, this flowchart. This will help us
+revisit, remind ourselves about some adrenergic agonists and their subfamilies. This is from the
+classic pharmacology textbook Goodman and Gilman's. I've taken the liberty of adding on my version
+of this, the term or the word relative, relative classification. And this is because if you look in
+other references, you may see some slight differences as far as mechanisms of some of these
+medications listed. However, by convention, we typically use this classification. And so I'm
+sticking with it. So if we look on the left, we have the direct acting category. And basically, that
+means that each of these individual agents only act at specific receptors. The selective direct
+acting agents agonize just alpha-1, alpha-2, beta-1, et cetera. An example of this is phenylephrine.
+The non-selective direct acting directly work on more than one receptors, such as alpha -1 and
+alpha-2. So direct acting is one side. we've got indirect acting on the far right, and there are a
+few substances that have mixed properties. So we will be talking about today the indirect acting
+medications, specifically the first two of the four listed releasing agents, which include the
+amphetamine family, and then the re-uttake inhibitor, specifically methylphenidate, which isn't
+listed, but this is the category in which it falls. So let's conceptualize this using some yet more
+images. As we discussed earlier, if we look at A on this slide, this is a typical synapse. And so if
+we look at these little red dots in the synapse, these represent a typical amount of the
+neurotransmitter norepinephrine that is normally released into the synapse when an action potential
+comes along. If we jump down at C, this is the illustration for drugs that block the reuptake of
+neurotransmitters such as norepinephrine. And so if you look at the volume or the amount of little
+red dots in the synapse, it's more than what we have in a typical state up in A. And so this is a
+representation of medications that block reuptake, and therefore you have more neurotransmitters in
+the synapse to exert its effect down the road. So let's go back up to B. B is an image, a
+representation of our understanding of how the amphetamine family works. So the amphetamines have
+multiple mechanisms, and they ultimately cause more release of neurotransmitter into the synapse,
+but they have a couple different ways they do it. One of the things that is interesting about the
+amphetamine family is that they are called pseudosubstrates and so they can both block the reuptake
+of neurotransmitters at the transporters and they also themselves can be taken up into the
+presynaptic neuron and so if you look at this the little black dots are the amphetamine drug and so
+some of it gets taken up into the transporter it can either block it or it can be taken out by it
+which is interesting but when the medication is taken up into the presynaptic neuron, the
+amphetamine then enters those storage vesicles and displaces the little red dots, which remember is
+norepinephrine in this slide. So there's more norepi out in the outside the storage granule. And
+then we've got another process called reverse transport, where the norepinephrine goes back. There's
+so much of it inside that presynaptic neuron that it flows out of the neuron back into the synapse.
+So we'll summarize this later, but there's basically three mechanisms tied to amphetamines. They
+block the reuptake of norepi at these transporters. They themselves are taking up into the neuron
+and then into the storage vesicle, displace norepi, and then norepi goes back out via reverse
+transport. So a little complex, but multiple steps. And I wanted to review that in detail. So
+hopefully you're clear on the mechanism for amphetamines. It definitely shares one property with the
+methylphenidate class, but the amphetamine family has additional pharmacology. So a point of
+emphasis, when we talk about the stimulants in the treatment of ADHD, we're talking about two
+families of medications, basically the amphetamine family and then methylphenidate. When we look
+over the decades of drug development, there's a really, really long list. I certainly don't expect
+you to memorize this, but I just want to demonstrate there are a lot of different products that have
+been developed over time. However, when you look at the actual ingredients, they're either they're
+not that many medications. There are a lot of stimulants, a lot of amphetamine derivatives,
+derivatives and several methylphenid derivatives. but there's not nearly as many as what it looks
+like on this slide because a lot of these are different versions of the same thing, if you will. So
+let's look at a case. This is TJ. He's an eight-year-old boy who's in the third grade. He was
+recently diagnosed with ADHD after his teacher noticed that he does not follow through on task. He's
+easily distracted, very forgetful, and does not listen, seem to listen. Social and behavioral
+interventions have been initiated at home, and school. However, the decision has been made to begin
+pharmacotherapy since he continues to struggle. What is a reasonable recommendation? So, we will
+start by discussing the stimulant class. We have two overall classes. We have the stimulant class,
+and then we have the non-stimulant class. So, stimulant class to review first. As I've already said,
+the stimulants include the amphetamine family, and then methylphenidate. The stimulants are
+considered first -line therapy because they work very well. I posed the question in your CPG, what
+is a stimulant in the context of ADHD? And if I had asked you this a month ago, you may have
+answered that, well, caffeine's a stimulant or anything that keeps you awake is a stimulant. And
+that's a general lay definition. However, by convention and in the pharmacology world, when we talk
+about stimulants and the management of ADHD, we're referring to the amphetamine family meds and
+methylphenidate. So it's not a term that is used to reference a mechanism of action, which I
+understand is a bit confusing. Stimulant is historically used to refer to these two families of
+medications in the treatment of ADHD because they have ***** potential, which we'll talk about here
+shortly. So don't let this confuse you. Recap, the term is not necessarily tied to mechanism of
+action, but by convention refers to amphetamines and methylphenidate. Again, these are considered
+first line therapy. The exceptions would be if you have a patient with certain comorbidities, which
+we'll also discuss. us. Approximately, when we look at response rates to the stimulant class, we see
+approximately 40% of patients respond to both the amphetamines and methylphenidate. However, another
+40% only respond to one or the other. So what this means clinically is that there may be a trial and
+error period to find the best medication for a patient. And there's some very rational examples why
+there are differences. It could be pharmacogenetic differences, for instance. Thus, it's worth
+exploring different options in patients. Even if you stay within the same family of treatment
+options, patients may respond to one medication and yet not another. And last point here, ADHD
+subtypes do not necessarily predict response to specific agents, such as inateninous itself doesn't
+necessarily, you don't see a better response with one versus the other. So general considerations
+with stimulants, again, this includes amphetamines and methylphenidate. There are several
+formulations of both of these available. Again, you're not expected to memorize all this, but you
+are expected to know some general pros and cons of when you might use one over the other, such as
+immediate release products versus delayed release. Immediate release products have a benefit of
+dosing in smaller doses for younger children. A downside, however, since they're immediate release
+is that they are short-acting, so you may have to give a second dose during the school day. Delayed
+release formulations have the benefit of less frequent dosing. However, they may last longer than
+needed, and some patients may have their sleep impacted. Excuse me. there are some products that
+have a blend of immediate release plus delayed release there's a transdermal delivery system there's
+a suspension so obviously we've got several options and I don't expect you to memorize all these but
+to understand you know some of the situations where you might prefer one over the other so let's
+start with a more specific conversation about amphetamines. I use MOA for mechanism of action. It's
+a little interesting or confusing because amphetamines refers to a drug class, and there's also a
+specific drug amphetamine. So just keep that in mind. As I've already referenced, the amphetamines
+work by several mechanisms, but they ultimately cause more dopamine and norepi to be available in
+the synapse By those three mechanisms I mentioned earlier, displacement from presynaptic vesicles,
+reverse transport of norepi, and then a lesser effect, but it's still there, the blockade of the
+reuptake of dopamine and norepi via the transporters. Note that there are different isomers of
+amphetamine, and it's believed that the D isomer is the one that is more potent in the CNS, which is
+where we want it to work. that L-isomer is associated with more cardiovascular actions. I highlight
+this because this partly explains one reason why we have so many formulations of amphetamine.
+There's a pure dextroamphetamine formulation that's available. There are some formulations that have
+a blend of the DNL, and then there's one that's actually a resigment mixture. So clinically, is
+there much difference? It's really hard to prove that, but there are options available. If a patient
+doesn't tolerate one, et cetera, respond to one version, then there are options to try another.
+There's also a formulation of dexamphetamine that has lysine attached to it. And I have seen this as
+a question before on board exam prep. So it's worth noting the rationale behind this is that the
+conversion to dexamphetamine is slowed down because the lysine must be removed. So theoretically,
+this may reduce the potential for ***** because of a delaying effect. However, there's little data
+to show that there's an increased risk of *****, but that is the rationale why this product is on
+the market. And lastly, just as an interesting fact, methamphetamine became approved or was approved
+for ADHD back in 1943. It is still available in generic form as a prescription drug for this
+condition. However, it's rarely used. So our second type of stimulant is, of course,
+methylphenidate. Again, the mechanism of action is inhibition of the neurotransmitters, therefore
+causing increased amount of both dopamine and norepi in the synapse. It's considered a non
+-selective reuptake inhibitor because it blocks reuptake of more than one neurotransmitter. I have
+included trade names on here, as I have elsewhere in the slide. I don't expect you to memorize that.
+This is just to help you with familiarity because some of these names, generic names, can get a
+little complex. As with the amphetamine family, multiple formulations of methylphenidate are
+available, including a D -isomer, which is also the active form. The following two slides, just to
+reiterate what we've already talked about, and so I won't go back into this in more detail. It's
+just a different way of looking at what we talked about previously. Excuse me, this slide, you'll
+know there are norepi transporters, the NET, this slide, dopamine. Just to reiterate the fact that
+ultimately these transporters are not that selective between the two. And with the stimulant family,
+again, we believe that it's the increased availability of both dopamine and norepi in these patients
+which help them. so overall initiation titration and monitoring of of all the stimulants drug
+therapy should be chosen obviously on an individualized basis and when you consider things like
+dosing timing adverse effects which formulation is best tolerable cost you know all that has to be
+considered there are several monitoring parameters that need to be established or conducted at
+baseline and throughout therapy. This slide includes general recommendations for both titration and
+monitoring. There is some variability in these recommendations amongst groups. I have tried to
+follow what the American Academy of Pediatrics recommends. A key takeaway point is that it's
+necessary to monitor these patients and have close follow-up, especially after a patient is, after,
+excuse me, a medication is initiated. The stimulant medications can be titrated fairly quickly if
+it's tolerated because typically you see a response or not fairly soon. It is recommended that you
+have a face-to-face follow-up for these patients because they tend to be young, and you definitely
+want to catch if they're having any adverse effect. Adverse effects with the stimulant family are
+typically dose -related, which makes sense when we look at the pharmacology. Dosing stimulants early
+in the day using immediate release product formulations can be helpful because, as you would expect,
+these medications are associated with insomnia with delayed release formulations and so if if you
+get to if you have a choice between immediate delayed you know think about impact on sleep you know
+the immediate products acting products don't last as long so they're less likely to impact sleep the
+delayed release products last longer and so depending on what time of the day their dose they could
+impact sleep growth suppression has been associated specifically with methylphenidate but we still
+monitor growth in patients who are on amphetamines the growth suppression is minimal for most
+children children will lose may lose some weight and it may have some impact on height is typically
+not a huge impact studies indicate that in the first year of methylphenidate use most patients will
+lose an average of about three kilos the weight loss will taper over time and again most of the
+impact isn't in the first year but we do want to keep a close eye on that it's important for you to
+note that the the impact on weight is due to reduced food intake and the patients just aren't as
+hungry as before they were on the medication so it's not due to an alteration in metabolism it's due
+to reduced food intake again and this is helpful to know because you can work with the patient and
+the caregivers to ensure that when these patients do eat, we actually want them to eat something
+that's high calorie, a high calorie meal or high calorie stack so we can maintain their growth.
+Lastly, we do have headaches and abdominal pain. Sometimes there's adverse effects. We see that with
+this patient population. Those both tend to subside over time. So the next set of adverse effects
+includes our cardiovascular effects. It's not surprising because we're impacting repinephrine that
+we can see slight increases in heart rate and slight increases in blood pressure. And some patients
+were talking about one to two beats per minute for heart rate and one to four millimeters of mercury
+for systolic and diastolic for blood pressure. Some patients may have more pronounced effects than
+that, 5 to 15%. So it's not a majority, but it is while we monitor this heart rate and blood
+pressure in all patients at baseline and throughout therapy. So additional baseline screening
+recommendations should also include a family history of cardiovascular disease, including the ones
+I've listed on the slide. I won't read all of them. And the patients themselves, if they have a
+known history of any type of structural cardiac disease, then stimulants should be avoided. It's not
+recommended that all patients get a baseline EKG, all patients put on stimulants, that is. However,
+if a patient themselves has a risk factor, it is recommended that those patients do get a baseline
+EKG. But again, it's not recommended that all patients on stimulant therapy get an ECOG. I've
+included this slide for completeness sake, and I won't delve into the details, but this is a fairly
+recent study, a review rather, looking at stimulants and the correlation between medications and
+cardiovascular events. And I included this again just as an FYI. It included about 19 different
+studies. And overall, basically, it shows what the current literature supports. And that is that it
+does not appear to be overt cardiovascular risk when we look at the well-screened patient population
+and cardiovascular impact. So finishing up with our stimulant class, one of the things we need to
+include here that ticks are potential adverse effects with stimulants. A tick is a brief,
+repetitive, recurrent motor contraction, and it can be precipitated by a stimulant. However, if a
+patient has responded well to their stimulant and the tick is not interfering with their educational
+or day-to-day activities, it is acceptable to leave them on the medication. But if the reverse is
+true, if the tick is bothersome to their education and day-to-day life, then it may be best to take
+them off of stimulant therapy and try one of the non-stimulants. Priapism, which is a prolonged
+******** for more than four hours, has been associated with stimulant use, primarily
+methylphenidate. And so it's not very common, but it is included in one of the potential adverse
+effects to be aware of. so it's a fair question do stimulants help improve scholastic performance
+because that is one of our goals in many of our patients data currently indicates that performance
+improves in elementary students reading and math scores compared to non-treated patients however
+scores still lie behind non -ADHD peers but for the individual patient they there is some benefit.
+There are standard scales used at baseline at diagnosis to evaluate future therapy. You may be
+familiar with the Connor scale. The scales help us with some consistency in assessment from when the
+patient is diagnosed and then treated and helped us to objectively determine medications help
+patients. So I wanted to be aware there is an objective, a parameter to use when we're looking at
+the benefit or lack thereof in these patients. so what do we do if a patient doesn't respond to
+their initial stimulant medication well you can increase the dose which is pretty straightforward i
+do want to say be wary of really high off-label doses of stimulants because there are that is
+sometimes an approach keep in mind as we said that adverse effects are dose related and so
+increasing the dose beyond what is published in the recommendations is just can be risky. There also
+may be some rational reasons why patients don't respond to certain medications, you know, such as
+pharmacogenetic, excuse me, pharmacokinetic differences within that individual patient. They may
+have a pharmacogenetic profile where they don't metabolize the medications as well. They may have a
+difference in their um their transporters for these neurotransmitters so um there can be some some
+real variability which is why there's a bit of a trial and error in some patients to find find the
+best therapy currently we do not do pharmacogenetic testing in all patients because it's not a high
+yield thing and then um a last point on this when when someone tells you the medication didn't work
+It's real important you get a specific history because it could be that it worked initially and then
+we're off throughout the day. You know, maybe they need a long acting product. And so you need to be
+specific when someone says or find out specifics, because it may be a little more complicated than
+whether it's just didn't work at all. So to finish our statement discussion, there is a warning
+regarding *****, misuse and addiction. I pulled the specific warning from Adderall, and there's a
+warning because there may be an increased risk for ***** of potential with these medications.
+However, data currently do not indicate that a patient is at increased risk for abusing drugs.
+Because of their pharmacology, this black box warning has been added. So it's definitely something
+to be aware of. But right now we don't have evidence that patients who are placed on stimulants for
+this condition have an increased risk of abusing medications. Now, if you have a patient who has not
+started stimulant therapy yet and they already have a history of substance *****, then you may want
+to consider a different option in that patient population. So we will move on to the non-stimulant
+medications. Just as a recap, we just talked about the stimulants, which include amphetamines and
+methylphenidate. And now we're moving on to the handful of classes that include the non-stimulant
+medication. These are alternatives to the stimulants if comorbidities are present, which preclude
+the use of stimulants. These do not, they're not as effective as the stimulants. That doesn't mean
+they don't work at all. It's just that they don't tend to be as effective. uh it's also worth noting
+that they they have a slower onset of benefit it may take two to four weeks um versus you know a
+couple days um with stimulants there are some shared concerns when we look at um adverse effects to
+watch out for and that goes back to the pharmacology um patients with cardiovascular risk factors um
+at baseline need to be further evaluated with non-stimulants just as they were as we said with
+stimulants and it's very similar in EKG consult with the consult the cardiologist but again that's
+just patients with risk factors that's not all patients the first non-stimulant we'll talk about is
+atamoxetine which is also known as dratera it is a selective reutake inhibitor of norepi so it does
+not have an appreciable effect on dopamine again it has a slower therapeutic benefit or onset of
+onset of benefit i have on here that because of that you may need to overlap a stimulant with a non-
+stimulant for transitioning someone however you would want to be very cautious about that and you
+would probably want to seek consultation of someone that has done that on a routine basis because
+these drugs all impact NREPI, if you have a patient taking two at one time, even if you reduce the
+dose of one, they could really be predisposed to adverse effects. So even though that is a
+recommendation, it's something to consider seriously. Adverse effects with atomoxetine, there are
+some shared similarities with stimulants, and then there's some things that are different. The
+abdominal pain is a shared adverse effect, but if you'll see somnolence is unique. The stimulants
+are associated with insomnia. Atamoxetine is associated with making people sleepy. You also see
+decreased appetite with atamoxetine as you do with stimulants, and we've already mentioned you can
+also see some increase in heart rate and blood pressure, again, because it causes norepi to be
+increased. It is metabolized by one of our P450 systems, and so there are individuals who are
+genetically predisposed to being slow metabolizers. We don't screen for that, but it is something to
+be aware of. There are rare cases, case reports of liver injury in the literature. Because it's
+rare, we don't routinely screen these patients for liver based on liver disease or throughout their
+drug therapy. These are typically younger patients that tend to have healthy livers to begin with.
+However, if the patient starts to manifest signs of liver dysfunction, such as paritis, dark urine,
+et cetera, then you would stop the medication and then evaluate them. And then lastly, we see that
+this medication has a warning about increased risk for suicidal ideation, which seems a bit random.
+And this is because the mechanism, the reuptake, blockade and reuptake of norepi is, we have some
+antidepressants that have that similar pharmacology. And currently, all the antidepressants we have
+in the U.S. on the market carry a warning about the potential for increased suicidal ideation. And
+because the pharmacology is so similar with atomoxetine, it basically is required to have the same
+warning. Our next non -stimulant is the newest one that was around or approved, excuse me, in 2021.
+One, it's very similar to atomoxetine, even the generic name looks similar. Another selective
+inhibitor of norepia reuptake. Very parallel side effects, somnolence, headache, appetites reduced,
+cardiovascular effects can be there, and then it's required to have the same warning because, again,
+its pharmacology is similar to antidepressants. So still fairly new, so we don't know if there's a
+lot to distinguish it yet from atomoxetine. So the next class of non-stimulants are the alpha-2
+adrenergic agonists. When we look at their mechanism, traditionally, when you talk about this class,
+and you will discuss them more when you learn about hypertension, we attribute their benefit to
+their presynaptic pharmacology. They are alpha-2 agonists. And so one of the things they do is that
+they agonize the autoreceptor. And I'm going to jump ahead here. you have these autoreceptors where
+when there's enough norepi in the synapse, it sort of feeds back to this autoreceptor and tells the
+presynaptor neuron, no more norepi. And so that helps with hypertension because you have less
+neurotransmitter. However, that doesn't fit with what we talked about up to this point, because all
+the other agents we've talked about have increased norepi. So while it didn't make sense that a drug
+that reduces norepi helps ADHD? Well, it doesn't. So it's thought that the benefit in ADHD is not
+related to the presynaptic autoreceptor. It's thought that the postsynaptic alpha-2 receptors are
+where the benefit is generated. So the postsynaptic effect has been associated with increased blood
+flow and prefrontal cortexes. And it's thought that it's that mechanism that actually helps with
+memory and executive functioning. So at least that's our current understanding. The alpha-2 agonists
+can be used either by themselves or in combination with other ADHD medications. And like atomoxetine
+and filoxazine, they can be used as options in patients in whom stimulants should be avoided for a
+certain concern or comorbidity. So, the alpha-2 agonists, their family of adverse effects, they
+cause sedation, which could be a benefit. They actually cause the opposite effects of the other
+drugs when we look at cardiovascular effects. They cause reduced heart rate, potentially, and
+potentially low blood pressure. Because of their mechanism at the presynaptic alpha -2 receptor,
+there's a potential for rebound hypertension if they're abruptly stopped. So patients need to be
+real consistent about taking them. And then lastly, constipation can be an adverse effect. So now
+we're going to talk about a concern potentially with all the agents we've talked about up to this
+point. All the stimulants, the amphetamines and methylphenidate, atamoxetine, and alpha-2. I did not
+include viloxazine because it's still new and we don't know if this applies yet. So I did exclude
+that one. All of these other agents currently have a warning about the potential for certain
+psychiatric adverse effects. They've mostly been reported with stimulants, but these other agents
+have had a few cases as well. And this falls under three specific categories, psychosis, mood
+disturbances, and then severe anxiety attacks. And so this is good to keep in mind. It's not
+something we see in the majority of patients, but it's helpful to know, for instance, if you have a
+patient that have any of these at baseline, you need to at least be aware that any of these
+therapies may exacerbate the underlying condition. So I did want to include a little bit about a
+drug holiday period. There's not universal agreement on this. A holiday is a break from drug
+therapy. It's mostly been recommended when it is recommended, which isn't by everybody, for
+stimulants. It could be over a weekend. It could be for a longer period of time, such as in the
+summer. And not everybody is of the opinion these patients should have a holiday. And so it's not
+universally agreed upon, but I want you to be aware of it. So the potential benefit is that for
+patients who have had an impact on their growth, this may allow them to catch up. But it's also a
+time when you could re-evaluate the need for the patient to stay on therapy. But regardless, the
+benefit of stopping versus continuing the medication should be evaluated. So I mentioned this is
+primarily something that might be considered with stimulant therapy. Remember, the non -stimulants
+take a while to work, that delayed effect to benefit. So it doesn't really make sense that we would
+have a holiday with the non-stimulants because it just means you'd have to restart, reinitiate a
+drug titation process. So last medication I will include, and I'll put it at the very end because
+it's used in primarily the adult population, and you'll see it in the literature. So I wanted you to
+be aware of that. This is bupropion. It is a weak norepi and dopamine reuptake inhibitor approved
+officially for depression and smoking cessation, but it is used off -label for ADHD. So you may use
+it in patients or see it used in patients. Not surprisingly, it's adverse effects along with what
+we've seen with the other medications that impact norepine dopamine, appetite suppression, insomnia,
+tachycardia. It does have the unique concern of potentially lower seizure threshold. And because it
+is an antidepressant, it also carries that suicidal ideation warning. A practice point I wanted to
+include, I know you haven't learned a lot yet about the Drug Enforcement Agency's drug schedules.
+The stimulants are all Schedule II drugs, and that impacts practice because it impacts
+prescriptions. Specifically, Schedule II's cannot be automatically refilled. Wherever you practice,
+you know, make sure you know what the the laws are there are federal laws that that oversee this but
+there could be additional criteria to consider at the state level and then lastly I'll add it in
+here which doesn't really tie to the DEA thing but it's something to consider it is a valuable
+consideration in these patients you know when to stop therapy altogether you know do they need
+lifelong therapy do they only need it during certain certain phase of their life you know But that's
+an individualized discussion to have with patients and their caregivers and something to consider.
+So in summary, pharmacotherapy is only one modality. Therapeutic goals should be identified at the
+outset. Stimulants are first line, but we do a non-stimulant options for patients and home
+stimulants are not the best choice. and in these are patients you definitely have to follow you
+can't just start a medication and see them a year later so periodically assess them both for benefit
+of treatment and for any adverse effects that the patient may be experiencing these are my core
+references so I'll end where we started what is a stimulant in the management of ADHD a stimulant
+refers to an amphetamine type medication or methamphetamine, I'm sorry, excuse me, amphetamine or
+methylphenidate. And then here is the lecture feedback form. I will add that I have my version of a
+transcript for this video recording uploaded onto Canvas. And so you can download that and you've
+got a cleaned up version, if you will, of the transcript that I've edited. And so that is available
+to you. So with that, good luck. And please reach out if you have any questions. Thank you.

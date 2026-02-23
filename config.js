@@ -81,5 +81,22 @@ const testsToLoad = [
     { name: "7-Physiology: Drug Addiction (L68)", data: window.Test_L68 },
     { name: "7-Psychiatry: Substance Use Disorders (L69)", data: window.Test_L69 },
     { name: "7-Pediatrics: H&P Part 1 (L70)", data: window.Test_L70 },
-    { name: "7-Week 7 CUMULATIVE EXAM (L48-70)", data: window.Test_Cumulative_Week7 }
+    { name: "7-Week 7 CUMULATIVE EXAM (L48-70)", data: window.Test_Cumulative_Week7 },
+
+    // --- Week 8 ---
+    { name: "8-OMM: Basics of Diagnosis AC/SC/GH (L71)", data: window.Test_L71 },
+    { name: "8-Neurooncology: Gliomas & Ependymomas (L72)", data: window.Test_L72 },
+    { name: "8-Neuronal Tumors, Medulloblastoma & Meningioma (L73)", data: window.Test_L73 },
+    { name: "8-Neuro Birth Defects (L74)", data: window.Test_L74 },
+    { name: "8-Pediatric Neuro 1 (L75)", data: window.Test_L75 },
+    { name: "8-Pediatric Neuro II (L76)", data: window.Test_L76 },
+    { name: "8-Neurodevelopment & Behav Problems (L77)", data: window.Test_L77 },
+    { name: "8-ADHD & Adolescent Development (L78)", data: window.Test_L78 },
+    { name: "8-Pharmacologic Management of ADHD (L79)", data: window.Test_L79 },
+    { name: "8-Bipolar and Depressive Disorders (L80)", data: window.Test_L80 },
+    { name: "8-Anxiety Disorders (L81)", data: window.Test_L81 },
+    { name: "8-Schizophrenia and Psychotic Disorders (L82)", data: window.Test_L82 },
+    { name: "8-Unusual Neurological Diseases (L83)", data: window.Test_L83 },
+    { name: "8-Pediatrics Part 2 (L84)", data: window.Test_L84 },
+    { name: "8-Week 6-8 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_8 }
 ];

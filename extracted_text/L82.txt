@@ -1,0 +1,701 @@
+--- SLIDE 1 ---
+Office of Academic Affairs
+Schizophrenia and 
+Psychotic Disorders
+Giovanni Fardella, Academic Medicine Scholar OMS-3
+gfardell@nyit.edu
+Cori Dyson, MD 
+cdyson@arnextstep.com
+
+--- SLIDE 2 ---
+Source: Course Syllabus
+• Utilize DSM-V criteria to compare a n d  contrast 
+schizophrenia spectrum a n d  other psychotic disorders.
+• Describe the etiology a n d  epidemiology of the 
+schizophrenia spectrum a n d  other psychotic disorders.
+• Differentiate between primary psychotic disorders and 
+secondary psychotic disorders (caused b y medical 
+problems)
+• Describe the evidence-b a se d a ssessm ents  and 
+treatment approaches for each.
+Session Objectives
+
+--- SLIDE 3 ---
+Quick Note:
+This lecture will go over high yield  
+topics in Psychiatry that will show 
+up on your board exams. The goal 
+should NOT be to simply 
+memorize the DSM-5 criteria and 
+buzz-words, but instead 
+understand the overall clinical 
+picture. Very important things 
+you should know will be marked 
+with a star!
+
+--- SLIDE 4 ---
+Gene, a  25 y/o male presents to your emergency department (ED) with chief 
+complaint of being poisoned by his girlfriend and mother. When you enter the 
+room, he has been pacing, but stops upon your entering. You notice that 
+before you can introduce yourself, his lips are softly moving, as if speaking to 
+himself. He steps back when you extend your hand to shake as you introduce 
+yourself. He provides brief, abrupt, short answers after varying latency 
+(sometimes short, sometimes longer). At times he appears distracted, and 
+you need to repeat some questions. He also looks around the room 
+periodically as if distracted or looking for someone/something.
+Clinical Case 1
+
+--- SLIDE 5 ---
+Clinical Case 1
+When you inquire about past psychiatric hospitalizations, Gene 
+mumbles something under his breath about hating those “shots”
+and the horrible nurses. When you ask for clarification, he says
+never mind, and refuses to answer any more questions. He
+minimizes the concern about being poisoned and asked if he
+could go smoke marijuana now. He begins to pace again and
+begins to look more agitated.
+
+--- SLIDE 6 ---
+•
+Review of ED chart: No known next of kin and 
+unknown if patient w a s  livi n g  with s o m e o n e  or 
+a lon e .  No known p a s t  m e d i c a l  history.
+•
+Limited p h y s i c a l  e x a m  d u e  to limited cooperation 
+from patient. 
+•
+Afebrile. Pulse 9 0 ,  BP 1 7 9 / 8 5 ,  RR 2 0 .  
+•
+Agitated, little to no e y e  contact, l u n g s  CTA, CV RRR 
+no m u r m u r s  or rubs, a b d o m e n  soft.
+•
+Disheveled  a p p e a r a n c e ,  poor g r oom in g  a n d  
+h y g i e n e ,  a n d  little to no e y e  contact.
+•
+Urine tox positive for THC, no alcohol, no 
+“poison” or other drugs
+Clinical Case 1
+
+--- SLIDE 7 ---
+When Gene’s mom and girlfriend show up, they note he has been 
+hospitalized a total of 3 times throughout his life and was prescribed 
+olanzapine, but stopped taking it 3 months ago. He has struggled with his 
+mental health starting at 21 years of age. Recently, he has noted hearing 
+voices that “tell him to do bad things”.
+Clinical Case 1
+
+--- SLIDE 8 ---
+What are the key points in the case history?
+Question 1
+
+--- SLIDE 9 ---
+What are the key points in the case history?
+•
+Entertaining internal dialogue
+• Flat affect
+• Appears to be distracted searching for someone/something
+• Multiple previous hospitalization with “shots”
+• THC positive on urine tox
+• Lack of eye-contact 
+• Hallucinations and delusions: believes his loved ones poisoned him, 
+hearing voices, etc. 
+• Prescribed an antipsychotic and stopped taking it recently
+Question 1
+
+--- SLIDE 10 ---
+Differential  D i a g n o s e s f o r  Non-Psychiatric Causes 
+•
+Epilepsy
+•
+h/o h e a d  t r a u m a
+•
+D e m e n t i a s  (A l z he i me r ’ s,  Pi c k ’ s,  or L e w y  B o d y  D i s e a s e )
+•
+Stroke
+•
+S p a c e - o c c u p y i n g  l e s i o n s  a n d  str uc tur al  a b n o r m a l i t i e s  of t h e  br a in
+•
+H y d r o c e p h a l u s
+•
+D e m y e l i n a t i n g  d i s e a s e s
+•
+Neuropsychiatric  disorders
+•
+A u t o i m m u n e  disorders
+•
+Infe c ti ons
+•
+E n d o c r i n o p a t h i e s
+•
+Me ta bol i c disorders
+•
+C h r o m o s o m a l a b n o r m a l i t i e s
+•
+S u b s t a n c e u s e (intoxication or withdr a wal)
+•
+M e d i c a t i o n s
+•
+Toxins
+This i s a l l befor e w e b e g i n to c onsi de r other p s y c h i a t r i c  conditions!
+Psychotic Disorders
+
+--- SLIDE 11 ---
+Clinical Pearl
+Keep in mind, for mental health disorders: you MUST rule 
+out other medical conditions first (ex. are symptoms due 
+to depression or are the depressive symptoms due to 
+hypothyroidism?). 
+In other words, their symptoms are NOT better 
+accounted for by another underlying medical condition! 
+(cancer, substance use, etc.)
+
+--- SLIDE 12 ---
+D i f f e r e n t i a l  D i a g n o s i s  f o r  P s y c h i a t r i c  C a u s e s
+• S u b s t a n c e  induced psychotic disorder
+• Bipolar disorder typ e  I, current episode (m a n i c  with psychotic features)
+• Major depressive disorder with psychotic features
+• Schizophreniform
+• Brief psychotic disorder
+• Schizotypal personality disorder
+• Delusional Disorder
+• Schizoaffective  Disorder
+Psychotic Disorders
+
+--- SLIDE 13 ---
+Possible Labs You May order for the patient:
+•
+CBC
+•
+Liver functioning tests and ammonia level
+•
+Calcium/phosphorus
+•
+TSH
+•
+ESR—non specific for inflammation if positive
+•
+Antinuclear antibodies—non specific for autoimmune disorders
+•
+Ceruloplasmin or urine copper to rule out Wilson’s disease especially if they have 
+physical signs.
+•
+HIV screening—history of IV drug use, other STD
+•
+FTA-Abs for syphilis (RPR not sufficient)—history indicates testing
+•
+Vitamin B and folate
+•
+UA
+•
+Urine Drug Screen
+•
+EEG—suspect delirium or neurologic findings on exam
+•
+Brain imaging especially if h a ve  neurologic findings on exam
+M a s s a c h u s e t t s  General Hospital Comprehensi ve  Clinical Psychia tr y,  S e c o n d  Edition, Chapter twenty-e i g h t,  Tests a n d  Laboratory 
+Findings
+Psychotic Disorders
+
+--- SLIDE 14 ---
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter 
+twenty-eight, Tests and Laboratory Findings
+Preliminary Lab results are unremarkable. Patient 
+begins yelling, threatening to hit anyone who gets 
+close to him and bangi ng  on the walls.
+What do you want to do now? Has your differential 
+changed?
+Question 2
+
+--- SLIDE 15 ---
+Clinical Overview: Schizophrenia
+P ossib le  correct a n s w e r s :
+A d m i s s i o n  to a  p s y c h i a t r i c  h o s p i t a l :  p o s s i b l y  i n i t i a t e  a  7 2  hour 
+h o l d  if h e  i s  u n w i l l i n g  to g o  into t h e  h o s p i t a l  o n  a  v o l u n t a r y  b a s i s
+V e r b a l  D e - e s c a l a t i o n : U s e  c o m m u n i c a t i o n  s t r a t e g i e s  t o  c a l m  t h e  p a t i e n t  a n d  r e d u c e  
+a g i t a t i o n .
+M e d i c a l  I n t e r v e n t i o n : A d m i n i s t e r  m e d i c a t i o n s ,  t o  s e d a t e  t h e  p a t i e n t . C o n s i d e r  
+i n t r a m u s c u l a r  ( I M )  o p t i o n s  f o r  m o d e r a t e  t o  s e v e r e  a g i t a t i o n . W h i l e  d r u g  c o c k t a i l s  u s e d  
+t o  b e  u s e d ,  n e w  g u i d e l i n e s  r e c o m m e n d  a n  I M  i n j e c t i o n  o f  Z iprasidone (Geodon).
+R e s t r a i n t  a n d  S e c l u s i o n : N o  l o n g e r  r e c o m m e n d e d .  C a n  s e t  u p  a  1 : 1  i f  t h e r e  a r e  
+a v a i l a b l e  p e r s o n a l .
+Question 2
+
+--- SLIDE 16 ---
+Schizophrenia Spectrum and Other Psychotic Disorders: DSM-5 Selections. 
+Massachusetts General Hospital Comprehensive 
+Clinical Psychiatry, Second Edition, Chapter twenty-eight, Clinical Features and Diagnosis.
+DSM-V Criteria for Schizophrenia:
+≥2 s y m p t o ms  from this list, a n d  at least 1 m u s t  be a  
+psychotic symptom*. Must be present for at least 6 
+months, and ≥ 1 month of active symptoms 
+•
+Delusions*
+•
+Hallucinations*
+•
+Disorganized speech*
+•
+Grossly disorganized or catatonic behavior
+•
+Negative symp toms (f l at  af f ect ,  avol i t i on , etc. )
+Schizophrenia
+
+--- SLIDE 17 ---
+Schizophrenia
+Positive Symptoms vs Negative Symptoms, 
+what does that mean? 
+In psychology and psychiatry, “positive” means the 
+addition of something that wasn’t there before. It does 
+not mean that the symptoms are beneficial at all. In this 
+case, delusions, hallucinations, and disorganized 
+speech
+Conversely, “negative” means taking something away. 
+Thus, negative symptoms include flattened affect, 
+reduced speech, and lack of initiative/agency
+
+--- SLIDE 18 ---
+Schizophrenia Spectrum a n d  Other Psychotic Disorders: DSM-5  Selections. 
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter twenty-eight, Clinical Features a n d  Diagnosis.
+Psychotic symptoms include delusions, 
+hallucinations or disorganized speech
+• Delusion: Fixed, False belief (ex. Family 
+poisoned me)
+• Hallucination: Perceptions without external 
+stimulus and can occur in a n y  sensory modality
+(ex. hearing voices)
+• Disorganized speech: Loosening of 
+associations, derailment, or incoherence
+Schizophrenia
+
+--- SLIDE 19 ---
+Schizophrenia
+A quick note on hallucinations- they can affect ANY sensation, but some 
+are more common in schizophrenia than others:
+•
+Auditory: the most common in schizophrenia
+•
+Visual: the second most common form in schizophrenia
+•
+Olfactory is a common symptom in temporal lobe epilepsy, 
+uncommon in schizophrenia
+•
+Tactile: typical of cocaine or amphetamine use, alcohol withdrawal (ex. 
+Feeling like bugs are crawling on skin)
+•
+Somatic: involve a sensation from within the body and are obvious if 
+bizarre. Ekbom’s syndrome/delusional parasitosis is an example
+•
+Gustatory: rare in schizophrenia
+
+--- SLIDE 20 ---
+Schizophrenia
+•
+Persecutory or paranoid: most common in schizophrenia or delusional disorder. Belief 
+person is being pursued, stalked, framed, or tricked. (cyberstalking/doxing example)
+•
+Ideas of reference: thinks the news or paper are talking about or to them
+•
+Grandiose: belief that some agency has taken control of their thoughts, feelings and/or 
+behaviors.
+•
+Somatic: part of the body is experienced as being diseased or malfunctioning
+•
+Nihilism: exaggerated belief in the futility of everything.
+•
+Delusions of love: aka erotomania, patients feel loved by another person, often of higher 
+status, who is merely an innocent bystander
+•
+Jealousy: suspecting someone of being unfaithful
+•
+Delusions of doubles (aka Capgras syndrome): the patient believes that a family 
+member or close friend has been an identically appearing double. More common in 
+dementias.
+A quick note on delusions: they are false, non-
+culturally sanctioned beliefs that are held with 
+conviction, even in the face of overwhelming evidence 
+to the contrary
+
+--- SLIDE 21 ---
+Schizophrenia Spectrum and Other Psychotic Disorders: DSM-5 Selections. 
+Massachusetts 
+General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter twenty-eight, Clinical 
+Features and Diagnosis.
+Disorganized behavior can be described as odd, bizarre behavior 
+such as smiling or laughing inappropriately or as if responding to 
+internal stimuli
+•
+Purposeless, ambivalent behavior or 
+movements, and random, intermittent agitation
+•
+Disheveled attire, unusual or inappropriate attire
+•
+Disjointed speech patterns and behaviors reflect disorganized 
+thinking: Perseveration, tangential speech, word-salad, use of 
+neologisms
+Schizophrenia
+
+--- SLIDE 22 ---
+http://arktos.nyit.edu/login?url=https://www-clinicalkey-com.arktos.nyit.edu/#!/content/  derived_clinical_overview/76-s2.0-
+B 9 7 8 0 323 755 702 001 715
+1 .
+S t u p o r -  n o t  a c t i v e l y  r e l a t i n g  t o  t h e  e n v i r o n m e n t
+2 .
+C a t a l e p s y - a  s u d d e n ,  t e m p o r a r y  l o s s  o f  m u s c l e  c o n t r o l ,  o f t e n  t r i g g e r e d  b y  s t r o n g  
+e m o t i o n s  l i k e  l a u g h t e r ,  s u r p r i s e ,  o r  a n g e r  
+3 .
+W a x y  f l e x i b i l i t y - w h e r e  a  p e r s o n ' s  l i m b s  r e m a i n  i n  w h a t e v e r  p o s i t i o n  t h e y  a r e  
+p l a c e d ,  a f t e r  b e i n g  m o v e d  b y  s o m e o n e  e l s e  ( l i k e  p o s t u r i n g  a  d o l l  o r  a c t i o n  f i g u r e )  
+4 .
+M u t i s m -  n o  o r  v e r y  l i t t l e  v e r b a l  r e s p o n s e  ( o u t s i d e  o f  a p h a s i a )
+5 .
+N e g a t i v i s m - o p p o s i t i o n  o r  n o  r e s p o n s e  t o  i n s t r u c t i o n s
+6 .
+P o s t u r i n g - s p o n t a n e o u s  a n d  a c t i v e  m a i n t e n a n c e  o f  a  p o s t u r e  a g a i n s t  g r a v i t y
+7 .
+M a n n e r i s m - o d d ,  c i r c u m s t a n t i a l  c a r i c a t u r e  o f  n o r m a l  a c t i o n s l i k e  p e c u l i a r  w a y s  o f  
+d r e s s i n g  o r  p e r f o r m i n g  e v e r y d a y  t a s k s ,
+8 .
+S t e r e o t y p y - r e p e t i t i v e ,  a b n o r m a l l y  f r e q u e n t ,  n o n - g o a l - d i r e c t e d  m o v e m e n t s
+9 .
+A g i t a t i o n - s p e c i f i c a l l y  N O T  i n f l u e n c e d  b y  e x t e r n a l  s t i m u l i
+1 0 .
+G r i m a c i n g - e x c e s s i v e  f r o w n i n g  o r  t e e t h  b e a r i n g
+1 1 .
+E c h o l a l i a - m i m i c k i n g  a n o t h e r ’ s  s p e e c h
+1 2 .
+E c h o p r a x i a - m i m i c k i n g  a n o t h e r ’ s  m o v e m e n t s
+Catatonia is characterized by the presence of ≥3 of 12
+symptoms of marked motor disturbance including:
+Do you need to 
+memorize each and 
+every aspect of 
+catatonia? Of course 
+not. Should you be 
+able to identify a 
+patient presenting 
+with catatonia? Yes. 
+Schizophrenia
+
+--- SLIDE 23 ---
+Negative Symptoms of Schizophrenia:
+•
+Blunted or flat Affect
+•
+Alogia: poverty of speech
+•
+Asociality: social withdrawal
+•
+Anhedonia: lack of interest in things one used to enjoy 
+doing
+•
+Ambivalence: inability or extreme difficulty to make 
+decisions
+•
+Avolition: lack of interest or engagement in goal-directed 
+behavior
+Schizophrenia
+R a n g a n d Dale’s Ph a r m a col og y, Ninth Edition, Antipsychotic Drugs Chapter, Section Neg a ti ve S y m p t o m s .
+h ttp:/ /arktos .nyit.edu/ login?url=www - clinicalkey-com.arktos .nyit.edu/ #!/content/book/3-s2.0-B 9 7 8 0 7 0 2 0 74486000470?indexOverride=GLOBAL
+N o t e :  N e g a t i v e s y m p t o m s a r e e a s i l y c o n f u s e d with d e p r e s s i v e
+s y m p t o m s , s i d e e f f e c t s of a n t i p s y c h o t i c s , or c o g n i t i v e s y m p t o m s .  
+H o w e v e r ,  t h e y c a n b e j u s t a s t ro u b l i n g a n d  d i s a b l i n g to a p a t i e n t a s
+p o s i t i v e s y m p t o m s !
+
+--- SLIDE 24 ---
+Treatment: involves use of antipsychotics.
+•
+There are two main  classes of antipsychotics: Typical or first generation 
+antipsychotics (FGA) and atypical or second generation 
+antipsychotics(SGA).
+•
+SGA’s are commonly used now due to lower risk of severe side effects: 
+Neuroleptic Malignant Syndrome (NMS) and Tardive Dyskinesia.
+• NMS— defined by elevated temperature, muscle rigidity, irregular pulse, 
+tachycardia, tachypnea, altered mental status and autonomic nervous 
+system dysfunction. Can be lethal if antipsychotic is not stopped and 
+supportive care not given.
+• Tardive Dyskinesia - chronic neurological syndrome caused by 
+antipsychotic use. Defined by repetitive involuntary movements 
+including grimacing, eye blinking, and other involuntary movement.
+Schizophrenia
+Behavioral Science in Medicine: Chapter 24: Schizophrenia Spectrum a n d Other Psychotic Disorders,M an agemen t .
+MGH Handbook
+Psychiatry http://arktos.nyit.edu/login?url=https://www -clinicalkey-com.arktos.nyit.edu/#!/content/book/3- s2.0-
+B9780323484114000126?scrollTo=%23hl0000502
+
+--- SLIDE 25 ---
+Question 3
+True or False: Onset of Schizophrenia in childhood 
+traditionally has worse outcomes 
+
+--- SLIDE 26 ---
+Question 3
+True or False: Onset of Schizophrenia in childhood traditional has worse 
+outcomes 
+True!
+Typical onset of Schizophrenia is early to mid twenties for males and by late 
+twenties for females and affects about 1 % of t h e g l o b a l population
+Factors that indicate worse outcomes: Poor pre-morbid functioning, 
+childhood onset, family history of schizophrenia, abnormal brain imaging, 
+insidious onset, and concomitant drug abuse 
+
+--- SLIDE 27 ---
+Delusional Disorder
+Delusional Disorder: defined by 1 or more delusions lasting ≥1 month(s) and no other prominent 
+psychotic symptoms (no hallucinations or disorganized speech)
+Note: Hallucinations, if present, are mild and directly related to the delusion (e.g., smelling poison if 
+convinced of being poisoned).
+• The core feature is the presence of a well-systematized, encapsulated
+delusional belief
+• Has an Insidious onset, frequently occurs in the elderly, and affects women more than
+m e n
+• Frequently difficult to treat
+
+--- SLIDE 28 ---
+Schizophreniform and Brief 
+Psychotic Disorder
+Similar criteria for symptoms as Schizophrenia, with the 
+major difference being their timing!
+Brief psychotic disorder: 1 positive symptom(s) 
+lasting between 1 day and 1 month, usually stress-
+related. No negative symptoms present
+Schizophreniform disorder: 2 symptoms lasting 1–6
+months. Impaired functioning not required for diagnosis
+Schizophrenia: Symptom onset ≥ 6 months prior to 
+diagnosis; requires ≥ 1 month of active symptoms over 
+the past 6 months. 
+
+--- SLIDE 29 ---
+Think of these three as being on a continuum of duration and impact:
+Brief Psychotic = sudden onset, short-lived break with reality, full 
+recovery, antipsychotics usually curative.
+Schizophreniform = intermediate stage, uncertain prognosis,, also treated 
+with antipsychotics, ~ 1/3 fully recover; most are later diagnosed with 
+Schizophrenia
+Schizophrenia = chronic, functionally impairing illness.
+Schizophreniform and Brief 
+Psychotic Disorder
+
+--- SLIDE 30 ---
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter twenty-eight
+http://arktos.nyit.edu/login?url=www-clinicalkey-com.arktos.nyit.edu/#!/content/book/3 -s2.0-B9780323354790001008?scrollTo=%23hl0000459  44
+What is a key difference(s) between Brief Psychotic 
+Disorder and Schizophrenia?
+A. Brief psychotic disorder only involves delusions and not 
+hallucinations
+B. Time frame/duration
+C. Schizophrenia includes positive and negative symptoms, 
+whereas brief psychotic disorder only includes positive 
+symptoms
+D. All of the Above
+E. B and C only
+Question 4 
+
+--- SLIDE 31 ---
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter twenty-eight
+http://arktos.nyit.edu/login?url=www-clinicalkey-com.arktos.nyit.edu/#!/content/book/3 -s2.0-B9780323354790001008?scrollTo=%23hl0000459  44
+Question 4
+What is a key difference(s) between Brief Psychotic 
+Disorder and Schizophrenia?
+A. Brief psychotic disorder only involves delusions and not 
+hallucinations
+B. Time frame/duration
+C. Schizophrenia includes positive and negative symptoms, 
+whereas brief psychotic disorder only includes positive 
+symptoms
+D. All of the Above
+E. B and C only
+
+--- SLIDE 32 ---
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter 
+twenty-eight, Epidemiology and Risk Factors
+Risk Factors:
+Genetic risk
+•
+Family history of schizophrenia in first- or second-degree relative
+•
+Paternal age
+•
+Velo-cardio-facial syndrome (22q11 deletion, different from DiGeorge)
+Environmental causes have the best evidence.
+•
+Immigrant populations have the highest risk for developing schizophrenia.
+•
+Insults during pregnancy such as intrauterine infections, particularly influenza
+•
+Maternal starvation
+Schizophrenia
+
+--- SLIDE 33 ---
+Genetic Basis-Two Hit Hypothesis:
+• Genes convey a vulnerability to
+the disease, but doesn’t
+cause the disease without 
+environmental trigger
+• Most g e n e s don’t convey risk of
+specifically developing
+schizophrenia, but confer risk
+for multiple psychiatric
+illnesses.
+Schizophrenia
+
+--- SLIDE 34 ---
+Massachusetts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter twenty-eight, Differential 
+Diagnosis of Psychosis.
+Is there another psychiatric condition?
+Clinical Features Suggesting a Secondary Psychotic Illness
+• Symptoms of delirium
+• Onset of first psychotic episode after a g e  40
+• Rapid development of symptoms in a  person without premorbid 
+impairment
+• Affect that is normal range and not blunted or flat  
+Predominance of hallucinations in modalities other than 
+auditory
+• Presence of a  general medical condition with pathophysiology 
+capable of causing or altering brain functioning
+• Evidence of exposure to psychoactive substance capable of 
+causing psychosis
+Clinical Pearl
+
+--- SLIDE 35 ---
+Massa ch u se t ts General Hospital Comprehensive Clinical Psychiatry, S e co n d  Edition, Chapter twenty-eight, Differential diagnosis of 
+Psychosis. Massa chu se tts General Hospital Comprehensive Clinical Psychiatry, Second Edition, Chapter thirty, Schizophrenia and 
+Schizoaffective disorder
+S c h i z o a f f e c t i v e  Disorders
+•
+Meet criteria for a  mood disorder (either unipolar or bipolar 
+type) AND criteria for schizophrenia.
+•
+To differentiate from a mood disorder with psychotic features, patient must have ≥
+2 weeks of psychotic symptoms without a manic or depressive episode.
+•
+Can have Schizoaffective disorder, depressed type (depression symptoms,
+SIG-E-CAPs) OR Schizoaffective disorder, bipolar type (manic symptoms,
+DIG-FAST)
+•
+Treatment: SGAs for both subtypes, add antidepressants for depressed type, add
+mood stabilizers for bipolar type, ECT for refractory treatment
+Other Psychotic Disorders
+
+--- SLIDE 36 ---
+Test Taking Tip
+•
+Test makers love to have students differentiate 
+between schizoaffective disorder, MDD with 
+psychotic features, and Bipolar disorder with 
+psychotic features 
+•
+When answering questions the first part of the name is 
+the primary psychiatric disorder while the second part 
+of the name is the secondary disorder
+•
+How do I know what is primary or secondary? Look at 
+the question stem carefully to see which symptoms 
+occur by themselves for AT LEAST two weeks. 
+•
+Ex. Patient presents with psychotic symptoms for at 
+least two weeks and has no depressive symptoms. 
+Depressive symptoms come and go. Primary disorder: 
+schizoaffective, secondary disorder, depressed type 
+
+--- SLIDE 37 ---
+Other Psychotic Disorders
+Postpartum psychosis: 
+•
+Very rare, 0.1–0.2% incidence rate. Characterized by 
+mood-congruent delusions, hallucinations, and thoughts of 
+harming the baby or self. 
+•
+Risk factors include: first pregnancy, family history, 
+bipolar disorder, psychotic disorder, recent medication 
+change. 
+•
+Treatment: hospitalization and initiation of atypical 
+antipsychotic; ECT for refractory cases.
+
+--- SLIDE 38 ---
+Schizoid and Schizotypal
+These are Type A personality disorders, NOT psychotic disorder (will go more in depth in a 
+separate lecture later)
+Schizoid Personality Disorder: Characterized by a profound detachment from social 
+relationships and a restricted range of emotional expression. Prefers social withdrawal and 
+solitary activities (vs avoidant), lack of interest in intimacy, limited emotional expression, 
+indifferent to others’ opinions (aloof). 
+Schizotypal Personality Disorder: On the sychizophrenia spectrum. May include brief 
+psychotic episodes (eg, delusions) that are less frequent and severe than in schizophrenia. 
+Eccentric appearance, odd beliefs or magical thinking, interpersonal awkwardness. May like 
+intimacy, but often find it difficult due to their symptoms and quirks.
+
+--- SLIDE 39 ---
+For schizotypal, I think of Professor 
+Trelawney from Harry Potter or Dr. 
+Brown from Back to the Future 
+For schizoid, I like to think of Dr. 
+House from the show House 
+MD or Sheldon Cooper from 
+The Big Bang Theory
+Schizoid and Schizotypal
+
+--- SLIDE 40 ---
+• Always look at the teeth. Poor dentition is quite common 
+in chronic schizophrenia.
+• Schizophrenia almost always leads to nicotine use
+• Hallucinations in the absence of negative symptoms and 
+especially without the other positive symptoms is almost 
+always going to be due to a  substance or a  medical cause.
+• Substance use is quite common in schizophrenia, often times 
+used a s  a  coping skill or way of m a n a g i n g  the illness and not 
+a  cause. It can be difficult to differentiate.
+• Trust your gut and hairs on the back of your neck. ALWAYS leave 
+the interview room if you feel threatened or suddenly scared.
+Clinical Pearls
+
+--- SLIDE 41 ---
+Summary Slide
+•Schizophrenia: A chronic psychotic disorder lasting ≥6 months, with both positive 
+(hallucinations, delusions, disorganized speech/behavior) and negative symptoms, causing 
+significant functional impairment.
+•Brief Psychotic Disorder: Sudden onset of positive psychotic symptoms lasting ≥1 day but <1 
+month, followed by full return to baseline functioning.
+•Schizophreniform Disorder: Psychotic symptoms similar to schizophrenia, lasting ≥1 month 
+but <6 months; functional decline is not required, and prognosis varies.
+•Schizoaffective Disorder – Depressed Type: Features of schizophrenia (psychosis) along 
+with major depressive episodes, with at least 2 weeks of psychotic symptoms occurring without 
+mood symptoms.
+•Schizoaffective Disorder – Bipolar Type: Schizophrenia features plus manic or mixed 
+episodes (sometimes also depression), again requiring at least 2 weeks of psychosis without 
+mood symptoms.
+
+--- SLIDE 42 ---
+•Postpartum Psychosis: A rare, severe psychiatric emergency occurring within weeks 
+after childbirth, marked by delusions, hallucinations, mood instability, and high risk of 
+harm to self or infant.
+•Delusional Disorder: Presence of one or more fixed, non-bizarre delusions lasting ≥1 
+month, without other prominent psychotic symptoms or major functional impairment 
+outside the delusional context.
+•Schizoid Personality Disorder: Lifelong pattern of detachment from social 
+relationships and limited emotional expression, with preference for solitary activities and 
+little interest in close connections.
+•Schizotypal Personality Disorder: Pervasive social and interpersonal deficits with 
+cognitive/perceptual distortions (odd beliefs, magical thinking) and eccentric behavior, 
+but without full psychosis.
+Summary Slide
+
+--- SLIDE 43 ---
+• First Aid for USLME
+• Dirty Medicine on YouTube 
+https://www.youtube.com/watch?v=JmiARS9TIj8
+• Up To Date
+• http://arktos.nyit.edu/login?url=https://www-clinicalkey-
+com.arktos.nyit.edu/#!/content/clinical_overview/67-s2.0-
+a8814dcd-b1a7-4df4-b829-1097a0af2090
+• https://nyit.idm.oclc.org/login?url=https://www-clinicalkey-
+com.nyit.idm.oclc.org/#!/content/book/3-s2.0-
+B9780323295079000287
+●
+References
+
+--- SLIDE 44 ---
+Lecture and Lab Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+

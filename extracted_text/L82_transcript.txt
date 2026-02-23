@@ -1,0 +1,409 @@
+Hello everyone, it's Gio again, giving you my second lecture for psychiatry. Today we're going to be
+talking about schizophrenia and psychotic disorders. Before we begin, I'd also like to thank Dr.
+Corey Dyson out in Arkansas for helping me put this presentation together. Before we jump into it,
+let's quickly go over the session objectives. We're going to really focus on the DSM-5 criteria for
+all the disorders that we're going to be talking about today, mainly schizophrenia and other
+psychotic disorders. We're also going to try and describe briefly the etiology and epidemiology of
+all of them, as well as differentiate between primary psychotic disorders and secondary psychotic
+disorders. Last but not least, we're going to want to describe some of the treatments and evidence
+-based assessments for each of these. So one quick note before we start, if you guys watched my last
+lecture, you already know this, but anytime you see this blue star, try to dial in and really focus
+on what's being talked about there. You do not need to memorize every single thing in this
+PowerPoint. That would be crazy. The whole goal of this is really to understand the overall clinical
+picture, not just memorizing all the details and the buzzwords. So try your best with that. So
+before we get started with the rest of the lecture, let's take a quick look at this clinical case.
+So our patient's name is Gene. It's a 25-year -old male that presents to the ED with the chief
+complaint of being poisoned by his girlfriend and mother. When you enter the room, he's been pacing
+but he stops upon you entering you notice that before you can introduce yourself his lips are softly
+moving as if speaking to himself he steps back when you extend your hand to shake as you introduce
+yourself and he provides brief abrupt short answers after varying latency sometimes short sometimes
+longer at times he appears distracted and you need to then repeat some of your questions he also
+looks around the room periodically as if distracted or looking for someone or something else when
+you inquire about his past psychiatric hospitalizations gene mumbles something under his breath
+about hating those shots and the horrible nurses and when you ask for clarification he simply says
+never mind and refuses to answer any more questions he minimizes the concern about being poisoned
+and then asks if he could go smoke ********* now he begins to pace again and begins to look more
+agitated it. Taking a look at the ED chart, you have no next of kin, and it's unknown if the patient
+was living with someone or alone. Also has no past medical history. Limited physical exam due to
+limited cooperation from the patient as well. In terms of vitals, he's a febrile, pulse is a little
+on the high side at 90, blood pressure is significantly elevated, and respiratory rate is on the
+upper limit of normal. He's also agitated, making little to no eye contact. Lungs were clear to
+auscultation, cardio exam was fine, abdomen was soft, currently appears disheveled, this is just a
+stock image that I found online, as well as being poorly groomed and having poor hygiene, and he has
+little to no eye contact. Urine tox is positive for THC, but there is no alcohol, as well as no
+poison or any other drugs of note. When Gene's mom and girlfriend then show up, they note that he's
+been hospitalized a total of three times throughout his life, and he was prescribed olanzapine, but
+he stopped taking it about three months ago. He has then struggled with his mental health, starting
+at 21 years of age. Recently, he has noted hearing voices that tell him to, quote, do bad things. So
+let's take a step back, and you guys can pause here to think about it for a second. What are the key
+points that we can take away from this patient history? If you guys were doing a question on UWorld
+or any sort of test bank, or this was on your comps. What would you pick out from this patient
+history if this was a big vignette in order to point you in the right direction? Okay, so I hope you
+guys had a chance to pause if you'd like to. And some of the key points that we need to take a look
+at are as follows. He appears to be entertaining an internal dialogue that only he is able to
+interact with or respond to there was also notable flat affect he also appears to be distracted
+looking around searching for someone or something multiple previous hospitalizations with shots thc
+positive on the urine talks there was a lack of eye contact during the encounter looking down
+looking around the room it's also noted as having hallucinations and delusions, okay? And what could
+this entail, right? He's believing that his loved ones poisoned him as well as hearing voices,
+right? So loved ones poisoning him could be a delusion and then hearing voices could be an auditory
+hallucination. And last but not least, he was prescribed an antipsychotic and stopped taking it
+recently. So what do we know about making any type of psychiatric diagnosis? Well, before we jump
+into it, we first need to rule out all other non -psychiatric causes, right? We had to do the same
+thing in the previous lecture with those cases when we talked about depression and bipolar
+disorders. So what else could present with this constellation of symptoms, right? Potentially,
+there's some sort of dementia, maybe Niemann-Pick disease, a Lewy body disease, even early-onset
+Parkinson's disease in young patients that have a genetic predisposition to it will initially
+present with psychotic symptoms mimicking schizophrenia could be some sort of toxin or substance use
+that wasn't picked up on the urine tox there's a bunch of different things that could be causing
+this but we need to rule out all of these before we immediately jump to that psychiatric diagnosis
+all right and this is just repeating what i said we must always rule out other medical conditions
+first before we go and make a psychiatric diagnosis. Okay, and just for posterity, let's put this
+differential diagnosis for the psychiatric causes here, right? So it could be some sort of substance
+use disorder, it could be a schizophrenia or psychotic disorder, it could even be a depressive
+disorder or a bipolar disorder that presents with psychotic features, right? So many different
+things to consider when we're trying to narrow down our differential. Well, the first thing we need
+to do is run a couple different labs. We want to get a good CBC and CMP. We want to see that all of
+the metabolic markers that we normally are going to check are doing well, right? We want to make
+sure that nothing is elevated, that there are no abnormal vital signs, that there's no indications
+for any sort of cancer or any infective process that could be causing this constellation of
+symptoms. So question two, in our preliminary lab results, we find that everything is unremarkable.
+The patient then begins yelling and threatening to hit anyone who gets close to him and ******* on
+the walls. What do we want to do now? And has our differential changed? Okay, so here are a couple
+of the different things that we could do for this patient right now. First is admission to a
+psychiatric hospital, right? So we might want to possibly initiate a 72 -hour hold if they're
+unwilling to go to the hospital on a voluntary basis. And it's up to the clinician, the psychiatrist
+at the hospital in order to determine whether or not the patient is a danger to themselves or
+others, and if they'd benefit from the 72-hour hold. We can also try verbal de-escalation, right?
+Using communication strategies to calm the patient, help reduce agitation, but this could also
+backfire. it might make the patient more confrontational. They might not be able to be de-escalated,
+in which case we always want to have a backup plan, okay? Very unassuming, non -threatening posture,
+but also close to the exit of the room if we need to escape in a hurry, all right? Another thing
+that we can think about is medical intervention, so we can use some sort of sedative. They used to
+use some drug cocktails in the past, but now we're recommending im injection of ziprazadone or
+geodine is the name brand for it ziprazadone is a second generation antipsychotic in the past you
+might hear people using haldol sometimes haldol still used in an emergency department for aggressive
+patients but really in the psychiatry field we want to try and use ziprazadone now instead simply
+for the fact that these drug cocktails could potentially sedate the patient for upwards of 24 hours
+with the ziprazadone we're going to be able to get in there and start to help them once their
+aggression is minimized. And last but not least, if you were thinking restraint and seclusion, this
+used to be done in the past, but it really is no longer recommended. We can set up one-to-ones with
+a nurse or like a CNA, a certified nursing assistant, if we do have available personnel. All right,
+with all of that out the way, let's jump into talking about what a lot of you guys were probably
+thinking when we read that patient uh vignette and we're going to talk about schizophrenia now so
+according to the dsm-5 in order to diagnose schizophrenia we need greater than or equal to two
+symptoms from the following list at least one of those symptoms must be a psychotic symptom and
+psychotic symptoms have the little asterisks next to them those would be delusions hallucinations
+and disorganized speech these must also be present for at least six months greater than or equal to
+one month of active symptoms. So what does that mean? If we have one week of symptoms separated by
+three months, and then another week of symptoms, and then another three months, that would not
+constitute a diagnosis of schizophrenia. You must have at least or equal to or greater than one
+month of active symptoms. The other symptoms on this list, grossly disorganized or catatonic
+behavior, and negative symptoms, while not psychotic symptoms, we can have either of these paired
+with either delusion, hallucination, disorganized speech, or maybe even multiple. Now, another term
+you guys might have heard in the past, either through MCAT or previous psychology classes or
+lectures, is positive and negative symptoms. So what exactly does that mean, right? In psychology
+and psychiatry, positive basically means the addition of something that wasn't there before. It
+doesn't mean that it's a good thing per se, okay? In this case, delusions, hallucinations, and
+disorganized speech count as positive, right? Delusions and hallucinations, some of the patient's
+senses could be playing tricks on them, adding in stimuli that really isn't there in the real world,
+right? So that's kind of what we think of as positive, the addition of something. Conversely,
+negative is going to mean that we take something away, right? So this would mean we take away
+emotion from speaking, we get flattened affect. Maybe there's just reduced speech overall, right? Or
+maybe there's a lack of initiative and agency on the patient's part. They have no motivation, right?
+Now, let's dive in a little deeper into all of these psychotic symptoms, right? A delusion, simply a
+fixed false belief. In this case with gene he believes that his family poisoned him okay
+hallucinations are just perceptions without external stimuli and it could be any sensory modality in
+this case hearing voices okay last but not least we have disorganized speech which is simply the
+loosening of different associations derailment or incoherence and what does that mean basically
+think of very similar to your flight of ideas that we talked about with bipolar disorder except
+instead of jumping between multiple different topics this is kind of coming out as a word salad with
+no tangential trajectory for the conversation or whatever topic that person is trying to get across
+it's just completely disorganized now a quick note on hallucinations we talked about how they can
+affect any sensation but let's talk about the most common and least common ones that you're most
+likely to encounter at a patient with schizophrenia auditory and visual hallucinations are the two
+most common auditory being the first visual being the second olfactory hallucinations are pretty
+uncommon for schizophrenia but they are more common in temporal lobe epilepsy so that can help you
+to distinguish the two types of pathology in any sort of question stem additionally there are
+tactile hallucinations which are typical of ******* and amphetamine use, as well as alcohol
+withdrawal. An example of this would be like feeling bugs are crawling on your skin. Meanwhile,
+somatic hallucinations involve a sensation from within the body, and they are pretty obvious if
+they're bizarre. A good example of that is Ekbom syndrome, also known as delusional parasitosis. So
+basically what that is, is just a fixed false belief that the patient is infested with parasites
+okay um and then lastly we have gustatory uh which are going to be hallucinations from the sense of
+taste and those are exceedingly rare in schizophrenia all right let's also talk a little bit about
+different types of delusions that any patient could experience with schizophrenia. So as a reminder,
+delusions are false, non-culturally sanctioned beliefs that are held with conviction, even in the
+face of overwhelming evidence to the contrary. And this last part is key. So let's talk about some
+of them. First, we have persecutory or paranoid delusions, which are most common in schizophrenia or
+delusional disorders. The belief that the person is being pursued, stalked, framed, or tricked is
+key for classifying this as a persecutory or paranoid delusion. Then there are ideas of reference,
+thinking that things like the news or the paper are talking about or to them. Then there's grandiose
+delusions, believing that some agency has taken control of their thoughts, feelings, and behaviors.
+Next, there's somatic delusions. Part of the body is feeling like it has been diseased or is
+malfunctioning in some particular way. Then there's nihilism, which is an exaggerated belief in the
+futility of everything, okay? Next, we have delusions of love. This also used to be called
+erotomania, in which patients feel loved by another person, often of a higher status, who is merely
+just an innocent bystander. This could be a boss at work, This could be a celebrity. This could be a
+crush that doesn't even know that the patient exists, right? Those all constitute delusions of love.
+Then there's delusions of jealousy. This one's pretty simple, suspecting someone of being
+unfaithful, all right? And then last but not least, this one's my favorite. This is called delusions
+of doubles, and I actually got to see this in the hospital, which was kind of surreal. But
+basically, delusions of doubles is also known as Capgras syndrome. and it describes when a patient
+believes that a family member or a close friend has been an identically appearing double so as if
+they've been replaced by a cyborg or an alien that looks just like them i think of like the scrolls
+if you know marvel or any other type of sci-fi medium in which humans are slowly replaced with um
+with body doubles right this is also more common in dementias but it can still be seen as a delusion
+within schizophrenia itself next let's talk a little bit about disorganized speech which is just odd
+bizarre behavior such as smiling laughing inappropriately responding to internal stimuli etc and
+often more often than not it's purposeless and this ambivalent behavior or movements might also be
+accompanied by random intermittent agitation this might also encompass things like having a
+disheveled attire unusual inappropriate attire etc as well as disjointed speech patterns and
+different behaviors that are going to reflect disorganized thinking this could be perseveration
+tangential speech word salad and the use of neologisms neologisms are just making up new words or
+slang often combining or creating different words together think about like brunch which is brunch
+and lunch or blending words which is just smog right um maybe even shortening words like turning
+mathematics into math and perseveration is basically just repeating the same things over and over
+and over again involuntarily repeating the same words repeating the same phrases things of that
+nature next we're going to talk a little bit about catatonia which is categorized by the presence of
+greater than or equal to three of the following 12 symptoms of marked motor disturbances. So when
+we're talking about catatonia, we're specifically talking about motor disturbances and motor
+symptoms, all right? So let's jump into it and let's talk a little bit about each. Stupor is very
+simple. It's just not actively relating to the environment at all. Think about just that loafy day
+that you have on the couch where you really just kind of veg out and forget about the outside world
+that would be stupor right but this is to a debilitating effect then there's cataplexy which is just
+sudden temporary loss of muscle control um can be triggered by strong emotions as well like laughter
+surprise or anger there might also be waxy flexibility which is simply just when people's limbs
+remain in whatever position they're placed in especially when they're moved there by someone else
+think about it like posturing a doll or an action figure Then there's mutism, which is self
+-explanatory, no or very little verbal response. Negativism, which is simply the opposition or
+having no response to given instructions from some sort of outside stimulus or healthcare provider.
+posturing which is just spontaneous and active maintenance of a posture against gravity so this is
+different from waxy flexibility because posturing happens of the patient's own volition or it might
+not be of their own volition and it might be something randomly that happens but the point is that
+they are not placed in this position by someone else they do it on their own then there's mannerism
+which is just odd uh caricatures of normal actions like peculiar ways of dressing or performing
+everyday tasks that might differ from the status quo. Then we have stereotyping, which is just
+repetitive, abnormally frequent, non-goal-directed movements, kind of like motor tics that you might
+experience in Tourette's syndrome. Then there's agitation, but specifically agitation that is not
+influenced by any external stimuli. Grimacing, which is excessive frowning or teeth bearing. Then
+there's ecolalia, which is mimicking another's speech. Not to be confused with echoproxia, which is
+mimicking another's movements. So quick thing to note, do you need to memorize each and every single
+aspect? No. But in a setting where you're given a clinical vignette or some sort of question that
+you need to answer, being able to identify these different aspects of catatonia might help to get
+you to the correct answer a little bit quicker. Now, let's talk about a couple of the negative
+symptoms of schizophrenia, right? We've talked about blunted or flat affect before, but there's also
+a lochia, which is just poverty of speech, inability to speak as much, or having a limited number of
+words that you're able to utilize. There's asociality, which is simply social withdrawal, right? So
+if sociality is someone who likes to be social, asociality is social withdrawal. There's anhedonia,
+which is a lack of interest in doing the things that you used to enjoy. Remember, we saw this with
+the depression lecture. Ambivalence, an inability or extreme difficulty to make any decisions in
+general. And then avolition, again, a lack of interest or engagement in goal -directed behavior,
+right? So lots of A's, a-logia, a-sociality, anhedonia, ambivalence, a-volition. So that's how you
+look at all of these negative symptoms, okay? As we were talking about before, these can easily be
+confused with some depressive symptoms and or side effects of antipsychotics or maybe even cognitive
+symptoms in those with dementia or Alzheimer's. However, these are just as troubling or disabling to
+the patient as the positive symptoms, so we don't want to miss these. okay now let's talk a little
+bit about the treatment that we use for schizophrenia so this is often going to involve the use of
+antipsychotics we have two main classes your first generation fgas and your second generation sgas
+these second generation antipsychotics are more commonly used as they have much lower risks of
+severe side effects right what could these be like neuroleptic malignant syndrome nms which is
+defined as an elevated temperature muscle rigidity irregular pulse tachycardia tachypnea altered
+mental status the works all right basically is a full autonomic nervous system dysfunction and this
+could be lethal if antipsychotic is not stopped and supportive care is not given and this has to tie
+into the mechanism of action of a lot of these antipsychotic medications which directly modulate
+neurotransmitters in the body then there's also tardive dyskinesia which is a chronic neurological
+syndrome caused by antipsychotic use it's defined by these repetitive involuntary movements
+including grimacing eye blinking and other involuntary movements more often than not tardive
+dyskinesia is permanent. So if we are noticing negative side effects of our antipsychotics, we need
+to discontinue that drug as soon as we identify them. So let's take a quick break and answer a quick
+question. True or false, onset of schizophrenia in childhood traditionally has worse outcomes. Here
+I'll give you guys a second to pause if you'd like. And here's the answer. This is true. So the
+typical onset of schizophrenia really is early to mid-20s for males and by late 20s for females. And
+in total, it affects about 1% of the global population. Again, you don't need to know that
+percentage specifically, but this is just to kind of give you a good overall idea of how prevalent
+schizophrenia is. So some other factors that could indicate worse outcomes include poor premorbid
+functioning childhood onset family history of schizophrenia abnormal brain imaging an insidious
+onset as well as concomitant drug ***** now let's take a step back and let's look at delusional
+disorder to clear up some potential confusion as a lot of people do tend to mix and match delusional
+disorders and schizophrenia disorders together. And so really what we need to think about with
+delusional disorder is that in contrast to schizophrenia, this is defined by one or more delusions
+that last greater than or equal to one month with no other prominent psychotic symptoms, right? So
+there's no hallucinations, there's no disorganized speech, nada. It's just the delusion that's
+there, okay? If there are any hallucinations, they're usually extremely mild. And really the core
+feature is this presence of a well -systematized and encapsulated delusional belief. So let's think
+about this for a second. Let's say I give you an example of a 55-year-old man who for the past five
+years has been thinking that his neighbor is stealing his trash constantly. No matter what evidence
+is proposed to the contrary, he constantly thinks my neighbor is stealing my trash. They're stealing
+my trash. They're a thief. They're a bad person. And it's lasted, again, greater than or equal to
+one month. There's only this one delusion. There could be more, but there's no other hallucinations
+or disorganized speech. That would be a delusional disorder. And due to the nature of this, it is
+exceedingly difficult to treat. With that out the way, let's jump now into schizophreniform and
+brief psychotic disorder. So the way I want you to think about this is on a timeline and i got this
+from dirty medicine he is phenomenal for high yield videos on youtube if you guys are into that but
+basically what we need to look at first is the time frame that is the b big like key takeaway from
+all of this okay so we go from one month then to six months and then greater than six months for our
+timeline brief psychotic disorder is defined as having one positive symptom that lasts between one
+day and one month. Usually it could be stress-related. So following the death of a loved one, maybe
+an extremely stressful encounter could lead to these brief psychotic disorders. Again, no more than
+one month. Once we pass that one month mark, now we're in the territory of schizophreniform. Now,
+schizophreniform has two symptoms that last one to six months. However, impaired functioning usually
+is not required for diagnosis, okay? And that is in contrast to schizophrenia, okay? And then we
+talked about schizophrenia before. It needs to be greater than or equal to six months prior to the
+diagnosis, and you have to have greater than or equal to one month of active symptoms during that
+period. So to recap, brief psychotic disorder, no more than one month. Schizophreniform disorder, up
+to six months. Past that six-month period, now we're looking at schizophrenia. All right, and again,
+I want you guys to think about this as being a continuum of duration and impact. So this is another
+summarized little graphic that you guys can use, right? Brief psychotic disorder, remember, with
+this sudden onset, short-lived break from reality, usually there's a full recovery, and
+antipsychotics can be curative, okay? With schizophreniform disorder, the prognosis is a little bit
+worse, right? You have intermediate stages, uncertain prognosis, and this can also be treated with
+antipsychotics as well, right? And it's about one-third to fully recover. Most individuals that
+present with schizophreniform disorder are usually diagnosed much later on with schizophrenia and to
+cap it all on remember schizophrenia is as chronic debilitating functionally impairing illness so
+let us go ahead and take a quick look at this right so one of the key differences between brief
+psychotic disorder and schizophrenia i'll give you guys a quick second to think about this and
+hopefully you guys had a chance to think and this would be b and c only so really we're not worried
+about whether or not brief psychotic disorder only involves delusions and and not hallucinations
+right because you can still have some potential hallucinations albeit mild right the main thing key
+differences that we're talking about is time frame and duration one month versus your greater than
+six months, as well as the fact that schizophrenia includes positive and negative symptoms, whereas
+brief psychotic disorder only includes positive symptoms. So that's a pretty key thing that you want
+to clue into here. All right, let's talk a little bit about some of these risk factors, genetic
+risk, just because it's interesting. A lot of this stuff is not really going to be tested for you
+guys. This is more or less just for patient education when you guys get into the hospital. We still
+don't definitively know what causes schizophrenia. There is a pretty big theory that schizophrenia
+is due to an excess of neurotransmitters causing aberrant sensory inputs. That's what leads to these
+delusions, these hallucinations. They're receiving signals from the brain, even though there's no
+external stimuli to generate that, right? So some genetic risks would be a family history of
+schizophrenia, like with most diseases. This does have a genetic component to it, either first or
+second degree relatives mainly. Increased paternal age is another risk factor for schizophrenia,
+right? So as you get older, even though your ***** are still viable as a male, you do have risks for
+birth defects, for mental health disorders, things like that. There's also something called
+velocardiofacial syndrome, which is a 22q11 chromosomal deletion. This is different from DeGeorge,
+but I figured I would mention it because it does present with increased risk of schizophrenia. Here
+we have also environmental causes. So some things that they found were that immigrant populations
+have the highest risk for developing schizophrenia. Again, this is not causative. This is just a
+correlation that they found. There are potential insults during pregnancy, such as intrauterine
+infections, particularly influenza, have also been correlated with increased risk of schizophrenia,
+as well as maternal starvation. And this is just theorized to be during the maternal period, if the
+baby does not get the proper nutrients it needs, if the mother doesn't get the proper nutrients she
+needs, it ends up becoming a more risky pregnancy, more risk of developing schizophrenia in the
+future. So another thing is they talk about this two hit hypothesis so these genes could convey a
+vulnerability um but it doesn't cause the disease without some sort of environmental trigger which
+is why a lot of times people may go their whole lives until they get to their 20s um and then all of
+a sudden they have a snap right or they break down and this is really um important to kind of think
+about because it's just like when we think about cancer right um you know you could have that two
+hit hypothesis where you're fine and then all of a sudden you have this random point mutation with
+their what they're talking about here right now is that these triggers that could happen could be
+something extremely traumatic, something that was really hard on the patient's mental health
+themselves, and thus they spiral out from there, right? So here's another quick clinical pearl. How
+do we know whether or not there is another psychiatric condition, right? So there are some clinical
+features I would suggest secondary psychotic illness, right? And this is really just a big checklist
+of things that you can look at. So let's say you have symptoms of delirium in an older individual.
+Maybe their first psychotic episode happened after age 40, which is way beyond the initial period
+that we talked about before, right? Early 20s for males, late 20s for females. Rapid development
+symptoms, affect that's, you know, it was normal range, not blunted or flat, presence of any general
+medical conditions with any pathophysiology that could be capable of altering brain functioning,
+again talking about epilepsy, Alzheimer's, Neiman-Pick, things like that, as well as evidence of
+exposure to separate sypoactive substances, so *******, *********, ***, methamphetamines, you know,
+any drug that's out there, you name it, it can affect cognition. All right, so let's change gears
+now and let's talk a little bit about schizoaffective disorders so these are disorders that meet the
+criteria for both a mood disorder and schizophrenia okay and so to differentiate between just a
+regular mood disorder um like depression or bipolar um we need to have greater than or equal to two
+weeks of psychotic symptoms without any manic or depressive episodes right That would make the
+psychotic disorder the primary disorder here, hence why we have ****** followed by affective. We can
+have schizoaffective disorder depressed type, which remember from our last lecture, we talked about
+all those SIG-E-CAPS symptoms that you would have in depression. Or you could have schizoaffective
+disorder bipolar type, which is when you have psychotic symptoms that are coupled to manic symptoms.
+That's your DIG-FAST mnemonic. right? To treat this, really, it's just second-generation
+antipsychotics for both subtypes. You can add in some antidepressants if there is a depressed type,
+as well as add mood stabilizers for the bipolar type. And ECT can be used for refractory treatment.
+All right, so this is another very important slide just for you and your test-taking career whenever
+you're trying to answer psychiatry-themed questions. And really, test makers love, love, love, love
+to have students differentiate between schizoaffective disorders major depressive disorder with
+psychotic features and bipolar disorder with psychotic features so how are we going to go about
+figuring out which of these disorders could potentially be the correct answer right so when you have
+to answer these questions the first thing that we're going to do is name the primary psychiatric
+disorder while the second part of the name is going to be the secondary disorder so let's take look
+here right if we look at schizoaffective like we just talked about right we have psychotic symptoms
+and then the secondary disorder affected these would be the mood symptoms depressed versus bipolar
+right now which is the primary or secondary one like we talked about before we need to look at the
+question stem carefully to see whether or not symptoms occur by themselves for at least two weeks
+okay so here's a quick example if a patient presents with psychotic symptoms for at least two weeks
+with no concomitant depressive symptoms, that would mean that depressive symptoms will come and go.
+And the primary disorder would be schizoaffective. The secondary disorder then would be depressed
+type. Okay, so hopefully that makes sense. Alrighty, moving on with our other psychotic disorders.
+First, we're going to talk about postpartum psychosis. Now, this is another one that I've actually
+seen in the hospital. it is exceedingly rare, 0.1 to 0.2% incidence rate, but it's characterized by
+mood -congruent delusions, hallucinations, and thoughts of harming the baby or self, right? Again,
+it's going to follow delivery, hence why it's called postpartum. Now, some risk factors for this
+include first pregnancy, right, family history of any bipolar disorder, psychotic disorders, as well
+as recent medication changes. So in the patient that I saw, they had no history of any mental health
+disorders. It was their first pregnancy. Afterward, they started to develop delusions and
+hallucinations, as well as thoughts of harming them themselves and their baby. And so they were
+admitted to an inpatient unit. And they ended up finding that unfortunately, she was very resistant
+to different types of treatment. So they've been trying to optimize the treatment for her
+specifically. And speaking of treatments, or again, hospitalization and initiation of atypical
+antipsychotics, the patient that I saw actually did go for ECT, which seemed to help significantly
+after all of the less invasive medication-based treatments were completed. All right, and the rest
+of this stuff is going to really just be a little bit of a bonus, hence why I don't have the star.
+Well, why am I going to include this if we're not going to be tested on in this lecture? Well, you
+will get this in separate lectures later on on personality disorders, and these are very important
+to know. But I wanted to include them here for posterity because they do kind of get confused a lot
+with regular schizophrenia, especially in students first studying psychology and psychiatry. So
+let's talk a little bit about these two personality disorders. Schizoid and schizotypal are type A
+personality disorders. They are not psychotic disorders, okay? Schizoid personality disorder is
+characterized by this profound detachment from social relationships and a restricted range of
+emotional expression. They prefer social withdrawal and solitary activities, right? So this is
+different from avoidance personality disorder in which individuals are terrified of, you know, being
+in public and actively try to get away from social situations instead, right, here we have
+individuals that just prefer social withdrawal and solitary activities. They have a lack of interest
+in intimacy, right, not that they are unable to pursue it, they just don't care as much about it,
+and they have limited emotional expression, right, they're pretty indifferent to others' opinions,
+and they're rather aloof, but again, this is a personality disorder this is not a psychotic disorder
+okay next we have schizotypal personality disorder so this is on the schizophrenia spectrum and it
+may include brief psychotic episodes such as delusions however these are less frequent and less
+severe than schizophrenia which is why schizotypal personality disorder is a personality disorder
+and not a psychotic disorder They may also be coupled with an eccentric appearance, odd beliefs or
+magical thinking, interpersonal awkwardness, and they may like intimacy, but they may just find it
+difficult to really find anybody that jives with them and their vibe because they're pretty quirky
+and they might have those more severe psychotic symptoms from time to time. So here's kind of how I
+like to think about these two, right? So I think of Professor Trilwany or Doc Brown from Back to the
+Future. Those are kind of like your schizotypal personality disorders, right? They're quirky,
+they're weird, you know, their aesthetic is a little bit odd, but relatively harmless overall,
+right? Here we have schizoid, which I like to think of Dr. House from House MD, it's an older show,
+as well as Sheldon Cooper from Big Bang Theory. I can't believe to say that's old now too. But these
+guys, again, they are more recluse, they like their alone time, right? And really, it's one of those
+things where, again, just having a good idea of these archetypes in your head is going to help you
+kind of get to that answer in that question stem a lot quicker and a lot more efficiently so just to
+wrap this up schizoid there's no interest in relationships it's inclusive to self kind of a loner
+they might prefer to work nighttime jobs they don't have to interact with many people and
+schizotypal again that eccentric magical thinking you can also think of like miss frizzle from the
+magic school bus for schizotypal um odd beliefs aloof dressing weirdly okay so all of these things
+kind of define these two schizoid and schizotypal personality disorders. And again, you'll learn
+more about these in another lecture. So last but not least, here's some clinical pearls for your
+psych rotation in the future, right? And if you're ever dealing with a patient that presents with an
+acute psychotic episode, or maybe they are admitted again after being a frequent flyer, you always
+want to look at their teeth, as poor dentition is quite common in chronic schizophrenia, right?
+Schizophrenia also almost always leads to nicotine use, all right? Again, this is a correlation, but
+a lot of it is really due to needing an escape or something to distract themselves from
+hallucinations and delusions they might currently be experiencing. Now, hallucinations in the
+absence of any negative symptoms, remember like they're a flat affect, and especially without the
+other positive symptoms is almost always going to be due to substance or a medical cause, okay? So
+if you just have an individual coming in with hallucinations, you really need to do your due
+diligence to investigate and make sure that you're getting what you need from the patient to make
+the most accurate diagnosis. Substance use is also quite common in schizophrenia, as we talked about
+before. They use it as a coping skill to manage the illness, whether it's nicotine, *********, a
+other type of drug use. And then always trust your gut, right? So if you're ever in a room and you
+feel like a patient is aggressive, maybe you're trying verbal de-escalation or something like that,
+and it is really not working, you can always leave the interview room if you feel threatened or
+suddenly scared. It is perfectly okay. It is acceptable. And really, it is the preferred method of
+making sure that you are safe in your clinical practice. All right. And so these next couple slides
+are going to be summary slides you guys can take a look at these by no means are these all inclusive
+but it's a really good way to kind of break down the info if you guys like to make flash cards like
+anki again another summary slide here are some of the references again never neglect first aid they
+have really good summary charts and explanations dirty medicine is great up-to-date if you have that
+Arctos link all really good references for any additional information that you guys want to look up
+or dive into and here is the lecture and lab feedback form so hopefully you guys enjoyed this
+lecture hope it was informative and have a great rest of your semester
