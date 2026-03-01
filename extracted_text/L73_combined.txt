@@ -1,0 +1,605 @@
+
+
+======================================
+FILE: pdfs/Lecture # 73. M. Plummer, M.D..pdf
+======================================
+
+--- SLIDE 1 ---
+Neuronal Tumors,
+Medulloblastoma,
+and Meningioma
+
+ScholarRx
+ScholarRx
+0:00 / 14:14
+1x
+After completing this brick, you will be able to:
+Define and describe the pathology and clinical presentation of
+meningioma.
+Define and describe the pathology and clinical presentation of
+medulloblastoma.
+Define neuronal tumors, including ganglioglioma, and describe
+the pathology and clinical presentation.
+
+What Are Neuronal Tumors, Medulloblastoma, and
+Meningioma?
+
+Please note that in the part 1 and part 2 discussions of all brain
+tumors, benign or malignant, the assumption is that they are
+primary. However, some sources indicate that almost half of brain
+tumors in hospitalized patients are metastatic tumors from other
+organs, such as the lung or skin (melanoma).  Please see the
+required supplemental handout for this topic posted on Canvas.
+
+--- SLIDE 2 ---
+Neuronal tumors, medulloblastoma, and meningioma are considered
+primary brain tumors that originate within the brain. Although often
+malignant, primary brain tumors seldom spread to distant organs. In fact,
+more brain tumors are metastases from other organs than primaries.
+Without much proliferation, there is less potential for mutagenesis and
+thus carcinogenesis. As brain tumors grow, they eventually compress or
+invade brain tissue, becoming symptomatic or even life-threatening.
+These three types of primary brain tumors originate from different cell
+lineages: meningiomas from the meninges, medulloblastomas from
+embryonic tissue, and neuronal tumors from neural elements (Figure 1).
+What Are Meningiomas?
+Meningiomas account for 20%-30% of primary brain tumors, making them
+the most common of all primary brain tumors. They are just what they
+sound like—tumors of the meningeal tissue (dura mater, arachnoid, and
+pia mater). Meningiomas arise from the arachnoid cells. About 20,000 new
+meningiomas are diagnosed yearly, with a 2:1 female-to-male
+predominance. They are typically slow-growing, peripheral masses mainly
+in adults. They have a good prognosis with surgery because they are not
+attached to the brain. If complete resection is not possible, or if surgery is
+not even an option, radiation therapy is the second-line treatment.
+Tap image for quiz
+Infiltrating astrocytomas and glioblastomas make up about 80% of
+primary brain tumors, (Robbins).  As stated in the Scholar Rx bricks
+for Gliomas, glioblastomas make up about half of primary adult
+brain tumors. The statement above, indicating that meningiomas
+account for the most common type of primary brain tumor, does
+not appear accurate. Perhaps "primary benign brain tumor" may be
+more accurate  Remember, sources do vary when describing
+percentages.
+
+--- SLIDE 3 ---
+Characteristics
+These tumors grow so slowly, and they can often become quite large before
+producing symptoms, because the brain has plenty of time to adjust to the
+added pressure. Eventual symptoms include headache, seizure, vision
+problems, and focal neurological deficits (eg, weakness in an extremity).
+Symptoms are largely dependent on the location of the tumor. The most
+common locations include parasagittal, falcine, and convexities (Figure 2).
+Please note that because of the presence of progesterone
+receptors on meningiomas, they  may increase in size during
+pregnancy.  
+Menigiomas are often described as "dural-based".
+Neurofibromatosis type 2 is a predisposing factor for meningioma, and
+molecular testing has revealed up to 80% of these tumors may have
+mutations in the NF2 gene.
+Tap image for quiz
+please see handout
+
+--- SLIDE 4 ---
+A very common imaging finding for meningioma is a “dural tail,” as they
+grow from the meninges, and indicates their extra-axial origin. Grossly,
+these tumors are well circumscribed.
+Histology
+On histology, you can see spindle cells arranged in a whorled pattern and
+lamellated calcifications known as psammoma bodies (Figure 3).
+This is only one histological subtype of meningioma but it is
+probably the most common - there are several others but just be
+familiar with this one.
+Psammoma bodies occur in a few other important conditions that should
+be remembered and differentiated from one another.
+Tap image for quiz
+
+--- SLIDE 5 ---
+What Are Medulloblastomas?
+Medulloblastomas are the most common malignant brain tumor in
+children. An embryonal tumor is embryonic tissue remaining in the brain
+after birth that becomes neoplastic. Symptoms develop over weeks to
+months, with the definitive diagnosis usually confirmed within 3 months
+of symptom onset. Medulloblastomas primarily occur in the cerebellum.
+Typical symptoms include headache, cranial nerve VI palsies, and
+cerebellar ataxia. Because these tumors can grow into the fourth ventricle,
+hydrocephalus is also a possibility.
+Characteristics
+Medulloblastomas are high-grade tumors. Usually treatment consists of
+resection followed by radiation and chemotherapy. The prognosis largely
+depends on resection and molecular characteristics. Metastases are
+common, warranting whole neuraxis imaging. Medulloblastomas are the
+most common embryonal tumors in children, with 70% being diagnosed in
+children younger than 10 years. Children with average risk
+medulloblastoma have a 5-year disease-free survival rate of 70% to 80%.
+Overall, children younger than 3 years have poor outcomes.
+Histology
+On histology, there are small, round cells from an undifferentiated
+embryonal lineage. The undifferentiated characteristics of this tumor make
+sense: medulloblastomas are derived from embryonic tissue. Furthermore,
+cells often surround a neuropil (network of nerve fibers, synapses, and glial
+cells) termed Homer-Wright rosettes, which are characteristic of all tumors
+with neuroblastic proliferation (Figure 4).
+The molecular characteristics which make up the sub-types of
+medulloblastomas are important in prognosis
+
+--- SLIDE 6 ---
+Tap image for quiz
+What Are Neuronal Tumors?
+Neuronal tumors comprise abnormal glial and neuronal elements. They
+can be classified as pure neuronal cell tumors (eg, gangliocytomas, which
+are exceedingly rare and not discussed here) or mixed neuronal cell tumors
+(eg, ganglioglioma). Overall, neuronal tumors make up about 1% of all
+brain neoplasms.
+Most neuronal tumors are located within the brain parenchyma, producing
+characteristic deficits based on location. As neuronal tumors grow, they
+disrupt the normal brain architecture and thus the neuronal networks. As a
+result, patients often present with seizures. Neuronal cell tumors are
+usually low grade and slow growing, so they have a favorable prognosis.
+They are usually cured with surgery alone.
+As the name suggests, gangliogliomas are mixed neuronal cell tumors
+that contain a disorganized arrangement of ganglion cells and glia
+(indicating neuronal support cells). These tumors are often slow growing
+and therefore usually considered benign (World Health Organization
+[WHO] grade I).
+Gangliogliomas have an incidence of 4% of all primary brain tumors in
+children and 1% of all primary brain tumors in adults. Up to 10% can
+become malignant. They tend to occur in the temporal lobes and present as
+new-onset seizures in children and young adults. Treatment of these
+
+--- SLIDE 7 ---
+y
+g
+tumors is resection. The prognosis is good, with a 10-year survival rate of
+84%-93%.
+Neoplastic ganglion cells with a glial component are seen on histology.
+The glial component of the tumor accounts for most of the tumor
+proliferation. The neuronal component exhibits binucleated and
+dysmorphic neurons with peripheral Nissl bodies. Nissl bodies are simply
+the rough endoplasmic reticulum of the neuron. These neoplastic neurons
+tend to cluster. If the glial component is astrocytic in nature, Rosenthal
+fibers might be present. Calcifications are another common feature seen
+on histology.
+
+Summary
+• Meningiomas are peripherally located tumors composed of meningeal
+tissue that often appear as spindle cells arranged in a whorled pattern
+
+tissue that often appear as spindle cells arranged in a whorled pattern
+with dispersed psammoma bodies.
+• Medulloblastomas are the most common embryonal tumor in children,
+typically found in the cerebellum; they comprise small, round cells
+forming Homer-Wright rosettes and have variable prognosis (good
+with treatment, dismal without).
+• Neuronal tumors can be classified as pure neuronal cell tumors or
+mixed neuronal cell tumors.
+• Gangliogliomas are mixed neuronal cell tumors composed of
+neoplastic ganglion and glial cells; accordingly, gangliogliomas have
+histologic characteristics resembling both gangliocytomas (eg,
+dysplastic and often binucleated with Nissl bodies) and gliomas (eg,
+Rosenthal fibers).
+Review Questions
+
+
+
+======================================
+FILE: pdfs/Lecture # 73-2. M. Plummer, M.D..pdf
+======================================
+
+--- SLIDE 1 ---
+Peripheral Nerve
+Sheath Tumors
+
+ScholarRx
+ScholarRx
+0:00 / 24:29
+1x
+After completing this brick, you will be able to:
+Define a peripheral nerve sheet tumor, and list the common
+benign and malignant types.
+Describe a schwannoma and its histologic features and clinical
+presentation.
+Explain how the NF2 gene mutation leads to proliferation of
+Schwann cells.
+Describe the histologic features of neurofibroma, list the three
+clinical variants, and explain which cells contain a mutation in
+the NF1 gene.
+Describe malignant peripheral nerve sheath tumors.
+Describe, compare, and contrast the incidence, clinical features,
+and genetic basis of neurofibromatosis type 1 and type 2.
+
+What Are Peripheral Nerve Sheath Tumors?
+When tumors develop along the nerves of the peripheral nervous system,
+they are called peripheral nerve sheath tumors. Overall, these tumors are
+uncommon. But two conditions, known as neurofibromatosis type 1 and
+type 2, predispose patients to developing many peripheral nerve sheath
+tumors.
+
+See handout posted in Canvas
+
+--- SLIDE 2 ---
+Some of these tumors, like schwannomas and neurofibromas, can be
+benign. They can also be malignant—most commonly occurring in
+neurofibromatosis type 1. We start this discussion by looking at specific
+types of peripheral nerve sheath tumors, and then we look at
+neurofibromatosis types 1 and 2.
+What Are Schwannomas?
+Schwannomas are the most common nerve sheath tumors. They are often
+found incidentally when neuroimaging studies are performed. In fact,
+3%-4% of people demonstrate cranial nerve schwannomas on autopsy.
+How Schwannomas Present
+Schwann cells are responsible for myelination of nerves in the peripheral
+nervous system. Schwannomas are benign, fully encapsulated tumors
+composed of neoplastic Schwann cells.
+Schwannomas can be found within soft tissues, on cranial nerves,
+surrounding peripheral nerves, and within internal organs. They are
+typically small, slow-growing masses that present with effects of
+compression of local structures or as incidental findings on imaging.
+Schannomas can usually be removed from the peripheral nerve it is
+attached to.  This is in contrast to plexiform neurofibromas (see
+below) which infiltrate into the nerve
+There is often no need to treat schwannomas. If the tumor is symptomatic
+or in a position to compromise nearby structures, modalities include
+surgical excision or, if intracranial, stereotactic radiosurgery.
+What Schwannomas Look Like
+Grossly, schwannomas are well-circumscribed masses attached to an
+adjacent nerve. Although schwannomas are homogenously composed of
+Schwann cells, on microscopic evaluation they demonstrate characteristic
+dense and loose areas referred to as Antoni A and B, respectively (Figure
+1).
+below) which infiltrate into the nerve.
+
+--- SLIDE 3 ---
+Within the densely packed Antoni A, diagnostic Verocay bodies may be
+observed (Figure 2). Verocay bodies demonstrate cells that align to produce
+nuclear palisading—alternating nuclear and anuclear areas.
+Tap image for quiz
+Causes of Schwannoma Formation
+Schwannomas, both sporadic and familial, form because of loss of function
+of a protein called merlin. Merlin is encoded by the NF2 gene on
+chromosome 22. This cytoskeletal protein functions as a tumor suppressor
+through E-cadherin–mediated contact inhibition of proliferation. Contact
+inhibition of proliferation is a process that prevents overgrowth of tissues
+by signaling cells to discontinue proliferation when they are densely
+surrounded by neighboring cells.
+With loss of function of the merlin protein, Schwann cells proliferate
+unchecked by contact inhibition. As is traditionally understood with tumor
+suppressor genes, both copies of the NF2 gene must be nonfunctioning to
+result in tumor growth, which is more likely to occur in patients already
+missing one copy. This is the case in patients with neurofibromatosis type
+2 (NF2), a familial condition we discuss in greater detail later.
+
+--- SLIDE 4 ---
+Vestibular Schwannoma
+Schwannomas often affect the cranial nerves, most commonly the
+vestibular portion of the eighth cranial nerve. Historically, schwannomas
+on the eighth cranial nerve were referred to as acoustic neuromas. Because
+these tumors are composed of neoplastic Schwann cells on the vestibular
+nerve, they are more accurately called vestibular schwannomas, but you
+will see these terms used interchangeably. (Some neuropathologists will be
+unhappy if you call this tumor anything but a vestibular schwannoma
+because the tumor cells are not neurons, which makes acoustic neuroma
+incorrect.)
+Vestibular schwannomas arise near the brainstem or within the internal
+acoustic canal. Patients usually present with unilateral hearing loss, ear
+fullness, tinnitus, or vestibular complaints such as dizziness.
+Wh
+l
+i
+r t th
+r b ll r
+ti
+gl
+t th
+rigi
+ti
+f th
+When lesions occur at the cerebellar pontine angle at the origination of the
+eighth cranial nerve (CN), we would expect to see effects at the nearby
+seventh cranial nerve. However, patients with lesions in this area more
+commonly present with issues involving the trigeminal nerve (CN V)
+because the facial nerve (CN VII) is less easily compressed. As the tumor
+enlarges, it may compress the ipsilateral cerebellum and cause ipsilateral
+ataxia (abnormal, uncoordinated movement).
+Most vestibular schwannomas occur spontaneously and are unilateral.
+However, about 10% of tumors are found in patients with
+neurofibromatosis type 2. These patients are also much more likely to have
+bilateral tumors, which are pathognomonic for this condition. Figure 3 is a
+magnetic resonance image (MRI) showing bilateral masses in the
+cerebellopontine angles with extension into the internal acoustic meatuses
+in a patient with NF2.
+
+--- SLIDE 5 ---
+What Are Neurofibromas?
+Like schwannomas, neurofibromas are benign, solitary lesions that are
+commonly sporadic. However, about 10% of neurofibromas arise in
+Tap image for quiz
+
+y p
+patients with neurofibromatosis type 1 (NF1).
+How Neurofibromas Present
+Although neurofibromas and schwannomas are both benign,
+neurofibromas—unlike schwannomas—can occasionally demonstrate
+transformation into malignant peripheral nerve sheath tumors.
+Neurofibromas are typically seen in patients younger than 30 years; they
+can appear as small nodular tumors but may also be large and disfiguring.
+Most commonly tumors present as skin-colored or hyperpigmented small
+papules or nodules. Lesions are usually asymptomatic in terms of focal
+neurologic deficits, but patients may describe bleeding or local pain from a
+mass effect.
+What Neurofibromas Look Like
+Neurofibromas are similar to schwannomas, benign tumors comprising
+neoplastic Schwann cells. However, unlike schwannomas, neurofibromas
+are not encapsulated, and they contain other cell types such as mast cells,
+fibroblasts, and perineurial-like cells mixed among the neoplastic Schwann
+cells. Figure 4 shows a neurofibroma that demonstrates loose bands of
+spindle-shaped cells when viewed under light microscopy.
+Another term for this look is "shredded carrots"
+
+--- SLIDE 6 ---
+Subtypes of Neurofibromas
+There are three distinct subtypes of neurofibromas: localized cutaneous,
+plexiform, and diffuse.
+Localized cutaneous neurofibromas (Figure 5) often occur in sporadic
+cases, but multiple lesions may arise in the context of NF1. These lesions
+are circumscribed, nodular, or polypoid tumors.
+Plexiform neurofibromas grow within the confines of a nerve or nerve
+plexus. They involve multiple fascicles of individually affected nerves.
+Axons may be embedded within a diffuse neoplastic Schwann cell
+proliferation. This proliferation causes nerve fascicles to expand, but the
+perineurium remains intact. These tumors are highly associated with NF1
+and carry a small risk of malignant transformation. The tumors can be
+disfiguring (Figure 6).
+Tap image for quiz
+
+--- SLIDE 7 ---
+Diffuse neurofibromas demonstrate extensive infiltration within the
+dermis or subcutis of the skin and are often associated with NF1. They can
+present as large, disfiguring subcutaneous masses.
+Causes of Neurofibroma Formation
+Neurofibromas arise from nonmyelinating Schwann cells that demonstrate
+loss of function of the tumor suppressor protein neurofibromin on
+chromosome 17. Neurofibromin acts as a negative regulator of the Ras
+oncoprotein. Ras activity drives cellular proliferation. Ras becomes
+hyperactive when inhibition by neurofibromin is removed and leads to
+unchecked cellular proliferation.
+Patients with neurofibromatosis type 1 lack one copy of neurofibromin,
+which predisposes them to the development of neurofibromas. We look at
+the familial condition NF1 in greater detail below.
+What Are Malignant Peripheral Nerve Sheath
+Tumors?
+Malignant peripheral nerve sheath tumors (MPNSTs) are rare but represent
+a very serious form of nerve sheath pathology. Up to about 50% of MPNSTs
+occur in the context of neurofibromatosis type 1. When treating these
+tumors, you need to consider surgery, medical oncology, and radiation
+oncology.
+These tumors most commonly present on the trunk or extremities and are
+
+--- SLIDE 8 ---
+These tumors most commonly present on the trunk or extremities and are
+usually discovered because of rapid tumor growth. On gross inspection,
+tumors are large and firm and can demonstrate areas of necrosis and
+hemorrhage. Microscopic evaluation demonstrates densely cellular,
+mitotically active collections of spindle cells.
+MPNSTs may grow spontaneously from previously normal nerves or result
+from malignant transformation of a plexiform neurofibroma. About 10% of
+cases occur as a late complication of radiation therapy.
+Neurofibromatosis
+We mentioned NF1 and NF2 in the context of different tumor types. Now
+let’s look at them in more detail.
+Neurofibromatosis type 1, also known as von Recklinghausen disease,
+predisposes patients to developing neurofibromas through loss of function
+of neurofibromin. This protein is encoded by a gene found on chromosome
+17. NF1 has an incidence of 1 in 3000 people, and patients are at increased
+risk of developing pheochromocytomas, similar to multiple endocrine
+neoplasia 2 (MEN2).
+Neurofibromatosis type 2 predisposes patients to developing schwannomas
+through loss of function of merlin. This protein is encoded by a gene on
+chromosome 22. NF2 has an incidence of about 1 in 25,000, making it
+much less common than NF1.
+Robbins cites a different incidence - see power point (1/40,000 -
+50 000) - but the point is that NF2 is less common than NF1
+How Neurofibromatosis Presents
+Patients with NF1 may have Lisch nodules, which are hamartomas of the
+iris that do not affect vision (Figure 7). Lisch nodules are the most specific
+feature of NF1.
+50,000)  but the point is that NF2 is less common than NF1
+
+--- SLIDE 9 ---
+Patients with NF1 demonstrate significant freckling, especially in an
+axillary and inguinal distribution, as well as hyperpigmented macules and
+patches known as café au lait spots (French for coffee with milk, referring
+to the color). These spots are usually evident within the first year of life
+(Figure 8).
+Tap image for quiz
+Patients with NF1 are predisposed to all subtypes of neurofibromas. Optic
+pathway gliomas occur in up to 15% of children with NF1, typically before
+6 years of age, so these children need regular formal ophthalmology
+evaluations. An MRI of the brain and orbits is indicated if the child has any
+visual disturbances.
+Roughly 10% of patients with NF1 develop a malignant peripheral nerve
+sheath tumor at some point in their lifetime. Patients with NF1 also may
+exhibit learning disabilities, seizures, vascular abnormalities, and skeletal
+abnormalities
+Tap image for quiz
+
+--- SLIDE 10 ---
+abnormalities.
+Rather than neurofibromas, patients with NF2 are predisposed to develop
+schwannomas. NF2 can present with bilateral vestibular schwannomas,
+other cranial nerve schwannomas, cataracts, meningiomas, and cutaneous
+tumors.
+Table 1 summarizes the differences between NF1 and NF2.
+Table 1
+NF1
+NF2
+Inheritance
+Autosomal dominant
+Autosomal dominant
+Chromosome
+17
+22
+Protein product
+Neurofibromin
+Merlin (tumor suppressor)
+Clinical features
+Hyperpigmented macules,
+axillary or inguinal freckling,
+Lisch nodules (iris
+hamartomas), neurofibromas,
+optic gliomas
+Bilateral vestibular
+schwannomas, schwannomas of
+other cranial nerves,
+intracranial meningiomas,
+peripheral neuropathy,
+cataracts, cutaneous tumors
+Treatment and Prognosis for NF1 and NF2
+There is no definitive overall treatment for NF1, but patients should be
+screened frequently for other problems commonly associated with the
+disease. Patients typically require full body skin surveys, ophthalmologic
+examinations, academic support, and monitoring for hypertension, bone
+abnormalities, and seizures. There are limited mortality data, but the
+lifespan for patients with NF1 is about 15 years shorter than that for the
+average population.
+Patients with NF2 require surveillance for tumors. Schwannomas
+associated with NF2 have responded to bevacizumab (a monoclonal
+antibody therapy), but radiation therapy and surgery are frequently
+required. Although radiation is appropriate for treating tumors, it should
+be minimized in these patients because of the likelihood of secondary
+tumors. On average, patients with NF2 present at around age 20 years and
+die in their 30s due to complications from their tumors.
+
+
+
+--- SLIDE 11 ---
+Summary
+• Schwannomas are benign, encapsulated proliferations of neoplastic
+Schwann cells.
+• Microscopically, schwannomas demonstrate dense and loose areas
+known as Antoni A and B, respectively.
+• Verocay bodies are characteristic features of schwannomas, exhibiting
+palisading nuclear and anuclear regions.
+• Sporadic and familial schwannomas arise because of loss of function of
+the merlin protein.
+• Neurofibromas are benign proliferations of Schwann cells that also
+contain other cell types.
+• The three distinct subtypes of neurofibromas are localized cutaneous,
+plexiform, and diffuse.
+• Neurofibromas form because of loss of function of the neurofibromin
+protein.
+• Neurofibromin acts as a negative regulator of the Ras cell growth
+pathway.
+• Malignant peripheral nerve sheath tumors (MPNSTs) are rare but
+serious cancers, and patients with NF1 are particularly at risk; MPNSTs
+may arise from normal nerves or existing plexiform neurofibromas.
+NF1 presents with Lisch nodules inguinal and axillary freckling café
+• NF1 presents with Lisch nodules, inguinal and axillary freckling, café
+au lait spots, optic gliomas, neurofibromas, and other abnormalities.
+• NF2 presents with cranial nerve schwannomas, intracranial
+meningiomas, cataracts, and cutaneous tumors.
+• NF1 results from mutation of the gene encoding neurofibromin.
+• NF2 results from mutations of the gene encoding merlin.
+• NF1 requires close follow-up to evaluate and manage the disease;
+patients have a decreased average lifespan.
+• NF2 requires appropriate treatment of tumors and often leads to early
+death.
+Review Questions
+
+
+
+======================================
+FILE: pdfs/Lecture #73. M. Plummer, M.D. (HANDOUT FOR NEOCNSPNS).pdf
+======================================
+
+--- SLIDE 1 ---
+From: Robbins and Cotran, Pathologic Basis of Disease, 11th edition, 2025 
+METASTATIC TUMORS TO THE BRAIN 
+ 
+Metastatic lesions, mostly carcinomas, account for approximately one-quarter to one-half of 
+intracranial tumors in hospitalized patients. The five most common primary sites are lung, breast, 
+skin (melanoma), kidney, and gastrointestinal tract, accounting  ...The meninges are also a 
+frequent site of involvement by metastatic disease, where they may either form discrete masses 
+or a more disseminated subarachnoid, meningitis-like pattern known as meningeal 
+carcinomatosis ;... Metastatic tumors present clinically as mass lesions and may occasionally be 
+the first manifestation of systemic cancer. In general, localized treatment of solitary brain 
+metastases improves the quality and duration of the patient’s life. 
+ 
+MORPHOLOGY 
+Intraparenchymal metastases form sharply demarcated masses, often at the junction of gray and 
+white matter, usually surrounded by a zone of edema. The boundary between tumor and brain 
+parenchyma is usually well-defined microscopically…The tumors typically resemble their parent 
+tumor type but can be very poorly differentiated in some cases; for the roughly 10% that present 
+as a metastasis of unknown primary, immunohistochemistry is often helpful for further 
+subtyping. Meningeal carcinomatosis, with tumor nodules studding the surface of the brain, 
+spinal cord, and intradural nerve roots, is most often associated with carcinoma of the lung and 
+breast. 
+Familial tumor syndromes 
+Neurofibromatoses  
+The two forms of neurofibromatosis , NF1 and NF2, are biologically distinct familial 
+autosomal dominant syndromes characterized by tumors of the peripheral and central nervous 
+systems.  NF1 has a frequency of 1 in 3000 individuals and is characterized by neurofibromas of 
+peripheral nerves, gliomas of the optic nerve, pigmented nodules of the iris (Lisch nodules), and 
+cutaneous hyperpigmented macules (café au lait spots).  
+NF2 is less common (with a frequency of 1 in 40,000 to 50,000 persons) and is characterized by 
+the occurrence of bilateral vestibular (cranial nerve VIII) schwannomas, multiple meningiomas, 
+and ependymomas of the cervical spinal cord.  
+ 
+Tuberous sclerosis complex 
+Tuberous sclerosis complex (TSC) is an autosomal dominant syndrome that occurs at a 
+frequency of approximately 1 in 6000 births. It is characterized by the development of 
+hamartomas and benign neoplasms involving the brain and other tissues; the most frequent 
+clinical manifestations are seizures, autism, and intellectual disability. Hamartomas within the 
+CNS take the form of cortical tubers and subependymal nodules; subependymal giant cell 
+astrocytomas (SEGA) are benign neoplasms that appear to develop from the hamartomatous 
+nodules in the same locations. Cortical tubers are often epileptogenic, and surgical resection can 
+be beneficial when medical management of the seizures fails.  
+Elsewhere in the body, renal angiomyolipomas, retinal glial hamartomas, pulmonary 
+lymphangioleiomyomatosis, and cardiac rhabdomyomas develop during childhood and 
+
+--- SLIDE 2 ---
+adolescence. Cysts may be found at various sites, including the liver, kidneys, and pancreas. 
+Cutaneous lesions include angiofibromas, localized leathery thickenings (shagreen patches), 
+hypopigmented areas (ash-leaf patches), and subungual fibromas. 
+One tuberous sclerosis gene (TSC1) is found on chromosome 9q34 and encodes a protein known 
+as hamartin; the more commonly mutated gene (TSC2) is on 16p13.3 and encodes tuberin. These 
+two proteins form a complex that inhibits the kinase mTOR, a key regulator of protein synthesis 
+and other aspects of anabolic metabolism. Mutations in TSC1 or TSC2 disrupt this control and 
+lead to increased and unregulated mTOR activity... Treatment is usually symptomatic, including 
+anticonvulsant therapy for control of seizures; however, treatment with mTOR inhibitors has 
+sometimes resulted in dramatic clinical improvement. 
+ 
+MORPHOLOGY 
+Cortical hamartomas of TSC are firm areas that, in contrast to the softer adjacent cortex, have 
+been likened to potatoes (hence the appellation “ tubers ”). The tubers are composed of 
+haphazardly arranged neurons that lack the normal laminar organization. In addition, some 
+dysplastic cells have an appearance intermediate between glia and neurons (large vesicular nuclei 
+with nucleoli, resembling neurons, and abundant eosinophilic cytoplasm resembling 
+gemistocytic astrocytes); they often express intermediate filaments of both neuronal 
+(neurofilament) and glial (GFAP) types. Similar hamartomatous features are present in the 
+subependymal nodules, where the large astrocyte-like cells cluster beneath the ventricular 
+surface. These small wax-like masses that bulge into the ventricular system gave rise to the 
+term candle gutterings. Subependymal giant cell astrocytoma is histologically similar, but 
+larger; it often presents with obstructive hydrocephalus. 
+ 
+Von hippel-lindau disease 
+Individuals with this autosomal dominant disease develop hemangioblastomas of the CNS; cysts 
+that involve the pancreas, liver, and kidneys; renal cell carcinomas; and pheochromocytomas. 
+Hemangioblastomas are most common in the cerebellum and retina but may also occur in other 
+CNS locations. The disease frequency is 1 in 30,000 to 40,000 individuals.  The gene associated 
+with von Hippel-Lindau disease, called VHL, is a tumor-suppressor gene located on chromosome 
+3p25.3; it encodes a protein (VHL) that is a component of a ubiquitin ligase complex that down-
+regulates transcription factors of the hypoxia-induced factor (HIF) family. HIFs regulate the 
+expression of VEGF, erythropoietin, and other growth factors. VEGF leads to excessive vessel 
+growth, contributing to the development of hemangioblastomas. Erythropoietin overexpression 
+leads to polycythemia in about 10% of hemangioblastoma patients. …Therapy is directed at the 
+symptomatic neoplasms, including resection of the cerebellar hemangioblastomas and laser 
+therapy for retinal hemangioblastomas. 
+MORPHOLOGY 
+Hemangioblastomas are highly vascular neoplasms that form a mural nodule associated with a 
+large fluid-filled cyst. The lesion consists of numerous capillary-size or somewhat larger thin-
+walled vessels with intervening neoplastic cells that have vacuolated, lipid-rich cytoplasm. The 
+neoplastic stromal cells express erythropoietin, VEGF, and inhibin (a diagnostically useful 
+marker), and are believed to be derived from an early mesenchymal progenitor cell capable of 
+differentiating into both endothelial and hemopoietic cells. 
+
