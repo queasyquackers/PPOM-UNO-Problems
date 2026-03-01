@@ -235,7 +235,21 @@ const PDF_MAPPING = {
     "L82": "pdfs/Lecture # 82. C. Dyson, M.D. (PPT).pdf",
     "L83": "pdfs/Lecture # 83. A. Leder, D.O. (PPT).pdf",
     "L84": "pdfs/Lecture # 84. A. Patel, D.O. (PPT).pdf",
-    "8-Pediatrics Part 2 (L84)": "pdfs/Lecture # 84. A. Patel, D.O. (PPT).pdf"
+    "8-Pediatrics Part 2 (L84)": "pdfs/Lecture # 84. A. Patel, D.O. (PPT).pdf",
+    "L86": "pdfs/Lecture # 86. M. Pino, Ph.D. (PPT).pdf",
+    "L87": "pdfs/Lecture # 87. M. Pino, Ph.D. (PPT).pdf",
+    "9-Pharmacology: Antipsychotics (L87)": "pdfs/Lecture # 87. M. Pino, Ph.D. (PPT).pdf",
+    "L88": "pdfs/Lecture # 88. A. Raj, Psy.D. (PPT).pdf",
+    "9-Psychotherapy: Basic Theoretical Principles (L88)": "pdfs/Lecture # 88. A. Raj, Psy.D. (PPT).pdf",
+    "L89": "pdfs/Lecture # 89. L. Hoffman, Ph.D. (PPT).pdf",
+    "9-Neuropsychological Testing (L89)": "pdfs/Lecture # 89. L. Hoffman, Ph.D. (PPT).pdf",
+    "L90": "pdfs/Lecture # 90. L. Jarkon, D.O. (PPT).pdf",
+    "9-Personality Disorders (L90)": "pdfs/Lecture # 90. L. Jarkon, D.O. (PPT).pdf",
+    "L91": "pdfs/Lecture # 91. A. Coladner, D.O. (PPT).pdf",
+    "9-Eating Disorders (L91)": "pdfs/Lecture # 91. A. Coladner, D.O. (PPT).pdf",
+    "L92": "pdfs/Lecture # 92. A. Loftis, D.O. M.S. (PPT).pdf",
+    "9-Sexual Disorders (L92)": "pdfs/Lecture # 92. A. Loftis, D.O. M.S. (PPT).pdf",
+    "L93": "pdfs/Lecture #93. J. Goldberg (PPT).pdf"
 };
 
 // Expose to global scope

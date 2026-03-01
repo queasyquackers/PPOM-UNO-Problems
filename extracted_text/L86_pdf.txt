@@ -1,0 +1,495 @@
+
+=== PAGE 1 ===
+Office of Academic Affairs 
+Pharmacology: Antidepressants and 
+Mood Stabilizers
+Maria A. Pino, Ph.D
+Department of Clinical Specialties
+mpino@nyit.edu
+
+=== PAGE 2 ===
+Source: Course Syllabus
+1. Describe the various hypotheses for depression.
+2. Contrast the various groups of antidepressants. Differentiate 
+between their MOA. Include new approvals.
+3. Describe adverse effects and their management.
+4. Describe bipolar disorder and the specific treatments.
+5. Describe lithium and its adverse effects.
+Session Objectives
+
+=== PAGE 3 ===
+Source: Course Syllabus
+• Reserpine depletes DA, NE, and 5-HT. This drug is 
+associated with depression.
+• Most drugs to treat depression increase these 
+neurotransmitters.
+• Beta-adrenergic receptor blockers and alpha2 agonists 
+may alter mood.
+Amine Hypothesis
+
+=== PAGE 4 ===
+Source: Course Syllabus
+• Steroids or those with increased cortisol have mood disorders.
+• Estrogen and testosterone deficiency have increased 
+depression.
+• Abnormal thyroid function observed in depressed patients.
+• Atrophy in hippocampus and cortex are associated with 
+depression.
+• Unipolar vs bipolar depression
+Other
+
+=== PAGE 5 ===
+Source: Course Syllabus
+• Monoamine oxidase inhibitors (MAOIs)
+• Tricyclic antidepressants (TCA)
+• Selective serotonin reuptake inhibitors (SSRIs): first choice.
+• Atypical antidepressants. New agents.
+• Esketamine: treatment-resistant depression
+• Weeks to have efficacy (boxed suicide warnings)
+• Switching antidepressants: allow “washout” period? If MAOI allow 4-5 weeks.
+• Elderly concerns? 
+• Pregnancy: fluoxetine, sertraline, citalopram (safest). 
+• Psychotherapy, ECT (non-drug)
+Antidepressants
+
+=== PAGE 6 ===
+Source: Course Syllabus
+• MAOA (NE, Epi, 5-HT, DA, tyramine) 
+• MAOB (DA, Selegiline)
+• Phenelzine, tranylcypromine, isocarboxazid
+• Use: Refractory depression
+• Drug and food interactions: Hypertensive crisis
+Monoamine Oxidase Inhibitors 
+(MAOI)
+
+=== PAGE 7 ===
+MAOI
+dundeemedstudentnotes.wordpress.com
+
+=== PAGE 8 ===
+Source: Course Syllabus
+• Aged cheese and meats, red wine, chocolate, avocado, soy sauce, 
+sauerkraut. 
+• Increased NE with alpha1 agonists, sympathomimetics
+• Serotonin syndrome (with meperidine, dextromethorphan, St 
+John’s wort, etc)
+• Hypertensive crisis: Occipital headache, stiff neck, photophobia, 
+palpitations, N/V
+MAOI restrictions 
+
+=== PAGE 9 ===
+Source: Course Syllabus
+• Imipramine: enuresis
+• Desipramine: least anticholinergic
+• Clomipramine: Obsessive-Compulsive Disorder (OCD)
+• Amitriptyline: Neuropathic pain, migraine
+• Nortriptyline
+• Doxepin
+• Amoxapine (some D2 blockade). Adverse effects??
+Tricyclic Antidepressants (TCAs)
+
+=== PAGE 10 ===
+Source: Course Syllabus
+• Block NE and 5-HT reuptake (NET, SERT)
+• Block alpha1, M, and H1 receptors: Name those adverse effects? 
+• CYP drug interactions. CYP2D6 substrate. Polymorphism is 
+associated with slow metabolism of TCAs 
+• Serotonin Syndrome
+• 3C’s: coma, convulsions, cardiotoxicity (“quinidine-like”). 
+Administer sodium bicarbonate.
+TCAs
+
+=== PAGE 11 ===
+Source: Course Syllabus
+TCAs
+
+=== PAGE 12 ===
+Source: Course Syllabus
+• SSRIs, TCAs, meperidine, tramadol, dextromethorphan, 
+St. John’s Wort, linezolid, “triptans”
+• Symptoms: rigidity, hyperthermia, hypertension, 
+tachycardia, myoclonus, delirium, confusion, within 24 
+hrs, unlike NMS. Also, GI symptoms.
+• Treatment: benzodiazepines, cyproheptadine, ventilation 
+Serotonin Syndrome
+
+=== PAGE 13 ===
+Source: Course Syllabus
+NMS vs Serotonin Syndrome
+NMS
+Serotonin Syndrome
+Onset
+Gradual (months-weeks)
+Abrupt
+Findings
+“Lead-pipe” rigidity
+Myoclonus and tremor
+Reflexes
+Decreased
+Increased
+Pupils
+Normal
+Mydriasis
+Drugs
+Antipsychotics, halogenated 
+anesthetics
+Linezolid, St. John’s Wort, 
+“triptans”, SSRIs, MAOIs, 
+tricyclic antidepressants
+
+=== PAGE 14 ===
+Serotonin Receptors (Summary)
+Subtype
+Receptor 
+Mechanism
+Drug
+Clinical effects
+5HT1A
+Gi
+Buspirone 
+(agonist)
+Antianxiety
+Antidepressant
+Improved cognition
+5HT1B/1D 
+Gi
+Sumatriptan 
+(agonist)
+Antimigraine
+5HT2A
+Gq
+LSD (agonist)
+Atypical 
+Antipsychotics 
+(antagonists)
+Hallucinations (agonist)
+Antidepressant
+Decreases EPS
+5HT2c
+Gq
+Locaserin (agonist)
+Atypical 
+Antipsychotics 
+(antagonists)
+Weight loss (agonist)
+Antidepressant,antianxiety, 
+weight gain
+5HT3
+Na+/K+ ion channel
+Ondansetron 
+(antagonist)
+Antiemetic
+https://www.psychiatrictimes.com/view/serotonin-a-biography
+
+=== PAGE 15 ===
+Source: Course Syllabus
+• Fluoxetine  (longest t ½)
+• Fluvoxamine
+• Paroxetine (not in pregnancy)
+• Sertraline
+• Citalopram (increase QT interval)
+• Escitalopram
+Selective Serotonin Reuptake Inhibitors: 
+(SSRIs)
+
+=== PAGE 16 ===
+Source: Course Syllabus
+SSRIs
+• Use: depression, OCD, 
+panic disorder, bulimia, 
+anorexia, PTSD, 
+premenstrual dysphoric 
+disorder 
+• 5-HT specific
+• Fewer ANS and sedative 
+effects than tricyclic 
+antidepressants
+• Safer in overdose (less 
+cardio and seizures)
+
+=== PAGE 17 ===
+Source: Course Syllabus
+• Insomnia, headache 
+• Nausea, vomiting (activate 5-HT3)
+• Discontinuation syndrome (least with fluoxetine)
+• Bleeding abnormalities (platelets)
+• Impotence (phosphodiesterase 5 inhibitor?)
+• Serotonin syndrome 
+• Weight gain (block 5-HT2c)
+• Drug interactions (most with fluoxetine CYP450 2D6;  least with 
+sertraline, citalopram, and escitalopram)
+SSRI Adverse effects
+
+=== PAGE 18 ===
+Source: Course Syllabus
+Serotonin and norepinephrine 
+reuptake inhibitors (SNRI)
+• No effect on H1, alpha1, M 
+receptors, unlike TCA
+• Use: Depression, 
+fibromyalgia, neuropathic 
+pain
+• Duloxetine, venlafaxine, 
+desvenlafaxine, milnacipran
+
+=== PAGE 19 ===
+Source: Course Syllabus
+Bupropion
+• Inhibit DAT, NET, inhibits dopamine and 
+norepinephrine reuptake.
+• Little M, H1 effects
+• No sexual effects
+• CYP450 2D6 inhibitor  
+• Dextromethorphan/bupropion (Auvelity®, 2022)
+• Naltrexone/bupropion (weight loss)
+• Reduce seizure threshold (not for bulimia)
+• Noncompetitive antagonist at nicotinic receptor 
+(smoking cessation)
+• Varenicline: partial nicotinic receptor agonist (adverse 
+effects: erratic behavior, suicide)
+
+=== PAGE 20 ===
+Source: Course Syllabus
+Mirtazapine
+• Tetracyclic antidepressant (TeCA)
+• Blocks alpha2 to increase neuronal NE 
+and 5-HT release
+• Opposite clonidine 
+• Weight gain (H1, 5-HT2c blockade)  
+Sedation (H1 blockade)
+• Blockade 5-HT2A (no sexual 
+dysfunction)
+• Blockade 5-HT3 (no nausea)
+• Stimulate 5-HT1A (anxiolytic)
+
+=== PAGE 21 ===
+Source: Course Syllabus
+Trazodone
+• Serotonin reuptake inhibitor and blocker 
+(SARI) (5-HT2A) 
+• H1 (sedation) and alpha1 (priapism) 
+blockade.
+• Levels increased with CYP 3A4 inhibition
+• Nefazodone: (hepatotoxic)
+• Vilazodone (partial 5-HT1A agonist). 
+• Vortioxetine: like vilazodone; also 
+inhibits NET, SERT.  
+
+=== PAGE 22 ===
+Source: Course Syllabus
+Gepirone
+• Selective 5-HT1A receptor agonist-- less binding to D2 
+compared to buspirone.
+• Less weight gain and sexual dysfunction.
+• Use: Major depressive disorder, dosed once daily. 
+• Adverse effects: dizziness, headache, Increased QT 
+prolongation
+
+=== PAGE 23 ===
+• Derivative of progesterone
+• Modulate GABAA receptors (pre and post synaptic). Enhance 
+hyperpolarization
+• Rapid action, lasts 30 days
+• Administered IV—Postpartum depression. Risk Evaluation and 
+Mitigation strategy (REMS)
+• Adverse effects: Sedation, dizziness
+• Zuranolone: oral, No REMS needed, but no driving for 12 hours.
+Brexanolone
+
+=== PAGE 24 ===
+Source: Course Syllabus
+• Bipolar I (at least one manic episode lasting at least 7 days, then 
+depression for at least 2 weeks)
+• Bipolar II (mainly depression; with episodes of hypomania lasting 
+several days and more mild symptoms).
+• Rapid-cycling: four or more episodes in a year.
+• Treatments: lithium, valproate, carbamazepine, lamotrigine, or 
+atypical antipsychotics
+Bipolar disease
+
+=== PAGE 25 ===
+Source: Course Syllabus
+• Blocks inosine 5’monophosphatase (Gq), PKC
+• Na+ loss promotes Li+ reabsorption (AE with diuretics)
+• NSAIDs, ACEI facilitate Li+ reabsorption in proximal convoluted tubule (PCT).
+• Narrow TI (1.5 mEq vs. 2mEq)
+• Adverse effects: Tremors (use beta blocker)
+• Leukocytosis (not related to infection)
+• Polyuria, polydipsia (Loss of ADH response). Administer amiloride
+• Hypothyroidism 
+• Ebstein anomaly (consider lamotrigine in pregnancy)
+Lithium
+
+=== PAGE 26 ===
+Source: Course Syllabus
+Lithium
+
+=== PAGE 27 ===
+Iodine Organification
+From: Thyroid &amp; Antithyroid Drugs
+Basic &amp; Clinical Pharmacology, 14e,  2018
+SCN-, ClO4-
+T4, T3
+T3
+Radiocontast media             
+Amiodarone
+Thioamides 
+Beta blockers
+Corticosteroids
+PTU
+Iodides, 
+thioamides
+T4, T3
+blood
+Iodides
+Lithium
+
+=== PAGE 28 ===
+Source: Course Syllabus
+• Broad-spectrum Mechanism s
+1. Blocks Na+ channels and T-type calcium channels
+2. Decrease glutamate at NMDA receptors
+3. Increases GABA receptor action
+4. Increases GABA synthesis 
+5. Blocks degradation of GABA
+Valproic Acid
+
+=== PAGE 29 ===
+Source: Course Syllabus
+• Use: Tonic-clonic, absence, and partial seizures, migraine 
+prophylaxis, alternative to lithium in bipolar mania.
+• Adverse effects:  “Valproate Syndrome” includes spina 
+bifida, neural tube defects, autism.
+• Weight gain
+• Hepatitis 
+• Inhibitor of CYP 2D6 and 3A4
+Valproic Acid
+
+=== PAGE 30 ===
+Source: Course Syllabus
+• Blocks sodium channels, blocks NE reuptake
+• Use: Tonic-clonic and partial seizures, trigeminal neuralgia, bipolar 
+disease
+• Adverse effects: Drowsiness, ataxia, diplopia
+• SIADH (water “intox”)= hyponatremia
+• Aplastic anemia
+• Teratogen (neural tube defects)
+• Stevens-Johnson syndrome (HLA B-1502 allele in ethnic population).
+• Inducer of CYP 3A4 (also phenytoin, phenobarbital, rifampin, 
+griseofulvin). 
+Carbamazepine
+
+=== PAGE 31 ===
+Source: Course Syllabus
+• Potentiates GABA, blocks voltage-gated Na+ channels, 
+glutamate blockade.
+• Use: Partial, tonic-clonic, and absence seizures, manic 
+phase of bipolar syndrome, Lennox-Gastaut syndrome
+• Adverse effects: sedation, Black Box Warning Stevens-
+Johnson syndrome= rash
+Lamotrigine
+
+=== PAGE 32 ===
+Source: Course Syllabus
+• 5-HT2 >>>D2; D3 and D4 block
+• Increase DA release to relieve negative symptoms (positive too) of 
+psychosis
+• Few extrapyramidal effects (EPS) and hyperprolactinemia
+• All prolong QT interval. Change in metabolic panel.
+• Aripiprazole, olanzapine, quetiapine, risperidone,  ziprasidone, 
+and cariprazine, approved for mania
+Atypical Antipsychotics (Second 
+generation)
+
+=== PAGE 33 ===
+Source: Course Syllabus
+• Partial D2 and 5-HT1a agonist, 
+5-HT2A antagonist. 
+• Use: bipolar disease, 
+schizophrenia, Tourette’s and 
+irritability in autism. 
+• 5-HT2C agonist (minimal 
+weight gain). 
+• CYP substrate
+Aripiprazole
+
+=== PAGE 34 ===
+Source: Course Syllabus
+• Olanzapine: Less ANS effects, Blocks D3, D4, Fewer EPS, 
+*weight gain*, sedation (H1). Approved in combination with 
+fluoxetine for mania. 
+oReceptor blockade: 5-HT2A > H1 > D4 > D2 > α1 > D1
+• Quetiapine:D2 blocker, which binds for a short time. Minimal 
+muscarinic block, but most sedation (H1) with hypotension 
+(alpha1). 
+o Receptor blockade: H1 > α1 > M1,3 > D2 > 5-HT2A
+Atypical Antipsychotics
+
+=== PAGE 35 ===
+Source: Course Syllabus
+• Risperidone: Increase prolactin, hyperlipidemia, hyperglycemia
+o H1 blockade (sedation, weight gain)
+o Alpha1 block (hypotension)
+• Ziprasidone: blocks 5-HT and NE reuptake. 
+o Skin reaction, eosinophilia
+o H1 blockade (sedation, weight gain)
+o Alpha1 block (hypotension)
+• Cariprazine: D2, D3 partial agonist (5-HT1A agonist) 
+o Akathisia
+Atypical Antipsychotics
+
+=== PAGE 36 ===
+Source: Course Syllabus
+Lumateperone (Caplyta®)
+•
+Use: schizophrenia, MDD, bipolar I 
+and II
+•
+5-HT2A receptor antagonist (60x 
+greater affinity for this receptor vs D2 
+receptors).
+•
+D2 receptor presynaptic partial 
+agonist and postsynaptic antagonist 
+“Balance”
+•
+D1 receptor–dependent modulator of 
+glutamate.  Augment NMDA 
+receptors
+
+=== PAGE 37 ===
+Source: Course Syllabus
+Esketamine (Spravato®)
+• Use: treatment resistant depression
+• MOA: NMDA receptor blockade
+• Intranasal, administer with oral 
+antidepressant
+• Modulates dopamine. Increases 
+BDNF
+• Administered in a supervised, 
+clinical setting. Check vitals over 2 
+hours.
+• AE: Abuse liability, sedation, 
+dissociative effects 
+
+=== PAGE 38 ===
+Source: Course Syllabus
+• Contrast the various groups of antidepressants. Differentiate between their MOA 
+and adverse effects.
+• Review the specific treatments for bipolar disorder.
+Core References:
+1.
+Basic & Clinical Pharmacology, 16e, 2024. Bertram G. Katzung, Todd Vanderah, Chapter 
+29, Antipsychotics and Lithium and Chapter 30,  Antidepressants
+2.
+Goodman & Gilman's: The Pharmacological Basis of Therapeutics, 14e, 2023. Chapter 
+18: Drug Therapy of Depression and Anxiety Disorders; Chapter 19: Pharmacotherapy of 
+Psychosis and Mania
+3.
+Antidepressants and Mood Stabilizers Summary and Practice Questions (Maria A. Pino, 
+Ph.D).
+Summary
+
+=== PAGE 39 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

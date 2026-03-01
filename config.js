@@ -98,5 +98,15 @@ const testsToLoad = [
     { name: "8-Schizophrenia and Psychotic Disorders (L82)", data: window.Test_L82 },
     { name: "8-Unusual Neurological Diseases (L83)", data: window.Test_L83 },
     { name: "8-Pediatrics Part 2 (L84)", data: window.Test_L84 },
-    { name: "8-Week 6-8 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_8 }
+    { name: "8-Week 6-8 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_8 },
+
+    // --- Week 9 ---
+    { name: "9-Pharmacology: Antidepressants and Mood Stabilizers (L86)", data: window.Test_L86 },
+    { name: "9-Pharmacology: Antipsychotics (L87)", data: window.Test_L87 },
+    { name: "9-Psychotherapy: Basic Theoretical Principles (L88)", data: window.Test_L88 },
+    { name: "9-Neuropsychological Testing (L89)", data: window.Test_L89 },
+    { name: "9-Personality Disorders (L90)", data: window.Test_L90 },
+    { name: "9-Eating Disorders (L91)", data: window.Test_L91 },
+    { name: "9-Sexual Disorders (L92)", data: window.Test_L92 },
+    { name: "9-Clinical Decision Making: Capacity & Commitment (L93)", data: window.Test_L93 }
 ];
