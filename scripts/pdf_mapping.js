@@ -249,7 +249,19 @@ const PDF_MAPPING = {
     "9-Eating Disorders (L91)": "pdfs/Lecture # 91. A. Coladner, D.O. (PPT).pdf",
     "L92": "pdfs/Lecture # 92. A. Loftis, D.O. M.S. (PPT).pdf",
     "9-Sexual Disorders (L92)": "pdfs/Lecture # 92. A. Loftis, D.O. M.S. (PPT).pdf",
-    "L93": "pdfs/Lecture #93. J. Goldberg (PPT).pdf"
+    "L93": "pdfs/Lecture #93. J. Goldberg (PPT).pdf",
+    "L94": [
+        "pdfs/Lecture #94 J. Goldberg (PPT #1).pdf",
+        "pdfs/Lecture #94. J. Goldberg (PPT #2).pdf"
+    ],
+    "9-Disaster Psychiatry & PTSD (L94)": [
+        "pdfs/Lecture #94 J. Goldberg (PPT #1).pdf",
+        "pdfs/Lecture #94. J. Goldberg (PPT #2).pdf"
+    ],
+    "L95": "pdfs/Lecture #95. J. Goldberg (PPT).pdf",
+    "9-Special Issues in Psychiatry (L95)": "pdfs/Lecture #95. J. Goldberg (PPT).pdf",
+    "L96": "pdfs/Lecture # 96. T. Chan, D.O. (PPT).pdf",
+    "9-Adolescent Wellness (L96)": "pdfs/Lecture # 96. T. Chan, D.O. (PPT).pdf"
 };
 
 // Expose to global scope

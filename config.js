@@ -108,5 +108,9 @@ const testsToLoad = [
     { name: "9-Personality Disorders (L90)", data: window.Test_L90 },
     { name: "9-Eating Disorders (L91)", data: window.Test_L91 },
     { name: "9-Sexual Disorders (L92)", data: window.Test_L92 },
-    { name: "9-Clinical Decision Making: Capacity & Commitment (L93)", data: window.Test_L93 }
+    { name: "9-Clinical Decision Making: Capacity & Commitment (L93)", data: window.Test_L93 },
+    { name: "9-Disaster Psychiatry & PTSD (L94)", data: window.Test_L94 },
+    { name: "9-Special Issues in Psychiatry (L95)", data: window.Test_L95 },
+    { name: "9-Adolescent Wellness (L96)", data: window.Test_L96 },
+    { name: "9-Week 6-9 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_9 }
 ];
