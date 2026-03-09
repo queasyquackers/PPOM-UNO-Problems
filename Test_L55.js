@@ -246,7 +246,7 @@ const Test_L55 = [
             }
         ],
         "correctAnswerIndex": 1,
-        "clinicalPearl": "Key takeaway: The insular ribbon sign is an early CT finding of acute ischemic stroke, representing edema ("blurring") of the insular cortex.",
+        "clinicalPearl": "Key takeaway: The insular ribbon sign is an early CT finding of acute ischemic stroke, representing edema (\"blurring\") of the insular cortex.",
         "pdfPage": 38,
         "pdfQuote": "insular ribbon sign"
     },
