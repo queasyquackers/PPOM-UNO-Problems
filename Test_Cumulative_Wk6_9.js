@@ -1928,33 +1928,33 @@ window.Test_Cumulative_Wk6_9 = [
   },
   {
     "id": 65,
-    "category": "Neurology: Intracranial Hemorrhages",
-    "questionText": "A 19-year-old college baseball player is struck violently in the right temple by a fastball. He briefly loses consciousness but \"shakes it off,\" fully regaining his mental faculties within two minutes and insisting on jogging back to the dugout. An hour later, while resting on the bench, his coach notices he is suddenly vomiting aggressively, breathing irregularly, and complaining of the worst headache of his life. Minutes later, the player forcefully completely loses consciousness, and his right pupil becomes completely fixed and dilated. What extremely fragile vascular structure was anatomically ruptured, leading directly to this classic clinical deterioration?",
+    "category": "Neurology: Aphasia & Stroke",
+    "questionText": "A 65-year-old right-handed man is evaluated in the ED for sudden language difficulties. His family reports he is speaking smoothly, but his words make no sense, often using made-up words. When asked to close his eyes, he attempts to shake the examiner's hand. He appears completely unaware of his deficit. Based on these findings, an ischemic stroke in which vascular territory is responsible?",
     "options": [
       {
-        "text": "A pre-existing 'berry' aneurysm in the Anterior Communicating Artery",
-        "explanation": "Incorrect. Ruptured saccular (berry) aneurysms cause Subarachnoid Hemorrhages (SAH), described as the \"worst headache of life.\" This usually happens spontaneously or rapidly during exertion without the classic \"lucid interval\" followed by rapid traumatic herniation."
+        "text": "Superior division of the left middle cerebral artery",
+        "explanation": "Incorrect. A stroke here causes Broca's aphasia (non-fluent speech, preserved comprehension)."
       },
       {
-        "text": "The Middle Meningeal Artery, deep to the pterion",
-        "explanation": "Correct. The patient experienced a classic Epidural Hematoma. A severe blow to the very thin temporal bone (the pterion) fractures it, tearing the underlying Middle Meningeal Artery. Because it is high-pressure arterial bleeding, it rapidly strips the tightly adhered dura mater away from the skull. Clinically, patients notoriously experience a \"lucid interval\" (feeling totally fine after a brief initial knockout) before the rapidly expanding arterial mass violently compresses the brain. This causes massive intracranial pressure (headache, vomiting, Cushing's reflex) followed rapidly by uncal herniation (compressing CN III, causing the \"blown\" fixed/dilated pupil) and death."
+        "text": "Inferior division of the left middle cerebral artery",
+        "explanation": "Correct. The patient has Wernicke's aphasia: fluent, nonsensical speech, inability to comprehend language, and lack of awareness (anosognosia). Wernicke's area is supplied by the inferior division of the left MCA."
       },
       {
-        "text": "Bridging cortical veins crossing the subdural space",
-        "explanation": "Incorrect. Tearing the bridging veins causes a Subdural Hematoma. Because the veins are low-pressure, bleeding is extremely slow. Symptoms typically present gradually over days to weeks, usually in elderly patients with brain atrophy or violently shaken infants, not catastrophically within an hour of baseball trauma."
+        "text": "Left anterior cerebral artery",
+        "explanation": "Incorrect. The ACA supplies the medial frontal/parietal lobes, causing contralateral leg weakness, not a fluent aphasia."
       },
       {
-        "text": "Lenticulostriate arteries arising from the MCA",
-        "explanation": "Incorrect. Rupture of the lenticulostriate vessels causes severe, spontaneous deep intraparenchymal hypertensive hemorrhages (often in the basal ganglia causing dense hemiplegia), heavily associated with chronic uncontrolled hypertension, not acute minor trauma."
+        "text": "Lenticulostriate branches of the left middle cerebral artery",
+        "explanation": "Incorrect. These supply deep structures (internal capsule) causing pure motor hemiparesis."
       },
       {
-        "text": "The Great Cerebral Vein of Galen",
-        "explanation": "Incorrect. A tear of this massive deep central vein is catastrophic and fatal, typically seen in severe, life-ending shearing trauma, but does not fit the classic \"lucid interval\" and pterion trauma."
+        "text": "Right middle cerebral artery",
+        "explanation": "Incorrect. In a right-handed patient, the left hemisphere is dominant for language."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Epidural hematomas are classically caused by a skull fracture crushing the middle meningeal artery; they present with a brief 'lucid interval' followed by rapid, potentially fatal uncal herniation (blown pupil).",
-    "lectureSource": "Lecture 55: Neurology: Tremors, Hemorrhages, Trigeminal"
+    "clinicalPearl": "Key takeaway: Wernicke's aphasia (fluent, nonsensical speech with devastated comprehension) is profoundly caused by an ischemic stroke in the inferior division of the dominant (left) Middle Cerebral Artery.",
+    "lectureSource": "Lecture 54: Neurology: Aphasia & Stroke"
   },
   {
     "id": 66,
@@ -2078,33 +2078,33 @@ window.Test_Cumulative_Wk6_9 = [
   },
   {
     "id": 70,
-    "category": "Neurology: Spinal Cord Lesions",
-    "questionText": "A 25-year-old male is brought to the emergency trauma bay after suffering a severe stab wound directly to the middle of his back at the T10 vertebral level. Neurological examination reveals absolute flaccid paralysis of his right leg with absent deep tendon reflexes on the right. Testing pinprick and severe temperature sensation reveals an absolute total sensory loss exclusively on his left leg, beginning below the umbilicus. Based on a comprehensive understanding of neuroanatomy, what specific neurological structure was mechanically transected to explicitly cause the isolated loss of pain and temperature solely on the left leg?",
+    "category": "Neurology: Headache",
+    "questionText": "A 28-year-old female presents to the clinic intensely complaining of unilateral, pulsating headaches that fiercely occur 4 to 5 times a month. She states the pain is severe, heavy nausea and photophobia ensue, forcing her to lie down in a dark room. She asks for a highly effective acute abortive medication. Her medical history is significant for poorly controlled, severe essential hypertension. Which of the following acute abortive medications should absolutely be avoided as it is strictly contraindicated?",
     "options": [
       {
-        "text": "The right fasciculus gracilis within the dorsal column",
-        "explanation": "Incorrect. The fasciculus gracilis (dorsal column) purely carries fine touch, vibration, and proprioception from the ipsilateral lower extremity. Transecting the right dorsal column heavily destroys vibratory sense on the right, not pain/temperature on the left."
+        "text": "Oral Rimegepant",
+        "explanation": "Incorrect. Rimegepant is a targeted CGRP receptor antagonist. It does not cause vasoconstriction and is safe for acute migraine abortion in patients with cardiovascular disease."
       },
       {
-        "text": "The left lateral spinothalamic tract",
-        "explanation": "Incorrect. The lateral spinothalamic tract is the pathway carrying pain/temperature. However, the first-order neurons cross to the contralateral side within the anterior white commissure almost immediately upon entering the spine. Therefore, the *left* tract is actively carrying the information gathered from the *right* side of the body."
+        "text": "Oral Sumatriptan",
+        "explanation": "Correct. The patient has episodic migraines. Sumatriptan (a triptan) powerfully aborts migraines by aggressively causing vasoconstriction of dilated cranial blood vessels. However, it can dangerously increase systemic blood pressure or heavily precipitate coronary vasospasm. Therefore, triptans are absolutely contraindicated in patients with severe uncontrolled hypertension, ischemic heart disease, or a history of stroke."
       },
       {
-        "text": "The right anterior corticospinal tract",
-        "explanation": "Incorrect. The corticospinal tract carries pure upper motor neuron commands. A lesion here creates weakness, not primary sensory loss."
+        "text": "Daily Propranolol",
+        "explanation": "Incorrect. Propranolol (a beta-blocker) is safe and beneficial in a hypertensive patient, as it lowers blood pressure. It is used for daily preventive prophylaxis, not as an acute abortive agent."
       },
       {
-        "text": "The right lateral spinothalamic tract",
-        "explanation": "Correct. The patient has suffered a Brown-Méquard Syndrome (a complete spinal hemisection isolated to the right half of the spinal cord at T10). The knife severed three specific structures on the right side: 1) Right Corticospinal tract (giving right-sided UMN paralysis below T10), 2) Right Dorsal Column (loss of right vibratory/proprioceptive sense below T10), and crucially, 3) the Right Lateral Spinothalamic Tract. Because sensory fibers for pain and temperature enter the cord and essentially cross over immediately to ascend purely on the *opposite* side, the right tract is entirely responsible for carrying the pain and temperature information originating from the *left* leg. Therefore, severing the right spinothalamic tract results in a massive, exclusive loss of pain/temperature on the contralateral (left) leg."
+        "text": "Daily Topiramate",
+        "explanation": "Incorrect. Topiramate is an antiepileptic used for daily migraine prophylaxis, not acute abortion. It is generally safe in hypertension."
       },
       {
-        "text": "The right anterior white commissure",
-        "explanation": "Incorrect. While severing the anterior white commissure disrupts pain and temperature, it profoundly destroys the crossing fibers from *both* sides at that specific level, causing a bilateral, \"cape-like\" sensory loss (Syringomyelia), not a massive unilateral deficit of an entire limb."
+        "text": "Oral Lasmiditan",
+        "explanation": "Incorrect. Lasmiditan is a selective 5-HT 1F agonist specifically designed to securely abort migraines without causing vasoconstriction, making it a safe acutely effective alternative for patients with cardiovascular contraindications."
       }
     ],
-    "correctAnswerIndex": 3,
-    "clinicalPearl": "Key takeaway: In a spinal cord hemisection (Brown-Méquard syndrome), the lesion destroys the lateral spinothalamic tract on the injured side, resulting in a profound loss of pain and temperature strictly on the CONTRALATERAL side below the lesion.",
-    "lectureSource": "Lecture 58: Neurology: Spinal Cord Lesions"
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: Triptans (e.g., sumatriptan) abort migraines via systemic vasoconstriction and are absolutely contraindicated in patients with uncontrolled hypertension or cardiovascular disease.",
+    "lectureSource": "Lecture 63: Neurology: Headache"
   }
 ,
   {
@@ -2199,33 +2199,33 @@ window.Test_Cumulative_Wk6_9 = [
   },
   {
     "id": 74,
-    "category": "OMM: Lower Extremity",
-    "questionText": "A 22-year-old female marathon runner complains of focal, intense nerve pain radiating down the lateral aspect of her right lower leg following a severe inversion ankle sprain during a trail run. Suspecting exactly what mechanical dysfunction is compressing her common fibular nerve, the osteopathic physician examines her right fibular head. During the exam, he attempts to actively flex, plantarflex, and severely internally rotate the ankle, thereby testing the fibular head's anterior-posterior glide. Which of the following describes the specific mechanical motion restrictions perfectly indicative of a Posterior Fibular Head somatic dysfunction?",
+    "category": "Pediatric Neuro 1",
+    "questionText": "A 2-year-old boy is evaluated in the pediatric neurology clinic for delayed gross motor milestones. While he sat without support at 8 months, he struggles to stand and cannot walk independently. Physical examination reveals symmetric proximal muscle weakness, entirely absent deep tendon reflexes, and tongue fasciculations. Despite motor deficits, he is highly intelligent. Genetic testing confirms a homozygous deletion in the SMN1 gene on chromosome 5. The pathophysiology of this disease uniquely targets which of the following anatomical structures?",
     "options": [
       {
-        "text": "The fibular head heavily resists moving anteriorly during full ankle dorsiflexion and eversion.",
-        "explanation": "Correct. The patient suffered an inversion ankle sprain, a classic mechanism creating a Posterior Fibular Head somatic dysfunction (due to violent traction on the biceps femoris or lateral collateral ligaments). Because the fibula moves oppositely to the talus, when the ankle is fully dorsiflexed and everted, the fibular head must glide anteriorly to accommodate. Therefore, a dysfunction where the head is stuck *posteriorly* will present with a restriction (it will heavily resist) gliding anteriorly during vigorous ankle dorsiflexion and eversion."
+        "text": "Oligodendrocytes in the central nervous system",
+        "explanation": "Incorrect. Oligodendrocytes produce myelin in the CNS. Their destruction causes central demyelinating diseases (e.g., MS), presenting with UMN signs (spasticity, hyperreflexia), not profound flaccid weakness."
       },
       {
-        "text": "The fibular head freely glides anteriorly during full ankle plantarflexion and inversion.",
-        "explanation": "Incorrect. During plantarflexion and inversion, the fibular head naturally glides posteriorly. If it is already stuck posteriorly, it will not \"resist\" this motion, but it certainly will not \"freely glide anteriorly\"."
+        "text": "Anterior horn cells in the spinal cord",
+        "explanation": "Correct. Spinal Muscular Atrophy (SMA), caused by an SMN1 mutation, leads to the progressive, fatal destruction of lower motor neurons in the anterior horn of the spinal cord and brainstem. This exclusively destroys lower motor neurons, presenting with classic LMN signs: flaccid symmetric proximal weakness, hypotonia, areflexia, and tongue fasciculations, with preserved intellect."
       },
       {
-        "text": "The fibular head heavily resists moving posteriorly during full ankle plantarflexion and inversion.",
-        "explanation": "Incorrect. This describes the exact presentation of an Anterior Fibular Head somatic dysfunction (often caused by eversion sprains)."
+        "text": "Schwann cells in the peripheral nervous system",
+        "explanation": "Incorrect. Schwann cells produce peripheral myelin. Their progressive destruction characterizes severe demyelinating neuropathies like Guillain-Barré syndrome, not SMA."
       },
       {
-        "text": "The talus deeply resists translating laterally during passive ankle inversion.",
-        "explanation": "Incorrect. This describes a dysfunction strictly at the tibiotalar joint, not specifically defining the fibular head's primary coupled motions."
+        "text": "Postsynaptic acetylcholine receptors at the neuromuscular junction",
+        "explanation": "Incorrect. Autoimmune destruction of acetylcholine receptors strictly causes Myasthenia Gravis, producing fluctuating weakness that typically spares deep tendon reflexes."
       },
       {
-        "text": "The entire fibula rotates completely medially independent of the tibia during ambulation.",
-        "explanation": "Incorrect. The fibula naturally externally evaluates (rotates) during dorsiflexion, but these are small reciprocal glides, not wild independent \"complete medial rotation.\""
+        "text": "Muscle fibers due to defective dystrophin production",
+        "explanation": "Incorrect. Defective dystrophin production causes Duchenne Muscular Dystrophy. While it causes severe proximal weakness, it lacks prominent LMN signs like tongue fasciculations."
       }
     ],
-    "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: A Posterior Fibular Head somatic dysfunction (commonly caused by inversion ankle sprains) strictly resists anterior glide during full ankle dorsiflexion and eversion.",
-    "lectureSource": "Lecture 70: OMM Lower Extremity/Gait"
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: SMA explicitly uniquely destroys anterior horn cells (lower motor neurons) due to an SMN1 mutation, causing profound flaccid weakness, areflexia, and tongue fasciculations.",
+    "lectureSource": "Lecture 75: Pediatric Neuro 1"
   },
   {
     "id": 75,
@@ -2890,33 +2890,33 @@ window.Test_Cumulative_Wk6_9 = [
   },
   {
     "id": 97,
-    "category": "Neurology: Trigeminal Neuralgia",
-    "questionText": "A 55-year-old female presents to the neurology clinic describing catastrophic, 10/10 facial pain. She states that over the past two weeks, she experiences sudden, lightning-fast \"electric shocks\" of excruciating pain shooting across her right cheek and jaw. These attacks last only a few seconds but are so severe they bring her to her knees. She notes the pain is exclusively triggered by a light breeze hitting her face, chewing food, or lightly brushing her teeth. A targeted MRI heavily rules out any central demyelinating lesions or anomalous vascular loops compressing the nerve root. What is the most appropriate, absolute first-line pharmacological treatment heavily indicated specifically to suppress this classic neuropathic pain syndrome?",
+    "category": "Pediatrics: Normal Development",
+    "questionText": "A mother brings her perfectly healthy, full-term 24-month-old (2-year-old) daughter to the pediatrician for a standard routine well-child check. The mother expresses concern because the child is absolutely not yet pedaling her older brother's tricycle. The pediatrician reassures the mother, noting that riding a tricycle is completely a 3-year-old motor milestone. Assessing strictly for normal developmental milestones securely during this visit, the physician definitively expects a healthy child of this specific chronological age (24 months) to accurately perform which of the following tasks?",
     "options": [
       {
-        "text": "High-dose intravenous Methylprednisolone",
-        "explanation": "Incorrect. High-dose IV steroids are the first-line treatment for acute MS flares (optic neuritis/transverse myelitis) or Giant Cell Arteritis, but offer no relief for pure trigeminal neuralgia."
+        "text": "Hop completely steadily on one foot",
+        "explanation": "Incorrect. Hopping securely on one foot is an advanced gross motor milestone heavily achieved at 4 years of age (48 months), not strictly at 2 years of age."
       },
       {
-        "text": "Oral Carbamazepine",
-        "explanation": "Correct. The patient describes the absolute classic presentation of Trigeminal Neuralgia (Tic Douloureux): brief, excruciating, lancinating/electric shock pain strictly in the V2 (maxillary) or V3 (mandibular) distribution, notoriously triggered by minor tactile stimuli (chewing, brushing teeth, wind). The absolute definitive, highly targeted first-line pharmaceutical therapy is Carbamazepine (an antiepileptic drug that blocks voltage-gated sodium channels, vastly decreasing high-frequency neuronal firing). Patients must be closely monitored for hyponatremia (SIADH) and severe blood dyscrasias while on this medication."
+        "text": "Copy a perfectly drawn circle on a piece of paper",
+        "explanation": "Incorrect. The ability to correctly copy a circle is fundamentally a fine motor milestone famously achieved exactly at 3 years of age (36 months)."
       },
       {
-        "text": "Subcutaneous Sumatriptan",
-        "explanation": "Incorrect. Triptans are targeted explicitly for acute Migraines or Cluster Headaches, lacking any efficacy against the explosive cranial nerve misfiring seen here."
+        "text": "Speak fluidly in complete 3-word sentences",
+        "explanation": "Incorrect. Speaking fluidly primarily in 3-word sentences and being 75% completely understood by strangers is specifically a 3-year-old milestone."
       },
       {
-        "text": "Oral Indomethacin",
-        "explanation": "Incorrect. Indomethacin is uniquely the absolute treatment of choice for Hemicrania Continua or Paroxysmal Hemicrania, not Trigeminal Neuralgia."
+        "text": "Build a solid, stable tower of 6 small cubes",
+        "explanation": "Correct. At 2 years (24 months) of age, normal key developmental milestones include building a tower of 6 cubes, independently walking perfectly securely up and down stairs (placing two feet on each step), running, securely speaking explicitly in 2-word phrases, perfectly understanding 2-step precise commands, and engaging perfectly powerfully in parallel play."
       },
       {
-        "text": "Daily high-dose Valproic Acid",
-        "explanation": "Incorrect. While Valproic Acid is a broad-spectrum anti-seizure drug, Carbamazepine uniquely remains the gold-standard, specific first-line agent empirically proven to halt trigeminal neuralgia attacks."
+        "text": "Draw a clear, distinguishable triangle",
+        "explanation": "Incorrect. Drawing or copying a triangle is a highly advanced fine motor milestone achieved correctly at 5 years of age (60 months)."
       }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Key takeaway: Trigeminal Neuralgia presents with excruciating, lightning-fast facial pain triggered by light touch (chewing, wind), and is uniquely and definitively treated first-line with Carbamazepine.",
-    "lectureSource": "Lecture 55: Neurology: Tremors, Hemorrhages, Trigeminal"
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: Development milestones for 24 months (2 years) include building a 6-cube tower, jumping, 2-word phrases, and obeying 2-step commands.",
+    "lectureSource": "Lecture 84: Pediatrics Part 2"
   },
   {
     "id": 98,
@@ -2950,33 +2950,33 @@ window.Test_Cumulative_Wk6_9 = [
   },
   {
     "id": 99,
-    "category": "Pharmacology: Multiple Sclerosis",
-    "questionText": "A 34-year-old female with a highly aggressive, rapidly progressive form of Relapsing-Remitting Multiple Sclerosis (RRMS) has failed three standard first-line therapies. Her neurologist strongly decides to initiate a highly potent, targeted biologic therapy. He prescribes a humanized monoclonal antibody designed specifically to actively bind and completely block the alpha-4 integrin molecule securely located on the outer surface of circulating white blood cells. By neutralizing this adhesion molecule, the drug brilliantly prevents the destructive lymphocytes from crossing the blood-brain barrier. Before starting this incredible therapy, the patient must be extensively screened and enrolled in a rigorous monitoring program due to a massive risk of reactivating the JC Virus, causing fatal Progressive Multifocal Leukoencephalopathy (PML). Which specific medication was prescribed?",
+    "category": "Psychiatry: Personality Disorders",
+    "questionText": "A 32-year-old male is referred to a psychiatrist by his workplace after multiple interpersonal conflicts. He believes his coworkers are constantly conspiring to get him fired and interprets harmless delays in emails as deliberate sabotage. He refuses to confide in anyone, stating, \"Any information I give them will be used against me later.\" He holds grudges intensely and was recently furious when a colleague offered to help him with a project, perceiving it as an insult to his competence. He does not experience hallucinations or delusions. What is the most likely diagnosis?",
     "options": [
       {
-        "text": "Interferon Beta-1a",
-        "explanation": "Incorrect. Interferons are standard, older first-line therapies for MS. They are broad endogenous cytokines used to generally suppress the immune system, but they are not targeted monoclonal antibodies binding alpha-4 integrins."
+        "text": "Schizoid Personality Disorder",
+        "explanation": "Incorrect. Schizoid patients present with striking emotional coldness, detachment, and an utter lack of desire for close relationships. They are apathetic, not actively distrustful, begrudging, or suspicious that others are conspiring against them."
       },
       {
-        "text": "Glatiramer Acetate",
-        "explanation": "Incorrect. Glatiramer is a synthetic polypeptide heavily resembling myelin basic protein. It serves as a \"decoy,\" tricking the immune system's T-cells into attacking the drug instead of the patient's actual myelin. It carries zero risk of PML."
+        "text": "Schizotypal Personality Disorder",
+        "explanation": "Incorrect. Schizotypal patients often have severe social anxiety and suspiciousness, but this is heavily accompanied by magical thinking, eccentric behaviors, and perceptual distortions (e.g., bodily illusions), lacking isolated pure intense resentment."
       },
       {
-        "text": "Natalizumab",
-        "explanation": "Correct. Natalizumab is an incredibly potent, highly targeted monoclonal antibody specifically binding the alpha-4 integrin heavily presented on the surface of circulating leukocytes. Normally, these integrins allow immune cells to firmly adhere to the endothelial wall and extravasate into the central nervous system. By blocking this, Natalizumab completely banishes inflammatory cells from the brain, profoundly halting MS progression. However, by entirely stripping the brain of its immune surveillance, it notoriously allows the ubiquitous, latent JC virus to reactivate and rampage unimpeded, causing the rapidly fatal demyelinating disease Progressive Multifocal Leukoencephalopathy (PML)."
+        "text": "Paranoid Personality Disorder",
+        "explanation": "Correct. The patient exhibits Paranoid Personality Disorder (Cluster A). This is characterized by a pervasive, lifelong pattern of distrust and suspiciousness of others, interpreting motives as malevolent. Patients assume exploitation, harbor intense grudges, and persistently read hidden, threatening meanings into benign remarks (like the offer of help). Unlike delusional disorder or schizophrenia, these paranoid beliefs are not fixed, bizarre delusions; they are rigid personality traits without true psychotic features."
       },
       {
-        "text": "Ocrelizumab",
-        "explanation": "Incorrect. Ocrelizumab is a highly potent monoclonal antibody for MS, but it specifically targets and depletes CD20-positive B-cells, not the alpha-4 integrin on all leukocytes."
+        "text": "Antisocial Personality Disorder",
+        "explanation": "Incorrect. Characterized by aggressive disregard for the rights of others, deceitfulness, impulsivity, and lack of remorse, rather than pure suspicion of others' intentions."
       },
       {
-        "text": "Fingolimod",
-        "explanation": "Incorrect. Fingolimod is an oral agent that heavily acts as a sphingosine-1-phosphate receptor modulator. It effectively traps lymphocytes deep within the peripheral lymph nodes so they cannot leave to attack the brain. It doesn't bind alpha-4 integrins in the blood."
+        "text": "Delusional Disorder, Persecutory Type",
+        "explanation": "Incorrect. This involves clearly fixed, non-bizarre delusions (e.g., \"the FBI is bugging my phone\"). This patient's symptoms represent a pervasive rigid personality trait of reading threatening meanings into everyday events, without crossing into formal delusions."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: Natalizumab fiercely treats MS by explicitly blocking alpha-4 integrin, preventing leukocyte entry into the brain; however, this loss of immune surveillance massively risks reactivating the latent JC virus, causing fatal PML.",
-    "lectureSource": "Lecture 69: Pharmacology: Multiple Sclerosis"
+    "clinicalPearl": "Key takeaway: Paranoid Personality Disorder presents as a pervasive distrust and suspicion of others' motives, harboring grudges and perceiving benign remarks as attacks, without entering frank psychosis.",
+    "lectureSource": "Lecture 90: Personality Disorders"
   },
   {
     "id": 100,
