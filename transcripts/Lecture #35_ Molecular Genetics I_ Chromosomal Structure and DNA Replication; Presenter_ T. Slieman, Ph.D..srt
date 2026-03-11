@@ -1,0 +1,5194 @@
+1
+00:00:01,240 --> 00:00:02,960
+Hello to our
+first installment
+
+2
+00:00:02,960 --> 00:00:05,780
+of Molecular
+Genetics Lecture.
+
+3
+00:00:05,780 --> 00:00:08,240
+So this first one is
+Molecular Genetics 1,
+
+4
+00:00:08,240 --> 00:00:10,420
+Chromosomal Structure
+and DNA Application.
+
+5
+00:00:10,420 --> 00:00:12,340
+And then we have
+two more Molecular
+
+6
+00:00:12,340 --> 00:00:14,040
+Genetics. I'd like
+to introduce myself
+
+7
+00:00:14,040 --> 00:00:15,080
+here, because this
+is probably the
+
+8
+00:00:15,080 --> 00:00:16,620
+first lecture
+you've seen from me.
+
+9
+00:00:16,660 --> 00:00:19,000
+My name is Dr.
+Tony Slingman.
+
+10
+00:00:19,120 --> 00:00:21,440
+I'm a microbiologist
+-immunologist,
+
+11
+00:00:21,440 --> 00:00:22,800
+so I've been
+teaching a lot of
+
+12
+00:00:22,800 --> 00:00:24,960
+microbiology lectures,
+as well as probably
+
+13
+00:00:24,960 --> 00:00:26,680
+most of your
+immunology lectures.
+
+14
+00:00:27,200 --> 00:00:29,660
+I'm in my current
+position. I'm the
+
+15
+00:00:29,660 --> 00:00:31,940
+director of academic
+affairs, I'm also an
+
+16
+00:00:31,940 --> 00:00:34,780
+associate professor on
+the Jonesboro campus,
+
+17
+00:00:34,780 --> 00:00:36,920
+I'm also the founding
+director of the
+
+18
+00:00:36,920 --> 00:00:39,740
+Masters of Biomedical
+Sciences program.
+
+19
+00:00:39,740 --> 00:00:43,800
+I'm also a MBME item
+writer and part of
+
+20
+00:00:43,800 --> 00:00:46,130
+the people that put
+the board examination
+
+21
+00:00:46,130 --> 00:00:48,240
+together, what's
+called a key validator,
+
+22
+00:00:48,240 --> 00:00:51,240
+and I'm also part
+of the individuals
+
+23
+00:00:51,380 --> 00:00:53,180
+or one of the
+faculty advisors
+
+24
+00:00:53,180 --> 00:00:56,160
+for the first
+aid USMLE book.
+
+25
+00:00:57,740 --> 00:01:01,600
+Looking forward
+to teaching you.
+
+26
+00:01:04,100 --> 00:01:07,140
+Once students finish
+this lecture, they
+
+27
+00:01:07,140 --> 00:01:09,300
+should be able to state
+the significance of
+
+28
+00:01:09,300 --> 00:01:13,720
+genetics in medicine,
+should be able to outline
+
+29
+00:01:13,720 --> 00:01:15,880
+key experiments
+that help in our
+
+30
+00:01:15,880 --> 00:01:18,840
+understanding of
+genetics, should be
+able to identify
+
+31
+00:01:18,840 --> 00:01:21,560
+DNA structure and
+key aspects of that,
+
+32
+00:01:21,720 --> 00:01:25,080
+also identify key
+aspects of chromosomal
+
+33
+00:01:25,080 --> 00:01:27,440
+structure and the
+organization of chromosomes
+
+34
+00:01:27,480 --> 00:01:30,900
+and identify the roles
+of major proteins
+
+35
+00:01:30,900 --> 00:01:33,300
+involved in the process
+of DNA replication
+
+36
+00:01:33,330 --> 00:01:35,680
+and very importantly
+is to be able to
+
+37
+00:01:35,680 --> 00:01:37,820
+compare and contrast
+the differences between
+
+38
+00:01:37,820 --> 00:01:40,780
+prokaryotic and eukaryotic
+DNA replication.
+
+39
+00:01:46,270 --> 00:01:50,710
+So let's talk about the
+history and significance
+
+40
+00:01:50,710 --> 00:01:52,790
+of genetics. Of
+course it's probably a
+
+41
+00:01:52,790 --> 00:01:55,430
+central component to
+understand many of our
+
+42
+00:01:55,430 --> 00:01:58,370
+major disease. Every
+time we have a we take
+
+43
+00:01:58,370 --> 00:02:00,590
+a drug there's an
+interplay between the drug
+
+44
+00:02:00,590 --> 00:02:04,530
+and how our genetics
+metabolize the drug you
+
+45
+00:02:04,530 --> 00:02:06,290
+know our genetics
+determine the proteins
+
+46
+00:02:06,290 --> 00:02:08,150
+that we make the proteins
+that we make perform
+
+47
+00:02:08,150 --> 00:02:10,890
+all the functions in
+the body and as such
+
+48
+00:02:10,890 --> 00:02:13,730
+determine how we interact
+with our environment
+
+49
+00:02:13,730 --> 00:02:16,090
+so genetics plays a
+very important role in
+
+50
+00:02:16,090 --> 00:02:17,850
+addition to the fact
+that you know many
+
+51
+00:02:17,850 --> 00:02:20,630
+diseases have a genetic
+and have a better
+
+52
+00:02:20,630 --> 00:02:25,090
+hereditary component to
+them so all processes are
+
+53
+00:02:25,090 --> 00:02:27,650
+influenced by genes and
+talk about genes and
+
+54
+00:02:27,650 --> 00:02:29,870
+and that and some of
+this stuff is you know
+
+55
+00:02:29,870 --> 00:02:31,410
+basic information
+that you've had in
+
+56
+00:02:31,410 --> 00:02:33,730
+undergraduate but it's
+important to make sure we
+
+57
+00:02:33,730 --> 00:02:36,170
+align all this information
+correctly and we
+
+58
+00:02:36,170 --> 00:02:38,570
+have accurate definition
+of all these terms
+
+59
+00:02:38,570 --> 00:02:42,950
+um one of the earlier
+uh discover of genetics
+
+60
+00:02:42,950 --> 00:02:44,950
+understanding the
+science of genetics which
+
+61
+00:02:44,950 --> 00:02:46,810
+is referred to as the
+father of genetics is
+
+62
+00:02:46,810 --> 00:02:50,030
+the monk gregor mendel
+his picture is right
+
+63
+00:02:50,030 --> 00:02:52,170
+there and gregor mendel
+is considered the
+
+64
+00:02:52,170 --> 00:02:53,910
+father genetic because
+he was the first person
+
+65
+00:02:53,910 --> 00:02:58,330
+to demonstrate heredity
+and the ability to
+
+66
+00:03:00,230 --> 00:03:03,230
+pass down traits
+through offsprings. He
+
+67
+00:03:03,230 --> 00:03:06,270
+of course used garden
+peas to do that.
+
+68
+00:03:07,810 --> 00:03:08,930
+Furthermore,
+
+69
+00:03:09,310 --> 00:03:12,510
+Archibald Gerald in
+1902 was the first
+
+70
+00:03:12,510 --> 00:03:15,650
+person that described
+an inborn error of
+
+71
+00:03:15,650 --> 00:03:19,170
+metabolism, a disease
+known as L-captanuria or
+
+72
+00:03:19,170 --> 00:03:21,950
+black urine disease.
+It's a deficiency in
+
+73
+00:03:21,950 --> 00:03:26,850
+enzyme called **** I
+mean genset so it's
+
+74
+00:03:26,850 --> 00:03:29,450
+basically inability
+to metabolize and the
+
+75
+00:03:29,450 --> 00:03:32,770
+amino acids phenylalanine
+and tyrosine resulting
+
+76
+00:03:32,770 --> 00:03:34,510
+in the accumulation
+of a my product
+
+77
+00:03:34,510 --> 00:03:36,570
+which causes that but
+the idea that you can
+
+78
+00:03:36,570 --> 00:03:40,390
+have a disease simply
+caused by a lack of
+
+79
+00:03:40,390 --> 00:03:44,210
+enzyme was very important
+and a milestone in
+
+80
+00:03:44,210 --> 00:03:46,550
+recognizing the
+significance of genetics
+
+81
+00:03:48,130 --> 00:03:50,930
+A guy by name of
+Johansson basically
+
+82
+00:03:50,930 --> 00:03:54,290
+coined then the
+term gene to refer
+
+83
+00:03:54,290 --> 00:03:57,590
+to as the basic
+unit of heredity.
+
+84
+00:03:57,650 --> 00:04:00,030
+And so you can see
+again late 1800s,
+
+85
+00:04:00,190 --> 00:04:03,130
+early 19th, late
+19th century, early
+
+86
+00:04:03,130 --> 00:04:04,750
+20th century people
+start getting a
+
+87
+00:04:04,750 --> 00:04:07,790
+kind of an understanding
+of genetics.
+
+88
+00:04:11,910 --> 00:04:15,770
+and then we had an
+explosion of experiments
+
+89
+00:04:15,770 --> 00:04:18,450
+and advancements that led
+us to the understanding
+
+90
+00:04:18,450 --> 00:04:22,370
+of genetics as we
+know today in 1944 a
+
+91
+00:04:22,370 --> 00:04:24,760
+group of researchers
+Avery McLeod and McCarthy
+
+92
+00:04:24,760 --> 00:04:26,930
+basically discovered
+that genes are
+
+93
+00:04:26,930 --> 00:04:29,630
+composed of DNA no one knew
+what genes are composed
+
+94
+00:04:29,630 --> 00:04:32,410
+of in fact most people
+thought genes are
+
+95
+00:04:32,410 --> 00:04:34,930
+composed or proteins
+make up genes because
+
+96
+00:04:34,930 --> 00:04:36,830
+proteins are so central
+into function they
+
+97
+00:04:36,830 --> 00:04:38,770
+thought well that's
+what it's got to be the
+
+98
+00:04:38,770 --> 00:04:40,510
+molecule for the
+longest time people were
+
+99
+00:04:40,510 --> 00:04:43,490
+looking to how proteins
+are genes but you know
+
+100
+00:04:43,490 --> 00:04:47,250
+that was not true DNA
+is the molecule at least
+
+101
+00:04:47,250 --> 00:04:50,130
+in living things DNA
+is the molecule that
+
+102
+00:04:50,130 --> 00:04:52,870
+determines heredity
+keep in mind that's not
+
+103
+00:04:52,870 --> 00:04:55,610
+the case for viruses
+although they are DNA
+
+104
+00:04:55,610 --> 00:04:58,350
+viruses and in those
+cases these would have
+
+105
+00:04:58,390 --> 00:05:01,610
+their genes dictated
+by DNA but most viruses
+
+106
+00:05:01,610 --> 00:05:04,950
+are RNA so RNA actually
+in viruses or a lot
+
+107
+00:05:04,950 --> 00:05:07,950
+of viruses will determine
+the genes and the
+
+108
+00:05:07,950 --> 00:05:10,630
+heredity of the viruses
+so but viruses are
+
+109
+00:05:10,630 --> 00:05:12,570
+not living things so that
+doesn't apply to them
+
+110
+00:05:12,960 --> 00:05:17,070
+and then came the work
+by James Watson and
+
+111
+00:05:17,070 --> 00:05:20,870
+Crick in 1953 and they
+basically discovered
+
+112
+00:05:20,870 --> 00:05:23,870
+the structure of DNA
+based on the work of
+
+113
+00:05:23,870 --> 00:05:27,870
+Rosalind Franklin that
+you see right here this
+
+114
+00:05:27,870 --> 00:05:37,270
+is Rosalind Franklin and
+the x-ray diffraction
+
+115
+00:05:37,270 --> 00:05:39,750
+shown on the top
+here which looks like
+
+116
+00:05:39,750 --> 00:05:43,270
+a like an X this is
+basically the image that
+
+117
+00:05:43,270 --> 00:05:46,770
+Watson and Crick analyzed
+suggesting in the
+
+118
+00:05:46,770 --> 00:05:49,070
+what we call now the
+double helix so this is
+
+119
+00:05:49,070 --> 00:05:50,810
+almost like looking
+at the double helix on
+
+120
+00:05:50,810 --> 00:05:52,730
+the top so you'll see
+like a right like a
+
+121
+00:05:52,730 --> 00:05:55,970
+looking in a staircase
+that goes in a helical
+
+122
+00:05:55,970 --> 00:05:58,430
+shape from the top it'll
+look like this here's
+
+123
+00:05:58,430 --> 00:06:03,490
+on the bottom left
+is Watson and Crick
+
+124
+00:06:03,490 --> 00:06:06,710
+looking at a model and
+building it of DNA so
+
+125
+00:06:07,810 --> 00:06:10,270
+and of course now we
+know that they were
+
+126
+00:06:10,270 --> 00:06:12,590
+actually different
+confirmations of DNA there's
+
+127
+00:06:12,590 --> 00:06:15,290
+BDNA which is the most
+common the one found
+
+128
+00:06:15,290 --> 00:06:17,950
+in most living things
+and then there's also
+
+129
+00:06:17,950 --> 00:06:20,890
+ADNA and ZDNA which are
+different confirmations
+
+130
+00:06:20,890 --> 00:06:24,150
+found in under
+different conditions for
+
+131
+00:06:24,150 --> 00:06:27,050
+example ADNA is
+typically found in like
+
+132
+00:06:27,050 --> 00:06:29,830
+bacterial spores under
+very high dry conditions.
+
+133
+00:06:30,110 --> 00:06:32,450
+Rosalind Franklin
+kept focusing on
+
+134
+00:06:32,450 --> 00:06:35,230
+ADNA. I think
+that's partly why it
+
+135
+00:06:35,310 --> 00:06:37,450
+took her time. She
+couldn't figure
+
+136
+00:06:37,450 --> 00:06:39,110
+out the structure
+because of that.
+
+137
+00:06:39,450 --> 00:06:43,510
+And then afterwards
+came the discovery of
+
+138
+00:06:43,510 --> 00:06:46,530
+plasmids and on top
+of that restriction
+
+139
+00:06:46,530 --> 00:06:49,610
+enzymes. So this became
+quite a tool. So plasmids
+
+140
+00:06:49,610 --> 00:06:52,470
+are your DNA molecules
+that can transmit
+
+141
+00:06:52,470 --> 00:06:54,490
+from cell to cell
+so again so they can
+
+142
+00:06:54,490 --> 00:06:56,430
+carry genes so now you
+found a way to carry
+
+143
+00:06:56,430 --> 00:06:59,310
+genes small molecules
+that are mobile and then
+
+144
+00:06:59,310 --> 00:07:00,590
+you found restriction
+enzyme which is
+
+145
+00:07:00,590 --> 00:07:02,890
+basically enzymes that
+can cut dna a specific
+
+146
+00:07:02,890 --> 00:07:06,550
+location so you
+found a scissor and a
+
+147
+00:07:06,550 --> 00:07:09,750
+mechanism to move genes
+and that utility became
+
+148
+00:07:10,120 --> 00:07:13,250
+very important and of
+course from then came
+
+149
+00:07:13,250 --> 00:07:16,180
+nucleic amplification
+techniques in the
+
+150
+00:07:16,180 --> 00:07:18,910
+1980s such as PCR. So
+plasmids and restriction
+
+151
+00:07:18,910 --> 00:07:21,470
+enzymes were discovered
+early 70s and then
+
+152
+00:07:21,470 --> 00:07:26,210
+PCR was pioneered in
+1984 if I recall by
+
+153
+00:07:26,210 --> 00:07:28,790
+Gary Millis, the guy
+who discovered it. Of
+
+154
+00:07:28,790 --> 00:07:31,100
+course you've heard a
+lot about PCR recently
+
+155
+00:07:31,590 --> 00:07:34,250
+with you know this is
+the like from COVID
+
+156
+00:07:34,250 --> 00:07:36,490
+so people now know a
+lot about PCR because
+
+157
+00:07:36,490 --> 00:07:39,970
+of you know the main
+COVID test was PCR based
+
+158
+00:07:39,970 --> 00:07:42,450
+and PCR can test for
+multiple things by
+
+159
+00:07:42,450 --> 00:07:45,410
+fishing out specific
+structures and then
+
+160
+00:07:45,410 --> 00:07:48,350
+more advances in cloning
+i came after that the
+
+161
+00:07:48,350 --> 00:07:50,670
+ability to actually
+copy genes and that's
+
+162
+00:07:50,670 --> 00:07:52,930
+what nucleic acidification
+amplification is
+
+163
+00:07:52,930 --> 00:07:56,190
+it takes a gene and
+copies it more and more
+
+164
+00:07:56,190 --> 00:07:58,850
+and in the early
+2000s was the first
+
+165
+00:07:58,850 --> 00:08:01,810
+discovery of sequencing
+of the complete human
+
+166
+00:08:01,810 --> 00:08:04,970
+genome which was a
+milestone it took years
+
+167
+00:08:04,970 --> 00:08:07,470
+and years to complete
+one human genome now
+
+168
+00:08:07,470 --> 00:08:10,190
+you can do a full genome
+in you know half an
+
+169
+00:08:10,190 --> 00:08:13,070
+hour an hour so things
+have changed remarkably
+
+170
+00:08:13,070 --> 00:08:15,730
+and we are now it's
+in the post genomic
+
+171
+00:08:15,730 --> 00:08:19,750
+era and you know you
+can see what's referred
+
+172
+00:08:19,750 --> 00:08:22,010
+to as personalized
+medicine especially
+
+173
+00:08:22,010 --> 00:08:24,770
+in oncology where the
+treatment is defined
+
+174
+00:08:24,770 --> 00:08:27,150
+by the mutations the
+actual patient have and
+
+175
+00:08:27,150 --> 00:08:29,790
+that's how you gear
+the drug towards that
+
+176
+00:08:32,830 --> 00:08:36,310
+just briefly to discuss
+the human genome
+
+177
+00:08:36,310 --> 00:08:40,350
+as a whole so the
+current data shows that
+
+178
+00:08:40,350 --> 00:08:42,870
+the human genome is
+approximately three billion
+
+179
+00:08:42,870 --> 00:08:48,250
+base pairs you know
+but only one to two
+
+180
+00:08:48,250 --> 00:08:50,110
+percent and that's
+an estimate of those
+
+181
+00:08:50,110 --> 00:08:53,210
+are actually genes or
+that code for proteins
+
+182
+00:08:53,210 --> 00:08:55,720
+protein coding if
+you look at the slide
+
+183
+00:08:56,170 --> 00:09:00,630
+on the right side
+here this is kind of a
+
+184
+00:09:00,630 --> 00:09:04,450
+breakdown of what the
+genome could look like
+
+185
+00:09:04,450 --> 00:09:07,610
+so the exons and
+entrons are pretty much
+
+186
+00:09:07,610 --> 00:09:11,430
+all this is where the
+genes are a lot of
+
+187
+00:09:11,480 --> 00:09:14,170
+eukaryotic genomes have
+what's called entrons
+
+188
+00:09:14,170 --> 00:09:17,050
+and exons but all
+the rest here is just
+
+189
+00:09:17,050 --> 00:09:19,550
+either repeated elements
+or it's called lines
+
+190
+00:09:19,550 --> 00:09:22,310
+and signs for long
+inter dispersed elements
+
+191
+00:09:22,310 --> 00:09:25,570
+or short and dispersed
+elements lines
+
+192
+00:09:25,930 --> 00:09:29,350
+and signs and really
+most people don't know
+
+193
+00:09:29,350 --> 00:09:31,870
+what the function of
+these are and there's
+
+194
+00:09:31,870 --> 00:09:34,030
+also it's called
+satellite allow repetitive
+
+195
+00:09:34,030 --> 00:09:37,870
+dna and a big chunk
+of the signs or lines
+
+196
+00:09:37,870 --> 00:09:42,670
+are remnants of
+retroviral dna that was
+
+197
+00:09:42,670 --> 00:09:44,790
+embedded in our genome
+and just stayed there
+
+198
+00:09:45,110 --> 00:09:46,790
+again like i said no
+one know what they
+
+199
+00:09:46,790 --> 00:09:50,510
+function are there's
+some some evidence
+
+200
+00:09:50,510 --> 00:09:52,630
+suggests that maybe they
+could play some role
+
+201
+00:09:52,630 --> 00:09:56,570
+in regulation like
+basically positive sense
+
+202
+00:09:56,570 --> 00:10:00,650
+of RNA can regulate
+transcription here
+
+203
+00:10:00,650 --> 00:10:02,770
+also shows another
+breakdown if you're more
+
+204
+00:10:02,770 --> 00:10:04,730
+interested again I won't
+ask you to memorize
+
+205
+00:10:04,730 --> 00:10:06,410
+this but obviously
+like this is total
+
+206
+00:10:06,410 --> 00:10:08,680
+human genome and how
+much of it is actual
+
+207
+00:10:08,680 --> 00:10:11,310
+sequence and then what
+you know how much of it
+
+208
+00:10:11,310 --> 00:10:14,030
+is the kind of inner
+space in between and
+
+209
+00:10:14,030 --> 00:10:16,290
+what that is and so
+on. This gives you kind
+
+210
+00:10:16,290 --> 00:10:19,450
+of an idea of how much
+we carry. Eukaryotic
+
+211
+00:10:19,450 --> 00:10:21,230
+DNA tend to be like
+this, where there's
+
+212
+00:10:21,230 --> 00:10:23,970
+a lot of sequences
+but you know very few
+
+213
+00:10:23,970 --> 00:10:25,870
+genes. On the other
+hand through chaotic and
+
+214
+00:10:25,870 --> 00:10:28,730
+viral DNA genomes
+tend to be way more
+
+215
+00:10:29,130 --> 00:10:31,770
+packed with genes because
+they have a smaller
+
+216
+00:10:33,410 --> 00:10:35,770
+genome and they
+they really need
+
+217
+00:10:35,770 --> 00:10:36,970
+it to make a
+lot of proteins.
+
+218
+00:10:39,870 --> 00:10:41,430
+Now we're going
+to discuss the
+
+219
+00:10:41,430 --> 00:10:43,250
+actual structure
+of nucleic acids.
+
+220
+00:10:43,290 --> 00:10:44,690
+This is a lot
+of biochemistry.
+
+221
+00:10:44,870 --> 00:10:46,790
+now so it should
+mirror some of
+
+222
+00:10:46,790 --> 00:10:48,350
+the biochemistry
+you already had
+
+223
+00:10:49,510 --> 00:10:51,890
+all nucleic acids
+are made out of
+
+224
+00:10:51,970 --> 00:10:55,210
+phosphate groups
+as you can see here
+
+225
+00:10:57,390 --> 00:11:00,070
+sugars and the sugar
+can either be the
+
+226
+00:11:00,070 --> 00:11:03,730
+oxyribose and that's
+the sugar in dna or
+
+227
+00:11:04,010 --> 00:11:06,620
+ribose and that's
+the sugar in rna and
+
+228
+00:11:06,710 --> 00:11:09,790
+then you have five
+nucleic acid bases
+
+229
+00:11:09,790 --> 00:11:12,270
+You can have a
+combination of those,
+
+230
+00:11:12,630 --> 00:11:14,790
+adenine, thymine,
+
+231
+00:11:15,070 --> 00:11:17,150
+guanine, cytosine,
+and uracil.
+
+232
+00:11:18,650 --> 00:11:25,270
+The two ring nitrogenous
+bases are referred
+
+233
+00:11:25,270 --> 00:11:29,290
+to as purines, and the
+single ring nitrogenous
+
+234
+00:11:29,290 --> 00:11:31,360
+bases are referred
+to as pyrimidines.
+
+235
+00:11:32,270 --> 00:11:35,390
+So adenine and guanine
+are purines, thymine,
+
+236
+00:11:35,390 --> 00:11:37,800
+uracil, and cytosine
+are pyrimidines.
+
+237
+00:11:38,190 --> 00:11:39,810
+One thing also
+to note here that
+
+238
+00:11:39,810 --> 00:11:42,470
+is very important
+is the number of
+
+239
+00:11:42,470 --> 00:11:45,250
+carbons on the
+sugars, typically,
+
+240
+00:11:45,450 --> 00:11:48,330
+especially in the
+nucleotide molecule,
+
+241
+00:11:48,330 --> 00:11:49,950
+which we'll discuss
+in the next slide.
+
+242
+00:11:49,950 --> 00:11:54,410
+But basically, the
+first carbon on the
+
+243
+00:11:54,410 --> 00:11:56,530
+molecule is referred to
+as the one prime, the
+
+244
+00:11:56,530 --> 00:11:58,410
+second carbon, the
+two prime, the third
+
+245
+00:11:58,410 --> 00:12:01,050
+carbon, three prime,
+four prime, and five
+
+246
+00:12:01,050 --> 00:12:04,630
+prime. And this
+designation is important in
+
+247
+00:12:04,630 --> 00:12:08,490
+determining how DNA and
+RNA, or nucleic acids,
+
+248
+00:12:08,490 --> 00:12:10,730
+are replicated, which
+we will discuss.
+
+249
+00:12:14,150 --> 00:12:16,330
+Continuing with
+this subject,
+
+250
+00:12:16,670 --> 00:12:19,430
+nucleic acids, both
+DNA and RNA, are
+
+251
+00:12:19,430 --> 00:12:22,790
+made up of nucleotides.
+A definition
+
+252
+00:12:22,790 --> 00:12:25,970
+of a nucleotide, it
+must have a sugar,
+
+253
+00:12:25,970 --> 00:12:28,200
+okay, just like
+here it's adenine,
+
+254
+00:12:29,210 --> 00:12:33,070
+a, sorry, sugar
+ribose, a nitrogenous
+
+255
+00:12:33,070 --> 00:12:36,470
+base, adenine, and at
+least one phosphate
+
+256
+00:12:36,470 --> 00:12:38,310
+group. They can
+have up to three
+
+257
+00:12:38,310 --> 00:12:40,350
+phosphate groups.
+If they have one
+
+258
+00:12:40,350 --> 00:12:43,750
+phosphate group,
+that's a monophosphate,
+
+259
+00:12:43,750 --> 00:12:46,110
+two phosphate groups,
+diphosphate, and
+
+260
+00:12:46,110 --> 00:12:48,410
+three phosphate
+groups, triphosphate.
+
+261
+00:12:48,650 --> 00:12:51,330
+When the nitrogenous
+base, such as
+
+262
+00:12:51,330 --> 00:12:53,570
+adenine, is attached
+to sugar, it's
+
+263
+00:12:53,570 --> 00:12:55,360
+usually referred
+to as a nucleoside.
+
+264
+00:12:57,330 --> 00:13:00,270
+So adenine and ribose are
+
+265
+00:13:00,270 --> 00:13:01,860
+actually referred
+to as adenosine.
+
+266
+00:13:02,210 --> 00:13:04,090
+If you put guanine with
+
+267
+00:13:04,090 --> 00:13:05,890
+ribose, that's guanosine.
+
+268
+00:13:05,890 --> 00:13:10,430
+If you put thymine
+with ribose, or
+
+269
+00:13:10,430 --> 00:13:13,410
+deoxyribose, it
+becomes thymidine.
+
+270
+00:13:13,410 --> 00:13:16,150
+If you put cytosine
+with the oxygen,
+
+271
+00:13:16,450 --> 00:13:21,030
+ribose becomes
+cytidine, and uracil
+
+272
+00:13:21,030 --> 00:13:22,770
+with the sugar
+becomes uridine.
+
+273
+00:13:22,850 --> 00:13:25,570
+And so that's the
+nucleoside. The
+
+274
+00:13:25,570 --> 00:13:27,770
+nucleoside contains
+no phosphate.
+
+275
+00:13:27,770 --> 00:13:29,170
+Once you add
+the phosphate
+
+276
+00:13:29,170 --> 00:13:31,060
+group, it becomes
+a nucleotide.
+
+277
+00:13:32,460 --> 00:13:35,630
+DNA and RNA are made
+out of chains of
+
+278
+00:13:35,630 --> 00:13:37,750
+nucleotides, so you
+must have phosphate
+
+279
+00:13:37,750 --> 00:13:39,550
+groups. And a
+lot of the second
+
+280
+00:13:39,550 --> 00:13:41,730
+phosphate group and
+the third phosphate,
+
+281
+00:13:41,980 --> 00:13:44,110
+the bonds that
+exist between those
+
+282
+00:13:44,110 --> 00:13:45,930
+are referred to as
+high energy bonds.
+
+283
+00:13:46,150 --> 00:13:48,680
+This is the molecule
+known as adenosine
+
+284
+00:13:48,680 --> 00:13:50,610
+triphosphate, which
+you know as ATP.
+
+285
+00:13:50,930 --> 00:13:54,330
+And of course, ATP,
+adenosine triphosphate,
+
+286
+00:13:54,330 --> 00:13:56,790
+and this one has the
+ribose sugar. If it
+
+287
+00:13:56,790 --> 00:13:59,310
+has the deoxyribose
+sugar, it becomes
+
+288
+00:14:01,710 --> 00:14:07,130
+DATP. okay sorry my
+handwriting is not the
+
+289
+00:14:07,130 --> 00:14:09,830
+best here but so this
+is the deoxy version
+
+290
+00:14:09,830 --> 00:14:14,330
+deoxy adenosine
+triphosphate so so for DNA
+
+291
+00:14:14,330 --> 00:14:19,490
+all the bases are
+deoxy so you have ATP,
+
+292
+00:14:19,950 --> 00:14:21,690
+DGTP,
+
+293
+00:14:23,490 --> 00:14:31,230
+DCTP, and for thymidine,
+you don't have
+
+294
+00:14:31,230 --> 00:14:34,110
+to put DTTP because
+thymidine only
+
+295
+00:14:34,110 --> 00:14:39,710
+pairs with the
+deoxyribose, so sufficient
+
+296
+00:14:39,710 --> 00:14:43,070
+to say TTP because
+we already know
+
+297
+00:14:43,070 --> 00:14:44,570
+that that's the only
+one that pairs with
+
+298
+00:14:44,570 --> 00:14:48,290
+so these are
+nucleotides that make up
+
+299
+00:14:48,290 --> 00:14:51,290
+DNA now the ones
+that make up RNA are
+
+300
+00:14:53,370 --> 00:14:56,690
+UTP so remember the
+sugar there is ribose
+
+301
+00:14:58,110 --> 00:15:01,090
+GTP so you don't have
+the D you don't have
+
+302
+00:15:01,090 --> 00:15:09,010
+the deoxy part GTP ATP
+and sorry I'm trying
+
+303
+00:15:09,010 --> 00:15:10,870
+to draw with the mouse
+it's not the easiest
+
+304
+00:15:10,870 --> 00:15:15,750
+thing and then CTP,
+cytotine triphosphate.
+
+305
+00:15:16,590 --> 00:15:20,030
+These make up the
+molecule of RNA.
+
+306
+00:15:23,740 --> 00:15:25,730
+I'd just like to take
+a second here with
+
+307
+00:15:25,730 --> 00:15:28,490
+this slide to let you
+know that throughout
+
+308
+00:15:28,490 --> 00:15:31,080
+my lectures I'll
+be putting some
+
+309
+00:15:31,080 --> 00:15:33,070
+practice questions for
+you but I want to make
+
+310
+00:15:33,070 --> 00:15:34,890
+sure we set some
+guidelines in regard
+
+311
+00:15:34,890 --> 00:15:37,290
+what those questions
+are for and what is
+
+312
+00:15:37,290 --> 00:15:39,090
+their purpose. So
+they're basically only
+
+313
+00:15:39,090 --> 00:15:41,870
+for practice and for
+learning and learning
+
+314
+00:15:41,870 --> 00:15:43,570
+of course is the
+primary thing and
+
+315
+00:15:43,570 --> 00:15:46,180
+this is why you are
+here in medical school
+
+316
+00:15:46,180 --> 00:15:48,830
+I want to know that
+these questions are
+
+317
+00:15:50,750 --> 00:15:53,210
+typically first order
+so they're not like
+
+318
+00:15:53,210 --> 00:15:55,370
+second order or third
+order just like you'd
+
+319
+00:15:55,370 --> 00:15:58,170
+expect on exams they're
+not board style at
+
+320
+00:15:58,170 --> 00:16:00,430
+least the majority of
+them there might be one
+
+321
+00:16:00,430 --> 00:16:04,510
+or so but we will do
+more board style for
+
+322
+00:16:04,510 --> 00:16:09,570
+example exam questions
+in peer instruction.
+
+323
+00:16:10,170 --> 00:16:12,650
+And so here these are
+just for you to keep
+
+324
+00:16:12,650 --> 00:16:14,850
+tabs like as you're
+studying a slide or a
+
+325
+00:16:14,850 --> 00:16:16,970
+certain section. Maybe
+a couple of questions
+
+326
+00:16:16,970 --> 00:16:18,990
+just to help you see if
+you've got one there.
+
+327
+00:16:19,810 --> 00:16:21,710
+Please remember that
+the answers for the
+
+328
+00:16:21,710 --> 00:16:24,070
+questions are in the
+material itself and
+
+329
+00:16:24,070 --> 00:16:25,870
+finding the answers
+is a big part of the
+
+330
+00:16:25,870 --> 00:16:28,250
+learning process. So I
+will not be disclosing
+
+331
+00:16:28,250 --> 00:16:29,350
+or giving you the
+answer to these
+
+332
+00:16:29,350 --> 00:16:31,070
+questions because I do
+not want to interrupt
+
+333
+00:16:31,070 --> 00:16:32,970
+the learning process
+and this is exactly
+
+334
+00:16:32,970 --> 00:16:35,870
+what these questions
+are for so please help
+
+335
+00:16:35,870 --> 00:16:38,850
+me in making sure
+that takes place thank
+
+336
+00:16:38,930 --> 00:16:41,110
+you and i hope you
+benefit from those try
+
+337
+00:16:49,580 --> 00:16:51,960
+to apply what we
+learned in the previous
+
+338
+00:16:51,960 --> 00:16:54,960
+slide here this slide
+i just took out of the
+
+339
+00:16:55,340 --> 00:16:57,560
+internet which of
+course as we all know
+
+340
+00:16:57,560 --> 00:16:59,640
+the internet everything
+is accurate right
+
+341
+00:16:59,640 --> 00:17:02,060
+no so obviously this
+slide has a lot of
+
+342
+00:17:02,060 --> 00:17:03,460
+mistakes so let's see
+if we can figure this
+
+343
+00:17:03,460 --> 00:17:05,300
+out together based on
+what we just learned
+
+344
+00:17:06,620 --> 00:17:10,600
+So for one, these
+are labeled as
+
+345
+00:17:10,600 --> 00:17:13,860
+the nucleotides
+of DNA, right?
+
+346
+00:17:14,280 --> 00:17:16,340
+Well, as we just
+talked about in the
+
+347
+00:17:16,340 --> 00:17:19,680
+previous slide, the
+nucleotides must
+
+348
+00:17:19,680 --> 00:17:21,400
+have a phosphate
+group. And as you
+
+349
+00:17:21,400 --> 00:17:24,180
+can see, that would
+be right here.
+
+350
+00:17:24,240 --> 00:17:25,780
+I mean, there's
+nothing here. So
+
+351
+00:17:25,780 --> 00:17:28,180
+these are not
+nucleotides. All I see
+
+352
+00:17:28,180 --> 00:17:32,980
+is a nitrogenous
+base and a sugar.
+
+353
+00:17:33,160 --> 00:17:35,480
+So in this case, these
+
+354
+00:17:35,480 --> 00:17:37,080
+are actually nucleosides,
+
+355
+00:17:38,740 --> 00:17:39,240
+right?
+
+356
+00:17:39,260 --> 00:17:41,000
+Remember when
+the sugar and the
+
+357
+00:17:41,000 --> 00:17:41,780
+base are together, it's a
+
+358
+00:17:41,780 --> 00:17:43,900
+nucleoside. So this
+is first error.
+
+359
+00:17:44,660 --> 00:17:46,900
+These are not
+nucleotides.
+
+360
+00:17:48,320 --> 00:17:49,240
+Okay,
+
+361
+00:17:49,600 --> 00:17:51,060
+let's erase some of this.
+
+362
+00:17:52,370 --> 00:17:54,400
+The next thing, let's
+see if this is labeled
+
+363
+00:17:54,400 --> 00:17:57,700
+correctly. So these
+are purines, right?
+
+364
+00:17:57,700 --> 00:17:59,760
+and so the pureings
+are the ones that
+
+365
+00:17:59,760 --> 00:18:02,940
+have the nitrogenous
+base that has two ring
+
+366
+00:18:02,940 --> 00:18:05,700
+structure and that
+is correct so both
+
+367
+00:18:05,700 --> 00:18:07,680
+of these are two ring
+structure so we got
+
+368
+00:18:07,680 --> 00:18:12,660
+this correct already
+let's erase that and
+
+369
+00:18:13,120 --> 00:18:15,160
+these are the
+pyrimidines right and the
+
+370
+00:18:15,160 --> 00:18:17,160
+pyrimidines have
+single rings and these
+
+371
+00:18:17,160 --> 00:18:19,580
+have single rings so
+this is also correct
+
+372
+00:18:20,810 --> 00:18:23,880
+good so far so good
+now let's look at the
+
+373
+00:18:23,880 --> 00:18:26,180
+terminology so here
+we have the guanosine
+
+374
+00:18:26,180 --> 00:18:29,860
+sorry the guanine
+base attached to the
+
+375
+00:18:29,860 --> 00:18:32,860
+sugar and that's
+guanosine that's correct
+
+376
+00:18:33,180 --> 00:18:38,080
+here we have the
+adenine base attached to
+
+377
+00:18:38,080 --> 00:18:42,700
+the sugar and that should
+be adenosine now what
+
+378
+00:18:42,700 --> 00:18:45,940
+do they label it as
+adenine so adenine
+
+379
+00:18:45,940 --> 00:18:50,180
+would only be the base
+not with the sugar this
+
+380
+00:18:50,180 --> 00:18:51,600
+should be I didn't
+see so that's another
+
+381
+00:18:51,600 --> 00:18:54,880
+mistake let's see if
+they got them right here
+
+382
+00:18:55,460 --> 00:18:58,780
+no actually got them
+all incorrect this is
+
+383
+00:18:58,780 --> 00:19:02,120
+thymidine because it's
+thymine plus the sugar
+
+384
+00:19:02,120 --> 00:19:07,220
+and this should be
+cytidine because it's
+
+385
+00:19:07,220 --> 00:19:10,420
+cytosine plus the sugar
+so see how many errors
+
+386
+00:19:10,420 --> 00:19:16,720
+we've identified so
+far okay one more thing
+
+387
+00:19:16,720 --> 00:19:21,160
+to look at here is which
+sugar is this ribose
+
+388
+00:19:21,160 --> 00:19:25,480
+or deoxyribose so
+if you remember this
+
+389
+00:19:25,480 --> 00:19:28,760
+carbon here is the one
+prime right and this
+
+390
+00:19:28,760 --> 00:19:32,000
+one here is the two prime
+okay the angle right
+
+391
+00:19:32,000 --> 00:19:36,560
+there this is the three
+prime okay that four
+
+392
+00:19:36,560 --> 00:19:40,560
+prime and that carbon
+right here is the
+
+393
+00:19:40,560 --> 00:19:44,560
+five prime okay so the
+way you know ribose from
+
+394
+00:19:44,560 --> 00:19:48,560
+deoxyribose is here
+for ribose you would
+
+395
+00:19:48,560 --> 00:19:54,220
+have an OH group okay
+for deoxyribose which
+
+396
+00:19:54,220 --> 00:19:58,500
+is deoxy right so the
+actual term for deoxy
+
+397
+00:19:58,500 --> 00:20:02,930
+the correct wording
+is 2 prime deoxyribose
+
+398
+00:20:04,920 --> 00:20:09,620
+okay what does that mean
+is we don't have that
+
+399
+00:20:09,620 --> 00:20:15,480
+oxygen molecule on
+them on the two prime
+
+400
+00:20:15,480 --> 00:20:20,680
+group see how there's
+instead of OH just H so
+
+401
+00:20:20,680 --> 00:20:22,900
+this is the axioribols
+or two prime axioribols
+
+402
+00:20:22,900 --> 00:20:25,540
+that's the actual term
+for it and so these
+
+403
+00:20:25,540 --> 00:20:27,540
+are correct these are
+the this is the sugar
+
+404
+00:20:27,540 --> 00:20:29,440
+you expect to find
+in the alien if this
+
+405
+00:20:29,440 --> 00:20:31,680
+was irony we expect
+to find the OH that we
+
+406
+00:20:31,680 --> 00:20:34,740
+expect ribols not the
+axioribols so they got a
+
+407
+00:20:34,740 --> 00:20:38,370
+few things right lots
+of things wrong but
+
+408
+00:20:38,370 --> 00:20:42,800
+you're able now to tell
+based on this okay so
+
+409
+00:20:51,270 --> 00:20:53,770
+this figure shows us
+the structure of DNA
+
+410
+00:20:53,770 --> 00:20:56,070
+in a flat way remember
+DNA is double helical
+
+411
+00:20:56,070 --> 00:20:58,090
+so it should be twisted
+but for supposedly
+
+412
+00:20:58,090 --> 00:21:00,790
+it's flattened here
+but let's even figure
+
+413
+00:21:00,790 --> 00:21:02,630
+out what's going on
+here now this looks like
+
+414
+00:21:02,630 --> 00:21:05,310
+a complex structure but
+the truth to be told
+
+415
+00:21:05,310 --> 00:21:07,490
+by identifying some
+key elements that you
+
+416
+00:21:07,490 --> 00:21:08,950
+already learned you'll
+be able to discover
+
+417
+00:21:08,950 --> 00:21:11,310
+what this is and what's
+going on here so for
+
+418
+00:21:11,310 --> 00:21:15,590
+one we already know
+that so the DNA the
+
+419
+00:21:15,590 --> 00:21:19,650
+strands of DNA which is
+right here is made up
+
+420
+00:21:19,650 --> 00:21:21,890
+of the sugar phosphate
+backbone so when
+
+421
+00:21:21,890 --> 00:21:23,890
+people talk about the
+sugar phosphate backbone
+
+422
+00:21:23,890 --> 00:21:26,250
+they're referring
+to this alternating
+
+423
+00:21:26,250 --> 00:21:31,990
+phosphate sugar phosphate
+sugar phosphate sugar
+
+424
+00:21:31,990 --> 00:21:34,670
+phosphate sugar this
+is how the backbone of
+
+425
+00:21:34,670 --> 00:21:36,660
+DNA is made out of
+sugar and phosphate
+
+426
+00:21:36,660 --> 00:21:38,890
+attached it's got it so
+if you want to draw it
+
+427
+00:21:38,890 --> 00:21:41,870
+for simplicity you can
+put a p for phosphate
+
+428
+00:21:42,360 --> 00:21:47,390
+s for sugar then bond
+it to a p and then s
+
+429
+00:21:47,390 --> 00:21:52,250
+for sugar okay then p
+and you get it right
+
+430
+00:21:53,320 --> 00:21:56,750
+okay and these are of
+course all covalent
+
+431
+00:21:56,750 --> 00:22:00,020
+bonds now attached to
+sugar is the base so
+
+432
+00:22:00,130 --> 00:22:03,190
+right here will be a bond
+and this is typically
+
+433
+00:22:03,190 --> 00:22:06,450
+referred to as the n
+-glycosidic bond this
+
+434
+00:22:06,450 --> 00:22:08,050
+terminology is
+important when we try to
+
+435
+00:22:08,050 --> 00:22:11,300
+study DNA repair, which
+is the next lecture.
+
+436
+00:22:11,970 --> 00:22:17,150
+So here would be the
+base. So let's see which
+
+437
+00:22:17,150 --> 00:22:18,650
+base. Let's see if we
+can figure out which
+
+438
+00:22:18,650 --> 00:22:20,890
+base is this one right
+here. And so if you
+
+439
+00:22:20,890 --> 00:22:22,910
+could see like this
+base and this base, they
+
+440
+00:22:22,910 --> 00:22:25,110
+base pair, right? So
+DNA is double stranded.
+
+441
+00:22:25,110 --> 00:22:27,790
+Here is one strand
+and here is the other.
+
+442
+00:22:28,110 --> 00:22:28,750
+Okay.
+
+443
+00:22:29,630 --> 00:22:30,770
+Right here.
+
+444
+00:22:31,370 --> 00:22:32,010
+Okay.
+
+445
+00:22:32,630 --> 00:22:34,770
+I'm going to erase that
+again so it's not as
+
+446
+00:22:34,770 --> 00:22:40,330
+crowded okay and then
+the bases are making
+
+447
+00:22:40,330 --> 00:22:42,370
+hydrogen bonds with each
+other so if you look
+
+448
+00:22:42,370 --> 00:22:44,470
+at the hydrogen bonding
+between this base
+
+449
+00:22:45,730 --> 00:22:49,710
+okay and that base
+right so this base is a
+
+450
+00:22:49,710 --> 00:22:52,770
+pyrimidine right two
+rings I'm putting dots
+
+451
+00:22:52,770 --> 00:22:56,570
+in the ring and this
+is a purine sorry this
+
+452
+00:22:56,570 --> 00:22:58,610
+is a purine and this
+is a pyrimidane I
+
+453
+00:22:58,610 --> 00:23:02,310
+apologize two rings is
+a purine one ring is a
+
+454
+00:23:02,310 --> 00:23:05,030
+pyrimidane and between
+them as you can see
+
+455
+00:23:05,030 --> 00:23:09,030
+there are now highlight
+them right here two
+
+456
+00:23:09,030 --> 00:23:11,010
+hydrogen bonds see the
+hydrogen bonds they
+
+457
+00:23:11,010 --> 00:23:13,250
+usually show them as
+dotted so whenever you
+
+458
+00:23:13,250 --> 00:23:16,430
+have two nitrogenous
+bases pairing in two
+
+459
+00:23:16,430 --> 00:23:19,270
+hydrogen bonds that's
+an that's an A and T
+
+460
+00:23:19,270 --> 00:23:22,210
+interaction I mean
+adenine and thymine and
+
+461
+00:23:22,210 --> 00:23:25,390
+because adenine is the
+purine now we know this
+
+462
+00:23:25,390 --> 00:23:30,310
+is adenine and this
+is thymine okay so we
+
+463
+00:23:30,310 --> 00:23:33,490
+draw this here here's
+adenine attached to the
+
+464
+00:23:33,490 --> 00:23:36,330
+sugar remember this
+one here this bond was
+
+465
+00:23:36,330 --> 00:23:39,620
+referred to as the n
+-glycosidic bond bond
+
+466
+00:23:41,010 --> 00:23:44,030
+between the sugar and
+the now let's make sure
+
+467
+00:23:44,030 --> 00:23:47,450
+that we have the right
+ribose sorry right
+
+468
+00:23:47,450 --> 00:23:49,770
+sugar and we do this
+is the oxyribose so
+
+469
+00:23:49,770 --> 00:23:53,750
+that is correct okay
+let's look at this one
+
+470
+00:23:53,750 --> 00:23:57,670
+here the next uh
+interaction here notice we
+
+471
+00:23:57,670 --> 00:24:04,890
+have one two and three
+i'm highlighting the
+
+472
+00:24:06,870 --> 00:24:09,510
+hydrogen bonds so
+here we have three
+
+473
+00:24:09,510 --> 00:24:11,650
+hydrogen bonds and
+typically the three
+
+474
+00:24:11,650 --> 00:24:15,230
+hydrogen bonds occurs
+between G and C and
+
+475
+00:24:15,230 --> 00:24:20,590
+guanine is the purine
+and cytosine is
+
+476
+00:24:20,590 --> 00:24:23,650
+the permidane so
+this is guanine and
+
+477
+00:24:23,650 --> 00:24:25,350
+this is cytosine
+yeah and then you can
+
+478
+00:24:25,350 --> 00:24:29,410
+do the same identify
+the hydrogen bonds
+
+479
+00:24:31,110 --> 00:24:34,570
+like here there's a
+couple then you can
+
+480
+00:24:34,570 --> 00:24:37,210
+figure out and here
+there is three and now
+
+481
+00:24:37,210 --> 00:24:39,150
+that you do that yourself
+so you can figure
+
+482
+00:24:39,150 --> 00:24:40,770
+out which ones which
+again i'm not asking
+
+483
+00:24:40,770 --> 00:24:42,510
+you to memorize this now
+you need to know that
+
+484
+00:24:42,510 --> 00:24:44,630
+adenine and guanine
+sorry guanine and
+
+485
+00:24:44,630 --> 00:24:48,150
+cytosine have three
+hydrogen bonds and adenine
+
+486
+00:24:48,150 --> 00:24:49,930
+and thymine have two
+hydrogen bonds but
+
+487
+00:24:49,930 --> 00:24:51,210
+you don't need to
+identify it this way but
+
+488
+00:24:51,210 --> 00:24:53,270
+it just helps you
+understand it better okay
+
+489
+00:24:53,270 --> 00:24:55,170
+that's one thing that's
+important to note
+
+490
+00:24:56,190 --> 00:24:59,770
+let's say this is
+guanine and this
+
+491
+00:24:59,770 --> 00:25:01,730
+is thymine so this
+is here one strand
+
+492
+00:25:01,730 --> 00:25:03,790
+of dna of course dna
+is double stranded
+
+493
+00:25:03,830 --> 00:25:05,050
+so if you want
+to put another
+
+494
+00:25:05,050 --> 00:25:09,210
+strand sorry let's
+make this accurate
+
+495
+00:25:10,650 --> 00:25:12,930
+because there is
+because these are
+
+496
+00:25:12,930 --> 00:25:17,970
+hydrogen bonds one
+half to the auto right
+
+497
+00:25:19,890 --> 00:25:22,710
+what am i drawing
+here two hydrogen
+
+498
+00:25:22,710 --> 00:25:25,740
+bonds between
+an A and a T and
+
+499
+00:25:26,530 --> 00:25:28,510
+three hydrogen
+bonds between a G
+
+500
+00:25:30,430 --> 00:25:37,210
+and of course attached
+to these here would
+
+501
+00:25:37,210 --> 00:25:40,050
+be the sugar right
+notice I'm drawing
+
+502
+00:25:40,050 --> 00:25:44,870
+now the second strand
+sugar sugar sugar
+
+503
+00:25:44,870 --> 00:25:46,430
+of course the sugar
+is not just floating
+
+504
+00:25:46,430 --> 00:25:48,030
+like that they're
+attached with the
+
+505
+00:25:48,030 --> 00:25:50,190
+phosphate group right
+so I have to draw the
+
+506
+00:25:50,700 --> 00:25:53,190
+phosphate group or
+the sugar phosphate
+
+507
+00:25:53,190 --> 00:25:57,630
+backbone right here
+we go see So this is,
+
+508
+00:25:57,730 --> 00:26:02,920
+that's one strand and
+that's another and
+
+509
+00:26:03,410 --> 00:26:09,370
+they're both attached
+by hydrogen bonds.
+
+510
+00:26:10,650 --> 00:26:12,110
+When I erase this and
+
+511
+00:26:12,110 --> 00:26:12,970
+get it out of the way,
+
+512
+00:26:13,940 --> 00:26:16,270
+now you get the drift
+of how this works.
+
+513
+00:26:17,230 --> 00:26:21,930
+And again this has
+implications to DNA
+
+514
+00:26:22,070 --> 00:26:25,170
+structure and DNA
+replication of course,
+
+515
+00:26:25,310 --> 00:26:28,410
+the location of all the
+stuff and repair and
+
+516
+00:26:28,410 --> 00:26:30,070
+you know how does
+that relate to cancer
+
+517
+00:26:30,070 --> 00:26:33,350
+and all that good stuff
+okay one more thing
+
+518
+00:26:33,350 --> 00:26:36,170
+to note here that's
+important is the sugar
+
+519
+00:26:36,170 --> 00:26:38,790
+phosphate backbone has
+an orientation in DNA
+
+520
+00:26:38,790 --> 00:26:40,710
+so first if you just
+look at quickly here
+
+521
+00:26:40,710 --> 00:26:44,170
+you see how the oxygen
+here see that in the
+
+522
+00:26:44,170 --> 00:26:47,770
+sugar and the oxygen
+here see this like if
+
+523
+00:26:47,770 --> 00:26:51,310
+you compare this looks
+like it's on the top
+
+524
+00:26:51,310 --> 00:26:52,790
+and this looks like
+on the bottom you see
+
+525
+00:26:52,790 --> 00:26:55,480
+that these strands seem
+flipped and they are
+
+526
+00:26:55,480 --> 00:26:59,170
+the strands are actually
+anti parallel to
+
+527
+00:26:59,170 --> 00:27:01,970
+each other so how do
+we refer to the strands
+
+528
+00:27:02,620 --> 00:27:06,780
+well if you look at
+the strand here the
+
+529
+00:27:06,780 --> 00:27:09,810
+carbon that's poking out
+here and the farthest
+
+530
+00:27:09,810 --> 00:27:11,990
+out that is the five
+prime carbon right
+
+531
+00:27:12,500 --> 00:27:15,290
+if you count them
+and the one at the
+
+532
+00:27:15,290 --> 00:27:19,070
+end here this is the
+three prime carbon
+
+533
+00:27:19,070 --> 00:27:22,430
+so this is where that
+nomenclature becomes.
+
+534
+00:27:22,430 --> 00:27:26,500
+This strand is
+the five prime to
+
+535
+00:27:26,500 --> 00:27:29,510
+three prime strand
+because here is the
+
+536
+00:27:29,510 --> 00:27:31,530
+five prime carbon,
+here is the three prime
+
+537
+00:27:31,530 --> 00:27:34,170
+OH group. Now look
+at this one here,
+
+538
+00:27:34,490 --> 00:27:38,770
+here is the what I'm
+seeing here right off
+
+539
+00:27:38,770 --> 00:27:40,910
+beginning is the three
+prime OH group and
+
+540
+00:27:40,910 --> 00:27:44,010
+what I see right here
+is the five prime carbon
+
+541
+00:27:44,010 --> 00:27:49,530
+so this stand is the
+3 prime to 5 prime
+
+542
+00:27:49,530 --> 00:27:51,710
+and this is the 5 prime
+to 3 prime so that's
+
+543
+00:27:51,710 --> 00:27:53,630
+how you identify the
+strands of DNA which
+
+544
+00:27:53,630 --> 00:27:56,670
+one is which by the
+orientation of the carbons
+
+545
+00:27:56,670 --> 00:27:58,590
+the 5 prime carbon
+and the 3 prime of
+
+546
+00:27:58,590 --> 00:28:01,950
+each group and again
+this is the 5 prime 3
+
+547
+00:28:01,950 --> 00:28:04,460
+prime and this is the
+3 prime to 5 prime when
+
+548
+00:28:04,510 --> 00:28:07,570
+building DNA you always
+have to build it in
+
+549
+00:28:07,570 --> 00:28:09,150
+the opposite direction
+in other words on
+
+550
+00:28:09,150 --> 00:28:11,130
+the five prime to three
+prime you can only
+
+551
+00:28:11,130 --> 00:28:13,290
+build the three prime
+to five prime and on
+
+552
+00:28:13,290 --> 00:28:14,830
+the three prime to
+five prime you can only
+
+553
+00:28:14,830 --> 00:28:17,330
+build the five prime to
+three prime they always
+
+554
+00:28:17,330 --> 00:28:19,130
+are empty like that
+and structured DNA
+
+555
+00:28:19,130 --> 00:28:21,670
+does not work any other
+way but the interesting
+
+556
+00:28:21,670 --> 00:28:24,550
+part is is that DNA
+replication can only
+
+557
+00:28:24,550 --> 00:28:26,090
+occur in the five
+prime to three prime
+
+558
+00:28:26,090 --> 00:28:31,390
+direction and the reason
+for that is the you
+
+559
+00:28:31,390 --> 00:28:33,770
+have to have that three
+prime OH group available
+
+560
+00:28:33,770 --> 00:28:36,490
+to attach a new
+phosphate here and so
+
+561
+00:28:36,490 --> 00:28:38,790
+we'll have to explore
+how does that work how
+
+562
+00:28:38,790 --> 00:28:42,510
+do you synthesize two
+strands if they both
+
+563
+00:28:42,510 --> 00:28:44,050
+have to be done in the
+five prime to three
+
+564
+00:28:44,050 --> 00:28:45,750
+prime direction when
+they are opposite and
+
+565
+00:28:45,750 --> 00:28:48,410
+we'll discuss that
+next in DNA replication
+
+566
+00:29:02,600 --> 00:29:06,250
+we can shift gears
+and talk about how DNA
+
+567
+00:29:06,250 --> 00:29:09,570
+is packaged inside the
+cell so DNA is a pretty
+
+568
+00:29:09,570 --> 00:29:12,550
+large molecule and
+from what you can see
+
+569
+00:29:12,550 --> 00:29:15,950
+from this cell right
+here so this is a this
+
+570
+00:29:16,230 --> 00:29:18,830
+is e coli here's a
+cell it's a rod shaped
+
+571
+00:29:18,830 --> 00:29:23,790
+and here's all the dna
+coming out of the cell
+
+572
+00:29:23,790 --> 00:29:27,050
+you could tell right
+off the bat that the
+
+573
+00:29:27,050 --> 00:29:30,190
+amount of dna is way
+bigger than the actual
+
+574
+00:29:30,190 --> 00:29:32,410
+cell so you have to
+package this very densely
+
+575
+00:29:32,410 --> 00:29:35,390
+inside the cell while
+allowing for other
+
+576
+00:29:35,390 --> 00:29:37,730
+structures to happen
+in prokaryotic cells
+
+577
+00:29:37,730 --> 00:29:41,940
+such as this one the
+dna is supercoiled and
+
+578
+00:29:42,330 --> 00:29:44,930
+that's a distinctive
+feature for prokaryotes.
+
+579
+00:29:44,930 --> 00:29:47,100
+Now in our cells,
+which are eukaryotes,
+
+580
+00:29:47,410 --> 00:29:50,190
+instead of supercoiling
+that takes place,
+
+581
+00:29:50,190 --> 00:29:52,010
+and that's because
+again prokaryotic cells
+
+582
+00:29:52,010 --> 00:29:55,070
+have circular DNA, and
+so you kind of twist
+
+583
+00:29:55,070 --> 00:30:00,390
+it like a knot, but in
+our cells the DNA is
+
+584
+00:30:00,390 --> 00:30:03,130
+packaged into structures
+called chromatin,
+
+585
+00:30:03,130 --> 00:30:05,230
+and it's a very unique
+type of structure.
+
+586
+00:30:05,770 --> 00:30:08,810
+Chromatin is made out
+of the structures called
+
+587
+00:30:08,810 --> 00:30:12,170
+nucleosomes, and
+nucleosomes are pretty
+
+588
+00:30:12,170 --> 00:30:15,690
+much DNA wrapped
+around proteins called
+
+589
+00:30:15,690 --> 00:30:18,670
+histones where you'll
+take a look at that and
+
+590
+00:30:18,670 --> 00:30:22,190
+so here is the let's
+erase this now we're not
+
+591
+00:30:22,190 --> 00:30:24,790
+looking at it anymore
+and so here's the
+
+592
+00:30:24,790 --> 00:30:28,460
+histone proteins there
+is typically several
+
+593
+00:30:28,610 --> 00:30:32,030
+histone proteins which
+the DNA double helix
+
+594
+00:30:32,030 --> 00:30:35,550
+wraps around the histones
+are typically filled
+
+595
+00:30:35,550 --> 00:30:38,110
+with lysine residues
+which are positively
+
+596
+00:30:38,110 --> 00:30:39,910
+charged and that makes
+sense because the
+
+597
+00:30:39,910 --> 00:30:42,750
+sugar phosphate backbone
+of the DNA is negatively
+
+598
+00:30:42,750 --> 00:30:44,650
+charged that charge
+difference creates
+
+599
+00:30:44,650 --> 00:30:47,490
+attraction allowing
+the DNA to wrap around
+
+600
+00:30:47,490 --> 00:30:50,310
+the histones so typically
+double helix wraps
+
+601
+00:30:50,370 --> 00:30:52,570
+two turns as you can
+see here so here was
+
+602
+00:30:52,570 --> 00:30:56,890
+one turn and two turn
+of this core histone
+
+603
+00:30:56,890 --> 00:31:01,250
+molecule which is called
+this is now called a
+
+604
+00:31:01,480 --> 00:31:05,620
+nucleosome and so if
+you look at basically
+
+605
+00:31:05,910 --> 00:31:08,550
+eventually end up
+there's your double helix
+
+606
+00:31:08,550 --> 00:31:10,790
+and here's the size
+for reference and then
+
+607
+00:31:10,790 --> 00:31:13,210
+you start packaging
+them two turns two turns
+
+608
+00:31:13,210 --> 00:31:15,210
+two turns on these it's
+kind of like toilet
+
+609
+00:31:15,210 --> 00:31:16,670
+paper if you think of
+it that way you know
+
+610
+00:31:16,670 --> 00:31:19,450
+you're packaging the
+DNA which is the actual
+
+611
+00:31:19,450 --> 00:31:21,910
+paper around the
+cardboard in the center
+
+612
+00:31:21,910 --> 00:31:24,650
+which is the toilet
+paper and as you do that
+
+613
+00:31:24,940 --> 00:31:27,570
+of course the size gets
+larger and then you
+
+614
+00:31:27,570 --> 00:31:32,670
+condense these nucleosomes
+together and this
+
+615
+00:31:32,670 --> 00:31:36,190
+right here is chromatin
+the structure right
+
+616
+00:31:36,190 --> 00:31:39,250
+here is chromatin okay
+and that's what you
+
+617
+00:31:39,250 --> 00:31:41,330
+typically find inside
+the eukaryotic cell
+
+618
+00:31:44,170 --> 00:31:46,150
+nuclei chromatin i will
+take a look at that
+
+619
+00:31:46,150 --> 00:31:48,470
+a little bit now
+when cells wants to
+
+620
+00:31:48,470 --> 00:31:52,550
+divide they will go
+further and start even
+
+621
+00:31:52,550 --> 00:31:54,890
+condensing chromatin
+more and more to
+
+622
+00:31:54,890 --> 00:31:57,770
+eventually end up with
+chromosomes. Chromosomes
+
+623
+00:31:57,770 --> 00:32:01,410
+are highly condensed
+and that's necessary
+
+624
+00:32:01,410 --> 00:32:03,320
+so you can separate
+the DNA correctly.
+
+625
+00:32:04,350 --> 00:32:08,090
+Now here we're taking
+a look at this is
+
+626
+00:32:08,090 --> 00:32:11,110
+a plasma cell which
+makes antibodies
+
+627
+00:32:11,110 --> 00:32:14,270
+but that's a great
+example of a cell to
+
+628
+00:32:14,270 --> 00:32:16,350
+look at so all these
+dense spots right
+
+629
+00:32:16,350 --> 00:32:22,270
+here and here are
+basically chromatin.
+
+630
+00:32:22,550 --> 00:32:24,770
+Now just taking a quick
+look at here you can
+
+631
+00:32:24,770 --> 00:32:26,610
+see there's two different
+kinds of chromatin
+
+632
+00:32:26,610 --> 00:32:29,130
+there's a there's one
+that's dense which
+
+633
+00:32:29,130 --> 00:32:32,490
+is right here all this
+dark you know stuff
+
+634
+00:32:32,490 --> 00:32:34,850
+and then there's this
+extremely dark highly
+
+635
+00:32:34,850 --> 00:32:37,770
+dense chromatin so this
+extremely dark highly
+
+636
+00:32:37,770 --> 00:32:40,130
+dense chromatin is
+called heterochromatin
+
+637
+00:32:40,980 --> 00:32:44,590
+there's the term
+right here while the
+
+638
+00:32:45,230 --> 00:32:48,930
+still dense but not
+as dense is called
+
+639
+00:32:48,930 --> 00:32:51,280
+euchromatin which you
+can see right here okay
+
+640
+00:32:51,280 --> 00:32:53,450
+and so this is all
+chromatin so chromatin
+
+641
+00:32:53,450 --> 00:32:55,830
+is divided into
+heterochromatin extremely
+
+642
+00:32:55,830 --> 00:32:58,790
+dense and eochromatin
+dense we don't want
+
+643
+00:32:58,790 --> 00:33:00,730
+to call it dense and
+less dense because
+
+644
+00:33:00,730 --> 00:33:03,230
+it is also dense even
+eochromatin is dense
+
+645
+00:33:03,230 --> 00:33:05,650
+it's just a different
+degree of density
+
+646
+00:33:06,470 --> 00:33:08,090
+what is the difference
+of what's going on
+
+647
+00:33:08,090 --> 00:33:09,850
+between the two so
+typically what happens
+
+648
+00:33:09,850 --> 00:33:12,130
+is the heterochromatin
+or the dna in
+
+649
+00:33:12,130 --> 00:33:15,030
+heterochromatin is usually
+silent meaning it's not
+
+650
+00:33:15,030 --> 00:33:18,530
+transcribed no gene
+transcription is taking
+
+651
+00:33:18,530 --> 00:33:22,810
+place while in the
+u-chromatin there is
+
+652
+00:33:22,810 --> 00:33:24,810
+transcription of
+these genes are taking
+
+653
+00:33:24,810 --> 00:33:27,310
+place and you know you
+make mRNA and eventually
+
+654
+00:33:27,310 --> 00:33:29,550
+you can make proteins
+and this will change
+
+655
+00:33:29,550 --> 00:33:32,030
+depending on the cell
+in other words this
+
+656
+00:33:32,030 --> 00:33:34,090
+spot here let's say
+of heterochromatin
+
+657
+00:33:34,090 --> 00:33:36,710
+can become u-chromatin
+and then this other
+
+658
+00:33:36,710 --> 00:33:39,070
+part if it's not
+needed depending on the
+
+659
+00:33:39,070 --> 00:33:40,790
+physiological condition
+it can go back and
+
+660
+00:33:40,790 --> 00:33:44,070
+become hetero so it's
+obviously dynamic the
+
+661
+00:33:44,070 --> 00:33:47,290
+ratio of heterochromatin
+to chromatin Let's
+
+662
+00:33:59,730 --> 00:34:02,390
+discuss both DNA and
+
+663
+00:34:02,390 --> 00:34:04,370
+chromatin modifications.
+
+664
+00:34:04,430 --> 00:34:06,620
+One of the things
+that takes place
+
+665
+00:34:06,620 --> 00:34:09,450
+in DNA is what's
+referred to as DNA
+
+666
+00:34:09,450 --> 00:34:11,810
+methylation. This
+occurs in different
+
+667
+00:34:11,810 --> 00:34:14,030
+spots and for
+different purposes.
+
+668
+00:34:14,030 --> 00:34:16,590
+And we'll talk about
+each and we'll explore
+
+669
+00:34:16,590 --> 00:34:19,750
+that more in coming
+lectures. But one of
+
+670
+00:34:19,750 --> 00:34:22,530
+the key spots where
+methylation takes place,
+
+671
+00:34:22,530 --> 00:34:24,250
+which is basically
+adding a methyl group,
+
+672
+00:34:24,250 --> 00:34:29,290
+is at GATC location.
+So, whenever there's
+
+673
+00:34:29,290 --> 00:34:33,230
+a GHC, you end up
+methylating the adenine.
+
+674
+00:34:33,240 --> 00:34:35,530
+And so, you can see
+this methylation here.
+
+675
+00:34:35,530 --> 00:34:37,950
+And there's a purpose for
+
+676
+00:34:37,950 --> 00:34:39,770
+this particular
+methylation.
+
+677
+00:34:39,770 --> 00:34:43,750
+And it's mainly needed
+to alert the cell
+
+678
+00:34:43,750 --> 00:34:47,550
+which DNA, especially
+during replication,
+
+679
+00:34:47,550 --> 00:34:49,950
+is the mother strand
+and which DNA is the
+
+680
+00:34:49,950 --> 00:34:52,850
+new strand. and the
+purpose of that is when
+
+681
+00:34:52,850 --> 00:34:54,450
+you make the new strand
+and if there's any
+
+682
+00:34:54,450 --> 00:34:59,110
+mistakes so that's
+your you want to know
+
+683
+00:34:59,110 --> 00:35:00,750
+which one is your
+original copy and which
+
+684
+00:35:00,750 --> 00:35:02,610
+one is the new copy
+because if there's any
+
+685
+00:35:02,610 --> 00:35:04,630
+mistakes a new copy
+you want to fix them
+
+686
+00:35:04,630 --> 00:35:08,050
+and so that's what
+the methylation of the
+
+687
+00:35:08,050 --> 00:35:11,530
+GATC is for it's
+basically for mismatch
+
+688
+00:35:11,530 --> 00:35:15,110
+repair we will discuss
+mismatch repair as a
+
+689
+00:35:15,110 --> 00:35:18,850
+system in the next
+lecture molecular genetics
+
+690
+00:35:18,850 --> 00:35:23,830
+2 and another again
+unrelated subject
+
+691
+00:35:23,830 --> 00:35:27,130
+is but it also is
+DNA methylation is
+
+692
+00:35:27,130 --> 00:35:31,130
+methylation in locations
+called CPG islands it's
+
+693
+00:35:31,130 --> 00:35:32,890
+a location where
+there's a lot of like
+
+694
+00:35:32,890 --> 00:35:37,510
+citadine and guanidine
+residues and the
+
+695
+00:35:37,510 --> 00:35:39,870
+purpose of those is
+completely different from
+
+696
+00:35:39,870 --> 00:35:42,630
+the GATC and And that
+is to silence DNA.
+
+697
+00:35:42,630 --> 00:35:46,130
+So if there's a
+gene that has a CP
+
+698
+00:35:46,950 --> 00:35:48,410
+sequence on it and
+there's a methyl
+
+699
+00:35:48,410 --> 00:35:50,190
+group there, that
+gene cannot be
+
+700
+00:35:50,190 --> 00:35:52,090
+transcribed and
+cannot express itself.
+
+701
+00:35:52,370 --> 00:35:55,470
+Sometimes you'll see
+an application of
+
+702
+00:35:55,470 --> 00:36:00,590
+this genetic diseases
+that skip a generation.
+
+703
+00:36:01,970 --> 00:36:04,030
+And that's typically
+because maybe in
+
+704
+00:36:04,030 --> 00:36:05,570
+that gen, the next,
+let's say first
+
+705
+00:36:05,570 --> 00:36:07,410
+generation has disease,
+second generation has
+
+706
+00:36:07,410 --> 00:36:09,270
+the gene, but it's
+been silenced. and
+
+707
+00:36:09,270 --> 00:36:10,770
+because it's silenced
+they don't express it
+
+708
+00:36:10,770 --> 00:36:13,010
+and then they give
+it their sons and
+
+709
+00:36:13,010 --> 00:36:17,030
+daughters and then
+those now it may be
+
+710
+00:36:17,030 --> 00:36:19,270
+unsilenced so to speak
+and so methylation can
+
+711
+00:36:19,270 --> 00:36:23,060
+have a big impact on
+on gene expression
+
+712
+00:36:26,290 --> 00:36:30,390
+also histones get
+methylated and acetylated
+
+713
+00:36:30,390 --> 00:36:33,330
+okay and that's an
+important topic and
+
+714
+00:36:33,330 --> 00:36:37,650
+that also can allow
+different parts of
+
+715
+00:36:37,650 --> 00:36:42,010
+the chromatin to be
+either transcribed or
+
+716
+00:36:42,010 --> 00:36:48,690
+or turned off and so
+methylation actually
+
+717
+00:36:48,690 --> 00:36:55,330
+causes you know
+methylation of histones
+
+718
+00:36:55,330 --> 00:36:58,370
+cause the histone to
+become more into the
+
+719
+00:37:01,310 --> 00:37:04,470
+heterochromatin and
+more silenced so it
+
+720
+00:37:04,470 --> 00:37:06,630
+represses transcription
+but it does that
+
+721
+00:37:06,630 --> 00:37:09,510
+reversibly, it's
+not permanent and
+while acetylation
+
+722
+00:37:09,510 --> 00:37:12,570
+actually allows the
+DNA to relax and
+
+723
+00:37:12,570 --> 00:37:14,970
+giving it more access
+to be transcribed. So
+
+724
+00:37:14,970 --> 00:37:17,960
+methylation of histones
+represses transcription
+
+725
+00:37:17,960 --> 00:37:21,870
+and acetylation of
+histones allows for
+
+726
+00:37:21,870 --> 00:37:25,030
+transcription and so
+there's a commonality
+
+727
+00:37:25,030 --> 00:37:27,010
+here in methylation
+you can see here if you
+
+728
+00:37:27,010 --> 00:37:29,610
+methylate the cpg
+islands they get silenced
+
+729
+00:37:29,610 --> 00:37:31,390
+if you methylate the
+histones the proteins
+
+730
+00:37:31,390 --> 00:37:33,110
+here we're talking
+right not not the dna
+
+731
+00:37:33,110 --> 00:37:35,890
+even methylate the
+protein can also turn off
+
+732
+00:37:35,890 --> 00:37:38,670
+transcription and don't
+confuse methylation
+
+733
+00:37:38,670 --> 00:37:41,170
+of dna with histone
+methylation again this
+
+734
+00:37:41,170 --> 00:37:43,550
+is the protein that
+dna wraps around let's
+
+735
+00:37:48,880 --> 00:37:51,260
+discuss the process
+of actual replication
+
+736
+00:37:51,260 --> 00:37:55,080
+of dna this is making
+a copy okay now um
+
+737
+00:37:55,080 --> 00:37:57,500
+renal replication is
+referred to as semi
+
+738
+00:37:57,500 --> 00:37:59,140
+-conservative and the
+reason that's called that
+
+739
+00:37:59,140 --> 00:38:04,760
+way is because half
+the DNA is from the
+
+740
+00:38:04,760 --> 00:38:07,060
+parent parental strand
+and the other half
+
+741
+00:38:07,060 --> 00:38:08,900
+is known so that's semi
+-conferred to a semi
+
+742
+00:38:08,900 --> 00:38:12,160
+-conservative as I walk
+through this process
+
+743
+00:38:12,160 --> 00:38:14,680
+with you just be
+remember that there's
+
+744
+00:38:14,680 --> 00:38:18,060
+notes in the PowerPoint
+slide that has a
+
+745
+00:38:18,060 --> 00:38:20,780
+step by step of this
+process it's also be
+
+746
+00:38:21,060 --> 00:38:24,220
+good if you can go on
+the web and find some
+
+747
+00:38:24,220 --> 00:38:25,980
+animation of this
+process gonna help you
+
+748
+00:38:25,980 --> 00:38:28,040
+visualize it because
+sometimes it's hard to
+
+749
+00:38:28,500 --> 00:38:30,880
+learn this stuff
+without having a very
+
+750
+00:38:30,880 --> 00:38:34,080
+good animated visual
+so i recommend that
+
+751
+00:38:35,500 --> 00:38:38,900
+anyway all replication
+has to have an a start
+
+752
+00:38:38,900 --> 00:38:42,540
+and typically the
+start is a sequence a
+
+753
+00:38:42,540 --> 00:38:44,820
+specific sequence of
+dna called the origin
+
+754
+00:38:44,820 --> 00:38:48,700
+or ori site in prokaryotes
+there's usually
+
+755
+00:38:48,700 --> 00:38:50,960
+one origin replication
+because prokaryotes
+
+756
+00:38:50,960 --> 00:38:52,500
+typically have one
+chromosome, which is
+
+757
+00:38:52,500 --> 00:38:57,620
+circular, and while in
+our DNA, mammalian DNA,
+
+758
+00:38:57,620 --> 00:38:59,640
+usually there's multiple
+origin sites, like
+
+759
+00:38:59,640 --> 00:39:03,560
+in humans there's
+around 50,000 sites of
+
+760
+00:39:03,560 --> 00:39:06,620
+origination, and of
+course you have to have
+
+761
+00:39:06,620 --> 00:39:08,480
+a termination site,
+which is called the ter
+
+762
+00:39:08,480 --> 00:39:11,240
+site, ter for termination,
+or for origin.
+
+763
+00:39:14,080 --> 00:39:16,520
+the first thing that
+happens there's again
+
+764
+00:39:16,520 --> 00:39:18,780
+many enzymes are involved
+this so we're going
+
+765
+00:39:18,780 --> 00:39:20,740
+to try to simplify
+this process but please
+
+766
+00:39:20,740 --> 00:39:22,840
+be aware that there's
+more to it than what
+
+767
+00:39:22,840 --> 00:39:25,660
+we have here but at
+least this is the basic
+
+768
+00:39:25,660 --> 00:39:29,560
+that is needed and so
+basically you've got
+
+769
+00:39:29,560 --> 00:39:31,620
+the first thing that
+happens an enzyme called
+
+770
+00:39:31,620 --> 00:39:34,700
+DNA helicase and the
+terms and the names
+
+771
+00:39:34,700 --> 00:39:36,440
+of the enzyme usually
+tell us what they do so
+
+772
+00:39:36,440 --> 00:39:39,720
+helicase it basically
+breaks the hydrogen
+
+773
+00:39:39,720 --> 00:39:43,690
+bond between the bases
+and unwinds the helix
+
+774
+00:39:43,690 --> 00:39:47,180
+okay to open up so you
+can actually copy it
+
+775
+00:39:47,180 --> 00:39:51,720
+right and now if you
+if helicase does that
+
+776
+00:39:51,960 --> 00:39:55,160
+and nothing happens
+afterwards the DNA actually
+
+777
+00:39:55,160 --> 00:39:57,000
+will rewind back
+because remember the
+
+778
+00:39:57,000 --> 00:39:58,780
+DNA in its natural
+state has the hydrogen
+
+779
+00:39:58,780 --> 00:40:01,220
+bonds so you have to be
+able to keep that fork
+
+780
+00:40:01,220 --> 00:40:04,820
+open and in order to do
+that you need proteins
+
+781
+00:40:04,820 --> 00:40:07,740
+that come and bind to
+the single-stranded
+
+782
+00:40:07,740 --> 00:40:10,080
+DNA and actually keep
+it open and those
+
+783
+00:40:10,080 --> 00:40:13,120
+are called single
+-stranded binding proteins
+
+784
+00:40:13,120 --> 00:40:16,440
+or SSBs and their
+name again makes sense
+
+785
+00:40:16,440 --> 00:40:18,600
+single-stranded they
+bind to single strand DNA
+
+786
+00:40:18,600 --> 00:40:20,480
+and they're binding
+proteins so they're like
+
+787
+00:40:20,480 --> 00:40:23,540
+beads they bind to
+the single strand DNA
+
+788
+00:40:23,540 --> 00:40:25,620
+and keep the helix
+open so you can move on
+
+789
+00:40:25,620 --> 00:40:28,780
+now one thing is needed
+next before you can
+
+790
+00:40:28,780 --> 00:40:31,420
+actually transcribe
+the DNA is you have to
+
+791
+00:40:31,420 --> 00:40:34,280
+include a small primer
+the issue here is that
+
+792
+00:40:34,280 --> 00:40:37,200
+DNA polymerases and
+DNA polymerases from
+
+793
+00:40:37,200 --> 00:40:40,400
+the name they polymerize
+and actually make DNA
+
+794
+00:40:40,400 --> 00:40:42,660
+as we talked about
+before they do it in
+
+795
+00:40:42,660 --> 00:40:45,100
+the five prime to three
+prime direction so DNA
+
+796
+00:40:45,100 --> 00:40:47,780
+polymerases don't have
+the ability to attach
+
+797
+00:40:47,780 --> 00:40:50,580
+a new nucleotide
+unless one is already
+
+798
+00:40:50,580 --> 00:40:53,960
+existing so they have
+to have this three prime
+
+799
+00:40:53,960 --> 00:40:56,720
+OH group already there
+so they can put a
+
+800
+00:40:56,720 --> 00:40:59,400
+new nucleotide and
+then extend the chain
+
+801
+00:40:59,400 --> 00:41:03,060
+without that they cannot
+do this and so to allow
+
+802
+00:41:03,060 --> 00:41:06,500
+for a nucleotide to
+be there primase which
+
+803
+00:41:06,500 --> 00:41:09,260
+is a type of RNA
+polymerase and RNA
+
+804
+00:41:09,260 --> 00:41:12,740
+polymerases can add a
+nucleotide without one there
+
+805
+00:41:12,740 --> 00:41:15,700
+being existing we'll
+add a short RNA segment
+
+806
+00:41:15,700 --> 00:41:19,020
+at the beginning of
+the strand and then
+
+807
+00:41:19,020 --> 00:41:23,360
+DNA polymerase 3 which
+is the main polymerase
+
+808
+00:41:23,360 --> 00:41:27,080
+comes down and extends
+that chain You will
+
+809
+00:41:27,080 --> 00:41:29,880
+start adding nucleotides
+in the 5' to 3'
+
+810
+00:41:29,880 --> 00:41:32,680
+direction, complementary
+nucleotides, right?
+
+811
+00:41:32,920 --> 00:41:37,560
+So if there's an
+adenosine triphosphate,
+
+812
+00:41:37,560 --> 00:41:40,780
+the oxyadenosine will add
+thymidine triphosphate.
+
+813
+00:41:40,780 --> 00:41:43,320
+If there's a citadine
+triphosphate, it
+
+814
+00:41:43,320 --> 00:41:45,640
+will add a guanosine
+triphosphate, right?
+
+815
+00:41:45,660 --> 00:41:47,520
+Pair them correctly.
+I mean, of course, it
+
+816
+00:41:47,520 --> 00:41:51,580
+makes errors, and that
+happens. and you know
+
+817
+00:41:51,580 --> 00:41:54,470
+our polymerases have
+actually a what's
+
+818
+00:41:54,620 --> 00:41:57,620
+called a proofreading
+function which allows them
+
+819
+00:41:57,620 --> 00:42:00,160
+to if they put the
+wrong one to go back
+
+820
+00:42:00,160 --> 00:42:02,220
+and remove it and then
+put a new one instead
+
+821
+00:42:02,220 --> 00:42:05,820
+okay so when that's
+done you'll have to go
+
+822
+00:42:05,820 --> 00:42:08,280
+back and remove the
+RNA of course you can't
+
+823
+00:42:08,280 --> 00:42:10,500
+have RNA and DNA mixed
+and that's the job
+
+824
+00:42:10,500 --> 00:42:13,400
+of DNA polymerase one
+DNA polymerase one comes
+
+825
+00:42:13,400 --> 00:42:16,400
+removes that primer
+which is rna in nature
+
+826
+00:42:16,400 --> 00:42:19,380
+and replaces it with
+dna now that does
+
+827
+00:42:19,380 --> 00:42:23,160
+leave one single strand
+sorry one bond between
+
+828
+00:42:23,160 --> 00:42:26,880
+the sugar and phosphate
+incomplete or absent
+
+829
+00:42:26,980 --> 00:42:30,900
+and that has to be
+tied and that's the
+
+830
+00:42:30,900 --> 00:42:34,400
+job of dna ligase by
+the way ligation means
+
+831
+00:42:34,400 --> 00:42:36,380
+tying and that's where
+that term come from
+
+832
+00:42:36,380 --> 00:42:40,140
+and so to complete the
+process you need all
+
+833
+00:42:40,140 --> 00:42:44,140
+these enzymes to make
+a mature DNA molecule
+
+834
+00:42:44,900 --> 00:42:48,520
+for example one also
+good thing the way to
+
+835
+00:42:48,520 --> 00:42:51,860
+study this is to let's
+say make mutations
+
+836
+00:42:51,860 --> 00:42:54,700
+in these particular
+proteins and see what
+
+837
+00:42:54,700 --> 00:42:56,160
+happens like what
+happens if primary is
+
+838
+00:42:56,160 --> 00:42:58,560
+not working what's the
+outcome what happens
+
+839
+00:42:58,560 --> 00:43:01,500
+if ligase is not
+working right and then
+
+840
+00:43:01,500 --> 00:43:04,860
+come up with you know
+ideas and or explore
+
+841
+00:43:04,860 --> 00:43:08,580
+how how that affects
+the DNA molecule.
+
+842
+00:43:08,920 --> 00:43:14,730
+Okay now again as we
+discussed DNA polymerization
+
+843
+00:43:16,500 --> 00:43:18,780
+can only happen in
+the 5 prime to 3
+
+844
+00:43:18,780 --> 00:43:21,820
+prime direction but as
+we talked earlier the
+
+845
+00:43:21,820 --> 00:43:24,440
+strands of DNA are
+opposite right one of them
+
+846
+00:43:24,440 --> 00:43:26,200
+is 5 prime to 3 prime
+the other one 3 prime
+
+847
+00:43:26,200 --> 00:43:29,020
+to 5 prime so if we're
+replicating on the
+
+848
+00:43:29,020 --> 00:43:31,520
+3 prime to 5 prime
+strand that's going to
+
+849
+00:43:31,520 --> 00:43:33,460
+be easy because we're
+going naturally 5 prime
+
+850
+00:43:33,460 --> 00:43:35,740
+to 3 prime but then
+how do we replicate
+
+851
+00:43:35,740 --> 00:43:42,280
+the 5 prime to 3 prime
+strand so again if you
+
+852
+00:43:42,280 --> 00:43:44,340
+look in here so this
+is how you open it up
+
+853
+00:43:44,340 --> 00:43:47,270
+and so let's say if
+this strand is the 3
+
+854
+00:43:47,270 --> 00:43:49,160
+prime to 5 prime you're
+going to be able to go
+
+855
+00:43:49,160 --> 00:43:51,580
+5 prime to 3 prime fine
+but what happens on
+
+856
+00:43:51,580 --> 00:43:54,400
+the other strand that
+is 5 to 3 you can't
+
+857
+00:43:54,400 --> 00:43:57,960
+go 5 to 3 on a 5 to 3
+and so how is that going
+
+858
+00:43:57,960 --> 00:44:01,300
+to work and the DNA
+polymerase actually
+
+859
+00:44:01,300 --> 00:44:04,400
+finds a solution to
+that what it does it
+
+860
+00:44:04,400 --> 00:44:08,620
+actually bends uh this
+dna molecule the strand
+
+861
+00:44:09,080 --> 00:44:12,040
+it twists it 180
+degrees to make it look
+
+862
+00:44:12,040 --> 00:44:14,500
+like it's uh three to
+five so it can actually
+
+863
+00:44:14,500 --> 00:44:16,860
+go on at five to
+three and that's kind
+
+864
+00:44:16,860 --> 00:44:18,360
+of another way of doing
+it but the problem
+
+865
+00:44:18,360 --> 00:44:20,320
+with that is it cannot
+twist a very long
+
+866
+00:44:20,320 --> 00:44:22,260
+strand it can only
+twist a chunk at a time
+
+867
+00:44:22,260 --> 00:44:24,120
+so you twist it and
+then when you get to
+
+868
+00:44:24,120 --> 00:44:26,490
+the end of it you let
+it go grab it again
+
+869
+00:44:26,490 --> 00:44:29,280
+twist let it go grab
+it twist and so on
+
+870
+00:44:29,280 --> 00:44:31,260
+and every time you let
+go you're gonna have
+
+871
+00:44:31,260 --> 00:44:33,360
+to put a primer again
+and so what happens
+
+872
+00:44:33,360 --> 00:44:37,860
+is uh as you're
+replicating dna one strand
+
+873
+00:44:37,860 --> 00:44:40,660
+gets replicated
+continuously it's just
+
+874
+00:44:40,660 --> 00:44:43,340
+moving in that 5 prime
+to 3 prime direction
+
+875
+00:44:43,340 --> 00:44:46,260
+then that's the 3 to
+5 strand but the 5
+
+876
+00:44:46,260 --> 00:44:50,660
+to 3 has to be twisted
+uh primer put twisted
+
+877
+00:44:50,660 --> 00:44:53,560
+again replicated primer
+put twisted again
+
+878
+00:44:53,560 --> 00:44:56,600
+so on and this becomes
+discontinuously
+
+879
+00:44:57,080 --> 00:45:00,060
+replicated and so that's
+referred to as the
+
+880
+00:45:00,060 --> 00:45:02,200
+lagging strand because
+there's a little lag
+
+881
+00:45:02,200 --> 00:45:04,060
+and stays behind it
+and the other ones
+
+882
+00:45:04,060 --> 00:45:06,920
+referred to as the leading
+strand and so that's
+
+883
+00:45:06,920 --> 00:45:09,080
+where that terminology
+come from leading
+
+884
+00:45:09,080 --> 00:45:11,140
+and lagging and also
+you're gonna have a
+
+885
+00:45:11,140 --> 00:45:15,360
+lot of primers on the
+lagging strand that all
+
+886
+00:45:15,360 --> 00:45:18,620
+have to be removed
+by DNA polymerase one
+
+887
+00:45:18,620 --> 00:45:21,520
+and replaced with DNA
+and then ligated with
+
+888
+00:45:21,520 --> 00:45:25,140
+DNA ligase okay the
+person that discovered
+
+889
+00:45:25,140 --> 00:45:26,840
+this whole thing we
+noticed when they
+
+890
+00:45:26,840 --> 00:45:31,260
+analyzed replication is
+that they were like one
+
+891
+00:45:31,260 --> 00:45:32,960
+whole copy if you
+stop somewhere in the
+
+892
+00:45:32,960 --> 00:45:35,650
+middle right and the
+other one here had pieces
+
+893
+00:45:35,650 --> 00:45:37,560
+and those pieces
+and the person that
+
+894
+00:45:37,560 --> 00:45:40,380
+discovered them called
+okazaki was a scientist
+
+895
+00:45:40,380 --> 00:45:42,560
+and that's why they call
+them okazaki fragments
+
+896
+00:45:42,560 --> 00:45:45,360
+so if you've heard
+of okazaki fragments
+
+897
+00:45:45,360 --> 00:45:47,340
+that's what those are
+it's basically before
+
+898
+00:45:47,340 --> 00:45:50,460
+the dna is fully
+replicated you have these
+
+899
+00:45:50,860 --> 00:45:54,140
+pieces there okay
+and so that's how it
+
+900
+00:45:54,140 --> 00:45:57,060
+works again we talked
+about polymerase three
+
+901
+00:45:57,060 --> 00:46:00,700
+and its ability to
+proofread and but not
+
+902
+00:46:00,700 --> 00:46:03,040
+all polymerases have a
+proofreading function
+
+903
+00:46:03,660 --> 00:46:06,920
+but DNA polymerases
+do but RNA polymerases
+
+904
+00:46:06,920 --> 00:46:10,200
+don't I'm just gonna
+connect give you some
+
+905
+00:46:10,200 --> 00:46:13,270
+kind of a kind of
+a connection here a
+
+906
+00:46:13,270 --> 00:46:16,420
+significant one I mean
+so that's why RNA viruses
+
+907
+00:46:16,420 --> 00:46:19,580
+they replicate their
+genome using RNA
+
+908
+00:46:19,580 --> 00:46:22,040
+polymerases while DNA
+viruses replicate the
+
+909
+00:46:22,040 --> 00:46:24,500
+genome using DNA
+polymerases well because
+
+910
+00:46:24,500 --> 00:46:27,380
+RNA viruses use
+RNA polymerases RNA
+
+911
+00:46:27,380 --> 00:46:29,520
+polymerases do not have
+a proofreading function
+
+912
+00:46:29,600 --> 00:46:32,160
+and because of that
+RNA viruses make a lot
+
+913
+00:46:32,160 --> 00:46:33,840
+of mistakes and this
+is the reason why
+
+914
+00:46:33,840 --> 00:46:37,740
+RNA viruses evolve a
+lot like SARS-CoV-2
+
+915
+00:46:37,740 --> 00:46:40,920
+why do they change
+significantly more than
+
+916
+00:46:40,920 --> 00:46:44,380
+something like a
+smallpox virus okay so
+
+917
+00:47:20,010 --> 00:47:23,710
+far we've focused on
+DNA replication in
+
+918
+00:47:23,720 --> 00:47:25,930
+prokaryotes which is the
+most commonly studied
+
+919
+00:47:25,930 --> 00:47:29,330
+and although prokaryotic
+and eukaryotic
+
+920
+00:47:29,330 --> 00:47:31,050
+replication are very
+similar we're just gonna
+
+921
+00:47:31,050 --> 00:47:34,990
+focus explore here
+a little bit the key
+
+922
+00:47:34,990 --> 00:47:36,970
+distinctions between
+them and these are
+
+923
+00:47:36,970 --> 00:47:39,430
+distinctions sometimes
+are important not from a
+
+924
+00:47:39,430 --> 00:47:41,250
+matter of understanding
+with what each one
+
+925
+00:47:41,250 --> 00:47:43,810
+does but also to utilize
+these differences
+
+926
+00:47:43,810 --> 00:47:45,890
+between prokaryotes
+and eukaryotes for the
+
+927
+00:47:45,890 --> 00:47:48,850
+sake of selective
+toxicity coming up with
+
+928
+00:47:48,850 --> 00:47:51,810
+different chemicals
+antibiotics to let's
+
+929
+00:47:51,810 --> 00:47:54,010
+say kill prokaryotic
+like bacteria while
+
+930
+00:47:54,010 --> 00:47:56,990
+sparing a eukaryotic
+like our cells. So for
+
+931
+00:47:56,990 --> 00:48:00,270
+example the class of
+antibiotics referred to
+
+932
+00:48:00,270 --> 00:48:05,530
+as quinolones target
+a specific prokaryotic
+
+933
+00:48:05,530 --> 00:48:07,630
+DNA replication process
+that does not exist
+
+934
+00:48:07,630 --> 00:48:11,770
+in eukaryotes. So
+what I'm showing here,
+
+935
+00:48:12,110 --> 00:48:15,030
+nalodixic acid, is a
+
+936
+00:48:15,830 --> 00:48:19,470
+synthetic quinolone,
+while ciprofloxacin, or
+
+937
+00:48:19,470 --> 00:48:22,320
+sometimes it's called
+cipro, both are
+
+938
+00:48:22,320 --> 00:48:24,410
+quinolones. And what they
+do is they target this
+
+939
+00:48:24,410 --> 00:48:26,930
+enzyme, this prokaryotic
+enzyme called DNA
+
+940
+00:48:26,930 --> 00:48:29,150
+gyrase, which is only
+found in prokaryotes.
+
+941
+00:48:29,150 --> 00:48:31,930
+What does gyrase do?
+Well before we get to
+
+942
+00:48:31,930 --> 00:48:34,370
+that, a key thing to
+remember is that the
+
+943
+00:48:34,370 --> 00:48:37,050
+chromosomes of prokaryotes
+are circular while
+
+944
+00:48:37,050 --> 00:48:40,270
+mammalians and
+eukaryotic are linear and
+
+945
+00:48:40,270 --> 00:48:42,650
+because prokaryotic
+chromosomes are circular the
+
+946
+00:48:42,650 --> 00:48:45,950
+way they pack them
+they don't pack them as
+
+947
+00:48:45,950 --> 00:48:49,330
+chromatin instead they
+suprachol them basically
+
+948
+00:48:49,330 --> 00:48:51,710
+just take a circular
+rubber band and
+
+949
+00:48:51,710 --> 00:48:53,330
+just keep twisting it
+and twisting it that's
+
+950
+00:48:53,330 --> 00:48:55,230
+what a suprachol is and
+if you keep doing that
+
+951
+00:48:55,230 --> 00:48:58,430
+that rubber band becomes
+very tight and so
+
+952
+00:48:58,430 --> 00:49:04,050
+there's DNA modeling
+enzymes in prokaryotes
+
+953
+00:49:04,050 --> 00:49:07,210
+called topoisomerases
+that do that and you
+
+954
+00:49:07,210 --> 00:49:10,830
+also need enzymes to
+relax those superchols
+
+955
+00:49:10,830 --> 00:49:12,940
+because they're so
+tight and so you have to
+
+956
+00:49:12,940 --> 00:49:14,830
+be able to do that to
+replicate and that's
+
+957
+00:49:14,830 --> 00:49:17,370
+the job of the enzyme
+called DNA gyrase so
+
+958
+00:49:17,370 --> 00:49:21,550
+gyrase relaxes superchol
+DNA, quinolones inhibit
+
+959
+00:49:21,550 --> 00:49:23,350
+that and that's how
+we can achieve that
+
+960
+00:49:24,850 --> 00:49:27,610
+and don't forget in
+eukaryotes we have chromatin
+
+961
+00:49:27,610 --> 00:49:29,670
+right and so chromatin
+has to be remodeled
+
+962
+00:49:29,670 --> 00:49:32,410
+it cannot be in the
+heterochromatin fashion
+
+963
+00:49:32,410 --> 00:49:34,870
+when it's replicated
+it has to be loosened
+
+964
+00:49:34,870 --> 00:49:37,790
+up a little bit to
+allow access and there's
+
+965
+00:49:37,790 --> 00:49:40,630
+one more key difference
+is there's some
+
+966
+00:49:40,630 --> 00:49:43,010
+division of labor in
+different terminology in
+
+967
+00:49:43,010 --> 00:49:45,570
+the polymerases of
+eukaryotes versus prokaryotes
+
+968
+00:49:45,570 --> 00:49:48,870
+so while in prokaryotes
+only dna polymerase
+
+969
+00:49:48,870 --> 00:49:51,430
+3 does all the replication
+both in leading
+
+970
+00:49:51,430 --> 00:49:54,150
+and lagging in eukaryotes
+you have little
+
+971
+00:49:54,150 --> 00:49:56,370
+division of labor you
+have epsilon doing
+
+972
+00:49:56,370 --> 00:49:58,750
+the leading while delta
+doing the lagging and
+
+973
+00:49:58,750 --> 00:50:05,970
+here's a figure showing
+delta on the lagging
+
+974
+00:50:05,970 --> 00:50:09,230
+strand while epsilon
+is doing the leading
+
+975
+00:50:09,250 --> 00:50:12,790
+strand and instead of
+primase the enzyme here
+
+976
+00:50:12,790 --> 00:50:16,790
+is called alpha primase
+and basically it it
+
+977
+00:50:16,790 --> 00:50:19,210
+puts what's called an
+initiated DNA molecule
+
+978
+00:50:19,210 --> 00:50:22,150
+versus what happens in
+Pocat. So essentially
+
+979
+00:50:22,150 --> 00:50:25,980
+the same really
+just some key small
+
+980
+00:50:25,980 --> 00:50:28,810
+differences but you see
+the process is almost the
+
+981
+00:50:28,810 --> 00:50:31,090
+same. You have Okazaki
+fragments, you have
+
+982
+00:50:31,090 --> 00:50:33,190
+single-stranded binding
+proteins as we talked
+
+983
+00:50:33,190 --> 00:50:35,530
+about before and all
+the other components.
+
+984
+00:50:39,190 --> 00:50:41,590
+So all eukaryotic
+chromosomes as
+
+985
+00:50:41,590 --> 00:50:43,430
+we discussed are
+linear except
+
+986
+00:50:43,430 --> 00:50:45,430
+by the way for
+fungi. Fungi are
+
+987
+00:50:47,280 --> 00:50:49,030
+eukaryotic but they have
+a circular chromosome
+
+988
+00:50:49,030 --> 00:50:50,850
+fungi are interesting
+group of organisms
+
+989
+00:50:50,850 --> 00:50:53,770
+they cannot they are
+eukaryotic but they
+
+990
+00:50:53,770 --> 00:50:56,730
+have a lot of prokaryotic
+features but anyway
+
+991
+00:50:56,730 --> 00:51:00,690
+the replication of a
+linear chromosome has
+
+992
+00:51:01,370 --> 00:51:06,480
+an issue or a challenge
+so to speak because
+
+993
+00:51:06,480 --> 00:51:10,570
+the ends of the chromosomes
+have an end right
+
+994
+00:51:10,570 --> 00:51:12,790
+a beginning and an
+end whenever you put
+
+995
+00:51:12,790 --> 00:51:15,470
+that primer on the
+end and remove it this
+
+996
+00:51:15,470 --> 00:51:18,910
+actually creates a gap so
+what happens especially
+
+997
+00:51:18,910 --> 00:51:23,150
+in somatic cells as
+the cell replicates
+
+998
+00:51:23,150 --> 00:51:26,210
+over and over the dna
+starts to shorten to
+
+999
+00:51:26,210 --> 00:51:28,610
+shorten and shorten
+the newly formed dna is
+
+1000
+00:51:28,610 --> 00:51:32,930
+shorter by that primer
+length and over time
+
+1001
+00:51:32,930 --> 00:51:37,900
+this becomes the quantity
+of dna is so small
+
+1002
+00:51:37,900 --> 00:51:39,670
+that it actually affects
+the cell function
+
+1003
+00:51:39,670 --> 00:51:41,410
+and they typically
+eventually end up dying
+
+1004
+00:51:41,410 --> 00:51:44,730
+by apoptosis most
+somatic scales can divide
+
+1005
+00:51:44,730 --> 00:51:47,950
+somewhere up to 50 to
+80 times and after that
+
+1006
+00:51:47,950 --> 00:51:51,330
+they die on the other
+hand if you look at
+
+1007
+00:51:51,330 --> 00:51:53,450
+our germ cells and
+there's also some
+
+1008
+00:51:53,450 --> 00:51:56,330
+lymphocytes that can do
+this and some stem cells
+
+1009
+00:51:56,330 --> 00:51:58,590
+they have an enzyme
+called telomerase and
+
+1010
+00:51:58,590 --> 00:52:00,830
+what telomerase does is
+it comes and brings a
+
+1011
+00:52:01,110 --> 00:52:03,550
+complementary RNA
+segment that can go at
+
+1012
+00:52:03,550 --> 00:52:05,610
+the end like this
+and what that allows
+
+1013
+00:52:05,610 --> 00:52:08,750
+is synthesis of this
+primer in order for
+
+1014
+00:52:08,750 --> 00:52:11,820
+you not to shorten so
+for germ cells some
+
+1015
+00:52:11,820 --> 00:52:13,970
+lymphocytes like I
+said and stem cells.
+
+1016
+00:52:14,450 --> 00:52:17,150
+They don't lose DNA
+with every cycle
+
+1017
+00:52:17,150 --> 00:52:19,590
+of replication while
+somatic cells do.
+
+1018
+00:52:20,680 --> 00:52:22,970
+And again that's why
+even if you try to
+
+1019
+00:52:22,970 --> 00:52:24,910
+culture our somatic cells
+they can only propagate
+
+1020
+00:52:24,910 --> 00:52:27,210
+in culture like 58
+times before they die.
+
+1021
+00:52:27,330 --> 00:52:29,990
+Interestingly people
+discovered that cancer
+
+1022
+00:52:29,990 --> 00:52:32,150
+cells express
+telomerases and that's
+
+1023
+00:52:32,150 --> 00:52:35,330
+why they can replicate
+indefinitely and
+
+1024
+00:52:35,330 --> 00:52:37,310
+that's why typically
+when people do culture
+
+1025
+00:52:37,310 --> 00:52:39,870
+of our cells in lab
+they'll use cancer
+
+1026
+00:52:39,870 --> 00:52:43,930
+cell lines anyway
+when people discover
+
+1027
+00:52:43,930 --> 00:52:45,610
+this initially they
+thought or discovered
+
+1028
+00:52:45,610 --> 00:52:48,270
+the telomerase they
+thought this is the
+
+1029
+00:52:48,610 --> 00:52:51,290
+the answer to
+immortality but the
+
+1030
+00:52:51,290 --> 00:52:53,150
+problem is it just
+creates cancer
+
+1031
+00:52:54,890 --> 00:52:55,850
+cells
+
+1032
+00:52:58,590 --> 00:53:00,170
+In every recording,
+you're going to
+
+1033
+00:53:00,170 --> 00:53:01,870
+see a summary slide
+basically just
+
+1034
+00:53:01,870 --> 00:53:03,070
+kind of reiterating
+what we talked
+
+1035
+00:53:03,070 --> 00:53:04,870
+about. We've
+discussed the brief
+
+1036
+00:53:04,870 --> 00:53:07,130
+history of genetics
+and significance.
+
+1037
+00:53:07,130 --> 00:53:09,990
+We talked about the
+basics of how nucleic
+
+1038
+00:53:09,990 --> 00:53:12,010
+acids are structured,
+DNA and RNA.
+
+1039
+00:53:12,150 --> 00:53:14,650
+We talked about
+chromatin and structure,
+
+1040
+00:53:14,650 --> 00:53:17,110
+how we modify it,
+histones and different
+
+1041
+00:53:17,110 --> 00:53:19,070
+aspects of chromatin.
+And we discussed
+
+1042
+00:53:19,070 --> 00:53:23,150
+DNA replication and
+compare and contrast
+
+1043
+00:53:23,150 --> 00:53:25,430
+it in prokaryotes
+versus eukaryotes.

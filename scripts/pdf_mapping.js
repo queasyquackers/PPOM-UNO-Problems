@@ -261,7 +261,12 @@ const PDF_MAPPING = {
     "L95": "pdfs/Lecture #95. J. Goldberg (PPT).pdf",
     "9-Special Issues in Psychiatry (L95)": "pdfs/Lecture #95. J. Goldberg (PPT).pdf",
     "L96": "pdfs/Lecture # 96. T. Chan, D.O. (PPT).pdf",
-    "9-Adolescent Wellness (L96)": "pdfs/Lecture # 96. T. Chan, D.O. (PPT).pdf"
+    "9-Adolescent Wellness (L96)": "pdfs/Lecture # 96. T. Chan, D.O. (PPT).pdf",
+    "Review-Lecture 80 (Beatty)": "pdfs/Lecture # 80. B. Beatty, Ph.D. (PPT).pdf",
+    "Review-Lecture 73 (Handout)": "pdfs/Lecture #73. M. Plummer, M.D. (HANDOUT FOR NEOCNSPNS).pdf",
+    "Review-Lecture 35 (Slieman)": "pdfs/Lecture # 35. T. Slieman, Ph.D. (PPT).pdf",
+    "Review-Lecture 92 (Slieman)": "pdfs/Lecture # 92. T. Slieman, Ph.D. (PPT).pdf",
+    "Review-Lecture 138 (Grubisic)": "pdfs/Lecture # 138. V. Grubisic, M.D., Ph.D. (PPT).pdf"
 };
 
 // Expose to global scope
