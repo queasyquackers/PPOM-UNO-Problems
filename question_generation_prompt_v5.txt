@@ -24,15 +24,25 @@ You MUST write questions that mimic the length and detail of actual board exams.
     - **Diagnostic Data:** Labs, imaging, OMM findings (if applicable).
 - **Length:** Vignettes should be **4-8 sentences** on average for Board Style questions.
 
-**CRITICAL - Question Mix Strategy (75/25 Split):**
-To ensure a high-yield exam that balances depth with breadth, you MUST follow this distribution:
-1.  **Type A - Full Clinical Vignette (75%):** 4-8 sentences. Full demographics, HPI, Vitals, Physical Exam findings. used for 2nd/3rd order diagnosis and management.
-2.  **Type B - Focused Application Check (25%):** 2-3 sentences. Shorter clinical context or direct anatomy/physiology application. MUST still be application-based (e.g., "A patient with X..."), NOT simple definition recall.
+**CRITICAL - Question Mix Strategy (50/50 Split & Ordered):**
+To ensure a high-yield exam that balances depth with breadth, you MUST follow this specific order and distribution for a total of **30 questions**:
+
+1.  **Block 1: First-Order High-Yield (Questions 1-15):**
+    - **Focus:** Well-made, complex but first-order questions.
+    - **Content:** Focus on core facts, mechanisms, and high-yield material by cross-referencing the transcript and PDF slides.
+    - **Style:** Can use shorter clinical contexts or direct application of physiology/anatomy concepts explaining "how" or "why" a single mechanism works.
+    - **Goal:** Comprehensive check of foundational knowledge mentioned by the lecturer.
+
+2.  **Block 2: 2nd to 3rd Order Application (Questions 16-30):**
+    - **Focus:** Application, diagnosis, and management.
+    - **Content:** Full clinical vignettes (4-8 sentences).
+    - **Style:** Requires synthesizing multiple data points. Focus on "Next best step", "Mechanism of the primary symptom in this patient", or "Likely complication of the first-line treatment".
+    - **Goal:** Test the student's ability to apply lecture concepts to complex clinical scenarios.
 
 **CRITICAL - Consistency & Interleaving:**
-- You **MUST** interleave these types (e.g., A, B, A, B...).
-- **DO NOT** front-load the vignettes and let the quality drop at the end.
-- The 35th question must be as high-quality as the 1st.
+- You **MUST** follow the ordered sequence: 1-15 (First-Order High Yield) then 16-30 (2nd/3rd Order Application).
+- **DO NOT** let the quality drop at the end.
+- The 30th question must be as high-quality as the 1st.
 - **Osteopathic Connection:** Continue to include structural exam findings in both types where relevant.
 
 **Examples of Board Style Detail:**
@@ -56,7 +66,7 @@ For the **CORRECT** answer choice:
     - **Requirement:** Ensure all answer choices are of similar length and complexity.
     - **Constraint:** In at least 75% of questions, the correct answer **MUST NOT** be the longest option. intentionally make a distractor longer.
 - **Randomize Correct Answer Position:** The correct answer must be randomly distributed among options A, B, C, D, E.
-    - **Uniform Distribution:** Over the course of 35 questions, there should be an roughly equal number of A, B, C, D, and E correct answers (~7 of each).
+    - **Uniform Distribution:** Over the course of 30 questions, there should be an roughly equal number of A, B, C, D, and E correct answers (~6 of each).
     - **Avoid Pattern:** Do NOT place the correct answer in the same position (e.g., always "C") for multiple consecutive questions.
 - **Advanced Distractor Engineering (TRICKY & HIGH-YIELD):**
     - **Homogeneity is Key:** All answer choices must be homogeneous in length, grammatical structure, and category.

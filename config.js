@@ -114,10 +114,6 @@ const testsToLoad = [
     { name: "9-Adolescent Wellness (L96)", data: window.Test_L96 },
     { name: "9-Week 6-9 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_9 },
 
-    // --- Review Lectures ---
-    { name: "Review-Lecture 80 (Beatty)", data: window.Test_L80_Beatty },
-    { name: "Review-Lecture 73 (Handout)", data: window.Test_L73_Handout },
-    { name: "Review-Lecture 35 (Slieman)", data: window.Test_L35_Slieman },
-    { name: "Review-Lecture 92 (Slieman)", data: window.Test_L92_Slieman },
-    { name: "Review-Lecture 138 (Grubisic)", data: window.Test_L138_Grubisic }
+    // --- Week 12 ---
+    { name: "12-CNS Viral Infections (L98)", data: window.Test_L98 }
 ];
