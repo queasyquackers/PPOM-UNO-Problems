@@ -115,5 +115,8 @@ const testsToLoad = [
     { name: "9-Week 6-9 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk6_9 },
 
     // --- Week 12 ---
-    { name: "12-CNS Viral Infections (L98)", data: window.Test_L98 }
+    { name: "12-CNS Viral Infections (L98)", data: window.Test_L98 },
+    { name: "12-CNS Bacterial Infections (L99)", data: window.Test_L99 },
+    { name: "12-CNS Fungal & Parasitic Infections (L100)", data: window.Test_L100 },
+    { name: "12-Pharm: Antiherpes Antiviral Agents (L101)", data: window.Test_L101 }
 ];
