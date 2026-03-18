@@ -1,0 +1,1189 @@
+
+=== PAGE 1 ===
+Pathology of Skeletal Muscle
+Principles and Practice of Osteopathic Medicine I
+William Zaloga, D.O.
+Department of Clinical Specialties
+wzaloga@nyit.edu 
+
+=== PAGE 2 ===
+Session Objectives
+•
+1. Brief review of normal muscle and, inflammatory and non-inflammatory 
+muscle reactions and disorders such as degeneration, atrophy, etc. 
+•
+2. Describe, discuss, and compare the pathology/pathogenesis including 
+etiology, morphology, and clinicopathological manifestations of Spinal 
+Muscle Atrophy (Werdnig-Hoffman) disease, Muscular Dystrophies, and 
+Myotonic dystrophy
+•
+3. Describe and discuss the pathology/pathogenesis including etiology, 
+morphology, and clinicopathological manifestations of malignant 
+hyperthermia (ion-channel myopathy), congenital myopathies, disorders 
+of lipid/glycogen metabolism and mitochondrial myopathies.
+•
+4. Describe, discuss and compare the pathology/pathogenesis including 
+etiology, morphology, and clinicopathological manifestations of the major 
+inflammatory myopathies which include dermatomyositis, polymyositis, 
+and inclusion body myositis.
+•
+5. Describe and discuss the pathology/pathogenesis including etiology, 
+morphology and clinicopathological manifestations of myasthenia gravis 
+and Lambert-Eaton myasthenic syndrome
+
+=== PAGE 3 ===
+Skeletal Muscle Pathology
+• Brief review of normal skeletal muscle
+• Muscle reactions/injury
+• Inherited Diseases of Skeletal Muscle
+• Spinal muscular atrophy (Werdnig-Hoffman disease)
+• Muscular Dystrophy (Duchenne and Becker)
+• Myotonic dystrophy
+• Malignant hyperthermia (Ion channel myopathy)
+• Congenital myopathies
+• Diseases of Glycogen/Lipid Metabolism
+• Mitochondrial myopathies
+• Inflammatory myopathies (polymyositis, dermatomyositis, 
+inclusion body myositis)
+• Myasthenia Gravis and Lambert-Eaton Syndrome
+• Miscellaneous myopathies 
+
+=== PAGE 4 ===
+Normal Muscle Structure
+• Sarcomere (z line to z line)
+– I band (actin filament alone)
+– A band (myosin and actin filament overlap area)
+– H band (myosin filament alone)
+– M line (attachment point of thick filaments)
+• Types of Myofibers
+– Type 1: example, soleus/paraspinal muscles
+•
+Slow, red fibers with high levels of mitochondria
+•
+Sustained contractions through oxidative phosphorylation
+•
+Utilized in endurance training
+– Type 2: example, triceps muscle
+•
+Fast, white fibers with low levels of mitochondria
+•
+Quickly fatigue due to anaerobic glycolysis
+•
+Utilized in weight/resistance training or sprinting
+First Aid, 2020
+Lippincott’s Illustrated Reviews Physiology, 1st ed., 2013, Ch. 12 
+
+=== PAGE 5 ===
+Normal 
+Normal: fibers of adjacent motor units overlap, intermingle → checkerboard pattern
+using nicotinamide adenine dinucleotide tetrazolium reductase (NADH-TR) stain of a snap-frozen tissue sample/flash-
+frozen, samples are lowered to below -70°C very rapidly using dry ice or liquid nitrogen (intensity shows proportional 
+number of mitochondria and NADH activity, type I oxidative fibers (dark, dense purple appearance), type II nonoxidative 
+fibers (light, scattered purple speckles))
+Images: Left: First Aid, 2020, Right: https://www.pathologyoutlines.com/topic/NADH.html
+First Aid, 13th ed. 2020
+
+=== PAGE 6 ===
+Cross section (left): skeletal muscle cells appear as large cells with peripheral 
+nuclei 
+Longitudinal section (right): striations (numerous sarcomeres) identify skeletal 
+muscle
+http://medcell.org/tbl/structure_and_function_of_muscle_and_nerves/reading.php
+
+=== PAGE 7 ===
+Muscle Contraction
+(1) Action potential opens voltage-
+gated calcium channels on the 
+presynaptic membrane
+(2) Acetylcholine (ACh) is released 
+and bind to the ACh receptors on 
+the postsynaptic membrane 
+causing
+(3) Motor end plate depolarization,
+T-tubules connect neighboring 
+muscle cells to coordinate 
+contraction
+(4) Depolarization opens the 
+dihydropyridine and ryanodine 
+receptors that allow for calcium 
+release from the sarcoplasmic 
+reticulum
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+
+=== PAGE 8 ===
+(5) Calcium binds to troponin to 
+shift tropomyosin and 
+(6) expose the myosin-binding 
+site on the actin filament
+(7) Myosin head binds to actin to 
+initiate the power stroke
+Muscle shortening occurs by 
+shortening the H and I bands 
+between the Z lines (A band 
+always stays the same length)
+(8) ATP binding releases the 
+myosin from actin filaments, 
+(9) returning to the cocked 
+position
+(10) Calcium is resequestered 
+into the sarcoplasmic reticulum
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+Muscle Contraction
+
+=== PAGE 9 ===
+Myogenic Injury
+•
+Segmental Myofiber Degeneration and Regeneration
+– Occurs when part of a myofiber undergoes necrosis
+– Degeneration
+• Creatine kinase released into blood from damaged cells
+• Myophagocytosis occurs (macrophages remove damaged components of 
+the myofiber)
+– Regeneration
+• Begins with fusion of an activated satellite cell to the damaged myofiber
+• Regenerated myofibers stain basophilic due to high levels of RNA
+• In chronic disease, complete regeneration is not possible due to the 
+disease process outpacing regeneration
+•
+Myofiber hypertrophy is typically a physiologic response to exercise but can be 
+associated with a disease processes
+•
+Cytoplasmic inclusions include vacuoles, protein aggregates, clustered organelles
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+9
+
+=== PAGE 10 ===
+Neurogenic Injuries
+•
+Disruption of innervation of a 
+muscle that causes muscle 
+dysfunction (usually occurs as 
+grouped atrophy, E)
+•
+Mechanism: innervating motor 
+neuron determines fiber type
+–
+Denervation causes atrophy of 
+those fibers as a group 
+(flattened, angular shape)
+–
+Reinnervation will normalize the 
+shape but may change the fiber 
+type; axons belonging to 
+unaffected nearby motor unit 
+extend sprouts to reinnervate 
+myocytes; newly reinnervated 
+fibers become fiber type of that 
+motor unit: loss of 
+checkerboard pattern, D 
+(histologically motor units 
+appear as groups of myofibers 
+of the same histochemical type 
+(fiber type grouping, F))
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+10
+
+=== PAGE 11 ===
+Neurogenic vs myopathic injury
+•
+Neurogenic atrophy of muscle
+–
+Caused by disorders that affect motor 
+neurons
+–
+Motor neuron diseases are progressive, 
+destroy anterior horn cells in spinal cord 
+and cranial nerve motor neurons
+–
+Denervation causes atrophy of those 
+fibers as a group (flattened, angular 
+shape)
+•
+Myopathic disorder
+–
+Single fiber necrosis, and regeneration 
+–
+Necrotic cells lose stain of nuclei with 
+pale cytoplasm, shrink, irregular cell 
+membrane, also cytoplasm irregular 
+stain with condensed areas
+–
+Increased variability in fiber size, 
+including hypertrophy and/or atrophy 
+–
+Regenerating myofiber show increased 
+central nucleation, more basophilic 
+initially on H&E then enlarge, 
+hyperchromatic cytoplasm, then nuclei 
+peripheral cytoplasm less 
+hyperchromatic
+Robbins and Cotran Pathologic Basis of Disease, 
+9th ed. 2014, Ch. 27
+Image: 
+https://www.slideshare.net/gliageek/pathology-of-
+skeletal-muscle-presentation
+
+=== PAGE 12 ===
+Inherited Diseases of Skeletal 
+Muscle
+• Spinal Muscular atrophy
+• Muscular Dystrophy
+• Myotonic Dystrophy
+• Malignant Hyperthermia
+• Congenital myopathies
+• Diseases of Glycogen/Lipid Metabolism
+• Mitochondrial Myopathies
+12
+
+=== PAGE 13 ===
+Spinal Muscular Atrophy: SMA I 
+•
+Disorders with childhood onset, progressive weakness
+– SMA I = Werdnig-Hoffman’s Disease; most severe
+•
+Pathogenesis: Autosomal Recessive: loss of fxn mutation in SMN1 gene (chrom 5) 
+[possible role in RNA splicing (snRNP assembly)] – causes defects in spliceosomes
+– Loss of motor neuron innervation (anterior horn cell 
+destruction/degeneration) → muscle weakness and atrophy
+– Degeneration of the anterior horns (motor neurons) of the spinal cord
+– Denervation of skeletal muscle
+•
+Clinical features –LMN signs
+– Infants: can present with generalized hypotonia (“floppy infant”)-little muscle 
+tone, presents within 4 months of birth; death usually by 2 - 3 years
+•
+Diagnostic features - biopsy
+– Histology: large areas of flattened, angulated, very atrophic myofibers
+mixed with normal/hypertrophied myofibers 
+in small groups (those that retain innervation)
+Figure 27. 13 Robbins and Cotran Pathologic Basis of Disease, 
+10th ed. 2021, Ch. 27
+First Aid 13th ed. 2020
+
+=== PAGE 14 ===
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+Muscular Dystrophies
+• Progressive muscle weakness and wasting, 
+usually beginning in early childhood 
+• Two most common: Duchenne  MD and Becker 
+MD
+• X-linked – gene located in Xp21 region, encodes 
+dystrophin
+• Duchenne - more severe, usually leads to death 
+by 20s – 30s.
+• Becker – milder phenotype, later onset of disease
+
+=== PAGE 15 ===
+Dystrophin – cytoplasmic 
+protein next to sarcolemmal 
+membrane 
+•
+Concentrates at plasma membrane 
+over Z band, forms strong link to 
+actin 
+•
+Helps connect cytoskeleton with 
+ECM (mechanical stability): 
+Dystrophin and dystrophin-associated 
+complex form interface between 
+intracellular contractile apparatus and 
+extracellular connective tissue matrix 
+and transfer of force of contraction to 
+connective tissue
+•
+Myocyte degeneration: When 
+dystrophin is absent or abnormal 
+progressive myocyte damage 
+occurs over time that exceeds 
+regenerative capacity
+Image by Lydia Kibiuk, Society for Neuroscience Nov. 2006
+
+=== PAGE 16 ===
+Duchenne Muscular Dystrophy 
+(DMD)
+• Pathogenesis: X-linked 
+recessive, frameshift 
+deletion or nonsense 
+mutation of the 
+dystrophin gene
+– Absent dystrophin protein
+– Chronic muscle damage that 
+cannot be contained by the 
+repair mechanisms
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+16
+
+=== PAGE 17 ===
+DMD Histopathology
+•
+Early disease:
+– muscle biopsies in young boys: ongoing muscle 
+damage, i.e., segmental myofiber 
+degeneration and regeneration associated 
+with admixture of atrophic myofibers
+– myophagocytosis, usually no inflammation
+– fascicular architecture still preserved
+•
+As DMD progresses: 
+– muscle tissue replaced by collagen and fat 
+cells (“fatty infiltration”, image) - causes 
+pseudohypertrophy of calves
+– remaining myofibers: prominent variation in 
+size (small atrophic fibers to large hypertrophied 
+fibers)
+– fascicular architecture distorted, abnormal
+17
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020
+
+=== PAGE 18 ===
+DMD, Gowers maneuver
+• Duchenne MD manifested by age 5 
+years  - Walking may be delayed 
+• Life expectancy 25-30 years
+• Weakness in pelvic girdle muscles, 
+extends to shoulder muscles
+• Enlargement of calf muscles associated 
+with weakness – pseudohypertrophy 
+(increase in muscle fibers due to 
+increase in fat and fibroconnective 
+tissue- as muscle atrophies)
+Drawing of a boy with Duchenne muscular dystrophy rising from the ground (the Gowers 
+maneuver). (From Gowers WR [1879] Pseudohypertrophic Muscular Paralysis. A Clinical Lecture. 
+J. and A. Churchill, London.) Maneuver used by patients with muscle weakness to arise from a 
+supine or seated position on the floor. Patients push with their hands to "climb up” their legs.
+
+=== PAGE 19 ===
+DMD
+•
+Clinical features: Usually Proximal muscle weakness and clumsiness
+– Pseudohypertrophy of the calf muscles: enlargement of the 
+muscle with associated weakness (muscles are replaced by 
+collagen and fat tissue)
+– Gower’s Sign: use of their hands to stand from a lying/sitting position
+– Later, develop joint contractures, scoliosis, worsening respiratory 
+reserve and sleep hypoventilation
+– Can develop cardiomyopathy and arrhythmias (protein is located 
+primarily in skeletal muscles and in heart, small amounts of dystrophin 
+are present in nerve cells in brain)
+– May have intellectual impairment
+– Usually increased serum creatine kinase (early stages)
+– Death may result from respiratory insufficiency by the 20s – 30s
+•
+Treatment: supportive; New efforts to manipulate RNA splicing, promotion of 
+ribosomal “read-through” of stop codons
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+19
+
+=== PAGE 20 ===
+Becker Muscular Dystrophy
+• Pathogenesis: X-linked recessive, loss-of-function 
+mutation of the dystrophin gene
+– Results in a truncated, partially functional dystrophin protein
+• Presents in adolescence or adulthood
+• Clinical features:
+– Similar to Duchenne but less severe and slower progression
+– Presents later
+– May have normal life expectancy
+• Treatment: supportive care
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+20
+
+=== PAGE 21 ===
+Question
+•
+A 4 year old boy is examined by a physician because his parents 
+complain he falls a lot, cannot jump, and tires easily. PE shows 
+weakness in the pelvic and shoulder girdles and enlargement of the 
+calf muscles. The serum creatine kinase is elevated. A biopsy of calf 
+muscle is performed and shows marked variation in size and shape 
+of muscle fibers. There are also foci of muscle fiber necrosis, 
+myophagocytosis, regenerating fibers, and fibrosis. What would 
+most likely may be the eventual cause of death in this patient?
+•
+A. Ruptured brain aneurysm
+•
+B. Ruptured aortic aneurysm
+•
+C. Respiratory insufficiency
+•
+D. Liver failure
+•
+E. Kidney failure
+
+=== PAGE 22 ===
+Answer
+•
+A 4 year old boy is examined by a physician because his parents complain 
+he falls a lot, cannot jump, and tires easily. PE shows weakness in the 
+pelvic and shoulder girdles and enlargement of the calf muscles. The 
+serum creatine kinase is elevated. A biopsy of calf muscle is performed and 
+shows marked variation in size and shape of muscle fibers. There are also 
+foci of muscle fiber necrosis, myophagocytosis, regenerating fibers, and 
+fibrosis. What would most likely may be the eventual cause of death in this 
+patient?
+•
+A. Ruptured brain aneurysm
+•
+B. Ruptured aortic aneurysm
+•
+C. Respiratory insufficiency (this and cardiomyopathy most 
+commonly)
+•
+D. Liver failure
+•
+E. Kidney failure
+
+=== PAGE 23 ===
+Myotonic Dystrophy
+•
+Pathogenesis: Autosomal dominant, CTG trinucleotide repeat
+•
+Age of onset 20s-40 years
+•
+Length of expansion correlates with disease severity (similar to Huntington 
+disease)
+•
+Triplet expansion disrupts normal splicing 
+– Repeat is expanded in the DMPK gene that encodes for myotonin 
+protein kinase
+– Disruption of RNA splicing causes deficiency of CLC1 (chloride 
+channel) normally involved with muscle relaxation: leading to 
+myotonia
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2020, Ch. 27
+23
+
+=== PAGE 24 ===
+Myotonic Dystrophy
+•
+Myotonia -  abnormally slow relaxation of muscles; prolonged 
+contractions (https://youtu.be/Wg1SVoa-8JE) with
+– Progressive muscle wasting and weakness (type 1 fiber atrophy)
+– Grip myotonia (cannot relax, sustained grip) 
+– Facial muscle weakness
+– Frontal balding
+– Cataracts
+– Testicular atrophy
+– Glucose intolerance 
+– Conduction defects in heart (arrhythmias) and cardiomyopathy
+– Increased serum CPK (like muscular dystrophy)
+24
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 25 ===
+Ion Channel Myopathies
+• These skeletal muscle channelopathies are 
+inherited mutations affecting function of ion 
+channel proteins
+– Some increase excitability (hypertonia), some 
+decreased excitability (hypotonia)
+– Some are subclassified based on K levels (examples, 
+hyperkalemic, or hypokalemic, or normokalemic 
+periodic paralysis)
+– Depending on affected ion channel, clinical 
+manifestations may include: 
+• epilepsy, migraines
+• movement disorders with cerebellar dysfunction
+• peripheral nerve disease, muscle disease
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+
+=== PAGE 26 ===
+Ion Channel Myopathies cont.
+• Some examples of mutations assoc. with muscle 
+dysfunction:
+• CACNA1S protein is subunit of muscle calcium channel and 
+a missense mutation most common cause of hypokalemic 
+paralysis
+• CLC1 mutation affects chloride channel, associated with 
+myotonia congenita, and CLC1 expression decreased in 
+myotonic dystrophy
+• Mutations RYR1 → disrupt function of ryanodine 
+receptor (regulates calcium release from the 
+sarcoplasmic reticulum) and are involved in congenital 
+myopathy (central core disease) and malignant 
+hyperthermia 
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+
+=== PAGE 27 ===
+Malignant Hyperthermia
+• Rare but life-threatening skeletal muscle channelopathies 
+Pathogenesis: Autosomal dominant: Mutation in the 
+voltage-gated RYR1 gene affects ryanodine-r (involved with 
+controlling release of Ca 2+ from sarcoplasmic reticulum)
+– Increased calcium release from sarcoplasmic reticulum 
+following administration of halogenated inhaled 
+anesthetics and succinylcholine (temporary paralysis, 
+rapid onset and short duration of muscle relaxation)
+– Mechanism: Interaction of anesthetic and mutated 
+receptor causes incr. calcium efflux which leads to 
+tetany and heat production
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+27
+
+=== PAGE 28 ===
+Malignant Hyperthermia clinical features
+• Hypermetabolic state
+– Hyperthermia and later, hyperpyrexia (temp > 106 degrees 
+F)
+– Severe muscle contractions (tetany)
+– Tachycardia/Tachypnea
+• May occur in predisposed patients with hereditary muscle 
+disease, inc. congenital myopathies, dystrophies, and 
+metabolic myopathies
+• Treatment: Dantrolene (ryanodine receptor antagonist)
+28
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020
+
+=== PAGE 29 ===
+Question
+• A 25 yo male is in the OR for appendectomy. A few 
+minutes after receiving succinylcholine, his vitals appear 
+as follows: BP 150/100, HR 120 BPM, RR 22, Temp 
+102.8 F. A mutation in which of the following is likely 
+responsible for this patient’s presentation?
+• A. SMN1
+• B. RYR1
+• C. DMPK 
+• D. BCL-2
+
+=== PAGE 30 ===
+Answer
+• A 25 yo male is in the OR for appendectomy. A few 
+minutes after receiving succinylcholine, his vitals appear 
+as follows: BP 150/100, HR 120 BPM, RR 22, Temp 
+102.8 F. A mutation in which of the following is likely 
+responsible for this patient’s presentation?
+• A. SMN1
+• B. RYR1
+• C. DMPK 
+• D. BCL-2
+
+=== PAGE 31 ===
+Congenital Myopathies
+Central Core Disease
+•
+Pathogenesis: Autosomal Dominant
+–
+Mutation of the ryanodine receptor (RYR1) gene
+•
+Clinical features: Usually hypotonia at birth
+–
+Associated with skeletal abnormalities 
+(scoliosis), may develop malignant 
+hyperthermia
+•
+Diagnosis:
+–
+Biopsy: central/eccentric zones of disrupted 
+sarcomere arrangement (areas of reduced 
+oxidative and glycolytic enzymatic activity)
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+31
+Nemaline Myopathy
+•
+Pathogenesis: Autosomal dominant or 
+recessive, mutations involving thin filament of 
+sarcomere and cause contractile dysfunction, 
+leading to muscle weakness 
+•
+Clinical features: Childhood weakness
+–
+May present at birth as “floppy” baby
+•
+Diagnosis:
+–
+Biopsy: Nemaline (thread-like) rods 
+(aggregates of spindle-shaped particles 
+in type 1 fibers)
+NADH-TR stain, transverse section from the rectus femoris
+Jungbluth H. Central core disease. Orphanet Journal of Rare Diseases. 2, 25. 
+2007. doi:10.1186/1750-1172-2-25
+H&Estain 
+https://www.pathologyoutlines.com/imgau/ne
+malinemyopathyHiser01.jpg
+
+=== PAGE 32 ===
+Disorders of Lipid or Glycogen Metabolism
+•
+General patterns of muscle dysfunction:
+1. Symptomatic with exercise/fasting which range from muscle cramping to 
+rhabdomyolysis
+2. OR slowly progressive muscle damage, no episodic symptoms
+ 
+•
+Examples (more details follow)
+•
+Carnitine palmitoyltransferase II deficiency
+– Defect in free fatty acid transport into mitochondria
+•
+Myophosphorylase deficiency (McArdle disease)
+– Episodic damage, eg. myoglobinuria 
+•
+Acid maltase deficiency (Pompe disease)
+– Impaired lysosomal conversion glycogen to glucose 
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+First Aid 13th ed. 2020
+
+=== PAGE 33 ===
+Carnitine Palmitoyltransferase II Deficiency
+• Most common disorder of lipid metabolism
+• Pathogenesis: Enzyme deficiency
+– Impaired transport of free fatty acids into the mitochondria
+– Toxic build up of fatty acids in the cytosol
+• Clinical features: Episodic muscle damage with exercise or 
+fasting
+– Hypotonia
+– Hypoketotic hypoglycemia
+– Dilated cardiomyopathy
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+33
+
+=== PAGE 34 ===
+Diseases of Glycogen Metabolism
+McArdle Disease
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+34
+•
+Pathogenesis: Myophosphorylase (skeletal muscle glycogen phosphorylase) 
+deficiency (type V)
+•
+Inability to break down glycogen in muscle
+•
+Clinical features: Episodic muscle damage with exercise
+•
+Painful muscle cramps
+•
+Myoglobinuria
+•
+Arrhythmia (due to electrolyte imbalances)
+•
+Normal blood glucose levels (liver is unaffected)
+•
+Diagnosis: Venous lactate-ammonia test, during exercise, venous lactate curve is 
+flat with a normal rise in ammonia levels
+•
+Treatment: Limit carbohydrates rich diet and careful exercise routine
+
+=== PAGE 35 ===
+Diseases of Glycogen Metabolism
+•
+Pathogenesis: Acid maltase (lysosomal acid ⍺-1,4-glucosidase) 
+deficiency (type II)
+–
+Impaired glycogen breakdown within the lysosome
+•
+Clinical features: Heart, liver and muscle can be affected
+–
+Cardiomegaly (Hypertrophic cardiomyopathy)
+–
+Hypotonia (severe deficiency presents in infancy)
+–
+Exercise intolerance
+–
+Mild deficiency affects respiratory and truncal muscles
+–
+Early death is seen in patients with systemic symptoms
+•
+Treatment: Enzyme replacement therapy works for some patients
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+35
+Pompe Disease
+
+=== PAGE 36 ===
+Mitochondrial Myopathies
+•
+Rare disorders; may involve many organ systems
+•
+Pathogenesis: Involves mutations of mitochondrial DNA with maternal inheritance because 
+only oocyte contributes mitochondria to embryo. Disease is thought to be due to mutations 
+that impair ATP generation in mitochondria
+–
+All children of an affected female may show signs of disease due to maternal 
+transmission (affected males can’t transmit to their children), has varying degrees of 
+expressivity 
+–
+Tend to affect skeletal muscles/other tissues with high ATP requirements (cardiac 
+muscle cells-dysrhythmia, neurons-seizures), drug therapy for MERRF syndrome 
+includes metabolic drugs involved with or improve cellular respiration (ex. metformin, 
+creatine, and L-carnitine), clonazepam for myoclonus and anticonvulsants
+–
+Skeletal muscle involvement causes weakness, increase in serum CK, or rhabdomyolysis 
+–
+Weakness in certain regions is variable, but involvement of extraocular eye muscles 
+common
+–
+Chronic progressive external ophthalmoplegia (inability to move eyes, eyelids and 
+eyebrows – blurred, double vision) is common feature of mitochondrial disorders
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+36
+
+=== PAGE 37 ===
+Mitochondrial Myopathies 
+•
+Myoclonic epilepsy with ragged red fibers (MERRF)
+–
+Multisystem mitochondrial diseases characterized by predominantly 
+intermittent muscle twitches aggravated by action (progressive 
+myoclonus, hiccups are a form of myoclonus, also the sudden jerks, or 
+"sleep starts," you may feel just before falling asleep - these forms of 
+myoclonus occur in healthy people and rarely present a problem), 
+weakness (myopathy – limb girdle type), and progressive stiffness 
+(spasticity), diagnosis/biopsy: “ragged red fibers” due to accumulation 
+of affected mitochondria in the subsarcolemmal area of myofibers, 
+increased serum creatine kinase
+–
+Most also experience other types of seizures in addition to myoclonus, 
+may be of generalized tonic-clonic, atonic or absence types
+–
+Modified Gomori trichrome stain allows visualization of the 
+mitochondrial activity and collection by staining red (ragged red fibers), 
+Pathogenic variant in mitochondrial gene MT-TK is present in more than 
+80% of affected
+•
+Leber hereditary optic neuropathy
+–
+Predominantly degeneration of retinal ganglion cells and their axons 
+leads to an acute or subacute loss of central vision; it primarily affects 
+young adult males; different mitochondrial mutation from MERRF
+–
+Commonly present with chronic progressive external ophthalmoplegia 
+(weakness of the extraocular eye muscles)
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+First Aid 13th ed. 2020
+Mitochondrial clusters 
+appear as red deposits 
+in cryostat sections of 
+muscle stained with 
+modified Gomori 
+trichrome
+https://neuropathology-
+web.org/chapter10/im
+ages10/10-rrfl.jpg
+
+=== PAGE 38 ===
+Inflammatory Myopathies
+• Immune mediated – inflammation/injury 
+(noninfectious) of skeletal muscles (muscle 
+weakness and myalgia major symptoms), 
+examples
+– Dermatomyositis
+– Polymyositis
+– Inclusion Body Myositis
+38
+
+=== PAGE 39 ===
+Dermatomyositis
+•
+Rare inflammation of skin and skeletal muscle; Immune-mediated small 
+blood vessel injury leads to muscle damage, peak age onset 50-60 years, 
+more common in females, gradually worsens over weeks to months, can 
+last several years or be lifelong
+– Classic skin rash: Lilac or heliotrope (reddish-purple rash on or around 
+the eyelids) with periorbital edema
+– May have Gottron's lesions/papules (scaling erythematous eruption or 
+dusky red patches on knuckles, elbows, or knees).
+• Proximal muscles weak first; symmetric, slow onset, myalgias
+• Dysphagia may develop if oropharyngeal, esophageal muscles 
+involved
+– Extramuscular involvement includes interstitial lung disease (10%) 
+vasculitis and myocarditis
+– 15 - 24% of adults with dermatomyositis may have  malignancy (Lung, 
+breast, ovary, colorectal, cervical, bladder, nasopharyngeal, esophageal, 
+kidney, lymphatic, hematopoietic)
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 40 ===
+Dermatomyositis 
+• Pathogenesis: Autoimmune disease characterized by small 
+vessel damage, capillaries attacked by Abs and complement 
+causing foci of ischemic myocyte necrosis
+• Although the cause of dermatomyositis is unknown, several 
+genetic, immunologic, and environmental factors are implicated, 
+having another autoimmune disease is a risk factor 
+• Anti-Mi2 Abs (anti-helicase) associated with Gottron papules 
+and heliotropic rash
+• Anti-Jo1 Abs (anti-histidyl t-RNA synthetase): associated with 
+interstitial lung disease, non-erosive arthritis and 
+“mechanic’s hand” rash
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 41 ===
+Dermatomyositis cont.
+         Heliotrope Rash
+Figure 27.8 Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+https://medlineplus.gov/ency/imagepages/1522.htm
+Ricceri, F., & Prignano, F. (2013). Gottron papules: a pathognomonic sign of dermatomyositis. CMAJ : Canadian 
+Medical Association journal = journal de l'Association medicale canadienne, 185(2), 148. 
+https://doi.org/10.1503/cmaj.111791
+https://image2.slideserve.com/5103882/mechanic-s-hands-l.jpg
+
+=== PAGE 42 ===
+Dermatomyositis
+•
+Diagnosis:
+– Biopsy: Deposition of the 
+complement MAC (C5b-9) within 
+the capillary beds
+– Histology: Perifascicular 
+inflammation/atrophy of 
+myofibers and loss of vessels 
+around muscle fibers, CD4+ T-
+helper cell infiltration (perimysial)
+– Autoantibody detection
+– Increased creatine kinase on labs 
+(reflects muscle damage)
+•
+Treatment: immunosuppressive agents
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+42
+https://www.wikidoc.org/index.php/Polymyositis_and_dermatomyositis_patho
+physiology
+https://www.medicinehack.com/2016/12/endomysium-
+perimysium-and-epimysium.html
+
+=== PAGE 43 ===
+Polymyositis
+•
+Symmetric proximal muscle involvement similar to dermatomyositis but no skin 
+involvement, occurs mainly in adults, (peak age onset 30-60 years) and may have 
+inflammatory involvement of heart, lungs, and blood vessels, women are affected more often 
+than men, can last several years or be lifelong
+•
+Pathogenesis: Immune-mediated (CD8+ cytotoxic T cells) tissue damage, there is no 
+vascular injury (in contrast with dermatomyositis)
+•
+Polymyositis is not caused by a genetic mutation, but some genes may influence the risk of 
+developing polymyositis, having another autoimmune disease is a risk factor, exact cause 
+unknown, but  has characteristics of autoimmune disorders, which occur when the immune 
+system mistakenly attacks healthy body tissues
+•
+Histology: Endomysial inflammation (predominately CD8+ T cells) 
+-
+Necrotic and regenerating muscle fibers scattered throughout fascicle
+-
+No perifascicular atrophy (seen in dermatomyositis); no evidence of vascular damage
+-
+Clinical Findings: myalgia + symmetric proximal muscle weakness
+-
+Labs: increased serum creatine kinase
+-
+Treatment: immunosuppressive agents
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 44 ===
+44
+Dermatomyositis: Antibody-driven autoimmune disease characterized by perimysial 
+inflammation and atrophy, resulting in muscle tissue damage; associated with CD4 and 
+complement activation
+Polymyositis: T-cell driven autoimmune disease characterized by endomysial inflammation; 
+associated with CD8
+https://www.ncbi.nlm.nih.gov/pubmed/
+https://yalehistology.s3.us-east-
+2.amazonaws.com/muscle/skeletal_muscle_
+endomysium.jpg
+
+=== PAGE 45 ===
+Inclusion-Body Myositis
+• Most common inflammatory myopathy of patients age > 
+65yo
+• Pathogenesis: Unclear if inflammatory or degenerative process
+• Clinical Findings: 
+– Begins with distal muscle involvement, may be 
+asymmetric (v. dermatomyositis and polymyositis)
+– Slowly progressive muscle weakness most severe in 
+quadriceps and distal upper extremities, may have 
+dysphagia 
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 46 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed 2020
+Diagnosis/Labs: 
+•
+Moderately increased creatine kinase 
+levels
+•
+Can be cytosolic 5’-nucleotidase 1A 
+(cN1A) antibody positive (50% of 
+patients)
+•
+Histology: “rimmed vacuoles” 
+(autophagic vacuoles containing 
+degrading organelles and other 
+cytoplasmic contents) in myofibers
+•
+CD8+ T cell endomysial infiltration 
+similar to polymyositis
+Treatment: Immunosuppressive agents or 
+IVIG (not as effective as in other 
+inflammatory myopathies)
+Inclusion Body Myositis
+46
+Gomori trichrome stain
+
+=== PAGE 47 ===
+INFLAMMATORY MYOPATHIES
+• DX based on 
+– clinical symptoms
+– EMG (mixed neurogenic and myopathic 
+findings suggestive of inflammatory 
+myopathy)
+– increased CK (serum)
+– biopsy
+Robbins and Cotran Pathologic Basis of Disease, 9th ed. 2014, Ch. 27
+
+=== PAGE 48 ===
+Question
+A 35-year-old female with no 
+past medical history presents 
+for her yearly physical. She 
+mentions difficulty with 
+washing her hair and 
+ascending stairs. This has 
+been happening for 
+approximately 6 months. She 
+has no other complaints. Her 
+physician orders a muscle 
+biopsy which shows 
+endomysial inflammation and 
+lymphocytes. What is the 
+diagnosis?
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+https://emedicine.medscape.com/article/335925-workup
+48
+A.
+Dermatomyositis
+B.
+Inclusion Body Myositis
+C. Myasthenia Gravis
+D. Grave’s Disease
+E.
+Polymyositis
+
+=== PAGE 49 ===
+Answer
+A 35-year-old female with no 
+past medical history presents 
+for her yearly physical. She 
+mentions difficulty with 
+washing her hair and 
+ascending stairs. This has 
+been happening for 
+approximately 6 months. She 
+has no other complaints. Her 
+physician orders a muscle 
+biopsy which shows 
+endomysial inflammation 
+and lymphocytes. What is the 
+diagnosis?
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+https://emedicine.medscape.com/article/335925-workup
+49
+A.
+Dermatomyositis
+B.
+Inclusion Body Myositis
+C. Myasthenia Gravis
+D. Grave’s Disease
+E.
+Polymyositis
+
+=== PAGE 50 ===
+Diseases of the Neuromuscular 
+Junction (NMJ)
+• Myasthenia 
+Gravis
+• Lambert Eaton 
+Myasthenic 
+Syndrome
+First Aid, 2021
+50
+
+=== PAGE 51 ===
+Myasthenia Gravis 
+•
+Autoimmune - immune mediated loss of acetycholine 
+receptors 
+•
+Pathogenesis: Auto-abs against post-synaptic 
+acetylcholine receptors (~85%), against muscle 
+acetylcholine receptor (AChR-MG) - leads to destruction of 
+receptors and limited response of myofibers to Ach
+•
+Pathologic mechanisms
+– complement fixation-mediated postsynaptic membrane 
+damage
+– postsynaptic membranes show morphologic alterations, 
+depletion of Ach-r leads to limited myofiber response to 
+Ach
+ 
+Robbins and Cotran Pathologic Basis of Disease 9th ed 2014 Ch 27
+First Aid, 2021
+
+=== PAGE 52 ===
+Myasthenia Gravis
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+52
+•
+Clinical features: 
+– Bimodal distribution; young females (20-40 years), older males (50-70 years), 
+more commonly affects women (2:1), if arising before age 40 years
+– Painless weakness, fatigue—worsens with repeated exertion
+– Weakness in proximal muscles, diaphragm, neck extension
+– Diplopia, ptosis
+– Dysphagia for both solids and liquids
+– Reflexes spared
+– Thymic abnormalities associated (thymoma, thymic hyperplasia)—esp in 
+younger pts (10% of patients have a thymoma, 30% of patients (usually younger) 
+have thymic hyperplasia)
+– Electrophysiologic studies show decreased muscle response with repeated 
+stimulation
+– Nerve conduction studies normal
+•
+Treatment: Acetylcholinesterase inhibitors are first line (inhibit 
+acetylcholinesterase which increases acetylcholine and reverses muscle weakness)
+– Others: plasmapheresis, immunosuppressive drugs, thymectomy (if thymoma)
+
+=== PAGE 53 ===
+Lambert Eaton Myasthenic Syndrome
+•
+Rare autoimmune disease, more common in males, onset age peaks 
+at 35 years, with a larger peak at 60 years
+•
+Pathogenesis: autoantibodies against pre-synaptic calcium 
+channels that prevents the release of Ach
+•
+Clinical features: Muscle weakness that improves with exertion
+–
+Autonomic symptoms (dry mouth, constipation, impotence)
+–
+Hyporeflexia
+–
+50% of patients have an associated malignancy 
+(neuroendocrine lung carcinoma, e.g., small cell carcinoma)
+–
+Patients may have other autoimmune diseases as well
+•
+Diagnosis: electrophysiologic studies
+–
+Repetitive stimulation increases the muscle response (opposite 
+of MG)
+•
+Treatment:
+–
+Drugs that increase the release of ACh into the synapse
+–
+Immunosuppressive agents
+First Aid, 2021
+Robbins and Cotran Pathologic Basis of Disease, 10th ed. 2021, Ch. 27
+53
+
+=== PAGE 54 ===
+Question
+•
+24 yo female presents with new onset blurry vision, worse at the end 
+of the day. Exam shows drooping of the bilateral eyelids. EMG 
+findings are significant for diminished muscle response after 
+repeated stimulation. What is the mechanism behind this patient’s 
+disease?
+•
+A. antibodies against post-synaptic Ach-r
+•
+B. antibodies against pre-synaptic Ca2+ 
+     channels
+•
+C. immune-mediated endomysial 
+     inflammation 
+•
+D. Ryanodine receptor mutation 
+      
+https://www.intechopen.com/books/electrodiagnosis-in-new-frontiers-of-clinical-research/overview-of-the-application-of-emg-
+
+=== PAGE 55 ===
+Answer
+•
+24 yo female presents with new onset blurry vision, worse at the end 
+of the day. Exam shows drooping of the bilateral eyelids. EMG 
+findings are significant for diminished muscle response after 
+repeated stimulation. What is the mechanism behind this patient’s 
+disease?
+•
+A. antibodies against post-synaptic Ach-r
+•
+B. antibodies against pre-synaptic Ca2+ 
+     channels
+•
+C. immune-mediated endomysial 
+     inflammation 
+•
+D. Ryanodine receptor mutation 
+      
+https://www.intechopen.com/books/electrodiagnosis-in-new-frontiers-of-clinical-research/overview-of-the-application-of-emg-
+
+=== PAGE 56 ===
+•
+SMA1 (Werdnig-Hoffman disease) - autosomal recessive; degeneration of anterior horns 
+(motor neurons) of spinal cord; loss-of-function mutation in SMN1 gene causes defects, 
+“floppy” baby (hypotonia)
+•
+Duchenne muscular dystrophy - X-linked recessive, frameshift deletion or nonsense 
+mutation of  dystrophin gene, absent dystrophin protein; early childhood, increased CK; 
+proximal muscle weakness and clumsiness; pseudohypertrophy of calf muscles: (“fibrofatty 
+infiltration”), Gower’s sign, cardiomyopathy, arrhythmias, intellectual impairment
+•
+Becker muscular dystrophy - X-linked recessive, loss-of-function mutation of dystrophin 
+gene results in truncated, partially functional dystrophin protein, less severe, slower 
+progression than DMD
+•
+Myotonic dystrophy -  autosomal dominant, CTG trinucleotide repeat in DMPK gene, 
+CLC1 deficiency, myotonia, muscle wasting, cataracts, frontal balding, testicular atrophy, etc.
+•
+Malignant hyperthermia - autosomal dominant with variable penetrance; mutation ryanodine 
+receptor (RYR1) gene results in increased calcium release from sarcoplasmic reticulum 
+triggered by halogenated inhaled anesthetics and succinylcholine: hypermetabolic state 
+(hyperthermia, muscle spasms, tachycardia, etc.)
+•
+Congenital myopathies- Central Core Disease (AD, mutation of RYR1 gene, early onset 
+hypotonia, skeletal abnormalities, cytoplasmic cores)/ Nemaline Myopathy (AD or AR, NEM 
+1-7 gene mutations; childhood weakness/”floppy” baby, Nemaline rods on biopsy)
+Summary Slide 1
+
+=== PAGE 57 ===
+•
+Diseases of lipid metabolism - Carnitine Palmitoyltransferase II Deficiency; 
+impaired transport of free fatty acids into mitochondria: build up of fatty acids in 
+cytosol, episodic muscle damage with exercise or fasting, hypotonia, hypoketotic 
+hypoglycemia, dilated cardiomyopathy
+•
+Diseases of glycogen metabolism: 
+•
+McArdle disease (Myophosphorylase deficiency (type V), episodic muscle 
+damage with exercise, painful muscle cramps, myoglobinuria, normal 
+glucose)
+•
+Pompe disease (acid maltase deficiency type II; impaired glycogen breakdown 
+within lysosome; cardiomegaly/hypertrophic cardiomyopathy, hypotonia, 
+exercise intolerance)
+•
+Mitochondrial myopathies -mitochondrial inheritance (maternal transmission); 
+mutations impair ATP generation in mitochondria; myopathy, lactic acidosis & CNS 
+disease; MELAS syndrome; fatigue, weakness, rhabdomyolysis, chronic progressive 
+external ophthalmoplegia, elevated CK
+Summary Slide  2
+57
+
+=== PAGE 58 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

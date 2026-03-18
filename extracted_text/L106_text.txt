@@ -1,0 +1,889 @@
+
+=== PAGE 1 ===
+Pathology of Soft Tissue
+Principles and Practice of Osteopathic Medicine I
+William Zaloga, D.O.
+Department of Clinical Specialties
+wzaloga@nyit.edu 
+
+=== PAGE 2 ===
+•
+1. Overview of soft tissue tumors and review of normal with 
+description and discussion of lipoma, liposarcoma and its 
+variants
+•
+2. Describe and discuss the morphological and pathological 
+features of fibrous proliferations and tumors such as nodular 
+fasciitis, superficial and deep fibromatoses, and 
+fibrosarcoma
+•
+3. Describe and discuss the morphological and pathological 
+features of rhabdomyosarcoma and its variants
+•
+4. Describe and discuss the morphological and pathological 
+features of synovial sarcoma
+•
+5. Describe and discuss the morphological and pathological 
+features of undifferentiated pleomorphic sarcoma
+Session Objectives
+
+=== PAGE 3 ===
+Soft tissue tumors
+•
+Overview/Introduction
+•
+Brief review of normal histology soft tissue cells
+•
+Adipocytic
+–
+Lipoma
+–
+Liposarcoma
+•
+Fibroblastic
+–
+Nodular fasciitis
+–
+Fibromatosis – Superficial and Deep
+–
+Fibrosarcoma
+•
+Skeletal muscle
+–
+Rhabdomyosarcoma  
+•
+Unknown origin
+–
+Synovial Sarcoma
+–
+Undifferentiated Pleomorphic Sarcoma
+
+=== PAGE 4 ===
+SOFT TISSUE TUMORS
+•
+Malignant soft tissue tumors incidence is less that 1% of all cancers; causes 2% of cancer 
+mortality – usually aggressive
+•
+Benign > malignant; 100 to 1  (except for skeletal muscle neoplasms)
+•
+Most occur in extremities, esp. thigh; 15% arise in children
+•
+Commonly present as a growing mass, sometimes painful, possible loss of range of motion
+•
+Most sporadic; minority associated with mutations in tumor suppressor genes associated 
+with syndromes (ex., Neurofibromatosis 1, Gardner syndrome, Li-Fraumeni, etc)
+•
+Some linked to environment – radiation, burns, toxins
+•
+Most appear to arise from pluripotent mesenchymal stem cells – acquire somatic “driver” 
+mutations
+•
+20% have simple karyotypes -  e.g., Synovial sarcoma,  Ewing sarcoma
+•
+80% have complex karyotypes – multiple chromosomal gains and losses, e.g., 
+undifferentiated pleomorphic sarcoma
+•
+Pathological classification combines morphology, IHC, and molecular diagnostics; grade and 
+stage – important prognostic indicators
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 5 ===
+Tumor
+Cytogenetic 
+Abnormality
+Gene Fusion
+Proposed Function
+Ewing sarcoma
+t(11;22)(q24;q12)
+t(21;22)(q22;q12)
+EWS–FLI1
+EWS–ERG
+Disordered protein 
+with multiple 
+functions, including 
+aberrant transcription, 
+cell cycle regulation, 
+RNA splicing, and 
+telomerase
+Extraskeletal myxoid chondrosarcoma
+t(9;22)(q22;q12)
+EWS–CHN
+Desmoplastic small round-cell tumor
+t(11;22)(p13;q12)
+EWS–WT1
+Clear-cell sarcoma
+t(12;22)(q13;q12)
+EWS–ATF1
+Liposarcoma—myxoid type
+t(12;16)(q13;p11)
+FUS–DDIT3
+Arrests adipocytic 
+differentiation
+Synovial sarcoma
+t(x;18)(p11;q11)
+SS18–SSX1
+SS18–SSX2
+SS18–SSX4
+Chimeric transcription 
+factors, interrupts cell 
+cycle control
+Rhabdomyosarcoma—alveolar type
+t(2;13)(q35;q14)
+t(1;13)(p36;q14)
+PAX3–FOXO1
+PAX7–FOXO1
+Chimeric transcription 
+factors, disrupts 
+skeletal muscle 
+differentiation
+Dermatofibrosarcoma protuberans
+t(17;22)(q22;q15)
+COLA1–PDGFB
+Promoter driven 
+overexpression of 
+PDGF-β, autocrine 
+stimulation
+Alveolar soft-part sarcoma
+t(X;17)(p11.2;q25)
+TFE3–ASPL
+Unknown
+Infantile fibrosarcoma
+t(12;15)(p13;q23)
+ETV6–NTRK3
+Chimeric tyrosine 
+kinase leads to 
+constitutively active 
+Ras/MAPK pathway
+Nodular fasciitis
+t(22;17)
+MYH9–USP6
+Increased Wnt/β-
+catenin signaling
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26, Table 26.7
+
+=== PAGE 6 ===
+Category
+Behavior
+Tumor Type
+Common Locations
+Age (years)
+Morphology
+Adipose
+Benign
+Lipoma
+Superficial extremity, trunk 40–60
+Mature adipose tissue
+Malignant
+Well-differentiated 
+liposarcoma
+Deep extremity, 
+retroperitoneum
+50–60
+Adipose tissue with 
+scattered atypical spindle 
+cells
+Myxoid liposarcoma
+Thigh, leg
+30s
+Myxoid matrix, “chicken 
+wire” vessels, round cells, 
+lipoblasts
+Fibrous
+Benign
+Nodular fasciitis
+Arm, forearm
+20–30
+Tissue culture growth, 
+extravasated erythrocytes,
+Deep fibromatosis
+Abdominal wall
+30–40
+Dense collagen, long, 
+unidirectional fascicles
+Skeletal muscle
+Benign
+Rhabdomyoma
+Head and neck
+0–60
+Polygonal 
+rhabdomyoblasts, “spider” 
+cells
+Malignant
+Alveolar 
+rhabdomyosarcoma
+Extremities, sinuses
+5–15
+Uniform round discohesive 
+cells between septae
+Embryonal 
+rhabdomyosarcoma
+Genitourinary tract
+1–5
+Primitive spindle cells, 
+“strap” cells
+Smooth muscle
+Benign
+Leiomyoma
+Extremity
+20s
+Uniform, plump 
+eosinophilic cells in fascicles
+Malignant
+Leiomyosarcoma
+Thigh, retroperitoneum
+40–60
+Pleomorphic eosinophilic 
+cells
+Vascular
+Benign
+Hemangioma
+Head and neck
+0–10
+Circumscribed mass of 
+capillary or venous channels
+Malignant
+Angiosarcoma
+Skin, deep lower extremity 50–80
+Infiltrating capillary 
+channels
+Nerve sheath
+Benign
+Schwannoma
+Head and neck
+20–50
+Encapsulated, fibrillar 
+stroma, nuclear palisading
+Neurofibroma
+Wide, cutaneous, subcutis
+10–20+
+Myxoid, ropy collagen, 
+loose fascicles, mast cells
+Malignant
+Malignant peripheral nerve 
+sheath tumor
+Extremities, shoulder girdle 20–50
+Tight fascicles, atypia, 
+mitotic activity, necrosis
+Uncertain histotype
+Benign
+Solitary fibrous tumor
+Pelvis, pleura
+20–70
+Branching ectatic vessels
+Malignant
+Synovial sarcoma
+Thigh, leg
+15–40
+Tight fascicles of uniform 
+basophilic spindle cells, 
+pseudoglandular structures
+Undifferentiated 
+pleomorphic sarcoma
+Thigh
+40–70
+High-grade anaplastic 
+polygonal, round, or spindle 
+cells, bizarre nuclei, atypical 
+mitoses, necrosis
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26, Table 26.8
+
+=== PAGE 7 ===
+Soft tissue cells – Normal histology
+https://www.pathologyoutlines.com/imgau/softtissueadiposewhit
+efatsule01.jpg
+https://image.slidesharecdn.com/introductiontocells-
+130806100704-phpapp01/95/introduction-to-cells-cheek-cell-
+and-onion-cell-lab-lesson-powerpoint-81-
+638.jpg?cb=1398588743
+https://i.pinimg.com/736x/01/0d/0f/010d0fd35aa582a2cfc7989795365c42--
+loose-connective-tissue-anatomy-and-physiology.jpg
+https://image.slideserve.com/764186/skeletal-muscle-long-section-
+multinucleated-n.jpg
+
+=== PAGE 8 ===
+LIPOMA
+• Benign tumor of fat (adipose tissue); most common soft 
+tissue tumor in adults; rare variants
+• Well-encapsulated mass of mature adipocytes; usually in 
+subcutis of proximal extremities and trunk during middle 
+adulthood
+• Infrequently: Large, intramuscular, and poorly 
+circumscribed
+• Lipomatosis: Multifocal lipomas involving a limb
+• Most are soft, mobile, painless, cured by simple excision
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 9 ===
+LIPOMA
+https://www.ncbi.nlm.nih.gov/pubmed/
+Well circumscribed subcutaneous lipoma 
+with fibrous capsule
+
+=== PAGE 10 ===
+LIPOSARCOMA
+•
+Malignant tumors of adipose tissue; most common sarcomas of adulthood
+•
+Usually in deep soft tissues of proximal extremities and retroperitoneum of 6th and 7th decades of life 
+with pain, soft, swelling, fatigue, decreased of range of motion
+•
+Three distinct subtypes: well-differentiated, myxoid, and pleomorphic; have different genetic 
+aberrations
+–
+Well-differentiated liposarcomas have amplifications of chromosome region 12q13–q15, which 
+includes the p53 inhibitor MDM2
+–
+Myxoid liposarcoma have fusion gene generated by a t(12;16) translocation, arrests adipocyte 
+differentiation, leading to unregulated proliferation of primitive cells
+–
+Pleomorphic liposarcomas have complex karyotypes without reproducible genetic abnormalities
+•
+Well-differentiated liposarcoma: Mature adipocytes with scattered atypical spindle cells 
+•
+Myxoid liposarcoma: Abundant basophilic extracellular matrix, arborizing capillaries, and primitive cells 
+at various stages of adipocyte differentiation
+•
+Pleomorphic liposarcoma: Pleomorphic spindle cells of high grade sarcoma, and anaplastic cells with 
+bizarre nuclei mixed with occasional immature adipocytes (lipoblasts), areas of necrosis and 
+hemorrhage, containing less fatty tissue than well-diferentiated, usually well demarcated but not 
+encapsulated; stains for S-100, negative for keratins, desmin.
+•
+Recur locally, unless adequately excised
+•
+Well-differentiated tumors – indolent; pleomorphic liposarcomas – aggressive, frequently metastasize; 
+myxoid tumors behavior intermediate
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 11 ===
+Myxoid 
+Pleomorphic
+https://www.ncbi.nlm.nih.gov/pubmed/
+Within skeletal muscle. Focal central areas with cystic 
+degeneration and necrosis (yellow discolored areas), 
+focal areas of adjacent tissue invasion
+Pleomorphic cell population with scattered lipoblastic 
+features
+https://v2.pathorama.ch/storage/samples/008589.jpg
+Lobulated, circumscribed gray white tumor within 
+skeletal muscle
+https://www.ncbi.nlm.nih.gov/pubmed/
+Low grade myxoid liposarcoma showing delicate capillary 
+network
+
+=== PAGE 12 ===
+Lipoblast, with 
+scalloped-
+shaped nucleus
+ 
+Takeshi Uenotsuchi, Shinichi Imafuku, Yoichi 
+Moroi, Kazunori Urabe, Masutaka Furue , 
+Department of Dermatology, Hiroshima Red 
+Cross Hospital and Atomic-bomb Survivors 
+Hospital, Hiroshima, Japan Fax: (+81) 92-642-
+5600., Department of Dermatology, Graduate 
+School of Medical Sciences, Kyushu University, 
+Fukuoka 812-8582, Japan.       
+European Journal of Dermatology. Volume 15, 
+Numéro 1, 43-5, January-February 2005, 
+Clinical report 
+
+=== PAGE 13 ===
+Question
+•
+A large fatty tumor is removed from the retroperitoneum of a 55 year old 
+woman. The tumor is malignant and derived from adipose tissue and is 
+diagnosed as a pleomorphic liposarcoma. Which of the following best 
+describes this malignancy?
+•
+A.  Histologically it will show a myxoid background
+•
+B.  Lipoblasts are likely to be present histologically
+•
+C.  This tumor is likely to be cured by simple excison
+•
+D.  This is a tumor of well-encapsulate mature adipocytes
+•
+E.  No genetic aberrations are likely to be present
+
+=== PAGE 14 ===
+Answer
+•
+A large fatty tumor is removed from the retroperitoneum of a 55 year old 
+woman. The tumor is malignant and derived from adipose tissue and is 
+diagnosed as a pleomorphic liposarcoma. Which of the following best 
+describes this malignancy?
+•
+A.  Histologically it will show a myxoid background
+•
+B.  Lipoblasts are likely to be present histologically
+•
+C.  This tumor is likely to be cured by simple excison
+•
+D.  This is a tumor of well-encapsulate mature adipocytes
+•
+E.  No genetic aberrations are likely to be present
+
+=== PAGE 15 ===
+NODULAR FASCIITIS
+• Self-limited fibroblastic and myofibroblastic proliferation, 
+occurs in young adults; most often forearm, chest, and 
+back; feels firm, fixed, rubbery, and solid, may be tender 
+or painful to touch, rapid growth over weeks to months
+• History of trauma in 10% to 50% of cases, (once thought to 
+be reactive)
+• Clonal proliferation with  t(17;22) translocation - produces 
+a MYH9-USP6 fusion
+• Unknown why neoplastic cells do not become malignant
+• Usually regresses spontaneously; if excised, rarely recurs
+• Deep dermis, subcutis, fascia, or muscle
+Robbins and Cotran, Pathologic Basis of  Disease 10th ed. 2020, Ch.26
+
+=== PAGE 16 ===
+Nodular Fascitis
+• Gross: non-encapsulated lesion, well-circumscribed or slightly 
+infiltrative, < 3 cm 
+• Histo: Plump, immature-appearing fibroblasts and 
+myofibroblasts with elongated nuclei showing punctate 
+nucleoli; frequent mitoses – none abnormal
+• Changes from hypercellular regions with myxoid stroma to 
+hypocellular areas with fibrous stroma (zonation)
+• Storiform or fascicular patterns, common in cellular areas; 
+metaplastic bone, cystic areas, prominent vessels, 
+extravasated red cells, and infiltrating lymphocytes common
+Robbins and Cotran, Pathologic Basis of  Disease 10th ed. 2020, Ch.26
+
+=== PAGE 17 ===
+Nodular fasciitis
+•
+Plump, randomly 
+oriented spindle 
+cells surrounded by 
+myxoid stroma; 
+“tissue culture” 
+appearance
+Note mitotic activity 
+(arrowheads) and 
+extravasated red blood 
+cells
+Robbins and Cotran, Pathologic Basis of  Disease 10th ed. 2020, Ch.26, Fig. 26.51
+
+=== PAGE 18 ===
+Superficial Fibromatoses
+•
+Benign growth - can cause local deformity, painless, firm, subcutaneous induration, 
+innocuous clinical course
+•
+M > F males
+•
+Nodular, proliferative lesions made of plump spindle cells (fibroblasts) arranged in poorly 
+defined long fascicles surrounded by abundant dense collagen
+•
+Clinical subtypes:
+– Dupuytren contracture  (palmar fibromatosis):  Irregular or nodular thickening of 
+superficial palmar fascia, unilateral or bilateral; increased incidence with age; 
+attachment to overlying skin: puckering or dimpling, slowly progressive flexion 
+contracture
+–  Ledderhose disease (plantar fibromatosis): In boys < 10 years of age into adolescence; 
+unilateral, does not cause contractures (may be associated with palmar and penile 
+fibromatosis)
+– Peyronie disease: (penile fibromatosis): Palpable induration or mass on dorsolateral 
+aspect of penis; may cause abnormal curvature of the shaft and constriction of the 
+urethra
+•
+Palmar and plantar progress in about 50% of cases; some resolve spontaneously; recurrence 
+is common (even after excision)
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 19 ===
+Superficial 
+Palmar 
+fibromatosis
+http://www.pathologyoutlines.com/topic/softtissuefibromatosissuperficial.html
+
+=== PAGE 20 ===
+Robbins and Cotran, Pathologic Basis of  Disease, 10 th ed. 2020, Ch.26
+Deep Fibromatoses (Desmoid Tumors)
+• Large (avg. ~ 10 cm), infiltrative masses, frequently recur but do not 
+metastasize; teens to 30s, mostly women
+• Abdominal fibromatosis usually arises in musculoaponeurotic 
+structures of anterior lateral abdominal wall; may also be in limb 
+girdles or mesentery
+• Deep fibromatoses contain mutations in the APC or CTNNB1 (β-
+catenin) genes, both lead to increased Wnt signaling
+• Majority have sporadic CTNNB1 mutations (note: individuals with 
+familial adenomatous polyposis (germline APC mutations, Gardner 
+syndrome) are predisposed to deep fibromatosis)
+
+=== PAGE 21 ===
+Deep Fibromatosis
+• Gray-white, firm, poorly demarcated masses from 1 to 15 cm
+• Rubbery, tough, fixed, infiltrate surrounding muscle, nerve, and fat
+• May be disfiguring or disabling, painful
+• Micro:  Bland fibroblasts arranged in long parallel fascicles amid 
+dense collagen; no cellular; atypia; no mitoses; resembles scar tissue
+• Lesions are infiltrative, complete excision difficult, local infiltration 
+into adjacent muscle; do not spread to other areas of the body (but 
+they can be very aggressive, acting more like cancers and growing 
+into nearby structures and organs, so are often cared for by cancer 
+doctors)
+Robbins and Cotran, Pathologic Basis of  Disease, 10 th ed. 2020, Ch.26
+
+=== PAGE 22 ===
+Deep fibromatosis- Cut surface of lesion shows lack of 
+encapsulation, diffuse infiltration into the adjacent fat, deep 
+fascia, and muscle
+tumors may show extension of thin strands of fibrous tissue into 
+surrounding fat and muscle
+https://www.pathologyoutlines.com/imgau/softtissuefibromatosisdeepobeidingr
+oss02update.jpg
+https://www.ncbi.nlm.nih.gov/pubmed/
+infiltration of surrounding muscle and soft tissue may be present 
+at the border
+
+=== PAGE 23 ===
+Fibrosarcoma
+•
+Rare, malignant tumor of fibroblasts (<3% of adult sarcomas); most patients 40 - 55 years
+•
+Two types of fibrosarcomas: infantile/congenital-type fibrosarcoma (rarely mets), and adult-
+type fibrosarcoma
+•
+Many cases formerly called fibrosarcoma where actually dedifferentiated liposarcoma, 
+fibromatosis, fibrosarcomatous DFSP, low-grade fibromyxoid sarcoma, MPNST, synovial 
+sarcoma or MFH-pleomorphic
+•
+Usually deep soft tissue of lower extremities or trunk, painful, fixed, soft tumor, 
+unexplained weight loss
+•
+50% recur, 25% metastasize (lung, bone); more metastases if more cellular and higher 
+mitotic activity
+•
+Survival: 5 year - 41%, 10 year - 29%
+•
+Diagnosis of exclusion: IHC and molecular studies identify subtypes
+•
+May appear well circumscribed but non-encapsulated; fleshy, hemorrhagic, necrotic, white-
+tan
+•
+Histo: Highly cellular fibroblastic proliferation in herringbone pattern and variable collagen; 
+scant cytoplasm, tapering elongated dark nuclei with increased granular chromatin, variable 
+nucleoli; mitotic activity present, often with abnormal forms, stains positive for vimentin, 
+negative for S-100, cytokeratins
+•
+Treatment : Radical excision, radiation if residual tumor or positive margins; possibly 
+chemotherapy if high grade
+•
+Definitive cause not identified: Variable genetic mutations; predisposing factors-sites of prior 
+injury, chronic inflammation, irradiated tissue, preexisting well-differentiated liposarcoma
+
+=== PAGE 24 ===
+Fibrosarcoma
+Gross: “fish-flesh” surface
+Gross: Infiltrative lesions, “pseudo-
+encapsulated”, cut section shows 
+white rope-like appearance with 
+lobulation, hemorrhage and necrosis
+Robbins and Cotran, Pathologic Basis of  Disease, 10 th ed. 2020, Ch.26
+
+=== PAGE 25 ===
+Fibrosarcoma microscopic
+Hyperchromatic nuclei with 
+increased N/C ratio
+Cellular, spindled hyperchromatic cells with increase nuclear 
+to cytoplasmic ratio; herring bone pattern (classical)
+“herring  bone” pattern
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 26 ===
+Rhabdomyosarcoma (RMS)
+•
+Rare malignant mesenchymal tumor with skeletal muscle differentiation (But most common soft tissue sarcoma of 
+childhood, cancer in the connective tissue wherein the mesenchymal-derived malignant cells resemble the primitive 
+developing skeletal muscle, usually starts in muscle tissue)
+•
+Four subtypes are recognized: alveolar (20%), embryonal (50%), pleomorphic (20%)
+•
+Generally considered to be a disease of childhood, as the vast majority of cases occur in those below the age of 18
+•
+Symptoms vary depending on the tumor’s location, commonly a quickly growing mass with pain, unexplained weight 
+loss
+•
+Alveolar and embryonal subtypes: Most common soft tissue sarcomas of childhood and adolescence, usually before 
+20 years of age (alveolar, older children and young adults, 20-35 years-old, arms, legs, or trunk)
+–
+Pediatric rhabdomyosarcomas often occur in the sinuses, head and neck, and genitourinary tract
+•
+Pleomorphic rhabdomyosarcoma usually occurs in adults (typically affects adults ages 50 and older); spindle 
+cell/sclerosing type affects all ages, most common locations lower and upper limbs
+•
+Aggressive and usually treated by surgical resection and chemotherapy, with or without radiation therapy
+•
+Histologic type and location correlated with survival; sarcoma botryoides (subtype of embryonal rhabdomyosarcoma) 
+has the most favorable prognosis with good results from treatment; alveolar rhabdomyosarcoma four year survival 
+rate without remission for local tumors is 65 percent, while the four year survival rate with metastatic is only 15%; 
+pleomorphic rhabdomyosarcoma often fatal
+•
+Stains positive for desmin, myogenin, negative for S-100, cytokeratins. Presence of the PAX-FOXO1 fusion gene that is 
+found in some patients with RMS is associated with poorer survival (due to t(2;13) or t(1;13) translocations, PAX3 is a 
+transcription factor that initiates skeletal muscle differentiation, PAX3-FOXO1 fusion protein interferes with 
+differentiation)
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed, 2020, Ch.26
+
+=== PAGE 27 ===
+Embryonal rhabdomyosarcoma
+•
+Soft, gray, infiltrative mass
+•
+Embryonal subtype: Cells ranging from 
+primitive and round to densely eosinophilic 
+with skeletal muscle differentiation; tumor 
+cells recapitulate skeletal muscle at various 
+stages of differentiation, include sheets of 
+primitive round and spindled cells in myxoid 
+stroma
+•
+Rhabdomyoblasts with visible cross-striations 
+may be present
+•
+Sarcoma botryoides: embryonal 
+rhabdomyosarcoma variant that develops in 
+the walls of hollow, mucosal-lined structures 
+(e.g., nasopharynx, common bile duct, bladder, 
+and vagina)
+•
+Grows in polypoid fashion, “clusters of 
+grapes” in hollow organ (e.g, bladder or 
+vagina)
+•
+Cells of the botryoid variant are defined by a 
+dense tumor layer under an epithelium 
+(cambium layer)
+•
+Sarcoma botryoides subtype has the best 
+prognosis
+https://i.ytimg.com/vi/dz-
+T94625Bw/maxresdefault.jpg
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 
+2020, Ch.26, Fig. 26.53
+Cambium layer, 
+https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins2.jpg
+
+=== PAGE 28 ===
+Rhabdomyoblast
+Normal
+https://objektyv-
+production.s3.amazonaws.com/user_197_11_23_22_04_39_38_412236.jpg
+https://image2.slideserve.com/3835151/skeletal-muscle2-l.jpg
+
+=== PAGE 29 ===
+Alveolar Rhabdomyosarcoma
+•
+Micro: Crossed by network of fibrous septae 
+that divide cells into clusters or aggregates, 
+creating crude resemblance to pulmonary 
+alveoli
+•
+Tumor cells: uniform and round with little 
+cytoplasm; cross-striations uncommon
+Robbins and Cotran, Pathologic Basis of  
+Disease, 10 th ed., 2020, Ch.26, Fig. 26.53
+Numerous spaces lined by 
+discohesive, uniform round tumor cells
+
+=== PAGE 30 ===
+Pleomorphic Rhabdomyosarcoma
+•
+Micro: Large, sometimes 
+multinucleated, bizarre 
+eosinophilic tumor cells; can 
+overlap histologically with 
+other pleomorphic sarcomas
+•
+Immunohistochemistry (e.g., 
+myogenin, desmin staining) 
+usually needed to confirm 
+rhabdomyoblastic 
+differentiation
+Robbins and Cotran, Pathologic 
+Basis of  Disease, 9th ed. 2014, 
+Ch.26
+
+=== PAGE 31 ===
+Question
+A 6 year old girl has a polypoid mass growing from her vagina which 
+resembles a grape-like cluster of tissue.  This mass is a malignant skeletal 
+muscle tumor. What is most likely a feature of this neoplasm?
+A.
+Microscopic examination reveals areas which crudely resemble lung 
+alveoli
+B.
+There are not translocations present
+C.
+Prognosis is better than other malignant skeletal muscle tumors
+D.
+Immunohistochemistry is needed to confirm fibroblast differentiation
+E.
+This is the least common soft tissue sarcoma in children
+
+=== PAGE 32 ===
+Answer
+A 6 year old girl has a polypoid mass growing from her vagina which 
+resembles a grape-like cluster of tissue.  This mass is a malignant skeletal 
+muscle tumor. What is most likely a feature of this neoplasm?
+A.
+Microscopic examination reveals areas which crudely resemble lung 
+alveoli
+B.
+There are no translocations present
+C.
+Prognosis is better than other malignant skeletal muscle tumors
+D.
+Immunohistochemistry is needed to confirm fibroblast differentiation
+E.
+This is the least common soft tissue sarcoma in children
+
+=== PAGE 33 ===
+Synovial sarcoma
+•
+The most common location for these tumors is within the deep soft tissues 
+adjacent to large joints, e.g. knee and popliteal fossa
+•
+Can present in locations that lack synovium; uncertain origin, inconsistent with 
+origin from synoviocytes or synovial structures, e.g. joints, tendon sheaths and 
+bursae
+•
+Approximately 10% of all soft tissue sarcomas, usually 20s to 40s
+•
+Individuals often present with deep-seated pain, numbness, limited range of 
+motion, firm, fixed, lump or swelling under the skin, often around the joints in the 
+arms or legs
+•
+Symptoms similar to those of arthritis or bursitis, such as swelling and 
+inflammation present for several years
+•
+Characteristic chromosomal translocation t(x;18)(p11;q11): Produces fusion of 
+SS18 gene to one of three SSX genes -  fusions encode chimeric proteins that 
+interfere with normal chromatin remodeling (the repositioning of nucleosomes on 
+chromatin that influences gene expression)
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 34 ===
+Synovial Sarcoma
+•
+Micro: Monophasic or biphasic 
+•
+Monophasic - uniform spindle cells with scant cytoplasm and dense chromatin arranged in short, 
+tightly packed fascicles and biphasic also contains gland-like structures composed of cuboidal to 
+columnar epithelioid cells
+•
+IHC helpful because tumor cells, especially in biphasic type, are positive for epithelial antigens 
+versus most other sarcomas (e.g., cytokeratins, epithelial component is consistently positive for CK7, 
+CK8, CK14, CK18, CK19; spindle cell component usually focal and variably positive for CK7, CK19, CK18, 
+CK8, CK14, CK17, CK20)
+•
+Treated aggressively with limb-sparing surgery and chemotherapy
+•
+5-year survival varies from 25% to 62%,  related to tumor stage and patient age
+•
+In general, synovial sarcoma has a survival rate of 50-60% at 5 years and 40-50% at 10 years
+•
+The survival rate for synovial sarcoma is lower in cases where the cancer has returned or spread
+•
+Treatment involves surgery, chemotherapy and radiation. Some factors for prognosis include the 
+following: Small tumor size—less than 5cm wide, few mitoses, easy to remove by surgery
+•
+Common sites of metastases are the lung and, unusually for sarcomas, regional lymph nodes
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 35 ===
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+Synovial Sarcoma
+•
+Synovial sarcoma with 
+classic biphasic spindle cell 
+and gland-like histologic 
+appearance; glands are 
+composed of closely 
+packed round to ovoid 
+cells
+MRI Coronal Synovial Sarcoma of Distal 
+Thigh Knee Area
+https://tumorsurgery.org/portals/0/Synovial%20Sarcoma/Figure%203A%20MR
+I%20Coronal%20Synovial%20Sarcoma%20of%20Distal%20Thigh%20Knee%
+20Area.jpg
+https://www.ncbi.nlm.nih.gov/
+pubmed/
+
+=== PAGE 36 ===
+Undifferentiated pleomorphic sarcoma
+•
+Include malignant mesenchymal tumors with high-grade, pleomorphic cells that cannot be 
+classified into another category by histomorphology, immunophenotype, and genetics (old 
+name malignant fibrous histiocytoma)
+•
+Most arise in the deep soft tissues of extremities, especially thigh of middle-aged or older 
+adults as a growing fixed, firm, lump or area of swelling. If it grows very large, there may be 
+pain, tingling and numbness.
+•
+Usually large, gray-white fleshy masses; can grow to 20 cm
+•
+Hemorrhage common
+•
+Micro:  Extremely pleomorphic, composed of sheets of large, anaplastic spindled to 
+polygonal cells with hyperchromatic irregular, sometimes bizarre nuclei; mitotic figures, 
+including atypical asymmetric forms abundant
+•
+By definition, tumor cells lack both differentiation along recognized lineages 
+phenotypically (stains) and characteristic genetic defects
+•
+Aggressive malignancies: Treated with surgery and adjuvant chemotherapy and/or radiation; 
+prognosis is generally poor. Metastases occur in 30% to 50% of cases
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26
+
+=== PAGE 37 ===
+Undifferentiated pleomorphic sarcoma showing anaplastic 
+spindled to polygonal cells
+Robbins and Cotran, Pathologic Basis of  Disease, 10th ed. 2020, Ch.26, Fig. 26.55
+
+=== PAGE 38 ===
+Other soft tissue tumors
+• Rhabdomyoma: Benign skeletal muscle tumor, 
+usually found in heart, associated with 
+tuberous sclerosis
+• Leiomyoma: Common benign smooth muscle 
+tumor, commonly in the uterus
+• Leiomyosarcoma: Malignant smooth  muscle 
+tumor, especially in uterus
+
+=== PAGE 39 ===
+•
+Lipoma – benign, adipose tissue
+•
+Liposarcoma – malignant, adipose tissue, subtypes well-differentiated, myxoid, pleomorphic
+•
+Nodular fasciitis – benign, fibroblasts
+•
+Superficial dermatoses – palmar, plantar, penile
+•
+Deep fibromatosis – recur, associated with APC and beta-catenin gene versus superficial 
+fibromatosis (both fibroblasts/myofibroblasts)
+•
+Fibrosarcoma – malignant, aggressive, fibroblasts, recur, metastasize, herring bone 
+histological pattern
+•
+Rhabdomyosarcoma – malignant, skeletal muscle
+•
+Embryonal – subtype Sarcoma Botyoides (best prognosis)
+•
+Alveolar –  t(2;13)
+•
+Pleomorphic
+•
+Synovial sarcoma – malignant, t(X:18), monophasic or biphasic
+•
+Undifferentiated pleomorphic sarcoma – highly malignant, need special stains and studies, 
+Summary Slide
+
+=== PAGE 40 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

@@ -118,5 +118,26 @@ const testsToLoad = [
     { name: "12-CNS Viral Infections (L98)", data: window.Test_L98 },
     { name: "12-CNS Bacterial Infections (L99)", data: window.Test_L99 },
     { name: "12-CNS Fungal & Parasitic Infections (L100)", data: window.Test_L100 },
-    { name: "12-Pharm: Antiherpes Antiviral Agents (L101)", data: window.Test_L101 }
+    { name: "12-Pharm: Antiherpes Antiviral Agents (L101)", data: window.Test_L101 },
+    { name: "12-Pharm: CNS Infections (L102)", data: window.Test_L102 },
+    { name: "12-Path: Skeletal Muscle (L103)", data: window.Test_L103 },
+    { name: "12-Path: Bone & Joints Pt 1 (L104)", data: window.Test_L104 },
+    { name: "12-Path: Bone & Joints Pt 2 (L105)", data: window.Test_L105 },
+    { name: "12-Path: Pathology of Soft Tissue (L106)", data: window.Test_L106 },
+    { name: "12-DPR: Hand & Wrist Exam (L107)", data: window.Test_L107 },
+    { name: "12-DPR: Shoulder & Elbow (L108)", data: window.Test_L108 },
+
+    // --- Week 13 ---
+    { name: "13-OMM: Diagnosis of the Elbow and Wrist (L109)", data: window.Test_L109 },
+    { name: "13-Intro to Orthopedics of Upper Extremity (L110)", data: window.Test_L110 },
+    { name: "13-Orthopedics: Lower Extremity (L111)", data: window.Test_L111 },
+    { name: "13-Orthopedic Concerns of Spine (L112)", data: window.Test_L112 },
+    { name: "13-Imaging of the MSK System (L113)", data: window.Test_L113 },
+    { name: "13-Intro to MSK Ultrasound (L114)", data: window.Test_L114 },
+    { name: "13-Pediatric Orthopedics (L116)", data: window.Test_L116 },
+    { name: "13-Pharm: Pharmacology of NSAIDs (L117)", data: window.Test_L117 },
+
+    // --- Week 14 ---
+    { name: "14-Sports Medicine: Overuse Injuries (L115)", data: window.Test_L115 }
 ];
+

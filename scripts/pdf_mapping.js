@@ -78,20 +78,21 @@ const PDF_MAPPING = {
     "L79": "pdfs/Lecture # 79. D. Cummins, Pharm.D., BCPS (PPT).pdf",
 
     "L102": "pdfs/L102.pdf",
-    "L103": "pdfs/L103.pdf",
-    "L104": "pdfs/L104.pdf",
-    "L105": "pdfs/L105.pdf",
+    "L103": "pdfs/Lecture # 103. W. Zaloga, D.O. (PPT).pdf",
+    "L104": "pdfs/Lecture #104. E. Petcu, M.D. (PPT).pdf",
+    "L105": "pdfs/Lecture #105. E. Petcu, M.D. (PPT).pdf",
     "L106": "pdfs/L106.pdf",
-    "L107": "pdfs/L107L108.pdf",
+    "L107": "pdfs/Lecture # 107. R. Morgan, D.O. (PPT).pdf",
     "L108": "pdfs/L107L108.pdf",
-    "L109": "pdfs/L109110.pdf",
-    "L110": "pdfs/L109110.pdf",
-    "L112": "pdfs/L112.pdf",
-    "L113": "pdfs/L113.pdf",
-    "L114": "pdfs/L114.pdf",
-    "L115": "pdfs/L115L116.pdf",
+    "L109": "pdfs/Lecture 109. K. Cornick, D.O. (PPT) updated 3.13.26.pdf",
+    "L110": "pdfs/Lecture # 110. M. Heller, D.O. (PPT).pdf",
+    "L111": "pdfs/Lecture # 111. M. Heller, D.O. (PPT).pdf",
+    "L112": "pdfs/Lecture # 112. M. Heller, D.O. (PPT).pdf",
+    "L113": "pdfs/Lecture # 113. J. Mazzie, D.O. (PPT).pdf",
+    "L114": "pdfs/Lecture # 114. J. Mazzie, D.O. (PPT)-1.pdf",
+    "L115": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf",
     "L116": "pdfs/L115L116.pdf",
-    "L117": "pdfs/L117L118.pdf",
+    "L117": "pdfs/Lecture # 117. L. Goldstein, Pharm.D. (PPT).pdf",
     "L118": "pdfs/L117L118.pdf",
     "L119": "pdfs/L119.pdf",
     "L120": "pdfs/L120.pdf",
@@ -123,8 +124,8 @@ const PDF_MAPPING = {
     "L136": "pdfs/L136.pdf",
     "L137": "pdfs/L137.pdf",
     "L138": "pdfs/L138.pdf",
-    "L107L108": "pdfs/L107L108.pdf",
-    "L109L110": "pdfs/L109110.pdf",
+    "L107L108": "pdfs/Lecture # 107. R. Morgan, D.O. (PPT).pdf",
+    "L109L110": "pdfs/Lecture 109. K. Cornick, D.O. (PPT) updated 3.13.26.pdf",
     "L115L116": "pdfs/L115L116.pdf",
     "L117L118": "pdfs/L117L118.pdf",
     "L120L123": [
@@ -141,6 +142,7 @@ const PDF_MAPPING = {
 
     // Human Readable Mappings (for tests using pdfPage without slideImagePath)
     "Pharmacokinetics": "pdfs/L109110.pdf",
+    "OMM: Diagnosis of the Elbow and Wrist (L109)": "pdfs/Lecture 109. K. Cornick, D.O. (PPT) updated 3.13.26.pdf",
     "Epidemiology I": "pdfs/L134.pdf",
     "Epidemiology II": "pdfs/L135.pdf",
     "Gross Divisions CNS": "pdfs/L136.pdf",
@@ -265,8 +267,18 @@ const PDF_MAPPING = {
     "L98": "pdfs/Lecture # 98. T. Slieman, Ph.D. (PPT).pdf",
     "L99": "pdfs/Lecture # 99. T. Slieman, Ph.D. (PPT).pdf",
     "L100": "pdfs/Lecture # 100. T. Slieman, Ph.D. (PPT)-1.pdf",
-    "L101": "pdfs/Lecture # 101. L. Goldstein, Pharm.D. (PPT).pdf"
+    "L101": "pdfs/Lecture # 101. L. Goldstein, Pharm.D. (PPT).pdf",
+    "Pharm: CNS Infections (L102)": "pdfs/Lecture # 102. M. Pino, Ph.D. (PPT).pdf",
+    "12-Path: Bone & Joints Pt 2 (L105)": "pdfs/Lecture #105. E. Petcu, M.D. (PPT).pdf",
+    "12-Path: Pathology of Soft Tissue (L106)": "pdfs/Lecture # 106. W. Zaloga, D.O. (PPT).pdf",
+    "L106": "pdfs/Lecture # 106. W. Zaloga, D.O. (PPT).pdf",
+    "L108": "pdfs/Lecture # 108. A. Coladner, D.O. (PPT).pdf",
+    "12-DPR: Shoulder & Elbow (L108)": "pdfs/Lecture # 108. A. Coladner, D.O. (PPT).pdf",
+    "13-Orthopedics: Lower Extremity (L111)": "pdfs/Lecture # 111. M. Heller, D.O. (PPT).pdf",
+    "13-Pediatric Orthopedics (L116)": "pdfs/L115L116.pdf",
+    "14-Sports Medicine: Overuse Injuries (L115)": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf"
 };
+
 
 // Expose to global scope
 window.PDF_MAPPING = PDF_MAPPING;
