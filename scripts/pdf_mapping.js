@@ -93,9 +93,9 @@ const PDF_MAPPING = {
     "L115": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf",
     "L116": "pdfs/L115L116.pdf",
     "L117": "pdfs/Lecture # 117. L. Goldstein, Pharm.D. (PPT).pdf",
-    "L118": "pdfs/L117L118.pdf",
-    "L119": "pdfs/L119.pdf",
-    "L120": "pdfs/L120.pdf",
+    "L118": "pdfs/Lecture #118. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L119": "pdfs/Lecture # 119 & #120. T. Slieman, Ph.D. (PPT).pdf",
+    "L120": "pdfs/Lecture # 119 & #120. T. Slieman, Ph.D. (PPT).pdf",
     "L121": "pdfs/L121.pdf",
     "L122": "pdfs/L122.pdf",
     "L123": "pdfs/L123.pdf",
@@ -276,7 +276,8 @@ const PDF_MAPPING = {
     "12-DPR: Shoulder & Elbow (L108)": "pdfs/Lecture # 108. A. Coladner, D.O. (PPT).pdf",
     "13-Orthopedics: Lower Extremity (L111)": "pdfs/Lecture # 111. M. Heller, D.O. (PPT).pdf",
     "13-Pediatric Orthopedics (L116)": "pdfs/L115L116.pdf",
-    "14-Sports Medicine: Overuse Injuries (L115)": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf"
+    "14-Sports Medicine: Overuse Injuries (L115)": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf",
+    "13-DPR: History and Physical Exam of the Spine (L121)": "pdfs/L121.pdf"
 };
 
 

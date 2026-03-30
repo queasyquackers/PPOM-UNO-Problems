@@ -136,6 +136,10 @@ const testsToLoad = [
     { name: "13-Intro to MSK Ultrasound (L114)", data: window.Test_L114 },
     { name: "13-Pediatric Orthopedics (L116)", data: window.Test_L116 },
     { name: "13-Pharm: Pharmacology of NSAIDs (L117)", data: window.Test_L117 },
+    { name: "13-Pharm: Pharmacology of NSAIDs Part 2 (L118)", data: window.Test_L118 },
+    { name: "13-Innate Immunity Part 1 (L119)", data: window.Test_L119 },
+    { name: "13-Innate Immunity Part 2 (L120)", data: window.Test_L120 },
+    { name: "13-DPR: History and Physical Exam of the Spine (L121)", data: window.Test_L121 },
 
     // --- Week 14 ---
     { name: "14-Sports Medicine: Overuse Injuries (L115)", data: window.Test_L115 }
