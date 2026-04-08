@@ -1,0 +1,456 @@
+
+=== PAGE 1 ===
+Pediatric Rheumatology 
+PPOM1 
+Ashka Patel, DO, FAAP
+Associate Professor
+Clinical Department of Pediatrics 
+Serota 123
+Email: apate256@nyit.edu
+
+=== PAGE 2 ===
+Objectives
+1. Basic concepts of Rheumatology
+2. Common Pediatric Pathologies 
+1. Juvenile Idiopathic Arthritis (JIA)
+2. Spondyloarthritides (Juvenile Ankylosing Spondyloarthritis, 
+Psoriatic Arthritis, Reactive Arthritis)
+3. Pediatric SLE (pSLE)
+4. Neonatal Lupus 
+5. Juvenile Dermatomyositis (JDM)
+6. Bechet disease (BD)
+7. Juvenile Sjogren's Disease (JSD)
+8. Pediatric Scleroderma
+9. FMF
+3. Resources 
+4. Summarization
+
+=== PAGE 3 ===
+Question:
+3 yr old M brought into clinic by his mother for about 2 months of swelling 
+in his knees. He went to the Urgent Care 3 months ago for a URI. It stops 
+him from running around as much. He has also felt warm for the past 2 
+weeks especially in the evenings and some red/pink circles on his skin 
+during that time which go away on its own.
+On exam, his conjunctiva are pale bilaterally, there is palpable cervical, 
+inguinal and popliteal lymphadenopathy, his liver is 3cm below the 
+costal margin. His Vitals include HR 130 while calm.
+If you got blood work on this patient, what do you think it would show ?
+
+=== PAGE 4 ===
+Question:
+3 yr old M brought into clinic by his mother for about 2 months of swelling 
+in his b/l knees. He went to the Urgent Care 3 months ago for a URI. It 
+stops him from running around as much. He has also felt warm for the 
+past 2 weeks especially in the evenings and some red/pink circles on his 
+skin during that time which go away on its own.
+On exam, his conjunctiva are pale bilaterally, there is palpable cervical, 
+inguinal and popliteal lymphadenopathy, his liver is 3cm below the 
+costal margin. His Vitals include HR 130 while calm.
+If you got blood work on this patient, what do you think it would show ?
+
+=== PAGE 5 ===
+Basic concepts
+Rheum disease = History + Physical exam findings + autoimmune 
+markers + serologic tests + pathology + imaging.
+What clues you in that your patient may have a Rheumatologic 
+condition?
+Fevers
+Arthralgias (joint pain) WITH arthritis (inflammation of the joint) 
+Timing (Morning stiffness – gets better as you use it more)
+Rash
+Weakness/Fatigue
+Duration of symptoms
+What you don't want to miss
+Cancer (ALL/neuroblastoma)
+Infection (viral illness, septic arthritis, lyme, osteomyelitis)
+Mimics: metabolic (thyroid), orthopedic (patellofemoral syndrome, 
+growing pains, chronic pain conditions (fibromyalgia, depression), other 
+autoimmune disorders (IBD), vasculitidis  
+
+=== PAGE 6 ===
+From Marcdante KJ et al: Nelson Essentials of Pediatrics, ed 9, Philadelphia, 2023, Elsevier.
+
+=== PAGE 7 ===
+Basic concepts
+For diagnosis: complete Physical Exam (as disease is multisystem)
+Thorough Skin exam + scalp (generalized skin rash, sparing nasal labial 
+folds, involving ears/around eyes, lower extremities, hair patterns)
+Nail Beds (dilated capillary loops) - Nailfold capillaroscopy
+Oropharynx: ulcers (hard palate involved in SLE), mucositis, TMJ joint 
+instability/inflammation
+Lymph nodes: lymphadenopathy
+Eyes: uveitis, conjunctivitis
+Heart: pericardial rubs 
+Lungs: pleural effusions, ILD
+All Joints: Arthritis defined as intra-articular swelling of 2 or more of the 
+following findings (pain on motion, range of motion limitation and 
+warmth), limb length discrepancy
+Pictures from NEJM, Ulcer picture from AAFP
+
+=== PAGE 8 ===
+Basic labs:
+Lymphopenia more specific to SLE than Leukopenia, in sJIA WBC Elevated
+PLTs elevated – due to inflammation
+Hbg low – anemia of chronic disease – nonspecific
+ESR, CRP elevation– non specific
+Rheumatoid Factor + is present in <10% of children with JIA – poor 
+sensitivity. Co-relate with symptoms = strong prognostic indicator
+Anti- cyclic citrullinated protein (CCP) = RF pos JIA pretty specific
+Anti- nuclear antibody – low specificity – not recommended for screening 
+but correlate with symptoms
+DsDNA = SLE
+Anti-Smith = SLE
+SSA (Ro) positive = SLE, sjrogren syndrome
+SSA (La) positive = SLE, sjrogren syndrome
+Anti-histone = Drug induced lupus
+Anti-neutrophil cytoplasmic antibodies (ANCAs) = vasculitis
+Anti- topoisomerase (Scl-70) = systemic sclerosis – rare in childhood
+Muscle Enzymes – ALT, AST, CK, Aldolase, LDH
+Urine – protein, can do protein/creatitine ratio
+Imaging: Plain xrays
+MRI more sensitive for early 
+erosive arthritis
+Echo
+PFTs
+CT chest
+
+=== PAGE 9 ===
+Common Pathologies 
+JIA (Juvenile Idiopathic Arthritis) 
+Most common rheumatic disease in children, clinical diagnosis
+Age at onset: < 16 years old 
+Arthritis: > or = 1 joint
+Duration: > or = 6 weeks
+Type of articular involvement - many subtypes :
+Poly: > or = 5 joints
+RF neg or RF pos
+Oligo: < or = 4 joints
+Systemic-onset disease: arthritis with rash and quotidian fever
+Psoriatic arthritis
+Enthesitis-related arthritis 
+
+=== PAGE 10 ===
+Epidemiology
+JIA: wide ranging numbers depending on environmental exposure, 
+immunogenic susceptibility, variations in diagnostic criteria, lack of 
+population based data.
+Estimated 300,000 children in US have arthritis
+Oligoarthritis being the most common, peak age at onset 2-4 years of 
+age.  Polyarthritis is bimodal (2-4 yrs,10-14yrs), sJIA (1-5 yrs)
+No sex predominance for systemic JIA. Otherwise most other 
+subtypes: girls > boys, except Enthesitis which is more common in 
+boys.
+Etiology: 
+Complex genetic trait – affecting both humeral and cellular immunity 
+– MCH I and II, protein tyrosine phosphatase non receptor 22 
+(PTPN22), TNF- alpha, IL-6, IL-1alpha. Double hit - usually with 
+external factor. T cells recruited for non-self synovial antigens, cause 
+inflammation cascade, including adding B cells and complement
+
+=== PAGE 11 ===
+Bayefsky, Sarah D., MD; Rutstein, Beth H., MD, MSCE
+
+=== PAGE 12 ===
+Joints affected:
+Oligo: larger joints
+Polyarthritis: both upper, lower joints. Can also affect TMJs, 
+cervical  spine involvement and hip disease
+Enthesitis – lower limb joints
+Treatment:
+NSAIDs (Naproxen, Ibuprofen, Meloxicam) 
+DMARDs (Methotrexate PO or SC weekly)
+Biologics (Anti-TNF-alpha, anti-IL1 receptor)
+Intra-articular corticosteroids
+Systemic steroids – generally avoided unless bridging or severe 
+acute disease
+
+=== PAGE 13 ===
+Prognosis:
+Goal is disease remission
+40-60% of patients get better with 6 weeks of NSAIDs
+Oligo fares better than Poly
+Depends on disease severity, earlier age at 
+presentation, RF seropositive, disease involving hip, 
+hand, wrist generally have poorer prognosis
+Complications include leg discrepancy, micrognathia, 
+contractures, persistent uncontrolled uveitis can cause 
+chronic scarring and blindness
+
+=== PAGE 14 ===
+Governing bodies:
+International League of Associations for Rheum Classifications (ILAR)   
+American College of Rheumatology (ACR)
+
+=== PAGE 15 ===
+Enthesitis related arthritis (ERA)
+Classification Criteria
+1. Arthritis PLUS Enthesitis
+2. Arthritis OR Enthesitis with 2 of more of the following
+o
+Sacroiliac joint tenderness or inflammatory 
+lumbosacral pain
+o
+Presence of HLA-B27
+o
+Onset of arthritis in a male older than 6 years
+o
+Acute anterior Uveitis
+o
+Family history of HLA-B27 associated disease in 1st 
+degree relative
+3. Typically first 6 months of disease are asymmetric and have 
+fewer than 4 joints affected (inflammation of small joints in 
+foot – highly suggestive of ERA)
+
+=== PAGE 16 ===
+Spondyloarthritides
+Clinical manifestations:
+Arthritis of axial skeletal – spine or 
+sacroiliac joint or hips
+Enthesitis – inflammation at site of 
+tendon, ligament or joint capsule
+Eye inflammation – Acute Uveitis
+GI inflammation
+
+=== PAGE 17 ===
+Juvenile Ankylosing Spondylitis (JAS)
+Frequently begins with oligoarthritis and enthesitis
+Classification Criteria  (modified New York criteria)
+1. Arthritis PLUS Enthesitis
+2. Arthritis OR Enthesitis with 2 of more of the following
+o
+Sacroiliac joint tenderness or inflammatory lumbosacral pain
+o
+Presence of HLA-B27 ( 90% of children with JAS)
+o
+Onset of arthritis in a male older than 6 years
+o
+Acute anterior Uveitis
+o
+Family history of HLA-B27 associated disease in 1st degree relative
+3. Typically first 6 months of disease are asymmetric and have fewer than 4 
+joints affected 
+4. Treatment: goals of therapy to control inflammation, prevent ankylosis 
+(fusion of bones) with DMARDS, NSAIDS, Physical Therapy 
+5. Prognosis: if ongoing disease activity for >5 yrs = disability very likely , 
+remission in < 20% of those patients
+
+=== PAGE 18 ===
+Psoriatic Arthritis
+Classification Criteria
+1. Arthritis PLUS Psoriasis
+2. Arthritis OR Psoriasis  with 2 of more of the following
+o
+Dactylitis
+o
+Nail pitting or onycholysis
+o
+Family history of Psoriasis in 1st degree relative
+3. Disease onset peaks during preschool and early adolescent years
+
+=== PAGE 19 ===
+Reactive Arthritis
+Quick review
+Defined as joint inflammation caused by a sterile inflammatory reaction after 
+recent infection 3d to 6wks
+Can't see, can't pee, can't climb a tree – not common in kids. Usually more 
+systemic symptoms (fatigue, weakness), cutaneous manifestations (erythematous 
+oral macules, plaques, erosions, erythema nodosum, fingertip erosions and more 
+enthesitis and dactylitis)
+Arthritis is asymmetric, oligoarticular of lower extremities.
+Bacteria: Salmonella, Shigella, Yersinia, Campylobacter, GU tract infections with 
+Chlamydia, Ecoli and C diff less common
+Virus: Adeno, CMV, EBV, HSV, Parvovirus, Rubella
+75% of pts with reactive arthritis are HLA-B27 positive. Tx NSAIDS
+If Chlamydia ongoing = TREAT the bug
+
+=== PAGE 20 ===
+Acute Rheumatic Fever: caused by untreated GAS 
+infection, 2-4 wks after illness. JONES criteria, will have 
+migratory polyarthritis 
+Neisseria Gonococcal arthritis: rash, fever, polyarticular 
+migratory, sexually active. Tx: CTX
+Lyme Arthritis: can mimic oligoarticular JIA, arthritis can be 
+a late manifestation months or years after lyme exposure, 
+usually knee, can get titers to help with diagnosis
+Pyogenic/Septic Arthritis: acute symptoms of 
+inflammation of one joint, aspiration of joint fluid showed 
+increased WBC with neutrophil predominance 
+Mimics:
+
+=== PAGE 21 ===
+Pediatric Onset SLE (pSLE)
+Compared with adults, kids have more severe disease and widespread 
+organ involvement
+In adolescents: renal failure or nephrotic syndrome – 1st presenting sign
+Prevalence of SLE in children 1-6/100,000 highest among African, Asian, 
+Hispanic, Native American descent. Childhood SLE is rare before 5yr, 
+median age at diagnosis 11-12 years. 20% of SLE pts are diagnosed before 
+age 16yr.
+Most common presenting sign in pSLE fever, fatigue, hematologic 
+abnormalities, arthralgias and arthritis (symmetric polyarthritis large and 
+small joints). Neuropsych complications hard on peds patients
+Antiphospholipid antibodies found in 66% of pSLE
+Tx: hydroxychloroquine, avoid sun exposure, steroids, MTX, biologics
+Prognosis: 5yr and 10 yr survival with $$ countries 99, 97%, $ countries 85, 
+79%
+
+=== PAGE 22 ===
+Neonatal Lupus (NLE)
+Not autoimmune disease but immunoglobulins Anti-Ro, Anti-La crossing 
+over into fetal circulation
+Moms are mostly asymptomatic, 50% have defined SLE or Sjogrens
+Resulting in malar rash, congenital heart block (ranging from type 1 to type 3), 
+cytopenias, hepatitis
+It is thought there are Ro and La antigens on cardiac cells specially the AV 
+node which then cause the fibrosis and varying degrees of block
+Complete heart block is permanent – needs pacing, occasional IVIG, steroids 
+used. Cardiomyopathy also a bad prognosis – need transplant
+Data mixed but using steroids, IVIG to lower Anti-Ro and La antibiotics seem 
+to help prevent occurrence in future child (15-20%)
+Prenatally, can detect heart abnormalities via Echo, helpful to see a ped 
+cardiologist
+Usual Treatment: time, avoidance of sun
+
+=== PAGE 23 ===
+Juvenile Dermatomyositis (JDM)
+Characterized by proximal muscle weakness and distinctive rashes of face and 
+extensor joint surfaces
+3 cases in 1 million children in 1 year. Peak age onset 7 yrs. F:M 2:1
+Genetics in HLA genes and TNF alpha, IL-1 receptor mutations with environmental 
+factors
+Children with JDM present with either rash, insidious onset of weakness or BOTH
+Fevers, dysphagia, arthritis, muscle tenderness and fatigue are also common
+UV light exposure with generalized erythema
+Shawl sign: If over chest/neck
+Heliotrope rash: blue-violet discoloration of eyelids, erythema crosses nasolabial 
+folds
+Gottron papules: bright pink, pale, shiny, thickened atrophic plaques over hand 
+joints. Rash can be mistaken for eczema or psoriasis
+Mechanic's hands: thickened erythematous scaly rash over palms and soles
+
+=== PAGE 24 ===
+JDM 
+Weakness is symmetric, muscles such as neck flexors, 
+shoulder girdle, hip flexors. Trouble combing hair, climbing 
+stairs, getting out of bed
+Esophageal and resp muscles can also be affected. Swallow 
+test maybe helpful. Respiratory failure – hypercarbia with 
+hypoxia, no iWOB, often need NIF 
+EMG shows signs of myopathy. Labs show muscle 
+inflammation, muscle biopsy shows necrosis, serologic 
+testing, ANA is pos in >80% of patients, RF is neg, Anemia, ESR 
+nml. Xrays can show calcifications
+Tx: MTX, steroids, IVIG (Ped Rheum is managing), PT/OT, aovid 
+sun 
+Prognosis: Mortality 1% but little known about long term 
+consequences, respond well to therapy 
+
+=== PAGE 25 ===
+Behcet disease (BD)
+Spectrum of symptoms is broad - vasculitis of arteries + veins 
+Autoinflammatory nature: polygenic disorder, innate immunity activation 
+Prevalence in children is 10% of adult prevalence  +FH in 20% of cases. 
+Mean age at first symptom 8-10 years of age. 
+Starts with painful oral ulcer does not scar, genital ulcers heal with scars. 
+Anterior Uveitis. Skin lesions like erythema nodosum 
+Meet 3 of the criteria in chart 
+Tx: Azathioprine for eye disease. Topical tx for ulcers, colchicine, 
+sucralfate, steroids. Mortality in children with BD low except if they get 
+pulm aneurysm
+
+=== PAGE 26 ===
+Juvenile Sjogren's Disease
+Rare in children, classic signs of dry eyes and dry mouth
+Mean age at diagnosis 9-10 yr. 75% are F
+Diagnostic criteria in children proposed but not validated
+Recurrent parotid gland enlargement and parotiditis common in children ( 
+>70%). Children higher rate of systemic sx, fever, adenopathy compared to 
+adults. In kids also dental caries as a result of dry mouth.
+Diagnosis based on clinical features, supported by biopsy of salivary or 
+parotid gland -> lymphocytic infiltration (children more likely to have nml 
+salivary and abnormal parotid biopsies) need 4 of 12 items
+Elevated ESR, positive RF, hypergammaglobulinemia, presence of SSA and 
+SSB antibodies
+Treatment: Artificial tears, massage parotids, oral lozenges, fluids. 
+Steroids, NSAIDS, hydroxychloroquine
+
+=== PAGE 27 ===
+Scleroderma (systemic and localized)
+Annual incidence rare in children 1-3 per 100,000 children
+Mean age onset 7-9 years. More common in Females
+Most cases of localized scleroderma, onset starts in 
+childhood. Systemic only 10%
+Systemic scleroderma: pulmonary fibrosis, myocardial 
+fibrosis, myopathy, joint pain, more favorable in children than 
+adults
+Localized: usually limited to skin and subcutaneous tissue
+Systemic sclerosis. Patients with calcinosis cutis, Raynaud 
+phenomenon, esophageal dysfunction, sclerodactyly, and 
+telangiectasia (CREST) syndrome
+
+=== PAGE 28 ===
+Familial Mediterranean Fever (FMF)
+Autosomal recessive pathogenic variant in MEFV (amino acid protein 
+denoted pyrin (greek for fever), found in granulocytes, monocytes and 
+in fibroblasts. Causing anto-inflammatory disease.
+Occurs primarily among Mediterranean ancestry (Jewish, Turkish, 
+Armenian, Arab, Italian)
+Short Recurrent (1-3d) fever, serositis, mono or pauciarticular arthritis 
+or rash. Most present with sx in childhood, 90% present before 20 
+years. So fever + abd pain or chest pain, arthritis and rash = sounds 
+familiar.
+Distinguishing factors: in between fever episodes, no symptoms and 
+cutaneous finding erysipeloid erythematous rash on ankle.
+Episodes triggered by stress, infections or menses. Inflammatory 
+markers will be elevated.     
+ Frequency of attacks vary from weekly to one to two flares per year
+Tx: prophylactic daily oral colchicine decreases frequency, severity 
+intensity of flares
+
+=== PAGE 29 ===
+Summary!
+I know it's confusing
+Distinguishing factors:
+***JIA – younger child, so many types, remember systemic type
+Ankylosing Spondylysis – M, SI joint pain, restriction in ROM, HLA-B27
+Psoriasis – Nail findings, rash, joint pain
+Reactive Arthritis – after infection, joint pain, uveitis, fatigue, skin findings, 
+HLA-B27
+pSLE – similar to adult SLE, multiorgan involvement, complement markers 
+decreased
+Bechet – genital and oral ulcers, uveitis, vasculitis
+JDM – rash + muscle weakness
+Sjogren's – parotiditis, eye dryness
+Scleroderma – calcinosis + fibrosis – cutaneous or systemic
+
+=== PAGE 30 ===
+Back to the case:
+3 yr old M brought into clinic by his mother for about 2 months of swelling in 
+his b/l knees. He went to the Urgent Care 3 months ago for a URI. It stops him 
+from running around as much. He has also felt warm for the past 2 weeks 
+especially in the evenings and some red/pink circles on his skin during that 
+time which go away on it's own.
+On exam, his conjunctiva are pale bilaterally, there is palpable cervical, 
+inguinal and popliteal lymphadenopathy, his liver is 3cm below the costal 
+margin. His Vitals include HR 130 while calm.
+If you got blood work on this patient, what do you think it would show ?
+Diagnosis: sJIA
+Blood work: elevated WBC, inflammatory markers, anemia, 
+elevated tonormal PLT
+Tx: NSAIDs (Naproxen)
+
+=== PAGE 31 ===
+Sources:
+Nelson's Textbook of Pediatrics
+Zitelli and Davis' Atlas of Pediatric Physical Diagnosis 
+Clinical Overview JIA: Bayefsky, Sarah D., MD; Rutstein, Beth H., MD, 
+MSCE
+For JIA – watch Lecturio Medical
+
+=== PAGE 32 ===
+Thank you for listening!
+Lecture Feedback:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=
+HRCY448FWYXREL4R

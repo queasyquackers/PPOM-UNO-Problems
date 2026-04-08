@@ -134,6 +134,7 @@ const testsToLoad = [
     { name: "13-Orthopedic Concerns of Spine (L112)", data: window.Test_L112 },
     { name: "13-Imaging of the MSK System (L113)", data: window.Test_L113 },
     { name: "13-Intro to MSK Ultrasound (L114)", data: window.Test_L114 },
+    { name: "13-Sports Medicine: Overuse Injuries (L115)", data: window.Test_L115 },
     { name: "13-Pediatric Orthopedics (L116)", data: window.Test_L116 },
     { name: "13-Pharm: Pharmacology of NSAIDs (L117)", data: window.Test_L117 },
     { name: "13-Pharm: Pharmacology of NSAIDs Part 2 (L118)", data: window.Test_L118 },
@@ -142,6 +143,19 @@ const testsToLoad = [
     { name: "13-DPR: History and Physical Exam of the Spine (L121)", data: window.Test_L121 },
 
     // --- Week 14 ---
-    { name: "14-Sports Medicine: Overuse Injuries (L115)", data: window.Test_L115 }
+    { name: "14-Adaptive Immunity Part 1 (L123)", data: window.Test_L123 },
+    { name: "14-Adaptive Immunity Part 2 (L124)", data: window.Test_L124 },
+    { name: "14-Immunologically Mediated Diseases (L125)", data: window.Test_L125 },
+    { name: "14-Mechanisms of Autoimmunity (L126)", data: window.Test_L126 },
+    { name: "14-Rheumatology 1: Diseases of Joints (L127)", data: window.Test_L127 },
+    { name: "14-Rheumatology 2: Systemic Rheumatologic Disease (L128)", data: window.Test_L128 },
+    { name: "14-Rheumatology 3: Diseases Affecting Muscle (L129)", data: window.Test_L129 },
+    { name: "14-Pharm: Pharmacology of Gout and Pseudogout (L130)", data: window.Test_L130 },
+    { name: "14-Pediatric Rheumatology (L131)", data: window.Test_L131 },
+    { name: "14-Pharm: Pharmacology of DMARDs I (L132)", data: window.Test_L132 },
+    { name: "14-Pharm: Pharmacology of DMARDs II (L133)", data: window.Test_L133 },
+    { name: "14-DPR: Hip and Knee Exam (L134)", data: window.Test_L134 },
+    { name: "14-DPR: Ankle and Foot Exam (L135)", data: window.Test_L135 }
+
 ];
 

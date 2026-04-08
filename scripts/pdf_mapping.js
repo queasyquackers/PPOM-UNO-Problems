@@ -98,29 +98,19 @@ const PDF_MAPPING = {
     "L120": "pdfs/Lecture # 119 & #120. T. Slieman, Ph.D. (PPT).pdf",
     "L121": "pdfs/L121.pdf",
     "L122": "pdfs/L122.pdf",
-    "L123": "pdfs/L123.pdf",
-    "L124": "pdfs/L124.pdf",
-    "L125": "pdfs/L125.pdf",
-    "L126": "pdfs/L126.pdf",
-    "L127": "pdfs/L127.pdf",
-    "L128": "pdfs/L128.pdf",
-    "L129": "pdfs/L129.pdf",
-    "L130": "pdfs/L130.pdf",
-    "L131": [
-        "pdfs/L131_1.pdf",
-        "pdfs/L131_2.pdf",
-        "pdfs/L131_3.pdf",
-        "pdfs/L131_4.pdf"
-    ],
-    "L132": [
-        "pdfs/L132_1.pdf",
-        "pdfs/L132_2.pdf",
-        "pdfs/L132_3.pdf",
-        "pdfs/L132_4.pdf"
-    ],
-    "L133": "pdfs/L133.pdf",
-    "L134": "pdfs/L134.pdf",
-    "L135": "pdfs/L135.pdf",
+    "L123": "pdfs/Lecture # 123 & #124. T. Slieman, Ph.D. (PPT).pdf",
+    "L124": "pdfs/Lecture # 123 & #124. T. Slieman, Ph.D. (PPT).pdf",
+    "L125": "pdfs/Lecture # 125. T. Slieman, Ph.D. (PPT).pdf",
+    "L126": "pdfs/Lecture # 126. T. Slieman, Ph.D. (PPT).pdf",
+    "L127": "pdfs/Lecture # 127. W. Palmer, M.D. (PPT).pdf",
+    "L128": "pdfs/Lecture # 128. W. Palmer, M.D. (PPT).pdf",
+    "L129": "pdfs/Lecture # 129. W. Palmer, M.D. (PPT).pdf",
+    "L130": "pdfs/Lecture # 130. D. Cummins, Pharm.D., BCPS (PPT).pdf",
+    "L131": "pdfs/Lecture # 131. A. Patel, D.O. (PPT).pdf",
+    "L132": "pdfs/Lecture # 132. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L133": "pdfs/Lecture # 133. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L134": "pdfs/Lecture # 134. M. Heller, D.O. (PPT).pdf",
+    "L135": "pdfs/Lecture # 135. M. Heller, D.O. (PPT).pdf",
     "L136": "pdfs/L136.pdf",
     "L137": "pdfs/L137.pdf",
     "L138": "pdfs/L138.pdf",
@@ -144,7 +134,7 @@ const PDF_MAPPING = {
     "Pharmacokinetics": "pdfs/L109110.pdf",
     "OMM: Diagnosis of the Elbow and Wrist (L109)": "pdfs/Lecture 109. K. Cornick, D.O. (PPT) updated 3.13.26.pdf",
     "Epidemiology I": "pdfs/L134.pdf",
-    "Epidemiology II": "pdfs/L135.pdf",
+    "Epidemiology II": "pdfs/Lecture # 135. M. Heller, D.O. (PPT).pdf",
     "Gross Divisions CNS": "pdfs/L136.pdf",
     "Neurons & Synapse": "pdfs/L137.pdf",
     "Neurochemistry": "pdfs/L138.pdf",
@@ -276,8 +266,12 @@ const PDF_MAPPING = {
     "12-DPR: Shoulder & Elbow (L108)": "pdfs/Lecture # 108. A. Coladner, D.O. (PPT).pdf",
     "13-Orthopedics: Lower Extremity (L111)": "pdfs/Lecture # 111. M. Heller, D.O. (PPT).pdf",
     "13-Pediatric Orthopedics (L116)": "pdfs/L115L116.pdf",
-    "14-Sports Medicine: Overuse Injuries (L115)": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf",
-    "13-DPR: History and Physical Exam of the Spine (L121)": "pdfs/L121.pdf"
+    "13-Sports Medicine: Overuse Injuries (L115)": "pdfs/Lecture # 115. H. Zwibel, D.O. (PPT).pdf",
+    "13-DPR: History and Physical Exam of the Spine (L121)": "pdfs/L121.pdf",
+    "14-Rheumatology 3: Diseases Affecting Muscle (L129)": "pdfs/Lecture # 129. W. Palmer, M.D. (PPT).pdf",
+    "14-Pediatric Rheumatology (L131)": "pdfs/Lecture # 131. A. Patel, D.O. (PPT).pdf",
+    "14-DPR: Hip and Knee Exam (L134)": "pdfs/Lecture # 134. M. Heller, D.O. (PPT).pdf"
+
 };
 
 
