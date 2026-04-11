@@ -1,6 +1,4 @@
-window.receiveLectureContent({
-    lectureId: "L146",
-    questions: [
+window.Test_L146 = [
         {
             category: "Mechanism of Disease",
             questionText: "A 2-month-old male infant is brought to the pediatrician for persistent oral thrush and failure to thrive. Newborn screening revealed absent T-cell receptor excision circles (TRECs). Laboratory studies show profoundly low counts of T-cells, B-cells, and natural killer (NK) cells. A deficiency in which of the following enzymes is the most likely cause of this patient's condition?",
@@ -713,5 +711,4 @@ window.receiveLectureContent({
             pdfPage: 52,
             pdfQuote: "thrombocytopenia... you'll find eczema as well... you will see smaller fewer platelets"
         }
-    ]
-});
+];
