@@ -112,8 +112,10 @@ const PDF_MAPPING = {
     "L134": "pdfs/Lecture # 134. M. Heller, D.O. (PPT).pdf",
     "L135": "pdfs/Lecture # 135. M. Heller, D.O. (PPT).pdf",
     "L136": "pdfs/L136.pdf",
-    "L137": "pdfs/L137.pdf",
-    "L138": "pdfs/L138.pdf",
+    "L137": "pdfs/Lecture # 137. T. Slieman, Ph.D. (PPT).pdf",
+    "L138": "pdfs/Lecture # 138. P. Ryo, D.O. (PPT).pdf",
+    "L139": "pdfs/Lecture # 139. M. Pino, Ph.D. (PPT).pdf",
+    "L141": "pdfs/Lecture # 141. B. Hickey, M.D. (PPT).pdf",
     "L107L108": "pdfs/Lecture # 107. R. Morgan, D.O. (PPT).pdf",
     "L109L110": "pdfs/Lecture 109. K. Cornick, D.O. (PPT) updated 3.13.26.pdf",
     "L115L116": "pdfs/L115L116.pdf",
@@ -136,8 +138,8 @@ const PDF_MAPPING = {
     "Epidemiology I": "pdfs/L134.pdf",
     "Epidemiology II": "pdfs/Lecture # 135. M. Heller, D.O. (PPT).pdf",
     "Gross Divisions CNS": "pdfs/L136.pdf",
-    "Neurons & Synapse": "pdfs/L137.pdf",
-    "Neurochemistry": "pdfs/L138.pdf",
+    "Test of Immune Function": "pdfs/Lecture # 137. T. Slieman, Ph.D. (PPT).pdf",
+    "15-Test of Immune Function (L137)": "pdfs/Lecture # 137. T. Slieman, Ph.D. (PPT).pdf",
 
     // Week 15 Mappings
     "Beta Lactams Pt2": "pdfs/L123.pdf",
@@ -270,8 +272,16 @@ const PDF_MAPPING = {
     "13-DPR: History and Physical Exam of the Spine (L121)": "pdfs/L121.pdf",
     "14-Rheumatology 3: Diseases Affecting Muscle (L129)": "pdfs/Lecture # 129. W. Palmer, M.D. (PPT).pdf",
     "14-Pediatric Rheumatology (L131)": "pdfs/Lecture # 131. A. Patel, D.O. (PPT).pdf",
-    "14-DPR: Hip and Knee Exam (L134)": "pdfs/Lecture # 134. M. Heller, D.O. (PPT).pdf"
-
+    "14-DPR: Hip and Knee Exam (L134)": "pdfs/Lecture # 134. M. Heller, D.O. (PPT).pdf",
+    "15-Allergens and Allergic Rhinitis (L139)": "pdfs/Lecture # 139. M. Pino, Ph.D. (PPT).pdf",
+    "L140": "pdfs/Lecture # 140. J. Maccagnano, D.O. (PPT).pdf",
+    "15-Anaphylaxis and Allergic Reactions (L140)": "pdfs/Lecture # 140. J. Maccagnano, D.O. (PPT).pdf",
+    "15-Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 1 (L141)": "pdfs/Lecture # 141. B. Hickey, M.D. (PPT).pdf",
+    "15-Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 2 (L142)": "pdfs/Lecture # 142. B. Hickey, M.D. (PPT).pdf",
+    "L142": "pdfs/Lecture # 142. B. Hickey, M.D. (PPT).pdf",
+    "L143": "pdfs/Lecture # 143. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L144": "pdfs/Lecture # 144. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L145": "pdfs/Lecture # 145. A. Hurst, M.D. (PPT).pdf"
 };
 
 

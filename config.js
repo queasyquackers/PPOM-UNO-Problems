@@ -155,7 +155,20 @@ const testsToLoad = [
     { name: "14-Pharm: Pharmacology of DMARDs I (L132)", data: window.Test_L132 },
     { name: "14-Pharm: Pharmacology of DMARDs II (L133)", data: window.Test_L133 },
     { name: "14-DPR: Hip and Knee Exam (L134)", data: window.Test_L134 },
-    { name: "14-DPR: Ankle and Foot Exam (L135)", data: window.Test_L135 }
+    { name: "14-DPR: Ankle and Foot Exam (L135)", data: window.Test_L135 },
+
+    // --- Week 15 ---
+    { name: "15-Test of Immune Function (L137)", data: window.Test_L137 },
+    { name: "15-Diagnosis of Immediate Hypersensitivity (L138)", data: window.Test_L138 },
+    { name: "15-Allergens and Allergic Rhinitis (L139)", data: window.Test_L139 },
+    { name: "15-Anaphylaxis and Allergic Reactions (L140)", data: window.Test_L140 },
+    { name: "15-Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 1 (L141)", data: window.Test_L141 },
+    { name: "15-Immunogenetics, Lymphocyte Activation, Immune Reg. and Tolerance 2 (L142)", data: window.Test_L142 },
+    { name: "15-Pharmacology Immunosuppressants Part 1 (L143)", data: window.Test_L143 },
+    { name: "15-Pharmacology Immunosuppressants Part 2 (L144)", data: window.Test_L144 },
+    { name: "15-Clinical Approach to Immunodeficiencies (L145)", data: window.Test_L145 },
+    { name: "15-Pediatric Immunology (L146)", data: window.Test_L146 },
+    { name: "15-Week 12-15 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk12_15 }
 
 ];
 
