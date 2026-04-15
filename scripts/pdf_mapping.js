@@ -281,7 +281,9 @@ const PDF_MAPPING = {
     "L142": "pdfs/Lecture # 142. B. Hickey, M.D. (PPT).pdf",
     "L143": "pdfs/Lecture # 143. L. Goldstein, Pharm.D. (PPT).pdf",
     "L144": "pdfs/Lecture # 144. L. Goldstein, Pharm.D. (PPT).pdf",
-    "L145": "pdfs/Lecture # 145. A. Hurst, M.D. (PPT).pdf"
+    "L145": "pdfs/Lecture # 145. A. Hurst, M.D. (PPT).pdf",
+    "L147": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf",
+    "15-Public & Global Health: Role of Immunizations (L147)": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf"
 };
 
 

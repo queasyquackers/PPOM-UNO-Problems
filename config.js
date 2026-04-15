@@ -168,6 +168,7 @@ const testsToLoad = [
     { name: "15-Pharmacology Immunosuppressants Part 2 (L144)", data: window.Test_L144 },
     { name: "15-Clinical Approach to Immunodeficiencies (L145)", data: window.Test_L145 },
     { name: "15-Pediatric Immunology (L146)", data: window.Test_L146 },
+    { name: "15-Public & Global Health: Role of Immunizations (L147)", data: window.Test_L147 },
     { name: "15-Week 12-15 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk12_15 }
 
 ];
