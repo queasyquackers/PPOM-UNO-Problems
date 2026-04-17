@@ -4,13 +4,13 @@ window.Test_L102 = [
     "category": "Bacterial Meningitis",
     "questionText": "A 24-year-old medical student is studying the mechanism of action of first-line agents for bacterial meningitis. Which of the following best describes the molecular target of the third-generation cephalosporin most commonly used for empiric therapy?",
     "options": [
-      "Inhibition of the transpeptidase enzyme responsible for peptidoglycan cross-linking",
-      "Binding to the D-alanyl-D-alanine terminus of peptidoglycan precursors",
-      "Inhibition of DNA-dependent RNA polymerase, preventing mRNA synthesis",
       "Inhibition of the 30S ribosomal subunit, preventing initiation of translation",
-      "Binding to the 50S ribosomal subunit, inhibiting peptidyl transferase"
+      "Inhibition of the transpeptidase enzyme responsible for peptidoglycan cross-linking",
+      "Inhibition of DNA-dependent RNA polymerase, preventing mRNA synthesis",
+      "Binding to the 50S ribosomal subunit, inhibiting peptidyl transferase",
+      "Binding to the D-alanyl-D-alanine terminus of peptidoglycan precursors"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. Ceftriaxone (a 3rd-gen cephalosporin) inhibits the transpeptidase enzyme (a penicillin-binding protein), which prevents the final cross-linking step of peptidoglycan synthesis, leading to bacterial cell death.",
       "1": "Incorrect. This is the mechanism of action for vancomycin, not cephalosporins.",
@@ -27,13 +27,13 @@ window.Test_L102 = [
     "category": "Bacterial Meningitis",
     "questionText": "A researcher is investigating mechanisms of antibiotic resistance in Streptococcus pneumoniae isolates from patients with meningitis. Which of the following is the most likely mechanism by which these organisms develop resistance to vancomycin?",
     "options": [
-      "Modification of the drug target to D-alanyl-D-lactate",
-      "Production of beta-lactamase enzymes that hydrolyze the drug",
-      "Alteration of penicillin-binding proteins (PBPs)",
       "Downregulation of porin channels in the outer membrane",
-      "Upregulation of efflux pumps that actively remove the drug"
+      "Alteration of penicillin-binding proteins (PBPs)",
+      "Upregulation of efflux pumps that actively remove the drug",
+      "Modification of the drug target to D-alanyl-D-lactate",
+      "Production of beta-lactamase enzymes that hydrolyze the drug"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Resistance to vancomycin typically occurs via the alteration of the D-Ala-D-Ala terminus to D-Ala-D-Lac, which significantly decreases the drug's binding affinity.",
       "1": "Incorrect. Beta-lactamases affect penicillins and cephalosporins, not vancomycin.",
@@ -50,13 +50,13 @@ window.Test_L102 = [
     "category": "Bacterial Meningitis",
     "questionText": "A neonate is diagnosed with bacterial meningitis, and empiric therapy with ampicillin and gentamicin is initiated. What is the primary rationale for including ampicillin in this specific patient context?",
     "options": [
-      "To provide coverage for Listeria monocytogenes",
-      "To enhance penetration through the blood-brain barrier",
-      "To prevent the development of Stevens-Johnson syndrome",
       "To inhibit beta-lactamase produced by E. coli",
-      "To reduce the risk of aminoglycoside-induced ototoxicity"
+      "To provide coverage for Listeria monocytogenes",
+      "To prevent the development of Stevens-Johnson syndrome",
+      "To reduce the risk of aminoglycoside-induced ototoxicity",
+      "To enhance penetration through the blood-brain barrier"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. Neonates and the elderly are at increased risk for Listeria monocytogenes, which is naturally resistant to cephalosporins. Ampicillin is added to provide coverage for this pathogen.",
       "1": "Incorrect. Cephalosporins generally have better BBB penetration than ampicillin in non-inflamed states, though both work well during meningitis.",
@@ -73,13 +73,13 @@ window.Test_L102 = [
     "category": "Antimicrobial Toxicity",
     "questionText": "A patient receiving high-dose gentamicin for a serious CNS infection is at highest risk for which of the following irreversible adverse effects?",
     "options": [
-      "Ototoxicity (vestibular or cochlear damage)",
+      "Gray baby syndrome (cyanosis and lethargy)",
       "Acute tubular necrosis (nephrotoxicity)",
       "Red man syndrome (histamine release)",
       "Disulfiram-like reaction with alcohol",
-      "Gray baby syndrome (cyanosis and lethargy)"
+      "Ototoxicity (vestibular or cochlear damage)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Aminoglycosides like gentamicin can cause irreversible damage to cranial nerve VIII, leading to hearing loss or ভারসাম্য balance issues (ototoxicity).",
       "1": "Incorrect. While gentamicin causes nephrotoxicity, it is typically reversible if caught early.",
@@ -96,13 +96,13 @@ window.Test_L102 = [
     "category": "Antimicrobial Toxicity",
     "questionText": "A 10-month-old infant is treated for a resistant infection with an antibiotic that inhibits peptidyl transferase at the 50S ribosome. Shortly after, the infant develops cyanosis, hypotension, and a 'gray' appearance. What is the underlying biochemical deficiency leading to this toxicity?",
     "options": [
-      "Inadequate hepatic glucuronidation (UDP-glucuronosyltransferase)",
-      "Deficiency of glucose-6-phosphate dehydrogenase (G6PD)",
-      "Decreased renal clearance of aminoglycoside metabolites",
+      "Impaired production of heat shock proteins in the infant's cells",
       "Mutation in the DNA gyrase A subunit leading to drug accumulation",
-      "Impaired production of heat shock proteins in the infant's cells"
+      "Decreased renal clearance of aminoglycoside metabolites",
+      "Inadequate hepatic glucuronidation (UDP-glucuronosyltransferase)",
+      "Deficiency of glucose-6-phosphate dehydrogenase (G6PD)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Gray baby syndrome occurs with chloramphenicol because infants lack the necessary UDP-glucuronosyltransferase (UDP cofactor) to metabolize the drug via glucuronidation.",
       "1": "Incorrect. G6PD deficiency leads to hemolytic anemia with certain drugs like sulfonamides or nitrofurantoin.",
@@ -121,8 +121,8 @@ window.Test_L102 = [
     "options": [
       "Upregulation of plasmid-encoded drug efflux pumps",
       "Enzymatic acetylation of the hydroxyl groups on the drug",
-      "Point mutation in the 30S ribosomal binding site",
       "Alteration of the drug target to D-alanyl-D-lactate",
+      "Point mutation in the 30S ribosomal binding site",
       "Production of porin channels that exclude the drug"
     ],
     "correctAnswerIndex": 0,
@@ -142,13 +142,13 @@ window.Test_L102 = [
     "category": "Fluoroquinolones",
     "questionText": "A 19-year-old college student is treated with a fluoroquinolone for a suspected bacterial infection. Which of the following describes the mechanism of action of this class of antibiotics?",
     "options": [
+      "Inhibition of dihydrofolate reductase in folate synthesis",
+      "Disruption of the bacterial cell membrane potential",
       "Inhibition of DNA gyrase and topoisomerase IV",
       "Inhibition of the sigma subunit of RNA polymerase",
-      "Disruption of the bacterial cell membrane potential",
-      "Inhibition of dihydrofolate reductase in folate synthesis",
       "Binding to the 30S ribosomal subunit to cause mistranslation"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. Fluoroquinolones work by inhibiting DNA gyrase (topoisomerase II) and topoisomerase IV, preventing DNA replication and causing strand breaks.",
       "1": "Incorrect. This describes rifampin's mechanism.",
@@ -165,13 +165,13 @@ window.Test_L102 = [
     "category": "Viral Infections",
     "questionText": "A patient with HSV-2 meningitis is treated with acyclovir. Which of the following describes the mechanism of this drug?",
     "options": [
-      "Competitive inhibition of viral DNA polymerase and chain termination",
+      "Inhibition of the viral integrase enzyme, preventing genomic entry",
       "Inhibition of neuraminidase, preventing the release of new virions",
-      "Direct inhibition of viral RNA-dependent RNA polymerase",
       "Prevention of viral uncoating by blocking the M2 proton channel",
-      "Inhibition of the viral integrase enzyme, preventing genomic entry"
+      "Direct inhibition of viral RNA-dependent RNA polymerase",
+      "Competitive inhibition of viral DNA polymerase and chain termination"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Acyclovir is phosphorylated to a triphosphate form (initially by viral thymidine kinase), which then competitively inhibits viral DNA polymerase and acts as a chain terminator.",
       "1": "Incorrect. This is the mechanism for oseltamivir and zanamivir.",
@@ -188,13 +188,13 @@ window.Test_L102 = [
     "category": "Antiviral Drugs",
     "questionText": "A patient with CMV meningitis develops resistance to ganciclovir due to a mutation in the UL97 viral kinase. Which of the following drugs can be used as an alternative because it does NOT require viral phosphorylation for activation?",
     "options": [
-      "Foscarnet",
+      "Acyclovir",
       "Valacyclovir",
       "Cidofovir",
       "Famciclovir",
-      "Acyclovir"
+      "Foscarnet"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Foscarnet is a pyrophosphate analog that directly inhibits viral DNA polymerase without needing phosphorylation by a viral kinase.",
       "1": "Incorrect. Valacyclovir is a pro-drug of acyclovir and requires phosphorylation.",
@@ -211,13 +211,13 @@ window.Test_L102 = [
     "category": "Fungal Meningitis",
     "questionText": "A patient is treated for cryptococcal meningitis with an antifungal that binds to ergosterol in the fungal cell membrane and forms pores. Which of the following is a common, dose-limiting adverse effect of this medication?",
     "options": [
+      "Disulfiram-like reaction when consuming alcoholic beverages",
+      "Severe bone marrow suppression leading to aplastic anemia",
       "Cumulative nephrotoxicity due to renal vasoconstriction",
       "Visual disturbances including blurred vision and 'owl's eyes'",
-      "Severe bone marrow suppression leading to aplastic anemia",
-      "Achilles tendon rupture and impaired growth of cartilage",
-      "Disulfiram-like reaction when consuming alcoholic beverages"
+      "Achilles tendon rupture and impaired growth of cartilage"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. Amphotericin B is notoriously nephrotoxic, causing both direct damage to tubular membranes and renal vasoconstriction leading to a drop in GFR.",
       "1": "Incorrect. 'Owl's eyes' refers to CMV histopathology, not an antifungal side effect. Visual changes are more common with voriconazole.",
@@ -234,13 +234,13 @@ window.Test_L102 = [
     "category": "Fungal Meningitis",
     "questionText": "Which of the following antifungals is specifically preferred for the maintenance treatment of fungal meningitis because of its excellent penetration into the cerebrospinal fluid (CSF)?",
     "options": [
-      "Fluconazole",
-      "Ketoconazole",
       "Itraconazole",
-      "Voriconazole",
-      "Terbinafine"
+      "Terbinafine",
+      "Ketoconazole",
+      "Fluconazole",
+      "Voriconazole"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Fluconazole has excellent CSF penetration and is the azole of choice for treating and preventing fungal meningitis (e.g., cryptococcal).",
       "1": "Incorrect. Ketoconazole has poor CSF penetration.",
@@ -257,13 +257,13 @@ window.Test_L102 = [
     "category": "Glucocorticoids",
     "questionText": "A patient with bacterial meningitis is administered dexamethasone shortly before the first dose of antibiotics. What is the molecular target of this medication that leads to decreased CNS inflammation?",
     "options": [
-      "Inhibition of Phospholipase A2",
-      "Direct inhibition of Cyclooxygenase-2 (COX-2)",
-      "Binding to the 50S ribosomal subunit",
       "Antagonism of the leukotriene receptor",
-      "Inhibition of the viral neuraminidase enzyme"
+      "Direct inhibition of Cyclooxygenase-2 (COX-2)",
+      "Inhibition of the viral neuraminidase enzyme",
+      "Inhibition of Phospholipase A2",
+      "Binding to the 50S ribosomal subunit"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Glucocorticoids inhibit Phospholipase A2, which prevents the release of arachidonic acid and subsequent synthesis of inflammatory prostaglandins and leukotrienes.",
       "1": "Incorrect. Glucocorticoids *reduce* COX-2 synthesis but their upstream primary target is Phospholipase A2. NSAIDs directly inhibit COX-2.",
@@ -281,10 +281,10 @@ window.Test_L102 = [
     "questionText": "A strain of Neisseria meningitidis is found to be resistant to penicillin but susceptible to third-generation cephalosporins. Which of the following is the most likely mechanism of resistance to penicillin in this strain?",
     "options": [
       "Production of beta-lactamase",
-      "Alteration of penicillin-binding proteins (PBPs)",
       "Loss of porin channels in the cell envelope",
-      "Active efflux of the drug via ABC transporters",
-      "Modification of the cell wall D-Ala-D-Ala terminus"
+      "Modification of the cell wall D-Ala-D-Ala terminus",
+      "Alteration of penicillin-binding proteins (PBPs)",
+      "Active efflux of the drug via ABC transporters"
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -303,13 +303,13 @@ window.Test_L102 = [
     "category": "Viral Infections",
     "questionText": "A physician is explaining the mechanism of oseltamivir to a patient with influenza-associated CNS symptoms. Which viral process does this drug directly inhibit?",
     "options": [
-      "Release of new virions from the host cell",
-      "Uncoating of the viral genome within the cytosol",
-      "Entry of the virus into the host cell via endocytosis",
+      "Integration of the viral DNA into the host chromosome",
       "Replication of the viral RNA genome",
-      "Integration of the viral DNA into the host chromosome"
+      "Release of new virions from the host cell",
+      "Entry of the virus into the host cell via endocytosis",
+      "Uncoating of the viral genome within the cytosol"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. Neuraminidase inhibitors like oseltamivir prevent the cleavage of sialic acid, which keeps new virions tethered to the host cell and prevents their release and spread.",
       "1": "Incorrect. This describes amantadine/rimantadine.",
@@ -326,13 +326,13 @@ window.Test_L102 = [
     "category": "Fungal Meningitis",
     "questionText": "Flucytosine is often added to amphotericin B for the treatment of cryptococcal meningitis. What is the metabolic conversion required for flucytosine to inhibit fungal DNA and RNA synthesis?",
     "options": [
-      "Conversion to 5-fluorouracil (5-FU) by cytosine deaminase",
       "Phosphorylation by viral thymidine kinase to a monophosphate",
+      "Conversion to 5-fluorouracil (5-FU) by cytosine deaminase",
+      "Oxidation by cytochrome P450 3A4 in the intestinal wall",
       "Acetylation by hepatic N-acetyltransferase 2 (NAT2)",
-      "Glucuronidation in the liver to an active metabolite",
-      "Oxidation by cytochrome P450 3A4 in the intestinal wall"
+      "Glucuronidation in the liver to an active metabolite"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. Flucytosine is a pro-drug that is converted to 5-fluorouracil by fungal cytosine deaminase. 5-FU kemudian inhibits thymidylate synthase and interferes with DNA/RNA synthesis.",
       "1": "Incorrect. This is the activation pathway for acyclovir/ganciclovir.",
@@ -350,10 +350,10 @@ window.Test_L102 = [
     "questionText": "A 17-year-old female is brought to the emergency department with a severe headache, nuchal rigidity, and fever of 103°F. Gram stain of the CSF reveals gram-positive diplococci. She is immediately started on an intravenous antibiotic. Within 15 minutes, her face and neck become intensely flushed and erythematous, but her blood pressure remains stable. Which of the following is the most appropriate next step in management?",
     "options": [
       "Slow the infusion rate of the current antibiotic",
-      "Immediately switch to intravenous ceftriaxone",
-      "Administer intramuscular epinephrine for anaphylaxis",
       "Increase the dose of the antibiotic to overcome resistance",
-      "Stop the antibiotic and perform a penicillin skin test"
+      "Administer intramuscular epinephrine for anaphylaxis",
+      "Stop the antibiotic and perform a penicillin skin test",
+      "Immediately switch to intravenous ceftriaxone"
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -372,13 +372,13 @@ window.Test_L102 = [
     "category": "Prophylaxis",
     "questionText": "A 22-year-old man is hospitalized with meningococcal meningitis. Public health officials identify his roommates and close contacts for prophylactic treatment. One roommate, a 21-year-old woman, is prescribed an oral medication to be taken for two days. She returns to the clinic concerned that her contact lenses and urine have turned orange-red. Which of the following is the mechanism of the drug she was prescribed?",
     "options": [
-      "Inhibition of DNA-dependent RNA polymerase",
-      "Inhibition of DNA gyrase and topoisomerase II",
-      "Irreversible binding to the 30S ribosomal subunit",
       "Phospholipase A2 inhibition and anti-inflammatory activity",
+      "Inhibition of DNA-dependent RNA polymerase",
+      "Irreversible binding to the 30S ribosomal subunit",
+      "Inhibition of DNA gyrase and topoisomerase II",
       "Inhibition of cell wall synthesis by D-Ala-D-Ala binding"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. Rifampin is the drug of choice for meningitis prophylaxis and classically causes orange-red discoloration of body fluids. It inhibits DNA-dependent RNA polymerase.",
       "1": "Incorrect. This describes fluoroquinolones (e.g., ciprofloxacin), which can also be used for prophylaxis but aren't associated with red secretions.",
@@ -396,10 +396,10 @@ window.Test_L102 = [
     "questionText": "An 82-year-old resident of a nursing home is admitted with fever, confusion, and a stiff neck. Empiric therapy for meningitis is started. In addition to ceftriaxone and vancomycin, the physician adds intravenous ampicillin. This addition is specifically intended to target which of the following pathogens?",
     "options": [
       "Listeria monocytogenes",
-      "Methicillin-resistant Staphylococcus aureus (MRSA)",
-      "Neisseria meningitidis",
       "Haemophilus influenzae type b",
-      "Streptococcus agalacticae (GBS)"
+      "Streptococcus agalacticae (GBS)",
+      "Neisseria meningitidis",
+      "Methicillin-resistant Staphylococcus aureus (MRSA)"
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -418,13 +418,13 @@ window.Test_L102 = [
     "category": "Adverse Effects",
     "questionText": "A 45-year-old male is being treated for bacterial meningitis with a cephalosporin. Later that evening, he consumes a beer and immediately experiences severe flushing, nausea, and palpitation. Which of the following cephalosporins is most likely responsible for this 'disulfiram-like' reaction?",
     "options": [
-      "Cefotetan",
       "Ceftriaxone",
       "Cefotaxime",
+      "Cefazolin",
       "Ceftazidime",
-      "Cefazolin"
+      "Cefotetan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Cefotetan (and cefoperazone) contains a methylthiotetrazole side chain that can cause a disulfiram-like reaction when combined with alcohol.",
       "1": "Incorrect. Ceftriaxone does not typically cause this reaction.",
@@ -464,13 +464,13 @@ window.Test_L102 = [
     "category": "Adverse Effects",
     "questionText": "A 22-year-old athlete with a history of recurrent ear infections is treated with an oral antibiotic for a systemic infection. Three days later, while training, he experiences sudden, sharp pain in his heel. Which of the following classes of antibiotics is he most likely taking?",
     "options": [
-      "Fluoroquinolones",
-      "Tetracyclines",
       "Aminoglycosides",
-      "Glycopeptides",
-      "Sulfonamides"
+      "Tetracyclines",
+      "Fluoroquinolones",
+      "Sulfonamides",
+      "Glycopeptides"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. Fluoroquinolones (like ciprofloxacin or levofloxacin) are associated with tendonitis and tendon rupture, particularly of the Achilles tendon.",
       "1": "Incorrect. Tetracyclines cause photosensitivity and teeth staining.",
@@ -487,13 +487,13 @@ window.Test_L102 = [
     "category": "Pediatric/Pregnancy",
     "questionText": "A 10-year-old child is diagnosed with a tick-borne infection in rural North Carolina. While doxycycline is the first-line treatment for this condition, the physician is hesitant to use it if the course is prolonged. Which of the following is the primary risk of using tetracyclines in children under 8 years of age?",
     "options": [
-      "Permanent tooth discoloration and enamel hypoplasia",
       "Premature closure of the epiphyseal plates",
       "Development of Fanconi syndrome with outdated drugs",
-      "Irreversible hearing loss (cranial nerve VIII damage)",
-      "High risk of Gray baby syndrome in adolescents"
+      "High risk of Gray baby syndrome in adolescents",
+      "Permanent tooth discoloration and enamel hypoplasia",
+      "Irreversible hearing loss (cranial nerve VIII damage)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Tetracyclines chelate calcium and deposit in developing bones and teeth, causing permanent staining and enamel issues in children.",
       "1": "Incorrect. This is not a classic effect of tetracyclines (more of an endocrine issue if it were to happen).",
@@ -511,10 +511,10 @@ window.Test_L102 = [
     "questionText": "A patient fails to respond to treatment for Neisseria meningitidis with a beta-lactam antibiotic. Lab analysis shows the organism has modified its porin channels. Which class of antibiotics is least likely to be affected by this specific change?",
     "options": [
       "Lipophilic antibiotics like chloramphenicol",
-      "Hydrophilic penicillins like ampicillin",
-      "Third-generation cephalosporins",
+      "Fluoroquinolones (in gram-negative rods)",
       "Carbapenems like meropenem",
-      "Fluoroquinolones (in gram-negative rods)"
+      "Hydrophilic penicillins like ampicillin",
+      "Third-generation cephalosporins"
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -533,13 +533,13 @@ window.Test_L102 = [
     "category": "Antiviral Drugs",
     "questionText": "A 29-year-old HIV-positive patient develops CMV retinitis and is started on ganciclovir. Which of the following represents the most significant toxicity associated with this therapy?",
     "options": [
-      "Bone marrow suppression (neutropenia/anemia)",
+      "Severe infusion-related 'shake and bake' symptoms",
       "Acute renal failure from crystal nephropathy",
       "Hypocalcemia and hypomagnesemia",
       "Peripheral neuropathy and seizures",
-      "Severe infusion-related 'shake and bake' symptoms"
+      "Bone marrow suppression (neutropenia/anemia)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Ganciclovir inhibits DNA polymerase in both the virus and human bone marrow cells, leading to myelosuppression (especially neutropenia).",
       "1": "Incorrect. This is more common with acyclovir (if not hydrated).",
@@ -556,13 +556,13 @@ window.Test_L102 = [
     "category": "Viral Meningitis",
     "questionText": "A 50-year-old male is treated for a severe HSV-2 infection with high-dose intravenous acyclovir. The physician emphasizes the need for aggressive intravenous hydration. What is the mechanism of renal injury the physician is trying to prevent?",
     "options": [
-      "Crystallization of the drug in the renal tubules",
-      "Direct toxic damage to the mitochondrial DNA in the PCT",
+      "Inhibition of prostaglandins required for renal blood flow",
       "Renal artery vasoconstriction leading to reduced GFR",
       "Glomerular damage from immune complex deposition",
-      "Inhibition of prostaglandins required for renal blood flow"
+      "Direct toxic damage to the mitochondrial DNA in the PCT",
+      "Crystallization of the drug in the renal tubules"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 4,
     "explanation": {
       "0": "Correct. Intravenous acyclovir can precipitate in the renal tubules, causing an obstructive nephropathy. This is prevented by adequate hydration and slow infusion.",
       "1": "Incorrect. This describes the mechanism of some NRTIs like tenofovir but not acyclovir.",
@@ -579,13 +579,13 @@ window.Test_L102 = [
     "category": "Clinical Management",
     "questionText": "A 6-year-old boy presents with a mild headache, low-grade fever, and photophobia. Lumbar puncture is performed, and the physician notes the CSF is clear, has a slightly elevated protein level, but normal glucose and a high percentage of lymphocytes. Gram stain is negative. What is the most likely management strategy?",
     "options": [
-      "Supportive care including hydration and antipyretics",
-      "Immediate intravenous vancomycin and ceftriaxone",
       "Urgent initiation of intravenous amphotericin B",
+      "Supportive care including hydration and antipyretics",
       "High-dose intravenous ganciclovir and foscarnet",
-      "Prescription of a 10-day course of oral ciprofloxacin"
+      "Prescription of a 10-day course of oral ciprofloxacin",
+      "Immediate intravenous vancomycin and ceftriaxone"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. The patient's presentation (mild symptoms, high lymphocytes, clear CSF, normal glucose) is consistent with viral meningitis, for which the treatment is primarily supportive care.",
       "1": "Incorrect. Bacterial meningitis typically presents with cloudier CSF and low glucose; this boy seems to have viral meningitis.",
@@ -602,13 +602,13 @@ window.Test_L102 = [
     "category": "Management in Compromised",
     "questionText": "A patient with AIDS is diagnosed with cryptococcal meningitis. The initial therapy includes amphotericin B. To decrease the renal toxicity of the drug while maintaining efficacy, which formulation of amphotericin B is preferred?",
     "options": [
-      "Liposomal amphotericin B",
-      "Oral amphotericin B suspension",
       "Intramuscular depot amphotericin B",
+      "Topical surfactant-conjugated amphotericin B",
       "Intrathecal amphotericin B only",
-      "Topical surfactant-conjugated amphotericin B"
+      "Liposomal amphotericin B",
+      "Oral amphotericin B suspension"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": {
       "0": "Correct. Liposomal formulations of amphotericin B reduce the drug's delivery to the renal tubules while keeping it concentrated in the infected areas (and reticuloendothelial system), reducing nephrotoxicity.",
       "1": "Incorrect. Amphotericin is poorly absorbed by the GI tract.",
@@ -625,13 +625,13 @@ window.Test_L102 = [
     "category": "Metabolism",
     "questionText": "A patient with fungal meningitis is treated with fluconazole. The physician checks for potential drug-drug interactions because fluconazole is known to do which of the following?",
     "options": [
-      "Inhibit cytochrome P450 enzymes (CYP3A4)",
-      "Induce hepatic glucuronidation (UDP-G)",
       "Stimulate the synthesis of P-glycoprotein pumps",
       "Cause significant bone marrow demargination",
+      "Inhibit cytochrome P450 enzymes (CYP3A4)",
+      "Induce hepatic glucuronidation (UDP-G)",
       "Accelerate renal clearance of other azoles"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. All azoles, including fluconazole, are inhibitors of cytochrome P450 enzymes, which can lead to increased levels of other drugs metabolized by these enzymes.",
       "1": "Incorrect. Azoles are inhibitors, not inducers of metabolic enzymes.",
@@ -648,13 +648,13 @@ window.Test_L102 = [
     "category": "Clinical Case",
     "questionText": "A 55-year-old male receives a lumbar puncture after presenting with typical meningitis symptoms. The CSF shows a significantly elevated protein level, very low glucose, and 85% neutrophils. What is the most likely pathogen?",
     "options": [
-      "Streptococcus pneumoniae",
       "Enterovirus (e.g., Coxsackie A)",
-      "Cryptococcus neoformans",
+      "Streptococcus pneumoniae",
+      "Varicella Zoster Virus (VZV)",
       "Herpes Simplex Virus 2 (HSV-2)",
-      "Varicella Zoster Virus (VZV)"
+      "Cryptococcus neoformans"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": {
       "0": "Correct. High protein, very low glucose, and neutrophil dominance (neutrophilia) are classic for bacterial meningitis. In a 55-year-old, S. pneumoniae is the most common cause.",
       "1": "Incorrect. Viral meningitis presents with normal/slightly low glucose and lymphocytes.",
@@ -671,13 +671,13 @@ window.Test_L102 = [
     "category": "Influenza",
     "questionText": "During a winter outbreak of influenza, several patients develop neurological complications. A patient is treated with zanamivir via inhalation. What is the primary advantage of neuraminidase inhibitors in this setting?",
     "options": [
-      "They prevent the escape of the virus from the infected host cell",
+      "They stimulate the production of host interferon-alpha",
       "They directly inhibit the viral M2 proton channel",
+      "They prevent the escape of the virus from the infected host cell",
       "They block the attachment of the hemagglutinin protein to sialic acid",
-      "They cause direct lysis of the viral envelope on contact",
-      "They stimulate the production of host interferon-alpha"
+      "They cause direct lysis of the viral envelope on contact"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": {
       "0": "Correct. Neuraminidase inhibitors (oseltamivir, zanamivir) prevent the cleavage of sialic acid residues, effectively 'trapping' the virus on the cell surface and preventing its release and spread.",
       "1": "Incorrect. This is the mechanism for amantadine.",

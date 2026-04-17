@@ -1,10 +1,17 @@
-
 window.Test_L140 = [
   {
     "id": 1,
     "category": "Hypersensitivity: Type I",
     "questionText": "An 8-year-old boy is brought to the clinic shortly after being stung by a bee. He is experiencing localized swelling and redness. Which of the following immunoglobulins is primarily responsible for the immediate degranulation of mast cells and the subsequent release of histamine in this patient?",
     "options": [
+      {
+        "text": "Immunoglobulin D (IgD)",
+        "explanation": "Incorrect. IgD is found on the surface of mature B cells and its exact functional role is less prominent in acute clinical scenarios compared to other classes. This would be the correct answer if discussing B-cell maturation markers."
+      },
+      {
+        "text": "Immunoglobulin M (IgM)",
+        "explanation": "Incorrect. IgM is the first antibody produced in an initial immune response and is often involved in Type II reactions via complement activation. This would be the correct answer if the question concerned the primary response to a new pathogen."
+      },
       {
         "text": "Immunoglobulin G (IgG)",
         "explanation": "Incorrect. IgG is involved in Type II and Type III hypersensitivity reactions, but not the immediate degranulation of mast cells in Type I reactions. This would be the correct answer if the patient had a cytotoxic reaction like a blood transfusion mismatch."
@@ -14,19 +21,11 @@ window.Test_L140 = [
         "explanation": "Correct. In Type I hypersensitivity, IgE binds to the surface of mast cells and basophils. Upon re-exposure, the allergen cross-links the preformed IgE, leading to degranulation and release of primary mediators like histamine."
       },
       {
-        "text": "Immunoglobulin M (IgM)",
-        "explanation": "Incorrect. IgM is the first antibody produced in an initial immune response and is often involved in Type II reactions via complement activation. This would be the correct answer if the question concerned the primary response to a new pathogen."
-      },
-      {
         "text": "Immunoglobulin A (IgA)",
         "explanation": "Incorrect. IgA is primarily found in mucosal secretions (saliva, tears, breast milk) and provides defense at mucosal surfaces. This would be the correct answer if discussing the protection of the GI or respiratory lining against colonization."
-      },
-      {
-        "text": "Immunoglobulin D (IgD)",
-        "explanation": "Incorrect. IgD is found on the surface of mature B cells and its exact functional role is less prominent in acute clinical scenarios compared to other classes. This would be the correct answer if discussing B-cell maturation markers."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Type I hypersensitivity is mediated by IgE cross-linking on mast cells and basophils, leading to degranulation.",
     "pdfPage": 6,
     "pdfQuote": "antigens that cross-link preformed IgE on presensitized mast cells"
@@ -41,23 +40,23 @@ window.Test_L140 = [
         "explanation": "Incorrect. While basophils are involved in the immediate phase, they are not the primary cell type recruited for the late phase inflammatory infiltrate. This would be the correct answer if describing the initial sensitization phase."
       },
       {
-        "text": "Neutrophils and Eosinophils",
-        "explanation": "Correct. The late phase (about 6 hours after exposure) involves the synthesis of new mediators like leukotrienes, which attract inflammatory cells—specifically neutrophils and eosinophils—leading to tissue damage."
-      },
-      {
         "text": "Macrophages and NK cells",
         "explanation": "Incorrect. Macrophages are key in Type IV hypersensitivity, and NK cells are part of the innate antiviral response. This would be the correct answer if describing the chronic inflammatory response or a viral infection."
       },
       {
-        "text": "Platelets and RBCs",
-        "explanation": "Incorrect. Platelets are involved in clotting and RBCs in oxygen transport; they do not characterize the allergic inflammatory infiltrate. This would be the correct answer if discussing hemostasis or anemia."
+        "text": "Neutrophils and Eosinophils",
+        "explanation": "Correct. The late phase (about 6 hours after exposure) involves the synthesis of new mediators like leukotrienes, which attract inflammatory cells—specifically neutrophils and eosinophils—leading to tissue damage."
       },
       {
         "text": "B cells and Plasma cells",
         "explanation": "Incorrect. These cells produce antibodies during the initial sensitization phase, but the late-phase reaction is characterized by an influx of inflammatory cells. This would be correct if discussing the production of IgE."
+      },
+      {
+        "text": "Platelets and RBCs",
+        "explanation": "Incorrect. Platelets are involved in clotting and RBCs in oxygen transport; they do not characterize the allergic inflammatory infiltrate. This would be the correct answer if discussing hemostasis or anemia."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The late phase of Type I hypersensitivity occurs about 6 hours after exposure and is characterized by the recruitment of eosinophils and neutrophils.",
     "pdfPage": 8,
     "pdfQuote": "attract inflammatory cells, eosinophils... newly synthesized leukotrienes"
@@ -68,27 +67,27 @@ window.Test_L140 = [
     "questionText": "A 30-year-old woman is being monitored for a potential biphasic reaction after a severe allergic episode. By definition, a biphasic reaction involves the recurrence of anaphylactic symptoms without re-exposure to the allergen within which of the following timeframes?",
     "options": [
       {
-        "text": "Within 2 hours of the original event",
-        "explanation": "Incorrect. This timeframe would typically be considered part of the initial reaction's progression. This would be correct if describing the cutoff for the immediate phase of degranulation."
-      },
-      {
         "text": "Within 24 hours of the original event",
         "explanation": "Incorrect. While many biphasic reactions occur early, the medical definition extends the monitoring window further based on clinical studies. This would be correct if discussing the typical length of many observation periods."
       },
       {
-        "text": "Within 48 hours of the original event",
-        "explanation": "Correct. A biphasic reaction is defined as a reaction meeting anaphylactic criteria within 48 hours of a previous reaction without re-exposure to the antigen."
+        "text": "Within 1 week of the original event",
+        "explanation": "Incorrect. Long-term recurrences are generally considered new exposures or separate clinical issues. This would be correct if discussing the resolution of a simple contact dermatitis."
       },
       {
         "text": "Within 72 hours of the original event",
         "explanation": "Incorrect. 72 hours is beyond the standard clinical definition for biphasic anaphylactic monitoring. This would be correct if discussing the monitoring of certain delayed-type hypersensitivity skin tests."
       },
       {
-        "text": "Within 1 week of the original event",
-        "explanation": "Incorrect. Long-term recurrences are generally considered new exposures or separate clinical issues. This would be correct if discussing the resolution of a simple contact dermatitis."
+        "text": "Within 48 hours of the original event",
+        "explanation": "Correct. A biphasic reaction is defined as a reaction meeting anaphylactic criteria within 48 hours of a previous reaction without re-exposure to the antigen."
+      },
+      {
+        "text": "Within 2 hours of the original event",
+        "explanation": "Incorrect. This timeframe would typically be considered part of the initial reaction's progression. This would be correct if describing the cutoff for the immediate phase of degranulation."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Biphasic reactions occur when anaphylaxis symptoms return within 48 hours of the initial event without a new allergen exposure.",
     "pdfPage": 10,
     "pdfQuote": "anaphylactic criteria within 48 hours of a previous reaction"
@@ -99,27 +98,27 @@ window.Test_L140 = [
     "questionText": "A 45-year-old male presents in anaphylactic shock. The attending physician immediately orders intramuscular epinephrine. Which of the following is the standard adult dose for IM epinephrine in this clinical scenario?",
     "options": [
       {
-        "text": "0.1 mg to 0.2 mg",
-        "explanation": "Incorrect. This dose is too low for an adult patient in anaphylactic shock. This would be the correct answer for certain pediatric weight-based calculations but not the standard adult range."
+        "text": "1.0 mg to 2.0 mg",
+        "explanation": "Incorrect. A 1 mg dose is typical for cardiac arrest (ACLS protocol) but is far too high for an awake patient in anaphylaxis and could cause severe cardiovascular complications. This would be correct in a pulseless arrest."
+      },
+      {
+        "text": "25 mg to 50 mg",
+        "explanation": "Incorrect. This is a massive overdose. This would be the correct answer if describing the dose of diphenhydramine (Benadryl), which is a different medication class entirely."
       },
       {
         "text": "0.3 mg to 0.5 mg",
         "explanation": "Correct. The gold standard treatment for anaphylaxis in adults is 0.3 mg to 0.5 mg of epinephrine delivered intramuscularly (IM) in the thigh (vastus lateralis)."
       },
       {
-        "text": "1.0 mg to 2.0 mg",
-        "explanation": "Incorrect. A 1 mg dose is typical for cardiac arrest (ACLS protocol) but is far too high for an awake patient in anaphylaxis and could cause severe cardiovascular complications. This would be correct in a pulseless arrest."
+        "text": "0.1 mg to 0.2 mg",
+        "explanation": "Incorrect. This dose is too low for an adult patient in anaphylactic shock. This would be the correct answer for certain pediatric weight-based calculations but not the standard adult range."
       },
       {
         "text": "5.0 mg to 10.0 mg",
         "explanation": "Incorrect. Doses in this range are potentially lethal and not used in the management of allergic reactions. This would be the correct answer only if describing certain toxicological levels not related to clinical therapy."
-      },
-      {
-        "text": "25 mg to 50 mg",
-        "explanation": "Incorrect. This is a massive overdose. This would be the correct answer if describing the dose of diphenhydramine (Benadryl), which is a different medication class entirely."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The standard adult dose of IM epinephrine for anaphylaxis is 0.3-0.5 mg, preferably administered in the mid-outer thigh (vastus lateralis).",
     "pdfPage": 16,
     "pdfQuote": "Epinephrine is the gold standard for anaphylaxis 0.3 to 0.5 milligrams IM"
@@ -130,27 +129,27 @@ window.Test_L140 = [
     "questionText": "Epinephrine is the only evidence-proven medicine to treat the life-threatening aspects of anaphylaxis. Which of the following physiological effects best explains its ability to improve blood pressure in a patient with anaphylactic shock?",
     "options": [
       {
-        "text": "Decreased peripheral vascular resistance",
-        "explanation": "Incorrect. Epinephrine increases peripheral vascular resistance through alpha-1 receptors to counteract the vasodilation seen in shock. This would be the correct answer if the patient had hypertensive urgency."
-      },
-      {
-        "text": "Increased peripheral vascular resistance",
-        "explanation": "Correct. Epinephrine increases peripheral vascular resistance and increases cardiac output, both of which help to raise the patient's blood pressure during anaphylactic shock."
-      },
-      {
-        "text": "Decreased cardiac output",
-        "explanation": "Incorrect. Epinephrine is a sympathomimetic that increases both the heart rate (chronotropy) and force of contraction (inotropy), thereby increasing cardiac output. This would be the correct answer if describing a beta-blocker overdose."
+        "text": "Induction of mucosal edema",
+        "explanation": "Incorrect. Epinephrine reduces mucosal edema and reverses bronchoconstriction, helping to secure the airway. This would be the correct answer if describing the effect of histamine on the upper airway."
       },
       {
         "text": "Promotion of mast cell degranulation",
         "explanation": "Incorrect. Epinephrine actually stabilizes mast cell membranes, preventing further release of histamine and other mediators. This would be the correct answer if describing the effect of the initial allergen exposure."
       },
       {
-        "text": "Induction of mucosal edema",
-        "explanation": "Incorrect. Epinephrine reduces mucosal edema and reverses bronchoconstriction, helping to secure the airway. This would be the correct answer if describing the effect of histamine on the upper airway."
+        "text": "Decreased peripheral vascular resistance",
+        "explanation": "Incorrect. Epinephrine increases peripheral vascular resistance through alpha-1 receptors to counteract the vasodilation seen in shock. This would be the correct answer if the patient had hypertensive urgency."
+      },
+      {
+        "text": "Decreased cardiac output",
+        "explanation": "Incorrect. Epinephrine is a sympathomimetic that increases both the heart rate (chronotropy) and force of contraction (inotropy), thereby increasing cardiac output. This would be the correct answer if describing a beta-blocker overdose."
+      },
+      {
+        "text": "Increased peripheral vascular resistance",
+        "explanation": "Correct. Epinephrine increases peripheral vascular resistance and increases cardiac output, both of which help to raise the patient's blood pressure during anaphylactic shock."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Epinephrine treats anaphylactic hypotension by increasing peripheral vascular resistance and cardiac output.",
     "pdfPage": 17,
     "pdfQuote": "increases peripheral vascular resistance. It increases cardiac output."
@@ -161,8 +160,12 @@ window.Test_L140 = [
     "questionText": "A 22-year-old medical student is reviewing basic science before her exam. She is studying the 'cytotoxic reaction' where antibodies bind to antigens on cell surfaces, leading to the formation of a membrane attack complex. Which type of hypersensitivity reaction is she studying?",
     "options": [
       {
-        "text": "Type I",
-        "explanation": "Incorrect. Type I is the immediate IgE-mediated reaction involving mast cells and is associated with allergies. This would be the correct answer if the student were studying the mechanism of hives or hay fever."
+        "text": "Type V",
+        "explanation": "Incorrect. While some older texts classify certain autoimmune receptor stimulations as Type V, the standard classification used by the lecturer and boards focus on the primary four types."
+      },
+      {
+        "text": "Type IV",
+        "explanation": "Incorrect. Type IV is cell-mediated (T cells) and delayed, rather than involving direct antibody-mediated cell lysis. This would be the correct answer if she were studying the mechanism of a positive TB skin test."
       },
       {
         "text": "Type II",
@@ -173,15 +176,11 @@ window.Test_L140 = [
         "explanation": "Incorrect. Type III involves the deposition of circulating immune complexes in blood vessel walls, which then recruit neutrophils. This would be the correct answer if she were studying serum sickness."
       },
       {
-        "text": "Type IV",
-        "explanation": "Incorrect. Type IV is cell-mediated (T cells) and delayed, rather than involving direct antibody-mediated cell lysis. This would be the correct answer if she were studying the mechanism of a positive TB skin test."
-      },
-      {
-        "text": "Type V",
-        "explanation": "Incorrect. While some older texts classify certain autoimmune receptor stimulations as Type V, the standard classification used by the lecturer and boards focus on the primary four types."
+        "text": "Type I",
+        "explanation": "Incorrect. Type I is the immediate IgE-mediated reaction involving mast cells and is associated with allergies. This would be the correct answer if the student were studying the mechanism of hives or hay fever."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Type II hypersensitivity is characterized by antibody-mediated cell destruction via complement activation and the membrane attack complex.",
     "pdfPage": 4,
     "pdfQuote": "antigens on cell surfaces... promote cell lysis via the complement system"
@@ -196,23 +195,23 @@ window.Test_L140 = [
         "explanation": "Incorrect. Albuterol helps with bronchospasm (wheezing) but does not treat the underlying systemic hypotension or laryngeal edema. This would be the correct answer if the patient had isolated asthma without other signs of anaphylaxis."
       },
       {
-        "text": "Surgical cricothyroidotomy",
-        "explanation": "Incorrect. This is a last-resort procedure for a 'cannot intubate, cannot oxygenate' scenario and is not the first step for generalized anaphylaxis. This would be correct if the upper airway was completely obstructed and intubation failed."
-      },
-      {
-        "text": "Administration of epinephrine",
-        "explanation": "Correct. Epinephrine is the primary and only evidence-proven life-saving medication for anaphylaxis. It should be given immediately as the first-line pharmacotherapy."
-      },
-      {
         "text": "Obtaining a chest X-ray",
         "explanation": "Incorrect. Diagnostic imaging should not delay the life-saving administration of epinephrine in a patient with a clear clinical diagnosis of anaphylaxis. This would be the correct answer if the patient were stable and you suspected pneumonia."
       },
       {
+        "text": "Surgical cricothyroidotomy",
+        "explanation": "Incorrect. This is a last-resort procedure for a 'cannot intubate, cannot oxygenate' scenario and is not the first step for generalized anaphylaxis. This would be correct if the upper airway was completely obstructed and intubation failed."
+      },
+      {
         "text": "Checking a serum tryptase level",
         "explanation": "Incorrect. While tryptase can confirm a diagnosis later, it does not help in acute management and should never delay treatment. This would be the correct answer if investigating the cause of an occult reaction in a stable patient."
+      },
+      {
+        "text": "Administration of epinephrine",
+        "explanation": "Correct. Epinephrine is the primary and only evidence-proven life-saving medication for anaphylaxis. It should be given immediately as the first-line pharmacotherapy."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Epinephrine administration is the most critical and first-line treatment for anaphylaxis; never delay its use for adjunctive therapies.",
     "pdfPage": 16,
     "pdfQuote": "epinephrine is the only evidence-proven medicine for anaphylaxis"
@@ -223,27 +222,27 @@ window.Test_L140 = [
     "questionText": "A medical student is analyzing an 'immune complex reaction' where multivalent antigens bind to antibodies and get deposited in blood vessel walls. Which component of the complement system is specifically responsible for attracting neutrophils to these deposits in a Type III reaction?",
     "options": [
       {
-        "text": "C1q",
-        "explanation": "Incorrect. C1q is involved in the initiation of the classical complement pathway by binding to antibody Fc regions. This would be the correct answer if describing the triggers of the complement cascade."
-      },
-      {
-        "text": "C3b",
-        "explanation": "Incorrect. C3b is primarily an opsonin that aids in phagocytosis. This would be the correct answer if discussing the mechanism by which pathogens are marked for ingestion by macrophages."
-      },
-      {
-        "text": "C4a",
-        "explanation": "Incorrect. While C4a is an anaphylatoxin, it is significantly less potent than other components and is not the primary driver of neutrophil chemotaxis in this reaction. This would be the correct answer if discussing the cleavage of C4."
-      },
-      {
         "text": "C5a",
         "explanation": "Correct. In Type III hypersensitivity, the immune complexes deposited in vessel walls activate complement, and C5a serves as the potent chemoattractant that recruits neutrophils to the site."
       },
       {
         "text": "C9",
         "explanation": "Incorrect. C9 is the final component of the membrane attack complex that forms the actual pore in the cell membrane. This would be correct if describing the final step of Type II cell lysis."
+      },
+      {
+        "text": "C3b",
+        "explanation": "Incorrect. C3b is primarily an opsonin that aids in phagocytosis. This would be the correct answer if discussing the mechanism by which pathogens are marked for ingestion by macrophages."
+      },
+      {
+        "text": "C1q",
+        "explanation": "Incorrect. C1q is involved in the initiation of the classical complement pathway by binding to antibody Fc regions. This would be the correct answer if describing the triggers of the complement cascade."
+      },
+      {
+        "text": "C4a",
+        "explanation": "Incorrect. While C4a is an anaphylatoxin, it is significantly less potent than other components and is not the primary driver of neutrophil chemotaxis in this reaction. This would be the correct answer if discussing the cleavage of C4."
       }
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: C5a is a potent chemoattractant in Type III hypersensitivity that recruits neutrophils to immune complex deposits in blood vessel walls.",
     "pdfPage": 5,
     "pdfQuote": "C5A component of complement attracts our neutrophils"
@@ -254,24 +253,24 @@ window.Test_L140 = [
     "questionText": "A patient presents with symptoms that mimic anaphylaxis, but the physician suspects scombroid poisoning. Which of the following life-threatening conditions was specifically highlighted by the lecturer as a critical part of the differential diagnosis for allergic reactions?",
     "options": [
       {
-        "text": "Hypertensive crisis",
-        "explanation": "Incorrect. While hypotension is seen in anaphylaxis, hypertensive crisis is not typically listed as a primary mimic. This would be the correct answer if the patient had severe headache and neurological signs with a BP of 220/120."
+        "text": "Hypoglycemia",
+        "explanation": "Incorrect. Hypoglycemia presents with diaphoresis and altered mental status but does not mimic the mucocutaneous or respiratory signs of anaphylaxis. This would be correct if the patient were a diabetic with tremors and confusion."
       },
       {
         "text": "Pneumothorax",
         "explanation": "Correct. The lecturer listed pneumothorax as one of the life-threatening conditions to include in the differential diagnosis of allergic reactions, particularly those presenting with respiratory distress."
       },
       {
-        "text": "Hypoglycemia",
-        "explanation": "Incorrect. Hypoglycemia presents with diaphoresis and altered mental status but does not mimic the mucocutaneous or respiratory signs of anaphylaxis. This would be correct if the patient were a diabetic with tremors and confusion."
-      },
-      {
-        "text": "Cholecystitis",
-        "explanation": "Incorrect. This is an abdominal process that causes focal RUQ pain, not systemic allergic signs. This would be correct if the patient had fever and Murphy's sign."
+        "text": "Hypertensive crisis",
+        "explanation": "Incorrect. While hypotension is seen in anaphylaxis, hypertensive crisis is not typically listed as a primary mimic. This would be the correct answer if the patient had severe headache and neurological signs with a BP of 220/120."
       },
       {
         "text": "Stroke (CVA)",
         "explanation": "Incorrect. While the neuro system can be involved, stroke presents with focal deficits, unlike the generalized symptoms of anaphylaxis. This would be correct if the patient had unilateral weakness and facial droop."
+      },
+      {
+        "text": "Cholecystitis",
+        "explanation": "Incorrect. This is an abdominal process that causes focal RUQ pain, not systemic allergic signs. This would be correct if the patient had fever and Murphy's sign."
       }
     ],
     "correctAnswerIndex": 1,
@@ -285,8 +284,12 @@ window.Test_L140 = [
     "questionText": "Type IV hypersensitivity is unique because it is 'cell-mediated' rather than 'antibody-mediated'. Which of the following pairs of cells are the primary drivers of the cyclic inflammatory reaction in this delayed reaction?",
     "options": [
       {
-        "text": "B cells and Mast cells",
-        "explanation": "Incorrect. B cells and mast cells are the hallmarks of Type I hypersensitivity. This would be the correct answer if describing the mechanism of immediate allergic reactions."
+        "text": "Platelets and Neutrophils",
+        "explanation": "Incorrect. While neutrophils can be recruited in many inflammatory states, they are not the central regulatory 'driver' cell of the Type IV response. This would be correct if describing an acute bacterial infection."
+      },
+      {
+        "text": "Plasma cells and Eosinophils",
+        "explanation": "Incorrect. Plasma cells produce antibodies for immediate reactions, and eosinophils are typical of the late phase of Type I. This would be correct if discussing the progression of asthma."
       },
       {
         "text": "NK cells and Basophils",
@@ -297,15 +300,11 @@ window.Test_L140 = [
         "explanation": "Correct. Type IV reactions involve macrophages acting as antigen-presenting cells to recruit helper T cells, which then release interferon to further activate macrophages, creating a cyclic inflammatory response."
       },
       {
-        "text": "Plasma cells and Eosinophils",
-        "explanation": "Incorrect. Plasma cells produce antibodies for immediate reactions, and eosinophils are typical of the late phase of Type I. This would be correct if discussing the progression of asthma."
-      },
-      {
-        "text": "Platelets and Neutrophils",
-        "explanation": "Incorrect. While neutrophils can be recruited in many inflammatory states, they are not the central regulatory 'driver' cell of the Type IV response. This would be correct if describing an acute bacterial infection."
+        "text": "B cells and Mast cells",
+        "explanation": "Incorrect. B cells and mast cells are the hallmarks of Type I hypersensitivity. This would be the correct answer if describing the mechanism of immediate allergic reactions."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Type IV hypersensitivity is a delayed, cell-mediated response involving helper T cells and macrophages.",
     "pdfPage": 6,
     "pdfQuote": "recruit more T1 helper cells and mononuclear cells... cyclic inflammatory reaction"
@@ -315,10 +314,6 @@ window.Test_L140 = [
     "category": "Anaphylaxis: Treatment",
     "questionText": "A patient is wheezing following a suspected allergen exposure. Which of the following adjunctive medications should be administered to alleviate the bronchospasm specifically?",
     "options": [
-      {
-        "text": "Diphenhydramine",
-        "explanation": "Incorrect. Diphenhydramine is an antihistamine that helps with cutaneous symptoms (itching/hives) but has no significant effect on bronchospasm. This would be correct if the patient only complained of severe pruritus."
-      },
       {
         "text": "Albuterol",
         "explanation": "Correct. Albuterol is an adjunctive therapy used in anaphylaxis to alleviate bronchospasm in patients who are wheezing."
@@ -332,11 +327,15 @@ window.Test_L140 = [
         "explanation": "Incorrect. Glucagon is used for patients who are refractory to epinephrine and take beta-blockers. This would be correct if the patient was on propranolol and didn't respond to the first two doses of epi."
       },
       {
+        "text": "Diphenhydramine",
+        "explanation": "Incorrect. Diphenhydramine is an antihistamine that helps with cutaneous symptoms (itching/hives) but has no significant effect on bronchospasm. This would be correct if the patient only complained of severe pruritus."
+      },
+      {
         "text": "Aspirin",
         "explanation": "Incorrect. Aspirin is an NSAID that can actually trigger allergic reactions in some patients and is not part of anaphylaxis treatment. This would be correct if the patient were having an acute myocardial infarction."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Albuterol is used as an adjunctive treatment in anaphylaxis only if the patient is experiencing wheezing.",
     "pdfPage": 18,
     "pdfQuote": "albuterol will alleviate bronchospasm... if the patient's wheezing only"
@@ -347,10 +346,6 @@ window.Test_L140 = [
     "questionText": "A physician is treating a patient in anaphylaxis and gives a dose of epinephrine. However, they remember the 'decontamination' principle. Why is removing the bee stinger or the trigger considered vital in this scenario?",
     "options": [
       {
-        "text": "To prevent secondary bacterial infection",
-        "explanation": "Incorrect. While infection is a concern, it is not the acute life-threatening priority in anaphylaxis management. This would be the correct answer if discussing wound care the following day."
-      },
-      {
         "text": "To allow epinephrine to reach the heart faster",
         "explanation": "Incorrect. Epinephrine distribution is a function of the circulatory system and is not obstructed by a localized stinger. This would be correct if the stinger was blocking a major artery, which is not how they function."
       },
@@ -359,15 +354,19 @@ window.Test_L140 = [
         "explanation": "Correct. If the antigen (venom) continues to be released, it will keep binding to antibodies and triggering further mast cell degranulation, potentially making the reaction refractory to treatment."
       },
       {
+        "text": "To prevent the formation of specialized scar tissue",
+        "explanation": "Incorrect. Scarring is a long-term outcome and unrelated to the management of acute anaphylactic shock. This would be correct if discussing the management of a deep laceration."
+      },
+      {
         "text": "To decrease the patient's anxiety and heart rate",
         "explanation": "Incorrect. Removal of the stinger may help comfort, but it is the biological removal of the antigen that is clinically critical. This would be correct if the primary goal were psychological stabilization."
       },
       {
-        "text": "To prevent the formation of specialized scar tissue",
-        "explanation": "Incorrect. Scarring is a long-term outcome and unrelated to the management of acute anaphylactic shock. This would be correct if discussing the management of a deep laceration."
+        "text": "To prevent secondary bacterial infection",
+        "explanation": "Incorrect. While infection is a concern, it is not the acute life-threatening priority in anaphylaxis management. This would be the correct answer if discussing wound care the following day."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Decontamination (removal of the trigger) is essential because continuous antigen presence leads to sustained mast cell degranulation.",
     "pdfPage": 18,
     "pdfQuote": "venom is that antigen, and it keeps getting released... take that insect stinger out"
@@ -378,24 +377,24 @@ window.Test_L140 = [
     "questionText": "Which of the following primary locations was identified by the lecturer as a site where mast cells 'live', explaining why allergic reactions often present with mucocutaneous and respiratory symptoms?",
     "options": [
       {
-        "text": "Deep within the bone marrow and spleen",
-        "explanation": "Incorrect. While lymphoid cells originate in the marrow, mature mast cells reside in the periphery where they interact with the environment. This would be correct if discussing the site of hematopoiesis."
-      },
-      {
-        "text": "Inside the lumen of large arteries",
-        "explanation": "Incorrect. Mast cells are primarily tissue-resident cells, not freely circulating intravascular cells. This would be correct if describing the primary location of monocytes or neutrophils."
-      },
-      {
-        "text": "Skin, mucous membranes, and connective tissues",
-        "explanation": "Correct. The lecturer stated that mast cells live in the skin, mucous membranes, and connective tissues, facilitating their role in environmental allergies."
-      },
-      {
         "text": "The central nervous system parenchyma",
         "explanation": "Incorrect. The CNS is primarily protected by microglia and the blood-brain barrier; mast cell presence there is not a hallmark of common allergies. This would be correct if discussing the specialized resident immune cells of the brain."
       },
       {
         "text": "The parietal cells of the gastric lining",
         "explanation": "Incorrect. Parietal cells secrete acid, which is a different physiological process entirely. This would be the correct answer if discussing the mechanism of a proton-pump inhibitor."
+      },
+      {
+        "text": "Skin, mucous membranes, and connective tissues",
+        "explanation": "Correct. The lecturer stated that mast cells live in the skin, mucous membranes, and connective tissues, facilitating their role in environmental allergies."
+      },
+      {
+        "text": "Deep within the bone marrow and spleen",
+        "explanation": "Incorrect. While lymphoid cells originate in the marrow, mature mast cells reside in the periphery where they interact with the environment. This would be correct if discussing the site of hematopoiesis."
+      },
+      {
+        "text": "Inside the lumen of large arteries",
+        "explanation": "Incorrect. Mast cells are primarily tissue-resident cells, not freely circulating intravascular cells. This would be correct if describing the primary location of monocytes or neutrophils."
       }
     ],
     "correctAnswerIndex": 2,
@@ -409,27 +408,27 @@ window.Test_L140 = [
     "questionText": "A 60-year-old male is admitted for what initially appears to be septic shock but is later determined to be anaphylactic shock. Which of the following medications was the specifically identified trigger in the clinical case study shared in the lecture?",
     "options": [
       {
-        "text": "Lisinopril",
-        "explanation": "Incorrect. While Lisinopril can cause angioedema, it was not the drug in the 'sepsis mimic' case study presented. This would be correct if discussing a patient with chronic dry cough and lip swelling."
-      },
-      {
-        "text": "Naproxen",
-        "explanation": "Correct. In the lecture case study, the patient took naproxen for a headache and subsequently developed anaphylactic shock, which was initially mismanaged as septic shock."
+        "text": "Vancomycin",
+        "explanation": "Incorrect. Vancomycin can cause 'Red Man Syndrome', but this was not the drug in the case study provided. This would be correct if discussing a patient with flushing after a rapid antibiotic infusion."
       },
       {
         "text": "Penicillin",
         "explanation": "Incorrect. Penicillin is a common allergy, but it was not the specific medication mentioned in the resident's story about the elderly male 'sepsis' case. This would be correct if discussing the most common antibiotic allergy."
       },
       {
-        "text": "Vancomycin",
-        "explanation": "Incorrect. Vancomycin can cause 'Red Man Syndrome', but this was not the drug in the case study provided. This would be correct if discussing a patient with flushing after a rapid antibiotic infusion."
+        "text": "Lisinopril",
+        "explanation": "Incorrect. While Lisinopril can cause angioedema, it was not the drug in the 'sepsis mimic' case study presented. This would be correct if discussing a patient with chronic dry cough and lip swelling."
       },
       {
         "text": "Atorvastatin",
         "explanation": "Incorrect. Statins typically cause muscle pain (myalgia) rather than acute anaphylactic shock. This would be correct if the patient presented with high CPK and leg weakness."
+      },
+      {
+        "text": "Naproxen",
+        "explanation": "Correct. In the lecture case study, the patient took naproxen for a headache and subsequently developed anaphylactic shock, which was initially mismanaged as septic shock."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Anaphylaxis can mimic other forms of shock (like septic shock); always consider recent medication changes, such as NSAID use.",
     "pdfPage": 13,
     "pdfQuote": "he had a headache and took some naproxen... not in septic shock. He was in anaphylactic shock"
@@ -440,24 +439,24 @@ window.Test_L140 = [
     "questionText": "A patient with severe anaphylaxis is not responding to multiple doses of intramuscular epinephrine. The physician considers switching to IV administration. Which of the following is the standard term for a patient whose symptoms do not improve with the initial standard-of-care IM therapy?",
     "options": [
       {
-        "text": "Tachyphylaxis",
-        "explanation": "Incorrect. Tachyphylaxis refers to a rapid decrease in response to a drug after repeated doses (like nitroglycerin). This would be correct if discussing why a patient needs a drug-free interval with nitrates."
+        "text": "Prophylactic",
+        "explanation": "Incorrect. Prophylactic means 'preventative', which is the opposite of the acute treatment scenario being described. This would be correct if discussing the use of an EpiPen before exposure."
       },
       {
         "text": "Refractory",
         "explanation": "Correct. When a patient does not respond to initial standard treatments (like IM epinephrine), they are described as being 'refractory' to that treatment."
       },
       {
-        "text": "Hypersensitive",
-        "explanation": "Incorrect. While the patient is having a hypersensitivity reaction, this term describes the immune state, not the failure of the treatment to work. This would be correct if describing the patient's initial vulnerability to the antigen."
-      },
-      {
         "text": "Compensated",
         "explanation": "Incorrect. Compensated refers to a stage of shock where the body is still maintaining blood pressure through physiologic mechanisms. This would be correct if the patient was tachycardic but had a normal BP."
       },
       {
-        "text": "Prophylactic",
-        "explanation": "Incorrect. Prophylactic means 'preventative', which is the opposite of the acute treatment scenario being described. This would be correct if discussing the use of an EpiPen before exposure."
+        "text": "Hypersensitive",
+        "explanation": "Incorrect. While the patient is having a hypersensitivity reaction, this term describes the immune state, not the failure of the treatment to work. This would be correct if describing the patient's initial vulnerability to the antigen."
+      },
+      {
+        "text": "Tachyphylaxis",
+        "explanation": "Incorrect. Tachyphylaxis refers to a rapid decrease in response to a drug after repeated doses (like nitroglycerin). This would be correct if discussing why a patient needs a drug-free interval with nitrates."
       }
     ],
     "correctAnswerIndex": 1,
@@ -471,6 +470,10 @@ window.Test_L140 = [
     "questionText": "A 24-year-old female is brought to the emergency department after accidentally eating a cookie containing walnuts. She is experiencing severe abdominal cramps, nausea, and vomiting. On examination, she has audible wheezing in all lung fields. Her blood pressure is 115/75 mmHg and her heart rate is 105/min. Which of the following statements best describes her clinical status?",
     "options": [
       {
+        "text": "She is having a panic attack due to her walnut phobia and needs oxygen.",
+        "explanation": "Incorrect. Panic attacks do result in tachycardia, but they do not cause objective wheezing or acute GI distress following ingestion. This would be correct if she had tingling in her hands and a normal lung exam."
+      },
+      {
         "text": "She has a simple allergic reaction and needs Benadryl.",
         "explanation": "Incorrect. While she might need Benadryl for comfort, the presence of multi-system involvement (GI and Respiratory) after exposure to a known allergen upgrades this to anaphylaxis. This would be correct if she only had a localized itchy rash."
       },
@@ -479,19 +482,15 @@ window.Test_L140 = [
         "explanation": "Correct. According to the criteria (Type 2: two or more systems involved after exposure), her combination of GI symptoms (nausea, vomiting) and respiratory symptoms (wheezing) confirms a diagnosis of anaphylaxis requiring epinephrine."
       },
       {
-        "text": "She has gastroenteritis and should be monitored for dehydration.",
-        "explanation": "Incorrect. The acute onset after eating a known allergen and the presence of wheezing makes an infectious cause highly unlikely. This would be correct if she had a fever and her family was also sick."
-      },
-      {
-        "text": "She is having a panic attack due to her walnut phobia and needs oxygen.",
-        "explanation": "Incorrect. Panic attacks do result in tachycardia, but they do not cause objective wheezing or acute GI distress following ingestion. This would be correct if she had tingling in her hands and a normal lung exam."
-      },
-      {
         "text": "She is in anaphylactic shock and needs immediate intubation.",
         "explanation": "Incorrect. Her blood pressure is currently stable (not in shock), and while she is wheezing, there is no evidence of the 'impending airway failure' that would mandate immediate intubation before trying epinephrine. This would be correct if her BP was 60/40."
+      },
+      {
+        "text": "She has gastroenteritis and should be monitored for dehydration.",
+        "explanation": "Incorrect. The acute onset after eating a known allergen and the presence of wheezing makes an infectious cause highly unlikely. This would be correct if she had a fever and her family was also sick."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Anaphylaxis can be diagnosed when two or more systems (e.g., GI and Respiratory) are involved following exposure to a suspected allergen.",
     "pdfPage": 14,
     "pdfQuote": "two or more of the following that occur rapidly after an exposure... Respiratory symptoms... GI symptoms"
@@ -502,16 +501,12 @@ window.Test_L140 = [
     "questionText": "A 12-year-old boy (weight 30 kg) presents with generalized urticaria and stridor after an insect sting. Which of the following is the most appropriate next step in management, including the specific pediatric dosage?",
     "options": [
       {
-        "text": "Administer 0.5 mg IM epinephrine in the thigh",
-        "explanation": "Incorrect. 0.5 mg is the upper limit of the adult dose and exceeds the weight-based guidelines for a 30 kg child. This would be the correct answer for a large adult in severe distress."
+        "text": "Administer 3.0 mg IM epinephrine in the thigh",
+        "explanation": "Incorrect. This is ten times the recommended dose and could cause a life-threatening hypertensive emergency or arrhythmia. This would be the correct answer only if there was a decimal point error."
       },
       {
         "text": "Administer 0.3 mg IM epinephrine in the thigh",
         "explanation": "Correct. The pediatric dose is 0.01 mg/kg. For a 30 kg child, 0.01 * 30 = 0.3 mg. This is conveniently the dose in a standard pediatric/junior EpiPen (or the lower end of adult dosing)."
-      },
-      {
-        "text": "Administer 3.0 mg IM epinephrine in the thigh",
-        "explanation": "Incorrect. This is ten times the recommended dose and could cause a life-threatening hypertensive emergency or arrhythmia. This would be the correct answer only if there was a decimal point error."
       },
       {
         "text": "Administer 25 mg IV diphenhydramine",
@@ -520,6 +515,10 @@ window.Test_L140 = [
       {
         "text": "Perform immediate needle cricothyroidotomy",
         "explanation": "Incorrect. Medical management with epinephrine should be attempted first before invasive procedures unless the airway is already completely closed. This would be correct if the patient was cyanotic and vocal cords were fully obstructed."
+      },
+      {
+        "text": "Administer 0.5 mg IM epinephrine in the thigh",
+        "explanation": "Incorrect. 0.5 mg is the upper limit of the adult dose and exceeds the weight-based guidelines for a 30 kg child. This would be the correct answer for a large adult in severe distress."
       }
     ],
     "correctAnswerIndex": 1,
@@ -541,16 +540,16 @@ window.Test_L140 = [
         "explanation": "Correct. Due to the risk of a biphasic reaction (where symptoms return), patients who recover from anaphylaxis (especially high-risk ones like those on beta-blockers) should be monitored before discharge."
       },
       {
+        "text": "Prescribe daily prednisone for 6 months to prevent recurrence",
+        "explanation": "Incorrect. While short courses of steroids might be used, a 6-month course is inappropriate for an acute allergy and carries massive side effects. This would be correct if the patient had a chronic inflammatory condition like lupus."
+      },
+      {
         "text": "Immediate administration of a second epinephrine dose to be safe",
         "explanation": "Incorrect. Prophylactic dosing of epinephrine without active symptoms is not recommended and can cause unnecessary cardiac stress. This would be correct if his symptoms were still progressing after the first dose."
       },
       {
         "text": "Admission to the ICU for 48 hours for continuous tryptase monitoring",
         "explanation": "Incorrect. Most patients can be safely observed in the emergency department for a shorter window rather than a full ICU stay unless they are refractory or unstable. This would be the correct answer if the patient required an epinephrine drip."
-      },
-      {
-        "text": "Prescribe daily prednisone for 6 months to prevent recurrence",
-        "explanation": "Incorrect. While short courses of steroids might be used, a 6-month course is inappropriate for an acute allergy and carries massive side effects. This would be correct if the patient had a chronic inflammatory condition like lupus."
       }
     ],
     "correctAnswerIndex": 1,
@@ -564,27 +563,27 @@ window.Test_L140 = [
     "questionText": "A 68-year-old male presents with BP 80/50 mmHg and extreme malaise. He looks 'ill' but is afebrile. He recently took an over-the-counter pill for a backache. If this patient is in anaphylactic shock rather than septic shock, which of the following findings would be MOST supportive of the allergic diagnosis?",
     "options": [
       {
-        "text": "A white blood cell count of 15,000 with a left shift",
-        "explanation": "Incorrect. This finding strongly supports an infectious cause (sepsis). This would be the correct answer if the patient had pneumonia or a severe skin infection."
-      },
-      {
         "text": "Diffuse urticaria and lip swelling upon examination",
         "explanation": "Correct. While shock can look similar, the presence of mucocutaneous findings (hives, swelling) strongly points toward anaphylaxis in the setting of hypotension. This was a key part of the case study discussion."
       },
       {
-        "text": "Cloudy urine with many bacteria and nitrites",
-        "explanation": "Incorrect. This points toward a urinary tract infection as the source of sepsis. This would be the correct answer if the diagnosis was urosepsis."
+        "text": "A white blood cell count of 15,000 with a left shift",
+        "explanation": "Incorrect. This finding strongly supports an infectious cause (sepsis). This would be the correct answer if the patient had pneumonia or a severe skin infection."
       },
       {
         "text": "Consolidation on the right lower lobe of a chest X-ray",
         "explanation": "Incorrect. This indicates pneumonia as the likely trigger for septic shock. This would be the correct answer if the patient had a productive cough and fever."
       },
       {
+        "text": "Cloudy urine with many bacteria and nitrites",
+        "explanation": "Incorrect. This points toward a urinary tract infection as the source of sepsis. This would be the correct answer if the diagnosis was urosepsis."
+      },
+      {
         "text": "A history of recent travel to an area with endemic malaria",
         "explanation": "Incorrect. This would shift the differential toward parasitic infection rather than an allergic reaction to medication. This would be the correct answer if the patient had cyclic fevers."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The presence of mucocutaneous symptoms is a critical differentiator between anaphylactic shock and mimics like sepsis.",
     "pdfPage": 13,
     "pdfQuote": "mucocutaneous involvement... plus one or more of the following... hypotension"
@@ -599,23 +598,23 @@ window.Test_L140 = [
         "explanation": "Incorrect. Steroids take hours to work and will not help with acute airway failure. This would be the correct answer if describing the role of epinephrine or intubation."
       },
       {
-        "text": "To prevent a late-phase or biphasic reaction",
-        "explanation": "Correct. Corticosteroids have anti-inflammatory properties and, while the evidence is limited, they are given to help prevent the recurrence of symptoms (biphasic reaction)."
-      },
-      {
         "text": "To neutralize the circulating histamine molecules",
         "explanation": "Incorrect. Steroids do not bind to or neutralize histamine; they modulate gene expression to reduce inflammation. This would be the correct answer if describing a hypothetical 'histamine scavenger'."
       },
       {
-        "text": "To increase the heart rate more than epinephrine does",
-        "explanation": "Incorrect. Steroids are not chronotropes and do not provide the acute sympathetic surge needed for shock management. This would be the correct answer if discussing the role of atropine."
-      },
-      {
         "text": "To provide immediate localized pain relief in the GI tract",
         "explanation": "Incorrect. Steroids are systemic agents in this context and do not act as localized analgesics. This would be the correct answer if the patient was prescribed Lidocaine for mouth sores."
+      },
+      {
+        "text": "To prevent a late-phase or biphasic reaction",
+        "explanation": "Correct. Corticosteroids have anti-inflammatory properties and, while the evidence is limited, they are given to help prevent the recurrence of symptoms (biphasic reaction)."
+      },
+      {
+        "text": "To increase the heart rate more than epinephrine does",
+        "explanation": "Incorrect. Steroids are not chronotropes and do not provide the acute sympathetic surge needed for shock management. This would be the correct answer if discussing the role of atropine."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Corticosteroids are used in anaphylaxis to help prevent biphasic reactions by reducing late-phase inflammation.",
     "pdfPage": 18,
     "pdfQuote": "corticosteroids have anti-inflammatory properties... help prevent biphasic reactions."
@@ -626,24 +625,24 @@ window.Test_L140 = [
     "questionText": "A 50-year-old male is being treated for anaphylaxis with IM epinephrine, but his blood pressure remains 75/40 mmHg after three doses. The physician notes that the patient takes Propranolol daily. Which of the following is the MOST appropriate next medication to administer?",
     "options": [
       {
-        "text": "High-dose IV Vancomycin",
-        "explanation": "Incorrect. This is an antibiotic and would not address the physiological failure of epinephrine in a patient on beta-blockers. This would be correct if the patient had suspected MRSA."
+        "text": "IM Diphenhydramine",
+        "explanation": "Incorrect. While it may help with itching, it has no effect on blood pressure or the refractory nature of the shock in this beta-blocked patient. This would be correct if the patient's only symptom was a mild skin rash."
       },
       {
         "text": "IV Glucagon",
         "explanation": "Correct. Patients on beta-blockers can be refractory to epinephrine. Glucagon can bypass the beta-receptors to stimulate the heart and improve shock status."
       },
       {
-        "text": "Sublingual Nitroglycerin",
-        "explanation": "Incorrect. Nitroglycerin is a vasodilator and would further worsen the patient's hypotension. This would be correct if the patient was having stable angina."
-      },
-      {
         "text": "Oral Ibuprofen",
         "explanation": "Incorrect. Oral medication is inappropriate for a patient in shock, and NSAIDs do not address catecholamine resistance. This would be correct for mild pain in a stable patient."
       },
       {
-        "text": "IM Diphenhydramine",
-        "explanation": "Incorrect. While it may help with itching, it has no effect on blood pressure or the refractory nature of the shock in this beta-blocked patient. This would be correct if the patient's only symptom was a mild skin rash."
+        "text": "High-dose IV Vancomycin",
+        "explanation": "Incorrect. This is an antibiotic and would not address the physiological failure of epinephrine in a patient on beta-blockers. This would be correct if the patient had suspected MRSA."
+      },
+      {
+        "text": "Sublingual Nitroglycerin",
+        "explanation": "Incorrect. Nitroglycerin is a vasodilator and would further worsen the patient's hypotension. This would be correct if the patient was having stable angina."
       }
     ],
     "correctAnswerIndex": 1,
@@ -661,20 +660,20 @@ window.Test_L140 = [
         "explanation": "Correct. If swelling is progressing rapidly ('muffled voice', increasing tongue size), the physician should intubate early. Waiting until the airway is completely obstructed leads to a 'cannot intubate' scenario."
       },
       {
-        "text": "Wait for 30 minutes to see if the first dose of Benadryl works.",
-        "explanation": "Incorrect. Benadryl does not treat life-threatening airway edema, and waiting 30 minutes in a rapidly progressing case is dangerous. This would be correct for isolated mild itching."
+        "text": "Perform an emergency liver biopsy to check for underlying disease.",
+        "explanation": "Incorrect. This is completely irrelevant to the management of an acute airway emergency. This would be correct in the evaluation of chronic, unexplained jaundice."
       },
       {
         "text": "Apply an ice pack to the tongue to reduce swelling.",
         "explanation": "Incorrect. This is a systemic allergic reaction that ice cannot counteract. This would be correct for a simple traumatic injury such as biting the tongue."
       },
       {
-        "text": "Perform an emergency liver biopsy to check for underlying disease.",
-        "explanation": "Incorrect. This is completely irrelevant to the management of an acute airway emergency. This would be correct in the evaluation of chronic, unexplained jaundice."
-      },
-      {
         "text": "Place the patient in a prone position for easier drainage of secretions.",
         "explanation": "Incorrect. Prone positioning does not secure an edematous airway and could make intubation more difficult. This would be correct if discussing ventilation strategies for established ARDS."
+      },
+      {
+        "text": "Wait for 30 minutes to see if the first dose of Benadryl works.",
+        "explanation": "Incorrect. Benadryl does not treat life-threatening airway edema, and waiting 30 minutes in a rapidly progressing case is dangerous. This would be correct for isolated mild itching."
       }
     ],
     "correctAnswerIndex": 0,
@@ -688,16 +687,16 @@ window.Test_L140 = [
     "questionText": "A patient receives a blood transfusion of the wrong type and begins to experience fever, flank pain, and hemoglobinuria. If this is a Type II hypersensitivity reaction, which of the following best describes the core 'antigen' location in this event?",
     "options": [
       {
-        "text": "Freely circulating in the plasma as a multivalent molecule",
-        "explanation": "Incorrect. This describes Type III hypersensitivity where complexes form in the blood before depositing. This would be the correct answer if discussing serum sickness."
-      },
-      {
         "text": "Bound directly to the cell surface of the red blood cells",
         "explanation": "Correct. In Type II (cytotoxic) hypersensitivity, the antigens are on the cell surfaces (like the ABO markers on RBCs). Antibodies bind here to trigger lysis."
       },
       {
         "text": "Inside the lysosomes of the patient's own neutrophils",
         "explanation": "Incorrect. While neutrophils are involved in inflammation, the target antigen is on the surface of the RBCs being attacked. This would be correct if describing a lysosomal storage disease."
+      },
+      {
+        "text": "Freely circulating in the plasma as a multivalent molecule",
+        "explanation": "Incorrect. This describes Type III hypersensitivity where complexes form in the blood before depositing. This would be the correct answer if discussing serum sickness."
       },
       {
         "text": "Part of the basement membrane in the glomerulus",
@@ -708,7 +707,7 @@ window.Test_L140 = [
         "explanation": "Incorrect. This was not the mechanism described for the cytotoxic reaction example (transfusion mismatch). This would be correct if discussing a localized joint inflammatory condition."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Type II hypersensitivity involves antigens located on cell surfaces, leading to antibody-mediated cell lysis.",
     "pdfPage": 4,
     "pdfQuote": "antigens on cell surfaces. They attract the antibody... promote cell lysis"
@@ -719,27 +718,27 @@ window.Test_L140 = [
     "questionText": "A patient is undergoing allergy testing and is found to have a high level of newly synthesized leukotrienes despite no recent exposure. These mediators are responsible for attracting which cell type specifically associated with chronic allergic inflammation and tissue damage?",
     "options": [
       {
+        "text": "Oligodendrocytes",
+        "explanation": "Incorrect. These are myelin-producing cells of the CNS. This would be the correct answer if discussing the pathology of multiple sclerosis."
+      },
+      {
         "text": "Erythrocytes",
         "explanation": "Incorrect. These are red blood cells and do not contribute to allergic inflammation. This would be the correct answer if discussing iron deficiency or anemia."
       },
       {
-        "text": "Eosinophils",
-        "explanation": "Correct. Newly synthesized leukotrienes in the late phase of Type I hypersensitivity attract eosinophils, which contribute to tissue damage and are a hallmark of allergic inflammation."
+        "text": "Hepatocytes",
+        "explanation": "Incorrect. These are liver cells and are not the primary inflammatory cells recruited in Type I reactions. This would be the correct answer if discussing liver function tests or cirrhosis."
       },
       {
         "text": "Megakaryocytes",
         "explanation": "Incorrect. These cells produce platelets and reside in the bone marrow. This would be the correct answer if discussing the origin of thrombocytes."
       },
       {
-        "text": "Oligodendrocytes",
-        "explanation": "Incorrect. These are myelin-producing cells of the CNS. This would be the correct answer if discussing the pathology of multiple sclerosis."
-      },
-      {
-        "text": "Hepatocytes",
-        "explanation": "Incorrect. These are liver cells and are not the primary inflammatory cells recruited in Type I reactions. This would be the correct answer if discussing liver function tests or cirrhosis."
+        "text": "Eosinophils",
+        "explanation": "Correct. Newly synthesized leukotrienes in the late phase of Type I hypersensitivity attract eosinophils, which contribute to tissue damage and are a hallmark of allergic inflammation."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Eosinophils are attracted by leukotrienes during the late phase of Type I hypersensitivity, causing inflammation and tissue damage.",
     "pdfPage": 8,
     "pdfQuote": "Newly synthesized leukotrienes... attract inflammatory cells, eosinophils."
@@ -750,27 +749,27 @@ window.Test_L140 = [
     "questionText": "A patient with severe anaphylaxis has been stabilized and is preparing for discharge. In addition to a prescription for an EpiPen, what critical instruction must be given regarding its use in the community (e.g., in a public park)?",
     "options": [
       {
+        "text": "The device must only be used by a licensed medical professional.",
+        "explanation": "Incorrect. EpiPens are designed for layperson use to provide life-saving treatment before EMS arrives. This would be correct if discussing the administration of restricted IV narcotics."
+      },
+      {
         "text": "The patient must remove all clothing before applying the device.",
         "explanation": "Incorrect. In an emergency, wasting time to remove clothing is dangerous and often unnecessary with modern autoinjectors. This would be correct if describing a sterile surgical procedure."
       },
       {
-        "text": "The injection can be given directly through clothing or pants.",
-        "explanation": "Correct. The lecturer specifically mentioned that in the community, the epinephrine shot can be given right through clothing to ensure immediate administration without delay."
-      },
-      {
-        "text": "The device must only be used by a licensed medical professional.",
-        "explanation": "Incorrect. EpiPens are designed for layperson use to provide life-saving treatment before EMS arrives. This would be correct if discussing the administration of restricted IV narcotics."
+        "text": "The patient should only use it if they have already taken Benadryl.",
+        "explanation": "Incorrect. Epinephrine should be the first medication used; Benadryl is never a prerequisite for the life-saving treatment. This would be correct if Benadryl were the 'gold standard', which it is not."
       },
       {
         "text": "The patient must drink 2 liters of water immediately after use.",
         "explanation": "Incorrect. Fluids are secondary and do not replace the need for immediate medical evaluation. This would be the correct answer if describing the preparation for a kidney ultrasound."
       },
       {
-        "text": "The patient should only use it if they have already taken Benadryl.",
-        "explanation": "Incorrect. Epinephrine should be the first medication used; Benadryl is never a prerequisite for the life-saving treatment. This would be correct if Benadryl were the 'gold standard', which it is not."
+        "text": "The injection can be given directly through clothing or pants.",
+        "explanation": "Correct. The lecturer specifically mentioned that in the community, the epinephrine shot can be given right through clothing to ensure immediate administration without delay."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Epinephrine autoinjectors can be administered through clothing in emergency community settings to avoid delays.",
     "pdfPage": 16,
     "pdfQuote": "can give that epinephrine shot right through your clothing"
@@ -781,27 +780,27 @@ window.Test_L140 = [
     "questionText": "Plasma proteins that play a vital role in innate immunity and inflammation were described simply as 'complement' by the physician. Which of the following best summarizes the simple functional definition provided in the lecture?",
     "options": [
       {
-        "text": "Cellular messengers that stimulate hormone production",
-        "explanation": "Incorrect. This describes endocrine signaling rather than the complement cascade. This would be the correct answer if discussing the pituitary gland's effect on target organs."
-      },
-      {
-        "text": "Proteins that play a role in innate immunity and inflammation",
-        "explanation": "Correct. The lecturer defined complement as plasma proteins that play a primary role in innate immunity and inflammation."
-      },
-      {
-        "text": "Molecules that bind oxygen for transport to the periphery",
-        "explanation": "Incorrect. This describes hemoglobin rather than the complement system. This would be correct if the question asked about red blood cell function."
-      },
-      {
         "text": "Enzymes that break down complex dietary carbohydrates",
         "explanation": "Incorrect. This describes digestive enzymes like amylase. This would be correct if discussing the physiology of the small intestine."
       },
       {
         "text": "Lipids that form the structural basis of the cell membrane",
         "explanation": "Incorrect. This describes phospholipids and cholesterol. This would be correct if discussing the fluid mosaic model of cell walls."
+      },
+      {
+        "text": "Cellular messengers that stimulate hormone production",
+        "explanation": "Incorrect. This describes endocrine signaling rather than the complement cascade. This would be the correct answer if discussing the pituitary gland's effect on target organs."
+      },
+      {
+        "text": "Molecules that bind oxygen for transport to the periphery",
+        "explanation": "Incorrect. This describes hemoglobin rather than the complement system. This would be correct if the question asked about red blood cell function."
+      },
+      {
+        "text": "Proteins that play a role in innate immunity and inflammation",
+        "explanation": "Correct. The lecturer defined complement as plasma proteins that play a primary role in innate immunity and inflammation."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Complement consists of plasma proteins that facilitate innate immunity and systemic inflammation.",
     "pdfPage": 4,
     "pdfQuote": "plasma proteins that play a role in innate immunity and inflammation"
@@ -812,14 +811,6 @@ window.Test_L140 = [
     "questionText": "The term 'anaphylaxis' was described as the 'antithesis' of which other common medical term?",
     "options": [
       {
-        "text": "Anesthesia",
-        "explanation": "Incorrect. Anesthesia refers to the loss of sensation or awareness. This would be correct if discussing the effect of propofol or lidocaine."
-      },
-      {
-        "text": "Prophylaxis",
-        "explanation": "Correct. The lecturer explained that anaphylaxis is the antithesis (opposite) of prophylaxis, which means 'toward protection'."
-      },
-      {
         "text": "Hemostasis",
         "explanation": "Incorrect. Hemostasis refers to the stopping of blood flow. This would be the correct answer if discussing the coagulation cascade."
       },
@@ -828,11 +819,19 @@ window.Test_L140 = [
         "explanation": "Incorrect. Phagocytosis is the process of cell eating. This would be the correct answer if discussing the function of macrophages or neutrophils."
       },
       {
+        "text": "Anesthesia",
+        "explanation": "Incorrect. Anesthesia refers to the loss of sensation or awareness. This would be correct if discussing the effect of propofol or lidocaine."
+      },
+      {
+        "text": "Prophylaxis",
+        "explanation": "Correct. The lecturer explained that anaphylaxis is the antithesis (opposite) of prophylaxis, which means 'toward protection'."
+      },
+      {
         "text": "Synthesis",
         "explanation": "Incorrect. Synthesis refers to the making of molecules. This would be correct if discussing the production of proteins or DNA."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Anaphylaxis is considered the linguistic and functional antithesis of prophylaxis (protection).",
     "pdfPage": 3,
     "pdfQuote": "what does anaphylaxis mean? It is the antithesis of prophylaxis"
@@ -843,27 +842,27 @@ window.Test_L140 = [
     "questionText": "A patient presents with symptoms of an allergic reaction. The physician provides a list of non-life-threatening conditions that often mimic these symptoms. Which of the following was listed on the 'non-life-threatening' side of the differential differential diagnosis table?",
     "options": [
       {
-        "text": "Sepsis and Septic shock",
-        "explanation": "Incorrect. Sepsis is definitely a life-threatening condition that mimics shock. This would be correct if the question asked for the most dangerous mimic."
-      },
-      {
-        "text": "Vasovagal reactions",
-        "explanation": "Correct. Vasovagal reactions and syncope were specifically categorized as 'non-life-threatening' causes in the differential diagnosis of allergic reactions."
+        "text": "Airway Obstruction",
+        "explanation": "Incorrect. Airway obstruction is inherently life-threatening as it prevents oxygenation. This would be correct if discussing a patient who inhaled a foreign body."
       },
       {
         "text": "Acute Coronary Syndrome",
         "explanation": "Incorrect. Heart attacks are life-threatening and can present with chest pain mimicking the cardiovascular signs of anaphylaxis. This would be correct if the patient was a 70-year-old with crushing chest pressure."
       },
       {
-        "text": "Airway Obstruction",
-        "explanation": "Incorrect. Airway obstruction is inherently life-threatening as it prevents oxygenation. This would be correct if discussing a patient who inhaled a foreign body."
-      },
-      {
         "text": "Angioedema",
         "explanation": "Incorrect. While some angioedema is mild, it is categorized as life-threatening due to its potential to obstruct the upper airway entirely. This would be correct if discussing the primary reason for early intubation."
+      },
+      {
+        "text": "Vasovagal reactions",
+        "explanation": "Correct. Vasovagal reactions and syncope were specifically categorized as 'non-life-threatening' causes in the differential diagnosis of allergic reactions."
+      },
+      {
+        "text": "Sepsis and Septic shock",
+        "explanation": "Incorrect. Sepsis is definitely a life-threatening condition that mimics shock. This would be correct if the question asked for the most dangerous mimic."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Vasovagal reactions should be considered in the differential of allergic-like symptom presentations, though they are non-life-threatening.",
     "pdfPage": 12,
     "pdfQuote": "non-life-threatening causes. Anxiety... vasovagal reactions"
@@ -878,12 +877,12 @@ window.Test_L140 = [
         "explanation": "Incorrect. Puritus means itching, which is a symptom rather than the physical hive (urticaria). Allergic exposure is primarily respiratory, GI, or skin, not hematological. This would be correct if the patient had itchy blood."
       },
       {
-        "text": "Urticaria; Gastrointestinal system",
-        "explanation": "Correct. Urticaria is the medical term for hives. The lecturer identified the GI, respiratory, and dermatological (skin) systems as the primary routes of allergen exposure."
-      },
-      {
         "text": "Stridor; Neurological system",
         "explanation": "Incorrect. Stridor is an airway sound, and exposure doesn't significantly occur through the 'neurological' route. This would be correct if a patient had a high-pitched breath sound and was exposed via their nerves, which is not clinically standard."
+      },
+      {
+        "text": "Urticaria; Gastrointestinal system",
+        "explanation": "Correct. Urticaria is the medical term for hives. The lecturer identified the GI, respiratory, and dermatological (skin) systems as the primary routes of allergen exposure."
       },
       {
         "text": "Erythema; Nervous system",
@@ -894,7 +893,7 @@ window.Test_L140 = [
         "explanation": "Incorrect. Malaise is a general feeling of being unwell, and allergens aren't typically absorbed through the ears into the systemic circulation. This would be correct if the patient had an ear infection."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Urticaria is the medical term for hives, which often result from allergen exposure via the GI, respiratory, or skin systems.",
     "pdfPage": 11,
     "pdfQuote": "Urticaria, hives... Primary exposure is through the respiratory... GI... dermatological"
@@ -905,27 +904,27 @@ window.Test_L140 = [
     "questionText": "An elderly patient with known peanut allergy develops sudden onset hypotension (BP 75/45) three minutes after accidentally eating a peanut-flavored snack. No other symptoms are noted yet. Does this patient meet the clinical criteria for the diagnosis of anaphylaxis?",
     "options": [
       {
-        "text": "No, because they do not have a rash yet.",
-        "explanation": "Incorrect. While many cases have rash, hypotension alone after eating a known allergen is sufficient for a diagnosis. This would be correct if the peanut were not a known allergen for this specific patient."
+        "text": "Yes, because hypotension after a known allergen is one of the three ways to diagnose anaphylaxis.",
+        "explanation": "Correct. The third way to diagnose anaphylaxis is the rapid onset of hypotension after exposure to a KNOWN allergen for that patient."
       },
       {
         "text": "No, because the hypotension could be from simple dehydration.",
         "explanation": "Incorrect. The acute timing (3 minutes) after exposure to a known allergen makes the diagnosis of anaphylaxis the clinical priority. This would be correct if they had 2 days of diarrhea and no allergen exposure."
       },
       {
-        "text": "Yes, because hypotension after a known allergen is one of the three ways to diagnose anaphylaxis.",
-        "explanation": "Correct. The third way to diagnose anaphylaxis is the rapid onset of hypotension after exposure to a KNOWN allergen for that patient."
-      },
-      {
-        "text": "Yes, but only if they also develop audible wheezing within the next hour.",
-        "explanation": "Incorrect. The diagnosis is confirmed by the hypotension alone in the presence of a known trigger. Waiting for wheezing would dangerously delay life-saving epinephrine. This would be correct for the secondary criterion if the allergen was merely 'suspected'."
+        "text": "No, because they do not have a rash yet.",
+        "explanation": "Incorrect. While many cases have rash, hypotension alone after eating a known allergen is sufficient for a diagnosis. This would be correct if the peanut were not a known allergen for this specific patient."
       },
       {
         "text": "No, because the patient is elderly and this is more likely to be a myocardial infarction.",
         "explanation": "Incorrect. While MI is in the differential, the direct link to a known allergen ingestion makes anaphylaxis the most likely diagnosis. This would be correct if the patient had chest pain and no allergen exposure."
+      },
+      {
+        "text": "Yes, but only if they also develop audible wheezing within the next hour.",
+        "explanation": "Incorrect. The diagnosis is confirmed by the hypotension alone in the presence of a known trigger. Waiting for wheezing would dangerously delay life-saving epinephrine. This would be correct for the secondary criterion if the allergen was merely 'suspected'."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Hypotension alone following exposure to a known allergen for that patient is sufficient to diagnose anaphylaxis.",
     "pdfPage": 14,
     "pdfQuote": "Hypotension within minutes to hours after exposure to a known allergen."

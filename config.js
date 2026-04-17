@@ -126,6 +126,7 @@ const testsToLoad = [
     { name: "12-Path: Pathology of Soft Tissue (L106)", data: window.Test_L106 },
     { name: "12-DPR: Hand & Wrist Exam (L107)", data: window.Test_L107 },
     { name: "12-DPR: Shoulder & Elbow (L108)", data: window.Test_L108 },
+    { name: "12-Week 12 CUMULATIVE EXAM", data: window.Test_Cumulative_Week12 },
 
     // --- Week 13 ---
     { name: "13-OMM: Diagnosis of the Elbow and Wrist (L109)", data: window.Test_L109 },
@@ -141,6 +142,7 @@ const testsToLoad = [
     { name: "13-Innate Immunity Part 1 (L119)", data: window.Test_L119 },
     { name: "13-Innate Immunity Part 2 (L120)", data: window.Test_L120 },
     { name: "13-DPR: History and Physical Exam of the Spine (L121)", data: window.Test_L121 },
+    { name: "13-Week 13 CUMULATIVE EXAM", data: window.Test_Cumulative_Week13 },
 
     // --- Week 14 ---
     { name: "14-Adaptive Immunity Part 1 (L123)", data: window.Test_L123 },
@@ -156,6 +158,7 @@ const testsToLoad = [
     { name: "14-Pharm: Pharmacology of DMARDs II (L133)", data: window.Test_L133 },
     { name: "14-DPR: Hip and Knee Exam (L134)", data: window.Test_L134 },
     { name: "14-DPR: Ankle and Foot Exam (L135)", data: window.Test_L135 },
+    { name: "14-Week 14 CUMULATIVE EXAM", data: window.Test_Cumulative_Week14 },
 
     // --- Week 15 ---
     { name: "15-Test of Immune Function (L137)", data: window.Test_L137 },

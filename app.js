@@ -137,21 +137,18 @@ document.addEventListener('DOMContentLoaded', () => {
         return stored ? JSON.parse(stored) : []; // Array of "TestName|QuestionID"
     };
 
-    const updateGlobalIncorrect = (testName, questionId, isCorrect) => {
-        // We need questionId (or index if ID missing) to track specifics
-        // Assuming Question objects have unique IDs or we use index as fallback if stable
-        // For robustness, we'll try to use Question ID, fallback to Question Text Hash? 
-        // Let's rely on Question ID if available, else TestName_Index.
-
+    const updateGlobalIncorrect = (testName, questionId, isCorrect, isFlagged = false) => {
         const qKey = `${testName}|${questionId}`;
         let list = getGlobalIncorrects();
         const exists = list.includes(qKey);
 
-        if (!isCorrect && !exists) {
+        const shouldBeInPool = (!isCorrect) || isFlagged;
+
+        if (shouldBeInPool && !exists) {
             list.push(qKey);
             localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
             updateGlobalReviewButton();
-        } else if (isCorrect && exists) {
+        } else if (!shouldBeInPool && exists) {
             list = list.filter(id => id !== qKey);
             localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
             updateGlobalReviewButton();
@@ -375,6 +372,35 @@ document.addEventListener('DOMContentLoaded', () => {
         const displayName = testName.replace(/^(\d+)-/, '').trim();
         getEl('exam-title').textContent = `Practice Exam: ${displayName}`;
 
+        let resetBtnContainer = getEl('global-review-reset-container');
+        if (!resetBtnContainer) {
+            resetBtnContainer = document.createElement('div');
+            resetBtnContainer.id = 'global-review-reset-container';
+            const headerDiv = getEl('exam-title').parentElement.parentElement;
+            headerDiv.appendChild(resetBtnContainer);
+        }
+
+        if (testName === "Global Review") {
+            resetBtnContainer.innerHTML = `
+                <button id="reset-global-review-btn" class="btn-secondary flex items-center gap-2 text-red-600 border-red-200 hover:bg-red-50 text-xs py-1 px-3 mt-4">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                    Reset Review Pool
+                </button>
+            `;
+            getEl('reset-global-review-btn').onclick = () => {
+                if(confirm('Are you sure you want to remove all questions from the global review pool?')) {
+                    localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify([]));
+                    updateGlobalReviewButton();
+                    const PROGRESS_KEY = `examProgress_Global Review`;
+                    localStorage.removeItem(PROGRESS_KEY);
+                    delete testStates["Global Review"];
+                    location.reload();
+                }
+            };
+        } else {
+            resetBtnContainer.innerHTML = '';
+        }
+
         const selectorBtns = getEl('test-selector-nav').querySelectorAll('.test-item-btn');
         selectorBtns.forEach(btn => {
             btn.classList.toggle('test-selector-btn-active', btn.dataset.name === testName);
@@ -396,7 +422,6 @@ document.addEventListener('DOMContentLoaded', () => {
         getEl('timer-display').textContent = formatTime(Math.floor(state.timer.elapsedTime / 1000));
 
         getEl('finish-test-btn').disabled = state.examFinished;
-        getEl('flag-question-btn').disabled = state.examFinished;
         getEl('timer-start-btn').disabled = state.examFinished;
         getEl('timer-pause-btn').disabled = state.examFinished;
 
@@ -645,7 +670,6 @@ document.addEventListener('DOMContentLoaded', () => {
         state.userAnswers.forEach(ans => { if (ans.isCorrect) score++ });
 
         getEl('finish-test-btn').disabled = true;
-        getEl('flag-question-btn').disabled = true;
         getEl('timer-start-btn').disabled = true;
         getEl('timer-pause-btn').disabled = true;
 
@@ -663,12 +687,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const navButtons = getEl('question-grid').querySelectorAll('button');
         navButtons.forEach((btn, index) => {
             btn.classList.remove('q-grid-btn-answered', 'q-grid-btn-flagged', 'q-grid-btn-current');
+            const isFlagged = state.flaggedQuestions.has(index);
             if (state.userAnswers[index].isCorrect) {
                 btn.classList.add('q-grid-btn-correct');
-                updateGlobalIncorrect(currentTestName, state.questions[index].id, true);
+                updateGlobalIncorrect(currentTestName, state.questions[index].id, true, isFlagged);
             } else {
                 btn.classList.add('q-grid-btn-incorrect');
-                updateGlobalIncorrect(currentTestName, state.questions[index].id, false);
+                updateGlobalIncorrect(currentTestName, state.questions[index].id, false, isFlagged);
             }
         });
 
@@ -721,7 +746,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let sourceTestName = state.questions[state.currentQuestionIndex].originalTestName || currentTestName;
         // If we are in "Global Review" mode, question objects have .originalTestName attached in startGlobalReview
 
-        updateGlobalIncorrect(sourceTestName, state.questions[state.currentQuestionIndex].id, answerState.isCorrect);
+        updateGlobalIncorrect(sourceTestName, state.questions[state.currentQuestionIndex].id, answerState.isCorrect, state.flaggedQuestions.has(state.currentQuestionIndex));
 
         displayQuestion();
         saveState();
@@ -1178,13 +1203,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const toggleFlag = () => {
         const state = getCurrentTestState();
-        if (!state || state.examFinished) return;
+        if (!state) return;
         const index = state.currentQuestionIndex;
+
+        const qId = state.questions[index].id;
+        const sourceTestName = state.questions[index].originalTestName || currentTestName;
+        const qKey = `${sourceTestName}|${qId}`;
+        let list = getGlobalIncorrects();
+        const exists = list.includes(qKey);
 
         if (state.flaggedQuestions.has(index)) {
             state.flaggedQuestions.delete(index);
+            if (exists) {
+                list = list.filter(id => id !== qKey);
+                localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
+                updateGlobalReviewButton();
+            }
         } else {
             state.flaggedQuestions.add(index);
+            if (!exists) {
+                list.push(qKey);
+                localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
+                updateGlobalReviewButton();
+            }
         }
 
         // Optimized UI Update (No Re-render)

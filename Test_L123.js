@@ -5,8 +5,16 @@ window.Test_L123 = [
     "questionText": "A 23-year-old male is participating in an immunology study. Researchers extract antibodies from his serum and treat them with papain. Which of the following best describes the resulting fragments?",
     "options": [
       {
+        "text": "No cleavage occurs as antibodies are resistant to papain",
+        "explanation": "Incorrect. Antibodies are susceptible to proteolysis. This would be the correct answer if the protease was inhibited."
+      },
+      {
         "text": "One F(ab')2 fragment and multiple small Fc fragments",
         "explanation": "Incorrect. This describes pepsin digestion. This would be the correct answer if the antibody was treated with pepsin, which cleaves below the hinge region."
+      },
+      {
+        "text": "One intact Fab fragment and one F(ab')2 fragment",
+        "explanation": "Incorrect. Papain yields two Fab fragments, not one. This would be the correct answer if an enzyme asymmetrically cleaved the antibody, which doesn't biologically occur here."
       },
       {
         "text": "Two distinct heavy chains and two distinct light chains",
@@ -15,17 +23,9 @@ window.Test_L123 = [
       {
         "text": "Two individual Fab fragments and one intact Fc fragment",
         "explanation": "Correct. Papain cleaves the antibody molecule above the hinge region disulfide bonds, yielding two monovalent Fab fragments and one intact Fc fragment."
-      },
-      {
-        "text": "One intact Fab fragment and one F(ab')2 fragment",
-        "explanation": "Incorrect. Papain yields two Fab fragments, not one. This would be the correct answer if an enzyme asymmetrically cleaved the antibody, which doesn't biologically occur here."
-      },
-      {
-        "text": "No cleavage occurs as antibodies are resistant to papain",
-        "explanation": "Incorrect. Antibodies are susceptible to proteolysis. This would be the correct answer if the protease was inhibited."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Papain cleavage yields 2 Fab and 1 Fc fragments.",
     "pdfPage": 5,
     "pdfQuote": "digesting it with the protease"
@@ -44,19 +44,19 @@ window.Test_L123 = [
         "explanation": "Incorrect. Opsonization tags cells for phagocytosis but doesn't primarily form large precipitable networks. This would be the correct answer if phagocytes were engulfing the targets."
       },
       {
-        "text": "Agglutination involving large polymeric antibodies like IgM",
-        "explanation": "Correct. Agglutination (cross-linking) often involves polymeric forms like IgM bridging multiple antigens to form a visible complex."
+        "text": "Lysis of cells through the membrane attack complex",
+        "explanation": "Incorrect. MAC causes direct lysis, not just precipitation. This would be the correct answer if complement activation was specifically tested."
       },
       {
         "text": "Degranulation of mast cells triggered by IgE",
         "explanation": "Incorrect. This describes Type I hypersensitivity. This would be the correct answer if the patient had anaphylaxis."
       },
       {
-        "text": "Lysis of cells through the membrane attack complex",
-        "explanation": "Incorrect. MAC causes direct lysis, not just precipitation. This would be the correct answer if complement activation was specifically tested."
+        "text": "Agglutination involving large polymeric antibodies like IgM",
+        "explanation": "Correct. Agglutination (cross-linking) often involves polymeric forms like IgM bridging multiple antigens to form a visible complex."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "IgM is the most efficient antibody for agglutination due to its pentameric structure.",
     "pdfPage": 8,
     "pdfQuote": "Agglutination reaction typically involves the large"
@@ -67,27 +67,27 @@ window.Test_L123 = [
     "questionText": "A newborn is exclusively breastfed. The primary immunoglobulin providing gastrointestinal protection to this infant arrives as a dimer. Which of the following components facilitates its transport across the epithelial layer?",
     "options": [
       {
-        "text": "J chain",
-        "explanation": "Incorrect. The J chain joins the monomers. This would be the correct answer if the mechanism of the dimer formation was asked."
+        "text": "Secretory component",
+        "explanation": "Correct. Secretory IgA uses the secretory component (derived from the poly-Ig receptor) to translocate across epithelial cells and resist degradation."
       },
       {
-        "text": "Fc portion",
-        "explanation": "Incorrect. The Fc portion binds effector cells. This would be the correct answer if macrophage binding was asked."
+        "text": "J chain",
+        "explanation": "Incorrect. The J chain joins the monomers. This would be the correct answer if the mechanism of the dimer formation was asked."
       },
       {
         "text": "Variable region",
         "explanation": "Incorrect. The variable region confers antigen specificity. This would be true if antigen recognition was questioned."
       },
       {
-        "text": "Secretory component",
-        "explanation": "Correct. Secretory IgA uses the secretory component (derived from the poly-Ig receptor) to translocate across epithelial cells and resist degradation."
-      },
-      {
         "text": "Hinge region",
         "explanation": "Incorrect. The hinge provides flexibility. This would be correct if discussing the antibody's spatial adaptation."
+      },
+      {
+        "text": "Fc portion",
+        "explanation": "Incorrect. The Fc portion binds effector cells. This would be the correct answer if macrophage binding was asked."
       }
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Secretory component protects IgA from proteolytic degradation in mucosal environments.",
     "pdfPage": 10,
     "pdfQuote": "dimer with a secretory piece"
@@ -98,27 +98,27 @@ window.Test_L123 = [
     "questionText": "During a primary cellular immune response, a T lymphocyte encounters a dendritic cell in a lymph node. The T cell receptor binds to the MHC-peptide complex. However, without a secondary signal, the T cell becomes anergic. Which interaction provides this necessary second signal?",
     "options": [
       {
-        "text": "CD40 binding to CD40-Ligand",
-        "explanation": "Incorrect. This is primarily for B cell activation and class switching. This would be the correct answer if immunoglobulin isotype switching was described."
-      },
-      {
-        "text": "CD28 binding to B7 (CD80/86)",
-        "explanation": "Correct. T cell activation requires two signals: TCR-MHC (Signal 1) and CD28 binding to B7 on the APC (Signal 2)."
-      },
-      {
         "text": "LFA-1 binding to ICAM-1",
         "explanation": "Incorrect. This is an adhesion molecule interaction. This would be correct if the question asked about stabilization of the immunological synapse."
+      },
+      {
+        "text": "MHC II binding to CD4",
+        "explanation": "Incorrect. This is part of signal 1. This would be correct if the question specified the co-receptor for the primary signal."
+      },
+      {
+        "text": "CD40 binding to CD40-Ligand",
+        "explanation": "Incorrect. This is primarily for B cell activation and class switching. This would be the correct answer if immunoglobulin isotype switching was described."
       },
       {
         "text": "CTLA-4 binding to B7",
         "explanation": "Incorrect. CTLA-4 delivers an inhibitory signal. This would be the correct answer if the question detailed T cell down-regulation."
       },
       {
-        "text": "MHC II binding to CD4",
-        "explanation": "Incorrect. This is part of signal 1. This would be correct if the question specified the co-receptor for the primary signal."
+        "text": "CD28 binding to B7 (CD80/86)",
+        "explanation": "Correct. T cell activation requires two signals: TCR-MHC (Signal 1) and CD28 binding to B7 on the APC (Signal 2)."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "CD28 and B7 interaction provides the necessary second signal for T cell activation.",
     "pdfPage": 20,
     "pdfQuote": "T cell activation requires two signals"
@@ -137,19 +137,19 @@ window.Test_L123 = [
         "explanation": "Incorrect. IL-10 is purely inhibitory. This would be the correct answer if the cell was a regulatory T cell."
       },
       {
+        "text": "Transforming growth factor-beta",
+        "explanation": "Incorrect. TGF-beta helps induce Treg or Th17. This would be the correct answer if discussing immune tolerance."
+      },
+      {
         "text": "Interleukin-12",
         "explanation": "Correct. IL-12 secreted by macrophages and dendritic cells drives the differentiation of naive T cells into the Th1 subset."
       },
       {
         "text": "Interferon-gamma",
         "explanation": "Incorrect. IFN-gamma is secreted BY Th1 cells, not the initial inducer from macrophages. This would be correct if asking what the Th1 cell secretes."
-      },
-      {
-        "text": "Transforming growth factor-beta",
-        "explanation": "Incorrect. TGF-beta helps induce Treg or Th17. This would be the correct answer if discussing immune tolerance."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "IL-12 is the primary cytokine responsible for driving Th1 cell differentiation.",
     "pdfPage": 25,
     "pdfQuote": "roles of T helper 1"
@@ -160,27 +160,27 @@ window.Test_L123 = [
     "questionText": "A 12-year-old girl contracts an intracellular viral infection. Infected cells begin displaying viral peptides on their surface. These peptides are presented via a specific surface complex characterized by a closed binding groove and an associated beta-2 microglobulin. This complex is highly likely to interact directly with which of the following cell surface markers?",
     "options": [
       {
-        "text": "CD4",
-        "explanation": "Incorrect. CD4 interacts with MHC Class II, which has an open binding groove. This would be correct if the antigen was exogenous."
-      },
-      {
-        "text": "CD8",
-        "explanation": "Correct. The molecule described is MHC Class I (associated with beta-2 microglobulin and closed ends). It presents to CD8+ cytotoxic T cells."
+        "text": "CD21",
+        "explanation": "Incorrect. CD21 is the EBV receptor on B cells. This would be correct if the cell engaged was infected by Epstein-Barr Virus."
       },
       {
         "text": "CD19",
         "explanation": "Incorrect. CD19 is a B cell marker. This would be correct if the cell targeting was a B lymphocyte."
       },
       {
-        "text": "CD21",
-        "explanation": "Incorrect. CD21 is the EBV receptor on B cells. This would be correct if the cell engaged was infected by Epstein-Barr Virus."
+        "text": "CD4",
+        "explanation": "Incorrect. CD4 interacts with MHC Class II, which has an open binding groove. This would be correct if the antigen was exogenous."
       },
       {
         "text": "CD40",
         "explanation": "Incorrect. CD40 is involved in activation class-switching. This would be correct if B cells were receiving T cell help."
+      },
+      {
+        "text": "CD8",
+        "explanation": "Correct. The molecule described is MHC Class I (associated with beta-2 microglobulin and closed ends). It presents to CD8+ cytotoxic T cells."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "MHC Class I restricted presentation involves beta-2 microglobulin and activates CD8+ T cells.",
     "pdfPage": 18,
     "pdfQuote": "role of MHC molecules"
@@ -191,27 +191,27 @@ window.Test_L123 = [
     "questionText": "A 5-year-old boy suffers from frequent pyogenic bacterial infections. Genetic analysis reveals a mutation in the CD40L gene. Consequently, his B cells fail to interact properly with T helper cells. Which of the following is the most likely composition of his circulating immunoglobulins?",
     "options": [
       {
-        "text": "Elevated IgA, absent IgG and IgM",
-        "explanation": "Incorrect. Without CD40L, class switching to IgA cannot occur. This would be correct if only IgM production was suppressed."
-      },
-      {
         "text": "Elevated IgM, profoundly decreased IgG and IgA",
         "explanation": "Correct. The patient has Hyper-IgM syndrome due to CD40L deficiency. B cells can produce primarily IgM but cannot class-switch to IgG, IgA, or IgE."
       },
       {
-        "text": "Normal levels of all immunoglobulin classes",
-        "explanation": "Incorrect. Class switching is definitively impaired. This would be correct if the mutation was benign."
+        "text": "Elevated IgE and IgA, normal IgM",
+        "explanation": "Incorrect. IgE and IgA require class switching. This would perfectly characterize a highly specific hyper-Th2 response."
       },
       {
         "text": "Profound deficiency of all immunoglobulin classes",
         "explanation": "Incorrect. This describes Bruton agammaglobulinemia (BTK defect). This would be the correct answer if early B cell maturation was halted."
       },
       {
-        "text": "Elevated IgE and IgA, normal IgM",
-        "explanation": "Incorrect. IgE and IgA require class switching. This would perfectly characterize a highly specific hyper-Th2 response."
+        "text": "Normal levels of all immunoglobulin classes",
+        "explanation": "Incorrect. Class switching is definitively impaired. This would be correct if the mutation was benign."
+      },
+      {
+        "text": "Elevated IgA, absent IgG and IgM",
+        "explanation": "Incorrect. Without CD40L, class switching to IgA cannot occur. This would be correct if only IgM production was suppressed."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Isotype switching requires CD40-CD40L interaction; deficiency prevents transition from IgM to IgG, IgA, or IgE.",
     "pdfPage": 21,
     "pdfQuote": "B cell receptor and their role"
@@ -222,16 +222,12 @@ window.Test_L123 = [
     "questionText": "A patient is heavily infected with intestinal helminths. His complete blood count reveals marked eosinophilia. This immune state was heavily coordinated by a specific subset of helper T cells. These T cells most likely secrete which of the following sets of cytokines?",
     "options": [
       {
-        "text": "IFN-gamma and IL-2",
-        "explanation": "Incorrect. These are Th1 cytokines. This would be the correct answer if the patient had an intracellular pathogen, like Tuberculosis."
-      },
-      {
-        "text": "IL-17 and IL-22",
-        "explanation": "Incorrect. These are Th17 cytokines. This would be correct if the patient was battling extracellular bacteria or fungi."
-      },
-      {
         "text": "IL-4, IL-5, and IL-13",
         "explanation": "Correct. Th2 cells secrete IL-4 (IgE class switching), IL-5 (eosinophil activation), and IL-13 (promotes mucous production), clearing helminths."
+      },
+      {
+        "text": "IFN-gamma and IL-2",
+        "explanation": "Incorrect. These are Th1 cytokines. This would be the correct answer if the patient had an intracellular pathogen, like Tuberculosis."
       },
       {
         "text": "TGF-beta and IL-10",
@@ -240,9 +236,13 @@ window.Test_L123 = [
       {
         "text": "IL-1, IL-6, and TNF-alpha",
         "explanation": "Incorrect. These are innate pro-inflammatory cytokines secreted mainly by macrophages. This would refer to an acute phase response."
+      },
+      {
+        "text": "IL-17 and IL-22",
+        "explanation": "Incorrect. These are Th17 cytokines. This would be correct if the patient was battling extracellular bacteria or fungi."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "Th2 cells secrete IL-4, IL-5, and IL-13, which are crucial for defense against helminths and drive allergic reactions.",
     "pdfPage": 25,
     "pdfQuote": "roles of T helper"
@@ -253,27 +253,27 @@ window.Test_L123 = [
     "questionText": "A scientist is studying somatic recombination in lymphocytes. She evaluates the enzymes responsible for cleaving double-stranded DNA during the rearrangement of variable (V), diversity (D), and joining (J) segments. A defect in this enzymatic complex would most directly cause which of the following conditions?",
     "options": [
       {
-        "text": "Failure of isotype switching",
-        "explanation": "Incorrect. Isotype switching is mediated by Activation-induced cytidine deaminase (AID). This would be correct if the patient had AID deficiency."
-      },
-      {
         "text": "Severe combined immunodeficiency (SCID)",
         "explanation": "Correct. The enzymes are RAG1/RAG2. A defect leads to absent VDJ recombination, resulting in a lack of mature T and B cells (Omenn syndrome/SCID)."
       },
       {
-        "text": "Defective positive selection in the thymus",
-        "explanation": "Incorrect. Positive selection happens after proper rearrangement. This would be the correct answer for autoimmune polyendocrinopathy if AIRE was defective."
+        "text": "Impaired phagocytosis",
+        "explanation": "Incorrect. Phagocytosis is an innate function and independent of VDJ. This would be correct for phagocytic defects like CGD."
       },
       {
         "text": "Hyper-IgM syndrome",
         "explanation": "Incorrect. This is typically a CD40L pathway defect. This would be correct if T cell and B cell populations were normal but class switching failed."
       },
       {
-        "text": "Impaired phagocytosis",
-        "explanation": "Incorrect. Phagocytosis is an innate function and independent of VDJ. This would be correct for phagocytic defects like CGD."
+        "text": "Failure of isotype switching",
+        "explanation": "Incorrect. Isotype switching is mediated by Activation-induced cytidine deaminase (AID). This would be correct if the patient had AID deficiency."
+      },
+      {
+        "text": "Defective positive selection in the thymus",
+        "explanation": "Incorrect. Positive selection happens after proper rearrangement. This would be the correct answer for autoimmune polyendocrinopathy if AIRE was defective."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "RAG1/RAG2 are essential for V (D) J recombination, and their functional absence leads to severe combined immunodeficiency.",
     "pdfPage": 15,
     "pdfQuote": "how different lymphocytes are activated"
@@ -284,27 +284,27 @@ window.Test_L123 = [
     "questionText": "A 24-year-old female presents to the clinic with a well-demarcated, intensely pruritic erythematous rash with vesicles on her forearms exactly where her metal bracelets recently rested. The pathophysiology of her condition is most heavily reliant on the function of which cell type?",
     "options": [
       {
-        "text": "IgE-coated mast cells",
-        "explanation": "Incorrect. This describes a Type I hypersensitivity (urticaria). This would be correct if the rash appeared immediately after a bee sting."
-      },
-      {
-        "text": "Neutrophils attracted by immune complexes",
-        "explanation": "Incorrect. This describes a Type III hypersensitivity. This would be correct if she had arthralgias and a rash from serum sickness."
-      },
-      {
-        "text": "Complement-activating IgG antibodies",
-        "explanation": "Incorrect. This describes a Type II hypersensitivity. This would be correct if she presented with autoimmune hemolytic anemia."
+        "text": "Regulatory T cells secreting IL-10",
+        "explanation": "Incorrect. These cells suppress inflammation. This would be the correct answer if her immune system successfully tolerated the nickel."
       },
       {
         "text": "Antigen-specific T-helper 1 cells",
         "explanation": "Correct. Contact dermatitis (nickel) is a Type IV delayed-type hypersensitivity reaction, mediated by memory Th1 cells and macrophages."
       },
       {
-        "text": "Regulatory T cells secreting IL-10",
-        "explanation": "Incorrect. These cells suppress inflammation. This would be the correct answer if her immune system successfully tolerated the nickel."
+        "text": "IgE-coated mast cells",
+        "explanation": "Incorrect. This describes a Type I hypersensitivity (urticaria). This would be correct if the rash appeared immediately after a bee sting."
+      },
+      {
+        "text": "Complement-activating IgG antibodies",
+        "explanation": "Incorrect. This describes a Type II hypersensitivity. This would be correct if she presented with autoimmune hemolytic anemia."
+      },
+      {
+        "text": "Neutrophils attracted by immune complexes",
+        "explanation": "Incorrect. This describes a Type III hypersensitivity. This would be correct if she had arthralgias and a rash from serum sickness."
       }
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 1,
     "clinicalPearl": "Contact dermatitis to nickel is a classic Type IV Hypersensitivity reaction mediated by Th1 cells.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -315,27 +315,27 @@ window.Test_L123 = [
     "questionText": "A researcher discovers a novel immunoglobulin found bound extensively to the surfaces of naive, mature B-lymphocytes. It is rarely found in significant amounts within the serum. This immunoglobulin primarily co-expresses with monomeric IgM. Which of the following is the most likely identity of this molecule?",
     "options": [
       {
-        "text": "IgA",
-        "explanation": "Incorrect. IgA is primarily found in mucosal secretions. This would be the correct answer if testing intestinal fluids."
+        "text": "IgG",
+        "explanation": "Incorrect. IgG is the most common serum immunoglobulin. This would be correct if seeking the main antibody of the secondary response."
       },
       {
         "text": "IgE",
         "explanation": "Incorrect. IgE binds to mast cells and basophils. This would be the correct answer if investigating allergic pathways."
       },
       {
-        "text": "IgD",
-        "explanation": "Correct. IgD is almost exclusively found co-expressed with IgM on the surface of mature, naive B cells, serving as a B-cell receptor."
+        "text": "IgA",
+        "explanation": "Incorrect. IgA is primarily found in mucosal secretions. This would be the correct answer if testing intestinal fluids."
       },
       {
-        "text": "IgG",
-        "explanation": "Incorrect. IgG is the most common serum immunoglobulin. This would be correct if seeking the main antibody of the secondary response."
+        "text": "IgD",
+        "explanation": "Correct. IgD is almost exclusively found co-expressed with IgM on the surface of mature, naive B cells, serving as a B-cell receptor."
       },
       {
         "text": "Secretory IgA",
         "explanation": "Incorrect. This functions at the epithelial borders. This would be correct if analyzing mucosal defense."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "IgD and monomeric IgM are co-expressed on the surface of mature, naive B cells.",
     "pdfPage": 13,
     "pdfQuote": "immunoglobulin specifically immunoglobulin D"
@@ -346,27 +346,27 @@ window.Test_L123 = [
     "questionText": "A 45-year-old male receives a transfusion of plasma and soon develops severe shortness of breath, hypotension, and generalized urticaria. He has a known history of chronic gastrointestinal issues and recurrent sinusitis but has never received blood products before. The reaction is driven by preformed antibodies against which of the following?",
     "options": [
       {
-        "text": "ABO blood group antigens",
-        "explanation": "Incorrect. This causes acute hemolytic reactions with fever and flank pain. This would be correct if he had free hemoglobin in urine."
-      },
-      {
-        "text": "Secretory IgA molecules in the donor plasma",
-        "explanation": "Correct. Patients with complete IgA deficiency can form anti-IgA antibodies. Transfused IgA acts as an allergen, triggering severe anaphylaxis (Type I)."
-      },
-      {
-        "text": "HLA Class I antigens",
-        "explanation": "Incorrect. Anti-HLA causes febrile non-hemolytic reactions or TRALI. This would be correct if he had isolated extreme pulmonary edema and hypoxia."
-      },
-      {
         "text": "Rh-factor discrepancies",
         "explanation": "Incorrect. This dictates hemolytic responses, mostly famous in pregnancy. This would be correct if looking for extravascular hemolysis."
       },
       {
         "text": "Circulating immune complexes",
         "explanation": "Incorrect. Immune complexes cause serum sickness. This would be correct if his reaction occurred 7-14 days after the transfusion."
+      },
+      {
+        "text": "HLA Class I antigens",
+        "explanation": "Incorrect. Anti-HLA causes febrile non-hemolytic reactions or TRALI. This would be correct if he had isolated extreme pulmonary edema and hypoxia."
+      },
+      {
+        "text": "Secretory IgA molecules in the donor plasma",
+        "explanation": "Correct. Patients with complete IgA deficiency can form anti-IgA antibodies. Transfused IgA acts as an allergen, triggering severe anaphylaxis (Type I)."
+      },
+      {
+        "text": "ABO blood group antigens",
+        "explanation": "Incorrect. This causes acute hemolytic reactions with fever and flank pain. This would be correct if he had free hemoglobin in urine."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Patients with selective IgA deficiency can experience severe anaphylaxis due to preformed anti-IgA upon blood transfusion.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -377,14 +377,6 @@ window.Test_L123 = [
     "questionText": "A therapeutic antibody targets the PD-1 receptor on T lymphocytes. In clinical trials, it demonstrates significant shrinkage of poorly immunogenic solid tumors. The primary mechanism underlying this anti-tumor effect involves overcoming which normal physiological process?",
     "options": [
       {
-        "text": "Central tolerance in the thymus",
-        "explanation": "Incorrect. Central tolerance removes self-reactive T cells early on via AIRE. This would be correct if the therapy altered thymic selection."
-      },
-      {
-        "text": "Costimulation via CD28",
-        "explanation": "Incorrect. PD-1 does not primarily block CD28. This would be correct if an agonistic CD28 antibody were used."
-      },
-      {
         "text": "Peripheral tolerance anergy mechanisms",
         "explanation": "Correct. PD-1 signaling induces T cell exhaustion and peripheral tolerance. Blocking it reactivates exhausted T cells against the tumor."
       },
@@ -393,11 +385,19 @@ window.Test_L123 = [
         "explanation": "Incorrect. VDJ occurs during development. This would be correct if RAG activity were biochemically enhanced."
       },
       {
+        "text": "Costimulation via CD28",
+        "explanation": "Incorrect. PD-1 does not primarily block CD28. This would be correct if an agonistic CD28 antibody were used."
+      },
+      {
         "text": "Negative selection via Fas/FasL",
         "explanation": "Incorrect. ALPS is a disease of Fas/FasL. This would be the correct answer if the therapy blocked Fas-mediated apoptosis directly."
+      },
+      {
+        "text": "Central tolerance in the thymus",
+        "explanation": "Incorrect. Central tolerance removes self-reactive T cells early on via AIRE. This would be correct if the therapy altered thymic selection."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
     "clinicalPearl": "PD-1 is a key mediator of peripheral tolerance and T cell exhaustion; its blockade is a cornerstone of modern cancer immunotherapy.",
     "pdfPage": 26,
     "pdfQuote": "regulate the immune response"
@@ -439,27 +439,27 @@ window.Test_L123 = [
     "questionText": "A 55-year-old male receives a kidney transplant. Within 15 minutes of re-establishing blood flow, the graft becomes mottled, cyanotic, and flaccid. A biopsy shows widespread thrombosis and ischemia without significant cellular infiltrates. Which of the following is the most likely etiology?",
     "options": [
       {
-        "text": "Activation of CD8+ T cells against donor HLA",
-        "explanation": "Incorrect. This is acute rejection taking weeks. This would be correct if the transplant failed progressively over the following weeks with lymphocytic infiltrate."
+        "text": "Donor T cells attacking recipient tissues",
+        "explanation": "Incorrect. This describes Graft-Versus-Host Disease. This would be correct if he had bone marrow transplant presenting with rash and jaundice."
+      },
+      {
+        "text": "Release of massive amounts of IL-2 by Th1 cells",
+        "explanation": "Incorrect. A cytokine storm alone doesn't trigger instant localized graft necrosis. This would be correct for systemic shock."
       },
       {
         "text": "Preformed circulating antibodies against donor antigens",
         "explanation": "Correct. Hyperacute rejection occurs minutes to hours post-transplant due to preformed recipient antibodies (e.g., ABO, anti-HLA) causing immediate thrombosis."
       },
       {
-        "text": "Donor T cells attacking recipient tissues",
-        "explanation": "Incorrect. This describes Graft-Versus-Host Disease. This would be correct if he had bone marrow transplant presenting with rash and jaundice."
+        "text": "Activation of CD8+ T cells against donor HLA",
+        "explanation": "Incorrect. This is acute rejection taking weeks. This would be correct if the transplant failed progressively over the following weeks with lymphocytic infiltrate."
       },
       {
         "text": "Fibrosis and narrowing of graft blood vessels",
         "explanation": "Incorrect. This is chronic rejection taking months to years. This would be correct if evaluating kidney failure 4 years post-transplant."
-      },
-      {
-        "text": "Release of massive amounts of IL-2 by Th1 cells",
-        "explanation": "Incorrect. A cytokine storm alone doesn't trigger instant localized graft necrosis. This would be correct for systemic shock."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Hyperacute transplant rejection is a Type II hypersensitivity caused by preformed antibodies reacting immediately with graft endothelium.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -470,8 +470,12 @@ window.Test_L123 = [
     "questionText": "A 35-year-old male with a history of recurrent Neisseria meningitidis infections undergoes immune evaluation. His physician suspects a complement deficiency, particularly in the classical pathway. The classical complement pathway is primarily initiated by the binding of C1 to which architectural region of the immunoglobulin?",
     "options": [
       {
-        "text": "The hypervariable loops of the Fab structure",
-        "explanation": "Incorrect. The hypervariable loops bind antigen, not complement. This would be the correct answer if asking where the foreign epitope attaches."
+        "text": "The light chain constant domains",
+        "explanation": "Incorrect. Light chains do not initiate complement. This would be correct if analyzing generic antibody structural scaffolding."
+      },
+      {
+        "text": "The hinge region disulfide complex",
+        "explanation": "Incorrect. The hinge provides structural flexibility. This would be the correct answer if investigating where papain cleaves the antibody."
       },
       {
         "text": "The J chain linking the polymeric complex",
@@ -482,15 +486,11 @@ window.Test_L123 = [
         "explanation": "Correct. The classical complement cascade relies on C1q interacting firmly with the CH2 domain on the Fc portion of IgG or the CH3 domain of IgM."
       },
       {
-        "text": "The light chain constant domains",
-        "explanation": "Incorrect. Light chains do not initiate complement. This would be correct if analyzing generic antibody structural scaffolding."
-      },
-      {
-        "text": "The hinge region disulfide complex",
-        "explanation": "Incorrect. The hinge provides structural flexibility. This would be the correct answer if investigating where papain cleaves the antibody."
+        "text": "The hypervariable loops of the Fab structure",
+        "explanation": "Incorrect. The hypervariable loops bind antigen, not complement. This would be the correct answer if asking where the foreign epitope attaches."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Complement component C1q initiates the classical pathway by binding specifically to the CH2 domain of an antigen-bound IgG (or CH3 of IgM).",
     "pdfPage": 10,
     "pdfQuote": "Fc portion which contains the"
@@ -509,19 +509,19 @@ window.Test_L123 = [
         "explanation": "Incorrect. This is Type II hypersensitivity. This would be correct if she solely exhibited targeted cell destruction like hemolytic anemia."
       },
       {
-        "text": "Deposition of circulating antigen-antibody complexes",
-        "explanation": "Correct. The patient has Serum Sickness, a classic Type III hypersensitivity where circulating immune complexes deposit in joints, skin, and kidneys, causing systemic inflammation."
+        "text": "Dysregulation of peripheral tolerance to self-antigens",
+        "explanation": "Incorrect. This implies a lifelong autoimmune disease like Lupus. This would be correct if the condition was chronic and self-perpetuating."
       },
       {
         "text": "Th1-mediated activation of tissue macrophages",
         "explanation": "Incorrect. This represents a Type IV delayed hypersensitivity. This would be correct if she had a localized contact rash or positive PPD test."
       },
       {
-        "text": "Dysregulation of peripheral tolerance to self-antigens",
-        "explanation": "Incorrect. This implies a lifelong autoimmune disease like Lupus. This would be correct if the condition was chronic and self-perpetuating."
+        "text": "Deposition of circulating antigen-antibody complexes",
+        "explanation": "Correct. The patient has Serum Sickness, a classic Type III hypersensitivity where circulating immune complexes deposit in joints, skin, and kidneys, causing systemic inflammation."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Serum sickness is a systemic Type III hypersensitivity triggered by immune complex deposition, characterized by fever, rash, and arthralgias.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -532,8 +532,8 @@ window.Test_L123 = [
     "questionText": "A specialized laboratory creates a transgenic mouse lacking the poly-Ig receptor on mucosal epithelial cells. The animal appears largely healthy but is increasingly prone to gastrointestinal infections such as Giardia lamblia. Which of the following immune components will accumulate in the lamina propria rather than being secreted into the lumen?",
     "options": [
       {
-        "text": "Monomeric IgA",
-        "explanation": "Incorrect. Monomeric IgA stays in the serum normally and doesn't rely solely on this transport mechanism. This would be correct if the question discussed serum IgA."
+        "text": "Lysozyme and defensins",
+        "explanation": "Incorrect. These are innate molecules and secreted independently. This would be correct if investigating paneth cell function."
       },
       {
         "text": "Pentameric IgM and dimeric IgA",
@@ -544,12 +544,12 @@ window.Test_L123 = [
         "explanation": "Incorrect. While IgA is primarily involved, IgM also uses this receptor. This would be correct if IgM lacked the necessary binding J chain."
       },
       {
-        "text": "Secretory IgE",
-        "explanation": "Incorrect. IgE diffuses slightly but isn't actively transcytosed via poly-Ig. This would be correct if the discussion centered entirely on allergy."
+        "text": "Monomeric IgA",
+        "explanation": "Incorrect. Monomeric IgA stays in the serum normally and doesn't rely solely on this transport mechanism. This would be correct if the question discussed serum IgA."
       },
       {
-        "text": "Lysozyme and defensins",
-        "explanation": "Incorrect. These are innate molecules and secreted independently. This would be correct if investigating paneth cell function."
+        "text": "Secretory IgE",
+        "explanation": "Incorrect. IgE diffuses slightly but isn't actively transcytosed via poly-Ig. This would be correct if the discussion centered entirely on allergy."
       }
     ],
     "correctAnswerIndex": 1,
@@ -563,16 +563,12 @@ window.Test_L123 = [
     "questionText": "A 40-year-old researcher evaluates the efficacy of a new immunosuppressive agent. This drug functions as a recombinant fusion protein mimicking CTLA-4, bound to an IgG heavy chain. When administered, it profoundly diminishes the ability of T cells to mount an immune response. What is the precise target this drug occupies to mediate its effect?",
     "options": [
       {
-        "text": "CD28 on the activated T cell",
-        "explanation": "Incorrect. The drug mimics CTLA-4 to block CD28 from binding its ligand. This would be correct if the drug was an anti-CD28 antibody."
+        "text": "The T cell receptor variable beta chain",
+        "explanation": "Incorrect. Obstructing the TCR prevents signal 1. This would be correct if the drug blocked superantigen engagement."
       },
       {
         "text": "B7 (CD80/86) on the antigen-presenting cell",
         "explanation": "Correct. Abatacept (CTLA-4-Ig) mimics CTLA-4's high affinity for B7 on APCs, competitively blocking CD28 from delivering the necessary second activation signal."
-      },
-      {
-        "text": "The T cell receptor variable beta chain",
-        "explanation": "Incorrect. Obstructing the TCR prevents signal 1. This would be correct if the drug blocked superantigen engagement."
       },
       {
         "text": "MHC Class II alpha and beta domains",
@@ -581,6 +577,10 @@ window.Test_L123 = [
       {
         "text": "Interleukin-2 receptor alpha chain (CD25)",
         "explanation": "Incorrect. This limits clonal expansion but not initial activation. This would be correct for Basiliximab."
+      },
+      {
+        "text": "CD28 on the activated T cell",
+        "explanation": "Incorrect. The drug mimics CTLA-4 to block CD28 from binding its ligand. This would be correct if the drug was an anti-CD28 antibody."
       }
     ],
     "correctAnswerIndex": 1,
@@ -594,24 +594,24 @@ window.Test_L123 = [
     "questionText": "A 9-month-old male infant has experienced repeated cases of pneumonia over the past four months. Complete blood count shows normal counts of neutrophils and lymphocytes. Flow cytometry reveals an absolute lack of CD19+ and CD20+ cells, yet CD3+ cells are completely normal in functional capability. The patient's presentation is most consistent with a profound defect occurring in which anatomical location?",
     "options": [
       {
-        "text": "Thymic cortex",
-        "explanation": "Incorrect. T cell maturation occurs here; his T cells are normal. This would be correct if he had DiGeorge syndrome."
+        "text": "Spleen red pulp",
+        "explanation": "Incorrect. Red pulp predominantly clears senescent RBCs. This would be correct if he suffered an encapsulated bacterial infection post-splenectomy."
       },
       {
         "text": "Bone marrow",
         "explanation": "Correct. The patient has X-linked (Bruton's) agammaglobulinemia due to a BTK deficiency, causing B cell maturation to fail fully within the bone marrow."
       },
       {
+        "text": "Peyer's patches",
+        "explanation": "Incorrect. This handles mucosal sampling. This would be correct if the patient specifically lacked mucosal IgA but maintained systemic IgG."
+      },
+      {
         "text": "Lymph node germinal center",
         "explanation": "Incorrect. Germinal centers allow for affinity maturation. This would be correct if B cells were present but unable to class-switch properly."
       },
       {
-        "text": "Spleen red pulp",
-        "explanation": "Incorrect. Red pulp predominantly clears senescent RBCs. This would be correct if he suffered an encapsulated bacterial infection post-splenectomy."
-      },
-      {
-        "text": "Peyer's patches",
-        "explanation": "Incorrect. This handles mucosal sampling. This would be correct if the patient specifically lacked mucosal IgA but maintained systemic IgG."
+        "text": "Thymic cortex",
+        "explanation": "Incorrect. T cell maturation occurs here; his T cells are normal. This would be correct if he had DiGeorge syndrome."
       }
     ],
     "correctAnswerIndex": 1,
@@ -629,20 +629,20 @@ window.Test_L123 = [
         "explanation": "Correct. Paroxysmal Nocturnal Hemoglobinuria lacks DAF and CD59. These normally protect RBCs against uninhibited, direct cytolysis assembled by the terminal complement cascade."
       },
       {
-        "text": "Phagocytosis by splenic macrophages due to IgG coating",
-        "explanation": "Incorrect. That describes autoimmune hemolytic anemia. This would be correct if the direct Coombs test was positive."
-      },
-      {
-        "text": "Oxidative stress leading to Heinz body formation",
-        "explanation": "Incorrect. This describes G6PD deficiency. This would be correct if she experienced hemolysis specifically after eating fava beans."
+        "text": "Coating by massive amounts of secretory IgA",
+        "explanation": "Incorrect. Secretory IgA does not coat serum RBCs. This would be correct if the pathogen was neutralized primarily in mucosal lumen."
       },
       {
         "text": "Extravascular hemolysis due to structural membrane defects",
         "explanation": "Incorrect. This describes hereditary spherocytosis. This would be correct if spectrin or ankyrin were structurally abnormal."
       },
       {
-        "text": "Coating by massive amounts of secretory IgA",
-        "explanation": "Incorrect. Secretory IgA does not coat serum RBCs. This would be correct if the pathogen was neutralized primarily in mucosal lumen."
+        "text": "Phagocytosis by splenic macrophages due to IgG coating",
+        "explanation": "Incorrect. That describes autoimmune hemolytic anemia. This would be correct if the direct Coombs test was positive."
+      },
+      {
+        "text": "Oxidative stress leading to Heinz body formation",
+        "explanation": "Incorrect. This describes G6PD deficiency. This would be correct if she experienced hemolysis specifically after eating fava beans."
       }
     ],
     "correctAnswerIndex": 0,
@@ -656,6 +656,10 @@ window.Test_L123 = [
     "questionText": "A 8-year-old boy presents with severe allergic rhinitis. He possesses high titers of serum IgE relative to his non-atopic peers. These elevated IgE molecules preferentially bind via their Fc regions to high-affinity receptors located on which of the following pair of cells?",
     "options": [
       {
+        "text": "Th1 and Th2 lymphocytes",
+        "explanation": "Incorrect. T cells do not use immunoglobulins as their surface antigen receptors. This would be correct if evaluating TCR signaling."
+      },
+      {
         "text": "Eosinophils and Neutrophils",
         "explanation": "Incorrect. Neutrophils largely lack high-affinity IgE receptors. This would be the correct answer if looking for IgG-opsonized destruction."
       },
@@ -664,19 +668,15 @@ window.Test_L123 = [
         "explanation": "Correct. IgE binds firmly to the high-affinity Fc-epsilon-RI receptors located prominently on the surface of Mast cells and Basophils."
       },
       {
-        "text": "Macrophages and Dendritic cells",
-        "explanation": "Incorrect. They primarily express receptors for IgG to aid phagocytosis. This would be correct if discussing general antigen presentation routes."
-      },
-      {
-        "text": "Th1 and Th2 lymphocytes",
-        "explanation": "Incorrect. T cells do not use immunoglobulins as their surface antigen receptors. This would be correct if evaluating TCR signaling."
-      },
-      {
         "text": "Natural Killer (NK) cells",
         "explanation": "Incorrect. NK cells bind IgG for ADCC. This would be the correct answer if evaluating host cell viral destruction."
+      },
+      {
+        "text": "Macrophages and Dendritic cells",
+        "explanation": "Incorrect. They primarily express receptors for IgG to aid phagocytosis. This would be correct if discussing general antigen presentation routes."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "IgE mediates Type I hypersensitivity by binding tightly via its Fc portion to Fc-epsilon-RI receptors on mast cells and basophils.",
     "pdfPage": 11,
     "pdfQuote": "immunoglobulins specifically immunoglobulin"
@@ -686,6 +686,14 @@ window.Test_L123 = [
     "category": "Immunology: Humoral Function",
     "questionText": "A researcher isolates a dimeric immunoglobulin from human mucosal secretions and notes the presence of both a joining (J) chain and an additional glycosylated protein wrapped around its midsection. What is the primary evolutionary advantage conferred by this additional wrapped protein?",
     "options": [
+      {
+        "text": "It enables passive transfer to the fetus via the placenta",
+        "explanation": "Incorrect. Only IgG crosses the placenta utilizing the neonatal Fc receptor (FcRn). This would be correct if investigating maternal-fetal immunity."
+      },
+      {
+        "text": "It acts as a potent superantigen for local T cells",
+        "explanation": "Incorrect. It is not an antigen itself. This would be correct if analyzing a bacterial toxin like TSST-1."
+      },
       {
         "text": "It strongly activates the alternative complement pathway",
         "explanation": "Incorrect. IgA poorly activates complement. This would be the correct answer if analyzing an extensively aggregated IgG response."
@@ -697,17 +705,9 @@ window.Test_L123 = [
       {
         "text": "It protects the immunoglobulin from proteolytic cleavage",
         "explanation": "Correct. The secretory component (the wrapped protein) prevents dimeric IgA from being degraded by the harsh proteases present extensively in the gastrointestinal tract."
-      },
-      {
-        "text": "It acts as a potent superantigen for local T cells",
-        "explanation": "Incorrect. It is not an antigen itself. This would be correct if analyzing a bacterial toxin like TSST-1."
-      },
-      {
-        "text": "It enables passive transfer to the fetus via the placenta",
-        "explanation": "Incorrect. Only IgG crosses the placenta utilizing the neonatal Fc receptor (FcRn). This would be correct if investigating maternal-fetal immunity."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 4,
     "clinicalPearl": "Secretory piece (component) on dimeric IgA grants it significant resistance against proteolytic enzymes in mucosal environments.",
     "pdfPage": 10,
     "pdfQuote": "secretory piece"
@@ -718,8 +718,8 @@ window.Test_L123 = [
     "questionText": "A 10-year-old girl steps on a rusty nail and requires emergency care, having not received any vaccines since she was 2 years old. She is administered a dose of tetanus immune globulin to provide immediate protection. Which form of antigen-antibody reaction most accurately describes the therapeutic effect she receives from this injection?",
     "options": [
       {
-        "text": "Complement activation leading to direct bacterial lysis",
-        "explanation": "Incorrect. Tetanus toxicity is from the exotoxin, not just bacterial presence. This would be correct if solely focusing on clearing the bacteria via cell lysis."
+        "text": "Agglutination of the bacterial pathogens at the wound site",
+        "explanation": "Incorrect. Agglutination physically clusters pathogens. This would be correct if discussing IgM responding to bacteremia."
       },
       {
         "text": "Neutralization of a biologically active toxin",
@@ -730,8 +730,8 @@ window.Test_L123 = [
         "explanation": "Incorrect. Opsonization targets the bacteria, but the primary acute peril is the toxin. This would be correct if discussing defense against heavily encapsulated microbes like Pneumococcus."
       },
       {
-        "text": "Agglutination of the bacterial pathogens at the wound site",
-        "explanation": "Incorrect. Agglutination physically clusters pathogens. This would be correct if discussing IgM responding to bacteremia."
+        "text": "Complement activation leading to direct bacterial lysis",
+        "explanation": "Incorrect. Tetanus toxicity is from the exotoxin, not just bacterial presence. This would be correct if solely focusing on clearing the bacteria via cell lysis."
       },
       {
         "text": "Stimulation of central tolerance mechanisms",
@@ -749,24 +749,24 @@ window.Test_L123 = [
     "questionText": "A 45-year-old female with a history of recurrent Candida albicans and chronic staphylococcal skin infections undergoes genetic screening. The findings reveal a marked defect in the transcription factor STAT3, heavily blunting her production of IL-17. Consequently, which of the following cellular processes will be most profoundly diminished in this patient?",
     "options": [
       {
-        "text": "Macrophage activation to eliminate intracellular pathogens",
-        "explanation": "Incorrect. This refers to Th1 and IFN-gamma. This would be correct if she presented with recurrent atypical mycobacterial infections."
-      },
-      {
-        "text": "Class switching of B-cells rapidly to IgE production",
-        "explanation": "Incorrect. This refers to Th2 and IL-4. This would be correct if she lacked the ability to defend against environmental allergens."
-      },
-      {
-        "text": "Recruitment of neutrophils to sites of fungal/extracellular bacterial infection",
-        "explanation": "Correct. The patient has Job syndrome (Hyper-IgE). Deficient Th17 function leads to lack of IL-17, severely impairing neutrophil chemotaxis to mucosal or cutaneous infections."
+        "text": "Regulatory suppression of autoreactive lymphocytes",
+        "explanation": "Incorrect. This is Treg function (IL-10/TGF-b). This would be correct if she presented with extreme autoimmune diarrhea (IPEX)."
       },
       {
         "text": "Cytotoxic lysis of virus-infected mucosal cells",
         "explanation": "Incorrect. This is mediated by CD8+ T cells viewing MHC-I. This would be correct if the patient suffered rampant viral replication."
       },
       {
-        "text": "Regulatory suppression of autoreactive lymphocytes",
-        "explanation": "Incorrect. This is Treg function (IL-10/TGF-b). This would be correct if she presented with extreme autoimmune diarrhea (IPEX)."
+        "text": "Recruitment of neutrophils to sites of fungal/extracellular bacterial infection",
+        "explanation": "Correct. The patient has Job syndrome (Hyper-IgE). Deficient Th17 function leads to lack of IL-17, severely impairing neutrophil chemotaxis to mucosal or cutaneous infections."
+      },
+      {
+        "text": "Macrophage activation to eliminate intracellular pathogens",
+        "explanation": "Incorrect. This refers to Th1 and IFN-gamma. This would be correct if she presented with recurrent atypical mycobacterial infections."
+      },
+      {
+        "text": "Class switching of B-cells rapidly to IgE production",
+        "explanation": "Incorrect. This refers to Th2 and IL-4. This would be correct if she lacked the ability to defend against environmental allergens."
       }
     ],
     "correctAnswerIndex": 2,
@@ -784,10 +784,6 @@ window.Test_L123 = [
         "explanation": "Incorrect. This leads to graft failure, not systemic disease. This would be correct if the marrow completely failed to engraft on day 1."
       },
       {
-        "text": "Donor CD8+ T cells infiltrating and attacking recipient organs",
-        "explanation": "Correct. Graft-versus-Host Disease (GVHD) occurs when immunologically competent donor T cells from the marrow attack the recipient's skin, liver, and GI tract."
-      },
-      {
         "text": "Recipient's naive lymphocytes rebelling against the donor organ",
         "explanation": "Incorrect. The recipient's immune system was wiped out. This would be correct for rejection of a solid organ like a heart or kidney."
       },
@@ -796,11 +792,15 @@ window.Test_L123 = [
         "explanation": "Incorrect. GVHD is primarily a cell-mediated (Type IV-like) reaction. This would be correct if checking for severe post-streptococcal glomerulonephritis."
       },
       {
+        "text": "Donor CD8+ T cells infiltrating and attacking recipient organs",
+        "explanation": "Correct. Graft-versus-Host Disease (GVHD) occurs when immunologically competent donor T cells from the marrow attack the recipient's skin, liver, and GI tract."
+      },
+      {
         "text": "T-independent activation of host B cells",
         "explanation": "Incorrect. B cell reactions are not the primary driver of GVHD. This would be correct if examining response to capsular meningitis vaccines."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Graft-Versus-Host Disease features donor lymphocytes directly attacking host tissues, presenting classically with rash, jaundice, and diarrhea.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -811,6 +811,10 @@ window.Test_L123 = [
     "questionText": "A 35-year-old female presents with drooping eyelids that worsen toward the evening and persistent double vision. Her physician suspects Myasthenia gravis. The pathogenesis of her condition involves autoantibodies that target the neuromuscular junction. This disease mechanism is the quintessential example of which hypersensitivity type?",
     "options": [
       {
+        "text": "Type IV Hypersensitivity",
+        "explanation": "Incorrect. This acts via T cells. This would be correct if she had Multiple Sclerosis or a positive PPD test."
+      },
+      {
         "text": "Type I Hypersensitivity",
         "explanation": "Incorrect. This causes anaphylaxis. This would be correct if she developed wheezing after applying makeup."
       },
@@ -819,19 +823,15 @@ window.Test_L123 = [
         "explanation": "Correct. Myasthenia Gravis is a classic Type II (antibody-mediated) hypersensitivity, where IgG autoantibodies target the acetylcholine receptor, blocking and destroying it without mass cellular infiltrate."
       },
       {
-        "text": "Type III Hypersensitivity",
-        "explanation": "Incorrect. This involves immune complex deposition. This would be correct if she had a malar rash and lupus nephritis."
-      },
-      {
-        "text": "Type IV Hypersensitivity",
-        "explanation": "Incorrect. This acts via T cells. This would be correct if she had Multiple Sclerosis or a positive PPD test."
-      },
-      {
         "text": "Type V Hypersensitivity",
         "explanation": "Incorrect. Sometimes Graves disease is called Type V (stimulating antibody). This would be correct if she suffered from profound hyperthyroidism rather than weakness."
+      },
+      {
+        "text": "Type III Hypersensitivity",
+        "explanation": "Incorrect. This involves immune complex deposition. This would be correct if she had a malar rash and lupus nephritis."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Myasthenia gravis is a Type II hypersensitivity where antibodies block or destroy acetylcholine receptors at the neuromuscular junction.",
     "pdfPage": 22,
     "pdfQuote": "four different types of hypersensitivity"
@@ -846,23 +846,23 @@ window.Test_L123 = [
         "explanation": "Incorrect. Processing is still entirely required for the protein. This would be correct if the vaccine stimulated purely innate responses."
       },
       {
-        "text": "To ensure exclusive activation of CD8+ cytotoxic T cells",
-        "explanation": "Incorrect. Conjugate vaccines focus on robust antibody/humoral immunity, mostly via CD4+ help. This would be correct if dealing with an attenuated live viral vaccine."
-      },
-      {
-        "text": "To induce T cell-dependent class-switching and memory B cell formation",
-        "explanation": "Correct. Polysaccharides alone provoke a weak, T-independent IgM response without memory. Conjugating them to a protein provides peptide fragments for MHC-II presentation to T cells, sparking robust IgG memory."
-      },
-      {
         "text": "To artificially neutralize immediate toxins within the infant's circulation",
         "explanation": "Incorrect. Vaccines provoke endogenous immunity, not passive transfer. This would be correct if providing preformed antitoxin immunoglobulins."
       },
       {
         "text": "To generate an enhanced delayed-type hypersensitivity reaction at the injection site",
         "explanation": "Incorrect. We want systemic humoral immunity, not localized dermatitis. This would be correct if examining the mechanism of a PPD test."
+      },
+      {
+        "text": "To induce T cell-dependent class-switching and memory B cell formation",
+        "explanation": "Correct. Polysaccharides alone provoke a weak, T-independent IgM response without memory. Conjugating them to a protein provides peptide fragments for MHC-II presentation to T cells, sparking robust IgG memory."
+      },
+      {
+        "text": "To ensure exclusive activation of CD8+ cytotoxic T cells",
+        "explanation": "Incorrect. Conjugate vaccines focus on robust antibody/humoral immunity, mostly via CD4+ help. This would be correct if dealing with an attenuated live viral vaccine."
       }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "clinicalPearl": "Conjugate vaccines join weak polysaccharide antigens to robust proteins to convert a T-independent response into a strong T-dependent memory response.",
     "pdfPage": 15,
     "pdfQuote": "how different lymphocytes are activated"
@@ -873,20 +873,20 @@ window.Test_L123 = [
     "questionText": "A 25-year-old male with severe combined immunodeficiency (SCID) undergoes detailed phenotypic analysis. His clinical profile demonstrates vastly decreased serum levels of all immunoglobulins and severely hampered cellular immunity. His condition specifically stems from a complete failure of the common gamma chain present in several cytokine receptors. The loss of which specific cytokine's signal most heavily impairs his T cell proliferation?",
     "options": [
       {
-        "text": "Interleukin-1",
-        "explanation": "Incorrect. IL-1 acts mostly on endothelium and brain for fever. This would be correct if measuring acute inflammatory markers."
+        "text": "Interleukin-5",
+        "explanation": "Incorrect. IL-5 deals heavily with eosinophils. This would be correct if specifically noting an absence of eosinophilic asthma."
       },
       {
         "text": "Interleukin-2",
         "explanation": "Correct. IL-2 is the critical autocrine and paracrine growth factor for T cells. The common gamma chain (CD132) is a vital part of the IL-2 receptor; an absence prevents T cell expansion (X-linked SCID)."
       },
       {
-        "text": "Interleukin-4",
-        "explanation": "Incorrect. IL-4 is needed for Th2/IgE. This would be correct if analyzing exclusively his complete lack of eosinophil/mast cell allergic capability."
+        "text": "Interleukin-1",
+        "explanation": "Incorrect. IL-1 acts mostly on endothelium and brain for fever. This would be correct if measuring acute inflammatory markers."
       },
       {
-        "text": "Interleukin-5",
-        "explanation": "Incorrect. IL-5 deals heavily with eosinophils. This would be correct if specifically noting an absence of eosinophilic asthma."
+        "text": "Interleukin-4",
+        "explanation": "Incorrect. IL-4 is needed for Th2/IgE. This would be correct if analyzing exclusively his complete lack of eosinophil/mast cell allergic capability."
       },
       {
         "text": "Transforming Growth Factor-beta",
@@ -904,8 +904,12 @@ window.Test_L123 = [
     "questionText": "In a laboratory experiment investigating autoimmune prevention, regulatory T cells (Tregs) are isolated from a mouse. These cells exhibit robust surface expression of CD4 and CD25. The predominant intracellular marker ensuring their suppressive lineage identity is FoxP3. What is the primary mechanism by which these cells maintain immune tolerance?",
     "options": [
       {
-        "text": "Direct cytolytic destruction of self-reactive B cells in the lymph nodes",
-        "explanation": "Incorrect. Tregs suppress; they don't directly lyse via perforin conventionally. This would be correct if checking for standard CD8+ cytotoxic T cell action."
+        "text": "Stimulation of mast cell degranulation to sequester inflammatory cytokines",
+        "explanation": "Incorrect. Mast cell actions cause acute inflammation, not systemic suppression. This would heavily counteract Treg goals."
+      },
+      {
+        "text": "Downregulation of MHC Class I expression on all somatic cells",
+        "explanation": "Incorrect. This is a strategy used by viruses (e.g., CMV) to evade CD8+ cells. This would be correct if studying viral immune evasion mechanics."
       },
       {
         "text": "Secretion of IL-10 and TGF-beta to dampen effector T cell activation",
@@ -916,15 +920,11 @@ window.Test_L123 = [
         "explanation": "Incorrect. Antibodies opsonize, not T cells. This would be correct if reviewing the clearance capacity of normal circulating IgG variants."
       },
       {
-        "text": "Stimulation of mast cell degranulation to sequester inflammatory cytokines",
-        "explanation": "Incorrect. Mast cell actions cause acute inflammation, not systemic suppression. This would heavily counteract Treg goals."
-      },
-      {
-        "text": "Downregulation of MHC Class I expression on all somatic cells",
-        "explanation": "Incorrect. This is a strategy used by viruses (e.g., CMV) to evade CD8+ cells. This would be correct if studying viral immune evasion mechanics."
+        "text": "Direct cytolytic destruction of self-reactive B cells in the lymph nodes",
+        "explanation": "Incorrect. Tregs suppress; they don't directly lyse via perforin conventionally. This would be correct if checking for standard CD8+ cytotoxic T cell action."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Regulatory T Cells (CD4+ CD25+ FoxP3+) secrete IL-10 and TGF-beta to actively suppress immune responses and maintain peripheral tolerance.",
     "pdfPage": 26,
     "pdfQuote": "regulate the immune response"
