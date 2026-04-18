@@ -4,11 +4,21 @@ window.Test_L147 = [
     "category": "Immunology: Vaccine Mechanisms",
     "questionText": "A medical student is reviewing the immunologic basis of vaccination. Natural primary infection stimulates B cells to first produce IgM, which takes several weeks. During this lag period, the patient develops symptomatic disease. In contrast, the goal of vaccination is to bypass this susceptibility window. Which of the following best describes the primary immunologic mechanism by which vaccines protect against future infection?",
     "options": [
-      "Providing long-lasting circulating IgM antibodies that neutralize the pathogen on contact",
-      "Directly activating the complement cascade to lyse all future invading organisms",
-      "Stimulating permanent innate immune activation through pattern recognition receptors",
-      "Priming memory B cells to mount a rapid secondary IgG response upon pathogen exposure",
-      "Generating high-affinity IgE antibodies that coat mucosal surfaces permanently"
+      {
+        "text": "Providing long-lasting circulating IgM antibodies that neutralize the pathogen on contact"
+      },
+      {
+        "text": "Directly activating the complement cascade to lyse all future invading organisms"
+      },
+      {
+        "text": "Stimulating permanent innate immune activation through pattern recognition receptors"
+      },
+      {
+        "text": "Priming memory B cells to mount a rapid secondary IgG response upon pathogen exposure"
+      },
+      {
+        "text": "Generating high-affinity IgE antibodies that coat mucosal surfaces permanently"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -29,11 +39,21 @@ window.Test_L147 = [
     "category": "Immunology: Vaccine Platforms",
     "questionText": "A physician is reviewing vaccine options for a patient. Live attenuated vaccines such as MMR, varicella, and the live attenuated influenza vaccine (LAIV) contain weakened but intact pathogens that replicate in the host. These vaccines produce strong, long-lasting humoral and cellular immunity. However, they carry a specific risk that limits their use in certain populations. Which of the following patient populations has an absolute contraindication to receiving live attenuated vaccines?",
     "options": [
-      "Patients with a history of mild injection site reactions to prior inactivated vaccines",
-      "Patients with a documented egg allergy who tolerate baked egg products",
-      "Patients with severe immunodeficiency, including those on cytotoxic chemotherapy",
-      "Patients who received an inactivated vaccine within the past 7 days",
-      "Patients over the age of 65 years with multiple stable comorbidities"
+      {
+        "text": "Patients with a history of mild injection site reactions to prior inactivated vaccines"
+      },
+      {
+        "text": "Patients with a documented egg allergy who tolerate baked egg products"
+      },
+      {
+        "text": "Patients with severe immunodeficiency, including those on cytotoxic chemotherapy"
+      },
+      {
+        "text": "Patients who received an inactivated vaccine within the past 7 days"
+      },
+      {
+        "text": "Patients over the age of 65 years with multiple stable comorbidities"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -54,11 +74,21 @@ window.Test_L147 = [
     "category": "Public Health: Herd Immunity",
     "questionText": "During a public health lecture, a student asks about herd immunity. The lecturer explains that when a sufficient percentage of a population is immune, even unvaccinated individuals are protected because the pathogen cannot find enough susceptible hosts to sustain transmission. This concept is critically important for protecting individuals who cannot be vaccinated. Which of the following groups benefits MOST from herd immunity?",
     "options": [
-      "Immunosuppressed patients who have contraindications to live attenuated vaccines",
-      "Healthy adults who choose to delay their booster doses by a few months",
-      "Healthcare workers who receive annual occupational influenza vaccination",
-      "Elderly patients who have already received all recommended vaccine series",
-      "Athletes who are concerned about post-vaccination soreness affecting performance"
+      {
+        "text": "Immunosuppressed patients who have contraindications to live attenuated vaccines"
+      },
+      {
+        "text": "Healthy adults who choose to delay their booster doses by a few months"
+      },
+      {
+        "text": "Healthcare workers who receive annual occupational influenza vaccination"
+      },
+      {
+        "text": "Elderly patients who have already received all recommended vaccine series"
+      },
+      {
+        "text": "Athletes who are concerned about post-vaccination soreness affecting performance"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -79,11 +109,21 @@ window.Test_L147 = [
     "category": "Immunology: Conjugate Vaccines",
     "questionText": "The Haemophilus influenzae type b (Hib) vaccine and the pneumococcal conjugate vaccines (PCV13, PCV15, PCV20) all utilize a specific platform that overcomes a key limitation of pure polysaccharide vaccines. Polysaccharide vaccines alone elicit a T-cell-independent response with poor immunologic memory, especially in young children. Which of the following best describes the mechanism by which conjugate vaccines improve upon polysaccharide vaccines?",
     "options": [
-      "They link polysaccharides to a protein carrier, converting the response to T-cell-dependent",
-      "They combine polysaccharides with aluminum adjuvants to prolong antigen exposure",
-      "They inactivate the polysaccharide by heat treatment to improve antigen presentation",
-      "They use mRNA encoding the polysaccharide antigen within a lipid nanoparticle",
-      "They add live attenuated organisms to stimulate a stronger innate immune response"
+      {
+        "text": "They link polysaccharides to a protein carrier, converting the response to T-cell-dependent"
+      },
+      {
+        "text": "They combine polysaccharides with aluminum adjuvants to prolong antigen exposure"
+      },
+      {
+        "text": "They inactivate the polysaccharide by heat treatment to improve antigen presentation"
+      },
+      {
+        "text": "They use mRNA encoding the polysaccharide antigen within a lipid nanoparticle"
+      },
+      {
+        "text": "They add live attenuated organisms to stimulate a stronger innate immune response"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -104,11 +144,21 @@ window.Test_L147 = [
     "category": "Pharmacology: Toxoid Vaccines",
     "questionText": "The tetanus vaccine contains an inactivated form of the tetanospasmin toxin. The antitoxin antibodies produced by the vaccine neutralize tetanospasmin and prevent it from binding to receptors in the CNS. A medical student asks whether the tetanus vaccine also helps clear the Clostridium tetani bacteria from a wound. Which of the following statements about toxoid vaccines is most accurate?",
     "options": [
-      "Toxoid vaccines prevent toxin production by directly inhibiting bacterial RNA polymerase",
-      "Toxoid vaccines stimulate both strong humoral and cellular immunity against the bacterium",
-      "Toxoid vaccines induce a robust T-cell response that kills the toxin-producing organism",
-      "Toxoid vaccines do not affect bacterial growth but instead prevent the toxin's effect on host tissue",
-      "Toxoid vaccines generate opsonizing antibodies that promote phagocytosis of the organism"
+      {
+        "text": "Toxoid vaccines prevent toxin production by directly inhibiting bacterial RNA polymerase"
+      },
+      {
+        "text": "Toxoid vaccines stimulate both strong humoral and cellular immunity against the bacterium"
+      },
+      {
+        "text": "Toxoid vaccines induce a robust T-cell response that kills the toxin-producing organism"
+      },
+      {
+        "text": "Toxoid vaccines do not affect bacterial growth but instead prevent the toxin's effect on host tissue"
+      },
+      {
+        "text": "Toxoid vaccines generate opsonizing antibodies that promote phagocytosis of the organism"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -129,11 +179,21 @@ window.Test_L147 = [
     "category": "Immunology: mRNA Vaccines",
     "questionText": "The Moderna and Pfizer COVID-19 vaccines use mRNA technology. This platform encodes the antigen of interest within a delivery system that protects the mRNA from degradation by host enzymes and delivers it to local lymph nodes where B-cell and T-cell stimulation occurs. The antigen is then rapidly synthesized in the host cell cytoplasm. Which of the following correctly describes the delivery system used by mRNA vaccines?",
     "options": [
-      "Lipid nanoparticle carrier that protects the mRNA from enzymatic degradation",
-      "Bacterial outer membrane vesicle that delivers the mRNA to dendritic cells specifically",
-      "Polysaccharide capsule that shields the mRNA from cytoplasmic RNases",
-      "Adenoviral vector shell that integrates the mRNA into the host genome permanently",
-      "Aluminum hydroxide adjuvant complex that delays release of the mRNA at the injection site"
+      {
+        "text": "Lipid nanoparticle carrier that protects the mRNA from enzymatic degradation"
+      },
+      {
+        "text": "Bacterial outer membrane vesicle that delivers the mRNA to dendritic cells specifically"
+      },
+      {
+        "text": "Polysaccharide capsule that shields the mRNA from cytoplasmic RNases"
+      },
+      {
+        "text": "Adenoviral vector shell that integrates the mRNA into the host genome permanently"
+      },
+      {
+        "text": "Aluminum hydroxide adjuvant complex that delays release of the mRNA at the injection site"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -154,11 +214,21 @@ window.Test_L147 = [
     "category": "Immunology: Passive vs Active Immunity",
     "questionText": "An unvaccinated patient presents to the emergency department after being bitten by a stray dog suspected to have rabies. The physician orders rabies immune globulin (RIG) in addition to the rabies vaccine. The immune globulin provides immediate but temporary protection. Which of the following best distinguishes passive immunity from active immunity?",
     "options": [
-      "Passive immunity uses live attenuated organisms to generate a primary immune response",
-      "Passive immunity requires multiple booster doses to achieve long-lasting protection",
-      "Passive immunity provides preformed antibodies that confer immediate but short-lived protection",
-      "Passive immunity stimulates the patient's own T cells to mount a cellular immune response",
-      "Passive immunity creates immunologic memory that protects against future exposures"
+      {
+        "text": "Passive immunity uses live attenuated organisms to generate a primary immune response"
+      },
+      {
+        "text": "Passive immunity requires multiple booster doses to achieve long-lasting protection"
+      },
+      {
+        "text": "Passive immunity provides preformed antibodies that confer immediate but short-lived protection"
+      },
+      {
+        "text": "Passive immunity stimulates the patient's own T cells to mount a cellular immune response"
+      },
+      {
+        "text": "Passive immunity creates immunologic memory that protects against future exposures"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -179,11 +249,21 @@ window.Test_L147 = [
     "category": "Immunology: Polysaccharide Vaccines",
     "questionText": "A 60-year-old patient with COPD receives the PPSV23 pneumococcal polysaccharide vaccine. This vaccine contains purified capsular polysaccharides from 23 serotypes of Streptococcus pneumoniae. While effective at preventing invasive disease in adults, this vaccine platform has specific immunologic limitations. Which of the following is a recognized limitation of pure polysaccharide vaccines?",
     "options": [
-      "They produce poor immunologic memory in infants and limited T-cell activation",
-      "They require cold-chain storage at -70°C, making distribution logistically difficult",
-      "They carry a high risk of reversion to virulence and causing active pneumococcal disease",
-      "They induce such strong immune responses that autoimmune reactions are common",
-      "They cannot be administered simultaneously with other vaccines due to immune interference"
+      {
+        "text": "They produce poor immunologic memory in infants and limited T-cell activation"
+      },
+      {
+        "text": "They require cold-chain storage at -70°C, making distribution logistically difficult"
+      },
+      {
+        "text": "They carry a high risk of reversion to virulence and causing active pneumococcal disease"
+      },
+      {
+        "text": "They induce such strong immune responses that autoimmune reactions are common"
+      },
+      {
+        "text": "They cannot be administered simultaneously with other vaccines due to immune interference"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -204,11 +284,21 @@ window.Test_L147 = [
     "category": "Microbiology: Antigenic Variation",
     "questionText": "During a virology review, a professor explains why the influenza vaccine must be reformulated annually. Antibodies generated by the vaccine primarily target hemagglutinin, the spike protein that the virus uses to attach to host cells. Small mutations in this surface protein can reduce antibody binding, necessitating vaccine updates. However, a more dramatic restructuring of the virus can render most of the population susceptible. Which of the following best describes the mechanism that leads to periodic influenza pandemics?",
     "options": [
-      "Bacterial conjugation, which transfers virulence plasmids between influenza strains",
-      "Phase variation, which reversibly switches expression of surface adhesins on and off",
-      "Antigenic drift, which involves point mutations in the hemagglutinin gene over time",
-      "Antigenic shift, which involves reassortment of genomic segments between different influenza subtypes",
-      "Latent viral reactivation from dorsal root ganglia during periods of immune suppression"
+      {
+        "text": "Bacterial conjugation, which transfers virulence plasmids between influenza strains"
+      },
+      {
+        "text": "Phase variation, which reversibly switches expression of surface adhesins on and off"
+      },
+      {
+        "text": "Antigenic drift, which involves point mutations in the hemagglutinin gene over time"
+      },
+      {
+        "text": "Antigenic shift, which involves reassortment of genomic segments between different influenza subtypes"
+      },
+      {
+        "text": "Latent viral reactivation from dorsal root ganglia during periods of immune suppression"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -229,11 +319,21 @@ window.Test_L147 = [
     "category": "Obstetrics: Vaccination in Pregnancy",
     "questionText": "A 28-year-old woman at 32 weeks' gestation presents for a routine prenatal visit. Her obstetrician recommends that she receive certain vaccines to protect both herself and her newborn through transplacental antibody transfer. The patient asks whether any vaccines pose a risk to her pregnancy. Which of the following statements about vaccination during pregnancy is most accurate?",
     "options": [
-      "Subunit vaccines are contraindicated because their adjuvants cross the placenta and cause teratogenicity",
-      "Only toxoid vaccines can be given safely because they do not contain any pathogen components",
-      "All vaccines are absolutely contraindicated during pregnancy regardless of platform",
-      "Inactivated and subunit vaccines can be given safely in pregnancy, while live vaccines are contraindicated",
-      "Polysaccharide vaccines are the only platform safe in pregnancy due to their weak immunogenicity"
+      {
+        "text": "Subunit vaccines are contraindicated because their adjuvants cross the placenta and cause teratogenicity"
+      },
+      {
+        "text": "Only toxoid vaccines can be given safely because they do not contain any pathogen components"
+      },
+      {
+        "text": "All vaccines are absolutely contraindicated during pregnancy regardless of platform"
+      },
+      {
+        "text": "Inactivated and subunit vaccines can be given safely in pregnancy, while live vaccines are contraindicated"
+      },
+      {
+        "text": "Polysaccharide vaccines are the only platform safe in pregnancy due to their weak immunogenicity"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -254,11 +354,21 @@ window.Test_L147 = [
     "category": "Neurology: Post-Infectious Sequelae",
     "questionText": "A pediatric neurologist lectures on the devastating post-infectious complications of measles. One particular complication is a fatal neurodegenerative disorder that occurs years after the initial measles infection, caused by persistent viral replication in the CNS. This complication occurs in approximately 1 in 10,000 cases of measles and is universally fatal. Which of the following is this complication?",
     "options": [
-      "Guillain-Barré syndrome (GBS)",
-      "Progressive multifocal leukoencephalopathy (PML)",
-      "Postherpetic neuralgia (PHN)",
-      "Acute disseminated encephalomyelitis (ADEM)",
-      "Subacute sclerosing panencephalitis (SSPE)"
+      {
+        "text": "Guillain-Barré syndrome (GBS)"
+      },
+      {
+        "text": "Progressive multifocal leukoencephalopathy (PML)"
+      },
+      {
+        "text": "Postherpetic neuralgia (PHN)"
+      },
+      {
+        "text": "Acute disseminated encephalomyelitis (ADEM)"
+      },
+      {
+        "text": "Subacute sclerosing panencephalitis (SSPE)"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -279,11 +389,21 @@ window.Test_L147 = [
     "category": "Biostatistics: Efficacy vs Effectiveness",
     "questionText": "A pharmaceutical company reports that their new vaccine demonstrates 95% efficacy in Phase III clinical trials. However, when the vaccine is deployed in the general population, its real-world performance is observed to be approximately 75%. A public health official explains to a community group that this discrepancy is expected. Which of the following best explains the difference between vaccine efficacy and vaccine effectiveness?",
     "options": [
-      "Efficacy is measured in pediatric populations only, while effectiveness is measured across all age groups",
-      "Efficacy is the reduction of disease in controlled clinical trials, while effectiveness is real-world performance",
-      "Efficacy refers to prevention of transmission, while effectiveness refers to prevention of symptomatic disease",
-      "Efficacy and effectiveness are interchangeable terms with no meaningful clinical distinction",
-      "Efficacy measures the financial cost-effectiveness ratio of the vaccine, while effectiveness measures clinical outcomes"
+      {
+        "text": "Efficacy is measured in pediatric populations only, while effectiveness is measured across all age groups"
+      },
+      {
+        "text": "Efficacy is the reduction of disease in controlled clinical trials, while effectiveness is real-world performance"
+      },
+      {
+        "text": "Efficacy refers to prevention of transmission, while effectiveness refers to prevention of symptomatic disease"
+      },
+      {
+        "text": "Efficacy and effectiveness are interchangeable terms with no meaningful clinical distinction"
+      },
+      {
+        "text": "Efficacy measures the financial cost-effectiveness ratio of the vaccine, while effectiveness measures clinical outcomes"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
@@ -304,11 +424,21 @@ window.Test_L147 = [
     "category": "Public Health: Disease Eradication",
     "questionText": "A global health professor explains that vaccination has achieved one of the greatest accomplishments in medical history: the complete eradication of a disease from the world. This means not a single natural case of this disease exists anywhere on Earth. Which of the following diseases has been completely eradicated through vaccination?",
     "options": [
-      "Poliomyelitis, which is now eliminated from all countries worldwide",
-      "Yellow fever, which has been eliminated through live attenuated vaccination",
-      "Smallpox, which was declared eradicated by the WHO in 1980",
-      "Diphtheria, which has not caused any deaths globally since the 1990s",
-      "Measles, which has not been reported in any country since 2015"
+      {
+        "text": "Poliomyelitis, which is now eliminated from all countries worldwide"
+      },
+      {
+        "text": "Yellow fever, which has been eliminated through live attenuated vaccination"
+      },
+      {
+        "text": "Smallpox, which was declared eradicated by the WHO in 1980"
+      },
+      {
+        "text": "Diphtheria, which has not caused any deaths globally since the 1990s"
+      },
+      {
+        "text": "Measles, which has not been reported in any country since 2015"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -329,11 +459,21 @@ window.Test_L147 = [
     "category": "Microbiology: Cold-Adapted Vaccines",
     "questionText": "The live attenuated influenza vaccine (LAIV) is administered as a nasal spray rather than an injection. It is designed to replicate effectively in the cooler temperatures of the upper respiratory tract but poorly in the warmer environment of the lower respiratory tract. This design feature provides mucosal immunity while minimizing the risk of lower respiratory infection. Which of the following terms describes this temperature-sensitive property?",
     "options": [
-      "Attenuation by serial passage, which makes the virus replicate equally well at all temperatures",
-      "Reassortment, which produces novel viral subtypes adapted to nasal mucosa",
-      "Cold adaptation, which means the virus replicates better at cooler temperatures than at body core temperature",
-      "Antigenic drift, which causes the virus to mutate at lower temperatures",
-      "Tropism restriction, which limits the virus to epithelial cells of the alveoli"
+      {
+        "text": "Attenuation by serial passage, which makes the virus replicate equally well at all temperatures"
+      },
+      {
+        "text": "Reassortment, which produces novel viral subtypes adapted to nasal mucosa"
+      },
+      {
+        "text": "Cold adaptation, which means the virus replicates better at cooler temperatures than at body core temperature"
+      },
+      {
+        "text": "Antigenic drift, which causes the virus to mutate at lower temperatures"
+      },
+      {
+        "text": "Tropism restriction, which limits the virus to epithelial cells of the alveoli"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -354,11 +494,21 @@ window.Test_L147 = [
     "category": "Hematology: Vaccine Adverse Effects",
     "questionText": "During the rollout of the Johnson & Johnson COVID-19 vaccine (a viral vector platform), a very rare but serious adverse event was identified. Affected patients, predominantly young women, developed unusual blood clots in atypical locations (cerebral venous sinuses, splanchnic veins) combined with low platelet counts. This syndrome is mechanistically similar to heparin-induced thrombocytopenia (HIT). Which of the following best describes this adverse event?",
     "options": [
-      "Disseminated intravascular coagulation (DIC) secondary to endotoxin release from the viral vector",
-      "Immune thrombocytopenic purpura (ITP) due to cross-reactive antibodies against platelet glycoproteins",
-      "Thrombotic thrombocytopenic purpura (TTP) caused by ADAMTS13 deficiency from vaccine-induced antibodies",
-      "Hemolytic uremic syndrome (HUS) from viral vector-induced endothelial damage in the kidneys",
-      "Thrombosis with thrombocytopenia syndrome (TTS) due to antibodies against platelet factor 4 (PF4)"
+      {
+        "text": "Disseminated intravascular coagulation (DIC) secondary to endotoxin release from the viral vector"
+      },
+      {
+        "text": "Immune thrombocytopenic purpura (ITP) due to cross-reactive antibodies against platelet glycoproteins"
+      },
+      {
+        "text": "Thrombotic thrombocytopenic purpura (TTP) caused by ADAMTS13 deficiency from vaccine-induced antibodies"
+      },
+      {
+        "text": "Hemolytic uremic syndrome (HUS) from viral vector-induced endothelial damage in the kidneys"
+      },
+      {
+        "text": "Thrombosis with thrombocytopenia syndrome (TTS) due to antibodies against platelet factor 4 (PF4)"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -379,11 +529,21 @@ window.Test_L147 = [
     "category": "Infectious Disease: Immunosuppression & Vaccines",
     "questionText": "A 45-year-old male kidney transplant recipient on tacrolimus and mycophenolate presents for his annual wellness exam. His transplant was 2 years ago and is functioning well. Serum creatinine is 1.2 mg/dL. Blood pressure is 128/78 mmHg, heart rate 72/min, temperature 37.0°C. He asks about receiving the shingles vaccine because his neighbor was recently diagnosed with herpes zoster. His medical record shows he had chickenpox as a child. Which of the following vaccines should this patient receive?",
     "options": [
-      "LAIV nasal spray influenza vaccine to maximize mucosal immunity in his immunocompromised state",
-      "No vaccine is necessary since his prior chickenpox provides lifelong immunity to shingles",
-      "Oral polio vaccine since it provides the best mucosal protection in immunocompromised patients",
-      "Varicella live attenuated vaccine to boost his waning childhood immunity",
-      "Shingrix (recombinant subunit vaccine) because it does not contain live virus"
+      {
+        "text": "LAIV nasal spray influenza vaccine to maximize mucosal immunity in his immunocompromised state"
+      },
+      {
+        "text": "No vaccine is necessary since his prior chickenpox provides lifelong immunity to shingles"
+      },
+      {
+        "text": "Oral polio vaccine since it provides the best mucosal protection in immunocompromised patients"
+      },
+      {
+        "text": "Varicella live attenuated vaccine to boost his waning childhood immunity"
+      },
+      {
+        "text": "Shingrix (recombinant subunit vaccine) because it does not contain live virus"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -404,11 +564,21 @@ window.Test_L147 = [
     "category": "Pediatrics: Hepatitis B Prevention",
     "questionText": "A newborn is delivered at 39 weeks' gestation to a mother who is hepatitis B surface antigen (HBsAg) positive. The infant appears well with APGAR scores of 8 and 9. Birth weight is 3.4 kg. The pediatrician promptly administers the first dose of the hepatitis B vaccine along with hepatitis B immune globulin (HBIG). The parents ask why immediate intervention is so critical. Which of the following best explains the importance of the birth dose of hepatitis B vaccine in this clinical scenario?",
     "options": [
-      "Neonates infected with hepatitis B at birth are far more likely to develop chronic infection and future hepatocellular carcinoma than adults infected later in life",
-      "The hepatitis B vaccine is only effective if given within the first hour of life; after 24 hours, it provides no benefit",
-      "The birth dose of hepatitis B vaccine provides immediate sterilizing immunity that clears all maternal viral particles",
-      "HBIG alone is sufficient to prevent vertical transmission, making the vaccine dose redundant",
-      "Perinatal hepatitis B infection is self-limited and rarely leads to chronic hepatitis in newborns"
+      {
+        "text": "Neonates infected with hepatitis B at birth are far more likely to develop chronic infection and future hepatocellular carcinoma than adults infected later in life"
+      },
+      {
+        "text": "The hepatitis B vaccine is only effective if given within the first hour of life; after 24 hours, it provides no benefit"
+      },
+      {
+        "text": "The birth dose of hepatitis B vaccine provides immediate sterilizing immunity that clears all maternal viral particles"
+      },
+      {
+        "text": "HBIG alone is sufficient to prevent vertical transmission, making the vaccine dose redundant"
+      },
+      {
+        "text": "Perinatal hepatitis B infection is self-limited and rarely leads to chronic hepatitis in newborns"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -429,11 +599,21 @@ window.Test_L147 = [
     "category": "Oncology: Cancer Prevention",
     "questionText": "A 14-year-old girl is brought by her parents for a well-child visit. The pediatrician recommends the HPV vaccine. The parents express concern, stating they don't believe their daughter is at risk for a sexually transmitted infection. The pediatrician explains that HPV vaccination is primarily recommended to prevent long-term complications of HPV infection. When administered before the age of 17, studies show an 80-90% decrease in which of the following cancers?",
     "options": [
-      "Non-Hodgkin lymphoma, which is associated with HPV-driven B-cell proliferation",
-      "Hepatocellular carcinoma, which is caused by chronic HPV-16 infection of hepatocytes",
-      "Cervical cancer, which is caused by oncogenic HPV subtypes integrating into cervical epithelial cells",
-      "Bladder transitional cell carcinoma, which is caused by HPV-related urothelial dysplasia",
-      "Colorectal adenocarcinoma, which is linked to HPV-induced mutations in APC and KRAS"
+      {
+        "text": "Non-Hodgkin lymphoma, which is associated with HPV-driven B-cell proliferation"
+      },
+      {
+        "text": "Hepatocellular carcinoma, which is caused by chronic HPV-16 infection of hepatocytes"
+      },
+      {
+        "text": "Cervical cancer, which is caused by oncogenic HPV subtypes integrating into cervical epithelial cells"
+      },
+      {
+        "text": "Bladder transitional cell carcinoma, which is caused by HPV-related urothelial dysplasia"
+      },
+      {
+        "text": "Colorectal adenocarcinoma, which is linked to HPV-induced mutations in APC and KRAS"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -454,11 +634,21 @@ window.Test_L147 = [
     "category": "Immunology: Measles Immune Amnesia",
     "questionText": "A 5-year-old unvaccinated boy recovers from a confirmed measles infection. His mother is relieved and asks his pediatrician if there are any long-term concerns now that the acute illness has resolved. The pediatrician explains that measles infection can cause a phenomenon called 'immune amnesia' lasting approximately 2 years, during which the child is at increased risk for other infections. Which of the following best describes the mechanism of measles-induced immune amnesia?",
     "options": [
-      "Measles induces permanent anergy in all naive B cells, preventing them from ever being activated",
-      "Measles infection destroys previously established immune memory cells, erasing prior vaccine-induced immunity",
-      "Measles virus selectively infects and kills hepatocytes, preventing complement protein synthesis",
-      "Measles causes chronic autoimmune destruction of circulating T cells through molecular mimicry",
-      "Measles virus permanently destroys all bone marrow stem cells, preventing any future immune cell production"
+      {
+        "text": "Measles induces permanent anergy in all naive B cells, preventing them from ever being activated"
+      },
+      {
+        "text": "Measles infection destroys previously established immune memory cells, erasing prior vaccine-induced immunity"
+      },
+      {
+        "text": "Measles virus selectively infects and kills hepatocytes, preventing complement protein synthesis"
+      },
+      {
+        "text": "Measles causes chronic autoimmune destruction of circulating T cells through molecular mimicry"
+      },
+      {
+        "text": "Measles virus permanently destroys all bone marrow stem cells, preventing any future immune cell production"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
@@ -479,11 +669,21 @@ window.Test_L147 = [
     "category": "Patient Communication: Vaccine Reactogenicity",
     "questionText": "A 42-year-old man presents to his primary care physician complaining that 'every time I get the flu shot, I get the flu.' He describes experiencing fever, body aches, and fatigue for one day after his last inactivated influenza vaccination. He is now reluctant to get vaccinated this year. Physical examination is unremarkable. Temperature is 36.8°C. The physician needs to address this concern while encouraging continued vaccination. Which of the following is the most accurate explanation to give this patient?",
     "options": [
-      "His symptoms were likely caused by a coincidental unrelated viral infection acquired before the vaccine took effect",
-      "The fever and aches indicate the vaccine was defective and he should report it to the manufacturer immediately",
-      "His immune system likely had a severe allergic reaction to the vaccine, and he should never be vaccinated again",
-      "The inactivated influenza vaccine contains a small amount of live virus that can cause a mild case of influenza",
-      "Inactivated influenza vaccines cannot cause influenza because they contain no replicating virus; his symptoms were an expected immune response indicating the vaccine is working"
+      {
+        "text": "His symptoms were likely caused by a coincidental unrelated viral infection acquired before the vaccine took effect"
+      },
+      {
+        "text": "The fever and aches indicate the vaccine was defective and he should report it to the manufacturer immediately"
+      },
+      {
+        "text": "His immune system likely had a severe allergic reaction to the vaccine, and he should never be vaccinated again"
+      },
+      {
+        "text": "The inactivated influenza vaccine contains a small amount of live virus that can cause a mild case of influenza"
+      },
+      {
+        "text": "Inactivated influenza vaccines cannot cause influenza because they contain no replicating virus; his symptoms were an expected immune response indicating the vaccine is working"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -504,11 +704,21 @@ window.Test_L147 = [
     "category": "Pediatrics: Vaccine Contraindications",
     "questionText": "A 4-month-old male infant is brought for his second round of routine immunizations. His medical record reveals that he was hospitalized at 6 weeks of age for a confirmed episode of intussusception that resolved with air enema reduction. He has recovered fully with no complications. The pediatrician reviews the vaccine schedule and identifies one vaccine that is specifically contraindicated in this patient. Which of the following vaccines should be withheld?",
     "options": [
-      "Inactivated polio vaccine (IPV), which can exacerbate bowel inflammation in susceptible infants",
-      "DTaP vaccine, which is contraindicated after any gastrointestinal illness in infancy",
-      "Rotavirus vaccine, which carries an increased risk of intussusception and is contraindicated in patients with a history of this condition",
-      "Hepatitis B vaccine, which must be deferred until the child is 12 months old if there was a prior GI hospitalization",
-      "Pneumococcal conjugate vaccine (PCV13), which is contraindicated in children with a history of surgical abdomen"
+      {
+        "text": "Inactivated polio vaccine (IPV), which can exacerbate bowel inflammation in susceptible infants"
+      },
+      {
+        "text": "DTaP vaccine, which is contraindicated after any gastrointestinal illness in infancy"
+      },
+      {
+        "text": "Rotavirus vaccine, which carries an increased risk of intussusception and is contraindicated in patients with a history of this condition"
+      },
+      {
+        "text": "Hepatitis B vaccine, which must be deferred until the child is 12 months old if there was a prior GI hospitalization"
+      },
+      {
+        "text": "Pneumococcal conjugate vaccine (PCV13), which is contraindicated in children with a history of surgical abdomen"
+      }
     ],
     "correctAnswerIndex": 2,
     "explanation": {
@@ -529,11 +739,21 @@ window.Test_L147 = [
     "category": "Pediatrics: Febrile Seizures",
     "questionText": "A 14-month-old girl is brought to the emergency department 8 days after receiving her first MMR vaccine. Her mother reports that the child developed a fever of 39.8°C (103.6°F) followed by a brief generalized tonic-clonic seizure lasting approximately 90 seconds. The seizure stopped spontaneously. On arrival, the child is afebrile, alert, and playful with a normal neurologic examination. There is no neck stiffness. Her immunizations are otherwise up-to-date. Which of the following is the most likely diagnosis?",
     "options": [
-      "Dravet syndrome triggered by pyrexia, requiring genetic testing for SCN1A mutations before discharge",
-      "Post-infectious encephalitis requiring emergent lumbar puncture and IV acyclovir",
-      "Meningitis caused by the live attenuated measles virus from the MMR vaccine crossing the blood-brain barrier",
-      "Febrile seizure, a known rare adverse event occurring in approximately 1 in 3,000 children after MMR vaccination",
-      "New-onset epilepsy unrelated to the vaccine, requiring immediate initiation of antiepileptic medication"
+      {
+        "text": "Dravet syndrome triggered by pyrexia, requiring genetic testing for SCN1A mutations before discharge"
+      },
+      {
+        "text": "Post-infectious encephalitis requiring emergent lumbar puncture and IV acyclovir"
+      },
+      {
+        "text": "Meningitis caused by the live attenuated measles virus from the MMR vaccine crossing the blood-brain barrier"
+      },
+      {
+        "text": "Febrile seizure, a known rare adverse event occurring in approximately 1 in 3,000 children after MMR vaccination"
+      },
+      {
+        "text": "New-onset epilepsy unrelated to the vaccine, requiring immediate initiation of antiepileptic medication"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -554,11 +774,21 @@ window.Test_L147 = [
     "category": "Neurology: Guillain-Barré Syndrome",
     "questionText": "A 58-year-old male presents 10 days after receiving the seasonal inactivated influenza vaccine with progressive ascending weakness that began in both legs and has spread to involve his trunk and arms over 5 days. He reports tingling in his fingertips and feet. On examination, deep tendon reflexes are absent bilaterally and he has symmetric proximal and distal weakness (3/5 throughout). Vital signs show a heart rate of 68/min and respiratory rate of 20/min. Lumbar puncture reveals elevated protein with a normal cell count (albuminocytologic dissociation). Which of the following is the most likely diagnosis?",
     "options": [
-      "Guillain-Barré syndrome (GBS), a rare adverse event occurring at a rate of 1-2 per million influenza vaccinations",
-      "Multiple sclerosis with an initial attack triggered by the immune response to the influenza vaccine",
-      "Acute poliomyelitis from contamination of the influenza vaccine with wild poliovirus",
-      "Myasthenia gravis triggered by cross-reactive antibodies produced against the influenza hemagglutinin antigen",
-      "Transverse myelitis caused by direct viral invasion of the spinal cord by the inactivated influenza virus"
+      {
+        "text": "Guillain-Barré syndrome (GBS), a rare adverse event occurring at a rate of 1-2 per million influenza vaccinations"
+      },
+      {
+        "text": "Multiple sclerosis with an initial attack triggered by the immune response to the influenza vaccine"
+      },
+      {
+        "text": "Acute poliomyelitis from contamination of the influenza vaccine with wild poliovirus"
+      },
+      {
+        "text": "Myasthenia gravis triggered by cross-reactive antibodies produced against the influenza hemagglutinin antigen"
+      },
+      {
+        "text": "Transverse myelitis caused by direct viral invasion of the spinal cord by the inactivated influenza virus"
+      }
     ],
     "correctAnswerIndex": 0,
     "explanation": {
@@ -579,11 +809,21 @@ window.Test_L147 = [
     "category": "Public Health: Measles Outbreak",
     "questionText": "A county health department reports a measles outbreak in a community where vaccination rates have dropped to 82%. Prior to the decline, regional vaccination coverage was approximately 98%. The R0 (basic reproduction number) of measles is 12-18, meaning one infected individual can spread the disease to 12-18 susceptible people. The herd immunity threshold for measles is approximately 95%. Based on these data, which of the following best explains why the outbreak occurred?",
     "options": [
-      "The measles virus underwent antigenic shift, creating a novel strain against which no vaccine is effective",
-      "The vaccination rate fell below the 95% herd immunity threshold, allowing sustained community transmission",
-      "The MMR vaccine's efficacy has declined over time due to improper storage at the manufacturing facility",
-      "All unvaccinated individuals in the community simultaneously developed primary immunodeficiency disorders",
-      "The measles virus became resistant to neutralizing antibodies through acquisition of a drug resistance gene"
+      {
+        "text": "The measles virus underwent antigenic shift, creating a novel strain against which no vaccine is effective"
+      },
+      {
+        "text": "The vaccination rate fell below the 95% herd immunity threshold, allowing sustained community transmission"
+      },
+      {
+        "text": "The MMR vaccine's efficacy has declined over time due to improper storage at the manufacturing facility"
+      },
+      {
+        "text": "All unvaccinated individuals in the community simultaneously developed primary immunodeficiency disorders"
+      },
+      {
+        "text": "The measles virus became resistant to neutralizing antibodies through acquisition of a drug resistance gene"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
@@ -604,11 +844,21 @@ window.Test_L147 = [
     "category": "Pediatrics: Hib Vaccine Impact",
     "questionText": "A pediatric infectious disease specialist reviews the impact of the Haemophilus influenzae type b (Hib) conjugate vaccine, which was introduced in the late 1980s. Before the vaccine, Hib was the leading cause of bacterial meningitis in children under 5 years of age in the United States. The specialist notes two remarkable epidemiologic observations following widespread Hib vaccination. First, Hib meningitis in children was nearly eradicated. Second, even unvaccinated children experienced a significant reduction in Hib disease. Which of the following immunologic principles best explains the protection observed in unvaccinated children?",
     "options": [
-      "Passive placental transfer of Hib antibodies from vaccinated mothers to their neonates",
-      "Herd immunity, as reduced carriage and transmission in vaccinated children protected unvaccinated contacts",
-      "Natural attenuation of Hib virulence genes due to reduced selective pressure from antibiotics",
-      "Antigenic sin, where prior non-Hib infections generated antibodies effective against Hib",
-      "Cross-reactive immunity from other routine childhood vaccines providing partial Hib protection"
+      {
+        "text": "Passive placental transfer of Hib antibodies from vaccinated mothers to their neonates"
+      },
+      {
+        "text": "Herd immunity, as reduced carriage and transmission in vaccinated children protected unvaccinated contacts"
+      },
+      {
+        "text": "Natural attenuation of Hib virulence genes due to reduced selective pressure from antibiotics"
+      },
+      {
+        "text": "Antigenic sin, where prior non-Hib infections generated antibodies effective against Hib"
+      },
+      {
+        "text": "Cross-reactive immunity from other routine childhood vaccines providing partial Hib protection"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
@@ -629,11 +879,21 @@ window.Test_L147 = [
     "category": "Cardiology: Vaccine Safety",
     "questionText": "An 18-year-old male college student presents to the emergency department 4 days after receiving his second dose of an mRNA COVID-19 vaccine. He reports 2 days of sharp, substernal chest pain that worsens with deep inspiration and when lying flat. He is afebrile. Vital signs show BP 118/72 mmHg, HR 88/min, RR 16/min. An ECG shows diffuse ST elevations. Troponin I is mildly elevated at 0.15 ng/mL (normal <0.04). Echocardiogram shows preserved ejection fraction with no pericardial effusion. The physician discusses the diagnosis with the patient. Which of the following statements about this condition in the context of mRNA vaccination is most accurate?",
     "options": [
-      "All future cardiovascular disease will be attributed to this vaccine-related event, requiring lifelong surveillance",
-      "Vaccine-associated myocarditis occurs less frequently and with less severity than myocarditis from natural SARS-CoV-2 infection",
-      "Vaccine-associated myocarditis is more common and more severe than myocarditis caused by SARS-CoV-2 infection",
-      "The mRNA in the vaccine directly infects cardiomyocytes and causes viral myocarditis identical to native infection",
-      "This presentation requires emergent cardiac catheterization and likely coronary artery bypass grafting"
+      {
+        "text": "All future cardiovascular disease will be attributed to this vaccine-related event, requiring lifelong surveillance"
+      },
+      {
+        "text": "Vaccine-associated myocarditis occurs less frequently and with less severity than myocarditis from natural SARS-CoV-2 infection"
+      },
+      {
+        "text": "Vaccine-associated myocarditis is more common and more severe than myocarditis caused by SARS-CoV-2 infection"
+      },
+      {
+        "text": "The mRNA in the vaccine directly infects cardiomyocytes and causes viral myocarditis identical to native infection"
+      },
+      {
+        "text": "This presentation requires emergent cardiac catheterization and likely coronary artery bypass grafting"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
@@ -654,11 +914,21 @@ window.Test_L147 = [
     "category": "Behavioral Science: Vaccine Hesitancy",
     "questionText": "A family physician sees a 30-year-old mother who is requesting delayed vaccination for her 2-month-old infant. She expresses concerns based on information she read on social media suggesting vaccines are unsafe. She is tearful and states she 'just wants to do what's best' for her baby. She is not ideologically opposed to vaccines but is anxious about the information she has encountered. The physician identifies her as vaccine-hesitant rather than anti-vaccine. Which of the following approaches is most appropriate for this patient?",
     "options": [
-      "Agree to skip all vaccines indefinitely to maintain the physician-patient relationship",
-      "Refer her to a specialist in immunology for comprehensive vaccine education before proceeding",
-      "Dismiss her concerns as unfounded and insist she follow the standard schedule immediately or she must find a new physician",
-      "Report her to child protective services for medical neglect for questioning the vaccine schedule",
-      "Build a trusting relationship, acknowledge her concerns empathetically, and provide evidence-based information to address specific fears"
+      {
+        "text": "Agree to skip all vaccines indefinitely to maintain the physician-patient relationship"
+      },
+      {
+        "text": "Refer her to a specialist in immunology for comprehensive vaccine education before proceeding"
+      },
+      {
+        "text": "Dismiss her concerns as unfounded and insist she follow the standard schedule immediately or she must find a new physician"
+      },
+      {
+        "text": "Report her to child protective services for medical neglect for questioning the vaccine schedule"
+      },
+      {
+        "text": "Build a trusting relationship, acknowledge her concerns empathetically, and provide evidence-based information to address specific fears"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -679,11 +949,21 @@ window.Test_L147 = [
     "category": "Neurology: Post-Herpetic Neuralgia",
     "questionText": "A 72-year-old woman presents with severe, burning, stabbing pain along the left T5 dermatome. She reports that she had a shingles outbreak in the same distribution 8 months ago that resolved but the pain never went away. The pain is so severe that she cannot sleep or wear clothing over the affected area. She has not been vaccinated against herpes zoster. Physical examination reveals allodynia in the left T5 dermatome with healed, hypopigmented scars. Which of the following vaccine-preventable complications is this patient experiencing?",
     "options": [
-      "Complex regional pain syndrome (CRPS) unrelated to her prior zoster infection",
-      "Acute herpes zoster reactivation requiring a second course of oral valacyclovir",
-      "Intercostal neuritis from thoracic disc herniation compressing the T5 nerve root",
-      "Postherpetic neuralgia (PHN), a chronic neuropathic pain syndrome following varicella-zoster reactivation",
-      "Herpes simplex encephalitis caused by HSV-1 reactivation from the trigeminal ganglion"
+      {
+        "text": "Complex regional pain syndrome (CRPS) unrelated to her prior zoster infection"
+      },
+      {
+        "text": "Acute herpes zoster reactivation requiring a second course of oral valacyclovir"
+      },
+      {
+        "text": "Intercostal neuritis from thoracic disc herniation compressing the T5 nerve root"
+      },
+      {
+        "text": "Postherpetic neuralgia (PHN), a chronic neuropathic pain syndrome following varicella-zoster reactivation"
+      },
+      {
+        "text": "Herpes simplex encephalitis caused by HSV-1 reactivation from the trigeminal ganglion"
+      }
     ],
     "correctAnswerIndex": 3,
     "explanation": {
@@ -704,11 +984,21 @@ window.Test_L147 = [
     "category": "Infectious Disease: Pandemic Preparedness",
     "questionText": "During a global health lecture, the professor discusses the emergence of a novel influenza A virus that resulted from the reassortment of avian and human influenza genomic segments in a pig host. This virus possesses a hemagglutinin subtype that has not circulated in humans for decades, rendering existing vaccines and population immunity largely ineffective. The WHO declares a pandemic. Which of the following distinguishes this event from a typical seasonal influenza epidemic?",
     "options": [
-      "Seasonal epidemics produce higher mortality rates than pandemics because they preferentially affect the elderly",
-      "Pandemics are caused by bacteria that have acquired influenza surface proteins through horizontal gene transfer",
-      "Seasonal epidemics are caused by influenza B virus only, while pandemics are caused by influenza A virus only",
-      "Pandemics have identical transmission dynamics to seasonal epidemics but occur in the Southern hemisphere exclusively",
-      "Pandemics result from antigenic shift creating a novel subtype to which the global population lacks pre-existing immunity"
+      {
+        "text": "Seasonal epidemics produce higher mortality rates than pandemics because they preferentially affect the elderly"
+      },
+      {
+        "text": "Pandemics are caused by bacteria that have acquired influenza surface proteins through horizontal gene transfer"
+      },
+      {
+        "text": "Seasonal epidemics are caused by influenza B virus only, while pandemics are caused by influenza A virus only"
+      },
+      {
+        "text": "Pandemics have identical transmission dynamics to seasonal epidemics but occur in the Southern hemisphere exclusively"
+      },
+      {
+        "text": "Pandemics result from antigenic shift creating a novel subtype to which the global population lacks pre-existing immunity"
+      }
     ],
     "correctAnswerIndex": 4,
     "explanation": {
@@ -729,11 +1019,21 @@ window.Test_L147 = [
     "category": "Infectious Disease: Vaccine Impact",
     "questionText": "A 55-year-old woman with a 30-pack-year smoking history and mild COPD presents for a routine wellness visit. Her physician recommends the pneumococcal vaccine. The patient is skeptical, asking 'Does it even work? Pneumonia is so common.' The physician explains that the pneumococcal vaccines have produced significant reductions in pneumococcal disease, including a 45% decrease in hospitalizations, a 68% decrease in invasive disease in children, and a 75% decrease in mortality. However, outcomes have not matched the dramatic near-eradication seen with the Hib vaccine. Which of the following best explains why pneumococcal vaccines have not achieved near-eradication of disease like the Hib vaccine?",
     "options": [
-      "The pneumococcal vaccine is a live attenuated preparation that cannot be given to high-risk patients",
-      "Streptococcus pneumoniae has many different serotypes, and current vaccines cannot cover all of them",
-      "Pneumococcal disease is caused by a virus, making bacterial vaccines fundamentally ineffective",
-      "Streptococcus pneumoniae lacks a capsule, making it impossible to target with polysaccharide-based vaccines",
-      "Pneumococcal vaccines use inferior adjuvants that produce significantly weaker immune responses than the Hib vaccine"
+      {
+        "text": "The pneumococcal vaccine is a live attenuated preparation that cannot be given to high-risk patients"
+      },
+      {
+        "text": "Streptococcus pneumoniae has many different serotypes, and current vaccines cannot cover all of them"
+      },
+      {
+        "text": "Pneumococcal disease is caused by a virus, making bacterial vaccines fundamentally ineffective"
+      },
+      {
+        "text": "Streptococcus pneumoniae lacks a capsule, making it impossible to target with polysaccharide-based vaccines"
+      },
+      {
+        "text": "Pneumococcal vaccines use inferior adjuvants that produce significantly weaker immune responses than the Hib vaccine"
+      }
     ],
     "correctAnswerIndex": 1,
     "explanation": {
