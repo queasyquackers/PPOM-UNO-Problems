@@ -1,0 +1,5397 @@
+1
+00:00:01,210 --> 00:00:03,850
+Hello and welcome
+to the Microbiology
+
+2
+00:00:04,550 --> 00:00:07,410
+Lecture, Bacteria
+1 and 2, Structure
+
+3
+00:00:07,410 --> 00:00:09,490
+and Physiology. This
+lecture is divided
+
+4
+00:00:09,490 --> 00:00:12,170
+into two, but it's
+really one subject
+
+5
+00:00:12,170 --> 00:00:14,270
+because it covers
+almost two hours.
+
+6
+00:00:14,300 --> 00:00:16,930
+We've chosen to put
+it as two individual
+
+7
+00:00:16,930 --> 00:00:19,970
+lectures. It
+basically sets up a
+
+8
+00:00:19,970 --> 00:00:23,050
+lot of basic
+microbiology that people
+
+9
+00:00:23,050 --> 00:00:25,050
+would have in the
+undergraduate. road.
+
+10
+00:00:28,350 --> 00:00:30,870
+These are the session
+objectives, the one
+
+11
+00:00:30,870 --> 00:00:34,190
+highlighted in the
+one, two, and three
+
+12
+00:00:34,190 --> 00:00:36,850
+right here. Those are
+going to be covered in
+
+13
+00:00:36,850 --> 00:00:40,570
+the first lecture
+and four to eight are
+
+14
+00:00:40,570 --> 00:00:43,730
+covered in the second
+one. So the first
+
+15
+00:00:43,730 --> 00:00:45,170
+one is bacteria one
+and the other one is
+
+16
+00:00:45,170 --> 00:00:47,770
+bacteria two. So
+basically what we're going
+
+17
+00:00:47,770 --> 00:00:49,770
+to do is try to compare
+and contrast gram
+
+18
+00:00:49,770 --> 00:00:51,830
+-positive and negative
+bacterial cell
+
+19
+00:00:51,830 --> 00:00:54,010
+envelope. So we'll talk
+about these subjects.
+
+20
+00:00:54,450 --> 00:00:56,150
+Identify and state
+the important
+
+21
+00:00:56,150 --> 00:00:57,870
+significance of
+the gram stain,
+
+22
+00:00:57,870 --> 00:00:59,890
+especially as a
+bacteriological tool.
+
+23
+00:01:01,930 --> 00:01:04,130
+Talk about exceptions
+to the gram
+
+24
+00:01:04,130 --> 00:01:06,730
+reaction, which
+microorganisms do not
+
+25
+00:01:06,730 --> 00:01:08,710
+stain properly with
+the gram stain.
+
+26
+00:01:09,030 --> 00:01:12,310
+And then move on to
+the second one where we
+
+27
+00:01:12,310 --> 00:01:14,470
+talk about virulence
+factors like capsules,
+
+28
+00:01:15,080 --> 00:01:18,400
+lipopolysaccharide,
+and how do those play
+
+29
+00:01:18,400 --> 00:01:21,750
+role on the pathogenesis
+of infections. Then
+
+30
+00:01:21,750 --> 00:01:24,690
+we'll talk about
+bacterial spores and how
+
+31
+00:01:24,690 --> 00:01:27,170
+unique they are and
+then talk about the
+
+32
+00:01:27,170 --> 00:01:30,710
+medically significant
+spore forming bacteria and
+
+33
+00:01:30,710 --> 00:01:32,150
+then we'll just talk
+about a little bit
+
+34
+00:01:32,150 --> 00:01:34,730
+horizontal gene transferring
+bacteria and how
+
+35
+00:01:34,730 --> 00:01:37,550
+is that important
+clinically with application
+
+36
+00:01:37,730 --> 00:01:39,810
+and then we talk
+about different growth
+
+37
+00:01:39,810 --> 00:01:42,530
+environment and bacteria
+and also again how
+
+38
+00:01:42,530 --> 00:01:45,550
+important is that for
+a trained physician.
+
+39
+00:01:48,570 --> 00:01:50,850
+So let's make sure
+we first define some
+
+40
+00:01:50,850 --> 00:01:52,900
+basic terms so we're
+all on the same page.
+
+41
+00:01:52,990 --> 00:01:55,230
+There's a term
+referred to as
+
+42
+00:01:55,230 --> 00:01:57,230
+the cell envelope,
+and the cell
+
+43
+00:01:57,230 --> 00:01:59,340
+envelope basically
+encompasses
+
+44
+00:02:00,230 --> 00:02:02,650
+everything from
+the cell membrane
+
+45
+00:02:02,650 --> 00:02:04,050
+out. So the cell membrane
+
+46
+00:02:04,050 --> 00:02:05,770
+is part of the
+cell envelope,
+
+47
+00:02:06,090 --> 00:02:08,370
+same thing with
+the cell wall.
+
+48
+00:02:08,510 --> 00:02:11,550
+So again, be careful
+with that technology,
+
+49
+00:02:11,550 --> 00:02:13,670
+cell membrane,
+which every cell has
+
+50
+00:02:13,670 --> 00:02:16,870
+to have, is part of
+what's called the
+
+51
+00:02:16,870 --> 00:02:19,390
+cell envelope. Now
+cell wall Not all cells
+
+52
+00:02:19,390 --> 00:02:21,990
+have cell walls. In
+fact, animal cells
+
+53
+00:02:21,990 --> 00:02:24,190
+by definition don't
+have a cell wall.
+
+54
+00:02:24,430 --> 00:02:26,250
+That's what makes
+them an animal cell.
+
+55
+00:02:26,250 --> 00:02:29,110
+In fact, the only
+way we can tell or
+
+56
+00:02:29,110 --> 00:02:31,470
+we can classify a
+sponge as an animal
+
+57
+00:02:31,470 --> 00:02:33,270
+is because it doesn't
+have cell walls.
+
+58
+00:02:33,730 --> 00:02:36,630
+Plants, fungi, and
+all prokaryotes
+
+59
+00:02:36,630 --> 00:02:39,430
+without a few
+exceptions all have cell
+
+60
+00:02:39,430 --> 00:02:43,210
+walls. And the whole
+purpose of the cell
+
+61
+00:02:43,210 --> 00:02:45,790
+wall, we'll discuss
+that later. Now,
+
+62
+00:02:46,010 --> 00:02:49,710
+in a lot of bacteria,
+there are other
+
+63
+00:02:50,510 --> 00:02:52,510
+structures that may
+be present, and those
+
+64
+00:02:52,510 --> 00:02:54,130
+are all considered
+part of the cell
+
+65
+00:02:54,130 --> 00:02:56,430
+envelope, so if there
+is pill, that's part
+
+66
+00:02:56,430 --> 00:02:58,170
+of the cell envelope,
+there's flagella,
+
+67
+00:02:58,350 --> 00:02:59,990
+that's part of the
+cell envelope, but if
+
+68
+00:02:59,990 --> 00:03:01,990
+there is a capsule,
+that's also part the
+
+69
+00:03:01,990 --> 00:03:03,550
+cell envelope, if
+there's an outer
+
+70
+00:03:03,550 --> 00:03:05,610
+membrane, in addition
+to the cell membrane,
+
+71
+00:03:05,710 --> 00:03:07,510
+that's also
+part of the cell
+
+72
+00:03:07,510 --> 00:03:09,510
+envelope, there's
+a peri plasm,
+
+73
+00:03:09,990 --> 00:03:12,370
+that's also part of
+cell envelope. So
+
+74
+00:03:12,370 --> 00:03:15,710
+all these terms, the
+term cell envelope
+
+75
+00:03:15,710 --> 00:03:18,090
+encompasses all
+of this and we'll
+
+76
+00:03:18,090 --> 00:03:19,750
+discuss what
+periplasm is without a
+
+77
+00:03:19,750 --> 00:03:23,370
+membrane and all those
+as we move along.
+
+78
+00:03:25,150 --> 00:03:27,870
+This is a schematic
+presentation of what
+
+79
+00:03:27,870 --> 00:03:30,970
+a bacterial cell looks
+like and so unlike
+
+80
+00:03:30,970 --> 00:03:33,910
+eukaryotic cells like
+our cells, our cells
+
+81
+00:03:33,910 --> 00:03:36,410
+have nuclei, they
+have what's called
+
+82
+00:03:36,410 --> 00:03:39,210
+membrane-bound
+organelles. There are no
+
+83
+00:03:39,210 --> 00:03:47,710
+membrane-bound organelles
+in prokriots, and
+
+84
+00:03:47,710 --> 00:03:50,790
+so they do have
+organelles, for example.
+
+85
+00:03:50,910 --> 00:03:56,070
+Prokriots have
+ribosomes, but they
+
+86
+00:03:56,070 --> 00:03:56,970
+don't have membrane-bound
+
+87
+00:03:56,970 --> 00:03:58,650
+organelles like
+mitochondria, like
+
+88
+00:03:58,650 --> 00:04:01,490
+endoplasmic reticula,
+etc, vacuoles.
+
+89
+00:04:01,850 --> 00:04:04,150
+In fact, the whole
+bacterium was almost the
+
+90
+00:04:04,150 --> 00:04:06,790
+size of a mitochondrion.
+So everything is in
+
+91
+00:04:06,790 --> 00:04:09,630
+the cytoplasm so what
+the bacterium lacks
+
+92
+00:04:09,630 --> 00:04:12,990
+in complexity as far
+as internally it really
+
+93
+00:04:13,190 --> 00:04:15,110
+compensates for it
+externally because you
+
+94
+00:04:15,110 --> 00:04:17,070
+can see they have a
+coarse cell membrane
+
+95
+00:04:17,070 --> 00:04:19,110
+that's a must all cells
+have cell membranes
+
+96
+00:04:19,110 --> 00:04:21,590
+they must because that
+defines the cell but
+
+97
+00:04:21,590 --> 00:04:25,550
+a lot of bacteria have
+uh cell walls um some
+
+98
+00:04:25,550 --> 00:04:27,550
+of them have capsules
+some of them have
+
+99
+00:04:27,550 --> 00:04:30,670
+plagella some of them
+have pili uh for you
+
+100
+00:04:30,670 --> 00:04:33,510
+know different reasons
+uh pili which we'll
+
+101
+00:04:33,510 --> 00:04:34,950
+talk about those those
+are structures are
+
+102
+00:04:34,950 --> 00:04:39,830
+basically mainly that
+bind to the host cells,
+
+103
+00:04:41,610 --> 00:04:43,470
+basically, so
+for attachment.
+
+104
+00:04:43,470 --> 00:04:44,710
+PILNDR for attachment.
+
+105
+00:04:45,230 --> 00:04:47,910
+FLAGULLA are for
+movement or motility.
+
+106
+00:04:49,170 --> 00:04:51,770
+Of course, the
+prokaryotes have DNA, but
+
+107
+00:04:51,770 --> 00:04:54,150
+they don't have a
+nucleus. Instead, their
+
+108
+00:04:54,150 --> 00:04:58,090
+DNA is kind of packaged
+densely inside the
+
+109
+00:04:58,090 --> 00:05:01,690
+cytoplasm in an area
+called the nucleoid
+
+110
+00:05:01,690 --> 00:05:04,830
+and so that's what the
+term used, nucleoid.
+
+111
+00:05:05,410 --> 00:05:07,830
+Remember as we talked
+in genetic lecture,
+
+112
+00:05:07,830 --> 00:05:11,710
+bacteria typically
+have circular DNA
+
+113
+00:05:11,710 --> 00:05:15,190
+and it's super cold
+and that involves
+
+114
+00:05:15,190 --> 00:05:17,590
+remembering the
+topoisomerase enzymes.
+
+115
+00:05:21,880 --> 00:05:23,650
+I just want to take
+a little time here to
+
+116
+00:05:23,650 --> 00:05:25,730
+emphasize the function
+of the cell walls.
+
+117
+00:05:25,730 --> 00:05:29,610
+So cell walls, again
+the only living things
+
+118
+00:05:29,610 --> 00:05:31,290
+that don't have cell
+walls or animal cells
+
+119
+00:05:31,290 --> 00:05:32,810
+by definition they
+only have a cell wall
+
+120
+00:05:32,810 --> 00:05:34,690
+everything else has
+a cell wall plants
+
+121
+00:05:34,690 --> 00:05:37,630
+fungi bacteria that's
+pretty much like 98
+
+122
+00:05:37,630 --> 00:05:39,670
+percent if not more of
+all different things
+
+123
+00:05:39,850 --> 00:05:41,890
+uh so again with the
+exception of animals
+
+124
+00:05:41,890 --> 00:05:44,090
+so why do they have
+this cell wall uh
+
+125
+00:05:44,090 --> 00:05:47,630
+basically to resist osmotic
+pressure uh typically
+
+126
+00:05:47,630 --> 00:05:50,090
+cells have a lot of
+stuff like proteins
+
+127
+00:05:50,090 --> 00:05:52,270
+like acids you know
+everything the cell
+
+128
+00:05:52,270 --> 00:05:54,470
+needs is inside the
+cell and so this creates
+
+129
+00:05:54,470 --> 00:05:56,850
+a high osmotic gradient
+and water wants
+
+130
+00:05:56,850 --> 00:05:59,750
+to come inside cells
+and so if it wasn't for
+
+131
+00:05:59,750 --> 00:06:01,650
+the cell wall the
+cells would burst and
+
+132
+00:06:01,650 --> 00:06:03,550
+you can actually
+see this you can use
+
+133
+00:06:03,550 --> 00:06:06,290
+penicillin and look at
+the cell on the microscope
+
+134
+00:06:06,290 --> 00:06:08,410
+and as penicillin
+inhabits the synthesis
+
+135
+00:06:08,410 --> 00:06:10,190
+of cell wall eventually
+you see these cells
+
+136
+00:06:10,190 --> 00:06:12,830
+deform and then
+eventually they explode
+
+137
+00:06:12,930 --> 00:06:15,030
+because they'll just
+take on too much water
+
+138
+00:06:15,030 --> 00:06:17,490
+so that's the function
+of the cell wall
+
+139
+00:06:17,590 --> 00:06:19,650
+in animal cells
+that don't have cell
+
+140
+00:06:19,650 --> 00:06:22,890
+walls what they do
+instead is they use
+
+141
+00:06:22,890 --> 00:06:24,930
+this like a basically
+a sodium potassium
+
+142
+00:06:24,930 --> 00:06:28,110
+pump to pump
+sodium out and once
+
+143
+00:06:28,110 --> 00:06:30,210
+you pump sodium out
+you create a higher
+
+144
+00:06:30,450 --> 00:06:33,350
+sodium on the outside
+of the cell which can
+
+145
+00:06:33,350 --> 00:06:35,950
+help i mean again think
+of it like even in
+
+146
+00:06:35,950 --> 00:06:38,090
+flooding people can
+either make dams which
+
+147
+00:06:38,090 --> 00:06:40,170
+is what the cell wall
+is or they can use an
+
+148
+00:06:40,170 --> 00:06:42,650
+actual sub pump or a
+pump which can pop water
+
+149
+00:06:42,650 --> 00:06:45,570
+out so cells are not
+any different they're
+
+150
+00:06:45,570 --> 00:06:47,770
+pretty much utilizing
+the same thing one
+
+151
+00:07:15,470 --> 00:07:17,830
+of the most important
+uh microscopic
+
+152
+00:07:17,830 --> 00:07:21,110
+stand in bacteriology
+is the stand developed
+
+153
+00:07:21,110 --> 00:07:24,250
+by Hans Christian
+Graham in the almost
+
+154
+00:07:24,770 --> 00:07:28,130
+in the 1930s, if
+I believe correct,
+
+155
+00:07:29,590 --> 00:07:31,130
+which is referred
+to as the Graham
+
+156
+00:07:31,130 --> 00:07:33,090
+stain, named after
+Hans Christian Graham.
+
+157
+00:07:33,280 --> 00:07:35,350
+The beauty about
+the Graham stain is
+
+158
+00:07:35,350 --> 00:07:38,190
+it's very simple,
+but at the same time
+
+159
+00:07:38,190 --> 00:07:42,430
+it divides most
+bacteria into either
+
+160
+00:07:42,430 --> 00:07:46,150
+Graham positive or
+Graham negative. Just
+
+161
+00:07:46,150 --> 00:07:48,090
+be first aware with
+the terminology.
+
+162
+00:07:48,910 --> 00:07:51,190
+Gram negative does not
+mean it's a negative
+
+163
+00:07:51,190 --> 00:07:53,250
+result. That means the
+bacteria are classified
+
+164
+00:07:53,250 --> 00:07:57,110
+like that. Both results
+are valid. Okay,
+
+165
+00:07:57,110 --> 00:08:00,550
+so let's get into
+the steps of the gram
+
+166
+00:08:00,550 --> 00:08:05,050
+stain, and how does
+the gram stain
+bacteriologically
+
+167
+00:08:05,870 --> 00:08:08,520
+works. So first
+of all, before you
+
+168
+00:08:08,520 --> 00:08:11,650
+embark on staining
+anything, and this goes
+
+169
+00:08:11,650 --> 00:08:14,640
+back to some of the
+histology lectures, the
+
+170
+00:08:14,770 --> 00:08:18,690
+first thing you have
+to do is fix the slide.
+
+171
+00:08:18,870 --> 00:08:20,730
+So fixation is
+important, that usually
+
+172
+00:08:20,730 --> 00:08:22,870
+happens before
+staining, so even
+
+173
+00:08:22,870 --> 00:08:24,450
+though it doesn't
+mention that here,
+
+174
+00:08:24,650 --> 00:08:26,750
+fixation always has
+to happen first.
+
+175
+00:08:26,880 --> 00:08:28,730
+If you don't fix
+the slide everything
+
+176
+00:08:28,730 --> 00:08:31,270
+gets washed off.
+And in bacteriology,
+
+177
+00:08:31,510 --> 00:08:35,330
+fixation happens very
+simply using heat.
+
+178
+00:08:35,570 --> 00:08:38,530
+You pass the slide
+with the bacteria on
+
+179
+00:08:38,530 --> 00:08:40,830
+it through an open
+flame like three times
+
+180
+00:08:40,830 --> 00:08:42,750
+gently you don't leave
+it there to sizzle
+
+181
+00:08:42,780 --> 00:08:45,820
+so but you have to
+air dry it first make
+
+182
+00:08:45,820 --> 00:08:48,030
+sure it's dry because
+if there's water
+
+183
+00:08:48,030 --> 00:08:50,790
+it'll just boil and
+then deform the organism
+
+184
+00:08:50,790 --> 00:08:53,840
+so you dry air dry
+and then fix so
+
+185
+00:08:54,610 --> 00:09:04,950
+dry it and then fixation
+f-i-x fix and then
+
+186
+00:09:04,950 --> 00:09:08,150
+you proceed with the
+stain okay so now
+
+187
+00:09:08,550 --> 00:09:11,350
+the gram stain is
+considered a differential
+
+188
+00:09:11,350 --> 00:09:13,610
+strain. Why? Because
+it's differential.
+
+189
+00:09:13,650 --> 00:09:15,970
+It's not a simple stain.
+Simple stains have
+
+190
+00:09:15,970 --> 00:09:18,670
+one stain. The gram
+stain is a differential
+
+191
+00:09:18,670 --> 00:09:21,150
+stain because it can
+differentiate between
+
+192
+00:09:21,850 --> 00:09:25,090
+two different organisms
+and so it must
+
+193
+00:09:25,090 --> 00:09:27,450
+have two stains. So
+differential stains would
+
+194
+00:09:27,450 --> 00:09:29,510
+have a primary stain
+and they'll also
+
+195
+00:09:29,510 --> 00:09:31,770
+have what's called a
+counter stain by definition.
+
+196
+00:09:31,770 --> 00:09:34,470
+The stain may be
+different but that's
+
+197
+00:09:34,470 --> 00:09:36,950
+the terminology used.
+So the primary stain
+
+198
+00:09:36,950 --> 00:09:40,490
+for the graham stain
+is crystal violet as
+
+199
+00:09:40,490 --> 00:09:42,870
+you can see right here
+from the name it's
+
+200
+00:09:42,870 --> 00:09:44,790
+kind of purplishing
+color so that's the
+
+201
+00:09:44,790 --> 00:09:46,770
+first thing you do is
+you put crystal violet
+
+202
+00:09:46,970 --> 00:09:50,250
+time wise for this
+it's usually one minute
+
+203
+00:09:50,250 --> 00:09:51,910
+so you can leave the
+slide setting for one
+
+204
+00:09:51,910 --> 00:09:54,490
+minute with crystal
+violet and then you
+
+205
+00:09:54,490 --> 00:09:56,510
+wash now even though
+it doesn't say here you
+
+206
+00:09:56,510 --> 00:09:58,890
+wash that's always
+customary and it's kind
+
+207
+00:09:58,890 --> 00:10:02,690
+of implied that you
+always wash between you
+
+208
+00:10:02,690 --> 00:10:04,270
+don't put one stain
+on top of the other.
+
+209
+00:10:05,170 --> 00:10:07,230
+The timing for
+crystal violet one
+
+210
+00:10:07,230 --> 00:10:08,930
+minute is flexible.
+If you go one
+
+211
+00:10:08,930 --> 00:10:11,290
+minute 30 seconds
+or two minutes or,
+
+212
+00:10:11,290 --> 00:10:13,450
+you know, that's
+not a big deal.
+
+213
+00:10:13,670 --> 00:10:15,230
+It won't affect
+the outcome,
+
+214
+00:10:15,230 --> 00:10:16,170
+let's say, of the stain.
+
+215
+00:10:16,490 --> 00:10:20,350
+The next step here in
+the gram stain is using
+
+216
+00:10:20,350 --> 00:10:22,670
+what's called a
+mordant. And what it is,
+
+217
+00:10:22,670 --> 00:10:24,430
+what the mordant is,
+usually makes the first
+
+218
+00:10:24,430 --> 00:10:26,850
+primary stain stick
+better. And that's
+
+219
+00:10:26,850 --> 00:10:29,670
+typically in the gram
+stain, the chemical
+
+220
+00:10:29,670 --> 00:10:32,950
+iodine so iodine is
+used second to make sure
+
+221
+00:10:32,950 --> 00:10:36,830
+the crystal violet you
+know stains very well
+
+222
+00:10:36,990 --> 00:10:40,250
+okay now at this
+juncture every cell
+
+223
+00:10:40,250 --> 00:10:42,210
+as you can see
+every bacterial cell
+
+224
+00:10:42,210 --> 00:10:44,250
+just about every cell
+really will stain
+
+225
+00:10:44,250 --> 00:10:46,370
+purple because
+that's the only stain
+
+226
+00:10:46,370 --> 00:10:47,810
+you're using so
+they'll pick it up
+
+227
+00:10:49,870 --> 00:10:53,790
+now what happens in the
+next step is you add
+
+228
+00:10:53,790 --> 00:10:56,390
+a decolorizer so
+you're trying to remove
+
+229
+00:10:56,390 --> 00:10:58,660
+the stain from some of
+the organisms and the
+
+230
+00:10:58,660 --> 00:11:01,960
+colorizer in the gram
+stain is typically 95
+
+231
+00:11:01,960 --> 00:11:04,710
+% ethanol or although
+sometimes could be a
+
+232
+00:11:04,710 --> 00:11:07,650
+combination of like
+isopropanol but the most
+
+233
+00:11:07,650 --> 00:11:12,690
+common one is 95%
+ethanol in alcohol and if
+
+234
+00:11:12,690 --> 00:11:14,630
+this is done correctly
+and we'll talk about
+
+235
+00:11:14,630 --> 00:11:19,670
+that gram positive
+bacteria should retain
+
+236
+00:11:19,670 --> 00:11:21,890
+the crystal violet
+stain so they'll stay
+
+237
+00:11:21,890 --> 00:11:24,630
+purple while the gram
+negative bacteria at this
+
+238
+00:11:24,630 --> 00:11:26,330
+juncture will lose
+the stand and they of
+
+239
+00:11:26,330 --> 00:11:28,090
+course they don't have
+any color they'll be
+
+240
+00:11:28,090 --> 00:11:32,370
+colorless okay now why
+is that um we'll get
+
+241
+00:11:32,370 --> 00:11:33,950
+into that a little bit
+more but just simply
+
+242
+00:11:33,950 --> 00:11:36,450
+here and the difference
+between uh gram
+
+243
+00:11:36,450 --> 00:11:38,670
+positives and gram
+negative bacteria is the
+
+244
+00:11:38,670 --> 00:11:41,670
+thickness and the
+complexity of the cell wall
+
+245
+00:11:41,670 --> 00:11:44,940
+so gram positive
+bacteria have a thick and
+
+246
+00:11:44,940 --> 00:11:48,330
+intercalated uh so
+cross-linked cell wall
+
+247
+00:11:48,330 --> 00:11:50,790
+while gram negative
+bacteria have a very thin
+
+248
+00:11:50,790 --> 00:11:53,690
+one layer basically The
+cell wall is not very
+
+249
+00:11:53,690 --> 00:11:56,210
+cross-linked, so it
+doesn't help it retain
+
+250
+00:11:56,210 --> 00:11:58,570
+the slide as much.
+So if this is done
+
+251
+00:11:58,570 --> 00:12:01,390
+properly, and we'll talk
+about what that means,
+
+252
+00:12:01,810 --> 00:12:04,530
+again, the gram
+positive bacteria will
+
+253
+00:12:05,090 --> 00:12:08,650
+stay purple, while the
+gram negatives will
+
+254
+00:12:09,420 --> 00:12:14,000
+lose their crystal
+violet and become clear.
+
+255
+00:12:14,290 --> 00:12:16,910
+So what is the correct
+timing for this?
+
+256
+00:12:16,910 --> 00:12:18,530
+Oh, by the way, for
+the iodine, it's
+
+257
+00:12:18,530 --> 00:12:20,450
+usually two minutes.
+We forgot to talk about
+
+258
+00:12:20,450 --> 00:12:22,970
+that. but again,
+minutes and a half, two
+
+259
+00:12:22,970 --> 00:12:24,710
+minutes and a half,
+it's no big deal. This
+
+260
+00:12:24,710 --> 00:12:26,110
+is the step that you
+have to be the most
+
+261
+00:12:26,110 --> 00:12:28,210
+careful of, the
+alcohol decolorization.
+
+262
+00:12:28,530 --> 00:12:30,810
+With alcohol
+decolorization, the only way
+
+263
+00:12:30,810 --> 00:12:32,350
+to do this, there's
+really no specific
+
+264
+00:12:32,350 --> 00:12:34,650
+time. What you have
+to do is you have to
+
+265
+00:12:34,750 --> 00:12:37,990
+grab the slide like
+this sideways, okay?
+
+266
+00:12:38,330 --> 00:12:39,530
+Let's say this is the
+
+267
+00:12:39,530 --> 00:12:41,070
+slide, here's
+your sample,
+
+268
+00:12:41,070 --> 00:12:43,910
+and what you do is
+you come and put the
+
+269
+00:12:43,910 --> 00:12:47,670
+alcohol, like, start
+dropping it drop
+
+270
+00:12:47,670 --> 00:12:50,370
+-wise, okay? And so
+the alcohol will start
+
+271
+00:12:50,370 --> 00:12:52,150
+washing off the
+slide. What you're
+
+272
+00:12:52,150 --> 00:12:54,430
+going to see here
+is the blue crystal
+
+273
+00:12:54,430 --> 00:12:56,650
+violet running off
+the slide. So you keep
+
+274
+00:12:56,650 --> 00:12:59,350
+dropping until there's
+no longer blue,
+
+275
+00:12:59,890 --> 00:13:02,170
+okay? So you tilt the
+slide sideways like
+
+276
+00:13:02,170 --> 00:13:04,840
+this. Here's the
+sample. You put dropwise
+
+277
+00:13:04,840 --> 00:13:08,350
+alcohol on the slide,
+it runs off. Once the
+
+278
+00:13:08,350 --> 00:13:11,750
+purple color stops
+running, immediately you
+
+279
+00:13:11,750 --> 00:13:14,310
+wash. And so this could
+take really anywhere
+
+280
+00:13:14,310 --> 00:13:17,230
+between 20 seconds
+to 50 seconds all
+
+281
+00:13:17,230 --> 00:13:19,730
+depends on how thick
+your sample is so there's
+
+282
+00:13:19,730 --> 00:13:22,630
+no definitive time
+that can be given and
+
+283
+00:13:22,630 --> 00:13:26,390
+you have to observe
+the runoff uh liquid or
+
+284
+00:13:26,390 --> 00:13:29,390
+alcohol and see once
+it turns clear and no
+
+285
+00:13:29,390 --> 00:13:31,370
+longer blue you
+immediately wash very well
+
+286
+00:13:31,370 --> 00:13:33,930
+and if you've done
+that properly this is
+
+287
+00:13:33,930 --> 00:13:37,850
+what you get gram
+positives stay blue gram
+
+288
+00:13:38,010 --> 00:13:40,910
+negatives lose the stem
+okay now to stay in
+
+289
+00:13:40,910 --> 00:13:42,590
+the gram negatives
+in order to see them,
+
+290
+00:13:42,590 --> 00:13:44,930
+let's say your sample
+is just gram negative
+
+291
+00:13:44,930 --> 00:13:47,030
+bacteria, if you stop
+here you pretty much
+
+292
+00:13:47,030 --> 00:13:49,810
+will see nothing
+because, you know, clear
+
+293
+00:13:49,810 --> 00:13:52,220
+bacteria on the microscope
+are very difficult
+
+294
+00:13:52,220 --> 00:13:54,390
+and not impossible
+to see, which is why
+
+295
+00:13:54,390 --> 00:13:56,190
+we use staining so you
+can visualize them.
+
+296
+00:13:56,390 --> 00:13:59,410
+Then you use a counter
+stain and that's
+
+297
+00:13:59,410 --> 00:14:03,570
+saffronin and saffronin
+is basically red to pink
+
+298
+00:14:03,570 --> 00:14:06,950
+in color and so now
+all gram negatives
+
+299
+00:14:06,950 --> 00:14:11,390
+should stay pink and
+gram positives will stay
+
+300
+00:14:11,390 --> 00:14:14,410
+purple and again if
+that done correctly as
+
+301
+00:14:14,410 --> 00:14:15,910
+you look here on the
+right side of the slide
+
+302
+00:14:15,910 --> 00:14:18,410
+this is what classic
+gram stain looks like
+
+303
+00:14:18,410 --> 00:14:21,570
+you have a combination
+here of gram positive
+
+304
+00:14:21,570 --> 00:14:26,550
+bacteria so these
+round or cocci is the
+
+305
+00:14:26,550 --> 00:14:30,910
+better term looking
+microbes and these rod
+
+306
+00:14:30,910 --> 00:14:33,590
+shaped pink ones right
+here so this is the
+
+307
+00:14:33,590 --> 00:14:37,200
+gram negative and this
+is the gram positive.
+
+308
+00:14:38,350 --> 00:14:42,190
+And typically classically
+used here is this
+
+309
+00:14:42,190 --> 00:14:44,670
+is probably
+staphylococci and this is
+
+310
+00:14:44,670 --> 00:14:47,510
+probably E. coli and you
+can tell this is also
+
+311
+00:14:47,810 --> 00:14:50,190
+staphylococci because
+staphylococci they
+
+312
+00:14:50,190 --> 00:14:52,710
+cluster in these grape
+-like clusters. In fact
+
+313
+00:14:52,710 --> 00:14:56,250
+the word staph means
+grape-like clusters. So
+
+314
+00:14:56,250 --> 00:14:58,390
+this is a type of
+staph. Now you would not
+
+315
+00:14:58,390 --> 00:15:00,750
+know what kind of staph
+like Staph oeus, Staph
+
+316
+00:15:00,750 --> 00:15:03,130
+epidermidis,
+Stapophyticus, you wouldn't
+
+317
+00:15:03,130 --> 00:15:05,670
+know the species name
+but you know it's staph
+
+318
+00:15:05,670 --> 00:15:08,470
+from being gram
+positive, being cocci in
+
+319
+00:15:08,470 --> 00:15:11,270
+shape and also having
+this grape-like cluster.
+
+320
+00:15:11,970 --> 00:15:14,490
+And E. coli is
+typically rod shaped and
+
+321
+00:15:14,490 --> 00:15:16,810
+they usually are
+random. They're small
+
+322
+00:15:16,810 --> 00:15:18,590
+rods by the way, these
+are not big rods.
+
+323
+00:15:19,090 --> 00:15:21,950
+They're small rods and
+it's gram negative.
+
+324
+00:15:22,050 --> 00:15:24,030
+Okay so if done properly
+you'll be able to
+
+325
+00:15:24,030 --> 00:15:26,670
+see both. Now of course
+most samples don't
+
+326
+00:15:26,670 --> 00:15:29,210
+have both and so you
+got to keep in mind that
+
+327
+00:15:29,210 --> 00:15:31,990
+it's very easy for
+you to tell the purple
+
+328
+00:15:31,990 --> 00:15:33,590
+from the pink and the
+pink from the purple
+
+329
+00:15:33,590 --> 00:15:35,810
+because of the contrast
+they're both on slide
+
+330
+00:15:35,810 --> 00:15:38,090
+but a lot of times
+if these things are
+
+331
+00:15:38,090 --> 00:15:42,610
+individually like by
+themselves they make you know
+
+332
+00:15:42,610 --> 00:15:44,810
+like if it's just gram
+positive only on the
+
+333
+00:15:44,810 --> 00:15:46,250
+slide or gram negative
+it might be a little
+
+334
+00:15:46,250 --> 00:15:48,470
+bit more harder to
+tell it's not as easy
+
+335
+00:15:48,470 --> 00:15:49,910
+as you might think so
+might be a good idea
+
+336
+00:15:49,910 --> 00:15:53,830
+for you to look up a
+few things like gram
+
+337
+00:15:53,830 --> 00:15:55,810
+positive organisms and
+gram negative and see if
+
+338
+00:15:55,810 --> 00:15:58,590
+you can get used to
+looking at some of it.
+
+339
+00:15:59,310 --> 00:16:02,830
+So the gram stain is
+a very powerful stain,
+
+340
+00:16:02,830 --> 00:16:04,930
+very simple. This whole
+thing we talked about
+
+341
+00:16:04,930 --> 00:16:07,290
+a minute, maybe two
+minutes, maybe 30
+
+342
+00:16:07,290 --> 00:16:09,670
+seconds, and counter
+stain usually one minute.
+
+343
+00:16:09,960 --> 00:16:11,390
+So the whole
+thing is like five
+
+344
+00:16:11,390 --> 00:16:13,230
+minutes really.
+And then you can
+
+345
+00:16:13,230 --> 00:16:15,130
+divide the
+bacteria into two,
+
+346
+00:16:15,130 --> 00:16:17,250
+which is very powerful.
+And in this case
+
+347
+00:16:17,250 --> 00:16:18,610
+here, you can tell
+that you even have
+
+348
+00:16:18,610 --> 00:16:20,870
+staphylococci because
+of the shape and
+
+349
+00:16:20,870 --> 00:16:23,910
+because of the morphology
+and the pattern.
+
+350
+00:16:23,910 --> 00:16:26,560
+And so the gram stain
+can be sometimes
+
+351
+00:16:26,560 --> 00:16:30,170
+almost the like the
+final step to know what's
+
+352
+00:16:30,170 --> 00:16:32,950
+going on and we'll
+talk about that we'll
+
+353
+00:16:32,950 --> 00:16:34,450
+see that so clinically
+it can be very
+
+354
+00:16:34,450 --> 00:16:37,250
+very useful and very
+simple in identifying
+
+355
+00:16:37,250 --> 00:16:39,790
+the microbe and the
+patient may have.
+
+356
+00:16:43,410 --> 00:16:46,250
+This is a sample of few
+organisms that being
+
+357
+00:16:46,250 --> 00:16:48,230
+gram stand and just a
+kind of demonstration
+
+358
+00:16:48,230 --> 00:16:51,090
+to show you first to
+get used to different
+
+359
+00:16:51,090 --> 00:16:55,310
+gram stands and also
+to tell the information
+
+360
+00:16:55,310 --> 00:16:57,950
+okay so if you look
+here on the top right
+
+361
+00:16:57,950 --> 00:17:00,450
+side so these organisms
+by now you probably
+
+362
+00:17:00,450 --> 00:17:02,470
+know what those are
+right and those look
+
+363
+00:17:02,470 --> 00:17:05,130
+exactly like the ones
+we saw before so this
+
+364
+00:17:05,130 --> 00:17:07,690
+is um what gram stand
+do you think these
+
+365
+00:17:07,690 --> 00:17:12,490
+are uh so this is purple
+and the the pattern
+
+366
+00:17:12,490 --> 00:17:15,330
+uh sorry the shape
+first is cocci so these
+
+367
+00:17:15,330 --> 00:17:18,670
+are circular cocci so
+gram positive because
+
+368
+00:17:18,670 --> 00:17:23,110
+they're purple cocci
+circular and the
+
+369
+00:17:23,110 --> 00:17:26,730
+pattern is grape-like
+clusters as you can see
+
+370
+00:17:26,730 --> 00:17:29,430
+it looks like you know
+like like grapes right
+
+371
+00:17:29,430 --> 00:17:32,010
+and so this is
+staphylococci so again we
+
+372
+00:17:32,010 --> 00:17:34,530
+can tell immediately the
+genus here staphylococci
+
+373
+00:17:34,530 --> 00:17:36,490
+again we don't know
+if it's what species
+
+374
+00:17:36,490 --> 00:17:38,680
+but we know it's
+actually a staphylococci
+
+375
+00:17:38,680 --> 00:17:41,610
+by simply looking at
+the gram stain so it
+
+376
+00:17:41,610 --> 00:17:43,750
+can be very indicative
+in that way so again
+
+377
+00:17:43,750 --> 00:17:46,460
+looking at the gram
+stain because it's
+
+378
+00:17:46,460 --> 00:17:49,630
+microscopy it can also
+tell us the shape of the
+
+379
+00:17:49,630 --> 00:17:52,510
+organisms, and pattern.
+So let's look at
+
+380
+00:17:52,510 --> 00:17:55,550
+this one right here
+on the left side. So
+
+381
+00:17:55,550 --> 00:17:59,670
+these are also cocci,
+if you can tell, right?
+
+382
+00:18:00,010 --> 00:18:01,830
+They also just like
+these one, a little
+
+383
+00:18:01,830 --> 00:18:06,770
+smaller, but morphology,
+and they are pink,
+
+384
+00:18:06,770 --> 00:18:08,350
+so those are gram
+-negative. So we're
+
+385
+00:18:08,350 --> 00:18:11,430
+looking at gram-negative
+cocci. Now if I look
+
+386
+00:18:11,430 --> 00:18:14,950
+at pattern, see what
+you're seeing here
+
+387
+00:18:16,760 --> 00:18:22,810
+see I see a lot of
+them in pairs lots of
+
+388
+00:18:22,810 --> 00:18:26,890
+lots of lots of ones
+in pairs okay and so
+
+389
+00:18:26,930 --> 00:18:29,970
+these are in the
+pattern here is diploid
+
+390
+00:18:29,970 --> 00:18:32,530
+so this is a gram
+-negative diploid and
+
+391
+00:18:32,530 --> 00:18:35,570
+just simply looking at
+this seeing the gram
+
+392
+00:18:35,570 --> 00:18:37,710
+reaction the shape
+of the organism and
+
+393
+00:18:37,710 --> 00:18:39,690
+the pattern I know
+that this is probably
+
+394
+00:18:39,690 --> 00:18:42,910
+the species, sorry,
+the genus, Neisseria.
+
+395
+00:18:43,050 --> 00:18:43,770
+Okay.
+
+396
+00:18:47,260 --> 00:18:50,190
+It's hard to type
+with a mouse,
+
+397
+00:18:50,190 --> 00:18:51,640
+but you can look
+up Neisseria.
+
+398
+00:18:53,110 --> 00:18:55,680
+Neisseria are medically
+significant because
+
+399
+00:18:55,680 --> 00:18:59,210
+we can't tell which
+species of Neisseria
+
+400
+00:18:59,210 --> 00:19:01,870
+this is, but this may
+either be Neisseria
+
+401
+00:19:01,870 --> 00:19:05,270
+gonorrhea or Neisseria
+meningitidis. Of course,
+
+402
+00:19:05,270 --> 00:19:06,970
+they cause different
+disease. Neisseria
+
+403
+00:19:06,970 --> 00:19:09,130
+gonorrhea causes
+gonorrhea, while Neisseria
+
+404
+00:19:09,130 --> 00:19:11,310
+meningitidis cause
+meningitis but you'll be
+
+405
+00:19:11,310 --> 00:19:14,490
+able to tell which one
+right away really because
+
+406
+00:19:14,490 --> 00:19:17,230
+uh from the sample
+you obtained right so
+
+407
+00:19:17,230 --> 00:19:19,110
+if somebody has you're
+suspecting meningitis
+
+408
+00:19:19,110 --> 00:19:21,610
+the sample beats
+cerebral spinal fluid if
+
+409
+00:19:21,610 --> 00:19:24,030
+you're suspecting
+diarrhea you would you
+
+410
+00:19:24,030 --> 00:19:27,070
+would um get like a
+******* swab or something
+
+411
+00:19:27,070 --> 00:19:29,610
+so knowing where the
+origin of the sample
+
+412
+00:19:29,610 --> 00:19:31,130
+you can immediately
+know whether this is
+
+413
+00:19:31,130 --> 00:19:34,110
+Neisseria gonorrhea or
+Neisseria mangelatis.
+
+414
+00:19:34,670 --> 00:19:38,470
+So again, a five-minute
+very cheap stand can
+
+415
+00:19:39,170 --> 00:19:42,050
+can figure it out. And
+so let's move on and
+
+416
+00:19:42,050 --> 00:19:44,810
+look at the bottom
+here. So here are, these
+
+417
+00:19:44,810 --> 00:19:47,550
+are purpling colors,
+so these are gram
+
+418
+00:19:47,550 --> 00:19:52,430
+-positive. Their shape are
+rods and their pattern,
+
+419
+00:19:52,430 --> 00:19:54,510
+they are in chains.
+See how they're long
+
+420
+00:19:54,510 --> 00:19:58,470
+chains? And so this
+is very indicative of
+
+421
+00:19:58,470 --> 00:20:02,930
+the species bacilli
+again sorry the genus
+
+422
+00:20:02,930 --> 00:20:05,790
+bacilli so again we
+can't tell which species
+
+423
+00:20:05,790 --> 00:20:08,490
+this is a bacillus
+anthraxis is a bacillus
+
+424
+00:20:08,490 --> 00:20:10,970
+cereus is a bacillus
+septilus or megatherium
+
+425
+00:20:10,970 --> 00:20:13,350
+we don't know you
+can't tell really just
+
+426
+00:20:13,350 --> 00:20:14,830
+from the slot but you
+know it's bacillus
+
+427
+00:20:14,830 --> 00:20:17,710
+at least again because
+they're gram positive
+
+428
+00:20:17,710 --> 00:20:21,570
+rods in chains here
+too we're also looking
+
+429
+00:20:21,570 --> 00:20:25,670
+at gram positives uh
+purple but these are
+
+430
+00:20:25,830 --> 00:20:28,490
+uh also cocci so they
+look very similar
+
+431
+00:20:28,490 --> 00:20:30,670
+to here right except
+a little smaller
+
+432
+00:20:30,670 --> 00:20:32,710
+but these are
+also cocci but the
+
+433
+00:20:32,710 --> 00:20:34,160
+difference between
+up here and down here
+
+434
+00:20:34,160 --> 00:20:36,410
+is that these are
+cocci or in chains
+
+435
+00:20:36,590 --> 00:20:41,050
+they are not in in
+grape-like clusters see
+
+436
+00:20:41,050 --> 00:20:43,450
+the contrast so this
+tells me that these are
+
+437
+00:20:44,110 --> 00:20:47,550
+streptococci so the
+word strep means chains
+
+438
+00:20:47,890 --> 00:20:51,950
+okay versus the word
+staph which means
+
+439
+00:20:52,350 --> 00:20:54,210
+grape-like clusters.
+So these are
+
+440
+00:20:54,210 --> 00:20:58,070
+streptococci,
+strep chain, cocci,
+
+441
+00:20:59,150 --> 00:21:01,830
+circular or spherical.
+And so we don't
+
+442
+00:21:01,830 --> 00:21:03,670
+know what species
+of streptococci this
+
+443
+00:21:03,670 --> 00:21:05,780
+is. This could be
+streptococcus biogenes,
+
+444
+00:21:06,230 --> 00:21:07,910
+streptococcus
+mutans, and it can
+
+445
+00:21:07,910 --> 00:21:09,950
+be many, there's
+many, many species of
+
+446
+00:21:11,050 --> 00:21:12,310
+streptococci.
+But at least we
+
+447
+00:21:12,310 --> 00:21:13,850
+know it's
+streptococci. We've
+
+448
+00:21:13,850 --> 00:21:16,410
+narrowed it down
+this far. So
+
+449
+00:21:44,850 --> 00:21:47,510
+let's discuss the
+structure of the cell wall.
+
+450
+00:21:47,510 --> 00:21:49,110
+And we'll point out
+the difference between
+
+451
+00:21:49,110 --> 00:21:50,790
+gram positive or
+negative. Of course one
+
+452
+00:21:50,790 --> 00:21:52,410
+of the obvious things
+we said that the gram
+
+453
+00:21:52,410 --> 00:21:54,410
+positive cell wall is
+multi-layered while
+
+454
+00:21:54,410 --> 00:21:56,730
+the gram negative
+cell wall is one layer
+
+455
+00:21:56,730 --> 00:21:59,070
+but there are also more
+nuanced differences.
+
+456
+00:22:01,570 --> 00:22:05,230
+First and up front
+is the cell wall
+
+457
+00:22:05,230 --> 00:22:07,310
+is sometimes
+referred to as the
+
+458
+00:22:10,350 --> 00:22:12,790
+peptidoglycan. That's
+common terminology
+
+459
+00:22:12,790 --> 00:22:15,790
+for the bacterial cell
+wall and that comes
+
+460
+00:22:15,790 --> 00:22:18,010
+from the fact that it's
+made out of basically
+
+461
+00:22:18,360 --> 00:22:20,610
+glycan, there are
+sugar moieties,
+
+462
+00:22:20,610 --> 00:22:23,330
+peptido there's amino
+acid moieties and so in
+
+463
+00:22:23,330 --> 00:22:27,270
+this case here the
+building blocks of the
+
+464
+00:22:27,270 --> 00:22:30,930
+cell wall are
+alternating units of this
+
+465
+00:22:31,070 --> 00:22:34,350
+N-acetyl glucose and
+N-acetyl muramic acid
+
+466
+00:22:34,350 --> 00:22:36,810
+so these are the
+sugars these sugars are
+
+467
+00:22:36,810 --> 00:22:40,710
+peculiar to bacteria
+and so these NAM and NEG
+
+468
+00:22:40,710 --> 00:22:43,510
+units are bound together
+by covalent bonds
+
+469
+00:22:43,510 --> 00:22:46,710
+as you can see here,
+and then attached to the
+
+470
+00:22:46,710 --> 00:22:49,810
+NAM units are four
+different amino acids,
+
+471
+00:22:49,810 --> 00:22:52,590
+okay, of course, attached
+by peptide bonds.
+
+472
+00:22:52,590 --> 00:22:58,490
+And so this right
+here, this is the basic
+
+473
+00:22:58,490 --> 00:23:02,050
+building block, the
+highlighting of the saw
+
+474
+00:23:02,050 --> 00:23:05,030
+wall. So here's one
+building block, here's
+
+475
+00:23:05,030 --> 00:23:07,870
+another building block,
+so to speak, right.
+
+476
+00:23:09,330 --> 00:23:10,370
+Remember,
+
+477
+00:23:10,610 --> 00:23:12,970
+the pepto-glyngyme
+is a polymer, so it's
+
+478
+00:23:12,970 --> 00:23:15,270
+made out of pieces of
+monomers, kind of like
+
+479
+00:23:15,270 --> 00:23:16,890
+how you make a brick
+wall, and so these are
+
+480
+00:23:16,890 --> 00:23:19,090
+the pieces right there.
+So attached together,
+
+481
+00:23:19,090 --> 00:23:20,370
+so this is them,
+and they're all the
+
+482
+00:23:20,370 --> 00:23:23,130
+same, nam and nam units
+and four amino acids,
+
+483
+00:23:23,130 --> 00:23:25,950
+and so in the case of
+gram-positive cells,
+
+484
+00:23:25,990 --> 00:23:29,170
+there's five glycine
+residues that
+
+485
+00:23:29,170 --> 00:23:31,490
+connect the two
+building blocks.
+
+486
+00:23:31,490 --> 00:23:33,710
+In the case of
+gram-negatives,
+
+487
+00:23:33,870 --> 00:23:37,510
+there's just one
+solid one basically
+
+488
+00:23:37,510 --> 00:23:39,730
+one covalent bond between
+
+489
+00:23:39,730 --> 00:23:42,590
+the these amino
+acid and that one
+
+490
+00:23:42,980 --> 00:23:45,410
+that's it and so
+there's more inner
+
+491
+00:23:45,410 --> 00:23:49,210
+connection in the gram
+positive cell wall
+
+492
+00:23:50,010 --> 00:23:52,930
+preptoglycan versus
+in the gram negative
+
+493
+00:23:52,930 --> 00:23:56,330
+okay that's the basics
+of it now a couple of
+
+494
+00:23:57,190 --> 00:23:59,410
+connections here to
+things that you're
+
+495
+00:23:59,410 --> 00:24:01,650
+going to see one
+of them is like the
+
+496
+00:24:01,650 --> 00:24:04,010
+body makes an enzyme
+called lysozyme.
+
+497
+00:24:04,370 --> 00:24:07,090
+And lysozyme is
+actually able to digest,
+
+498
+00:24:07,090 --> 00:24:10,030
+it breaks the bond
+between NAM and NG,
+
+499
+00:24:10,250 --> 00:24:12,290
+okay? Enzymes
+can do that.
+
+500
+00:24:13,410 --> 00:24:16,210
+Penicillin, which,
+and you know, a lot of
+
+501
+00:24:16,210 --> 00:24:17,690
+the drugs like
+penicillin and others
+
+502
+00:24:17,690 --> 00:24:20,990
+work on inhibiting the
+synthesis of the cell
+
+503
+00:24:20,990 --> 00:24:23,150
+wall. They don't
+break the cell wall
+
+504
+00:24:23,150 --> 00:24:25,110
+because inhibited
+synthesis only enzymes
+
+505
+00:24:25,110 --> 00:24:27,750
+do. Antibiotics don't.
+This is the largest
+
+506
+00:24:27,750 --> 00:24:29,750
+group of antibiotics.
+So penicillin is
+
+507
+00:24:29,750 --> 00:24:31,250
+one of them. Penicillin
+actually prevents
+
+508
+00:24:31,250 --> 00:24:33,850
+this transpeptidation
+step. So without
+
+509
+00:24:33,850 --> 00:24:35,790
+this one here, of
+course, you cannot join
+
+510
+00:24:35,790 --> 00:24:38,010
+the units and you
+can't make the wall.
+
+511
+00:24:39,450 --> 00:24:42,050
+Vancomycin also
+prevents the nam and nag
+
+512
+00:24:42,050 --> 00:24:44,870
+unit from attaching.
+Also, you can't make the
+
+513
+00:24:44,950 --> 00:24:48,150
+monomer itself,
+the building block.
+
+514
+00:24:48,150 --> 00:24:49,810
+And so you can
+ultimately, in both
+
+515
+00:24:49,810 --> 00:24:51,630
+cases, you can make
+the cell wall, but
+
+516
+00:24:51,630 --> 00:24:53,750
+of course the approach
+are different.
+
+517
+00:24:56,850 --> 00:25:00,030
+So this is a more
+close look at how the
+
+518
+00:25:00,030 --> 00:25:03,950
+peptidoglycan is organized
+in gram-positive.
+
+519
+00:25:04,140 --> 00:25:06,450
+So you can see we
+talked about those Nav
+
+520
+00:25:06,450 --> 00:25:08,770
+and Ag units and again
+they're right here
+
+521
+00:25:09,370 --> 00:25:12,590
+and you can see the
+cross-linking shown
+
+522
+00:25:12,590 --> 00:25:15,090
+right there in yellow
+and you can see it's
+
+523
+00:25:15,090 --> 00:25:17,490
+multi-layered so this
+is like usually just
+
+524
+00:25:17,490 --> 00:25:19,210
+around like 30 layers
+here just showing
+
+525
+00:25:19,210 --> 00:25:23,170
+like four okay but
+basically this is the
+
+526
+00:25:23,170 --> 00:25:25,070
+peptidoglycan layer
+and again like i said a
+
+527
+00:25:25,070 --> 00:25:27,070
+lot of times the
+peptidoglycan layer is
+
+528
+00:25:27,070 --> 00:25:29,570
+synonymous with the
+word cell wall now one
+
+529
+00:25:29,570 --> 00:25:32,750
+more thing you see
+here in um in the gram
+
+530
+00:25:32,750 --> 00:25:34,950
+positive cell wall
+that you don't see in
+
+531
+00:25:34,950 --> 00:25:38,270
+the gram negative is
+the presence of techoic
+
+532
+00:25:38,270 --> 00:25:41,070
+acids and so think
+of this like rebar
+
+533
+00:25:41,410 --> 00:25:44,630
+so these acids go
+uh particularly
+
+534
+00:25:44,630 --> 00:25:45,810
+like this within
+the wall and
+
+535
+00:25:45,810 --> 00:25:47,220
+provide them with
+more rigidity
+
+536
+00:25:47,390 --> 00:25:51,090
+that's absent in gram
+negative so think of
+
+537
+00:25:51,090 --> 00:25:53,590
+this as more like more
+reinforcement and so
+
+538
+00:25:53,590 --> 00:25:56,150
+it's this complex
+structure multiple layers
+
+539
+00:25:56,150 --> 00:25:58,750
+having the cross links
+that they call acid
+
+540
+00:25:58,750 --> 00:26:03,230
+which allows the gram
+positive bacteria
+
+541
+00:26:03,230 --> 00:26:06,630
+to hold on to crystal
+violet longer when you
+
+542
+00:26:06,630 --> 00:26:09,150
+decolorize with alcohol
+versus gram negatives
+
+543
+00:26:09,150 --> 00:26:11,810
+of course as always
+you have to have a
+
+544
+00:26:11,810 --> 00:26:14,450
+cell membrane every
+cell has a cell membrane
+
+545
+00:26:14,450 --> 00:26:18,510
+and this right here is
+the electron microscopy
+
+546
+00:26:18,510 --> 00:26:21,210
+transmission electron
+microscopy of a
+
+547
+00:26:22,170 --> 00:26:25,270
+cell envelope of a gram
+positive showing the
+
+548
+00:26:25,270 --> 00:26:27,970
+peptidoglycan layer
+and the cell membrane
+
+549
+00:26:27,970 --> 00:26:34,130
+you know pretty nice
+detail and this is the
+
+550
+00:26:34,130 --> 00:26:36,350
+gram negative cell
+wall so it's right here
+
+551
+00:26:36,350 --> 00:26:39,310
+here's the peptidoglycan
+layer one layer
+
+552
+00:26:39,310 --> 00:26:41,990
+again nam and nag
+units and cross links
+
+553
+00:26:41,990 --> 00:26:44,010
+remember the cross link
+here is just one bond
+
+554
+00:26:44,010 --> 00:26:48,390
+it doesn't have the five
+lysine residues okay
+
+555
+00:26:48,390 --> 00:26:51,050
+and cell membrane
+just like every cell
+
+556
+00:26:51,050 --> 00:26:53,610
+has to have some
+membrane so the fact that
+
+557
+00:26:53,610 --> 00:26:57,870
+this wall is so thin
+like this gram negative
+
+558
+00:26:57,870 --> 00:27:00,210
+cells and can't really
+hold on to the crystal
+
+559
+00:27:00,210 --> 00:27:02,890
+violet much so if you
+decolorize properly
+
+560
+00:27:02,890 --> 00:27:05,050
+they use that stain
+and that's why you
+
+561
+00:27:05,050 --> 00:27:08,690
+have to counter stain
+it with um saffron now
+
+562
+00:27:08,690 --> 00:27:10,770
+one thing to a couple
+more things to note
+
+563
+00:27:10,770 --> 00:27:13,290
+here since we are looking
+at the gram negative
+
+564
+00:27:13,290 --> 00:27:16,310
+cell water of really
+big importance is
+
+565
+00:27:16,310 --> 00:27:18,290
+that in addition to
+having a cell membrane
+
+566
+00:27:18,290 --> 00:27:21,690
+which is of course
+phospholipid bilayer right
+
+567
+00:27:21,690 --> 00:27:28,070
+there's also an outer
+membrane okay so um
+
+568
+00:27:31,710 --> 00:27:34,750
+outer membrane right
+here okay so this
+
+569
+00:27:34,750 --> 00:27:37,050
+whole layer right here
+is the outer membrane
+
+570
+00:27:37,050 --> 00:27:40,310
+okay And so it has
+double membranes, one
+
+571
+00:27:40,310 --> 00:27:42,610
+cell membrane, then
+peptidoglycan, then
+
+572
+00:27:42,610 --> 00:27:44,430
+an outer membrane going
+from inside to the
+
+573
+00:27:44,430 --> 00:27:46,250
+outside. Remember,
+all this is part of
+
+574
+00:27:46,250 --> 00:27:48,470
+the cell envelope,
+okay, that terminology.
+
+575
+00:27:48,730 --> 00:27:50,230
+But what is the
+significance
+
+576
+00:27:50,230 --> 00:27:52,410
+of this outer
+membrane that is
+
+577
+00:27:52,410 --> 00:27:54,200
+found in gram
+negatives only?
+
+578
+00:27:54,450 --> 00:27:57,990
+And what is its
+composition? So for one, you
+
+579
+00:27:57,990 --> 00:28:00,280
+see that the inside
+layer is phospholipid,
+
+580
+00:28:00,280 --> 00:28:02,150
+just like the cell
+membrane, but this outside
+
+581
+00:28:02,150 --> 00:28:05,230
+layer is kind of unique.
+it's also a lipid
+
+582
+00:28:05,230 --> 00:28:09,210
+but it's a it's not
+phospholipid it's more
+
+583
+00:28:09,210 --> 00:28:11,670
+of a lipopolysaccharide
+so it's a combination
+
+584
+00:28:11,670 --> 00:28:16,590
+of lipids and sugar
+in short people refer
+
+585
+00:28:16,590 --> 00:28:20,730
+to it as LPS or
+lipopolysaccharide means
+
+586
+00:28:20,730 --> 00:28:24,350
+you look at this LPS
+molecule you'll see that
+
+587
+00:28:24,350 --> 00:28:26,190
+now we'll go into
+that a little bit more
+
+588
+00:28:26,190 --> 00:28:28,570
+but basically it's composed
+of three components
+
+589
+00:28:28,570 --> 00:28:32,410
+a lipid A so that's
+the lipid part and
+
+590
+00:28:32,410 --> 00:28:35,010
+then there's a sugar part
+the core polysaccharides
+
+591
+00:28:35,010 --> 00:28:39,210
+and then this side
+chains that side
+
+592
+00:28:39,210 --> 00:28:42,050
+chain is called the
+all specific side chain
+
+593
+00:28:42,050 --> 00:28:44,830
+and that usually can
+be either long or short
+
+594
+00:28:44,830 --> 00:28:46,930
+depending on the brand
+negative so you can
+
+595
+00:28:46,930 --> 00:28:51,230
+have a oligosaccharide
+versus just a polysaccharide
+
+596
+00:28:51,230 --> 00:28:53,100
+so that just depends
+on the species
+
+597
+00:28:53,100 --> 00:28:56,370
+of bacteria we're
+thinking about and so So
+
+598
+00:28:56,370 --> 00:29:00,990
+this double layer in
+gram negatives, and also
+
+599
+00:29:00,990 --> 00:29:04,890
+this now creates a
+layer between the cell
+
+600
+00:29:04,890 --> 00:29:07,530
+membrane and the outer
+membrane, this layer
+
+601
+00:29:07,530 --> 00:29:10,470
+right here, which is
+known as the periplasm,
+
+602
+00:29:10,490 --> 00:29:14,210
+which basically houses
+the cell wall. Now,
+
+603
+00:29:14,210 --> 00:29:16,870
+the periplasm, you look
+at it here, it almost
+
+604
+00:29:16,870 --> 00:29:18,610
+looks empty, but it's
+not really empty.
+
+605
+00:29:18,610 --> 00:29:20,950
+It's a gel-like layer,
+which contains all the
+
+606
+00:29:20,950 --> 00:29:22,850
+molecules and the
+proteins that move in and
+
+607
+00:29:22,850 --> 00:29:25,350
+out of the cell. So
+this is a real layer.
+
+608
+00:29:25,490 --> 00:29:29,210
+You don't see the
+periplasm, if any, in
+
+609
+00:29:29,210 --> 00:29:30,950
+gram-positives.
+And of course, gram
+
+610
+00:29:30,950 --> 00:29:33,410
+-positives don't have
+an outer membrane. So
+
+611
+00:29:33,410 --> 00:29:34,610
+that's, again, one
+of the extinguished
+
+612
+00:29:34,610 --> 00:29:36,950
+features of gram
+-negative. And we'll talk a
+
+613
+00:29:36,950 --> 00:29:39,850
+little bit about this
+LPS molecule. This
+
+614
+00:29:39,850 --> 00:29:41,630
+is not just the
+structural thing that
+
+615
+00:29:41,630 --> 00:29:43,830
+gram negatives have,
+but this has very big
+
+616
+00:29:43,830 --> 00:29:46,110
+importance from a
+clinical standpoint.
+
+617
+00:29:46,410 --> 00:29:48,370
+Sometimes this molecule
+is known as the
+
+618
+00:29:48,370 --> 00:29:52,650
+endotoxin because it
+can create a, it's a
+
+619
+00:29:52,650 --> 00:29:54,590
+super antigen, so
+it can create a huge
+
+620
+00:29:54,590 --> 00:29:57,810
+immunologic reaction
+in the body as a result
+
+621
+00:29:57,810 --> 00:29:59,490
+of a gram negative
+infection. So we'll
+
+622
+00:29:59,490 --> 00:30:03,170
+discuss LPS and the
+clinical significant LPS
+
+623
+00:30:03,170 --> 00:30:07,270
+in the next few
+slides. But this is the
+
+624
+00:30:08,430 --> 00:30:10,410
+important structure
+in different
+
+625
+00:30:10,410 --> 00:30:13,670
+parts of the gram
+-negative cell.
+
+626
+00:30:15,010 --> 00:30:17,970
+So again, here reiterating
+the components of
+
+627
+00:30:17,970 --> 00:30:21,450
+the LPS layer, which
+is also known as the
+
+628
+00:30:21,570 --> 00:30:23,570
+endotoxin. The endotoxin,
+because it's an
+
+629
+00:30:23,570 --> 00:30:26,670
+internal, it's a toxin
+not released. Exotoxin
+
+630
+00:30:26,670 --> 00:30:28,870
+are actually produced
+and actively produced
+
+631
+00:30:28,870 --> 00:30:31,170
+released from the cell
+this is actually part
+
+632
+00:30:31,170 --> 00:30:33,110
+of its structure so
+the influx is not
+
+633
+00:30:33,110 --> 00:30:37,670
+actively released but if
+the cells are lysed or
+
+634
+00:30:37,670 --> 00:30:40,430
+broken down then these
+molecules start um
+
+635
+00:30:40,430 --> 00:30:43,950
+you know breaking off
+and going into solution
+
+636
+00:30:44,090 --> 00:30:46,630
+and and they can cause
+a lot of trouble and
+
+637
+00:30:46,630 --> 00:30:49,890
+again going back to uh
+the structure of the
+
+638
+00:30:49,890 --> 00:30:54,030
+lpsd components the
+lipid A, the core
+
+639
+00:30:55,270 --> 00:30:57,550
+oligosaccharide or
+polysaccharide, and then the
+
+640
+00:30:57,550 --> 00:31:00,670
+oocyte antigen, which
+can differ in length.
+
+641
+00:31:00,830 --> 00:31:03,210
+Now when people try to
+dissect and see which
+
+642
+00:31:03,210 --> 00:31:04,910
+part of this molecule
+is the one that's
+
+643
+00:31:04,910 --> 00:31:08,430
+causing the endotoxicity,
+they realize it's
+
+644
+00:31:08,430 --> 00:31:10,190
+the lipid A. So if
+you just take lipid
+
+645
+00:31:10,190 --> 00:31:12,930
+A by itself, inject
+it into mice, you'll
+
+646
+00:31:12,930 --> 00:31:15,090
+kill it. But if you take
+those other components,
+
+647
+00:31:15,090 --> 00:31:16,910
+nothing will happen.
+So it's really
+
+648
+00:31:16,910 --> 00:31:19,690
+the toxicity is in
+the lipid. And what
+
+649
+00:31:19,690 --> 00:31:22,030
+basically people figured
+out is that the lipid
+
+650
+00:31:22,030 --> 00:31:25,890
+A can bind to many
+T lymphocytes in the
+
+651
+00:31:25,890 --> 00:31:28,730
+body and activates
+them or activates a lot
+
+652
+00:31:28,730 --> 00:31:30,550
+of T lymphocytes something
+like five percent
+
+653
+00:31:30,550 --> 00:31:32,550
+of the total number
+of lymphocytes which
+
+654
+00:31:32,550 --> 00:31:35,370
+is huge and that causes
+a lot of cytokines
+
+655
+00:31:35,370 --> 00:31:37,350
+to be produced which
+cause a lot of tissue
+
+656
+00:31:37,350 --> 00:31:40,230
+damage and so on and
+so people can die
+
+657
+00:31:40,230 --> 00:31:44,150
+from of course
+endotoxemia pretty rapidly
+
+658
+00:31:44,150 --> 00:31:46,610
+so and this is important
+when you're looking
+
+659
+00:31:46,610 --> 00:31:49,090
+at a gram negative
+infection especially
+
+660
+00:31:49,090 --> 00:31:52,110
+a massive type of gram
+negative infection.
+
+661
+00:31:54,690 --> 00:31:56,970
+This is a schematic
+presentation showing
+
+662
+00:31:56,970 --> 00:32:00,130
+how the endotoxin lipid
+A component, what it
+
+663
+00:32:00,130 --> 00:32:02,280
+does in the body,
+so it can activate
+
+664
+00:32:02,280 --> 00:32:05,430
+macrophages through
+toll-like receptors. And
+
+665
+00:32:05,430 --> 00:32:06,710
+again, if you're not
+familiar with some of
+
+666
+00:32:06,710 --> 00:32:09,210
+this terminology, we
+will discuss these in
+
+667
+00:32:09,210 --> 00:32:13,430
+the upcoming immunology
+lectures. It can
+
+668
+00:32:13,430 --> 00:32:15,350
+also activate
+complements, it can also
+
+669
+00:32:15,350 --> 00:32:19,130
+activate a tissue factor
+resulting in the release
+
+670
+00:32:19,130 --> 00:32:22,130
+here of a lot of
+cytokines IL-1, IL-6,
+
+671
+00:32:22,350 --> 00:32:24,430
+tumor necrosis
+factor alpha, nitric
+
+672
+00:32:24,430 --> 00:32:26,950
+oxide, it can cause
+fever, hypertension.
+
+673
+00:32:28,010 --> 00:32:30,690
+C3A, C5A are a
+complement component
+
+674
+00:32:30,690 --> 00:32:33,370
+which can really
+result in edema
+
+675
+00:32:33,370 --> 00:32:35,450
+and bringing
+neutrophils to the
+
+676
+00:32:35,450 --> 00:32:37,230
+sites, whatever
+they're released.
+
+677
+00:32:37,710 --> 00:32:41,720
+Tissue factor activation
+can cause the use
+
+678
+00:32:41,870 --> 00:32:44,610
+up of the coagulation
+cascade. Eventually
+
+679
+00:32:44,610 --> 00:32:47,010
+it ends up with what's
+called disseminated
+
+680
+00:32:47,010 --> 00:32:49,920
+intravascular coagulation.
+There's a lot of
+
+681
+00:32:49,920 --> 00:32:52,230
+clotting which then
+use up all the clotting
+
+682
+00:32:52,230 --> 00:32:54,290
+cascade which then
+results in hemorrhage.
+
+683
+00:32:54,630 --> 00:32:55,370
+So I
+
+684
+00:33:14,390 --> 00:33:16,530
+think some gear here
+from discussing the
+
+685
+00:33:16,530 --> 00:33:19,070
+cell walls of bacteria.
+Now we're talking
+
+686
+00:33:19,070 --> 00:33:21,230
+about another layer
+called the capsule. So
+
+687
+00:33:21,230 --> 00:33:23,890
+if the capsule is
+present, and keep in mind
+
+688
+00:33:23,890 --> 00:33:26,510
+capsules are not
+present in all bacteria.
+
+689
+00:33:26,510 --> 00:33:28,510
+In fact very few
+bacteria have capsules.
+
+690
+00:33:29,810 --> 00:33:31,770
+And even strains
+within the same
+
+691
+00:33:31,770 --> 00:33:33,530
+bacteria can have
+them now. For example,
+
+692
+00:33:33,530 --> 00:33:35,590
+some strains of
+streptococcin may
+
+693
+00:33:35,590 --> 00:33:37,090
+have capsules, some
+of them may not.
+
+694
+00:33:37,310 --> 00:33:39,090
+But if present,
+that would be
+
+695
+00:33:39,090 --> 00:33:40,450
+almost the
+outermost layer.
+
+696
+00:33:40,610 --> 00:33:41,810
+Remember, this is also
+
+697
+00:33:41,810 --> 00:33:43,050
+part of this envelope.
+
+698
+00:33:43,270 --> 00:33:45,750
+The capsule is a pretty
+large area, as you
+
+699
+00:33:45,750 --> 00:33:48,250
+can see right here.
+So if you look here,
+
+700
+00:33:50,800 --> 00:33:53,450
+right there, this is
+the organism. So it's
+
+701
+00:33:53,450 --> 00:33:55,710
+a spherical right
+there so this is a gram
+
+702
+00:33:55,710 --> 00:33:58,410
+positive okay so this
+is like the bacteria
+
+703
+00:33:58,410 --> 00:34:02,750
+itself and this halo
+around it that's where
+
+704
+00:34:02,750 --> 00:34:05,590
+the capsule is so
+typically what happens
+
+705
+00:34:05,590 --> 00:34:08,410
+this is a capsule stain
+and what the capsule
+
+706
+00:34:08,410 --> 00:34:10,470
+stain does it just
+basically stains the
+
+707
+00:34:10,470 --> 00:34:12,990
+background and stains
+the bacteria but the
+
+708
+00:34:12,990 --> 00:34:15,770
+capsule dissolves and
+so you see where it
+
+709
+00:34:15,770 --> 00:34:19,570
+used to be okay so
+here is the like border
+
+710
+00:34:19,570 --> 00:34:21,890
+mind of the capsule
+right there. One thing
+
+711
+00:34:21,890 --> 00:34:24,850
+I want to just
+immediately notice is how
+
+712
+00:34:24,850 --> 00:34:27,290
+large the capsule is
+relative the size of
+
+713
+00:34:27,290 --> 00:34:29,850
+the bacterium itself.
+So this is obviously
+
+714
+00:34:29,850 --> 00:34:31,950
+a great investment
+on the part of the
+
+715
+00:34:31,950 --> 00:34:34,400
+organism to make such
+a big large structure.
+
+716
+00:34:35,150 --> 00:34:36,750
+Mostly the
+capsule is made
+
+717
+00:34:36,750 --> 00:34:37,720
+out of polysaccharide.
+
+718
+00:34:38,570 --> 00:34:40,770
+Some capsules have
+some protein components
+
+719
+00:34:40,770 --> 00:34:42,830
+but they're largely
+sugary in nature.
+
+720
+00:34:44,210 --> 00:34:47,990
+but they can end up
+with a huge advantage
+
+721
+00:34:47,990 --> 00:34:50,030
+to the organism
+unfortunately not so much
+
+722
+00:34:50,030 --> 00:34:52,250
+of a good advantage
+for us as a host but
+
+723
+00:34:52,250 --> 00:34:54,070
+from an organism
+standpoint from bacterium
+
+724
+00:34:54,070 --> 00:34:57,210
+it's a it's very
+beneficial to have capsules
+
+725
+00:34:57,580 --> 00:34:59,610
+one of the earliest
+experiments I read
+
+726
+00:34:59,610 --> 00:35:02,390
+down once in the
+beginning turn of 19th
+
+727
+00:35:02,390 --> 00:35:04,690
+century by a guy called
+Griffith and what he
+
+728
+00:35:04,690 --> 00:35:06,270
+did he took capsules
+and inject them into
+
+729
+00:35:06,270 --> 00:35:08,870
+mice and the virus and
+mice died now he took
+
+730
+00:35:08,870 --> 00:35:11,410
+basically streptococci
+in capsules on the
+
+731
+00:35:11,410 --> 00:35:12,750
+other hand, if you
+take the same strain
+
+732
+00:35:12,750 --> 00:35:15,270
+of septic oxide, inject
+it into mice that
+
+733
+00:35:15,270 --> 00:35:18,010
+doesn't have capsules,
+the mice live fine.
+
+734
+00:35:18,490 --> 00:35:20,910
+So clearly the capsule
+helped the mice,
+
+735
+00:35:20,910 --> 00:35:22,410
+sorry not helped
+the mice, helped the
+
+736
+00:35:22,410 --> 00:35:24,770
+bacterium, the septic
+oxide in this case,
+
+737
+00:35:25,620 --> 00:35:29,010
+infect the host,
+in this case the
+
+738
+00:35:29,010 --> 00:35:31,110
+mice, very effectively
+and kill it.
+
+739
+00:35:31,380 --> 00:35:33,230
+So what do capsules
+do? So one of
+
+740
+00:35:33,230 --> 00:35:35,190
+the simplest things
+they do, at least
+
+741
+00:35:35,190 --> 00:35:37,330
+initially, they
+allow the bacterium
+
+742
+00:35:37,330 --> 00:35:39,330
+to stick to surfaces
+and they also
+
+743
+00:35:39,330 --> 00:35:40,730
+allow them to stick
+to each other.
+
+744
+00:35:40,950 --> 00:35:43,390
+So they can stick
+to things like unary
+
+745
+00:35:43,390 --> 00:35:46,390
+catheters, indwelling
+devices, anything
+
+746
+00:35:46,390 --> 00:35:50,200
+that's a foreign body
+in our body would allow
+
+747
+00:35:50,200 --> 00:35:53,090
+the bacterium to
+stick to them. They're
+
+748
+00:35:53,090 --> 00:35:56,070
+very difficult then
+to treat or remove
+
+749
+00:35:56,070 --> 00:36:02,070
+without actually removing
+the foreign object
+
+750
+00:36:02,070 --> 00:36:04,530
+itself. So if this
+was a replacement hip
+
+751
+00:36:04,530 --> 00:36:05,930
+and somebody gets the
+infection then you
+
+752
+00:36:05,930 --> 00:36:08,450
+have to either go in
+there try to flush
+
+753
+00:36:10,110 --> 00:36:12,210
+that prosthetic
+itself or you have to
+
+754
+00:36:12,210 --> 00:36:13,750
+remove the whole
+thing and restart the
+
+755
+00:36:13,750 --> 00:36:15,690
+operation, which can be
+difficult. And in some
+
+756
+00:36:15,690 --> 00:36:17,270
+cases you can't, so
+you just keep giving
+
+757
+00:36:17,270 --> 00:36:18,870
+the people antibiotic
+for the rest of
+
+758
+00:36:18,870 --> 00:36:22,550
+their life to keep the
+infection in check.
+
+759
+00:36:22,790 --> 00:36:25,570
+So capsules, when they
+bind to each other
+
+760
+00:36:25,570 --> 00:36:28,110
+and stick to each
+other, they form what's
+
+761
+00:36:28,110 --> 00:36:30,410
+called a biological
+film or a biofilm.
+
+762
+00:36:30,630 --> 00:36:32,890
+So this biofilm
+structure, which we find
+
+763
+00:36:32,890 --> 00:36:35,450
+by the way on the
+surface of our teeth,
+
+764
+00:36:35,610 --> 00:36:37,970
+and so if you feel
+your teeth and you feel
+
+765
+00:36:37,970 --> 00:36:39,370
+they're slippery and
+that's why we have
+
+766
+00:36:39,370 --> 00:36:40,960
+to like brush them
+all the time that's
+
+767
+00:36:40,960 --> 00:36:43,050
+actually made out of
+a lot of capsules and
+
+768
+00:36:43,050 --> 00:36:44,650
+so the bacteria use
+the capsules to stick
+
+769
+00:36:44,650 --> 00:36:46,990
+to our teeth when they
+form this community
+
+770
+00:36:47,050 --> 00:36:52,370
+of microbes on our
+teeth and other places
+
+771
+00:36:52,370 --> 00:36:54,380
+too so it's obviously
+very advantageous.
+
+772
+00:36:55,370 --> 00:36:58,370
+Capsules also make
+it more difficult for
+
+773
+00:36:58,370 --> 00:37:02,230
+antibodies to act it
+also makes the bacteria
+
+774
+00:37:02,230 --> 00:37:06,410
+more resistant to
+complement so I'll try
+
+775
+00:37:06,410 --> 00:37:08,650
+to include those in
+the notes sections for
+
+776
+00:37:08,650 --> 00:37:11,430
+you in the slide so
+resistant to antibodies
+
+777
+00:37:12,000 --> 00:37:14,970
+highly resistant to
+complement and we'll
+
+778
+00:37:14,970 --> 00:37:16,570
+talk about complement
+but what complement
+
+779
+00:37:16,570 --> 00:37:19,850
+does it basically pokes
+holes into the bacterial
+
+780
+00:37:19,850 --> 00:37:22,050
+cell wall or cell
+sorry cell membrane
+
+781
+00:37:22,050 --> 00:37:24,130
+but of course if the
+capsule is there it's
+
+782
+00:37:24,130 --> 00:37:27,350
+like having a big armor
+so it prevents this
+
+783
+00:37:27,350 --> 00:37:29,810
+process from taking
+place all that does
+
+784
+00:37:29,810 --> 00:37:33,130
+it makes the bacterium
+have a kind of a growing
+
+785
+00:37:33,130 --> 00:37:35,010
+edge they have a head
+start because you
+
+786
+00:37:35,010 --> 00:37:37,090
+can't kill them early
+and so they grow in
+
+787
+00:37:37,090 --> 00:37:39,550
+higher numbers so
+it's very advantageous
+
+788
+00:37:39,550 --> 00:37:41,790
+for the bacterium to
+have a capsule definitely
+
+789
+00:37:41,790 --> 00:37:44,170
+not from the host
+they're also very
+
+790
+00:37:44,170 --> 00:37:47,290
+difficult to clear from
+our body the spleen
+
+791
+00:37:47,290 --> 00:37:50,130
+plays a very big role
+in clearing capsulated
+
+792
+00:37:50,130 --> 00:37:53,070
+organisms and so if
+somebody has a sphenectomy,
+
+793
+00:37:53,070 --> 00:37:55,010
+they become extremely
+susceptible to
+
+794
+00:37:55,010 --> 00:37:57,130
+capsulite organisms
+and highly vulnerable.
+
+795
+00:37:57,390 --> 00:37:59,150
+So before we
+remove somebody's
+
+796
+00:37:59,150 --> 00:38:00,870
+spleen, ideally
+what you want to do
+
+797
+00:38:00,870 --> 00:38:02,290
+is make sure you
+vaccinate them
+
+798
+00:38:02,730 --> 00:38:04,830
+against a lot of
+pathogens. They
+
+799
+00:38:04,830 --> 00:38:06,510
+may have capsules
+because then
+
+800
+00:38:06,510 --> 00:38:07,670
+they will struggle
+with that.
+
+801
+00:38:07,870 --> 00:38:08,850
+Okay, we
+
+802
+00:38:22,920 --> 00:38:29,300
+discussed the gram stem
+and we talked about
+
+803
+00:38:29,300 --> 00:38:30,960
+how the gram stem
+can divide bacteria
+
+804
+00:38:30,960 --> 00:38:32,760
+into gram negative or
+gram positive. So for
+
+805
+00:38:32,760 --> 00:38:34,740
+one, a couple of
+things let's talk about
+
+806
+00:38:34,740 --> 00:38:37,540
+that. Not all bacteria
+are either gram
+
+807
+00:38:37,540 --> 00:38:39,520
+-positive or gram-negative.
+First of all, the
+
+808
+00:38:39,520 --> 00:38:41,460
+gram- positivity and
+gram-negativity is
+
+809
+00:38:41,460 --> 00:38:43,900
+based on the presence
+of the cell wall but
+
+810
+00:38:43,900 --> 00:38:46,510
+there are some bacteria
+like mycoplasmas
+
+811
+00:38:46,510 --> 00:38:49,580
+and those are called
+wall-less bacteria.
+
+812
+00:38:49,720 --> 00:38:52,080
+They're an exception
+to the rule they
+
+813
+00:38:52,080 --> 00:38:54,680
+don't have a cell
+wall and as such
+
+814
+00:38:54,760 --> 00:38:57,200
+they cannot stain
+by the gram stain.
+
+815
+00:38:57,200 --> 00:39:00,080
+So mycoplasmas
+are not considered
+
+816
+00:39:01,360 --> 00:39:05,040
+either gram-negative
+nor gram-positives.
+
+817
+00:39:05,440 --> 00:39:07,200
+So they are wall-less.
+
+818
+00:39:09,140 --> 00:39:12,500
+So one important aspect
+of this is you really
+
+819
+00:39:12,500 --> 00:39:15,880
+cannot treat
+mycoplasmas with like
+
+820
+00:39:15,970 --> 00:39:18,360
+penicillin or antibiotics
+that target a cell wall
+
+821
+00:39:18,360 --> 00:39:19,760
+because they don't
+even have a cell wall.
+
+822
+00:39:20,220 --> 00:39:23,640
+Mycoplasma, the
+most pathogenic one
+
+823
+00:39:23,640 --> 00:39:26,260
+among mycoplasmas,
+mycoplasma pneumoniae,
+
+824
+00:39:26,260 --> 00:39:27,960
+which causes walking
+pneumonia so if
+
+825
+00:39:27,960 --> 00:39:29,400
+somebody ever had
+walking pneumonia
+
+826
+00:39:29,400 --> 00:39:32,440
+this is the organ
+that causes that okay
+
+827
+00:39:32,860 --> 00:39:37,400
+um another aspect of
+the gram stain so what
+
+828
+00:39:37,400 --> 00:39:39,440
+happens if you have
+an organism let's say
+
+829
+00:39:39,440 --> 00:39:46,260
+like mycobacteria which
+in mycobacteria is
+
+830
+00:39:46,260 --> 00:39:49,400
+a pathogenic genus
+you can have like
+
+831
+00:39:49,400 --> 00:39:51,180
+mycobacterium tuberculosis
+so that's the one that
+
+832
+00:39:51,180 --> 00:39:55,160
+causes uh tb mycobacterium
+avium mycobacterium
+
+833
+00:39:55,160 --> 00:39:57,220
+lepre that causes
+leprosy. So this
+
+834
+00:39:57,220 --> 00:40:02,260
+is kind of an interesting
+genus. It's very
+
+835
+00:40:02,260 --> 00:40:04,140
+important, highly
+important medically, so to
+
+836
+00:40:04,140 --> 00:40:06,420
+speak, especially with
+tuberculosis being
+
+837
+00:40:06,420 --> 00:40:09,280
+one of the top three
+killers in the world
+
+838
+00:40:09,280 --> 00:40:11,260
+still and actually the
+most common disease
+
+839
+00:40:11,260 --> 00:40:14,080
+worldwide with one
+-third of the population
+
+840
+00:40:14,620 --> 00:40:17,080
+harbor mycobacteria
+to date.
+
+841
+00:40:17,600 --> 00:40:20,000
+So, but mycobacteria
+have a thick cell
+
+842
+00:40:20,000 --> 00:40:21,980
+wall, but if you try
+to stain them with the
+
+843
+00:40:22,110 --> 00:40:24,560
+gram stain, they will
+not stain. In other
+
+844
+00:40:24,560 --> 00:40:26,100
+words, they won't
+stain. Neither crystal
+
+845
+00:40:26,100 --> 00:40:28,920
+violet no one would
+saprona they would be
+
+846
+00:40:28,920 --> 00:40:31,200
+colorless or you
+actually wouldn't see it
+
+847
+00:40:31,400 --> 00:40:33,280
+and so if they don't
+stain with the gram
+
+848
+00:40:33,280 --> 00:40:36,440
+stain but they do have
+a thick cell wall so
+
+849
+00:40:36,440 --> 00:40:38,520
+would they still be
+considered gram positive
+
+850
+00:40:38,520 --> 00:40:42,920
+and so the answer to
+that yes and so gram
+
+851
+00:40:42,920 --> 00:40:44,860
+positivity and gram
+negativity is really
+
+852
+00:40:44,860 --> 00:40:48,780
+more governed by the
+structure now since we
+
+853
+00:40:48,780 --> 00:40:50,340
+have the structure
+and we can look at the
+
+854
+00:40:50,340 --> 00:40:52,080
+electron microscope
+and you can see if a
+
+855
+00:40:52,080 --> 00:40:55,490
+bacterium has a wall and
+if it's thick or thin
+
+856
+00:40:55,490 --> 00:40:57,620
+versus just simply go
+on by this thing so
+
+857
+00:40:57,620 --> 00:40:59,560
+mycobacteria are
+considered gram positive
+
+858
+00:40:59,560 --> 00:41:02,580
+even though they don't
+really stain with the
+
+859
+00:41:02,580 --> 00:41:04,660
+gram stain and the
+reason they don't stain
+
+860
+00:41:04,660 --> 00:41:06,540
+with the gram stain
+is because they have
+
+861
+00:41:06,660 --> 00:41:09,350
+an acid in their cell
+
+862
+00:41:09,820 --> 00:41:11,740
+wall called mycolic acid
+
+863
+00:41:13,520 --> 00:41:15,280
+that's where they
+get their name
+
+864
+00:41:15,280 --> 00:41:20,400
+mycobacteria
+mycolic this is an l
+
+865
+00:41:24,800 --> 00:41:27,800
+acid. I can't seem to
+be able to insert a
+
+866
+00:41:27,800 --> 00:41:32,980
+text here to type. So
+mycolic acid. So mycolic
+
+867
+00:41:32,980 --> 00:41:36,000
+acids are unique to
+mycobacteria. What they
+
+868
+00:41:36,000 --> 00:41:38,080
+do is once they,
+because they're part of
+
+869
+00:41:38,080 --> 00:41:39,840
+their cell wall, it
+makes the cell wall very
+
+870
+00:41:39,840 --> 00:41:43,260
+impenetrable. And so
+the only way to stain
+
+871
+00:41:43,260 --> 00:41:45,560
+mycobacteria to steam
+with the microscope is
+
+872
+00:41:45,560 --> 00:41:49,820
+you need to actually
+use heat, a lot of
+
+873
+00:41:49,820 --> 00:41:52,040
+heat to drive the stain
+in. And so there's a
+
+874
+00:41:52,040 --> 00:41:54,780
+special stain for
+staining organisms like
+
+875
+00:41:54,780 --> 00:41:57,880
+mycobacteria called the
+acid fast stain which
+
+876
+00:41:57,880 --> 00:41:59,920
+is a very important
+thing i will discuss that
+
+877
+00:41:59,920 --> 00:42:03,940
+next in our lecture
+which actually allows
+
+878
+00:42:03,940 --> 00:42:05,920
+us to identify
+mycobacteria because again
+
+879
+00:42:05,920 --> 00:42:08,040
+they're unique they
+have mycolic acid they
+
+880
+00:42:08,040 --> 00:42:10,080
+don't stain with the
+gram stain but hey since
+
+881
+00:42:10,080 --> 00:42:11,680
+that's a unique
+property why not use it
+
+882
+00:42:11,680 --> 00:42:14,180
+against them right and
+so we use the acid fast
+
+883
+00:42:14,180 --> 00:42:17,420
+stain to identify
+mycobacteria and that stain
+
+884
+00:42:17,420 --> 00:42:19,550
+we'll talk about more
+in more detail okay
+
+885
+00:42:19,550 --> 00:42:22,170
+But I want you to make
+sure you don't confuse
+
+886
+00:42:22,170 --> 00:42:25,220
+mycobacteria with
+mycoplasma. They're
+
+887
+00:42:25,220 --> 00:42:27,320
+different, very different,
+different genesis.
+
+888
+00:42:27,820 --> 00:42:29,360
+Mycoplasmas
+are wall-less,
+
+889
+00:42:30,800 --> 00:42:34,680
+they don't have cell
+walls at all, they're
+
+890
+00:42:34,680 --> 00:42:36,000
+not either gram
+-positive, nor gram
+
+891
+00:42:36,000 --> 00:42:38,340
+-negative, and they
+cause walking pneumonia.
+
+892
+00:42:38,340 --> 00:42:40,000
+While mycobacteria
+is a very important
+
+893
+00:42:40,000 --> 00:42:42,380
+medical species, they
+do have a wall, it's
+
+894
+00:42:42,380 --> 00:42:44,340
+a thick one, so they're
+gram-positive, but
+
+895
+00:42:44,340 --> 00:42:46,780
+they also have mycolic
+acids in it and
+
+896
+00:42:46,780 --> 00:42:49,960
+you know examples of
+this disease causing
+
+897
+00:42:49,960 --> 00:42:52,940
+is like tuberculosis,
+leprosy and so on.
+
+898
+00:42:54,240 --> 00:42:57,220
+Other organisms are
+very difficult to
+
+899
+00:42:57,220 --> 00:43:01,600
+stain is Tryponema.
+Tryponema pallidum is
+
+900
+00:43:01,600 --> 00:43:04,230
+the organ that causes
+the disease ********
+
+901
+00:43:04,230 --> 00:43:06,940
+and Tryponema
+pallidum is a very
+
+902
+00:43:06,940 --> 00:43:09,380
+fastidious organism. The
+word fastidious means
+
+903
+00:43:09,380 --> 00:43:11,360
+very difficult to
+grow. It doesn't like
+
+904
+00:43:11,360 --> 00:43:13,770
+to grow it doesn't
+like the stain it's
+
+905
+00:43:13,770 --> 00:43:16,780
+just a really peculiar
+one and so again
+
+906
+00:43:16,780 --> 00:43:18,880
+they won't show up
+very well with the gram
+
+907
+00:43:18,880 --> 00:43:21,280
+stain and same
+thing with all these
+
+908
+00:43:21,280 --> 00:43:25,780
+legionella rickettsia
+chlamydia bartonella
+
+909
+00:43:26,100 --> 00:43:28,460
+and lichia anaplasma
+species these
+
+910
+00:43:28,460 --> 00:43:30,460
+are very difficult
+the reason also
+
+911
+00:43:30,460 --> 00:43:32,520
+those particular
+group is that way
+
+912
+00:43:32,520 --> 00:43:34,390
+because a lot of these
+are intracellular
+
+913
+00:43:34,390 --> 00:43:38,680
+bacteria so they
+grow inside cells
+
+914
+00:43:43,470 --> 00:43:49,370
+okay so try to try
+to stain a bacterium
+
+915
+00:43:49,370 --> 00:43:51,430
+that's actually inside
+another cell that'll be
+
+916
+00:43:51,430 --> 00:43:53,910
+very difficult and so
+these things these do
+
+917
+00:43:53,910 --> 00:43:56,450
+not stand very well
+with the grafts then
+
+918
+00:43:56,450 --> 00:43:59,090
+okay but you know they
+are they cause a lot
+
+919
+00:43:59,090 --> 00:44:01,110
+of disease Legionella
+nemophilia causes
+
+920
+00:44:01,110 --> 00:44:05,390
+pneumonia rickettsia
+it's a genus that causes
+
+921
+00:44:05,390 --> 00:44:07,590
+depending on the type
+of rickettsia it could
+
+922
+00:44:07,590 --> 00:44:09,450
+cause anything from like
+typhus to some other
+
+923
+00:44:09,450 --> 00:44:11,830
+diseases chlamydia
+causes ********
+
+924
+00:44:11,830 --> 00:44:15,060
+transmitted disease and
+the list goes on and on
+
+925
+00:44:15,060 --> 00:44:17,170
+okay i'm going to go
+with every single one of
+
+926
+00:44:17,170 --> 00:44:19,810
+them but suffice to
+say that these are all
+
+927
+00:44:19,810 --> 00:44:21,910
+grown inside our cells
+so they're difficult
+
+928
+00:44:21,910 --> 00:44:24,090
+to stand by the gram
+stain and they are
+
+929
+00:44:24,090 --> 00:44:28,150
+what you would consider
+an exception to the
+
+930
+00:44:28,150 --> 00:44:30,310
+gram stain nomenclature
+it's a very small
+
+931
+00:44:30,310 --> 00:44:32,550
+exception we can put
+it on one slide that we
+
+932
+00:44:32,550 --> 00:44:35,130
+have millions of bacteria
+so most of them fall
+
+933
+00:44:35,130 --> 00:44:37,090
+under the gram positive
+or gram negative
+
+934
+00:44:37,470 --> 00:44:38,870
+nomenclature. Again, with
+
+935
+00:44:38,870 --> 00:44:39,810
+the exception of this.
+
+936
+00:44:42,250 --> 00:44:46,470
+So we just discussed
+mycobacteria and we
+
+937
+00:44:46,470 --> 00:44:50,210
+talked about how
+mycobacteria have mycolic
+
+938
+00:44:50,210 --> 00:44:54,390
+acids in their cell
+wall and that prevents
+
+939
+00:44:54,390 --> 00:44:56,770
+them from being stained
+with the acid-fast
+
+940
+00:44:56,770 --> 00:44:58,250
+stain, but then we
+said they can actually
+
+941
+00:44:58,250 --> 00:45:00,810
+stain with another
+stain called the acid
+
+942
+00:45:00,810 --> 00:45:03,070
+-fast stain. And so
+let's talk about the
+
+943
+00:45:03,070 --> 00:45:05,470
+acid-fast stain and
+other stains and talk
+
+944
+00:45:05,470 --> 00:45:07,850
+about these organisms
+and how that works so
+
+945
+00:45:07,850 --> 00:45:10,190
+the acid fast stain
+the classic acid fast
+
+946
+00:45:10,190 --> 00:45:13,690
+stain was developed
+by two bacteriologists
+
+947
+00:45:13,690 --> 00:45:15,810
+and so it's called
+the zeal nelson stain
+
+948
+00:45:15,810 --> 00:45:19,110
+um it's a really old
+stain just as old as
+
+949
+00:45:19,110 --> 00:45:21,670
+the graham stain and
+the way it works like
+
+950
+00:45:21,670 --> 00:45:24,490
+i told you um it you
+know you have to use
+
+951
+00:45:24,490 --> 00:45:28,470
+heat to uh to drive
+the stain into the
+
+952
+00:45:28,470 --> 00:45:30,870
+mycobacteria but then
+once they pick it up so
+
+953
+00:45:30,870 --> 00:45:32,970
+you to drive it use
+heat and a lot of heat
+
+954
+00:45:32,970 --> 00:45:35,030
+for several minutes
+to get that stain in
+
+955
+00:45:36,810 --> 00:45:39,650
+and so usually use
+carbofusion as the
+
+956
+00:45:39,650 --> 00:45:42,550
+primary stain and you
+use heat to drive it
+
+957
+00:45:42,550 --> 00:45:46,110
+in and then once it
+picks up the stain the
+
+958
+00:45:46,110 --> 00:45:48,310
+macrobacteria they're
+very difficult to
+
+959
+00:45:50,490 --> 00:45:53,130
+you know to let go
+of it and so now even
+
+960
+00:45:53,130 --> 00:45:56,510
+if you use a decolorizer
+like acid alcohol
+
+961
+00:45:56,510 --> 00:45:58,410
+so it's a combination
+of acid and alcohol
+
+962
+00:45:58,410 --> 00:46:01,130
+which is a very powerful
+decolorizer they
+
+963
+00:46:01,130 --> 00:46:04,250
+won't lose that stain
+very easily okay and
+
+964
+00:46:04,250 --> 00:46:06,590
+so then you counter
+stain anything else in
+
+965
+00:46:06,590 --> 00:46:10,370
+the sample with methylene
+blue and so here
+
+966
+00:46:10,370 --> 00:46:12,210
+it's almost like the
+opposite colors of
+
+967
+00:46:12,210 --> 00:46:13,690
+the graham stain right
+because what you're
+
+968
+00:46:13,690 --> 00:46:16,290
+looking for ends up
+being pink or red
+
+969
+00:46:16,290 --> 00:46:18,770
+which is the carbofusion
+and the counter stain
+
+970
+00:46:18,770 --> 00:46:20,190
+ends up being the
+blue which is the
+
+971
+00:46:20,190 --> 00:46:22,150
+methylene blue but it's
+the same basic thing
+
+972
+00:46:22,150 --> 00:46:24,170
+you have a primary
+stain you have a counter
+
+973
+00:46:24,170 --> 00:46:27,090
+stain you have a
+decolorizer in that sense
+
+974
+00:46:27,090 --> 00:46:29,010
+it's like it's exactly
+the same as the
+
+975
+00:46:29,010 --> 00:46:31,810
+grap stain so if you do
+this properly members
+
+976
+00:46:32,730 --> 00:46:35,450
+that are acid fast
+positive would look
+
+977
+00:46:35,450 --> 00:46:38,640
+like this they would
+look hot pink or red
+
+978
+00:46:38,640 --> 00:46:42,090
+while anything that
+is not would look blue
+
+979
+00:46:42,310 --> 00:46:44,350
+so let's say if you
+mix E. coli with
+
+980
+00:46:44,350 --> 00:46:48,170
+microbacteria microbacteria
+is acid fast positive
+
+981
+00:46:48,170 --> 00:46:50,930
+they call it and so
+it will show up as
+
+982
+00:46:52,490 --> 00:46:55,630
+red while E.coli
+would show up as blue
+
+983
+00:46:55,630 --> 00:46:58,110
+or any other organs
+that's not acid facet.
+
+984
+00:46:58,850 --> 00:47:03,070
+Now the acid facet
+thing is the classic one
+
+985
+00:47:03,070 --> 00:47:05,440
+that's been used for a
+long time but currently
+
+986
+00:47:05,440 --> 00:47:06,810
+clinically or at
+least for the last
+
+987
+00:47:06,810 --> 00:47:09,570
+several years laboratories
+no longer use the
+
+988
+00:47:09,570 --> 00:47:13,670
+acid facet. It's just
+you know because you
+
+989
+00:47:13,670 --> 00:47:16,030
+have to use the heat
+and so it's very messy
+
+990
+00:47:16,030 --> 00:47:17,810
+and people can like
+spill it on themselves
+
+991
+00:47:17,810 --> 00:47:21,770
+and on their you know
+lap gowns etc if you
+
+992
+00:47:21,770 --> 00:47:23,670
+don't decolorize
+properly you can you can
+
+993
+00:47:23,670 --> 00:47:25,910
+have some problems
+with it so it's it's a
+
+994
+00:47:25,910 --> 00:47:28,910
+multi-step process that
+can introduce errors
+
+995
+00:47:28,910 --> 00:47:32,090
+especially if your
+technician is not used to
+
+996
+00:47:32,090 --> 00:47:33,730
+doing the asset fast
+thing so if you know
+
+997
+00:47:33,730 --> 00:47:36,270
+a lot of standard labs
+people try to move to
+
+998
+00:47:36,270 --> 00:47:40,090
+more simpler and more
+reliable type of test
+
+999
+00:47:40,090 --> 00:47:42,210
+so instead of the
+acid fast test or the
+
+1000
+00:47:42,210 --> 00:47:46,290
+zeal nelson stain the
+the currently used
+
+1001
+00:47:46,630 --> 00:47:50,630
+staining method in clinical
+laboratories is the
+
+1002
+00:47:50,630 --> 00:47:54,250
+oramine rhodamine stain
+and so and this is
+
+1003
+00:47:54,250 --> 00:47:58,410
+a fluorescent stain
+okay and so this is a
+
+1004
+00:47:58,410 --> 00:48:00,290
+simpler stain it says
+it's more expensive
+
+1005
+00:48:00,290 --> 00:48:02,310
+because fluorescent
+stains are more expensive
+
+1006
+00:48:02,310 --> 00:48:03,870
+in the special
+microscope which is a
+
+1007
+00:48:03,870 --> 00:48:07,890
+fluorescent microscope
+but it's less time it
+
+1008
+00:48:07,890 --> 00:48:10,390
+doesn't need any
+experience you could see it
+
+1009
+00:48:10,390 --> 00:48:12,650
+at low magnification
+like 400 instead of
+
+1010
+00:48:12,650 --> 00:48:14,970
+having to go to a thousand
+which requires oil
+
+1011
+00:48:15,270 --> 00:48:17,720
+but of course you
+get the microscope a
+
+1012
+00:48:17,720 --> 00:48:19,730
+fluorescent microscope
+sorry not just a regular
+
+1013
+00:48:19,730 --> 00:48:21,810
+microscope which tends
+to be like two to three
+
+1014
+00:48:21,810 --> 00:48:23,110
+times more expensive
+than a typical
+
+1015
+00:48:23,110 --> 00:48:25,330
+microscope but it's a
+one-time purchase and you
+
+1016
+00:48:25,330 --> 00:48:28,070
+have it for good and
+so what how does this
+
+1017
+00:48:28,070 --> 00:48:31,390
+work very simple the
+oramine rhodamine dye
+
+1018
+00:48:32,050 --> 00:48:35,150
+binds to only the
+mycobacteria because it's
+
+1019
+00:48:35,150 --> 00:48:38,170
+tagged on antibody and
+so once they fluoresce
+
+1020
+00:48:38,170 --> 00:48:40,790
+as you can see right
+here uh then you know
+
+1021
+00:48:40,790 --> 00:48:44,870
+that these guys are
+acid fast positive uh if
+
+1022
+00:48:44,870 --> 00:48:46,550
+they don't fluoresce
+then the sample is
+
+1023
+00:48:46,550 --> 00:48:49,330
+negative so there's no
+cavistane really they're
+
+1024
+00:48:49,330 --> 00:48:51,880
+just like either fluoresce
+or you don't okay
+
+1025
+00:48:51,920 --> 00:48:54,270
+and that's the not
+common one now people
+
+1026
+00:48:54,270 --> 00:48:56,390
+use for so if you suspect
+somebody has to be
+
+1027
+00:48:56,390 --> 00:49:00,130
+you send their sputum
+uh take a sputum sample
+
+1028
+00:49:00,130 --> 00:49:01,950
+send it to the lab
+they'll do an oramine,
+
+1029
+00:49:01,950 --> 00:49:05,670
+rhodamine stain, and
+report back to you whether
+
+1030
+00:49:05,670 --> 00:49:08,150
+the organism is acid
+fast or not, okay?
+
+1031
+00:49:08,150 --> 00:49:13,070
+And there's also now
+more application using
+
+1032
+00:49:13,070 --> 00:49:16,270
+nucleic acid
+amplification, so like PCR.
+
+1033
+00:49:16,270 --> 00:49:20,170
+So PCR is also done on
+samples of mycobacterium,
+
+1034
+00:49:20,170 --> 00:49:22,160
+which gives you a
+very quick result,
+
+1035
+00:49:22,160 --> 00:49:25,770
+but keep in mind the
+gold standard for
+
+1036
+00:49:25,770 --> 00:49:28,330
+the diagnosis of TB
+continues to be a till
+
+1037
+00:49:28,330 --> 00:49:31,510
+-to-date culture. So
+even though you start
+
+1038
+00:49:31,510 --> 00:49:33,430
+and you have all these
+tools you get the
+
+1039
+00:49:33,430 --> 00:49:36,690
+acid fast positivity
+you do a pcr you may
+
+1040
+00:49:36,690 --> 00:49:39,010
+identify mycobacterium
+you still have to do
+
+1041
+00:49:39,010 --> 00:49:40,910
+culture you still have
+to wait for culture
+
+1042
+00:49:41,030 --> 00:49:43,530
+the problem with
+cultures for mycobacteria
+
+1043
+00:49:43,530 --> 00:49:45,450
+is they're of course
+hazardous for one second
+
+1044
+00:49:45,450 --> 00:49:47,870
+they also take like
+uh six to eight weeks
+
+1045
+00:49:47,870 --> 00:49:51,330
+to to grow the organism
+is very slow grower
+
+1046
+00:49:51,330 --> 00:49:54,010
+it divides every 18
+hours it's really slow
+
+1047
+00:49:54,010 --> 00:49:55,970
+in that sense so it
+takes a while for the
+
+1048
+00:49:55,970 --> 00:49:57,710
+cultures to come back
+so you can't really
+
+1049
+00:49:57,710 --> 00:49:59,770
+just sit there and leave
+the patient for two
+
+1050
+00:49:59,770 --> 00:50:02,210
+months with tuberculosis
+instead of trying
+
+1051
+00:50:02,210 --> 00:50:04,430
+to treat them. But
+again, the culture is
+
+1052
+00:50:04,430 --> 00:50:06,750
+still the only way to
+confirm the disease,
+
+1053
+00:50:06,750 --> 00:50:08,690
+so that's the gold
+standard and must be done.
+
+1054
+00:50:08,690 --> 00:50:10,150
+By the way, sometimes
+that's a board
+
+1055
+00:50:10,150 --> 00:50:13,050
+question and that can
+come on the boards and
+
+1056
+00:50:13,050 --> 00:50:15,190
+make sure they ask you
+what's the gold standard
+
+1057
+00:50:15,190 --> 00:50:17,570
+for identification of
+the disease and that
+
+1058
+00:50:17,570 --> 00:50:19,170
+would be culture,
+not all these other
+
+1059
+00:50:19,170 --> 00:50:21,310
+ones. But these are all
+important because they
+
+1060
+00:50:21,310 --> 00:50:24,250
+give you all this
+information and you realize
+
+1061
+00:50:24,250 --> 00:50:25,570
+that this is
+important. somebody has
+
+1062
+00:50:25,570 --> 00:50:27,930
+tuberculosis this is a
+public health emergency
+
+1063
+00:50:27,930 --> 00:50:29,830
+they can give it to
+other people you have
+
+1064
+00:50:29,830 --> 00:50:31,570
+to give prophylaxis
+their family you have
+
+1065
+00:50:31,570 --> 00:50:33,810
+to isolate them i mean
+it's a real big deal
+
+1066
+00:50:34,190 --> 00:50:36,990
+to have to be so today
+it's the one thing
+
+1067
+00:50:36,990 --> 00:50:38,830
+that you guys will
+get screened for right
+
+1068
+00:50:38,930 --> 00:50:41,210
+by taking the
+skin test just
+
+1069
+00:50:45,870 --> 00:50:48,870
+a quick comment about
+the acid fast stain
+
+1070
+00:50:48,870 --> 00:50:51,230
+uh so while the acid
+fast stain helps
+
+1071
+00:50:51,230 --> 00:50:53,970
+identify mycobacteria
+mycobacteria and
+
+1072
+00:50:53,970 --> 00:50:56,210
+species are not the
+only ones that are
+
+1073
+00:50:56,210 --> 00:50:58,070
+that would stain
+acid fast. There's
+
+1074
+00:50:58,070 --> 00:51:00,370
+several others including
+some fungi like
+
+1075
+00:51:00,930 --> 00:51:03,670
+cryptococci that will
+stain positive with
+
+1076
+00:51:03,670 --> 00:51:06,910
+the acid fast stain
+and nocardia another
+
+1077
+00:51:06,910 --> 00:51:10,550
+bacterium that could
+stain. So having a finding
+
+1078
+00:51:10,550 --> 00:51:14,310
+of acid fast bacilli
+on a particular sample
+
+1079
+00:51:14,310 --> 00:51:18,280
+does not conclusively
+means that we have
+
+1080
+00:51:18,280 --> 00:51:19,910
+mycobacteria but it's
+definitely leaning in
+
+1081
+00:51:19,910 --> 00:51:22,370
+that direction. But it
+could also be like I
+
+1082
+00:51:22,370 --> 00:51:24,460
+said it could be nocardia,
+it could be cryptoid,
+
+1083
+00:51:24,460 --> 00:51:26,150
+it could be some So
+keep that in mind.

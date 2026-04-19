@@ -1,0 +1,874 @@
+
+=== PAGE 1 ===
+HEALING AND REPAIR
+FOUNDATIONS OF OSTEOPATHIC MEDICINE
+Maria M. Plummer, M.D.
+Associate Professor
+Department of Clinical Specialties
+Rockefeller Room #306
+mplummer@nyit.edu
+
+=== PAGE 2 ===
+•
+1. Discuss and explain the basic principles of healing, repair, and 
+regeneration in regards to different types of tissues (labile, 
+stable, permanent), and differentiate some important growth 
+factors (e.g., PDGF, VEGF, TGF-beta, FGF-2) which mediate 
+the healing/repair process.
+•
+2. Describe granulation tissue and discuss the role of 
+angiogenesis and the importance of connective tissue 
+elements, which include collagen, in healing and repair.
+•
+3. Discuss and compare healing by first and second intention.
+•
+4. Discuss/describe wound contraction and connective tissue 
+remodeling.
+•
+5. Give examples of tissue and organs in the process of 
+healing/repair and describe factors which deter that process.
+Session Objectives
+
+=== PAGE 3 ===
+
+=== PAGE 4 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020,Ch. 3
+HEALING/REPAIR
+• Tissue repair – restoration of tissue architecture and 
+function after injury
+• Proliferation of remnants of injured tissue, vascular 
+endothelial cells, fibroblasts
+• Repair of damaged tissue
+• Regeneration – restores normal cells
+• Laying down scar formation (collagen deposition)
+• Healing with scar formation when the extracellular 
+matrix framework is damaged
+• Pure repair with scar formation mostly occurs in tissues 
+which do not have regenerative abilities  (permanent tissue)
+
+=== PAGE 5 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+REGENERATION
+• Replacement of damaged or dead cells/tissue by cells of the 
+same type
+• May occur by proliferation of differentiated cells that survive 
+injury and retain capacity to proliferate (e.g., hepatocytes)
+• May occur when tissue stem cells and their progenitors 
+contribute to restoration of damaged tissue (e.g. skin, GI 
+mucosa)
+• Tissues with high proliferative capacity
+• Intact basement membrane…and intact immature cells
+• Must have intact connective tissue scaffold
+
+=== PAGE 6 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Cell types based on proliferation potential
+• Labile cells: renewing cellular populations…(continuously 
+dividing):
+• Examples: epithelial cells, lymphoid, hematopoietic, GI 
+mucosa
+• Stable Cells:  low rate of proliferation or no proliferation…  
+have the ability to re-enter the cell cycle under specific stimuli 
+(quiescent): 
+• Examples: parenchymal cells, liver, kidney, smooth muscle 
+cells, osteoblasts, chondroblasts, endothelial cells, smooth 
+muscle, fibroblasts
+• Permanent Cells: terminally differentiated, (nondividing):
+• Examples:  neurons, cardiac muscle, skeletal muscle
+
+=== PAGE 7 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+GROWTH FACTORS
+• Proteins which regulate cell proliferation
+• Macrophages important sources - may also 
+come from epithelial and stromal cells
+• Function as ligands that bind to specific 
+receptors which deliver signals to target cells
+• Signals stimulate transcription of genes that may 
+be silent in resting cells, including genes that 
+control cell cycle entry and progression
+
+=== PAGE 8 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+IMPORTANT GROWTH FACTORS
+• PDGF causes migration and proliferation of fibroblasts, 
+smooth muscle cells, monocytes to inflammatory areas 
+and healing skin wounds
+• VEGF important in new blood vessel formation 
+(angiogenesis), promotes angiogenesis in chronic 
+inflammation, wound healing, and tumors
+• FGF-2 contributes to re-epithelization of skin wounds, 
+induces new blood vessel formation, etc.
+• TGF-beta is potent fibrogenic agent - stimulates 
+fibroblast chemotaxis, enhances production of collagen, 
+fibronectin, and proteoglycans; inhibits collagen 
+degradation, anti-inflammatory
+
+=== PAGE 9 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Table 1.1
+Growth Factor
+Sources
+Functions
+Epidermal growth factor (EGF)
+Activated macrophages, salivary glands, 
+keratinocytes, many other cells
+Mitogenic for many cell types; stimulates 
+epithelial cell migration; stimulates 
+formation of granulation tissue
+Transforming growth factor-α (TGF-α)
+Activated macrophages, keratinocytes, 
+many other cells
+Stimulates proliferation of hepatocytes 
+and many other epithelial cells
+Hepatocyte growth factor (HGF) (scatter 
+factor)
+Fibroblasts, stromal cells in the liver, 
+endothelial cells
+Enhances proliferation of hepatocytes and 
+other epithelial cells; increases cell 
+motility
+Vascular endothelial growth factor 
+(VEGF)
+Mesenchymal cells
+Stimulates proliferation of endothelial 
+cells; increases vascular permeability
+Platelet-derived growth factor (PDGF)
+Platelets, macrophages, endothelial cells, 
+smooth muscle cells, keratinocytes
+Chemotactic for neutrophils, 
+macrophages, fibroblasts, and smooth 
+muscle cells; activates and stimulates 
+proliferation of fibroblasts, endothelial 
+cells, and other cells; stimulates ECM 
+protein synthesis
+Fibroblast growth factors (FGFs) 
+including acidic (FGF-1) and basic 
+(FGF-2)
+Macrophages, mast cells, endothelial 
+cells, many other cell types
+Chemotactic and mitogenic for 
+fibroblasts; stimulates angiogenesis 
+and ECM protein synthesis
+Transforming growth factor-β (TGF-β)
+Platelets, T lymphocytes, macrophages, 
+endothelial cells, epithelial cells, smooth 
+muscle cells, fibroblasts
+Chemotactic for leukocytes and 
+fibroblasts; stimulates ECM protein 
+synthesis; suppresses acute 
+inflammation
+Keratinocyte growth factor (KGF) (i.e., 
+FGF-7)
+Fibroblasts
+Stimulates keratinocyte migration, 
+proliferation, and differentiation
+
+=== PAGE 10 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+THREE PHASES IN WOUND HEALING
+•
+Inflammatory phase – previously discussed-   injury…extrinsic 
+coagulation cascade….reflex vasoconstriction…aggregation of 
+platelets...release of PDGF…chemotaxis…vasodilatation…mediated by 
+prostaglandins….acute and chronic response
+• Proliferation phase
+– granulation tissue formation
+– proliferation and migration of connective tissue cells
+– re-epithelization of wound surface
+• Maturation phase   
+– scar tissue (decreased cells, decreased vessels, 
+increased collagen): ECM deposition, tissue remodeling, 
+wound contraction
+
+=== PAGE 11 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+REPAIR BY CONNECTIVE TISSUE DEPOSITION (SCAR)
+• Inflammation
+• Angiogenesis
+• Migration and proliferation of fibroblasts
+• Scar formation
+• Connective tissue remodeling
+• Prototype – skin
+• Most healing is combination of regeneration and 
+repair; depends on ability of tissue cells to 
+proliferate, integrity of ECM, resolution or 
+chronicity of injury or inflammation
+
+=== PAGE 12 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+GRANULATION TISSUE
+•
+Migration, proliferation of fibroblasts and deposition 
+of loose connective tissue along with new vessels 
+and leukocytes (mostly macrophages)
+•
+New vessel formation - angiogenesis
+•
+Type III collagen (immature) synthesis
+•
+Cellular-cellular interactions via (growth) factors
+•
+Sit in ECM: glycoproteins and proteoglycans
+•
+Glycoproteins- for cross linking of collagen fibers to 
+make stronger
+•
+Proteoglycans – for hydrated gel formation (increased 
+tissue turgor)
+
+=== PAGE 13 ===
+• Endothelial cells grow 
+extensions (pseudopodia) 
+toward wound site
+• The cells divide, and the new 
+cells create a new lumen
+• Main control: VEGF-A
+http://www2.nau.edu/~bio372-c/class/cancer/angiogen.htmRobbins and Cotran, Pathologic Basis of 
+Disease, 9th edition, 2014, Ch. 3, pgs. 100-110
+Granulation Tissue: angiogenesis
+http://vet.uga.edu/ivcvm/courses/VPAT5200/03_inflammation/09_repair/rep01a.htm
+
+=== PAGE 14 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+ANGIOGENESIS
+•
+VEGF – most important growth factor, especially in chronic 
+inflammation, wound healing, and tumors; promotes vasodilation by 
+stimulating production of NO; also increases vessel permeability 
+•
+VEGF-A - most important in angiogenesis; stimulates survival, 
+proliferation and motility of endothelial cells, initiating sprouting of new 
+capillaries, promotes vasodilation and contributes to vessel lumen 
+formation 
+•
+FGF-2 stimulates proliferation of endothelial cells and promotes 
+migration of macrophages and fibroblasts to damaged area
+•
+Newly formed vessels fragile, stabilization requires recruitment of 
+pericytes and smooth muscle cells and deposition of ECM proteins; 
+angiopoeitins 1 and 2, PDGF, and TGF-beta participate in 
+stabilization and these processes
+
+=== PAGE 15 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3, Fig. 3.28
+Angiogenesis:
+ In tissue repair, angiogenesis occurs mainly by sprouting of 
+new vessels. 
+The newly formed vessel joins up with other vessels (not 
+shown) to form the new vascular bed.
+ ECM, Extracellular matrix; MMPs, matrix metalloproteinases; 
+VEGF, vascular endothelial growth factor.
+
+=== PAGE 16 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, ch. 3
+CONNECTIVE TISSUE DEPOSITION
+• Migration and proliferation of fibroblasts 
+into injury site
+• Deposition of ECM proteins produced by 
+these cells
+• Orchestrated by cytokines and GFs which 
+include PDGF, FGF-2, and TFG-beta. Major 
+sources are inflammatory cells, especially 
+M2 macrophages
+
+=== PAGE 17 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+CONNECTIVE TISSUE: FIBROBLASTS
+• 48-96 hrs- macrophages are dominant cell
+• Controlling fibroblasts: Macrophages
+– Migration by chemokines (TNF, PDGF, TGF-B, FGF), 
+– Proliferation by growth factors (PDGF, EGF, TGF-B, FGF, IL-
+1, TNF)
+– Fibrinogenesis: TGF-B
+• Fibroblast actions:
+– Create matrix of type III collagen and fibronectin (tensile 
+strength ≈ 10%)
+– Replaced eventually (3 months) by type I collagen 
+(tensile strength ≈ 70 - 80%)
+
+=== PAGE 18 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+EXTRACELLULAR MATRIX
+• Provides mechanical support for cells 
+(anchorage and migration)
+• Control of cell growth – regulation of cell 
+proliferation via signaling by receptors of the 
+integrin family
+• Scaffold for tissue renewal (must not be 
+destroyed)
+• Establishment of tissue microenvironment – 
+basement membrane is boundary between 
+epithelium and underlying connective tissue
+
+=== PAGE 19 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+TWO FORMS OF ECM
+• (1) interstitial matrix - found in spaces 
+between epithelial, endothelial, and smooth 
+muscle cells - made up mostly of collagen, 
+elastin, fibronectin, proteoglycans, and 
+hyaluronan 
+•  (2) basement membrane – closely 
+associated with cell surfaces, made up of  
+mostly type IV collagen (nonfibrillar), laminin, 
+heparin sulfate, and proteoglycans
+
+=== PAGE 20 ===
+
+=== PAGE 21 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+ECM
+• Collagens and elastic fibers (fibrous 
+structural proteins) – provide tensile 
+strength and recoil
+• Adhesive glycoproteins – connect 
+matrix elements to one another and to 
+cells
+• Proteoglycans – provide resilience 
+and lubrication
+
+=== PAGE 22 ===
+• Laid down by fibroblasts 
+in proliferative phase, 
+modified in maturation 
+phase
+• Made up of 3 polypeptide 
+chains (alpha chains) 
+forming triple helix
+• Preprocollagen to 
+procollagen to collagen
+• Extensive 
+posttranslational 
+modification
+• Requires Vitamin C 
+(Scurvy)
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed. , 2020,Ch. 3
+COLLAGEN
+
+=== PAGE 23 ===
+Robbins and Cotran, 
+Pathologic Basis of Disease, 
+9th edition, 2014, Ch. 3, pgs. 
+100-110
+• Type I  - high tensile 
+strength (tendons, bone 
+skin, scars (MATURE)
+• Type II  - cartilage, 
+nucleous pulposus, 
+vitreous humor
+• Type III -  embryonic 
+tissues, pliable organs 
+such as wall of blood 
+vessels, uterus, GI tract. 
+1st collagen deposited 
+in wound healing
+• Type IV  - associated with 
+laminin,  found in all 
+basement membranes 
+• COLLAGENS
+Collagen 
+Type
+Tissue Distribution
+Genetic Disorders
+FIBRILLAR COLLAGENS
+I
+Ubiquitous in hard and soft 
+tissues
+Osteogenesis 
+imperfecta; Ehlers-
+Danlos syndrome—
+arthrochalasias type I
+II
+Cartilage, intervertebral 
+disk, vitreous
+Achondrogenesis type 
+II, spondyloepiphysea 
+dysplasia syndrome
+III
+Hollow organs, soft tissues
+Vascular Ehlers-Danlos 
+syndrome
+V
+Soft tissues, blood vessels
+Classical Ehlers-Danlos 
+syndrome
+IX
+Cartilage, vitreous
+Stickler syndrome
+BASEMENT MEMBRANE COLLAGENS
+IV
+Basement membranes
+Alport syndrome
+OTHER COLLAGENS
+VI
+Ubiquitous in microfibrils
+Bethlem myopathy
+VII
+Anchoring fibrils at dermal-
+epidermal junctions
+Dystrophic 
+epidermolysis bullosa
+IX
+Cartilage, intervertebral 
+disks
+Multiple epiphyseal 
+dysplasias
+XVII
+Transmembrane collagen in 
+epidermal cells
+Benign atrophic 
+generalized 
+epidermolysis bullosa
+XV and 
+XVIII
+Endostatin-forming 
+collagens, endothelial cells
+Knobloch syndrome 
+(type XVIII collagen)
+
+=== PAGE 24 ===
+Structural Glycoproteins-
+responsible for overall structure of scar
+•
+Fibronectin –  CROSS LINKING
+•
+Osteonectin - contributes to 
+tissue remodeling in response to 
+injury
+•
+Tenacin…chondrogenesis and 
+osteogenesis; involved in cell 
+adhesion
+•
+Laminin -  basement membrane, 
+can mediate attachment of cells 
+to connective tissue substrates
+•
+Cadherins and integrins…link 
+cell surface with cytoskeleton by 
+binding to actin and intermediate 
+filaments
+Proteoglycans and Glycosaminoglycans 
+(GAGS)
+•
+GAGS - long repeating 
+polymers of specific 
+disaccharides; most  linked to 
+core protein, forming 
+proteoglycans
+•
+Regulate connective tissue 
+structure and permeability
+•
+Four families - heparan sulfate, 
+chondroitin/dermatan sulfate, 
+keratan sulfate, and hyaluronan
+•
+HA in ECM of different tissues -
+– binds a lot of water and forms 
+viscous hydrated gel giving cell 
+turgor
+Robbins and Cotran, Pathologic Basis of Disease, 9th edition, 2014, Ch. 3, pgs. 
+100-110
+ECM
+
+=== PAGE 25 ===
+http://emergencypedia.com/2013/06/10/suturing-knots-and-wound-care/
+Day 0
+Day 2
+Day 17 
+Day 30
+A cutaneous injury
+• Three phases of 
+cutaneous wound 
+healing:
+– Phase 1- Inflammation
+– Phase 2- Proliferation
+– Phase 3- Maturation
+These phases are artificial constructs to 
+help understand what is a  dynamic, 
+overlapping process
+
+=== PAGE 26 ===
+http://emergencypedia.com/2
+013/06/10/suturing-knots-
+and-wound-care/
+Day 0
+Day 2
+Day 17 
+Day 30
+PHASE 1 - INFLAMMATION
+• Immediate→ 2-5 days
+• Bleeding stops- constriction of 
+vessels, formation of clot
+• Triggers for acute inflammation:
+– Cell damage, bacteria, and 
+clotting cascade
+• Acute inflammation- 
+vasodilation, phagocytosis
+• Cells- neutrophils then 
+macrophages
+
+=== PAGE 27 ===
+http://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1026&context=otograndroundshttp://es.slideshare.
+net/victoriamedicina/reparacion-patologia-profesor
+Phase 2- proliferation
+Day 0 
+     Day 2 
+Day 17       Day 30
+• 2 days to 3 weeks
+• Granulation tissue- 
+ 
+1- fibroblasts: to lay down collagen
+ 
+2- angiogenesis : to supply the 
+ 
+repair/regeneration process 
+
+=== PAGE 28 ===
+http://www.slideshare.net/csbrprasad/inflammation-1
+Phase III: Maturation
+•
+Wound contraction- wound edges pull together to close the 
+defect
+– Myofibroblasts- fibroblasts with muscle filaments
+• Display feature of fibroblasts and smooth muscle cells
+Day 0 
+     Day 2 
+Day 17       Day 30
+•
+Type III collagen is replace by 
+type I
+•
+Acquires final tensile 
+strength
+•
+Remodeling: scar tissue 
+becomes avascular and 
+acellular
+
+=== PAGE 29 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Healing by combinations of regeneration and repair
+• Best example - skin wound
+• Healing by first intention or primary union (epithelial 
+regeneration):
+• When injury only involves epithelial layer
+•  Clean skin wounds (e.g., surgical excision) – death of 
+limited number of epithelial and connective tissue cells
+• Healing by second intention
+• Edges of skin cannot be brought together
+• tissue loss greater
+• epidermal cells need longer time to cover surface
+• more intense inflammatory reaction
+• abundant granulation tissue, extensive collagen 
+deposition forming substantial scar
+
+=== PAGE 30 ===
+• Inflammation, 
+proliferation of cells, 
+maturation of 
+connective tissue
+• Wounds with opposed 
+edges; involves only 
+epithelial layer
+• Ex; healing of a clean, 
+uninfected surgical 
+incision approximated 
+by surgical sutures
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Healing by Primary (First) Intention – Epithelial Regeneration
+
+=== PAGE 31 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020,Ch. 3
+Healing by Secondary Intention
+• Wounds with unopposed/separated edges
+• More extensive loss of cells and tissue
+• Regeneration of parenchymal cells cannot 
+completely  restore the original architecture; 
+granulation tissue grows in from the margin to 
+complete the repair
+
+=== PAGE 32 ===
+
+=== PAGE 33 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020,Ch. 3
+WOUND CONTRACTION
+• Occurs in large surface wounds (secondary intention)
+• Helps close wound by decreasing gap between 
+dermal edges and by reducing wound surface area
+• Formation at edge of wound of network of 
+myofibroblasts - have characteristics of smooth 
+muscle cells, contract in wound tissue
+• Myofibroblasts made from tissue fibroblasts via 
+PDGF, TGF-beta, and FGF-2 released by 
+macrophages at wound site
+
+=== PAGE 34 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+•
+Granulation tissue replacement by scar involves changes in ECM 
+composition
+•
+Balance between synthesis and degradation of ECM proteins
+•
+Degradation accomplished by matrix metalloproteinases (MMPs)
+•
+MMPs produced by fibroblasts, macrophages, neutrophils, synovial 
+cells, and some epithelial cells
+•
+MMP synthesis and secretion regulated by growth factors, cytokines, 
+and other agents
+•
+MMPs include:
+•  interstitial collagenases (cleave fibrillary collagen)
+• gelatinases (degrade amorphous collagen and fibronectin)
+•  stromelysins (degrade variety of ECM components including 
+proteoglycans, laminins, fibronectin, and amorphous collagen)
+•
+Activity shut down by tissue inhibitors of metalloproteinases 
+(TIMPs)
+Remodeling of Connective tissue
+
+=== PAGE 35 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Tensile Strength of Wound
+• Amount of collagen in wound depends 
+on increased collagen synthesis AND 
+decreased degradation
+• End of first week, wound strength-
+about 10% of unwounded skin; after a 
+few months plateaus at about 70 to 
+80% (approximately 3 months)
+
+=== PAGE 36 ===
+
+=== PAGE 37 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Partial hepatectomy of 60% of the liver  → doubling of the size 
+of the liver remnant within 1 month
+• Mechanism= proliferation of remaining hepatocytes and 
+repopulation from progenitor cells
+• Situation where proliferative capacity of hepatocytes is 
+impaired (e.g chronic liver injury)
+• NOT regrowth of the lobes that were resected
+• Primary phase – hepatocytes primed by cytokines made 
+by Kupffer cells (macrophages) to receive and respond to 
+GF signals
+• Growth factor phase – hepatocytes are stimulated into 
+metabolism
+• Termination phase – hepatocytes return to quiescence
+REGENERATION OF THE LIVER
+
+=== PAGE 38 ===
+•
+Local infection….pro-
+inflammatory cytokines and 
+tissue proteases degrade 
+granulation tissue; persistent 
+tissue injury and inflammation
+•
+Hypoxia….deters collagen 
+fibril crosslinking 
+(hydroxylation of proline and 
+lysine), e.g, arteriosclerosis, 
+inadequate circulation
+•
+Trauma
+•
+Foreign bodies
+•
+Diabetes….glycosylation 
+(bonding of glucose to RBC 
+and protein) impairs neutrophil 
+and macrophage phagocytosis
+•
+Malnutrition….decrease in 
+proliferation phase, Vit C 
+needed for hydroxylation
+•
+Immunodeficiency
+•
+Medications..corticosteroids 
+blunt inflammatory process; 
+NSAIDS inhibit platelet 
+function
+Hormones – glucocorticoids 
+(anti-inflammatory and inhibit 
+collagen synthesis)
+Mechanics – early  motion of 
+wound can separate edges
+Size, location, type of wound – 
+e.g. face (more vascular) 
+heals faster than foot
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+Deterrents  to wound healing
+
+=== PAGE 39 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020,Ch. 3
+COMPLICATIONS
+• Deficient scar formation – wound dehiscence 
+and ulceration
+• Excessive scar formation – keloid (scar tissue 
+extends beyond boundary of original wound)
+(versus Hypertrophic scar – excessive amounts of 
+collagen resulting in raised scar)
+• Contractures – especially in palms, soles, 
+anterior thorax commonly after serious burns; 
+exageration of contraction
+
+=== PAGE 40 ===
+http://usmlepathslides.tumblr.com/post/34870481649/wound-dehiscence-with-evisceration-
+abdomen-wound
+Dehiscence: 
+Most commonly after
+abdominal surgery 
+secondary to
+ increased abdominal 
+pressure:
+  obesity, vomiting, 
+coughing, etc.
+
+=== PAGE 41 ===
+http://missinglink.ucsf.edu/lm/DermatologyGlossary/ulceration.html
+Ulceration –
+ e.g., lower extemity,
+  poor circulation in 
+diabetes, PVD
+
+=== PAGE 42 ===
+Keloid following ear 
+piercing
+Keloid v. Hypertrophic scar
+Disorganized      Parallel
+  collagen             collagen
+  formation             formation
+Extends beyond    Confined to
+ borders of               borders of
+ original wound       original 
+wound
+Frequently recur     Infrequently
+ after resection         recur after
+                                   resection
+http://medicalpictures.net/keloid-pictures/
+
+=== PAGE 43 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch.3
+HEALING - REVIEW
+• Injury activates coagulation pathway and blood clot forms on 
+wound surface
+• VEGF  increases vessel permeability and edema
+• Neutrophils appear within 24 hours, clean out debris and 
+bacteria
+• Neutrophils replaced by macrophages by 48 - 96 hours which 
+clear debris, fibrin, foreign material and promote angiogenesis, 
+ECM deposition
+• Fibroblast migration to injury site mediated by cytokines, TNF, 
+PDGF, TGF-beta, and FGF
+• Fibroblast proliferation triggered by growth factors – 
+macrophages main source
+
+=== PAGE 44 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+HEALING – REVIEW (continued)
+• 24 to 48 hours - epithelial cells move from wound edge along 
+cut margins of dermis, deposit basement membrane 
+components; produce thin, continuous epithelial layer 
+• Increase in collagen fibrils to bridge incision
+• Fibroblasts, vascular endothelial cells proliferate to form 
+granulation tissue by 5 to 7 days, fills wound, 
+neovascularization maximal
+• Wbc infiltrate, edema, increased vascularity disappear by 
+second week
+•  TGF-beta is most important fibrogenic agent: causes 
+fibroblast migration and proliferation, increased synthesis 
+of collagen and fibronectin, and decreased ECM 
+degradation by MMPs
+
+=== PAGE 45 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 3
+HEALING REVIEW (continued)
+• By end of first/second month – scar is composed of 
+acellular connective tissue without 
+inflammation, covered by intact epithelium
+• Increased collagen accumulation and regression 
+of vascular channels – original granulation tissue 
+scaffold converted to pale, avascular scar 
+made up of fibroblasts, dense collagen, 
+elastic tissue, other ECM components
+
+=== PAGE 46 ===
+• An experiment is being conducted on the effects of 
+certain drugs on wound healing. After the 
+administration of drug A, a cut is made in the thigh of 
+a laboratory rat and one week later, a biopsy is taken 
+of the area. At high magnification, the tissue has 
+capillaries, fibroblasts, and a variable amount of 
+inflammatory cells (mostly mononuclear such as 
+macrophages, but with occasional neutrophils still  
+present). What type of tissue does this best 
+represent?
+•     A. scar tissue
+•     B. granulation tissue
+•     C. purulent tissue
+•     D. permanent tissue
+Case Question
+
+=== PAGE 47 ===
+• A 70 year old woman presents with acute chest pain 
+and shortness of breath. She undergoes a cardiac 
+catherization which shows an occlusion of the left 
+anterior descending coronary artery. Lab studies and 
+EKG are consistent with an acute myocardial 
+infarction. Which of the following is the most likely 
+pathological finding in the affected heart muscle 6 
+weeks later?
+• A. Capillary-rich granulation tissue
+• B. Granulomatous inflammation
+• C. Neutrophils and necrotic debris
+• D. Collagen-rich scar tissue
+• E. Vascular congestion and edema
+Case Question
+
+=== PAGE 48 ===
+Case Question
+A 10 year old boy receives a deep laceration over his right 
+eyebrow playing ice hockey. The wound is cleaned and 
+sutured. Which of the following describes the principal 
+function of macrophages that are present in the wound 
+approximately 48 hours after injury?
+A. Antibody production
+B. Collagen deposition
+C. Histamine release
+D. Phagocytosis
+E. Wound contraction
+
+=== PAGE 49 ===
+Case question
+• In the previous question, which of the 
+following collagens is deposited first during 
+wound healing?
+• A. Type I
+• B. Type II
+• C. Type III
+• D. Type IV
+• E. Type V
+
+=== PAGE 50 ===
+• Definitions of healing, repair, regeneration
+• Labile, stable, permanent cells – see slide 6
+• Three phases of wound healing
+• Repair by scar – granulation tissue, angiogenesis, 
+connective tissue deposition (collagen and ECM)
+• Example of skin injury – healing by primary and 
+secondary intention
+• Wound contraction, connective tissue remodeling, 
+tensile strength
+• Liver regeneration, examples of repair and healing
+• Deterrents to wound healing – see slide 38
+• Complications of wound healing – slides 39 - 42
+Summary Slide
+
+=== PAGE 51 ===
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R

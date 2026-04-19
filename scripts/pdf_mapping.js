@@ -283,7 +283,11 @@ const PDF_MAPPING = {
     "L144": "pdfs/Lecture # 144. L. Goldstein, Pharm.D. (PPT).pdf",
     "L145": "pdfs/Lecture # 145. A. Hurst, M.D. (PPT).pdf",
     "L147": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf",
-    "15-Public & Global Health: Role of Immunizations (L147)": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf"
+    "15-Public & Global Health: Role of Immunizations (L147)": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf",
+    "Review Lectures-Lecture 6: Mihlbachler": "pdfs/Lecture # 6. M. Mihlbachler, Ph.D. (PPT).pdf",
+    "Review Lectures-Lecture 90: Slieman": "pdfs/Lecture #90. T. Slieman, Ph.D. (PPT).pdf",
+    "Review Lectures-Lecture 97: Slieman": "pdfs/Lecture # 97. T. Slieman, Ph.D. (PPT).pdf",
+    "Review Lectures-Lecture 130: Plummer": "pdfs/Lecture # 130. M. Plummer, M.D. (PPT).pdf"
 };
 
 

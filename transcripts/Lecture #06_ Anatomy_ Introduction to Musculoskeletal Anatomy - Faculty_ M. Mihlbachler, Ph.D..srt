@@ -1,0 +1,3657 @@
+1
+00:00:02,390 --> 00:00:03,770
+In this lecture,
+we're going to be
+
+2
+00:00:03,770 --> 00:00:05,570
+talking about very
+general aspects
+
+3
+00:00:05,570 --> 00:00:07,430
+of the musculoskeletal
+system.
+
+4
+00:00:07,940 --> 00:00:10,270
+In part one, I'm just
+going to give you
+
+5
+00:00:10,270 --> 00:00:12,150
+a basic introduction
+to the lecture, and
+
+6
+00:00:12,150 --> 00:00:14,040
+then we're going to
+talk about bones.
+
+7
+00:00:16,990 --> 00:00:18,690
+Before we get into
+the content of
+
+8
+00:00:18,690 --> 00:00:20,180
+this lecture, I
+thought it would be
+
+9
+00:00:20,180 --> 00:00:21,610
+valuable to go over
+what you should
+
+10
+00:00:21,610 --> 00:00:22,830
+expect to learn
+about the gross
+
+11
+00:00:22,830 --> 00:00:25,810
+anatomy of the
+musculoskeletal system.
+
+12
+00:00:26,550 --> 00:00:28,670
+The musculoskeletal
+system makes up a very
+
+13
+00:00:28,670 --> 00:00:30,710
+large component of the
+body in terms of its
+
+14
+00:00:30,710 --> 00:00:33,190
+volume and mass. It
+consists of your limbs,
+
+15
+00:00:33,190 --> 00:00:35,530
+the spine and back
+muscles, and your body
+
+16
+00:00:35,530 --> 00:00:37,730
+wall, and the skull and
+muscles of the head.
+
+17
+00:00:37,750 --> 00:00:40,350
+There are many,
+many individual
+
+18
+00:00:40,350 --> 00:00:42,350
+structures in the
+musculoskeletal system
+
+19
+00:00:42,350 --> 00:00:43,750
+that you should
+expect to know.
+
+20
+00:00:44,030 --> 00:00:46,490
+Parts of the musculoskeletal
+system include
+
+21
+00:00:46,490 --> 00:00:48,610
+bones, cartilage,
+muscles, and other
+
+22
+00:00:48,610 --> 00:00:50,530
+connected tissues
+such as ligaments and
+
+23
+00:00:50,530 --> 00:00:53,230
+fascia. In lectures
+you will receive on
+
+24
+00:00:53,230 --> 00:00:54,920
+the gross anatomy
+of components of the
+
+25
+00:00:54,920 --> 00:00:57,330
+musculoskeletal system,
+there is no way to
+
+26
+00:00:57,330 --> 00:00:59,750
+go over all of the
+individual structures.
+
+27
+00:01:00,110 --> 00:01:02,370
+Therefore, you should
+study these in the
+
+28
+00:01:02,370 --> 00:01:05,090
+anatomy lab and on
+your own. In addition
+
+29
+00:01:05,090 --> 00:01:07,230
+to studying and
+recognizing the individual
+
+30
+00:01:07,230 --> 00:01:08,830
+structures, you
+should focus on their
+
+31
+00:01:08,830 --> 00:01:11,210
+connections. In
+particular, focus on the
+
+32
+00:01:11,210 --> 00:01:12,950
+bony attachments of
+muscles and how this
+
+33
+00:01:12,950 --> 00:01:15,010
+affects what actions
+the muscles cause.
+
+34
+00:01:15,070 --> 00:01:16,970
+And obviously, you
+should be focusing
+
+35
+00:01:16,970 --> 00:01:19,070
+on joints, what
+movements they allow
+
+36
+00:01:19,070 --> 00:01:20,630
+and what movements
+they restrict.
+
+37
+00:01:20,630 --> 00:01:21,610
+Finally,
+
+38
+00:01:21,830 --> 00:01:23,610
+you should carefully
+study how the
+
+39
+00:01:23,610 --> 00:01:26,150
+musculoskeletal
+system interfaces
+with the remainder
+
+40
+00:01:26,150 --> 00:01:28,830
+of the body. This
+occurs primarily via
+
+41
+00:01:28,830 --> 00:01:31,750
+nerves and vasculature.
+As you study the
+
+42
+00:01:31,750 --> 00:01:34,110
+musculoskeletal system,
+one of your major
+
+43
+00:01:34,110 --> 00:01:36,030
+focuses should be on the
+nerves that innervate
+
+44
+00:01:36,030 --> 00:01:38,090
+the muscles and the
+main arteries and
+
+45
+00:01:38,090 --> 00:01:40,390
+veins that transport
+blood to and from
+
+46
+00:01:40,390 --> 00:01:42,590
+different parts of the
+musculoskeletal system.
+
+47
+00:01:42,770 --> 00:01:44,770
+As you will see
+in later lectures,
+
+48
+00:01:45,110 --> 00:01:47,130
+an understanding of
+muscle attachments and
+
+49
+00:01:47,130 --> 00:01:49,830
+actions, the innervations
+of muscles and
+
+50
+00:01:49,830 --> 00:01:52,650
+the potential motions
+allowed by joints are
+
+51
+00:01:52,650 --> 00:01:54,630
+a major part of the
+clinical diagnosis of
+
+52
+00:01:54,630 --> 00:01:57,630
+musculoskeletal injuries
+and pathologies.
+
+53
+00:01:59,050 --> 00:02:00,250
+Here are the session
+
+54
+00:02:00,250 --> 00:02:01,870
+objectives for
+this lecture.
+
+55
+00:02:02,390 --> 00:02:04,510
+We will briefly
+discuss the growth,
+
+56
+00:02:04,510 --> 00:02:06,830
+development, and morphology
+of skeletal tissue.
+
+57
+00:02:07,350 --> 00:02:09,490
+We're going to go
+over the main types of
+
+58
+00:02:09,490 --> 00:02:12,090
+synovial joints based
+on types of motion.
+
+59
+00:02:12,410 --> 00:02:14,450
+We're going to briefly
+touch upon types of
+
+60
+00:02:14,450 --> 00:02:16,370
+cartilage in their
+distribution and the
+
+61
+00:02:16,370 --> 00:02:18,270
+different types of
+muscle contractions and
+
+62
+00:02:18,270 --> 00:02:20,170
+how they contribute
+to motion in the body.
+
+63
+00:02:20,170 --> 00:02:23,360
+Note the final
+objective about muscle
+
+64
+00:02:23,360 --> 00:02:25,630
+contractions is typically
+the most difficult for
+
+65
+00:02:25,630 --> 00:02:27,870
+many students to
+understand. If you have
+
+66
+00:02:27,870 --> 00:02:29,970
+trouble with this
+objective, do not hesitate
+
+67
+00:02:29,970 --> 00:02:31,950
+to contact me and I
+will help you out.
+
+68
+00:02:32,000 --> 00:02:34,530
+Once you get it, it
+will seem very simple.
+
+69
+00:02:35,870 --> 00:02:38,890
+Now for some basics
+about the skeleton. The
+
+70
+00:02:38,890 --> 00:02:41,430
+skeleton consists of
+two parts. The axial
+
+71
+00:02:41,430 --> 00:02:44,110
+skeleton, which is
+brown in this figure,
+
+72
+00:02:44,110 --> 00:02:47,910
+consists of the skull,
+spine, and the ribs. The
+
+73
+00:02:47,910 --> 00:02:49,870
+appendicular skeleton
+is represented in
+
+74
+00:02:49,870 --> 00:02:52,470
+green and is the limbs,
+including the pectoral
+
+75
+00:02:52,470 --> 00:02:55,390
+and pelvic girdles.
+Bones of the skeleton
+
+76
+00:02:55,390 --> 00:02:58,510
+can be categorized in
+one way by their shape.
+
+77
+00:02:58,510 --> 00:03:00,550
+For instance, bones
+such as the femur and
+
+78
+00:03:00,550 --> 00:03:03,110
+the thigh are long and
+slender and are called
+
+79
+00:03:03,110 --> 00:03:05,370
+long bones. While we
+think of long bones
+
+80
+00:03:05,370 --> 00:03:07,990
+such as the femur as
+an individual bone, it
+
+81
+00:03:07,990 --> 00:03:09,910
+really has many parts
+that develop separately
+
+82
+00:03:09,910 --> 00:03:12,170
+and fuse together
+into a single element.
+
+83
+00:03:12,170 --> 00:03:14,450
+These parts include
+the diaphysis, which
+
+84
+00:03:14,450 --> 00:03:16,810
+is the shaft, and the
+epiphyses, which are
+
+85
+00:03:16,810 --> 00:03:18,550
+the articular ends.
+We will discuss the
+
+86
+00:03:18,550 --> 00:03:20,950
+development of a long one
+later, a little later.
+
+87
+00:03:21,350 --> 00:03:23,890
+Short bones are
+small and blocky.
+
+88
+00:03:24,010 --> 00:03:25,670
+Most are found
+in your hand.
+
+89
+00:03:25,670 --> 00:03:27,170
+You have
+encountered this,
+
+90
+00:03:27,170 --> 00:03:28,990
+they're most found
+in your hand.
+
+91
+00:03:29,630 --> 00:03:32,190
+The word manis,
+which you may have
+
+92
+00:03:32,190 --> 00:03:34,450
+encountered before, is
+a Latin term for hand.
+
+93
+00:03:34,990 --> 00:03:37,570
+And you've heard
+this word before,
+
+94
+00:03:37,570 --> 00:03:39,140
+such as in the
+word manuscript,
+
+95
+00:03:39,140 --> 00:03:41,350
+which means
+handwritten, or manual
+
+96
+00:03:41,350 --> 00:03:43,370
+labor, which means
+work with the hands.
+
+97
+00:03:43,490 --> 00:03:47,580
+The Latin term
+for foot, which is
+
+98
+00:03:47,580 --> 00:03:49,330
+pez, is used less
+frequently, but you'll
+
+99
+00:03:49,330 --> 00:03:50,510
+encounter that
+word as well. It's
+
+100
+00:03:50,510 --> 00:03:52,210
+derived from the
+Latin word petal.
+
+101
+00:03:52,590 --> 00:03:54,630
+Many of the bones
+in the skull and
+
+102
+00:03:54,630 --> 00:03:56,350
+other bones, such
+as the scapula, are
+
+103
+00:03:56,350 --> 00:03:58,470
+flat bones. Then
+you have a lot of
+
+104
+00:03:58,470 --> 00:04:00,810
+miscellaneous bones
+with irregular shapes,
+
+105
+00:04:00,950 --> 00:04:02,490
+such as your vertebra.
+
+106
+00:04:02,630 --> 00:04:04,210
+Finally, there
+are numerous bones
+
+107
+00:04:04,210 --> 00:04:06,130
+embedded in tendons.
+Your patella,
+
+108
+00:04:06,130 --> 00:04:07,630
+otherwise known as
+your kneecap, is
+
+109
+00:04:07,630 --> 00:04:09,650
+the largest example
+of one of these.
+
+110
+00:04:10,410 --> 00:04:13,590
+these are called
+sesamoid bones and then
+
+111
+00:04:13,590 --> 00:04:15,910
+finally as you will
+see in later slides the
+
+112
+00:04:15,910 --> 00:04:17,850
+shapes of the bones
+has a lot to do with
+
+113
+00:04:17,850 --> 00:04:20,150
+the different ways that
+they actually develop
+
+114
+00:04:21,290 --> 00:04:24,630
+all bones even flat
+bones are composed
+
+115
+00:04:24,630 --> 00:04:28,350
+of basically two types
+of bones all bones
+
+116
+00:04:28,350 --> 00:04:31,390
+are surrounded by a
+dense solid superficial
+
+117
+00:04:31,390 --> 00:04:33,890
+layer of compact bone
+this compact bone
+
+118
+00:04:33,890 --> 00:04:36,630
+can also be called
+cortical bone deep to
+
+119
+00:04:36,630 --> 00:04:40,110
+the compact bone the
+cavity within is filled
+
+120
+00:04:40,110 --> 00:04:43,340
+by a very porous
+spongy bone depending
+
+121
+00:04:43,340 --> 00:04:45,210
+on the mechanical
+loads of the bone the
+
+122
+00:04:45,210 --> 00:04:48,270
+compact bone can be very
+thick or thin and it
+
+123
+00:04:48,270 --> 00:04:50,590
+can vary consider
+considerably along the
+
+124
+00:04:50,590 --> 00:04:53,530
+length of the bone even
+very thin flat bones
+
+125
+00:04:53,530 --> 00:04:55,470
+such as the scapula
+have thin layers of
+
+126
+00:04:55,470 --> 00:04:59,910
+both compact and
+spongy bone as I noted
+
+127
+00:04:59,910 --> 00:05:02,630
+earlier the shapes
+of bones are strongly
+
+128
+00:05:02,630 --> 00:05:04,990
+related to how they
+develop embryologically.
+
+129
+00:05:05,390 --> 00:05:06,410
+So bones are derived
+
+130
+00:05:06,410 --> 00:05:07,810
+from two basic processes.
+
+131
+00:05:07,810 --> 00:05:09,770
+The first of these
+is intramembranous
+
+132
+00:05:09,770 --> 00:05:14,890
+bone. These bones
+ossify directly from or
+
+133
+00:05:14,890 --> 00:05:17,410
+within membranes formed
+by an embryological
+
+134
+00:05:17,410 --> 00:05:19,560
+connective tissue
+known as mesenchyme.
+
+135
+00:05:19,770 --> 00:05:22,350
+Consequently, they
+are flat and membrane
+
+136
+00:05:22,350 --> 00:05:25,310
+-shaped. Typical examples
+of intramembranous bone
+
+137
+00:05:25,310 --> 00:05:26,870
+would be the bones of
+your brain cake, such
+
+138
+00:05:26,870 --> 00:05:29,810
+as your patella or
+your temporal bone. The
+
+139
+00:05:29,810 --> 00:05:32,930
+second type of bones
+are endochondral bones.
+
+140
+00:05:32,930 --> 00:05:35,310
+They ultimately are
+derived by mesenchyme
+
+141
+00:05:35,310 --> 00:05:38,550
+also, but they start
+out being preformed by
+
+142
+00:05:38,550 --> 00:05:42,270
+cartilage, which gradually
+ossifies into bone
+
+143
+00:05:42,270 --> 00:05:44,890
+as the person becomes
+an adult. Long bones
+
+144
+00:05:44,890 --> 00:05:47,490
+are typical examples
+of endochondral bone.
+
+145
+00:05:48,170 --> 00:05:50,350
+Other examples of
+endochondral bone are
+
+146
+00:05:50,350 --> 00:05:52,550
+like what you see here
+on the bottom right,
+
+147
+00:05:52,550 --> 00:05:55,370
+the blocky bones in
+your manis and pez,
+
+148
+00:05:55,370 --> 00:05:58,190
+the carpals and the
+tarsals. As a general
+
+149
+00:05:58,190 --> 00:06:00,750
+rule, any bone that
+takes place in a
+
+150
+00:06:00,750 --> 00:06:04,110
+synovial joint is going
+to be endochondral.
+
+151
+00:06:05,630 --> 00:06:07,830
+It's important to
+realize that bones
+
+152
+00:06:07,830 --> 00:06:09,910
+consist of many parts
+that develop separately
+
+153
+00:06:09,910 --> 00:06:11,870
+and fuse together
+into a single bone.
+
+154
+00:06:11,870 --> 00:06:14,630
+Therefore, bones can
+have intramembranous and
+
+155
+00:06:14,630 --> 00:06:17,770
+endochondral parts
+in the same bone. The
+
+156
+00:06:17,770 --> 00:06:20,390
+scapula is a good
+example. The flat body is
+
+157
+00:06:20,390 --> 00:06:23,170
+intramembranous, but
+several parts along the
+
+158
+00:06:23,170 --> 00:06:25,290
+margins are endochondral,
+and these are shown
+
+159
+00:06:25,290 --> 00:06:27,510
+in blue. Note the
+glenoid cavity, which
+
+160
+00:06:27,510 --> 00:06:29,770
+takes part in the shoulder
+joint and articulates
+
+161
+00:06:29,770 --> 00:06:32,990
+with the humerus,
+is clearly part of a
+
+162
+00:06:32,990 --> 00:06:35,710
+synovial joint, that of
+the shoulder joint, and
+
+163
+00:06:35,710 --> 00:06:38,130
+it is an endochondral
+part of the scapula.
+
+164
+00:06:40,230 --> 00:06:42,410
+All bones are covered
+by a thin membrane
+
+165
+00:06:42,410 --> 00:06:45,870
+known as periosteum. You
+won't study periosteum
+
+166
+00:06:45,870 --> 00:06:48,270
+closely in gross
+anatomy, but it is there
+
+167
+00:06:48,270 --> 00:06:49,730
+nonetheless, and it's
+very important to
+
+168
+00:06:49,730 --> 00:06:51,570
+bone biology, so you
+should know about it.
+
+169
+00:06:51,670 --> 00:06:55,530
+The articular
+surfaces of bones are
+
+170
+00:06:55,530 --> 00:06:56,950
+the only surfaces
+that are not
+
+171
+00:06:56,950 --> 00:06:59,110
+covered by periosteum.
+All other bone
+
+172
+00:06:59,110 --> 00:07:01,040
+surfaces are covered
+by periosteum.
+
+173
+00:07:01,510 --> 00:07:04,290
+Periosteum is vascularized,
+so it provides
+
+174
+00:07:04,290 --> 00:07:06,390
+nutrients to the outer
+layers of the bone.
+
+175
+00:07:06,650 --> 00:07:09,290
+And then osteoprogenitor
+cells in the
+
+176
+00:07:09,290 --> 00:07:12,150
+periosteum deposit bone
+and enable bone growth.
+
+177
+00:07:13,020 --> 00:07:14,690
+Periosteum is
+involved in how
+
+178
+00:07:14,690 --> 00:07:16,570
+tendons and ligaments
+attach to bone.
+
+179
+00:07:16,670 --> 00:07:19,190
+And periosteum is
+richly innervated
+
+180
+00:07:19,190 --> 00:07:20,750
+with sensory nerves.
+and much of the
+
+181
+00:07:20,750 --> 00:07:24,030
+intense somatic pain
+that, for example,
+
+182
+00:07:24,030 --> 00:07:26,070
+would be associated
+with a broken bone is
+
+183
+00:07:26,070 --> 00:07:28,870
+related to damage
+to the periosteum.
+
+184
+00:07:30,820 --> 00:07:32,730
+I mentioned that the
+blood is applied to
+
+185
+00:07:32,730 --> 00:07:34,390
+the superficial layers
+of bone as through
+
+186
+00:07:34,390 --> 00:07:37,010
+the periosteum. Deep
+layers are supplied by
+
+187
+00:07:37,010 --> 00:07:38,930
+arteries that pierce
+the bone and run more
+
+188
+00:07:38,930 --> 00:07:41,150
+deeply into it. The
+openings for these
+
+189
+00:07:41,150 --> 00:07:43,610
+blood vessels are called
+nutrient foramina.
+
+190
+00:07:43,730 --> 00:07:46,170
+Nutrient foramina are
+macroscopic and can
+
+191
+00:07:46,170 --> 00:07:48,450
+readily be seen when
+you study dry bones.
+
+192
+00:07:48,490 --> 00:07:50,970
+By the way, every
+ossification center of a
+
+193
+00:07:50,970 --> 00:07:53,570
+bone needs at least
+one nutrient foramen,
+
+194
+00:07:53,570 --> 00:07:56,090
+so bones that are
+composed of several fused
+
+195
+00:07:56,090 --> 00:07:59,130
+elements have multiple
+nutrient foramina.
+
+196
+00:08:00,490 --> 00:08:02,670
+Long bones are the
+largest bones in
+
+197
+00:08:02,670 --> 00:08:04,270
+your body, and their
+growth is important
+
+198
+00:08:04,270 --> 00:08:06,270
+for physical
+attributes such as
+
+199
+00:08:06,270 --> 00:08:08,550
+body height and body
+proportions. It's
+
+200
+00:08:08,550 --> 00:08:09,950
+therefore important
+to have a basic
+
+201
+00:08:09,950 --> 00:08:11,950
+understanding of
+how long bones grow.
+
+202
+00:08:12,050 --> 00:08:14,550
+In this sequence of
+the humerus, starting
+
+203
+00:08:14,550 --> 00:08:16,710
+on the left, the bone
+begins as a cartilage
+
+204
+00:08:16,710 --> 00:08:19,290
+model derived from
+mesenchyme. As we
+
+205
+00:08:19,290 --> 00:08:21,450
+move to the right,
+the shaft of the bone,
+
+206
+00:08:21,520 --> 00:08:24,400
+which as I said before
+is called the diaphesus,
+
+207
+00:08:24,470 --> 00:08:27,530
+begins to ossify first,
+and the epiphyses,
+
+208
+00:08:27,530 --> 00:08:29,450
+which are the ends
+of the bones, lag
+
+209
+00:08:29,450 --> 00:08:32,210
+behind. Notice in figure
+four in the middle
+
+210
+00:08:32,210 --> 00:08:34,450
+of the slide that
+the epiphyses may
+
+211
+00:08:34,450 --> 00:08:37,110
+actually have multiple
+centers of ossification.
+
+212
+00:08:37,200 --> 00:08:39,130
+As the majority of
+the bone becomes
+
+213
+00:08:39,130 --> 00:08:42,710
+ossified in figure five,
+lengthwise growth of
+
+214
+00:08:42,710 --> 00:08:44,850
+the diaphesus continues
+in the cartilaginous
+
+215
+00:08:44,850 --> 00:08:47,030
+space between the
+diaphysis and the
+
+216
+00:08:47,030 --> 00:08:55,870
+epiphysis. So that
+would be here and here.
+
+217
+00:08:58,640 --> 00:09:00,480
+This is the region
+where lengthwise
+
+218
+00:09:00,480 --> 00:09:03,730
+growth continues, and
+this is called the
+
+219
+00:09:03,730 --> 00:09:06,530
+epiphyseal plate. A
+bone fracture involving
+
+220
+00:09:06,530 --> 00:09:08,390
+the epiphyseal
+plate in a subadult
+
+221
+00:09:08,390 --> 00:09:10,890
+is potentially
+serious, as damage to
+
+222
+00:09:10,890 --> 00:09:12,870
+the epiphyseal plate
+can cause interruption
+
+223
+00:09:12,870 --> 00:09:15,070
+of lengthwise
+growth of the bone.
+
+224
+00:09:15,150 --> 00:09:17,950
+Figure 6 on the
+right is an adult
+
+225
+00:09:17,950 --> 00:09:19,930
+bone. The epiphyseal
+plate is fully
+
+226
+00:09:19,930 --> 00:09:22,630
+ossified. At this
+point, lengthwise growth
+
+227
+00:09:22,630 --> 00:09:24,830
+of the bone is no
+longer possible,
+
+228
+00:09:24,850 --> 00:09:26,690
+and the lengths of
+the bones and, for
+
+229
+00:09:26,690 --> 00:09:29,050
+example, your body
+height have become fixed.
+
+230
+00:09:29,050 --> 00:09:31,490
+In an x-ray of an
+adult, an epiphyseal
+
+231
+00:09:31,490 --> 00:09:35,350
+line is sometimes still
+visible right here
+
+232
+00:09:36,210 --> 00:09:40,050
+and distally right here,
+where the diaphysis
+
+233
+00:09:40,050 --> 00:09:42,190
+and the epiphysis
+are fused together.
+
+234
+00:09:44,970 --> 00:09:47,470
+Here's an example of
+the x-rays of the limbs
+
+235
+00:09:47,470 --> 00:09:49,570
+of a neonate. As you
+can see, large parts
+
+236
+00:09:49,570 --> 00:09:51,270
+of the skeleton are
+not visible as they
+
+237
+00:09:51,270 --> 00:09:53,970
+are still unossified.
+The carpals and tarsals
+
+238
+00:09:53,970 --> 00:09:57,130
+are mostly unossified.
+The diaphyses of
+
+239
+00:09:57,130 --> 00:09:59,290
+most long bones are
+present, but the epiphyses
+
+240
+00:09:59,290 --> 00:10:02,010
+are largely unossified.
+It is therefore
+
+241
+00:10:02,010 --> 00:10:03,690
+difficult to examine
+the joints because
+
+242
+00:10:03,690 --> 00:10:05,870
+they are mostly
+cartilaginous at this point.
+
+243
+00:10:06,980 --> 00:10:11,450
+In the next
+slide, we have an
+
+244
+00:10:11,450 --> 00:10:13,510
+example of an 8
+-year-old hand x
+
+245
+00:10:13,510 --> 00:10:15,550
+-ray compared to
+that of an adult.
+
+246
+00:10:16,490 --> 00:10:19,150
+For many of the finger
+bones, the diaphyses
+
+247
+00:10:19,150 --> 00:10:21,030
+and epiphyses are
+distinctly different
+
+248
+00:10:21,030 --> 00:10:24,650
+bones. The carpels
+are also still only
+
+249
+00:10:24,650 --> 00:10:26,910
+partially ossified.
+The skeleton of
+
+250
+00:10:26,910 --> 00:10:28,550
+juveniles is very
+different from that of
+
+251
+00:10:28,550 --> 00:10:31,250
+adults, as you can
+see. not only in its
+
+252
+00:10:31,250 --> 00:10:33,470
+appearance, but in its
+material properties
+
+253
+00:10:33,470 --> 00:10:35,990
+because it contains
+much more cartilage.
+
+254
+00:10:35,990 --> 00:10:38,530
+Any area of pediatric
+medicine that concerns
+
+255
+00:10:38,530 --> 00:10:40,270
+itself with growth
+and development of
+
+256
+00:10:40,270 --> 00:10:42,670
+children will
+require a very good
+
+257
+00:10:42,670 --> 00:10:45,030
+understanding of the
+ontogeny of the skeleton.
+
+258
+00:10:45,070 --> 00:10:47,350
+However, we will
+not study juvenile
+
+259
+00:10:47,550 --> 00:10:50,290
+osteology in detail
+here. Nonetheless, you
+
+260
+00:10:50,290 --> 00:10:51,690
+should be able to
+recognize the various
+
+261
+00:10:51,690 --> 00:10:54,170
+parts of a long bone
+in a pediatric x-ray.
+
+262
+00:10:56,330 --> 00:10:58,570
+as you study bones
+you will notice that
+
+263
+00:10:58,570 --> 00:11:00,770
+they do not have
+regular smooth surfaces
+
+264
+00:11:00,770 --> 00:11:03,870
+bones have irregular
+surfaces with what at
+
+265
+00:11:03,870 --> 00:11:06,340
+first appear to be
+seemingly randomly
+
+266
+00:11:06,340 --> 00:11:09,570
+distributed bumps rough
+areas concavities and
+
+267
+00:11:09,570 --> 00:11:11,870
+protuberances these
+surface features are
+
+268
+00:11:11,870 --> 00:11:13,630
+the attachment sites
+of tendons ligaments
+
+269
+00:11:13,630 --> 00:11:15,390
+and other structures
+that attach to bone
+
+270
+00:11:15,390 --> 00:11:17,890
+make sure you study
+the surface anatomy of
+
+271
+00:11:17,890 --> 00:11:19,810
+bones as you will be
+required to be familiar
+
+272
+00:11:19,810 --> 00:11:22,210
+with many of these
+features Any anatomy
+
+273
+00:11:22,210 --> 00:11:23,850
+textbook should have
+a basic table with
+
+274
+00:11:23,850 --> 00:11:26,050
+the terminology of
+surface bone anatomy.
+
+275
+00:11:28,360 --> 00:11:30,930
+In part two of this
+lecture, we will go
+
+276
+00:11:30,930 --> 00:11:32,830
+over some basics about
+cartilage and its
+
+277
+00:11:32,830 --> 00:11:34,770
+distribution in the
+body, and we will
+
+278
+00:11:34,770 --> 00:11:36,570
+cover the different
+types of joints, and
+
+279
+00:11:36,570 --> 00:11:38,770
+more specifically,
+talk about synovial
+
+280
+00:11:38,770 --> 00:11:40,430
+joints and how they
+can be classified
+
+281
+00:11:40,430 --> 00:11:42,510
+according to their
+potential movements.
+
+282
+00:11:44,180 --> 00:11:45,610
+There are three types of
+
+283
+00:11:45,610 --> 00:11:46,430
+cartilages. cartilages.
+
+284
+00:11:46,730 --> 00:11:48,110
+These three types
+have different
+
+285
+00:11:48,110 --> 00:11:50,550
+histologies, and this
+relates directly to
+
+286
+00:11:50,550 --> 00:11:52,170
+their different
+material properties.
+
+287
+00:11:52,390 --> 00:11:54,490
+Hyaline cartilage is
+the most common type
+
+288
+00:11:54,490 --> 00:11:57,070
+of cartilage. It is
+semi-flexible, and
+
+289
+00:11:57,070 --> 00:11:58,650
+here on the left
+you can see the
+
+290
+00:11:58,650 --> 00:12:01,010
+histology of hyaline
+cartilage. It consists
+
+291
+00:12:01,010 --> 00:12:03,870
+of chondrocytes in
+a homogenous matrix.
+
+292
+00:12:04,390 --> 00:12:06,630
+Fiber cartilage on
+the top right is a
+
+293
+00:12:06,630 --> 00:12:08,950
+much tougher, more
+rigid type of cartilage.
+
+294
+00:12:08,950 --> 00:12:10,770
+It contains fibers
+visible in the
+
+295
+00:12:10,770 --> 00:12:12,570
+cartilage matrix that
+make it much stronger
+
+296
+00:12:12,570 --> 00:12:14,910
+and tougher than
+hyaline cartilage.
+
+297
+00:12:15,210 --> 00:12:16,830
+Finally, on the
+lower right is an
+
+298
+00:12:16,830 --> 00:12:18,990
+example of elastic
+cartilage. It contains
+
+299
+00:12:18,990 --> 00:12:20,590
+bundles of
+elastin, which are
+
+300
+00:12:20,590 --> 00:12:22,710
+stained purple here,
+and gives this type
+
+301
+00:12:22,710 --> 00:12:24,890
+of cartilage
+extreme flexibility.
+
+302
+00:12:25,090 --> 00:12:27,350
+Elastic cartilage
+resists being damaged
+
+303
+00:12:27,350 --> 00:12:29,530
+by being extremely
+compliant. However,
+
+304
+00:12:29,530 --> 00:12:31,370
+it has very little
+strength or rigidity,
+
+305
+00:12:31,370 --> 00:12:34,070
+and so it is not
+a strong material.
+
+306
+00:12:36,050 --> 00:12:38,050
+This figure highlights
+the distribution
+
+307
+00:12:38,050 --> 00:12:40,390
+of the three types
+of cartilage. You
+
+308
+00:12:40,390 --> 00:12:42,190
+should study the
+distribution of cartilages
+
+309
+00:12:42,190 --> 00:12:44,610
+and be able to
+recognize which of
+
+310
+00:12:44,610 --> 00:12:46,650
+the three types of
+cartilage a particular
+
+311
+00:12:46,650 --> 00:12:48,830
+cartilaginous
+structure is made of.
+
+312
+00:12:49,130 --> 00:12:50,550
+Highline cartilage shown
+
+313
+00:12:50,550 --> 00:12:52,470
+in blue is the
+most common.
+
+314
+00:12:52,650 --> 00:12:55,450
+Endochondral bone begins
+as highline cartilage
+
+315
+00:12:55,450 --> 00:12:57,430
+before it ossifies
+and becomes fully
+
+316
+00:12:57,430 --> 00:13:00,910
+ossified bones in adults.
+In an adult skeleton,
+
+317
+00:13:00,910 --> 00:13:03,430
+highline cartilage is
+located in synovial
+
+318
+00:13:03,430 --> 00:13:05,690
+joints, costal
+cartilages, and the
+
+319
+00:13:05,690 --> 00:13:07,990
+cartilages in the pharynx
+and bronchial tree.
+
+320
+00:13:08,270 --> 00:13:10,490
+Elastic cartilages,
+shown in
+
+321
+00:13:10,490 --> 00:13:12,490
+green, are the
+flimsy cartilages,
+
+322
+00:13:12,490 --> 00:13:14,250
+such as the
+oracle of the ear.
+
+323
+00:13:14,510 --> 00:13:17,110
+And finally,
+fibrocartilages, which
+
+324
+00:13:17,110 --> 00:13:19,510
+are in red, form the
+vertebral discs in
+
+325
+00:13:19,510 --> 00:13:21,430
+the spine and also
+some other specialized
+
+326
+00:13:21,430 --> 00:13:23,430
+cartilages, such
+as the menisci
+
+327
+00:13:23,430 --> 00:13:25,970
+in the knee and the
+***** symphysis.
+
+328
+00:13:27,450 --> 00:13:30,450
+As you study
+musculoskeletal anatomy,
+
+329
+00:13:30,450 --> 00:13:32,690
+joints are obviously
+a focal point.
+
+330
+00:13:32,930 --> 00:13:34,950
+Joints are areas
+where musculoskeletal
+
+331
+00:13:34,950 --> 00:13:36,750
+structures are
+joined in complex
+
+332
+00:13:36,750 --> 00:13:39,570
+ways to permit and
+restrict motion.
+
+333
+00:13:39,570 --> 00:13:41,910
+Joint injuries and
+joint degeneration
+
+334
+00:13:41,910 --> 00:13:43,970
+are significant
+concerns in medicine.
+
+335
+00:13:44,270 --> 00:13:46,590
+Joints consist of many
+parts, including the
+
+336
+00:13:46,590 --> 00:13:48,650
+proximal and distal
+ends of the bones,
+
+337
+00:13:48,650 --> 00:13:52,170
+the articular cartilages,
+and other cartilaginous
+
+338
+00:13:52,170 --> 00:13:54,030
+structures in the
+joints, such as
+
+339
+00:13:54,030 --> 00:13:56,550
+the fibrocartilaginous
+menisci in the knee.
+
+340
+00:13:56,770 --> 00:13:58,910
+Joints are held together
+by ligaments, as
+
+341
+00:13:58,910 --> 00:14:01,310
+you can see in the
+top right figure, but
+
+342
+00:14:01,310 --> 00:14:03,090
+also by muscles that
+cross these joints,
+
+343
+00:14:03,090 --> 00:14:05,510
+which are not pictured
+here. The strength,
+
+344
+00:14:05,510 --> 00:14:07,670
+mobility, and motions
+permitted by a
+
+345
+00:14:07,670 --> 00:14:10,250
+joint are determined
+by several variables.
+
+346
+00:14:10,550 --> 00:14:12,850
+These include the
+shapes of the articular
+
+347
+00:14:12,850 --> 00:14:15,350
+surfaces, which determine
+which directions
+
+348
+00:14:15,350 --> 00:14:17,510
+the joint can
+move. The ligaments
+
+349
+00:14:17,510 --> 00:14:19,450
+determine how much a
+joint can bend in some
+
+350
+00:14:19,450 --> 00:14:21,870
+directions and prevent
+excess movements
+
+351
+00:14:21,870 --> 00:14:24,450
+beyond that range. And
+in other directions,
+
+352
+00:14:24,450 --> 00:14:26,230
+ligaments completely
+prevent movement.
+
+353
+00:14:26,680 --> 00:14:28,890
+Muscles move the
+joints, but they also
+
+354
+00:14:28,890 --> 00:14:31,390
+act as dynamic ligaments
+and also determine
+
+355
+00:14:31,390 --> 00:14:33,590
+how much a joint
+can bend and prevent
+
+356
+00:14:33,590 --> 00:14:35,590
+excess movements
+beyond that range.
+
+357
+00:14:36,290 --> 00:14:38,810
+Joints have complex
+vasculature.
+
+358
+00:14:39,170 --> 00:14:41,610
+Anastomoses, which
+you will study in
+
+359
+00:14:41,610 --> 00:14:43,850
+detail later, are
+basically redundant
+
+360
+00:14:43,850 --> 00:14:46,050
+blood supplies. The
+same Joint tissues can
+
+361
+00:14:46,050 --> 00:14:48,130
+be supplied by numerous
+arteries, which
+
+362
+00:14:48,130 --> 00:14:49,750
+assure that blood
+moves to the joint
+
+363
+00:14:49,750 --> 00:14:52,390
+and to the tissues
+beyond the joint, no
+
+364
+00:14:52,390 --> 00:14:54,310
+matter what position
+the joint is in.
+
+365
+00:14:54,450 --> 00:14:57,610
+Basically anastomoses
+around joints prevent
+
+366
+00:14:57,610 --> 00:15:00,190
+a highly flexed joint
+from cutting off
+
+367
+00:15:00,190 --> 00:15:03,230
+blood supply to itself
+and distal body parts.
+
+368
+00:15:03,410 --> 00:15:05,770
+Finally, joint
+structures are richly
+
+369
+00:15:05,770 --> 00:15:07,250
+innervated.
+The tendons and
+
+370
+00:15:07,250 --> 00:15:08,870
+ligaments are highly
+sensitive to the
+
+371
+00:15:08,870 --> 00:15:10,610
+tension being
+exerted upon them.
+
+372
+00:15:10,620 --> 00:15:12,350
+This contributes
+to something
+
+373
+00:15:12,350 --> 00:15:14,370
+called proprioception,
+which is the
+
+374
+00:15:14,370 --> 00:15:16,270
+ability of a person
+to sense what
+
+375
+00:15:16,270 --> 00:15:18,130
+position their
+body parts are in.
+
+376
+00:15:18,390 --> 00:15:20,390
+Proprioception is an
+important sense as it
+
+377
+00:15:20,390 --> 00:15:22,670
+contributes to motor
+abilities, such as
+
+378
+00:15:22,670 --> 00:15:25,330
+touching your nose with
+your eyes, typing without
+
+379
+00:15:25,330 --> 00:15:27,310
+looking at your fingers,
+or walking up and
+
+380
+00:15:27,310 --> 00:15:29,150
+down stairs without
+looking at your feet.
+
+381
+00:15:29,230 --> 00:15:31,410
+There's an easy
+shortcut to understand
+
+382
+00:15:31,410 --> 00:15:32,950
+which nerves
+innervate which
+
+383
+00:15:32,950 --> 00:15:35,050
+joints. It's known
+as Hilton's Law.
+
+384
+00:15:37,290 --> 00:15:40,410
+John Hilton is a famous
+British surgeon who
+
+385
+00:15:40,410 --> 00:15:43,190
+first noted what we
+now call Hilton's Law.
+
+386
+00:15:43,230 --> 00:15:45,810
+Hilton's Law says that
+the nerve supplying
+
+387
+00:15:45,810 --> 00:15:48,010
+the muscles extending
+directly across
+
+388
+00:15:48,010 --> 00:15:50,850
+and acting at a
+given joint not only
+
+389
+00:15:50,850 --> 00:15:53,230
+supplies the muscle,
+but also innervates the
+
+390
+00:15:53,230 --> 00:15:55,970
+joint and the skin
+overlying the muscle.
+
+391
+00:15:56,230 --> 00:15:58,270
+Since you will be
+studying the attachments,
+
+392
+00:15:58,270 --> 00:16:00,050
+innervations,
+and actions of
+
+393
+00:16:00,050 --> 00:16:02,090
+muscles, you will
+be able to use that
+
+394
+00:16:02,090 --> 00:16:04,030
+knowledge to infer
+which nerves contribute
+
+395
+00:16:04,030 --> 00:16:06,130
+to the innervation
+of associated joint
+
+396
+00:16:06,130 --> 00:16:08,670
+structures. So, no
+need to memorize.
+
+397
+00:16:11,930 --> 00:16:13,710
+There are three types
+of joints in the
+
+398
+00:16:13,710 --> 00:16:15,910
+body. We have already
+discussed synovial
+
+399
+00:16:15,910 --> 00:16:17,870
+joints a little. They
+are the most common
+
+400
+00:16:17,870 --> 00:16:19,570
+joint in the body and
+are capable of the
+
+401
+00:16:19,570 --> 00:16:22,030
+most movement and the
+most diverse kinds of
+
+402
+00:16:22,030 --> 00:16:24,590
+movement. All synovial
+joints are enclosed
+
+403
+00:16:24,590 --> 00:16:27,350
+in a synovial capsule,
+which is filled
+
+404
+00:16:27,350 --> 00:16:29,300
+with a lubricant
+called synovial fluid,
+
+405
+00:16:29,300 --> 00:16:31,670
+and the articular
+surfaces of the bones
+
+406
+00:16:31,670 --> 00:16:34,230
+are capped with
+articular cartilages. We
+
+407
+00:16:34,230 --> 00:16:36,370
+will study synovial
+joints in more detail.
+
+408
+00:16:36,370 --> 00:16:38,430
+On the upper right,
+fibrous joints
+
+409
+00:16:38,430 --> 00:16:39,990
+are the sutures
+in the skull.
+
+410
+00:16:39,990 --> 00:16:42,490
+These are immobile
+or minimally mobile.
+
+411
+00:16:43,080 --> 00:16:45,550
+Syndysmosis are a
+type of fibrous joint
+
+412
+00:16:45,550 --> 00:16:47,330
+that has the potential
+for more motion.
+
+413
+00:16:47,330 --> 00:16:49,450
+The example here
+is the interosseous
+
+414
+00:16:49,450 --> 00:16:51,490
+membrane between the
+ulna and radius in
+
+415
+00:16:51,490 --> 00:16:53,650
+the forearm, which
+allows the radius to
+
+416
+00:16:53,650 --> 00:16:56,130
+rotate about the
+ulna. The lower right
+
+417
+00:16:56,130 --> 00:16:58,570
+shows two types of
+cartilaginous joints.
+
+418
+00:16:58,850 --> 00:17:00,930
+Primary cartilaginous
+joints, which
+
+419
+00:17:00,930 --> 00:17:02,880
+are also called
+synchondroses,
+
+420
+00:17:03,350 --> 00:17:05,910
+are the joints
+between the diaphyses
+
+421
+00:17:05,910 --> 00:17:07,730
+and the epiphyses
+of long bones.
+
+422
+00:17:07,730 --> 00:17:10,630
+Primary cartilaginous
+joints are not mobile.
+
+423
+00:17:10,630 --> 00:17:13,190
+These bones fuse
+with age, and primary
+
+424
+00:17:13,190 --> 00:17:15,870
+cartilaginous joints are
+not present in adults.
+
+425
+00:17:16,470 --> 00:17:19,090
+On the other hand,
+secondary cartilaginous
+
+426
+00:17:19,090 --> 00:17:21,350
+joints do persist in
+adults. The most common
+
+427
+00:17:21,350 --> 00:17:24,550
+examples of cartilaginous
+joints are the
+
+428
+00:17:24,550 --> 00:17:26,910
+vertebral discs, which
+allow limited motion.
+
+429
+00:17:28,350 --> 00:17:30,650
+You will receive an
+entire lecture on the
+
+430
+00:17:30,650 --> 00:17:33,070
+anatomy of synovial
+joints, so we will not
+
+431
+00:17:33,070 --> 00:17:35,030
+cover that here.
+However, you should be
+
+432
+00:17:35,030 --> 00:17:37,170
+familiar with the basic
+components of a synovial
+
+433
+00:17:37,170 --> 00:17:39,750
+joint, including the
+joint capsule, which
+
+434
+00:17:39,750 --> 00:17:41,830
+surrounds and seals
+the synovial capsule,
+
+435
+00:17:42,890 --> 00:17:45,750
+the synovial membrane,
+which secretes
+
+436
+00:17:45,750 --> 00:17:48,570
+synovial fluid, and the
+articular cartilage on
+
+437
+00:17:48,570 --> 00:17:50,590
+the proximal and distal
+ends of the bone.
+
+438
+00:17:53,390 --> 00:17:55,510
+And now let's move
+on to joint motion.
+
+439
+00:17:55,560 --> 00:17:57,330
+If you're not familiar
+with the different
+
+440
+00:17:57,330 --> 00:17:59,210
+types of motions,
+please review them
+
+441
+00:17:59,210 --> 00:18:01,330
+using this figure or
+some other resources.
+
+442
+00:18:01,710 --> 00:18:04,330
+One helpful aspect of
+the musculoskeletal
+
+443
+00:18:04,330 --> 00:18:06,330
+system is that you can
+use your own body as
+
+444
+00:18:06,330 --> 00:18:08,410
+a cheat sheet to help
+you study and understand
+
+445
+00:18:08,410 --> 00:18:10,690
+the motions of each
+joint. There is no
+
+446
+00:18:10,690 --> 00:18:12,950
+harm in moving a joint
+or palpating part of
+
+447
+00:18:12,950 --> 00:18:14,950
+your musculoskeletal
+system during a test.
+
+448
+00:18:14,970 --> 00:18:17,350
+Most of the
+musculoskeletal system is
+
+449
+00:18:17,350 --> 00:18:20,110
+observable through
+its motions, surface
+
+450
+00:18:20,110 --> 00:18:22,770
+anatomy, and palpation.
+As you study the
+
+451
+00:18:22,770 --> 00:18:25,150
+musculoskeletal system,
+study the anatomy
+
+452
+00:18:25,150 --> 00:18:26,970
+of your own body
+through these means
+
+453
+00:18:26,970 --> 00:18:28,790
+because with practice,
+it will become your
+
+454
+00:18:28,790 --> 00:18:31,110
+most useful study
+guide and reference.
+
+455
+00:18:33,590 --> 00:18:35,790
+You are naturally
+already familiar with
+
+456
+00:18:35,790 --> 00:18:37,770
+the flexion and
+extension capabilities
+
+457
+00:18:37,770 --> 00:18:40,190
+of most joints, but
+there are aspects of
+
+458
+00:18:40,190 --> 00:18:41,610
+motion that you
+may not have ever
+
+459
+00:18:41,610 --> 00:18:44,430
+recognized. As an
+example, try and evaluate
+
+460
+00:18:44,430 --> 00:18:46,850
+the ability of the
+knee joint to rotate.
+
+461
+00:18:46,850 --> 00:18:48,930
+Can the knee
+rotate? Are there
+
+462
+00:18:48,930 --> 00:18:50,070
+a limited number
+of positions
+
+463
+00:18:50,070 --> 00:18:51,570
+during which
+this is possible?
+
+464
+00:18:58,290 --> 00:19:00,470
+Tenovial joints can
+be classified by the
+
+465
+00:19:00,470 --> 00:19:03,450
+types of motions they
+allow. In this example,
+
+466
+00:19:03,450 --> 00:19:06,170
+there is at least
+one of each type of
+
+467
+00:19:06,170 --> 00:19:08,290
+joint. I've arranged
+them on the left in
+
+468
+00:19:08,290 --> 00:19:10,090
+order from the least
+mobile plane joint
+
+469
+00:19:10,090 --> 00:19:12,630
+to the most mobile
+ball and socket joint.
+
+470
+00:19:12,630 --> 00:19:14,490
+Plane joints are
+capable of some
+
+471
+00:19:14,490 --> 00:19:16,910
+small amounts of
+gliding and sliding.
+
+472
+00:19:17,530 --> 00:19:19,870
+Most other joint
+types are highly
+
+473
+00:19:19,870 --> 00:19:21,490
+mobile in some
+directions, but not
+
+474
+00:19:21,490 --> 00:19:23,450
+others. For example,
+hinge joints can
+
+475
+00:19:23,450 --> 00:19:26,270
+flex and extend,
+but cannot abduct,
+
+476
+00:19:26,490 --> 00:19:29,450
+adduct, rotate,
+or circumduct.
+
+477
+00:19:29,570 --> 00:19:31,410
+The most mobile
+joint is the
+
+478
+00:19:31,410 --> 00:19:32,890
+ball and socket
+joint, which is
+
+479
+00:19:32,890 --> 00:19:34,750
+capable of
+flexion, extension,
+
+480
+00:19:35,190 --> 00:19:36,190
+abduction,
+
+481
+00:19:36,370 --> 00:19:39,610
+adduction, rotation,
+and circumduction.
+
+482
+00:19:39,610 --> 00:19:41,730
+The knee, which we
+mentioned earlier, is
+
+483
+00:19:41,730 --> 00:19:43,630
+a special kind
+of joint called a
+
+484
+00:19:43,690 --> 00:19:46,130
+trochoginglimus, meaning
+that it can flex and
+
+485
+00:19:46,130 --> 00:19:48,930
+extend, and also
+rotate about an axis.
+
+486
+00:19:51,770 --> 00:19:53,650
+Again, you can
+discover the motions
+
+487
+00:19:53,650 --> 00:19:55,550
+of joints by
+examining yourself.
+
+488
+00:19:55,710 --> 00:19:56,910
+No need to memorize.
+
+489
+00:19:56,970 --> 00:19:59,350
+Try to deduce
+what motions the
+
+490
+00:19:59,770 --> 00:20:02,290
+metacarpophalangeal
+joints are capable of.
+
+491
+00:20:07,910 --> 00:20:09,390
+In Part 3 of
+this lecture, we
+
+492
+00:20:09,390 --> 00:20:10,710
+will cover muscles
+and the different
+
+493
+00:20:10,710 --> 00:20:12,330
+types of muscle
+contractions.
+
+494
+00:20:13,150 --> 00:20:15,230
+It is pointless to
+know the name and
+
+495
+00:20:15,230 --> 00:20:16,890
+anatomical location
+of a muscle
+
+496
+00:20:16,890 --> 00:20:19,370
+without knowing its
+associated detachments
+
+497
+00:20:19,370 --> 00:20:21,150
+and the primary
+action that the
+
+498
+00:20:21,150 --> 00:20:22,890
+muscle produces
+when it contracts.
+
+499
+00:20:22,990 --> 00:20:25,430
+Secondly, it is important
+to have familiarity
+
+500
+00:20:25,430 --> 00:20:27,110
+with the innervations
+of muscles,
+
+501
+00:20:27,110 --> 00:20:29,490
+as the evaluation of
+muscle function and
+
+502
+00:20:29,490 --> 00:20:31,570
+muscle impairments is
+a means of diagnosing
+
+503
+00:20:31,570 --> 00:20:33,510
+neurological injuries
+and disorders.
+
+504
+00:20:33,510 --> 00:20:35,290
+There are some
+convenient shortcuts
+
+505
+00:20:35,290 --> 00:20:37,070
+to learning the
+innervations of muscles
+
+506
+00:20:37,070 --> 00:20:38,690
+of the limbs,
+which will actually
+
+507
+00:20:38,690 --> 00:20:40,770
+make this quite
+easy. We will cover
+
+508
+00:20:40,770 --> 00:20:42,570
+these shortcuts in
+subsequent lectures.
+
+509
+00:20:42,570 --> 00:20:44,830
+Please note that
+a muscle name
+
+510
+00:20:44,830 --> 00:20:47,650
+includes its bellies
+and its tendons.
+
+511
+00:20:47,650 --> 00:20:49,590
+So when I refer
+to, for instance,
+
+512
+00:20:49,730 --> 00:20:51,190
+the biceps brachii,
+
+513
+00:20:51,190 --> 00:20:54,150
+I am referring to
+its long and short
+
+514
+00:20:54,150 --> 00:20:56,950
+heads and its proximal
+and distal tendons.
+
+515
+00:20:56,950 --> 00:20:58,950
+You should be able
+to recognize and know
+
+516
+00:20:58,950 --> 00:21:00,810
+the names of the
+individual bellies of
+
+517
+00:21:00,810 --> 00:21:03,090
+major muscles that have
+multiple bellies or
+
+518
+00:21:03,090 --> 00:21:05,470
+heads. For example,
+as I mentioned, the
+
+519
+00:21:05,470 --> 00:21:07,930
+biceps brachi has
+two bellies, the long
+
+520
+00:21:07,930 --> 00:21:09,910
+and short. They have
+different attachments
+
+521
+00:21:09,910 --> 00:21:12,370
+and cause non-identical
+sets of actions.
+
+522
+00:21:12,530 --> 00:21:14,130
+The name of the
+muscle sometimes
+
+523
+00:21:14,130 --> 00:21:16,310
+offers major clues
+to some aspect
+
+524
+00:21:16,310 --> 00:21:17,970
+of its anatomy.
+For instance,
+
+525
+00:21:18,250 --> 00:21:20,010
+the adductor
+pollicis reveals that
+
+526
+00:21:20,010 --> 00:21:21,890
+the muscle adducts
+the thumb. This
+
+527
+00:21:21,890 --> 00:21:23,070
+is a helpful shortcut for
+
+528
+00:21:23,070 --> 00:21:25,690
+remembering or deducing
+muscle actions.
+
+529
+00:21:28,090 --> 00:21:30,810
+Generally speaking,
+the term contraction in
+
+530
+00:21:30,810 --> 00:21:34,270
+physiology refers to a
+shortening or tensing
+
+531
+00:21:34,270 --> 00:21:37,310
+of an organ, especially
+muscles. However,
+
+532
+00:21:37,310 --> 00:21:39,630
+this is a poor and
+erroneous definition in
+
+533
+00:21:39,630 --> 00:21:42,410
+reference to muscles and
+often causes confusion
+
+534
+00:21:42,410 --> 00:21:44,830
+about what a muscle
+contraction really is.
+
+535
+00:21:46,280 --> 00:21:48,670
+When we study muscles
+and muscle function,
+
+536
+00:21:48,670 --> 00:21:50,790
+please strike any
+concept of shortening
+
+537
+00:21:50,790 --> 00:21:53,530
+or decreasing length
+from your understanding
+
+538
+00:21:53,530 --> 00:21:55,970
+of the term
+contraction. A muscle
+
+539
+00:21:55,970 --> 00:21:58,570
+contraction is the
+activation of muscle fibers
+
+540
+00:21:58,570 --> 00:22:00,750
+resulting in the
+generation of tension.
+
+541
+00:22:00,820 --> 00:22:02,530
+Nothing other than
+the generation
+
+542
+00:22:02,530 --> 00:22:04,250
+of tension is
+required for
+
+543
+00:22:04,250 --> 00:22:06,010
+a muscle contraction
+to occur.
+
+544
+00:22:06,010 --> 00:22:08,310
+While we might think
+of a muscle contraction
+
+545
+00:22:08,310 --> 00:22:10,530
+as leading to a
+shortening of the muscle,
+
+546
+00:22:10,530 --> 00:22:12,990
+this is not always
+the case. A length
+
+547
+00:22:12,990 --> 00:22:16,550
+change, either shortening
+or elongating, may
+
+548
+00:22:16,550 --> 00:22:18,930
+occur, but it is not
+required during a
+
+549
+00:22:18,930 --> 00:22:21,110
+muscle contraction.
+For example, you may
+
+550
+00:22:21,110 --> 00:22:23,930
+attempt to lift a weight.
+If the weight is too
+
+551
+00:22:23,930 --> 00:22:26,070
+heavy to lift, a
+muscle contraction will
+
+552
+00:22:26,070 --> 00:22:28,310
+have taken place, but
+if no movement has
+
+553
+00:22:28,310 --> 00:22:30,690
+taken place, the muscle
+has not shortened.
+
+554
+00:22:34,450 --> 00:22:36,790
+Having cleared that
+up, let's now look
+
+555
+00:22:36,790 --> 00:22:38,850
+at what the action
+of a muscle is.
+
+556
+00:22:38,850 --> 00:22:40,850
+When you read
+anatomy textbooks,
+
+557
+00:22:40,850 --> 00:22:42,830
+muscles are described
+as having actions.
+
+558
+00:22:42,830 --> 00:22:45,110
+The action of a muscle
+is what happens when
+
+559
+00:22:45,110 --> 00:22:47,210
+the muscle contracts
+without resistance and
+
+560
+00:22:47,210 --> 00:22:49,890
+it produces a movement.
+To use the biceps
+
+561
+00:22:49,890 --> 00:22:52,610
+brakii example again,
+when it contracts without
+
+562
+00:22:52,610 --> 00:22:55,650
+resistance, it causes
+the elbow to flex.
+
+563
+00:22:55,730 --> 00:22:58,250
+The action of the
+triceps brakii,
+
+564
+00:22:58,250 --> 00:22:59,550
+on the other
+hand, when it
+
+565
+00:22:59,550 --> 00:23:01,050
+contracts with
+no resistance,
+
+566
+00:23:01,050 --> 00:23:03,130
+causes the
+elbow to extend.
+
+567
+00:23:03,290 --> 00:23:05,810
+However, in real
+life, muscles do not
+
+568
+00:23:05,810 --> 00:23:08,310
+work in isolation and
+without resistance.
+
+569
+00:23:08,310 --> 00:23:11,490
+The biceps and the
+triceps are antagonists.
+
+570
+00:23:11,490 --> 00:23:13,730
+In other words, they
+move the elbow in the
+
+571
+00:23:13,730 --> 00:23:16,090
+opposite directions
+and if they contract at
+
+572
+00:23:16,090 --> 00:23:18,670
+the same time will work
+against one another.
+
+573
+00:23:18,770 --> 00:23:21,970
+There are also external
+forces that muscles
+
+574
+00:23:21,970 --> 00:23:25,050
+must both combat and
+cooperate with, such
+
+575
+00:23:25,050 --> 00:23:27,210
+as the force of gravity
+pulling on the body,
+
+576
+00:23:27,590 --> 00:23:29,750
+gravity pulling on
+other objects that
+
+577
+00:23:29,750 --> 00:23:31,570
+someone may be
+attempting to interact
+
+578
+00:23:31,570 --> 00:23:33,390
+with, or the
+resistance of another
+
+579
+00:23:33,390 --> 00:23:35,390
+person, such as a
+wrestling opponent.
+
+580
+00:23:35,850 --> 00:23:37,230
+Consequently,
+as you will see,
+
+581
+00:23:37,230 --> 00:23:38,730
+muscles do not
+always shorten when
+
+582
+00:23:38,730 --> 00:23:41,190
+they contract, and
+they do not always
+
+583
+00:23:41,190 --> 00:23:43,070
+produce their
+textbook actions.
+
+584
+00:23:44,790 --> 00:23:47,410
+Walking down stairs is
+a classic example of
+
+585
+00:23:47,410 --> 00:23:49,850
+muscles counteracting
+gravity using eccentric
+
+586
+00:23:49,850 --> 00:23:51,950
+contractions of the
+quadriceps muscles.
+
+587
+00:23:54,130 --> 00:23:56,830
+So at this point,
+let's go over the major
+
+588
+00:23:56,830 --> 00:23:59,110
+types of muscle
+contractions. On the
+
+589
+00:23:59,110 --> 00:24:01,650
+left, Arnold Schwarzenegger
+is just standing
+
+590
+00:24:01,650 --> 00:24:04,150
+there, not moving,
+but his muscles are
+
+591
+00:24:04,150 --> 00:24:06,950
+in a state of tonus.
+Tonus is the condition
+
+592
+00:24:06,950 --> 00:24:09,880
+of your muscles
+constantly being in an
+
+593
+00:24:09,880 --> 00:24:12,330
+involuntary state of
+minor contraction.
+
+594
+00:24:12,580 --> 00:24:15,170
+Tonus is involuntary
+and always occurs,
+
+595
+00:24:15,170 --> 00:24:17,350
+although it diminishes
+during REM sleep.
+
+596
+00:24:17,350 --> 00:24:18,850
+We will not discuss tonic
+
+597
+00:24:18,850 --> 00:24:19,890
+contractions further.
+
+598
+00:24:20,260 --> 00:24:22,590
+In the middle
+photo, Arnold is
+
+599
+00:24:22,590 --> 00:24:24,790
+demonstrating an
+isometric contraction.
+
+600
+00:24:24,790 --> 00:24:27,090
+The flexors of his
+elbow, including his
+
+601
+00:24:27,090 --> 00:24:30,070
+biceps brachii, and the
+extensor, the triceps
+
+602
+00:24:30,070 --> 00:24:32,150
+brachii, are contracting
+in equilibrium
+
+603
+00:24:32,150 --> 00:24:34,490
+and holding his elbow
+in an unmoving state
+
+604
+00:24:34,490 --> 00:24:36,970
+of stasis. As long
+as his elbow is in
+
+605
+00:24:36,970 --> 00:24:39,930
+the same position, the
+muscles do not change
+
+606
+00:24:39,930 --> 00:24:41,990
+length, although they
+are still contracting,
+
+607
+00:24:41,990 --> 00:24:44,130
+so during an
+isometric contraction,
+
+608
+00:24:44,130 --> 00:24:46,470
+the length of the
+muscles do not change.
+
+609
+00:24:46,490 --> 00:24:48,350
+In the right
+photo, Arnold is
+
+610
+00:24:48,350 --> 00:24:49,790
+working out with
+a weight machine.
+
+611
+00:24:49,790 --> 00:24:51,670
+His elbow is going
+through cycles
+
+612
+00:24:51,670 --> 00:24:53,930
+of extending and
+flexing, and the
+
+613
+00:24:53,930 --> 00:24:55,950
+extensor muscles
+in his arm are
+
+614
+00:24:55,950 --> 00:24:57,990
+changing length with
+each contraction.
+
+615
+00:24:59,570 --> 00:25:01,950
+These are isotonic
+contractions.
+
+616
+00:25:02,650 --> 00:25:04,390
+There are
+further two types
+
+617
+00:25:04,390 --> 00:25:05,910
+of isotonic contractions.
+
+618
+00:25:05,910 --> 00:25:08,490
+Concentric contractions
+are where the
+
+619
+00:25:08,490 --> 00:25:11,610
+muscles shorten, and
+eccentric contractions
+
+620
+00:25:11,610 --> 00:25:13,400
+are where the
+muscle elongates.
+
+621
+00:25:13,710 --> 00:25:15,990
+It sounds highly
+counterintuitive that
+
+622
+00:25:15,990 --> 00:25:17,970
+a muscle can elongate
+while it contracts
+
+623
+00:25:17,970 --> 00:25:19,690
+because a muscle
+can only pull in
+
+624
+00:25:19,690 --> 00:25:22,230
+one direction. It
+cannot push. But I
+
+625
+00:25:22,230 --> 00:25:24,230
+hope to explain this
+in further slides.
+
+626
+00:25:25,770 --> 00:25:28,690
+In this scenario,
+a weightlifter is
+
+627
+00:25:28,690 --> 00:25:30,530
+lifting and lowering
+a weight. weight.
+
+628
+00:25:30,530 --> 00:25:33,350
+This exercise involves
+repeated flexion
+
+629
+00:25:33,350 --> 00:25:35,590
+and extension of
+the elbow against
+
+630
+00:25:35,590 --> 00:25:38,190
+a constant extrinsic
+force, in this
+
+631
+00:25:38,190 --> 00:25:40,090
+case the pull of
+gravity on the weight,
+
+632
+00:25:40,210 --> 00:25:41,790
+which continually pulls
+
+633
+00:25:41,790 --> 00:25:43,730
+downward a
+constant amount.
+
+634
+00:25:43,930 --> 00:25:46,530
+Even though the elbow
+is both flexing and
+
+635
+00:25:46,530 --> 00:25:48,950
+extending in this
+exercise, bodybuilders
+
+636
+00:25:48,950 --> 00:25:50,930
+are well aware that
+the exercise works
+
+637
+00:25:50,930 --> 00:25:53,170
+the biceps brachi
+but does absolutely
+
+638
+00:25:53,170 --> 00:25:55,950
+nothing for the triceps.
+The triceps does
+
+639
+00:25:55,950 --> 00:25:58,050
+nothing here, while the
+biceps controls both
+
+640
+00:25:58,050 --> 00:26:01,030
+the up and down
+movement of the weight.
+
+641
+00:26:02,550 --> 00:26:05,610
+How can it be that
+the biceps brakii
+
+642
+00:26:05,610 --> 00:26:07,310
+and other flexor
+muscles of the elbow
+
+643
+00:26:07,310 --> 00:26:09,750
+control both flexion
+and extension
+
+644
+00:26:09,750 --> 00:26:12,790
+and the triceps
+brakii plays no role?
+
+645
+00:26:15,970 --> 00:26:18,250
+In phase one of
+this exercise,
+
+646
+00:26:18,250 --> 00:26:20,110
+the biceps brakii
+and other flexor
+
+647
+00:26:20,110 --> 00:26:21,750
+muscles of the
+elbow contract.
+
+648
+00:26:21,990 --> 00:26:24,690
+The contraction is
+sufficiently powerful to
+
+649
+00:26:24,690 --> 00:26:26,650
+overcome the force of
+gravity on the weight.
+
+650
+00:26:26,650 --> 00:26:28,990
+The flexor muscles
+shorten and the weight
+
+651
+00:26:28,990 --> 00:26:31,650
+is lifted. This is a
+concentric contraction.
+
+652
+00:26:32,970 --> 00:26:35,490
+In phase two, the
+weight must be
+
+653
+00:26:35,490 --> 00:26:37,990
+lowered at a slow,
+controlled rate. The
+
+654
+00:26:37,990 --> 00:26:40,410
+gravitational pull
+on the weight can
+
+655
+00:26:40,410 --> 00:26:42,390
+extend the arm without
+muscular input.
+
+656
+00:26:42,390 --> 00:26:44,370
+The triceps is
+therefore not needed
+
+657
+00:26:44,370 --> 00:26:46,370
+to extend the arm
+in this situation.
+
+658
+00:26:46,370 --> 00:26:47,630
+As noted, the weight
+
+659
+00:26:47,630 --> 00:26:48,970
+must be lowered slowly.
+
+660
+00:26:49,150 --> 00:26:51,330
+Moreover, the
+triceps can offer no
+
+661
+00:26:51,330 --> 00:26:53,350
+assistance in slowing
+the rate that the arm
+
+662
+00:26:53,350 --> 00:26:55,850
+is extended since
+it can only work in
+
+663
+00:26:55,850 --> 00:26:58,030
+the same direction
+as the weight itself.
+
+664
+00:26:58,150 --> 00:27:00,290
+You might conclude
+that the flexor
+
+665
+00:27:00,290 --> 00:27:03,090
+muscles of the arm
+must relax to lower
+
+666
+00:27:03,090 --> 00:27:05,470
+the weight. But this
+is not the case.
+
+667
+00:27:05,470 --> 00:27:07,570
+If the flexor
+muscles relaxed, the
+
+668
+00:27:07,570 --> 00:27:09,570
+weight would fall
+suddenly and rapidly.
+
+669
+00:27:09,610 --> 00:27:11,770
+Again, the weight must
+be lowered slowly.
+
+670
+00:27:11,830 --> 00:27:14,770
+The flexor muscles must
+continue to contract,
+
+671
+00:27:14,770 --> 00:27:16,830
+but with a force
+that is slightly less
+
+672
+00:27:16,830 --> 00:27:18,930
+than the gravitational
+pull of the weight.
+
+673
+00:27:18,930 --> 00:27:21,650
+In this scenario,
+the weight is slowly
+
+674
+00:27:21,650 --> 00:27:23,730
+lowered and the
+elbow is extended.
+
+675
+00:27:23,730 --> 00:27:25,470
+due to the
+controlled resistance
+
+676
+00:27:25,470 --> 00:27:26,990
+of the flexor
+muscles, which
+
+677
+00:27:26,990 --> 00:27:28,510
+included the
+biceps brachi.
+
+678
+00:27:29,250 --> 00:27:32,310
+The muscle is
+activated, but the
+
+679
+00:27:32,310 --> 00:27:34,730
+weight is forcing
+it to be elongated.
+
+680
+00:27:34,730 --> 00:27:36,710
+This is an eccentric
+contraction.
+
+681
+00:27:39,980 --> 00:27:41,890
+This is easy to
+understand if
+
+682
+00:27:41,890 --> 00:27:43,350
+you compare it
+to a tug-of-war.
+
+683
+00:27:43,350 --> 00:27:45,630
+Muscles are
+continuously in a tug
+
+684
+00:27:45,630 --> 00:27:47,890
+-of-war battle with
+opposing forces.
+
+685
+00:27:47,890 --> 00:27:50,670
+Gravity is a constant
+opposing force. In
+
+686
+00:27:50,670 --> 00:27:53,090
+a tug-of-war battle
+with gravity, in this
+
+687
+00:27:53,090 --> 00:27:55,490
+scenario the muscle
+overpowers gravity.
+
+688
+00:27:55,490 --> 00:27:57,750
+The muscle shortens
+and the muscle wins.
+
+689
+00:28:00,010 --> 00:28:02,610
+During an eccentric
+contraction, gravity
+
+690
+00:28:02,610 --> 00:28:05,130
+and muscles are opposing
+one another, but
+
+691
+00:28:05,130 --> 00:28:07,330
+in this case gravity
+is more powerful.
+
+692
+00:28:07,650 --> 00:28:09,510
+Gravity pulls the
+muscle with a force
+
+693
+00:28:09,510 --> 00:28:11,590
+that exceeds the force
+of the contraction.
+
+694
+00:28:11,850 --> 00:28:14,410
+In some cases, the
+force may simply
+
+695
+00:28:14,410 --> 00:28:15,790
+be more powerful
+than the full
+
+696
+00:28:15,790 --> 00:28:17,570
+potential of the
+muscle to resist.
+
+697
+00:28:17,830 --> 00:28:19,930
+However, in most
+circumstances, the
+
+698
+00:28:19,930 --> 00:28:22,570
+muscle is allowing
+gravity to win on purpose
+
+699
+00:28:22,570 --> 00:28:25,250
+by exerting a
+contractile force against
+
+700
+00:28:25,250 --> 00:28:27,130
+gravity that
+controls the rate of
+
+701
+00:28:27,130 --> 00:28:29,110
+movement in the direction
+that is opposite
+
+702
+00:28:29,110 --> 00:28:31,070
+of the primary
+action of the muscle.
+
+703
+00:28:31,110 --> 00:28:34,810
+An eccentric contraction
+always involves
+
+704
+00:28:34,810 --> 00:28:36,230
+movement in the
+direction that is
+
+705
+00:28:36,230 --> 00:28:38,290
+in the opposite of
+the primary action
+
+706
+00:28:38,290 --> 00:28:40,530
+of the muscle. So,
+for example, if
+
+707
+00:28:40,530 --> 00:28:43,370
+a concentric contraction
+of a particular
+
+708
+00:28:43,370 --> 00:28:45,630
+muscle causes
+flexion of a joint,
+
+709
+00:28:45,990 --> 00:28:48,470
+An eccentric
+contraction of the
+
+710
+00:28:48,470 --> 00:28:50,530
+same muscle will
+always involve
+
+711
+00:28:50,530 --> 00:28:52,410
+extension of
+the same joint.
+
+712
+00:28:54,610 --> 00:28:57,350
+Because gravity is a
+constant force, day
+
+713
+00:28:57,350 --> 00:28:59,150
+-to-day movement of
+the human body will
+
+714
+00:28:59,150 --> 00:29:03,470
+always involve a complex
+mixture of concentric
+
+715
+00:29:03,910 --> 00:29:06,670
+and eccentric
+contractions. As you study
+
+716
+00:29:06,670 --> 00:29:08,430
+muscles and their
+primary actions, it
+
+717
+00:29:08,430 --> 00:29:10,310
+would be a good idea
+to explore how use of
+
+718
+00:29:10,310 --> 00:29:12,850
+those muscles might
+involve concentric and
+
+719
+00:29:12,850 --> 00:29:15,060
+eccentric contractions.
+So, for instance,
+
+720
+00:29:15,340 --> 00:29:17,220
+you might ask
+yourself what exercise
+
+721
+00:29:17,220 --> 00:29:19,740
+could one do that
+involves both flexion and
+
+722
+00:29:19,740 --> 00:29:22,700
+extension of the elbow
+with contractions
+
+723
+00:29:22,700 --> 00:29:25,320
+of the biceps, of
+the triceps brachi.
+
+724
+00:29:28,520 --> 00:29:31,540
+So a push-up is a good
+example of another
+
+725
+00:29:31,540 --> 00:29:35,400
+simple exercise that
+uses the triceps brachi
+
+726
+00:29:35,400 --> 00:29:37,660
+that involves a
+mixture of concentric
+
+727
+00:29:37,660 --> 00:29:39,860
+and eccentric contractions
+of the triceps
+
+728
+00:29:39,860 --> 00:29:42,100
+brachi. On your own
+time, consider the
+
+729
+00:29:42,100 --> 00:29:44,060
+position of the elbow
+during the up phase
+
+730
+00:29:44,060 --> 00:29:46,500
+and down phase of a
+push-up. What kinds
+
+731
+00:29:46,500 --> 00:29:48,480
+of contractions of
+the triceps brachii
+
+732
+00:29:48,480 --> 00:29:51,000
+were involved to
+reach each point? It's
+
+733
+00:29:51,000 --> 00:29:52,680
+easiest to remember
+that an eccentric
+
+734
+00:29:52,680 --> 00:29:54,800
+contraction is always
+the opposite movement
+
+735
+00:29:54,800 --> 00:29:56,840
+of the primary
+action of the muscle.

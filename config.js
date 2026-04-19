@@ -1,5 +1,11 @@
 
 const testsToLoad = [
+    // --- Review Lectures ---
+    { name: "Review Lectures-Lecture 6: Mihlbachler", data: window.Test_Review_L6 },
+    { name: "Review Lectures-Lecture 90: Slieman", data: window.Test_Review_L90 },
+    { name: "Review Lectures-Lecture 97: Slieman", data: window.Test_Review_L97 },
+    { name: "Review Lectures-Lecture 130: Plummer", data: window.Test_Review_L130_Plummer },
+
     // --- Week 1 (L1-13) ---
     { name: "1-OMM: Basics of Diagnosis (L1a)", data: window.Test_L1a },
     { name: "1-OMM: Diagnosis of the Pelvis (L1b)", data: window.Test_L1b },
