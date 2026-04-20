@@ -1,4 +1,4 @@
-const testL111 = [
+window.Test_L111 = [
   {
     "id": 1,
     "question": "A 25-year-old athlete undergoes an MRI of the hip after a traumatic injury. The radiologist notes a tear of the fibrocartilaginous structure that deepens the acetabulum. What is the primary function of this structure?",
