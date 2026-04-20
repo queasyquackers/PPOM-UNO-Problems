@@ -1,6 +1,6 @@
 
 // Lecture 48: Pharmacology_ Sedative Hypnotics Faculty_ M. Pino, Ph.D.
-const Test_L48 = [
+window.Test_L48 = [
     {
         "id": 1,
         "category": "Pharmacology: Sedative Hypnotics",

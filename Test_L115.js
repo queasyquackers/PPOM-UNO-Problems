@@ -1,4 +1,4 @@
-const Test_L115 = [
+window.Test_L115 = [
   {
     "id": 1,
     "category": "Sports Medicine: Overuse Injuries",

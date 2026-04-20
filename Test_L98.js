@@ -1,4 +1,4 @@
-const Test_L98 = [
+window.Test_L98 = [
   {
     "id": 1,
     "category": "Neurovirology: Pathogenesis",

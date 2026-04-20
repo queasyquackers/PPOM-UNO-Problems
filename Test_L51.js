@@ -2,7 +2,7 @@
 // Faculty: A. Leder, D.O.
 // Transcript Length: ~26 mins
 
-const Test_L51 = [
+window.Test_L51 = [
     {
         "id": 1,
         "category": "Neurology: Memory Disorders",

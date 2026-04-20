@@ -1,4 +1,4 @@
-const Test_L99 = [
+window.Test_L99 = [
   {
     "id": 1,
     "category": "Infectious Disease: Bacterial Meningitis",

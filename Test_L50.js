@@ -1,4 +1,4 @@
-const Test_L50 = [
+window.Test_L50 = [
     {
         "id": 1,
         "category": "Neurology: Seizure Classification",

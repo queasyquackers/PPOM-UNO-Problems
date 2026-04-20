@@ -1,5 +1,5 @@
 // window.Test_L72
-const Test_L72 = [
+window.Test_L72 = [
   {
     "id": 1,
     "category": "Neurology: Neuro-oncology",

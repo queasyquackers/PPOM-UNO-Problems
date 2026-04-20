@@ -1,4 +1,4 @@
-const Test_L113 = [
+window.Test_L113 = [
   {
     "id": 1,
     "category": "MSK Imaging: Systematic Approach",

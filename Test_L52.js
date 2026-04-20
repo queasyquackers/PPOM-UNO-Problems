@@ -2,7 +2,7 @@
 // Faculty: L. Goldstein, Pharm.D.
 // Transcript Length: ~1h 24m
 
-const Test_L52 = [
+window.Test_L52 = [
     {
         "id": 1,
         "category": "Pharmacology: Antiseizure Drugs",

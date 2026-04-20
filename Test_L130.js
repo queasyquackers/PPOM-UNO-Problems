@@ -1,4 +1,4 @@
-const Test_L130 = [
+window.Test_L130 = [
   {
     "id": 1,
     "category": "Pharmacology: Gout Management",

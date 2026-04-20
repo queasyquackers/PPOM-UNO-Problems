@@ -5,7 +5,7 @@
 // 4.  **PDF Mapping:** Verified filename "Lecture # 57. A. Leder, D.O. (PPT).pdf".
 // 5.  **Question Mix:** 75% Vignette (Type A), 25% Focused (Type B).
 
-const Test_L57 = [
+window.Test_L57 = [
     {
         "id": 1,
         "category": "Neurology: Parkinson's Disease",

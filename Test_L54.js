@@ -1,7 +1,7 @@
 // Lecture 54: Aphasia and Common Strokes
 // Faculty: A. Leder, D.O.
 
-const Test_L54 = [
+window.Test_L54 = [
     {
         "id": 1,
         "category": "Neurology: Stroke Syndromes",

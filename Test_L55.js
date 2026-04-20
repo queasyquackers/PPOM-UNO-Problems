@@ -1,7 +1,7 @@
 // Lecture 55: Cerebrovascular Diseases
 // Content based on: Lecture #55_ Cerebrovascular Diseases Faculty_ W. Zaloga, D.O..srt
 
-const Test_L55 = [
+window.Test_L55 = [
     {
         "id": 1,
         "category": "Neurology: Diagnostics",

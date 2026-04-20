@@ -1,4 +1,4 @@
-const Test_L114 = [
+window.Test_L114 = [
   {
     "id": 1,
     "category": "Radiology: MSK Ultrasound",

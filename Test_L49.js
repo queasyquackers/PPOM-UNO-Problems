@@ -1,4 +1,4 @@
-const Test_L49 = [
+window.Test_L49 = [
     {
         "id": 1,
         "category": "Sleep Physiology",
