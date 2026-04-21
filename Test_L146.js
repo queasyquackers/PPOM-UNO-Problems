@@ -1,5 +1,5 @@
 window.Test_L146 = [
-  {
+  category{
     "category": "Mechanism of Disease",
     "questionText": "A 2-month-old male infant is brought to the pediatrician for persistent oral thrush and failure to thrive. Newborn screening revealed absent T-cell receptor excision circles (TRECs). Laboratory studies show profoundly low counts of T-cells, B-cells, and natural killer (NK) cells. A deficiency in which of the following enzymes is the most likely cause of this patient's condition?",
     "options": [
@@ -26,10 +26,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "ADA deficiency is the second most common cause of SCID and affects T, B, and NK cells due to toxic dATP buildup.",
-    "pdfPage": 38,
+    "pdfPage": 12,
     "pdfQuote": "in ADA you'll have an increased urine deoxyadenosine which is that that uh the harmful material that builds up"
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A 3-month-old male presents with recurrent pneumonia, chronic watery diarrhea, and persistent diaper dermatitis. Flow cytometry reveals absent T-cells and NK cells, but a normal number of B-cells. The genetic defect in this patient most likely involves which of the following?",
     "options": [
@@ -59,7 +59,7 @@ window.Test_L146 = [
     "pdfPage": 16,
     "pdfQuote": "the most common form is actually the x-linked inheritance and x-linked inheritance um specifically affects the receptor for interleukin 2."
   },
-  {
+  category{
     "category": "Embryology",
     "questionText": "Infant male born at 39 weeks' gestation is noted to have a cleft palate and a low-set ears. Shortly after birth, he experiences a generalized seizure. Laboratory studies show a serum calcium of 6.2 mg/dL. An echocardiogram reveals truncus arteriosus. The primary defect in this condition involves the failure of which embryological structures to develop?",
     "options": [
@@ -86,10 +86,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "DiGeorge Syndrome is a failure of the 3rd and 4th pharyngeal pouches to develop, leading to thymic and parathyroid aplasia.",
-    "pdfPage": 41,
+    "pdfPage": 14,
     "pdfQuote": "it's basically a failure to develop the third and fourth pharyngeal arch uh pharyngeal pouch sorry"
   },
-  {
+  category{
     "category": "Clinical Presentation",
     "questionText": "A 4-day-old neonate is evaluated because the umbilical cord has not yet separated. The infant has an elevated leukocyte count of 65,000/mm³ with 90% neutrophils. There is no evidence of inflammation or pus at the umbilical site. This presentation is most characteristic of a defect in which of the following?",
     "options": [
@@ -119,7 +119,7 @@ window.Test_L146 = [
     "pdfPage": 12,
     "pdfQuote": "leukocyte adhesion deficiency... delayed separation of the umbilical cord and you find increased neutrophils in the blood but not at the area of the injury"
   },
-  {
+  category{
     "category": "Immunology",
     "questionText": "An 8-month-old male is evaluated for recurrent episodes of otitis media and Streptococcus pneumoniae pneumonia. Physical examination reveals absent tonsils and no palpable peripheral lymph nodes. Laboratory studies indicate a total absence of B-cells (CD19+ and CD20+). Which of the following describes the mechanism of this disease?",
     "options": [
@@ -146,10 +146,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "XLA (Bruton's) is characterized by a BTK mutation, absent B-cells, and absent tonsils/lymph nodes.",
-    "pdfPage": 45,
+    "pdfPage": 15,
     "pdfQuote": "you get a defect in the tyrosine kinase which is encoded by the BTK gene... they get trapped in the bone marrow... you get very very low or absent b cells in the peripheral blood"
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A 10-month-old male is diagnosed with recurrent Pneumocystis jirovecii pneumonia and Cryptosporidium diarrhea. Serum electrophoresis shows a normal-to-elevated IgM level, but significantly decreased levels of IgG, IgA, and IgE. Flow cytometry reveals that his T-cells lack a specific surface ligand. This patient's disorder is most likely inherited in what fashion?",
     "options": [
@@ -176,10 +176,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Hyper IgM Syndrome (CD40L defect) is X-linked recessive and presents with elevated IgM and low IgG/IgA/IgE.",
-    "pdfPage": 48,
+    "pdfPage": 16,
     "pdfQuote": "defective CD40L which is the ligand that helps convert um the class switching... This is also an X-linked recessive disease."
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A young boy is brought to the clinic for evaluation of a chronic, itchy skin rash. His physical features include a coarse face and wide-set eyes. He has a history of multiple 'cold' skin abscesses caused by Staphylococcus aureus that were not associated with redness or pain. Laboratory studies show an extremely high serum IgE level. A mutation in which gene is responsible for this condition?",
     "options": [
@@ -206,10 +206,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Job Syndrome (STAT3 mutation) features high IgE, 'cold' abscesses, coarse facies, and retained primary teeth.",
-    "pdfPage": 50,
+    "pdfPage": 17,
     "pdfQuote": "STAT3 mutation on chromosome 17... allergies uh like dermatologic eczema picture. Your IgE will be increased."
   },
-  {
+  category{
     "category": "Mechanism of Disease",
     "questionText": "A 2-year-old male with a history of severe eczema and recurrent ear infections is found to have a low platelet count on routine blood work. On peripheral smear, the platelets are abnormally small. The patient's inability to reorganize which of the following is the primary cellular defect?",
     "options": [
@@ -236,10 +236,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Wiskott-Aldrich features the triad of Thrombocytopenia (microplatelets), Eczema, and Recurrent infections due to an actin cytoskeleton defect.",
-    "pdfPage": 51,
+    "pdfPage": 18,
     "pdfQuote": "mutation in the WAAS gene which affects... unable to reorganize the acting cytoskeleton and that's super important in presenting the antigen."
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A 4-year-old girl is brought to the neurology clinic for progressive difficulty with walking. Physical examination reveals uncoordinated movements and small, red, spider-like veins on her eyes and ears. Laboratory studies show an elevated serum alpha-fetoprotein (AFP). A mutation in which of the following is the most likely cause?",
     "options": [
@@ -266,10 +266,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Ataxia Telangiectasia is caused by an ATM gene mutation (DNA repair defect) and presents with ataxia, telangiectasias, and high AFP.",
-    "pdfPage": 55,
+    "pdfPage": 19,
     "pdfQuote": "defect in the ATM gene... you get failure to stop the progression or the checkpoints of the cell cycle... alpha-fetoprotein will also be increased."
   },
-  {
+  category{
     "category": "Clinical Presentation",
     "questionText": "Which of the following physical examination findings would most help distinguish DiGeorge Syndrome from Severe Combined Immunodeficiency (SCID) in an infant showing an absent thymic shadow on a chest X-ray?",
     "options": [
@@ -296,10 +296,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Hypocalcemia and cardiac defects distinguish DiGeorge Syndrome from other causes of thymic aplasia.",
-    "pdfPage": 41,
+    "pdfPage": 14,
     "pdfQuote": "immune dysfunction and hypocalcemia, okay, because of those specific things. You can also get craniofacial abnormalities"
   },
-  {
+  category{
     "category": "Screening",
     "questionText": "Modern newborn screening programs utilize PCR to detect T-cell receptor excision circles (TRECs). This test is specifically designed to identify which of the following life-threatening conditions before symptoms occur?",
     "options": [
@@ -329,7 +329,7 @@ window.Test_L146 = [
     "pdfPage": 17,
     "pdfQuote": "newborn screening is available... if you see severe reduction in the T-cell TRECS um that can really be very indicative of severe combined immunodeficiency"
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A patient with Ataxia Telangiectasia is at significantly increased risk for which of the following complications due to their underlying genetic defect?",
     "options": [
@@ -356,10 +356,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "ATM gene mutations lead to radiation sensitivity and high risk of malignancies.",
-    "pdfPage": 56,
+    "pdfPage": 19,
     "pdfQuote": "There is extreme sensitivity to radiation. So when they get x-rays, you have to be very careful because remember x-rays cause DNA breaks"
   },
-  {
+  category{
     "category": "Immunology",
     "questionText": "A 5-year-old male with recurrent pyogenic infections is diagnosed with Hyper IgM Syndrome. Histologic examination of his lymph nodes would most likely reveal which of the following abnormalities?",
     "options": [
@@ -386,10 +386,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Failure of CD40L-CD40 interaction in Hyper IgM Syndrome results in absent germinal centers.",
-    "pdfPage": 48,
+    "pdfPage": 16,
     "pdfQuote": "you get a failure to make germinal centers because that's a main area where the class switching will happen"
   },
-  {
+  category{
     "category": "Treatment",
     "questionText": "A one-time thymic tissue transplant called 'Rethymic' has recently been approved for the treatment of thymic aplasia. In which location is this tissue typically transplanted into the patient?",
     "options": [
@@ -416,10 +416,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Thymic tissue transplant for DiGeorge can be performed in the thigh and does not require HLA matching.",
-    "pdfPage": 44,
+    "pdfPage": 14,
     "pdfQuote": "and they'll do it inside the on the the inner part of the thigh and it still provides the same functionality"
   },
-  {
+  category{
     "category": "Clinical Presentation",
     "questionText": "A infant is diagnosed with 'Bubble Baby Syndrome' (SCID) and is undergoing clinical trial for gene therapy using a viral vector. Which of the following vectors is preferred in modern trials because it has a lower risk of causing future leukemia?",
     "options": [
@@ -446,10 +446,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Lentiviral vectors are the safe choice for current SCID gene therapy trials.",
-    "pdfPage": 40,
+    "pdfPage": 18,
     "pdfQuote": "they use lentiviral instead of a retroviral because they found that the retroviral will actually put them at more risk for developing cancers"
   },
-  {
+  category{
     "category": "Higher-Order Application",
     "questionText": "A 5-month-old male is admitted with fever, tachypnea, and cyanosis. Silver stain of a bronchoalveolar lavage specimen reveals disk-shaped cysts, confirming Pneumocystis jirovecii pneumonia. Flow cytometry shows the following CD marker profile: CD3- (absent), CD4- (absent), CD8- (absent), CD19+ (present), CD20+ (present), and CD56- (absent). Which of the following mutations is the most likely cause?",
     "options": [
@@ -476,10 +476,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "IL-2R gamma chain mutation presents as T-B+NK- SCID; ADA deficiency presents as T-B-NK- SCID.",
-    "pdfPage": 58,
+    "pdfPage": 20,
     "pdfQuote": "because if it was the IL-2R one, the B-cells would be okay, the T cells and NK cells would be severely low."
   },
-  {
+  category{
     "category": "Case Study",
     "questionText": "A 10-month-old male infant presents with his third episode of bacterial pneumonia. During each episode, the pediatrician noted 'unusual' anatomy in the throat, describing 'virtually flat tissue' where the tonsils should be. Laboratory studies show CD19+ count of 0%. Which of the following intestinal findings would be most likely in this patient?",
     "options": [
@@ -506,10 +506,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Patients with B-cell deficiencies (XLA/CVID) lack secretory IgA and are prone to Giardia lamblia infections.",
-    "pdfPage": 47,
+    "pdfPage": 20,
     "pdfQuote": "recurrent bacterial infections... sinus ear pneumonia... you can also get gi bugs so interviral infections"
   },
-  {
+  category{
     "category": "Diagnostics",
     "questionText": "A 2-year-old child with uncoordinated walking and frequent falls is being evaluated. The physician notices the eyes appear 'bloodshot' but the child denies pain. Lab results show an elevated alpha-fetoprotein (AFP). If this patient were to undergo a routine chest X-ray for a suspected cough, what is the most important clinical consideration?",
     "options": [
@@ -536,10 +536,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "ATM mutations cause extreme radiation sensitivity; avoid unnecessary imaging in Ataxia Telangiectasia.",
-    "pdfPage": 56,
+    "pdfPage": 19,
     "pdfQuote": "There is extreme sensitivity to radiation. So when they get x-rays, you have to be very careful"
   },
-  {
+  category{
     "category": "Pathophysiology",
     "questionText": "A 4-month-old infant with failure to thrive and recurrent thrush is found to have Severe Combined Immunodeficiency. Laboratory analysis reveals a systemic deficiency in adenosine deaminase (ADA). This deficiency leads to the inhibition of which of the following processes, ultimately causing lymphocyte death?",
     "options": [
@@ -566,10 +566,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "ADA deficiency causes dATP buildup, which inhibits ribonucleotide reductase and blocks DNA synthesis.",
-    "pdfPage": 60,
+    "pdfPage": 20,
     "pdfQuote": "adenosine deaminase, and this is deficient in SCID... this is important for recycling the DNA components"
   },
-  {
+  category{
     "category": "Management",
     "questionText": "A 6-year-old boy with a history of recurrent sinopulmonary infections, eczema, and easy bruising is diagnosed with Wiskott-Aldrich Syndrome. His mother asks what can be done to improve his condition. Which of the following is currently considered the most effective long-term treatment option for this patient's underlying disease?",
     "options": [
@@ -596,10 +596,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Hematopoietic stem cell transplant (HSCT) is the definitive treatment for combined immunodeficiencies like Wiskott-Aldrich.",
-    "pdfPage": 54,
+    "pdfPage": 18,
     "pdfQuote": "previously, we thought that the bone marrow transplant was the only way to treat these patients"
   },
-  {
+  category{
     "category": "Physical Exam Integration",
     "questionText": "A 6-month-old male is being evaluated for multiple 'cold' abscesses on his trunk. He also has severe eczema and has not yet lost any of his front primary teeth, which seem remarkably stable for his age. Based on this patient's most likely diagnosis, which of the following additional findings is expected?",
     "options": [
@@ -626,10 +626,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Job Syndrome (Hyper IgE) is easily remembered with the 'FATED' mnemonic: Facies, Abscesses (cold), Teeth (retained), IgE (high), Dermatologic (eczema).",
-    "pdfPage": 50,
+    "pdfPage": 17,
     "pdfQuote": "For the face, you'll get coarse face seeds... You will also see retained baby teeth."
   },
-  {
+  category{
     "category": "Complications",
     "questionText": "A newborn is diagnosed with Leukocyte Adhesion Deficiency after his umbilical cord fails to separate after 25 days. He later develops a severe cutaneous infection. Which of the following is the most likely microscopic finding from a biopsy of the infected tissue?",
     "options": [
@@ -659,7 +659,7 @@ window.Test_L146 = [
     "pdfPage": 12,
     "pdfQuote": "increased neutrophils in the blood but not at the area of the injury"
   },
-  {
+  category{
     "category": "Complications",
     "questionText": "An 18-month-old male with Wiskott-Aldrich Syndrome is brought to the emergency department for vomiting and altered mental status after a minor fall. A CT scan of the head shows a large intracranial hemorrhage. Which of the following is the primary cause of death in patients with this disorder?",
     "options": [
@@ -686,10 +686,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Bleeding is the leading cause of death in Wiskott-Aldrich Syndrome.",
-    "pdfPage": 52,
+    "pdfPage": 18,
     "pdfQuote": "thrombocytopenia... bleeding is the most common cause of death actually."
   },
-  {
+  category{
     "category": "Genetics",
     "questionText": "A couple is being counseled because their son has been diagnosed with Bruton X-linked Agammaglobulinemia. They are concerned about their future children. If they have a daughter, which of the following best describes her risk regarding this condition?",
     "options": [
@@ -716,10 +716,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "XLA, Hyper IgM, and Wiskott-Aldrich all follow an X-linked recessive inheritance pattern.",
-    "pdfPage": 46,
+    "pdfPage": 2,
     "pdfQuote": "this is a X-linked disorder, obviously, as it has it in its name, so it primarily affects boys"
   },
-  {
+  category{
     "category": "Diagnostics",
     "questionText": "Which of the following findings on flow cytometry most strongly supports a diagnosis of Severe Combined Immunodeficiency (SCID) over X-linked Agammaglobulinemia (XLA)?",
     "options": [
@@ -746,10 +746,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The presence/absence of T-cells (CD3+) differentiates SCID from pure B-cell defects like XLA.",
-    "pdfPage": 46,
+    "pdfPage": 12,
     "pdfQuote": "the T cell markers are CD3, CD4, CD8... for cytometry, that can show you what CD present... help you determine whether it's a T cell or or a B cell defect"
   },
-  {
+  category{
     "category": "Infectious Disease",
     "questionText": "A 1-year-old child with Hyper IgM Syndrome presents with severe, watery diarrhea. Stool analysis reveals acid-fast oocysts. Which of the following organisms is the most likely cause?",
     "options": [
@@ -776,10 +776,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Cryptosporidium is a classic opportunistic pathogen in patients with Hyper IgM Syndrome.",
-    "pdfPage": 49,
+    "pdfPage": 16,
     "pdfQuote": "pyogenic infections early in life. So opportunistic infections with pneumocystis, cryptosporidium, and CMV are very commonly seen"
   },
-  {
+  category{
     "category": "Biochemistry",
     "questionText": "An infant is diagnosed with an autosomal recessive form of SCID. Laboratory findings show deficient activity of an enzyme that normally converts adenosine to inosine. The toxin that accumulates in the absence of this enzyme is most harmful to which of the following tissues?",
     "options": [
@@ -806,10 +806,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Lymphocytes are the primary target of ADA deficiency toxicity.",
-    "pdfPage": 38,
+    "pdfPage": 12,
     "pdfQuote": "breaks down some of that that deoxy adenosine which we talked about is that harmful substance that builds up"
   },
-  {
+  category{
     "category": "Management",
     "questionText": "A neonate diagnosed with DiGeorge Syndrome is being managed in the incubator. The mother asks why he is receiving multiple types of preventative medicines. Prophylaxis against which of the following groups of pathogens is essential for these patients?",
     "options": [
@@ -836,10 +836,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "T-cell deficiencies (SCID, DiGeorge) require broad antimicrobial prophylaxis.",
-    "pdfPage": 43,
+    "pdfPage": 14,
     "pdfQuote": "treatment of de george syndrome... is you're going to do prophylactic antivirals antibiotics and antifungals"
   },
-  {
+  category{
     "category": "Complications",
     "questionText": "A 4-year-old boy with a history of recurrent infections and bruising is hospitalized for an enlarged spleen and severe anemia. His pediatrician is concerned about the risk of malignancy. Which of the following types of cancer is most common in patients with Ataxia Telangiectasia and Wiskott-Aldrich Syndrome?",
     "options": [
@@ -866,10 +866,10 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Primary immunodeficiencies often lead to an increased risk of hematopoietic malignancies like lymphoma.",
-    "pdfPage": 56,
+    "pdfPage": 18,
     "pdfQuote": "these patients will actually be at increased risk for lymphoma and leukemia because of that uncontrolled, you know, cell division"
   },
-  {
+  category{
     "category": "Diagnosis",
     "questionText": "A 6-month-old male is brought for a wellness check. The mother mentions he developed 'a small amount of blood in the diaper' and has had 'flaky, itchy skin' since birth. Physical exam shows multiple petechiae and moderate eczema. Which of the following laboratory findings on CBC would most strongly confirm your suspected diagnosis?",
     "options": [
@@ -896,7 +896,7 @@ window.Test_L146 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Microthrombocytopenia (small platelets) and low MPV are pathognomonic for Wiskott-Aldrich Syndrome.",
-    "pdfPage": 52,
+    "pdfPage": 20,
     "pdfQuote": "thrombocytopenia... you'll find eczema as well... you will see smaller fewer platelets"
   }
 ];

@@ -120,7 +120,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: APS-1 (AIRE defect) is characterized by the triad of Chronic Mucocutaneous Candidiasis, hypoparathyroidism, and adrenal insufficiency.",
-    "pdfPage": 47,
+    "pdfPage": 27,
     "pdfQuote": "autoimmune polyendocrinopathy candidizes pectodermal dystrophy, or APECED"
   },
   {
@@ -151,7 +151,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: CGD is diagnosed using the DHR-123 flow cytometry test (quantitative) or the NBT test (qualitative), reflecting a defect in the respiratory burst.",
-    "pdfPage": 61,
+    "pdfPage": 36,
     "pdfQuote": "measures your oxidant that's produced... increased fluorescence when DHR is oxidized"
   },
   {
@@ -182,7 +182,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Chidiak-Higashi syndrome is characterized by partial albinism, peripheral neuropathy, and giant inclusions in leukocytes, with a lethal 'accelerated phase' (HLH-like).",
-    "pdfPage": 58,
+    "pdfPage": 32,
     "pdfQuote": "accelerates to like a pancytopenia, a massive of lymphohistiocytic infiltration"
   },
   {
@@ -306,7 +306,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: CGD patients are highly susceptible to catalase-positive organisms (Staph aureus, Serratia, Aspergillus, Nocardia) because these bugs neutralize their own peroxide, preventing host phagocytes from utilizing it.",
-    "pdfPage": 64,
+    "pdfPage": 35,
     "pdfQuote": "commonly it's staph, maybe serratia"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The NBT test is a qualitative screen for CGD (yellow to blue = normal), while DHR flow cytometry is the more sensitive/quantitative diagnostic tool.",
-    "pdfPage": 67,
+    "pdfPage": 36,
     "pdfQuote": "nitro blue tetrazolyme... qualitative test... yellow to dark blue in normal cells"
   },
   {
@@ -523,7 +523,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The combination of partial albinism (silvery hair), neurologic findings (ataxia/neuropathy), and bacterial infections is pathognomonic for Chidiak-Higashi syndrome.",
-    "pdfPage": 57,
+    "pdfPage": 32,
     "pdfQuote": "partial oculocutaneous albinism, so have super light skin, silvery hair... peripheral neuropathies"
   },
   {
@@ -554,7 +554,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: CGD prevents the formation of reactive oxygen species (superoxide), uniquely predisposing patients to catalase-positive bacteria and fungi.",
-    "pdfPage": 62,
+    "pdfPage": 34,
     "pdfQuote": "decreased production of your superoxide... respiratory burst isn't present"
   },
   {
@@ -678,7 +678,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: APS-1 (APECED) is a multi-system autoimmune disorder featuring Chronic Mucocutaneous Candidiasis and multiple endocrinopathies.",
-    "pdfPage": 47,
+    "pdfPage": 27,
     "pdfQuote": "APECED... autoimmune polyendocrinopathy candidizes pectodermal dystrophy"
   },
   {
@@ -709,7 +709,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: CGD granulomas can form anywhere in the body, leading to obstructive complications in the lungs, GI tract, or urinary system.",
-    "pdfPage": 65,
+    "pdfPage": 34,
     "pdfQuote": "granulomas are usually that could be a presenting symptom... bladder outlook obstruction"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Recurrent, non-invasive fungal infections starting in infancy indicate CMC; diagnosis is confirmed via genetic testing (AIRE/STAT1).",
-    "pdfPage": 49,
+    "pdfPage": 27,
     "pdfQuote": "labs are just based on your clinical features with genetic testing for the underlying defect"
   },
   {
@@ -833,7 +833,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: DHR flow cytometry can identify X-linked CGD carriers by demonstrating two distinct neutrophil populations (one normal, one defective).",
-    "pdfPage": 70,
+    "pdfPage": 36,
     "pdfQuote": "row below that is actually an X-linked carrier... see increased fluorescence but also a stable position"
   },
   {
@@ -864,7 +864,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Interferon-gamma is a pro-inflammatory cytokine used as adjunctive therapy in both IL-12 receptor deficiency and CGD to bolster phagocyte function.",
-    "pdfPage": 69,
+    "pdfPage": 36,
     "pdfQuote": "do prophylactic treatment... with antifungals or even interferon gamma"
   },
   {
@@ -895,7 +895,7 @@ window.Test_L145 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Chidiak-Higashi syndrome results from an AR mutation in the LYST gene, causing defective intracellular protein trafficking.",
-    "pdfPage": 54,
+    "pdfPage": 31,
     "pdfQuote": "autosomal recessive mutation in the CHS1 or the LIST gene"
   },
   {

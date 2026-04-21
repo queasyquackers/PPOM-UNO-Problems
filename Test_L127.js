@@ -461,7 +461,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Seronegative spondyloarthropathies (e.g., Ankylosing Spondylitis, Psoriatic Arthritis, Reactive Arthritis) are strongly linked to HLA-B27.",
-    "pdfPage": 54,
+    "pdfPage": 43,
     "pdfQuote": "seronegative spondyloarthritis... associated with the HLA-B27"
   },
   {
@@ -740,7 +740,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Ankylosing Spondylitis classically presents in young men as inflammatory back pain (worse with rest, better with exercise) and is strongly associated with HLA-B27.",
-    "pdfPage": 55,
+    "pdfPage": 44,
     "pdfQuote": "ankylosing spondylitis... 90% have the HLA-B27 positive... find lower back pain and spinal immobility"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Psoriatic Arthritis is identified by psoriasis plaques, dactylitis (sausage digits), and 'pencil-in-cup' deformities on X-ray.",
-    "pdfPage": 57,
+    "pdfPage": 45,
     "pdfQuote": "Psoriatic arthritis... got some words here, dactylitis... classic on the x-ray pencil and cup deformity"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Reactive arthritis is a post-infectious autoimmune triad (can't see, can't pee, can't climb a tree) triggered by Chlamydia or GI pathogens.",
-    "pdfPage": 59,
+    "pdfPage": 46,
     "pdfQuote": "reactive arthritis... associated with the following infections chlamydia, shigella, salmonella... classically can't see, can't pee, can't climb a tree"
   },
   {
@@ -833,7 +833,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Unlike RA which targets the synovium, Seronegative Spondyloarthritidies primarily target the entheses (sites of ligament/tendon attachment to bone).",
-    "pdfPage": 54,
+    "pdfPage": 43,
     "pdfQuote": "It affects ligamentous attachments instead of synovium"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L127 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Reactive arthritis (Reiter Syndrome) is characterized by the clinical triad of conjunctivitis, urethritis, and arthritis.",
-    "pdfPage": 59,
+    "pdfPage": 46,
     "pdfQuote": "presentation historically can't see, can't pee, can't climb a tree"
   }
 ];

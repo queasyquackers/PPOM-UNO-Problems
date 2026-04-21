@@ -306,7 +306,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Osteoid osteoma is < 2 cm and features nocturnal pain relieved by NSAIDs; Osteoblastoma is > 2 cm and pain is NOT relieved by NSAIDs.",
-    "pdfPage": 40,
+    "pdfPage": 21,
     "pdfQuote": "It is less than 2 cm in size... relieved by aspirin and NSAIDs"
   },
   {
@@ -337,7 +337,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Osteochondroma (exostosis) is a cartilage-capped bony outgrowth from the metaphysis of long bones; it is the most common benign bone tumor.",
-    "pdfPage": 42,
+    "pdfPage": 23,
     "pdfQuote": "the metaphysis near the growth plate of long tubular bones"
   },
   {
@@ -368,7 +368,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Maffucci syndrome consists of multiple enchondromas and spindle cell hemangiomas; Ollier disease is multiple enchondromas only. Both increase the risk of chondrosarcoma.",
-    "pdfPage": 44,
+    "pdfPage": 24,
     "pdfQuote": "characterised by multiple enchondromas and spindle cell hemangiomas"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Giant Cell Tumor (Osteoclastoma) presents in adults (20-40) with 'soap bubble' lytic lesions in the epiphysis and multinucleated (>100) giant cells.",
-    "pdfPage": 45,
+    "pdfPage": 25,
     "pdfQuote": "giant cell tumors... proximal tibia... so-called soap bubble appearance"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Osteosarcoma is the most common primary malignant bone tumor, often involving RB or p53 mutations, presenting with a sunburst pattern and Codman triangle.",
-    "pdfPage": 46,
+    "pdfPage": 27,
     "pdfQuote": "Usually associated mutations are RB mutations... 75% of sporadic osteosarcoma"
   },
   {
@@ -461,7 +461,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Ewing Sarcoma is a pediatric malignant tumor (t11;22) involving small round blue cells and Homer Wright rosettes, presenting radiography with onion skinning.",
-    "pdfPage": 51,
+    "pdfPage": 31,
     "pdfQuote": "Homer Wright rosettes, rounded cells displayed in clusters with a central fibrillary core"
   },
   {
@@ -616,7 +616,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Giant Cell Tumors (soap bubble epiphysial lesions) are benign but can rarely (4%) metastasize to the lungs.",
-    "pdfPage": 45,
+    "pdfPage": 25,
     "pdfQuote": "although it's benign up to 4% of these lesions metastasized to the lungs"
   },
   {
@@ -647,7 +647,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The definitive diagnosis of Osteosarcoma requires histological confirmation of malignant cells producing osteoid matrix.",
-    "pdfPage": 48,
+    "pdfPage": 27,
     "pdfQuote": "Diagnosis requires the presence of malignant tumor cells producing unmineralized osteoid"
   },
   {
@@ -678,7 +678,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Ewing Sarcoma is overwhelmingly (90%+) associated with the t(11;22) EWS-FLI1 fusion gene.",
-    "pdfPage": 51,
+    "pdfPage": 31,
     "pdfQuote": "EWSR1 gene on chromosome 22 and FLI1 gene on chromosome 11"
   },
   {
@@ -709,7 +709,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Metastatic cancer cells stimulate bone resorption by secreting PTHrP and cytokines, which upregulate RANKL on osteoblasts to activate osteoclasts.",
-    "pdfPage": 58,
+    "pdfPage": 36,
     "pdfQuote": "secrete substances such as prostaglandins, cytokines and PTHRP that upregulate rank ligand"
   },
   {
@@ -740,7 +740,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Osteosarcoma has a bimodal age peak: the first and largest in teens (growth spurt) and a second smaller peak in the elderly (secondary to pre-existing conditions).",
-    "pdfPage": 46,
+    "pdfPage": 26,
     "pdfQuote": "It has a bimodal age distribution... smaller peak in older adults"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Enchondromatosis syndromes (Ollier and Maffucci) carry a high risk of chondrosarcoma and extra-skeletal tumors like brain gliomas.",
-    "pdfPage": 44,
+    "pdfPage": 24,
     "pdfQuote": "risk of developing other malignancies including brain gliomas"
   },
   {
@@ -895,7 +895,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Chondrosarcoma grade (1-3) directly correlates with prognosis; high-grade tumors frequently metastasize to the lungs via the bloodstream.",
-    "pdfPage": 56,
+    "pdfPage": 34,
     "pdfQuote": "70% of grade 3 tumors spread hematogenously to the lungs"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L105 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Ewing Sarcoma can mimic acute osteomyelitis clinically (fever, high ESR); definitive diagnosis requires translocation [t(11;22)] or rosette histology.",
-    "pdfPage": 51,
+    "pdfPage": 31,
     "pdfQuote": "balanced translocation involving the EWSR1 gene on chromosome 22 and FLI1 gene on chromosome 11"
   }
 ];

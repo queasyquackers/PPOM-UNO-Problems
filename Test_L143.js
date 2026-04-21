@@ -58,7 +58,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "The anti-inflammatory effects of glucocorticoids are largely due to transrepression, where the steroid-receptor complex inhibits pro-inflammatory transcription factors.",
-    "pdfPage": 45,
+    "pdfPage": 11,
     "pdfQuote": "transrepression refers to the repression of transcription"
   },
   {
@@ -275,7 +275,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Children on long-term glucocorticoids often experience a reduced growth rate, which typically recovers following drug discontinuation.",
-    "pdfPage": 47,
+    "pdfPage": 12,
     "pdfQuote": "reduced growth rate (mostly recovers when drug removed)"
   },
   {
@@ -554,7 +554,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Long-term glucocorticoid use causes Cushingoid features (moon facies, buffalo hump, truncal obesity) and hyperglycemia through widespread metabolic transactivation and transrepression.",
-    "pdfPage": 46,
+    "pdfPage": 11,
     "pdfQuote": "Cushingoid appearance... Moon facies... Buffalo hump"
   },
   {
@@ -647,7 +647,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Glucocorticoids have rapid anti-inflammatory effects (appearing in minutes) likely mediated by non-genomic mechanisms, in addition to their classic genomic effects.",
-    "pdfPage": 43,
+    "pdfPage": 11,
     "pdfQuote": "anti-inflammatory effects... quickly within minutes... independent mechanism"
   },
   {
@@ -740,7 +740,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "In maintenance triple therapy, the glucocorticoid is frequently the agent that is gradually tapered and potentially removed to minimize long-term toxicity.",
-    "pdfPage": 49,
+    "pdfPage": 37,
     "pdfQuote": "hopefully even remove a drug, usually the glucocorticoid"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L143 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Glucocorticoid side effects are dose-related; long-term therapy goals focus on using the lowest effective dose to mitigate toxicity.",
-    "pdfPage": 48,
+    "pdfPage": 11,
     "pdfQuote": "dose related adverse effects... goal... lowest effective dose"
   }
 ];

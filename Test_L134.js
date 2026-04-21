@@ -27,7 +27,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The hip joint is a ball and socket joint (acetabulofemoral articulation) that prioritizes stability over the extreme range of motion seen in the glenohumeral joint.",
-    "pdfPage": 277,
+    "pdfPage": 15,
     "pdfQuote": "The hip is classified as this type of joint... ball and socket joint"
   },
   {
@@ -58,7 +58,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The iliopsoas is the primary flexor of the hip, while the gluteus maximus serves as the primary extensor.",
-    "pdfPage": 323,
+    "pdfPage": 17,
     "pdfQuote": "this muscle serves as the primary flexor of the hip... iliopsoas muscle"
   },
   {
@@ -89,7 +89,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The patella is a sesamoid bone that serves as the insertion for the quadriceps and the origin for the patellar ligament.",
-    "pdfPage": 361,
+    "pdfPage": 18,
     "pdfQuote": "patella... functions at the insertion of the quadricep and the origin of the infrapatellar ligament"
   },
   {
@@ -120,7 +120,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The Posterior Cruciate Ligament (PCL) prevents posterior translation of the tibia on the femur, while the ACL prevents anterior translation.",
-    "pdfPage": 395,
+    "pdfPage": 21,
     "pdfQuote": "prevents the tibia from sliding backwards on the femur... PCL"
   },
   {
@@ -151,7 +151,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The four cardinal signs of inflammation are pain (dolor), swelling (tumor), warmth (calor), and redness (rubor).",
-    "pdfPage": 182,
+    "pdfPage": 9,
     "pdfQuote": "Four cardinal features of inflammation are pain, swelling, warmth, and this... redness"
   },
   {
@@ -182,7 +182,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "The menisci function as cushions that provide stability, assist in weight transfer, and aid in proprioception and cartilage nutrition.",
-    "pdfPage": 432,
+    "pdfPage": 23,
     "pdfQuote": "C-shaped cartilage structure... weight transfer, proprioception within the knee"
   },
   {
@@ -213,7 +213,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "A positive Trendelenburg test (pelvic drop on the side of the unsupported leg) indicates weakness of the hip abductor (Gluteus medius) on the standing leg side.",
-    "pdfPage": 804,
+    "pdfPage": 48,
     "pdfQuote": "checks the weakness of the gluteus length... gluteus medius"
   },
   {
@@ -244,7 +244,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Ober's test is used to evaluate the tightness of the iliotibial (IT) band; a positive test demonstrates a lack of passive adduction.",
-    "pdfPage": 953,
+    "pdfPage": 60,
     "pdfQuote": "evaluating for a tight IT band... over test"
   },
   {
@@ -275,7 +275,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "The Thomas test (Pso-AS matches Thom-AS) identifies a tight iliopsoas muscle when a gap persists between the table and the popliteal crease during passive leg extension.",
-    "pdfPage": 917,
+    "pdfPage": 57,
     "pdfQuote": "signify that they have a tight hip flexor... Thomas' test"
   },
   {
@@ -306,7 +306,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The Medial Patellofemoral Ligament (MPFL) is the primary stabilizer preventing lateral migration of the patella.",
-    "pdfPage": 2241,
+    "pdfPage": 24,
     "pdfQuote": "see the patella say bye-bye and move to the lateral position... medial patellofemoral ligament"
   },
   {
@@ -337,7 +337,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The 'Log Roll' test is a non-specific maneuver for hip joint pathology; clicks or pops during the movement may indicate a labral tear.",
-    "pdfPage": 4279,
+    "pdfPage": 55,
     "pdfQuote": "popping sensation or popping sound... labral tear in the hip"
   },
   {
@@ -368,7 +368,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "McMurray's test uses a combination of flexion/extension, rotation, and varus/valgus stress to 'pinch' a torn meniscus between the femoral condyles and tibial plateau.",
-    "pdfPage": 5296,
+    "pdfPage": 67,
     "pdfQuote": "internally rotate the leg and you're going to create a varus... medial meniscus"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "The Stinchfield test (resisted active straight leg raise) is a sensitive indicator for intra-articular hip pathology.",
-    "pdfPage": 4056,
+    "pdfPage": 50,
     "pdfQuote": "indicating intra-articular hip pathology... Stinchfield test"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Active range of motion is performed by the patient's muscles; passive range of motion is performed by the examiner while the patient relaxes.",
-    "pdfPage": 2582,
+    "pdfPage": 25,
     "pdfQuote": "passive is when the patient is not doing the work the doctor is moving"
   },
   {
@@ -461,7 +461,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The Lachman test, performed at 15-30 degrees of knee flexion, is considered a superior test for evaluating the integrity of the Anterior Cruciate Ligament (ACL).",
-    "pdfPage": 5645,
+    "pdfPage": 71,
     "pdfQuote": "flex the knee to about 15 to 30 degrees... Lachman tests"
   },
   {
@@ -492,7 +492,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "A non-contact injury involving a 'pop' and rapid swelling, combined with a positive Lachman test, is the classic presentation for an ACL rupture.",
-    "pdfPage": 5694,
+    "pdfPage": 71,
     "pdfQuote": "increased laxity... ACL insufficiency or any kind of ACL chair"
   },
   {
@@ -523,7 +523,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The 'Dashboard injury' is the representative mechanism for a PCL tear, diagnosed via a positive posterior drawer test demonstrating excessive posterior translation of the tibia.",
-    "pdfPage": 5911,
+    "pdfPage": 73,
     "pdfQuote": "now you can diagnose a torn pcl... translation of the tibia posteriorly"
   },
   {
@@ -554,7 +554,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Mechanical symptoms like 'locking' or 'catching' and delayed joint swelling are hallmarks of a meniscal injury, best evaluated with the McMurray test.",
-    "pdfPage": 5296,
+    "pdfPage": 67,
     "pdfQuote": "pinch the torn meniscus... McMurray's test"
   },
   {
@@ -585,7 +585,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Deep groin pain reproduced by a resisted straight leg raise (Stinchfield test) points directly to intra-articular hip pathology.",
-    "pdfPage": 4056,
+    "pdfPage": 50,
     "pdfQuote": "usually indicating intra-articular hip pathology... Stinchfield test"
   },
   {
@@ -616,7 +616,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "A positive Ober test (failure of the leg to fall to the table level) confirms ileotibial (IT) band tightness/contracture.",
-    "pdfPage": 4730,
+    "pdfPage": 60,
     "pdfQuote": "delay as the leg is coming down... contracture of the IT band"
   },
   {
@@ -647,7 +647,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "In the hip drop test, an iliac crest drop on one side induces compensatory lumbar side-bending to the opposite side.",
-    "pdfPage": 5012,
+    "pdfPage": 63,
     "pdfQuote": "side with the greatest drop... opposite side of the greatest lumbar side bending"
   },
   {
@@ -678,7 +678,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Pain elicited by contracting the quadriceps while the patella is compressed (Patellar Grind Test) indicates patellofemoral joint dysfunction.",
-    "pdfPage": 6205,
+    "pdfPage": 77,
     "pdfQuote": "pain with movements of the patella... patellofemoral joint disorder"
   },
   {
@@ -709,7 +709,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Posterior hip pain triggered by resisted abduction in a flexed position suggests piriformis muscle involvement.",
-    "pdfPage": 4833,
+    "pdfPage": 62,
     "pdfQuote": "active abduction... pain over the posterior aspect... periformis spasm"
   },
   {
@@ -740,7 +740,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "In the FABER (Patrick's) test, groin pain indicates hip joint pathology, while posterior pelvic pain indicates sacroiliac (SI) joint pathology.",
-    "pdfPage": 4239,
+    "pdfPage": 54,
     "pdfQuote": "pain in the groin is more suggestive of hip pain pathology... localized to the back... SI joint"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Pain with distraction during Apley's test indicates a collateral ligament injury, whereas pain with compression signifies a meniscal injury.",
-    "pdfPage": 5561,
+    "pdfPage": 70,
     "pdfQuote": "Pain is going to be significant for a ligament injury... pulling up on the leg"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Valgus stress tests the Medial Collateral Ligament (MCL), while varus stress tests the Lateral Collateral Ligament (LCL).",
-    "pdfPage": 6034,
+    "pdfPage": 74,
     "pdfQuote": "medial collateral ligament not the medial cruciate ligament... valgus stress test"
   },
   {
@@ -833,7 +833,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "The FADIR maneuver (Flexion, ADduction, Internal Rotation) is used to detect hip impingement or labral pathology by compressing the femoral neck against the acetabular rim.",
-    "pdfPage": 4356,
+    "pdfPage": 56,
     "pdfQuote": "FADIR... flexing, ADducting, and internal rotation... indicate whether there's impingement"
   },
   {
@@ -864,7 +864,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Localization is key in hip and back evaluations, as patients frequently use the term 'hip pain' to describe symptoms originating in the lumbar or sacroiliac regions.",
-    "pdfPage": 517,
+    "pdfPage": 78,
     "pdfQuote": "point to the pain... patient can come in with hip pain and they might actually say that I have back pain"
   },
   {
@@ -895,7 +895,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Joint stiffness of short duration (<30 mins) without warmth or redness is more characteristic of non-inflammatory or degenerative joint disease than acute inflammatory arthritis.",
-    "pdfPage": 196,
+    "pdfPage": 9,
     "pdfQuote": "non-inflammatory, we're thinking more about trauma... degenerative changes"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L134 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Pain during active motion with full, painless passive motion usually indicates an extra-articular (muscular or tendinous) source rather than an intra-articular joint problem.",
-    "pdfPage": 456,
+    "pdfPage": 43,
     "pdfQuote": "whether the pain is coming from inside the joint or whether it's extra-articular"
   }
 ];

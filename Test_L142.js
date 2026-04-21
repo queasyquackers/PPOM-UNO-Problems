@@ -244,7 +244,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Receptor editing is a unique B-cell central tolerance strategy that allows a self-reactive B-cell to change its specificity via additional gene rearrangements in the bone marrow.",
-    "pdfPage": 56,
+    "pdfPage": 44,
     "pdfQuote": "allows B cells to change antigen specificity"
   },
   {
@@ -306,7 +306,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Direct allo-recognition involves recipient T-cells directly recognizing foreign MHC molecules on donor cells, often leading to acute cellular rejection.",
-    "pdfPage": 61,
+    "pdfPage": 48,
     "pdfQuote": "Direct allo recognition involves recognition of donor MHC molecules"
   },
   {
@@ -368,7 +368,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Most B-cell antibody responses require T-cell help, which acts as a critical safety checkpoint to prevent autoantibody production by self-reactive B-cells.",
-    "pdfPage": 59,
+    "pdfPage": 46,
     "pdfQuote": "t-cell help is required for antibody responses"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Hyperacute rejection occurs within minutes to hours and is mediated by pre-formed antibodies that cause immediate thrombosis and graft failure.",
-    "pdfPage": 62,
+    "pdfPage": 49,
     "pdfQuote": "include hyperacute, acute, and chronic rejection"
   },
   {
@@ -461,7 +461,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The functional logic of adaptive immunity follows a sequence: Signal (Sensing) -> Decision (Activation) -> Behavior (Expansion) -> Outcome (Functional Protection).",
-    "pdfPage": 57,
+    "pdfPage": 54,
     "pdfQuote": "what input is being sensed what decision is being made"
   },
   {
@@ -679,7 +679,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Indirect allo-recognition involves the recipient's APCs processing and presenting donor antigens on the recipient's own MHC molecules.",
-    "pdfPage": 61,
+    "pdfPage": 48,
     "pdfQuote": "Indirect allo recognition involves processing donor antigens by recipient cells"
   },
   {
@@ -834,7 +834,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Preventing graft rejection requires lifelong immunosuppression, representing a critical trade-off between suppression of rejection and the risk of opportunistic infection.",
-    "pdfPage": 63,
+    "pdfPage": 50,
     "pdfQuote": "Balancing suppression and protection is challenging"
   },
   {
@@ -896,7 +896,7 @@ window.Test_L142 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "B-cells that repeatedly encounter antigen without T-cell help will become anergic, reinforcing peripheral self-tolerance.",
-    "pdfPage": 59,
+    "pdfPage": 45,
     "pdfQuote": "lack of appropriate T cell help is also critical"
   },
   {

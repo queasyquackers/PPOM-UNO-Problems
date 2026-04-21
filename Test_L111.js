@@ -284,7 +284,7 @@ window.Test_L111 = [
     "explanation": "The clinical picture describes acute compartment syndrome (ACS). 'Pain out of proportion' and pain with passive stretch are classic early signs. ACS is a surgical emergency requiring immediate fasciotomy to relieve pressure and prevent tissue death.\n\n- Correct: Immediate surgical fasciotomy.\n- Incorrect 1: Compression and elevation actually worsen ACS by decreasing perfusion.\n- Incorrect 3: Reassessment in 24 hours is too late; tissue death occurs quickly.\n- Incorrect 4: DVT is a differential but ACS takes precedence as an emergency.",
     "isHigherOrder": true,
     "sourceQuote": "compartment syndrome... surgical emergency... fasciotomy to relieve the pressure... avoid tissue death.",
-    "pdfPage": 88,
+    "pdfPage": 42,
     "correctAnswerIndex": 2
   },
   {
@@ -332,7 +332,7 @@ window.Test_L111 = [
     "explanation": "The 'feeling like someone kicked them' and a sudden 'pop' are classic for an Achilles tendon rupture. A positive Thompson test (lack of plantarflexion when squeezing the calf) confirms the rupture.\n\n- Correct: Achilles tendon rupture.\n- Incorrect 1: Ankle sprains typically involve inversion and lateral pain.\n- Incorrect 3: Plantar fasciitis is chronic heel pain.\n- Incorrect 4: Strains are less likely to have a 'pop' and positive Thompson test.",
     "isHigherOrder": true,
     "sourceQuote": "Achilles tendon rupture... felt like somebody kicked him in the back of his leg... felt a pop as he pushed off that ankle... Thompson test.",
-    "pdfPage": 116,
+    "pdfPage": 84,
     "correctAnswerIndex": 1
   },
   {
@@ -356,7 +356,7 @@ window.Test_L111 = [
     "explanation": "The Ottawa Ankle Rules state that an ankle X-ray is indicated if there is pain in the malleolar zone AND bone tenderness at the posterior edge or tip of the lateral or medial malleolus (last 6 cm).\n\n- Correct: Lateral or Medial Malleolus.\n- Incorrect options: These are not part of the malleolar criteria for the Ottawa Ankle Rules.",
     "isHigherOrder": false,
     "sourceQuote": "Ottawa anchor rule... tenderness along the posterior edge of both the lateral and the medial malleolus.",
-    "pdfPage": 109,
+    "pdfPage": 84,
     "correctAnswerIndex": 3
   },
   {
@@ -452,7 +452,7 @@ window.Test_L111 = [
     "explanation": "Absolute pressures above 30-40 mmHg (or a delta pressure < 30 mmHg) are typically the clinical thresholds for performing an emergency fasciotomy in acute compartment syndrome.\n\n- Correct: 30 mmHg.\n- Incorrect options: These are either normal (10) or too high/low to be the standard diagnostic threshold.",
     "isHigherOrder": false,
     "sourceQuote": "fasciotomy... done to relieve the pressure, especially if it's over 30.",
-    "pdfPage": 89,
+    "pdfPage": 84,
     "correctAnswerIndex": 4
   },
   {
@@ -476,7 +476,7 @@ window.Test_L111 = [
     "explanation": "The deep peroneal nerve resides in the anterior compartment and provides sensation specifically to the first web space of the foot. It also innervates the muscles that perform dorsiflexion.\n\n- Correct: Deep peroneal nerve.\n- Incorrect 1: Superficial peroneal is in the lateral compartment.\n- Incorrect 2: Tibial nerve is in the posterior compartment.\n- Incorrect 4: Sural nerve is purely sensory and more posterior/lateral.",
     "isHigherOrder": false,
     "sourceQuote": "anterior compartment... contains the deep peroneal nerve... numbness possibly on the dorsum [referring to peroneal nerve branches].",
-    "pdfPage": 96,
+    "pdfPage": 84,
     "correctAnswerIndex": 1
   },
   {
@@ -548,7 +548,7 @@ window.Test_L111 = [
     "explanation": "A Maisonneuve fracture involves a proximal fibula fracture resulting from an external rotation injury that travels up through the syndesmosis from the ankle (often with a deltoid ligament tear or medial malleolus fracture).\n\n- Correct: Maisonneuve fracture.\n- Incorrect 1: Jones is base of 5th metatarsal.\n- Incorrect 3: Lisfranc is midfoot.\n- Incorrect 4: Colles is wrist.",
     "isHigherOrder": false,
     "sourceQuote": "mason root fracture [Maisonneuve fracture]... force that comes from the deltoid ligament goes all the way up to syndesmosis, and it goes up to the fibular head, and it can create a fracture.",
-    "pdfPage": 108,
+    "pdfPage": 73,
     "correctAnswerIndex": 1
   },
   {
@@ -596,7 +596,7 @@ window.Test_L111 = [
     "explanation": "The Anterior Talofibular Ligament (ATFL) is the weakest and most commonly injured ligament in an inversion ankle sprain.\n\n- Correct: ATFL.\n- Incorrect 1: Deltoid is medial (injured in eversion).\n- Incorrect 3: AITFL is involved in 'high' ankle sprains.\n- Incorrect 4: PTFL is injured only in very severe sprains.",
     "isHigherOrder": false,
     "sourceQuote": "most common ligament in a low ankle injury is going to be the anterior talofibular ligament, ATFL.",
-    "pdfPage": 98,
+    "pdfPage": 67,
     "correctAnswerIndex": 2
   },
   {
@@ -644,7 +644,7 @@ window.Test_L111 = [
     "explanation": "For high-demand individuals (professional athletes), surgical repair of an Achilles tendon rupture is often recommended over conservative casting to reduce the risk of re-rupture and potentially allow a more direct return to strength.\n\n- Correct: Surgical repair.\n- Incorrect 3: This is a major injury requiring months of rehab.\n- Incorrect 4: Steroid injections can actually weaken tendons and increase rupture risk.",
     "isHigherOrder": true,
     "sourceQuote": "Achilles Handon-Rubster [re: Kobe Bryant]... surgery, right? A lot of research is going both ways... depending on the patient.",
-    "pdfPage": 116,
+    "pdfPage": 84,
     "correctAnswerIndex": 2
   },
   {
@@ -716,7 +716,7 @@ window.Test_L111 = [
     "explanation": "High ankle sprains occur due to forced external rotation and dorsiflexion, which wedges the talus into the mortise and separates the tibia and fibula.\n\n- Correct: External rotation and Dorsiflexion.\n- Incorrect 1: This is the mechanism for a standard 'low' ankle sprain.",
     "isHigherOrder": false,
     "sourceQuote": "high ankle sprain... mechanism is going to be dorsiflexion, that's forced dorsiflexion, and external rotation.",
-    "pdfPage": 105,
+    "pdfPage": 84,
     "correctAnswerIndex": 4
   }
 ];

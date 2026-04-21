@@ -27,7 +27,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Pediatric bone is more porous, more pliable, has a thicker periosteum, and heals significantly faster than adult bone.",
-    "pdfPage": 85,
+    "pdfPage": 6,
     "pdfQuote": "it's thicker in children than in adults"
   },
   {
@@ -58,7 +58,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "A Torus (buckle) fracture is characterized by an outward bulging of the cortex due to axial compression of pliable pediatric bone.",
-    "pdfPage": 170,
+    "pdfPage": 10,
     "pdfQuote": "It's because the periosteum buckles out here"
   },
   {
@@ -89,7 +89,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Salter-Harris Type II fractures (through physis and metaphysis) are the most common growth plate injuries and typically carry a good prognosis.",
-    "pdfPage": 261,
+    "pdfPage": 14,
     "pdfQuote": "salter harris type 2 fractures are most common"
   },
   {
@@ -120,7 +120,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Posterior rib fractures, metaphyseal 'corner' or 'bucket-handle' fractures, and retinal hemorrhages are classic pathognomonic signs of child *****.",
-    "pdfPage": 393,
+    "pdfPage": 2,
     "pdfQuote": "The first is posterior rib fractures"
   },
   {
@@ -151,7 +151,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The Barlow maneuver attempts to dislocate the hip (adduction/pressure), while the Ortolani maneuver attempts to reduce it (abduction/elevation).",
-    "pdfPage": 450,
+    "pdfPage": 27,
     "pdfQuote": "Barlow test, where we try to dislocate the hip"
   },
   {
@@ -182,7 +182,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Legg-Calvé-Perthes disease presents as idiopathic avascular necrosis (AVN) of the femoral head in elementary school-aged boys.",
-    "pdfPage": 481,
+    "pdfPage": 29,
     "pdfQuote": "idiopathic avascular necrosis of the femoral head"
   },
   {
@@ -213,7 +213,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "SCFE is an orthopedic emergency; the patient must be made non-weight-bearing immediately to prevent further slippage and AVN.",
-    "pdfPage": 588,
+    "pdfPage": 32,
     "pdfQuote": "it does require uh surgery"
   },
   {
@@ -244,7 +244,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Osgood-Schlatter disease is a traction apophysitis of the tibial tuberosity, typically seen in jumping and running athletes.",
-    "pdfPage": 600,
+    "pdfPage": 36,
     "pdfQuote": "inflammation in the bone and the tendon of the tibial tuberosity"
   },
   {
@@ -275,7 +275,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Clubfoot involves 'CAVE' (Cavus, Adduction, Varus, Equinus) and is treated with early serial casting (Ponseti method).",
-    "pdfPage": 648,
+    "pdfPage": 39,
     "pdfQuote": "to begin what we call serial casting"
   },
   {
@@ -306,7 +306,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Staphylococcus aureus is the most common cause of both osteomyelitis and septic arthritis in the pediatric population.",
-    "pdfPage": 725,
+    "pdfPage": 2,
     "pdfQuote": "80% are related to staph, especially in those over the age of five"
   },
   {
@@ -337,7 +337,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Septic arthritis is a medical emergency; it requires immediate diagnosis with joint aspiration and often surgical drainage.",
-    "pdfPage": 801,
+    "pdfPage": 50,
     "pdfQuote": "this is a medical emergency"
   },
   {
@@ -368,7 +368,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Transient synovitis follows a viral illness (URI/GI) and presents with a limp in a non-toxic child with normal labs.",
-    "pdfPage": 888,
+    "pdfPage": 55,
     "pdfQuote": "transient synovitis maybe plus minus fever kind of a insidious or kind of subtle onset"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Nutritional rickets (typically Vit D deficiency) presents with bowing of the legs, expansion of the growth plates, and the 'rachitic rosary' on the ribs.",
-    "pdfPage": 914,
+    "pdfPage": 57,
     "pdfQuote": "lack of vitamin D is the most common cause"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Fractures in non-ambulatory infants ('those that are not walking') are highly concerning for non-accidental trauma (NAT).",
-    "pdfPage": 41,
+    "pdfPage": 2,
     "pdfQuote": "highly suspicious... especially those that are not walking"
   },
   {
@@ -461,7 +461,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "A positive Trendelenburg sign indicates weakness of the hip abductors on the standing (weight-bearing) leg, causing the opposite side of the pelvis to drop.",
-    "pdfPage": 509,
+    "pdfPage": 30,
     "pdfQuote": "something called Trendelenburg gait, which is illustrated here"
   },
   {
@@ -492,7 +492,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "In SCFE, passive flexion of the hip results in 'obligatory external rotation' due to the posterior and inferior displacement of the epiphysis.",
-    "pdfPage": 575,
+    "pdfPage": 32,
     "pdfQuote": "this area where the slippage occurs... it's important to catch this by getting both an AP looking at the hip and something called a frog leg"
   },
   {
@@ -523,7 +523,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Classical metaphyseal lesions (CML), such as 'corner' or 'bucket-handle' fractures, result from torsion/traction and are highly specific for child *****.",
-    "pdfPage": 393,
+    "pdfPage": 11,
     "pdfQuote": "metaphyseal 'corner' or 'bucket-handle' fractures"
   },
   {
@@ -554,7 +554,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Greenstick fractures (one side broken, one side bent) require casting and sometimes 'completing' the fracture to prevent progressive angulation during healing.",
-    "pdfPage": 180,
+    "pdfPage": 11,
     "pdfQuote": "Greenstick fracture, where one side... breaks while the other side bends"
   },
   {
@@ -585,7 +585,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "The Pavlik harness is a dynamic orthosis used for DDH that holds the hips flexed and abducted to promote joint stability.",
-    "pdfPage": 460,
+    "pdfPage": 28,
     "pdfQuote": "treatment... Pavlik harness"
   },
   {
@@ -616,7 +616,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The primary goal of LCP treatment is to maintain a spherical femoral head within the acetabulum to prevent future osteoarthritis.",
-    "pdfPage": 595,
+    "pdfPage": 31,
     "pdfQuote": "this can be associated with early degenerative arthritis"
   },
   {
@@ -647,7 +647,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Acute hematogenous osteomyelitis (AHO) typically begins in the highly vascularized yet sluggish metaphysis of long bones.",
-    "pdfPage": 338,
+    "pdfPage": 43,
     "pdfQuote": "The infection usually occurs at the end of long bones in the metaphyseal area"
   },
   {
@@ -678,7 +678,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The Kocher criteria use fever, non-weight bearing, elevated ESR/CRP, and elevated WBC to predict the likelihood of a septic hip joint.",
-    "pdfPage": 442,
+    "pdfPage": 50,
     "pdfQuote": "sudden onset high fever definite limp... very high sedimentation or crp rate"
   },
   {
@@ -709,7 +709,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Nutritional rickets (Vit D deficiency) typically presents with low/normal calcium, low phosphorus, and elevated PTH (secondary hyperparathyroidism).",
-    "pdfPage": 918,
+    "pdfPage": 57,
     "pdfQuote": "calcium and phosphate homeostasis... low calcium is more common"
   },
   {
@@ -740,7 +740,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Metatarsus adductus corresponds to 'in-toeing' from the midfoot and is usually flexible and managed with simple stretching.",
-    "pdfPage": 326,
+    "pdfPage": 41,
     "pdfQuote": "metatarsis adductus... involves stretching of the foot. The parents can do it at home"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The combination of rapid healing and high remodeling potential allows many pediatric fractures to be treated non-surgically.",
-    "pdfPage": 11,
+    "pdfPage": 61,
     "pdfQuote": "bones in children heal super fast"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Symptoms such as fever, night pain, weight loss, and large joint effusions are 'red flags' that distinguish serious pathology from common overuse injuries like Osgood-Schlatter.",
-    "pdfPage": 617,
+    "pdfPage": 32,
     "pdfQuote": "symptoms that would make me think more of some type of a pathology, such as an infection or even a tumor, which would be fever, night sweats, weight loss"
   },
   {
@@ -833,7 +833,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Transient synovitis is a diagnosis of exclusion; rapid improvement with rest/NSAIDs is expected within 48 hours.",
-    "pdfPage": 881,
+    "pdfPage": 20,
     "pdfQuote": "if that child's not getting better in 24 to 48 hours, you want to make sure that you tell the parent to come back"
   },
   {
@@ -864,7 +864,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "In infants under 1 year, trans-metaphyseal vessels allow osteomyelitis to frequently spread across the growth plate into the joint space.",
-    "pdfPage": 105,
+    "pdfPage": 43,
     "pdfQuote": "their bones are more porous... children tend to have a higher rate of blood infections"
   },
   {
@@ -895,7 +895,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The 'vicious cycle' of osteomyelitis involves pressure from pus causing ischemia, which prevents antibiotics and immune cells from reaching the infection.",
-    "pdfPage": 721,
+    "pdfPage": 44,
     "pdfQuote": "abscess forms and it makes it very difficult to treat... erodes the periosteum"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L116 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "SCFE is critical because it involves the articular growth plate and blood supply of the hip, whereas Osgood-Schlatter is a localized traction apophysitis.",
-    "pdfPage": 632,
+    "pdfPage": 32,
     "pdfQuote": "hardest part of treatment... is just getting the child to stop their sport... [SCFE] can actually get similar symptoms where you all of a sudden have a poor blood supply and get necrosis"
   }
 ];

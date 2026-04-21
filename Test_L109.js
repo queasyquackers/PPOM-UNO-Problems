@@ -430,7 +430,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Proximal carpal bones glide in the opposite direction of the gross wrist movement (e.g., flexion leads to posterior glide).",
-    "pdfPage": 26,
+    "pdfPage": 21,
     "pdfQuote": "With wrist extension what the proximal carpals will do is glide anteriorly"
   },
   {
@@ -461,7 +461,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "The parallelogram effect link ulno-humeral abduction with radiocarpal adduction (and vice versa).",
-    "pdfPage": 31,
+    "pdfPage": 23,
     "pdfQuote": "if you were to find an ulno-humeral abduction somatic dysfunction, you would likely find an adduction radiocarpal joint"
   },
   {
@@ -616,7 +616,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Wrist somatic dysfunctions are named for the gross motion preference; a flexion dysfunction resists extension and has posterior-gliding carpal bones.",
-    "pdfPage": 27,
+    "pdfPage": 21,
     "pdfQuote": "flexion somatic dysfunction... proximal carpals prefer to glide posteriorly with wrist flexion and resist gliding anteriorly with wrist extension"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Wrist adduction (ulnar deviation) is coupled with lateral glide of the proximal carpal row.",
-    "pdfPage": 28,
+    "pdfPage": 21,
     "pdfQuote": "wrist ulnar deviation or adduction... feel for the proximal carpals gliding laterally"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "The parallelogram effect link ulno-humeral abduction with radiocarpal adduction.",
-    "pdfPage": 31,
+    "pdfPage": 21,
     "pdfQuote": "if you find an ulno-humeral abduction... likely find an adduction radiocarpal joint"
   },
   {
@@ -864,7 +864,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Wrist abduction (radial deviation) somatic dysfunction is identified by a preference for medial carpal glide.",
-    "pdfPage": 29,
+    "pdfPage": 21,
     "pdfQuote": "wrist radial deviation or abduction... feel for proximal carpals gliding medially"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L109 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "According to the parallelogram effect, radiocarpal adduction correlates with ulno-humeral abduction; a preference in one implies a correlation with the ease of the other.",
-    "pdfPage": 31,
+    "pdfPage": 21,
     "pdfQuote": "if you were to find an ulno-humeral abduction somatic dysfunction, you would likely find an adduction radiocarpal joint"
   }
 ];

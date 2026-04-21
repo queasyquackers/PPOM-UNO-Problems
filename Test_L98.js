@@ -368,7 +368,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Progressive Multifocal Leukoencephalopathy (PML) is caused by the JC virus, which targets oligodendrocytes in immunocompromised individuals, leading to multifocal demyelination.",
-    "pdfPage": 44,
+    "pdfPage": 12,
     "pdfQuote": "JC virus which actually causes progressive multifocal locoencephalopathy"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The Rabies virus has a characteristic bullet-shaped appearance under electron microscopy and produces Negri bodies, which are eosinophilic cytoplasmic inclusions in neurons.",
-    "pdfPage": 47,
+    "pdfPage": 37,
     "pdfQuote": "it looks like bullet shaped"
   },
   {
@@ -585,7 +585,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Restoration of the immune system via ART is the mainstay of treatment for PML in HIV-infected patients, as there are no effective direct-acting antivirals for the JC virus.",
-    "pdfPage": 46,
+    "pdfPage": 34,
     "pdfQuote": "incidencies have decreased significantly with ART therapy"
   },
   {
@@ -616,7 +616,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Rabies classically presents with hydrophobia due to pharyngeal spasms and is confirmed post-mortem by the presence of Negri bodies in the brain.",
-    "pdfPage": 51,
+    "pdfPage": 37,
     "pdfQuote": "cytoplasmic eosinophilic inclusion bodies... called Negri bodies"
   },
   {
@@ -647,7 +647,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Neonatal HSV-2 is a life-threatening emergency usually transmitted during birth; it can present skin-eye-mouth disease or progress to devastating encephalitis and disseminated disease.",
-    "pdfPage": 42,
+    "pdfPage": 32,
     "pdfQuote": "neonatal... majority are actually caused by ****** simplex virus 2"
   },
   {
@@ -864,7 +864,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "The recombinant zoster vaccine (Shingrix) is highly effective and preferred over the older live vaccine (Zostavax) for preventing shingles and its complications.",
-    "pdfPage": 43,
+    "pdfPage": 33,
     "pdfQuote": "Shingrix which is a more recent vaccine... recommended to over 50 years"
   },
   {
@@ -926,7 +926,7 @@ window.Test_L98 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Acyclovir remains the primary antiviral for HSV and VZV infections; its mechanism involves inhibition of the viral DNA polymerase after being phosphorylated by viral thymidine kinase.",
-    "pdfPage": 42,
+    "pdfPage": 32,
     "pdfQuote": "Antiviral therapy typically is ciclovir which is a base analog"
   }
 ];

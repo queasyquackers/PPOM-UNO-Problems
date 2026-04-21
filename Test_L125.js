@@ -368,7 +368,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Pemphigus vulgaris presents with a positive Nikolsky sign due to intraepidermal acantholysis, whereas bullous pemphigoid presents with a negative Nikolsky sign due to subepidermal cleavage.",
-    "pdfPage": 38,
+    "pdfPage": 27,
     "pdfQuote": "commonly described is a positive Nikolsky sign"
   },
   {
@@ -399,7 +399,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "ITP is characterized by isolated thrombocytopenia driven by autoantibodies against GP IIb/IIIa receptors, ultimately causing macrophage-mediated splenic destruction of the antibody-coated platelets.",
-    "pdfPage": 40,
+    "pdfPage": 30,
     "pdfQuote": "autoantibodies against GP2B and 3A"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Rituximab is a monoclonal antibody that targets the CD20 cell surface protein on B lymphocytes, leading to their depletion and consequently decreasing autoantibody production.",
-    "pdfPage": 42,
+    "pdfPage": 8,
     "pdfQuote": "targets CD20, which is found on B-cells"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "In pemphigus vulgaris, the destruction of intraepidermal desmosomes (acantholysis) leaves the deepest epidermal layer\u2014the stratum basale\u2014intactly tethered to the basement membrane by hemidesmosomes, creating the histologic 'tombstone' appearance.",
-    "pdfPage": 38,
+    "pdfPage": 12,
     "pdfQuote": "basement membrane is still intact... tombstone pattern"
   },
   {
@@ -802,7 +802,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Immune thrombocytopenic purpura (ITP) may be treated with Rituximab in adults, which depletes B-cells by targeting CD20 to lower the production of anti-GP IIb/IIIa autoantibodies.",
-    "pdfPage": 42,
+    "pdfPage": 31,
     "pdfQuote": "targets the B cells that are responsible... bind to CD20"
   },
   {
@@ -833,7 +833,7 @@ window.Test_L125 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Antiphospholipid syndrome is a distinct hypercoagulable autoimmune state manifesting as unprovoked thromboses and recurrent miscarriages, requiring lifelong therapy with warfarin in the non-pregnant patient.",
-    "pdfPage": 44,
+    "pdfPage": 33,
     "pdfQuote": "lifelong anticoagulation with warfarin. Typically heparin is used in pregnant patients"
   },
   {

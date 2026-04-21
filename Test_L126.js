@@ -151,7 +151,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Cryptic epitope exposure occurs when trauma to immunologically privileged sites (like the eye) releases sequestered antigens, triggering a specific autoimmune attack.",
-    "pdfPage": 48,
+    "pdfPage": 29,
     "pdfQuote": "Cryptic Epitope Exposure"
   },
   {
@@ -182,7 +182,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The hapten effect occurs when a small, non-immunogenic molecule (like heparin or penicillin) binds to a host carrier protein, forming an immunogenic neoantigen.",
-    "pdfPage": 49,
+    "pdfPage": 36,
     "pdfQuote": "The Hapten Effect"
   },
   {
@@ -244,7 +244,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Epitope spreading describes the expansion of an immune response to include new endogenous targets as chronic tissue destruction reveals previously hidden antigens.",
-    "pdfPage": 47,
+    "pdfPage": 34,
     "pdfQuote": "Epitope Spreading"
   },
   {
@@ -337,7 +337,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Hormonal imbalances, such as chronic elevation of cortisol resulting in glucocorticoid receptor resistance, can impair normal anti-inflammatory mechanisms and trigger or exacerbate autoimmunity.",
-    "pdfPage": 52,
+    "pdfPage": 20,
     "pdfQuote": "cortisol"
   },
   {
@@ -368,7 +368,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Cytokine dysregulation, particularly involving TGF-beta, can lead to either failed immune suppression or, conversely, profound pathogenic tissue scarring and fibrosis.",
-    "pdfPage": 53,
+    "pdfPage": 40,
     "pdfQuote": "Transforming growth factor beta"
   },
   {
@@ -771,7 +771,7 @@ window.Test_L126 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Significant viral infections (e.g., Coxsackievirus) can lyse host cells, exposing normally hidden cryptic epitopes and initiating isolated, organ-specific autoimmune destruction like myocarditis.",
-    "pdfPage": 48,
+    "pdfPage": 35,
     "pdfQuote": "Cryptic Epitope Exposure"
   },
   {

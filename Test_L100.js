@@ -368,7 +368,7 @@ window.Test_L100 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Paragonimus species are lung flukes acquired from raw shellfish that can migrate to the brain.",
-    "pdfPage": 34,
+    "pdfPage": 27,
     "pdfQuote": "occurring from an interesting raw undercooked either crab or crayfish"
   },
   {
@@ -430,7 +430,7 @@ window.Test_L100 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Eosinophilic pleocytosis in the CSF is highly suggestive of a parasitic CNS infection.",
-    "pdfPage": 35,
+    "pdfPage": 13,
     "pdfQuote": "aerosinophilia seems to be common in parasitic infection"
   },
   {
