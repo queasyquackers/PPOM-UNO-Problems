@@ -175,21 +175,21 @@ const testsToLoad = [
     { name: "15-Public & Global Health: Role of Immunizations (L147)", data: window.Test_L147 },
     { name: "15-Week 12-15 CUMULATIVE EXAM", data: window.Test_Cumulative_Wk12_15 },
 
-    // --- Week 16 ---
-    { name: "16-Hematology: ABO Groups, Rh Disease (L149)", data: window.Test_L149 },
-    { name: "16-Hematology: Hematopoiesis (L150)", data: window.Test_L150 },
-    { name: "16-Hematology: Laboratory Medicine and Anemias Part 1 (L151)", data: window.Test_L151 },
-    { name: "16-Hematology: Laboratory Medicine and Anemias Part 2 (L152)", data: window.Test_L152 },
-    { name: "16-Hematology: Pharmacology of Anemias (L153)", data: window.Test_L153 },
-    { name: "16-Hematology: Leukemias, Lymphomas, and Plasma Cell Neoplasms (L154)", data: window.Test_L154 },
-    { name: "16-Hematology: Hemorrhage and Thrombosis (L155)", data: window.Test_L155 },
-    { name: "16-Pharmacology: Antineoplastic Agents 1 (L156)", data: window.Test_L156 },
-    { name: "16-Pharmacology: Antineoplastic Agents 2 (L157)", data: window.Test_L157 },
-    { name: "16-Hematology: Pathology: Hemostasis (L158)", data: window.Test_L158 },
-    { name: "16-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)", data: window.Test_L159 },
-
     // --- Week 17 ---
-    { name: "17-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 }
+    { name: "17-Hematology: ABO Groups, Rh Disease (L149)", data: window.Test_L149 },
+    { name: "17-Hematology: Hematopoiesis (L150)", data: window.Test_L150 },
+    { name: "17-Hematology: Laboratory Medicine and Anemias Part 1 (L151)", data: window.Test_L151 },
+    { name: "17-Hematology: Laboratory Medicine and Anemias Part 2 (L152)", data: window.Test_L152 },
+    { name: "17-Hematology: Pharmacology of Anemias (L153)", data: window.Test_L153 },
+    { name: "17-Hematology: Leukemias, Lymphomas, and Plasma Cell Neoplasms (L154)", data: window.Test_L154 },
+    { name: "17-Hematology: Hemorrhage and Thrombosis (L155)", data: window.Test_L155 },
+    { name: "17-Pharmacology: Antineoplastic Agents 1 (L156)", data: window.Test_L156 },
+    { name: "17-Pharmacology: Antineoplastic Agents 2 (L157)", data: window.Test_L157 },
+    { name: "17-Hematology: Pathology: Hemostasis (L158)", data: window.Test_L158 },
+    { name: "17-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)", data: window.Test_L159 },
+
+    // --- Week 18 ---
+    { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 }
 
 ];
 
