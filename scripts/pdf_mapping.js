@@ -285,10 +285,17 @@ const PDF_MAPPING = {
     "L145": "pdfs/Lecture # 145. A. Hurst, M.D. (PPT).pdf",
     "L147": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf",
     "15-Public & Global Health: Role of Immunizations (L147)": "pdfs/Lecture # 147. C. Abraham, M.D. (PPT).pdf",
-    "Review Lectures-Lecture 6: Mihlbachler": "pdfs/Lecture # 6. M. Mihlbachler, Ph.D. (PPT).pdf",
-    "Review Lectures-Lecture 90: Slieman": "pdfs/Lecture #90. T. Slieman, Ph.D. (PPT).pdf",
-    "Review Lectures-Lecture 97: Slieman": "pdfs/Lecture # 97. T. Slieman, Ph.D. (PPT).pdf",
-    "Review Lectures-Lecture 130: Plummer": "pdfs/Lecture # 130. M. Plummer, M.D. (PPT).pdf"
+    "16-Hematology: ABO Groups, Rh Disease (L149)": "pdfs/Lecture # 149. W. Zaloga, D.O. (PPT).pdf",
+    "16-Hematology: Hematopoiesis (L150)": "pdfs/Lecture # 150. M. Plummer, M.D. (PPT).pdf",
+    "16-Hematology: Laboratory Medicine and Anemias Part 1 (L151)": "pdfs/Lecture # 151. G. Saggio, D.O. (PPT).pdf",
+    "16-Hematology: Laboratory Medicine and Anemias Part 2 (L152)": "pdfs/Lecture # 152. G. Saggio, D.O. (PPT).pdf",
+    "16-Hematology: Pharmacology of Anemias (L153)": "pdfs/Lecture # 153. L. Goldstein, Pharm.D. (PPT).pdf",
+    "16-Hematology: Leukemias, Lymphomas, and Plasma Cell Neoplasms (L154)": "pdfs/Lecture #154. M. Plummer, M.D. (StudySheet) updated 4.23.26.pdf",
+    "16-Hematology: Hemorrhage and Thrombosis (L155)": "pdfs/Lecture #154. M. Plummer, M.D. (StudySheet) updated 4.23.26.pdf",
+    "16-Pharmacology: Antineoplastic Agents 1 (L156)": "pdfs/Lecture # 156. L. Goldstein, Pharm.D. (PPT).pdf",
+    "16-Pharmacology: Antineoplastic Agents 2 (L157)": "pdfs/Lecture # 157. L. Goldstein, Pharm.D. (PPT).pdf",
+    "16-Hematology: Pathology: Hemostasis (L158)": "pdfs/Lecture #158. E. Petcu (PPT).pdf",
+    "16-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)": "pdfs/Lecture # 159. S. Lewis, M.D. (PPT).pdf"
 };
 
 
