@@ -187,6 +187,7 @@ const testsToLoad = [
     { name: "16-Pharmacology: Antineoplastic Agents 2 (L157)", data: window.Test_L157 },
     { name: "16-Hematology: Pathology: Hemostasis (L158)", data: window.Test_L158 },
     { name: "16-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)", data: window.Test_L159 }
+    { name: "4-Psychiatry: DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 },
 
 ];
 
