@@ -67,11 +67,11 @@ const Test_L151 = [
     "questionText": "A patient with chronic kidney disease presents with fatigue. The physician explains that the anemia is due to a lack of Erythropoietin (EPO). Which specific cells are responsible for sensing low oxygen and secreting EPO?",
     "options": [
       {
-        "text": "Hepatocytes in the liver",
+        "text": "Hepatocytes in the periportal zones of the hepatic sinusoidal beds",
         "explanation": "Incorrect. While the liver produces some EPO in the fetus, the adult source is the kidney."
       },
       {
-        "text": "Juxtaglomerular cells of the kidney",
+        "text": "Juxtaglomerular cells of the afferent arterioles in the renal cortex",
         "explanation": "Incorrect. These cells secrete renin in response to low blood pressure, not EPO."
       },
       {
@@ -79,11 +79,11 @@ const Test_L151 = [
         "explanation": "Correct. EPO is produced by the specialized interstitial cells surrounding the peritubular capillaries in the kidney. They act as the body's primary oxygen sensors."
       },
       {
-        "text": "Endothelial cells of the pulmonary vasculature",
+        "text": "Endothelial cells of the alveolar capillaries in the pulmonary parenchyma",
         "explanation": "Incorrect. These cells are involved in ACE conversion but not EPO production."
       },
       {
-        "text": "Maculae densa cells of the distal tubule",
+        "text": "Macula densa cells of the thick ascending limb in the renal medulla",
         "explanation": "Incorrect. These cells sense sodium chloride delivery, not oxygen levels."
       }
     ],
@@ -346,11 +346,11 @@ const Test_L151 = [
     "questionText": "A patient with a hemoglobin of 8 g/dL has a reticulocyte count of 0.5% (Normal 1-2%). Which of the following is the most accurate interpretation of this finding?",
     "options": [
       {
-        "text": "The marrow is responding appropriately to the anemia",
+        "text": "The marrow is responding appropriately to the anemia with a brisk compensatory rise in erythropoiesis",
         "explanation": "Incorrect. A normal count in severe anemia is 'inappropriately low'."
       },
       {
-        "text": "The anemia is likely due to acute blood loss within the last hour",
+        "text": "The anemia is from acute blood loss within the past hour, before the marrow has had time to respond",
         "explanation": "Incorrect. Acute loss would still trigger a rise over several days."
       },
       {
@@ -358,11 +358,11 @@ const Test_L151 = [
         "explanation": "Correct. In anemia, a healthy marrow should increase reticulocytes (> 3%). A count of 0.5% indicates the marrow is failing to respond."
       },
       {
-        "text": "The patient is likely experiencing severe intravascular hemolysis",
+        "text": "The patient is experiencing severe intravascular hemolysis with destruction outpacing reticulocyte release",
         "explanation": "Incorrect. Hemolysis causes a high reticulocyte count."
       },
       {
-        "text": "The RBC lifespan is increased beyond 120 days",
+        "text": "The RBC lifespan is increased beyond 120 days, reducing the rate of new reticulocyte release into circulation",
         "explanation": "Incorrect. A low retic count does not imply longer RBC life."
       }
     ],
@@ -478,7 +478,7 @@ const Test_L151 = [
         "explanation": "Incorrect. ALAD is the second step."
       },
       {
-        "text": "ALAS (Aminolevulinic Acid Synthase); Vitamin B6",
+        "text": "ALAS; Vitamin B6",
         "explanation": "Correct. The first and rate-limiting step is the conversion of Succinyl CoA and Glycine into ALA by ALAS, requiring Vitamin B6."
       },
       {

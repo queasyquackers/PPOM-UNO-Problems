@@ -164,7 +164,7 @@ const Test_L158 = [
         "explanation": "Incorrect. This describes the mechanism of heparin."
       },
       {
-        "text": "The enzyme VKORC1; Vitamin K-dependent factors (II, VII, IX, X)",
+        "text": "The enzyme VKORC1",
         "explanation": "Correct. Warfarin inhibits the enzyme Vitamin K Epoxide Reductase (VKORC1), preventing the recycling of Vitamin K. This leads to the depletion of the functional Vitamin K-dependent clotting factors (II, VII, IX, X) and anticoagulant proteins (C and S)."
       },
       {

@@ -16,7 +16,7 @@ const Test_L152 = [
     "questionText": "Megaloblastic anemias are fundamentally characterized by impaired DNA synthesis, which results in a delay in nuclear maturation relative to cytoplasmic development. Which of the following peripheral blood smear findings is a hallmark of this class of anemias?",
     "options": [
       {
-        "text": "Basophilic stippling",
+        "text": "Coarse basophilic stippling",
         "explanation": "Incorrect. Basophilic stippling represents ribosomal precipitates and is typically seen in lead poisoning or sideroblastic anemia, not megaloblastic processes. This would be the correct answer if the question asked about lead-induced inhibition of rRNA degradation."
       },
       {
@@ -24,15 +24,15 @@ const Test_L152 = [
         "explanation": "Correct. Hypersegmented neutrophils (defined as having 6 or more lobes) are a pathognomonic finding in megaloblastic anemias. They result from the same impaired DNA synthesis and delayed nuclear maturation that causes the macrocytosis seen in the red cell lineage."
       },
       {
-        "text": "Howell-Jolly bodies",
+        "text": "Numerous Howell-Jolly bodies",
         "explanation": "Incorrect. Howell-Jolly bodies are nuclear remnants that persist due to functional asplenia or splenectomy. This would be the correct answer if the patient had sickle cell disease with repeated splenic infarctions."
       },
       {
-        "text": "Schistocytes",
+        "text": "Fragmented schistocyte forms",
         "explanation": "Incorrect. Schistocytes are fragmented red blood cells seen in micro- or macroangiopathic hemolytic anemias (mechanical trauma). This would be the correct answer if the patient had a mechanical heart valve or DIC."
       },
       {
-        "text": "Target cells",
+        "text": "Bullseye target erythrocytes",
         "explanation": "Incorrect. Target cells occur when there is an increased surface area-to-volume ratio, common in thalassemias or liver disease. This would be the correct answer if the question focused on hemoglobin C disease or asplenia."
       }
     ],
@@ -761,7 +761,7 @@ const Test_L152 = [
     "questionText": "In sickle cell disease, the primary cause of chronic morbidity is repeated vaso-occlusion. Which of the following conditions is characteristically avoided in the first few months of life due to the presence of a specific hemoglobin type?",
     "options": [
       {
-        "text": "Acute hemolytic episodes",
+        "text": "Severe hemolytic crisis events",
         "explanation": "Incorrect. While hemolysis is reduced, the primary 'avoided' event is the sickling process itself. This would be the correct answer if the question focused on jaundice."
       },
       {
@@ -769,15 +769,15 @@ const Test_L152 = [
         "explanation": "Correct. Newborns with sickle cell disease are protected for the first 6 months of life because they still have high levels of Hemoglobin F (HbF). HbF lacks the β-chain (it is α2γ2) and does not sickle, effectively diluting the abnormal HbS."
       },
       {
-        "text": "Aplastic anemia",
+        "text": "Aplastic anemia from B19 infection",
         "explanation": "Incorrect. DBA or other congenital aplasias can occur in infancy. This would be the correct answer if the question focused on triphalangeal thumbs."
       },
       {
-        "text": "Megaloblastic changes",
+        "text": "Megaloblastic erythroid changes",
         "explanation": "Incorrect. These depend on dietary intake and are not prevented by HbF. This would be the correct answer if the question focused on milk-only diets in infants."
       },
       {
-        "text": "Iron overload",
+        "text": "Transfusion-related iron overload",
         "explanation": "Incorrect. Iron overload occurs later in life after multiple transfusions. This would be the correct answer if the question focused on hereditary hemochromatosis."
       }
     ],
@@ -827,7 +827,7 @@ const Test_L152 = [
         "explanation": "Incorrect. This is the pathway for G6PD. While it causes jaundice, it typically results in bite cells, not burr cells. This would be the correct answer if the question focused on NADPH production."
       },
       {
-        "text": "Glycolysis (Embden-Meyerhof pathway)",
+        "text": "Glycolysis",
         "explanation": "Correct. Pyruvate kinase is the final enzyme in the glycolytic pathway. A deficiency leads to ATP depletion, causing the RBC membrane to become rigid and dehydrated, forming burr cells and undergoing extravascular hemolysis."
       },
       {

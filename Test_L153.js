@@ -16,7 +16,7 @@ const Test_L153 = [
     "questionText": "Iron absorption is a tightly regulated process in the duodenum. Which of the following substances acts as a strong reducing agent to convert dietary ferric iron (Fe3+) to the more absorbable ferrous state (Fe2+)?",
     "options": [
       {
-        "text": "Calcium",
+        "text": "Dietary calcium (Ca2+ ions)",
         "explanation": "Incorrect. Calcium actually forms insoluble complexes with iron and inhibits its absorption. This would be the correct answer if the question asked about a common dietary inhibitor found in dairy."
       },
       {
@@ -24,15 +24,15 @@ const Test_L153 = [
         "explanation": "Correct. Vitamin C is a strong reducing agent (antioxidant) that reduces ferric iron (Fe3+) to ferrous iron (Fe2+) in the gut lumen. This conversion is essential for transport across the apical membrane by DMT1."
       },
       {
-        "text": "Tannins",
+        "text": "Tannins (in tea or coffee)",
         "explanation": "Incorrect. Tannins (found in tea) are inhibitors of iron absorption. This would be the correct answer if the question focused on a component of tea that reduces bioavailability."
       },
       {
-        "text": "Hepcidin",
+        "text": "Hepcidin (hepatic peptide)",
         "explanation": "Incorrect. Hepcidin is a peptide hormone that downregulates iron export by degrading ferroportin; it does not act as a reducing agent. This would be the correct answer if the question asked about the 'master regulator' of iron stores."
       },
       {
-        "text": "Folic Acid",
+        "text": "Folic Acid (vitamin B9)",
         "explanation": "Incorrect. Folic acid is a vitamin involved in DNA synthesis and is not a reducing agent for iron absorption. This would be the correct answer if the question concerned thymidylate synthesis cofactors."
       }
     ],
@@ -140,7 +140,7 @@ const Test_L153 = [
     "questionText": "Vitamin B12 is a required cofactor for the conversion of N5-methyltetrahydrofolate (MTHF) back to tetrahydrofolate (THF). In the absence of B12, which of the following cofactors becomes 'trapped,' leading to impaired DNA synthesis?",
     "options": [
       {
-        "text": "Methylmalonyl-CoA",
+        "text": "Methylmalonyl-CoA (MMA buildup)",
         "explanation": "Incorrect. Methylmalonyl-CoA accumulates in B12 deficiency but is not the cofactor that stalls DNA synthesis. This would be the correct answer if the question focused on the biochemical cause of neurological damage."
       },
       {
@@ -148,15 +148,15 @@ const Test_L153 = [
         "explanation": "Correct. This is known as the 'folate trap.' Without B12, folate is stuck as N5-methyl-THF, which cannot be used for the one-carbon transfers required for purine and thymidylate synthesis, thereby stalling cell division."
       },
       {
-        "text": "Homocysteine",
+        "text": "Homocysteine (Hcy accumulation)",
         "explanation": "Incorrect. Homocysteine accumulates as a reactant that cannot be converted, but it is not the trapped folate form. This would be the correct answer if the question focused on the precursor to methionine."
       },
       {
-        "text": "Deoxyadenosylcobalamin",
+        "text": "Deoxyadenosylcobalamin (AdoCbl)",
         "explanation": "Incorrect. This is an active form of B12 itself. This would be the correct answer if the question asked about the B12 congener used in fatty acid metabolism."
       },
       {
-        "text": "Dihydrofolate",
+        "text": "Dihydrofolate (DHF reduced form)",
         "explanation": "Incorrect. Dihydrofolate is a precursor to THF but is not the 'trapped' form in B12 deficiency. This would be the correct answer if the question focused on the substrate for DHFR."
       }
     ],
@@ -233,7 +233,7 @@ const Test_L153 = [
     "questionText": "In patients with Vitamin B12 deficiency, the accumulation of specific metabolic products leads to the disruption of myelin sheath production. Which of the following accumulates as a result of methylmalonyl-CoA mutase dysfunction?",
     "options": [
       {
-        "text": "Tetrahydrofolate",
+        "text": "Tetrahydrofolate (active THF pool)",
         "explanation": "Incorrect. THF is deficient, not accumulated, in the 'folate trap.' This would be the correct answer if the question asked what is lacking for DNA synthesis."
       },
       {
@@ -241,15 +241,15 @@ const Test_L153 = [
         "explanation": "Correct. B12 is a cofactor for methylmalonyl-CoA mutase. Dysfunction of this enzyme leads to the buildup of methylmalonyl-CoA and propionyl-CoA, which are incorporated into neuronal lipids as abnormal fatty acids, damaging the myelin sheath."
       },
       {
-        "text": "Nitric oxide",
+        "text": "Nitric oxide and NO synthase activity",
         "explanation": "Incorrect. Nitric oxide is a beneficial secondary product of hydroxyurea metabolism. This would be the correct answer if the question focused on vasodilatory effects in sickle cell."
       },
       {
-        "text": "L-Glutamine",
+        "text": "L-Glutamine and alpha-ketoglutarate",
         "explanation": "Incorrect. L-Glutamine is used as a supplement to reduce oxidative stress in sickled RBCs. This would be the correct answer if the question asked about a pharmaceutical-grade redox precursor."
       },
       {
-        "text": "Ferritin",
+        "text": "Ferritin and intracellular iron stores",
         "explanation": "Incorrect. Ferritin is the storage form of iron and is not involved in B12-mediated myelin maintenance. This would be the correct answer if the question were about systemic iron monitoring."
       }
     ],
@@ -419,7 +419,7 @@ const Test_L153 = [
     "questionText": "A patient with chronic kidney disease on subcutaneous epoetin alfa therapy suddenly develops a rapid drop in hemoglobin and a reticulocyte count of nearly zero. Bone marrow biopsy confirms a lack of erythroid precursors. What is the most likely cause?",
     "options": [
       {
-        "text": "Iron toxicity",
+        "text": "Hemochromatosis-style iron toxicity in marrow",
         "explanation": "Incorrect. Iron toxicity would not cause a sudden disappearance of only the erythroid lineage. This would be the correct answer if the question described multi-organ failure and metabolic acidosis."
       },
       {
@@ -427,15 +427,15 @@ const Test_L153 = [
         "explanation": "Correct. This is the mechanism for ESA-induced Pure Red Cell Aplasia (PRCA). Neutralizing antibodies develop against the recombinant drug and cross-react with the patient's endogenous EPO, halting all red cell production."
       },
       {
-        "text": "Activation of the JAK/STAT pathway",
+        "text": "Aberrant activation of the JAK/STAT pathway",
         "explanation": "Incorrect. JAK/STAT activation *promotes* red cell production; it does not stop it. This would be the correct answer if the question asked about the normal mechanism of ESA action."
       },
       {
-        "text": "Inhibition of ribonucleoside reductase",
+        "text": "Selective inhibition of ribonucleoside reductase",
         "explanation": "Incorrect. This is the mechanism of hydroxyurea, which usually causes a mild, manageable suppression, not complete PRCA. This would be the correct answer if the question were about sickle cell treatment."
       },
       {
-        "text": "Normal progression of ESRD",
+        "text": "Normal progression of underlying ESRD/CKD anemia",
         "explanation": "Incorrect. While ESRD causes anemia, it does not cause a sudden, absolute loss of all erythroid precursors in the marrow. This would be the correct answer if the question described a slow, chronic decline in Hb over years."
       }
     ],
@@ -791,7 +791,7 @@ const Test_L153 = [
     "questionText": "Hydroxyurea is an antimetabolite that affects rapidly proliferating cells. At which specific phase of the cell cycle does hydroxyurea halt progression?",
     "options": [
       {
-        "text": "G0 phase",
+        "text": "G0 quiescent phase entry",
         "explanation": "Incorrect. G0 is the resting phase; hydroxyurea targets actively dividing cells. This would be the correct answer if the question focused on stable cells like hepatocytes."
       },
       {
@@ -799,15 +799,15 @@ const Test_L153 = [
         "explanation": "Correct. By inhibiting ribonucleoside reductase, hydroxyurea prevents the production of dNTPs needed for DNA synthesis. This effectively halts the cell cycle as it attempts to transition from the G1 growth phase into the S (synthesis) phase."
       },
       {
-        "text": "G2 phase",
+        "text": "G2 to M phase transition",
         "explanation": "Incorrect. G2 occurs after DNA synthesis is complete. This would be the correct answer if the question focused on drugs that inhibit tubulin like vincristine."
       },
       {
-        "text": "Metaphase of Mitosis",
+        "text": "Mitotic metaphase arrest only",
         "explanation": "Incorrect. Mitotic inhibitors (vincas, taxanes) work here. This would be the correct answer if the question focused on microtubule disruption."
       },
       {
-        "text": "Late S phase only",
+        "text": "Late S phase progression",
         "explanation": "Incorrect. While it affects the S phase, the block is most notable at the entry (G1 to S). This would be the correct answer if the question focused on topoisomerase inhibitors."
       }
     ],

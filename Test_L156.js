@@ -160,7 +160,7 @@ const Test_L156 = [
     "questionText": "Vincristine and Paclitaxel both act on microtubules during the M phase of the cell cycle. How do their mechanisms differ?",
     "options": [
       {
-        "text": "Vincristine stabilizes microtubules, while Paclitaxel prevents their assembly",
+        "text": "Vincristine stabilizes assembled microtubules, while Paclitaxel prevents their initial polymerization and assembly",
         "explanation": "Incorrect. This is the reverse of their actual actions."
       },
       {
@@ -168,15 +168,15 @@ const Test_L156 = [
         "explanation": "Correct. Vincristine prevents the assembly of the mitotic spindle. Paclitaxel (a taxane) prevents the spindle from breaking down. Both result in mitotic arrest and apoptosis."
       },
       {
-        "text": "Vincristine acts in the S phase, while Paclitaxel acts in the M phase",
+        "text": "Vincristine acts during the S phase of DNA synthesis, while Paclitaxel acts during the M phase of mitosis",
         "explanation": "Incorrect. Both are M-phase specific."
       },
       {
-        "text": "Vincristine is an alkylating agent, while Paclitaxel is a natural product",
+        "text": "Vincristine is an alkylating agent that crosslinks DNA, while Paclitaxel is a natural Pacific yew product",
         "explanation": "Incorrect. Both are considered natural products (vinca alkaloid and taxane)."
       },
       {
-        "text": "Vincristine is primarily used for solid tumors, while Paclitaxel is for leukemias",
+        "text": "Vincristine is primarily used for solid carcinomas, while Paclitaxel is reserved for leukemias and lymphomas",
         "explanation": "Incorrect. Vincristine is a cornerstone for leukemias (ALL), while Paclitaxel is frequently used for solid tumors (breast, lung)."
       }
     ],
@@ -315,7 +315,7 @@ const Test_L156 = [
     "questionText": "A 55-year-old male with lung cancer is started on a chemotherapy regimen. Two weeks later, he presents with a high fever and a sore throat. His absolute neutrophil count (ANC) is 400/µL. What is the clinical term for the most common universal dose-limiting toxicity demonstrated here?",
     "options": [
       {
-        "text": "Mucositis",
+        "text": "Severe oral mucositis lesions",
         "explanation": "Incorrect. While he has a sore throat, the underlying life-threatening issue is the low neutrophil count."
       },
       {
@@ -323,15 +323,15 @@ const Test_L156 = [
         "explanation": "Correct. Myelosuppression, particularly neutropenia, is the most common dose-limiting toxicity for the majority of conventional cytotoxic agents. It significantly increases the risk of opportunistic infections."
       },
       {
-        "text": "Tumor Lysis Syndrome",
+        "text": "Tumor lysis syndrome (TLS)",
         "explanation": "Incorrect. TLS is a metabolic event, not a failure of bone marrow production."
       },
       {
-        "text": "Radiation Recall",
+        "text": "Radiation recall dermatitis",
         "explanation": "Incorrect. This is a skin reaction in previously irradiated areas."
       },
       {
-        "text": "Secondary Malignancy",
+        "text": "Secondary chemo-induced malignancy",
         "explanation": "Incorrect. Leukemia can be a long-term consequence of chemo, but acute fever/neutropenia is myelosuppression."
       }
     ],
@@ -346,7 +346,7 @@ const Test_L156 = [
     "questionText": "A 48-year-old female with breast cancer is receiving a regimen that includes Cisplatin. To reduce the risk of nephrotoxicity, which of the following is the standard prophylactic measure?",
     "options": [
       {
-        "text": "Administration of Mesna",
+        "text": "Pre-administration of Mesna for uroprotection",
         "explanation": "Incorrect. Mesna is for cyclophosphamide-induced cystitis."
       },
       {
@@ -354,15 +354,15 @@ const Test_L156 = [
         "explanation": "Correct. Cisplatin is highly nephrotoxic. The standard approach is to maintain high urine flow through vigorous saline diuresis to 'flush' the drug through the kidneys and reduce its concentration in the tubules."
       },
       {
-        "text": "Pre-treatment with Leucovorin",
+        "text": "Pre-treatment with Leucovorin (folinic acid) rescue",
         "explanation": "Incorrect. Leucovorin is for methotrexate rescue."
       },
       {
-        "text": "Co-administration of Dexrazoxane",
+        "text": "Co-administration of Dexrazoxane chelator therapy",
         "explanation": "Incorrect. Dexrazoxane is for doxorubicin-induced cardiotoxicity."
       },
       {
-        "text": "Alkalinization of the urine",
+        "text": "Alkalinization of urine with bicarbonate IV infusion",
         "explanation": "Incorrect. While used for methotrexate or uric acid, saline diuresis is the specific pearl for cisplatin."
       }
     ],
@@ -412,19 +412,19 @@ const Test_L156 = [
         "explanation": "Correct. Cytarabine is a cytidine analog (pyrimidine). Once activated to Ara-CTP, it competes with dCTP for DNA polymerase, inhibits its activity, and is incorporated into the DNA chain, leading to termination."
       },
       {
-        "text": "It cross-links DNA strands at the N7 guanine position",
+        "text": "It cross-links DNA strands at the N7 position of guanine to disrupt DNA replication",
         "explanation": "Incorrect. This describes alkylating agents."
       },
       {
-        "text": "It inhibits the enzyme dihydrofolate reductase",
+        "text": "It inhibits the enzyme dihydrofolate reductase to deplete the tetrahydrofolate pool",
         "explanation": "Incorrect. This is methotrexate."
       },
       {
-        "text": "It intercalates between base pairs and generates free radicals",
+        "text": "It intercalates between DNA base pairs and generates oxidative free radical damage",
         "explanation": "Incorrect. This is the mechanism of the other drug in the regimen, Daunorubicin."
       },
       {
-        "text": "It inhibits topoisomerase I",
+        "text": "It inhibits topoisomerase I to prevent religation of DNA single-strand breaks",
         "explanation": "Incorrect. This is irinotecan."
       }
     ],
@@ -470,11 +470,11 @@ const Test_L156 = [
     "questionText": "A 32-year-old female is receiving Paclitaxel for breast cancer. She complains of numbness and tingling in her hands and feet in a 'glove-and-stocking' distribution. What is the cellular target of the drug causing this side effect?",
     "options": [
       {
-        "text": "DNA backbone scission",
+        "text": "DNA backbone scission and strand breaks",
         "explanation": "Incorrect. This describes alkylating or topoisomerase inhibitors."
       },
       {
-        "text": "Dihydrofolate reductase",
+        "text": "Dihydrofolate reductase enzyme activity",
         "explanation": "Incorrect. This is methotrexate."
       },
       {
@@ -482,11 +482,11 @@ const Test_L156 = [
         "explanation": "Correct. Both Taxanes (Paclitaxel) and Vinca Alkaloids bind to beta-tubulin. By disrupting microtubule function (which is essential for axonal transport in long nerves), these drugs cause peripheral neuropathy."
       },
       {
-        "text": "Topoisomerase II",
+        "text": "Topoisomerase II catalytic core domain",
         "explanation": "Incorrect. This describes etoposide or anthracyclines."
       },
       {
-        "text": "Thymidylate synthase",
+        "text": "Thymidylate synthase enzyme dimer",
         "explanation": "Incorrect. This is 5-FU."
       }
     ],

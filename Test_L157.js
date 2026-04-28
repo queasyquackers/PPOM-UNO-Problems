@@ -5,7 +5,7 @@ const Test_L157 = [
     "questionText": "What is the primary cellular target of Imatinib in the treatment of Chronic Myelogenous Leukemia (CML)?",
     "options": [
       {
-        "text": "The extracellular domain of the HER2 receptor",
+        "text": "The extracellular ligand-binding domain of the HER2 receptor",
         "explanation": "Incorrect. This is the target of Trastuzumab."
       },
       {
@@ -13,15 +13,15 @@ const Test_L157 = [
         "explanation": "Correct. Imatinib is a small molecule inhibitor that specifically blocks the ATP-binding site of the constitutively active BCR-ABL tyrosine kinase (the product of the Philadelphia chromosome), preventing downstream signaling and tumor cell proliferation."
       },
       {
-        "text": "Soluble Vascular Endothelial Growth Factor (VEGF)",
+        "text": "Soluble Vascular Endothelial Growth Factor (VEGF-A isoform)",
         "explanation": "Incorrect. This is the target of Bevacizumab."
       },
       {
-        "text": "The CD20 surface marker on B lymphocytes",
+        "text": "The CD20 surface marker on circulating B lymphocyte clones",
         "explanation": "Incorrect. This is the target of Rituximab."
       },
       {
-        "text": "The 26S proteasome complex",
+        "text": "The catalytic 26S proteasome complex of plasma cells",
         "explanation": "Incorrect. This is the target of Bortezomib."
       }
     ],
@@ -36,11 +36,11 @@ const Test_L157 = [
     "questionText": "A 62-year-old male with metastatic colorectal cancer is considered for treatment with Cetuximab. Genetic testing of the tumor reveals a KRAS mutation. What is the clinical significance of this finding?",
     "options": [
       {
-        "text": "Cetuximab will be highly effective in this patient",
+        "text": "Cetuximab will be highly effective in this patient because of enhanced EGFR-pathway sensitivity",
         "explanation": "Incorrect. KRAS mutations confer resistance to EGFR inhibitors."
       },
       {
-        "text": "The patient is at increased risk for Cetuximab-induced cardiotoxicity",
+        "text": "The patient is at greatly increased risk for Cetuximab-induced cardiotoxicity due to KRAS status",
         "explanation": "Incorrect. Cardiotoxicity is more associated with HER2 inhibitors like Trastuzumab."
       },
       {
@@ -48,11 +48,11 @@ const Test_L157 = [
         "explanation": "Correct. Cetuximab inhibits the Epidermal Growth Factor Receptor (EGFR). However, if the KRAS gene (which is downstream of EGFR) is mutated and 'always on,' blocking the receptor above it will have no effect on tumor growth."
       },
       {
-        "text": "The KRAS mutation makes the tumor uniquely sensitive to Bevacizumab",
+        "text": "The KRAS mutation makes the tumor uniquely sensitive to Bevacizumab and anti-VEGF therapy",
         "explanation": "Incorrect. While bevacizumab might be used, the KRAS status specifically dictates the failure of EGFR inhibitors (Cetuximab/Panitumumab)."
       },
       {
-        "text": "The patient will require a 50% dose reduction of Cetuximab",
+        "text": "The patient will require an empiric 50% dose reduction of Cetuximab to prevent toxicity",
         "explanation": "Incorrect. The drug is essentially contraindicated or considered ineffective in this scenario."
       }
     ],
@@ -98,7 +98,7 @@ const Test_L157 = [
     "questionText": "What is the primary mechanism by which the immune checkpoint inhibitor Nivolumab works?",
     "options": [
       {
-        "text": "It blocks the CTLA-4 receptor on T-cells",
+        "text": "It blocks the CTLA-4 receptor on T-cells to enhance early activation of the immune response",
         "explanation": "Incorrect. This is the mechanism of Ipilimumab."
       },
       {
@@ -106,15 +106,15 @@ const Test_L157 = [
         "explanation": "Correct. Nivolumab and Pembrolizumab are monoclonal antibodies that block the Programmed Death-1 (PD-1) receptor on T-cells, preventing tumor cells from using the PD-L1 ligand to suppress T-cell activity."
       },
       {
-        "text": "It directly lyses tumor cells via complement-dependent cytotoxicity",
+        "text": "It directly lyses tumor cells via complement-dependent cytotoxicity (CDC) pathways",
         "explanation": "Incorrect. While it enhances the immune response, its primary action is checkpoint blockade, not direct lysis."
       },
       {
-        "text": "It binds to soluble PD-L1 in the serum",
+        "text": "It binds to soluble PD-L1 circulating in the serum to neutralize the ligand",
         "explanation": "Incorrect. While PD-L1 inhibitors exist (e.g., Atezolizumab), Nivolumab specifically targets the PD-1 receptor on the T-cell."
       },
       {
-        "text": "It genetically engineers T-cells to express a new receptor",
+        "text": "It genetically engineers patient T-cells to express a new chimeric antigen receptor",
         "explanation": "Incorrect. This describes CAR T-cell therapy."
       }
     ],
@@ -160,7 +160,7 @@ const Test_L157 = [
     "questionText": "Lenalidomide is a cornerstone in the treatment of Multiple Myeloma. What is its unique molecular mechanism of action?",
     "options": [
       {
-        "text": "Direct inhibition of the 20S core of the proteasome",
+        "text": "Direct inhibition of the 20S core particle of the proteasome to block protein degradation",
         "explanation": "Incorrect. This is the mechanism of Bortezomib."
       },
       {
@@ -168,15 +168,15 @@ const Test_L157 = [
         "explanation": "Correct. Lenalidomide (an IMiD) acts as a molecular 'glue'. it binds to the cereblon E3 ubiquitin ligase complex, which then targets specific transcription factors (like IKZF1 and IKZF3) for degradation by the proteasome, leading to myeloma cell death."
       },
       {
-        "text": "Binding to CD38 to induce antibody-dependent cellular cytotoxicity (ADCC)",
+        "text": "Binding to CD38 surface marker to induce antibody-dependent cellular cytotoxicity (ADCC) effects",
         "explanation": "Incorrect. This is the mechanism of Daratumumab."
       },
       {
-        "text": "Inhibition of the CDK4/6 complex to arrest the cell cycle in G1",
+        "text": "Selective inhibition of the CDK4/6 cyclin complex to arrest the tumor cell cycle in G1 phase",
         "explanation": "Incorrect. This is the mechanism of Palbociclib."
       },
       {
-        "text": "Competitive inhibition of BCR-ABL kinase",
+        "text": "Competitive ATP-pocket inhibition of the BCR-ABL fusion tyrosine kinase activity",
         "explanation": "Incorrect. This is Imatinib's mechanism."
       }
     ],
@@ -377,7 +377,7 @@ const Test_L157 = [
     "questionText": "Immunomodulatory imide drugs (IMiDs) like Thalidomide and Lenalidomide are highly effective but carry a strict Black Box Warning. What is the most critical contraindication for these drugs?",
     "options": [
       {
-        "text": "Metastatic brain lesions",
+        "text": "Metastatic brain lesions or CNS involvement",
         "explanation": "Incorrect. Not a primary contraindication."
       },
       {
@@ -385,15 +385,15 @@ const Test_L157 = [
         "explanation": "Correct. IMiDs are notoriously teratogenic, causing severe limb defects (phocomelia). They are strictly contraindicated in pregnancy, and both men and women must use stringent contraceptive measures (REMS program)."
       },
       {
-        "text": "Current treatment with a PD-1 inhibitor",
+        "text": "Current treatment with a PD-1 checkpoint inhibitor",
         "explanation": "Incorrect. They are sometimes used in combination."
       },
       {
-        "text": "History of mild hypertension",
+        "text": "History of well-controlled mild hypertension",
         "explanation": "Incorrect. This is a risk for VEGF inhibitors, not a strict contraindication for IMiDs."
       },
       {
-        "text": "Isolated periorbital edema",
+        "text": "Isolated periorbital edema or facial swelling",
         "explanation": "Incorrect. This is a manageable side effect of imatinib."
       }
     ],
@@ -443,19 +443,19 @@ const Test_L157 = [
         "explanation": "Correct. Bortezomib is a proteasome inhibitor. By blocking the 26S proteasome, it prevents the degradation of inhibitory proteins (like IκB), thereby blocking the NF-κB pathway and allowing pro-apoptotic signals to accumulate, leading to tumor cell death."
       },
       {
-        "text": "Inhibiting the ATP-binding site of the HER2 receptor",
+        "text": "Inhibiting the ATP-binding site of the HER2 receptor tyrosine kinase domain",
         "explanation": "Incorrect. This describes lapatinib."
       },
       {
-        "text": "Blocking the PD-L1 ligand on tumor cells",
+        "text": "Blocking the PD-L1 ligand on tumor cells from binding host T-cell receptors",
         "explanation": "Incorrect. This describes Atezolizumab."
       },
       {
-        "text": "Stabilizing microtubules to trigger M-phase arrest",
+        "text": "Stabilizing microtubules to trigger irreversible M-phase mitotic arrest",
         "explanation": "Incorrect. This describes taxanes."
       },
       {
-        "text": "Upregulating the expression of cereblon",
+        "text": "Upregulating the expression of cereblon E3 ligase substrate adapters",
         "explanation": "Incorrect. IMiDs *bind* cereblon, but bortezomib acts directly on the proteasome."
       }
     ],
@@ -501,7 +501,7 @@ const Test_L157 = [
     "questionText": "Which of the following describes the 'synthetic lethality' exploited by PARP inhibitors?",
     "options": [
       {
-        "text": "Combining two conventional chemotherapies to overcome efflux pumps",
+        "text": "Combining two conventional chemotherapy agents at low dose to overcome MDR efflux pumps in tumor cells",
         "explanation": "Incorrect. This is synergy, not synthetic lethality."
       },
       {
@@ -509,15 +509,15 @@ const Test_L157 = [
         "explanation": "Correct. PARP inhibitors block single-strand break repair. In a normal cell, the cell can use homologous recombination (via BRCA) to fix the resulting damage. In a BRCA-mutated cell, both pathways are now gone, and the cell cannot survive. The 'lethality' is only achieved through the 'synthesis' of the drug's effect and the genetic mutation."
       },
       {
-        "text": "Using a monoclonal antibody to deliver a toxin to a specific receptor",
+        "text": "Using a monoclonal antibody-drug conjugate to deliver a cytotoxic payload to a specific tumor receptor",
         "explanation": "Incorrect. This describes antibody-drug conjugates."
       },
       {
-        "text": "Genetically engineering T-cells to target a unique tumor antigen",
+        "text": "Genetically engineering autologous T-cells to target a unique tumor-specific surface antigen receptor",
         "explanation": "Incorrect. This describes CAR T-cell therapy."
       },
       {
-        "text": "Blocking a tyrosine kinase to prevent autophosphorylation",
+        "text": "Blocking a constitutively active tyrosine kinase to prevent oncogenic autophosphorylation cascades",
         "explanation": "Incorrect. This is standard kinase inhibition."
       }
     ],
