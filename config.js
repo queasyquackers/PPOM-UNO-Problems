@@ -189,7 +189,16 @@ const testsToLoad = [
     { name: "17-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)", data: window.Test_L159 },
 
     // --- Week 18 ---
-    { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 }
+    { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 },
+    { name: "18-Hematology: Pathology of Hemorrhage (L161)", data: window.Test_L161 },
+    { name: "18-Hematology: Pathology of Thrombosis (L162)", data: window.Test_L162 },
+    { name: "18-Hematology: Pediatric Considerations in Hematology and Oncology (L163)", data: window.Test_L163 },
+    { name: "18-Hematology: Pharmacology: Drugs Used in Coagulation Disorders, Part 1 (L164)", data: window.Test_L164 },
+    { name: "18-Hematology: Pharmacology: Drugs Used in Coagulation Disorders, Part 2 (L165)", data: window.Test_L165 },
+    { name: "18-Hematology: Microbiology: Emerging Blood Borne Bacterial, Viral, Protozoal & Global Parasitic Infections (L166)", data: window.Test_L166 },
+    { name: "18-Hematology: Microbiology: HIV, AIDS and Human Retroviruses (L167)", data: window.Test_L167 },
+    { name: "18-Hematology: Microbiology: Hemorrhagic Viral Infections (L168)", data: window.Test_L168 },
+    { name: "18-Hematology: Microbiology: Opportunistic Infections (L169)", data: window.Test_L169 }
 
 ];
 
