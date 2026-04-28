@@ -316,6 +316,17 @@ const PDF_MAPPING = {
     "L168": "pdfs/Lecture # 168. T. Slieman, Ph.D. (PPT).pdf",
     "L169": "pdfs/Lecture # 169. C. Abraham, M.D. (PPT).pdf",
     "L170": "pdfs/Lecture # 170. L. Hoffman, Ph.D. (PPT).pdf",
+    "L149": "pdfs/Lecture # 149. W. Zaloga, D.O. (PPT).pdf",
+    "L150": "pdfs/Lecture # 150. M. Plummer, M.D. (PPT).pdf",
+    "L151": "pdfs/Lecture # 151. G. Saggio, D.O. (PPT).pdf",
+    "L152": "pdfs/Lecture # 152. G. Saggio, D.O. (PPT).pdf",
+    "L153": "pdfs/Lecture # 153. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L154": "pdfs/Lecture #154. M. Plummer, M.D. (StudySheet) updated 4.23.26.pdf",
+    "L155": "pdfs/Lecture #154. M. Plummer, M.D. (StudySheet) updated 4.23.26.pdf",
+    "L156": "pdfs/Lecture # 156. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L157": "pdfs/Lecture # 157. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L158": "pdfs/Lecture #158. E. Petcu (PPT).pdf",
+    "L159": "pdfs/Lecture # 159. S. Lewis, M.D. (PPT).pdf",
 };
 
 
