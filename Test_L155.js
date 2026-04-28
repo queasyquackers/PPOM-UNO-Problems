@@ -501,7 +501,7 @@ const Test_L155 = [
     "questionText": "A patient is found to have 'atypical' HUS. According to the lecture, what is the underlying mechanism of this specific subtype?",
     "options": [
       {
-        "text": "Ingestion of Shiga toxin (STEC) from undercooked or contaminated beef products",
+        "text": "Ingestion of Shiga toxin from undercooked beef",
         "explanation": "Incorrect. This describes 'typical' HUS."
       },
       {
@@ -509,15 +509,15 @@ const Test_L155 = [
         "explanation": "Correct. Atypical HUS is not caused by toxins; it is caused by genetic defects that prevent the normal regulation of the complement system, leading to endothelial damage."
       },
       {
-        "text": "Autoantibodies directed against the ADAMTS13 enzyme generating large vWF multimers",
+        "text": "Autoantibodies against the ADAMTS13 enzyme",
         "explanation": "Incorrect. This is the mechanism for TTP."
       },
       {
-        "text": "Prolonged stasis in the renal peritubular capillaries causing platelet aggregation",
+        "text": "Prolonged stasis in the renal peritubular capillaries",
         "explanation": "Incorrect. This is not the mechanism for HUS."
       },
       {
-        "text": "Deficiency of von Willebrand factor leading to widespread microthrombus formation",
+        "text": "Deficiency of vWF leading to microthrombi formation",
         "explanation": "Incorrect. TTP/HUS involves *excessively sticky* vWF, not a deficiency."
       }
     ],
@@ -563,11 +563,11 @@ const Test_L155 = [
     "questionText": "A medical student is asked to differentiate between Bernard-Soulier syndrome and Glanzmann Thrombasthenia. Which laboratory test would be most helpful in identifying a defect specifically in platelet adhesion?",
     "options": [
       {
-        "text": "PT, PTT, and INR (coagulation cascade screening tests)",
+        "text": "PT and PTT",
         "explanation": "Incorrect. These measure secondary hemostasis, not platelet function."
       },
       {
-        "text": "Platelet count from CBC (quantitative platelet measure)",
+        "text": "Platelet Count",
         "explanation": "Incorrect. Both can have normal or mildly low counts; it's a qualitative defect."
       },
       {
@@ -575,11 +575,11 @@ const Test_L155 = [
         "explanation": "Correct. Ristocetin induces platelet agglutination by activating vWF to bind to the GpIb receptor. If the GpIb receptor is missing (Bernard-Soulier), the platelets will NOT agglutinate with ristocetin. This distinguishes it from Glanzmann, where ristocetin agglutination is normal."
       },
       {
-        "text": "D-dimer and fibrin degradation product (FDP) levels",
+        "text": "D-dimer level",
         "explanation": "Incorrect. D-dimer is used for DIC and thrombosis."
       },
       {
-        "text": "Fibrinogen level via the Clauss functional assay",
+        "text": "Fibrinogen level",
         "explanation": "Incorrect. Fibrinogen is a substrate for aggregation, but the level itself doesn't distinguish between these syndromes."
       }
     ],
