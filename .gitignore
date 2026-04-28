@@ -9,3 +9,21 @@ Thumbs.db
 *.backup
 *.bak
 *.swp
+
+# Pass 1/2 helper scripts and intermediate data (not for distribution)
+fix_length_bias.py
+apply_trim.py
+apply_curated_trims.py
+apply_padding.py
+pass1_v2.py
+pass1_v2_dryrun.py
+compact_transcripts.py
+sample_state.py
+proposed_trims.json
+proposed_trims_chunk*.json
+length_fix_plan.json
+padding_results/
+padding_prompts/
+compacted_transcripts/
+pad_distractors.py
+audit_lengths.py

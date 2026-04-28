@@ -505,7 +505,7 @@ const Test_L157 = [
         "explanation": "Incorrect. This is synergy, not synthetic lethality."
       },
       {
-        "text": "The drug is only toxic to cells that have a pre-existing defect in a parallel DNA repair pathway (e.g., BRCA mutation)",
+        "text": "The drug is only toxic to cells that have a pre-existing defect in a parallel DNA repair pathway",
         "explanation": "Correct. PARP inhibitors block single-strand break repair. In a normal cell, the cell can use homologous recombination (via BRCA) to fix the resulting damage. In a BRCA-mutated cell, both pathways are now gone, and the cell cannot survive. The 'lethality' is only achieved through the 'synthesis' of the drug's effect and the genetic mutation."
       },
       {
