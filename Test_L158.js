@@ -52,7 +52,7 @@ const Test_L158 = [
         "explanation": "Incorrect. Thrombin is the *end product* of the cascade (and can provide positive feedback), not the primary initiator of the extrinsic pathway."
       },
       {
-        "text": "Fibrinogen",
+        "text": "Fibrinogen (alpha granules)",
         "explanation": "Incorrect. Fibrinogen is the substrate for the final step of the cascade."
       }
     ],
@@ -129,7 +129,7 @@ const Test_L158 = [
     "questionText": "During platelet activation, several mediators are released from storage granules. Which of the following is released from **dense granules** and acts as a potent stimulator of further platelet activation via the P2Y12 receptor?",
     "options": [
       {
-        "text": "Fibrinogen",
+        "text": "Fibrinogen released from alpha granules",
         "explanation": "Incorrect. Fibrinogen is stored in alpha granules."
       },
       {
@@ -137,15 +137,15 @@ const Test_L158 = [
         "explanation": "Correct. ADP is released from platelet dense granules. It binds to P2Y12 and P2Y1 receptors on platelets to promote further activation and aggregation."
       },
       {
-        "text": "von Willebrand Factor",
+        "text": "von Willebrand Factor (vWF)",
         "explanation": "Incorrect. vWF is stored in alpha granules (and Weibel-Palade bodies)."
       },
       {
-        "text": "Platelet Factor 4",
+        "text": "Platelet Factor 4 (PF4)",
         "explanation": "Incorrect. Platelet Factor 4 is an alpha granule component."
       },
       {
-        "text": "Thromboxane A2",
+        "text": "Thromboxane A2 synthesis",
         "explanation": "Incorrect. TXA2 is synthesized on demand from arachidonic acid, not stored in granules."
       }
     ],
@@ -222,11 +222,11 @@ const Test_L158 = [
     "questionText": "A 45-year-old male is being monitored while receiving unfractionated heparin therapy. Which laboratory test is typically used to monitor the effectiveness of this specific drug?",
     "options": [
       {
-        "text": "PT/INR",
+        "text": "PT and INR (Prothrombin Time / INR ratio)",
         "explanation": "Incorrect. PT/INR is used to monitor warfarin therapy."
       },
       {
-        "text": "Bleeding Time",
+        "text": "Bleeding Time test (modified Ivy method)",
         "explanation": "Incorrect. Bleeding time evaluates primary hemostasis (platelets), not heparin."
       },
       {
@@ -234,11 +234,11 @@ const Test_L158 = [
         "explanation": "Correct. aPTT monitors the intrinsic and common pathways. Since heparin primarily acts via Antithrombin III to inhibit thrombin and factor Xa, its effect is best reflected in the aPTT."
       },
       {
-        "text": "D-dimer",
+        "text": "D-dimer (fibrin degradation product)",
         "explanation": "Incorrect. D-dimer is a measure of fibrinolysis/clot breakdown."
       },
       {
-        "text": "Platelet Count",
+        "text": "Platelet Count (CBC quantitative measure)",
         "explanation": "Incorrect. While heparin can cause thrombocytopenia (HIT), it is not the test used to monitor therapeutic efficacy."
       }
     ],
@@ -253,11 +253,11 @@ const Test_L158 = [
     "questionText": "The intact, healthy endothelium plays an active role in *preventing* inappropriate clotting. Which two endothelial-derived molecules are potent inhibitors of platelet adhesion and aggregation?",
     "options": [
       {
-        "text": "Endothelin and Thromboxane A2",
+        "text": "Endothelin-1 and Thromboxane A2 (TXA2)",
         "explanation": "Incorrect. These are pro-thrombotic and pro-constrictive."
       },
       {
-        "text": "vWF and Fibrinogen",
+        "text": "vWF and Fibrinogen alpha-granule release",
         "explanation": "Incorrect. These are essential for clotting."
       },
       {
@@ -265,11 +265,11 @@ const Test_L158 = [
         "explanation": "Correct. Healthy endothelial cells produce PGI2 and NO, which increase cAMP and cGMP in platelets respectively, keeping them in an inactive 'resting' state."
       },
       {
-        "text": "Tissue Factor and Calcium",
+        "text": "Tissue Factor (TF) and ionized Calcium",
         "explanation": "Incorrect. These initiate the cascade."
       },
       {
-        "text": "Plasminogen and tPA",
+        "text": "Plasminogen and tissue plasminogen activator",
         "explanation": "Incorrect. While tPA is anticoagulant, it acts on the cascade/fibrin, not primarily on inhibiting the initial platelet adhesion like NO/PGI2."
       }
     ],
@@ -315,7 +315,7 @@ const Test_L158 = [
     "questionText": "A 50-year-old man presents with a painful, swollen left calf. An ultrasound confirms a deep vein thrombosis (DVT). Laboratory tests show a normal PT and PTT, but his D-dimer is highly elevated. Which of the following best explains these results?",
     "options": [
       {
-        "text": "The patient has a primary defect in the intrinsic pathway.",
+        "text": "The patient has a primary defect in the intrinsic coagulation pathway causing easy bleeding.",
         "explanation": "Incorrect. A defect in the intrinsic pathway would prolong the PTT."
       },
       {
@@ -323,15 +323,15 @@ const Test_L158 = [
         "explanation": "Correct. D-dimer is a specific product of cross-linked fibrin breakdown. In a DVT, the body's natural tPA/plasmin system is actively working to dissolve the pathological clot, releasing D-dimers into the blood."
       },
       {
-        "text": "The patient's liver is failing to produce adequate clotting factors.",
+        "text": "The patient's liver is failing to produce adequate clotting factors and synthetic proteins.",
         "explanation": "Incorrect. Liver failure would prolong the PT/PTT."
       },
       {
-        "text": "The patient has a deficiency of von Willebrand Factor.",
+        "text": "The patient has a quantitative or qualitative deficiency of von Willebrand Factor (vWF).",
         "explanation": "Incorrect. vWD would likely prolong the bleeding time and potentially the PTT, not the D-dimer."
       },
       {
-        "text": "The high D-dimer indicates that the patient is resistant to heparin therapy.",
+        "text": "The elevated D-dimer indicates that the patient has clinically significant resistance to heparin.",
         "explanation": "Incorrect. D-dimer is not a measure of heparin resistance."
       }
     ],
@@ -439,7 +439,7 @@ const Test_L158 = [
     "questionText": "Antithrombin III is a powerful endogenous anticoagulant. Its affinity for its targets (Thrombin and Xa) is increased by several orders of magnitude by which of the following substances?",
     "options": [
       {
-        "text": "Calcium",
+        "text": "Ionized calcium ions present in plasma",
         "explanation": "Incorrect. Calcium is a pro-coagulant cofactor."
       },
       {
@@ -451,11 +451,11 @@ const Test_L158 = [
         "explanation": "Incorrect. Fibrinogen is the substrate for clotting."
       },
       {
-        "text": "von Willebrand Factor",
+        "text": "von Willebrand Factor (vWF) multimers",
         "explanation": "Incorrect. vWF is pro-hemostatic."
       },
       {
-        "text": "Thromboxane A2",
+        "text": "Thromboxane A2 from platelet COX-1",
         "explanation": "Incorrect. TXA2 is pro-thrombotic."
       }
     ],
@@ -501,7 +501,7 @@ const Test_L158 = [
     "questionText": "Which of the following describes the correct sequence of events in the initiation of the **intrinsic** pathway of coagulation?",
     "options": [
       {
-        "text": "Tissue Factor -> Factor VII -> Factor X",
+        "text": "Tissue Factor -> Factor VII -> Factor X -> Factor II",
         "explanation": "Incorrect. This is the extrinsic pathway."
       },
       {
@@ -509,15 +509,15 @@ const Test_L158 = [
         "explanation": "Correct. The intrinsic pathway (contact activation pathway) begins when Factor XII (Hageman factor) contacts subendothelial collagen (or other negatively charged surfaces), activating a series of factors (XII -> XI -> IX) that eventually activate Factor X."
       },
       {
-        "text": "Thrombin -> Fibrinogen -> Fibrin",
+        "text": "Thrombin -> Fibrinogen -> Fibrin -> Cross-linked clot",
         "explanation": "Incorrect. This is the final step of the common pathway."
       },
       {
-        "text": "Factor X -> Factor II -> Factor I",
+        "text": "Factor X -> Factor II (Thrombin) -> Factor I (Fibrin)",
         "explanation": "Incorrect. This is the common pathway."
       },
       {
-        "text": "Platelet Adhesion -> ADP release -> Aggregation",
+        "text": "Platelet Adhesion via vWF -> ADP release -> Aggregation",
         "explanation": "Incorrect. This is primary hemostasis."
       }
     ],
@@ -532,7 +532,7 @@ const Test_L158 = [
     "questionText": "A 65-year-old man with stable angina is prescribed daily low-dose aspirin. What is the biochemical mechanism by which aspirin reduces his risk of myocardial infarction?",
     "options": [
       {
-        "text": "Reversible inhibition of Thrombin",
+        "text": "Reversible direct inhibition of Thrombin (Factor IIa) catalytic site",
         "explanation": "Incorrect. Aspirin does not inhibit thrombin."
       },
       {
@@ -540,15 +540,15 @@ const Test_L158 = [
         "explanation": "Correct. Aspirin irreversibly inhibits the Cyclooxygenase-1 (COX-1) enzyme in platelets. This prevents the synthesis of Thromboxane A2, a potent inducer of platelet activation and aggregation, thereby reducing the risk of arterial thrombosis."
       },
       {
-        "text": "Degradation of fibrinogen in the plasma",
+        "text": "Enzymatic degradation of fibrinogen in plasma into fibrin monomers",
         "explanation": "Incorrect. Aspirin has no effect on fibrinogen levels."
       },
       {
-        "text": "Stimulating the release of tPA from the endothelium",
+        "text": "Stimulating endothelial release of tPA to drive systemic fibrinolysis",
         "explanation": "Incorrect. This is not a mechanism of aspirin."
       },
       {
-        "text": "Blocking the GpIIb/IIIa receptor",
+        "text": "Blocking the GpIIb/IIIa platelet receptor from binding fibrinogen",
         "explanation": "Incorrect. This describes drugs like abciximab, not aspirin."
       }
     ],

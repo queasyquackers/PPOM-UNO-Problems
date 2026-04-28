@@ -36,11 +36,11 @@ const Test_L159 = [
     "questionText": "A 54-year-old postmenopausal female presents with new-onset vaginal spotting. According to the 'red flags' discussed in the lecture, what is the most concerning diagnosis that must be ruled out immediately?",
     "options": [
       {
-        "text": "Vaginal atrophy",
+        "text": "Atrophic vaginitis (estrogen)",
         "explanation": "Incorrect. While a common cause of spotting, it is not the most concerning one that must be ruled out first."
       },
       {
-        "text": "Cervical dysplasia",
+        "text": "Cervical dysplasia (CIN III)",
         "explanation": "Incorrect. While important, postmenopausal bleeding is classically associated with endometrial pathology."
       },
       {
@@ -48,11 +48,11 @@ const Test_L159 = [
         "explanation": "Correct. Any vaginal bleeding in a postmenopausal woman is considered a sign of endometrial cancer until proven otherwise. It requires prompt evaluation with ultrasound or biopsy."
       },
       {
-        "text": "Ovarian cyst rupture",
+        "text": "Ovarian cyst rupture (acute)",
         "explanation": "Incorrect. This typically presents with acute pelvic pain, not primarily with spotting."
       },
       {
-        "text": "Uterine fibroids",
+        "text": "Submucosal uterine fibroids",
         "explanation": "Incorrect. Fibroids typically cause heavy bleeding during the reproductive years and often shrink after menopause."
       }
     ],
@@ -67,7 +67,7 @@ const Test_L159 = [
     "questionText": "What are the '5 P's' that should be addressed when obtaining a comprehensive sexual history from a patient?",
     "options": [
       {
-        "text": "Puberty, Period, Pain, Pregnancy, Protection",
+        "text": "Puberty, Period regularity, Pain, Pregnancy history, Protection methods",
         "explanation": "Incorrect. These are important but do not compose the standard '5 P's' framework."
       },
       {
@@ -75,15 +75,15 @@ const Test_L159 = [
         "explanation": "Correct. The CDC-recommended framework for sexual history includes Partners (number and gender), Practices (types of sex), Protection from STIs, Past history of STIs, and Prevention of pregnancy."
       },
       {
-        "text": "Pancytopenia, Petechiae, Purpura, Pain, Pallor",
+        "text": "Pancytopenia, Petechiae, Purpura, Pain, Pallor (hematologic exam findings)",
         "explanation": "Incorrect. These are clinical signs of hematologic disorders."
       },
       {
-        "text": "Preconception, Postpartum, Perinatal, Prenatal, Postmenopausal",
+        "text": "Preconception, Postpartum, Perinatal, Prenatal care, Postmenopausal phase",
         "explanation": "Incorrect. These describe stages of obstetric/gynecologic life."
       },
       {
-        "text": "Papanicolaou, Pelvic, Pathogenic, Polyps, Prolapsed",
+        "text": "Papanicolaou screening, Pelvic exam, Pathogenic flora, Polyps, Prolapse review",
         "explanation": "Incorrect. These are GYN-related terms but not the '5 P's'."
       }
     ],
@@ -222,7 +222,7 @@ const Test_L159 = [
     "questionText": "The physician must ensure that a Pap smear samples the 'Transformation Zone.' What is the anatomical definition of this area?",
     "options": [
       {
-        "text": "The junction between the vagina and the vulva",
+        "text": "The anatomical junction between the vaginal canal and the vulvar introitus",
         "explanation": "Incorrect. This is the vestibule."
       },
       {
@@ -230,15 +230,15 @@ const Test_L159 = [
         "explanation": "Correct. The Transformation Zone, or squamocolumnar junction (SCJ), is the area where the two types of cervical epithelium meet. This area is highly susceptible to HPV and is where most cervical cancers arise."
       },
       {
-        "text": "The junction between the uterus and the fallopian tubes",
+        "text": "The anatomical junction between the uterine fundus and the fallopian tube ostia",
         "explanation": "Incorrect. This is the cornu of the uterus."
       },
       {
-        "text": "The site where the placenta attaches to the uterine wall",
+        "text": "The implantation site where the chorionic placenta attaches to the uterine wall",
         "explanation": "Incorrect. This is unrelated to cervical screening."
       },
       {
-        "text": "The area of the breast where most milk ducts converge",
+        "text": "The area of the breast lactiferous ducts where most milk ducts converge",
         "explanation": "Incorrect. This is the subareolar area."
       }
     ],
@@ -470,11 +470,11 @@ const Test_L159 = [
     "questionText": "A patient reports having had 'abnormal Pap smears' in the past. Which of the following is the most important follow-up question to determine her current risk?",
     "options": [
       {
-        "text": "Which doctor performed the test?",
+        "text": "Which specific doctor or clinician performed the Pap smear test?",
         "explanation": "Incorrect. This is not clinically relevant to risk."
       },
       {
-        "text": "What color was the discharge at the time?",
+        "text": "What color or character was the cervical discharge at the time?",
         "explanation": "Incorrect. Discharge is unrelated to cytology results."
       },
       {
@@ -482,11 +482,11 @@ const Test_L159 = [
         "explanation": "Correct. Determining if the patient underwent diagnostic (biopsy) or therapeutic (LEEP, cone biopsy) procedures is essential to understanding the severity of her past dysplasia and her current management plan."
       },
       {
-        "text": "How much did the procedure cost?",
+        "text": "How much did the Pap smear procedure cost out-of-pocket?",
         "explanation": "Incorrect. This is not part of the clinical history."
       },
       {
-        "text": "Were you taking birth control at the time?",
+        "text": "Were you taking oral contraceptive birth control pills at the time?",
         "explanation": "Incorrect. While relevant to general history, it doesn't clarify the severity of the abnormal Pap results."
       }
     ],
@@ -594,7 +594,7 @@ const Test_L159 = [
     "questionText": "A patient presents for a 'postpartum' visit. According to the standard questions, what should the physician ask about if the patient is currently breastfeeding?",
     "options": [
       {
-        "text": "The timing of her next Pap smear",
+        "text": "The exact timing of her next routine Pap smear",
         "explanation": "Incorrect. This is important but not unique to breastfeeding."
       },
       {
@@ -602,15 +602,15 @@ const Test_L159 = [
         "explanation": "Correct. Breastfeeding mothers are at risk for mastitis, so inquiring about breast health and feeding difficulties is a key part of the postpartum history."
       },
       {
-        "text": "Her family history of cervical cancer",
+        "text": "Her detailed family history of cervical cancer",
         "explanation": "Incorrect. This should have been captured earlier."
       },
       {
-        "text": "Her age of menarche",
+        "text": "Her exact age of first menarche bleeding episode",
         "explanation": "Incorrect. This is part of the general GYN history, not specifically the postpartum breast assessment."
       },
       {
-        "text": "The date of her last mammogram",
+        "text": "The exact date of her last screening mammogram",
         "explanation": "Incorrect. Routine mammograms are usually not performed while a patient is actively breastfeeding unless a mass is found."
       }
     ],
