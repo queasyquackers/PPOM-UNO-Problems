@@ -478,7 +478,7 @@ const Test_L151 = [
         "explanation": "Incorrect. ALAD is the second step."
       },
       {
-        "text": "ALAS (Aminolevulinic Acid Synthase); Vitamin B6",
+        "text": "ALAS; Vitamin B6",
         "explanation": "Correct. The first and rate-limiting step is the conversion of Succinyl CoA and Glycine into ALA by ALAS, requiring Vitamin B6."
       },
       {

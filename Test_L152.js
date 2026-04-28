@@ -827,7 +827,7 @@ const Test_L152 = [
         "explanation": "Incorrect. This is the pathway for G6PD. While it causes jaundice, it typically results in bite cells, not burr cells. This would be the correct answer if the question focused on NADPH production."
       },
       {
-        "text": "Glycolysis (Embden-Meyerhof pathway)",
+        "text": "Glycolysis",
         "explanation": "Correct. Pyruvate kinase is the final enzyme in the glycolytic pathway. A deficiency leads to ATP depletion, causing the RBC membrane to become rigid and dehydrated, forming burr cells and undergoing extravascular hemolysis."
       },
       {
