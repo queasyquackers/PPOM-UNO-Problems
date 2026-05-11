@@ -1,4 +1,4 @@
-const Test_L151 = [
+window.Test_L151 = [
   {
     "id": 1,
     "category": "Hematology: Laboratory Markers",

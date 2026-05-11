@@ -1,4 +1,4 @@
-const Test_L150 = [
+window.Test_L150 = [
   {
     "id": 1,
     "category": "Hematology: Fetal Hematopoiesis",

@@ -1,4 +1,4 @@
-const Test_L149 = [
+window.Test_L149 = [
   {
     "id": 1,
     "category": "Hematology: ABO System",
