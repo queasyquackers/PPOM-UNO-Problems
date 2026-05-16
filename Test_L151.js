@@ -114,7 +114,7 @@ window.Test_L151 = [
         "explanation": "Incorrect. Heme's absence actually increases divisions."
       },
       {
-        "text": "Iron acts as a structuralDetermines cell diameterdetermined déterminé déterminer déterminé déterminé",
+        "text": "Iron acts as a structural component that determines cell diameter",
         "explanation": "Incorrect. Iron is for oxygen binding, not structural support."
       }
     ],

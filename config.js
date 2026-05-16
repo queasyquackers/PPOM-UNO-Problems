@@ -217,6 +217,7 @@ const testsToLoad = [
     { name: "17-Pharmacology: Antineoplastic Agents 2 (L157)", data: window.Test_L157 },
     { name: "17-Hematology: Pathology: Hemostasis (L158)", data: window.Test_L158 },
     { name: "17-Clinical Medicine: Introduction to the Gynecological and Obstetrical History (L159)", data: window.Test_L159 },
+    { name: "17-Week 17 CUMULATIVE EXAM", data: window.Test_Cumulative_Week17 },
 
     // --- Week 18 ---
     { name: "18-Hematology: Pathology of Hemorrhage (L161)", data: window.Test_L161 },
@@ -229,6 +230,7 @@ const testsToLoad = [
     { name: "18-Microbiology: Hemorrhagic Viral Infections (L168)", data: window.Test_L168 },
     { name: "18-Microbiology: Opportunistic Infections (L169)", data: window.Test_L169 },
     { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 },
+    { name: "18-Week 18 CUMULATIVE EXAM", data: window.Test_Cumulative_Week18 },
 
     { name: "19-Pharmacology: Chemotherapy of Malaria (L172)", data: window.Test_L172 },
     { name: "19-Pharmacology: Chemotherapy of Protozoal Infections (L173)", data: window.Test_L173 },
@@ -240,7 +242,8 @@ const testsToLoad = [
     { name: "19-DPR: History and Physical Exam of the Integumentary System (L179)", data: window.Test_L179 },
     { name: "19-Dermatology: Viral Exanthems (L180)", data: window.Test_L180 },
     { name: "19-Non-Neoplastic Skin Pathology (L181)", data: window.Test_L181 },
-    { name: "19-Pathology: Skin Tumors (L182)", data: window.Test_L182 }
+    { name: "19-Pathology: Skin Tumors (L182)", data: window.Test_L182 },
+    { name: "19-Week 19 CUMULATIVE EXAM", data: window.Test_Cumulative_Week19 }
 
 ];
 
