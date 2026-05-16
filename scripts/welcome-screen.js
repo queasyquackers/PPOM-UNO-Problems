@@ -153,7 +153,7 @@
     frame.innerHTML = `
         <header class="cover-masthead">
             <div class="cover-vol">
-                Vol. ${block.volumeRoman} &middot; ${block.name} &middot; ${block.subtitle}
+                Vol. ${block.volumeRoman} &middot; ${block.subtitle}
             </div>
             <div class="cover-wordmark">Practice<em>OS</em></div>
             <p class="cover-tagline">A reading practice for medical school.</p>

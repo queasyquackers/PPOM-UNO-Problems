@@ -114,18 +114,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const navMastheadVol = getEl('nav-masthead-vol');
     if (navMastheadVol) {
-        navMastheadVol.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name}`;
+        navMastheadVol.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.subtitle}`;
     }
 
     const tocEyebrow = getEl('toc-eyebrow');
     if (tocEyebrow) {
-        tocEyebrow.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name} &middot; ${blockInfo.subtitle}`;
+        tocEyebrow.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.subtitle}`;
     }
-
-    const examSubtitle = getEl('exam-subtitle');
-    if (examSubtitle) {
-        examSubtitle.innerHTML = `${blockInfo.name} &middot; ${blockInfo.subtitle}`;
-    }
+    // exam-subtitle stays in sync with currentSection via renderMastheadSection
 
     // Update document title to match masthead
     document.title = `PracticeOS · Vol. ${blockInfo.volumeRoman}`;
@@ -142,7 +138,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         getEl('toc-back-btn').classList.remove('is-visible');
         getEl('toc-eyebrow').innerHTML =
-            `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name} &middot; ${blockInfo.subtitle}`;
+            `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.subtitle}`;
         getEl('toc-title').textContent = 'Table of Contents';
         getEl('toc-tagline').textContent = 'Choose a section to begin.';
 
@@ -2115,8 +2111,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if (sec) {
                 el.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${sec.romanNumeral} &middot; ${sec.name}`;
             } else {
-                el.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name}`;
+                el.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.subtitle}`;
             }
+        }
+
+        const subtitleEl = getEl('exam-subtitle');
+        if (subtitleEl) {
+            subtitleEl.innerHTML = sec
+                ? `${sec.name} &middot; ${blockInfo.subtitle}`
+                : blockInfo.subtitle;
         }
 
         const mrDesc = getEl('master-review-desc');
