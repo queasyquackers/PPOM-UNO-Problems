@@ -45,39 +45,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const getEl = (id) => document.getElementById(id);
 
-    // --- Helper for Clinical Pearls ---
+    // --- Helper for Clinical Pearls (editorial pullquote) ---
     const renderClinicalPearl = (text) => {
         if (!text) return '';
 
-        // Simple Markdown parsing: **bold** -> <strong>bold</strong>
-        // Also supports __bold__
         const parsedText = text
             .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
             .replace(/__(.*?)__/g, '<strong>$1</strong>');
 
         return `
-            <div class="mt-6 mb-4 overflow-hidden rounded-xl bg-white dark:bg-[#073642] border border-[#d3d0c8] dark:border-orange-500/30 shadow-sm dark:shadow-[0_2px_8px_-1px_rgba(249,115,22,0.1)] group relative transition-colors duration-300">
-                <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-orange-400 to-orange-600"></div>
-                <div class="p-5 flex gap-4">
-                    <div class="flex-shrink-0">
-                        <div class="w-10 h-10 rounded-full bg-[#fdf6e3] dark:bg-orange-500/10 flex items-center justify-center text-orange-600 dark:text-orange-500 shadow-sm border border-[#d3d0c8] dark:border-orange-500/20">
-                            <!-- Gem/Diamond Icon -->
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="flex-1">
-                        <div class="flex items-center gap-2 mb-1.5">
-                            <span class="text-xs font-bold tracking-wider text-orange-600 dark:text-orange-400 uppercase bg-[#fdf6e3] dark:bg-orange-500/10 px-2 py-0.5 rounded-full border border-[#d3d0c8] dark:border-orange-500/20">High Yield</span>
-                            <h4 class="font-bold text-gray-900 dark:text-gray-100 text-sm">Clinical Pearl</h4>
-                        </div>
-                        <p class="text-gray-700 dark:text-gray-300 text-[15px] leading-relaxed font-medium">
-                            ${parsedText}
-                        </p>
-                    </div>
-                </div>
-            </div>
+            <aside class="clinical-pearl">
+                <span class="clinical-pearl-eyebrow">Clinical Pearl &middot; High-Yield</span>
+                <p class="clinical-pearl-body">${parsedText}</p>
+            </aside>
         `;
     };
 
@@ -209,7 +189,25 @@ document.addEventListener('DOMContentLoaded', () => {
         const weeksLabel = sec.weeks.length > 1
             ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
             : `Week ${sec.weeks[0]}`;
-        getEl('toc-eyebrow').innerHTML = `Section ${sec.romanNumeral} &middot; ${weeksLabel}`;
+
+        // Section progress — count lectures with any submitted answers
+        const sectionTestsForCount = testsToLoad.filter(t =>
+            window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
+        );
+        let started = 0;
+        sectionTestsForCount.forEach(t => {
+            const stored = localStorage.getItem(`examProgress_${t.name}`);
+            if (!stored) return;
+            try {
+                const state = JSON.parse(stored);
+                if (state.userAnswers && state.userAnswers.some(a => a.isSubmitted)) started++;
+            } catch { /* ignore */ }
+        });
+        const progressLabel = started > 0
+            ? ` &nbsp;&middot;&nbsp; ${started} of ${sectionTestsForCount.length} underway`
+            : '';
+
+        getEl('toc-eyebrow').innerHTML = `Section ${sec.romanNumeral} &middot; ${weeksLabel}${progressLabel}`;
         getEl('toc-title').textContent = sec.name;
         getEl('toc-tagline').textContent = sec.dek;
 
@@ -313,10 +311,112 @@ document.addEventListener('DOMContentLoaded', () => {
     getEl('open-toc-btn')?.addEventListener('click', openTOC);
     getEl('close-toc-btn')?.addEventListener('click', closeTOC);
     getEl('toc-backdrop')?.addEventListener('click', closeTOC);
-    getEl('toc-back-btn')?.addEventListener('click', renderTOCSections);
+    getEl('toc-back-btn')?.addEventListener('click', () => {
+        renderTOCSections();
+        const search = getEl('toc-search');
+        if (search) { search.value = ''; search.focus(); }
+    });
     getEl('change-section-btn')?.addEventListener('click', () => {
         renderTOCSections();
         getEl('toc-modal').classList.remove('hidden');
+        const search = getEl('toc-search');
+        if (search) { search.value = ''; search.focus(); }
+    });
+
+    // --- TOC: live search filter ---
+    const tocSearchInput = getEl('toc-search');
+    if (tocSearchInput) {
+        tocSearchInput.addEventListener('input', (e) => {
+            const q = e.target.value.trim().toLowerCase();
+            const container = getEl('toc-content');
+            if (!container) return;
+
+            // If user types while on sections view, drill into the *block* (all weeks of current section
+            // or full TOC view filter) — for simplicity, switch to first matched section's detail.
+            if (tocView !== 'section-detail' && q.length > 0) {
+                // build an "all sections combined" flat view for cross-section search
+                container.innerHTML = '';
+                const grid = document.createElement('div');
+                grid.className = 'toc-grid';
+                (window.SECTIONS || []).forEach(sec => {
+                    const sectionTests = testsToLoad.filter(t =>
+                        window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
+                    );
+                    const matched = sectionTests.filter(t =>
+                        t.name.toLowerCase().includes(q)
+                    );
+                    if (matched.length === 0) return;
+                    const section = document.createElement('section');
+                    section.className = 'toc-week';
+                    const heading = document.createElement('h3');
+                    heading.className = 'toc-week-heading';
+                    heading.innerHTML = `<span class="toc-week-eyebrow">Section ${sec.romanNumeral}</span>${sec.name}`;
+                    section.appendChild(heading);
+                    const list = document.createElement('ul');
+                    list.className = 'toc-lecture-list';
+                    matched.forEach(testObj => {
+                        const isCum = /CUMULATIVE/i.test(testObj.name);
+                        const idMatch = testObj.name.match(/\(([^)]+)\)/);
+                        const lectureId = idMatch ? idMatch[1] : (isCum ? 'Exam' : '');
+                        const displayName = testObj.name.replace(/^(\d+)-/, '').replace(/\s*\([^)]+\)\s*$/, '').trim();
+                        const li = document.createElement('li');
+                        li.className = 'toc-lecture' + (isCum ? ' is-cumulative' : '');
+                        li.innerHTML = `<span class="toc-lecture-id">${lectureId}</span><button class="toc-lecture-btn">${displayName}</button>`;
+                        li.querySelector('.toc-lecture-btn').onclick = () => {
+                            if (window.app?.loadTestByName) window.app.loadTestByName(testObj.name);
+                            closeTOC();
+                        };
+                        list.appendChild(li);
+                    });
+                    section.appendChild(list);
+                    grid.appendChild(section);
+                });
+                if (!grid.children.length) {
+                    container.innerHTML = `<p class="editorial" style="text-align:center; padding:3rem 0; color:var(--text-secondary); font-style:italic;">Nothing matches &ldquo;${q}&rdquo;.</p>`;
+                } else {
+                    container.appendChild(grid);
+                }
+                return;
+            }
+
+            // In a section-detail view: filter the existing items in place
+            const lectures = container.querySelectorAll('.toc-lecture');
+            const weeks = container.querySelectorAll('.toc-week');
+            if (q.length === 0) {
+                lectures.forEach(li => li.classList.remove('is-hidden'));
+                weeks.forEach(w => w.classList.remove('is-hidden'));
+                return;
+            }
+            lectures.forEach(li => {
+                const txt = li.textContent.toLowerCase();
+                li.classList.toggle('is-hidden', !txt.includes(q));
+            });
+            weeks.forEach(w => {
+                const anyVisible = w.querySelector('.toc-lecture:not(.is-hidden)');
+                w.classList.toggle('is-hidden', !anyVisible);
+            });
+        });
+    }
+
+    // --- Global keyboard shortcuts: / opens TOC, G changes section ---
+    document.addEventListener('keydown', (e) => {
+        // ignore when typing in an input/textarea/contenteditable
+        const tag = (e.target.tagName || '').toLowerCase();
+        if (tag === 'input' || tag === 'textarea' || e.target.isContentEditable) return;
+        // ignore when any modifier
+        if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+        if (e.key === '/') {
+            e.preventDefault();
+            openTOC();
+            // focus search after the modal renders
+            setTimeout(() => getEl('toc-search')?.focus(), 0);
+        } else if (e.key === 'g' || e.key === 'G') {
+            e.preventDefault();
+            renderTOCSections();
+            getEl('toc-modal').classList.remove('hidden');
+            setTimeout(() => getEl('toc-search')?.focus(), 0);
+        }
     });
 
     document.addEventListener('keydown', (e) => {
@@ -1103,7 +1203,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 slidePlaceholder.innerHTML = '';
 
                 const btnContainer = document.createElement('div');
-                btnContainer.className = "flex flex-col gap-2";
+                btnContainer.className = "pdf-link-list";
 
                 if (window.PDF_MAPPING && window.PDF_MAPPING[lectureId]) {
                     const mapping = window.PDF_MAPPING[lectureId];
@@ -1111,14 +1211,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     pdfPaths.forEach((pdfPath, index) => {
                         const label = pdfPaths.length > 1
-                            ? `Open Lecture Source PDF ${index + 1} (Page ${pageNum})`
-                            : `Open Lecture Source PDF (Page ${pageNum})`;
+                            ? `Lecture source PDF ${index + 1} — page ${pageNum}`
+                            : `Lecture source PDF — page ${pageNum}`;
                         const pdfBtn = document.createElement('button');
-                        pdfBtn.className = "w-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 shadow-sm rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 transition-all transform hover:scale-[1.02]";
-                        pdfBtn.innerHTML = `
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                            ${label}
-                        `;
+                        pdfBtn.className = "pdf-link";
+                        pdfBtn.textContent = label;
                         pdfBtn.onclick = (e) => {
                             e.stopPropagation();
                             showPDF(pdfPath, pageNum);
@@ -1126,15 +1223,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         btnContainer.appendChild(pdfBtn);
                     });
                 } else {
-                    // Show error if mapping not found
-                    const errorBtn = document.createElement('button');
-                    errorBtn.className = "w-full bg-gray-100 text-gray-400 border border-gray-200 rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 cursor-not-allowed";
-                    errorBtn.disabled = true;
-                    errorBtn.innerHTML = `
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        PDF Source Not Found (${lectureId})
-                    `;
-                    btnContainer.appendChild(errorBtn);
+                    const errorEl = document.createElement('span');
+                    errorEl.className = "pdf-link-missing";
+                    errorEl.textContent = `PDF source not found (${lectureId})`;
+                    btnContainer.appendChild(errorEl);
                 }
                 slidePlaceholder.appendChild(btnContainer);
 
