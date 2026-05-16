@@ -1,182 +1,256 @@
-// PracticeOS Welcome Screen - Minimal Premium Glass
+// PracticeOS Welcome Screen — Magazine Issue Cover
 (function () {
     'use strict';
 
-    // Create overlay
-    const welcomeScreen = document.createElement('div');
-    welcomeScreen.id = 'welcome-screen';
-    // Glass styling for the backdrop (blur + dim)
-    welcomeScreen.className = 'fixed inset-0 z-50 flex items-center justify-center transition-all duration-500';
-    welcomeScreen.style.backgroundColor = 'rgba(0, 0, 0, 0.2)';
-    welcomeScreen.style.backdropFilter = 'blur(8px)';
-    welcomeScreen.style.webkitBackdropFilter = 'blur(8px)';
+    // Globals may be `const` at script top-level (not on window) — fall back to bare names.
+    const block =
+        (typeof window !== 'undefined' && window.BLOCK_INFO) ? window.BLOCK_INFO :
+        (typeof BLOCK_INFO !== 'undefined') ? BLOCK_INFO :
+        { name: 'Block 3', subtitle: 'Medical Sciences', volumeRoman: 'III' };
+    const sections =
+        (typeof window !== 'undefined' && window.SECTIONS) ? window.SECTIONS :
+        (typeof SECTIONS !== 'undefined') ? SECTIONS : [];
+    const tests =
+        (typeof window !== 'undefined' && window.testsToLoad) ? window.testsToLoad :
+        (typeof testsToLoad !== 'undefined') ? testsToLoad : [];
+    const sectionForTest =
+        (typeof window !== 'undefined' && window.getTestSection) ? window.getTestSection :
+        (typeof globalThis !== 'undefined' && globalThis.getTestSection) ? globalThis.getTestSection :
+        (() => null);
 
-    // Create the Main Glass Card
-    const card = document.createElement('div');
-    // Using existing utility classes: glass-panel, card styling
-    card.className = 'glass-panel p-10 rounded-3xl shadow-2xl text-center max-w-sm w-full transform transition-all duration-500 scale-100';
-    card.style.border = '1px solid var(--glass-border)';
-    card.style.background = 'var(--glass-bg)';
+    const SECTION_KEY = 'practiceos_currentSection';
+    const LAST_LECTURE_KEY = 'practiceos_lastLectureBySection';
 
-    // Smart Greeting
+    const currentSectionId = localStorage.getItem(SECTION_KEY);
+    const lastBySection = (() => {
+        try { return JSON.parse(localStorage.getItem(LAST_LECTURE_KEY) || '{}'); }
+        catch { return {}; }
+    })();
+
+    // --- Time-based greeting ---
     const hour = new Date().getHours();
-    let greeting = 'Welcome back';
-    if (hour < 12) greeting = 'Good morning';
-    else if (hour < 18) greeting = 'Good afternoon';
-    else greeting = 'Good evening';
+    const greeting =
+        hour < 5  ? 'A late hour.' :
+        hour < 12 ? 'Good morning.' :
+        hour < 18 ? 'Good afternoon.' :
+                    'Good evening.';
 
-    // Check for active session
-    let buttonText = 'Begin Session';
-    let resumeText = '';
-    // simple check if any exam key exists
-    for (let i = 0; i < localStorage.length; i++) {
-        if (localStorage.key(i).startsWith('examProgress_')) {
-            buttonText = 'Resume Session';
-            resumeText = '<span class="text-xs font-normal opacity-80 block mt-1">Pick up where you left off</span>';
-            break;
-        }
-    }
-
-    // Calculate Stats
-    let totalQuestions = 0;
+    // --- Aggregate progress stats ---
     let totalAnswered = 0;
     let totalCorrect = 0;
+    const sectionStats = {};
 
-    // Ensure we can access the tests variable
-    const tests = (typeof window.testsToLoad !== 'undefined') ? window.testsToLoad :
-        (typeof testsToLoad !== 'undefined') ? testsToLoad : [];
-
-    if (tests.length > 0) {
-        tests.forEach(test => {
-            const key = `examProgress_${test.name}`;
-            const stored = localStorage.getItem(key);
-
-            if (stored) {
-                try {
-                    const state = JSON.parse(stored);
-                    const qCount = state.userAnswers.length;
-                    const ansCount = state.userAnswers.filter(a => a.isSubmitted).length;
-                    const corrCount = state.userAnswers.filter(a => a.isCorrect).length;
-
-                    totalQuestions += qCount;
-                    totalAnswered += ansCount;
-                    totalCorrect += corrCount;
-                } catch (e) {
-                    console.error("Error parsing stats", e);
-                }
+    tests.forEach(test => {
+        const sec = sectionForTest(test.name);
+        if (sec) {
+            if (!sectionStats[sec.id]) {
+                sectionStats[sec.id] = { lectures: 0, answered: 0, correct: 0, touched: 0 };
             }
-        });
+            sectionStats[sec.id].lectures++;
+        }
+
+        const stored = localStorage.getItem(`examProgress_${test.name}`);
+        if (!stored) return;
+        try {
+            const state = JSON.parse(stored);
+            const ans = state.userAnswers.filter(a => a.isSubmitted).length;
+            const cor = state.userAnswers.filter(a => a.isCorrect).length;
+            totalAnswered += ans;
+            totalCorrect += cor;
+            if (sec && ans > 0) {
+                sectionStats[sec.id].answered += ans;
+                sectionStats[sec.id].correct += cor;
+                sectionStats[sec.id].touched++;
+            }
+        } catch { /* ignore */ }
+    });
+
+    const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : null;
+
+    // --- Editorial pull-quotes ---
+    const pullquotes = [
+        '"Read the last sentence first. It tells you what the question is really asking."',
+        '"Process of elimination is not guessing. It is a skill."',
+        '"Trust your first instinct, until you find contradictory evidence."',
+        '"Always read the explanation, even for the ones you got right."',
+        '"Teaching the concept to someone else is the highest form of practice."',
+        '"A little practice every day. The brain remembers cadence."',
+        '"When in doubt — flag it, and move on."',
+        '"Look for the demographics. Age and sex are clues, not decoration."',
+        '"The cumulative exam is a different animal. Treat it that way."',
+        '"You are prepared. Take a breath."',
+    ];
+    const pullquote = pullquotes[Math.floor(Math.random() * pullquotes.length)];
+
+    // --- Build the cover ---
+    const welcomeScreen = document.createElement('div');
+    welcomeScreen.id = 'welcome-screen';
+    welcomeScreen.className = 'fixed inset-0 z-50 flex items-start justify-center transition-opacity duration-500';
+
+    const frame = document.createElement('div');
+    frame.className = 'cover-frame';
+
+    // Dateline
+    const datelineParts = [];
+    datelineParts.push(`${tests.length} lectures across ${sections.length} sections`);
+    if (totalAnswered > 0) datelineParts.push(`${totalAnswered} questions answered`);
+    if (accuracy !== null) datelineParts.push(`${accuracy}% accuracy`);
+    const dateline = datelineParts.join('  ·  ');
+
+    // Build section rows HTML
+    const sectionRowsHTML = sections.map(sec => {
+        const stats = sectionStats[sec.id] || { lectures: 0, touched: 0 };
+        const isCurrent = sec.id === currentSectionId;
+        const weeksLabel = sec.weeks.length > 1
+            ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
+            : `Week ${sec.weeks[0]}`;
+        const progressLine = stats.touched > 0
+            ? `<span class="cover-section-progress">${stats.touched} of ${stats.lectures} underway</span>`
+            : '';
+        return `
+            <li class="cover-section ${isCurrent ? 'is-current' : ''}" data-section-id="${sec.id}">
+                <span class="cover-section-numeral">${sec.romanNumeral}.</span>
+                <div class="cover-section-body">
+                    <h3 class="cover-section-name">${sec.name}</h3>
+                    <p class="cover-section-dek">${sec.dek}</p>
+                </div>
+                <div class="cover-section-meta">
+                    <span class="cover-section-meta-line">${weeksLabel}</span>
+                    <span class="cover-section-meta-line">${stats.lectures} lectures</span>
+                    ${progressLine}
+                </div>
+            </li>
+        `;
+    }).join('');
+
+    // Resume footer
+    let resumeBlock = '';
+    if (currentSectionId) {
+        const sec = sections.find(s => s.id === currentSectionId);
+        const lastName = lastBySection[currentSectionId];
+        const lastTest = lastName && tests.find(t => t.name === lastName);
+        if (sec && lastTest) {
+            const idMatch = lastTest.name.match(/\(([^)]+)\)/);
+            const lectureId = idMatch ? idMatch[1] : '';
+            resumeBlock = `
+                <button class="cover-resume-btn" data-resume="1">
+                    Resume ${lectureId} &middot; ${sec.name}
+                </button>
+                <p class="cover-keyhint">
+                    Press <kbd>↵</kbd> to resume, or click a section above to begin elsewhere
+                </p>
+            `;
+        }
+    }
+    if (!resumeBlock) {
+        resumeBlock = `
+            <p class="cover-keyhint" style="margin-top: 1.5rem;">
+                Click a section above to begin
+            </p>
+        `;
     }
 
-    const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
-
-    // Random Tips System
-    const tips = [
-        "Tip: Use <span class='font-bold'>Arrow Keys</span> (←/→) to navigate questions quickly.",
-        "Tip: Press <span class='font-bold'>1-5</span> to select an answer instantly.",
-        "Tip: Press <span class='font-bold'>F</span> to flag a tricky question for review.",
-        "Tip: Press <span class='font-bold'>Enter</span> to submit your answer.",
-        "Tip: Press <span class='font-bold'>P</span> to pause/resume the timer.",
-        "Tip: <span class='font-bold'>Dark Mode</span> is easier on the eyes at night.",
-        "Tip: Unsure? <span class='font-bold'>Flag</span> it and move on. Don't get stuck.",
-        "Tip: Check the <span class='font-bold'>Control Center</span> sidebar for your stats.",
-        "Tip: Read the last sentence of the question first to identify the core ask.",
-        "Tip: Use <span class='font-bold'>Master Review</span> to see all questions at a glance.",
-        "Tip: Process of elimination increases your odds significantly.",
-        "Tip: Look for key demographics (age, sex) in the clinical vignette.",
-        "Tip: Always read the explanation, even for questions you got right.",
-        "Tip: Take a deep breath. You are prepared.",
-        "Tip: Use the <span class='font-bold'>Question Grid</span> to jump around.",
-        "Tip: Your progress is saved automatically to your device.",
-        "Tip: Reset a test via the Control Center to practice again.",
-        "Tip: Consistency is key. A little practice every day adds up.",
-        "Tip: Teaching a concept to someone else is the best way to learn.",
-        "Tip: Trust your first instinct unless you find contradictory evidence."
-    ];
-    const randomTip = tips[Math.floor(Math.random() * tips.length)];
-
-    // Content
-    card.innerHTML = `
-        <div class="flex flex-col items-center mb-6">
-            <div class="inline-flex p-4 rounded-2xl shadow-lg nav-logo-box text-white mb-3">
-                <svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
-                </svg>
+    frame.innerHTML = `
+        <header class="cover-masthead">
+            <div class="cover-vol">
+                Vol. ${block.volumeRoman} &middot; ${block.name} &middot; ${block.subtitle}
             </div>
-            <div class="text-2xl font-bold tracking-tight" style="font-family: var(--font-heading); color: var(--text-primary)">
-                Practice<span style="color: var(--accent-color)">OS</span>
-            </div>
-        </div>
-        
-        <h1 class="text-2xl font-semibold mb-1 tracking-tight overflow-visible" style="font-family: var(--font-body); color: var(--text-primary);">
-            ${greeting}
-        </h1>
-        
-        <p class="text-sm font-medium mb-4" style="color: var(--text-secondary);">
-            Block 3 • Medical Sciences
-        </p>
+            <div class="cover-wordmark">Practice<em>OS</em></div>
+            <p class="cover-tagline">A reading practice for medical school.</p>
+        </header>
 
-        <!-- Stats Badges -->
-        <div class="flex justify-center gap-3 mb-6">
-             <div class="px-3 py-1 rounded-full text-xs font-bold bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200">
-                ${totalAnswered} Questions Done
-             </div>
-             <div class="px-3 py-1 rounded-full text-xs font-bold ${accuracy >= 70 ? 'bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-200' : 'bg-orange-100 text-orange-700 dark:bg-orange-900 dark:text-orange-200'}">
-                ${accuracy}% Accuracy
-             </div>
+        <hr class="cover-rule is-double">
+
+        <div class="cover-greeting">
+            <h1 class="cover-greeting-text">${greeting}</h1>
+            <p class="cover-dek">A reading session, when you're ready.</p>
+            <p class="cover-dateline">${dateline}</p>
         </div>
 
-        <button id="start-practice-btn" class="w-full btn-primary py-3 rounded-xl shadow-lg text-lg font-bold tracking-wide transform transition hover:scale-[1.02]">
-            ${buttonText}
-            ${resumeText}
-        </button>
-        
-        <p class="mt-4 text-xs opacity-90" style="color: var(--text-primary);">
-            Press <span class="font-bold border border-current rounded px-1">Enter</span> to start
-            <br>
-            <span class="opacity-80 mt-1 inline-block">${randomTip}</span>
-        </p>
+        <hr class="cover-rule">
+
+        <section>
+            <h2 class="cover-toc-heading">In This Volume</h2>
+            <ul class="cover-section-list">
+                ${sectionRowsHTML}
+            </ul>
+        </section>
+
+        <div class="cover-footer">
+            ${resumeBlock}
+            <p class="cover-pullquote">${pullquote}</p>
+        </div>
     `;
 
-    welcomeScreen.appendChild(card);
+    welcomeScreen.appendChild(frame);
     document.body.appendChild(welcomeScreen);
 
-    // Initial State for Animation
+    // Fade in
     welcomeScreen.style.opacity = '0';
-    card.style.transform = 'scale(0.95)';
+    requestAnimationFrame(() => { welcomeScreen.style.opacity = '1'; });
 
-    // Animate In
-    setTimeout(() => {
-        welcomeScreen.style.opacity = '1';
-        card.style.transform = 'scale(1)';
-    }, 50);
+    // --- Interactions ---
 
-    const dismissScreen = () => {
-        // Animate Out
+    const dismissCover = () => {
         welcomeScreen.style.opacity = '0';
         welcomeScreen.style.pointerEvents = 'none';
-        card.style.transform = 'scale(1.1)'; // Zoom out effect
-
-        setTimeout(() => {
-            welcomeScreen.remove();
-        }, 500);
-
-        // Remove listener
+        setTimeout(() => welcomeScreen.remove(), 400);
         document.removeEventListener('keydown', handleKey, { capture: true });
     };
 
-    // key handler
+    const enterSection = (sectionId, lectureName) => {
+        if (!window.app || typeof window.app.loadTestByName !== 'function') {
+            console.warn('window.app.loadTestByName not available');
+            return;
+        }
+        const sec = sections.find(s => s.id === sectionId);
+        if (!sec) return;
+
+        // Pick the lecture: explicit > last-touched > first in section
+        let targetName = lectureName;
+        if (!targetName) {
+            targetName = lastBySection[sectionId];
+        }
+        if (!targetName) {
+            const firstInSection = tests.find(t => sectionForTest(t.name)?.id === sectionId);
+            if (firstInSection) targetName = firstInSection.name;
+        }
+        if (!targetName) return;
+
+        localStorage.setItem(SECTION_KEY, sectionId);
+        window.app.loadTestByName(targetName);
+        dismissCover();
+    };
+
+    // Section row clicks
+    frame.querySelectorAll('.cover-section').forEach(li => {
+        li.addEventListener('click', () => {
+            const id = li.dataset.sectionId;
+            enterSection(id);
+        });
+    });
+
+    // Resume button
+    const resumeBtn = frame.querySelector('[data-resume]');
+    if (resumeBtn) {
+        resumeBtn.addEventListener('click', () => {
+            enterSection(currentSectionId, lastBySection[currentSectionId]);
+        });
+    }
+
+    // Enter key — resume if possible
     const handleKey = (e) => {
         if (e.key === 'Enter') {
             e.preventDefault();
             e.stopImmediatePropagation();
-            dismissScreen();
+            if (currentSectionId && lastBySection[currentSectionId]) {
+                enterSection(currentSectionId, lastBySection[currentSectionId]);
+            }
+            // If nothing to resume, Enter is a no-op — user must pick a section.
+        } else if (e.key === 'Escape') {
+            // Close cover only if there's something to fall back to
+            if (currentSectionId) dismissCover();
         }
     };
     document.addEventListener('keydown', handleKey, { capture: true });
-
-    // Interaction
-    const startBtn = card.querySelector('#start-practice-btn');
-    startBtn.addEventListener('click', dismissScreen);
-
 })();

@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- State Management ---
     const testStates = {};
     let currentTestName = '';
-    let performanceChart = null;
     let isFlashcardMode = false;
     let isTimeAttackMode = false;
     const TIME_ATTACK_DURATION = 480; // 8 minutes in seconds
@@ -128,6 +127,207 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     getEl('pearlbook-btn')?.addEventListener('click', openPearlbook);
 
+    // --- Block Info bootstrap ---
+    const blockInfo = (typeof BLOCK_INFO !== 'undefined')
+        ? BLOCK_INFO
+        : { name: 'Block 3', subtitle: 'Medical Sciences', volumeRoman: 'III' };
+
+    const navMastheadVol = getEl('nav-masthead-vol');
+    if (navMastheadVol) {
+        navMastheadVol.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name}`;
+    }
+
+    const tocEyebrow = getEl('toc-eyebrow');
+    if (tocEyebrow) {
+        tocEyebrow.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name} &middot; ${blockInfo.subtitle}`;
+    }
+
+    const examSubtitle = getEl('exam-subtitle');
+    if (examSubtitle) {
+        examSubtitle.innerHTML = `${blockInfo.name} &middot; ${blockInfo.subtitle}`;
+    }
+
+    // Update document title to match masthead
+    document.title = `PracticeOS · Vol. ${blockInfo.volumeRoman}`;
+
+    // --- Table of Contents (two-level: sections → weeks) ---
+    let tocView = 'sections';
+    let tocActiveSectionId = null;
+
+    const _getCurrentSectionId = () => localStorage.getItem('practiceos_currentSection');
+
+    const renderTOCSections = () => {
+        const sections = window.SECTIONS || [];
+        const currentId = _getCurrentSectionId();
+
+        getEl('toc-back-btn').classList.remove('is-visible');
+        getEl('toc-eyebrow').innerHTML =
+            `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name} &middot; ${blockInfo.subtitle}`;
+        getEl('toc-title').textContent = 'Table of Contents';
+        getEl('toc-tagline').textContent = 'Choose a section to begin.';
+
+        const container = getEl('toc-content');
+        container.innerHTML = '';
+
+        const grid = document.createElement('div');
+        grid.className = 'toc-section-grid';
+
+        sections.forEach(sec => {
+            const testsInSection = testsToLoad.filter(t =>
+                window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
+            );
+            const isCurrent = sec.id === currentId;
+            const weeksLabel = sec.weeks.length > 1
+                ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
+                : `Week ${sec.weeks[0]}`;
+
+            const card = document.createElement('button');
+            card.className = 'toc-section-card' + (isCurrent ? ' is-current' : '');
+            card.innerHTML = `
+                <span class="toc-section-card-numeral">${sec.romanNumeral}.</span>
+                <div>
+                    <h3 class="toc-section-card-name">${sec.name}</h3>
+                    <p class="toc-section-card-dek">${sec.dek}</p>
+                    <span class="toc-section-card-meta">${weeksLabel} &middot; ${testsInSection.length} lectures</span>
+                </div>
+            `;
+            card.onclick = () => renderTOCSectionDetail(sec.id);
+            grid.appendChild(card);
+        });
+
+        container.appendChild(grid);
+        tocView = 'sections';
+        tocActiveSectionId = null;
+    };
+
+    const renderTOCSectionDetail = (sectionId) => {
+        const sections = window.SECTIONS || [];
+        const sec = sections.find(s => s.id === sectionId);
+        if (!sec) return;
+
+        getEl('toc-back-btn').classList.add('is-visible');
+        const weeksLabel = sec.weeks.length > 1
+            ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
+            : `Week ${sec.weeks[0]}`;
+        getEl('toc-eyebrow').innerHTML = `Section ${sec.romanNumeral} &middot; ${weeksLabel}`;
+        getEl('toc-title').textContent = sec.name;
+        getEl('toc-tagline').textContent = sec.dek;
+
+        const container = getEl('toc-content');
+        container.innerHTML = '';
+
+        const sectionTests = testsToLoad.filter(t =>
+            window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
+        );
+        const grouped = groupTests(sectionTests);
+        const groupKeys = Object.keys(grouped).sort((a, b) =>
+            a.localeCompare(b, undefined, { numeric: true })
+        );
+
+        const grid = document.createElement('div');
+        grid.className = 'toc-grid';
+
+        groupKeys.forEach(groupName => {
+            const tests = grouped[groupName];
+            const section = document.createElement('section');
+            section.className = 'toc-week';
+
+            // Lecture range string (e.g. "L48 – L59")
+            const ids = tests
+                .map(t => {
+                    const m = t.name.match(/\(([^)]+)\)/);
+                    return m ? m[1] : null;
+                })
+                .filter(Boolean);
+            const rangeLabel = ids.length > 1
+                ? `${ids[0]} – ${ids[ids.length - 1]}`
+                : (ids[0] || '');
+
+            const heading = document.createElement('h3');
+            heading.className = 'toc-week-heading';
+            heading.innerHTML = `<span class="toc-week-eyebrow">${rangeLabel || ' '}</span>${groupName}`;
+            section.appendChild(heading);
+
+            const list = document.createElement('ul');
+            list.className = 'toc-lecture-list';
+
+            tests.forEach(testObj => {
+                const isCumulative = /CUMULATIVE/i.test(testObj.name);
+                const idMatch = testObj.name.match(/\(([^)]+)\)/);
+                const lectureId = idMatch
+                    ? idMatch[1]
+                    : (isCumulative ? 'Exam' : '');
+
+                // Trim trailing "(L48)" from display label
+                const cleanLabel = testObj.displayName
+                    .replace(/\s*\([^)]+\)\s*$/, '')
+                    .trim();
+
+                const li = document.createElement('li');
+                li.className = 'toc-lecture' +
+                    (isCumulative ? ' is-cumulative' : '') +
+                    (testObj.name === currentTestName ? ' is-active' : '');
+
+                li.innerHTML = `
+                    <span class="toc-lecture-id">${lectureId}</span>
+                    <button class="toc-lecture-btn" data-name="${testObj.name.replace(/"/g, '&quot;')}">${cleanLabel}</button>
+                `;
+
+                li.querySelector('.toc-lecture-btn').onclick = () => {
+                    // loadTestByName updates currentSection + records last lecture, then loads
+                    if (typeof window !== 'undefined' && window.app && window.app.loadTestByName) {
+                        window.app.loadTestByName(testObj.name);
+                    } else {
+                        const original = testsToLoad.find(t => t.name === testObj.name);
+                        if (original) loadTest(original);
+                    }
+                    closeTOC();
+                };
+
+                list.appendChild(li);
+            });
+
+            section.appendChild(list);
+            grid.appendChild(section);
+        });
+
+        container.appendChild(grid);
+        tocView = 'section-detail';
+        tocActiveSectionId = sectionId;
+    };
+
+    const openTOC = () => {
+        const currentId = _getCurrentSectionId();
+        if (currentId && (window.SECTIONS || []).some(s => s.id === currentId)) {
+            renderTOCSectionDetail(currentId);
+        } else {
+            renderTOCSections();
+        }
+        getEl('toc-modal').classList.remove('hidden');
+    };
+
+    const closeTOC = () => {
+        getEl('toc-modal').classList.add('hidden');
+    };
+
+    getEl('open-toc-btn')?.addEventListener('click', openTOC);
+    getEl('close-toc-btn')?.addEventListener('click', closeTOC);
+    getEl('toc-backdrop')?.addEventListener('click', closeTOC);
+    getEl('toc-back-btn')?.addEventListener('click', renderTOCSections);
+    getEl('change-section-btn')?.addEventListener('click', () => {
+        renderTOCSections();
+        getEl('toc-modal').classList.remove('hidden');
+    });
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            const tocModal = getEl('toc-modal');
+            if (tocModal && !tocModal.classList.contains('hidden')) {
+                closeTOC();
+            }
+        }
+    });
+
 
     // --- Global Review Logic ---
     const GLOBAL_REVIEW_KEY = 'medStudy_globalIncorrects';
@@ -178,17 +378,15 @@ document.addEventListener('DOMContentLoaded', () => {
             localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
         }
 
-        const btn = getEl('global-review-btn-sidebar');
+        const wrapper = getEl('global-review-li');
         const countSpan = getEl('global-review-count');
 
-        if (btn) {
+        if (wrapper) {
             if (list.length > 0) {
-                btn.classList.remove('hidden');
-                btn.classList.add('flex'); // Ensure flex display
+                wrapper.classList.remove('hidden');
                 if (countSpan) countSpan.textContent = list.length;
             } else {
-                btn.classList.add('hidden');
-                btn.classList.remove('flex');
+                wrapper.classList.add('hidden');
             }
         }
     };
@@ -285,40 +483,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const score = state.userAnswers.filter(a => a.isCorrect).length;
         const totalQuestions = state.questions.length;
-        const percentage = totalQuestions > 0 ? (score / totalQuestions * 100).toFixed(1) : 0;
-        getEl('final-score').textContent = `${score} / ${totalQuestions}`;
+        const percentage = totalQuestions > 0 ? (score / totalQuestions * 100).toFixed(0) : 0;
+        getEl('final-score').textContent = `${score} of ${totalQuestions} correct`;
         getEl('final-percentage').textContent = `${percentage}%`;
-        const correctCount = score;
-        const incorrectCount = totalQuestions - score;
-        if (performanceChart) performanceChart.destroy();
-        const ctx = getEl('performance-chart').getContext('2d');
-        // Theme Colors: Correct (Green-500: #22c55e), Incorrect (Red-500: #ef4444)
-        performanceChart = new Chart(ctx, {
-            type: 'doughnut',
-            data: {
-                labels: ['Correct', 'Incorrect'],
-                datasets: [{
-                    data: [correctCount, incorrectCount],
-                    backgroundColor: ['#22c55e', '#ef4444'],
-                    borderColor: getComputedStyle(document.body).getPropertyValue('--bg-card').trim(),
-                    borderWidth: 5,
-                    hoverOffset: 4
-                }]
-            },
-            options: {
-                responsive: true,
-                cutout: '75%',
-                plugins: {
-                    legend: { display: false },
-                    tooltip: {
-                        backgroundColor: '#1e293b',
-                        padding: 12,
-                        cornerRadius: 8,
-                        callbacks: { label: (c) => ` ${c.label}: ${c.raw} (${((c.raw / totalQuestions) * 100).toFixed(0)}%)` }
-                    }
-                }
-            }
-        });
 
         const categoryStats = {};
         state.questions.forEach((q, index) => {
@@ -330,33 +497,41 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         state.currentSummaryStats = categoryStats;
 
-        const perfArray = Object.entries(categoryStats).map(([name, stats]) => ({
-            name,
-            score: stats.total > 0 ? (stats.correct / stats.total) : 0,
-            stats: `${stats.correct} / ${stats.total}`
-        })).sort((a, b) => a.score - b.score);
-
-        const overviewContainer = getEl('performance-overview');
-        overviewContainer.innerHTML = '';
+        const perfArray = Object.entries(categoryStats)
+            .filter(([, stats]) => stats.total > 0)
+            .map(([name, stats]) => ({
+                name,
+                score: stats.correct / stats.total,
+                stats: `${stats.correct} / ${stats.total}`
+            }))
+            .sort((a, b) => a.score - b.score);
 
         const weakest = perfArray.slice(0, 3);
         const strongest = perfArray.length > 3 ? perfArray.slice(-3).reverse() : [];
 
-        let html = '';
+        const renderRow = (item) =>
+            `<li><span class="summary-stat-name">${item.name}</span>` +
+            `<span class="summary-stat-score">${item.stats} &nbsp;&middot;&nbsp; ${(item.score * 100).toFixed(0)}%</span></li>`;
+
+        const weakestEl = getEl('summary-weakest');
+        const weakestHeading = getEl('summary-weakest-heading');
         if (weakest.length > 0) {
-            html += `<h4 class="font-semibold text-red-500">Areas for Review</h4>`;
-            weakest.forEach(item => {
-                html += `<p class="text-sm text-secondary">${item.name} - ${item.stats} (${(item.score * 100).toFixed(0)}%)</p>`;
-            });
+            weakestEl.innerHTML = weakest.map(renderRow).join('');
+            weakestHeading.style.display = '';
+        } else {
+            weakestEl.innerHTML = '';
+            weakestHeading.style.display = 'none';
         }
+
+        const strongestEl = getEl('summary-strongest');
+        const strongestHeading = getEl('summary-strongest-heading');
         if (strongest.length > 0) {
-            html += `<h4 class="font-semibold text-green-500 mt-4">Strongest Areas</h4>`;
-            strongest.forEach(item => {
-                html += `<p class="text-sm text-secondary">${item.name} - ${item.stats} (${(item.score * 100).toFixed(0)}%)</p>`;
-            });
+            strongestEl.innerHTML = strongest.map(renderRow).join('');
+            strongestHeading.style.display = '';
+        } else {
+            strongestEl.innerHTML = '';
+            strongestHeading.style.display = 'none';
         }
-        overviewContainer.innerHTML = html;
-        overviewContainer.innerHTML = html;
     };
 
     function switchToTest(testName) {
@@ -368,6 +543,18 @@ document.addEventListener('DOMContentLoaded', () => {
         currentTestName = testName;
         const state = testStates[testName];
         if (!state) return;
+
+        // Record this as the last-touched lecture for its section (so resume works).
+        if (window.getTestSection) {
+            const sec = window.getTestSection(testName);
+            if (sec) {
+                try {
+                    const map = JSON.parse(localStorage.getItem('practiceos_lastLectureBySection') || '{}');
+                    map[sec.id] = testName;
+                    localStorage.setItem('practiceos_lastLectureBySection', JSON.stringify(map));
+                } catch { /* ignore */ }
+            }
+        }
 
         const displayName = testName.replace(/^(\d+)-/, '').trim();
         getEl('exam-title').textContent = `Practice Exam: ${displayName}`;
@@ -519,11 +706,22 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function startMasterReview() {
-        // 1. Collect all questions
+        // Master Review is scoped to currentSection if one is set;
+        // otherwise it draws from the whole block.
+        const currentSecId = localStorage.getItem('practiceos_currentSection');
+        const currentSec = currentSecId && window.SECTIONS
+            ? window.SECTIONS.find(s => s.id === currentSecId)
+            : null;
+
+        const sourceTests = currentSec
+            ? testsToLoad.filter(t => window.getTestSection
+                ? window.getTestSection(t.name)?.id === currentSec.id
+                : false)
+            : testsToLoad;
+
         let allQuestions = [];
-        testsToLoad.forEach(test => {
+        sourceTests.forEach(test => {
             if (test.data && Array.isArray(test.data)) {
-                // Add source info to question for context
                 const questionsWithContext = test.data.map(q => ({
                     ...q,
                     category: `${q.category} (${test.name})`
@@ -533,32 +731,33 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         if (allQuestions.length === 0) {
-            alert("No questions found to generate a review.");
+            alert(currentSec
+                ? `No questions found in ${currentSec.name}.`
+                : 'No questions found to generate a review.');
             return;
         }
 
-        // 2. Shuffle
         for (let i = allQuestions.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
         }
 
-        // 3. Select 20
         const selectedQuestions = allQuestions.slice(0, 20);
 
-        // 4. Create Test Object
+        const reviewName = currentSec
+            ? `Master Review · ${currentSec.name}`
+            : 'Master Review';
         const masterTest = {
-            name: "Master Review",
-            displayName: "Master Review (20 Random)",
+            name: reviewName,
+            displayName: currentSec
+                ? `Master Review · ${currentSec.name} (20 Random)`
+                : 'Master Review (20 Random)',
             data: selectedQuestions
         };
 
-        // 5. Load it
-        // We need to manually add it to testStates if not present, but loadTest handles that.
-        // We might want to clear previous master review progress
-        const LOCAL_STORAGE_KEY = `examProgress_Master Review`;
+        const LOCAL_STORAGE_KEY = `examProgress_${reviewName}`;
         localStorage.removeItem(LOCAL_STORAGE_KEY);
-        if (testStates["Master Review"]) delete testStates["Master Review"];
+        if (testStates[reviewName]) delete testStates[reviewName];
 
         loadTest(masterTest);
     }
@@ -1286,47 +1485,65 @@ document.addEventListener('DOMContentLoaded', () => {
             return false;
         });
         if (questionsToReview.length === 0 && filterType === 'incorrect') {
-            container.innerHTML = `<div class="text-center p-8 subtle-card rounded-lg"><h3 class="text-xl font-bold text-green-500">Congratulations!</h3><p class="text-secondary mt-2">You have no incorrect answers to review.</p></div>`;
+            container.innerHTML = `
+                <div style="text-align: center; padding: 4rem 1rem;">
+                    <span class="eyebrow">An Editor's Note</span>
+                    <h3 class="editorial-display" style="font-size: 2rem; margin: 0.75rem 0 0.5rem;">A clean sheet.</h3>
+                    <p class="editorial" style="font-style: italic; color: var(--text-secondary);">
+                        Nothing incorrect to revisit.
+                    </p>
+                </div>`;
             return;
         }
-        questionsToReview.forEach((q) => {
+        questionsToReview.forEach((q, reviewIndex) => {
             const originalIndex = state.questions.findIndex(origQ => origQ.id === q.id);
             const userAnswer = state.userAnswers[originalIndex];
-            const questionEl = document.createElement('div');
-            questionEl.className = 'subtle-card p-6 border border-default rounded-lg mb-6';
+            const questionEl = document.createElement('article');
+            questionEl.className = 'review-item';
+
+            const numeral = String(reviewIndex + 1).padStart(2, '0');
 
             let optionsHtml = q.options.map((opt, optIndex) => {
-                let indicators = '';
-                if (optIndex === q.correctAnswerIndex) indicators += '<span class="ml-2 text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded-full">Correct</span>';
-                if (userAnswer.selectedIndex === optIndex && !userAnswer.isCorrect) indicators += '<span class="ml-2 text-xs font-bold text-red-600 bg-red-100 px-2 py-1 rounded-full">Your Answer</span>';
-                let optionClass = 'mt-2 p-3 border-l-4 card rounded-r-md';
-                if (optIndex === q.correctAnswerIndex) optionClass += ' option-btn-correct';
-                else if (userAnswer.selectedIndex === optIndex) optionClass += ' option-btn-incorrect';
-                else optionClass += ' border-default';
-                return `<div class="${optionClass}"><p>${String.fromCharCode(65 + optIndex)}. ${opt.text} ${indicators}</p><p class="text-sm text-secondary mt-1 pl-5"><em>Explanation:</em> ${opt.explanation}</p></div>`;
+                const isCorrect = optIndex === q.correctAnswerIndex;
+                const isYourWrong = userAnswer.selectedIndex === optIndex && !userAnswer.isCorrect;
+
+                let optClass = 'review-option';
+                if (isCorrect) optClass += ' is-correct';
+                else if (isYourWrong) optClass += ' is-your-wrong';
+
+                let tag = '';
+                if (isCorrect) tag = '<span class="review-option-tag is-correct">Correct</span>';
+                else if (isYourWrong) tag = '<span class="review-option-tag is-your-wrong">Your Answer</span>';
+
+                return `<div class="${optClass}">
+                    <span class="review-option-label">${String.fromCharCode(65 + optIndex)}.</span>${opt.text}${tag}
+                    <span class="review-option-explanation">${opt.explanation}</span>
+                </div>`;
             }).join('');
 
             questionEl.innerHTML = `
-                <p class="font-semibold text-secondary">Question ${originalIndex + 1} (${q.category})</p>
-                <p class="font-bold text-lg mt-1">${q.questionText}</p>
-                <div class="mt-4 space-y-2">${optionsHtml}</div>`;
+                <div class="review-item-numeral">${numeral}</div>
+                <div>
+                    <div class="review-item-category">${q.category}</div>
+                    <h3 class="review-item-question">${q.questionText}</h3>
+                    <div>${optionsHtml}</div>
+                </div>`;
+
+            const body = questionEl.lastElementChild;
 
             if (q.clinicalPearl) {
-                questionEl.innerHTML += renderClinicalPearl(q.clinicalPearl);
+                const pearlWrap = document.createElement('div');
+                pearlWrap.innerHTML = renderClinicalPearl(q.clinicalPearl);
+                if (pearlWrap.firstElementChild) body.appendChild(pearlWrap.firstElementChild);
             }
 
             if (q.lectureSource) {
-                questionEl.innerHTML += `
-                    <div class="mt-4 p-4 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-gray-700 rounded-lg flex items-center gap-3">
-                        <div class="bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 p-2 rounded-full">
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                        </div>
-                        <div>
-                            <span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider">Source Material</span>
-                            <p class="font-medium text-gray-800 dark:text-gray-200">${q.lectureSource}</p>
-                        </div>
-                    </div>
-                 `;
+                body.insertAdjacentHTML('beforeend', `
+                    <p style="margin-top: 1.25rem; font-family: var(--font-editorial-body); font-size: 0.9rem; color: var(--text-secondary);">
+                        <span class="eyebrow" style="display: inline; margin-right: 0.5rem;">Source</span>
+                        <span style="font-style: italic;">${q.lectureSource}</span>
+                    </p>
+                `);
             }
 
             // --- PDF / Visual Aid Logic ---
@@ -1356,22 +1573,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (shouldShowPDF && lectureId && pageNum) {
                 const visualAidContainer = document.createElement('div');
-                visualAidContainer.className = "mt-6 p-6 rounded-xl subtle-card border-l-4";
-                visualAidContainer.style.borderColor = "var(--accent-color)";
-
-                visualAidContainer.innerHTML = `
-                    <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
-                            </path>
-                        </svg>
-                        Visual Aid
-                    </h3>
-                `;
+                visualAidContainer.style.cssText = "margin-top: 1.5rem; padding: 1rem 0 0; border-top: 1px dotted var(--border-color);";
+                visualAidContainer.innerHTML = `<span class="eyebrow" style="margin-bottom: 0.6rem;">Visual Aid</span>`;
 
                 const btnContainer = document.createElement('div');
-                btnContainer.className = "flex flex-col gap-2";
+                btnContainer.style.cssText = "display: flex; flex-direction: column; gap: 0.5rem;";
+
+                const linkStyle = "text-align: left; padding: 0.5rem 0; font-family: var(--font-body); font-size: 0.85rem; font-weight: 600; color: var(--text-primary); background: transparent; border: 0; cursor: pointer; text-decoration: underline; text-decoration-color: var(--accent-color); text-decoration-thickness: 2px; text-underline-offset: 4px;";
 
                 if (window.PDF_MAPPING && window.PDF_MAPPING[lectureId]) {
                     const mapping = window.PDF_MAPPING[lectureId];
@@ -1379,14 +1587,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     pdfPaths.forEach((pdfPath, index) => {
                         const label = pdfPaths.length > 1
-                            ? `Open Lecture Source PDF ${index + 1} (Page ${pageNum})`
-                            : `Open Lecture Source PDF (Page ${pageNum})`;
+                            ? `Lecture source PDF ${index + 1} — page ${pageNum}`
+                            : `Lecture source PDF — page ${pageNum}`;
                         const pdfBtn = document.createElement('button');
-                        pdfBtn.className = "w-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 shadow-sm rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 transition-all transform hover:scale-[1.02]";
-                        pdfBtn.innerHTML = `
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                            ${label}
-                        `;
+                        pdfBtn.style.cssText = linkStyle;
+                        pdfBtn.textContent = label;
                         pdfBtn.onclick = (e) => {
                             e.stopPropagation();
                             showPDF(pdfPath, pageNum);
@@ -1394,18 +1599,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         btnContainer.appendChild(pdfBtn);
                     });
                 } else {
-                    const errorBtn = document.createElement('button');
-                    errorBtn.className = "w-full bg-gray-100 text-gray-400 border border-gray-200 rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 cursor-not-allowed";
-                    errorBtn.disabled = true;
-                    errorBtn.innerHTML = `
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        PDF Source Not Found (${lectureId})
-                    `;
-                    btnContainer.appendChild(errorBtn);
+                    const errorEl = document.createElement('span');
+                    errorEl.style.cssText = "font-family: var(--font-editorial-body); font-style: italic; font-size: 0.85rem; color: var(--text-secondary);";
+                    errorEl.textContent = `PDF source not found (${lectureId})`;
+                    btnContainer.appendChild(errorEl);
                 }
                 visualAidContainer.appendChild(btnContainer);
 
-                questionEl.appendChild(visualAidContainer);
+                body.appendChild(visualAidContainer);
             }
 
             container.appendChild(questionEl);
@@ -1788,21 +1989,110 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+    // --- Section state (persisted across reloads) ---
+    const SECTION_KEY = 'practiceos_currentSection';
+    const LAST_LECTURE_KEY = 'practiceos_lastLectureBySection';
+
+    const getCurrentSectionId = () => localStorage.getItem(SECTION_KEY);
+
+    const setCurrentSectionId = (id) => {
+        if (id) localStorage.setItem(SECTION_KEY, id);
+        else localStorage.removeItem(SECTION_KEY);
+        renderMastheadSection();
+    };
+
+    const getCurrentSection = () => {
+        const id = getCurrentSectionId();
+        if (!id || !window.SECTIONS) return null;
+        return window.SECTIONS.find(s => s.id === id) || null;
+    };
+
+    const recordLastLectureForSection = (sectionId, testName) => {
+        if (!sectionId || !testName) return;
+        try {
+            const map = JSON.parse(localStorage.getItem(LAST_LECTURE_KEY) || '{}');
+            map[sectionId] = testName;
+            localStorage.setItem(LAST_LECTURE_KEY, JSON.stringify(map));
+        } catch { /* ignore */ }
+    };
+
+    const renderMastheadSection = () => {
+        const sec = getCurrentSection();
+        const el = getEl('nav-masthead-vol');
+        if (el) {
+            if (sec) {
+                el.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${sec.romanNumeral} &middot; ${sec.name}`;
+            } else {
+                el.innerHTML = `Vol. ${blockInfo.volumeRoman} &middot; ${blockInfo.name}`;
+            }
+        }
+
+        const mrDesc = getEl('master-review-desc');
+        if (mrDesc) {
+            mrDesc.textContent = sec
+                ? `Twenty random questions from ${sec.name}.`
+                : 'Twenty random questions across the block.';
+        }
+
+        const changeBtn = getEl('change-section-btn');
+        if (changeBtn) {
+            changeBtn.classList.toggle('hidden', !sec);
+        }
+    };
+
+    // Public API for the welcome screen + future surfaces
+    const loadTestByName = (name) => {
+        const test = testsToLoad.find(t => t.name === name);
+        if (!test) return false;
+        const sec = window.getTestSection ? window.getTestSection(test.name) : null;
+        if (sec) {
+            setCurrentSectionId(sec.id);
+            recordLastLectureForSection(sec.id, test.name);
+        }
+        loadTest(test);
+        return true;
+    };
+
+    window.app = {
+        loadTestByName,
+        getCurrentSection,
+        setCurrentSection: (id) => setCurrentSectionId(id),
+        openTOC: () => openTOC(),
+    };
+
     // --- Initial Load ---
     updateThemeIcons();
     createTestSelector();
+    renderMastheadSection();
+
     if (testsToLoad.length > 0) {
-        // Ensure the JS file is loaded
-        if (typeof L103 !== 'undefined') {
-            loadTest(testsToLoad[0]);
-        } else {
-            // Fallback if first test data isn't found, try to find one that is
+        const savedSectionId = getCurrentSectionId();
+        const savedLastBySection = (() => {
+            try { return JSON.parse(localStorage.getItem(LAST_LECTURE_KEY) || '{}'); }
+            catch { return {}; }
+        })();
+
+        let initialTest = null;
+        if (savedSectionId) {
+            const lastName = savedLastBySection[savedSectionId];
+            if (lastName) initialTest = testsToLoad.find(t => t.name === lastName);
+            if (!initialTest && window.getTestSection) {
+                initialTest = testsToLoad.find(t => window.getTestSection(t.name)?.id === savedSectionId);
+            }
+        }
+        // Fallback so the app behind the welcome cover isn't empty
+        if (!initialTest) initialTest = testsToLoad[0];
+
+        try {
+            loadTest(initialTest);
+        } catch (e) {
+            console.error('Initial load failed:', e);
             const availableTest = testsToLoad.find(t => typeof window[t.data] !== 'undefined' || typeof t.data === 'object');
             if (availableTest) loadTest(availableTest);
             else getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">Error: Test data not found. Make sure test files are loaded correctly.</p>`;
         }
     } else {
-        getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">No tests found. Please add a test script to the HTML head and add it to the 'testsToLoad' array.</p>`;
+        getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">No tests found.</p>`;
     }
 
 
