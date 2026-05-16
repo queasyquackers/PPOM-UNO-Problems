@@ -198,7 +198,19 @@ const testsToLoad = [
     { name: "18-Microbiology: HIV, AIDS and Human Retroviruses (L167)", data: window.Test_L167 },
     { name: "18-Microbiology: Hemorrhagic Viral Infections (L168)", data: window.Test_L168 },
     { name: "18-Microbiology: Opportunistic Infections (L169)", data: window.Test_L169 },
-    { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 }
+    { name: "18-DPR: Introduction to Behavioral Medicine (L170)", data: window.Test_L170 },
+
+    { name: "19-Pharmacology: Chemotherapy of Malaria (L172)", data: window.Test_L172 },
+    { name: "19-Pharmacology: Chemotherapy of Protozoal Infections (L173)", data: window.Test_L173 },
+    { name: "19-Histology: Skin Part 1 - Epidermis, Dermis, Hypodermis (L174)", data: window.Test_L174 },
+    { name: "19-Histology: Skin Part 2 - Hair, Nails, Glands, Sensory Receptors (L175)", data: window.Test_L175 },
+    { name: "19-Microbiology: Skin and Mucous Membrane Infections (L176)", data: window.Test_L176 },
+    { name: "19-Microbiology: Zoonotic Infections (L177)", data: window.Test_L177 },
+    { name: "19-Pharmacology of Antifungal Agents (L178)", data: window.Test_L178 },
+    { name: "19-DPR: History and Physical Exam of the Integumentary System (L179)", data: window.Test_L179 },
+    { name: "19-Dermatology: Viral Exanthems (L180)", data: window.Test_L180 },
+    { name: "19-Non-Neoplastic Skin Pathology (L181)", data: window.Test_L181 },
+    { name: "19-Pathology: Skin Tumors (L182)", data: window.Test_L182 }
 
 ];
 

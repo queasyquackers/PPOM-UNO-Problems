@@ -1,0 +1,729 @@
+
+=== PAGE 1 ===
+Pathology of non-neoplastic skin diseases
+Principles and Practices of Osteopathic Medicine I
+William Zaloga, D.O.
+Department of Clinical Medicine
+NYITCOM@ASU
+Wilson Hall, Room 424F
+wzaloga@nyit.edu 
+Office Tel. (870) 680-8899
+
+=== PAGE 2 ===
+Session Objectives
+1.
+Describe, discuss, and explain the pathogenesis, morphological features (gross and microscopic), and 
+major clinical correlations of acute inflammatory dermatoses which include urticaria, acute 
+eczematous dermatitis, erythema multiforme, Stevens Johnson syndrome
+2.
+Describe, discuss, and explain the pathogenesis, morphological features (gross and microscopic), and 
+major clinical correlations of chronic inflammatory dermatoses which include psoriasis and lichen 
+planus
+3.
+Describe, discuss, and explain the pathogenesis, morphological features (gross and microscopic), and 
+major clinical correlations of major bullous diseases which include pemphigus vulgaris, bullous 
+pemphigoid, and dermatitis herpetiformis
+4.
+Describe, discuss, and explain the pathogenesis, morphological features (gross and microscopic) and 
+major clinical correlations of acne vulgaris and rosacea
+5.
+Describe, discuss, and explain the pathogenesis, morphological features (gross and microscopic) and 
+major clinical correlations of erythema nodosum (panniculitis)
+
+=== PAGE 3 ===
+https://medicine.nus.edu.sg/pathweb/normal-histology/skin/
+Skin Histology Review
+
+=== PAGE 4 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 25, Table 25.1
+Skin pathology terminology
+Macroscopic Feature
+Description
+Image
+Macule/Patch
+Well circumscribed, flat lesion 
+distinguished from surrounding 
+skin by color. Macules <5mm, 
+patches >5mm
+Papule/Nodule
+Elevated dome-shaped or flat-
+topped lesion. Papules <5mm, 
+nodules >5mm
+Plaque
+Elevated flat-topped lesion, 
+usually >5mm (can be coalesced 
+papules)
+Pustule
+Discrete, pus-filled, raised lesion
+Vesicle/Bulla/Blister
+Fluid-filled raised lesion. 
+Vesicles <5mm, bulla >5mm 
+(blister general term for both)
+Wheal
+Itchy, transient, elevated lesions 
+with variable blanching and 
+erythema formed as the result 
+of dermal edema
+https://dl.acm.org/doi/10.1145/3468784.3468887
+
+=== PAGE 5 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 25, Table 25.1
+More skin pathology terminology
+Microscopic Feature
+Description
+Acanthosis
+Diffuse epidermal hyperplasia
+Dyskeratosis
+Abnormal, premature keratinization within cells 
+below the stratum granulosum
+Hyperkeratosis
+Thickening of the stratum corneum, often 
+associated with a qualitative abnormality of the 
+keratin
+Lentiginous
+Linear patter of melanocyte proliferation within 
+the epidermal basal cell layer
+Parakeratosis
+Keratinization with retained nuclei in the stratum 
+corneum
+Spongiosis
+Intracellular edema of the epidermis
+
+=== PAGE 6 ===
+Review of hypersensitivity reactions
+•
+Type I (immediate) – IgE binds and activates mast cells (ex. anaphylaxis, asthma, urticaria)
+•
+Type II (cytotoxic) – IgG/IgM antibody dependent, bind to antigen (complement, 
+opsonization/phagocytosis, natural killer (NK) cells bind Ab Fc region, cell dysfunction – hyperthyroidism 
+in Graves’ disease, etc.),  other examples: Incompatible RBC transfusion reaction, Goodpasture syndrome
+•
+Type III (immune complex) – Ag-Ab complexes deposition in tissues causing inflammation (ex. lupus, 
+rheumatoid arthritis)
+•
+Type IV (delayed type) – cell mediated toxicity, T cell mediated, 24-72 hours to develop, antibody 
+independent reactions (ex. contact dermatitis, tuberculin skin test)
+
+=== PAGE 7 ===
+1.
+Urticaria
+2.
+Acute eczematous dermatitis
+3.
+Erythema multiforme
+Acute inflammatory dermatoses
+
+=== PAGE 8 ===
+• Localized mast cell degranulation
+• Histamine release, activates H1 & H2 receptors → ↑ vascular 
+permeability, vasodilation → wheals + pruritis
+• Affect all ages
+• Commonly on trunk, extremities, face
+• Majority of patients reveal no underlying cause
+• Lesions develop & fade → hours/a day
+• Can recur → cycles can last days/months
+Urticaria (hives): Overview
+Source: Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.21
+
+=== PAGE 9 ===
+•
+Mast cell-dependent, IgE-dependent: Post-exposure to antigens → Type I Hypersensitivity 
+reaction 
+• When systemic → anaphylaxis
+•
+Mast cell-dependent, IgE-independent: Substances directly trigger mast cell degranulation 
+(examples: Opiates, certain antibiotics, contrast media)
+•
+Mast cell-independent, IgE-independent: Local factors that ↑ vascular permeability w/o 
+degranulating mast cells
+• Aspirin mechanism is unknown
+• Hereditary Angioneurotic edema: Rare, potentially life threatening genetic mutation w/ 
+deficiency of C1 esterase inhibitor → ↑bradykinin (vasoactive mediator)
+Urticaria: Pathogenesis
+
+=== PAGE 10 ===
+Urticaria: Histopathology
+•
+Dermal edema - spacing of dermal collagen bundles
+•
+Sparse superficial perivenular mononuclear cells, possibly 
+eosinophils & neutrophils
+•
+Dermal lymphatics dilated - edema fluid
+•
+No changes in epidermis 
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.21
+
+=== PAGE 11 ===
+•
+Inflammatory skin conditions w/ erythema, edema, vesiculation & pruritis
+•
+Type IV hypersensitivity: T-cell mediated inflammation → epidermal 
+spongiosis (edema)
+•
+Types based on initiating factors:
+•
+Atopic dermatitis
+•
+Allergic contact dermatitis
+•
+Primary irritant contact dermatitis
+•
+Photo-eczematous dermatitis
+•
+Drug-related eczematous dermatitis
+Acute eczematous dermatitis
+Robbins and Cotran, Atlas Pathology, 4th 
+edition, 2021, Fig. 16.63
+https://www.langfordallergy.com/wp-
+content/uploads/2023/09/Elbow-with-Eczema-1536x1022.jpeg
+
+=== PAGE 12 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Ch. 25, Fig. 25.23
+https://www.mypathologyreport.ca/pathology-dictionary/spongiosis/
+•
+Spongiosis 
+•
+Epidermal intercellular edema (vs. dermis in urticaria)
+•
+Separates keratinocytes in stratum spinosum
+•
+Intra-epidermal vesicles
+•
+Mechanical sheering (scratching) of desmosomes & cell 
+membranes → progressive intercellular fluid accumulation
+•
+Superficial, perivascular lymphocytic infiltrates
+Eczematous dermatitis: Histopathology
+
+=== PAGE 13 ===
+https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.15664
+•
+Chronic, relapsing inflammation 
+•
+Barrier dysfunction (FLG mutations) & immune dysregulation
+•
+Triad of eczema, asthma, allergic rhinitis
+•
+Most commonly flexural areas
+•
+Increased risk for S. aureus colonization
+•
+Chronic phase → lichenified skin w/ hyperkeratosis, fissures, fibrosis
+•
+Rx: Emollients, steroids, Dupilumab (IL4/13 inhibitor)
+Atopic dermatitis
+
+=== PAGE 14 ===
+•
+Type IV hypersensitivity
+•
+Triggered by contact allergens (ex. nickel, poison ivy, fragrances, latex)
+•
+Affects superficial dermis, mononuclear inflammatory reaction w/o eosinophils
+Allergic contact dermatitis
+•
+Dermatology: An Illustrated Colour Text, Sixth Edition
+• Watchband (clasp’s metal alloy) etiology 
+
+=== PAGE 15 ===
+•
+Irritant contact dermatitis
+• Direct chemical irritation (detergents, acids) produce non-
+immunologic, dose-dependent reaction
+•
+Photo-eczematous dermatitis
+• UV light, double-edged sword for eczema
+• Trigger for flares, excessive exposure can damage the skin 
+barrier
+• Rx in controlled doses - (UVB) reduces inflammation
+Additional causes of eczema
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.23
+Dermatology: An Illustrated Colour Text, Sixth Edition 
+
+=== PAGE 16 ===
+•
+Rare, self-limiting hypersensitivity
+• Reaction to certain infections & drugs
+•
+Affects all ages
+•
+Mediated by T-cells (both CD4+ and CD8+ T cells) → Type IV delayed reaction
+•
+Triggers
+• HSV (most common), Mycoplasma pneumoniae, EBV, CMV, VZV, histoplasmosis
+• Sulfa drugs (TMP-SMX), NSAIDS, penicillins, barbiturates, phenytoin
+• Malignancies, autoimmune disease (SLE, IBD)
+Erythema multiforme: Overview
+
+=== PAGE 17 ===
+https://dermnetnz.org/topics/erythema-multiforme
+•
+Multiple lesions - <10% of total body surface area
+•
+Targetoid – 3 concentric rings w/ dark, dusky center (epidermal 
+necrosis)
+•
+Symmetrical distribution over the body (hands, feet, limbs - acral 
+distribution), can spread to face & trunk
+•
+Often affects mucosa
+Erythema multiforme: Clinical
+
+=== PAGE 18 ===
+https://www.youtube.com/watch?v=HyOxbBmNtfw
+•
+Interface dermatitis (dermo-epidermal junction 
+pathology)
+•
+Can see sloughing and blistering (aka separation 
+from underlying tissue)
+Erythema multiforme: Histopathology
+
+=== PAGE 19 ===
+•
+Severe mucocutaneous reaction 
+• Widespread epidermal necrosis & detachment
+•
+Often triggered by meds or infections (ex. sulfa drugs 
+most commonly)
+•
+Clinically: Lesions involve skin and lips/oral mucosa, 
+conjunctiva, urethra, genital areas
+• Initially erythematous macules → bullae → epidermal 
+detachment (+ Nikolsky sign)
+• >10% skin involvement
+•  If >30%, renamed Toxic Epidermal Necrolysis (TEN)
+•
+Management→ Stop offending drug + supportive care
+•
+Prognosis -> 5-10% mortality for SJS, >30% for TEN
+Stevens-Johnson Syndrome (SJS) & TEN
+https://my.clevelandclinic.org/health/diseases/17656-stevens-johnson-syndrome
+
+=== PAGE 20 ===
+1.
+Psoriasis
+2.
+Lichen Planus
+3.
+Seborrheic dermatitis
+Chronic inflammatory dermatoses
+
+=== PAGE 21 ===
+•
+Chronic, autoimmune mediated inflammatory skin disorder characterized 
+by hyperproliferation of keratinocytes
+•
+Typically affects the extensor surfaces, groin, intergluteal, armpit
+•
+Scaly skin plaques
+•
+Symptoms often start between ages 15 and 25 but can start at any age
+•
+Unknown trigger activates innate immunity
+•
+15% have associated psoriatic arthritis
+Psoriasis: Overview
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fib. 25.25
+https://www.nature.com/articles/s41419-022-04523-3
+
+=== PAGE 22 ===
+•
+Lesion appearance varies: Typically well-demarcated, pink to salmon 
+plaques covered by loosely adherent silver-white scale
+•
+Nail changes
+•
+Koebner Phenomenon
+•
+Auspitz sign
+Psoriasis: Clinical
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.25
+
+=== PAGE 23 ===
+https://www.youtube.com/watch?v=xWEmPZw9e-s
+• Acanthosis: Marked epidermal thickening
+• Elongation of the rete ridges → test tubes 
+(blue box)
+• Parakeratosis (red box)
+•
+Retention of nuclei in stratum corneum 
+• Munro microabscesses (green circle)
+•
+Neutrophils form small aggregates within 
+superficial epidermis (spongiform pustules)
+• Psoriatic Plaques
+•
+Thinning of the section of epidermis overlaying tips 
+of dermal papilla
+Psoriasis: Histopathology
+
+=== PAGE 24 ===
+•
+Pruritic, purple, polygonal, planar, papules, plaques that affects skin, mucosa, nails, hair 
+follicles
+•
+Typically middle aged
+•
+Self-limiting → resolves spontaneously over course of a few years
+•
+Pathogenesis not fully known
+• Possibly CD8+ T-cell response to antigens in basal epidermal or dermo-epidermal junction
+•
+Associated w/ Hepatitis C, although most cases idiopathic
+Lichen Planus: Overview
+
+=== PAGE 25 ===
+• Itchy, violaceous, flat-topped papules or plaques
+• Wickham Striae → white dots or reticulated lines in the 
+oral mucosa
+• Typically symmetrical: Wrists & elbows 
+Lichen Planus: Clinical
+https://www.infodentis.com/images-eng/oral_lichen_planus.jpg
+
+=== PAGE 26 ===
+https://www.youtube.com/watch?v=UWlzjG-WjQY
+• Interface dermatitis (dense, band-like, 
+lymphocytic infiltrate at the dermal-epidermal 
+junction)
+• Sawtoothing of the rete ridges (green arrows)
+• Civatte bodies: Anucleate, necrotic basal 
+keratinocytes
+• Hypergranulosis/Hyperkeratosis: Thickening of the 
+granular layer & stratum corneum (black arrow)
+• Pigment falling into dermis (yellow arrow)
+Lichen Planus: Histopathology
+
+=== PAGE 27 ===
+Seborrheic dermatitis: Overview
+https://www.gponline.com/seborrhoeic-dermatitis-clinical-
+review/dermatology/dermatology/article/1181296
+•
+Common ~5% of general population
+•
+Chronic, relapsing inflammatory skin disorder affecting sebaceous 
+gland-rich areas (ex. scalp & forehead)
+•
+Associated with epidermis inflammation (but not a disease of 
+sebaceous glands themselves)
+•
+Cause is unknown
+•
+↑ sebum production
+•
+Overgrowth of Malassezia yeast is associated
+•
+Clinically: Scaly, greasy, yellow plaques on scalp, face, chest 
+•
+Dandruff is a common clinical expression of scalp seborrheic 
+dermatitis
+•
+Histopathology: Acute, subacute or chronic spongiotic dermatitis
+•
+Spongiosis with overlying scale crust (parakeratosis containing 
+neutrophils & serum at hair follicles ostia)
+•
+Rx: Antifungals, low strength steroids, medicated shampoos 
+(selenium sulfide, zinc pyrithione)
+
+=== PAGE 28 ===
+1.
+Pemphigus Vulgaris 
+2.
+Bullous pemphigoid
+3.
+Dermatitis herpetiformis
+4.
+Epidermolysis bullosa
+Bullous (blistering) disorders
+
+=== PAGE 29 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th ed., 2020, Ch. 25, Fig. 25.27
+Stratum corneum forms 
+the roof of the bulla (ex. 
+friction blister, pemphigus 
+foliaceus)
+Type of blister helps determine the cause
+A portion of epidermis, 
+including the stratum 
+corneum, forms the roof 
+(ex. pemphigus vulgaris)
+Entire epidermis 
+separates from the 
+dermis (ex. bullous 
+pemphigoid)
+
+=== PAGE 30 ===
+•
+Inflammatory, blistering skin diseases caused by autoantibodies 
+(IgG)
+•
+Auto-abs disrupt intercellular keratinocyte attachments within 
+epidermis & mucosal epithelium
+•
+Patients in 30s-50s & males, females equally effected
+•
+Usually benign, but extreme variants can be fatal w/o Rx
+•
+Involved skin & mucosa (oral ulcers may present months before 
+skin lesions)
+•
+Lesions are superficial vesicles and blisters rupture easily 
+•
+(+ Nikolsky sign)
+•
+Treat with immunosuppressive agents → ↓ Abs
+Pemphigus vulgaris: Clinical findings
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Ch. 25
+https://www.nature.com/articles/s41415-024-7074-8
+https://ucfhealth.com/our-services/dermatology/pemphigus-vulgaris/
+
+=== PAGE 31 ===
+•
+Autoimmune: IgG autoantibodies against desmogleins 
+(subunit of desmosome)
+•
+Causes suprabasal blisters
+•
+Acantholysis: Dissolution of intercellular bridges immediately 
+above basal cell layer
+•
+Row of tombstones: Blister leaves behind single layer of 
+intact basal cells
+Pemphigus vulgaris: Histopathology
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.29
+
+=== PAGE 32 ===
+•
+Distinct net-like pattern of intercellular IgG deposits
+•
+IgG is usually seen at all levels of the epithelium 
+•
+Distribution of desmoglein 1 & 3 
+Pemphigus vulgaris: Histopathology - direct immunofluorescent 
+microscopy detects epidermal autoantibodies
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Figs 25.28 & 31
+
+=== PAGE 33 ===
+•
+Inflammatory, blistering skin diseases caused by 
+autoantibodies (IgG)
+•
+Usually older/elderly patients
+•
+Inner thigh, flexor surfaces, axillae, groin 
+affected
+•
+Oral lesions less likely than pemphigus vulgaris 
+(oral lesions usually appear after skin lesions)
+•
+Tense bullae that do not rupture easily 
+• (Negative Nikolsky sign)
+•
+Also treat w/ immunosuppressive agents
+Bullous pemphigoid: Clinical findings
+https://www.uofmhealthsparrow.org/departments-conditions/conditions/bullous-pemphigoid
+
+=== PAGE 34 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Figs 25.28 
+•
+IgG autoantibodies against BPAG2 - part of hemidesmosomes (attach 
+basal keratinocytes to the basement membrane)
+•
+Forms subepidermal blisters (lamina lucida),  nonacantholytic
+Bullous pemphigoid: Pathogenesis
+
+=== PAGE 35 ===
+•
+Sub-epidermal & non-acantholytic
+•
+Superficial dermal edema
+•
+Basal layer vacuolization, leading to fluid-filled blisters
+•
+Full thickness of epidermis serving as roof of blister
+•
+- Nikolsky sign
+•
+Direct immunofluorescent microscopy detects subepidermal 
+autoantibodies - linear, continuous IgG deposition along the dermo-
+epidermal junction (hemidesmosomes are here)
+Bullous pemphigoid: Histopathology
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 32 & 33
+
+=== PAGE 36 ===
+https://revivalresearch.org/blogs/dermatitis-herpetiformis-vs-eczema/
+•
+Rare skin disorder w/ urticaria and grouped vesicles
+•
+Affects mainly males in 30s-40s
+•
+Association with celiac disease (IgA antibodies to 
+gluten → cross react with reticulin)
+•
+Subepidermal blister
+•
+Very pruritic
+•
+Symmetrical lesions, affecting extensor surfaces 
+(knees/elbows), back and buttocks
+Dermatitis Herpetiformis: Clinical findings
+
+=== PAGE 37 ===
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Figs 25.28 
+
+=== PAGE 38 ===
+•
+Microabscesses: Fibrin and neutrophils accumulate at tips of 
+dermal papillae
+•
+Basal cell layer vacuolization and dermo-epidermal junction 
+separation → subepidermal blisters
+•
+Direct immunofluorescent microscopy detects a discontinuous, 
+granular IgA deposits at tips of dermal papillae (anti-tissue 
+transglutaminase (tTG) and anti-epidermal transglutaminase (eTG))
+Dermatitis herpetiformis: Histopathology
+Robbins and Cotran, Pathologic Basis of Disease, 10th edition, 2020, Fig. 25.34
+
+=== PAGE 39 ===
+•
+Genetic blistering disorder
+•
+Defective epidermal-dermal adhesion
+•
+Wide range of phenotypes produces multiple 
+subtypes
+•
+Determined by which epidermal or dermal protein 
+is affected: Keratin, laminin, collagen, etc.
+•
+Fragile skin that blisters from minor trauma
+•
+Mucosal involvement in severe forms
+•
+Common feature - blisters at sites of pressure, 
+rubbing, or trauma, at or soon after birth
+•
+Severe forms may cause contractures 
+•
+Patients lose use of their hands and feet
+•
+Wound care and infection prevention critical
+Epidermolysis bullosa: Overview
+https://www.jaad.org/article/S0190-9622%2824%2900655-8/fulltext
+
+=== PAGE 40 ===
+https://doctorlib.info/medical/fitzpatrick-atlas-dermatology/4.html
+•
+Virtually universal in the middle to late teenage years
+•
+Incidence: M=F, males typically more severe
+•
+Exacerbated by
+•
+Drugs – corticosteroids, testosterone, gonadotropins, contraceptives
+•
+Occlusion of sebaceous glands – heavy clothing, cosmetics, chin straps in football
+•
+Can be familial - possibly hereditary
+•
+Noninflammatory acne - both types can coexist
+•
+Open comedones (blackheads): Central black keratin plug - oxidation of melanin
+•
+Closed comedones (whiteheads): Keratin plug is trapped beneath the epidermal 
+surface
+•
+Inflammatory acne - both types can coexist
+•
+Erythematous papules, nodules, pustules
+•
+Severe variants can result in sinus tract formation and scarring
+•
+Histopathology shows variable infiltrates of lymphocytes and macrophages present in 
+and around follicles
+Acne vulgaris: Clinical findings
+
+=== PAGE 41 ===
+•
+  Likely multifactorial causes
+1.
+Keratinization of lower portion of follicular stalk and development of keratin plug - 
+that blocks outflow of sebum to the skin surface
+2.
+Hypertrophy of sebaceous glands - under the influence of androgens during puberty
+3.
+Lipase-synthesizing bacteria (Propionibacterium acnes) colonize hair follicle 
+converting lipids within sebum to proinflammatory fatty acids
+4.
+Secondary inflammation of involved follicle
+•
+Rxs: Antibiotics for elimination of bacteria & isotretinoin has strong anti-sebaceous action
+Acne vulgaris: Pathogenesis, 
+treatments
+
+=== PAGE 42 ===
+https://www.rosacea.org/patients/all-about-rosacea
+•
+Common in middle age and older (females more often)
+•
+4 Stages
+•
+Flushing episodes
+•
+Persistent erythema and telangiectasia
+•
+Pustules and papules
+•
+Rhinophyma (permanent thickening of nasal skin by 
+confluent erythematous papules)
+•
+Can have ocular involvement
+•
+Cause unknown: However there is a high cutaneous levels of 
+cathelicidin, an antimicrobial peptide involved in innate 
+immunity against bacteria, fungi, parasite and enveloped 
+viruses
+Rosacea: Overview
+
+=== PAGE 43 ===
+•
+Panniculitis: Inflammatory reaction in subcutaneous adipose 
+tissue
+•
+Mostly involves lower legs & shins
+•
+Raised, poorly defined erythematous, painful nodules and 
+plaques
+•
+Triggers
+•
+Infections – beta-hemolytic strep (GAS/GBS), TB
+•
+Drugs – sulfas and contraceptives
+•
+Sarcoidosis, IBD, Neoplasms
+•
+Can be accompanied by systemic signs and symptoms including 
+fever & malaise
+•
+Treat underlying condition, but usually resolves on its own or 
+anti-inflammatory medications may be used if painful
+Erythema nodosum: Clinical findings
+https://mdsearchlight.com/health/erythema-nodosum/
+
+=== PAGE 44 ===
+https://www.youtube.com/watch?v=3xReAXydj0o
+•
+Punch biopsy used for diagnosis:
+• Thickened septa between fat globules
+• Fibrosis in the septa
+• Infiltration by lymphocytes, histiocytes, occasional 
+eosinophils
+Erythema nodosum: Histopathology
+
+=== PAGE 45 ===
+Lecture and Lab Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
