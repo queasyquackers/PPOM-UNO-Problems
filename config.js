@@ -3,7 +3,7 @@
 const BLOCK_INFO = {
     name: "Block 3",
     subtitle: "Medical Sciences",
-    volumeRoman: "III",
+    volumeRoman: "I",
 };
 
 const SECTIONS = [

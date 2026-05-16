@@ -243,38 +243,38 @@ body.dark-mode .option-btn-incorrect {
   animation: shake 0.4s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 
-/* Editorial Explanations — drop the filled panel for a magazine sidebar feel */
+/* Explanations — secondary commentary nested under each option */
 .explanation {
   background: transparent !important;
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
   border: 0 !important;
-  border-left: 3px solid var(--accent-color) !important;
+  border-left: 2px solid var(--border-color) !important;
   border-radius: 0 !important;
   box-shadow: none !important;
-  padding: 0.5rem 0 0.5rem 1.25rem !important;
-  margin-top: 1rem !important;
+  padding: 0.5rem 0 0.5rem 1rem !important;
+  margin: 0.5rem 0 0 2.5rem !important;
   font-family: var(--font-editorial-body) !important;
-  font-size: 1.0625rem !important;
-  line-height: 1.7 !important;
-  color: var(--text-primary) !important;
+  font-size: 0.95rem !important;
+  line-height: 1.6 !important;
+  color: var(--text-secondary) !important;
 }
 
 .explanation::before {
   content: "Explanation";
   display: block;
   font-family: var(--font-body);
-  font-size: 0.65rem;
+  font-style: normal;
+  font-size: 0.6rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.2em;
   color: var(--text-secondary);
   margin-bottom: 0.4rem;
 }
 
 .explanation.explanation-correct {
   border-left-color: var(--correct-border) !important;
-  color: var(--text-primary) !important;
 }
 
 .explanation.explanation-correct::before {
@@ -284,7 +284,6 @@ body.dark-mode .option-btn-incorrect {
 
 .explanation.explanation-incorrect {
   border-left-color: var(--incorrect-border) !important;
-  color: var(--text-primary) !important;
 }
 
 .explanation.explanation-incorrect::before {
@@ -295,7 +294,7 @@ body.dark-mode .option-btn-incorrect {
 body.dark-mode .explanation,
 body.dark-mode .explanation-correct,
 body.dark-mode .explanation-incorrect {
-  color: var(--text-primary) !important;
+  color: var(--text-secondary) !important;
 }
 
 /* Visual Aid Box Styling */
@@ -835,6 +834,548 @@ body.dark-mode .flashcard-back {
   background-color: #1e293b !important;
   /* Slate-800 */
   border-color: #334155 !important;
+}
+
+/* =================================================================
+   PAGE LAYOUT — flat editorial (no glass-card chrome)
+   ================================================================= */
+
+body {
+  background-image: none !important;
+}
+
+body.dark-mode {
+  background-image: none !important;
+}
+
+.card:hover {
+  box-shadow: none;
+}
+
+nav.glass-panel,
+aside .glass-panel,
+main > .glass-panel,
+main > .card {
+  background: transparent !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.page-masthead {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: stretch;
+  padding: 1rem 0 1.25rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--text-primary);
+  position: relative;
+}
+
+.page-masthead::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 1px;
+  background: var(--text-primary);
+  opacity: 0.4;
+}
+
+@media (min-width: 1024px) {
+  .page-masthead {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+}
+
+.page-masthead-left {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.page-masthead-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.page-masthead-divider {
+  width: 1px;
+  height: 2.5rem;
+  background: var(--border-color);
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .page-masthead-divider {
+    display: block;
+  }
+}
+
+.masthead-icon-btn {
+  padding: 0.4rem;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 0;
+  cursor: pointer;
+  transition: color 0.15s ease, background-color 0.15s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.masthead-icon-btn:hover {
+  color: var(--accent-color);
+  background-color: rgba(217, 119, 87, 0.07);
+}
+
+.page-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+}
+
+@media (min-width: 1024px) {
+  .page-grid {
+    grid-template-columns: 240px 1fr;
+    gap: 4rem;
+  }
+}
+
+.page-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+@media (min-width: 1024px) {
+  .page-sidebar {
+    border-right: 1px solid var(--border-color);
+    padding-right: 2rem;
+  }
+}
+
+.page-main {
+  min-width: 0;
+}
+
+.page-main-header {
+  padding: 0 0 1.5rem;
+  background: transparent;
+  backdrop-filter: none;
+  border-bottom: 1px solid var(--border-color);
+}
+
+#main-content-area {
+  padding: 2rem 0 0 !important;
+}
+
+.tab-btn {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.75rem;
+}
+
+.flag-link {
+  background: transparent;
+  border: 0;
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+.flag-link:hover {
+  color: var(--accent-color);
+  text-decoration-color: var(--accent-color);
+}
+
+#flag-question-btn.text-yellow-500 {
+  color: #ca8a04 !important;
+  background: transparent !important;
+  border: 0 !important;
+  text-decoration-color: #ca8a04 !important;
+}
+
+body.dark-mode #flag-question-btn.text-yellow-500 {
+  color: #facc15 !important;
+  text-decoration-color: #facc15 !important;
+}
+
+.option-btn {
+  border-radius: 4px !important;
+  border-width: 1px !important;
+  background-color: var(--bg-card) !important;
+  box-shadow: var(--shadow-sm) !important;
+  transition: border-color 0.15s ease, background-color 0.15s ease !important;
+}
+
+.option-btn:hover {
+  border-color: var(--accent-color) !important;
+  background-color: var(--bg-hover) !important;
+  transform: none !important;
+  box-shadow: var(--shadow-sm) !important;
+}
+
+.option-btn:active {
+  transform: none !important;
+}
+
+.option-btn-selected {
+  border-color: var(--accent-color) !important;
+  background-color: var(--bg-selected) !important;
+  box-shadow: 0 0 0 1px var(--accent-color), var(--shadow-sm) !important;
+}
+
+/* Answered states — clear color affordance after grading */
+.option-btn-correct {
+  background-color: rgba(106, 138, 26, 0.18) !important;
+  border-color: var(--correct-border) !important;
+  border-width: 2px !important;
+  box-shadow: 0 0 0 1px var(--correct-border), var(--shadow-sm) !important;
+  color: var(--text-primary) !important;
+}
+
+.option-btn-incorrect {
+  background-color: rgba(192, 57, 43, 0.15) !important;
+  border-color: var(--incorrect-border) !important;
+  border-width: 2px !important;
+  box-shadow: 0 0 0 1px var(--incorrect-border), var(--shadow-sm) !important;
+  color: var(--text-primary) !important;
+}
+
+body.dark-mode .option-btn-correct {
+  background-color: rgba(155, 176, 74, 0.18) !important;
+  border-color: var(--correct-border) !important;
+  color: var(--text-primary) !important;
+  animation: pop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+body.dark-mode .option-btn-incorrect {
+  background-color: rgba(217, 106, 92, 0.18) !important;
+  border-color: var(--incorrect-border) !important;
+  color: var(--text-primary) !important;
+  animation: shake 0.4s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+.editorial-modal-content {
+  background: var(--bg-card);
+  padding: 2.5rem 2.5rem 2rem;
+  width: 100%;
+  max-width: 32rem;
+  border: 1px solid var(--border-color);
+}
+
+.shortcut-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.shortcut-row {
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.55rem 0;
+  border-bottom: 1px dotted var(--border-color);
+}
+
+.shortcut-row:last-child {
+  border-bottom: 0;
+}
+
+.shortcut-keys {
+  display: inline-flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.shortcut-desc {
+  font-family: var(--font-editorial-body);
+  font-size: 0.95rem;
+  color: var(--text-primary);
+}
+
+.toc-search-wrap {
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+}
+
+#toc-search {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.55rem 0;
+  font-family: var(--font-editorial-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--text-primary);
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+#toc-search:focus {
+  border-bottom-color: var(--accent-color);
+}
+
+#toc-search::placeholder {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.toc-lecture.is-hidden,
+.toc-week.is-hidden {
+  display: none;
+}
+
+/* =================================================================
+   PDF SOURCE LINK — quiet editorial citation
+   ================================================================= */
+.pdf-link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.pdf-link {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-left: 3px solid var(--accent-color);
+  border-radius: 2px;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.pdf-link:hover {
+  border-color: var(--accent-color);
+  background-color: rgba(217, 119, 87, 0.06);
+  color: var(--accent-color);
+}
+
+.pdf-link-missing {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  border: 1px dashed var(--border-color);
+  border-radius: 2px;
+  font-family: var(--font-editorial-display);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* =================================================================
+   CLINICAL PEARL — editorial sidebar (no italic)
+   ================================================================= */
+.clinical-pearl {
+  margin: 2.25rem 0 1.5rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-left: 3px solid var(--accent-color);
+}
+
+.clinical-pearl-eyebrow {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--accent-color);
+  margin-bottom: 0.6rem;
+}
+
+.clinical-pearl-body {
+  font-family: var(--font-editorial-body);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.clinical-pearl-body strong {
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* =================================================================
+   QUESTION STEM — page lead, surface card with accent rule
+   ================================================================= */
+#question-container > p {
+  background-color: var(--bg-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-left: 4px solid var(--accent-color) !important;
+  border-radius: 2px !important;
+  box-shadow: var(--shadow-sm) !important;
+  padding: 1.5rem 1.75rem !important;
+  margin-bottom: 2rem !important;
+  font-family: var(--font-editorial-body) !important;
+  font-size: 1.25rem !important;
+  font-weight: 400 !important;
+  line-height: 1.55 !important;
+  color: var(--text-primary) !important;
+}
+
+body.dark-mode #question-container > p {
+  background-color: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+}
+
+/* =================================================================
+   VISUAL AID — editorial frame, not a card
+   ================================================================= */
+.visual-aid-frame {
+  margin-top: 2.5rem;
+  padding: 1.5rem 0 0;
+  border-top: 1px solid var(--border-color);
+  background: transparent !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.visual-aid-frame .eyebrow {
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+#slide-display-container h3 {
+  display: none;
+}
+
+/* =================================================================
+   IMAGE CONTEXT BOX — drop fill, use editorial pullquote treatment
+   ================================================================= */
+.image-context-content {
+  background: transparent !important;
+  border: 0 !important;
+  border-left: 3px solid var(--accent-color) !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  padding: 0.5rem 0 0.5rem 1.5rem !important;
+  font-family: var(--font-editorial-body) !important;
+  font-size: 1rem !important;
+  line-height: 1.65 !important;
+  color: var(--text-primary) !important;
+}
+
+body.dark-mode .image-context-content {
+  background: transparent !important;
+}
+
+.image-context-header {
+  color: var(--text-secondary) !important;
+  font-family: var(--font-body) !important;
+  font-size: 0.65rem !important;
+  letter-spacing: 0.2em !important;
+  justify-content: flex-start !important;
+  margin-bottom: 0.6rem !important;
+}
+
+/* =================================================================
+   QUESTION NAVIGATOR — solid-fill blocks, editorial palette
+   ================================================================= */
+
+.q-grid-btn {
+  width: 100% !important;
+  aspect-ratio: 1 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-family: var(--font-body) !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  font-variant-numeric: tabular-nums !important;
+  color: var(--text-secondary) !important;
+  background-color: var(--bg-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 4px !important;
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.12s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.q-grid-btn:hover {
+  border-color: var(--accent-color) !important;
+  color: var(--text-primary) !important;
+  transform: scale(1.05) !important;
+  z-index: 1;
+}
+
+/* Current — accent fill, bold, slight scale */
+.q-grid-btn-current,
+.q-grid-btn.q-grid-btn-current {
+  border-color: var(--accent-color) !important;
+  background-color: var(--accent-color) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  transform: scale(1.08) !important;
+  box-shadow: 0 2px 6px rgba(217, 119, 87, 0.3) !important;
+  z-index: 2;
+}
+
+/* Correct — solid muted green */
+.q-grid-btn-correct {
+  background-color: var(--correct-border) !important;
+  border-color: var(--correct-border) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+
+/* Incorrect — solid muted red */
+.q-grid-btn-incorrect {
+  background-color: var(--incorrect-border) !important;
+  border-color: var(--incorrect-border) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+
+/* Flagged — solid mustard yellow */
+.q-grid-btn-flagged,
+.q-grid-btn.q-grid-btn-flagged {
+  background-color: #d4a017 !important;
+  border-color: #d4a017 !important;
+  color: #fff !important;
+  font-weight: 700 !important;
 }
 
 /* PEARLBOOK STYLES */
