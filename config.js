@@ -1,4 +1,34 @@
 
+// Block + section metadata.
+const BLOCK_INFO = {
+    name: "Block 3",
+    subtitle: "Medical Sciences",
+    volumeRoman: "III",
+};
+
+const SECTIONS = [
+    { id: "neuro",  romanNumeral: "I",   name: "Neurology",                       dek: "The brain and the body.",        weeks: [1, 2, 3, 4] },
+    { id: "psych",  romanNumeral: "II",  name: "Psychiatry",                      dek: "Mind and behavior.",             weeks: [6, 7, 8, 9] },
+    { id: "msk",    romanNumeral: "III", name: "Musculoskeletal & Rheumatology",  dek: "Bone, joint, immune.",           weeks: [12, 13, 14, 15] },
+    { id: "hemonc", romanNumeral: "IV",  name: "Hematology-Oncology",             dek: "Blood, marrow, malignancy.",     weeks: [17, 18, 19, 20] },
+];
+
+// Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
+function getTestSection(testName) {
+    const weekMatch = testName.match(/^(\d+)-/);
+    if (!weekMatch) return null;
+    const week = parseInt(weekMatch[1], 10);
+    return SECTIONS.find(s => s.weeks.includes(week)) || null;
+}
+
+if (typeof window !== "undefined") {
+    window.BLOCK_INFO = BLOCK_INFO;
+    window.SECTIONS = SECTIONS;
+    window.getTestSection = getTestSection;
+}
+// NOTE: `testsToLoad` itself is attached after the array literal below,
+// since the const is hoisted but not initialized until the assignment runs.
+
 const testsToLoad = [
 
     // --- Week 1 (L1-13) ---
@@ -214,3 +244,6 @@ const testsToLoad = [
 
 ];
 
+if (typeof window !== "undefined") {
+    window.testsToLoad = testsToLoad;
+}
