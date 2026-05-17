@@ -1,0 +1,1034 @@
+===== PAGE 1 =====
+Pharmacology of 
+Drugs Used in Coagulation Disorders, Part 1
+Anticoagulants
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Pharmacology Division
+Rockefeller Building, Room 204
+lgolds01@nyit.edu
+
+
+===== PAGE 2 =====
+1. List the pharmacokinetic properties of each class of drugs affecting blood 
+coagulation and give specific examples.
+2. Explain the structure-activity relationship of each of the classes and give 
+specific examples.
+3. Relate the mechanisms of action of each class of drugs to their effects on 
+blood coagulation and give specific examples.
+4. Explain the clinical use of each class of drugs and give specific examples.
+5. Correlate the mechanisms of toxicities, drug-disease interactions and drug-
+drug interactions with the contraindications for use giving specific examples.
+Following this session, students should be able to:
+
+===== PAGE 3 =====
+Required
+• ScholarRx Bricks  Practice Questions  See next slide.
+Highly relevant optional materials:
+• Dr. Goldstein’s Word handout  Video Lecture Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+3
+
+===== PAGE 4 =====
+Scholar Rx Bricks:
+Name of Discipline/ Organ System: Hematology > Hemostasis Disorders > Thrombotic Disorders
+Title of Brick: Anticoagulant drugs
+Link: https://exchange.scholarrx.com/brick/anticoagulant-drugs
+Access Medicine Katzung & Vanderah’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 34: Agents Used in Disorders of 
+Coagulation
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281752540 
+LWW Health Libraries, Premium Basic Sciences: Lippincott’s Illustrated Reviews, Pharmacology, 8e, 2023; Chapter 13: 
+Anticoagulants and Antiplatelet Agents
+https://premiumbasicsciences-lwwhealthlibrary-com.nyit.idm.oclc.org/content.aspx?sectionid=253326640&bookid=3222 
+Access Medicine Katzung’s Pharmacology Examination and Board Review, 14e, 2024; Chapter 34: Agents Used in 
+Disorders of Coagulation
+https://nyit.idm.oclc.org/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=3461&sectionid=285595695 
+Links to resources
+4
+
+===== PAGE 5 =====
+Understanding platelet activation, the coagulation cascade, including amplification 
+of thrombin, and the fibrinolytic process, is essential for understanding the 
+pharmacology.
+• Anticoagulants, fibrinolytics, and antiplatelet drugs act at specific points in the clotting 
+cascade. 
+• The actions determine their therapeutic effects and adverse effects. 
+• The Notes Handout for this lecture includes detailed explanation of the cascades of 
+reactions, defines the methods for monitoring activity, and the reversal agents. I also 
+recommend watching a video on YouTube or other site. 
+Key concepts
+5
+
+===== PAGE 6 =====
+Terms
+6
+aPTT Activated partial thromboplastin time is 
+for monitoring UFH and direct thrombin 
+inhibitor therapy.
+Anti-factor 
+Xa assay
+Chromogenic assay for monitoring the 
+activity of factor Xa inhibitors
+ACT Activated clotting time, a rapid point-of-
+care test to monitor the activity of high-
+dose heparin and direct thrombin 
+inhibitors
+PT/INR Prothrombin time is the most commonly 
+used test for measuring warfarin therapy. 
+International normalized ratio is a 
+calculation for standardizing prothrombin 
+time.
+AT Antithrombin
+UFH Unfractionated heparin
+LMWH Low molecular weigh heparin
+HIT Heparin-induced thrombocytopenia
+DOAC Direct oral anticoagulant
+DTI Direct thrombin inhibitor
+DVT Deep vein thrombosis
+PE Pulmonary embolism
+VTE Venous thromboembolism
+STEMI ST-elevation myocardial infarction
+PCI Percutaneous coronary intervention
+tPA Tissue plasminogen activator
+PCC Prothrombin complex concentrate
+(a human plasma product)
+
+===== PAGE 7 =====
+Antithrombotic drugs are used to prevent or treat blood clots. They are broadly 
+categorized into three main types: anticoagulants, antiplatelet drugs, 
+and thrombolytics. 
+7
+Anticoagulants Fibrinolytics Antiplatelet Drugs
+Warfarin
+Heparin, unfractionated (UFH)
+LMWHs 
+Enoxaparin
+Dalteparin
+Fondiparinux
+Direct Thrombin Inhibitors
+Bivalirudin
+DOACs
+Factor Xa Inhibitors: 
+Rivaroxaban (Xarelto), 
+Apixaban (Eliquis), 
+Edoxaban (Savaysa)
+Direct thrombin inhibitor
+Dabigatran (Pradaxa)
+Thrombolytics
+Alteplase
+Reteplase
+Tenecteplase (TNKase)
+Streptokinase
+Urokinase
+Antiplatelet Drugs
+Aspirin
+Clopidogrel
+Prasugrel
+Ticagrelor
+Dipyridamole
+Cilostazol
+
+===== PAGE 8 =====
+• Heparin is an injectable, rapid-acting drug with an indirect anticoagulant action by 
+accelerating the action of antithrombin (AT) by ~1000-fold. 
+o Heparin has no intrinsic anticoagulation activity. 
+o AT is a small glycoprotein that inhibits serine proteases of the contact activation 
+pathway.
+• Unfractionated heparin (UFH) is a natural product extracted from porcine intestinal 
+mucosa. UFH is mixture of straight-chain, anionic glycosaminoglycans with a wide 
+range of molecular weights.
+• UFH reversibly binds with high affinity to a specific pentasaccharide sequence on AT, 
+causing a conformational change that opens AT’s catalytic site. Thrombin must also 
+bind heparin at a site near the pentasaccharide site. AT inactivates thrombin, factor Xa, 
+and other coagulation factors. 
+Anticoagulants inhibit either the action of coagulation factors or prevent 
+their synthesis.
+8
+
+===== PAGE 9 =====
+• Heparin prevents the progression of existing clots by preventing further clot formation. 
+It has many clinical applications. UFH is administered as an IV loading dose followed 
+by continuous infusion or subQ administration (prophylaxis use only). It binds many 
+plasma proteins, neutralizing its activity and causing unpredictable pharmacokinetics. It 
+is eliminated by the reticuloendothelial system (nonrenal elimination). UFH has a half-
+life of 1-2 hours after discontinuation. UFH therapy is monitored by aPTT, anti-factor Xa 
+assay, and ACT.
+• UFH may cause heparin induced thrombocytopenia – HIT. HIT type I is a mild reduction 
+in platelets during the first two days of exposure, which spontaneously returns to 
+normal and is not associated with thrombosis.
+• HIT type II is an immune-mediated potentially life-threatening complication of heparin 
+therapy when IgG attached to the heparin-PF4 complex binds the Fc receptor on the 
+platelet surface, leading to platelet activation and a severe hypercoabulable state. 
+Heparin must be discontinued and anticoagulation with a non-heparin anticoagulant 
+initiated. HIT type II occurs usually 5 to 14 days after initiation of therapy. 
+Anticoagulants: UFH
+9
+
+===== PAGE 10 =====
+• Low-molecular-weight forms of heparin (LMWHs), enoxaparin, dalteparin, and tinzaparin, 
+complex with antithrombin at the pentasaccharide site, accelerating AT’s inactivation of 
+factor Xa. They have low antithrombin activity. Because of their shorter molecular 
+sequence, they have low affinity for thrombin. 
+• LMWHs have several therapeutic uses including treatment and prevention of deep vein 
+thrombosis (DVT), acute coronary syndromes, anticoagulation bridging, and adjunct to PCI. 
+UFH and LMWHs are preferred anticoagulant therapy for pregnant patients.
+• LMWHs are administered subcutaneously, have reliable absorption, renal excretion (dose 
+adjustment for renal insufficiency), and biological half-life of ~4-6 hours. Onset of action is 
+20-30 min with full effect in about 4 hours. Monitoring is usually not required because of 
+their predictable pharmacokinetics. If clinically appropriate, anti-factor Xa assay is used.
+• There is a lower risk of HIT with LMWH use. Patients with HIT may have cross-sensitivity. 
+LMWHs should not be used in patients with HIT.
+• Bleeding is the chief adverse effect of the heparins – indeed, all anticoagulants and 
+antiplatelet agents. Patients on anticoagulation or antiplatelet therapy are at increased risk 
+of complications of neuraxial anesthesia techniques, esp. spinal epidural hematoma.
+• Protamine sulfate is a specific antidote for reversal of heparin. It directly binds UFH, 
+neutralizing it activity. LMWHs are less easily inactivated by protamine.
+Anticoagulants LMWH
+10
+
+===== PAGE 11 =====
+• Fondaparinux is a synthetic pentasaccharide that reversibly binds the pentasaccharide 
+site on AT, leading to selective inactivation of factor Xa. 
+• Fondaparinux therapeutic uses include treatment and prophylaxis of DVT, PE, and  
+prophylaxis in patients with HIT. 
+• It is administered subcutaneously, has reliable absorption, renal excretion (dose 
+adjustment for renal insufficiency), and half-life of ~17 hours (1x daily administration). 
+• Monitoring is not required due to its predictable pharmacokinetics. If clinically 
+appropriate, monitoring is by anti-factor Xa assay.
+• Fondaparinux is not inactivated by protamine.
+Anticoagulants: Fondaparinux
+11
+
+===== PAGE 12 =====
+• The DOAC factor Xa inhibitors, rivaroxaban, apixaban, and edoxaban, bind selectively 
+and reversibly to factor Xa, reducing production of thrombin from prothrombin.
+• They are used for the treatment and prophylaxis of DVT and PE, post-surgical 
+thromboprophylaxis, and non-valvular atrial fibrillation for prevention of stroke and 
+systemic embolism. They should not be used for anticoagulation in patients with 
+mechanical heart valves due to lack of evidence of safety and efficacy.
+• Rivaroxaban and apixaban are metabolized by CYPs including CYP3A4. Strong CYP 
+inhibitors and inducers should be avoided. Edoxaban is excreted mainly unchanged 
+in the urine. All are substrates of P-glycoprotein. Strong P-glycoprotein inhibitors 
+and inducers should be avoided.
+• Monitoring is generally not required. If clinically appropriate, anti-factor Xa assay is 
+used.
+• Bleeding is the most serious adverse effect. There is no specific antidote. PCC is used 
+for reversal in patients with severe bleeding.
+Direct-acting Oral Anticoagulants (DOACs): Factor Xa inhibitors
+12
+
+===== PAGE 13 =====
+• Dabigatran is an oral DTI included in the DOACs group. It inhibits both free and clot-
+bound thrombin by binding specifically and reversibly to the catalytic site of thrombin.
+• Like the other DOACs, it is used for the treatment and prophylaxis of DVT and PE, 
+VTE, and non-valvular atrial fibrillation, and may be used in patients with HIT. It is 
+contraindicated in patients with mechanical heart valves and not recommended in 
+those with bioprosthetic heart valves. Dabigatran demonstrated inferior efficacy and 
+higher risk of thromboembolic events and bleeding compared to warfarin.
+• Dabigatran is available as he prodrug dabigatran etexilate, which is hydrolyzed by 
+plasma esterases to active dabigatran and excreted in urine. It is a P-glycoprotein 
+substrate and P-glycoprotein strong inducers and inhibitors should be avoided. 
+Therapeutic monitoring is not required.
+• Idarucizumab is a dabigatran-specific reversal agent that neutralizes its anticoagulant 
+action.
+Direct-acting Oral Anticoagulants (DOACs): Direct thrombin inhibitor
+13
+
+===== PAGE 14 =====
+• Argatroban is a synthetic intravenous anticoagulant derived from L-arginine that 
+reversibly binds thrombin’s catalytic site. Its effects are immediate. It is used for the 
+prophylaxis and treatment of thromboembolism in patients with HIT, and during PCI in 
+patients who have or are at risk for developing HIT. Argatroban is metabolized in the 
+liver and has a half-life of <1 hour.
+• Bivalirudin is an analog of hirudin, a naturally occurring peptide in leech salivary glands. 
+Bivalirudin has a bifunctional action; it specifically and reversibly binds to thrombin’s 
+catalytic site and exosite 1. It is used for anticoagulation in patients with HIT, 
+undergoing PCI, and cardiac surgery as an alternative to heparin. Bivalirudin is 
+metabolized by proteolysis and has a half-life of about 25 minutes (normal renal 
+function). 
+• Anticoagulation monitoring is done using aPTT or ACT.
+• PCC is used for reversal of severe bleeding.
+Parenteral Direct Thrombin Inhibitors
+14
+
+===== PAGE 15 =====
+• Factors II (prothrombin), VII, IX, and X, which are synthesized by the liver, require 
+vitamin K as a cofactor in the glutamation of a number of their residues by gamma-
+carboxyglutamase. The gamma-carboxyglutamyl residues bind calcium ions, which are 
+essential for interaction between the coagulation factors and platelet membranes. 
+• In the carboxylation reactions, the reduced vitamin K cofactor is converted to vitamin K 
+epoxide during the reaction. Vitamin K is regenerated from the epoxide by vitamin K 
+epoxide reductase (VKOR1C), the enzyme that is inhibited by warfarin, which reduces 
+the activity of these clotting factors by up to 40%. Anticoagulant effects are delayed for 
+72 to 96 hours – the time required to deplete the pool of circulation clotting factors.
+• Therefore, bridging therapy with a rapid acting anticoagulant (UFH, LMWH, or DOAC) 
+may be required.
+Anticoagulants: Vitamin K Antagonists
+Warfarin is the only coumarin anticoagulant available in the US.
+15
+
+===== PAGE 16 =====
+• Warfarin has many therapeutic uses, such as prevention of thromboembolism in 
+patients with atrial fibrillation with or without prosthetic heart valves, treatment and 
+prophylaxis of DVT and PE, and others.
+• Warfarin is available as a racemic mixture taken orally with rapid complete absorption. 
+It is highly bound to plasma proteins. Warfarin crosses the placenta. The active S-
+isomer is metabolized mainly by CYP2C9 to inactive metabolites, which are excreted in 
+urine and feces. Numerous drug-food and drug-drug interactions may increase or 
+decrease warfarin’s effect.
+• Bleeding is the major adverse effect. Vitamin K administration orally or IV is used to 
+reverse bleeding. Replacement of coagulation factors with PCC or fresh frozen plasma 
+may be need for severe bleeding.
+• Rare complications are skin lesions and necrosis and cholesterol emboli causing purple 
+(blue) toe syndrome.
+• Warfarin is teratogenic and contraindicated in pregnancy.
+Warfarin
+16
+
+===== PAGE 17 =====
+Brief Overview of Blood Coagulation
+17
+Recommendation: Watch a teaching video explaining the steps and 
+amplification of the clotting cascade. Here is a suggestion:
+Khan Academy video created by Patrick van Nieuwenhuizen
+https://www.khanacademy.org/test-prep/mcat/organ-systems/hematologic-
+system/v/coagulation-cascade 
+
+===== PAGE 18 =====
+Hemostasis: 
+Cessation of blood loss from a damaged vessel
+18
+Williams Hematology 9e Figure 112-2F
+Activated platelets with filopodia (pseudopodia)
+1. Platelet adhesion
+2. Platelet activation
+3. Platelet aggregation
+4. Activation of plasma coagulation factors
+5. Generation of fibrin clot, which reinforces platelet aggregate
+6. Wound healing follows: Degradation of platelet aggregate and fibrin 
+clot
+
+===== PAGE 19 =====
+Citation: Chapter 34 Drugs Used in Disorders of Coagulation, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021. 
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250599717 Accessed: April 20, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+Thrombus formation at the site of the damaged vascular wall (EC, endothelial cell) and the role of platelets and clotting factors. Platelet membrane receptors include the glycoprotein (GP) Ia 
+receptor, binding to collagen (C); GP Ib receptor, binding von Willebrand factor (vWF); and GP IIb/IIIa, which binds fibrinogen and other macromolecules. Antiplatelet prostacyclin (PGI2) is released from the 
+endothelium. Aggregating substances released from the degranulating platelet include adenosine diphosphate (ADP), thromboxane A2 (TXA2), and serotonin (5-HT). Production of factor Xa by intrinsic and 
+extrinsic pathways is detailed in Figure 34–2.(Labels in circles are mine – L. Goldstein)
+Antiplatelet 
+agents
+Fibrinolytics
+Anticoagulants
+
+===== PAGE 20 =====
+Two sequences can precipitate coagulation: the extrinsic pathway – tissue factor 
+activation pathway –  and the intrinsic pathway – surface contact activation pathway:
+Tissue factor activation pathway The primary physiologic event initiating clotting
+1- Endothelial damage → expression of TF
+2- FVIIa + TF + Ca2+ complex (extrinsic ten-ase) activates fX and fIX → FXa and FIXa
+The extrinsic pathway converges with the common pathway.
+Surface contact activation pathway: 
+1,2- fXII contact with negative surface → FXIIa → FXIIa with HMWK cleaves XI → FXIa.
+3- FXIa activates factor IX → FIXa.
+❖ Thrombin amplification: A small initial amount of thrombin generated from interactions 
+between TF + FVIIa activates factor XI → FXIa → amplification of thrombin 
+generation.
+4- FIXa + FVIIIa + Ca2+ complex + phospholipids (negative charge) form intrinsic ten-ase.
+Ten-ase converts factor X → FXa. 
+5- FXa activates fVIII → FVIIIa and thrombin activate fVIII → FVIIIa
+• progressively increasing fVIII activation as FXa and thrombin are formed.
+The intrinsic pathway converges with the common pathway.
+Common Pathway
+• FXa + FVa (cofactor) + phospholipid → prothromibinase
+• Prothrombinase cleaves prothrombin (factor II) → thrombin (FIIa).
+• Thrombin converts fibrinogen (soluble plasma protein) → fibrin clot (insoluble)
+
+===== PAGE 21 =====
+NATURAL ANTICOAGULANT MECHANISMS
+Regulators of blood coagulation
+• Tissue factor pathway inhibitor (TFPI): A plasma protein that 
+binds to the TF-VIIa after activation of factor X to Xa.
+• Antithrombin (AT): A small plasma glycoprotein synthesized in the 
+liver and circulating in plasma that inactivates several enzymes of the 
+coagulation system, particularly thrombin and factor Xa (also factors 
+IXa, XIa, XIIa).
+Pharmacology relevance: Heparin sulfate drugs, like endogenous 
+glycosaminoglycans, amplify AT action ~1000-fold.
+• Thrombomodulin: A high affinity thrombin receptor on the 
+endothelial cell membrane that forms a complex with thrombin and 
+removes thrombin from circulation. 
+• Protein C: A vitamin K-dependent plasma zymogen requires 
+activation by thrombomodulin-bound thrombin. 
+Activated protein C is a protease that, with cofactor protein S, 
+inactivates the FVa and FVIIIa. It also inhibits plasminogen activator 
+inhibitor-1 (PAI-1) and PAI-2, thereby facilitating fibrinolysis.
+• Protein S: Vitamin K-dependent glycoprotein; Cofactor of protein C
+• Nitric oxide (NO) and prostacyclin (PGI2): Synthesized by 
+endothelial cells and released into the blood induce vasodilation and 
+inhibit platelet activation and subsequent aggregation.
+This section is illustrated in the figure.
+
+===== PAGE 22 =====
+Citation: Chapter 36 Blood Coagulation and Anticoagulant, Fibrinolytic, and Antiplatelet Drugs, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023, figure 36-4. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=266700467 Accessed: March 30, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+ Endothelial cells secrete 
+tissue plasminogen 
+activator (tPA) at sites of 
+injury. 
+ tPA binds to fibrin and 
+converts plasminogen to 
+plasmin, which digests 
+fibrin. 
+ Plasminogen activator 
+inhibitors-1 and -2 
+(PAI-1, PAI-2) inactivate 
+tPA
+ Antiplasmin (a2-AP) 
+inactivates plasmin.
+Fibrinolysis
+Slide adapted by LG
+
+===== PAGE 23 =====
+Anticoagulants
+Unfractionated heparin (UFH)
+Low molecular weight heparin (LMWH)
+Fondaparinux
+Direct-acting factor Xa Inhibitors
+Direct thrombin inhibitors (DTIs)
+
+===== PAGE 24 =====
+unfractionated
+Heparin 
+24
+Sulfated anionic linear polysaccharides (heterogeneous mixture)
+Molecular weight: 3,000-30,000 Da (mean ~15,000 Da)
+Heparin chains of appropriate length bind heparin’s target, antithrombin. 
+Heparin chains also bind to endothelial cell surfaces and various plasma proteins, 
+neutralizing heparin’s action.
+
+===== PAGE 25 =====
+Heparin (UFH) Pharmacokinetics: 
+25
+A I.V. infusion: onset within minutes
+subQ: erratic absorption (only for prophylaxis) onset 20-30 minutes
+D − Nonspecific binding endothelial cells and plasma 
+proteins
+− Polarity and large size prohibits crossing of cell 
+membranes
+− Does not cross blood-brain barrier
+− Does not cross the placenta
+− Does not enter breast milk 
+E Nonrenal elimination – Eliminated by the reticuloendothelial system (mainly liver and spleen)
+t1/
+2
+Mean 1.5 h (adults) after completion of infusion
+Half-life is affected by hepatic cirrhosis, obesity, malignancy, presence of pulmonary 
+embolism, and infections
+Monitoring UFH anticoagulation: aPTT, anti-factor Xa 
+assay, ACT
+Because of protein and tissue binding, free heparin 
+levels are variable after administration
+Monitor platelet counts due to 
+potential for heparin-induced 
+thrombocytopenia.
+
+===== PAGE 26 =====
+Citation: Chapter 36 Blood Coagulation and Anticoagulant, Fibrinolytic, and Antiplatelet Drugs, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023, Figure 36-5. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=266700467 Accessed: March 30, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Heparin reversibly binds AT at its pentasaccharide sequence
+
+causes a conformational change 
+that reveals AT’s reactive center loop
+⎯UFH must simultaneously bind AT and thrombin
+ to potentiate thrombin inhibition⎯
+
+accelerates AT’s protease inactivating action:
+thrombin (FIIa) and FXa (and others)
+~1000 times faster
+
+inactivation of the coagulation factors
+Heparin is a catalyst that enhances the inhibitory activity of 
+antithrombin against serine proteases.
+❖Note: Heparin agents have no intrinsic anticoagulant activity.
+LMWH and Fondaparinux 
+accelerate AT inactivation of fXa.
+
+===== PAGE 27 =====
+Heparin prevents progression of existing clots by inhibiting further clotting.
+Heparin Goal of Therapy
+To reduce blood coagulability to a level that is low enough to prevent thrombosis 
+but not so low as to promote spontaneous bleeding
+27
+UFH Therapeutic Uses (many) Adverse Effects
+Rapid onset of action
+• DVT and PE treatment and prevention
+• Acute MI or unstable angina, initial mgmt.
+• Cardiopulmonary bypass surgery
+• Renal dialysis
+• Pregnancy: UHF, LMWH, or 
+fondaparinux are the preferred agents
+• Bleeding – the major adverse effect of 
+anticoagulants and antiplatelet agents.
+• Neuraxial anesthesia techniques → spinal or 
+epidural hematomas → pressure on spinal cord 
+or cauda equina → paralysis
+• Heparin-induced thrombocytopenia (HIT)
+− Type I: Benign, 1-2 days of therapy, 
+spontaneous return to normal
+− Type II: Immune mediated; life-threatening
+• Osteoporosis (long-term use)
+Heparin resistance: Very high heparin dose is needed to achieve therapeutic aPTT or ACT
+• Congenital or acquired AT deficiency
+• Elevated levels of plasma proteins that bind heparin
+• Elevated acute phase proteins, factor VIII and fibrinogen
+
+===== PAGE 28 =====
+Citation: Chapter 6 Blood Disorders, Hammer GD, McPhee SJ. Pathophysiology of Disease: An Introduction to Clinical Medicine, 8e; 2019, Figure 6-13. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2468&sectionid=198220627 Accessed: April 03, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Pathogenesis of immune-mediated HIT. 
+IgG is the autoantibody against the heparin–PF4 
+complex.
+HIT occurs if IgG attached to the heparin-PF4 
+complex binds the Fc receptor on the platelet 
+surface, leading to platelet activation. 
+(Platelets can bind to each other and become activated via the IgG–
+Fc receptor interaction, the PF4–PF4 receptor interaction, or both.)
+Activated platelets release pro-thrombotic substances 
+and PF4. IgG activates more platelets, more PF4 is 
+released forming more complexes with heparin, 
+activating more platelets. 
+A severely hypercoagulable state results.
+Thrombocytopenia results from consumption of IgG-
+coated platelets by cells of the reticuloendothelial 
+system.
+Slide adapted by LG
+Discontinue heparin. 
+Start a non-heparin anticoagulant: direct thrombin in inhibitor, fondaparinux, or DOAC.
+
+===== PAGE 29 =====
+Protamine’s multiple 
+positively charged groups 
+bond ionically with 
+negatively charged groups 
+on heparin
+Neutralization 
+begins immediately
+Duration ~2 hours 
+The protamine-
+heparin complex is 
+cleared
+Heparin Antidote: Protamine sulfate
+29
+Figure: www.sciencedirect.com
+Protamine is a highly basic polypeptide derived from salmon sperm.
+Caution: Excess protamine has anticoagulant effect 
+
+===== PAGE 30 =====
+Low molecular 
+weight heparins (LMWH)
+Enoxaparin
+Dalteparin
+Tinzaparin
+30
+Synthetic 
+pentasaccharide
+Fondaparinux
+
+===== PAGE 31 =====
+Citation: Chapter 34 Drugs Used in Disorders of Coagulation, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021. 
+Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250599717 Accessed: April 20, 2021
+Copyright © 2021 McGraw-Hill Education. All rights reserved
+Differences between low-molecular-weight (LMW) heparins and high-molecular-weight heparin (unfractionated heparin). Fondaparinux is a small pentasaccharide fragment of heparin. Activated 
+antithrombin III (AT III) degrades thrombin, factor X, and several other factors. Binding of these drugs to AT III can increase the catalytic action of AT III 1000-fold. The combination of AT III with 
+unfractionated heparin increases degradation of both factor Xa and thrombin. Combination with fondaparinux or LMW heparin more selectively increases degradation of Xa.
+Comparing actions of UHF – LMWH - Fondaparinux
+UFH-AT complex degrades 
+both thrombin, FXa, and others.
+LMWH-AT complex is more selective for 
+FXa degradation.
+Fondapirnux-AT has anti-factor FXa only.
+
+===== PAGE 32 =====
+LMWH / Fondaparinux PK, Therapeutic uses, and Cautions
+32
+LMWHs
+SubQ; reliable absorption; renal excretion; 
+biological t½ 4-5 hours
+Fondaparinux
+SubQ; reliable absorption; renal excretion; 
+biological t½ ~17 hours
+Use:
+• DVT / PE treatment and prophylaxis
+• Acute coronary syndromes
+• Warfarin bridging
+• PCI adjunctive use
+• Cautions: as for unfractionated heparin
+Uses:
+• DVT / PE treatment and prophylaxis
+• HIT anticoagulation
+• Acute thrombosis unrelated to HIT in patients 
+with a history of HIT
+• Acute symptomatic superficial vein 
+thrombosis (≥5 cm in length) of the legs
+Routine anticoagulation monitoring usually not required. Anti-factor Xa-assay if clinically indicated.
+Adverse Effects
+• Immune-mediated HIT occurs less frequently 
+with LMWHs
+• Cross-sensitivity may occur
+• Avoid in patients with HIT
+• Adverse effects
+• Avoid fondaparinux alone in PCI due to 
+guided catheter thrombosis. The 
+fondaparinux molecule is too short to block 
+the thrombotic process.
+Common: Bleeding; Avoid in neuraxial anesthesia.
+
+===== PAGE 33 =====
+33
+FEATURES HEPARIN, UHF LMWH FONDAPARINUX
+Source Biological Biological Synthetic pentasaccharide
+Mean molecular weight 15,000 Da 5,000 Da 1,500 Da
+Target Xa and IIa Xa Xa
+Bioavailability (subQ) 30 % 90 % 100 %
+t½ 1 hour 4 hours 17 hours
+Renal excretion No Yes Yes
+Antidote effect
+(protamine)
+Complete Partial None
+Thrombocytopenia <5% <1% Does not cause 
+thrombocytopenia
+Da: daltons
+Adapted from Goodman & Gilman, 2023 Table 36-1
+Comparison of heparin, low molecular weight heparin, and fondaparinux
+
+===== PAGE 34 =====
+Direct oral anticoagulants – DOACs:
+Direct Factor Xa Inhibitors 
+Rivaroxaban
+Apixaban
+Edoxaban
+34
+
+===== PAGE 35 =====
+Pharmacokinetics of Direct Factor Xa Inhibitors
+Rivaroxaban Apixaban Edoxaban
+A Oral Oral Oral
+D Protein binding >90%
+P-glycoprotein substrate
+Protein binding ~90%
+P-glycoprotein substrate
+Protein binding ~50%
+P-glycoprotein substrate
+M Hepatic CYP3A4/5
+Bioavailability 66-100%
+dose-dependent
+CYP3A4/5 predominantly
+Bioavailability 50%
+Minimal metabolism
+Bioavailability ~60%
+E Renal, ~35% unchanged
+and fecal excretion
+Renal, ~30 % unchanged 
+and fecal excretion
+Urine unchanged
+t½ 5-9 hours 
+11-13 hours in elderly
+2x daily treatment,
+1x daily prophylaxis
+~8 hours (lower dose)
+ ~15 hours (higher dose)
+2x daily dose for most 
+indications
+10-14 hours
+once daily dosing
+Avoid use or adjust dose in patients with impaired renal function
+
+===== PAGE 36 =====
+Direct-acting Factor Xa Inhibitors
+36
+Mechanism of action Direct, selective and reversible inhibition of free and clot-bound factor Xa, 
+independent of AT.
+Therapeutic uses DVT and PE treatment and prophylaxis
+Post-operative (knee, hip) thromboprophylaxis
+Atrial fibrillation, nonvalvular, prevention of stroke and systemic embolus
+Routine anticoagulation monitoring usually not required. Anti-factor Xa if clinically indicated.
+Adverse effects Bleeding
+Neuraxial anesthesia hematoma risk
+Reversal
+Update: Andexanet-alfa 
+was recently withdrawn 
+from U.S. market.
+Risks of thromboembolic 
+events outweigh the 
+benefits.
+Recombinant inactivated FXa: Andexanet-alfa binds and sequesters 
+FXa inhibitors rivaroxaban and apixaban
+➢ Caution: Andexanet-alfa also inhibits tissue factor pathway inhibitor, 
+increasing tissue factor-initiated thrombin generation.
+Serious and life-threatening arterial and venous thrombotic, 
+ischemic, and cardiac events have been observed 3 to 30 days 
+after use.
+Drug interactions Other drugs that affect coagulation and platelet function
+CYP3A4 and P-glycoprotein inhibitors and inducers
+
+===== PAGE 37 =====
+Direct Thrombin Inhibitors (DTIs)
+DOAC Parenteral
+Dabigatran Hirudin derivatives Synthetic
+Hirudin Argatroban
+Lepirudin Bivalirudin
+Desirudin
+
+
+===== PAGE 38 =====
+DTIs act on free and clot-bound thrombin.
+DTIs bind catalytic site of thrombin → 
+• Prevent thrombin-mediated cleavage of 
+fibrinogen to fibrin monomers, 
+and 
+• Prevent activation of factors V, VIII, and XIII 
+and Protein C
+• Prevent platelet aggregation
+Dabigatran and Argatroban reversibly and 
+specifically bind thrombin’s catalytic site.
+Bivalirudin bind reversibly and specifically to the 
+catalytic site and exosite 1.
+
+===== PAGE 39 =====
+Dabigatran etexilate: Oral Direct Thrombin Inhibitor
+39
+PK Etexilate oral prodrug rapidly converted to active dabigatran
+Moderate protein binding; P-glycoprotein substrate
+Rapid complete hydrolysis of etexilate plasma and hepatic esterases → dabigatran hepatic 
+glucuronidation → active acylglucuronide isomers Bioavailability 3-7%
+Renal excretion of dabigatran acylglucouronides t½ ~16 hours 
+MOA Reversible selective inhibition of catalytic site of free and clot-bound thrombin
+Uses DVT and PE prevention and treatment
+Atrial fibrillation, nonvalvular for prevention of thrombotic complications
+Contraindicated in patients with mechanical heart valves; not recommended in patients 
+with bioprothetic valves – reduced efficacy, excess incidence of major bleeds
+Monitoring Routine monitoring not required. Test with aPTT if clinically indicated.
+Reversal Idarucizumab binds specifically to dabigatran and glucuronide metabolites.
+Cautions Bleeding
+Neuraxial anesthesia hematoma risk
+Other drugs affecting coagulation
+Pgp inducers: contraindicated
+Pgp inhibitors: monitor therapy
+Pregnancy (limited data)
+Patients 75 year – extreme caution
+Obesity (BMI40 kg/m2): Use alternative drug
+
+===== PAGE 40 =====
+Pharmacology of Argatroban and Bivalirudin
+40
+Argatroban
+synthetic, derived from L-arginine
+Bivalirudin
+synthetic, 20 amino acid peptide
+IV, immediate onset, moderate protein binding, 
+minor hepatic metabolism (CYP3A4/5), feces 
+unchanged and metabs., t½ 40-50 min
+IV, immediate onset, binds only thrombin, 
+proteolytic cleavage, urine (20%), t½ ~25 min
+Uses:
+Anticoagulation patients with HIT
+PCI
+Uses:
+Anticoagulation patients with HIT
+PCI
+Cardiac surgery alternative to heparin
+Anticoagulation monitoring: aPTT, ACT
+Bleeding, neuraxial anesthesia hematoma risk, acute stent thrombosis within 4 hours in patients 
+with STEMI undergoing PCI; hypersensitivity reactions reported with hirudin derivatives
+Desirudin: subQ for DVT prophylaxis following hip surgery Not available for clinical use
+
+===== PAGE 41 =====
+VKOR1C Vitamin K Antagonists
+Warfarin
+Acenocoumarol available in Canada
+Dicoumarol and indandione derivatives withdrawn from market
+41
+Vitamin K is a cofactor of gamma-glutamylcarboxylase in the 
+enzymatic conversion of nonfunctional prozymogens to functional 
+zymogens, the coagulation factors II, VII, IX, and X and 
+anticoagulant proteins C and S. 
+Vitamin K is oxidized in the process and must be converted to the 
+active reduced form by VKOR1C to continue the cycle of 
+coagulation factor synthesis.
+Coumarin acsv.svg
+coumarin
+required 
+for 
+activity
+Warfarin is a racemic mixture of S- and R-warfarin: S-warfarin is 
+3-5x more potent inhibitor of vitamin K epoxide reductase.
+R- and S-enantiomers also differ in metabolism, elimination, and 
+interactions with other drugs.
+
+===== PAGE 42 =====
+Warfarin Pharmacokinetics
+A Oral, rapid complete absorption; I.V.
+ Dose according to PT/INR results
+Onset of anticoagulation: 24-72 h
+Full therapeutic effect 5-7 days
+Duration of action 2-5 days
+D >99% bound to albumin  Crosses placenta  
+M Hepatic: S-warfarin: mainly CYP2C9 R-warfarin predominantly via CYP3A4
+Inactive metabolites
+E Urine, metabolites t½ 20-60 hours (highly variable)
+Monitoring: PT: prothrombin time and INR: international normalized ratio
+High potential for drug-drug and drug-food (Vit K containing foods) interactions
+Factor VII Factor IX Factor X Factor II Protein C Protein S
+t½ 6 h t½ 24 h t½ 36 h t½ 50 h t½ 8 h t½ 30 h
+Because of the long t1/2 of some of the coagulation factors, in particular factor II (thrombin), the full 
+anti-thrombotic effect of warfarin is not achieved for several days. PT may be prolonged soon 
+after administration due to the more rapid reduction of factors with a shorter t1/2.
+
+===== PAGE 43 =====
+Citation: Chapter 36 Blood Coagulation and Anticoagulant, Fibrinolytic, and Antiplatelet Drugs, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023, Figure 36-6. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=266700467 Accessed: March 30, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Warfarin: VKORC1 inhibitor
+Vit K-dependent factors:
+II, VII, IX, X, protein C and protein S
+Biochemistry: Biologically inactive prozymogens are converted 
+to active coagulation factors by gamma-carboxylation of N-
+terminal glutamate residues catalyzed by gamma-glutamyl 
+carboxylase with cofactor reduced vitamin K.
+Warfarin binds a VKORC1 subunit → inhibits 
+regeneration of reduced vitamin K from 
+vitamin K epoxide. 
+Thus, the gamma-carboxylation of 
+prozymogens to the functional zymogens, 
+factors II, VII, XI, X, protein C, and protein S, 
+is inhibited.
+VKORC1: 
+vitamin K epoxide reductase complex subtype 1
+
+===== PAGE 44 =====
+Pharmacogenomics: Variable responses
+44
+Variability in warfarin response: CYP2C9 and VKORC1 genetic variants
+CYP2C9 reduced function alleles → decreased rate of metabolism → increased risk 
+of bleeding in patients who carry at least one copy of a reduced function allele
+VKORC1 variations can significantly alter warfarin pharmacodynamics leading to 
+warfarin resistance or warfarin sensitivity1639A or 1173T allele → lower warfarin 
+dose
+ When determining the initial dose, other patient related factors must also be taken 
+into account; for example: body weight, concomitant medications, and comorbidities.
+
+===== PAGE 45 =====
+Warfarin Therapeutic Uses
+Many anticoagulation uses:
+• Thromboembolic disorders 
+such as, venous thromboembolism and 
+pulmonary embolism
+• Prosthetic heart valves
+• Atrial fibrillation
+• Adjunct to reduce risk of systemic 
+embolism after myocardial infarction 
+such as, recurrent MI, stroke
+• Acute venous thromboembolism
+Bridging with UFH, LMWH, DOAC
+Warfarin is not useful for rapid 
+anticoagulation in emergency situations. 
+• PT / INR measurement is most sensitive 
+to deficiencies in the vitamin K-dependent 
+clotting factors
+• Prothrombin time (PT): 
+− Measures time for fibrin clot formation
+− Evaluates extrinsic and common 
+coagulation pathways
+• International normalized ratio (INR):
+− a calculation for standardizing 
+prothrombin time
+− INR = [Patient PT/Normal mean PT]ISI
+− Range for patients on warfarin: 2.0 to 
+3.5 (depending on indication for use)
+45
+
+===== PAGE 46 =====
+Warfarin: Adverse Effects
+Effect Mechanism
+Bleeding Extension of warfarin’s mechanism of action
+• Risk of intracranial hemorrhage increases dramatically with an INR >4
+• especially in older patients
+Thrombosis and 
+skin necrosis
+Low level of protein C or protein S 
+• Starting warfarin therapy  in patients with acute thrombosis without 
+concomitant heparin or other immediately acting anticoagulant
+• Inherited deficiency of protein C or protein S
+Purple toe 
+syndrome
+Cholesterol microembolization
+• Warfarin therapy may release atheromatous plaque emboli
+46
+Warfarin resistance:
+Patients requiring >20 mg/day:
+• Excessive vitamin K intake 
+• VKORC1 variant alleles leading to warfarin 
+resistance
+Apparent “resistance”
+• Noncompliance / Laboratory error
+Warfarin Sensitivity
+Patients requiring <1.5 mg/day: 
+• Reduced function alleles
+• CYP2C9 or VKORC1 haplotypes
+• Lower maintenance dose required
+• Increase risk of bleeding
+
+===== PAGE 47 =====
+• INR > therapeutic range, no evidence of bleeding: hold drug; restart when INR 
+within range
+• INR ≥ 10, no evidence of bleeding: Vitamin K 2.5-5 mg orally; restart when INR 
+within range
+• Serious, life-threatening bleeding: IV Vitamin K 10 mg, AND
+4-PCC: Prothrombin complex concentrate
+• Factors II, VII, IX, X, Protein C, Protein S
+• Urgent reversal of acquired coagulation factor deficiency
+Management of Warfarin Overdose: Hold warfarin
+
+===== PAGE 48 =====
+Skin necrosis in a patient after 4 days 
+of warfarin therapy
+Purple toe syndrome
+(cholesterol emboli)
+Left: Access Medicine Fitzpatrick’s Dermatology, 8e; Figure 41-6
+Right: Access Medicine William’s Hematology, 8e; Figure 123-9a, 9b
+
+
+===== PAGE 49 =====
+Maternal ingestion during…
+First trimester causes:
+• Nasal hypoplasia
+• Stippling of vertebral and femoral 
+epiphyses
+Beyond the first trimester:
+• Hemorrhage into fetal structures  abnormal growth/deformation
+• CNS abnormalities
+• Spontaneous abortion and fetal death may also occur
+Access Medicine William’s Obstetrics, 24e, 2014; Chapter 12. Teratology, Teratogens, and Fetotoxic Agents Figure 12-5
+Warfarin is contraindicated in pregnancy
+49
+Fetal warfarin syndrome: nasal hypoplasia and depressed nasal bridge seen 
+in (A) a fetal sonographic image and (B) in the same newborn
+
+===== PAGE 50 =====
+• Active bleeding
+• Hemorrhagic tendency
+• Heparin induced thrombocytopenia
+• Severe uncontrolled or malignant 
+hypertension
+• Bacterial endocarditis
+These patients are at risk of 
+bleeding complications 
+• Dissecting aortic aneurysm
+• Pericarditis or pericardial effusion
+• Lumbar block anesthesia
+• Pregnancy
+• Hypersensitivity to warfarin or any 
+component of the formulation
+Warfarin CONTRAINDICATIONS for Use
+50
+Drug Interactions High potential! Warfarin is subject to more clinically significant drug 
+interactions than any other drug in use today
+• Anticoagulant effect may be:
+– Reduced, permitting thrombosis
+– Increased, causing hemorrhage
+• The most serious interactions are those that increase the anticoagulant effect
+
+===== PAGE 51 =====
+Summary
+
+===== PAGE 52 =====
+Summary of Anticoagulants
+Anticoagulants
+Indirect thrombin 
+inhibitors
+Heparin
+UHF
+LMWH
+Fondaparinux
+Direct thrombin inhibitors
+Argatroban
+Bivalirudin
+Desirudin
+Debigatran
+Vit K epoxide reductase 
+inhibitors Warfarin
+Direct Xa inhibitors
+Rivaroxaban
+Apixaban
+Edoxaban
+Betrixaban
+Treatment and prevention of 
+arterial and venous thrombosis
+
+===== PAGE 53 =====
+Summary of properties of the oral anticoagulants
+FEATURES WARFARIN RIVAROXABAN DABIGATRAN
+Bioavailability (%) 100% 80-100% 3-7% (etexilate)
+Metabolism CYP2C9, 1A2, 3A4, 2C19 CYP3A4/5, 2J2
+P-glycoprotein substrate
+Hepatic glucuronidation
+P-glycoprotein substrate
+t½  (h) 20-60h  (highly variable) 5-9h 12-17h
+Renal excretion Yes 
+(mainly metabolites)
+Yes, including unchanged
+Dose adjustment in renal 
+impairment
+Yes, largely unchanged
+Dose adjustment in renal 
+impairment
+Antidote effect Vitamin K Andexanet-alfa; Not dialyzable Idarucizumab; ~60% dialyzable
+Therapeutic uses • DVT and PE, prophylaxis and 
+acute treatment
+• Coronary ischemia/acute MI
+• Atrial fibrillation, patients with 
+chronic a-fib or prosthetic heart 
+valves
+• DVT/PE, prophylaxis/treatment
+• Non-valvular atrial fibrillation: 
+prophylaxis of stroke and 
+systemic embolism 
+• DVT / PE prophylaxis/treatment
+• Non-valvular atrial fibrillation: 
+prophylaxis of stroke and 
+systemic embolism
+Drug Interactions High potential Drugs that affect platelet function 
+or coagulation
+CYP3A4, P-glycoprotein related 
+interactions
+Drugs that affect platelet function 
+or coagulation
+P-glycoprotein inhibitors
+
+===== PAGE 54 =====
+• Access Medicine Goodman & Gilman The Pharmacological Basis of Therapeutics 14e, 2023; 
+Chapter 36: Blood Coagulation and Anticoagulant, Fibrinolytic, and Antiplatelet Drugs
+• Access Medicine William’s Obstetrics, 24e, 2014; Chapter 12. Teratology, Teratogens, and 
+Fetotoxic Agents Figure 12-5
+• Access Medicine Katzung’s Basic and Clinical Pharmacology 16e, 2024; Chapter 34: Drugs 
+Used in Disorders of Coagulation 
+• Lexidrug monographs
+References
+54
+
+===== PAGE 55 =====
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R 

@@ -12,6 +12,17 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 - **NO OUTSIDE KNOWLEDGE:** Do NOT use external medical knowledge to fill in gaps. If the lecture is vague, the question should be broad/conceptual, not specific.
 - **NO FUTURE CONCEPTS:** Do NOT introduce concepts/diseases taught in later courses. Stick strictly to the "Here and Now" of the lecture.
 
+**CRITICAL - Subject-Specific Focus (Mechanism-First Vignettes):**
+For lectures in **pharmacology, pathology, microbiology, biochemistry, or immunology**, the question stem should describe the **mechanism, adverse effect, histologic/morphologic finding, metabolic consequence, or downstream pathophysiology** WITHOUT naming the drug, disease, organism, enzyme, or disorder outright. Force the student to reason from **mechanism → identity**, not the reverse.
+- **Pharmacology (highest priority):** Strongly emphasize **adverse effects and their underlying pathophysiology/mechanism**. Vignettes should present a patient experiencing an adverse effect or describe a drug's MOA, and ask the student to identify the drug/class, the mechanism of the adverse effect, or the next best management step. Do NOT name the medication in the stem when the question is testing recognition of its effect or mechanism.
+    - *Weak:* "A patient on lisinopril develops a dry cough. What causes it?"
+    - *Strong:* "A 58-year-old man started a new antihypertensive 3 weeks ago and now has a persistent non-productive cough. Which mechanism best explains his symptom?" (Answer tests bradykinin accumulation, not the drug name.)
+- **Pathology:** Describe gross/histologic findings, lab patterns, or clinical course; ask for the **pathogenesis, complication, or downstream consequence** rather than the diagnosis itself.
+- **Microbiology:** Describe organism features, host response, or toxin effect; ask for the **virulence factor mechanism, toxin target, or treatment rationale** without naming the organism.
+- **Biochemistry:** Describe the downstream consequences of an enzyme block (substrate accumulation, energy failure, product deficiency); ask for the affected pathway step or clinical consequence without naming the deficiency.
+- **Immunology:** Describe the pattern of immune dysfunction; ask for the broken mechanism/cell type/molecule without naming the disorder.
+- **Exception:** If the lecture's "overall concept" IS the name/classification itself (e.g., a survey lecture explicitly teaching drug categories), naming is acceptable. Use judgment.
+
 **CRITICAL - STEP/COMLEX Style Vignettes:**
 You MUST write questions that mimic the length and detail of actual board exams.
 - **Vignette Structure (REQUIRED):**
