@@ -2182,6 +2182,29 @@ body.dark-mode .editorial-h2 {
   padding-left: 0.75rem;
 }
 
+.toc-lecture-score.is-in-progress {
+  color: var(--accent-color);
+  font-style: italic;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.toc-lecture-score.is-in-progress::before {
+  content: "";
+  display: inline-block;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 50%;
+  background-color: var(--accent-color);
+  animation: toc-in-progress-pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes toc-in-progress-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%      { opacity: 0.35; transform: scale(0.75); }
+}
+
 .toc-lecture:last-child {
   border-bottom: 0;
 }

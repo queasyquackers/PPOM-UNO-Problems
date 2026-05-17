@@ -143,13 +143,18 @@ document.addEventListener('DOMContentLoaded', () => {
             const state = JSON.parse(stored);
             const answers = state.userAnswers;
             if (!Array.isArray(answers) || answers.length === 0) return null;
+            const total = answers.length;
+            const submitted = answers.filter(a => a && a.isSubmitted).length;
+            const touched = answers.filter(a => a && (a.isSubmitted || a.selectedOptionIndex != null)).length;
             const allSubmitted = state.examFinished === true ||
                 answers.every(a => a && a.isSubmitted);
-            if (!allSubmitted) return null;
-            const total = answers.length;
+            if (!allSubmitted) {
+                if (touched === 0) return null;
+                return { text: `${submitted}/${total} in progress`, status: 'in_progress' };
+            }
             const correct = answers.filter(a => a && a.isCorrect).length;
             const pct = Math.round((correct / total) * 100);
-            return `${correct}/${total} (${pct}%)`;
+            return { text: `${correct}/${total} (${pct}%)`, status: 'done' };
         } catch {
             return null;
         }
@@ -287,7 +292,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const scoreLabel = _getTestScoreLabel(testObj.name);
                 const scoreHtml = scoreLabel
-                    ? `<span class="toc-lecture-score">${scoreLabel}</span>`
+                    ? `<span class="toc-lecture-score${scoreLabel.status === 'in_progress' ? ' is-in-progress' : ''}">${scoreLabel.text}</span>`
                     : '';
                 li.innerHTML = `
                     <span class="toc-lecture-id">${lectureId}</span>
@@ -387,7 +392,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         li.className = 'toc-lecture' + (isCum ? ' is-cumulative' : '');
                         const scoreLabel = _getTestScoreLabel(testObj.name);
                         const scoreHtml = scoreLabel
-                            ? `<span class="toc-lecture-score">${scoreLabel}</span>`
+                            ? `<span class="toc-lecture-score${scoreLabel.status === 'in_progress' ? ' is-in-progress' : ''}">${scoreLabel.text}</span>`
                             : '';
                         li.innerHTML = `<span class="toc-lecture-id">${lectureId}</span><button class="toc-lecture-btn">${displayName}</button>${scoreHtml}`;
                         li.querySelector('.toc-lecture-btn').onclick = () => {
