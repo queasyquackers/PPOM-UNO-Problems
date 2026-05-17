@@ -132,6 +132,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const _getCurrentSectionId = () => localStorage.getItem('practiceos_currentSection');
 
+    // Read saved progress and return a "X/Y (Z%)" label if the exam has been
+    // finished/graded, otherwise null. We only show a score once every question
+    // has been submitted (either via Finish & Grade or by answering each one),
+    // so a partially-worked test stays unmarked.
+    const _getTestScoreLabel = (testName) => {
+        try {
+            const stored = localStorage.getItem(`examProgress_${testName}`);
+            if (!stored) return null;
+            const state = JSON.parse(stored);
+            const answers = state.userAnswers;
+            if (!Array.isArray(answers) || answers.length === 0) return null;
+            const allSubmitted = state.examFinished === true ||
+                answers.every(a => a && a.isSubmitted);
+            if (!allSubmitted) return null;
+            const total = answers.length;
+            const correct = answers.filter(a => a && a.isCorrect).length;
+            const pct = Math.round((correct / total) * 100);
+            return `${correct}/${total} (${pct}%)`;
+        } catch {
+            return null;
+        }
+    };
+
     const renderTOCSections = () => {
         const sections = window.SECTIONS || [];
         const currentId = _getCurrentSectionId();
@@ -262,9 +285,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     (isCumulative ? ' is-cumulative' : '') +
                     (testObj.name === currentTestName ? ' is-active' : '');
 
+                const scoreLabel = _getTestScoreLabel(testObj.name);
+                const scoreHtml = scoreLabel
+                    ? `<span class="toc-lecture-score">${scoreLabel}</span>`
+                    : '';
                 li.innerHTML = `
                     <span class="toc-lecture-id">${lectureId}</span>
                     <button class="toc-lecture-btn" data-name="${testObj.name.replace(/"/g, '&quot;')}">${cleanLabel}</button>
+                    ${scoreHtml}
                 `;
 
                 li.querySelector('.toc-lecture-btn').onclick = () => {
@@ -357,7 +385,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         const displayName = testObj.name.replace(/^(\d+)-/, '').replace(/\s*\([^)]+\)\s*$/, '').trim();
                         const li = document.createElement('li');
                         li.className = 'toc-lecture' + (isCum ? ' is-cumulative' : '');
-                        li.innerHTML = `<span class="toc-lecture-id">${lectureId}</span><button class="toc-lecture-btn">${displayName}</button>`;
+                        const scoreLabel = _getTestScoreLabel(testObj.name);
+                        const scoreHtml = scoreLabel
+                            ? `<span class="toc-lecture-score">${scoreLabel}</span>`
+                            : '';
+                        li.innerHTML = `<span class="toc-lecture-id">${lectureId}</span><button class="toc-lecture-btn">${displayName}</button>${scoreHtml}`;
                         li.querySelector('.toc-lecture-btn').onclick = () => {
                             if (window.app?.loadTestByName) window.app.loadTestByName(testObj.name);
                             closeTOC();
