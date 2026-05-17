@@ -939,6 +939,326 @@ const Test_L154 = [
     "clinicalPearl": "A monoclonal M-spike on SPEP is a classic diagnostic finding in Multiple Myeloma.",
     "pdfPage": 4,
     "pdfQuote": "monoclonal protein, M spike, seen best on serum electrophoresis (SPEP)"
+  },
+  {
+    "id": 31,
+    "category": "Hematology: Leukemia Demographics",
+    "questionText": "Which leukemia is the MOST COMMON malignancy in children (peak age 2-5 years)?",
+    "options": [
+      { "text": "Acute myeloid leukemia (AML)", "explanation": "Incorrect. AML is more common in adults (peak at age >60), although it does occur in children." },
+      { "text": "Acute lymphoblastic leukemia (ALL)", "explanation": "Correct. ALL is the most common childhood malignancy and the most common leukemia of childhood, with a peak incidence at ages 2-5. B-cell ALL is most common; T-ALL is less common but presents with thymic/mediastinal mass. Has a generally good prognosis with treatment, especially in children." },
+      { "text": "Chronic myeloid leukemia (CML)", "explanation": "Incorrect. CML is a disease of middle-aged adults (median age ~64); very rare in children." },
+      { "text": "Chronic lymphocytic leukemia (CLL)", "explanation": "Incorrect. CLL is the most common leukemia in WESTERN ADULTS (>60 years), essentially never in children." },
+      { "text": "Hairy cell leukemia", "explanation": "Incorrect. Hairy cell leukemia is a rare B-cell leukemia of middle-aged men." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Childhood = ALL (peak 2-5). Young adult = AML. Middle-aged = CML. Old adult = CLL.",
+    "pdfPage": 1,
+    "pdfQuote": "ALL"
+  },
+  {
+    "id": 32,
+    "category": "Hematology: Leukemia Demographics",
+    "questionText": "Which leukemia is the MOST COMMON leukemia of Western adults, typically diagnosed in patients >60 years old?",
+    "options": [
+      { "text": "Acute lymphoblastic leukemia (ALL)", "explanation": "Incorrect. ALL is primarily a pediatric leukemia." },
+      { "text": "Acute myeloid leukemia (AML)", "explanation": "Incorrect. AML is common in adults but is not as common as CLL in this age group." },
+      { "text": "Chronic lymphocytic leukemia (CLL)", "explanation": "Correct. CLL is the most common leukemia in Western adults, typically presenting in older adults (median age ~70). Often asymptomatic with incidental finding of lymphocytosis on routine CBC. Smudge cells on peripheral smear; flow cytometry shows CD5+ CD19+ B cells (CD5 is normally a T-cell marker, hence 'aberrant' coexpression)." },
+      { "text": "Chronic myeloid leukemia (CML)", "explanation": "Incorrect. CML is less common than CLL, presenting in middle-aged adults with leukocytosis and basophilia." },
+      { "text": "Hairy cell leukemia", "explanation": "Incorrect. Hairy cell is a rare B-cell malignancy of middle-aged men." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CLL = most common Western adult leukemia. Smudge cells + CD5+/CD19+ B cells. Often asymptomatic at diagnosis.",
+    "pdfPage": 2,
+    "pdfQuote": "CLL"
+  },
+  {
+    "id": 33,
+    "category": "Hematology: AML vs ALL Markers",
+    "questionText": "A 4-year-old has bruising and fatigue. Bone marrow shows 60% blasts. Which marker, if positive, would confirm ACUTE LYMPHOBLASTIC LEUKEMIA (ALL) rather than AML?",
+    "options": [
+      { "text": "Myeloperoxidase (MPO)", "explanation": "Incorrect. MPO is positive in MYELOID blasts (AML), not lymphoid blasts." },
+      { "text": "Auer rods on smear", "explanation": "Incorrect. Auer rods are crystalline cytoplasmic inclusions of MPO-positive granules — pathognomonic for AML, especially the M3 (APL) variant." },
+      { "text": "Terminal deoxynucleotidyl transferase (TdT)", "explanation": "Correct. TdT is a DNA polymerase expressed only in immature LYMPHOID precursors (pre-B and pre-T lymphoblasts). It is the single most useful marker for distinguishing ALL from AML. TdT positivity confirms a lymphoid origin." },
+      { "text": "CD33 and CD13", "explanation": "Incorrect. CD33 and CD13 are MYELOID lineage markers (AML)." },
+      { "text": "CD117 (c-KIT)", "explanation": "Incorrect. CD117 is a MYELOID marker, expressed in AML." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "TdT POSITIVE = lymphoid (ALL). MPO POSITIVE / Auer rods / CD33+CD13+ = myeloid (AML).",
+    "pdfPage": 1,
+    "pdfQuote": "TdT"
+  },
+  {
+    "id": 34,
+    "category": "Hematology: AML Markers",
+    "questionText": "Which finding is pathognomonic for ACUTE MYELOID LEUKEMIA (AML), particularly the M3 promyelocytic variant?",
+    "options": [
+      { "text": "TdT positivity", "explanation": "Incorrect. TdT marks LYMPHOID blasts (ALL), not myeloid." },
+      { "text": "Smudge cells", "explanation": "Incorrect. Smudge cells are fragile cells seen in CLL, not AML." },
+      { "text": "Auer rods (crystalline cytoplasmic inclusions of fused MPO-positive granules)", "explanation": "Correct. Auer rods are needle-shaped or rod-like crystalline inclusions formed by fused azurophilic (MPO-positive) granules in myeloblasts. They are pathognomonic for AML and are especially abundant in M3 (acute PROMYELOCYTIC leukemia, APL) where they can form bundles ('faggot cells'). When seen, AML is virtually certain." },
+      { "text": "Tear-drop cells (dacrocytes)", "explanation": "Incorrect. Dacrocytes are seen in primary myelofibrosis and marrow infiltrative processes." },
+      { "text": "Heinz bodies", "explanation": "Incorrect. Heinz bodies are denatured Hb inclusions in G6PD deficiency." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Auer rods = AML (especially M3/APL). Bundles of Auer rods = 'faggot cells' diagnostic of APL.",
+    "pdfPage": 1,
+    "pdfQuote": "Auer rods"
+  },
+  {
+    "id": 35,
+    "category": "Hematology: APL Translocation",
+    "questionText": "Acute promyelocytic leukemia (APL) is associated with which translocation, leading to a fusion protein responsive to all-trans retinoic acid (ATRA)?",
+    "options": [
+      { "text": "t(9;22) BCR-ABL", "explanation": "Incorrect. t(9;22) is the Philadelphia chromosome of CML (and a subset of ALL with poor prognosis). Treated with imatinib." },
+      { "text": "t(15;17) PML-RARA", "explanation": "Correct. APL is defined by t(15;17), which fuses the PML gene on chromosome 15 with the retinoic acid receptor alpha (RARA) gene on chromosome 17. The fusion protein blocks myeloid differentiation at the promyelocyte stage. ATRA (all-trans retinoic acid) and arsenic trioxide overcome this block. APL is a medical emergency because the promyelocyte granules release procoagulants → DIC." },
+      { "text": "t(8;14) MYC-IgH", "explanation": "Incorrect. t(8;14) is the translocation of Burkitt lymphoma." },
+      { "text": "t(14;18) BCL2-IgH", "explanation": "Incorrect. t(14;18) is the translocation of follicular lymphoma." },
+      { "text": "t(11;14) CCND1-IgH", "explanation": "Incorrect. t(11;14) is the translocation of mantle cell lymphoma." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "APL (M3 AML) = t(15;17) PML-RARA fusion → ATRA differentiates promyelocytes. Watch for DIC at presentation.",
+    "pdfPage": 3,
+    "pdfQuote": "t(15;17)"
+  },
+  {
+    "id": 36,
+    "category": "Hematology: CML Translocation",
+    "questionText": "Chronic myeloid leukemia (CML) is defined by which chromosomal translocation?",
+    "options": [
+      { "text": "t(15;17) PML-RARA", "explanation": "Incorrect. This is APL." },
+      { "text": "t(9;22) BCR-ABL (Philadelphia chromosome)", "explanation": "Correct. CML is defined by t(9;22), which creates the BCR-ABL fusion gene producing a constitutively active tyrosine kinase. This Philadelphia chromosome is essentially diagnostic of CML when detected (also seen in ~25% of adult B-ALL, where it carries a worse prognosis). Imatinib (and second-generation TKIs: dasatinib, nilotinib) target BCR-ABL." },
+      { "text": "t(8;14) MYC-IgH", "explanation": "Incorrect. This is Burkitt lymphoma." },
+      { "text": "t(14;18) BCL2-IgH", "explanation": "Incorrect. This is follicular lymphoma." },
+      { "text": "t(11;14) CCND1-IgH", "explanation": "Incorrect. This is mantle cell lymphoma." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CML = t(9;22) Philadelphia chromosome → BCR-ABL fusion tyrosine kinase. Treat with imatinib (Gleevec) or other TKIs.",
+    "pdfPage": 2,
+    "pdfQuote": "Philadelphia chromosome"
+  },
+  {
+    "id": 37,
+    "category": "Hematology: CML vs Leukemoid Reaction",
+    "questionText": "An adult patient has WBC of 80,000/µL with neutrophilia, basophilia, and a 'left shift' (all stages of granulocyte maturation visible). Leukocyte alkaline phosphatase (LAP) is LOW. What is the most likely diagnosis?",
+    "options": [
+      { "text": "Leukemoid reaction from severe infection", "explanation": "Incorrect. Leukemoid reaction shows leukocytosis with left shift, but LAP is HIGH (mature neutrophils have LAP). Toxic granulation and Döhle bodies also support reactive process." },
+      { "text": "Chronic myeloid leukemia (CML)", "explanation": "Correct. CML classically presents with marked leukocytosis with all stages of myeloid maturation visible (left shift), BASOPHILIA (which is unusual for reactive process), and LOW LAP score (the malignant neutrophils lack LAP). Splenomegaly is common. Diagnosis confirmed by t(9;22) BCR-ABL." },
+      { "text": "Acute myeloid leukemia (AML)", "explanation": "Incorrect. AML would show predominantly blasts (>20%), not a full spectrum of maturation. Auer rods may be present." },
+      { "text": "Chronic lymphocytic leukemia (CLL)", "explanation": "Incorrect. CLL shows lymphocytosis (not neutrophilia) with smudge cells." },
+      { "text": "Myelodysplastic syndrome", "explanation": "Incorrect. MDS typically presents with CYTOPENIAS, not marked leukocytosis." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CML vs leukemoid: BOTH have leukocytosis + left shift. CML: LAP LOW + basophilia + t(9;22). Leukemoid: LAP HIGH + toxic granulation + identifiable infection.",
+    "pdfPage": 2,
+    "pdfQuote": "LAP score"
+  },
+  {
+    "id": 38,
+    "category": "Hematology: CLL Markers",
+    "questionText": "Which immunophenotype is characteristic of chronic lymphocytic leukemia (CLL)?",
+    "options": [
+      { "text": "CD3+, CD4+ T cells", "explanation": "Incorrect. CD3/CD4 are T-cell markers; CLL is a B-cell malignancy." },
+      { "text": "TdT+, CD10+", "explanation": "Incorrect. TdT/CD10 are markers of immature LYMPHOBLASTS (B-ALL), not mature CLL cells." },
+      { "text": "CD19+, CD20+ (B-cell), with aberrant coexpression of CD5", "explanation": "Correct. CLL cells are mature B cells (CD19+, CD20+, CD23+, surface Ig dim) that aberrantly coexpress CD5 (normally a T-cell marker). This CD5+ B-cell phenotype is shared with mantle cell lymphoma — the way to differentiate: CLL is CD23 POSITIVE, MCL is CD23 NEGATIVE." },
+      { "text": "CD33+, CD13+ myeloid markers", "explanation": "Incorrect. These are AML markers." },
+      { "text": "TRAP+ B cells", "explanation": "Incorrect. TRAP (tartrate-resistant acid phosphatase) is the marker of HAIRY CELL leukemia, not CLL." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CLL = CD19+CD20+CD5+CD23+ (CD5 aberrantly expressed on B cells; CD23+ separates CLL from MCL).",
+    "pdfPage": 2,
+    "pdfQuote": "CD5"
+  },
+  {
+    "id": 39,
+    "category": "Hematology: CLL Smear Finding",
+    "questionText": "Which finding on peripheral blood smear is most characteristic of chronic lymphocytic leukemia (CLL)?",
+    "options": [
+      { "text": "Auer rods", "explanation": "Incorrect. Auer rods are seen in AML." },
+      { "text": "Hairy projections from cytoplasm", "explanation": "Incorrect. Hairy projections are seen in hairy cell leukemia." },
+      { "text": "Smudge cells (fragile lymphocytes broken during smear preparation)", "explanation": "Correct. CLL lymphocytes are unusually fragile and are crushed during the smear-making process, producing characteristic 'smudge cells' or 'basket cells.' They are essentially pathognomonic when seen with mature lymphocytosis. Diagnosis is then confirmed by flow cytometry." },
+      { "text": "Reed-Sternberg cells", "explanation": "Incorrect. RS cells are in Hodgkin lymphoma tissue (not peripheral smear)." },
+      { "text": "Schistocytes", "explanation": "Incorrect. Schistocytes are seen in MAHA (TTP, HUS, DIC)." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "CLL = smudge cells (also called basket cells) on peripheral smear + mature lymphocytosis.",
+    "pdfPage": 2,
+    "pdfQuote": "smudge cells"
+  },
+  {
+    "id": 40,
+    "category": "Hematology: Hairy Cell Leukemia",
+    "questionText": "A middle-aged man presents with pancytopenia, splenomegaly, and a 'dry tap' on bone marrow aspiration. Smear shows mononuclear cells with hairy cytoplasmic projections. Which test confirms the diagnosis?",
+    "options": [
+      { "text": "TdT positivity", "explanation": "Incorrect. TdT is a marker of lymphoblasts (ALL), not hairy cell leukemia." },
+      { "text": "Tartrate-resistant acid phosphatase (TRAP) staining positive", "explanation": "Correct. Hairy cell leukemia is a rare indolent B-cell malignancy. Pathognomonic findings: 'hairy' cytoplasmic projections, TRAP-positive staining (now usually replaced by flow cytometry showing CD11c+ CD25+ CD103+ CD123+), and BRAF V600E mutation. Splenomegaly with sparing of lymph nodes; 'dry tap' on bone marrow aspiration due to marrow fibrosis. Treat with cladribine or pentostatin." },
+      { "text": "Philadelphia chromosome", "explanation": "Incorrect. Ph chromosome defines CML, not hairy cell leukemia." },
+      { "text": "t(15;17) translocation", "explanation": "Incorrect. t(15;17) is APL." },
+      { "text": "JAK2 V617F mutation", "explanation": "Incorrect. JAK2 V617F is associated with myeloproliferative neoplasms (PV, ET, PMF), not hairy cell leukemia." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Hairy cell leukemia: TRAP+, BRAF V600E, splenomegaly, dry tap. Treat with cladribine/pentostatin.",
+    "pdfPage": 3,
+    "pdfQuote": "TRAP"
+  },
+  {
+    "id": 41,
+    "category": "Hematology: T-ALL Presentation",
+    "questionText": "A teenage boy presents with respiratory distress and superior vena cava syndrome. Imaging shows an anterior mediastinal mass. Bone marrow shows TdT-positive blasts that are also CD3+. What is the most likely diagnosis?",
+    "options": [
+      { "text": "B-cell ALL", "explanation": "Incorrect. B-ALL is the most common ALL subtype but does NOT classically present with a mediastinal mass. B-ALL blasts are TdT+ but CD19+/CD10+." },
+      { "text": "T-cell ALL", "explanation": "Correct. T-cell ALL classically presents in adolescent males with a thymic/mediastinal mass that compresses airways/SVC. Blasts are TdT+ (still lymphoid) and express T-cell markers (CD3, CD7, CD2). T-ALL is less common than B-ALL but the mediastinal mass + adolescent male + SVC syndrome combination is a buzz." },
+      { "text": "Acute myeloid leukemia M3 (APL)", "explanation": "Incorrect. APL presents with DIC and Auer rods, not mediastinal mass." },
+      { "text": "Hodgkin lymphoma", "explanation": "Incorrect. Hodgkin can have mediastinal mass (especially nodular sclerosing), but it shows Reed-Sternberg cells on tissue biopsy, not TdT+ blasts in marrow." },
+      { "text": "Chronic myeloid leukemia", "explanation": "Incorrect. CML is rare in adolescents and presents with leukocytosis with left shift, not mediastinal mass." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "T-ALL = adolescent boy + ANTERIOR mediastinal mass + TdT+CD3+ blasts. Watch for SVC syndrome and airway compromise.",
+    "pdfPage": 2,
+    "pdfQuote": "T-ALL"
+  },
+  {
+    "id": 42,
+    "category": "Hematology: AML Subtypes (FAB)",
+    "questionText": "Which AML subtype is characterized by t(15;17), DIC at presentation, faggot cells (bundled Auer rods), and dramatic response to ATRA?",
+    "options": [
+      { "text": "AML M0 (minimally differentiated)", "explanation": "Incorrect. M0 is the least differentiated; no specific translocation, no Auer rods, no ATRA response." },
+      { "text": "AML M2 (acute myeloblastic with maturation, t(8;21))", "explanation": "Incorrect. M2 has t(8;21) and a relatively favorable prognosis but does not respond to ATRA." },
+      { "text": "AML M3 (acute promyelocytic leukemia)", "explanation": "Correct. M3 (APL) is defined by t(15;17) PML-RARA, presents with severe DIC due to release of procoagulant granule contents, shows abundant Auer rods including bundles (faggot cells), and is uniquely responsive to ATRA + arsenic trioxide (no traditional chemo needed for low-risk APL)." },
+      { "text": "AML M4 (acute myelomonocytic)", "explanation": "Incorrect. M4 shows mixed myeloid + monocytic differentiation; no t(15;17)." },
+      { "text": "AML M7 (acute megakaryoblastic)", "explanation": "Incorrect. M7 is associated with Down syndrome in young children and shows megakaryoblast morphology with marrow fibrosis." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "APL = M3 AML = t(15;17) = DIC + faggot Auer rods = ATRA-responsive. Medical emergency at presentation.",
+    "pdfPage": 3,
+    "pdfQuote": "APL"
+  },
+  {
+    "id": 43,
+    "category": "Hematology: Myeloproliferative Neoplasms",
+    "questionText": "Which myeloproliferative neoplasm is characterized by ERYTHROCYTOSIS (high RBC count), low EPO level, and JAK2 V617F mutation?",
+    "options": [
+      { "text": "Essential thrombocythemia (ET)", "explanation": "Incorrect. ET primarily increases PLATELETS (>450K), not RBCs." },
+      { "text": "Primary myelofibrosis (PMF)", "explanation": "Incorrect. PMF shows marrow fibrosis with anemia and tear-drop cells; PMF can have JAK2 but does not feature erythrocytosis." },
+      { "text": "Polycythemia vera (PV)", "explanation": "Correct. PV is the MPN of erythroid lineage: increased RBC mass leading to hyperviscosity, plethora, headaches, aquagenic pruritus (itching after hot shower), and erythromelalgia. Distinguished from secondary polycythemia by LOW serum EPO (the marrow is making RBCs autonomously, suppressing EPO via feedback). >95% have JAK2 V617F mutation. Treat with phlebotomy ± hydroxyurea." },
+      { "text": "Chronic myeloid leukemia (CML)", "explanation": "Incorrect. CML shows leukocytosis with left shift; t(9;22) is the defining mutation, not JAK2." },
+      { "text": "Acute myeloid leukemia (AML)", "explanation": "Incorrect. AML shows >20% blasts and pancytopenia, not erythrocytosis." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "PV = erythrocytosis + LOW EPO + JAK2 V617F. Aquagenic pruritus + erythromelalgia. Treat: phlebotomy ± hydroxyurea.",
+    "pdfPage": 3,
+    "pdfQuote": "JAK2"
+  },
+  {
+    "id": 44,
+    "category": "Hematology: Myeloproliferative Neoplasms",
+    "questionText": "Which myeloproliferative neoplasm classically shows TEAR-DROP cells (dacrocytes) on peripheral smear and marked bone marrow FIBROSIS?",
+    "options": [
+      { "text": "Polycythemia vera", "explanation": "Incorrect. PV shows erythrocytosis without marrow fibrosis (early)." },
+      { "text": "Essential thrombocythemia", "explanation": "Incorrect. ET shows thrombocytosis with large platelets but no marrow fibrosis." },
+      { "text": "Primary myelofibrosis (PMF)", "explanation": "Correct. PMF is the MPN characterized by progressive replacement of bone marrow with fibrosis (driven by megakaryocyte cytokines: PDGF, TGF-β). Hematopoiesis moves to spleen/liver (extramedullary), producing massive splenomegaly. Peripheral smear shows leukoerythroblastic picture with TEAR-DROP cells (RBCs distorted by passage through fibrotic marrow). JAK2 mutation in ~50%." },
+      { "text": "Chronic myeloid leukemia", "explanation": "Incorrect. CML can progress to marrow fibrosis late, but the hallmark is leukocytosis with left shift, not tear-drop cells." },
+      { "text": "Acute myeloid leukemia", "explanation": "Incorrect. AML shows blasts, not tear-drop cells." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "PMF = tear-drop cells + marrow fibrosis + massive splenomegaly + leukoerythroblastic smear. JAK2 in ~50%.",
+    "pdfPage": 3,
+    "pdfQuote": "myelofibrosis"
+  },
+  {
+    "id": 45,
+    "category": "Hematology: Acute Leukemia Threshold",
+    "questionText": "What percentage of blasts in the bone marrow (or peripheral blood) is required to diagnose ACUTE leukemia by current WHO criteria?",
+    "options": [
+      { "text": "5%", "explanation": "Incorrect. 5-10% blasts may indicate myelodysplasia, not acute leukemia." },
+      { "text": "10%", "explanation": "Incorrect. 10-20% would fall into MDS with excess blasts (the prior FAB intermediate threshold)." },
+      { "text": "20%", "explanation": "Correct. WHO criteria require ≥20% blasts in marrow or blood for acute leukemia diagnosis (replacing the older 30% FAB threshold). Exception: certain recurrent cytogenetic abnormalities (t(15;17), t(8;21), inv(16), t(16;16)) are diagnostic of AML regardless of blast count." },
+      { "text": "30%", "explanation": "Incorrect. 30% was the older FAB threshold, now replaced by 20% per WHO." },
+      { "text": "50%", "explanation": "Incorrect. 50% is well above threshold; not the diagnostic cutoff." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Acute leukemia = ≥20% blasts (WHO). Exception: certain cytogenetic abnormalities (e.g. t(15;17) APL) are diagnostic regardless of blast count.",
+    "pdfPage": 1,
+    "pdfQuote": ">20% blasts"
+  },
+  {
+    "id": 46,
+    "category": "Hematology: Adult T-cell Leukemia/Lymphoma",
+    "questionText": "A patient from Japan or the Caribbean presents with leukocytosis, lytic bone lesions, hypercalcemia, and a rash. Peripheral smear shows lymphocytes with multilobed 'flower cell' nuclei. Which virus is the causative agent?",
+    "options": [
+      { "text": "EBV (Epstein-Barr virus)", "explanation": "Incorrect. EBV is associated with Burkitt lymphoma, Hodgkin lymphoma, and primary CNS lymphoma in HIV — not ATLL." },
+      { "text": "HHV-8 (Kaposi sarcoma virus)", "explanation": "Incorrect. HHV-8 causes Kaposi sarcoma and primary effusion lymphoma." },
+      { "text": "HTLV-1 (human T-cell lymphotropic virus 1)", "explanation": "Correct. ATLL (adult T-cell leukemia/lymphoma) is caused by HTLV-1 retrovirus, endemic in Japan, the Caribbean, and parts of West Africa. Classic features: aggressive CD4+ T-cell malignancy with leukocytosis, LYTIC BONE LESIONS, HYPERCALCEMIA, hepatosplenomegaly, and characteristic 'flower cells' (multilobed lymphocyte nuclei) on smear. Poor prognosis." },
+      { "text": "HIV", "explanation": "Incorrect. HIV is associated with primary CNS lymphoma, DLBCL, and Burkitt — not ATLL." },
+      { "text": "HCV (hepatitis C virus)", "explanation": "Incorrect. HCV is associated with marginal zone lymphoma (mainly splenic) and hepatocellular carcinoma." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "ATLL = HTLV-1 (Japan, Caribbean) + CD4+ T cells + LYTIC bone lesions + HYPERCALCEMIA + FLOWER CELLS on smear.",
+    "pdfPage": 3,
+    "pdfQuote": "HTLV"
+  },
+  {
+    "id": 47,
+    "category": "Hematology: Myelodysplastic Syndrome",
+    "questionText": "Which finding most strongly supports MYELODYSPLASTIC SYNDROME rather than aplastic anemia in a patient with pancytopenia?",
+    "options": [
+      { "text": "Hypocellular bone marrow", "explanation": "Incorrect. Hypocellular marrow points to aplastic anemia; MDS marrow is typically HYPERcellular with dysplastic features." },
+      { "text": "Hypercellular bone marrow with dysplastic morphology (pseudo-Pelger-Huet cells, ringed sideroblasts) and 5-19% blasts", "explanation": "Correct. MDS = clonal hematopoietic stem cell disorder with INEFFECTIVE hematopoiesis. The bone marrow is HYPERCELLULAR (paradoxically — cells are produced but die before maturation), with dysplastic features: pseudo-Pelger-Huet cells (bilobed neutrophils), ringed sideroblasts, hypogranular neutrophils, and 5-19% blasts (≥20% would be AML). Risk of transformation to AML. Treatment: hypomethylating agents (azacitidine, decitabine); transplant if eligible." },
+      { "text": "Normal megakaryocyte morphology", "explanation": "Incorrect. MDS shows dysplastic megakaryocytes (small, hypolobated)." },
+      { "text": "Normal cytogenetics", "explanation": "Incorrect. MDS often has cytogenetic abnormalities (5q-, monosomy 7, trisomy 8)." },
+      { "text": "Positive Coombs test", "explanation": "Incorrect. Coombs is not part of the MDS workup." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MDS = pancytopenia + HYPERcellular marrow + dysplasia + 5-19% blasts. Aplastic anemia = pancytopenia + HYPOcellular marrow. >20% blasts = AML.",
+    "pdfPage": 3,
+    "pdfQuote": "MDS"
+  },
+  {
+    "id": 48,
+    "category": "Hematology: Translocations Summary",
+    "questionText": "Which heme malignancy is correctly matched to its translocation?",
+    "options": [
+      { "text": "CML — t(15;17) PML-RARA", "explanation": "Incorrect. t(15;17) is APL. CML is t(9;22)." },
+      { "text": "APL — t(9;22) BCR-ABL", "explanation": "Incorrect. t(9;22) is CML. APL is t(15;17)." },
+      { "text": "Burkitt lymphoma — t(8;14) MYC-IgH", "explanation": "Correct. Burkitt lymphoma is defined by t(8;14) which juxtaposes the c-MYC oncogene to the immunoglobulin heavy chain enhancer, driving overexpression of MYC. The result is the fastest-growing human tumor with a 'starry sky' histology (tingible body macrophages clearing the dead cells). EBV-associated in endemic (African jaw) form; sporadic form often presents abdominally; immunodeficiency form in HIV." },
+      { "text": "Follicular lymphoma — t(11;14) CCND1-IgH", "explanation": "Incorrect. t(11;14) is MCL. Follicular is t(14;18)." },
+      { "text": "Mantle cell lymphoma — t(14;18) BCL2-IgH", "explanation": "Incorrect. t(14;18) is FOLLICULAR lymphoma. MCL is t(11;14)." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Translocation cheat sheet: CML t(9;22); APL t(15;17); Burkitt t(8;14); Follicular t(14;18); MCL t(11;14).",
+    "pdfPage": 3,
+    "pdfQuote": "t(8;14)"
+  },
+  {
+    "id": 49,
+    "category": "Hematology: CML Targeted Therapy",
+    "questionText": "Which drug class revolutionized the treatment of CML by directly targeting the BCR-ABL fusion protein?",
+    "options": [
+      { "text": "Anthracyclines (e.g., daunorubicin)", "explanation": "Incorrect. Anthracyclines are used in AML induction (e.g., '7+3' regimen)." },
+      { "text": "Tyrosine kinase inhibitors (imatinib and successors)", "explanation": "Correct. Imatinib (Gleevec) was the first targeted therapy in oncology, binding the ATP-binding site of BCR-ABL and inhibiting its tyrosine kinase activity. It transformed CML from a deadly leukemia to a chronic manageable condition. Second-generation TKIs (dasatinib, nilotinib, bosutinib) and third-generation (ponatinib) overcome resistance, especially the T315I mutation (ponatinib only)." },
+      { "text": "Monoclonal anti-CD20 antibody (rituximab)", "explanation": "Incorrect. Rituximab targets CD20 on B cells — used in CLL, NHL, RA — not CML." },
+      { "text": "ATRA (all-trans retinoic acid)", "explanation": "Incorrect. ATRA is for APL (t(15;17))." },
+      { "text": "Bortezomib", "explanation": "Incorrect. Bortezomib is a proteasome inhibitor used in multiple myeloma." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CML = BCR-ABL fusion → tyrosine kinase inhibitors (imatinib → dasatinib/nilotinib → ponatinib for T315I resistance).",
+    "pdfPage": 2,
+    "pdfQuote": "imatinib"
+  },
+  {
+    "id": 50,
+    "category": "Hematology: Richter Transformation",
+    "questionText": "A patient with long-standing chronic lymphocytic leukemia (CLL) develops rapidly enlarging lymph nodes, B symptoms, and elevated LDH. Biopsy shows large B-cell lymphoma. What is this transformation called?",
+    "options": [
+      { "text": "Blast crisis", "explanation": "Incorrect. 'Blast crisis' is the transformation of CML to acute leukemia (>20% blasts), not CLL." },
+      { "text": "Richter transformation", "explanation": "Correct. Richter transformation is the development of an aggressive lymphoma (most commonly diffuse large B-cell lymphoma, DLBCL) in a patient with previously indolent CLL/SLL. Occurs in ~5% of CLL patients and carries a poor prognosis. Triggered by additional genetic mutations (e.g., TP53). Suspect when CLL patient develops rapidly enlarging lymphadenopathy, B symptoms, and rising LDH." },
+      { "text": "Leukemic transformation of MDS", "explanation": "Incorrect. MDS transforms to AML, not DLBCL." },
+      { "text": "Post-transplant lymphoproliferative disorder", "explanation": "Incorrect. PTLD occurs in immunosuppressed transplant recipients, EBV-driven, not Richter transformation." },
+      { "text": "Sezary syndrome transformation", "explanation": "Incorrect. Sezary syndrome is leukemic phase of mycosis fungoides (cutaneous T-cell lymphoma), not a transformation from CLL." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Richter transformation = CLL → DLBCL. Watch for rapidly enlarging nodes + B symptoms + rising LDH in a CLL patient. Poor prognosis.",
+    "pdfPage": 2,
+    "pdfQuote": "Richter"
   }
 ];
 

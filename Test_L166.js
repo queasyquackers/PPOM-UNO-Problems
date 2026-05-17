@@ -478,5 +478,325 @@ window.Test_L166 = [
     "clinicalPearl": "Key takeaway: COVID-19 late inflammatory phase (cytokine storm) on supplemental O2 = dexamethasone 6 mg/day x 10 days ± tocilizumab/baricitinib. EARLY-phase steroids HARM; only late phase benefits. VTE prophylaxis essential.",
     "pdfPage": 23,
     "pdfQuote": "Steroids for late inflammatory phase"
+  },
+  {
+    "id": 31,
+    "category": "Microbiology: Protozoa Differentiation — Babesia vs Plasmodium",
+    "questionText": "A patient from Nantucket Island, Massachusetts presents with fever and hemolytic anemia after a tick bite. Peripheral smear shows intra-erythrocytic ring forms arranged in a 'MALTESE CROSS' tetrad. Which organism is responsible?",
+    "options": [
+      { "text": "Plasmodium falciparum", "explanation": "Incorrect. P. falciparum forms multiple banana-shaped (crescent) gametocytes and rings but does NOT form Maltese cross tetrads. P. falciparum is mosquito-borne in tropical regions, not tick-borne in New England." },
+      { "text": "Babesia microti", "explanation": "Correct. Babesia microti is a tick-borne (Ixodes scapularis — same tick as Lyme) protozoan endemic to the Northeast US (Nantucket, Cape Cod, Long Island) and upper Midwest. It infects RBCs and forms characteristic 'MALTESE CROSS' (tetrad of ring forms) on Giemsa smear — distinct from Plasmodium. Causes fever, hemolytic anemia, especially severe in asplenic, immunocompromised, or elderly patients. Co-infection with Borrelia burgdorferi is common. Treat with atovaquone + azithromycin (mild) or clindamycin + quinine (severe)." },
+      { "text": "Trypanosoma cruzi", "explanation": "Incorrect. T. cruzi is extracellular in blood (trypomastigotes) and intracellular in tissues (amastigotes); doesn't form Maltese cross tetrads in RBCs. Transmitted by kissing bug in Latin America." },
+      { "text": "Leishmania donovani", "explanation": "Incorrect. Leishmania amastigotes are intracellular in macrophages (not RBCs); cause visceral leishmaniasis (kala-azar)." },
+      { "text": "Toxoplasma gondii", "explanation": "Incorrect. Toxoplasma is intracellular in many cell types but doesn't form Maltese cross in RBCs." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Babesia = tick-borne (Ixodes) Northeast US + Maltese cross tetrad in RBCs + hemolytic anemia. NO banana gametocytes (vs Plasmodium). Severe in asplenic patients.",
+    "pdfPage": 11,
+    "pdfQuote": "Babesia"
+  },
+  {
+    "id": 32,
+    "category": "Microbiology: Protozoa Differentiation — Plasmodium Species",
+    "questionText": "Which Plasmodium species causes the most SEVERE disease, with the highest mortality from cerebral malaria and the unique ability to infect RBCs of all ages?",
+    "options": [
+      { "text": "Plasmodium vivax", "explanation": "Incorrect. P. vivax causes 'benign tertian' malaria with hypnozoites in the liver (can relapse). Generally milder; infects only RETICULOCYTES (young RBCs), limiting parasitemia." },
+      { "text": "Plasmodium ovale", "explanation": "Incorrect. P. ovale is similar to vivax (hypnozoites, infects reticulocytes); generally mild. Found mostly in West Africa." },
+      { "text": "Plasmodium malariae", "explanation": "Incorrect. P. malariae causes 'quartan' malaria (fever every 72 hours) and can persist for decades but is generally mild. Infects only OLDER RBCs." },
+      { "text": "Plasmodium falciparum", "explanation": "Correct. P. falciparum is the deadliest Plasmodium species. Unique features: (1) can infect RBCs of ALL AGES (vs vivax/ovale = only reticulocytes, malariae = only old RBCs), allowing massive parasitemia; (2) causes CYTOADHERENCE — infected RBCs stick to vascular endothelium via PfEMP1, leading to microvascular sludging, cerebral malaria, ARDS, AKI; (3) NO hypnozoites (no relapse, but no need for primaquine either); (4) gametocytes are BANANA/CRESCENT shaped." },
+      { "text": "Plasmodium knowlesi", "explanation": "Incorrect. P. knowlesi is a zoonotic malaria from macaques, found in Southeast Asia. Can be severe but is less deadly than P. falciparum globally." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "P. falciparum = deadliest. Infects ALL RBC ages → high parasitemia + cytoadherence → cerebral malaria. NO hypnozoites. BANANA gametocytes.",
+    "pdfPage": 10,
+    "pdfQuote": "falciparum"
+  },
+  {
+    "id": 33,
+    "category": "Microbiology: Protozoa Differentiation — Plasmodium Species",
+    "questionText": "Which Plasmodium species produces DORMANT LIVER HYPNOZOITES that cause relapsing malaria months to years after initial infection, requiring primaquine for radical cure?",
+    "options": [
+      { "text": "Plasmodium falciparum only", "explanation": "Incorrect. Falciparum does NOT form hypnozoites; once cured, no relapse." },
+      { "text": "Plasmodium vivax and Plasmodium ovale", "explanation": "Correct. P. vivax and P. ovale are the only two Plasmodium species that produce HYPNOZOITES — dormant intrahepatic forms that can reactivate weeks, months, or even years after the initial infection, causing clinical relapse. Standard blood schizonticides (chloroquine) kill blood forms but cannot eliminate hypnozoites. PRIMAQUINE (or tafenoquine) is required for 'radical cure.' Both drugs are 8-aminoquinolines and cause hemolysis in G6PD-deficient patients (must screen before use)." },
+      { "text": "Plasmodium malariae", "explanation": "Incorrect. P. malariae does NOT form hypnozoites, but can persist for decades as low-level blood parasitemia." },
+      { "text": "Plasmodium knowlesi", "explanation": "Incorrect. P. knowlesi does not form hypnozoites." },
+      { "text": "All Plasmodium species", "explanation": "Incorrect. Only vivax and ovale form hypnozoites." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "VIVAX and OVALE = hypnozoites → relapse. Need PRIMAQUINE (or tafenoquine) for radical cure. Screen G6PD first.",
+    "pdfPage": 10,
+    "pdfQuote": "hypnozoites"
+  },
+  {
+    "id": 34,
+    "category": "Microbiology: Protozoa Differentiation — Trypanosoma",
+    "questionText": "A patient who recently emigrated from rural South America presents with chronic dilated cardiomyopathy, megaesophagus, and megacolon. Years ago he recalls being bitten by an insect on his face that left a swollen eyelid (Romaña sign). Which organism is responsible?",
+    "options": [
+      { "text": "Trypanosoma brucei gambiense", "explanation": "Incorrect. T. b. gambiense causes WEST African sleeping sickness (chronic CNS disease), not Chagas. Found in Africa, transmitted by tsetse fly." },
+      { "text": "Trypanosoma brucei rhodesiense", "explanation": "Incorrect. T. b. rhodesiense causes EAST African sleeping sickness (acute, rapid CNS disease), not Chagas. Africa, tsetse fly." },
+      { "text": "Trypanosoma cruzi", "explanation": "Correct. T. cruzi causes CHAGAS DISEASE. Endemic to Latin America (Mexico → Argentina). Transmitted by the reduviid 'kissing bug' (Triatoma), which defecates near the bite; the parasite enters through the bite or mucous membranes (often the eye → ROMAÑA SIGN = unilateral periorbital swelling). Acute phase often mild. CHRONIC phase (decades later, ~30% of infected): dilated cardiomyopathy, megaesophagus, megacolon (autonomic denervation). Diagnose by thick smear (acute) or serology (chronic). Treat: benznidazole or nifurtimox." },
+      { "text": "Leishmania braziliensis", "explanation": "Incorrect. L. braziliensis causes MUCOCUTANEOUS leishmaniasis (espundia) — destructive ulcers of the nose/oropharynx, not megacolon." },
+      { "text": "Plasmodium falciparum", "explanation": "Incorrect. Falciparum malaria does not cause chronic megacolon or Romaña sign." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Chagas = T. cruzi. Latin America. Reduviid/kissing bug. ROMAÑA SIGN (acute). Chronic: cardiomyopathy + megaesophagus + megacolon. Benznidazole/nifurtimox.",
+    "pdfPage": 12,
+    "pdfQuote": "Chagas"
+  },
+  {
+    "id": 35,
+    "category": "Microbiology: Protozoa Differentiation — Trypanosoma Subspecies",
+    "questionText": "African sleeping sickness has two subspecies. Which is true of Trypanosoma brucei GAMBIENSE vs T. b. RHODESIENSE?",
+    "options": [
+      { "text": "Gambiense = acute, East Africa; Rhodesiense = chronic, West Africa", "explanation": "Incorrect. This is reversed." },
+      { "text": "Gambiense = chronic (months-years), West/Central Africa; Rhodesiense = acute (weeks-months), East Africa", "explanation": "Correct. T. b. gambiense (West/Central Africa) causes a CHRONIC course over months to years with subtle progression to CNS involvement (somnolence, behavioral changes). T. b. rhodesiense (East Africa) causes a more ACUTE, rapidly progressive course (weeks to months) with prominent fever and earlier death. Both are transmitted by the TSETSE FLY (Glossina). Diagnose with lymph node aspirate or blood smear. Treat early stage with pentamidine (gambiense) or suramin (rhodesiense). Late CNS stage requires NECT (nifurtimox-eflornithine) for gambiense or melarsoprol." },
+      { "text": "Both are transmitted by reduviid bugs", "explanation": "Incorrect. African trypanosomes are spread by TSETSE FLY. Reduviid/kissing bugs spread T. cruzi (Chagas)." },
+      { "text": "Gambiense causes megacolon", "explanation": "Incorrect. Megacolon is a chronic Chagas (T. cruzi) finding, not African trypanosomiasis." },
+      { "text": "Rhodesiense causes cutaneous ulcers similar to Leishmania", "explanation": "Incorrect. Cutaneous ulcers are a Leishmania feature; both African trypanosomes cause sleeping sickness." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "African sleeping sickness: GAMBIENSE = West Africa, CHRONIC. RHODESIENSE = East Africa, ACUTE. Both via TSETSE FLY. Late CNS = NECT or melarsoprol.",
+    "pdfPage": 12,
+    "pdfQuote": "African sleeping sickness"
+  },
+  {
+    "id": 36,
+    "category": "Microbiology: Protozoa Differentiation — Leishmania",
+    "questionText": "A patient returning from rural India presents with fever, massive hepatosplenomegaly, pancytopenia, and darkening of the skin. Bone marrow aspirate shows amastigotes within macrophages. Which Leishmania species is responsible?",
+    "options": [
+      { "text": "Leishmania tropica / major (cutaneous leishmaniasis)", "explanation": "Incorrect. L. tropica and L. major cause CUTANEOUS leishmaniasis — single non-healing skin ulcers at the bite site, not visceral disease." },
+      { "text": "Leishmania braziliensis (mucocutaneous, 'espundia')", "explanation": "Incorrect. L. braziliensis causes mucocutaneous leishmaniasis with destructive nasal/oropharyngeal ulcers — not visceral disease with pancytopenia." },
+      { "text": "Leishmania donovani / infantum (visceral leishmaniasis = kala-azar)", "explanation": "Correct. L. donovani (Old World — India, East Africa) and L. infantum (Mediterranean) cause VISCERAL LEISHMANIASIS (KALA-AZAR, 'black sickness'). Amastigotes infect reticuloendothelial macrophages in the spleen, liver, and bone marrow → massive HEPATOSPLENOMEGALY, pancytopenia, fever, skin darkening, weight loss. Fatal if untreated. Transmitted by SANDFLY (Phlebotomus/Lutzomyia). Diagnose: amastigotes in bone marrow or splenic aspirate. Treat: liposomal amphotericin B (preferred), pentavalent antimonials, miltefosine." },
+      { "text": "Trypanosoma cruzi", "explanation": "Incorrect. T. cruzi causes Chagas, not visceral leishmaniasis." },
+      { "text": "Toxoplasma gondii", "explanation": "Incorrect. Toxoplasma is acquired from cats/undercooked meat; doesn't cause kala-azar." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Visceral leishmaniasis (kala-azar) = L. donovani/L. infantum + SANDFLY. Massive HSM + pancytopenia + skin darkening. Liposomal amphotericin B.",
+    "pdfPage": 13,
+    "pdfQuote": "kala-azar"
+  },
+  {
+    "id": 37,
+    "category": "Microbiology: Protozoa Differentiation — Leishmania",
+    "questionText": "A Peace Corps volunteer returning from rural Brazil develops a chronic ulcerative lesion on her cheek. Months later, the disease spreads to her nasal mucosa and palate, causing destruction of the nasal septum. Which Leishmania species is most likely?",
+    "options": [
+      { "text": "Leishmania donovani", "explanation": "Incorrect. L. donovani causes VISCERAL disease (kala-azar) with HSM and pancytopenia, not mucocutaneous." },
+      { "text": "Leishmania tropica", "explanation": "Incorrect. L. tropica causes localized cutaneous lesions (Old World cutaneous leishmaniasis) that typically heal spontaneously." },
+      { "text": "Leishmania major", "explanation": "Incorrect. L. major causes Old World cutaneous leishmaniasis (wet, rapidly ulcerating), not destructive mucosal disease." },
+      { "text": "Leishmania braziliensis", "explanation": "Correct. L. braziliensis (and related Vianna subgenus species) is the major cause of MUCOCUTANEOUS LEISHMANIASIS ('espundia'). After an initial cutaneous lesion that may heal, the parasite metastasizes to mucosa (especially nasal and oropharyngeal) months to years later, causing destructive ulcers and septal perforation. Endemic to Central and South America. Treat with liposomal amphotericin B or pentavalent antimonials." },
+      { "text": "Leishmania infantum", "explanation": "Incorrect. L. infantum causes visceral leishmaniasis (Mediterranean form), not mucocutaneous." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "L. braziliensis = MUCOCUTANEOUS (espundia) — destructive nasal/oropharyngeal disease. Central/South America. Distinct from cutaneous (L. tropica/major) and visceral (L. donovani/infantum).",
+    "pdfPage": 13,
+    "pdfQuote": "mucocutaneous"
+  },
+  {
+    "id": 38,
+    "category": "Microbiology: Protozoa Differentiation — Vectors",
+    "questionText": "Which protozoan disease is correctly matched to its VECTOR?",
+    "options": [
+      { "text": "Malaria — Tsetse fly (Glossina)", "explanation": "Incorrect. Malaria (Plasmodium) is transmitted by the ANOPHELES mosquito, not the tsetse fly." },
+      { "text": "Chagas disease — Sandfly (Phlebotomus)", "explanation": "Incorrect. Chagas (T. cruzi) is transmitted by the REDUVIID/KISSING BUG (Triatoma)." },
+      { "text": "African sleeping sickness — Anopheles mosquito", "explanation": "Incorrect. African sleeping sickness (T. brucei) is transmitted by the TSETSE FLY (Glossina)." },
+      { "text": "Babesiosis — Ixodes tick (same vector as Lyme disease)", "explanation": "Correct. Babesia microti is transmitted by the Ixodes scapularis tick — the SAME vector that transmits Lyme disease (Borrelia burgdorferi). Co-infection is common in Northeast US. Other matches to remember: Malaria → Anopheles mosquito; African sleeping sickness → Tsetse fly; Chagas → Reduviid (kissing) bug; Leishmaniasis → Sandfly (Phlebotomus/Lutzomyia); Babesiosis → Ixodes tick." },
+      { "text": "Leishmaniasis — Reduviid (kissing) bug", "explanation": "Incorrect. Leishmaniasis is transmitted by the SANDFLY (Phlebotomus or Lutzomyia)." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "VECTOR cheat sheet: Malaria/Anopheles | African sleeping/Tsetse | Chagas/Reduviid kissing bug | Leishmania/Sandfly | Babesia/Ixodes tick (same as Lyme).",
+    "pdfPage": 11,
+    "pdfQuote": "vector"
+  },
+  {
+    "id": 39,
+    "category": "Microbiology: Protozoa Differentiation — Geographic",
+    "questionText": "Which protozoan infection is correctly paired with its GEOGRAPHIC distribution?",
+    "options": [
+      { "text": "Chagas disease — Sub-Saharan Africa", "explanation": "Incorrect. Chagas is endemic to LATIN AMERICA (Mexico → Argentina), not Africa." },
+      { "text": "Visceral leishmaniasis (kala-azar) — Indian subcontinent and East Africa", "explanation": "Correct. Visceral leishmaniasis (L. donovani) is heavily endemic in the Indian subcontinent (India, Bangladesh, Nepal), East Africa (Sudan, Ethiopia), and to a lesser extent Brazil (L. infantum/chagasi). The Mediterranean form (L. infantum) is in Southern Europe and North Africa. The other Leishmania syndromes have different geographies: cutaneous = global; mucocutaneous (L. braziliensis) = Central/South America." },
+      { "text": "African sleeping sickness — Southeast Asia", "explanation": "Incorrect. African trypanosomiasis is restricted to sub-Saharan Africa (range of tsetse fly)." },
+      { "text": "Babesia microti — Equatorial Africa", "explanation": "Incorrect. Babesia microti is endemic to the Northeast US and upper Midwest US." },
+      { "text": "Plasmodium falciparum — Northern Europe", "explanation": "Incorrect. P. falciparum is endemic to sub-Saharan Africa, parts of South/Southeast Asia, Oceania, and the Amazon basin." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "GEOGRAPHY cheat sheet: Visceral leish = Indian subcontinent + East Africa. Chagas = Latin America. African sleeping = sub-Saharan Africa. Babesia = NE US.",
+    "pdfPage": 13,
+    "pdfQuote": "endemic"
+  },
+  {
+    "id": 40,
+    "category": "Microbiology: Protozoa Differentiation — Smear Findings",
+    "questionText": "Which intraerythrocytic finding on Giemsa-stained peripheral blood smear is most specific for PLASMODIUM FALCIPARUM (and not other Plasmodium species)?",
+    "options": [
+      { "text": "Schüffner's dots throughout the RBC cytoplasm", "explanation": "Incorrect. Schüffner's dots are seen in P. VIVAX and P. OVALE (not falciparum). The infected RBC is enlarged with stippled dots throughout." },
+      { "text": "Ziemann's stippling", "explanation": "Incorrect. Ziemann's stippling is seen in P. malariae infections." },
+      { "text": "Maurer's clefts (cleft-like dots) and BANANA-SHAPED gametocytes; multiple ring forms in a single RBC; high parasitemia (often >5%)", "explanation": "Correct. P. falciparum is distinguished by: (1) banana/crescent-shaped GAMETOCYTES (other species have round gametocytes); (2) ring forms predominate (later schizont stages typically NOT seen in peripheral blood because they sequester via cytoadherence); (3) multiple rings within a single RBC ('headphone' configuration); (4) Maurer's clefts; (5) often high parasitemia from infecting all RBC ages." },
+      { "text": "Tetrad 'Maltese cross' ring formation", "explanation": "Incorrect. Maltese cross is specific for BABESIA, not Plasmodium." },
+      { "text": "Pigment in infected RBC indicates P. vivax specifically", "explanation": "Incorrect. Hemozoin (malarial pigment) accumulates in ALL Plasmodium species as the parasite digests hemoglobin." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "P. falciparum smear clues: BANANA gametocytes + multiple rings per RBC + only ring stages in peripheral blood + Maurer's clefts. Banana = falciparum.",
+    "pdfPage": 10,
+    "pdfQuote": "falciparum"
+  },
+  {
+    "id": 41,
+    "category": "Microbiology: Protozoa Differentiation — Severe vs Mild",
+    "questionText": "Which COMPLICATION is essentially unique to Plasmodium falciparum and not seen with vivax or ovale?",
+    "options": [
+      { "text": "Hypnozoite-driven relapse months after initial infection", "explanation": "Incorrect. Hypnozoite relapse is unique to P. VIVAX and P. OVALE — not falciparum." },
+      { "text": "Cerebral malaria with sequestration in CNS microvasculature", "explanation": "Correct. CEREBRAL MALARIA is virtually unique to P. falciparum and is the leading cause of malaria mortality (especially in African children). Mechanism: P. falciparum-infected RBCs express PfEMP1, allowing CYTOADHERENCE to vascular endothelium. This causes sequestration of infected RBCs in cerebral capillaries → microvascular obstruction, hypoxia, ICH, coma. Other severe falciparum complications: ARDS, AKI ('blackwater fever' with massive intravascular hemolysis and hemoglobinuria), hypoglycemia, severe anemia." },
+      { "text": "Fever every 72 hours (quartan periodicity)", "explanation": "Incorrect. Quartan fever (every 72 h) is characteristic of P. MALARIAE, not falciparum." },
+      { "text": "Fever every 48 hours with a benign course", "explanation": "Incorrect. Tertian fever (48h) with benign course describes vivax/ovale. Falciparum has a less regular periodicity and is far from benign." },
+      { "text": "Romaña sign at the bite site", "explanation": "Incorrect. Romaña sign is the acute presentation of CHAGAS DISEASE (T. cruzi), not malaria." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CEREBRAL MALARIA = unique to P. falciparum. Cytoadherence via PfEMP1 → microvascular sequestration. Plus ARDS, AKI/blackwater fever, severe anemia, hypoglycemia.",
+    "pdfPage": 10,
+    "pdfQuote": "cerebral malaria"
+  },
+  {
+    "id": 42,
+    "category": "Microbiology: Protozoa Differentiation — Toxoplasma",
+    "questionText": "A pregnant woman acquires a primary infection from contact with cat feces. Which protozoan can cross the placenta and cause classic congenital chorioretinitis, intracranial calcifications, and hydrocephalus in the newborn?",
+    "options": [
+      { "text": "Plasmodium falciparum (congenital malaria)", "explanation": "Incorrect. Falciparum can cause congenital infection but does not classically produce chorioretinitis, intracranial calcifications, and hydrocephalus." },
+      { "text": "Trypanosoma cruzi (congenital Chagas)", "explanation": "Incorrect. Congenital Chagas can occur but causes hepatosplenomegaly, sepsis-like picture, not the classic chorioretinitis triad." },
+      { "text": "Toxoplasma gondii", "explanation": "Correct. Toxoplasma gondii (acquired from cat feces, undercooked meat, or contaminated water) is a TORCH infection. Primary maternal infection during pregnancy can cause congenital toxoplasmosis with the classic CLASSIC TRIAD: (1) chorioretinitis, (2) hydrocephalus, (3) intracranial calcifications (diffuse). Also: seizures, mental retardation. Cats are the DEFINITIVE host (sexual reproduction). Treat in pregnancy: spiramycin (1st trimester); pyrimethamine + sulfadiazine + leucovorin (later). Avoid pyrimethamine in 1st trimester (teratogenic)." },
+      { "text": "Leishmania donovani", "explanation": "Incorrect. Vertical transmission of Leishmania is rare and not classically associated with congenital chorioretinitis triad." },
+      { "text": "Giardia lamblia", "explanation": "Incorrect. Giardia is a luminal GI protozoan; does not cross placenta to cause congenital disease." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Congenital toxoplasmosis triad: chorioretinitis + intracranial calcifications + hydrocephalus. Cats = definitive host. Spiramycin in 1st trimester.",
+    "pdfPage": 14,
+    "pdfQuote": "Toxoplasma"
+  },
+  {
+    "id": 43,
+    "category": "Microbiology: Protozoa Differentiation — Treatment",
+    "questionText": "Which antimalarial is required for RADICAL CURE of P. vivax / P. ovale infection (to eliminate hypnozoites and prevent relapse)?",
+    "options": [
+      { "text": "Chloroquine", "explanation": "Incorrect. Chloroquine is a blood schizonticide that kills erythrocytic stages of vivax/ovale but does NOT eliminate liver hypnozoites." },
+      { "text": "Atovaquone-proguanil", "explanation": "Incorrect. Atovaquone-proguanil is effective for prevention and acute treatment of malaria but does not reliably eradicate hypnozoites." },
+      { "text": "Doxycycline", "explanation": "Incorrect. Doxycycline is used for chemoprophylaxis but is a slow-acting blood schizonticide; not effective against hypnozoites." },
+      { "text": "Primaquine (or tafenoquine)", "explanation": "Correct. Primaquine and tafenoquine are 8-aminoquinolines that are the only drugs in widespread use that kill HYPNOZOITES in the liver, providing 'radical cure' for P. vivax and P. ovale (preventing relapse). Both can cause hemolytic anemia in G6PD-deficient patients — G6PD screening is mandatory before use. Primaquine is also used as a single-dose gametocyticide for P. falciparum to reduce transmission." },
+      { "text": "Artemether-lumefantrine", "explanation": "Incorrect. Artemether-lumefantrine (Coartem) is used for acute treatment of uncomplicated falciparum malaria; does not eliminate hypnozoites." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Radical cure of vivax/ovale = PRIMAQUINE (or tafenoquine) to kill hypnozoites. Screen G6PD before use (hemolysis risk).",
+    "pdfPage": 11,
+    "pdfQuote": "primaquine"
+  },
+  {
+    "id": 44,
+    "category": "Microbiology: Protozoa Differentiation — Treatment",
+    "questionText": "Which treatment regimen is used for VISCERAL LEISHMANIASIS (kala-azar)?",
+    "options": [
+      { "text": "Chloroquine + primaquine", "explanation": "Incorrect. These are antimalarials, not antileishmanials." },
+      { "text": "Benznidazole or nifurtimox", "explanation": "Incorrect. Benznidazole/nifurtimox are used for CHAGAS DISEASE (T. cruzi), not leishmaniasis." },
+      { "text": "Liposomal amphotericin B (preferred), or pentavalent antimonials (sodium stibogluconate, meglumine antimoniate), or miltefosine (oral)", "explanation": "Correct. Visceral leishmaniasis treatment options: (1) LIPOSOMAL AMPHOTERICIN B is preferred in the US and developed countries — single high dose can cure. (2) PENTAVALENT ANTIMONIALS (sodium stibogluconate, meglumine antimoniate) — older mainstay, requires 28 days of injections, cardiotoxic. (3) MILTEFOSINE — first oral antileishmanial; teratogenic. (4) Paromomycin (injectable) — used in India. Mechanism shared concept: most work by disrupting parasite membrane sterols (similar to fungal targets) or by interfering with parasite mitochondria." },
+      { "text": "Metronidazole + paromomycin", "explanation": "Incorrect. This regimen is used for AMEBIASIS (E. histolytica) — metronidazole for tissue trophozoites + paromomycin for luminal cysts." },
+      { "text": "Pyrimethamine + sulfadiazine + leucovorin", "explanation": "Incorrect. This regimen is used for TOXOPLASMOSIS." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Visceral leishmaniasis = liposomal AMPHOTERICIN B (preferred) or pentavalent antimonials (Sb V) or miltefosine (oral).",
+    "pdfPage": 13,
+    "pdfQuote": "amphotericin"
+  },
+  {
+    "id": 45,
+    "category": "Microbiology: Protozoa Differentiation — Trypanosoma Forms",
+    "questionText": "Trypanosoma cruzi (Chagas) and Trypanosoma brucei (sleeping sickness) differ in their tissue forms. Which is true?",
+    "options": [
+      { "text": "T. cruzi is purely extracellular (only trypomastigotes in blood)", "explanation": "Incorrect. T. cruzi has BOTH extracellular trypomastigotes in blood AND INTRACELLULAR AMASTIGOTES in tissues (heart, GI smooth muscle, CNS)." },
+      { "text": "T. brucei is intracellular in cardiac muscle", "explanation": "Incorrect. T. brucei is purely EXTRACELLULAR (trypomastigotes in blood and CSF). It evades immunity by VARIANT SURFACE GLYCOPROTEIN (VSG) antigenic variation, not intracellular hiding." },
+      { "text": "T. cruzi has intracellular amastigotes in tissues (cardiac muscle, GI) that cause chronic destruction; T. brucei is purely extracellular and evades immunity via VSG antigenic variation", "explanation": "Correct. T. cruzi has both extracellular trypomastigotes in blood and INTRACELLULAR amastigotes in cardiac muscle, GI smooth muscle, and neurons — these amastigotes are responsible for the chronic destructive disease (cardiomyopathy, megacolon, megaesophagus). T. brucei remains extracellular and evades the immune system through variant surface glycoprotein (VSG) antigenic variation, which is why it causes a chronic relapsing parasitemia pattern." },
+      { "text": "Both organisms are intracellular like Leishmania", "explanation": "Incorrect. T. brucei is extracellular." },
+      { "text": "Both organisms hide in RBCs like Plasmodium", "explanation": "Incorrect. Neither organism infects RBCs as Plasmodium does." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "T. cruzi = trypomastigote (blood) + AMASTIGOTE (tissue, esp. cardiac muscle). T. brucei = purely extracellular, evades via VSG antigenic variation.",
+    "pdfPage": 12,
+    "pdfQuote": "Trypanosoma"
+  },
+  {
+    "id": 46,
+    "category": "Microbiology: Protozoa Differentiation — Leishmania Forms",
+    "questionText": "In which tissue location is the AMASTIGOTE form of Leishmania found in human disease?",
+    "options": [
+      { "text": "Free-flowing in the bloodstream", "explanation": "Incorrect. Leishmania amastigotes are NOT free in blood; they are obligate intracellular in macrophages." },
+      { "text": "Within red blood cells (intraerythrocytic)", "explanation": "Incorrect. Leishmania does NOT infect RBCs (that's Plasmodium or Babesia)." },
+      { "text": "Within macrophages (phagolysosomes) — especially reticuloendothelial system in visceral leish, or skin macrophages in cutaneous leish", "explanation": "Correct. Leishmania has two life-cycle forms: PROMASTIGOTE (flagellated, extracellular, in the sandfly vector) and AMASTIGOTE (round, no flagellum, OBLIGATE INTRACELLULAR in macrophage phagolysosomes in the human host). The amastigotes survive and replicate inside macrophages, ultimately lysing them. Tissue distribution varies by species: visceral leish (L. donovani) → reticuloendothelial macrophages (spleen, liver, marrow); cutaneous → skin macrophages; mucocutaneous → mucous membranes." },
+      { "text": "Free in cerebrospinal fluid", "explanation": "Incorrect. CSF involvement is characteristic of African trypanosomiasis (T. brucei in late stage), not Leishmania." },
+      { "text": "Within hepatocytes (liver cells)", "explanation": "Incorrect. Plasmodium has a hepatocyte stage; Leishmania does not infect hepatocytes." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Leishmania amastigote = obligate intracellular in MACROPHAGES (phagolysosomes). Promastigote = extracellular in sandfly vector.",
+    "pdfPage": 13,
+    "pdfQuote": "amastigote"
+  },
+  {
+    "id": 47,
+    "category": "Microbiology: Protozoa Differentiation — Babesia Severity",
+    "questionText": "Babesiosis is most severe in which patient population?",
+    "options": [
+      { "text": "Children under 5 years old with active immunity", "explanation": "Incorrect. While children can be infected, the most severe disease occurs in immunocompromised or asplenic patients." },
+      { "text": "Asplenic, immunocompromised, or elderly patients", "explanation": "Correct. Babesia infects and lyses RBCs, similar to malaria. The SPLEEN is critical for clearing parasitized RBCs. Asplenic patients (post-splenectomy, sickle cell with autosplenectomy) develop overwhelming hemolytic anemia and high parasitemia, often requiring exchange transfusion. Other high-risk groups: HIV/AIDS, malignancy, post-transplant, elderly. In healthy individuals with intact spleen, infection is often mild or asymptomatic. Treat: atovaquone + azithromycin (mild); clindamycin + quinine (severe). Co-infection with Borrelia/Anaplasma is common from the shared Ixodes vector." },
+      { "text": "Young healthy adults with no comorbidities", "explanation": "Incorrect. Healthy adults often have mild or asymptomatic disease." },
+      { "text": "Pregnant women only", "explanation": "Incorrect. Pregnancy is not the primary risk factor; asplenia and immunocompromise are." },
+      { "text": "Babesia is uniformly fatal regardless of host", "explanation": "Incorrect. Most healthy hosts clear the infection." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Babesia = SEVERE in asplenic/immunocompromised/elderly (no spleen to clear infected RBCs). Mild in healthy hosts. Look for Lyme co-infection.",
+    "pdfPage": 11,
+    "pdfQuote": "asplenic"
+  },
+  {
+    "id": 48,
+    "category": "Microbiology: Protozoa Differentiation — Plasmodium Periodicity",
+    "questionText": "Which Plasmodium species causes QUARTAN fever (paroxysm every 72 hours)?",
+    "options": [
+      { "text": "P. falciparum — quartan fever every 72 hours", "explanation": "Incorrect. P. falciparum has an IRREGULAR fever pattern (less synchronized than other species) — not classical quartan." },
+      { "text": "P. vivax — quartan fever every 72 hours", "explanation": "Incorrect. P. vivax causes BENIGN TERTIAN fever (every 48 hours)." },
+      { "text": "P. ovale — quartan fever every 72 hours", "explanation": "Incorrect. P. ovale also causes tertian fever (every 48 hours), similar to vivax." },
+      { "text": "P. malariae — quartan fever every 72 hours", "explanation": "Correct. P. malariae has the longest erythrocytic cycle of the four classic species (72 hours), producing fever paroxysms every 3 days = QUARTAN MALARIA. P. malariae infects only mature RBCs, limiting parasitemia, so disease is generally mild. However, it can produce a chronic low-level infection that persists for decades (no hypnozoites, but persistent blood parasitemia) and can cause nephrotic syndrome from immune complex deposition. Tertian (48h) = vivax, ovale, falciparum (irregular). Quartan (72h) = malariae." },
+      { "text": "All Plasmodium species cause fever every 72 hours", "explanation": "Incorrect. Different species have different periodicities." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Plasmodium periodicity: TERTIAN (48h) = vivax/ovale (benign), falciparum (malignant, irregular). QUARTAN (72h) = malariae (mild, can persist decades → nephrotic syndrome).",
+    "pdfPage": 10,
+    "pdfQuote": "quartan"
+  },
+  {
+    "id": 49,
+    "category": "Microbiology: Protozoa Differentiation — Chagas Treatment",
+    "questionText": "A patient newly diagnosed with acute Chagas disease (T. cruzi) is started on antitrypanosomal therapy. Which drug regimen is the standard first-line treatment?",
+    "options": [
+      { "text": "Pentamidine or suramin", "explanation": "Incorrect. Pentamidine and suramin are used for early-stage AFRICAN trypanosomiasis (T. brucei), not Chagas (T. cruzi)." },
+      { "text": "NECT (nifurtimox-eflornithine combination therapy)", "explanation": "Incorrect. NECT is for late-stage WEST AFRICAN trypanosomiasis (T. b. gambiense with CNS involvement), not Chagas." },
+      { "text": "Liposomal amphotericin B", "explanation": "Incorrect. Liposomal amphotericin B is the preferred drug for VISCERAL LEISHMANIASIS, not Chagas." },
+      { "text": "Benznidazole or nifurtimox (both nitro-prodrugs activated by parasite nitroreductase)", "explanation": "Correct. Acute Chagas disease (T. cruzi) is treated with BENZNIDAZOLE (preferred) or NIFURTIMOX. Both are nitroaromatic prodrugs activated by parasite-specific nitroreductase to free radicals that damage parasite DNA/proteins. Treatment in acute or early chronic phase can be curative. Chronic phase with established cardiomyopathy/megacolon has limited benefit from drug therapy and requires supportive management. Both drugs cause significant adverse effects." },
+      { "text": "Metronidazole + paromomycin", "explanation": "Incorrect. This combination is for AMEBIASIS (E. histolytica)." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Chagas treatment = BENZNIDAZOLE (preferred) or NIFURTIMOX. Both are nitroaromatic prodrugs. Most effective in acute/early chronic phase.",
+    "pdfPage": 12,
+    "pdfQuote": "benznidazole"
+  },
+  {
+    "id": 50,
+    "category": "Microbiology: Protozoa Differentiation — Summary",
+    "questionText": "Which of the following is correctly matched: protozoal disease ↔ characteristic findings?",
+    "options": [
+      { "text": "Babesiosis — banana-shaped gametocytes in RBCs", "explanation": "Incorrect. Banana gametocytes are P. FALCIPARUM. Babesia has Maltese cross tetrads." },
+      { "text": "Chagas disease — kala-azar (massive HSM and pancytopenia)", "explanation": "Incorrect. Kala-azar is visceral LEISHMANIASIS (L. donovani), not Chagas." },
+      { "text": "Visceral leishmaniasis — chronic megacolon and megaesophagus", "explanation": "Incorrect. Chronic megacolon/megaesophagus is CHAGAS (T. cruzi)." },
+      { "text": "African sleeping sickness (T. brucei) — TSETSE FLY vector + CNS somnolence", "explanation": "Correct. African trypanosomiasis is transmitted by the TSETSE FLY (Glossina) and produces a hemolymphatic stage followed by CNS invasion with classic somnolence, sleep-wake disturbances, and progressive neurologic decline ('sleeping sickness'). The two subspecies differ in tempo (gambiense chronic, rhodesiense acute) and geography (West vs East Africa) but both progress to CNS involvement requiring melarsoprol or NECT." },
+      { "text": "Toxoplasmosis — Romaña sign at the bite site", "explanation": "Incorrect. Romaña sign (unilateral periorbital swelling) is acute CHAGAS disease. Toxoplasmosis has chorioretinitis, intracranial calcifications, and hydrocephalus when congenital." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Africa sleeping sickness (T. brucei) = TSETSE FLY + CNS somnolence. Don't confuse: Romaña = Chagas; banana gametocyte = falciparum; kala-azar = visceral leish; megacolon = Chagas.",
+    "pdfPage": 12,
+    "pdfQuote": "sleeping sickness"
   }
 ];
