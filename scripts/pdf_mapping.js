@@ -354,6 +354,25 @@ const PDF_MAPPING = {
     "L157": "pdfs/Lecture # 157. L. Goldstein, Pharm.D. (PPT).pdf",
     "L158": "pdfs/Lecture #158. E. Petcu (PPT).pdf",
     "L159": "pdfs/Lecture # 159. S. Lewis, M.D. (PPT).pdf",
+
+    "L184": "pdfs/Lecture # 184. L. Goldstein, Pharm.D. (PPT).pdf",
+    "20-Pharmacology: Antiretroviral Drugs Part 1 (L184)": "pdfs/Lecture # 184. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L185": "pdfs/Lecture # 185. L. Goldstein, Pharm.D. (PPT).pdf",
+    "20-Pharmacology: Antiretroviral Drugs Part 2 (L185)": "pdfs/Lecture # 185. L. Goldstein, Pharm.D. (PPT).pdf",
+    "L186": "pdfs/Lecture # 186. C. Hoffman, D.O. (PPT)-2.pdf",
+    "20-Dermatology: Stasis Dermatitis and Papulosquamous Eruptions (L186)": "pdfs/Lecture # 186. C. Hoffman, D.O. (PPT)-2.pdf",
+    "L187": "pdfs/Lecture #187. C. Hoffman, D.O. (PPT).pdf",
+    "20-Dermatology: Dermatologic Signs of Systemic Diseases (L187)": "pdfs/Lecture #187. C. Hoffman, D.O. (PPT).pdf",
+    "L188": "pdfs/Lecture #188. C. Hoffman, D.O. (PPT)-1.pdf",
+    "20-Dermatology: Evaluation of Pigmented Lesions (L188)": "pdfs/Lecture #188. C. Hoffman, D.O. (PPT)-1.pdf",
+    "L189": "pdfs/Lecture # 189. J. Maccagnano, D.O. (PPT)-1.pdf",
+    "20-Dermatology: Dermatologic Emergencies (L189)": "pdfs/Lecture # 189. J. Maccagnano, D.O. (PPT)-1.pdf",
+    "L190": "pdfs/Lecture # 190. O. Savinova, Ph.D. (PPT)-1.pdf",
+    "20-Physiology: Thermoregulation (L190)": "pdfs/Lecture # 190. O. Savinova, Ph.D. (PPT)-1.pdf",
+    "L191": "pdfs/Lecture # 191. M. Gindi, M.D. (PPT).pdf",
+    "20-Cold Related Injuries & Emergency Treatment of Hypothermia (L191)": "pdfs/Lecture # 191. M. Gindi, M.D. (PPT).pdf",
+    "L192": "pdfs/Lecture # 192. M. Gindi, M.D. (PPT)-1.pdf",
+    "20-Emergency Treatment of Hyperthermia (L192)": "pdfs/Lecture # 192. M. Gindi, M.D. (PPT)-1.pdf",
 };
 
 

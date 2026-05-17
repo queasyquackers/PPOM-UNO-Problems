@@ -248,7 +248,17 @@ const testsToLoad = [
     { name: "19-Dermatology: Viral Exanthems (L180)", data: window.Test_L180 },
     { name: "19-Non-Neoplastic Skin Pathology (L181)", data: window.Test_L181 },
     { name: "19-Pathology: Skin Tumors (L182)", data: window.Test_L182 },
-    { name: "19-Week 19 CUMULATIVE EXAM", data: window.Test_Cumulative_Week19 }
+    { name: "19-Week 19 CUMULATIVE EXAM", data: window.Test_Cumulative_Week19 },
+
+    { name: "20-Pharmacology: Antiretroviral Drugs Part 1 (L184)", data: window.Test_L184 },
+    { name: "20-Pharmacology: Antiretroviral Drugs Part 2 (L185)", data: window.Test_L185 },
+    { name: "20-Dermatology: Stasis Dermatitis and Papulosquamous Eruptions (L186)", data: window.Test_L186 },
+    { name: "20-Dermatology: Dermatologic Signs of Systemic Diseases (L187)", data: window.Test_L187 },
+    { name: "20-Dermatology: Evaluation of Pigmented Lesions (L188)", data: window.Test_L188 },
+    { name: "20-Dermatology: Dermatologic Emergencies (L189)", data: window.Test_L189 },
+    { name: "20-Physiology: Thermoregulation (L190)", data: window.Test_L190 },
+    { name: "20-Cold Related Injuries & Emergency Treatment of Hypothermia (L191)", data: window.Test_L191 },
+    { name: "20-Emergency Treatment of Hyperthermia (L192)", data: window.Test_L192 }
 
 ];
 
