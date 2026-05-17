@@ -1,0 +1,1885 @@
+===== PAGE 1 =====
+Pharmacology: Antineoplastic Agents Part 1
+Nonselective (conventional) 
+Cytotoxic Chemotherapy
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+
+
+===== PAGE 2 =====
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu 
+
+===== PAGE 3 =====
+How will knowledge of cancer drugs 
+be relevant for my future practice as 
+a generalist or a specialist?
+Primary care physicians – indeed, all health care 
+professionals – are members of the cancer survivors 
+health care team. 
+3
+
+===== PAGE 4 =====
+1. Explain the fundamental principles of nonselective cytotoxic chemotherapy on 
+inducing DNA damage in relation to cell cycle phases and kinetics.
+2. Relate the anticancer mechanisms actions of each category of antineoplastic 
+drugs to their effects.
+3. Correlate the mechanisms of resistance with the mechanisms of drug action and 
+cellular mechanisms of detoxification and reduced drug accumulation.
+4. Identify the dose-limiting toxicities of the cytotoxic chemotherapies.
+5. Apply the mechanistic and pharmacokinetic properties of the anticancer drugs to 
+their potential adverse effects and drug interactions when presented with a case 
+vignette.
+6. Create a concept map or other technique integrating the mechanisms of action 
+and resistance, potential toxicities, drug -disease and drug-drug interactions to 
+the selection of drugs for combination antineoplastic therapeutic regimens.
+Following this session, students should be able to explain the 
+mechanisms of action, resistance, general adverse effects, dose -limiting 
+toxicities, cancer uses, and drug interactions:
+4
+
+===== PAGE 5 =====
+Required
+• ScholarRx Bricks  Practice Questions (questions FOR learning)
+Optional materials:
+• Video Lecture  Dr. Goldstein’s Notes handout  Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+5
+
+===== PAGE 6 =====
+Links
+Scholar Rx Bricks:
+Name of Discipline/ Organ System: General Pharmacology > Chemotherapy > Chemotherapy Agents
+Title of Brick: Alkylating and Platinum Agents
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0016 
+Title of Brick: Antimetbolite Agents
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0017 
+Title of Brick: Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics 
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0019
+Access Medicine Katzung Basic & Clinical Pharmacology, 16e, 2024; Chapter 54: Cancer Chemotherapy
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/book.aspx?bookid=3382#281742356 
+THE REVIEW BOOKS BELOW HAVE PRACTICE QUESTIONS
+LWW Health Library, Medical Education; Lippincott’s Illustrated Reviews, 8e, 2023; Chapter 37: Anticancer Drugs
+https://nyit.idm.oclc.org/login?url=https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253329619&bookid=3222 
+Access Medicine Katzung’s Pharmacology: Examination & Board Review, 14e, 2024; Chapter 54: Cancer 
+Chemotherapy
+https://nyit.idm.oclc.org/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=3461&sectionid=28
+5600220 6
+
+===== PAGE 7 =====
+Chemotherapy: 
+Cytotoxic chemicals that kill cells or stop cell division leading to apoptosis 
+when proteins that initiate apoptosis, such as p53, are functional.
+Alkylating agents
+All phases of cell cycle
+Nucleophilic attack on DNA → DNA cross-linking → DNA damage → activate  DNA 
+mismatch repair (MMR) pathway → DNA strand breaks by repair enzymes → 
+apoptosis. 
+Platinum analogs
+All phases of cell cycle
+Form covalent metal adducts with DNA → DNA cross-linking → DNA damage → 
+activates MMR ultimately leading to  apoptosis
+Antimetabolites
+S phase phase
+Folate, purine, or pyrimidine analogs that inhibit DNA synthesis and repair in 
+proliferating cells → p53 activation → apoptosis.
+Antitumor antibiotics
+G2/M phase primarily
+Intercalate in DNA, inhibit topoisomerase II, and generates free radicals → 
+irreparable strand breaks, oxidative damage to DNA, proteins, and cell membranes.
+Antimitotics
+M phase
+Inhibit polymerization in microtubules ( vinca alkaloids) or stabilize microtubules and 
+prevent depolymerization ( taxanes) → suppress spindle microtubule function → cell 
+cycle arrest → apoptosis
+Camptothecin analogs
+S phase
+Form drug-DNA-topoisomerase I complex → prevents resealing step → DNA 
+damage accumulates → apoptosis
+Epipodophyllotoxins
+late S and G2 phase
+Form drug-DNA-topoisomerase II complex → irreparable strand breaks → DNA 
+damage accumulates → apoptosis 7
+
+===== PAGE 8 =====
+Biologic and small molecule targeted agents:
+These drugs block specific molecules in 
+oncogenic pathways that lead to 
+dysregulated cancer cell growth and 
+survival interferes with growth, 
+progression, and spread of cancer.
+• Signal transduction inhibitors
+– Inhibitors of growth factors and 
+receptors
+– Inhibitors of intracellular pathways
+• Angiogenesis inhibitors
+• Antibody-drug conjugates
+• Immune checkpoint inhibitors
+• CAR-T cells
+8
+The growth of some cancers is regulated 
+by or dependent on hormones.
+• Glucocorticoids (antiproliferative and 
+lympholytic properties)
+• Estrogen receptor antagonists
+• Progesterone receptor agonists 
+(antiproliferative effects)
+• Androgen receptor antagonists
+• Steroidogenesis inhibitors
+• Gonadotropin releasing hormone 
+(GnRH) agonists and antagonists
+The hormonal drugs are not included in 
+this lecture.
+Hormonal anticancer therapeutics:
+
+===== PAGE 9 =====
+General Overview of Concepts
+9
+
+===== PAGE 10 =====
+• What are the goals of cancer therapy?
+➢ To rid the body of malignant cells
+➢ If cure is not possible, then the goal is to shrink the tumors 
+and relieve symptoms.
+• Antineoplastic therapy entails surgery, radiation, 
+anticancer drugs
+What are the patient’s goals?
+10
+
+===== PAGE 11 =====
+Helicase: unwinds DNA
+DNA primase: creates primer (which is RNA that is later removed by exonuclease)
+DNA polymerase: assembles the nucleotides, adding them to the previous 3-OH group
+Okazaki fragment: newly synthesized DNA formed on the lagging template strand
+File:DAMP chemical structure.png
+Deoxynucleotide
+(deoxyadenosine 
+monophosphate)
+11
+
+===== PAGE 12 =====
+http://www2.le.ac.uk/departments/genetics/vgec/schoolscolleges/topics/cellcycle-mitosis-meiosis 
+ 12
+• Checkpoints 
+detect DNA damage leading 
+to repair or, if not reparable, to 
+apoptosis.
+• Tumors with a high 
+percentage of proliferating 
+cells are most are responsive 
+to chemotherapy.
+• Slow-growing tumors often 
+respond to chemotherapy that 
+inflicts high-level DNA 
+damage that overwhelms the 
+tumor’s repair mechanisms.
+Cell Cycle
+S Phase 
+specific drugs
+M Phase 
+specific drugs
+G1 checkpoint
+G2 checkpoint
+
+===== PAGE 13 =====
+Anticancer agents are intended to trigger apoptosis
+• DNA alkylation or adduct 
+(phase nonspecific)
+• DNA synthesis inhibitors 
+(S phase actions)
+• Cell division inhibition 
+(M phase actions)
+• Targeted therapy
+– Block cancer growth pathways
+– Enhance T cell function
+13
+https://www.biobool.com/news/162.html 
+At each cell cycle checkpoint, p53 and other specific proteins monitor for DNA damage, may initiate 
+DNA repair processes, or direct cells down the apoptotic pathway. When cells have normal 
+checkpoint function, drug-induced DNA damage will activate apoptosis at the G1/S or G2/M 
+boundary.
+If the p53 gene product or other checkpoint proteins are mutated or absent or the checkpoint 
+function fails, damaged cells will not divert to the apoptotic pathway but will proceed through the S 
+phase and mitosis.
+
+===== PAGE 14 =====
+Integration of cell death responses
+Harrison’s Online 18e Figure 85-3
+14
+
+===== PAGE 15 =====
+1. Increased rate of DNA repair
+2. Defective cell cycle checkpoint function 
+or mismatch repair (MMR) and DNA 
+damage repair systems
+3. Impaired apoptotic pathways
+4. Decreased drug accumulation:
+• Expression of efflux pumps
+• Reduced transport into cancer cell
+• Inactivation of drugs
+• Decreased activation of prodrugs
+5. Increased expression of drug detoxifying 
+proteins, such as glutathione 
+conjugation, that neutralize free radicals
+6. Target alterations with decreased affinity 
+for the drugs
+7. Tumor evasion of immune attack
+Mechanisms of Resistance
+15
+Drug 
+Resistance
+Drug Efflux Drug 
+Inactivation
+Reduced 
+Transport
+DNA Damage 
+Repair
+Drug Target 
+Alteration
+Impaired Apoptotic
+Pathways
+Evasion of 
+Immune Attack
+Defective Checkpoint
+Function
+
+===== PAGE 16 =====
+Chemotherapy Treatment Strategies
+1. Drugs for slow-growing cancers and solid tumors damage DNA.
+2. Drugs for rapidly proliferating tumors interfere with DNA synthesis or mitosis.
+3. Endocrine therapy for hormone-responsive tumors lowers the amount or interferes with the 
+actions of the hormone, eg, estrogen or testosterone.
+4. Multi-drug combinations include cytotoxic drugs acting at specific stages of cell cycle and/or 
+targeted agents that inhibit cancer growth pathways or boost the immune response against 
+the tumor.
+• To maximize the effect and for synergy
+• To minimize the development of resistance
+5. Maximum individual doses are administered as frequently as possible, depending on:
+• The time needed for the body to recover from side effects, such as neutropenia
+• The type and stage of the cancer
+•  The treatment goals, such as curative or palliative
+6. Avoid overlap in major toxicities (ideally)
+7. Manage toxicities → antiemetics; analgesics; etc.; non-medical strategies 16
+
+===== PAGE 17 =====
+Toxicities of Antineoplastic Agents
+17
+A caution for all treatment regimens:
+The pharmacokinetics and toxicities of cancer 
+drugs vary amongst individual patients.
+It is imperative to:
+• recognize toxicities early, 
+• alter doses or discontinue offending 
+medication to relieve symptoms and 
+reduce risk, and 
+• provide vigorous supportive care.
+Rapidly proliferating cells:
+• Bone marrow suppression:  susceptibility 
+to infection; bleeding 
+• GI: Intestinal epithelium: Severe vomiting, 
+mucositis, stomatitis
+• Alopecia
+• Cutaneous reactions
+Tumor lysis syndrome:
+• Metabolic complication of chemotherapy, 
+• Usually in lymphomas and leukemias
+Drug-specific toxicities, acute and delayed
+• Cardiac; Pulmonary; Hepatic; Renal; Neuro
+Secondary malignancy:
+• Leukemia and other malignancies
+• Teratogenicity / Fetotoxicity
+• Cancer immunotherapy: See Part 2
+Chemotherapies disrupt DNA function in 
+proliferating normal cells along with tumor cells.  
+Dose-limiting toxicities are specific adverse effects 
+of a drug severe enough to prevent an increase in the 
+dose. 
+They are critical in determining the maximum tolerated 
+dose during clinical trials, especially in oncology.
+
+===== PAGE 18 =====
+Neutrophilic alkylating agents transfer an alkyl ion that attacks 
+an electrophile forming a covalent bond between the alkyl and 
+the electrophile.
+Alkylating Agents
+Cell cycle non-specific
+There are many drugs in this class.
+Alkylating agents interfere with DNA 
+integrity.
+18
+
+
+===== PAGE 19 =====
+Cell death depends on cancer cell 
+recognition of the adduct
+
+activation of DNA mismatch repair 
+(MMR) pathway creates DNA 
+strand breaks by repair enzymes
+
+triggers apoptotic response
+Alkylation of DNA: Nucleophilic attack
+19
+Alkylated N7 guanine
+Inter-/intrastrand
+cross-linking
+Essential mechanisms for cell death: 
+1) Recognition of the adduct
+2) Activation of checkpoint proteins
+3) Intact MMR / DDR systems, which induce 
+DNA strand breaks by repair enzymes
+4) Normal genes for p53 and other proteins 
+that trigger apoptosis
+Resistance develops rapidly when a drug is 
+used as a single agent.
+
+===== PAGE 20 =====
+20
+Rapidly proliferating cells:
+• Bone marrow suppression: DOSE-LIMITING anemia, infection; bleeding 
+• GI mucosal toxicity: Severe vomiting, mucositis, stomatitis
+• Cutaneous reactions / Hair loss (alopecia)
+Tumor lysis syndrome in the treatment of lymphoma and leukemia
+• Rapidly lysing cells release contents into blood stream:
+• Hyperuricemia, hyperphosphatemia, hyperkalemia, hypocalcemia,
+• Acute kidney injury
+Organ toxicity
+• Hepatic sinusoidal obstruction syndrome 
+• Pulmonary – “Busulfan lung”
+• Peripheral neuropathy
+• Extravasation (leakage) from injection site: vesicant (causes blisters / ulcerations)
+Secondary malignancy: Leukemia
+• Pregnancy: Teratogenic • Reproductive system: amenorrhea  azospermia
+Toxicities of alkylating agents are related to DNA damage of normal 
+rapidly dividing cells and can be quite severe.
+
+===== PAGE 21 =====
+Cyclophosphamide 
+Ifosfamide
+21
+
+===== PAGE 22 =====
+Citation: Chapter 54 Cancer Chemotherapy, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250603422 Accessed: May 19, 2022
+Copyright © 2022 McGraw-Hill Education. All rights reserved
+Pharmacokinetics: prodrug → cytotoxic phosphoramide mustard & urotoxic metabolite
+Hemorrhagic 
+cystitisAnti-cancer
+• I.V.; oral (high bioavailability)
+• Prodrug
+• Metabolic activation via CYP2B6 
+and other CYPs
+
+hydroxycyclophosphamide
+
+aldophosphamide
+
+phosphoramide mustard
+(active chemotherapy)
++
+Acrolein 
+(toxic to bladder epithelium)
+Slide adapted by LG
+
+===== PAGE 23 =====
+Cyclophosphamide / Ifosfamide Mechanisms
+Cytotoxicity
+Alkylation of nucleophilic groups 
+on DNA bases, esp the N7 position 
+of guanine → 
+• Inter-, intrastrand cross-linking, 
+• abnormal base pairing, 
+• miscoding, 
+• strand breakage, or
+• depurination by excision of 
+guanine residues
+Resistance
+Increased expression of
+Aldehyde dehydrogenase → 
+increased rates of metabolic 
+degradation to inactive metabolites
+Increased expression of
+Glutathione transferases → 
+detoxification of most alkylating 
+intermediates
+23
+
+===== PAGE 24 =====
+Cyclophosphamide
+• Broad use in adults and pediatrics for a 
+variety of
+➢ hematologic cancers and
+➢ solid tumors
+• Potent immunosuppressive properties 
+ treatment of autoimmune disorders, 
+e.g. 
+• Wegener’s granulomatosis, 
+• Rheumatoid arthritis, and 
+• Nephritic syndrome
+Ifosfamide
+• Testicular cancer
+• Lymphomas
+• Bone, tissue sarcomas
+• Bladder
+• Cervical
+• Ovarian
+• Lung cancer
+Therapeutic Uses
+24
+The TAKEAWAY:
+Cyclophosphamide is widely used for treatment of solid tumors, hematologic cancers 
+and it is a potent immunosuppressive, making it useful in autoimmune disorders.
+Ifosfamide has more limited uses in the treatment of some solid tumors and lymphomas.
+
+===== PAGE 25 =====
+Cyclophosphamide drug-specific serious toxicities
+25
+Mesna conjugates and 
+inactivates acrolein → 
+ toxicity risk
+In addition to alkylating agents 
+class effects (slide 22)…
+• Hemorrhagic cystitis due to 
+acrolein toxicity to bladder 
+epithelium
+Mitigation: Hydration + Mesna
+• Bone marrow suppression
+• Congestive heart failure
+May exacerbate effects of other 
+cardiotoxic medications and 
+underlying myocardial dysfunction.
+• Arrhythmias
+
+===== PAGE 26 =====
+What class of drugs induces cell death by nucleophilic attack on DNA bases, esp. the N7 
+guanine, leading to inter- and intrastrand cross-linking, abnormal base pairing, miscoding, 
+and strand breakage.
+• The alkylating agents. DNA damage activates of DNA repair systems that create DNA 
+strand breaks by repair enzymes, which activates the apopototic pathway.
+What cellular mechanisms are essential for cell death? 
+• Recognition of the adduct
+• Intact MMR and DNA damage repair systems to induce DNA strand breaks by repair 
+enzymes
+• Normal p53 gene and activation of checkpoint proteins
+• Resistance develops rapidly when a drug is used as a single agent
+What is the active cytotoxic metabolite of cyclophosphamide (and ifosfamide)?
+• Phosphoramide mustard: cyclophosphamide→ hydroxycyclophosphamide→ 
+aldophosphamide → phosphoramide mustard
+Check your knowledge
+26
+
+===== PAGE 27 =====
+What is the name of the urotoxic metabolite and how can the toxicity be mitigated?
+• Acrolein toxicity to bladder epithelium causes hemorrhagic cystitis. 
+Mesna conjugates and inactivates acrolein, decreasing the risk of hemorrhagic cystitis
+What is a mechanisms of tumor resistance to cyclophosphamide and ifosphamide? 
+• Increased expression of aldehyde dehydrogenase increases the rate of metabolism of 
+aldophosphamide to inactive carboxyphosphamide.
+Increased expression glutathione transferase detoxifies alkylating intermediates 
+Cyclophosphamide is used in the treatment of what categories of cancers?
+• Numerous solid and blood tumors and immunosuppression in autoimmune diseases.
+List the common and serious toxicities of cyclophosphamide.
+• bone marrow suppression, liver tox., cardiotox, lung tox, malignancies and class tox.
+Check your knowledge
+27
+
+===== PAGE 28 =====
+Platinum Coordination Complexes
+Cisplatin
+Carboplatin
+Oxaliplatin
+cyclohexane ligand
+oxalate ligandchloride ligand
+28
+
+===== PAGE 29 =====
+1. Passive diffusion and Cu+ 
+active transporter → 
+2. Aquation (activation) →
+3. Reacts with purine – mainly 
+N7 guanine – either on the 
+same or neighboring strands 
+of DNA →
+• replication/transcription 
+inhibition
+• cell cycle arrest
+• strand breaks
+• apoptosis – if p53 and other 
+checkpoint proteins are intact
+Platinum analogs also bind 
+nuclear and cytoplasmic 
+proteins.
+http://patentimages.storage.googleapis.com/US7759488B2/US07759488-20100720-C00002.png
+Above:
+http://www.google.com/patents/US7759488
+Below:
+Nature Reviews Drug Discovery 4, 307-320 
+(April 2005) doi:10.1038/nrd1691
+http://www.nature.com/nrd/journal/v4/n4/fig_tab/
+nrd1691_F3.html
+Cell cycle phase: Nonspecific 29
+
+===== PAGE 30 =====
+Resistance to Platinum Analogs
+Decreased uptake Efflux Inactivation Repair
+CTR1 copper 
+transporter
+1.Down-
+regulation, and
+2.  expression 
+Decreased uptake 
+is the predominant 
+mechanism of 
+resistance
+ATP7A and 
+ATP7B copper 
+transporters 
+Physiologic function: 
+removal of excess 
+copper from the cell
+ intracellular levels of
+1. Glutathione, 
+2. Metallothionein, 
+3. Other sulfhydryls 
+These molecules bind 
+to and inactivate the 
+drugs.
+Overexpression of:
+1. Nucleotide 
+excision repair 
+components, 
+2. Base-excision 
+repair, 
+3. Mismatch repair 
+(MMR), 
+4. double-strand-
+repair breaks
+Cross-resistance may occur between cisplatin and carboplatin
+Tumors resistant by MMR are not cross-resistant to oxaliplatin
+30
+
+===== PAGE 31 =====
+Platinum Analogs Mechanisms of Resistance
+ Influx, Inactivation, and  Efflux
+Nature Reviews Cancer 7, 573-584 (August 2007); doi:10.1038/nrc2167
+http://www.nature.com/nrc/journal/v7/n8/fig_tab/nrc2167_F1.html 31
+
+===== PAGE 32 =====
+Platinum Analogs Mechanisms of Resistance After DNA Binding
+Nature Reviews Cancer 7, 573-584 (August 2007); doi:10.1038/nrc2167
+http://www.nature.com/nrc/journal/v7/n8/fig_tab/nrc2167_F1.html 32
+
+===== PAGE 33 =====
+Platinum Analogs
+Common 
+features
+IV, poor CNS penetration
+renal clearance
+dosage adjustment in renal impairment
+Synergy with radiation therapy
+Interaction: T before P
+Administer taxane before platinum to limit 
+myelosuppression and increase efficacy
+Cisplatin Covalent binding to plasma proteins
+Nonenzymatic inactivation (unbound fraction)
+Vigorous saline hydration
+t½terminal up to 5 days
+Major antitumor activity in a broad range of 
+solid tumors
+Carboplatin Less reactive
+Less renal and GI toxicity and vigorous IV 
+hydration is not required (but recommended)
+Broad-spectrum activity against a wide range 
+of solid tumors
+Oxaliplatin Highly reactive
+Cytotoxicity does not depend on active 
+mismatch repair system for efficacy. 
+(Bulky ligands create a different distortion 
+pattern of DNA helix.)
+Colorectal and gastric cancer
+• Oxaliplatin is a component of first -line 
+chemotherapy of advanced colorectal 
+cancer (FOLFOX)
+33
+
+===== PAGE 34 =====
+Dose-limiting toxicities (in red) and other major toxicities
+Reminder: Being aware of major toxicities is important for optimizing the patient’s therapy. 
+Patients should be monitored for them, and the toxicities should be mitigated, if possible.
+Cisplatin Highly emetogenic – Vomiting: persistent, acute and delayed
+neurotoxicity; ototoxicity; myelosuppression, peripheral neuropathy
+Nephrotoxicity vigorous chloride diuresis with normal saline + diuretic to reduce toxicity
+Carboplatin More tolerable – Toxicities of cisplatin but less severe.
+Myelosuppression
+Oxaliplatin Hypersensitivity / Anaphylaxis – can occur within minutes
+Toxicities similar to cisplatin but less severe
+Peripheral neuropathy acute (exacerbated by cold) and delayed progressive neuropathy
+All: Leukemia, pulmonary fibrosis months to years later
+34
+
+===== PAGE 35 =====
+How does the mechanism of the platinum analogs compare with the mechanism of the 
+alkylating agents?
+• Alkylating agents: Nucleophilic attack on DNA→ cross-linking→ activate DNA repair 
+mechanisms→ apoptosis
+• Platinum analogs: Diffuse through copper transporter→ aquation to positively charged 
+molecules→ nucleophilic attack on DNA → cross-linking→ activate DNA repair 
+mechanisms→ apoptosis. Platinum analogs also bind nuclear and cytoplasmic proteins
+• Apoptosis requires that p53 and other checkpoint proteins are intact.
+What are the main mechanisms of resistance to platinum analogs?
+• Efflux (ATP7A/B copper exporters)
+• Inactivation (metalloproteinases, glutathione-S-transferase, sulfhydryls)
+• Loss of DNA mismatch repair and decreased apoptosis, and other mechanisms.
+Check your knowledge
+35
+
+===== PAGE 36 =====
+What is the definition of dose-limiting toxicities?
+• Specific adverse effects of a drug that are severe enough to prevent an increase in the dose. 
+They are critical in determining the maximum tolerated dose during clinical trials, especially in 
+oncology.
+What are the dose-limiting toxicities of cisplatin, carboplatin, and oxaliplatin?
+• Cisplatin: nephrotoxicity; carboplatin: bone marrow suppression; oxaliplatin: peripheral 
+neuropathy, acute and delayed (progressive)
+In sequential administration of a platinum analog with paclitaxel or docetaxel, why is the taxane 
+administered first?
+• To limit myelosuppression (taxane) and increase efficacy.
+• Pharmacokinetic data during clinical trials with paclitaxel administered in sequential infusion 
+with cisplatin demonstrated a decrease in paclitaxel clearance when paclitaxel was 
+administered after cisplatin. 
+• The mechanism has not been identified. 
+• Administer paclitaxel before cisplatin, when given as sequential infusions, to limit toxicity. 
+Problems associated with other taxane/platinum combinations are possible, although 
+unsubstantiated. Administering the taxane derivative before the platinum derivative seems 
+prudent.
+Check your knowledge
+36
+
+===== PAGE 37 =====
+Antimetabolites
+S phase of cell cycle
+37
+Definition: An antimetabolite is a substance that is similar in structure to a metabolite 
+or enzymatic substrate, but interferes with the normal division and function of cells
+• Antimetabolites are analogs and competitive antagonists of the natural substrates 
+– folic acid, pyrimidines, purines.
+• Antimetabolites inhibit nucleotide synthesis, which depletes the pool of 
+nucleotides necessary for RNA and DNA synthesis.
+• Antimetabolites induce cell death in rapidly dividing cells by interfering with DNA 
+synthesis (S phase of the cell cycle).
+
+===== PAGE 38 =====
+Like the alkylating agents, antimetabolites can cause:
+• Bone marrow suppression – anemia, neutropenia, thrombocytopenia
+• GI toxicity – nausea, vomiting, diarrhea, mucositis, stomatitis
+• Hepatotoxicity – ranging from elevated serum transaminases to liver failure
+• Pulmonary toxicity – pneumonitis, interstitial fibrosis
+• Nephrotoxicity – impaired kidney function and interstitial toxicity as drug deposits 
+in the kidney parenchyma and tubular epithelial cells
+• Neurotoxicity – peripheral neuropathy
+• Cutaneous reactions – rash, hand-foot syndrome, alopecia
+Antimetabolites Class Toxicities – Acute and Delayed
+38
+
+===== PAGE 39 =====
+Folate Antagonists
+Methotrexate
+Pemetrexed
+Pralatrexate
+39
+Folic acid is an essential dietary factor (vitamin B9) 
+converted by enzymatic reduction to FH4 cofactors that 
+provide methyl groups for the synthesis of thymidylate 
+and purines, precursors of RNA and DNA.
+Folic acid is essential for DNA synthesis and repair, 
+amino acid metabolism, red blood cell formation, and 
+neural tube development in the fetus.
+
+===== PAGE 40 =====
+Methotrexate (MTX) Pharmacokinetic Properties
+40
+Property Comment
+A IV administration for cancer treatment; 
+intrathecal (IT) for ALL
+Oral, IM, subQ for weekly nononcologic 
+immunosuppressant indications
+D Taken up by reduced folate transporter
+~50% plasma protein bound
+Narrow therapeutic window
+Drugs that displace methotrexate from albumin → 
+ risk of severe myelosuppression
+MTX is a Substrate of BCRP , P-gp, OATP (liver)
+Distributes in body water
+Poor CNS penetration
+Sustained concentrations in liver/kidney 
+BCRP: breast cancer resistance protein, an efflux 
+transporter expressed in brain, GI tract, placenta, and testes 
+and eliminates substrates from liver via biliary tract and via 
+transport into the proximal tubule.
+M Intracellular polyglutamation
+Low intestinal and hepatic metabolism
+Active MTX-PG accumulates intracellularly and is 
+slowly eliminated (ion trapping inside cell)
+E Urine, 80%-90% unchanged drug Dose adjustments for renal impairment
+t½ Age and dose-dependent Children: 1-6 h (ALL treatment)
+Adults: 8-15 h (cancer treatment)
+
+===== PAGE 41 =====
+1. MTX / MTX-PG block DHFR →  FH4 synthesis.
+ FH4 levels reduces synthesis of thymidylate and 
+purine nucleotides necessary of RNA and DNA 
+synthesis.
+2. MTX / MTX-PGs levels increase behind blocked DHFR  
+→ Inhibition of additional targets including TS, GART, 
+AICAR transformylase
+ 
+Cell cycle arrest, activation of p53, apoptosis
+
+Cell death in S phase
+MTX and MTX-PG 
+Mechanisms
+ Cell cycle: S phase
+41
+DHFR: dihydrofolate reductase catalyzes conversion of folic acid to FH4
+TS: thymidylate synthase, synthesis of thymidylate (thymidine monophosphate, TMP)
+GART: glycinamide ribonucleotide transformylase, intermediate in purine synthesis
+AICAR: aminoimidazole carboxamide ribonucleotide, intermediate in IMP synthesis
+
+===== PAGE 42 =====
+MTX Resistance
+42
+Impaired transport of drug into the cells
+Folic acid and analogs are polar. They are taken into cells by transport systems.
+MTX, ralitrexed, and pemetrexed are taken up by reduced folate transporters.
+ Expression of drug efflux transporter of the MRP class 
+MRP=multidrug resistance-associated protein-1
+Production of altered DHFR with reduced affinity for methotrexate 
+ Concentrations of DHFR through gene amplification or altered gene regulation
+ Ability to synthesize methotrexate polyglutamates
+
+===== PAGE 43 =====
+Methotrexate has many therapeutic uses.
+43
+Oncology uses: Broad spectrum: solid and liquid tumors, including childhood ALL
+Autoimmune disease: Weekly low dose for immunosuppressive effects
+Abortifacient: Tubular ectopic pregnancy
+Methotrexate drug-specific toxicities, in addition to class toxicities
+Bone marrow suppression
+Mucositis, stomatitis, nausea, vomiting, diarrhea
+Hepatotoxicity is cumulative and progressive
+Pneumonitis can occur at any time
+Neurotoxicity with high IV dose:
+• paralysis, palsy, seizure, coma
+• arachnoiditis with intrathecal admin
+• demyelinating encephalitis with radiation
+Pregnancy: Fetal loss - abortifacient
+Reproductive toxicities
+Impaired fertility- defective oogenesis / 
+spermatogenesis
+Leucovorin rescue: Converted to active methylene-FH4 → “rescue” host cells from:
+Bone marrow toxicity, hepatotoxicity, mucositis/stomatitis
+ Leucovorin does not reverse neurotoxicity or pulmonary toxicity.
+folinic acid
+
+===== PAGE 44 =====
+Pyrimidine analogs
+Fluoropyrimidine 
+Antimetabolites
+5-Fluorouracil (5-FU)
+Capecitabine (oral prodrug of 5-FU)
+Floxuridine (FUdR)
+uracil
+5-fluorouracil
+
+
+===== PAGE 45 =====
+Pharmacokinetics
+45
+5-FLUOROURACIL
+Activation Enzymatic ribosylation and phosphorylation of 5-FU to the active 
+nucleotides F-UMP and F-dUMP 
+Distribution Throughout body, including CSF and brain tissue
+Metabolism 5-FU dihydropyrimidine  dehydrogenase (DPD)  → 5-6-dihydrofluorouracil
+DPD is found in liver, intestinal mucosa, tumor and other tissues.
+Excretion Partially metabolized to CO2, which is excreted by the lung
+Urine, 5% unchanged drug
+t½plasma 6-20 minutes → Administered by continuous IV infusion
+Biologic t½: prolonged, tissue dependent
+CAPECITABINE Oral prodrug of 5-FU; converted primarily in the liver to inactive 
+intermediate compounds, then to 5-FU in the tumor
+Pharmacogenomics Patients with a compete deficiency of DPD (autosomal recessive trait) are 
+at risk of severe, excessive toxicity. This enzyme deficiency is seen in up 
+to 5% of cancer patients.
+
+===== PAGE 46 =====
+Goodman and Gilman 12e Figure 61-9; 61-10
+5-FU Mechanisms of Action – “Thymine-less death”
+1. 5-FU → → FUMP → FUDP ribonucleotide reductase → FdUDP  
+FdUMP → FdUMP-folate-TS 3-way complex → inhibits TS 
+activity; thymidylate synthesis is inhibited
+2. FdUDP → FdUTP → incorporated into DNA → DNA strand 
+breaks
+3. 5-FU → FUMP → FUDP → FUTP → incorporated into RNA 
+→ RNA processing and function is disrupted 
+ ⎯5-FU cytotoxicity is thought to be mediated by the 
+combined effects of both DNA- and RNA-mediated events.⎯
+ 46
+(DPD)
+
+===== PAGE 47 =====
+Resistance Therapeutic uses Toxicities
+47
+Resistance Therapeutic Uses
+Broad spectrum, solid tumors
+Toxicities
+Decreased activation
+• Cancer cells that do not 
+convert 5-FU to 5-FdUMP
+Altered substrate
+• Altered or increased 
+thymidylate synthase levels
+First line regimen: 
+Metastatic colorectal cancer
+Synergy: FOLFOX or FOLFIRI
+Folinic acid⎯5-FU⎯thymidylate
+form ternary complex
+Class toxicities: 
+• Bone marrow suppression, 
+GI, CNS neurotoxicity
+Hand-foot syndrome
+• especially with capecitabine
+• Palmar-plantar erythema: 
+desquamation, pain, and 
+sensitivity to touch
+Coronary artery vasospasm 
+leading to cardiac ischemia
+• Angina, MI, arrhythmia, 
+heart failure
+• Rare, can be fatal. 
+Topical 5-FU:
+Actinic keratosis
+Basal cell carcinoma, superficial
+Squamous cell carcinoma, in situ
+Penile carcinoma, in situ
+Fol: Folinic acid (leucovorin)
+F: 5-FU
+OX: Oxaliplatin 
+IRI: Irinotecan
+
+===== PAGE 48 =====
+Palmar-Plantar Erythema / Desquamation
+Stomatitis induced by chemotherapy
+(painful erosions and ulcerations)
+Wikipedia: Chemotheray-induced acral erythema 48
+
+===== PAGE 49 =====
+Pyrimidine Analogs
+Cytidine Analogs
+Cytarabine (Ara-C), an aribinoside
+Gemcitabine (difluouro analog of deoxycytidine)
+Azacitidine
+Decitabine
+Deoxycytidine
+Cytarabine
+arabinose ring instead 
+of a ribose ring
+Cytidine
+Gemcitabine
+
+===== PAGE 50 =====
+• Parenteral
+• Distributes to CNS
+• Extensive degradation by cytidine deaminase to inactive uracil metabolites
+− Primarily in liver
+− Cytidine deaminase activity is high in many normal tissues
+• Urine as inactive uracil metabolites 
+• t½ dependent on dose and duration
+Cytarabine / Gemcitabine Class Pharmacokinetics
+ Efficacy: Cytidine deaminase activity is  lower in AML cells and other human 
+tumors.
+ Due to the formation of intracellular nucleotides, which become incorporated 
+into DNA, the effects persist for many hours.
+http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/C_chemical_structure.png/220px-C_chemical_structure.png
+50
+
+===== PAGE 51 =====
+Mechanisms of Action:
+Enters cells via nucleoside transporter → 
+Cytarabine deoxycytidine kinase →  Ara-CMP → Ara-CDP → Ara-CTP 
+1. competitive inhibition of:
+A. DNA polymerase-α (blocks DNA synthesis), and
+B. DNA polymerase-β (prevents DNA repair) 
+2. incorporation into DNA → blocks chain elongation → activation of checkpoint 
+kinases → apoptosis
+Cytarabine Mechanisms of Action and Resistance
+51
+Mechanisms of Resistance
+•  Conversion to active form: Loss of deoxycytidine kinase (primary mechanism)
+•  Transport: Reduced intracellular levels of cytosine analog
+•  Deactivation: Increased concentration of deactivation enzymes, cytidine 
+deaminase and others may be involved
+
+===== PAGE 52 =====
+Cytarabine Therapeutic Uses and Toxicities
+Although structurally related, deoxycytidine analogs have different 
+spectrums of action.
+Cytarabine
+AML: drug of choice with daunorubicin or idarubicin
+Other leukemias and high-grade lymphomas
+Cytarabine has no activity in solid tumors
+Toxicities (typical of antimetabolites class)
+• Myelosuppression: acute severe leukopenia, thrombocytopenia, and anemia 
+with megaloblastic changes
+• Dyspnea, pulmonary infiltrates; can be fatal
+• Mucositis; nausea/vomiting; rash; alopecia
+• Cerebellar toxicity, high dose or intrathecal (ataxia; slurred speech)
+• Cerebral toxicity, high dose or intrathecal (seizures, coma)
+52
+Cytarabine 
+distributes 
+to the 
+CNS
+
+===== PAGE 53 =====
+Purine Analogs
+ 6-Mercaptopurine (6-MP)
+6-Thioguanine (6-TG)
+Fludarabine
+Cladribine
+Pentostatin
+http://www.mpbio.com/images/product-images/molecular-structure/05205562.png
+6-mercaptopurine
+http://www.mpbio.com/images/product-images/molecular-structure/02190691.png
+guanine
+53
+
+===== PAGE 54 =====
+• 6-MP hypoxanthine-guanine phosphoribosyl 
+transferase (HGPRT) →  6-thioinosinic acid → 
+6-TIMP → → 6-TG nucleotides → 
+1. TIMP inhibits 
+– several enzymes of de novo purine 
+nucleotide biosynthesis, and 
+– conversion of IMP to purine nucleotides
+2. 6-TGN incorporation into DNA → strand 
+breaks and base mispairing
+ RxList: http://www.rxlist.com/imuran-drug/clinical-pharmacology.htm 
+TPMT: thiopurine methyltransferase
+XO: xanthine oxidase
+TIMP: thioinosine monophosphate
+IMPD: inosine-5-monophosphate dehydrogenase
+GMPS: guanosine monophosphate synthase
+6-TGN: 6-thioguanine nucleotides
+6-MeMPN: 6-methylmercaptopurine nucleotides
+Cell cycle: 
+S phase
+54
+Pharmacogenetic variability: 
+• TPMT slow metabolizers
+Drug interaction:
+• Xanthine oxidase inhibitors
+Increased risk of 6-MP 
+toxicity 
+(potentially severe)
+
+===== PAGE 55 =====
+Therapeutic Uses
+• Acute lymphoblastic leukemia (ALL)
+• Component of various regimens
+Immunosuppressant
+Potent T cell suppression
+• Crohn’s disease
+Toxicities
+• Bone marrow suppression
+• Hepatotoxicity
+• GI symptoms
+• Risk of infection
+Mercaptopurine
+Drug interaction
+Allopurinol inhibits xanthine oxidase → shunts 6-MP to formation of more toxic 
+metabolite
+ Decrease 6-MP dose to ~25% of usual dose
+55
+
+===== PAGE 56 =====
+Check your knowledge
+What structural and mechanistic features are common to the antimetabolites class?
+• They are analogs of natural substrates – folic acid, pyrimidines, or purines.
+• All antimetabolites interfere with DNA and RNA synthesis by mimicking the natural 
+substrates (metabolites).
+• They inhibit nucleotide synthesis, which depletes the pool of nucleotides necessary for 
+RNA and DNA synthesis in proliferating cells→ cell cycle arrest in S phase→ cell death
+How does inhibition of dihydrofolate reductase lead to cell cycle arrest?
+• MTX and MTX-PG block DHFR→ prevents conversion of folic acid (FH2) to active FH4, 
+which reduces levels of cofactor FH4→ reduces one-carbon transfers needed for 
+synthesis of thymidylate and purines→ impairs RNA and DNA synthesis
+• Accumulation of MTX and MTX-PG behind blocked DHFR→ inhibition of additional 
+targets, including thymidylate synthase and enzymes in de novo purine synthesis.
+• Cell cycle arrest, activation of p53, apoptosis→ cell death in S phase.
+56
+
+===== PAGE 57 =====
+Check your knowledge
+How does leucovorin reduce bone marrow, liver, and GI toxicity of methotrexate therapy?
+• Leucovorin (folinic acid) administered after MTX therapy supplies reduced folate, 
+bypassing blocked DHFR and allowing normal cells to synthesize and repair DNA
+What is the mechanism of action for fluorouracil?
+• 5-Fluorouracil is an analog of uracil, a pyrimidine. 5-FU is enzymatically converted to 5-
+fluorouridine triphosphate (ribosylation and phosphorylation). 5-FUTP is incorporated 
+into RNA, inhibiting RNA synthesis.
+• 5-FU is also enzymatically converted to 5-FdUMP, which inhibits thymidylate synthase, 
+which prevents the synthesis of deoxythymidine triphosphate, which is necessary for 
+DNA synthesis.
+• They inhibit nucleotide synthesis, which depletes the pool of nucleotides necessary for 
+RNA and DNA synthesis in proliferating cells→ cell cycle arrest in S phase→ cell death
+57
+
+===== PAGE 58 =====
+Check your knowledge
+What is the function of leucovorin in the FOLFOX regimen for colorectal cancer treatment?
+• FOLFOX = folinic acid, 5-FU-oxaliplatin. 5-FU inhibits thymidylate synthase. Leucovorin 
+stabilizes binding of 5-FU to thymidylate synthase, increasing the inhibition of the 
+enzyme and efficacy of the FOLFOX and FOLFIRI regimens. 
+What drug is a cytidine analog activated to the triphosphate deoxy form, which inhibits 
+DNA polymerases and causes chain termination, and, with daunorubicin, is a first-line 
+regimen for AML?
+• Cytarabine. Ara-CTP blocks DNA polymerase (DNA synthesis inhibition) and DNA 
+polymerase- (DNA synthesis inhibition). It is also incorporated into the growing DNA 
+chain, terminating synthesis and triggering apoptosis.
+Pharmacogenomic poor metabolizers are at increased risk of mercaptopurine toxicities. 
+What is the involved enzyme?
+• Patients with reduced and deficient thiopurine methyltransferase activity have reduced 
+metabolism of 6-MP. Therefore, higher concentration of 6-MP is shunted to the toxic 
+nucleotide synthesis pathway. 58
+
+===== PAGE 59 =====
+Summary the mechanisms of the antimetabolites
+59
+Folate analogs Block DHFR, thymidylate synthase and early enzymes in purine synthesis 
+blocks RNA and DNA synthesis; cell cycle arrest
+Fluoropyrimidines Incorporation into RNA blocks RNA synthesis; inhibition of thymidylate 
+synthesis inhibits DNA synthesis; cell cycle arrest
+Cytidine analogs Inhibition of DNA polymerase (by cytarabine): 
+Triphosphorylated deoxycytidine analogs compete with dCTP for incorporation 
+into DNA by DNA polymerase, which blocks elongation of growing DNA strand, 
+leading to DNA breaks with activation of p53 and apoptosis if breaks are not 
+repaired. 
+(Other cytidine analogs have slightly different mechanisms.)
+Thiopurines Enzymatic conversion to thio-purines (toxic nucleotides), which are 
+incorporated in DNA and RNA synthesis, leading to cell cycle arrest in the S 
+phase
+Cytidine analogs Activation to triphophorylated molecule, which inhibits DNA polymerases and 
+terminates strand elongation and triggers apoptosis by incorporation into the 
+growing DNA strand. Other cytidine analogs have additional actions.
+
+===== PAGE 60 =====
+Antitumor Antibiotics
+Anthracyclines
+Doxorubicin
+Daunorubicin
+Idarubicin
+Epirubicin
+Valrubicin
+Cell cycle: nonspecific
+60
+Other antitumor antibiotics:
+Mitoxantrone, Bleomycin, Mitomycin, Dactinomycin
+Streptomyces peucetius produces anthracyclines 
+as a secondary metabolite, which is harvested for 
+use as a chemotherapeutic agent.
+By Docwarhol - Own work, CC BY-SA 4.0, 
+https://commons.wikimedia.org/w/index.ph
+p?curid=64416332
+
+===== PAGE 61 =====
+PK Doxorubicin
+A I.V.
+D
+Protein binding ~75%
+Widely distributed
+Accumulates in tissues
+P-glycoprotein substrate
+Does not cross BBB
+M CYP2D6, 3A4 Inhibits several CYPs including CYP3A4
+E Feces: Biliary excretion, unchanged drug and metabolites
+t½ Multiphasic; t½terminal range 20 to 48 h (age and gender differences)
+Pegylated liposomal doxorubicin: ~55 h
+ Anthracyclines turn urine red
+http://medicinesdelivery.com/image/cache/data/products/doxorubicin50mg25ml-500x500.jpg
+61
+rubicin → ruby → red
+
+===== PAGE 62 =====
+Topoisomerase II
+inhibition
+Intercalation
+in the DNA Free radical formation
+3-way complex:
+Drug ⎯ topo II ⎯ DNA 
+complex 
+
+Irreparable DNA breaks
+
+apoptosis
+Insert between adjacent 
+base pairs 
+
+local uncoiling 
+
+1.Blocks DNA and RNA 
+synthesis and repair, and
+2.Causes DNA strand 
+scission
+Semiquinone and oxygen 
+free radicals
+(iron-dependent, enzyme-
+mediated reductive process)
+H2O2 and -OH radicals
+
+attack DNA and oxidize DNA 
+bases
+
+single strand DNA
+scission
++
+damage to proteins and 
+membranes
+Anthracyclines Mechanisms of Action
+62
+http://en.wikipedia.org
+/wiki/Doxorubicin
+
+===== PAGE 63 =====
+Multidrug resistance is common 
+1. cellular export of drug by MRP transporter family and by the closely related 
+breast cancer resistance protein (BCRP) transporters
+2.  glutathione peroxidase activity
+3.  activity or mutation of topoisomerase II
+4.  repair of DNA strand breaks
+Anthracyclines Therapeutic Uses and Resistance mechanisms
+MRP: multidrug resistance-associated protein
+63
+Doxorubicin therapeutic uses: Broad spectrum
+Wide range of solid tumors, lymphomas, multiple myeloma, sarcomas
+
+===== PAGE 64 =====
+Anthracyclines Adverse Effects
+Cardiotoxicity
+the most distinctive 
+toxicity
+Pericarditis-myocarditis syndrome
+Chronic: cumulative dose-related, irreversible, 
+progression to cardiomyopathy and acute left 
+ventricular failure
+Cardiomyopathy is proportional to the cumulative 
+exposure.
+Major dose-limiting effects Myelosuppression (major)
+Mucositis, stomatitis
+Neurotoxicity Peripheral and CNS
+Injection-related Extravasation / severe local vesicular effects
+Radiation recall Severe local skin reaction in irradiated tissues
+Malignancy Leukemogenic; myelodysplastic syndrome 64
+
+===== PAGE 65 =====
+65
+Severe tissue necrosis after extravasation of doxorubicin
+Fitzpatrick's Dermatology in General Medicine, 8e
+ Figure 227-9
+Upper left: Radiation dermatitis: acute, recall phenomenon 
+This patient had breast cancer. She had a lumpectomy, methotrexate, and 
+x-ray therapy and developed painful erythema and erosions at the 
+irradiated site.
+Fitzpatrick's Color Atlas and Synopsis of Clinical Dermatoloty, 7e > 
+Chapter 227. Cytotoxic and Antimetabolic Agents
+Figure 10-29
+Upper right: Reactivation of solar erythema 2 days after high -dose
+methotrexate administration to a young woman 
+with choriocarcinoma. 
+Fitzpatrick's Dermatology in General Medicine, 8e > 
+Chapter 227. Cytotoxic and Antimetabolic Agents
+Figure 227-8
+
+
+===== PAGE 66 =====
+Anthracyclines Drug Interactions
+Doxorubicin + Trastuzumab both cause cardiac toxicity
+ risk of cardiac toxicity
+Paclitaxel + Anthracycline Paclitaxel competition for CYP3A4 and P -
+glycoprotein → Paclitaxel increases anthracycline 
+serum concentration
+ risk of anthracyline toxicity 
+➢ Practice Point: The anthracycline should be administered prior to the taxane.
+ “A before T”
+Metabolic and transport related Inducers / inhibitors / substrates of CYP2D6, 
+CYP3A4, P-glycoprotein
+66
+
+===== PAGE 67 =====
+Natural Products
+Mitotic inhibitors
+• Vinca Alkaloids
+• Taxanes
+Topoisomerase inhibitors
+• Camptothecin Analogs
+• Epipodophyllotoxins
+67
+
+===== PAGE 68 =====
+Figure: https://en.wikipedia.org/wiki/Catharanthus_roseus#/media/File:Catharanthus_roseus24_08_2012_(1).JPG 
+Vinca Alkaloids: 
+Vincristine
+Vinblastine
+Vinorelbine
+(semisynthetic)
+68
+Catharanthus roseus 
+Madigascar Periwinkle
+The leaves are the source of vinca alkaloids, 
+vinblastine and vincristine
+
+===== PAGE 69 =====
+Vincristine pharmacology
+69
+PK IVPgp substrate, poor penetration of CSFCYP3A4 metabt½ 20-45 h
+Intrathecal admin contraindicated
+MOA Inhibition of microtubule polymerization arresting the cell in metaphase (next slide)
+Resistance MDR resistance is common  Multidrug resistant tumor cells display cross-resistance 
+to vinca alkaloids, the epipodophyllotoxins, anthracyclines, and taxanes.
+• Expression of efflux pumps MDR, MRP , BCRP , Pgp
+• Mutations in β-tubulin or  expression of the β-tubulin 
+Uses Vinca alkaloids have different activities and therapeutic uses
+Vincristine: Pediatric and adult leukemias, lymphomas, solid tumors
+➢ Treatment of choice to induce remission in childhood leukemia 
+Vincristine
+toxicities
+Neurotoxicity (main dose-limiting toxicity, can be severe) 
+Peripheral neuropathy, autonomic nervous system dysfunction, motor dysfunction
+Constipation: can be severe with abdominal pain / obstruction
+Vesicant  Extravasation
+CYP3A4 and P-gp related drug interactions
+
+===== PAGE 70 =====
+Inhibition of microtubule function results in 
+mitotic arrest in metaphase and brings cell 
+division to a halt, which then leads to cell death.
+70
+Vinca alkaloids bind to -tubulin 
+and block polymerization with 
+alpha tubulin.
+Cells are blocked in mitosis.
+(M phase)  Apoptosis
+
+===== PAGE 71 =====
+Taxanes
+Paclitaxel
+Nabpaclitaxel
+nanoparticle 
+albumin-bound paclitaxel
+Docetaxel
+Cabazitaxel
+Cell division arrest in M phase of cell cycle
+71
+Taxus baccata (European yew)
+Paclitaxel is isolated from the bark of the Pacific yew.
+Docetaxel is derived from needles of the European yew.
+
+===== PAGE 72 =====
+Pharmacokinetics: Taxanes
+Paclitaxel Docetaxel
+• Pgp substrate, extensive protein binding
+• Hepatic CYP2C8, CYP3A4 metabolism
+• Fecal excretion of metabolites
+• t½terminal 13-52 hours
+Nonlinear clearance
+likely due to ethanol-polyoxyethylated castor oil 
+diluent
+• Linear clearance
+• Hepatic CYP3A4 metabolism
+• Pgp substrate
+• Extensive protein binding 
+(albumin, alpha-1-acid gp, lipoproteins)
+• fecal excretion of metabolites
+• t½terminal ~11 hours
+Nabpaclitaxel:
+Nanopartical albumin bound paclitaxel
+Soluble in aqueous solution
+Higher serum concentrations / increased clearance 
+→ similar systemic exposure
+Cabazitaxel
+Lower affinity for MDR proteins
+Hepatic CYP3A4 metabolism
+t½ 95 h
+Note: High potential for CYP-mediated drug interactions.
+72
+
+===== PAGE 73 =====
+High affinity binding to -tubulin 
+stabilizes microtubules and 
+prevents microtubule disassembly.
+
+Defects in mitotic spindle 
+assembly, chromosome 
+segregation, and cell division 
+structures derived from 
+microtubules accumulate.
+
+Cell cycle arrest
+
+Apoptosis
+Taxanes bind -tubulin with high 
+affinity.
+73
+Lippincott® Illustrated Reviews: Pharmacology, 
+7e,  2019 Chapter 35 Anticancer Drugs
+Therapeutic Uses
+Paclitaxel
+Broad spectrum of 
+solid tumorsNabpaclitaxel
+Docetaxel
+Cabazitaxel
+Treatment of castration-resistant 
+metastatic prostate cancer
+Resistance:
+ Expression of MDR genes
+Mutations in β-tubulin
+Toxicities
+• Myelosuppression with neutropenia
+• Peripheral neuropathy (“glove-stocking”)
+• Radiation recall: Severe reaction in 
+irradiated skin
+• Fluid retention, ascites, general edema
+• Extravasation / severe vesicular effects
+• Administer anthracycline before taxane
+
+===== PAGE 74 =====
+Chemotherapy‐induced peripheral neurotoxicity: A critical analysis
+CA A Cancer J Clinicians, Volume: 63, Issue: 6, Pages: 419-437, First published: 11 November 2013, DOI: (10.3322/caac.21204) 
+
+
+===== PAGE 75 =====
+Camptothecin Analogs
+Irinotecan
+Topotecan
+Arrest in S phase of cell cycle
+75
+C10
+Carboxylesterase site
+Chiral center: C20
+C10
+IRINOTECAN
+TOPOTECAN
+CAMPTOTHECIN
+Requirements for biologic activity:
+1. S-conformation of the chiral center 
+at C20 in the lactone ring
+2. C10 hydroxyl group 
+• Irinotecan is a prodrug converted to 
+active SN-38 by carboxylesterase
+• Topotecan is not a prodrug
+ Camptotheca accuminata
+Camptothecins are extracted from bark.
+
+===== PAGE 76 =====
+Closed-ring form is active.  Open-ring form is inactive.
+dynamic equilibrium
+Active closed-ring lactone  Inactive open-ring configuration
+In biologic fluids, active SN-38 and topotecan lactone 
+are hydrolyzed to inactive open ring carboxylate forms.
+
+76
+Irinotecan Topotecan
+1. Irinotecan carboxyesterase → active SN-38
+2. SN-38 → UGT1A1 → glucuronide 
+metabolite (inactive)
+No conversion to active lactone ring form 
+• Plasma / hepatic metabolism → inactivate 
+metabolite
+UGT1A1 is not involved
+Pharmacogenomics and Irinotecan:
+UGT1A1*28 →  deficient UGT activity → irinotecan toxicity, especially diarrhea, can be severe.
+Dose reduction is recommended in patients with the homozygous UGT1A1*28 allele.
+
+===== PAGE 77 =====
+1. Drug binds to topoisomerase I-nicked DNA 
+complex.
+2. DNA strand resealing is prevented.
+3. Single strand breaks in DNA accumulate.
+4. Eventually, the replication fork collides with 
+the complex → irreversible double-strand 
+DNA break → arrest in S phase → cell 
+death.
+Camptothecins Mechanism of Action
+http://www.australianprescriber.com/magazine/25/5/108/10/ 
+Figure 1 (Black oval with C = Camptothecin)
+Drug-topoisomerase I-DNA 
+ternary complex
+77
+Mechanisms of Resistance: not well understood
+• Drug efflux
+• Topoisomerase I alterations 
+• Other potential mechanisms
+
+===== PAGE 78 =====
+Camptothecins 
+Treatment of metastatic and recurrent 
+and progressive tumors
+Irinotecan
+Numerous solid tumors
+Metastatic colorectal cancer FOLFIRI
+Folinic acid – 5-FU – Irinotecan
+Topotecan
+Recurrent ovarian cancer
+Small cell lung cancer
+Cervical cancer
+Ewing’s sarcoma
+Rhabdomyosarcoma
+CNS malignancy
+78
+Adverse effects
+Bone marrow suppression – Dose-limiting: Both
+Neutropenia can be severe and potentially fatal 
+especially when used in combination with other 
+drugs that cause hematological toxicity 
+Diarrhea – Dose-limiting: Irinotecan
+Diarrhea may be severe with 
+electrolyte disturbances, dehydration, and 
+complicated by colitis, ulceration, bleeding
+Cholinergic sx may occur w. higher doses
+Typical adverse effects of chemo drugs
+mucositis, nausea, vomiting, pulmonary toxicity, 
+renal toxicity, etc.
+
+===== PAGE 79 =====
+Epipodophyllotoxins
+Etoposide
+79
+Therapeutic uses Toxicities
+Numerous hematologic cancers 
+and solid tumors, including
+small cell lung cancer and
+testicular cancer 
+(with bleomycin and cisplatin)
+Myelosuppression 
+Nausea/vomiting
+Mucositis 
+Alopecia
+Secondary acute leukemia
+Podophyllum peltatum 
+American Mayapple 
+(Mandrake)
+Epipodophyllotoxins are 
+extracted from the roots.
+
+===== PAGE 80 =====
+1. Formation of a ternary complex
+drug-DNA-topoisomerase II complex
+2. Inhibition of topoisomerase II →  prevents resealing 
+of double-strand breaks
+3. The enzyme remains bound to the free end of the 
+broken DNA strand → accumulation of DNA breaks 
+→ arrest → apoptosis
+Cell cycle arrest in late S and G2 phase
+Epipodophyllotoxins Mechanisms
+80
+Resistance Mechanisms
+1. Efflux: 
+2. Topoisomerase II alterations
+2. Mutations in p53 tumor suppressor gene 
+• P-53 is required for inducing apoptosis
+Lippincott’s Illustrated Reviews: Pharmacology 8e Figure 37.30
+
+===== PAGE 81 =====
+A broad spectrum chemotherapy causes irreversible cardiotoxicity that can lead to left 
+ventricular dysfunction, cardiomyopathy, and heart failure, apparently resulting from 
+generation of free radicals and lipid peroxidation. What is the mechanism of action of this 
+drug?
+• 1) DNA intercalation, 2) inhibition of topoisomerase II which inhibits DNA and RNA 
+synthesis, DNA repair, and results in DNA fragmentation, 3) generation of free radicals, 
+which damage DNA, membrane functions. 
+What are the other dose-limiting toxicities of this drug?
+• Bone marrow suppression, mucositis/stomatitis
+A patient with a history of rhabdosarcoma treated with a chemotherapy regimen that 
+includes vincristine continues to suffer with painful pins and needles sensation, motor 
+weakness and muscle cramps in his upper and lower extremities. What is the adverse 
+effect?
+• Sensorimotor peripheral neuropathy, which is a dose-limiting toxicity of vincristine.
+Check your knowledge
+81
+
+===== PAGE 82 =====
+What is the difference between the mechanisms of action of the vinca alkaloids and the 
+taxanes?
+• Vinca alkaloids inhibit polymerization in microtubules
+• Taxanes stabilize microtubules and prevent depolymerization
+• Both suppress spindle microtubule function → cell cycle arrest → apoptosis
+A patient diagnosed with breast cancer receives paclitaxel intravenous infusion once 
+weekly every three weeks as a component of her adjuvant chemotherapy regimen that 
+includes doxorubicin and cyclophosphamide.
+What are the dose-limiting toxicities of each drug in the regimen?
+• Paclitaxel: bone marrow suppression and peripheral neuropathy (sensorimotor, glove-
+stocking)
+• Doxorubicin: cardiotoxicity/cardiomyopathy (cumulative dose); bone marrow 
+suppression
+• Cyclophosphamide: bone marrow suppression and hemorrhagic cystitis (due to 
+acrolein metabolites)
+Check your knowledge
+82
+
+===== PAGE 83 =====
+A patient with KRAS mutated metastatic colorectal cancer is given the FOLFIRI regimen. What 
+does “IRI” represent and what is its dose-limiting side effect?
+• IRI = irinotecan, a prodrug converted to toxic SN-38, a topoisomerase I inhibitor prevents 
+resealing of DNA strand, leading to strand breaks and cell cycle arrest in the S phase.
+• DNA strand breaks causes cell cycle arrest in late S and G2 phase. 
+What are other dose-limiting toxicities of this drug?
+• Bone marrow suppression, mucositis/stomatitis
+A28-year-old male diagnosed with testicular cancer is treated with the first-line regimen,  BEP 
+regimen. E represents a drug that prevents resealing of the double strand breaks in DNA 
+ultimately leading to cell cycle arrest in S-G2 phase. What is the name of the drug?
+• Etoposide inhibits of topo II by forming drug-DNA-topoisomerase II complex, which prevents 
+resealing of double-strand breaks, causing irreversible double-strand breaks. 
+• Accumulation of DNA double strand breaks causes cell cycle arrest in late S and G2 phases 
+and apoptosis.
+Check your knowledge
+83
+
+===== PAGE 84 =====
+What are the mechanisms of action of the other two drugs in the BEP regimen? 
+(I don’t expect you to know the answer so I will tell you because it is Boards Relevant.)
+• B=Bleomycin, an antitumor antibiotic that forms a complex with DNA and iron: DNA-B-
+Fe2+, which is oxidized to DNA-B-Fe3+. Superoxide and hydroxyl radicals are formed, 
+which attack phosphodiesterase bonds of DNA, resulting in strand breaks and 
+chromosomal aberrations. Bleomycin causes pulmonary fibrosis (“bleomycin lung”).
+• P=platinum=cisplatin. Chlorine molecules on the structure are replace by water 
+molecules (aquation) in the low-chloride environment inside the tumor cell, which then 
+attacks purine residues on DNA, especially the N7 of guanine, leading to inter- and 
+intrastrand breaks and miscoding – apoptosis (if recognized by p53 and other 
+checkpoint proteins). Nephrotoxicity is the dose-limiting toxicity.
+What is an important mechanism of resistance common to the anthracyclines and the 
+antitumor natural products?
+• Efflux via upregulated expression of efflux pumps: multidrug resistance (MDR) pumps 
+including MDR1= P-glycoprotein, multidrug resistance-associated protein (MRP), 
+breast cancer resistance pump (BCRP).
+Check your knowledge
+84
+
+===== PAGE 85 =====
+Summary: 
+Nonselective Chemotherapy: 
+Classifications and Mechanisms of Cytotoxicity
+85
+
+===== PAGE 86 =====
+Here is a framework of the main ideas about the pharmacotherapy 
+of cancer.
+86
+Cancer genetics 
+and biology
+Drugs
+Combination
+therapies
+Surgery Radiation
+Drugs targeting 
+specific cancer 
+pathways
+Chemotherapy Hormonal 
+therapy
+Neoadjuvant 
+therapy
+Adjuvant 
+therapy
+
+===== PAGE 87 =====
+SITES OF ACTION
+Goodman & Gilman’s The Pharmacological Basis of Therapeutics, 13e, 2018; Figure 65-2
+87
+
+===== PAGE 88 =====
+Mechanisms of Cancer Resistance
+88
+Cmap by Leslie Goldstein, Pharm.D.
+
+===== PAGE 89 =====
+89
+Class / Drugs Mechanism 
+Alkylating/ Adducting Agents: 
+Cell cycle nonspecific (occurs at any stage). 
+Cells are most vulnerable in G1 and S phases
+Alkylating agents
+Cyclophosphamide
+Ifosfamide
+Many others
+Transfer alkyl groups N7 position of guanine (mainly) and other points 
+on DNA. Also react with other cellular nucleophiles.
+Alkylation of DNA results inter- and intrastrand cross-linking, abnormal 
+base pairing (miscoding), scission of DNA backbone, and strand 
+breakage.
+Platinum analogs
+Cisplatin
+Carboplatin
+Oxaliplatin
+Binds guanine in DNA, forming adducts with inter- and intrastrand 
+cross-linking, which inhibits polymerases, thus inhibiting DNA 
+replication/synthesis and RNA synthesis.
+
+===== PAGE 90 =====
+90
+Class / Drugs Mechanism 
+Antimetabolites: S phase cell cycle specific activity
+Antifolates:
+Methotrexate
+Two others
+Inhibit DHFR and thymidylate synthase, which inhibits de novo purine 
+nucleotide synthesis
+Fluoropyrimidines:
+5-Fluorouracil
+Capecitabine
+One more
+1- 5-FU is converted to 5-FdUMP . Forms stable complex:
+5-FdUMP-folate-thymidylate synthase that inhibits thymidylate synthesis
+2- Incorporation of FdUTP into DNA leads to strand breaks and faulty DNA 
+replication
+3- Incorporation of FUTP in RNA disrupts RNA production and function
+Deoxycytidine analogs:
+Cytarabine
+Gemcitabine
+Cyt: Converted to active Ara-CTP that inhibits DNA polymerase , which 
+blocks DNA synthesis, and polymerase , which blocks DNA repair; 
+AraCTP incorporation into DNA and RNA inhibits their synthesis.
+Gem: similar, plus inhibition of ribonucleotide reductase
+Purine antagonists
+6-Mercaptopurine
+6-Thioguanine
+Two others
+Converted to toxic purine nucleotides that are incorporated into DNA and 
+RNA inhibiting their synthesis
+
+===== PAGE 91 =====
+91
+Antitumor Antibiotics: Cell cycle nonspecific
+Antitumor Antibiotics:
+Doxorubicin
+Four other 
+anthracyclines,
+Two other antibiotics
+1- Topoisomerase II inhibition and irreversible DNA strand scission
+2- Intercalation by high-affinity binding to DNA, blocking DNA and RNA 
+synthesis
+3- Generation of semiquinone free radicals that cause damage to DNA, 
+proteins, and cell membranes
+Microtubule Inhibitors: M phase cell cycle specific in metaphase
+Vinca alkaloids:
+Vinblastine
+Vincristine
+Vinorelbine
+Bind -tubulin → blocks tubulin polymerization into microtubules → 
+disrupts formation of mitotic spindle → chromosomal segregation and cell 
+proliferation are inhibited
+Taxanes:
+Paclitaxel
+Docetaxel
+Two others
+Bind with high-affinity to microtubules → stabilizes existing microtubules → 
+prevents mitotic spindle function and cell division → cell cycle arrest → 
+apoptosis
+Topoisomerase Inhibitors: S phase cell cycle specific
+Camptothecins:
+Irinotecan
+Topotecan 
+Inhibit topoisomerase I, the enzyme that cuts and religates single DNA 
+strands
+Epipodophyllotoxins:
+Etoposide
+Inhibits topoisomerase II, the enzyme that cuts and re-ligates 
+double stranded DNA
+
+===== PAGE 92 =====
+Date of download:  4/10/2021
+Copyright © Wolters Kluwer
+From: 35 Anticancer Drugs
+Chemo Man—a summary of toxicity of chemotherapeutic agents.
+Legend:
+Lippincott® Illustrated Reviews: Pharmacology, 7e,  2019
+92
+
+===== PAGE 93 =====
+What class of drugs induces cell death by nucleophilic attack on DNA bases, esp. the N7 
+guanine, leading to inter- and intrastrand cross-linking, abnormal base pairing, miscoding, 
+and strand breakage.
+• The alkylating agents. DNA damage activates of DNA repair systems that create DNA 
+strand breaks by repair enzymes, which activates the apopotosis pathway.
+What cellular mechanisms are essential for cell death? 
+• Recognition of the adduct
+• Intact mismatch repair and DNA damage repair systems to induce DNA strand breaks 
+by repair enzymes
+• Normal p53 gene and activation of checkpoint proteins
+• Resistance develops rapidly when a drug is used as a single agent
+What is the active cytotoxic metabolite of cyclophosphamide (and ifosfamide)?
+• Phosphoramide mustard: cyclophosphamide→ hydroxycyclophosphamide→ 
+aldophosphamide → phosphoramide mustard
+Check your knowledge
+93
+
+===== PAGE 94 =====
+What is the name of the urotoxic metabolite and how can the toxicity be mitigated?
+• Acrolein toxicity to bladder epithelium causes hemorrhagic cystitis. 
+• Mesna conjugates and inactivates acrolein, decreasing the risk of hemorrhagic cystitis
+What is a mechanisms of tumor resistance to cyclophosphamide and ifosphamide? 
+• Increased expression of aldehyde dehydrogenase increases the rate of metabolism of 
+aldophosphamide to inactive carboxyphosphamide.
+• Increased expression glutathione transferase detoxifies alkylating intermediates 
+Cyclophosphamide is used in the treatment of what categories of cancers?
+• Numerous solid and blood tumors and immunosuppression in autoimmune diseases.
+List the common and serious toxicities of cyclophosphamide.
+• bone marrow suppression, liver tox., cardiotox, lung tox, malignancies and class tox.
+Check your knowledge
+94
+
+===== PAGE 95 =====
+How does the mechanism of the platinum analogs compare with the mechanism of the 
+alkylating agents?
+• Alkylating agents: Nucleophilic attack on DNA→ cross-linking→ activate DNA repair 
+mechanisms→ apoptosis
+• Platinum analogs: Diffuse through copper transporter→ aquation to positively charged 
+molecules→ nucleophilic attack on DNA → cross-linking→ activate DNA repair 
+mechanisms→ apoptosis. Platinum analogs also bind nuclear and cytoplasmic proteins
+• Apoptosis requires that p53 and other checkpoint proteins are intact.
+What are the main mechanisms of resistance to platinum analogs?
+• Efflux (ATP7A/B copper exporters)
+• Inactivation (metalloproteinases, glutathione-S-transferase, sulfhydryls)
+• Loss of DNA mismatch repair and decreased apoptosis, and other mechanisms.
+Check your knowledge
+95
+
+===== PAGE 96 =====
+What is the definition of dose-limiting toxicities?
+• Specific adverse effects of a drug that are severe enough to prevent an increase in the dose. 
+They are critical in determining the maximum tolerated dose during clinical trials, especially in 
+oncology.
+What are the dose-limiting toxicities of cisplatin, carboplatin, and oxaliplatin?
+• Cisplatin: nephrotoxicity; carboplatin: bone marrow suppression; oxaliplatin: peripheral 
+neuropathy, acute and delayed (progressive)
+In sequential administration of a platinum analog with paclitaxel or docetaxel, why is the taxane 
+administered first?
+• To limit myelosuppression (taxane) and increase efficacy.
+• Pharmacokinetic data during clinical trials with paclitaxel administered in sequential infusion 
+with cisplatin demonstrated a decrease in paclitaxel clearance when paclitaxel was 
+administered after cisplatin. 
+• The mechanism has not been identified. 
+• Administer paclitaxel before cisplatin, when given as sequential infusions, to limit toxicity. 
+Problems associated with other taxane/platinum combinations are possible, although 
+unsubstantiated. Administering the taxane derivative before the platinum derivative seems 
+prudent.
+Check your knowledge
+96
+
+===== PAGE 97 =====
+A broad spectrum chemotherapy causes irreversible cardiotoxicity that can lead to left 
+ventricular dysfunction, cardiomyopathy, and heart failure, apparently resulting from 
+generation of free radicals and lipid peroxidation. What is the mechanism of action of this 
+drug?
+• 1) DNA intercalation, 2) inhibition of topoisomerase II which inhibits DNA and RNA 
+synthesis, DNA repair, and results in DNA fragmentation, 3) generation of free radicals, 
+which damage DNA, membrane functions. 
+What are the other dose-limiting toxicities of this drug?
+• Bone marrow suppression, mucositis/stomatitis
+A patient with a history of rhabdosarcoma treated with a chemotherapy regimen that 
+includes vincristine continues to suffer with painful pins and needles sensation, motor 
+weakness and muscle cramps in his upper and lower extremities. What is the adverse 
+effect?
+• Sensorimotor peripheral neuropathy, which is a dose-limiting toxicity of vincristine.
+Check your knowledge
+97
+
+===== PAGE 98 =====
+What is the difference between the mechanisms of action of the vinca alkaloids and the 
+taxanes?
+• Vinca alkaloids inhibit polymerization in microtubules
+• Taxanes stabilize microtubules and prevent depolymerization
+• Both suppress spindle microtubule function → cell cycle arrest → apoptosis
+A patient diagnosed with breast cancer receives paclitaxel intravenous infusion once 
+weekly every three weeks as a component of her adjuvant chemotherapy regimen that 
+includes doxorubicin and cyclophosphamide.
+What are the dose-limiting toxicities of each drug in the regimen?
+• Paclitaxel: bone marrow suppression and peripheral neuropathy (sensorimotor, glove-
+stocking)
+• Doxorubicin: cardiotoxicity/cardiomyopathy (cumulative dose); bone marrow 
+suppression
+• Cyclophosphamide: bone marrow suppression and hemorrhagic cystitis (due to 
+acrolein metabolites), congestive heart failure
+Check your knowledge
+98
+
+===== PAGE 99 =====
+A patient with KRAS mutated metastatic colorectal cancer is given the FOLFIRI regimen. What 
+does “IRI” represent and what is its dose-limiting side effect?
+• IRI = irinotecan, a prodrug converted to toxic SN-38, a topoisomerase I inhibitor prevents 
+resealing of DNA strand, leading to strand breaks and cell cycle arrest in the S phase.
+• DNA strand breaks causes cell cycle arrest in S phase. 
+What are other dose-limiting toxicities of this drug?
+• Bone marrow suppression, mucositis/stomatitis
+A28-year-old male diagnosed with testicular cancer is treated with the first-line regimen,  BEP 
+regimen. E represents a drug that prevents resealing of the double strand breaks in DNA 
+ultimately leading to cell cycle arrest in S-G2 phase. What is the name of the drug?
+• Etoposide inhibits of topo II by forming drug-DNA-topoisomerase II complex, which prevents 
+resealing of double-strand breaks, causing irreversible double-strand breaks. 
+• Accumulation of DNA double strand breaks causes cell cycle arrest in late S and G2 phases 
+and apoptosis.
+Check your knowledge
+99
+
+===== PAGE 100 =====
+What are the mechanisms of action of the other two drugs in the BEP regimen? 
+(I don’t expect you to know the answer so I will tell you because it is Boards Relevant.)
+• B=Bleomycin, an antitumor antibiotic that forms a complex with DNA and iron: DNA-B-Fe2+, 
+which is oxidized to DNA-B-Fe3+. Superoxide and hydroxyl radicals are formed, which attack 
+phosphodiesterase bonds of DNA, resulting in strand breaks and chromosomal aberrations. 
+Bleomycin causes pulmonary fibrosis (“bleomycin lung”).
+• P=platinum=cisplatin. Chlorine molecules on the structure are replace by water molecules 
+(aquation) in the low-chloride environment inside the tumor cell, which then attacks purine 
+residues on DNA, especially the N7 of guanine, leading to inter- and intrastrand breaks and 
+miscoding – apoptosis (if recognized by p53 and other checkpoint proteins). Nephrotoxicity is 
+the dose-limiting toxicity.
+What is an important mechanism of resistance common to the anthracyclines and the antitumor 
+natural products?
+• Efflux via upregulated expression of efflux pumps: multidrug resistance (MDR) pumps including 
+MDR1= P-glycoprotein, multidrug resistance-associated protein (MRP), breast cancer 
+resistance pump (BCRP).
+Check your knowledge
+10
+0
+
+===== PAGE 101 =====
+10
+1
+https://www.physio-pedia.com/Chemotherapy_Side_Effects_and_Syndromes 
+https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intravenous-chemotherapy 
+
+===== PAGE 102 =====
+References
+• Access Medicine Katzung’s Basic & Clinical Pharmacology, 16e, 2024: Chapter 54: Cancer 
+Chemotherapy
+• Access Medicine Katzung's Pharmacology: Examination & Board Review, 14e, 2024; 
+chapter 54 Cancer Chemotherapy
+• Access Medicine Goodman & Gilman’s The Pharmacological Basis of Therapeutics, 14e, 
+2023; Section VIII: Pharmacotherapy of Neoplastic Disease
+• UpToDate Lexidrug monographs
+10
+2
+
+===== PAGE 103 =====
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R 

@@ -1,0 +1,599 @@
+===== PAGE 1 =====
+1
+Leslie Goldstein, Pharm.D.
+Associate Professor of Pharmacology
+Department of Clinical Specialties
+Rockefeller Building, Room 204
+lgolds01@nyit.edu 
+Pharmacology of 
+Drugs Used in Coagulation Disorders, Part 2
+Fibrinolytics, Antiplatelet Agents, and Antidotes for 
+the Anticoagulants
+
+
+===== PAGE 2 =====
+1. List the pharmacokinetic properties of each class of drugs affecting 
+blood coagulation and give specific examples.
+2. Explain the structure-activity relationship of each class of the 
+classes and give specific examples.
+3. Relate the mechanisms of action of each class of drugs to their 
+effects on blood coagulation and give specific examples.
+4. Explain the clinical use of each class of drugs and give specific 
+examples.
+5. Describe the mechanisms of toxicities, drug-disease interactions 
+and drug-drug interactions, giving specific examples.
+Following this lecture, students should be able to:
+
+===== PAGE 3 =====
+Required
+• ScholarRx Bricks  Practice Questions  See next slide.
+Highly relevant optional materials:
+• Dr. Goldstein’s Word handout  Video Lecture Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+• Practice questions (not graded): Simple Recall and Case Vignettes
+3
+
+===== PAGE 4 =====
+Scholar Rx Bricks:
+Name of Discipline/ Organ System: Hematology > Hemostasis Disorders > Thrombotic Disorders
+Title of Brick: Anticoagulant drugs
+Link: https://exchange.scholarrx.com/brick/anticoagulant-drugs
+Access Medicine Katzung & Vanderah’s Basic & Clinical Pharmacology, 16e, 2024; Chapter 34: Agents Used in Disorders of 
+Coagulation
+https://accessmedicine-mhmedical-com.nyit.idm.oclc.org/content.aspx?bookid=3382&sectionid=281752540 
+LWW Health Libraries, Premium Basic Sciences: Lippincott’s Illustrated Reviews, Pharmacology, 8e, 2023; Chapter 13: 
+Anticoagulants and Antiplatelet Agents
+https://premiumbasicsciences-lwwhealthlibrary-com.nyit.idm.oclc.org/content.aspx?sectionid=253326640&bookid=3222 
+Access Medicine Katzung & Trevor’s Pharmacology Examination and Board Review, 13e, 2021; Chapter 34: Agents Used in 
+Disorders of Coagulation
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-com/content.aspx?bookid=3058&sectionid=255306288 
+Links to resources
+4
+
+===== PAGE 5 =====
+• Fibrinolytics alteplase, tenecteplase, and reteplase are recombinant tPA (tissue 
+plasminogen activator) that convert fibrin-bound plasminogen to plasmin, which cleaves 
+fibrin, which lyses thrombi. Fibrinolytics are given early in clot formation because clots 
+become more resistant to fibrinolysis as they age. 
+• Fibrinolytics are administered IV (usually) for treatment of ischemic stroke (within 4.5 
+hours), acute myocardial infarction if PCI is unavailable, and treatment of PE. A 
+fibrinolytic may be used to restore catheter and shunt function. 
+• Hemorrhage is a major adverse effect. A systemic lytic state can result from plasmin 
+generation and degradation of other coagulation factors.
+• Contraindications include pregnancy and patients with healing wounds, history of 
+stroke, brain tumor, head trauma, intracranial bleed, and metastatic cancer.
+• Streptokinase is a protein produced by beta-hemolytic streptococci. It forms a complex 
+with plasminogen. The complex induces a conformational change in plasminogen that 
+exposes its active site. Plasminogen then converts free and clot-bound plasminogen 
+molecules to plasmin. Streptokinase produces a systemic lytic state. It is no longer 
+available in the US.
+Key Concepts: Fibrinolytics
+5
+
+===== PAGE 6 =====
+• Platelet aggregation inhibitors decrease the formation of a platelet-rich clot or decrease 
+the action of chemical signals that promote platelet aggregation.
+• The antiplatelet agents in this lecture block platelet COX-1 synthesis of thromboxane 
+(aspirin), inhibit purinergic P2Y12 ADP receptor (clopidogel, prasugrel, ticagrelor, 
+cangrelor), and block GP IIb/IIIa receptors (eptifibatide, tirofiban).
+• Low-dose aspirin is used for primary and secondary prevention myocardial infarction 
+transient cerebral ischemia. It may be used with another antiplatelet agent 
+• P2Y12 receptor blockers are used for prevention of thrombotic events in patients with 
+recent MI or stroke, percutaneous coronary intervention (PCI), acute coronary 
+syndrome, and established peripheral artery disease.
+• GP IIb/IIIa inhibitors are intravenous adjuncts to PCI.
+• As with all drugs that interfere with platelet function or coagulation, bleeding is the most 
+important adverse effect of this class of drugs.
+Key concepts: Antiplatelet agents
+6
+
+===== PAGE 7 =====
+• Protamine sulfate is a highly cationic protein that combines and forms a stable complex with 
+heparin and neutralizes it.
+• Vitamin K (phytonadione) reverses warfarin anticoagulation by outcompeting warfarin at 
+VKORC1. It is administered orally or IV for severe bleeding.
+• Andexanet-alfa is inactivated factor Xa for reversal of anticoagulation by the oral direct factor 
+Xa inhibitors (DOACs) rivaroxaban and apixaban. 
+• Idarucizumab binds specifically to dabigatran and its active acylglucuronide memtabolites, 
+reversing the anticoagulant activity.
+• 4-factor PCC from human plasma consists of unactivated factors II, VII, XI and X, Protein C, 
+and Protein S. It is administered for urgent reversal of bleeding due to acquired coagulation 
+factor deficiency induced by vitamin K antagonists and DOACs.
+Key concepts: Reversal Agents
+7
+
+===== PAGE 8 =====
+Fibrinolytic Agents
+Alteplase
+Tenecteplase
+Reteplase
+Streptokinase (natural product)
+8
+Tissue plasminogen activator (tPA) and 
+derivatives
+
+===== PAGE 9 =====
+Fibrinolysis: The process of fibrin digestion by the fibrin -specific protease, plasmin.
+PAI-1, PAI-2: 
+Plasminogen 
+activator inhibitors-
+1 and -2
+2-antiplasmin (2-AP): 
+Complexes with and 
+inactivates free 
+(unbound) plasmin
+In response to injury, endothelial cells synthesize and release tPA. 
+• tPA binds fibrin and activates fibrin-bound plasminogen several 100-fold more 
+rapidly than it activates plasminogen in the circulation .
+• Plasmin is the active fibrinolytic enzyme that remodels the thrombus and limits its 
+extension by proteolytic digestion of fibrin.
+
+===== PAGE 10 =====
+Harrison’s, 21e; Figure 118-9. F:finger; EGF: epidermal growth factor
+K1, K2: first and second kringle domains, respectively); P: protease domain
+• Alteplase (t-PA)
+Recombinant version of natural 
+protein
+• Tenecteplase:
+1. K1glycosylation site (Y) 
+repositioned →  t½
+2. Protease domain substitution → 
+resistance to PAI-1 inhibition 
+• Reteplase:
+Nonglycosylated,  truncated variant
+Longer t ½ than alteplase
+Binds fibrin more weakly
+Structure-activity relationships of t-PA fibrinolytics
+10
+reteplase
+alteplase
+tenecteplase
+
+===== PAGE 11 =====
+Pharmacology of Fibrinolytic Agents: tPA and Derivatives
+11
+PK IV, rapid hepatic clearance
+Alteplase t½ <5 minTenecteplase t½ ~20 min, t½terminal 90-130 minReteplase t½ ~15 min
+MOA Fibrinolytic agents catalyze the formation of plasmin from its precursor, plasminogen.
+The drugs induce rapid dissolution of thrombi.
+Both protective hemostatic thrombi and target thromboemboli are broken down, which can 
+cause a generalized lytic state → hemorrhage
+Uses 1- Acute ischemic stroke to  neuronal death / infarction admin within 4.5 h
+2- STEMI if PCI cannot be performed within 120 min, admin within 30 min of first medical 
+contact; may still consider in patients who present late and have ongoing ischemia, admin 
+within 12-24 h of symptom onset (with antiplatelet and anticoagulant)
+3- PE treatment
+4- Central venous catheter / dialysis catheter clearance (alteplase)
+AE Hemorrhage / hemorrhagic stroke, the major toxicity, resulting from lysis of hemostatic plugs 
+at site of injury and from systemic plasmin generation, which degrades coagulation factors 
+(esp. V and VII) as well as fibrin.
+
+===== PAGE 12 =====
+12
+http://media.pharmacologycorner.com/wp-content/uploads/2009/05/plasminogen-plasmin1.jpg
+Mechanism of 
+hypersensitivity reactionMechanism of action
+• Streptokinase forms 
+complex with plasminogen
+• The complex induces 
+conformational change in 
+plasminogen exposing 
+active site
+• The complex cleaves free 
+plasminogen to plasmin
+Streptokinase is a protein produced by -hemolytic streptococci. 
+Streptokinase binds both fibrin-bound and circulating plasminogen and it produces a systemic lytic state
+
+===== PAGE 13 =====
+Absolute and Relative Contraindications to Fibrinolytic Therapy
+ABSOLUTE CONTRAINDICATIONS RELATIVE CONTRAINDICATIONS
+Prior intracranial hemorrhage Uncontrolled hypertension 
+(SBP >180 mm Hg or DBP >110 mm Hg)
+Known structural cerebral vascular lesion Traumatic or prolonged CPR or major surgery 
+within 3 weeks
+Known malignant intracranial neoplasm Recent (within 2-4 weeks) internal bleeding
+Ischemic stroke within 3 months Noncompressible vascular punctures
+Suspected aortic dissection For streptokinase: prior exposure (>5 days ago) 
+or prior allergic reaction to streptokinase
+Active bleeding or bleeding diathesis 
+(excluding menses)
+Pregnancy
+Significant closed-head trauma or facial trauma 
+within 3 months
+Active peptic ulcer
+Goodman & Gilman 13e Table 32-3
+CPR, cardiopulmonary resuscitation
+INR, international normalized ratio
+Current use of warfarin and INR >1.7
+
+===== PAGE 14 =====
+Antiplatelet Agents
+Aspirin
+ADP Receptor Antagonists
+Glycoprotein IIb/IIIa Inhibitors
+
+===== PAGE 15 =====
+Citation: Chapter 36 Blood Coagulation and Anticoagulant, Fibrinolytic, and Antiplatelet Drugs, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023, figure 36-7. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=266700467 Accessed: April 11, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Antiplatelet agents decrease platelet aggregation for 
+the prevention of cardiovascular adverse events.
+Sites of action of antiplatelet drugs: 
+• Aspirin inhibits TxA2 synthesis by irreversibly acetylating 
+COX-1. Reduced TxA2 release attenuates platelet 
+activation and recruitment to the site of vascular injury. 
+• Ticlopidine, clopidogrel, and prasugrel irreversibly block 
+P2Y12, a key ADP receptor on the platelet surface.
+• Cangrelor and ticagrelor are reversible inhibitors of P2Y12. 
+• Abciximab, eptifibatide, and tirofiban inhibit the final 
+common pathway of platelet aggregation by blocking 
+fibrinogen and von Willebrand factor (vWF) from binding 
+to activated GPIIb/IIIa. 
+• Vorapaxar inhibits thrombin-mediated platelet activation 
+by targeting protease-activated receptor-1 (PAR-1), the 
+major thrombin receptor on platelets.
+
+
+===== PAGE 16 =====
+Platelet COX-1 Inhibitor
+Aspirin
+16
+aspirin = acetylsalicylic acid
+Thromboxane A2 (TXA2) is the major cyclooxygenase (COX-1) product in platelets. TXA2 has 
+autocrine / paracrine actions as a potent inducer of local platelet aggregation and vasoconstriction. 
+It activates adjacent platelets, amplifying the action of other platelet agonists. 
+
+
+===== PAGE 17 =====
+• Oral
+• ASA esterases → salicylate
+o gut mucosa
+o blood
+o red blood cells
+o synovial tissues 
+• Salicylate: hepatic conjugation 
+• Renal excretion of
+o salicyluric acid (75%)
+o salicylic acid (10%)
+• t½ in portal circulation ~20 min
+Mechanism:
+Aspirin irreversibly acetylates an allosteric site
+
+Inhibits TXA2 synthesis
+
+TXA2 actions are prevented
+
+reduces platelet aggregation and 
+vasoconstriction
+• Effects lasts for the life of the platelet (7-10 
+days). 
+• Thus, repeated LOW doses of aspirin 
+produce a cumulative effect on platelet 
+function.
+Aspirin Pharmacokinetics and Mechanism of Antiplatelet Action
+Aspirin is taken up by platelets in the portal circulation before it is 
+deacetylated to salicylate on the first pass through the liver.
+17
+
+===== PAGE 18 =====
+Therapeutic Uses:
+Cardiovascular protection to reduce the risk 
+of thrombotic events – heart attack and 
+ischemic stroke – in high-risk patients
+Secondary prevention: 
+• To reduce risk of subsequent CV disease 
+events
+Primary prevention
+• High-risk patients with established CVD
+• Intermediate- and high-risk in discussion 
+with patient regarding individual 
+preferences and risk/benefit
+Adjunct in revascularization procedures, such 
+as PCI, CABG, stenting
+Cautions:
+• Upper gastrointestinal bleeding 
+• Surgery: Avoid use1-2 weeks prior to 
+surgery except if patient has previous 
+cardiac stent placement
+• Hypersensitivity: Aspirin-induced urticaria, 
+rhinosinusitis, bronchospasm, 
+anaphylaxis
+• Pregnancy: Low doses for certain medical 
+conditions have not been shown to cause 
+fetal harm.
+Recommended to discontinue prior to 
+delivery.
+• Children with viral illness: Association with 
+Reye’s syndrome
+Aspirin’s Antiplatelet Uses and Cautions
+Dual therapy with P2Y12 receptor inhibitor for some indications.
+18
+PCI: percutaneous coronary intervention; 
+CABG: Coronary artery bypass graft
+
+===== PAGE 19 =====
+P2Y12 is an ADP GiPCR on platelets. Inhibition of adenylyl cyclase decreases cAMP concentrations 
+and leads to other downstream signaling events resulting in platelet aggregation.
+P2Y1 is a platelet ADP GqPCR that activates the PLC–IP3–Ca2+ pathway, which induces an activating 
+conformational change in GP IIb/IIIa receptors, resulting in platelet aggregation.
+Both receptor types must be activated by ADP to cause platelet aggregation.
+ADP receptor antagonists:
+P2Y12 Receptor Inhibitors 
+19
+Irreversible inhibitors: Reversible inhibitors:
+Thienopyridines:
+Clopidogrel
+Prasugrel
+Ticagrelor
+Cangrelor
+ADP receptor 
+antagonists
+
+===== PAGE 20 =====
+Pharmacokinetics
+20
+Irreversible Inhibitors Reversible Inhibitors
+Clopridogrel Prasugrel Ticagelor Cangrelor*
+A Oral prodrug
+Onset Day 2
+Oral prodrug
+Onset <30 min
+Oral
+Onset ~2 h
+IV bolus f/b infusion
+Tmax <2 min
+D Protein binding 98% 98% (active metab) >99% 98%
+M CYP2C19 conversion 
+to active thiol metab
+(15% of dose)
+Hydrolysis then 
+CYP3A4, 2B6 to active 
+thiol metab
+CYP3A4
+active thiol metab
+Rapid 
+dephosphorylation in 
+plasma, inactive
+E Urine, feces Urine, feces Urine, feces Urine, feces
+t½ Clopidogrel ~6 h
+Active metab ~30 min
+Platelet bound ~11 dys
+Active metab ~7 h Ticagrelor ~24 h after 
+drug is discontinued
+3-6 min
+Rapid return of platelet 
+function
+Activation of prasugrel is more efficient → 
+faster onset of action and greater, more 
+predictable inhibition of ADP-induced platelet 
+aggregation
+*Cangrelor is an ADP 
+analog
+
+===== PAGE 21 =====
+Therapeutic Uses / Adverse Effects
+21
+Irreversible Inhibitors Reversible Inhibitors
+Clopridogrel and Prasugrel Ticagelor Cangrelor
+Dual therapy with aspirin
+Secondary CV protection to reduce risk of 
+thrombotic events
+• STEMI: following MI with or without reperfusion 
+therapy 
+• Acute coronary syndrome: After non-STEMI or 
+in unstable angina
+• PCI: After bare metal stent or drug-eluting 
+stent placement
+• Patients intolerant to aspirin after STEMI
+• Acute coronary 
+syndrome: patients 
+with a history of MI or 
+unstable angina
+• Coronary artery 
+disease, stable 
+(primary prevention)
+• Minor ischemic 
+stroke
+• Adjunct to PCI to 
+patients who have not 
+been treated with a P2Y12 
+inhibitor or GP IIb/IIIa 
+inhibitor
+• Bridging therapy prior 
+to cardiac surgery 
+following 
+thienopyridine 
+discontinuation
+Adverse effects: All antiplatelet drugs are associated with bleeding.
+CYP2C19 poor 
+metabolizers → 
+conversion to active 
+thiol
+Bleeding, higher rates 
+than with clopidogrel
+• Not recommended in 
+patients 75 years
+• Thrombocytopenic 
+purpura
+• Bradyarrhythmia
+• Dyspnea (resolves)
+Bleeding
+
+===== PAGE 22 =====
+Abciximab is Fab fragments of an immunoglobulin that targets GP IIb/IIIa.
+It is no longer manufactured and is not included in this presentation.
+Glycoprotein IIb/IIIa Receptor Antagonists
+Eptifibatide
+Tirofiban
+22
+GP Iib/IIIa is a platelet-surface integrin 
+complex. (~80,000 are present on platelet 
+surface.) They are inactive on resting platelets. 
+Activation of platelets leads to a 
+conformational change and activation. 
+GP Iib/IIIa bind fibrinogen, which anchors 
+platelets to each other and to endothelial cells.
+
+===== PAGE 23 =====
+GP IIIb/IIIa Inhibitors: Pharmacology
+Eptifibatide Tirofiban
+Cyclic heptapeptide Synthetic nonpeptide
+t½ ~2.5 hours
+IV bolus
+t½ ~2 hours
+IV bolus
+Platelet function restored in 
+~4 hours
+Platelet function restored in 
+4-8 hours
+23
+GP IIIb/IIIa Inhibitors reversibly block 
+platelet aggregation induced by any 
+agonist.
+
+reversibly block fibrinogen binding 
+and bridging of platelets
+
+prevent platelet aggregationContraindications
+Active abnormal bleeding 
+within the previous 30 days
+History of bleeding diathesis
+History of stroke within 30 
+days
+History of hemorrhagic 
+stroke
+PT >1.2 times control or INR 
+2.0
+Severe hypertension not 
+adequately controlled on 
+medication
+Major surgery within the 
+preceding 6 weeks
+Dependency on hemodialysis
+History of intracranial disease
+Thrombocytopenia
+Hypersensitivity
+
+===== PAGE 24 =====
+Antidotes
+Protamine sulfate
+Vitamin K
+Prothrombin Complex concentrate
+Idarucizumab
+Andexanet alfa (apixaban and rivaroxaban reversal)
+
+===== PAGE 25 =====
+Agents for Reversal of Anticoagulant Activity
+Antidote Anticoagulant Mechanism
+Protamine Heparin Highly cationic protein combines with acidic UHF and 
+LMWH forming stable complex that is excreted
+• Acts in ~5 minutes; t½ ~7 minutes
+• Protamine has weak anticoagulant effects, therefore 
+excessive protamine dosing may worsen bleeding.
+Vitamin K
+Phytonadione
+Warfarin Outcompetes warfarin at VKORC1
+• Oral onset of action 6-10 hours; INR returns to normal in 
+24-48h; may cause warfarin resistance
+Prothrombin 
+complex 
+concentrate
+(also FFP)
+Urgent 
+reversal of
+VKAs and 
+DOACs
+4-factor PCC increases the levels of vitamin K-depended 
+coagulation factors II, VII, IX, and X plus protein C and S
+• May predispose the patient to a thromboembolic 
+complication (weigh risk v benefit)
+Idarucizumab Oral direct 
+thrombin 
+inhibitor
+MAb fragment that specifically binds dabigatran and its 
+active acyglucuronide metabolites
+• Onset in minutes; duration 24h or more
+
+===== PAGE 26 =====
+Summary
+26
+
+===== PAGE 27 =====
+Thrombolytics and Antiplatelet Agents
+Thrombolytics Plasminogen 
+activators
+tPA: Alteplase, Tenecteplase, Reteplase
+Streptokinase
+Urokinase
+Antiplatelet agents
+COX inhibitor Aspirin
+Glycoprotein IIb/IIIa 
+inhibitors
+Abciximab
+Eptifibatide
+Tirofiban
+ADP receptor inhibitors 
+(P2Y12 component)
+Clopridogrel
+Prasugrel
+Ticagrelor
+Cangrelor
+Treatment of arterial 
+and venous thrombosis
+Treatment and prevention of 
+occlusive cardiovascular diseases 
+and maintenance of vascular 
+grafts and arterial patency 
+
+===== PAGE 28 =====
+SUMMARY OF FIBRINOLYTIC AGENTS
+Streptokinase
+(n/a in U.S.)
+• 47,000 Da protein produced by -hemolytic streptococci
+• It has no intrinsic enzymatic activity
+• 1:1 complex with plasminogen → conformational change → exposes plasminogen’s 
+active site → complex cleaves circulating  (free) plasminogen → forms plasmin
+• Activates both free and fibrin -bound plasminogen  lytic state
+• Cross reactivity with circulating anti-streptococcal antibodies → may cause allergic 
+reactions or neutralize the activity of streptokinase
+Urokinase • Human enzyme synthesized by the kidney
+• Directly converts plasminogen to plasmin
+• Activates both free and fibrin-bound plasminogen
+Alteplase
+(t½ 5 min)
+• Recombinant t-PA
+• Preferentially activates plasminogen bound to fibrin
+Reteplase
+(t½ 13-16 min)
+• Recombinant t-PA variant; lacks the finger, EGF, and first kringle domains → more 
+weakly binding of fibrin; longer t½ (2 bolus doses)
+Tenecteplase
+(t½ 90-130 min)
+• Recombinant t-PA variant; longer t½ (1 bolus dose)
+• Relatively resistant to plasminogen activator inhibitor -1 compared to alteplase and 
+reteplase
+
+===== PAGE 29 =====
+• Aspirin acetylates cyclooxygenase -1 (COX-1) and inhibiting TXA2 synthesis. 
+Low-dose aspirin effectively inhibiting platelet aggregation for 5 to 7 days (the 
+life of the platelet).
+• ADP receptor P2Y12 inhibitors prevent activation of the GP IIb/IIIa receptor 
+complex, thus preventing fibrinogen cross -linking. Clopidogrel and prasugrel 
+(thienopyridines) are irreversible inhibitors. Reversible inhibitors are ticagrelor 
+(oral) and cangrelor (I.V.)
+• GP IIb/IIIa inhibitors abciximab, eptifibatide, and tirofiban block platelet 
+aggregation by blocking the binding of fibrinogen, thereby preventing fibrinogen 
+cross-linking.
+Summary of Antiplatelet Agents
+29
+
+===== PAGE 30 =====
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R  

@@ -1,0 +1,1576 @@
+===== PAGE 1 =====
+Pharmacology of Antineoplastic Agents Part 2
+Targeted Anticancer Therapeutics
+Protein Kinase Inhibitors 
+Pathway Targeted Small Molecules
+Immune Checkpoint Inhibitors
+CAR T Cells
+Leslie Goldstein, Pharm.D.
+Associate Professor
+Department of Clinical Specialties
+Division of Pharmacology
+lgolds01@nyit.edu
+
+
+===== PAGE 2 =====
+2
+I am available to groups and individuals for pharmacology 
+help and discussions by appointment.
+lgolds01@nyit.edu
+
+===== PAGE 3 =====
+1. Compare and contrast the actions and effects of the targeted anticancer drugs 
+that block specific molecules in oncogenic pathways with immunotherapeutics 
+that trigger the immune system to identify and attack cancer cells.
+2. Compare and contrast the mechanisms of resistance of the targeted drugs and 
+the conventional chemotherapies.
+3. Relate the toxicities of the targeted agents with their mechanisms of action and 
+effects.
+4. Apply the mechanistic and pharmacokinetic properties of the targeted agents to 
+their drug interactions.
+5. Create a concept map or other technique integrating the mechanisms of action 
+and resistance, potential toxicities, drug -disease and drug-drug interactions to 
+the selection of drugs for combination antineoplastic therapeutic regimens.
+Following this session, students will be able to:
+3
+
+===== PAGE 4 =====
+Required
+• ScholarRx Bricks  Practice Questions (questions FOR learning)
+Optional materials:
+• Video Lecture  Dr. Goldstein’s Notes handout  Guided Reading Questions
+• Textbook resources with links are listed on the next slide
+Preparation Materials (links are in the CPG and on the next slide)
+SUGGESTIONS: 
+• Use the resources that work best for you. 
+• You do not need to study all of them. 
+• Work through the GUIDED READING QUESTIONS with pen/pencil and paper. 
+Try answering them in your OWN WORDS first without looking at the readings, and 
+then again after reviewing.
+4
+
+===== PAGE 5 =====
+Links
+Scholar Rx Bricks:
+Name of Discipline/ Organ System: General Pharmacology > Chemotherapy > Chemotherapy Agents
+Title of Brick: Alkylating and Platinum Agents
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0016 
+Title of Brick: Antimetbolite Agents
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0017 
+Title of Brick: Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics 
+Link: https://usmle-rx.scholarrx.com/rx-bricks/brick/CP_PHR0019
+Access Medicine Katzung Basic & Clinical Pharmacology, 16e, 2024; Chapter 54: Cancer Chemotherapy
+https://nyit.idm.oclc.org/login?url=https://accessmedicine-mhmedical-
+com.nyit.idm.oclc.org/book.aspx?bookid=3382#281742356 
+THE REVIEW BOOKS BELOW HAVE PRACTICE QUESTIONS
+LWW Health Library, Medical Education; Lippincott’s Illustrated Reviews, 8e, 2023; Chapter 37: Anticancer Drugs
+https://nyit.idm.oclc.org/login?url=https://premiumbasicsciences-lwwhealthlibrary-
+com.nyit.idm.oclc.org/content.aspx?sectionid=253329619&bookid=3222 
+Access Medicine Katzung’s Pharmacology: Examination & Board Review, 14e, 2024; Chapter 54: Cancer 
+Chemotherapy
+https://nyit.idm.oclc.org/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=3461&sectionid=28
+5600220 5
+
+===== PAGE 6 =====
+• The drivers of cancer growth are the oncogenic pathways in malignant cells, the 
+tumor microenvironment, and malignant cells’ escape from host immune 
+surveillance.
+• Targeted anticancer therapeutics specifically act on well-defined extracellular or 
+intracellular molecules to interrupt the oncogenic signaling, tumor growth, and 
+proliferation. 
+• The targeted therapies are usually used in combination regimens including with 
+nonselective cytotoxic chemotherapies and/or other targeted drugs.
+Approach to cancer treatment
+Cancer treatment has evolved since the recognition of cancer genetics 
+and the development of targeted therapeutics that specifically attack 
+cancer cells.
+6
+
+===== PAGE 7 =====
+http://migration.wordpress.com/2007/08/25/basic-concepts-signal-transduction/ 7
+
+===== PAGE 8 =====
+Targets of biologic and small molecule targeted agents:
+Small molecule drugs and Biologics
+• Small molecule drugs block intracellular targets, preventing activation of 
+signaling pathways. 
+• Antibody therapeutics block soluble growth factors or specific cell surface 
+receptors, preventing activation of the receptor’s signaling pathway.
+• Antibody-drug conjugates consist of an antibody that carries a cytotoxic payload 
+to tumors overexpressing specific growth factor receptors.
+• Immune checkpoint inhibitors unleash the immune system against the tumors.
+• CAR-T cells are genetically engineered T cells against specific tumor antigens.
+8
+Targeted agents block specific molecules in oncogenic pathways that lead to 
+dysregulated cancer cell growth and survival, which interferes with growth, 
+progression, and spread of cancer.
+The following slides summarize the cancers and drug classes in this presentation.
+
+===== PAGE 9 =====
+Cancers and their targeted drug therapies
+Cancer Targeted Drug Therapies
+CML, Ph+ BCR:ABL TK inhibitors: Imatinib and others
+Colorectal cancer EGFR inhibitors: cetuximab, panitumumab VEGF inhibitor: bevacizumab
+Breast cancer, HER2+ Trastuzumab, trastuzumab emtansine, pertuzumab, lapatinib
+Breast cancer, HER2− Cyclin-dependent kinase inhibitors: 
+Palbociclib and others
+Poly(ADP-ribose) polymerase inhibitors: 
+Olaparib and others
+Lymphomas, CD20+ CD20-targeting agents: rituximab and others
+Multiple myeloma IMiDs: Lenolidamide and others
+Proteasome inhibitors: bortezomib
+CD36-targeting agents: darutumumab
+Glucocorticoid: dexamethasone
+Various hematologic 
+cancers and solid tumors
+Immunotherapies
+CTLA-4 inhibitors: ipilimumab and others
+PD1 inhibitors: pembrolizumab, nivolumab
+PD-L1 inhibitors: atezolizumab and others
+Lymphomas, CD19+
+Multiple myeloma, BCMA+
+CAR-T cell therapeutics targeting CD19 or BCMA
+9
+
+===== PAGE 10 =====
+Inhibitors of tyrosine kinase (TK) signal transduction
+BCR-ABL TK expressed by the Philadelphia 
+chromosome translocation (9;22)
+Imatinib group are competitive inhibitors of BCR-ABL 
+and other receptor TKs
+EGFR Epidermal growth factor receptor
+(structurally related TK receptors)
+MAbs bind to extracellular domain and inhibit 
+dimerization and downstream signaling 
+Small molecule “tinibs” bind intracellular domain of TK 
+receptors and inhibit autophosphorylation of the 
+receptor, which inhibits downstream signaling
+HER2 Human epidermal growth factor 
+receptor 2 (ERBB2)
+MAbs bind extracellular domain and inhibit 
+dimerization and HER2 signaling pathway.
+Small molecule tinibs bind intracellular domain of 
+HER2, inhibit autophosphorylation and ERBB2 
+signaling.
+VEGF Vascular endothelial growth factor Biologic drugs neutralize VEGF-A, preventing 
+activation of VEGF receptors (VEGFRs).
+VDGFR VEGF receptors
+MAbs and small molecule “nibs” inhibit receptor 
+signaling, tumor vascular permeability, enhancing 
+blood flow and drug delivery 10
+
+===== PAGE 11 =====
+11
+Cell cycle process that is blocked Effects of the drugs
+CDK4/6 
+inhibitors
+Cyclin D binding with cyclin-dependent kinases CDK4 
+and 6 specifically enhances phosphorylation of the 
+retinoblastoma (Rb) tumor suppressor protein, which 
+inactivates Rb, which releases Rb’s suppression of the 
+transcription of factors that control transition 
+specifically from the G1 phase the S phase. 
+Palbociclib and the other “ciclibs” 
+inhibit CDK4/6 which prevents 
+progression through this cell 
+cycle checkpoint leading to cell 
+cycle arrest.
+PARP 
+inhibitors
+Poly(ADP-ribose) polymerase (PARP) is a family of 
+proteins that synthesize PAR, which detects and 
+initiates immediate cellular responses to metabolic, 
+chemical, and radiation-induced single-strand DNA 
+breaks. 
+PARP1 and PARP2, through multiple DNA damage 
+response (DDR) pathways, play critical roles in DNA 
+strand break repair that help maintain cell survival. 
+Olaparib and other PARP 
+inhibitors (“paribs) in tumors with 
+deleterious BRCA1/2 mutations 
+or other DDR alterations prevents 
+tumor cells from repairing DNA, 
+making them vulnerable to 
+apoptosis.
+BRCAs are tumor suppressor 
+genes.
+Inhibitors of cell cycle progression and DNA damage response
+
+===== PAGE 12 =====
+Drugs commonly used in the treatment of multiple myeloma
+Proteasome inhibitors
+Bortezomib
+Carfilzomib
+Ixazomib
+Inhibition of 26S proteasome: A large multi-catalytic ATP-dependent 
+protein complex within the proteasome that degrades ubiquinated proteins
+The main effect is thought to be inhibition of NF- B signaling pathway, the 
+apparent major signaling pathway of multiple myeloma.
+IMiDs
+Lenalidomide
+Thalidomide
+Pomalidomide
+Immunomodulators, antiangiogenics, and antineoplastic actions by 
+multiple mechanisms, resulting in inhibition of proinflammatory cytokine 
+secretion, T cell stimulation. These immunomodulators induce cell cycle 
+inhibition and cell death.
+CD38 inhibitors
+Daratumumab
+Isatuximab
+MAb directed against CD38, which is highly expressed on myeloma cells. 
+It induces ADCC, complement-dependent cytotoxicity, apoptosis, and 
+antibody-dependent phagocytosis
+Dexamethasone Glucocorticoid in multiple myeloma regimens. It induces apoptosis in 
+multiple myeloma cells
+Preferred initial standard 3-drug regimen – VRd – bortezomib, lenalidomide, dexamethasone
+12
+
+===== PAGE 13 =====
+Immune checkpoint inhibitors
+Immune checkpoints are inhibitory signals the limit T cell activation.
+CTLA-4 expressed on T cells acts as an off switch by binding CD80/86 on antigen presenting cells. 
+CTLA-4 inhibitor
+Ipilimumab
+Tremelimumab
+Blocking CTLA-4 prevents the inhibitory signal and boost the T cell response 
+against the tumors.
+PD-1, programmed death 1, is expressed on the surface of T cells, B cells, NK cells, monocytes, 
+and dendritic cells. PD-1 is activated by ligands PD-L1 and PD-L2. 
+PD-L1 is expressed on the surface of many cell types, including tumor cells.
+PD-1 inhibitors
+• Pembrolizumab
+• Nivolumab
+• Cemiplimab
+• Dostarlimab
+Blocking PD-1 unleashes the immune system response against tumor cells.
+PD-L1 inhibitors
+• Atezolizumab
+• Avelumab
+• Durvalumab
+Blocking PD-L1 on tumor cells prevents activation of PD-1, thus, boosts the 
+immune response against the tumor cells.
+13
+
+===== PAGE 14 =====
+Chimeric antigen receptor T cells (CAR -T cells)
+Genetically engineered T cells that express artificial T cell receptors targeting specific tumor 
+antigens. Both antigen-binding and T cell activating functions are combined in one receptor.
+Anti-CD19 CAR-T cells
+• Tisagenlecleucel
+• Axicabtagene ciloleucel
+• Brexucabtagene autoleucel
+• Lisocabtagene maraleucel
+Drug-specific indications:
+• B cell acute lymphoblastic leukemia
+• Diffuse large cell lymphoma
+• Follicular lymphoma
+• Mantle cell lymphoma
+Anti-BCMA
+• Idecabtagene vicleucel
+• Ciltacabtagene autoleucel
+• Multiple myeloma, dMMR
+BCMA: B cell maturation antigen
+14
+
+===== PAGE 15 =====
+Citation: Chapter 10 Oncology, Brunicardi F, Andersen DK, Billiar TR, Dunn DL, Kao LS, Hunter JG, Matthews JB, Pollock RE. Schwartz's Principles of Surgery, 11e; 2019. 
+Available at: 
+https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=222025662&gbosContainerID=0&gbosid=0&groupID=0&sectionId=216204693&multimediaId=undefined Accessed: 
+February 11, 2025
+Copyright © 2025 McGraw-Hill Education. All rights reserved
+Hallmarks of cancer and their therapeutic implications. Drugs that interfere with each of the acquired capabilities necessary for tumor growth and 
+progression are in clinical trials and in some cases approved for clinical use in treating forms of human cancer. The drugs listed are illustrative examples. 
+(Reproduced with permission from Hanahan D, Weinberg RA. Hallmarks of cancer: the next generation, CCell. 2011 Mar 4;144(5):646-674.)
+
+
+===== PAGE 16 =====
+Inhibitors of 
+Receptor Tyrosine Kinase Signaling
+16
+Overview
+structures, mechanisms, adverse effects
+
+===== PAGE 17 =====
+Tyrosine Kinase Signaling: NRTK and RTK
+17
+Non-receptor (soluble) tyrosine kinase (NRTK)
+NRTKs are not connected to transmembrane domains. 
+NRTKs phosphorylate tyrosine residues on target proteins important in the regulation of a 
+vast array of cellular functions, such as gene expression, immune response, cell survival, 
+division.
+Receptor tyrosine kinase (RTK)
+RTKs are cell surface receptors for many polypeptide growth factors, cytokines, and 
+hormones. 
+Ligand binding to the extracellular domain induces homo- and hetero-dimerization of the 
+receptors, autophosphorylation on intracellular tyrosine residues, and activation of 
+intracellular pathways. 
+Growth factors, like cytokines, are soluble messengers that bind cell surface receptors, which 
+initiates transmembrane and intracellular cascade of events in signal transduction.
+
+===== PAGE 18 =====
+Tyrosine Kinase Signaling: EGFR, VEGFR and VEGF
+18
+Epidermal growth factor receptor (EGFR)
+EGFR belongs to the RTK family. EGFR is activated by epidermal growth factor and 
+transforming growth factor-. 
+Mutations resulting in overexpression of EGFR lead to continuous activation of downstream 
+signaling pathways, uncontrolled cell proliferation and survival, and tumorigenesis. EGFR 
+overexpression is found in numerous cancers and is associated with poor prognosis.
+Vascular endothelial growth factor receptors (VEGFRs)
+The three types of VEGFRs (-1, -2, -3) that regulate angiogenesis (new blood vessel 
+formation) and vasculogenesis (formation of the circulatory system). Vascular endothelial 
+growth factor-A (VEGF-A) is a member of the VEGF family and primary regulator of 
+angiogenesis. It stimulates proliferation, migration, and survival of endothelial cells. VEGF-A 
+is also important for vasculogenesis from endothelial precursor cells during embryonic 
+development.
+Abnormal angiogenesis occurs in cancer, age-related macular degeneration, and ischemic 
+stroke.
+
+===== PAGE 19 =====
+Citation: Chapter 2 Drug Receptors & Pharmacodynamics, Katzung BG, Vanderah TW. Basic & Clinical Pharmacology, 15e; 2021, Fugre 2-7. Available at: 
+https://accessmedicine.mhmedical.com/content.aspx?bookid=2988&sectionid=250594122 Accessed: June 03, 2022
+Copyright © 2022 McGraw-Hill Education. All rights reserved
+1. Ligand binding  (EGF 
+example) to inactive 
+monomeric state → 
+2. Active dimeric state 
+3. Phosphorylation (P) of 
+specific tyrosine residues 
+(Y) of the cytoplasmic 
+domains 
+4. Activation of enzymatic 
+catalytic activities
+5. Phosphorylation of 
+substrate proteins (S)
+Receptor tyrosine kinase (RTK) is a transmembrane receptor that binds and stimulates 
+an intracellular protein tyrosine kinase.
+Figure adapted by LG
+
+===== PAGE 20 =====
+VEGF: Vascular endothelial growth factor; VEGFR: VEGF receptor
+Angiogenesis: VEGF activates VEGFRs, which are RTKs
+Tumor blood vessels have chaotic architecture and blood 
+flow. Tumor blood flow is variable, with areas of hypoxemia 
+and acidosis leading to the selection of variants that are 
+resistant to hypoxemia-induced apoptosis (often due to the 
+loss of p53 expression). 
+Tumor vessel walls have numerous openings, widened inter-
+endothelial junctions, and discontinuous or absent basement 
+membrane. 
+This contributes to the high vascular permeability of these 
+vessels and, together with lack of functional intratumoral 
+lymphatics, causes increased interstitial pressure within the 
+tumor, which also interferes with the delivery of therapeutics 
+to the tumor. Tumor blood vessels lack perivascular cells such 
+as pericytes and smooth muscle cells that normally regulate 
+flow in response to tissue metabolic needs. 
+http://www.sutent.com/images/angiogenisis
+Life | Free Full-Text | V ascular and Neuronal Network 
+Formation Regulated  by Growth Factors and Guidance Cues
+
+===== PAGE 21 =====
+Mechanisms: Receptor Tyrosine Kinase Inhibitors (RTKIs)
+21
+Small molecules Passively diffuse into cytosol
+Nomenclature: All have the suffix “tinibs” or “nibs”
+Mechanism Block the intracellular ATP binding sites of the tyrosine kinase domain, 
+preventing autophosphorylation and activation of signaling pathways
+Oral
+CYP3A4 substrates
+Oral route and once or twice daily dosing is convenient for the patient.
+High potential for drug-drug interactions. Many are also substrates of P-gp.
+Adverse effects Mechanism related: Inhibition of growth pathways in normal cells
+• Nausea, vomiting, diarrhea
+• Rash (acneiform) / desquamation (skin peeling)
+• Liver injury
+• Myocardial dysfunction / heart failure
+• Bone marrow dysfunction: anemia, neutropenia, thrombocytopenia
+• Susceptibility to infection
+• Hypertension
+• Periorbital edema
+• and more
+
+===== PAGE 22 =====
+Mechanisms: Antibody Inhibitors of Tyrosine Kinase Receptors
+22
+Proteins Monoclonal antibodies  nomenclature suffix “mabs”
+Mechanism Antibodies bind the bind the extracellular domain at specific epitopes of specific 
+receptor types, which blocks the natural ligand from binding and prevents 
+receptor dimerization and activation.
+(Induction of anti-drug antibodies reduces efficacy.)
+Injection
+long half-life
+IV continuous infusion or subQ injection
+Coformulation with hyaluronidase permits subcutaneous injection by catalyzing 
+degradation of hyaluronic acid, making tissues more permeable
+Half-life days to weeks (drug-specific)
+Metabolized mainly by proteolysis in the liver and reticuloendothelial system
+Adverse effects Mechanism related: Inhibition of growth pathways in normal cells
+• Class adverse effects (previous slide)
+• Infusion reactions, systemic and can be severe; can occur during or shortly 
+after infusion; premedication with antihistamine and glucocorticoid can mitigate 
+this adverse effect
+• Injection site reactions, local
+• Hypersensitivity reactions
+
+===== PAGE 23 =====
+Mechanisms: Inhibitors of VEGF and VEGFR
+23
+Structures Monoclonal antibodies 
+Small molecule multitargeted drugs, oral
+Mechanisms 1- Antibody binds soluble extracellular VEGF-A (a growth factor) preventing it 
+from activating its receptors
+2- Antibody binds VEGFR inhibiting dimerization and activation of signaling 
+pathways
+Small molecule multitargeted drugs block various signaling pathways, including 
+the angiogenesis pathways.
+Adverse effects Mechanism related: Inhibition of angiogenesis
+• Hypertension
+• Hemorrhage
+• Arterial thromboembolism
+• Impaired wound healing
+• Wound dehiscence (separation of previously closed wound)
+• Infusion reactions
+
+===== PAGE 24 =====
+BCR-ABL Kinase Inhibitors
+For the treatment of chronic myeloid leukemia (CML) 
+24
+BCR::ABL1 fusion oncogene – the Philadelphia chromosome – is a clonal cytogenetic 
+abnormality resulting from a translocation between chromosomes 9 and 22. It codes a 
+constitutively active cytoplasmic (NRTK) tyrosine kinase, BCR::ABL1, that drives unregulated 
+cell growth.  
+The second-generation inhibitors (all those developed after imatinib) are more potent 
+than imatinib and are effective against some resistance-conferring mutations.
+Tumor cells harboring the T315I mutation is susceptible only to ponatinib and asciminib 
+due to different mechanisms of action. (T315I: threonine to isoleucine point mutation)
+Imatinib • Dasatinib • Nilotinib
+Ponatinib • Bosutinib • Asciminib
+
+===== PAGE 25 =====
+Class Properties: Typical of all “tinibs”
+25
+A Oral  Protein binding >90% CYP3A4, P-glycoprotein substrate  excreted in feces
+MOA Binds TK and prevents ATP from binding and activating the kinase (see next slide)
+MOR Point mutations prevent tight binding of the drug and lock the enzyme in its open 
+configuration, allowing the substrate access to the site.
+Point mutations can arise in 3 separate segments of the kinase domain (main mechanism)
+T315I in ABL1 residue: Only ponatinib and asciminib are effective.
+Uses Imatinib: CML, Ph+, initial chronic, accelerated or blast phase, GIST and other c-kit 
+pathways, PGDFR-driven cancers (see following chart)
+AEs Typical of tinibs class: nausea/vomiting/diarrhea; bone marrow suppression; hepatotoxicity
+• Imatinib-induced periorbital edema occurs frequently. 
+• Skin rashes occur relatively frequently. Mild rashes are managed with topical steroids. 
+Severe rashes require dose reduction or temporary discontinuation of the drug
+• Drug interactions, high potential, CYP3A4 and P-glycoprotein related
+
+===== PAGE 26 =====
+BCR::ABL1 inhibitors occupy the ATP binding pocket → prevent substrate 
+phosphorylation and downstream activation of signals
+• Imatinib and the other BCR::ABL1 inhibitors also inhibit various tyrosine kinases, such as platelet-
+derived growth factor receptor (PDGFR)and c-kit (drug-specific actions).
+• Ponatinib has multiple contact points → an individual mutation has less effect on overall binding.
+• Asciminib is an allosteric inhibitor → holds BCR::ABL1 in an inactive conformation.
+Inhibition of the tyrosine kinase domain of the BCR -ABL oncoprotein
+Goldman Cecil Medicine 23e Figure 194-4
+ Wikipedia: Aryn89
+9:22 translocation
+26
+
+===== PAGE 27 =====
+BCR-ABL kinase inhibitors Therapeutic Uses
+Goals, patients with chronic phase CML: To achieve clinical remission, maintain long-term 
+disease control, avoid disease progression to accelerated phase or blast crisis, and optimizing 
+the quality of life by limiting drug-related toxicities
+Drug CML, Ph+ ALL, Ph+
+note correction
+CML, T315I 
+mutation
+Other
+Imatinib ✓* ✓ GIST (c-Kit), other c-Kit tumors
+PDGFR-driven cancers
+Dasatinib ✓* ✓ GIST
+Nilotinib ✓* ✓ GIST
+Bosutinib ✓*
+Ponatinib ✓* ✓ ✓*
+Asciminib ✓ ✓
+*initial chronic, accelerated or blast phase
+GIST: gastrointestinal stromal tumor; PDGFR: platelet-derived growth factor receptor 27
+
+===== PAGE 28 =====
+Open i beta: An open access biomedical search engine http://openi.nlm.nih.gov/index.php
+Imatinib-induced rash and periorbital edema 28
+
+===== PAGE 29 =====
+• What type of protein is expressed by the BCR::ABL1 driver mutation?
+• Constitutively active cytosolic tyrosine kinase, BCR::ABL1.
+• What is the importance of the T315I point mutation in the ABL1 contact residue?
+• This mutation confers resistance to all but two BCR::ABL1 inhibitors.
+• What drugs are active against CML harboring this mutation?
+• Ponatinib and Asciminib
+• What are some class toxicities of the tinibs group?
+• Diarrhea, rash, edema including orbital edema, bone marrow suppression, 
+CYP3A4 drug interactions
+• What are the serious and potentially life -threatening toxicities of ponatinib?
+• Arterial occlusive events → acute MI, stroke, brain arterial stenosis, PVD; heart 
+failure; QT interval prolongation / arrhythmia; hepatotoxicity
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+29
+
+===== PAGE 30 =====
+Biologic Inhibitors
+For the treatment of metastatic colorectal cancer
+Goals of therapy: 
+To prolong overall survival and maintain quality of life for as long as possible
+30
+EGFR Inhibitors VEGF Inhibitor
+Cetuximab Bevacizumab
+Panitumumab
+Adjuvant therapy with chemotherapy such as FOLFOX
+
+===== PAGE 31 =====
+Pharmacokinetics of MAbs: parenteral, endocytosis and proteolysis
+PK and Mechanisms of action:
+31
+Cetuximab and Panitumumab
+Competitive inhibitors of EGFR, HER1, ErB-1
+
+block dimerization which prevents 
+phosphorylation and activation of 
+receptor-associated kinases
+
+Inhibits cell growth
+Induces apoptosis
+Decreases matrix metalloproteinase
+Decreases VEGF
+Cetuximab also induces ADCC.
+Bevacizumab
+Binds and neutralizes VEGF-A
+(takes VEGF-A out of action)
+
+prevents VEGF-A binding to 
+endothelial VEGF receptors 
+
+prevents receptor signaling that normally 
+increases vascular permeability 
+and formation of new blood vessels
+Cetuximab and panitumumab are NOT effective in 
+tumors expressing mutations of KRAS oncogene 
+(occurs in 40-50% of colorectal tumors) → tumors 
+should be tested for KRAS mutations.
+
+===== PAGE 32 =====
+Cetuximab: 
+• Colorectal cancer, metastatic, EGFR-
+expressing, KRAS wild-type
+1st-line with FOLFOX or FOLFIRI
+• Head and neck cancer, squamous cell  with 
+cisplatin-based
+• Penile cancer, squamous cell
+• Skin cancer, squamous cell,
+Panitumumab: 
+• Colorectal cancer, metastatic, EGFR-
+expressing, KRAS wild-type with FOLFOX or 
+FOLFIRI or other chemo
+• Skin cancer, squamous cell, advanced
+Bevacizumab: 
+• Colorectal cancer, metastatic
+• Cervical cancer, metastatic
+• Glioblastoma, recurrent
+• Hepatocellular carcinoma, metastatic
+• Non-small cell lung cancer, nonsquamous
+• Ovarian epithelial, fallopian tube, primary 
+peritoneal cancer
+• Renal cell carcinoma, metastatic
+Therapeutic Uses
+32
+Adverse effects are typical class toxicities 
+related to inhibition of EGFR signaling and 
+certain drug-specific effects of certain 
+combination regimens 
+Adverse effects are related to impairment of 
+angiogenesis including severe hemorrhage, 
+poor wound healing / wound dehiscence, 
+hypertension, arterial occlusive events: 
+stroke, MI, GI perforation
+
+===== PAGE 33 =====
+• Cetuximab and panitumumab are ineffective in tumors with what mutation?
+• KRAS, oncogene for a GTPase, a transducer of the RAF/MEK/ERK pathway
+• What are the target and disease treated by both cetuximab and panitumumab?
+• Monoclonal antibodies directed against EGFR for metastatic colorectal cancer.
+• What is the mechanism of bevacizumab?
+• Bevacizumab neutralizes soluble VEGF preventing it from activating its RTKs.
+• What cytotoxic chemotherapies are included in the combination regimen?
+• Folinic acid (leucovorin) + 5-fluorouracil + oxaliplatin + cetuximab + bevacizumab
+• What are some serious and potentially life -threatening toxicities of these MAbs?
+EGFR inhibitors: diarrhea, rash, electrolyte disturbances, lung toxicity, infusion rx
+VEGF inhibitor: hemorrhage, poor wound healing, hypertension, thromboses, GI 
+perforation, infusion reactions
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+33
+
+===== PAGE 34 =====
+HER2 Inhibitors
+For the treatment of HER-2-positive breast cancer
+34
+Breast cancer is categorized as 1) those expressing estrogen receptor (ER), 2) those 
+expressing HER2, with or without ER expression, and 3) triple-negative – those that do 
+not express ER, HER2 or progesterone receptor.
+The ERBB2 gene expresses HER2 RTK. HER2 oncogene is present in about 15% of 
+primary invasive breast cancers and is associated with lower response rates to hormonal 
+therapies and to most cytotoxic drugs, with the exception of anthracyclines. 
+Monoclonal 
+Antibodies
+MAb-Cytotoxic 
+Drug Conjugates
+Small Molecule 
+Targeted Drugs
+Trastuzumab Ado-trastuzumab emtansine Lapatinib
+Pertuzumab Fam-trastuzumab deruxtecan Neratinib
+Margetuximab
+
+===== PAGE 35 =====
+Trastuzumab schematic structure Pohlman P, Mayer IA, 
+Mernaugh R. Resistance to Trastuzumab in Breast Cancer. 
+Clinical Cancer Research, Dec 2009, 15(24):7479-7491 
+https://www.researchgate.net/publication/40686569_Resistance_
+to_Trastuzumab_in_Breast_Cancer 35
+Trastuzumab
+Binds HER2 domain IV
+
+1-Prevents ligand-
+independent 
+dimerization,
+2-Induces receptor-
+MAb internalization 
+and degradation, and 
+3-Induces ADCC
+Pertuzumab 
+Binds HER2 domain II
+
+1-Inhibits ligand-
+dependent 
+heterodimerization with 
+other HERs
+
+Inhibits signaling, cell 
+growth, and survival
+and
+2-Induces ADCC
+ADCC: Antibody-dependent cellular cytotoxicity
+Trastuzumab and Pertuzumab Mechanism of Action
+The pertuzumab-trastuzumab combination provides more complete inhibition of 
+HER2 signaling.
+Margetuximab: Engineered to have greater ADCC and 
+activation of NK cells compared to trastuzumab.
+
+===== PAGE 36 =====
+Ado-Trastuzumab Emtansine (DM1) Antibody-Drug Conjugate
+http://www.blogoup.com/blog/2011/2/7/antibody-drug-conjugates.html
+1. Inhibits HER2 signaling, and… 
+2. Internalization of receptor delivers 
+the chemotherapeutic DM1 
+directly inside HER2-positive 
+cancer cells → 
+3. Inhibits microtubule assembly by 
+binding to tubulin → 
+4. Results in cell cycle arrest and 
+apoptosis.
+36
+Fam-trastuzumab-deruxtecan: 
+Cytotoxin is a topoisomerase I inhibitor.
+
+===== PAGE 37 =====
+Tinoco G, Warsch S, Glück S, Avancha K, Montero AJ. Treating Breast Cancer in the 21st Century: 
+Emerging Biological Therapies. J Cancer 2013; 4(2):117-132. doi:10.7150/jca.4925 Image No. 01.  
+Accessed April 28, 2016 from http://www.jcancer.org/v04p0117.htm
+Therapies Targeting HER2 Signaling
+37
+Resistance: 
+Different mechanisms 
+probably coexist:
+Target alterations, 
+PI3K-AKT pathway 
+alterations, 
+HER2 overexpression
+
+===== PAGE 38 =====
+Trastuzumab / Trastuzumab-hyaluronidase
+Neo-adjuvant and adjuvant therapy
+• Breast cancer
+First-line adjuvant treatment regimen:
+Trastuzumab, taxane, and/or doxorubicin, 
+cyclophosphamide,  pertuzumab
+• Gastric cancer
+• Colorectal cancer
+• Endometrial cancer
+Treatment of HER2-positive tumors
+In combination with cytotoxic chemotherapy
+38
+Pertuzumab
+Neo-adjuvant and adjuvant therapy
+• Breast cancer, early and metastatic 
+Pertuzumab-trastuzumab-hyaluronidase
+• SubQ in patients who have not received 
+prior anti-HER2 or chemotherapy for 
+metastatic disease
+Hyaluronidase increases permeability of subcutaneous 
+tissue.
+Ado-Trastuzumab Emtansine
+• Breast cancer, early and metastatic 
+• in patients previously treated with trastuzumab and taxane
+
+===== PAGE 39 =====
+Trastuzumab / Pertuzumab Toxicities and Drug Interactions
+Cardiac failure
+the most serious 
+toxicity
+Clinical and subclinical 
+Decreased left ventricular ejection fraction and congestive heart failure
+Highest risk with anthracycline chemotherapy regimen
+Underlying cardiac disease should be ruled out prior to starting therapy; 
+clinical follow-up thereafter.
+Infusion reactions Fever, chills, nausea, dyspnea, rash; typical of monoclonal antibody 
+therapy
+Pulmonary toxicity Pulmonary infiltrates / edema / Interstitial pneumonitis / ARDS
+Various others GI problems, peripheral sensory neuropathy, joint/muscle pain, 
+elevated serum transaminases, and more
+Pregnancy Embryo-fetal death
+Drug interactions Doxorubicin, cyclophosphamide  risk of cardiac toxicity
+Ado-trastuzumab Hepatotoxicity w. liver failure/death, thrombocytopenia,
+sensory and motor peripheral neuropathy, CYP3A4 drug interactions 39
+
+===== PAGE 40 =====
+Lapatinib: Small Molecule TKI targeting HER2
+40
+PK Oralprotein binding >99%hepatic CYP3A4fecest½ ~24 h
+MOA Reversibly binds EGFR (ErB1) and HER2 (ErB2) → blocks 
+autophosphorylation of tyrosine residues → blocks activation of second 
+messengers, Erk1/2 and Akt
+Resistance HER2 TK domain mutations, alternate receptors, alternate intracellular 
+pathways
+Uses Breast cancer, advanced or metastatic (combination regimens)
+• After prior anthracycline, taxane, trastuzumab therapy
+• With progression on prior trastuzumab therapy
+• With previously untreated brain metastases
+• Salvage therapy
+Colorectal cancer, metastatic, with progression on conventional chemotx
+Toxicities Diarrhea, rash, cardiotoxicity LVEF, QT prolongation, hepatotoxicity, 
+pulmonary toxicity
+Interactions CYP3A4-related
+
+===== PAGE 41 =====
+• Mechanistically, how do trastuzumab and pertuzumab work together?
+• More complete inhibition of HER2 signaling by binding different epitopes in HER2.
+• Mechanistically, how does lapatinib interfere with HER2 signaling?
+• Lapatinib is an oral small molecule that prevents activation of intracellular receptor 
+tyrosine kinases, which prevents activation of second messengers.
+• What is the mechanistic concept of antibody -drug conjugates?
+• The antibody directed against a specific target delivers a cytotoxic payload to 
+those cells expressing the receptors, thereby limiting exposure of host cells.
+• What cytotoxic chemotherapies are included in the combination regimen?
+• A taxane and/or doxorubicin, cyclophosphamide, trastuzumab,  pertuzumab
+• What are some serious and potentially life -threatening toxicities of trastuzumab?
+Heart failure (esp. w. doxorubicin), lung tox, infusion reactions, 
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+41
+
+===== PAGE 42 =====
+Cyclin-Dependent Kinase (CDK) 4/6 Inhibitors (“Cyclibs”)
+For the treatment of 
+hormone receptor-positive, 
+HER-2-negative breast cancer
+• Palbociclib
+• Ribociclib
+• Abemaciclib 
+42
+Cyclin D binding with CDK4 and 6 specifically enhances phosphorylation of the retinoblastoma 
+tumor suppressor protein (Rb), inactivating Rb, which releases Rb’s suppression of the E2F-DP1 
+transcription factor that regulates transition specifically from the G1 phase the S phase. The cell 
+is allowed to proceed through the cell cycle and divide.
+Cyclin D-CDK4/6 pathway appears to be hyperactivated in human hormone receptor-positive 
+breast cancers. 
+
+
+===== PAGE 43 =====
+Ciclibs pharmacology
+43
+PK Oralprotein binding 85-95%; Pgphepatic CYP3A4fecest½ ~24 h
+MOA Reversible inhibitors of CDK4 and CDK6 → prevents progression from G1 
+to S cell cycle phase, leading to cell cycle arrest.
+Uses Breast cancer, hormone receptor-positive, HER2-negative, advanced or 
+metastatic 
+• Preferred initial therapy: CDK4/6 inhibitor plus aromatase inhibitor
+• As effective and less toxic than chemotherapy regimen
+Aromatase converts androgens to estrogens. Blocking the enzyme results in 
+estrogen depletion.
+Toxicities
+(common)
+Neutropenia, leukopenia, anemia, thrombocytopenia; skin reactions, 
+pulmonary toxicity, infection, stomatitis, fatigue, diarrhea, nausea, 
+headache
+Ribociclib: QT interval prolongation; liver function abnormalities
+Interactions CYP3A4 and P-glycoprotein-related
+
+===== PAGE 44 =====
+Poly(ADP-ribose) (PAR) is synthesized from NAD+ by PAR polymerases (PARPs) located in the cell nucleus. PAR 
+detects and initiates immediate cellular responses to metabolic, chemical, or radiation-induced single-strand DNA 
+breaks. 
+PARP1 and PARP2, through multiple DNA damage response (DDR) pathways, play critical roles in DNA strand break 
+repair that help maintain cell survival. 
+The use of PARP inhibitors in tumors with deleterious BRCA1/2 mutations or other DDR alterations prevents tumor 
+cells from repairing DNA, making them vulnerable to apoptosis.
+PARP INHIBITORS “Paribs”
+For the oral treatment of BRCA-mutated advanced cancers
+44
+Cancers, BCRA mutated Olaparib Niraparib Rucaparib Talazoparib
+Breast cancer, metastatic,
+HER2-negative  
+Fallopian tube cancer   
+Ovarian cancer   
+Pancreatic cancer 
+Peritoneal cancer, primary   
+Prostate cancer,
+castration-resistant  
+Toxicities:
+• Common: Nausea, 
+thrombocytopenia, anemia, 
+leukopenia, dyspnea, 
+diarrhea, CYP-mediated 
+drug interactions
+• Risk for 
+myelodysplastic syndrome 
+and AML (0.3% of patients)
+
+===== PAGE 45 =====
+Anti-CD20 Agents
+For the treatment of CD20-positive B cell malignancies
+45
+Rituximab (chimeric IgG1MAb)
+Ofatumumab Obinutuzumab Ocrelizumab for multiple sclerosis
+90Y Ibritumomab tiuxetan 
+radioimmunoconjugate for the treatment of relapsed indolent lymphomas
+• CD20 is a transmembrane protein expressed on 95% of B cells in peripheral blood and secondary 
+lymphoid organs. CD20 is absent on terminally differentiated plasma cells. 
+• CD20 is a useful biomarker, as it is expressed on many B cell malignancies, such as chronic 
+lymphocytic leukemia, diffuse large B cell lymphoma, mantle cell lymphoma, and follicular 
+lymphoma.
+• B lymphocytes perpetuate the inflammatory process in autoimmune disorders. Anti-CD20 
+therapies are useful in the management of several of these diseases
+
+
+===== PAGE 46 =====
+http://www.inviatospeciale.com/wp-content/uploads/2009/03/rituximab.jpeg 
+Rituximab binds to extracellular loop of CD20 → cellular cytotoxicity
+Rituximab induces depletion of peripheral B cells.
+46
+1. Activates complement-dependent 
+B-cell cytotoxicity
+2. Binding Fc receptors mediates cell 
+killing through an antibody-dependent 
+cellular toxicity. 
+https://www.researchgate.net/figure/Structure-of-CD20-and-epitope-targets-of-
+ofatumumab-rituximab-and-obinutuzumab-GA101_fig1_281779437
+Klein C, Lammens A, Schafer W, et al. Epitope interactions of monoclonal antibodies targeting 
+CD20 and their relationship to functional properties. MAbs. 2013;5(1):22-33. 15
+
+===== PAGE 47 =====
+Rituximab
+PK: I.V.; rituximab-hyaluronidase → subQ admin
+ANTICANCER USES NHL, CLL, Mantle cell lymphoma, ALL–B cell precursor
+Example of standard therapy of diffuse large B cell lymphoma:
+R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone)
+IMMUNE DISORDERS
+Steroid-refractory chronic GVHD Post-transplant lymphoproliferative disorder (PTLD)
+Rheumatoid arthritis Autoimmune hemolytic anemia (AIHA) in children
+Refractory pemphigus vulgaris Chronic immune thrombocytopenic purpura (ITP)
+Refractory lupus nephritis and more
+ADVERSE EFFECTS
+Possible severe infusion reactions 
+(first-dose)
+Opportunistic infection
+Tumor lysis syndrome
+Severe skin reactions
+Reactivation of latent HBV infection; PML
+Practice point: All patients should be screened for HBV infection. In high-risk 
+populations, screen for latent infections, including tuberculosis, hepatitis C virus, and HIV.47
+
+===== PAGE 48 =====
+• Rituximab targets what antigen on what types of immune cells?
+• CD20 cell surface protein expressed on 95% of B cells in peripheral blood and secondary 
+lymphoid organs. CD20 is absent on terminally differentiated plasma cells.
+• What is rituximab’s mechanism of tumor and autoimmune cell eradication?
+• Rituximab induces antibody-dependent cellular cytotoxicity and complement-dependent 
+cytotoxicity.
+• Patients should be screened for what infections prior to beginning rituximab tx?
+• All patients should be screened for HBV infection. In high-risk populations, screen for latent 
+infections, including tuberculosis, hepatitis C virus, and HIV. 
+• What is the purpose of administering rituximab in conjunction with hyaluronidase?
+• Hyaluronidase increases permeability of subcutaneous tissue through temporary 
+depolymerization of hyaluronan (high mw polysaccharide in extracellular matrix), which 
+increases the dispersion and absorption rate of the drug.
+• How do CDK4/6 inhibitors and PARP inhibitors cause tumor cell death?
+• CDK4/6 inhibitors prevent release of Rb tumor suppressor protein, which prevents progression 
+from G1 to S cell cycle phase, leading to cell cycle arrest. PARP inhibitors block DNA damage 
+response (DDR) pathways in patients with deleterious BRCA1/2 tumors, which prevents tumor 
+cells from repairing DNA, making them vulnerable to apoptosis.
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+48
+
+===== PAGE 49 =====
+Multiple Myeloma Pharmacology
+Immunomodulatory Imide Drugs (IMiDs)
+Proteasome inhibitors
+CD38 inhibitors
+Dexamethasone
+49
+
+===== PAGE 50 =====
+Multiple myeloma is a plasma cell neoplasm characterized by clonal plasma cells that produce a monoclonal 
+immunoglobulin. These plasma cells proliferate in bone marrow and can cause osteolytic lesions, osteopenia, 
+and/or pathologic fractures. Hypercalcemia, kidney impairment, anemia, and infections are additional disease-
+related complications.
+The goal of treatment is to alleviate symptoms, reverse cytopenias, decrease end-organ damage, achieve sustained 
+response, improve quality of life, and achieve sustained overall survival. The drugs presented here are most 
+frequently used.
+Proteasome Inhibitors, IMiDs, Anti-CD38
+For the treatment of multiple myeloma
+50
+Immunomodulatory
+Imide Drugs (IMiDs)
+Proteasome 
+inhibitors
+Anti-CD38 MAb Additional 
+targeted agents 
+have been 
+developed for 
+the treatment of
+relapsed or 
+refractory 
+multiple 
+myeloma.
+Lenalidomide 
+(Revlimid)
+Bortezomib 
+(Velcade)
+Darutumumab
+Thalidomide Carfilzomib Isatuximab
+Pomalidamide Ixazomib
+Preferred induction therapy based on risk stratification:
+Standard risk: VRd or DRd (d=dexamethasone)
+High-risk, autologous HCT eligible: DVRd, VRd, or DRd
+
+===== PAGE 51 =====
+IMiDs Pharmacokinetics
+51
+Lenalidomide
+PK Oral; 1x daily for 21d of 28-day cycle
+MOA Binds cereblon, a protein crucial in tagging proteins for degradation via the ubiquitin-
+proteasome pathway. IMiDs prevent release of NFB, which reduces inflammation and 
+promotes apoptosis in cancer cells.
+TU Lenalidomide is preferred IMiD for treatment of multiple myeloma, myelodysplastic 
+syndrome, and CLL. It is more potent and has a broader range of therapeutic uses than the 
+other IMiDs.
+AEs • Heme: Neutropenia, Thrombocytopenia
+• Thromboembolic events: VTE, DVT, PE, acute MI, stroke
+• Peripheral neuropathy, sensorimotor
+• Hepatotoxicity: Abnormal LFTs, hyperbilirubinemia
+• Hypersensitivity reactions:Immediate: anaphylaxis, angioedema (immediate) and 
+SJS/TEN/DRESS (delayed)
+PREGNANCY Contraindicated: fetotoxic and teratogenic – causes phocomelia
+Thalidomide and pomalidamide have similar PK properties (pomalidamide: hepatic 
+metabolism via CYP1A2 / 3A4), the same mechanism of action and adverse effects.
+
+===== PAGE 52 =====
+Citation: Chapter 71 Protein Kinase Inhibitors and Pathway-Targeted Small Molecules, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=269309724 Accessed: March 22, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Recruitment of target substrates by lenalidomide. Lenalidomide functions as a molecular “glue” for the recruitment of proteins to the cereblon (CRBN) 
+receptor component of the cullin–RING (Really Interesting New Gene) E3 ubiquitin ligase complex 4 (CRL4) comprising cullin 4 (CUL4), DNA damage-
+binding protein 1 (DDB1), and E3 ubiquitin–protein ligase RBX1. This recruitment results in protein ubiquitylation and degradation. Due to the structural 
+differences, thalidomide, and its congeners, interact with and lead to the depletion of overlapping but distinct sets of proteins that include IKZF1/3 (Ikaros 
+family zinc finger protein) and CK1α (casein kinase I isoform-α) (Jan et al., 2021).
+Lenalidomide (LEN) Mechanism of Action
+LEN binds cereblon (CRBN)
+
+forms LEN-CRBN complex
+
+recruits substrates to CRBN for ubiquitination 
+by E3 ubiquitin-protein ligase
+
+proteasome degradation of transcription factors IKZF
+
+death of multiple myeloma cells
+Numerous IMiD-dependent CRBN substrates have been identified.
+Definitions are on the next slide.
+
+===== PAGE 53 =====
+Ubiquitin: 76 amino acid protein
+Ubiquitination (ubiquitylation): Post-translational modification in which ubiquitin is attached to 
+a target protein. It is a tightly regulated, highly specific ATP-dependent biological process 
+carried out by a cascade of enzymes.
+Ubiquitination tags proteins for degradation, for subcellular localization, and for kinase 
+activation.
+E3 ubiquitin-protein ligases: A large family of proteins that regulate turnover and activity of 
+proteins with diverse functions.
+E3 ubiquitin-protein ligases transfer ubiquitin from E2 ubiquitin-conjugating enzyme to a 
+substrate protein. The target protein is degraded by the 26S proteasome.
+Cereblon: CRBN is a substrate adaptor the E3 ligase complex. CRBN forms an E3 ubiquitin-
+protein ligase complex with damaged DNA binding protein 1 (DDB1), Cullin-4A (CUL4A), and 
+regulator of cullins 2 (ROC1). This complex ubiquitinates a number of other proteins.
+Definitions
+53
+
+===== PAGE 54 =====
+Citation: Chapter 71 Protein Kinase Inhibitors and Pathway-Targeted Small Molecules, Brunton LL, Knollmann BC. Goodman & Gilman's: The Pharmacological Basis of 
+Therapeutics, 14e; 2023. Available at: https://accessmedicine.mhmedical.com/content.aspx?bookid=3191&sectionid=269309724 Accessed: March 22, 2023
+Copyright © 2023 McGraw-Hill Education. All rights reserved
+Overview of proposed mechanisms of antimyeloma activity of thalidomide and its derivatives. Some biological hallmarks of the malignant phenotype are indicated in blue boxes. The proposed sites of 
+action for thalidomide (letters inside red and green circles) are hypothesized to also be operative for thalidomide derivatives. A. Direct anti-MM effect on tumor cells, including G1 growth arrest or 
+apoptosis, even against MM cells resistant to conventional therapy. This is due to the disruption of the antiapoptotic effect of BCL2 family members, blocking NF-κB signaling, and inhibition of the 
+production of IL-6. Mechanistic studies show that lenalidomide can kill MM cells by inducing E3 ubiquitin ligase CRL4-CRBN–mediated ubiquitination and degradation of the crucial IKZF1 and -3 (zinc 
+finger transcription factors). B. Inhibition of MM cell adhesion to bone marrow stromal cells partially due to the reduction of IL-6 release. C. Decreased angiogenesis due to the inhibition of cytokine and 
+growth factor production and release. D. Enhanced T-cell production of cytokines, such as IL-2 and IFN-γ, that increase the number and cytotoxic functionality of NK cells.
+IMiDs immunomodulatory, antiangiogenic and antineoplastic 
+actions.
+A. Direct antitumor effects (ie G1 arrest or apoptosis) by 
+disrupting the antiapoptotic effect of BCL2 family members, 
+blocking NF-B signaling, and inhibiting IL-6 production. 
+B. Inhibit MM cell adhesion to bone marrow stromal cells 
+partially due to the reduction of IL -6 release. 
+C. Decrease angiogenesis due to inhibition of cytokine and 
+growth factor production and release.
+D. Enhance cell-mediated cytotoxicity by increasing T cell 
+production of cytokines, such as IL -2 and IFN-γ, that 
+increase the number and cytotoxic functionality of NK cells.
+
+===== PAGE 55 =====
+Lexicomp monograph: thalidomide
+• Embryotoxic: Severe developmental deformities including 
+• Stunted limb growth (phocomelia)
+• Fetal cardiac, gastrointestinal, bone, external ear, eye, and genitourinary tract 
+abnormalities have been described
+• Mortality at or shortly after birth reported
+Thalidomide: Pregnancy Contraindicated
+http://www.math.lsa.umich.edu/mmss/2005
+/embryology/sabreim/T eratogens.htm 55
+http://wordinfo.info/unit/3621/s:
+a%20sea%20calf
+Thalidomide, lenalidomide, and 
+pomalidomide are present in semen. 
+➢ Advise patients to use condoms 
+with partners who could become 
+pregnant during therapy and at 
+least 4 weeks after treatment 
+completion.
+
+===== PAGE 56 =====
+Pharmacology of Proteasome Inhibitors
+Bortezomib Carfilzomib Ixazomib
+PK IV, hepatic CYPs IV, peptidase Oral, CYP3A4
+MOA Reversible Irreversible Reversible
+Uses MM induction
+MM relapsed/refractory
+Mantle cell lymphoma
+Cutaneous T cell lymphoma
+Peripheral T cell lymphoma
+Waldenstrom macroglobulinemia
+MM relapsed/refractory
+Waldenstrom 
+macroglobulinemia
+MM relapsed/refractory
+Toxicities GI: nausea, vomiting, diarrhea, ileus
+Neutropenia and severe thrombocytopenia
+Peripheral neuropathy, sensory (stocking-glove) or mixed sensorimotor
+Heart failure, Hypotension 
+Pulmonary toxicity (ARDS, pneumonitis, interstitial lung disease)
+• The carfilzomib regimen (KRd) is associated with more dypnea, heart failure, 
+hypertension, and acute kidney injury compared to the bortezomib regmen. 
+• The bortezomib regimen is associated with more peripheral neuropathy. 56
+
+===== PAGE 57 =====
+www.velcade.info/bgdisplay.jhtml?itemname=pro... 
+26S Proteasome is a large protein 
+complex of proteolytic enzymes that 
+degrades ubiquinated (tagged) 
+proteins, which is essential for 
+homeostasis. 
+Proteasomes also selectively destroy 
+potentially harmful abnormal or 
+unfolded proteins, which might be 
+produced in increased amounts in 
+cancers.
+Amino acids and ubiquitin are recycled.
+Nuclear factor-B (NF-B) is 
+constitutively expressed in myeloma 
+cells. The proteasome is essential for 
+NF-B activation by releasing it from 
+IB in the cytosol.
+NF-B is essential for many tumor cell 
+processes, including cell growth and 
+survival.
+57
+Proteasome Inhibitors
+
+===== PAGE 58 =====
+drug molecule forms a complex
+with the threonine hydroxyl group in the 
+chymotrypsin-like active site
+
+inhibits proteolysis of ubiquinated 
+proteins
+
+accumulation of abnormal protein 
+conformations
+
+activation of signaling cascades induces 
+apoptosis
+AND
+proteasome inhibition prevents 
+degradation of IκB, which prevents 
+NF-B activation
+58
+Paramore A; Frantz S. Bortezomib. Nature Reviews Drug Discovery 2; Aug 2003:611-612; nature.com; Bortezomib and NF-B)
+Mechanism of action: Bind 20S core of 26S proteasome
+Proteasome inhibitors induce apoptosis and prevent NF -B activation
+
+===== PAGE 59 =====
+Anti-CD38 Agent: Daratumumab
+59
+PK IgG MAb I.V.  Daratumumab-hyaluronidase SubQ  t½ 18  9 days
+MOA CD38 is a cell surface glycoprotein highly expressed on myeloma cells but 
+there are low levels of expression on normal lymphoid and myeloid cells. 
+1. Complement-dependent cytotoxicity
+2. Antibody-dependent cellular cytotoxicity – ADCC (NK cells)
+3. Fc-mediated crosslinking → apoptosis
+Uses MM, newly diagnosed induction regimen
+• High-risk, candidates for autologous hematopoietic cell transplant (HCT):
+• DVRd, VRd, or DRd followed by stem cell collection and early HCT
+MM, relapsed/refractory
+Systemic light chain amyloidosis (monoclonal plasma cell proliferative disorder)
+Toxicity Bone marrow toxicity  Infusion reactions  latent infection reactivation
+Screen for HBV infection  Herpes zoster prophylaxis 
+Isatuximab is an anti-CD38 MAb for relapsed / refractory MM
+
+===== PAGE 60 =====
+• Dexamethasone is a component of 3 -drug, 4-drug, and 2-drug regimens for 
+initial treatment of multiple myeloma and relapsed and refractory multiple 
+myeloma.
+• Dexamethasone decreases inflammation by suppression of neutrophil 
+migration, decreased production of inflammatory mediators, and reversal of 
+increased capillary permeability; suppresses normal immune response. 
+• Dexamethasone induces apoptosis in multiple myeloma cells .
+Glucocorticoid: Dexamethasone
+60
+
+===== PAGE 61 =====
+• What is the initial therapy for standard -risk multiple myeloma?
+• VRd: Bortezomib, lenalidomide, dexamethasone
+• What drug is added for initial therapy in high -risk patients who are candidates for 
+HCT ?
+• Daratumumab, CD38 inhibitor
+• What is the mechanism of action of each of the drugs in the regimen?
+• Proteasome inhibitor prevents proteolysis of ubiquitinated proteins and release of 
+NF-B. IMiDs recruit substrates, resulting in ubiquitination and degradation of 
+transcription factors. Dexamethasone induces apoptosis of MM cells. 
+Daratumumab induces ADCC, complement -dependent cellular cytotoxicity, and 
+apoptosis.
+• What drugs are known to be embryotoxic and present in semen?
+• Immunomodulatory imide drugs IMiDs.
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+61
+
+===== PAGE 62 =====
+Cancer Immunotherapy
+IMMUNE CHECKPOINT INHIBITORS
+62
+T cell activation is tightly controlled by co -inhibitory molecules, immunosuppressive 
+cells, and cytokines. 
+Immune checkpoints are inhibitory signals the limit T cell activation. 
+Malignancy can lead to immune tolerance of tumor and progression of malignancy.
+Therapeutic approach:
+Blocking immune checkpoints on cytotoxic (CD8+) T cells allows them to recognize 
+cancer cells expressing antigens recognized by the T cells and eliminate them.
+CTLA-4 Inhibitors PD-1 Inhibitors PD-L1 Inhibitors
+Ipilimumab Nivolumab Atezolizumab
+Tremelimumab Pembrolizumab Avelumab
+Cemiplimab Durvalumab
+Dostarlimab
+
+===== PAGE 63 =====
+Graphic 90346 version 4.0
+Antigens shed from dead cancer cells are captured and 
+processed by antigen presenting cells (APCs). APCs travel to the 
+regional lymph nodes and present the antigen bound to MHC to 
+stimulate T cell receptors (TCRs). 
+Activation Signal 1: Engagement of T cells with antigen 
+expressed on MHC of APCs
+Activation Signal 2: Engagement of CD 28 co-stimulatory 
+molecule on T cells with CD80/86 (B7.1/B7.2) on APC → T cell 
+activation → T cell proliferation, migration, and production of 
+cytokines.
+Checkpoint 1: Expression of CTLA-4 co-
+inhibitory molecule on T cells → interrupts T 
+cell activation by outcompeting CD28 for 
+binding to CD80/86 
+Checkpoint 2: Expression of PD1, which 
+binds PD-L1 → The PD-1:PD-L1 interaction 
+directly inhibits tumor cell apoptosis, 
+promotes peripheral T cell exhaustion, and 
+increase in regulatory T cells (Tregs).
+
+===== PAGE 64 =====
+Immune Checkpoint Inhibitors
+CTLA-4 Inhibitors:
+Ipilimumab: Blocks CTLA-4 → allows for enhanced T-cell activation and proliferation 
+Uses: Melanoma, colorectal cancer, non-small lung cancer, and others in combination 
+with chemotherapy or nivolumab
+PD-1 Inhibitors:
+(PD-1 is expressed on many cell types: T and B cells, NK cells, monocytes, dendritic cells.)
+Block PD-1:PD-L1 interaction → release immune suppression → immune response 
+against the tumor 
+Uses: Many metastatic solid tumors as monotherapy or in combination with cytotoxic 
+chemo or other ICIs.
+PD-LI inhibitors: 
+(PD-L1 is expressed on tumor cells, NK cells, monocytes, dendritic cells.)
+Block PD-L1 block → prevents  the PD-ligand-mediated T cell suppression
+Uses: Many metastatic unresectable solid tumors as monotherapy or in combination 
+with cytotoxic chemotherapy or other ICIs. 64
+
+===== PAGE 65 =====
+Immune Checkpoint Inhibitors: Immune -related adverse events
+Adverse effects are typically transient, but they can be severe or fatal due to T cell activation 
+and proliferation.
+Immune-related adverse events are more common with CTLA-4 inhibitors than with PD-1 or 
+PD-L1 inhibitors.
+• Inflammatory skin reactions, immunobullous disease, vasculitis, neutraphilic dermatosis: the 
+most common adverse effects
+• GI: diarrhea, colitis
+• Hepatotoxicity: frequent, hepatocellular injury with asymptomatic elevations of ALT and AST; 
+severe hepatotoxicity is rare
+• Endocrinopathies: Inflammation of the pituitary (hypophysitis), thyroid, or adrenal glands 
+due to checkpoint blockade typically results in gland failure.
+• Pneumonitis: uncommon but can be severe and fatal
+• Autoimmune hemolytic anemia
+• Hemophagocytic lymphohistiocytosis (overactive lymphocytes and histiocytes)
+➢ Practice point: Early recognition, timely intervention, including cessation of therapy, are 
+critical. Treatment is based on the severity of the observed toxicity. 65
+
+===== PAGE 66 =====
+Idacabtagen vicleucel https://www.researchgate.net/figure/Chimeric-antigen-receptor-structure-of-idecabtagene-vicleucel_fig1_351999384
+• T cells are harvested from the patient’s blood. The T cells are genetically engineered to 
+express artificial T cell receptors targeting specific tumor antigens. The engineered T 
+cells are returned to the patient’s body.
+• Both antigen-binding and T cell activating functions are combined in one receptor. 
+A murine CD19-binding antibody fragment that recognizes CD19 is fused to intracellular 
+signaling domains from 4-1BB (CD137) and CD3-zeta. 
+• Anti-BCMA and anti-MAGE-A4 CAR-T cells are engineered in a similar way.
+CAR-T Cell Therapies (“living drugs”)
+Ex vivo modification of autologous T cells are genetically engineered to direct 
+the patient’s own T cells against their own tumor cells.
+The cells persist as memory CAR-T cells, providing ongoing antitumor actions. 
+66
+CD19 targeting BCMA targeting MAGE-A4 targeting
+Tisagenlecleucel
+Axicabtagene ciloleucel
+Brexucabtagene 
+autoleucel
+Lisocabtagene miraleucel
+Idecabtagene vicleucel
+Ciltacabtagene 
+autoleucel
+Afamitresgene 
+autoleucel
+
+
+===== PAGE 67 =====
+CAR-T Cell Therapies
+67
+Drugs Drug-specific indications Toxicities
+Anti-CD19 
+drugs
+• B cell acute 
+lymphoblastic leukemia
+• Diffuse large cell 
+lymphoma
+• Follicular lymphoma
+• Mantle cell lymphoma
+Cytokine release syndrome
+• Acute systemic inflammatory syndrome 
+characterized by fever and multiple organ 
+dysfunction
+• Onset: 1 to 22 days (clinical trials)
+• Monitor for at least 4 weeks after treatment
+• Hospitalize at the first sign: supportive care, 
+tocilizumab and/or GC
+Immune effector cell neurotoxicity syndrome
+• Neuropsychiatric syndrome that occurs in patients 
+treated with CAR-T therapy
+• ICANS of any severity in 20-70% of patients
+• Onset: days to weeks after admin of CAR T cell tx
+Encephalopathy with confusion, behavioral changes
+Visual and auditory hallucinations, language 
+dysfunction, headache, tremors, seizures, cerebral 
+edema, coma, death
+Anti-BCMA
+Drugs
+BCMA: B cell 
+maturation 
+antigen
+• Multiple myeloma
+Anti-MAGE-A4 • Synovial sarcoma, 
+unresectable or 
+metastatic, relapsed or 
+refractory
+And many other adverse effects affecting all organ systems
+
+===== PAGE 68 =====
+• What is the mechanistic concept of the immune checkpoint inhibitors (ICIs)?
+• Immune checkpoints are inhibitory signals the limit T cell activation. Blocking immune 
+checkpoints on cytotoxic (CD8+) T cells allows them to recognize cancer cells expressing 
+antigens recognized by the T cells and eliminate them. 
+• What types of cancers are the ICIs used for?
+• Many types of solid tumors.
+• What are some serious and potentially life-threatening toxicities of the ICIs?
+• Immune-related adverse reactions and infusion reactions.
+• What is the mechanistic concept of the CAR-T cell drugs?
+• CAR-T cells are genetically engineered to express artificial T cell receptors targeting specific 
+tumor antigens. Both the antigen-binding and T cell activating functions are combined in one 
+receptor. 
+• What are some serious and potentially life-threatening toxicities of CAR T cells?
+• Cytokine release syndrome and immune effector cell neurotoxicity syndrome
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+68
+
+===== PAGE 69 =====
+Summary
+69
+
+===== PAGE 70 =====
+• Inhibiting growth factors receptors 
+in cancer cells
+• Inhibiting tumor angiogenesis
+• Activating immune cells
+• Targeting cancer cell surface 
+molecules to engage immune cells
+• Cytotoxin conjugates with 
+antibodies or cytokines
+• Cellular therapy and vaccines
+Targeting oncogenic pathways that contribute to cancer growth and 
+metastatic spread as well as immune evasion
+70
+• Altered growth factor receptor 
+signaling
+• Activation of intracellular kinases
+• Cancer cell-host interactions and 
+aberrant angiogenesis
+• Defects in DNA repair
+• Altered protein degradation
+• Altered epigenetic regulation
+• Targets that control cancer cell 
+behavior
+
+===== PAGE 71 =====
+• Targeted anticancer agents have been developed for a wide array of cancers. They 
+are generally used in combination regimens with cytotoxic chemotherapy or other 
+targeted agents.
+• Monoclonal antibodies bind to and inhibit specific receptors / cell surface proteins, 
+which prevents dimerization and activation of the oncogenic pathway. Some MAbs 
+induce antibody-dependent cellular cytotoxicity and complement-mediated cellular 
+toxicity. Toxicities are related to inhibition of specific targets, such as receptor tyrosine 
+kinases and vascular endothelial growth factor, infusion hypersensitivity reactions.
+• Small molecular oral agents act at intracellular sites, such as protein kinases, 
+preventing cellular functions such as gene expression, immune response, cell 
+survival and division. Toxicities, such as dermatologic reactions and bone marrow 
+suppression, are related to the inhibition of specific targets. The drugs are 
+metabolized by hepatic CYPs, especially CYP3A4, and have a high potential for drug 
+interactions.
+71
+
+===== PAGE 72 =====
+• Immune checkpoint inhibitors are drugs that prevent the checkpoint proteins from 
+downregulating T cell actions, thereby unleashing the T cell response against the 
+tumor cells. Targets are CTLA-4, PD-1 and PD-L1. Toxicities include autoimmune 
+reactions due to T cell activation and proliferation and infusion hypersensitivity 
+reactions.
+• CAR-T cells – chimeric antigen receptor T cells – are genetically engineered to 
+express artificial T cell receptors targeting specific tumor antigens. Both the antigen-
+binding and T cell activating functions are combined in one receptor. CAR-T cells are 
+used in the treatment of CD19-positive leukemias / lymphomas and BCMA-positive 
+multiple myeloma. Potentially life-threatening toxicities include severe cytokine 
+release syndrome, an inflammatory syndrome with fever and multiorgan failure, and 
+immune effector cell-associated neurotoxicity syndrome (ICANS), which is a 
+neuropsychiatric syndrome characterized by encephalopathy, hallucinations, and 
+language dysfunction. 
+72
+
+===== PAGE 73 =====
+• Many protein kinase inhibitors and pathway-
+targeted molecules have been developed for a wide 
+variety of cancers expressing these oncogenic 
+proteins. 
+• Two separate classes of drugs that target the EGFR 
+pathway are important in the therapy of solid 
+tumors: protein tyrosine kinase inhibitors (TKIs) and 
+inhibitors of extracellular ligand binding. 
+• Monoclonal antibodies that recognize the 
+extracellular domain of the EGFR, inhibit ligand-
+induced signaling. EGFR TKIs bind to the 
+intracellular kinase domain and inhibit the 
+enzymatic function of EGFR. 
+• The mechanisms and pharmacology are typical of 
+the drugs described in this video for CML, colorectal 
+cancer, and HER2-positive breast cancer. 
+Summary of TKIs
+73Goodman and Gilman Figure 71-1
+Targeting EGFR in cancer.
+
+
+===== PAGE 74 =====
+Copyright © Wolters Kluwer
+From: 37 Anticancer Drugs
+Mechanism of action of immune checkpoint inhibitors.
+Legend:
+Lippincott® Illustrated Reviews: Pharmacology, 8e,  2023
+
+
+===== PAGE 75 =====
+Copyright © Wolters Kluwer
+From: 37 Anticancer Drugs
+Gene and cell therapies for cancer.
+Lippincott® Illustrated Reviews: Pharmacology, 8e,  2023
+
+
+===== PAGE 76 =====
+• What type of protein is expressed by the BCR::ABL1 driver mutation?
+Constitutively active cytosolic tyrosine kinase, BCR::ABL1.
+• What is the importance of the T315I point mutation in the ABL1 contact residue?
+This mutation confers resistance to all but two BCR::ABL1 inhibitors.
+• What drugs are active against CML harboring this mutation?
+Ponatinib and Asciminib
+• What are some class toxicities of the tinibs group?
+Diarrhea, rash, edema including orbital edema, bone marrow suppression, CYP3A4 
+drug interactions
+• What are the serious and potentially life -threatening toxicities of ponatinib?
+Arterial occlusive events → acute MI, stroke, brain arterial stenosis, PVD; heart 
+failure; QT interval prolongation / arrhythmia; hepatotoxicity
+Check your knowledge:  
+You might want to pause the video to think about the answers.
+76
+
+===== PAGE 77 =====
+• Cetuximab and panitumumab are ineffective in tumors with what mutation?
+KRAS, oncogene for a GTPase, a transducer of the RAF/MEK/ERK pathway
+• What are the target and disease treated by both cetuximab and panitumumab?
+Monoclonal antibodies directed against EGFR for metastatic colorectal cancer.
+• What is the mechanism of bevacizumab?
+Bevacizumab neutralizes soluble VEGF preventing it from activating its RTKs.
+• What cytotoxic chemotherapies are included in the combination regimen?
+Folinic acid (leucovorin) + 5-fluorouracil + oxaliplatin + cetuximab + bevacizumab
+• What are some serious and potentially life -threatening toxicities of these MAbs?
+EGFR inhibitors: diarrhea, rash, electrolyte disturbances, lung toxicity, infusion rx
+VEGF inhibitor: hemorrhage, poor wound healing, hypertension, thromboses, GI 
+perforation, infusion reactions
+Check your knowledge:
+You might want to pause the video to think about the answers.
+77
+
+===== PAGE 78 =====
+• Mechanistically, how do trastuzumab and pertuzumab work together?
+More complete inhibition of HER2 signaling by binding different epitopes in HER2.
+• Mechanistically, how does lapatinib interfere with HER2 signaling?
+Lapatinib is an oral small molecule that prevents activation of intracellular receptor 
+tyrosine kinases, which prevents activation of second messengers.
+• What is the mechanistic concept of antibody -drug conjugates?
+The antibody directed against a specific target delivers a cytotoxic payload to those 
+cells expressing the receptors, thereby limiting exposure of host cells.
+• What cytotoxic chemotherapies are included in the combination regimen?
+A taxane and/or doxorubicin, cyclophosphamide, trastuzumab,  pertuzumab
+• What are some serious and potentially life -threatening toxicities of trastuzumab?
+Heart failure (esp. w. doxorubicin), lung tox, infusion reactions, 
+Check your knowledge:  
+You might want to pause the video to think about the answers.
+78
+
+===== PAGE 79 =====
+• Rituximab targets what antigen on what types of immune cells?
+CD20 cell surface protein expressed on 95% of B cells in peripheral blood and secondary lymphoid 
+organs. CD20 is absent on terminally differentiated plasma cells.
+• What is rituximab’s mechanism of tumor and autoimmune cell eradication?
+Rituximab induces antibody-dependent cellular cytotoxicity and complement-dependent cytotoxicity.
+• Patients should be screened for what infections prior to beginning rituximab tx?
+All patients should be screened for HBV infection. In high-risk populations, screen for latent 
+infections, including tuberculosis, hepatitis C virus, and HIV. 
+• What is the purpose of administering rituximab in conjunction with hyaluronidase?
+Hyaluronidase increases permeability of subcutaneous tissue through temporary depolymerization 
+of hyaluronan (high mw polysaccharide in extracellular matrix), which increases the dispersion and 
+absorption rate of the drug.
+• How do CDK4/6 inhibitors and PARP inhibitors cause tumor cell death?
+CDK4/6 inhibitors prevent release of Rb tumor suppressor protein, which prevents progression from 
+G1 to S cell cycle phase, leading to cell cycle arrest. PARP inhibitors block DNA damage response 
+(DDR) pathways in patients with deleterious BRCA1/2 tumors, which prevents tumor cells from 
+repairing DNA, making them vulnerable to apoptosis.
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+79
+
+===== PAGE 80 =====
+• What is the initial therapy for standard -risk multiple myeloma?
+VRd: Bortezomib, lenalidomide, dexamethasone
+• What drug is added for initial therapy in high -risk patients who are candidates for 
+HCT ?
+Daratumumab, CD38 inhibitor
+• What is the mechanism of action of each of the drugs in the regimen?
+Proteasome inhibitor prevents proteolysis of ubiquitinated proteins and release of 
+NF-B. IMiDs recruit substrates, resulting in ubiquitination and degradation of 
+transcription factors. Dexamethasone induces apoptosis of MM cells. Daratumumab 
+induces ADCC, complement-dependent cellular cytotoxicity, and apoptosis.
+• What drugs are known to be embryotoxic and present in semen?
+Immunomodulatory imide drugs IMiDs.
+Check your knowledge: 
+You might want to pause the video to think about the answers.
+80
+
+===== PAGE 81 =====
+• What is the mechanistic concept of the immune checkpoint inhibitors (ICIs)?
+Immune checkpoints are inhibitory signals the limit T cell activation. Blocking immune checkpoints 
+on cytotoxic (CD8+) T cells allows them to recognize cancer cells expressing antigens recognized 
+by the T cells and eliminate them. 
+• What types of cancers are the ICIs used for?
+Many types of solid tumors.
+• What are some serious and potentially life-threatening toxicities of the ICIs?
+Immune-related adverse reactions and infusion reactions.
+• What is the mechanistic concept of the CAR-T cell drugs?
+CAR-T cells are genetically engineered to express artificial T cell receptors targeting specific tumor 
+antigens. Both the antigen-binding and T cell activating functions are combined in one receptor. 
+• What are some serious and potentially life-threatening toxicities of CAR T cells?
+Cytokine release syndrome and immune effector cell neurotoxicity syndrome
+Check your knowledge:
+You might want to pause the video to think about the answers.
+81
+
+===== PAGE 82 =====
+All photographs by Aleya Cydney Photography from a Brushes With Cancer event in Chicago.
+https://www.phillymag.com/be -well-philly/2019/09/05/cancer -art/ 
+ 82
+
+===== PAGE 83 =====
+• Access Medicine Goodman & Gilman’s The Pharmacological Basis of 
+Therapeutics, 14e, 2023; Chapter 71: Protein Kinase Inhibitors and Pathway 
+Targeted Small Molecules and Chapter 72 Antibodies, CAR T Cells, and 
+Proteins to Treat Cancer
+• UpToDate Lexidrug monographs
+• UpToDate various topics
+References
+83
+
+===== PAGE 84 =====
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R 
