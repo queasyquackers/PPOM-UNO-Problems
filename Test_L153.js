@@ -1,945 +1,333 @@
 // Thinking Process:
-// 1. High-Yield Concept: Iron, B12, and Folate pharmacokinetics and clinical considerations.
-// 2. The "Trap": Confusing the clinical features of B12 vs Folate deficiency or the metabolic markers (MMA).
-// 3. Key Distractor: Folate (frequently mistaken for B12 when only anemia is present).
-// 4. Vignette Strategy: Use a patient with a specific surgical history (gastrectomy or bypass) and neuro signs to definitively point to B12.
+// 1. High-Yield Concept: Dr. Goldstein's lecture covers four therapeutic categories: (a) iron supplementation for microcytic IDA (oral vs IV, drug interactions, regulation by hepcidin/stores), (b) folate vs B12 supplementation for megaloblastic anemia (methyl-folate trap, neurologic risk of treating B12 deficiency with folate alone), (c) ESAs for anemia of CKD/chemo (JAK-STAT activation of EPOR, boxed-warning thrombotic risk, Hb ceiling ~11), and (d) hydroxyurea for sickle cell anemia (ribonucleotide reductase inhibition → stress erythropoiesis → HbF induction, plus NO-mediated cGMP pathway).
+// 2. The "Trap": Students confuse folate (corrects anemia but masks B12-related neuro damage) with B12; mistake the goal of ESA therapy as "normalize Hb" rather than "lowest Hb that avoids transfusion"; forget that hydroxyurea works via stress erythropoiesis to induce HbF (NOT by direct anti-sickling); confuse drugs reduced by iron (levothyroxine, quinolones, levodopa) with drugs that reduce iron absorption (antacids, bisphosphonates, tetracyclines).
+// 3. Key Distractor: Folate monotherapy for any megaloblastic anemia; "increase Hb to normal" as ESA goal; PPI/antacid pairing with iron; iron dextran without test dose.
+// 4. Vignette Strategy: Stems use the mechanism-first rule — present an adverse-effect pattern (HTN+thrombosis in CKD patient → ESA; progressive paresthesia after starting a B-vitamin → folate masking B12; teratogenicity + neutropenia in sickle patient → hydroxyurea) and force the student to identify the drug/MOA from physiology rather than name recognition.
 //
 // PDF Mapping Check: Found
 // PDF Filename: Lecture # 153. L. Goldstein, Pharm.D. (PPT).pdf
-// Mapping Key: 16-Hematology: Pharmacology of Anemias (L153)
+// Mapping Key: 17-Hematology: Pharmacology of Anemias (L153)
 // Status: Verified
 
-const Test_L153 = [
+window.Test_L153 = [
   {
     "id": 1,
-    "category": "Pharmacology: Iron Absorption",
-    "questionText": "Iron absorption is a tightly regulated process in the duodenum. Which of the following substances acts as a strong reducing agent to convert dietary ferric iron (Fe3+) to the more absorbable ferrous state (Fe2+)?",
+    "category": "Pharmacology: Iron Absorption Physiology",
+    "questionText": "An enterocyte in the duodenum is internalizing dietary iron from a plant-based meal. Before the iron can be transported across the apical membrane by divalent metal transporter 1 (DMT1), what conversion must occur in the intestinal lumen?",
     "options": [
-      {
-        "text": "Calcium",
-        "explanation": "Incorrect. Calcium actually forms insoluble complexes with iron and inhibits its absorption. This would be the correct answer if the question asked about a common dietary inhibitor found in dairy."
-      },
-      {
-        "text": "Vitamin C (Ascorbic acid)",
-        "explanation": "Correct. Vitamin C is a strong reducing agent (antioxidant) that reduces ferric iron (Fe3+) to ferrous iron (Fe2+) in the gut lumen. This conversion is essential for transport across the apical membrane by DMT1."
-      },
-      {
-        "text": "Tannins",
-        "explanation": "Incorrect. Tannins (found in tea) are inhibitors of iron absorption. This would be the correct answer if the question focused on a component of tea that reduces bioavailability."
-      },
-      {
-        "text": "Hepcidin",
-        "explanation": "Incorrect. Hepcidin is a peptide hormone that downregulates iron export by degrading ferroportin; it does not act as a reducing agent. This would be the correct answer if the question asked about the 'master regulator' of iron stores."
-      },
-      {
-        "text": "Folic Acid",
-        "explanation": "Incorrect. Folic acid is a vitamin involved in DNA synthesis and is not a reducing agent for iron absorption. This would be the correct answer if the question concerned thymidylate synthesis cofactors."
-      }
+      { "text": "Conversion of Fe2+ to Fe3+ by duodenal cytochrome b", "explanation": "Incorrect. This reverses the direction of the reaction Dr. Goldstein described. Duodenal cytochrome b reduces, rather than oxidizes, iron, and DMT1 transports only the reduced (ferrous) form. This would be the correct answer if describing iron loading onto transferrin in the bloodstream, where iron is carried in the Fe3+ state." },
+      { "text": "Binding of Fe3+ to intrinsic factor for receptor-mediated uptake", "explanation": "Incorrect. Intrinsic factor binds vitamin B12, not iron, and uptake occurs in the terminal ileum rather than the duodenum. This would be the correct answer if the question concerned vitamin B12 absorption in a patient who has functional gastric parietal cells." },
+      { "text": "Reduction of Fe3+ to Fe2+ by duodenal cytochrome b", "explanation": "Correct. The lecturer emphasized that non-heme iron from plants is in the Fe3+ (oxidized) form, but only Fe2+ can be transported by DMT1. Gastric acid first solubilizes Fe3+ from food proteins, and the brush-border ferrireductase duodenal cytochrome b then reduces Fe3+ to Fe2+, which DMT1 imports. Vitamin C accelerates this same reduction step." },
+      { "text": "Polymerization of Fe2+ into a ferritin core for storage", "explanation": "Incorrect. Ferritin is the intracellular storage form found inside enterocytes, hepatocytes, and macrophages — not a luminal modification required for absorption. This would be the correct answer if the question asked how an enterocyte holds onto iron when body stores are already replete." },
+      { "text": "Complexation of Fe3+ with hepcidin to release ferroportin", "explanation": "Incorrect. Hepcidin is a hepatic peptide hormone that binds basolateral ferroportin and triggers its internalization, sequestering iron — it is not a luminal absorption cofactor. This would be the correct answer if the question asked how chronic inflammation reduces serum iron levels." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Vitamin C enhances iron absorption by maintaining iron in the ferrous (Fe2+) state.",
-    "pdfPage": 9,
-    "pdfQuote": "Vitamin C is a strong reducing agent ... increase absorption of non-heme iron"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Only Fe2+ (heme iron or reduced non-heme iron) is absorbed by DMT1. Gastric acid solubilizes plant Fe3+; duodenal cytochrome b (aided by vitamin C) reduces it to Fe2+.",
+    "pdfPage": 10,
+    "pdfQuote": "Fe3+ is reduced by duodenal cytochrome b"
   },
   {
     "id": 2,
-    "category": "Pharmacology: Hepcidin Mechanism",
-    "questionText": "Hepcidin is a peptide hormone synthesized by hepatocytes that plays a central role in iron homeostasis. What is its direct mechanism of action on the iron export protein, ferroportin?",
+    "category": "Pharmacology: Iron Deficiency Anemia",
+    "questionText": "A 34-year-old woman with newly diagnosed iron deficiency anemia is started on the most common first-line oral iron supplement. Which laboratory value most directly and specifically reflects her total body iron stores and is the most sensitive test for the underlying deficiency?",
     "options": [
-      {
-        "text": "Competitive inhibition of the iron-binding site",
-        "explanation": "Incorrect. Hepcidin does not compete for iron binding; it targets the protein itself for destruction. This would be the correct answer if hepcidin were a small molecule antagonist."
-      },
-      {
-        "text": "Transcriptional upregulation of the ferroportin gene",
-        "explanation": "Incorrect. Hepcidin decreases iron levels, so upregulating an exporter would be counterproductive. This would be the correct answer if the question asked about the effect of iron deficiency on ferroportin."
-      },
-      {
-        "text": "Binding, internalization, and degradation of ferroportin",
-        "explanation": "Correct. Hepcidin binds directly to ferroportin on the basolateral membrane of enterocytes and macrophages. This binding triggers the internalization and lysosomal degradation of the protein, trapping iron within the cells."
-      },
-      {
-        "text": "Phosphorylation of ferroportin to increase its activity",
-        "explanation": "Incorrect. Phosphorylation is not the primary regulatory mechanism for hepcidin-mediated iron control. This would be the correct answer if hepcidin acted as an allosteric activator."
-      },
-      {
-        "text": "Stabilization of ferroportin on the cell membrane",
-        "explanation": "Incorrect. Hepcidin destabilizes the protein to reduce iron export. This would be the correct answer if the question asked about the effect of erythropoietin on iron availability."
-      }
+      { "text": "Mean corpuscular volume (MCV)", "explanation": "Incorrect. MCV will be low (microcytic) in established iron deficiency, but it reflects the consequence of inadequate hemoglobinization rather than directly measuring stores, and it falls only after stores are exhausted. This would be the correct answer if asking which CBC index classifies the morphologic category of the anemia." },
+      { "text": "Total iron binding capacity (TIBC)", "explanation": "Incorrect. TIBC rises in iron deficiency because transferrin upregulates, but it is an indirect marker of transport capacity, not a measure of body iron stores. This would be the correct answer if you were asked which laboratory value increases as the liver compensates by producing more transferrin." },
+      { "text": "Serum hemoglobin concentration", "explanation": "Incorrect. Hemoglobin defines whether anemia is present and quantifies its severity, but it does not specifically measure iron stores — many anemias share a low hemoglobin. This would be the correct answer if asked which value is used to dose erythropoiesis-stimulating agents." },
+      { "text": "Serum ferritin", "explanation": "Correct. Dr. Goldstein highlighted that serum ferritin directly measures iron stores and that a low ferritin level is the most sensitive and specific test for iron deficiency. Other supportive markers — low hemoglobin/hematocrit, low MCV, low serum iron, high TIBC — confirm the diagnosis but are less specific than ferritin." },
+      { "text": "Serum hepcidin level", "explanation": "Incorrect. Hepcidin regulates iron absorption and recycling by internalizing ferroportin, but it is not the standard clinical test for iron stores in this setting. This would be the correct answer if asking which hormone causes anemia of chronic inflammation by sequestering iron." }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Hepcidin regulates iron by binding to and degrading ferroportin, thereby lowering serum iron levels.",
-    "pdfPage": 10,
-    "pdfQuote": "Hepcidin ... regulates iron absorption ... by binding ferroportin, which is internalized"
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Serum ferritin = body iron stores. A low ferritin is the single most sensitive and specific laboratory test for iron deficiency anemia.",
+    "pdfPage": 11,
+    "pdfQuote": "Serum ferritin directly measures iron stores"
   },
   {
     "id": 3,
-    "category": "Pharmacology: Iron Lab Monitoring",
-    "questionText": "In the management of iron deficiency anemia, which of the following laboratory parameters is considered the most sensitive and specific marker of total body iron stores?",
+    "category": "Pharmacology: Iron-Drug Interactions",
+    "questionText": "A 67-year-old patient is started on oral ferrous sulfate for iron deficiency anemia. He takes several other chronic medications. Which of the following drugs would have its absorption REDUCED if taken simultaneously with the iron supplement?",
     "options": [
-      {
-        "text": "Serum iron",
-        "explanation": "Incorrect. Serum iron measures iron bound to transferrin and fluctuates daily; it does not accurately reflect total stores. This would be the correct answer if the question asked about iron currently in transport."
-      },
-      {
-        "text": "Total Iron Binding Capacity (TIBC)",
-        "explanation": "Incorrect. TIBC measures transferrin levels and increases in iron deficiency, but it is less specific than storage proteins. This would be the correct answer if the question asked which parameter typically increases in IDA."
-      },
-      {
-        "text": "Serum ferritin",
-        "explanation": "Correct. Serum ferritin levels directly reflect the total amount of iron stored in the liver and bone marrow. A low ferritin level is the most sensitive and specific indicator of iron deficiency."
-      },
-      {
-        "text": "Hemoglobin concentration",
-        "explanation": "Incorrect. Hemoglobin decreases only after iron stores are nearly depleted; it is a late marker of deficiency. This would be the correct answer if the question asked which parameter is used to define the severity of the anemia."
-      },
-      {
-        "text": "Transferrin saturation",
-        "explanation": "Incorrect. Transferrin saturation (Serum Iron / TIBC) is a helpful calculation but is secondary to ferritin for measuring stores. This would be the correct answer if the question focused on iron availability for erythropoiesis."
-      }
+      { "text": "Acetaminophen (paracetamol)", "explanation": "Incorrect. Acetaminophen absorption is not meaningfully affected by oral iron supplements and does not form chelation complexes with divalent cations. This would be the correct answer if the question concerned a drug whose hepatic metabolism is unchanged by iron." },
+      { "text": "Levothyroxine", "explanation": "Correct. The lecturer specifically listed levothyroxine, quinolone antibiotics, levodopa, and phosphate supplements among the drugs whose absorption is reduced when co-administered with iron. Iron binds these drugs in the gut lumen and forms insoluble complexes; dosing must be separated to maintain efficacy." },
+      { "text": "Lisinopril", "explanation": "Incorrect. Lisinopril is not on the list of drugs whose bioavailability is altered by iron co-administration. This would be the correct answer if asking which antihypertensive has a dry cough as its classic mechanism-based adverse effect." },
+      { "text": "Atorvastatin", "explanation": "Incorrect. Statin absorption is not clinically reduced by oral iron in the manner Dr. Goldstein described. This would be the correct answer if asking which class is affected by CYP3A4 inhibitors such as macrolides." },
+      { "text": "Metformin", "explanation": "Incorrect. Metformin is not part of the iron interaction list the lecturer emphasized. This would be the correct answer if asking which antidiabetic can independently cause vitamin B12 deficiency over years of use." }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Serum ferritin is the most sensitive and specific test for measuring total body iron stores.",
-    "pdfPage": 11,
-    "pdfQuote": "Serum ferritin directly measures iron stores. Low level is the most sensitive and specific test."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Iron REDUCES absorption of levothyroxine, quinolones, levodopa, and phosphate. Iron absorption is REDUCED by antacids, bisphosphonates, and tetracyclines. Separate doses.",
+    "pdfPage": 13,
+    "pdfQuote": "Iron can reduce absorption of levothyroxine, quinolone antibiotics, levodopa"
   },
   {
     "id": 4,
-    "category": "Pharmacology: ESA Complications",
-    "questionText": "Erythropoiesis-stimulating agents (ESAs), such as epoetin alfa, are used to treat anemia in chronic kidney disease. What is the primary reason clinicians are advised NOT to exceed a target hemoglobin level of 10-11 g/dL?",
+    "category": "Pharmacology: IV Iron Therapy",
+    "questionText": "A 52-year-old woman with malabsorption is to receive a parenteral iron preparation. The prescriber selects low-molecular-weight iron dextran. Which of the following best describes a unique safety requirement for this product that does NOT apply to other available IV iron formulations?",
     "options": [
-      {
-        "text": "Risk of hepatotoxicity",
-        "explanation": "Incorrect. ESAs are not primarily hepatotoxic. This would be the correct answer if the question focused on high-dose iron therapy."
-      },
-      {
-        "text": "Increased risk of myocardial infarction and stroke",
-        "explanation": "Correct. Clinical trials showed that targeting higher hemoglobin levels (>11 g/dL) with ESAs significantly increased the risk of serious cardiovascular events, including thrombosis, MI, and stroke, as well as overall mortality."
-      },
-      {
-        "text": "Inhibition of intrinsic factor production",
-        "explanation": "Incorrect. ESAs do not affect gastric parietal cell function. This would be the correct answer if the question focused on the mechanism of atrophic gastritis."
-      },
-      {
-        "text": "Development of iron deficiency anemia",
-        "explanation": "Incorrect. While ESA therapy can deplete iron stores (by using it for new RBCs), this is managed with supplements and is not the primary safety concern for the 11 g/dL limit. This would be the correct answer if the question asked why iron is often co-administered."
-      },
-      {
-        "text": "Irreversible bone marrow fibrosis",
-        "explanation": "Incorrect. Marrow fibrosis is a feature of myelofibrosis, not a primary side effect of ESAs. This would be the correct answer if the question concerned the presentation of a myeloproliferative disorder."
-      }
+      { "text": "Administration of a small test dose before the first full dose", "explanation": "Correct. Dr. Goldstein emphasized that low-molecular-weight iron dextran requires a test dose before the first therapeutic dose because of the anaphylactoid reaction risk inherited from the now-withdrawn high-molecular-weight formulation. The other available IV iron products do not require this test dose, though all may cause infusion-related effects." },
+      { "text": "Continuous cardiac telemetry during the full infusion to detect arrhythmias", "explanation": "Incorrect. Continuous telemetry is not a standard requirement for IV iron infusions in general; routine vital sign monitoring is sufficient. This would be the correct answer if asking about IV potassium replacement at high rates." },
+      { "text": "Mandatory IV chelation with deferoxamine afterward", "explanation": "Incorrect. Deferoxamine is used for iron overload (e.g., from chronic transfusions), not as a routine companion to IV iron replacement. This would be the correct answer if asking about management of acute iron poisoning or transfusional hemosiderosis." },
+      { "text": "Concurrent administration of vitamin C to enhance reduction", "explanation": "Incorrect. Vitamin C enhances oral non-heme iron absorption by reducing Fe3+ to Fe2+ in the gut lumen — it is not required for parenteral iron, which bypasses absorption entirely. This would be the correct answer if asking how to maximize the bioavailability of an oral ferrous sulfate dose." },
+      { "text": "Premedication with corticosteroids for all patients", "explanation": "Incorrect. Premedication may be considered for patients with a history of asthma or inflammatory arthritis to mitigate infusion-related exacerbations, but it is not mandated for every patient. This would be the correct answer if the patient had a known prior infusion reaction requiring prophylaxis." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Target hemoglobin for ESA therapy should be 10-11 g/dL to minimize cardiovascular and thrombotic risks.",
-    "pdfPage": 6,
-    "pdfQuote": "Serum hemoglobin in patients treated with an ESA should not exceed 10-11 g/dL"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Low-molecular-weight iron dextran requires a test dose before the first infusion due to anaphylactoid risk. Other IV iron products do not require a test dose.",
+    "pdfPage": 12,
+    "pdfQuote": "Test dose prior to first dose"
   },
   {
     "id": 5,
-    "category": "Pharmacology: Folate Trap Mechanism",
-    "questionText": "Vitamin B12 is a required cofactor for the conversion of N5-methyltetrahydrofolate (MTHF) back to tetrahydrofolate (THF). In the absence of B12, which of the following cofactors becomes 'trapped,' leading to impaired DNA synthesis?",
+    "category": "Pharmacology: Folate Metabolism",
+    "questionText": "A medication that competitively inhibits dihydrofolate reductase (DHFR) in human cells can produce a megaloblastic anemia with chronic use. Which mechanism most directly explains how DHFR inhibition causes megaloblastic erythropoiesis?",
     "options": [
-      {
-        "text": "Methylmalonyl-CoA",
-        "explanation": "Incorrect. Methylmalonyl-CoA accumulates in B12 deficiency but is not the cofactor that stalls DNA synthesis. This would be the correct answer if the question focused on the biochemical cause of neurological damage."
-      },
-      {
-        "text": "Methyltetrahydrofolate (MTHF)",
-        "explanation": "Correct. This is known as the 'folate trap.' Without B12, folate is stuck as N5-methyl-THF, which cannot be used for the one-carbon transfers required for purine and thymidylate synthesis, thereby stalling cell division."
-      },
-      {
-        "text": "Homocysteine",
-        "explanation": "Incorrect. Homocysteine accumulates as a reactant that cannot be converted, but it is not the trapped folate form. This would be the correct answer if the question focused on the precursor to methionine."
-      },
-      {
-        "text": "Deoxyadenosylcobalamin",
-        "explanation": "Incorrect. This is an active form of B12 itself. This would be the correct answer if the question asked about the B12 congener used in fatty acid metabolism."
-      },
-      {
-        "text": "Dihydrofolate",
-        "explanation": "Incorrect. Dihydrofolate is a precursor to THF but is not the 'trapped' form in B12 deficiency. This would be the correct answer if the question focused on the substrate for DHFR."
-      }
+      { "text": "Trapping of folate as methyltetrahydrofolate, mimicking B12 deficiency", "explanation": "Incorrect. The methyl-folate trap is the consequence of vitamin B12 deficiency, not DHFR inhibition. DHFR inhibitors block reduction of folate to its active forms upstream of the methyl-folate cycle. This would be the correct answer if the question described a patient with low B12 stores due to atrophic gastritis." },
+      { "text": "Reduced conversion of folic acid to tetrahydrofolate, depleting cofactors for thymidylate synthesis", "explanation": "Correct. DHFR reduces dietary and supplemental folic acid (and dihydrofolate generated during thymidylate synthesis) to tetrahydrofolate (THF). Loss of THF halts the one-carbon transfers required for thymidylate and purine synthesis, so DNA replication stalls while RNA and protein synthesis continue — producing megaloblasts. The lecturer specifically named methotrexate, trimethoprim, and pyrimethamine as DHFR inhibitors." },
+      { "text": "Direct destruction of intrinsic factor in gastric parietal cells", "explanation": "Incorrect. Autoimmune destruction of parietal cells/intrinsic factor causes pernicious anemia (a B12 deficiency), not folate-related megaloblastosis from DHFR inhibition. This would be the correct answer if describing classic pernicious anemia." },
+      { "text": "Accumulation of methylmalonyl-CoA disrupting neuronal lipids", "explanation": "Incorrect. Methylmalonyl-CoA accumulation arises in vitamin B12 deficiency from loss of methylmalonyl-CoA mutase function and causes the neurologic syndrome — not the megaloblastic anemia of folate antagonists. This would be the correct answer if the stem asked which biochemical abnormality explains the paresthesias of pernicious anemia." },
+      { "text": "Inhibition of ribonucleotide reductase, preventing deoxyribonucleotide formation and halting S-phase DNA synthesis in erythroid precursors", "explanation": "Incorrect. Ribonucleotide reductase is the target of hydroxyurea, not DHFR inhibitors. While both stall DNA synthesis, the lecturer placed DHFR inhibitors in the folate metabolism arm. This would be the correct answer if asking how hydroxyurea induces stress erythropoiesis in sickle cell disease." }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The 'folate trap' refers to folate being stuck as unusable methyl-THF in the absence of Vitamin B12.",
-    "pdfPage": 21,
-    "pdfQuote": "MTHF is not converted to THF when B12 is absent ... functional folate deficiency"
+    "clinicalPearl": "DHFR inhibitors (methotrexate, trimethoprim, pyrimethamine) deplete tetrahydrofolate, halt thymidylate/purine synthesis, and produce megaloblastic anemia.",
+    "pdfPage": 19,
+    "pdfQuote": "DHFR inhibitors: methotrexate, trimethoprim, pyrimethamine"
   },
   {
     "id": 6,
-    "category": "Pharmacology: Hydroxyurea Mechanism",
-    "questionText": "Hydroxyurea is the first-line disease-modifying therapy for sickle cell anemia. What is its primary biochemical target that leads to the induction of Fetal Hemoglobin (HbF)?",
+    "category": "Pharmacology: Vitamin B12 Absorption",
+    "questionText": "A patient with pernicious anemia receives oral cyanocobalamin tablets and has minimal hematologic response. The bioavailability of oral cyanocobalamin in pernicious anemia is approximately 1.2%. Which physiologic disruption best explains this poor absorption?",
     "options": [
-      {
-        "text": "Dihydrofolate reductase",
-        "explanation": "Incorrect. DHFR is inhibited by methotrexate, not hydroxyurea. This would be the correct answer if the question were about folate metabolism inhibition."
-      },
-      {
-        "text": "Ribonucleoside reductase (RNR)",
-        "explanation": "Correct. Hydroxyurea selectively inhibits ribonucleoside reductase, the enzyme that converts ribonucleotides to deoxyribonucleotides. This inhibition slows DNA synthesis and triggers 'stress erythropoiesis,' where the marrow preferentially produces HbF-rich cells."
-      },
-      {
-        "text": "P-selectin",
-        "explanation": "Incorrect. P-selectin is inhibited by crizanlizumab, an adjunct therapy for sickle cell. This would be the correct answer if the question focused on reducing inflammatory cell adhesion."
-      },
-      {
-        "text": "Methionine synthase",
-        "explanation": "Incorrect. Methionine synthase requires B12 as a cofactor. This would be the correct answer if the question concerned the conversion of homocysteine to methionine."
-      },
-      {
-        "text": "Soluble guanylyl cyclase",
-        "explanation": "Incorrect. While hydroxyurea increases NO which stimulates guanylyl cyclase, the *primary* biochemical target mentioned as an antimetabolite is RNR. This would be the correct answer if the question asked about the nitric oxide-dependent pathway."
-      }
+      { "text": "Autoimmune destruction of gastric parietal cells and intrinsic factor", "explanation": "Correct. Pernicious anemia is caused by autoimmune attack on gastric parietal cells and intrinsic factor (IF). Without IF, vitamin B12 cannot complex with IF in the duodenum, travel to the distal ileum, and be internalized by IF-receptor endocytosis. Because oral B12 bypasses essentially none of this requirement, parenteral (IM) administration becomes necessary." },
+      { "text": "Lack of brush-border glutamate carboxypeptidase activity in the jejunal mucosa", "explanation": "Incorrect. Glutamate carboxypeptidase hydrolyzes polyglutamated folate to monoglutamate forms in the small bowel — it has nothing to do with B12 absorption. This would be the correct answer if asking how dietary folate is processed before DHFR can act on it." },
+      { "text": "Saturation of duodenal divalent metal transporter 1 (DMT1)", "explanation": "Incorrect. DMT1 transports ferrous iron, not vitamin B12, and saturation explains why iron absorption falls at high doses. This would be the correct answer if asking why a single large oral iron dose yields diminishing returns." },
+      { "text": "Decreased transcobalamin synthesis in the liver", "explanation": "Incorrect. Transcobalamins transport absorbed B12 in the bloodstream but are not required for intestinal absorption itself; their loss does not cause oral bioavailability to fall to ~1%. This would be the correct answer if the question concerned plasma transport of B12 to peripheral tissues." },
+      { "text": "Inhibition of ferroportin by hepcidin in enterocytes", "explanation": "Incorrect. Hepcidin/ferroportin govern iron — not B12 — efflux from enterocytes. This would be the correct answer if asking why patients with chronic inflammation develop anemia despite adequate dietary iron." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxyurea inhibits ribonucleoside reductase, causing stress erythropoiesis and increasing Fetal Hemoglobin (HbF) production.",
-    "pdfPage": 34,
-    "pdfQuote": "RNR inhibitor: Inhibits ribonuclease reduction and DNA synthesis ... induces stress erythropoiesis"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pernicious anemia = autoimmune loss of intrinsic factor. Oral B12 bioavailability falls to ~1%, so IM cyanocobalamin (or high-dose oral/intranasal maintenance) is required.",
+    "pdfPage": 22,
+    "pdfQuote": "Cyanocobalamin oral bioavailability: 1.2% in patients with pernicious anemia"
   },
   {
     "id": 7,
-    "category": "Pharmacology: Iron Dextran Precautions",
-    "questionText": "A patient requires intravenous iron replacement. You select Iron Dextran for the infusion. According to standard pharmacological practice, what is the mandatory initial step before administering the full therapeutic dose?",
+    "category": "Pharmacology: Hydroxocobalamin",
+    "questionText": "A first responder arrives at an apartment fire and finds an unconscious adult with no obvious burns. Suspecting cyanide poisoning from smoke inhalation, the team administers a high-dose IV antidote that also happens to be one of the two parenteral cobalamin forms used to treat vitamin B12 deficiency. By which mechanism does this agent detoxify cyanide?",
     "options": [
-      {
-        "text": "Pre-medication with high-dose Vitamin C",
-        "explanation": "Incorrect. While Vit C helps oral absorption, it is not required for IV iron and does not prevent hypersensitivity. This would be the correct answer if the question concerned oral non-heme iron optimization."
-      },
-      {
-        "text": "Administration of a small test dose",
-        "explanation": "Correct. Iron Dextran is associated with a risk of fatal anaphylactoid reactions (IgE-mediated). A test dose is required to monitor the patient for any signs of immediate hypersensitivity before the full dose is given."
-      },
-      {
-        "text": "Checking for G6PD deficiency",
-        "explanation": "Incorrect. G6PD deficiency is relevant for oxidative drugs (e.g., dapsone), not iron dextran. This would be the correct answer if the question concerned the risk of Heinz body formation."
-      },
-      {
-        "text": "Verify that the patient has had a meal",
-        "explanation": "Incorrect. Oral iron should be taken on an empty stomach; IV iron does not have this requirement. This would be the correct answer if the question concerned optimizing oral ferrous sulfate uptake."
-      },
-      {
-        "text": "Perform a bone marrow biopsy",
-        "explanation": "Incorrect. IDA is diagnosed via peripheral labs; a biopsy is not required for starting iron dextran. This would be the correct answer if the question were about determining the blast percentage in leukemia."
-      }
+      { "text": "Inhibition of cytochrome c oxidase to displace cyanide from the enzyme", "explanation": "Incorrect. Cyanide poisons cells precisely by inhibiting cytochrome c oxidase; the antidote does not enhance that inhibition. This would be the correct answer if describing the mechanism of cyanide toxicity itself rather than its antidote." },
+      { "text": "Inducing methemoglobinemia to bind cyanide as cyanomethemoglobin", "explanation": "Incorrect. This is the mechanism of nitrites in the older cyanide antidote kit (amyl/sodium nitrite), not of hydroxocobalamin. This would be the correct answer if the antidote chosen were sodium nitrite rather than the cobalamin derivative." },
+      { "text": "Donating a sulfur to rhodanese to convert cyanide to thiocyanate", "explanation": "Incorrect. Sodium thiosulfate serves as the sulfur donor for rhodanese-mediated conversion of cyanide to thiocyanate. This would be the correct answer if the question asked about the second component of the traditional cyanide antidote kit." },
+      { "text": "Binding cyanide to form cyanocobalamin, which is excreted in urine", "explanation": "Correct. Hydroxocobalamin contains a hydroxyl group at the cobalt center that exchanges with free cyanide, generating non-toxic cyanocobalamin that is excreted in the urine. The lecturer noted that hydroxocobalamin can be given IV (or intraosseously) at very high doses — about 5 g x 2 — for cyanide poisoning, in contrast to the ~1 mg dose used for B12 deficiency." },
+      { "text": "Chelating cyanide through a hexadentate iron-binding site", "explanation": "Incorrect. The cobalt atom at the corrin ring center — not iron — accepts the cyanide ligand in hydroxocobalamin. This would be the correct answer if asking how deferoxamine chelates excess iron in transfusional iron overload." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Iron dextran requires a test dose due to the risk of life-threatening anaphylactoid reactions.",
-    "pdfPage": 12,
-    "pdfQuote": "Test dose prior to first dose ... Anaphylaxis potential"
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Hydroxocobalamin (B12a) detoxifies cyanide by exchanging its OH group for CN, forming cyanocobalamin excreted in urine. Used at much higher doses (about 5 g IV) than for anemia (about 1 mg IM).",
+    "pdfPage": 22,
+    "pdfQuote": "IV or IO for treatment of cyanide poisoning"
   },
   {
     "id": 8,
-    "category": "Pharmacology: B12 Neuro Pathology",
-    "questionText": "In patients with Vitamin B12 deficiency, the accumulation of specific metabolic products leads to the disruption of myelin sheath production. Which of the following accumulates as a result of methylmalonyl-CoA mutase dysfunction?",
+    "category": "Pharmacology: ESA Mechanism",
+    "questionText": "A recombinant glycoprotein used in anemia of chronic kidney disease produces its hematologic effect by binding a receptor on erythroid progenitor cells, triggering receptor dimerization and downstream signaling. Which intracellular signaling pathway is activated by this receptor binding to drive red cell production?",
     "options": [
-      {
-        "text": "Tetrahydrofolate",
-        "explanation": "Incorrect. THF is deficient, not accumulated, in the 'folate trap.' This would be the correct answer if the question asked what is lacking for DNA synthesis."
-      },
-      {
-        "text": "Propionyl-CoA and Methylmalonyl-CoA",
-        "explanation": "Correct. B12 is a cofactor for methylmalonyl-CoA mutase. Dysfunction of this enzyme leads to the buildup of methylmalonyl-CoA and propionyl-CoA, which are incorporated into neuronal lipids as abnormal fatty acids, damaging the myelin sheath."
-      },
-      {
-        "text": "Nitric oxide",
-        "explanation": "Incorrect. Nitric oxide is a beneficial secondary product of hydroxyurea metabolism. This would be the correct answer if the question focused on vasodilatory effects in sickle cell."
-      },
-      {
-        "text": "L-Glutamine",
-        "explanation": "Incorrect. L-Glutamine is used as a supplement to reduce oxidative stress in sickled RBCs. This would be the correct answer if the question asked about a pharmaceutical-grade redox precursor."
-      },
-      {
-        "text": "Ferritin",
-        "explanation": "Incorrect. Ferritin is the storage form of iron and is not involved in B12-mediated myelin maintenance. This would be the correct answer if the question were about systemic iron monitoring."
-      }
+      { "text": "cAMP / protein kinase A pathway", "explanation": "Incorrect. The cAMP-PKA pathway is downstream of Gs-coupled receptors such as beta-adrenergic receptors, not the erythropoietin receptor. This would be the correct answer if asking how isoproterenol increases cardiac contractility." },
+      { "text": "JAK/STAT pathway with downstream PI3K/AKT and MAPK", "explanation": "Correct. Dr. Goldstein emphasized that ESAs (epoetin alfa, darbepoetin alfa, methoxy PEG-epoetin beta) bind the erythropoietin receptor (EPOR) on bone-marrow erythroid progenitors. The receptors dimerize, activate JAK2, and trigger STAT-mediated transcription along with PI3K/AKT and MAPK signaling. This reduces apoptosis of progenitors, increases reticulocyte maturation, and increases RBC production." },
+      { "text": "Direct stimulation of endogenous EPO release from peritubular cells", "explanation": "Incorrect. The lecturer was explicit: ESAs are themselves recombinant EPO and act directly on EPOR — they do NOT stimulate endogenous EPO secretion. This would be the correct answer if describing how hypoxia-inducible factor (HIF) stabilizers work." },
+      { "text": "IP3 / DAG release through Gq-coupled signaling", "explanation": "Incorrect. The EPOR is a cytokine-family receptor associated with JAK kinases, not a Gq-coupled receptor. This would be the correct answer if asking how alpha1-adrenergic stimulation contracts vascular smooth muscle." },
+      { "text": "Nuclear hormone receptor binding to hormone response elements", "explanation": "Incorrect. EPO is a hydrophilic peptide hormone that cannot cross the plasma membrane and acts at a surface receptor, not a nuclear receptor. This would be the correct answer if discussing the mechanism of glucocorticoids or thyroid hormone." }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Accumulation of methylmalonyl-CoA and propionyl-CoA in B12 deficiency leads to the production of abnormal fatty acids and myelin destruction.",
-    "pdfPage": 21,
-    "pdfQuote": "Methylmalonyl-CoA and propionyl-CoA accumulate resulting in production of abnormal fatty acids"
+    "clinicalPearl": "ESAs bind EPOR -> receptor dimerization -> JAK/STAT (with PI3K/AKT and MAPK) -> reduced erythroid apoptosis, increased reticulocyte maturation, and RBC production.",
+    "pdfPage": 27,
+    "pdfQuote": "JAK/STAT signaling pathway"
   },
   {
     "id": 9,
-    "category": "Pharmacology: ESA Mechanism",
-    "questionText": "Erythropoiesis-stimulating agents (ESAs) mimic the action of natural erythropoietin. Upon binding to their receptor on erythroid progenitor cells, which intracellular signaling pathway is primarily activated?",
+    "category": "Pharmacology: ESA Goal of Therapy",
+    "questionText": "A nephrologist is initiating an erythropoiesis-stimulating agent for a patient with anemia of chronic kidney disease. The pharmacist confirms the therapeutic goal. Which of the following best states the goal of ESA therapy as described in the lecture?",
     "options": [
-      {
-        "text": "cAMP / Protein Kinase A",
-        "explanation": "Incorrect. This pathway is typical for many G-protein coupled receptors but not for the EPO receptor. This would be the correct answer if the question were about glucagon signaling."
-      },
-      {
-        "text": "JAK/STAT pathway",
-        "explanation": "Correct. The EPO receptor is a cytokine-type receptor that signal through the Janus Kinase / Signal Transducer and Activator of Transcription (JAK/STAT) pathway. Activation leads to increased survival and proliferation of erythroid precursors."
-      },
-      {
-        "text": "cGMP / Soluble guanylyl cyclase",
-        "explanation": "Incorrect. This is the pathway stimulated by nitric oxide, often related to hydroxyurea's secondary effects. This would be the correct answer if the question focused on the mechanism of NO-mediated vasodilation."
-      },
-      {
-        "text": "IP3 / DAG / Calcium",
-        "explanation": "Incorrect. This is the Gq-protein signaling pathway, not used by EPO. This would be the correct answer if the question focused on alpha-1 adrenergic signaling."
-      },
-      {
-        "text": "mTOR pathway",
-        "explanation": "Incorrect. While mTOR is involved in cell growth, the primary and diagnostic signaling pathway for EPO is JAK/STAT. This would be the correct answer if the question were about cellular nutrient sensing and protein synthesis."
-      }
+      { "text": "Normalize hemoglobin to the population mean for age and sex", "explanation": "Incorrect. The lecturer was emphatic that the goal is NOT to push hemoglobin into the normal range, because higher hemoglobin values increase cardiovascular and thrombotic events. This would be the correct answer if no boxed warning existed and if there were no excess mortality at higher hemoglobin targets." },
+      { "text": "Achieve a hemoglobin level greater than 13 g/dL to maximize systemic oxygen delivery to peripheral tissues", "explanation": "Incorrect. Aiming above ~11 g/dL increases mortality, MI, stroke, and venous thromboembolism in CKD patients. This would be the correct answer if hemoglobin elevation had no associated cardiovascular harm." },
+      { "text": "Reduce the need for red blood cell transfusions using the lowest effective dose", "explanation": "Correct. The lecturer repeatedly framed the goal of ESA therapy as 'safely reducing the need for RBC transfusions by using the lowest dose required to alleviate anemia,' while minimizing thrombotic and cardiovascular risk. Serum hemoglobin should not exceed roughly 10-11 g/dL because higher values are associated with increased mortality and cardiovascular events." },
+      { "text": "Suppress endogenous erythropoietin to prevent receptor downregulation", "explanation": "Incorrect. ESAs activate EPOR like endogenous EPO; there is no therapeutic suppression of native EPO release in this paradigm. This would be the correct answer if the question described a treatment for polycythemia vera." },
+      { "text": "Replace iron stores in patients with chronic blood loss", "explanation": "Incorrect. Iron stores are replaced with iron, not with an ESA — though iron must be monitored during ESA therapy to ensure adequate substrate for erythropoiesis. This would be the correct answer if asking about the goal of oral or IV iron supplementation." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "ESAs activate the JAK/STAT signaling pathway to stimulate the survival and maturation of red blood cell progenitors.",
-    "pdfPage": 27,
-    "pdfQuote": "receptors dimerize and activate the JAK/STAT signaling pathway"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "ESA goal: reduce transfusion need using the LOWEST effective dose. Do not push Hb above ~10-11 g/dL — higher targets increase MI, stroke, and VTE.",
+    "pdfPage": 28,
+    "pdfQuote": "reduce the need for RBC transfusions"
   },
   {
     "id": 10,
-    "category": "Pharmacology: Hydroxyurea Monitoring",
-    "questionText": "A patient with sickle cell anemia is initiated on hydroxyurea therapy. Because this medication is an antimetabolite that can cause significant myelosuppression, which of the following monitoring strategies is essential?",
+    "category": "Pharmacology: Hydroxyurea MOA",
+    "questionText": "A medication used as first-line therapy for sickle cell anemia binds iron molecules in the catalytic subunit of an enzyme that converts ribonucleotides to deoxyribonucleotides. Which downstream effect most directly explains how this drug reduces vaso-occlusive crises?",
     "options": [
-      {
-        "text": "Weekly liver function tests",
-        "explanation": "Incorrect. Hydroxyurea is not primarily hepatotoxic; its main toxicity is in the marrow. This would be the correct answer if the question were about isoniazid or high-dose iron."
-      },
-      {
-        "text": "Complete blood count (CBC) with differential",
-        "explanation": "Correct. The major dose-limiting toxicity of hydroxyurea is neutropenia (and overall myelosuppression). Frequent monitoring of the CBC with differential is required to adjust the dose and ensure the absolute neutrophil count remains safe."
-      },
-      {
-        "text": "Monthly serum B12 and folate levels",
-        "explanation": "Incorrect. Hydroxyurea does not cause B12 or folate deficiency, though it can cause macrocytosis through a different mechanism (RNR inhibition). This would be the correct answer if the question focused on a patient on methotrexate."
-      },
-      {
-        "text": "Annual chest X-rays",
-        "explanation": "Incorrect. While ACS is a concern, it is an acute event, not a regular monitoring requirement for hydroxyurea. This would be the correct answer if the question asked about screening for chronic pulmonary complications."
-      },
-      {
-        "text": "Electrocardiogram every 3 months",
-        "explanation": "Incorrect. Hydroxyurea does not typically cause QT prolongation or other cardiac conduction issues. This would be the correct answer if the question concerned a drug with a high risk of cardiotoxicity."
-      }
+      { "text": "Stress erythropoiesis that shifts marrow toward immature RBCs expressing gamma-globin, raising HbF", "explanation": "Correct. Inhibition of ribonucleotide reductase slows DNA synthesis in rapidly dividing erythroid precursors and produces mild bone-marrow suppression. The marrow responds with 'stress erythropoiesis' — generating new immature RBCs (stress erythroid precursors) that preferentially express gamma-globin genes, raising fetal hemoglobin (HbF). HbF interrupts HbS polymerization, reducing sickling and vaso-occlusion." },
+      { "text": "Direct dissolution of polymerized hemoglobin S in deoxygenated red cells", "explanation": "Incorrect. The drug does not depolymerize HbS directly; rather, it increases fetal hemoglobin, which is what inhibits HbS polymerization. This would be the correct answer if the question described a hypothetical molecule that binds HbS itself." },
+      { "text": "Selective antibody-mediated blockade of P-selectin on endothelial cells", "explanation": "Incorrect. P-selectin blockade is the mechanism of crizanlizumab, not of the ribonucleotide reductase inhibitor. This would be the correct answer if describing an adjunctive monoclonal antibody for sickle cell." },
+      { "text": "Increased NAD+ availability that reduces oxidative stress in sickled RBCs", "explanation": "Incorrect. That mechanism describes L-glutamine, an adjunctive sickle cell therapy that alters the NADH/NAD+ redox balance — not the ribonucleotide reductase inhibitor. This would be the correct answer if the stem described an oral powder used twice daily as an adjunct." },
+      { "text": "Stimulation of erythropoietin receptor JAK/STAT signaling in bone-marrow progenitor cells with dimerization of cell-surface receptors", "explanation": "Incorrect. EPOR/JAK-STAT activation is the mechanism of ESAs used for CKD and chemotherapy-induced anemia, not of the sickle cell first-line agent. This would be the correct answer if the question concerned darbepoetin alfa in a dialysis patient." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "The major dose-limiting toxicity of hydroxyurea is myelosuppression (especially neutropenia), requiring regular CBC monitoring.",
-    "pdfPage": 37,
-    "pdfQuote": "Frequent monitoring of CBC with differential, especially during drug initiation"
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Hydroxyurea inhibits ribonucleotide reductase -> stress erythropoiesis -> new RBCs that preferentially express gamma-globin -> increased HbF -> decreased HbS polymerization -> decreased vaso-occlusion.",
+    "pdfPage": 35,
+    "pdfQuote": "halts the cell cycle in S phase, induces stress erythropoiesis"
   },
   {
     "id": 11,
-    "category": "Pharmacology: Iron Side Effects",
-    "questionText": "Patients taking oral iron supplements, such as ferrous sulfate, often report changes in their bowel movements. Which of the following is a common and harmless side effect that patients should be counseled on to avoid unnecessary concern?",
+    "category": "Pharmacology: Iron Deficiency Management",
+    "questionText": "A 28-year-old woman presents with 4 months of progressive fatigue and pale skin. Her menses are heavy. Vitals: BP 118/72, HR 96, RR 14, T 98.4 F. Conjunctivae are pale; cardiac exam reveals a soft systolic flow murmur. Labs: Hb 8.6 g/dL, MCV 72 fL, serum ferritin 7 ng/mL (low), TIBC elevated. She has no GI symptoms, no prior surgeries, and tolerates pills well. She is started on the most common oral iron preparation. To MAXIMIZE absorption of each dose, which counseling instruction is most appropriate?",
     "options": [
-      {
-        "text": "Bright red blood in the stool (Hematochezia)",
-        "explanation": "Incorrect. Red blood indicates lower GI bleeding and is never a normal side effect of iron. This would be the correct answer if the question described a patient with a suspected bleeding polyp."
-      },
-      {
-        "text": "Dark-colored or black stools",
-        "explanation": "Correct. Most oral iron is not absorbed and remains in the GI tract, where it turns the stools a dark green or black color. This is harmless but can be mistaken for melena."
-      },
-      {
-        "text": "Clay-colored (acholic) stools",
-        "explanation": "Incorrect. Acholic stools indicate a lack of bile (obstruction). This would be the correct answer if the question concerned a patient with gallstones and jaundice."
-      },
-      {
-        "text": "Severe watery diarrhea",
-        "explanation": "Incorrect. While mild diarrhea can occur, severe watery diarrhea is not a standard side effect and might suggest infection. This would be the correct answer if the question were about C. diff."
-      },
-      {
-        "text": "Steatorrhea (oily stools)",
-        "explanation": "Incorrect. Oily stools indicate fat malabsorption. This would be the correct answer if the question concerned chronic pancreatitis."
-      }
+      { "text": "Take with a large glass of milk to buffer GI upset", "explanation": "Incorrect. Calcium in milk forms insoluble complexes with non-heme iron and significantly reduces absorption, as the lecturer specifically noted. This would be the correct answer if asking how to reduce iron absorption deliberately (which is never the goal in iron deficiency)." },
+      { "text": "Take immediately before bedtime with a calcium-containing chewable antacid to reduce GI discomfort", "explanation": "Incorrect. Antacids raise gastric pH and the calcium itself chelates iron — both reduce absorption. This would be the correct answer if attempting to reduce iron absorption in a patient with hemochromatosis (in which case the more appropriate strategy would be phlebotomy)." },
+      { "text": "Take on an empty stomach, ideally with a small amount of orange juice", "explanation": "Correct. Oral iron is best absorbed on an empty stomach because foods, polyphenols in coffee/tea, calcium-rich milk, and fiber all form insoluble complexes with non-heme iron. Vitamin C from citrus is a strong reducing agent that converts Fe3+ to Fe2+, enhancing absorption. The combination optimizes uptake at each dose." },
+      { "text": "Take with morning coffee to time the dose with breakfast routine", "explanation": "Incorrect. Polyphenols (tannins) in coffee and tea form insoluble complexes with iron and reduce absorption — this is the opposite of what is desired. This would be the correct answer if convenience overrode efficacy, which is unacceptable when treating a documented deficiency." },
+      { "text": "Take with the patient's once-weekly bisphosphonate tablet", "explanation": "Incorrect. Bisphosphonates are explicitly listed among the drugs that reduce iron absorption (along with antacids and tetracyclines); the two should be separated. This would be the correct answer if intentionally trying to demonstrate the chelation interaction in a pharmacy lab." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Oral iron supplements characteristically cause harmless dark or black stools due to unabsorbed iron.",
-    "pdfPage": 13,
-    "pdfQuote": "Dark stools (harmless)"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Oral iron: empty stomach + vitamin C source = maximal absorption. Avoid concurrent coffee, tea, dairy, antacids, bisphosphonates, and tetracyclines.",
+    "pdfPage": 11,
+    "pdfQuote": "Take on empty stomach"
   },
   {
     "id": 12,
-    "category": "Pharmacology: B12 Dosage/Route",
-    "questionText": "A patient with Pernicious Anemia is found to have zero oral bioavailability of Vitamin B12. What is the pharmacological reason why intramuscular (IM) administration is preferred over standard oral tablets for this specific patient?",
+    "category": "Pharmacology: Iron Replacement Selection",
+    "questionText": "A 47-year-old woman with Crohn disease and chronic terminal ileal inflammation has microcytic anemia (Hb 8.4 g/dL, ferritin 6 ng/mL). She has tried two different oral iron preparations over the past 6 months and developed severe abdominal pain and nausea on each, with no rise in hemoglobin and persistently low ferritin. She is hemodynamically stable. Vitals: BP 122/76, HR 88, RR 14, T 98.6 F. Which of the following is the most appropriate next step in management?",
     "options": [
-      {
-        "text": "B12 is rapidly degraded by gastric acid",
-        "explanation": "Incorrect. B12 is actually stable in acid; it is the *release* from protein that requires acid. This would be the correct answer if the question were about why certain antibiotics are given IV."
-      },
-      {
-        "text": "The patient lacks the Intrinsic Factor required for ileal absorption",
-        "explanation": "Correct. Pernicious Anemia is an autoimmune lack of Intrinsic Factor. Since IF is mandatory for the active transport of B12 in the terminal ileum, oral doses are largely useless. IM injection bypasses the GI tract entirely."
-      },
-      {
-        "text": "Oral B12 causes severe constipation",
-        "explanation": "Incorrect. Constipation is a side effect of iron, not typically of Vitamin B12. This would be the correct answer if the question concerned the adverse effects of ferrous sulfate."
-      },
-      {
-        "text": "IM B12 is needed to bypass the liver's storage capacity",
-        "explanation": "Incorrect. The goal is to *fill* the liver's stores, not bypass them. This would be the correct answer if the question asked about a drug with 100% first-pass metabolism."
-      },
-      {
-        "text": "Oral B12 is only absorbed in the duodenum",
-        "explanation": "Incorrect. B12 is absorbed in the distal ileum. This would be the correct answer if the question concerned iron absorption."
-      }
+      { "text": "Switch to a higher dose of the same oral ferrous sulfate, taken three times daily with meals", "explanation": "Incorrect. She has demonstrated both intolerance and lack of efficacy from oral iron, and taking iron with meals further reduces absorption. Pushing oral therapy harder will not overcome malabsorption. This would be the correct answer if she had been tolerating oral iron but simply needed dose escalation." },
+      { "text": "Initiate epoetin alfa subcutaneously to drive erythropoiesis", "explanation": "Incorrect. ESAs require adequate iron substrate to be effective and are indicated for anemia of CKD, MDS, or chemotherapy-induced anemia — not for iron deficiency anemia caused by malabsorption. Starting an ESA in a patient with depleted iron stores would be futile and would expose her unnecessarily to thrombotic and cardiovascular risk. This would be the correct answer if she had non-dialysis CKD with documented EPO deficiency and adequate iron stores." },
+      { "text": "Begin oral folic acid 5 mg daily", "explanation": "Incorrect. Her anemia is microcytic with low ferritin — classic iron deficiency, not megaloblastic. Folate would not address the cause. This would be the correct answer if her MCV were elevated and labs showed low serum folate with normal B12." },
+      { "text": "Begin parenteral iron therapy", "explanation": "Correct. Dr. Goldstein listed the precise scenario described here — oral iron ineffective or poorly tolerated, malabsorption syndromes, chronic inflammatory disease — as indications for IV iron. She meets multiple criteria. IV iron bypasses GI absorption entirely and avoids further GI irritation. A non-dextran IV preparation is convenient because no test dose is required; if low-molecular-weight iron dextran is chosen, a test dose precedes the first infusion." },
+      { "text": "Transfuse 2 units of packed red blood cells now", "explanation": "Incorrect. She is hemodynamically stable and asymptomatic at rest; transfusion is not warranted purely for her Hb of 8.4 in chronic iron deficiency when the underlying replacement can be delivered effectively by IV iron. This would be the correct answer if she had ongoing hemorrhage, hemodynamic compromise, or active end-organ ischemia." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Pernicious anemia requires parenteral (IM) or high-dose nasal B12 because of the lack of Intrinsic Factor.",
-    "pdfPage": 22,
-    "pdfQuote": "Cyanocobalamin oral bioavailability: 1.2% in patients with pernicious anemia → IM administration is necessary"
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "IV iron is indicated when oral iron is ineffective/intolerable, with malabsorption (e.g., Crohn's, gastric bypass), chronic inflammation, ongoing blood loss, or high demand (hemodialysis, ESAs).",
+    "pdfPage": 11,
+    "pdfQuote": "Oral iron is ineffective or poorly tolerated"
   },
   {
     "id": 13,
-    "category": "Pharmacology: Hydroxyurea Contraindications",
-    "questionText": "Hydroxyurea is known to be teratogenic in animal studies. Which of the following instructions must be given to both male and female patients of reproductive potential regarding this medication?",
+    "category": "Pharmacology: Folate and B12 — Methyl-Folate Trap",
+    "questionText": "A 68-year-old strict vegan presents with 6 months of progressive fatigue and new-onset numbness and tingling in both feet. Vitals are normal. Exam reveals decreased vibratory sensation, an unsteady gait, and a smooth tongue. Labs: Hb 9.8 g/dL, MCV 116 fL, peripheral smear shows hypersegmented neutrophils and oval macrocytes. Without checking B12 or folate levels, a clinician begins empiric high-dose oral folic acid. Over 6 weeks the anemia resolves, but his paresthesias progress to spastic gait and he develops new neuropsychiatric symptoms. Which mechanism best explains the worsening neurologic disease?",
     "options": [
-      {
-        "text": "Discontinue the drug 24 hours before trying to conceive",
-        "explanation": "Incorrect. The drug's effects on germ cells and potential for harm last much longer than 24 hours. This would be the correct answer if the drug had an extremely short half-life and no marrow toxicity."
-      },
-      {
-        "text": "Use effective contraception during and for at least 6-12 months after therapy",
-        "explanation": "Correct. Hydroxyurea inhibits DNA synthesis and can cause fetal harm or damage spermatozoa. Patients should use effective contraception throughout treatment and for a significant period (6 months to 1 year) following discontinuation."
-      },
-      {
-        "text": "Switch to L-glutamine as it has identical benefits in pregnancy",
-        "explanation": "Incorrect. L-glutamine is an adjunct and does not have the same level of disease-modifying evidence as hydroxyurea. This would be the correct answer if the question asked about a safe adjunct with a good safety profile."
-      },
-      {
-        "text": "The drug is safe for breastfeeding mothers",
-        "explanation": "Incorrect. Hydroxyurea is not recommended during breastfeeding. This would be the correct answer if the question asked about a drug that is not excreted in breast milk."
-      },
-      {
-        "text": "Only female patients need to worry about teratogenic effects",
-        "explanation": "Incorrect. The drug can damage spermatozoa and cause oligospermia in males. This would be the correct answer if the mechanism was strictly related to uterine blood flow."
-      }
+      { "text": "Direct neurotoxicity of folate metabolites in peripheral nerves", "explanation": "Incorrect. Folic acid itself is not neurotoxic; the neurologic syndrome is caused by an unrecognized B12 deficiency, not by folate. This would be the correct answer if folic acid had an established axonopathy at the doses used, which it does not." },
+      { "text": "Hydroxyurea-induced ribonucleotide reductase inhibition in posterior column neurons, blocking deoxyribonucleotide synthesis and producing progressive demyelination of ascending sensory tracts that mimics B12 deficiency", "explanation": "Incorrect. The patient was not given hydroxyurea, and that drug does not produce dorsal-column dysfunction. This would be the correct answer if the patient had sickle cell disease on hydroxyurea presenting with a different complication." },
+      { "text": "Iron-induced oxidative injury to the peripheral nerves", "explanation": "Incorrect. He was not given iron, and iron supplementation does not cause this neurologic syndrome. This would be the correct answer if asking about CNS hemosiderosis in transfusion-dependent patients (not at this dose or exposure)." },
+      { "text": "Erythropoietin-stimulated nerve demyelination through JAK/STAT", "explanation": "Incorrect. ESAs were not given and do not cause demyelination. This would be the correct answer if discussing seizures occasionally reported in the first few months of ESA therapy due to rapid blood pressure shifts (not myelin damage)." },
+      { "text": "Folate corrected DNA synthesis and resolved anemia, but did not restore methylmalonyl-CoA mutase function, allowing abnormal myelin synthesis to progress", "explanation": "Correct. Folate monotherapy can correct the megaloblastic anemia of B12 deficiency by providing tetrahydrofolate for thymidylate synthesis. However, B12 is required for methylmalonyl-CoA mutase; without B12, methylmalonyl-CoA and propionyl-CoA accumulate, generating abnormal fatty acids that disrupt myelin. Folate does NOT restore mutase activity, so neurologic damage progresses 'unmasked' — and can be irreversible. The lecturer explicitly warned against folic acid monotherapy without confirming B12 levels." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxyurea is teratogenic and requires strict contraception for 6-12 months post-therapy in both sexes.",
-    "pdfPage": 37,
-    "pdfQuote": "Males and females of reproductive potential should use effective contraception"
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "NEVER treat megaloblastic anemia with folate alone before checking B12. Folate corrects the anemia but does NOT prevent — and can mask — progressive, potentially irreversible B12 neurologic injury.",
+    "pdfPage": 19,
+    "pdfQuote": "Folic acid monotherapy unmasks vitamin B12 deficiency"
   },
   {
     "id": 14,
-    "category": "Pharmacology: Pure Red Cell Aplasia",
-    "questionText": "A patient with chronic kidney disease on subcutaneous epoetin alfa therapy suddenly develops a rapid drop in hemoglobin and a reticulocyte count of nearly zero. Bone marrow biopsy confirms a lack of erythroid precursors. What is the most likely cause?",
+    "category": "Pharmacology: Vitamin B12 Therapy",
+    "questionText": "A 72-year-old woman presents with fatigue, glossitis, and paresthesias. Labs: Hb 9.2 g/dL, MCV 114 fL, serum B12 110 pg/mL (low), folate normal. Anti-intrinsic-factor antibodies are positive. She is offered cyanocobalamin as a supplement and prefers to avoid daily injections if possible. Which administration plan is most consistent with the pharmacokinetic principles taught in the lecture?",
     "options": [
-      {
-        "text": "Iron toxicity",
-        "explanation": "Incorrect. Iron toxicity would not cause a sudden disappearance of only the erythroid lineage. This would be the correct answer if the question described multi-organ failure and metabolic acidosis."
-      },
-      {
-        "text": "Development of neutralizing anti-EPO antibodies",
-        "explanation": "Correct. This is the mechanism for ESA-induced Pure Red Cell Aplasia (PRCA). Neutralizing antibodies develop against the recombinant drug and cross-react with the patient's endogenous EPO, halting all red cell production."
-      },
-      {
-        "text": "Activation of the JAK/STAT pathway",
-        "explanation": "Incorrect. JAK/STAT activation *promotes* red cell production; it does not stop it. This would be the correct answer if the question asked about the normal mechanism of ESA action."
-      },
-      {
-        "text": "Inhibition of ribonucleoside reductase",
-        "explanation": "Incorrect. This is the mechanism of hydroxyurea, which usually causes a mild, manageable suppression, not complete PRCA. This would be the correct answer if the question were about sickle cell treatment."
-      },
-      {
-        "text": "Normal progression of ESRD",
-        "explanation": "Incorrect. While ESRD causes anemia, it does not cause a sudden, absolute loss of all erythroid precursors in the marrow. This would be the correct answer if the question described a slow, chronic decline in Hb over years."
-      }
+      { "text": "IM cyanocobalamin 1000 mcg daily for 1 to 2 weeks, then monthly maintenance", "explanation": "Correct. The lecturer specifically described this loading-then-maintenance regimen. IM administration bypasses the absent intrinsic factor and ensures reliable delivery; the rapid loading replenishes hepatic B12 stores within 1 to 2 weeks, after which monthly IM dosing maintains adequate levels for the rest of her life. Intranasal cyanocobalamin (about 6% bioavailability relative to IM) is an option for maintenance in patients who cannot tolerate injections." },
+      { "text": "Oral cyanocobalamin 1 mg daily, expecting full restoration of B12 stores within 2 weeks", "explanation": "Incorrect. In pernicious anemia, oral bioavailability is only about 1.2% because of lost intrinsic factor; relying on oral dosing as primary therapy is unreliable. This would be the correct answer if she had isolated dietary insufficiency with normal intrinsic factor and functional gut absorption." },
+      { "text": "Single high-dose IV hydroxocobalamin 5 g now, repeated in 8 hours, with no further therapy", "explanation": "Incorrect. The 5 g x 2 dosing is the regimen for cyanide poisoning, not for B12-deficiency anemia, and a one-time loading dose without maintenance does not address her ongoing autoimmune destruction of intrinsic factor. This would be the correct answer if she were unconscious after smoke inhalation from a structure fire." },
+      { "text": "Oral folic acid 1 mg daily as monotherapy because it bypasses intrinsic factor", "explanation": "Incorrect. Folate will not correct her B12 deficiency and risks masking her neurologic disease, which can become irreversible. This would be the correct answer only if labs confirmed isolated low folate with a normal B12." },
+      { "text": "Stop all supplementation and recheck B12 in 3 to 5 years when hepatic stores deplete", "explanation": "Incorrect. Her stores are already depleted (she is symptomatic with neurologic findings); waiting will allow potentially irreversible myelin damage to progress. This would be the correct answer if she were a healthy patient with normal B12 levels who had just adopted a vegan diet today." }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Pernicious anemia: IM cyanocobalamin 1000 mcg daily x 1 to 2 weeks (loading), then monthly maintenance. Intranasal is an option for maintenance only.",
+    "pdfPage": 22,
+    "pdfQuote": "1000 mcg daily, 1-2 weeks then monthly maintenance"
+  },
+  {
+    "id": 15,
+    "category": "Pharmacology: ESA Adverse Effects",
+    "questionText": "A 58-year-old man with anemia of chronic kidney disease (Hb 8.4 g/dL) is started on a recombinant glycoprotein injection. After 6 weeks, his Hb has risen to 12.6 g/dL. His BP rises from 138/84 to 162/98. He then presents to the emergency department with new left-sided weakness and dysarthria; CT shows an acute ischemic stroke. Which mechanism best explains how his medication contributed to this complication?",
+    "options": [
+      { "text": "Direct immunoglobulin-mediated vasculitis of cerebral arteries with secondary thrombosis and endothelial injury from circulating anti-EPO antibodies", "explanation": "Incorrect. While ESAs can elicit anti-EPO antibodies that cause pure red cell aplasia, they do not cause antibody-mediated cerebral vasculitis. This would be the correct answer if the patient developed worsening anemia rather than a stroke after months of therapy." },
+      { "text": "Increased blood viscosity from a Hb above the recommended ceiling, with worsened hypertension and thrombosis", "explanation": "Correct. The lecturer emphasized that ESAs increase blood viscosity, worsen hypertension, and increase thrombotic events (MI, stroke, VTE) — risks formalized in a US Boxed Warning. CKD patients with Hb greater than 11 g/dL are at greater risk. Driving his Hb to 12.6 likely exceeded the safe target (10 to 11 g/dL), increasing viscosity and arterial thrombosis risk; the BP rise compounded stroke risk." },
+      { "text": "Hepcidin-mediated iron sequestration in macrophages", "explanation": "Incorrect. Hepcidin-driven iron sequestration limits iron availability for erythropoiesis but does not by itself cause stroke. This would be the correct answer if asking why this CKD patient might fail to respond to his ESA despite adequate dosing." },
+      { "text": "Methyl-folate trap from impaired methionine synthase", "explanation": "Incorrect. The methyl-folate trap belongs to B12 deficiency physiology and produces megaloblastic anemia, not ischemic stroke from an ESA. This would be the correct answer if asking why a vegan with low B12 develops macrocytic anemia." },
+      { "text": "Inhibition of ribonucleotide reductase causing hypoxic ischemia", "explanation": "Incorrect. Ribonucleotide reductase inhibition is the mechanism of hydroxyurea in sickle cell disease and does not explain stroke from an ESA. This would be the correct answer if this patient had sickle cell disease and developed an unrelated stroke during ribonucleotide reductase inhibitor therapy." }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Pure red cell aplasia is a rare, serious complication of ESA therapy caused by neutralizing anti-EPO antibodies.",
+    "clinicalPearl": "ESAs: US Boxed Warning for death, MI, stroke, VTE, and vascular access thrombosis. Keep Hb at the LOWEST level avoiding transfusion (about 10 to 11 g/dL or less).",
+    "pdfPage": 29,
+    "pdfQuote": "ESAs increase the risk of death, MI, stroke, venous thromboembolism"
+  },
+  {
+    "id": 16,
+    "category": "Pharmacology: ESA — Pure Red Cell Aplasia",
+    "questionText": "A 64-year-old woman with chronic kidney disease has received subcutaneous epoetin alfa for 18 months with previously stable hemoglobin around 10.5 g/dL. Over the past 2 months, despite dose escalation, her Hb falls to 7.2 g/dL. Reticulocyte count is near zero; iron studies are adequate; vitamin B12 and folate levels are normal. A bone marrow biopsy shows absent erythroid precursors with preserved myeloid and megakaryocyte lineages. Which mechanism best explains this clinical picture?",
+    "options": [
+      { "text": "Iron sequestration by hepcidin secondary to inflammation", "explanation": "Incorrect. Hepcidin-mediated iron sequestration would impair erythropoiesis through low iron availability, but iron studies were noted to be adequate, and bone marrow would still show erythroid precursors. This would be the correct answer if her ferritin were very high with low transferrin saturation." },
+      { "text": "Methotrexate-like DHFR inhibition producing megaloblastic erythropoiesis", "explanation": "Incorrect. The patient is not on a DHFR inhibitor, and folate/B12 are normal; the marrow would show megaloblastic changes rather than aplasia if this were the mechanism. This would be the correct answer if she had been on chronic methotrexate with macrocytic anemia and megaloblastic marrow." },
+      { "text": "Ribonucleotide reductase inhibition halting DNA synthesis in marrow precursors", "explanation": "Incorrect. She is not on hydroxyurea or another ribonucleotide reductase inhibitor; this mechanism would also produce pancytopenia rather than isolated red cell aplasia. This would be the correct answer if she had sickle cell disease on dose-escalated hydroxyurea." },
+      { "text": "Neutralizing anti-erythropoietin antibodies suppressing erythroid progenitor proliferation", "explanation": "Correct. Pure red cell aplasia from anti-EPO antibodies is a rare but recognized complication, primarily seen in CKD patients receiving subcutaneous epoetin alfa, exactly as Dr. Goldstein described. The neutralizing antibodies cross-react with both the exogenous ESA and endogenous EPO, abolishing erythroid progenitor support and producing severe anemia with absent erythroid precursors on biopsy — while myeloid and megakaryocyte lineages remain intact." },
+      { "text": "Hydroxocobalamin-induced cyanide displacement consuming B12 stores", "explanation": "Incorrect. She did not receive hydroxocobalamin or have a cyanide exposure, and this mechanism does not produce pure red cell aplasia. This would be the correct answer if asking how cyanide poisoning is detoxified rather than what is causing her bone marrow finding." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Sudden ESA failure with absent erythroid precursors on marrow biopsy = neutralizing anti-EPO antibodies -> pure red cell aplasia. Reported primarily in CKD patients on subcutaneous epoetin alfa.",
     "pdfPage": 29,
     "pdfQuote": "Pure red cell aplasia due to development of neutralizing anti-EPO antibodies"
   },
   {
-    "id": 15,
-    "category": "Pharmacology: Hydroxocobalamin Uses",
-    "questionText": "Hydroxocobalamin is a congener of Vitamin B12. While it can be used to treat B12 deficiency, it is also specifically indicated as an antidote for which of the following acute poisonings?",
-    "options": [
-      {
-        "text": "Lead poisoning",
-        "explanation": "Incorrect. Lead is treated with chelators like EDTA or succimer. This would be the correct answer if the question focused on basophilic stippling and abdominal pain."
-      },
-      {
-        "text": "Cyanide poisoning",
-        "explanation": "Correct. Hydroxocobalamin binds with cyanide ions to form cyanocobalamin, which is then excreted in the urine. It is used at high doses (e.g., 5-10 grams) for this life-saving indication."
-      },
-      {
-        "text": "Methanol poisoning",
-        "explanation": "Incorrect. Methanol is treated with fomepizole. This would be the correct answer if the question focused on metabolic acidosis and snow-storm vision."
-      },
-      {
-        "text": "Iron overdose",
-        "explanation": "Incorrect. Iron overdose is treated with deferoxamine. This would be the correct answer if the question described a child who swallowed a bottle of vitamins."
-      },
-      {
-        "text": "Folate toxicity",
-        "explanation": "Incorrect. Folate is generally non-toxic at high doses. This would be the correct answer if the question focused on the 'unmasking' of B12 deficiency."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxocobalamin is a high-dose antidote for cyanide poisoning, forming non-toxic cyanocobalamin.",
-    "pdfPage": 22,
-    "pdfQuote": "Hydroxocobalamin ... IV or IO for treatment of cyanide poisoning"
-  },
-  {
-    "id": 16,
-    "category": "Pharmacology: Iron Application",
-    "questionText": "A 32-year-old female presents with fatigue and pica. Labs show a microcytic anemia with a serum ferritin of 8 ng/mL. She is started on ferrous sulfate but returns 6 weeks later with no improvement in her hemoglobin. She mentions she takes her iron tablet every morning with a large latte to 'wash it down.' What is the pharmacological explanation for her failure to improve?",
-    "options": [
-      {
-        "text": "Coffee increases the reduction of Fe3+ to Fe2+",
-        "explanation": "Incorrect. Reduction actually *enhances* absorption; coffee does the opposite. This would be the correct answer if the question focused on the benefit of Vitamin C."
-      },
-      {
-        "text": "Calcium and polyphenols in the latte form insoluble complexes with iron",
-        "explanation": "Correct. Dietary components like calcium (from milk) and polyphenols/tannins (from coffee) bind to iron in the GI tract, creating insoluble complexes that cannot be transported across the duodenal mucosa."
-      },
-      {
-        "text": "The latte has increased her gastric pH too much",
-        "explanation": "Incorrect. While pH affects dissociation, the formation of insoluble complexes with tannins/calcium is a more specific and potent inhibitory mechanism. This would be the correct answer if she were taking high-dose PPIs."
-      },
-      {
-        "text": "She has developed an allergy to the dextran component",
-        "explanation": "Incorrect. Ferrous sulfate is an oral salt and does not contain dextran. This would be the correct answer if she were receiving IV iron and developed hives."
-      },
-      {
-        "text": "Iron cannot be absorbed without co-administration of folate",
-        "explanation": "Incorrect. Iron absorption is independent of folate. This would be the correct answer if the question focused on the 'folate trap' in macrocytic anemia."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Calcium and polyphenols found in dairy and coffee/tea significantly inhibit the absorption of oral iron supplements.",
-    "pdfPage": 9,
-    "pdfQuote": "Polyphenols / tannins and calcium form insoluble complexes with iron."
-  },
-  {
     "id": 17,
-    "category": "Pharmacology: B12/Folate Application",
-    "questionText": "A 70-year-old male with a history of hypertension and osteoarthritis presents with macrocytic anemia (MCV 112). He has no neurological symptoms. You prescribe high-dose folic acid. Four weeks later, his hemoglobin is normal, but he presents with new-onset numbness and 'pins and needles' in his feet. What clinical error occurred?",
+    "category": "Pharmacology: Hydroxyurea in Sickle Cell",
+    "questionText": "An 18-year-old man with homozygous sickle cell disease has averaged 4 vaso-occlusive crises per year and one prior episode of acute chest syndrome. He is currently asymptomatic and well-hydrated. Vitals: BP 118/72, HR 82, RR 14, T 98.6 F. CBC: Hb 8.0 g/dL, MCV 88 fL, WBC 9.4, platelets 320. His physician recommends starting an oral disease-modifying medication. Which monitoring parameter is the MOST important to follow during initiation and dose titration?",
     "options": [
-      {
-        "text": "The dose of folic acid was too low to prevent neuropathy",
-        "explanation": "Incorrect. Folate does not prevent or treat B12-related neuropathy regardless of the dose. This would be the correct answer if the question focused on preventing neural tube defects."
-      },
-      {
-        "text": "Folic acid treatment unmasked an underlying B12 deficiency",
-        "explanation": "Correct. High-dose folate can bypass the 'folate trap' and correct the megaloblastic anemia, making the patient look hematologically improved. However, it does not provide the B12 needed for myelin maintenance, allowing the neurological damage to progress unnoticed."
-      },
-      {
-        "text": "The patient is experiencing a side effect of methotrexate",
-        "explanation": "Incorrect. There is no mention of methotrexate in the history. This would be the correct answer if the patient had rheumatoid arthritis and the question focused on DHFR inhibition."
-      },
-      {
-        "text": "The macrocytosis was actually due to iron deficiency",
-        "explanation": "Incorrect. Iron deficiency causes microcytosis (low MCV), not macrocytosis. This would be the correct answer if the MCV was 70."
-      },
-      {
-        "text": "Improved blood viscosity caused a minor stroke",
-        "explanation": "Incorrect. While viscosity is a risk for ESAs, it does not explain the classic progression of subacute combined degeneration in a megaloblastic patient. This would be the correct answer if the patient were on epoetin."
-      }
+      { "text": "Serum creatinine every 3 months only", "explanation": "Incorrect. Renal function should be monitored, but it is not the primary dose-limiting toxicity of this drug, and quarterly checks would miss the early myelosuppressive effects. This would be the correct answer if the drug were a nephrotoxic agent such as cisplatin." },
+      { "text": "Liver function tests weekly for the first year", "explanation": "Incorrect. Hepatic monitoring is not the central concern with this drug, although it is metabolized in the liver. This would be the correct answer if the drug were an isoniazid- or methotrexate-type hepatotoxin requiring serial transaminase surveillance." },
+      { "text": "Complete blood count with differential frequently, especially during initiation and dose titration", "explanation": "Correct. The lecturer identified myelosuppression — chiefly neutropenia, but also anemia and thrombocytopenia — as the major dose-limiting toxicity of hydroxyurea, and explicitly recommended frequent monitoring of CBC with differential, especially during initiation and dose titration. This allows safe dose escalation to therapeutic HbF induction while minimizing risk of severe cytopenias." },
+      { "text": "Electrocardiogram every visit to assess for QT prolongation", "explanation": "Incorrect. This drug does not cause significant QT prolongation; serial ECG monitoring is not part of the recommended plan. This would be the correct answer if asking about therapy with methadone, certain antiarrhythmics, or some macrolides." },
+      { "text": "Daily home blood pressure readings to detect hypertension", "explanation": "Incorrect. Hypertension is the classic monitoring parameter for ESAs, not for this sickle cell medication. This would be the correct answer if the patient with CKD were starting epoetin alfa." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Folate monotherapy can correct the anemia of B12 deficiency but allows permanent neurological damage to progress.",
-    "pdfPage": 19,
-    "pdfQuote": "Folic acid monotherapy unmasks vitamin B12 deficiency ... allowing neurological damage to progress"
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Hydroxyurea's dose-limiting toxicity is myelosuppression (especially neutropenia). Monitor CBC with differential frequently during initiation and dose titration.",
+    "pdfPage": 37,
+    "pdfQuote": "Frequent monitoring of CBC with differential"
   },
   {
     "id": 18,
-    "category": "Pharmacology: ESA Oncology Application",
-    "questionText": "A 68-year-old male with metastatic breast cancer is receiving myelosuppressive chemotherapy. His hemoglobin is 8.5 g/dL. Why is the use of ESAs in this patient being treated with curative intent considered highly controversial?",
+    "category": "Pharmacology: Hydroxyurea Counseling",
+    "questionText": "A 24-year-old man with sickle cell disease has been on a first-line oral disease-modifying agent for 3 years and is doing well, with fewer crises and a rise in fetal hemoglobin. He and his fiancee plan to conceive a child later this year. He asks whether he can continue his current medication while trying to conceive. Which counseling point most accurately reflects the reproductive considerations described in the lecture?",
     "options": [
-      {
-        "text": "ESAs cause severe gastrointestinal irritation",
-        "explanation": "Incorrect. This is the main side effect of iron, not ESAs. This would be the correct answer if the question concerned oral ferrous sulfate."
-      },
-      {
-        "text": "ESAs have been shown to shorten survival and promote tumor progression",
-        "explanation": "Correct. In some clinical trials involving patients with certain cancers (including breast), the use of ESAs to target higher hemoglobin was associated with reduced time to tumor recurrence and shortened overall survival."
-      },
-      {
-        "text": "The patient is likely to develop cyanide toxicity",
-        "explanation": "Incorrect. Cyanide is related to hydroxocobalamin's role as an antidote, not ESA therapy. This would be the correct answer if the question focused on B12 congeners."
-      },
-      {
-        "text": "ESAs will competitively inhibit the chemotherapy drugs",
-        "explanation": "Incorrect. There is no direct competitive inhibition between ESAs and chemo. This would be the correct answer if the question focused on drug-drug interactions with cytochrome P450."
-      },
-      {
-        "text": "Metastatic cancer increases the risk of iron toxicity from ESAs",
-        "explanation": "Incorrect. ESAs *use up* iron; they don't cause iron toxicity. This would be the correct answer if the question asked about the risk of multiple transfusions."
-      }
+      { "text": "The drug has no effect on fertility or reproduction at standard doses", "explanation": "Incorrect. The lecturer explicitly noted teratogenicity in animal studies, potential fetal harm, possible damage to spermatozoa and testicular tissue, and risk of azoospermia or oligospermia. This would be the correct answer if the drug had a clean reproductive safety profile, which it does not." },
+      { "text": "The drug is safe in pregnancy but contraindicated in breastfeeding only", "explanation": "Incorrect. Breastfeeding is not recommended, but the drug is also not safe in pregnancy — both are concerns. This would be the correct answer if the drug were category B with proven gestational safety and only milk-distribution concerns." },
+      { "text": "Only female partners need contraception; the drug does not affect male fertility", "explanation": "Incorrect. Sperm and testicular toxicity were specifically described, including azoospermia and oligospermia. Male contraception is part of the recommendation. This would be the correct answer if the drug had no documented effect on spermatogenesis." },
+      { "text": "He should double his dose 4 weeks before attempted conception to accelerate HbF rise", "explanation": "Incorrect. Dose escalation around conception would intensify both myelosuppressive and reproductive toxicity without therapeutic benefit. This would be the correct answer if intensifying HbF induction were both safe and clinically indicated before pregnancy, which it is not." },
+      { "text": "Both partners should use effective contraception during therapy and for at least 6 months to 1 year after stopping", "explanation": "Correct. The lecturer was specific: the drug is teratogenic in animal studies, may damage spermatozoa, and can cause fetal harm. Both males and females of reproductive potential should use effective contraception during therapy and for at least 6 months to 1 year following therapy. He should discuss alternative disease-modifying options with his hematologist if pregnancy is desired soon." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "ESAs should be used with caution in cancer patients as they may worsen outcomes and shorten survival in certain malignancies.",
-    "pdfPage": 28,
-    "pdfQuote": "ESAs have been shown to ... increase serious risks ... and worse cancer outcomes"
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Hydroxyurea: teratogenic and gonadotoxic. Both male and female patients of reproductive potential should use effective contraception during therapy and for 6 to 12 months after.",
+    "pdfPage": 37,
+    "pdfQuote": "use effective contraception during and for at least 6 months to 1 year"
   },
   {
     "id": 19,
-    "category": "Pharmacology: Sickle Cell Pain Application",
-    "questionText": "A 22-year-old male with sickle cell disease presents to the emergency department with excruciating back and hip pain. He is currently taking hydroxyurea 1000mg daily. Which of the following is the most appropriate assessment of his hydroxyurea therapy in this acute setting?",
+    "category": "Pharmacology: Iron Absorption Regulation",
+    "questionText": "A 60-year-old man with longstanding rheumatoid arthritis presents with fatigue. Labs show normocytic anemia, normal MCV, low serum iron, and INAPPROPRIATELY HIGH serum ferritin. His physician explains the mechanism: a hepatic peptide hormone is upregulated by his chronic inflammatory state, binds basolateral ferroportin on enterocytes and macrophages, and causes its internalization. Which downstream effect most directly explains his anemia pattern?",
     "options": [
-      {
-        "text": "The dose should be doubled immediately to resolve the pain",
-        "explanation": "Incorrect. Hydroxyurea is a maintenance drug; doubling the dose acutely will not help and may cause toxicity. This would be the correct answer if the drug was an acute analgesic."
-      },
-      {
-        "text": "Hydroxyurea is not appropriate for treating acute pain crises",
-        "explanation": "Correct. Hydroxyurea is a disease-modifying agent intended to *prevent* crises over the long term (via HbF induction). It does not treat an active vaso-occlusive episode, which requires hydration and analgesics."
-      },
-      {
-        "text": "He should be switched to iron dextran for rapid correction",
-        "explanation": "Incorrect. Sickle cell patients usually have iron overload from transfusions; giving more iron would be harmful. This would be the correct answer if the patient had severe iron deficiency anemia."
-      },
-      {
-        "text": "A test dose of crizanlizumab is required before continuing",
-        "explanation": "Incorrect. Crizanlizumab is an adjunct, and while it helps manage crises, it does not require a test dose in the same way as iron dextran. This would be the correct answer if the question focused on P-selectin inhibition."
-      },
-      {
-        "text": "The patient is experiencing a side effect of cyanide buildup",
-        "explanation": "Incorrect. Hydroxyurea is not associated with cyanide. This would be the correct answer if the question concerned cyanocobalamin metabolism."
-      }
+      { "text": "Increased erythropoietin production driving polycythemia", "explanation": "Incorrect. The patient is anemic, not polycythemic, and the hepatic peptide described regulates iron rather than EPO. This would be the correct answer if the question described high-altitude exposure with secondary erythrocytosis." },
+      { "text": "Selective inhibition of ribonucleotide reductase in erythroid precursors", "explanation": "Incorrect. That mechanism describes hydroxyurea and would not produce the iron-restricted pattern described. This would be the correct answer if the patient were on hydroxyurea with macrocytic-leaning indices." },
+      { "text": "Autoimmune destruction of gastric parietal cells reducing intrinsic factor", "explanation": "Incorrect. Loss of intrinsic factor causes pernicious anemia with macrocytic indices, hypersegmented neutrophils, and neurologic symptoms — not the normocytic, iron-restricted pattern here. This would be the correct answer if the labs showed elevated MCV with low serum B12." },
+      { "text": "Increased duodenal cytochrome b activity reducing all dietary Fe2+", "explanation": "Incorrect. Duodenal cytochrome b reduces Fe3+ to Fe2+ to facilitate absorption — its increased activity would enhance, not impair, iron uptake. This would be the correct answer if higher dCytB activity caused iron overload (it does not, in this way)." },
+      { "text": "Reduced dietary iron absorption and sequestration of recycled iron inside macrophages", "explanation": "Correct. Hepcidin, made in hepatocytes and upregulated by inflammation, binds ferroportin and triggers its internalization. This blocks iron export from enterocytes (decreasing dietary absorption) and from macrophages (trapping recycled iron from senescent RBCs). The result is low serum iron with high ferritin — the classic 'anemia of chronic inflammation' pattern. The lecturer noted that chronic inflammatory disease increases hepcidin, sequestering iron, and is an indication for IV iron when oral iron fails." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxyurea is for chronic prevention of sickle cell crises, not for the treatment of acute pain.",
-    "pdfPage": 32,
-    "pdfQuote": "They are not appropriate for treating acute pain."
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Hepcidin (made in hepatocytes, induced by inflammation) binds ferroportin and internalizes it — blocking enterocyte and macrophage iron export. Result: low serum iron + high ferritin (anemia of chronic inflammation).",
+    "pdfPage": 10,
+    "pdfQuote": "Hepcidin is a peptide hormone synthesized in hepatocytes"
   },
   {
     "id": 20,
-    "category": "Pharmacology: B12 Diagnosis Application",
-    "questionText": "A patient with macrocytic anemia and a history of gastric bypass surgery is suspected of having Vitamin B12 deficiency. Which of the following sets of results on a 'Check your knowledge' style assessment would definitively confirm B12 over Folate deficiency?",
+    "category": "Pharmacology: Sickle Cell Acute Pain Management",
+    "questionText": "A 22-year-old man with sickle cell disease arrives at the emergency department with a severe vaso-occlusive pain crisis: diffuse limb pain rated 9/10, dehydration, and tachycardia. He has been well-maintained on a first-line oral disease-modifying agent (hydroxyurea) for the past 2 years with fewer crises overall. The intern asks whether to acutely double the dose of his maintenance agent to abort the crisis. What is the most appropriate response, based on the principles taught in this lecture?",
     "options": [
-      {
-        "text": "Low serum iron and high TIBC",
-        "explanation": "Incorrect. This confirms iron deficiency, not a macrocytic process. This would be the correct answer if the patient had microcytic anemia."
-      },
-      {
-        "text": "Elevated methylmalonyl-CoA and elevated homocysteine",
-        "explanation": "Correct. Only B12 deficiency causes an elevation in both methylmalonyl-CoA and homocysteine. Folate deficiency only increases homocysteine."
-      },
-      {
-        "text": "Presence of Heinz bodies and bite cells",
-        "explanation": "Incorrect. These are markers of oxidative stress in G6PD deficiency. This would be the correct answer if the trigger was fava beans."
-      },
-      {
-        "text": "Positive direct Coombs test for IgG",
-        "explanation": "Incorrect. This indicates autoimmune hemolytic anemia. This would be the correct answer if the patient had warm agglutinin disease."
-      },
-      {
-        "text": "Absence of hypersegmented neutrophils",
-        "explanation": "Incorrect. Both B12 and folate deficiencies *feature* hypersegmented neutrophils. This would be the correct answer if the question asked about a non-megaloblastic cause of macrocytosis."
-      }
+      { "text": "Yes — double the maintenance medication to acutely depolymerize hemoglobin S during the crisis", "explanation": "Incorrect. The first-line agent works gradually, over weeks to months, by inducing HbF through stress erythropoiesis; it does NOT acutely depolymerize HbS. Doubling the dose during a crisis would not relieve pain and would risk additional myelosuppression. This would be the correct answer if the drug had direct rapid anti-sickling activity, which it does not." },
+      { "text": "Stop the maintenance medication immediately; it is the cause of his acute crisis", "explanation": "Incorrect. Hydroxyurea does not precipitate vaso-occlusive crises; in fact, it reduces their frequency. Discontinuation removes a protective therapy. This would be the correct answer if the medication had a clear causal link to his acute presentation, which it does not." },
+      { "text": "Initiate IV crizanlizumab as a single emergency dose to abort this crisis", "explanation": "Incorrect. Crizanlizumab is an anti-P-selectin antibody intended for chronic prevention as an add-on to reduce frequency of acute pain episodes — not for aborting an active crisis. This would be the correct answer if asking which adjunctive therapy might be added later for ongoing frequent crises despite hydroxyurea." },
+      { "text": "Start oral L-glutamine powder packets twice daily in the ED to immediately reverse vaso-occlusion", "explanation": "Incorrect. L-glutamine is also a disease-modifying agent acting via redox state alterations over time, not an acute crisis abortive. This would be the correct answer if discussing long-term oral adjuncts for frequency reduction in a well patient." },
+      { "text": "Continue the maintenance medication at the usual dose and manage the acute crisis with hydration and analgesia; the disease-modifying agents are intended for use when the patient is well, not for acute pain", "explanation": "Correct. The lecturer was explicit: hydroxyurea, crizanlizumab, and L-glutamine are disease-modifying therapies intended to be started when the individual is well and are NOT appropriate for treating acute pain. The maintenance regimen reduces frequency of crises over time but does nothing to abort an acute event. Acute crisis management is supportive (hydration, analgesia, oxygen as needed), while the disease-modifying agent continues at its usual dose." }
     ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "B12 deficiency is biochemically distinguished from folate deficiency by the elevation of methylmalonic acid (MMA).",
-    "pdfPage": 23,
-    "pdfQuote": "In B12 deficiency, there will ALSO be an increase in methylmalonyl-CoA"
-  },
-  {
-    "id": 21,
-    "category": "Pharmacology: Iron Dextran Toxicity",
-    "questionText": "A patient with severe anemia of chronic disease is started on Iron Dextran IV. During the infusion, they develop flushing, a metallic taste, and a drop in blood pressure. What is the pharmacological classification of this event?",
-    "options": [
-      {
-        "text": "Type IV delayed hypersensitivity",
-        "explanation": "Incorrect. Delayed reactions happen days later and usually involve arthralgias. This would be the correct answer if the patient returned a week later with joint pain."
-      },
-      {
-        "text": "Infusion-related reaction",
-        "explanation": "Correct. Flushing, metallic taste, nausea, and transient hypotension are classic infusion-related reactions associated with IV iron. These are distinct from true IgE-mediated anaphylaxis."
-      },
-      {
-        "text": "Standard physiological response to high ferritin",
-        "explanation": "Incorrect. High ferritin does not cause these acute symptoms. This would be the correct answer if the question concerned iron sequestration in inflammation."
-      },
-      {
-        "text": "Cyanide toxicity from the dextran congener",
-        "explanation": "Incorrect. Iron Dextran does not release cyanide. This would be the correct answer if the question focused on hydroxocobalamin's congener, cyanocobalamin."
-      },
-      {
-        "text": "Bence-Jones protein precipitation",
-        "explanation": "Incorrect. This occurs in Multiple Myeloma and causes renal failure, not acute infusion symptoms. This would be the correct answer if the question focused on plasma cell neoplasms."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Infusion-related reactions to IV iron include flushing, metallic taste, and hypotension, which are separate from anaphylaxis.",
-    "pdfPage": 13,
-    "pdfQuote": "Infusion related: Flushing, headache, dizziness, metallic taste"
-  },
-  {
-    "id": 22,
-    "category": "Pharmacology: Sickle Cell Redox",
-    "questionText": "L-glutamine is a pharmaceutical-grade adjunct used in sickle cell disease. By which primary mechanism does it help improve the physiology of the sickled red blood cell?",
-    "options": [
-      {
-        "text": "Inhibition of ribonucleoside reductase",
-        "explanation": "Incorrect. This is the mechanism of hydroxyurea. This would be the correct answer if the question asked about the first-line antimetabolite."
-      },
-      {
-        "text": "Improvement of the NADH/NAD+ redox balance",
-        "explanation": "Correct. L-glutamine is a precursor to NAD+. Sickled RBCs have low levels of NAD+, and supplementing L-glutamine helps restore the redox balance, reducing oxidative damage and improving red cell deformability."
-      },
-      {
-        "text": "Antagonism of the EPO receptor",
-        "explanation": "Incorrect. Antagonizing EPO would worsen anemia. This would be the correct answer if the question were about a hypothetical drug for polycythemia vera."
-      },
-      {
-        "text": "Destruction of P-selectin on the endothelium",
-        "explanation": "Incorrect. This is the mechanism of crizanlizumab. This would be the correct answer if the question asked about an anti-adhesion antibody."
-      },
-      {
-        "text": "Competitive reduction of gastric pH",
-        "explanation": "Incorrect. L-glutamine does not affect stomach acid. This would be the correct answer if the question focused on the requirements for iron dissociation."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "L-glutamine reduces oxidative stress in sickled RBCs by improving the NADH/NAD+ redox balance.",
-    "pdfPage": 40,
-    "pdfQuote": "L-glutamine may improve the NADH/NAD+ redox balance"
-  },
-  {
-    "id": 23,
-    "category": "Pharmacology: Folate DHFR Inhibition",
-    "questionText": "Methotrexate is a drug commonly used for autoimmune conditions that can lead to macrocytic anemia. Which specific enzyme in the folate pathway does this medication competitively inhibit?",
-    "options": [
-      {
-        "text": "Methionine synthase",
-        "explanation": "Incorrect. Methionine synthase requires B12 and is not the target of methotrexate. This would be the correct answer if the question focused on B12-mediated homocysteine conversion."
-      },
-      {
-        "text": "Dihydrofolate reductase (DHFR)",
-        "explanation": "Correct. Methotrexate is a classic DHFR inhibitor. By blocking this enzyme, it prevents the reduction of dihydrofolate to the active tetrahydrofolate (THF), leading to a functional folate deficiency and megaloblastic changes."
-      },
-      {
-        "text": "Glutamate carboxypeptidase",
-        "explanation": "Incorrect. This is the brush-border enzyme that hydrolyzes polyglutamates in the gut. This would be the correct answer if the question asked about the first step of dietary folate processing."
-      },
-      {
-        "text": "Methylmalonyl-CoA mutase",
-        "explanation": "Incorrect. This enzyme requires B12 and is involved in fatty acid metabolism. This would be the correct answer if the question focused on the cause of myelin damage."
-      },
-      {
-        "text": "Ribonucleotide reductase",
-        "explanation": "Incorrect. RNR is inhibited by hydroxyurea. This would be the correct answer if the question concerned sickle cell therapy."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Methotrexate causes macrocytic anemia by inhibiting dihydrofolate reductase (DHFR), blocking the production of active THF.",
-    "pdfPage": 18,
-    "pdfQuote": "Folic acid is then reduced by dihydrofolate reductase (DHFR)"
-  },
-  {
-    "id": 24,
-    "category": "Pharmacology: Iron Interaction",
-    "questionText": "A patient with hypothyroidism is prescribed ferrous sulfate for iron deficiency. Why must the patient be advised to separate the dosing of their iron supplement and their levothyroxine by at least 4 hours?",
-    "options": [
-      {
-        "text": "Levothyroxine increases iron-induced GI irritation",
-        "explanation": "Incorrect. The concern is about absorption, not irritation. This would be the correct answer if the question asked why iron causes nausea."
-      },
-      {
-        "text": "Iron can significantly reduce the absorption of levothyroxine",
-        "explanation": "Correct. Iron (like calcium and other divalent metals) binds to levothyroxine in the gut, forming an unabsorbable complex. This can lead to therapeutic failure of the thyroid replacement if not properly separated."
-      },
-      {
-        "text": "Thyroid hormone promotes the degradation of ferroportin",
-        "explanation": "Incorrect. That is the function of hepcidin. This would be the correct answer if the question focused on the master regulator of iron."
-      },
-      {
-        "text": "Iron increases the metabolism of levothyroxine in the liver",
-        "explanation": "Incorrect. The interaction occurs in the gut lumen, not through hepatic induction. This would be the correct answer if the question focused on CYP450 inducers like rifampin."
-      },
-      {
-        "text": "Levothyroxine reduces the reduction of ferric iron",
-        "explanation": "Incorrect. Levothyroxine does not have significant reducing or oxidizing properties in the gut. This would be the correct answer if the question focused on the role of Vitamin C."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Iron supplements can bind to and decrease the absorption of various medications, including levothyroxine and quinolones.",
-    "pdfPage": 13,
-    "pdfQuote": "Iron can reduce absorption of levothyroxine, quinolone antibiotics"
-  },
-  {
-    "id": 25,
-    "category": "Pharmacology: B12 Storage",
-    "questionText": "Unlike most water-soluble vitamins, Vitamin B12 has a significant storage capacity in the body. Approximately how long does it take to develop a clinical deficiency after a total cessation of B12 intake or absorption?",
-    "options": [
-      {
-        "text": "2-4 weeks",
-        "explanation": "Incorrect. This is far too short for B12. This would be the correct answer if the question focused on the lifespan of a platelet."
-      },
-      {
-        "text": "3-5 years",
-        "explanation": "Correct. The liver stores a massive amount of Vitamin B12 relative to daily requirements. It typically takes 3 to 5 years of complete malabsorption (e.g., post-gastrectomy) before these stores are depleted and anemia develops."
-      },
-      {
-        "text": "3-4 months",
-        "explanation": "Incorrect. This is the typical timeframe for developing a folate deficiency. This would be the correct answer if the question focused on the 'tea and toast' diet in the elderly."
-      },
-      {
-        "text": "10-20 years",
-        "explanation": "Incorrect. While stores are large, they do not last decades without any intake. This would be the correct answer if the question focused on the development of secondary hemochromatosis."
-      },
-      {
-        "text": "6 months",
-        "explanation": "Incorrect. This is an intermediate timeframe but still shorter than the known B12 storage life. This would be the correct answer if the question focused on the typical protective window of HbF in newborns."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Vitamin B12 stores in the liver are extensive and can last 3-5 years, whereas folate stores only last a few months.",
-    "pdfPage": 20,
-    "pdfQuote": "It usually takes 3 to 5 years to deplete the stores."
-  },
-  {
-    "id": 26,
-    "category": "Pharmacology: Hydroxyurea Cell Cycle",
-    "questionText": "Hydroxyurea is an antimetabolite that affects rapidly proliferating cells. At which specific phase of the cell cycle does hydroxyurea halt progression?",
-    "options": [
-      {
-        "text": "G0 phase",
-        "explanation": "Incorrect. G0 is the resting phase; hydroxyurea targets actively dividing cells. This would be the correct answer if the question focused on stable cells like hepatocytes."
-      },
-      {
-        "text": "G1 to S phase transition",
-        "explanation": "Correct. By inhibiting ribonucleoside reductase, hydroxyurea prevents the production of dNTPs needed for DNA synthesis. This effectively halts the cell cycle as it attempts to transition from the G1 growth phase into the S (synthesis) phase."
-      },
-      {
-        "text": "G2 phase",
-        "explanation": "Incorrect. G2 occurs after DNA synthesis is complete. This would be the correct answer if the question focused on drugs that inhibit tubulin like vincristine."
-      },
-      {
-        "text": "Metaphase of Mitosis",
-        "explanation": "Incorrect. Mitotic inhibitors (vincas, taxanes) work here. This would be the correct answer if the question focused on microtubule disruption."
-      },
-      {
-        "text": "Late S phase only",
-        "explanation": "Incorrect. While it affects the S phase, the block is most notable at the entry (G1 to S). This would be the correct answer if the question focused on topoisomerase inhibitors."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxyurea halts the cell cycle at the G1 to S phase transition by inhibiting DNA synthesis.",
-    "pdfPage": 7,
-    "pdfQuote": "halting the cell cycle at the G1 to S phase."
-  },
-  {
-    "id": 27,
-    "category": "Pharmacology: Cyanide Antidote",
-    "questionText": "In a case of suspected cyanide poisoning, hydroxocobalamin is administered. What is the specific chemical transformation that occurs to neutralize the toxin?",
-    "options": [
-      {
-        "text": "Oxidation of cyanide to thiocyanate",
-        "explanation": "Incorrect. This is the liver's natural detoxification pathway using rhodanese, not the primary mechanism of hydroxocobalamin. This would be the correct answer if the question focused on endogenous metabolism."
-      },
-      {
-        "text": "Formation of cyanocobalamin through coordinate binding",
-        "explanation": "Correct. Hydroxocobalamin contains a cobalt atom that has a very high affinity for cyanide. It coordinates with the cyanide ion to form cyanocobalamin (non-toxic Vitamin B12), which is then safely excreted."
-      },
-      {
-        "text": "Competitive inhibition of cytochrome oxidase",
-        "explanation": "Incorrect. Cyanide *itself* inhibits cytochrome oxidase; hydroxocobalamin *reverses* this by pulling the cyanide away. This would be the correct answer if the question asked about the mechanism of cyanide's toxicity."
-      },
-      {
-        "text": "Reduction of iron in the heme group",
-        "explanation": "Incorrect. This refers to the mechanism of nitrites (methemoglobinemia), which also bind cyanide but are a different class of antidote. This would be the correct answer if the question focused on amyl nitrite."
-      },
-      {
-        "text": "Upregulation of the TCA cycle",
-        "explanation": "Incorrect. Cyanide halts the TCA cycle by blocking the electron transport chain; hydroxocobalamin restores function but does not directly 'upregulate' the cycle. This would be the correct answer if the question focused on the benefits of B12 cofactors."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Hydroxocobalamin neutralizes cyanide by binding it to form non-toxic cyanocobalamin.",
-    "pdfPage": 22,
-    "pdfQuote": "The cyanide is metabolized in the liver to nontoxic thiocyanate ... Hydroxocobalamin is also converted"
-  },
-  {
-    "id": 28,
-    "category": "Pharmacology: ESA Renal Path",
-    "questionText": "The peritubular interstitial cells of the kidney are the primary source of erythropoietin. In chronic kidney disease, what is the primary histological process that leads to the failure of these cells to produce adequate EPO?",
-    "options": [
-      {
-        "text": "Autoimmune attack on the parietal cells",
-        "explanation": "Incorrect. This occurs in the stomach in Pernicious Anemia. This would be the correct answer if the question focused on B12 deficiency."
-      },
-      {
-        "text": "Injury, inflammation, and fibrosis",
-        "explanation": "Correct. Chronic injury to the kidney leads to inflammation and progressive fibrosis of the interstitial space. This process damages or destroys the specialized fibroblast-like cells responsible for sensing oxygen and secreting EPO."
-      },
-      {
-        "text": "Hypertrophy of the renal medulla",
-        "explanation": "Incorrect. Medullary hypertrophy is not a feature of CKD-induced anemia. This would be the correct answer if the question focused on high-pressure states."
-      },
-      {
-        "text": "Deposition of Bence-Jones proteins",
-        "explanation": "Incorrect. While light chains can damage the kidney in Multiple Myeloma, the general mechanism for anemia in *standard* CKD is interstitial fibrosis. This would be the correct answer if the question focused on plasma cell-induced renal failure."
-      },
-      {
-        "text": "Inhibition of soluble guanylyl cyclase",
-        "explanation": "Incorrect. Guanylyl cyclase is involved in vasodilation and HbF induction, not primary EPO secretion. This would be the correct answer if the question focused on secondary mechanisms of hydroxyurea."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Anemia in chronic kidney disease is primarily due to the loss of EPO-producing interstitial cells through fibrosis.",
-    "pdfPage": 31,
-    "pdfQuote": "Cells in the renal cortex that product EPO are damaged or lost due to injury, inflammation, and fibrosis."
-  },
-  {
-    "id": 29,
-    "category": "Pharmacology: Iron PK",
-    "questionText": "The body lacks a specific physiological mechanism for the excretion of excess iron. How is iron balance primarily maintained under normal physiological conditions?",
-    "options": [
-      {
-        "text": "Rapid urinary excretion of ferritin",
-        "explanation": "Incorrect. Ferritin is a large storage protein and is not excreted in the urine. This would be the correct answer if the question focused on Bence-Jones proteins."
-      },
-      {
-        "text": "Regulation of intestinal absorption and storage",
-        "explanation": "Correct. Since the body cannot easily excrete iron, it regulates balance by changing the rate of intestinal absorption (via hepcidin and ferroportin) and storing excess in the liver/marrow as ferritin."
-      },
-      {
-        "text": "Biliary secretion into the feces",
-        "explanation": "Incorrect. While some iron is lost in desquamated skin and GI cells, it is not an active biliary secretory process. This would be the correct answer if the question focused on the excretion of conjugated bilirubin."
-      },
-      {
-        "text": "Feedback inhibition of duodenal cytochrome B",
-        "explanation": "Incorrect. While regulation occurs at the level of transporters (DMT1/Ferroportin), the overall systemic balance is a result of the 'needs-based' absorption model. This would be the correct answer if it focused strictly on the reduction step."
-      },
-      {
-        "text": "Saturation of the transferrin receptor",
-        "explanation": "Incorrect. Receptors mediate uptake into cells but do not control the *total* body burden. This would be the correct answer if the question asked how iron enters an erythrocyte precursor."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "The body regulates iron levels primarily through controlled absorption, as there is no active excretion mechanism.",
-    "pdfPage": 9,
-    "pdfQuote": "Iron balance is achieved by changing intestinal absorption and storage"
-  },
-  {
-    "id": 30,
-    "category": "Pharmacology: Crizanlizumab Mechanism",
-    "questionText": "Crizanlizumab is a newer monoclonal antibody used as an adjunct to hydroxyurea in sickle cell disease. Which specific protein does it target to reduce the frequency of painful vaso-occlusive crises?",
-    "options": [
-      {
-        "text": "Ribonucleoside reductase",
-        "explanation": "Incorrect. This is the target of hydroxyurea. This would be the correct answer if the question asked about the first-line antimetabolite."
-      },
-      {
-        "text": "P-selectin",
-        "explanation": "Correct. Crizanlizumab is an anti-P-selectin antibody. By blocking P-selectin on the vascular endothelium, it prevents the adhesion of platelets and leukocytes to the vessel wall, thereby reducing microvascular plugging and pain crises."
-      },
-      {
-        "text": "JAK/STAT transcription factor",
-        "explanation": "Incorrect. This is the signaling pathway for EPO/ESAs. This would be the correct answer if the question asked about the downstream effect of epoetin alfa."
-      },
-      {
-        "text": "Intrinsic Factor receptor (Cubulin)",
-        "explanation": "Incorrect. This receptor is involved in B12 absorption. This would be the correct answer if the question focused on the terminal ileum."
-      },
-      {
-        "text": "Duodenal cytochrome B",
-        "explanation": "Incorrect. This is the enzyme that reduces iron in the gut. This would be the correct answer if the question focused on plant-based iron bioavailability."
-      }
-    ],
-    "correctAnswerIndex": 1,
-    "clinicalPearl": "Crizanlizumab is an anti-P-selectin antibody that reduces the cellular adhesion responsible for vaso-occlusive crises in sickle cell disease.",
-    "pdfPage": 40,
-    "pdfQuote": "Crizanlizumab is an anti-P-selectin antibody that reduces interactions"
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Hydroxyurea, crizanlizumab, and L-glutamine are DISEASE-MODIFYING therapies — started when the patient is WELL to reduce crisis frequency. They are NOT used to treat acute vaso-occlusive pain.",
+    "pdfPage": 32,
+    "pdfQuote": "not appropriate for treating acute pain"
   }
 ];
-
-window.Test_L153 = Test_L153;
