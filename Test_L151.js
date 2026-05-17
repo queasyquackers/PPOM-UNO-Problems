@@ -618,5 +618,325 @@ window.Test_L151 = [
     "clinicalPearl": "Don't get distracted by lead exposure risk if the ferritin is low; a low ferritin ALWAYS equals Iron Deficiency.",
     "pdfPage": 13,
     "pdfQuote": "iron deficiency anemia... ferritin is low... RDW is going to increase"
+  },
+  {
+    "id": 31,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "Which of the following microcytic anemias is characterized by LOW ferritin, HIGH TIBC, and LOW transferrin saturation?",
+    "options": [
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. ACD shows HIGH (or normal) ferritin and LOW TIBC because inflammation traps iron in macrophages." },
+      { "text": "Beta-thalassemia minor", "explanation": "Incorrect. Thalassemias have NORMAL iron studies; the defect is in globin chain synthesis, not iron availability." },
+      { "text": "Iron deficiency anemia", "explanation": "Correct. IDA is the only microcytic anemia with this classic 'empty tank' iron panel: ferritin LOW (depleted stores), TIBC HIGH (transferrin upregulated trying to grab any iron), and transferrin saturation LOW." },
+      { "text": "Sideroblastic anemia", "explanation": "Incorrect. Sideroblastic anemia has HIGH ferritin and HIGH transferrin saturation because iron accumulates in mitochondria (ringed sideroblasts) but cannot be incorporated into heme." },
+      { "text": "Alpha-thalassemia trait", "explanation": "Incorrect. Like beta-thalassemia, iron studies are NORMAL." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "IDA = low ferritin + high TIBC + low transferrin sat. It is the only microcytic anemia with a truly 'empty' iron tank.",
+    "pdfPage": 13,
+    "pdfQuote": "iron deficiency anemia... ferritin is low"
+  },
+  {
+    "id": 32,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "An elderly patient with rheumatoid arthritis has a microcytic anemia. Which of the following iron-study patterns most strongly supports anemia of chronic disease (ACD) over iron deficiency anemia?",
+    "options": [
+      { "text": "Low ferritin, high TIBC", "explanation": "Incorrect. This pattern points to IDA, not ACD." },
+      { "text": "Normal/high ferritin, low TIBC", "explanation": "Correct. ACD is characterized by hepcidin-driven iron sequestration in macrophages, so ferritin (an acute phase reactant) is normal or elevated and TIBC (transferrin) is low/normal." },
+      { "text": "Low ferritin, low TIBC", "explanation": "Incorrect. This pattern is unusual; low ferritin is the hallmark of IDA, which has HIGH TIBC." },
+      { "text": "Normal ferritin, high TIBC", "explanation": "Incorrect. High TIBC is seen in iron deficiency, not ACD." },
+      { "text": "High ferritin, high transferrin saturation", "explanation": "Incorrect. High transferrin saturation with high ferritin suggests iron overload (hemochromatosis) or sideroblastic anemia, not ACD." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ACD: ferritin high/normal, TIBC low, transferrin sat low — iron is locked away in macrophages by hepcidin.",
+    "pdfPage": 14,
+    "pdfQuote": "anemia of chronic disease"
+  },
+  {
+    "id": 33,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "A child has a microcytic anemia with NORMAL ferritin, NORMAL TIBC, and target cells on smear. Hemoglobin electrophoresis shows elevated HbA2. Which microcytic anemia is this?",
+    "options": [
+      { "text": "Iron deficiency anemia", "explanation": "Incorrect. IDA would show LOW ferritin and HIGH TIBC, and would not elevate HbA2." },
+      { "text": "Lead poisoning", "explanation": "Incorrect. Lead poisoning shows basophilic stippling and elevated zinc protoporphyrin/protoporphyrin levels, not elevated HbA2." },
+      { "text": "Sideroblastic anemia", "explanation": "Incorrect. Sideroblastic anemia shows ringed sideroblasts on bone marrow, not elevated HbA2." },
+      { "text": "Beta-thalassemia minor", "explanation": "Correct. Beta-thal minor classically shows microcytic anemia with normal iron studies, target cells, and an elevated HbA2 (>3.5%) on electrophoresis because beta chain production is reduced, shifting hemoglobin to HbA2 (α2δ2)." },
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. ACD would show HIGH ferritin and LOW TIBC." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Beta-thal minor = microcytic anemia + normal iron studies + target cells + ELEVATED HbA2 on electrophoresis.",
+    "pdfPage": 17,
+    "pdfQuote": "beta-thalassemia... HbA2"
+  },
+  {
+    "id": 34,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "A child working in an old house chewing on painted windowsills develops a microcytic anemia. Peripheral smear shows BASOPHILIC STIPPLING. Which of the following is the most likely cause?",
+    "options": [
+      { "text": "Iron deficiency anemia", "explanation": "Incorrect. IDA does not classically cause basophilic stippling; it shows hypochromic, microcytic cells with anisopoikilocytosis." },
+      { "text": "Beta-thalassemia major", "explanation": "Incorrect. While thalassemia can show stippling occasionally, the historical exposure (lead-based paint) and isolated basophilic stippling point to lead poisoning." },
+      { "text": "Lead poisoning", "explanation": "Correct. Lead inhibits ferrochelatase and ALA dehydratase in heme synthesis AND inhibits ribosomal RNA degradation, producing characteristic basophilic stippling. Look for the classic environmental clue: lead paint exposure in young children." },
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. ACD shows normocytic OR microcytic anemia without stippling." },
+      { "text": "Sideroblastic anemia", "explanation": "Incorrect. Sideroblastic anemia has ringed sideroblasts in marrow but lacks the basophilic stippling pattern of lead toxicity." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Lead poisoning = microcytic anemia + basophilic stippling + environmental lead exposure. Treat with chelation (succimer, EDTA, dimercaprol).",
+    "pdfPage": 16,
+    "pdfQuote": "lead poisoning... basophilic stippling"
+  },
+  {
+    "id": 35,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "Which microcytic anemia is characterized by HIGH ferritin, HIGH transferrin saturation, and RINGED SIDEROBLASTS in the bone marrow?",
+    "options": [
+      { "text": "Iron deficiency anemia", "explanation": "Incorrect. IDA has LOW ferritin and LOW transferrin saturation; iron stores are empty." },
+      { "text": "Sideroblastic anemia", "explanation": "Correct. Sideroblastic anemia results from defective heme synthesis (often from B6 deficiency, isoniazid, lead, alcohol, or myelodysplasia). Iron accumulates in mitochondria around the nucleus of erythroblasts, producing pathognomonic 'ringed sideroblasts' on Prussian blue staining." },
+      { "text": "Beta-thalassemia minor", "explanation": "Incorrect. Thalassemia has NORMAL iron studies." },
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. ACD has HIGH ferritin but LOW transferrin saturation and NO ringed sideroblasts." },
+      { "text": "Alpha-thalassemia minor", "explanation": "Incorrect. Iron studies are normal in alpha-thal trait." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sideroblastic anemia: iron piles up in mitochondria → ringed sideroblasts. High ferritin + high transferrin sat. Causes: B6 deficiency, INH, lead, alcohol, MDS.",
+    "pdfPage": 16,
+    "pdfQuote": "sideroblastic anemia... ringed sideroblasts"
+  },
+  {
+    "id": 36,
+    "category": "Hematology: Iron Studies Differentiation",
+    "questionText": "Both iron deficiency anemia and anemia of chronic disease can be microcytic. Which laboratory value is MOST useful for distinguishing them?",
+    "options": [
+      { "text": "Mean corpuscular volume (MCV)", "explanation": "Incorrect. Both IDA and ACD can present with low or low-normal MCV; this does not reliably distinguish them." },
+      { "text": "Serum iron level", "explanation": "Incorrect. BOTH show low serum iron — IDA from depletion, ACD from sequestration. This is the classic 'trap' value." },
+      { "text": "Ferritin", "explanation": "Correct. Ferritin is the single most discriminating value: LOW in IDA (depleted stores) and HIGH or normal in ACD (an acute phase reactant trapped with iron in macrophages). This is the test of choice when both are on the differential." },
+      { "text": "Hemoglobin level", "explanation": "Incorrect. Hgb is low in both; severity does not differentiate them." },
+      { "text": "Red cell count", "explanation": "Incorrect. Both have low or normal-low RBC counts." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Ferritin LOW = IDA. Ferritin HIGH/normal = ACD. This is the workhorse discriminator when both are on the differential.",
+    "pdfPage": 13,
+    "pdfQuote": "ferritin"
+  },
+  {
+    "id": 37,
+    "category": "Hematology: RDW Interpretation",
+    "questionText": "Red cell distribution width (RDW) reflects the variation in red blood cell size. Elevated RDW most strongly supports which of the following microcytic anemias?",
+    "options": [
+      { "text": "Beta-thalassemia minor", "explanation": "Incorrect. Thalassemias have UNIFORMLY small RBCs, so RDW is typically NORMAL." },
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. RDW is usually normal in ACD." },
+      { "text": "Iron deficiency anemia", "explanation": "Correct. As iron deficiency develops gradually, the bone marrow produces cells of varying sizes (newer cells more microcytic than older cells still in circulation), producing anisocytosis and an elevated RDW. This is one of the earliest markers of IDA." },
+      { "text": "Alpha-thalassemia trait", "explanation": "Incorrect. Like beta-thalassemia minor, RDW is typically normal." },
+      { "text": "Lead poisoning", "explanation": "Incorrect. Lead poisoning typically does not significantly elevate RDW." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Elevated RDW (anisocytosis) is an early and sensitive marker of iron deficiency anemia, helping distinguish it from thalassemia (where RDW is normal).",
+    "pdfPage": 13,
+    "pdfQuote": "RDW is going to increase"
+  },
+  {
+    "id": 38,
+    "category": "Hematology: Anemia Classification",
+    "questionText": "Anemias are first classified by MCV. Which of the following anemias is correctly matched to its MCV category?",
+    "options": [
+      { "text": "Hereditary spherocytosis — microcytic", "explanation": "Incorrect. HS is normocytic; the cells are spherical (high MCHC) but not microcytic. The MCV is typically normal or slightly low." },
+      { "text": "B12 deficiency — microcytic", "explanation": "Incorrect. B12 deficiency causes MEGALOBLASTIC (macrocytic) anemia with MCV >100 fL." },
+      { "text": "Iron deficiency anemia — macrocytic", "explanation": "Incorrect. IDA is microcytic (MCV <80 fL)." },
+      { "text": "Folate deficiency — macrocytic", "explanation": "Correct. Folate deficiency, like B12 deficiency, causes megaloblastic macrocytic anemia (MCV >100 fL) due to impaired DNA synthesis." },
+      { "text": "Sickle cell anemia — macrocytic", "explanation": "Incorrect. Sickle cell is typically normocytic. Macrocytosis can occur due to reticulocytosis but is not characteristic." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Microcytic (<80): IDA, ACD, thal, sideroblastic, lead. Macrocytic (>100): B12, folate, liver disease, hypothyroid, MDS, reticulocytosis.",
+    "pdfPage": 11,
+    "pdfQuote": "MCV"
+  },
+  {
+    "id": 39,
+    "category": "Hematology: Reticulocyte Index",
+    "questionText": "A patient has an anemia with hemoglobin of 8 g/dL and a reticulocyte count of 1.5%. Which of the following best characterizes the bone marrow response?",
+    "options": [
+      { "text": "Adequate marrow response with hemolysis", "explanation": "Incorrect. A reticulocyte count of 1.5% in the setting of significant anemia represents an INADEQUATE response (corrected/RPI <2)." },
+      { "text": "Inadequate marrow response (hypoproliferative anemia)", "explanation": "Correct. An RPI <2% in the setting of anemia indicates a hypoproliferative anemia. The marrow is failing to compensate, suggesting causes like iron deficiency, B12/folate deficiency, ACD, aplastic anemia, or marrow infiltration." },
+      { "text": "Brisk hemolytic response", "explanation": "Incorrect. A hemolytic response would show a corrected reticulocyte count or RPI >2-3%, typically with the absolute reticulocyte count significantly elevated." },
+      { "text": "Acute blood loss with appropriate compensation", "explanation": "Incorrect. Acute blood loss would also show an elevated retic count once the marrow responds (~3-5 days later)." },
+      { "text": "Normal physiologic state", "explanation": "Incorrect. The patient has significant anemia (Hgb 8); the response is not normal." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Corrected retic count or RPI <2% = hypoproliferative (marrow problem). >2-3% = appropriate response to hemolysis or blood loss.",
+    "pdfPage": 12,
+    "pdfQuote": "reticulocyte"
+  },
+  {
+    "id": 40,
+    "category": "Hematology: Smear Findings",
+    "questionText": "Which red blood cell morphology is most specifically associated with iron deficiency anemia?",
+    "options": [
+      { "text": "Target cells", "explanation": "Incorrect. Target cells are characteristic of thalassemia, liver disease, HbC disease, and asplenia." },
+      { "text": "Basophilic stippling", "explanation": "Incorrect. Basophilic stippling is the hallmark of lead poisoning (and sometimes sideroblastic anemia)." },
+      { "text": "Hypochromic, microcytic cells with central pallor >1/3 of cell diameter", "explanation": "Correct. Iron deficiency anemia classically shows small (microcytic) RBCs with markedly increased central pallor and decreased color (hypochromia). The pallor reflects reduced hemoglobin content per cell." },
+      { "text": "Howell-Jolly bodies", "explanation": "Incorrect. Howell-Jolly bodies are nuclear remnants seen in functional asplenia." },
+      { "text": "Spherocytes", "explanation": "Incorrect. Spherocytes are seen in hereditary spherocytosis and autoimmune hemolytic anemia." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "IDA smear: hypochromic, microcytic RBCs with central pallor >1/3 of the cell diameter. The cells look like rings.",
+    "pdfPage": 13,
+    "pdfQuote": "hypochromic microcytic"
+  },
+  {
+    "id": 41,
+    "category": "Hematology: Microcytic Anemia Differentiation",
+    "questionText": "A 24-year-old of Southeast Asian descent has a microcytic anemia. Hemoglobin electrophoresis is NORMAL with normal HbA2 and normal HbF. Iron studies are normal. Which of the following anemias is most likely?",
+    "options": [
+      { "text": "Iron deficiency anemia", "explanation": "Incorrect. IDA would show LOW ferritin and HIGH TIBC; iron studies are normal here." },
+      { "text": "Beta-thalassemia minor", "explanation": "Incorrect. Beta-thal minor shows ELEVATED HbA2 on electrophoresis." },
+      { "text": "Alpha-thalassemia trait", "explanation": "Correct. Alpha-thal trait (2 gene deletion, common in Southeast Asians) presents with microcytosis and normal iron studies, but Hb electrophoresis is NORMAL because alpha chains are needed for HbA, HbA2, and HbF (all are affected proportionally)." },
+      { "text": "Sideroblastic anemia", "explanation": "Incorrect. Sideroblastic anemia shows HIGH ferritin and ringed sideroblasts in marrow." },
+      { "text": "Anemia of chronic disease", "explanation": "Incorrect. ACD shows high ferritin and low TIBC." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Alpha-thal trait: microcytic anemia + NORMAL iron studies + NORMAL Hb electrophoresis (the diagnosis of exclusion in the right ethnic group).",
+    "pdfPage": 18,
+    "pdfQuote": "alpha thalassemia"
+  },
+  {
+    "id": 42,
+    "category": "Hematology: Iron Studies",
+    "questionText": "Transferrin saturation is calculated as serum iron / TIBC × 100. Which value is most consistent with hereditary HEMOCHROMATOSIS rather than iron deficiency anemia?",
+    "options": [
+      { "text": "Transferrin saturation <10%", "explanation": "Incorrect. A low transferrin saturation (<15%) is the hallmark of iron deficiency anemia." },
+      { "text": "Transferrin saturation 20%", "explanation": "Incorrect. This is within the normal range (~20-50%)." },
+      { "text": "Transferrin saturation 30%", "explanation": "Incorrect. This is a normal value." },
+      { "text": "Transferrin saturation >45-50% (often >80%)", "explanation": "Correct. Hereditary hemochromatosis is characterized by IRON OVERLOAD — the transferrin saturation rises dramatically (often >80%) because excess iron is absorbed and saturates the transport protein. Ferritin is also markedly elevated." },
+      { "text": "Transferrin saturation that varies day to day with diet", "explanation": "Incorrect. While diet affects iron levels, this is not a diagnostic pattern." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Hemochromatosis: transferrin sat >45% (often >80%) + high ferritin. IDA: transferrin sat <15% + low ferritin.",
+    "pdfPage": 14,
+    "pdfQuote": "transferrin saturation"
+  },
+  {
+    "id": 43,
+    "category": "Hematology: Anemia Classification",
+    "questionText": "A 60-year-old with chronic kidney disease (GFR 18) presents with normocytic, normochromic anemia. Reticulocyte count is low. Iron studies are normal. What is the most likely underlying mechanism?",
+    "options": [
+      { "text": "Iron sequestration in macrophages from inflammation", "explanation": "Incorrect. This is ACD's mechanism; iron studies would show high ferritin and low TIBC." },
+      { "text": "Reduced erythropoietin production by failing kidneys", "explanation": "Correct. Anemia of CKD is primarily due to decreased erythropoietin (EPO) production by the diseased kidneys. The marrow lacks the signal to make RBCs, producing a hypoproliferative, normocytic anemia. Treatment is recombinant EPO (epoetin, darbepoetin)." },
+      { "text": "Autoantibodies against red cell membrane", "explanation": "Incorrect. This would cause autoimmune hemolytic anemia with positive Coombs test." },
+      { "text": "Impaired DNA synthesis in erythroid precursors", "explanation": "Incorrect. This describes megaloblastic anemia (B12 or folate deficiency), which is macrocytic." },
+      { "text": "Mechanical destruction of RBCs in microvasculature", "explanation": "Incorrect. This describes microangiopathic hemolytic anemia (TTP, HUS, DIC), which shows schistocytes." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Anemia of CKD = decreased EPO production. Normocytic anemia, low retic count, treat with recombinant EPO and ensure iron is adequate.",
+    "pdfPage": 15,
+    "pdfQuote": "erythropoietin"
+  },
+  {
+    "id": 44,
+    "category": "Hematology: Iron Deficiency Causes",
+    "questionText": "In an adult male or postmenopausal female, iron deficiency anemia must prompt investigation for which of the following until proven otherwise?",
+    "options": [
+      { "text": "Dietary insufficiency", "explanation": "Incorrect. In Western countries with iron-fortified foods, dietary IDA is uncommon in adults." },
+      { "text": "Occult GI blood loss (consider colon cancer)", "explanation": "Correct. New IDA in an adult male or postmenopausal woman is GI blood loss until proven otherwise — most concerning for colon cancer or other GI malignancy. Workup includes colonoscopy and upper endoscopy." },
+      { "text": "Menstrual blood loss", "explanation": "Incorrect. The patient described is male or postmenopausal; menstrual loss is not applicable." },
+      { "text": "Recent blood donation", "explanation": "Incorrect. Routine blood donation can contribute but should not be the primary working diagnosis without ruling out occult bleeding." },
+      { "text": "Anemia of chronic inflammation", "explanation": "Incorrect. ACD shows high ferritin, not low; the iron study pattern would be different." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "New IDA in an adult male or postmenopausal female = GI bleed until proven otherwise. Colonoscopy + upper endoscopy is mandatory.",
+    "pdfPage": 13,
+    "pdfQuote": "iron deficiency"
+  },
+  {
+    "id": 45,
+    "category": "Hematology: Hb Electrophoresis Differentiation",
+    "questionText": "Which Hb electrophoresis pattern is diagnostic of BETA-THALASSEMIA MAJOR?",
+    "options": [
+      { "text": "Normal HbA, normal HbA2, normal HbF", "explanation": "Incorrect. This is a normal pattern; thalassemia would be incorrect." },
+      { "text": "HbS predominant, low HbA, elevated HbF", "explanation": "Incorrect. This pattern is seen in sickle cell DISEASE (HbSS)." },
+      { "text": "Absent or markedly decreased HbA, markedly elevated HbF and HbA2", "explanation": "Correct. Beta-thal major is homozygous absence of beta-globin chains, so HbA (α2β2) is absent or very low. The body compensates by producing more HbA2 (α2δ2) and HbF (α2γ2), both of which are markedly elevated." },
+      { "text": "HbC and HbA equally present", "explanation": "Incorrect. This describes HbC trait." },
+      { "text": "HbS and HbC present with no HbA", "explanation": "Incorrect. This describes HbSC disease." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Beta-thal major: HbA absent → HbF and HbA2 markedly elevated. Patients require chronic transfusions and iron chelation.",
+    "pdfPage": 17,
+    "pdfQuote": "beta thalassemia major"
+  },
+  {
+    "id": 46,
+    "category": "Hematology: Lab Medicine — Hgb vs Hct",
+    "questionText": "A CBC reports Hb 14 g/dL, Hct 30%. By the 'rule of three,' the expected Hct should be approximately 42%. The discrepancy suggests what?",
+    "options": [
+      { "text": "Normal physiologic variation", "explanation": "Incorrect. The 'rule of three' (Hb × 3 = Hct) should hold in normal samples; a significant discrepancy is abnormal." },
+      { "text": "Likely lab error or hemolyzed/dehydrated sample requiring repeat", "explanation": "Correct. A significant violation of the 'rule of three' should raise suspicion for a pre-analytic or analytic error: hemolyzed sample (falsely high Hb from free hemoglobin), cold agglutinins, lipemia, paraproteins, or other interference. The first step is to REPEAT the CBC, often with a fresh sample." },
+      { "text": "Diagnostic of acute hemorrhage", "explanation": "Incorrect. Acute hemorrhage drops both Hb and Hct proportionally; the rule of three still holds." },
+      { "text": "Diagnostic of iron deficiency anemia", "explanation": "Incorrect. IDA would show low Hb AND low Hct in proportion." },
+      { "text": "Indicates the patient is well-hydrated", "explanation": "Incorrect. Hydration affects both values but should not break the rule of three." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Rule of Three: RBC × 3 = Hb, Hb × 3 = Hct. A broken rule means lab error, hemolysis, or interference — repeat the CBC.",
+    "pdfPage": 7,
+    "pdfQuote": "rule of three"
+  },
+  {
+    "id": 47,
+    "category": "Hematology: Iron Studies Differentiation",
+    "questionText": "A patient presents with both IRON DEFICIENCY and ANEMIA OF CHRONIC DISEASE (mixed picture). What single test most reliably identifies the iron deficiency component?",
+    "options": [
+      { "text": "TIBC", "explanation": "Incorrect. TIBC is often normal/low in ACD and may not be elevated even when iron deficiency coexists." },
+      { "text": "Serum iron", "explanation": "Incorrect. Serum iron is low in both conditions and is not discriminating." },
+      { "text": "Soluble transferrin receptor (sTfR) — elevated in iron deficiency, normal in ACD", "explanation": "Correct. Soluble transferrin receptor is upregulated in iron-deficient erythroid precursors but is NOT affected by inflammation, so it remains normal in pure ACD. An elevated sTfR (or sTfR/log ferritin ratio) helps detect concurrent iron deficiency in a patient with ACD." },
+      { "text": "Hemoglobin level", "explanation": "Incorrect. Hgb level does not distinguish causes of anemia." },
+      { "text": "Hepcidin level (always low in IDA)", "explanation": "Incorrect. While hepcidin is low in IDA and high in ACD, it is not routinely available clinically; sTfR is more practical." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "When IDA and ACD coexist (mixed picture), soluble transferrin receptor (sTfR) is the key test — elevated only in iron deficiency, unaffected by inflammation.",
+    "pdfPage": 14,
+    "pdfQuote": "transferrin receptor"
+  },
+  {
+    "id": 48,
+    "category": "Hematology: WBC Differential",
+    "questionText": "Which WBC differential pattern most strongly suggests a PARASITIC infection or ALLERGIC process rather than a bacterial infection?",
+    "options": [
+      { "text": "Neutrophilia with left shift", "explanation": "Incorrect. Neutrophilia with bands suggests acute BACTERIAL infection." },
+      { "text": "Lymphocytosis with atypical lymphocytes", "explanation": "Incorrect. This pattern is classic for viral infections, especially EBV mononucleosis." },
+      { "text": "Eosinophilia", "explanation": "Correct. Eosinophils are recruited in response to parasitic infections (especially helminths/tissue-invasive parasites), allergic reactions, drug hypersensitivity, and certain malignancies (Hodgkin, ALL). The mnemonic 'NAACP' (Neoplasm, Allergy, Asthma, Connective tissue, Parasites) covers the main causes." },
+      { "text": "Monocytosis", "explanation": "Incorrect. Monocytosis suggests chronic inflammation, TB, syphilis, or certain leukemias (CMML)." },
+      { "text": "Basophilia", "explanation": "Incorrect. Basophilia is classically associated with myeloproliferative disorders, especially CML." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Eosinophilia = NAACP (Neoplasm, Allergy/Asthma, Adrenal insufficiency, Connective tissue dz, Parasites). Bacterial infection causes NEUTROPHILIA, not eosinophilia.",
+    "pdfPage": 10,
+    "pdfQuote": "eosinophil"
+  },
+  {
+    "id": 49,
+    "category": "Hematology: Anemia Workup Algorithm",
+    "questionText": "The FIRST step in workup of any anemia (before iron studies, B12, etc.) is to classify by which TWO indices?",
+    "options": [
+      { "text": "Platelet count and WBC count", "explanation": "Incorrect. These are useful adjunct information but are not the primary classifiers of anemia type." },
+      { "text": "MCV and reticulocyte count (or RPI)", "explanation": "Correct. The standard approach is to (1) classify by MCV (microcytic <80, normocytic 80-100, macrocytic >100) and (2) assess marrow response with the reticulocyte count or reticulocyte production index. This narrows the differential efficiently before specific testing." },
+      { "text": "Hemoglobin level and hematocrit", "explanation": "Incorrect. These define the degree of anemia but do not classify its type." },
+      { "text": "Serum iron and ferritin", "explanation": "Incorrect. Iron studies are useful for microcytic anemias but are not the FIRST step before classification by MCV." },
+      { "text": "Bilirubin and LDH", "explanation": "Incorrect. These are markers of hemolysis but are not the initial classifier." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Anemia workup starts with MCV (size) + reticulocyte count (marrow response). These two indices narrow the differential before any specific assay.",
+    "pdfPage": 11,
+    "pdfQuote": "MCV... reticulocyte"
+  },
+  {
+    "id": 50,
+    "category": "Hematology: Macrocytic Anemia Differentiation",
+    "questionText": "Which of the following is the most common cause of NON-megaloblastic macrocytosis (macrocytic anemia WITHOUT hypersegmented neutrophils)?",
+    "options": [
+      { "text": "B12 deficiency", "explanation": "Incorrect. B12 deficiency is MEGALOBLASTIC and presents with hypersegmented neutrophils." },
+      { "text": "Folate deficiency", "explanation": "Incorrect. Folate deficiency is also MEGALOBLASTIC with hypersegmented neutrophils." },
+      { "text": "Liver disease and chronic alcoholism", "explanation": "Correct. Alcohol use and liver disease are the most common causes of non-megaloblastic macrocytosis. Mechanism: altered RBC membrane lipid composition. The smear does NOT show hypersegmented neutrophils. Other non-megaloblastic causes: hypothyroidism, reticulocytosis (immature RBCs are larger), and MDS." },
+      { "text": "Pernicious anemia", "explanation": "Incorrect. Pernicious anemia is autoimmune destruction of parietal cells → B12 deficiency → megaloblastic anemia." },
+      { "text": "Hereditary spherocytosis", "explanation": "Incorrect. HS is typically normocytic with spherocytes on smear." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Macrocytic anemia split: MEGALOBLASTIC (B12, folate — hypersegmented neutrophils) vs NON-megaloblastic (alcohol, liver dz, hypothyroid, reticulocytosis, MDS).",
+    "pdfPage": 15,
+    "pdfQuote": "macrocytic"
   }
 ];

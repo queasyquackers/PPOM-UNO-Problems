@@ -940,6 +940,326 @@ const Test_L152 = [
     "clinicalPearl": "Individuals with sickle cell trait are generally healthy but can experience microinfarctions and hematuria in the renal medulla.",
     "pdfPage": 40,
     "pdfQuote": "Sickling can still be present in the renal medulla"
+  },
+  {
+    "id": 31,
+    "category": "Hematology: Megaloblastic Differentiation",
+    "questionText": "B12 deficiency and folate deficiency both cause megaloblastic anemia. Which clinical feature is present in B12 deficiency but NOT in folate deficiency?",
+    "options": [
+      { "text": "Macrocytic RBCs with MCV >100", "explanation": "Incorrect. BOTH B12 and folate deficiency cause macrocytosis." },
+      { "text": "Hypersegmented neutrophils", "explanation": "Incorrect. BOTH cause hypersegmented neutrophils (>5 lobes)." },
+      { "text": "Subacute combined degeneration of the spinal cord (neurologic symptoms)", "explanation": "Correct. Neurologic symptoms — particularly loss of vibratory sensation and proprioception due to demyelination of dorsal columns and lateral corticospinal tracts — occur ONLY in B12 deficiency. Folate deficiency does NOT cause neurologic disease. This is why supplementing folate alone in undiagnosed B12 deficiency is dangerous: it corrects the anemia but allows neurologic damage to progress." },
+      { "text": "Elevated homocysteine", "explanation": "Incorrect. BOTH cause elevated homocysteine (both vitamins are required for the methionine synthase reaction that recycles homocysteine)." },
+      { "text": "Glossitis and angular cheilitis", "explanation": "Incorrect. BOTH can cause these epithelial/mucosal findings due to impaired DNA synthesis in rapidly dividing cells." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "B12 vs Folate: NEUROLOGIC symptoms (loss of vibration/proprioception, ataxia, dementia) occur ONLY in B12 deficiency. Never give folate alone without checking B12.",
+    "pdfPage": 12,
+    "pdfQuote": "subacute combined degeneration"
+  },
+  {
+    "id": 32,
+    "category": "Hematology: Megaloblastic Differentiation",
+    "questionText": "Which laboratory finding distinguishes B12 deficiency from folate deficiency in a patient with megaloblastic anemia?",
+    "options": [
+      { "text": "Elevated homocysteine", "explanation": "Incorrect. Elevated in BOTH B12 and folate deficiency." },
+      { "text": "Elevated methylmalonic acid (MMA)", "explanation": "Correct. MMA is elevated ONLY in B12 deficiency. The mechanism: B12 is a cofactor for methylmalonyl-CoA mutase (converts methylmalonyl-CoA → succinyl-CoA). When B12 is deficient, methylmalonyl-CoA accumulates and is converted to MMA. Folate is NOT involved in this pathway, so MMA stays normal in folate deficiency." },
+      { "text": "Decreased haptoglobin", "explanation": "Incorrect. Haptoglobin is a marker of intravascular hemolysis, not specific to B12/folate deficiency." },
+      { "text": "MCV >100 fL", "explanation": "Incorrect. Macrocytosis occurs in both." },
+      { "text": "Hypersegmented neutrophils", "explanation": "Incorrect. Present in both." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MMA elevated = B12 deficiency. MMA normal + homocysteine elevated = folate deficiency. Both cause macrocytosis and hypersegmented PMNs.",
+    "pdfPage": 11,
+    "pdfQuote": "methylmalonic acid"
+  },
+  {
+    "id": 33,
+    "category": "Hematology: B12 Deficiency Causes",
+    "questionText": "Which of the following is the most common cause of vitamin B12 deficiency in Western adults?",
+    "options": [
+      { "text": "Inadequate dietary intake (strict vegan diet)", "explanation": "Incorrect. While vegans are at risk, dietary deficiency is much less common than autoimmune causes in Western adults." },
+      { "text": "Pernicious anemia (autoimmune destruction of parietal cells)", "explanation": "Correct. Pernicious anemia is the most common cause of B12 deficiency. Autoantibodies target either parietal cells (producing intrinsic factor) or intrinsic factor itself, preventing B12 absorption in the terminal ileum. Associated with other autoimmune diseases and atrophic gastritis (risk for gastric cancer)." },
+      { "text": "Diphyllobothrium latum (fish tapeworm)", "explanation": "Incorrect. This causes B12 deficiency but is a rare cause limited to people who eat raw freshwater fish." },
+      { "text": "Crohn disease affecting the terminal ileum", "explanation": "Incorrect. This can cause B12 deficiency but is much less common than pernicious anemia." },
+      { "text": "Chronic pancreatitis", "explanation": "Incorrect. Pancreatic insufficiency can rarely impair B12 release from R-binder, but is an uncommon cause." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pernicious anemia = autoimmune destruction of parietal cells (or intrinsic factor) = #1 cause of B12 deficiency in Western adults.",
+    "pdfPage": 10,
+    "pdfQuote": "pernicious anemia"
+  },
+  {
+    "id": 34,
+    "category": "Hematology: Hemolytic Anemia Classification",
+    "questionText": "Hemolytic anemias are classified as INTRINSIC (intracorpuscular) or EXTRINSIC (extracorpuscular). Which of the following is an EXTRINSIC hemolytic anemia?",
+    "options": [
+      { "text": "Sickle cell disease", "explanation": "Incorrect. Sickle cell disease is INTRINSIC — the defect is in the hemoglobin molecule itself." },
+      { "text": "Hereditary spherocytosis", "explanation": "Incorrect. HS is INTRINSIC — the defect is in the RBC membrane proteins (spectrin, ankyrin, band 3)." },
+      { "text": "G6PD deficiency", "explanation": "Incorrect. G6PD deficiency is INTRINSIC — an enzyme defect within the RBC." },
+      { "text": "Autoimmune hemolytic anemia", "explanation": "Correct. AIHA is EXTRINSIC — the RBC itself is normal, but circulating antibodies (warm IgG or cold IgM) attack it from outside. Other extrinsic causes: microangiopathic hemolysis (TTP, HUS, DIC), mechanical (prosthetic valve), and infections (malaria, babesiosis)." },
+      { "text": "Paroxysmal nocturnal hemoglobinuria", "explanation": "Incorrect. PNH is INTRINSIC — PIGA mutation causes loss of GPI-anchored complement inhibitors (CD55, CD59), making cells susceptible to complement-mediated destruction." }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Intrinsic hemolysis = defect IN the cell (HS, G6PD, PK, SC, thal, PNH). Extrinsic = attack FROM OUTSIDE (AIHA, MAHA, mechanical, infection).",
+    "pdfPage": 25,
+    "pdfQuote": "intrinsic and extrinsic hemolytic"
+  },
+  {
+    "id": 35,
+    "category": "Hematology: AIHA Differentiation",
+    "questionText": "Warm autoimmune hemolytic anemia and cold autoimmune hemolytic anemia differ by antibody class. Which is correct?",
+    "options": [
+      { "text": "Warm AIHA = IgM; Cold AIHA = IgG", "explanation": "Incorrect. This is reversed." },
+      { "text": "Warm AIHA = IgG; Cold AIHA = IgM", "explanation": "Correct. Warm AIHA: IgG antibodies bind at body temperature, RBCs are opsonized and consumed in the SPLEEN (extravascular hemolysis); associated with SLE, CLL, drugs (methyldopa, penicillin). Cold AIHA: IgM antibodies bind at cold temperatures, fix complement, cause intravascular hemolysis; associated with Mycoplasma pneumoniae and EBV infections (post-infectious cold agglutinin disease)." },
+      { "text": "Both are IgG", "explanation": "Incorrect. Cold AIHA is classically IgM." },
+      { "text": "Both are IgM", "explanation": "Incorrect. Warm AIHA is classically IgG." },
+      { "text": "Warm AIHA is non-immune mediated", "explanation": "Incorrect. Both are immune-mediated (autoimmune)." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Warm = WAIHA = IgG, splenic destruction (SLE, CLL, drugs). Cold = CAIHA = IgM, complement-mediated (Mycoplasma, EBV).",
+    "pdfPage": 32,
+    "pdfQuote": "warm... cold autoimmune"
+  },
+  {
+    "id": 36,
+    "category": "Hematology: Direct vs Indirect Coombs",
+    "questionText": "What does a POSITIVE direct Coombs test (direct antiglobulin test, DAT) indicate?",
+    "options": [
+      { "text": "Antibodies are present in the patient's serum (not yet bound to RBCs)", "explanation": "Incorrect. This describes the INDIRECT Coombs test, used in pre-transfusion antibody screening and pregnancy/Rh workup." },
+      { "text": "Antibodies are already coating the patient's RBCs", "explanation": "Correct. The direct Coombs adds anti-IgG/anti-C3 reagent to the patient's washed RBCs. Agglutination indicates antibodies are already bound to the RBC surface, confirming immune-mediated hemolysis (warm AIHA, cold AIHA, drug-induced, hemolytic disease of newborn)." },
+      { "text": "The patient is iron deficient", "explanation": "Incorrect. Coombs has no role in iron deficiency workup." },
+      { "text": "The patient has hereditary spherocytosis", "explanation": "Incorrect. HS shows spherocytes but Coombs is NEGATIVE (the defect is intrinsic, not antibody-mediated). This is a key way to distinguish HS from AIHA, since both show spherocytes." },
+      { "text": "The RBC membrane lacks GPI-anchored proteins", "explanation": "Incorrect. This describes PNH, diagnosed by flow cytometry for CD55/CD59, not by Coombs." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "DIRECT Coombs (DAT) = antibodies ON the patient's RBCs (AIHA, drug-induced, HDN). INDIRECT Coombs = antibodies in serum (used for pretransfusion, Rh screening).",
+    "pdfPage": 33,
+    "pdfQuote": "direct Coombs"
+  },
+  {
+    "id": 37,
+    "category": "Hematology: Hereditary Spherocytosis vs AIHA",
+    "questionText": "Both hereditary spherocytosis (HS) and warm autoimmune hemolytic anemia (WAIHA) show spherocytes on smear. What is the single best test to distinguish them?",
+    "options": [
+      { "text": "MCV", "explanation": "Incorrect. Both can have small MCV due to RBC volume loss; MCHC is more useful (elevated in HS) but still not definitive." },
+      { "text": "Direct Coombs test", "explanation": "Correct. WAIHA: Coombs POSITIVE (IgG-coated RBCs). HS: Coombs NEGATIVE (the defect is intrinsic — spectrin/ankyrin/band 3 deficiency, not antibody mediated). The Coombs test is the single most useful discriminator." },
+      { "text": "Reticulocyte count", "explanation": "Incorrect. Both show reticulocytosis." },
+      { "text": "LDH", "explanation": "Incorrect. Both show elevated LDH from hemolysis." },
+      { "text": "Bilirubin", "explanation": "Incorrect. Both show elevated indirect bilirubin." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Spherocytes + POSITIVE Coombs = WAIHA. Spherocytes + NEGATIVE Coombs = HS (also look at osmotic fragility/EMA binding test).",
+    "pdfPage": 28,
+    "pdfQuote": "spherocytosis"
+  },
+  {
+    "id": 38,
+    "category": "Hematology: G6PD Deficiency",
+    "questionText": "A young man of African descent develops sudden hemolytic anemia after starting trimethoprim-sulfamethoxazole. Peripheral smear shows BITE CELLS and HEINZ BODIES. Which enzyme is deficient?",
+    "options": [
+      { "text": "Pyruvate kinase", "explanation": "Incorrect. PK deficiency causes chronic hemolytic anemia from birth without drug triggers; smear shows echinocytes." },
+      { "text": "Glucose-6-phosphate dehydrogenase (G6PD)", "explanation": "Correct. G6PD deficiency (X-linked recessive) impairs NADPH production, leaving RBCs unable to detoxify oxidative stress. Triggers: sulfa drugs, dapsone, primaquine, nitrofurantoin, fava beans, infection, DKA. Oxidized hemoglobin precipitates as HEINZ BODIES; splenic macrophages 'bite out' the precipitates leaving BITE CELLS." },
+      { "text": "Hexokinase", "explanation": "Incorrect. Hexokinase deficiency is rare and not the classic 'drug-induced hemolysis' enzyme." },
+      { "text": "Spectrin", "explanation": "Incorrect. Spectrin deficiency causes hereditary spherocytosis." },
+      { "text": "Glucose-6-phosphatase", "explanation": "Incorrect. G6Pase deficiency causes von Gierke disease (glycogen storage disease type I), not hemolytic anemia." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "G6PD deficiency: oxidative trigger (sulfa, primaquine, fava bean, infection) → Heinz bodies + bite cells. X-linked, most severe in Mediterranean variant.",
+    "pdfPage": 30,
+    "pdfQuote": "G6PD"
+  },
+  {
+    "id": 39,
+    "category": "Hematology: Intrinsic Hemolytic Anemias",
+    "questionText": "Which of the following describes pyruvate kinase (PK) deficiency?",
+    "options": [
+      { "text": "X-linked recessive; episodic hemolysis after oxidative stress", "explanation": "Incorrect. This describes G6PD deficiency." },
+      { "text": "Autosomal recessive; chronic hemolytic anemia from birth due to impaired ATP production in RBCs", "explanation": "Correct. PK deficiency (autosomal recessive) impairs the final step of glycolysis, reducing ATP production. Since RBCs have no mitochondria, they depend entirely on glycolysis for ATP — leading to chronic hemolytic anemia present from birth/infancy. Smear shows ECHINOCYTES (burr cells)." },
+      { "text": "Autosomal dominant; spherocytes; positive osmotic fragility test", "explanation": "Incorrect. This describes hereditary spherocytosis." },
+      { "text": "Acquired; PIGA mutation; CD55/CD59 deficiency", "explanation": "Incorrect. This describes PNH." },
+      { "text": "Autoimmune destruction triggered by Mycoplasma pneumoniae", "explanation": "Incorrect. This describes cold AIHA." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PK deficiency = autosomal recessive glycolysis defect → chronic hemolysis from birth → echinocytes/burr cells on smear.",
+    "pdfPage": 30,
+    "pdfQuote": "pyruvate kinase"
+  },
+  {
+    "id": 40,
+    "category": "Hematology: PNH",
+    "questionText": "A patient presents with dark urine in the morning, intravascular hemolysis, pancytopenia, and venous thrombosis (Budd-Chiari syndrome). Flow cytometry shows absence of CD55 and CD59. What is the diagnosis?",
+    "options": [
+      { "text": "Hereditary spherocytosis", "explanation": "Incorrect. HS does not cause intravascular hemolysis or CD55/CD59 loss." },
+      { "text": "Paroxysmal nocturnal hemoglobinuria", "explanation": "Correct. PNH is an acquired hematopoietic stem cell mutation in the PIGA gene, which produces the GPI anchor for membrane proteins including the complement inhibitors CD55 and CD59. Without these inhibitors, RBCs are destroyed by complement, causing intravascular hemolysis (worse at night/early morning when respiratory acidosis activates complement). Classic triad: hemolytic anemia, pancytopenia, venous thrombosis (especially hepatic veins → Budd-Chiari). Treat with eculizumab." },
+      { "text": "G6PD deficiency", "explanation": "Incorrect. G6PD causes episodic hemolysis after oxidative triggers, not the chronic intravascular pattern with thrombosis." },
+      { "text": "Warm autoimmune hemolytic anemia", "explanation": "Incorrect. WAIHA is extravascular and Coombs-positive; PNH is intravascular and CD55/CD59 negative on flow." },
+      { "text": "Sickle cell disease", "explanation": "Incorrect. Sickle cell shows characteristic sickled RBCs and a different presentation." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PNH triad: intravascular hemolysis (morning hemoglobinuria) + pancytopenia + venous thrombosis. Loss of CD55/CD59 on flow. Treat with eculizumab.",
+    "pdfPage": 31,
+    "pdfQuote": "paroxysmal nocturnal hemoglobinuria"
+  },
+  {
+    "id": 41,
+    "category": "Hematology: Sickle Cell Disease vs Trait",
+    "questionText": "Which is true of sickle cell TRAIT (HbAS) compared to sickle cell DISEASE (HbSS)?",
+    "options": [
+      { "text": "Trait causes severe chronic hemolytic anemia", "explanation": "Incorrect. Patients with trait are typically asymptomatic with normal hemoglobin levels." },
+      { "text": "Trait causes splenic infarction and autosplenectomy", "explanation": "Incorrect. These are complications of sickle cell DISEASE, not trait." },
+      { "text": "Trait is typically asymptomatic but can cause renal medullary issues (hematuria, isosthenuria)", "explanation": "Correct. Sickle trait (HbAS) heterozygotes are largely asymptomatic. However, the renal medulla's hypoxic, hypertonic, and acidic environment can still promote local sickling, causing painless hematuria and impaired urinary concentrating ability (isosthenuria). Rarely, exertion at high altitude can trigger vaso-occlusive episodes." },
+      { "text": "Trait shows HbS predominance on electrophoresis (>50%)", "explanation": "Incorrect. Trait shows HbA > HbS (typically ~60:40 HbA:HbS). Disease shows HbS predominant." },
+      { "text": "Trait requires hydroxyurea therapy", "explanation": "Incorrect. Hydroxyurea is for sickle cell DISEASE (to increase HbF and reduce vaso-occlusive crises)." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Sickle trait (HbAS): mostly asymptomatic, HbA predominant on EP, but watch for painless hematuria and isosthenuria due to renal medullary sickling.",
+    "pdfPage": 40,
+    "pdfQuote": "sickle cell trait"
+  },
+  {
+    "id": 42,
+    "category": "Hematology: Hemolytic Anemia Differentiation",
+    "questionText": "Which of the following indicates INTRAVASCULAR hemolysis rather than extravascular hemolysis?",
+    "options": [
+      { "text": "Splenomegaly with extravascular RBC destruction", "explanation": "Incorrect. This describes extravascular hemolysis (HS, WAIHA)." },
+      { "text": "Decreased haptoglobin and hemoglobinuria", "explanation": "Correct. Intravascular hemolysis releases free hemoglobin into the plasma. Haptoglobin binds the free Hb and is consumed (LOW haptoglobin). Once haptoglobin is saturated, free Hb is filtered into urine (HEMOGLOBINURIA — red/cola-colored urine without RBCs on micro). Classic causes: PNH, mechanical (prosthetic valve), microangiopathic (TTP, HUS, DIC), cold AIHA, malaria, transfusion reactions." },
+      { "text": "Indirect hyperbilirubinemia only", "explanation": "Incorrect. Both intra- and extravascular hemolysis raise indirect bilirubin." },
+      { "text": "Elevated LDH only", "explanation": "Incorrect. LDH is elevated in both types of hemolysis." },
+      { "text": "Reticulocytosis only", "explanation": "Incorrect. Reticulocytosis occurs in both." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Intravascular hemolysis = LOW haptoglobin + HEMOGLOBINURIA + hemosiderinuria. Extravascular = splenomegaly + indirect hyperbilirubinemia (haptoglobin only mildly low).",
+    "pdfPage": 26,
+    "pdfQuote": "intravascular hemolysis... haptoglobin"
+  },
+  {
+    "id": 43,
+    "category": "Hematology: MAHA Differentiation",
+    "questionText": "Microangiopathic hemolytic anemia (MAHA) shows SCHISTOCYTES on smear. Which condition is caused by ADAMTS13 deficiency leading to large vWF multimers and platelet microthrombi?",
+    "options": [
+      { "text": "DIC", "explanation": "Incorrect. DIC is widespread activation of coagulation with consumption of factors and platelets; not an ADAMTS13 defect." },
+      { "text": "HUS (typical, Shiga toxin-associated)", "explanation": "Incorrect. Typical HUS is caused by Shiga toxin from EHEC (O157:H7) damaging endothelium, particularly in children with bloody diarrhea." },
+      { "text": "TTP (thrombotic thrombocytopenic purpura)", "explanation": "Correct. TTP is caused by deficiency of ADAMTS13 (a metalloprotease that cleaves ultra-large von Willebrand factor multimers). Without it, vWF multimers accumulate and cause platelet aggregation/microthrombi in small vessels. Classic pentad: thrombocytopenia, MAHA, fever, neurologic symptoms, renal dysfunction (often incomplete). Treat with plasma exchange." },
+      { "text": "Hereditary spherocytosis", "explanation": "Incorrect. HS is an intrinsic membrane defect, not microangiopathic." },
+      { "text": "G6PD deficiency", "explanation": "Incorrect. G6PD causes oxidative hemolysis (Heinz bodies, bite cells), not schistocytes." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "TTP = ADAMTS13 deficiency → large vWF multimers → platelet microthrombi. Pentad: thrombocytopenia, MAHA, fever, neuro, renal. Plasma exchange.",
+    "pdfPage": 36,
+    "pdfQuote": "ADAMTS13"
+  },
+  {
+    "id": 44,
+    "category": "Hematology: HUS vs TTP",
+    "questionText": "A 5-year-old develops bloody diarrhea after eating at a fair, then 1 week later presents with renal failure, thrombocytopenia, and schistocytes. Which is the most likely diagnosis?",
+    "options": [
+      { "text": "TTP", "explanation": "Incorrect. TTP is more common in adults and typically has prominent neurologic symptoms rather than predominantly renal failure." },
+      { "text": "HUS (Shiga toxin-mediated)", "explanation": "Correct. The classic vignette: child + bloody diarrhea (often from E. coli O157:H7 EHEC, undercooked ground beef or unpasteurized juice) + later triad of MAHA + thrombocytopenia + acute KIDNEY injury. Shiga toxin damages endothelium primarily in the renal microvasculature. Predominantly RENAL > neuro is the key distinction from TTP." },
+      { "text": "DIC", "explanation": "Incorrect. DIC would show abnormal coagulation labs (low fibrinogen, elevated D-dimer, prolonged PT/PTT)." },
+      { "text": "ITP", "explanation": "Incorrect. ITP causes isolated thrombocytopenia without hemolysis or renal failure." },
+      { "text": "Pernicious anemia", "explanation": "Incorrect. PA causes megaloblastic anemia, not MAHA with renal failure." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "HUS: kids + bloody diarrhea (EHEC) → MAHA + thrombocytopenia + AKI. Mostly RENAL. TTP: adults + neurologic predominant.",
+    "pdfPage": 37,
+    "pdfQuote": "HUS"
+  },
+  {
+    "id": 45,
+    "category": "Hematology: Smear Findings Differentiation",
+    "questionText": "Which RBC smear finding is correctly matched to its disease?",
+    "options": [
+      { "text": "Heinz bodies — pernicious anemia", "explanation": "Incorrect. Heinz bodies (denatured hemoglobin precipitates) are seen in G6PD deficiency, not pernicious anemia." },
+      { "text": "Schistocytes — TTP, HUS, DIC, mechanical hemolysis", "explanation": "Correct. Schistocytes (fragmented helmet/triangle-shaped RBCs) are produced by mechanical shearing in microangiopathic hemolytic anemia (TTP, HUS, DIC, HELLP) or by mechanical destruction (prosthetic heart valve, malignant hypertension)." },
+      { "text": "Howell-Jolly bodies — iron deficiency", "explanation": "Incorrect. Howell-Jolly bodies (nuclear remnants) indicate functional asplenia (sickle cell with autosplenectomy, post-splenectomy)." },
+      { "text": "Basophilic stippling — folate deficiency", "explanation": "Incorrect. Basophilic stippling is classic for lead poisoning." },
+      { "text": "Target cells — autoimmune hemolytic anemia", "explanation": "Incorrect. Target cells appear in thalassemia, HbC disease, liver disease, and asplenia — not AIHA." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Schistocytes = MAHA (TTP/HUS/DIC) or mechanical hemolysis. The fragmentation pattern is pathognomonic.",
+    "pdfPage": 35,
+    "pdfQuote": "schistocytes"
+  },
+  {
+    "id": 46,
+    "category": "Hematology: HbC Disease",
+    "questionText": "An African-American patient has a chronic mild hemolytic anemia. Peripheral smear shows TARGET CELLS and crystalline INCLUSIONS in RBCs. Hemoglobin electrophoresis shows HbC only. Which is the diagnosis?",
+    "options": [
+      { "text": "Sickle cell disease (HbSS)", "explanation": "Incorrect. Sickle cell would show HbS predominance and sickled cells, not HbC crystals." },
+      { "text": "HbC disease (homozygous HbC)", "explanation": "Correct. HbC disease is a less severe hemoglobinopathy caused by a glutamate-to-lysine substitution at position 6 of beta-globin (vs glutamate-to-valine in HbS). It produces mild hemolytic anemia with target cells and characteristic intracellular HbC crystals. HbSC (compound heterozygous) is more severe than HbC alone but less severe than HbSS." },
+      { "text": "Beta-thalassemia minor", "explanation": "Incorrect. Beta-thal minor shows elevated HbA2 on electrophoresis, not HbC." },
+      { "text": "Alpha-thalassemia trait", "explanation": "Incorrect. Alpha-thal shows normal electrophoresis." },
+      { "text": "Hereditary spherocytosis", "explanation": "Incorrect. HS shows spherocytes, not target cells with crystals." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "HbC disease: glu→lys at β6 (vs glu→val in HbS). Mild hemolysis + target cells + HbC crystals on smear.",
+    "pdfPage": 41,
+    "pdfQuote": "HbC"
+  },
+  {
+    "id": 47,
+    "category": "Hematology: Aplastic Anemia",
+    "questionText": "Which of the following anemias is characterized by PANCYTOPENIA with a HYPOCELLULAR bone marrow (no infiltrate, no marrow fibrosis)?",
+    "options": [
+      { "text": "Iron deficiency anemia", "explanation": "Incorrect. IDA causes isolated anemia, not pancytopenia." },
+      { "text": "B12 deficiency", "explanation": "Incorrect. Severe B12 deficiency can cause pancytopenia, but the marrow is HYPERCELLULAR (megaloblastic) with ineffective hematopoiesis." },
+      { "text": "Aplastic anemia", "explanation": "Correct. Aplastic anemia is bone marrow failure producing pancytopenia with a markedly HYPOCELLULAR marrow (fatty replacement). Causes: idiopathic, drugs (chloramphenicol, carbamazepine, sulfa), benzene, radiation, parvovirus B19 (pure red cell aplasia), viral hepatitis. Treatment: immunosuppression (ATG, cyclosporine), allogeneic stem cell transplant." },
+      { "text": "Myelodysplastic syndrome", "explanation": "Incorrect. MDS shows pancytopenia but the marrow is typically HYPERCELLULAR with dysplastic morphology." },
+      { "text": "Sickle cell disease", "explanation": "Incorrect. Sickle cell causes hemolytic anemia with normal or hypercellular marrow (compensating)." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Aplastic anemia = PANCYTOPENIA + HYPOcellular marrow (fatty). MDS = pancytopenia + HYPERcellular marrow (dysplastic). Megaloblastic = pancytopenia + hypercellular (ineffective).",
+    "pdfPage": 23,
+    "pdfQuote": "aplastic anemia"
+  },
+  {
+    "id": 48,
+    "category": "Hematology: Bilirubin in Hemolysis",
+    "questionText": "Hemolytic anemias produce hyperbilirubinemia. Which fraction is elevated?",
+    "options": [
+      { "text": "Direct (conjugated) bilirubin only", "explanation": "Incorrect. Conjugated bilirubin elevation indicates hepatic or post-hepatic obstruction (cholestasis, hepatitis)." },
+      { "text": "Indirect (unconjugated) bilirubin", "explanation": "Correct. Hemolysis releases heme → unconjugated bilirubin overwhelms the liver's conjugation capacity → INDIRECT (unconjugated) hyperbilirubinemia. Classic pattern: indirect bili up, direct bili normal, no urinary bilirubin (unconjugated bili is bound to albumin and not filtered). Urobilinogen in urine may be increased." },
+      { "text": "Both direct and indirect equally", "explanation": "Incorrect. The pattern is predominantly INDIRECT in pure hemolysis." },
+      { "text": "Neither — bilirubin is normal in hemolysis", "explanation": "Incorrect. Hemolysis classically elevates bilirubin." },
+      { "text": "Bilirubin levels do not change in hemolysis", "explanation": "Incorrect. They do change — they rise (indirect)." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Hemolysis → INDIRECT (unconjugated) hyperbilirubinemia. Direct bili and urinary bili are normal. Urobilinogen may rise.",
+    "pdfPage": 26,
+    "pdfQuote": "indirect bilirubin"
+  },
+  {
+    "id": 49,
+    "category": "Hematology: Anemia of Pregnancy",
+    "questionText": "Which megaloblastic anemia risk is specifically increased in pregnancy?",
+    "options": [
+      { "text": "B12 deficiency from impaired absorption", "explanation": "Incorrect. Pregnancy does not classically impair B12 absorption; B12 stores last years." },
+      { "text": "Folate deficiency from increased demand", "explanation": "Correct. Folate stores are small (only ~3-month supply) and rapidly dividing fetal/placental cells massively increase demand. Folate deficiency in pregnancy → megaloblastic anemia AND neural tube defects in the fetus (spina bifida, anencephaly). Hence universal folate supplementation (400-800 mcg/day) before/during pregnancy is standard of care." },
+      { "text": "Iron deficiency only", "explanation": "Incorrect. Iron deficiency is common in pregnancy but is microcytic, not megaloblastic." },
+      { "text": "Aplastic anemia", "explanation": "Incorrect. Pregnancy does not specifically increase aplastic anemia risk." },
+      { "text": "G6PD deficiency", "explanation": "Incorrect. G6PD deficiency is genetic; pregnancy does not cause it." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pregnancy = high risk for FOLATE deficiency (small stores + high demand). Folate supplementation pre-pregnancy prevents NTDs.",
+    "pdfPage": 9,
+    "pdfQuote": "folate"
+  },
+  {
+    "id": 50,
+    "category": "Hematology: Hereditary Spherocytosis",
+    "questionText": "Hereditary spherocytosis is caused by a defect in which class of RBC proteins?",
+    "options": [
+      { "text": "Glycolytic enzymes (hexokinase, pyruvate kinase)", "explanation": "Incorrect. These cause PK deficiency and similar enzymopathies, not HS." },
+      { "text": "Membrane cytoskeletal proteins (spectrin, ankyrin, band 3, protein 4.2)", "explanation": "Correct. HS is caused by mutations in proteins that link the RBC membrane to the underlying cytoskeleton — most commonly ankyrin, followed by spectrin, band 3, and protein 4.2. Without these proper anchors, the membrane buds off, RBCs lose surface area, become spherical, and are trapped/destroyed in the spleen. Diagnosed by osmotic fragility test or EMA-binding flow cytometry. Treat with splenectomy in severe cases." },
+      { "text": "Hemoglobin alpha chains", "explanation": "Incorrect. Alpha-chain defects cause alpha-thalassemia." },
+      { "text": "Hemoglobin beta chains", "explanation": "Incorrect. Beta-chain defects cause sickle cell or beta-thalassemia." },
+      { "text": "GPI-anchored complement inhibitors (CD55, CD59)", "explanation": "Incorrect. These are deficient in PNH, not HS." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "HS = membrane cytoskeleton defect (spectrin, ankyrin, band 3, protein 4.2) → spherocytes → splenic destruction. Treat with splenectomy if severe.",
+    "pdfPage": 28,
+    "pdfQuote": "spherocytosis"
   }
 ];
 
