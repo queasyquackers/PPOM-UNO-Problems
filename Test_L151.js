@@ -102,8 +102,8 @@ window.Test_L151 = [
         "explanation": "Incorrect. This is not the mechanism of microcytosis."
       },
       {
-        "text": "Erythroblasts undergo an extra cell division to maintain a specific hemoglobin-to-cytoplasm ratio",
-        "explanation": "Correct. Progenitor cells in the marrow aim for a fixed concentration of hemoglobin. If hemoglobin production is low, the cells divide more times than normal, resulting in smaller (microcytic) daughter cells."
+        "text": "Erythroblasts undergo an extra cell division",
+        "explanation": "Correct. Progenitor cells in the marrow aim for a fixed hemoglobin-to-cytoplasm ratio. If hemoglobin production is low, the cells divide more times than normal, resulting in smaller (microcytic) daughter cells."
       },
       {
         "text": "The spleen prematurely removes large RBCs, leaving only small ones",
@@ -319,8 +319,8 @@ window.Test_L151 = [
         "explanation": "Incorrect. Spatial arrangement determines inheritance."
       },
       {
-        "text": "Cis configuration carries a higher risk of passing no alpha genes to an offspring",
-        "explanation": "Correct. In the 'cis' configuration (--/aa), he can pass on a chromosome with zero alpha genes. If the mother is also a carrier, the child could inherit zero genes total, leading to Hb Barts."
+        "text": "Cis configuration carries a higher risk",
+        "explanation": "Correct. The cis pattern allows passing no alpha genes to an offspring. In the 'cis' configuration (--/aa), he can pass on a chromosome with zero alpha genes. If the mother is also a carrier, the child could inherit zero genes total, leading to Hb Barts."
       },
       {
         "text": "Trans configuration is more severe for the father",
@@ -354,8 +354,8 @@ window.Test_L151 = [
         "explanation": "Incorrect. Acute loss would still trigger a rise over several days."
       },
       {
-        "text": "The bone marrow is failing to produce red cells, suggesting a lack of 'building blocks' or marrow damage",
-        "explanation": "Correct. In anemia, a healthy marrow should increase reticulocytes (> 3%). A count of 0.5% indicates the marrow is failing to respond."
+        "text": "The bone marrow is failing to produce red cells",
+        "explanation": "Correct. This suggests a lack of 'building blocks' or marrow damage. In anemia, a healthy marrow should increase reticulocytes (> 3%). A count of 0.5% indicates the marrow is failing to respond."
       },
       {
         "text": "The patient is likely experiencing severe intravascular hemolysis",
@@ -536,7 +536,7 @@ window.Test_L151 = [
         "explanation": "Incorrect. Lead causes stippling."
       },
       {
-        "text": "There is a decrease in hemoglobin volume relative to the cell's surface area",
+        "text": "Hemoglobin volume is decreased relative to surface area",
         "explanation": "Correct. Target cells form when the cell contains less hemoglobin (low volume), causing the membrane to collapse in the center."
       },
       {
@@ -770,7 +770,7 @@ window.Test_L151 = [
     "options": [
       { "text": "Target cells", "explanation": "Incorrect. Target cells are characteristic of thalassemia, liver disease, HbC disease, and asplenia." },
       { "text": "Basophilic stippling", "explanation": "Incorrect. Basophilic stippling is the hallmark of lead poisoning (and sometimes sideroblastic anemia)." },
-      { "text": "Hypochromic, microcytic cells with central pallor >1/3 of cell diameter", "explanation": "Correct. Iron deficiency anemia classically shows small (microcytic) RBCs with markedly increased central pallor and decreased color (hypochromia). The pallor reflects reduced hemoglobin content per cell." },
+      { "text": "Hypochromic microcytic cells", "explanation": "Correct. Iron deficiency anemia classically shows small (microcytic) RBCs with markedly increased central pallor (>1/3 of cell diameter) and decreased color (hypochromia). The pallor reflects reduced hemoglobin content per cell." },
       { "text": "Howell-Jolly bodies", "explanation": "Incorrect. Howell-Jolly bodies are nuclear remnants seen in functional asplenia." },
       { "text": "Spherocytes", "explanation": "Incorrect. Spherocytes are seen in hereditary spherocytosis and autoimmune hemolytic anemia." }
     ],
@@ -850,7 +850,7 @@ window.Test_L151 = [
     "options": [
       { "text": "Normal HbA, normal HbA2, normal HbF", "explanation": "Incorrect. This is a normal pattern; thalassemia would be incorrect." },
       { "text": "HbS predominant, low HbA, elevated HbF", "explanation": "Incorrect. This pattern is seen in sickle cell DISEASE (HbSS)." },
-      { "text": "Absent or markedly decreased HbA, markedly elevated HbF and HbA2", "explanation": "Correct. Beta-thal major is homozygous absence of beta-globin chains, so HbA (α2β2) is absent or very low. The body compensates by producing more HbA2 (α2δ2) and HbF (α2γ2), both of which are markedly elevated." },
+      { "text": "Absent HbA, elevated HbF and HbA2", "explanation": "Correct. Beta-thal major is homozygous absence of beta-globin chains, so HbA (α2β2) is absent or very low. The body compensates by producing more HbA2 (α2δ2) and HbF (α2γ2), both of which are markedly elevated." },
       { "text": "HbC and HbA equally present", "explanation": "Incorrect. This describes HbC trait." },
       { "text": "HbS and HbC present with no HbA", "explanation": "Incorrect. This describes HbSC disease." }
     ],
@@ -865,7 +865,7 @@ window.Test_L151 = [
     "questionText": "A CBC reports Hb 14 g/dL, Hct 30%. By the 'rule of three,' the expected Hct should be approximately 42%. The discrepancy suggests what?",
     "options": [
       { "text": "Normal physiologic variation", "explanation": "Incorrect. The 'rule of three' (Hb × 3 = Hct) should hold in normal samples; a significant discrepancy is abnormal." },
-      { "text": "Likely lab error or hemolyzed/dehydrated sample requiring repeat", "explanation": "Correct. A significant violation of the 'rule of three' should raise suspicion for a pre-analytic or analytic error: hemolyzed sample (falsely high Hb from free hemoglobin), cold agglutinins, lipemia, paraproteins, or other interference. The first step is to REPEAT the CBC, often with a fresh sample." },
+      { "text": "Likely lab error; repeat the sample", "explanation": "Correct. A significant violation of the 'rule of three' should raise suspicion for a pre-analytic or analytic error such as a hemolyzed or dehydrated sample (falsely high Hb from free hemoglobin), cold agglutinins, lipemia, paraproteins, or other interference. The first step is to REPEAT the CBC, often with a fresh sample." },
       { "text": "Diagnostic of acute hemorrhage", "explanation": "Incorrect. Acute hemorrhage drops both Hb and Hct proportionally; the rule of three still holds." },
       { "text": "Diagnostic of iron deficiency anemia", "explanation": "Incorrect. IDA would show low Hb AND low Hct in proportion." },
       { "text": "Indicates the patient is well-hydrated", "explanation": "Incorrect. Hydration affects both values but should not break the rule of three." }
@@ -882,7 +882,7 @@ window.Test_L151 = [
     "options": [
       { "text": "TIBC", "explanation": "Incorrect. TIBC is often normal/low in ACD and may not be elevated even when iron deficiency coexists." },
       { "text": "Serum iron", "explanation": "Incorrect. Serum iron is low in both conditions and is not discriminating." },
-      { "text": "Soluble transferrin receptor (sTfR) — elevated in iron deficiency, normal in ACD", "explanation": "Correct. Soluble transferrin receptor is upregulated in iron-deficient erythroid precursors but is NOT affected by inflammation, so it remains normal in pure ACD. An elevated sTfR (or sTfR/log ferritin ratio) helps detect concurrent iron deficiency in a patient with ACD." },
+      { "text": "Soluble transferrin receptor (sTfR)", "explanation": "Correct. Soluble transferrin receptor is elevated in iron deficiency and normal in ACD. It is upregulated in iron-deficient erythroid precursors but is NOT affected by inflammation, so it remains normal in pure ACD. An elevated sTfR (or sTfR/log ferritin ratio) helps detect concurrent iron deficiency in a patient with ACD." },
       { "text": "Hemoglobin level", "explanation": "Incorrect. Hgb level does not distinguish causes of anemia." },
       { "text": "Hepcidin level (always low in IDA)", "explanation": "Incorrect. While hepcidin is low in IDA and high in ACD, it is not routinely available clinically; sTfR is more practical." }
     ],

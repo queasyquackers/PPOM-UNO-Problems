@@ -5,7 +5,7 @@ window.Test_L182 = [
     "questionText": "A 68-year-old man presents to clinic with multiple skin lesions that he has noted have appeared gradually on his back and trunk over the past several years. On examination, the lesions are well-demarcated, round, flat plaques varying in size, uniform tan to brown in color, with a velvety surface, and appear to be 'stuck on' to the skin (some can be peeled off). Histopathology of one lesion shows sheets of benign basaloid cells with exuberant surface hyperkeratosis and small keratin-filled cysts. Based on the lecturer's description, which of the following statements about this lesion is most accurate?",
     "options": [
       {
-        "text": "It is a benign epithelial tumor (seborrheic keratosis); activating mutations in FGFR3 (a receptor tyrosine kinase) are found in many of these lesions and are thought to play a role in development.",
+        "text": "It is a benign epithelial tumor (seborrheic keratosis) with activating FGFR3 mutations.",
         "explanation": "Correct. The lecturer specifically described seborrheic keratosis (SK) as a common, benign, spontaneously arising epithelial tumor most frequent in middle-aged or older individuals. Clinically: well-demarcated, round, flat plaques of variable size, uniform tan to brown color, velvety surface, with the characteristic 'stuck on' appearance that can be peeled off. Histopathology shows sheets of benign basaloid cells with exuberant keratin production (hyperkeratosis) at the surface and small keratin-filled CYSTS called HORN CYSTS. Activating mutations in FGFR3 (a receptor tyrosine kinase) are found in many SKs and thought to play a role in their development. The lecturer also taught the LESER-TRELAT sign — sudden rapid increase in number of SKs as a paraneoplastic marker for underlying adenocarcinomas (gastric, colon, pancreatic)."
       },
       {
@@ -44,7 +44,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. While metformin is appropriate when acanthosis nigricans reflects insulin resistance from obesity/T2DM, this patient has no obesity or diabetes and has B symptoms suggesting malignancy. Treating insulin resistance alone would miss the underlying cancer. This would be the correct answer if the patient had obesity-related acanthosis nigricans without alarm features."
       },
       {
-        "text": "Initiate evaluation for an underlying malignancy, particularly gastrointestinal adenocarcinoma, given new onset in a middle-aged patient with weight loss and abdominal pain.",
+        "text": "Evaluate for underlying malignancy, particularly GI adenocarcinoma (paraneoplastic form).",
         "explanation": "Correct. The lecturer specifically taught that acanthosis nigricans can be an important cutaneous sign of an underlying malignant condition: ~20% of cases are malignant (paraneoplastic), typically in middle-aged and older individuals, with underlying ADENOCARCINOMA (often GI). The patient's age (55), new onset of velvety thickened hyperpigmented skin in flexural areas, ABSENCE of obesity/diabetes (the typical drivers of benign form), and B symptoms (20-lb unintentional weight loss, abdominal pain) all argue strongly for the paraneoplastic form, and prompt malignancy workup (especially GI) is warranted. Pathogenesis is thought to involve increased growth factors (FGFR3, IGFR-1, EGFR)."
       },
       {
@@ -83,7 +83,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. BCC presents as pearly papules with telangiectasias and rolled borders, not sandpapery scaly papules; histology shows nests resembling basal layer with peripheral palisading, not basal cell atypia with solar elastosis as the defining feature. This would be the correct answer if the lesion were a pearly papule with telangiectasias and rolled borders."
       },
       {
-        "text": "These lesions are actinic keratoses (premalignant squamous dysplasia from UV exposure); 1–10% progress to squamous cell carcinoma; treatment options include curettage, cryotherapy, or topical 5-FU or imiquimod.",
+        "text": "These are actinic keratoses (premalignant UV-induced squamous dysplasia); 1–10% progress to SCC.",
         "explanation": "Correct. The lecturer specifically described actinic keratosis (AK) as a PREMALIGNANT epithelial tumor with SQUAMOUS DYSPLASIA, caused by chronic UV exposure on sun-exposed areas; most often in lightly pigmented patients. Clinically: small (<1 cm), rough sandpapery consistency, flesh-colored/red/tan-brown. Histopathology: basal layer cell atypia, hyperkeratosis, parakeratosis, and SOLAR ELASTOSIS (grey-blue thickening of superficial dermis from damaged collagen/elastin — abnormal ECM from sun-damaged fibroblasts). AKs are well-known precursors to SCC: 1–10% progress to SCC, and full-thickness atypia heralds SCC in-situ. Treatment: curettage/freezing or topical chemotherapeutics (5-fluorouracil, imiquimod). Sometimes so much keratin is produced that a 'cutaneous horn' develops."
       }
     ],
@@ -102,7 +102,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. FGFR3 activating mutations are described in seborrheic keratosis (benign), not basal cell carcinoma. This would be the correct answer if the lesion were a 'stuck on' tan plaque with horn cysts on histology."
       },
       {
-        "text": "Loss-of-function mutations in PTCH1 (the receptor for sonic hedgehog) → inability to repress SMO → ↑ transcription factor GLI1 → tumor growth (Hedgehog pathway activation).",
+        "text": "PTCH1 loss-of-function → unrepressed SMO → ↑GLI1 → Hedgehog pathway activation and tumor growth.",
         "explanation": "Correct. The lecturer specifically taught that BCC is associated with mutations that ACTIVATE the HEDGEHOG SIGNALING PATHWAY. Specifically, loss-of-function mutations in PTCH1 (the receptor for sonic hedgehog, SHH) lead to inability to repress the transmembrane protein SMO → increased transcription factor GLI1 → tumor growth. The genetic syndrome associated with hereditary PTCH1 mutations is GORLIN SYNDROME, with increased incidence of BCCs. BCC is the most common cancer in humans (~2+ million new cases per year), most commonly on UV-exposed areas in lightly pigmented patients, very slow growing, rarely metastasizes. Treatment: surgical excision (wide local or Mohs), cryotherapy, or topical imiquimod/5-FU."
       },
       {
@@ -141,7 +141,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Melanoma is a melanocytic neoplasm with ABCDE features and BRAF/NRAS/KIT mutations — not the squamous cell architecture with keratin pearls. This would be the correct answer if the lesion were a pigmented asymmetric mole with vertical growth and dermal mitoses on histology."
       },
       {
-        "text": "This is squamous cell carcinoma (SCC); UV exposure is the most important cause; immunosuppression increases risk; histology shows keratin pearls and intercellular bridging.",
+        "text": "This is squamous cell carcinoma (SCC); UV is the dominant cause; immunosuppression raises risk.",
         "explanation": "Correct. The lecturer specifically described SCC as the second most common cancer in the world (>1.5 million US cases annually), older patients (M>W), most importantly caused by DNA damage from UV exposure, with risk roughly proportional to lifetime sun exposure. Other risk factors: industrial carcinogens (tars/oils), chronic ulcers, draining osteomyelitis, old burn scars, arsenical ingestion, ionizing radiation, oral tobacco. Patients on IMMUNOSUPPRESSION (such as transplant recipients) have INCREASED risk. Pathogenesis: p53 dysfunction is high in AK in Caucasians (early event); UV light damages DNA and causes immunosuppression to Langerhans cells. Histopathology of invasive lesions: marked hyperkeratosis, KERATIN PEARLS, intercellular bridging, nodules, and ulceration. SCC has low rates of invasion/metastasis with good prognosis overall."
       },
       {
@@ -199,7 +199,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. The correct sequence per the lecturer begins with junctional, then compound, then intradermal — not starting at compound. This would be the correct answer if the maturation began at compound rather than junctional."
       },
       {
-        "text": "Junctional nevus → Compound nevus → Intradermal nevus (melanocytes move from dermo-epidermal junction into the dermis with maturation).",
+        "text": "Junctional nevus → Compound nevus → Intradermal nevus.",
         "explanation": "Correct. The lecturer specifically described the maturation sequence of nondysplastic melanocytic nevi as JUNCTIONAL (melanocyte nests at the dermo-epidermal junction) → COMPOUND (nests at both the DEJ AND in the dermis) → INTRADERMAL (nests entirely within the dermis). The progression reflects melanocytes that begin at the dermo-epidermal junction and migrate deeper into the dermis as the nevus matures over time. This is the standard maturation pattern of benign acquired moles, in contrast to dysplastic nevi which show bridging of melanocyte nests across rete ridges and cellular atypia."
       },
       {
@@ -257,7 +257,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Vertical growth involves deep dermal invasion with raised/nodular component, which this lesion lacks. This would be the correct answer if the lesion had a raised nodular component with deep dermal invasion."
       },
       {
-        "text": "This is radial growth phase melanoma; melanoma cells have not yet invaded deeply into the dermis; better prognosis than vertical growth phase due to reduced access to blood and lymphatic vessels.",
+        "text": "Radial growth phase melanoma; no deep dermal invasion yet; better prognosis than vertical phase.",
         "explanation": "Correct. The lecturer specifically defined two melanoma growth phases: RADIAL GROWTH = grows along the dermo-epidermal junction; a few cells may invade papillary dermis; can remain in this phase for MONTHS to YEARS. VERTICAL GROWTH = invades into dermis; correlates with raised areas of lesions; PROXIMITY to lymph and blood vessels (avenues for metastasis) → POOR PROGNOSIS. The case description (horizontal growth along the DEJ, only a few cells in the papillary dermis, no raised/nodular component) fits the radial growth phase, which carries a relatively better prognosis because the deep penetration enabling lymphovascular invasion has not yet occurred. Superficial spreading melanoma (most common subtype) has a long radial growth phase and the best prognosis; nodular melanoma and acral lentiginous melanoma have early vertical growth and poorer prognoses."
       },
       {
@@ -296,7 +296,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Nodular melanoma has rapid radial growth WITH early vertical growth and poorer prognosis, but lacks the palmar/plantar/subungual distribution and racial predilection of acral lentiginous melanoma. This would be the correct answer if the lesion presented as a rapidly growing nodule without the palmar/plantar/subungual distribution."
       },
       {
-        "text": "Acral lentiginous melanoma — most common subtype in non-white patients; predilection for palms, soles, and subungual sites; early vertical growth with poor prognosis from delayed recognition.",
+        "text": "Acral lentiginous melanoma — most common in non-white patients; palms, soles, subungual sites.",
         "explanation": "Correct. The lecturer specifically described acral lentiginous melanoma as MOST COMMON in NON-WHITE patients, with predilection for PALMS, SOLES, and SUBUNGUAL sites. It is characterized by EARLY VERTICAL GROWTH and POOR PROGNOSIS due to delayed recognition (in part because patients and clinicians may not consider melanoma in these locations, and the diagnosis is often made at a thicker Breslow depth). The patient's age, race, sole location, and biopsy with early vertical growth match this subtype precisely. Recognizing the predilection of acral lentiginous melanoma for these atypical locations in non-white patients is critical to reduce diagnostic delay."
       },
       {
@@ -389,7 +389,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Blue nevus is a firm dark-blue/grey-black nodule with sharp borders due to dermal melanocyte proliferation, but does not have a depigmented halo. This would be the correct answer if the lesion were a dark blue-black nodule without a surrounding halo."
       },
       {
-        "text": "Halo nevus — depigmented halo (leukoderma) around a central nevus, due to an autoimmune response against melanocytes at the dermo-epidermal junction; can occur with vitiligo or indicate incipient vitiligo.",
+        "text": "Halo nevus — depigmented (leukoderma) halo around a nevus from autoimmune attack on DEJ melanocytes.",
         "explanation": "Correct. The lecturer specifically described halo nevus as marked by a HALO of depigmentation (LEUKODERMA) surrounding a central nevus, due to an AUTOIMMUNE response against melanocytes at the dermo-epidermal junction. Halo nevi can occur in vitiligo and can INDICATE INCIPIENT VITILIGO — this patient's recent onset of depigmentation patch on her hand supports an evolving vitiligo process. The clinical association is high-yield because the appearance of a halo around a mole in a young patient prompts evaluation for concomitant vitiligo and discussion of natural history."
       },
       {
@@ -412,7 +412,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Seborrheic keratoses are 'stuck-on' tan-brown velvety plaques with histology of basaloid sheets and horn cysts — not pedunculated stalk-attached papules with fibrovascular cores. This would be the correct answer if the lesion were a flat 'stuck-on' tan/brown plaque with horn cysts on histology."
       },
       {
-        "text": "Fibroepithelial polyp (skin tag/acrochordon/squamous papilloma); associated with diabetes, obesity, intestinal polyposis; may increase in number during pregnancy due to hormonal stimulation.",
+        "text": "Fibroepithelial polyp (skin tag/acrochordon); linked to diabetes, obesity, polyposis.",
         "explanation": "Correct. The lecturer specifically described fibroepithelial polyp (also called acrochordon, squamous papilloma, or skin tag) as a very common cutaneous lesion in middle- to older-age patients, often in groups on the neck, trunk, face, and intertriginous areas, attached by a small thin stalk. It is occasionally associated with DIABETES, OBESITY, and INTESTINAL POLYPOSIS, and may become MORE NUMEROUS during PREGNANCY due to hormonal stimulation. Histopathology shows a FIBROVASCULAR CORE covered by benign squamous epithelium. The patient's distribution (neck, axillae, inframammary), pregnancy-related increase, and histology all fit."
       },
       {
@@ -455,7 +455,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. While XP is a hereditary syndrome with markedly increased skin cancers (including BCC, SCC, and melanoma), the lecturer specifically named GORLIN SYNDROME as the PTCH1/Hedgehog-pathway-associated syndrome for multiple early-onset BCCs. XP would not be the answer expected from the lecturer's framework. This would be the correct answer if the question specifically asked about a DNA repair defect syndrome with photosensitivity from infancy."
       },
       {
-        "text": "Gorlin syndrome — autosomal dominant PTCH1 mutation with loss of function → Hedgehog pathway activation (SMO unrepressed → ↑GLI1) → increased incidence of multiple BCCs at an early age.",
+        "text": "Gorlin syndrome — autosomal dominant PTCH1 loss-of-function → Hedgehog activation → multiple early BCCs.",
         "explanation": "Correct. The lecturer specifically named GORLIN SYNDROME as a PTCH1 mutation syndrome (loss of function in PTCH1, the receptor for sonic hedgehog) causing increased incidence of multiple BCCs. The mechanism is loss of PTCH1's normal repression of SMO → unrepressed SMO → increased transcription factor GLI1 → tumor growth (Hedgehog pathway activation). The young patient's multiple BCCs with a strong family history of similar early-onset BCCs (and the classic associated features of palmar/plantar pits and skeletal abnormalities) fit Gorlin syndrome. Recognizing this is important because patients need lifelong surveillance and may benefit from Hedgehog pathway inhibitors when multiple BCCs are present."
       }
     ],
@@ -478,7 +478,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Nikolsky sign is lateral sliding of the epidermis with applied pressure (seen in pemphigus and SJS/TEN), not a sudden eruption of SKs. This would be the correct answer if the patient had mucocutaneous blistering with epidermal sliding on pressure."
       },
       {
-        "text": "This finding represents Leser-Trelat sign — a paraneoplastic syndrome marked by a sudden rapid increase in number of seborrheic keratoses, serving as a cutaneous marker for underlying adenocarcinomas (gastric, colon, pancreatic).",
+        "text": "Leser-Trelat sign — sudden eruption of seborrheic keratoses; paraneoplastic marker for GI adenocarcinoma.",
         "explanation": "Correct. The lecturer specifically described the LESER-TRELAT SIGN as a PARANEOPLASTIC SYNDROME characterized by a sudden RAPID INCREASE in NUMBER of seborrheic keratoses, serving as a CUTANEOUS MARKER for underlying ADENOCARCINOMAS (GASTRIC, COLON, PANCREATIC). The patient's recent onset of multiple new SKs combined with B symptoms (weight loss, fatigue, epigastric pain) warrants prompt workup for an underlying GI malignancy. This is a high-yield clinical pearl because the cutaneous finding can lead to earlier cancer detection."
       },
       {
@@ -610,7 +610,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. FGFR3 mutations and horn cysts are features of seborrheic keratosis (benign), not melanoma. This would be the correct answer if the lesion were a seborrheic keratosis, but it is a melanocytic lesion."
       },
       {
-        "text": "To confirm the diagnosis AND determine thickness (Breslow depth) and ulceration; Breslow depth (measured from the epidermal granular layer top to the maximum tumor thickness) is central to T staging and prognosis.",
+        "text": "To confirm diagnosis and measure Breslow depth and ulceration (central to staging).",
         "explanation": "Correct. The lecturer specifically taught that the diagnostic workup for melanoma includes EXCISIONAL BIOPSY to CONFIRM DIAGNOSIS and DETERMINE THICKNESS (BRESLOW DEPTH) and ULCERATION; sentinel lymph node biopsy is often done for larger tumors to check for local spread; IHC staining and genetic testing may be added. Prognostic factors are BRESLOW DEPTH (measured from the top of the epidermal granular layer to the point of maximum tumor thickness), LOCAL AND DISTANT METASTASES, MITOTIC RATE, ULCERATION, and TUMOR INFILTRATING LYMPHOCYTES. The AJCC T-category framework is built around Breslow depth (T1 ≤1 mm, T2 1.01–2 mm, T3 2.01–4 mm, T4 >4 mm) with ulceration subcategory (a = no ulceration; b = with ulceration)."
       }
     ],

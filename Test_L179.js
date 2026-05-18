@@ -203,7 +203,7 @@ window.Test_L179 = [
         "explanation": "Incorrect. Lichenification reflects chronic rubbing/scratching of the skin and shows accentuated skin lines, not progressive growth beyond a wound site. This would be the correct answer if the patient had chronic pruritus and rubbing with a leathery, marked-skin-lines appearance."
       },
       {
-        "text": "Keloid — excessive fibrous tissue proliferation forming a scar elevated and extending beyond original borders.",
+        "text": "Keloid — scar elevated and extending beyond the original wound borders.",
         "explanation": "Correct. The lecturer specifically defined keloid as excessive fibrous tissue proliferation leading to a scar that is both elevated AND extends beyond the original borders — the key distinguishing feature versus a hypertrophic scar (which stays within original borders). Keloid risk is higher in patients with darker skin pigmentation and at sites such as the earlobes, chest, and shoulders, consistent with this patient's history of multiple keloid-forming sites. Recurrence after excision is common."
       },
       {
@@ -602,7 +602,7 @@ window.Test_L179 = [
         "explanation": "Incorrect. Extensor surfaces are the posterior arm/forearm and anterior thigh/leg — opposite to the flexural/intertriginous distribution described. This would be the correct answer if the rash were on the elbows, knees, or shins (as in psoriasis)."
       },
       {
-        "text": "Intertriginous — areas where two skin surfaces contact each other (axilla, inguinal, intergluteal, inframammary).",
+        "text": "Intertriginous — areas where two skin surfaces contact each other.",
         "explanation": "Correct. The lecturer specifically defined intertriginous areas as those where two skin surfaces contact each other, listing the axilla, inguinal area, intergluteal cleft, and inframammary folds — exactly the distribution described. The warm, moist environment of intertriginous areas predisposes to candidal intertrigo, especially in patients with diabetes mellitus or obesity. Webspaces between the fingers and toes also count as intertriginous areas."
       },
       {

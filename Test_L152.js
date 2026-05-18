@@ -948,7 +948,7 @@ const Test_L152 = [
     "options": [
       { "text": "Macrocytic RBCs with MCV >100", "explanation": "Incorrect. BOTH B12 and folate deficiency cause macrocytosis." },
       { "text": "Hypersegmented neutrophils", "explanation": "Incorrect. BOTH cause hypersegmented neutrophils (>5 lobes)." },
-      { "text": "Subacute combined degeneration of the spinal cord (neurologic symptoms)", "explanation": "Correct. Neurologic symptoms — particularly loss of vibratory sensation and proprioception due to demyelination of dorsal columns and lateral corticospinal tracts — occur ONLY in B12 deficiency. Folate deficiency does NOT cause neurologic disease. This is why supplementing folate alone in undiagnosed B12 deficiency is dangerous: it corrects the anemia but allows neurologic damage to progress." },
+      { "text": "Subacute combined degeneration", "explanation": "Correct. Subacute combined degeneration of the spinal cord causes neurologic symptoms — particularly loss of vibratory sensation and proprioception due to demyelination of dorsal columns and lateral corticospinal tracts — occurring ONLY in B12 deficiency. Folate deficiency does NOT cause neurologic disease. This is why supplementing folate alone in undiagnosed B12 deficiency is dangerous: it corrects the anemia but allows neurologic damage to progress." },
       { "text": "Elevated homocysteine", "explanation": "Incorrect. BOTH cause elevated homocysteine (both vitamins are required for the methionine synthase reaction that recycles homocysteine)." },
       { "text": "Glossitis and angular cheilitis", "explanation": "Incorrect. BOTH can cause these epithelial/mucosal findings due to impaired DNA synthesis in rapidly dividing cells." }
     ],
@@ -1108,7 +1108,7 @@ const Test_L152 = [
     "options": [
       { "text": "Trait causes severe chronic hemolytic anemia", "explanation": "Incorrect. Patients with trait are typically asymptomatic with normal hemoglobin levels." },
       { "text": "Trait causes splenic infarction and autosplenectomy", "explanation": "Incorrect. These are complications of sickle cell DISEASE, not trait." },
-      { "text": "Trait is typically asymptomatic but can cause renal medullary issues (hematuria, isosthenuria)", "explanation": "Correct. Sickle trait (HbAS) heterozygotes are largely asymptomatic. However, the renal medulla's hypoxic, hypertonic, and acidic environment can still promote local sickling, causing painless hematuria and impaired urinary concentrating ability (isosthenuria). Rarely, exertion at high altitude can trigger vaso-occlusive episodes." },
+      { "text": "Trait is mostly asymptomatic but can cause hematuria", "explanation": "Correct. Sickle trait (HbAS) heterozygotes are largely asymptomatic. However, the renal medulla's hypoxic, hypertonic, and acidic environment can still promote local sickling, causing painless hematuria and impaired urinary concentrating ability (isosthenuria). Rarely, exertion at high altitude can trigger vaso-occlusive episodes." },
       { "text": "Trait shows HbS predominance on electrophoresis (>50%)", "explanation": "Incorrect. Trait shows HbA > HbS (typically ~60:40 HbA:HbS). Disease shows HbS predominant." },
       { "text": "Trait requires hydroxyurea therapy", "explanation": "Incorrect. Hydroxyurea is for sickle cell DISEASE (to increase HbF and reduce vaso-occlusive crises)." }
     ],

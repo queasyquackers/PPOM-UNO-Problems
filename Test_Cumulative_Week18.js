@@ -9,7 +9,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. This describes typical HUS, which presents with the triad of MAHA, thrombocytopenia, and AKI after bloody diarrhea — not isolated thrombocytopenia after an uncomplicated URI. This would be the correct answer in a child with bloody diarrhea, schistocytes, and acute kidney injury."
       },
       {
-        "text": "IgG autoantibodies opsonize platelet surface glycoproteins (commonly GPIIb/IIIa) leading to splenic macrophage phagocytosis with compensatory increase in marrow megakaryocytes",
+        "text": "IgG opsonizes platelet GPIIb/IIIa for splenic phagocytosis, with increased marrow megakaryocytes",
         "explanation": "Correct. Acute pediatric ITP classically follows a viral illness by 1-2 weeks and presents abruptly with mucocutaneous bleeding, isolated thrombocytopenia, and otherwise normal CBC and exam. IgG autoantibodies — most commonly directed against GPIIb/IIIa — opsonize circulating platelets, which are then cleared by splenic macrophages. The marrow responds with increased megakaryocytes. Most pediatric cases resolve spontaneously within six months; first-line treatment when intervention is needed is IVIG or corticosteroids."
       },
       {
@@ -99,7 +99,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. gp41 mediates fusion AFTER gp120-CD4-coreceptor engagement; receptor binding must precede fusion. This would be the correct answer in a question about the mechanism of enfuvirtide, a fusion inhibitor that blocks the gp41 conformational change."
       },
       {
-        "text": "Viral gp120 binds host CD4 and a chemokine coreceptor (CCR5 or CXCR4), causing a conformational change that exposes gp41 for membrane fusion",
+        "text": "gp120 binds CD4 and a CCR5/CXCR4 coreceptor, triggering gp41 exposure for membrane fusion",
         "explanation": "Correct. HIV entry begins with the surface glycoprotein gp120 binding host CD4, which triggers a conformational change exposing the V3 loop that engages a coreceptor — typically CCR5 (the more common 'R5-tropic' strain, especially in early disease) or sometimes CXCR4. Engagement of both CD4 and the coreceptor triggers a further conformational change that exposes the gp41 fusion peptide, enabling viral-host membrane fusion. Maraviroc targets CCR5 and is effective only in patients harboring R5-tropic virus."
       },
       {
@@ -155,7 +155,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 9-year-old boy returns from a family trip to the Philippines and develops fever, severe retro-orbital headache, myalgia, and a maculopapular rash. He had a similar but milder febrile illness during a vacation to Thailand two years ago. On day four of illness, his fever defervesces but he then becomes lethargic with a narrowing pulse pressure (115/95 mmHg → 96/92 mmHg), rising hematocrit, and bilateral pleural effusions. Which of the following best explains the pathophysiology of his clinical deterioration?",
     "options": [
       {
-        "text": "Non-neutralizing IgG antibodies from his prior dengue infection bind a different serotype this time and enhance viral uptake into macrophages via Fc receptors, driving cytokine release and vascular leak",
+        "text": "Non-neutralizing IgG from prior dengue enhances Fc-receptor uptake of a new serotype (ADE)",
         "explanation": "Correct. Dengue antibody-dependent enhancement (ADE) is the mechanism behind dengue hemorrhagic fever (DHF) and dengue shock syndrome. After a primary infection with one of the four dengue serotypes, antibodies are formed that neutralize that serotype but only cross-react with the others. On secondary infection with a different serotype, these cross-reactive non-neutralizing IgG antibodies bind virus and shuttle it via Fc receptors into macrophages, increasing the infected cell pool and triggering a massive cytokine response. The result is endothelial dysfunction, plasma leak (narrowing pulse pressure, rising hematocrit, effusions), and shock — typically appearing as fever defervesces around day 4-5. Aggressive but careful isotonic fluid resuscitation is the mainstay, with careful transition-phase de-escalation to avoid pulmonary edema."
       },
       {
@@ -201,7 +201,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Low-dose aspirin is used for preeclampsia prevention in high-risk pregnancies but is an antiplatelet agent and inadequate as therapeutic anticoagulation for acute VTE. This would be the correct answer for prophylaxis against preeclampsia in a high-risk patient."
       },
       {
-        "text": "Subcutaneous low-molecular-weight heparin, because it does not cross the placenta and provides reliable therapeutic anticoagulation without routine monitoring",
+        "text": "Subcutaneous LMWH, because it does not cross the placenta and needs no routine monitoring",
         "explanation": "Correct. Therapeutic LMWH (or unfractionated heparin) is the standard for VTE treatment in pregnancy because neither crosses the placenta in clinically meaningful amounts, both have well-established safety profiles, and LMWH offers a predictable dose-response profile that avoids routine monitoring. Warfarin and DOACs are avoided due to teratogenicity (warfarin) and insufficient data / placental transfer (DOACs). LMWH is typically transitioned to UFH near delivery to allow for neuraxial anesthesia."
       }
     ],
@@ -279,7 +279,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. While TB is on the differential, the bilateral ground-glass opacities without effusion are far more characteristic of PCP, and AFB smear is not the appropriate first test for this CT pattern. This would be the correct answer in a patient with upper-lobe cavitary disease and night sweats."
       },
       {
-        "text": "Bronchoalveolar lavage with methenamine silver staining (or PCR) for Pneumocystis jirovecii; treat with high-dose TMP-SMX plus prednisone if PaO2 <70 mmHg",
+        "text": "BAL silver stain or PCR for Pneumocystis; high-dose TMP-SMX + prednisone",
         "explanation": "Correct. Pneumocystis pneumonia is the AIDS-defining opportunistic infection most commonly suggested by bilateral diffuse ground-glass opacities WITHOUT pleural effusion in a patient with CD4 <200. Diagnosis is made by BAL with methenamine silver staining (or PCR); adjunctive findings include elevated LDH, positive serum β-D-glucan, and 'foamy macrophages' on pathology. First-line therapy is high-dose TMP-SMX for 21 days, with adjunctive prednisone added if PaO2 <70 mmHg or A-a gradient ≥35."
       },
       {
@@ -365,7 +365,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 52-year-old woman with newly diagnosed atrial fibrillation is started on warfarin without heparin bridging. On day three of therapy, she develops sharply demarcated, painful purpuric lesions over the breasts and thighs that progress to central necrosis. Coagulation studies show an INR of 2.1. Which of the following best describes the molecular basis of this complication?",
     "options": [
       {
-        "text": "Warfarin inhibits the vitamin K-dependent γ-carboxylation of Protein C — a short-half-life natural anticoagulant — before the longer-half-life procoagulant factors decline, producing a brief prothrombotic window with microvascular thrombosis in adipose-rich skin",
+        "text": "Short-half-life Protein C falls before procoagulant factors, briefly prothrombotic",
         "explanation": "Correct. Warfarin inhibits VKORC1, blocking the regeneration of reduced vitamin K and reducing the γ-carboxylation of factors II, VII, IX, X AND of the anticoagulant proteins C and S. Because Protein C has a much shorter half-life (~6-8 hours) than prothrombin (~60 hours), Protein C activity falls fastest, creating a transient state of acquired Protein C deficiency. In adipose-rich tissues (breasts, thighs, buttocks), microvascular thrombosis produces sharply demarcated infarcts. Prevention is heparin bridging during warfarin initiation."
       },
       {
@@ -531,7 +531,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. The CAGE is a four-item validated screen specifically for alcohol use disorder — guilt is just one item. This would be the correct answer only in the (hypothetical) case that no validated screen for AUD existed."
       },
       {
-        "text": "He scores 4 on the CAGE — consistent with the diagnosis of alcoholism per the lecture; comprehensive evaluation and treatment planning is required",
+        "text": "He scores 4 on the CAGE — consistent with alcoholism; comprehensive evaluation is required",
         "explanation": "Correct. CAGE = Cut down, Annoyed, Guilty, Eye-opener. He endorses all four items, yielding a CAGE score of 4, which the lecture states is consistent with a diagnosis of alcoholism. A score of 2-3 is moderate-to-high risk warranting evaluation; a score of 4 demands comprehensive AUD evaluation and treatment planning, including consideration of medical risk (his epigastric pain raises concern for gastritis or pancreatic disease) and pharmacotherapy."
       }
     ],
@@ -549,7 +549,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Clopidogrel pharmacogenomic failure is at the level of hepatic prodrug activation, not the receptor. This would be the correct answer if P2Y12 receptor polymorphisms were the dominant cause of antiplatelet failure."
       },
       {
-        "text": "Reduced hepatic conversion of clopidogrel prodrug to its active thiol metabolite, with diminished irreversible inhibition of platelet P2Y12 ADP receptors",
+        "text": "Reduced hepatic CYP2C19 conversion of clopidogrel prodrug to its active P2Y12-inhibiting metabolite",
         "explanation": "Correct. Clopidogrel is a thienopyridine prodrug that requires CYP2C19-mediated activation to its active thiol metabolite, which then irreversibly inhibits the platelet P2Y12 ADP receptor and prevents GP IIb/IIIa-mediated aggregation. CYP2C19 poor metabolizers generate substantially less active drug, blunting antiplatelet effect and increasing the risk of stent thrombosis. Alternatives in poor metabolizers include ticagrelor (no CYP-dependent activation, reversible) or prasugrel (CYP3A4/2B6-activated, more efficient generation of active metabolite)."
       },
       {
@@ -587,7 +587,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. The CSF profile (mononuclear pleocytosis, low glucose, India ink-positive yeast, cryptococcal antigen positive) is diagnostic of cryptococcal meningitis — not bacterial meningitis. Empirical bacterial coverage misses the diagnosis. This would be the correct answer in a patient with neutrophilic pleocytosis, low glucose, and gram-positive diplococci on Gram stain."
       },
       {
-        "text": "Liposomal amphotericin B plus oral flucytosine for 2 weeks (induction), followed by high-dose fluconazole for 8 weeks (consolidation), then chronic suppression with fluconazole; therapeutic lumbar punctures for elevated intracranial pressure; delay ART initiation by 2-4 weeks to reduce IRIS risk",
+        "text": "Liposomal amphotericin B + flucytosine, then fluconazole; LPs for ICP; delay ART 2-4 weeks",
         "explanation": "Correct. Cryptococcal meningitis in advanced HIV is treated with a three-phase antifungal regimen: induction with liposomal amphotericin B + flucytosine for 2 weeks, consolidation with high-dose fluconazole for 8 weeks, and chronic suppression with fluconazole until CD4 is sustained >100 on ART. Elevated intracranial pressure is managed with serial therapeutic lumbar punctures (and sometimes shunting). ART initiation is delayed 2-4 weeks to reduce the risk of severe paradoxical IRIS in the brain."
       },
       {
@@ -617,7 +617,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. TTP would not produce the hypofibrinogenemia, low platelet count, and prolonged PT/aPTT pattern seen here; PT/aPTT and fibrinogen are typically normal in TTP. This would be the correct answer in a patient with the TTP pentad and an ADAMTS13 level <10%."
       },
       {
-        "text": "Massive systemic release of placental tissue factor — a potent procoagulant — has triggered widespread thrombin generation, consumption of platelets and clotting factors, and secondary fibrinolysis (disseminated intravascular coagulation)",
+        "text": "Placental tissue factor triggered thrombin generation with consumption of platelets and factors (DIC)",
         "explanation": "Correct. Placental abruption is a classic obstetric trigger of DIC: tissue factor from disrupted placental tissue enters the maternal circulation, igniting widespread thrombin generation that consumes platelets, fibrinogen, and clotting factors. Schistocytes reflect microvascular shearing, and elevated D-dimer confirms simultaneous clot formation and fibrinolysis. Treatment is to address the underlying trigger (delivery, hemorrhage control) and replace consumed components (FFP, cryoprecipitate, platelets, sometimes PRBCs)."
       },
       {
@@ -681,7 +681,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Aortic dissection produces tearing chest/back pain with branch malperfusion, not isolated MCA stroke with a concurrent DVT. This would be the correct answer in a patient with sudden tearing chest pain radiating to the back and pulse deficits."
       },
       {
-        "text": "A venous thromboembolism originating in the leg traversed an intracardiac right-to-left shunt (PFO), bypassing the pulmonary filter, and embolized to the cerebral circulation",
+        "text": "A leg VTE crossed a right-to-left PFO, bypassed the lung filter, and embolized to brain",
         "explanation": "Correct. Paradoxical embolism requires three elements: a venous source of thromboembolism (here, the DVT), an intracardiac right-to-left shunt (here, the PFO), and a transient elevation of right-sided pressures that allows shunting (Valsalva, sneeze, or chronic pulmonary hypertension). The thrombus bypasses the pulmonary capillary filter and lodges in the systemic arterial bed — producing a stroke or other systemic embolic event. Treatment includes anticoagulation and consideration of PFO closure."
       }
     ],
@@ -703,7 +703,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Viral load is used to monitor and stage known HIV, not to make a diagnosis in a new patient — it has more false positives in the diagnostic setting. NAAT/PCR can be useful adjunctively when 4th-generation testing is negative but suspicion is high. This would be the correct answer in monitoring response to ART in a known HIV-positive patient."
       },
       {
-        "text": "Fourth-generation HIV-1/HIV-2 antigen/antibody combination immunoassay, because it detects both p24 antigen (positive within ~2 weeks) and anti-HIV antibodies, shortening the window period",
+        "text": "Fourth-generation HIV Ag/Ab immunoassay — detects p24 antigen, shortening window to ~2 weeks",
         "explanation": "Correct. The fourth-generation HIV-1/HIV-2 antigen/antibody combination immunoassay is the first-line HIV screening test. It detects both the viral p24 antigen (which becomes detectable approximately 2 weeks after infection) and anti-HIV-1/HIV-2 antibodies (which develop later). This shortens the window period to approximately 2 weeks compared with 12 weeks for antibody-only testing. A reactive screen is confirmed with the HIV-1/HIV-2 antibody differentiation assay; if the screen is negative but acute infection is still suspected (clinical retroviral syndrome), a NAAT/PCR is performed. The patient's clinical features are highly suggestive of acute retroviral syndrome."
       },
       {
@@ -729,7 +729,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Neuroblastoma typically has systemic features (weight loss, irritability, paraneoplastic opsoclonus-myoclonus-ataxia), often crosses the midline, and would show elevated HVA/VMA — none of which apply here. This would be the correct answer in a child with the abdominal mass plus 'dancing eyes, dancing feet' and elevated urine catecholamines."
       },
       {
-        "text": "Wilms tumor (nephroblastoma), with the next step being abdominal ultrasound followed by contrast-enhanced abdominal/chest imaging",
+        "text": "Wilms tumor (nephroblastoma), with abdominal ultrasound as the next step",
         "explanation": "Correct. Wilms tumor is the most common renal tumor of childhood, typically presenting between ages 2 and 5 as an incidentally noted asymptomatic abdominal mass that does NOT cross the midline. Constitutional symptoms are uncommon and urine catecholamines are normal — distinguishing features from neuroblastoma. Workup is abdominal ultrasound to characterize the renal origin, followed by contrast-enhanced cross-sectional imaging of the abdomen and chest (lungs are the most common metastatic site). Treatment combines surgery and chemotherapy."
       },
       {
@@ -767,7 +767,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. While influenza can produce rapidly progressive viral pneumonia, the clinical setting (rodent dropping exposure in rural southwestern US) makes hantavirus the more specific answer. This would be the correct answer during peak influenza season in a vaccinated household exposure."
       },
       {
-        "text": "Sin Nombre hantavirus producing hantavirus pulmonary syndrome (HPS) — inhalation of aerosolized rodent (deer mouse) urine/feces/dust",
+        "text": "Sin Nombre hantavirus pulmonary syndrome from rodent droppings",
         "explanation": "Correct. The classic 1993 'Four Corners' outbreak introduced the modern recognition of hantavirus pulmonary syndrome caused by Sin Nombre virus. Inhalation of aerosolized rodent (deer mouse) urine, droppings, or contaminated dust produces a febrile prodrome followed by abrupt non-cardiogenic pulmonary edema with mortality of approximately 30-40%. Treatment is intensive supportive care (mechanical ventilation, ECMO for select patients); rodent control is the primary preventive strategy. The other hantavirus syndrome is hemorrhagic fever with renal syndrome (HFRS) seen elsewhere in the world."
       },
       {
@@ -785,7 +785,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 76-year-old woman on dabigatran for non-valvular atrial fibrillation falls and sustains a depressed skull fracture with an acute traumatic intracerebral hematoma. The neurosurgery team plans urgent decompressive craniotomy. Her last dose of dabigatran was approximately 8 hours ago. Which of the following is the most appropriate immediate reversal strategy?",
     "options": [
       {
-        "text": "Intravenous idarucizumab 5 g, with consideration of hemodialysis as an adjunct given dabigatran's low protein binding",
+        "text": "Intravenous idarucizumab 5 g; hemodialysis as adjunct",
         "explanation": "Correct. Idarucizumab is a humanized monoclonal antibody fragment with approximately 350-fold higher affinity for dabigatran than dabigatran has for thrombin; it rapidly and specifically neutralizes dabigatran's anticoagulant effect. It is the preferred reversal agent for dabigatran-related life-threatening bleeding or urgent surgery. Dabigatran is also dialyzable (low protein binding), so hemodialysis can serve as a useful adjunct in patients with renal impairment or when idarucizumab is unavailable. PCC may be considered if idarucizumab is unavailable."
       },
       {
@@ -853,7 +853,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Aspirin alone is inadequate for an acute STEMI; either reperfusion therapy (PCI or thrombolysis) is required immediately. This would be the correct answer in stable secondary prevention after a remote infarct."
       },
       {
-        "text": "Administer fibrinolytic therapy (e.g., tenecteplase) within 30 minutes plus aspirin + a P2Y12 inhibitor + an anticoagulant, then transfer for rescue or routine PCI",
+        "text": "Give tenecteplase within 30 min plus aspirin, a P2Y12 inhibitor, and an anticoagulant, then transfer for PCI",
         "explanation": "Correct. When PCI cannot be performed within 120 minutes of first medical contact, fibrinolysis at the local hospital is the recommended reperfusion strategy for STEMI without contraindications. Door-to-needle time should be ≤30 minutes ('time is muscle'). Tenecteplase is increasingly preferred for its single-bolus administration, longer half-life, and PAI-1 resistance. Concurrent therapy includes aspirin, a P2Y12 inhibitor, and an anticoagulant per protocol. The patient is then transferred for either rescue PCI (if fibrinolysis fails) or pharmacoinvasive PCI within 24 hours."
       },
       {
@@ -887,7 +887,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Optic neuritis presents with rapidly progressive painful monocular vision loss and a relative afferent pupillary defect rather than the retinal hemorrhages and infiltrates described. This would be the correct answer in a young woman with painful monocular vision loss and an APD."
       },
       {
-        "text": "CMV retinitis (reactivation in advanced AIDS, CD4 <50); intravenous ganciclovir or oral valganciclovir plus intravitreal injections for sight-threatening lesions",
+        "text": "CMV retinitis; IV ganciclovir or oral valganciclovir",
         "explanation": "Correct. CMV retinitis is the classic AIDS-defining ocular opportunistic infection at CD4 <50. The 'pizza pie' appearance — cotton-wool spots, flame hemorrhages, and yellow-white perivascular retinal infiltrates — is essentially pathognomonic. It progresses to blindness if untreated. Therapy is IV ganciclovir or oral valganciclovir, with intravitreal ganciclovir or foscarnet injections for sight-threatening lesions near the macula or optic nerve. ART initiation/optimization is essential; maintenance is continued until CD4 is sustained >100 on ART. Watch for IRIS-related vitritis after ART start."
       },
       {
@@ -939,7 +939,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. P. multocida produces rapid cellulitis within hours of a cat or dog BITE — not the subacute regional lymphadenopathy after a scratch described here. This would be the correct answer in a patient with cellulitis emerging within 24 hours of a cat bite."
       },
       {
-        "text": "Bartonella henselae, the pleomorphic gram-negative rod responsible for cat-scratch disease",
+        "text": "Bartonella henselae (cat-scratch disease)",
         "explanation": "Correct. Cat-scratch disease is caused by Bartonella henselae, a pleomorphic gram-negative rod inoculated by cat scratch or bite. The classic presentation is a primary papule at the inoculation site followed by tender regional lymphadenopathy (axillary, epitrochlear, cervical) over weeks. The disease is usually self-limited in immunocompetent hosts; azithromycin or doxycycline shortens course in moderate-severe disease. Warthin-Starry silver stain visualizes the organism on biopsy, and serology or PCR confirms diagnosis. Immunocompromised hosts (HIV) develop bacillary angiomatosis instead."
       },
       {
@@ -973,7 +973,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Factor V Leiden is identified by APC resistance testing — it does not produce a baseline-prolonged aPTT, nor an uncorrecting mixing study. This would be the correct answer in a young patient with unprovoked DVT and a positive APC resistance test, with normal aPTT."
       },
       {
-        "text": "Lupus anticoagulant and other antiphospholipid antibodies bind phospholipid-dependent clotting reagents in vitro, paradoxically PROLONGING the aPTT, while in vivo they activate platelets, endothelium, and complement to drive arterial and venous thrombosis as well as recurrent pregnancy loss",
+        "text": "Antiphospholipid antibodies prolong aPTT in vitro but cause in vivo thrombosis",
         "explanation": "Correct. Antiphospholipid syndrome is characterized by the paradoxical combination of an in vitro PROLONGED phospholipid-dependent assay (aPTT) — that does NOT correct on mixing because the inhibitor remains active in the diluted sample — and an in vivo hypercoagulable state with arterial and venous thromboses and recurrent pregnancy loss (especially second/third trimester). Diagnosis requires clinical thrombosis or pregnancy morbidity PLUS persistent antiphospholipid antibodies (lupus anticoagulant, anti-cardiolipin, or anti-β2GPI) on two occasions at least 12 weeks apart. Long-term anticoagulation with warfarin (DOACs are inferior in this disorder) is the standard of care."
       },
       {
@@ -1011,7 +1011,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. A 28-day course is the regimen for post-exposure prophylaxis (PEP) after a specific exposure event — not for ongoing pre-exposure prevention. This would be the correct answer for occupational needle-stick or other discrete high-risk exposures, started within 72 hours of exposure."
       },
       {
-        "text": "Begin daily oral TDF/FTC (Truvada) or TAF/FTC (Descovy) — pre-exposure prophylaxis (PrEP) — with HIV testing every 3 months and baseline renal and hepatitis B assessment; long-acting injectable cabotegravir every 2 months is an alternative",
+        "text": "Begin daily oral TDF/FTC PrEP with HIV testing every 3 months and baseline renal and hepatitis B assessment",
         "explanation": "Correct. PrEP with daily oral TDF/FTC (Truvada) or TAF/FTC (Descovy) is >90% effective at preventing HIV acquisition when taken consistently. Long-acting injectable cabotegravir (every 2 months) is also approved as PrEP. Standard evaluation includes baseline HIV testing (to ensure the patient is truly negative), renal function (tenofovir is nephrotoxic), and hepatitis B status (tenofovir is also active against HBV — abrupt discontinuation in HBV-infected patients can cause hepatitis flares). HIV testing is repeated every 3 months on PrEP. Layered prevention (PrEP + partner viral suppression / U=U) is optimal."
       }
     ],
@@ -1025,7 +1025,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 7-year-old girl with hemoglobin SS disease presents with a 'slapped-cheek' rash, fatigue, and pallor. Her hemoglobin is 4.2 g/dL (baseline 8.5), reticulocyte count is inappropriately low, and the platelet count and WBC are normal. Which of the following infectious agents is responsible?",
     "options": [
       {
-        "text": "Parvovirus B19 — produces selective transient erythroid aplasia by destroying P-antigen-bearing erythroid precursors",
+        "text": "Parvovirus B19 infecting P-antigen erythroid precursors",
         "explanation": "Correct. Aplastic crisis in sickle cell disease is caused by parvovirus B19, which infects erythroid progenitors via the P antigen and selectively suppresses red cell production for several days. In SCD patients with a shortened red cell lifespan, this transient marrow shutdown causes severe sudden anemia with an inappropriately low reticulocyte count. The 'slapped cheek' rash (erythema infectiosum / fifth disease) is the classic associated finding. Treatment is supportive plus transfusion as needed; isolate from pregnant women (risk of hydrops fetalis in the fetus)."
       },
       {
@@ -1067,7 +1067,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. The 17D vaccine prevents yellow fever and has no role in Ebola management. This would be the correct answer in pre-travel prophylaxis for an adult traveling to a yellow-fever-endemic area."
       },
       {
-        "text": "Strict isolation in a negative-pressure room with full personal protective equipment, public health and infectious disease consultation, RT-PCR through the CDC-coordinated lab, supportive care (aggressive volume resuscitation, electrolyte correction), and monoclonal antibody therapy (Inmazeb or Ebanga) for Ebola Zaire — and rule out concurrent malaria",
+        "text": "Strict isolation with full PPE, supportive care, and monoclonal antibody (Inmazeb or Ebanga)",
         "explanation": "Correct. Suspected imported Ebola requires immediate strict isolation in a negative-pressure room with full PPE (impervious gowns, double gloves, N95 or PAPR, face shields), public health and ID consultation, and CDC-coordinated RT-PCR confirmation. Specific therapy with the monoclonal antibody cocktails Inmazeb (atoltivimab/maftivimab/odesivimab) or Ebanga (ansuvimab) has substantially improved outcomes for Ebola Zaire; ERVEBO is the vaccine for Ebola Zaire (no cross-protection against other strains). Aggressive supportive care (volume, electrolytes, blood products as needed) is essential. ALWAYS also rule out concurrent malaria in a returning African traveler with fever — it is treatable and can kill within hours."
       },
       {
@@ -1085,7 +1085,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 64-year-old man five days post-CABG is receiving prophylactic unfractionated heparin. His platelet count has fallen from a postoperative nadir of 175,000/µL to 56,000/µL over the past 24 hours, and he has developed a new right calf DVT confirmed by ultrasound. PF4/heparin antibody assay is positive. Which of the following is the most appropriate immediate management?",
     "options": [
       {
-        "text": "Stop all heparin (including flushes) immediately, initiate a non-heparin anticoagulant such as argatroban or bivalirudin, and delay warfarin until platelets recover to >150,000/µL and the patient is therapeutically anticoagulated on the non-heparin agent",
+        "text": "Stop all heparin; start argatroban or bivalirudin; defer warfarin",
         "explanation": "Correct. Heparin-induced thrombocytopenia type II is an IgG-mediated reaction against heparin-PF4 complexes that activates platelets via Fc receptors, producing both consumption (thrombocytopenia) AND paradoxical thrombosis. Management requires immediately stopping ALL heparin (including line flushes and LMWH) and starting a non-heparin anticoagulant — typically argatroban (hepatically cleared, useful in renal impairment) or bivalirudin; fondaparinux is also acceptable. Warfarin must be delayed until platelets recover and the patient is therapeutically anticoagulated on the non-heparin agent, because early warfarin in HIT can precipitate warfarin-induced skin necrosis or venous limb gangrene."
       },
       {
@@ -1123,7 +1123,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. Acute delirium requires same-visit workup, not delayed outpatient testing. This would be the correct answer in suspected chronic mild cognitive impairment without acute change."
       },
       {
-        "text": "Obtain a urinalysis (with urine culture if positive) as part of the initial workup, because UTI is a common, easily diagnosable, reversible cause of altered mental status in the elderly",
+        "text": "Obtain a urinalysis — UTI is a common reversible cause of delirium in elders",
         "explanation": "Correct. In a geriatric patient with new altered mental status, urinalysis is one of the highest-yield first investigations because UTI is one of the most common, easily diagnosable, and rapidly reversible precipitants of delirium in the elderly. A broader 'delirium workup' should accompany (CBC, BMP/CMP, glucose, oxygen saturation, medication review for new sedatives or anticholinergics, ECG), with imaging reserved for focal neurologic findings, trauma, or persistent unexplained changes."
       },
       {
@@ -1145,7 +1145,7 @@ window.Test_Cumulative_Week18 = [
     "questionText": "A 6-year-old boy presents with fever to 39.1°C, body aches, and cough during a community influenza outbreak. His parents ask the pediatrician which antipyretic is safest. Which of the following is the most appropriate recommendation and the reason for it?",
     "options": [
       {
-        "text": "Acetaminophen — avoid aspirin in children and adolescents with viral illnesses (especially influenza and varicella) because of the risk of Reye syndrome (acute hepatic encephalopathy with cerebral edema)",
+        "text": "Acetaminophen — aspirin in children with viral illness risks Reye syndrome",
         "explanation": "Correct. Aspirin is contraindicated for fever or analgesia in children and adolescents with viral illnesses — particularly influenza and varicella — because of the association with Reye syndrome, a potentially fatal encephalopathy with hepatic failure characterized by cerebral edema, hyperammonemia, and microvesicular hepatic steatosis. Acetaminophen (and ibuprofen for older children) are the appropriate antipyretic and analgesic choices. This is one of the most important pharmacologic counseling points in pediatrics."
       },
       {
@@ -1191,7 +1191,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. PCP presents acutely with diffuse ground-glass opacities in immunocompromised hosts — not chronic RML/lingula nodular bronchiectasis in an immunocompetent elderly woman. This would be the correct answer in an AIDS patient with CD4 <200 and bilateral ground-glass on imaging."
       },
       {
-        "text": "Lady Windermere syndrome — non-tuberculous mycobacterial pulmonary disease in a thin, often elderly woman with right middle lobe / lingula bronchiectasis; treat with macrolide (clarithromycin or azithromycin) + ethambutol ± rifampin/rifabutin for at least 12 months until sputum cultures are negative for a sustained period",
+        "text": "Lady Windermere syndrome — RML/lingula NTM bronchiectasis; treat with macrolide + ethambutol ± rifampin for ≥12 months",
         "explanation": "Correct. The clinical phenotype — thin, often non-smoking, often elderly women with chronic cough, RML/lingula bronchiectasis, and culture-positive MAC — is termed Lady Windermere syndrome, with the most accepted pathophysiologic hypothesis being voluntary cough suppression in dependent regions facilitating airway clearance failure. Treatment is a prolonged multi-drug regimen including a macrolide (clarithromycin or azithromycin), ethambutol, and often rifampin or rifabutin, continued for at least 12 months and until sputum cultures have been negative for a sustained period. Disseminated MAC (CD4 <50 in AIDS) is a separate clinical syndrome managed similarly but in the context of ART."
       }
     ],

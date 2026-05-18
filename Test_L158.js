@@ -230,8 +230,8 @@ const Test_L158 = [
         "explanation": "Incorrect. Bleeding time evaluates primary hemostasis (platelets), not heparin."
       },
       {
-        "text": "aPTT (activated Partial Thromboplastin Time)",
-        "explanation": "Correct. aPTT monitors the intrinsic and common pathways. Since heparin primarily acts via Antithrombin III to inhibit thrombin and factor Xa, its effect is best reflected in the aPTT."
+        "text": "aPTT",
+        "explanation": "Correct. aPTT (activated Partial Thromboplastin Time) monitors the intrinsic and common pathways. Since heparin primarily acts via Antithrombin III to inhibit thrombin and factor Xa, its effect is best reflected in the aPTT."
       },
       {
         "text": "D-dimer",
@@ -319,7 +319,7 @@ const Test_L158 = [
         "explanation": "Incorrect. A defect in the intrinsic pathway would prolong the PTT."
       },
       {
-        "text": "The patient has established a clot that is currently being dissolved by the endogenous fibrinolytic system.",
+        "text": "An established clot is being dissolved by endogenous fibrinolysis.",
         "explanation": "Correct. D-dimer is a specific product of cross-linked fibrin breakdown. In a DVT, the body's natural tPA/plasmin system is actively working to dissolve the pathological clot, releasing D-dimers into the blood."
       },
       {
@@ -412,8 +412,8 @@ const Test_L158 = [
         "explanation": "Incorrect. Warfarin inhibits factor production, it doesn't stimulate Tissue Factor."
       },
       {
-        "text": "The anticoagulant Protein C has a shorter half-life than the pro-coagulant factors (IX, X, II).",
-        "explanation": "Correct. Warfarin depletes all Vitamin K-dependent proteins (2, 7, 9, 10 and C, S). Protein C has one of the shortest half-lives. Therefore, it disappears from the blood *before* factors IX, X, and II, creating a temporary pro-thrombotic state."
+        "text": "Protein C has a shorter half-life than factors IX, X, and II.",
+        "explanation": "Correct. The anticoagulant Protein C is depleted before the pro-coagulant factors. Warfarin depletes all Vitamin K-dependent proteins (2, 7, 9, 10 and C, S). Protein C has one of the shortest half-lives. Therefore, it disappears from the blood *before* factors IX, X, and II, creating a temporary pro-thrombotic state."
       },
       {
         "text": "Warfarin directly activates platelets during the initial loading dose.",
@@ -443,8 +443,8 @@ const Test_L158 = [
         "explanation": "Incorrect. Calcium is a pro-coagulant cofactor."
       },
       {
-        "text": "Heparin-like molecules on the endothelium",
-        "explanation": "Correct. Antithrombin III's activity is massively potentiated (1000-fold or more) by heparin-like molecules (heparan sulfate) on the healthy endothelial surface or by administered heparin."
+        "text": "Heparan sulfate",
+        "explanation": "Correct. Endothelial heparin-like molecules (heparan sulfate) massively potentiate Antithrombin III's activity (1000-fold or more) on the healthy endothelial surface, as does administered heparin."
       },
       {
         "text": "Fibrinogen",

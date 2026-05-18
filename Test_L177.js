@@ -13,7 +13,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Zoonotic infections include bacteria, viruses, parasites, and fungi — the term refers to mode of acquisition, not microbial class. This would be the correct answer if zoonosis were a parasite-only category, which it is not."
       },
       {
-        "text": "Infections acquired from any type of animal (vertebrate or invertebrate vector); often from pets; children are usually the most affected group; occupational exposure is important (veterinarians, landscapers, national parks workers, meat-packing plant workers).",
+        "text": "Acquired from any animal (vertebrate or invertebrate vector); often from pets; children most affected.",
         "explanation": "Correct. The lecturer specifically defined zoonotic infections as those acquired from any type of animal — including vertebrates (mammals, fish) and invertebrates (insects and other arthropods serving as vectors). Many are acquired from pets, and children are typically the most affected demographic. Occupational exposure substantially increases risk for veterinarians, landscapers, national parks workers, and meat-packing plant employees, who all have intensified animal exposure as part of their work."
       },
       {
@@ -52,7 +52,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. RMSF presents with fever and a macular rash that begins on wrists/ankles and moves centrally — not a localized lymphadenopathy after flea bite. This would be the correct answer if the patient had a macular rash beginning on the wrists and ankles after a tick bite in the southeastern US."
       },
       {
-        "text": "Bubonic plague caused by Yersinia pestis — Gram-negative facultative anaerobic rod transmitted by flea bite from rodents, with characteristic painful 'bubo' (axillary/inguinal lymphatic swelling) developing approximately 7 days after exposure; 75% mortality without treatment.",
+        "text": "Bubonic plague (Yersinia pestis) — flea bite, painful axillary/inguinal bubo at ~7 days.",
         "explanation": "Correct. The lecturer specifically described Yersinia pestis as a Gram-negative, encapsulated, facultative anaerobic rod that causes bubonic plague via flea bite, with a 7-day incubation followed by fever and a characteristic painful axillary or inguinal lymphatic swelling ('bubo'). The 75% mortality rate without treatment is a key teaching point. In the US, plague is endemic in the southwestern states (especially the Four Corners region) with prairie dogs and other rodents as the principal reservoir; sylvatic plague (rodents/cats) can spill over into urban plague (dogs) and to humans. The pneumonic form has a 90% mortality and supports human-to-human transmission via respiratory droplets."
       }
     ],
@@ -71,7 +71,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. B. anthracis has multiple toxin components (PA, EF, LF) with distinct functions, all encoded on the same plasmid. This would be the correct answer if anthrax had a single toxin, which it does not."
       },
       {
-        "text": "Protective Antigen (PA) is a single B-subunit that pairs with EITHER Lethal Factor (LF, a zinc metalloprotease causing macrophage apoptosis) OR Edema Factor (EF, a calmodulin-dependent adenylate cyclase causing ↑cAMP and edema). PA+EF = Edema Toxin; PA+LF = Lethal Toxin. Together LF + EF inhibit innate immunity.",
+        "text": "PA (B-subunit) pairs with LF or EF. PA+EF = Edema Toxin; PA+LF = Lethal Toxin.",
         "explanation": "Correct. The lecturer specifically described three components encoded together on one plasmid: Protective Antigen (PA, the binding/translocating subunit), Edema Factor (EF, a calmodulin-dependent adenylate cyclase that elevates intracellular cAMP and produces tissue edema), and Lethal Factor (LF, a zinc metalloprotease that triggers macrophage apoptosis). PA combined with EF = Edema Toxin; PA combined with LF = Lethal Toxin. Both EF and LF combined inhibit innate immunity. The poly-D-glutamic acid capsule is a separate antiphagocytic virulence factor."
       },
       {
@@ -207,7 +207,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Nitroreductase activation describes the mechanism of metronidazole/fexinidazole/nifurtimox against anaerobic protozoa — it has no relation to Rickettsial pathogenesis. This would be the correct answer if asking how metronidazole kills anaerobes."
       },
       {
-        "text": "Adheres to vascular endothelium via OmpA (outer membrane protein A); invades endothelial cells; causes vascular leakage producing hypovolemia and hypoproteinemia; CD8+ T-cell-mediated cytokine killing of infected cells contributes to vasculitis; clinical features include macular rash beginning on wrists/ankles and progressing centrally (centripetal), with potential progression to petechial rash and shock.",
+        "text": "Adheres to endothelium via OmpA → endothelial invasion → leakage and CD8+ T-cell vasculitis.",
         "explanation": "Correct. The lecturer specifically described R. rickettsii as an obligate intracellular Gram-negative rod (best stained with Giemsa or Gimenez stain) that adheres to vascular endothelium via OmpA (outer membrane protein A) as its key virulence factor. Invasion of endothelial cells causes vascular leakage producing hypovolemia and hypoproteinemia. CD8+ T-cell-mediated cytokine killing of infected cells contributes to the vasculitis. The classic clinical presentation is a macular rash beginning on the wrists, arms, and ankles approximately 3 days post-tick-bite (centripetal/inward-spreading distribution) with high fever, headache, malaise, myalgia, and abdominal pain. Progression to a petechial rash carries a poor prognosis. 10-25% fatality rate if untreated; treatment is doxycycline."
       }
     ],
@@ -265,7 +265,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Lyme disease classically presents with the erythema migrans rash after Ixodes tick bite, not abrupt fever without skin findings after farm exposure. This would be the correct answer if the patient had an erythema migrans rash after hiking in the Northeast."
       },
       {
-        "text": "Coxiella burnetii — Gram-negative organism that stains weakly; primary reservoirs are sheep, goats, and cattle; transmitted via aerosols of tick feces, parturition products (placentas), feces, and urine of infected animals (not via tick bite); causes Q fever (no rash); chronic infection (especially in immunocompromised or with preexisting valvulopathy) can cause culture-negative endocarditis.",
+        "text": "Coxiella burnetii — Q fever from aerosols of sheep/goat parturition products (no tick bite).",
         "explanation": "Correct. The lecturer specifically described Coxiella burnetii as a Gram-negative organism that stains weakly (often requiring serology rather than gram stain for diagnosis). Primary reservoirs are sheep, goats, and cattle. Crucially, transmission is via inhalation of aerosols from contaminated tick feces, animal parturition products (placentas), feces, and urine — NOT typically via tick bite, distinguishing it from other Rickettsiales. The disease ('Q fever') presents with abrupt high fever, headache, myalgia, and fatigue without rash; severe sequelae include hepatitis and pneumonia (~5%). Look for occupational exposure in veterinarians, food handlers, ranchers, and farm personnel. Chronic Q fever causes culture-negative endocarditis (especially in immunocompromised patients or with preexisting valvulopathy). Treatment: doxycycline 14 days (chronic disease: doxycycline + hydroxychloroquine)."
       },
       {
@@ -284,7 +284,7 @@ window.Test_L177 = [
     "questionText": "A microbiologist is processing a wound specimen from a suspected case of ulceroglandular tularemia. The lecturer specifically warned about laboratory hazards and described the required culture conditions. Which of the following best describes the laboratory diagnosis of Francisella tularensis?",
     "options": [
       {
-        "text": "Aerobic Gram-negative, faintly staining coccobacillus, intracellular; fastidious requiring buffered charcoal yeast extract (BCYE) agar with cysteine supplement (same media used for Legionella); takes more than 3 days for growth; extreme biohazard for laboratory workers; antibody titers are usually used for diagnosis; treatment of choice = gentamicin.",
+        "text": "Faintly staining intracellular coccobacillus on BCYE-cysteine agar; treat gentamicin.",
         "explanation": "Correct. The lecturer specifically described Francisella tularensis as an aerobic, Gram-negative, faintly-staining coccobacillus that is intracellular and capsulated. Culture is fastidious: it requires buffered charcoal yeast extract (BCYE) agar with cysteine supplement (the same medium used for Legionella) and takes more than 3 days to grow. The lecturer emphasized this is an EXTREME biohazard for laboratory workers (one of the most infectious bacteria for laboratory acquisition), so serology with antibody titers is usually preferred for diagnosis over culture. Treatment of choice is gentamicin; doxycycline and ciprofloxacin are alternatives. Prompt tick removal can prevent infection."
       },
       {
@@ -354,7 +354,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Q fever presents more indolently with hepatitis/pneumonia and atypical-pneumonia-like features in farm workers, not the rapidly progressive shock with massive mediastinal widening of inhalation anthrax. This would be the correct answer if the patient had subacute atypical pneumonia after sheep/cattle exposure."
       },
       {
-        "text": "Inhalation anthrax ('wool-sorter's disease') from spore-induced infection of alveolar macrophages → delivery to mediastinal lymph nodes → nonspecific URI prodrome → mediastinal lymphadenopathy, fever, massive edema, shock, and death within 3 days; treat empirically with ciprofloxacin or doxycycline plus 1-2 additional agents.",
+        "text": "Inhalation anthrax ('wool-sorter's disease') → mediastinal widening, shock, death in 3 days.",
         "explanation": "Correct. The lecturer specifically described inhalation anthrax as 'wool-sorter's disease' — historically named for industrial workers who inhaled spores from contaminated wool. Spores are inhaled, taken up by alveolar macrophages, and delivered to mediastinal lymph nodes during a clinically latent period. The clinical course follows: initial nonspecific URI prodrome → development of mediastinal lymphadenopathy with fever, massive edema (from edema factor), shock, and death within 3 days. The 2001 USPS letter contamination is the iconic modern example. Spores are highly resilient. Empiric treatment is ciprofloxacin or doxycycline plus 1-2 additional agents (rifampin, vancomycin, penicillin, imipenem, clindamycin, or clarithromycin). There is NO person-to-person transmission."
       },
       {
@@ -377,7 +377,7 @@ window.Test_L177 = [
     "questionText": "A 9-year-old girl from rural Arkansas presents in late June with 5 days of high fever (39.8°C), severe headache, myalgia, nausea, and a 2-day history of a macular rash that began on her wrists and ankles and has progressed to involve her trunk. Her parents recall removing a tick from her scalp 8 days ago after she had been hiking. The lecturer described this entity, geographic distribution, and treatment. Which of the following is the most appropriate first-line therapy?",
     "options": [
       {
-        "text": "Begin empiric doxycycline immediately without waiting for serology — Rocky Mountain spotted fever (R. rickettsii) is suspected based on tick exposure, centripetal rash pattern, and southeastern US geography; mortality is 10-25% if untreated, and delayed treatment dramatically worsens outcomes.",
+        "text": "Begin empiric doxycycline immediately without waiting for serology — suspected RMSF (R. rickettsii).",
         "explanation": "Correct. The lecturer specifically described RMSF as caused by Rickettsia rickettsii (an obligate intracellular Gram-negative rod, transmitted by Dermacentor tick), endemic in the southeastern US with Arkansas, Missouri, North Carolina, Tennessee, and Virginia accounting for over 50% of cases. The classic presentation: 3 days post-tick bite, a macular rash begins on the wrists, arms, and ankles and spreads CENTRIPETALLY (toward the trunk); 7 days post-tick bite, high fever, headache, malaise, myalgia, abdominal pain. Doxycycline is first-line and should be started empirically based on clinical suspicion BEFORE serologic confirmation — delays markedly worsen outcomes. (Doxycycline is given in children despite traditional concerns about tooth staining because short courses for rickettsial infection do not cause significant staining.) The Weil-Felix test is insensitive but used in low-resource settings; microimmunofluorescence is more sensitive and specific."
       },
       {
@@ -420,7 +420,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Typhoid fever produces a step-wise rising fever with relative bradycardia, rose spots, and travel exposure to endemic areas — not the chronic undulant fever pattern of brucellosis. This would be the correct answer if the patient had recently traveled to a developing country with contaminated water."
       },
       {
-        "text": "Brucella species (B. melitensis or B. abortus) causing brucellosis ('undulant fever'); transmission via unpasteurized dairy products; reticuloendothelial intracellular pathogen sequestered in spleen, liver, kidney, bone marrow, lymph nodes; treat with doxycycline + rifampin for ≥6 weeks (TMP-SMX in pregnancy and children under 8).",
+        "text": "Brucella ('undulant fever') from unpasteurized dairy; treat doxycycline + rifampin ≥6 weeks.",
         "explanation": "Correct. The lecturer specifically described brucellosis ('undulant fever' — named for the fluctuating wax-and-wane fever pattern this patient exhibits) as a zoonotic infection caused by Brucella species — B. abortus, B. melitensis, B. canis, and B. suis. The organism is a non-motile, non-encapsulated, slow-growing, aerobic Gram-negative coccobacillus. Transmission is via consumption of contaminated/unpasteurized dairy products (or inhalation of aerosols from livestock). Brucella is a reticuloendothelial intracellular pathogen sequestered in spleen, liver, kidney, bone marrow, and lymph nodes. Symptoms (1-3 weeks post-exposure) include malaise, chills, sweats, fatigue, weight loss, and nonproductive cough; the characteristic undulant fever can occur. Treatment is doxycycline + rifampin for at least 6 weeks; in pregnant women and children ≤8 years, TMP-SMX replaces doxycycline. Prevention requires animal vaccination and pasteurization."
       },
       {
@@ -486,7 +486,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Brucellosis presents with chronic undulant fever and constitutional symptoms over weeks, not acute pseudoappendicitis. This would be the correct answer if the patient had chronic fluctuating fever after unpasteurized dairy."
       },
       {
-        "text": "Yersinia enterocolitica — Gram-negative facultative anaerobic rod with cold resistance (enhanced isolation at 4°C); causes enterocolitis and pseudoappendicitis (especially in children) with bloody diarrhea, fever, and abdominal pain involving the terminal ileum and mesenteric lymph nodes; acquired from undercooked meat, milk, or water; cultured on cefsulodin-irgasan-novobiocin (CIN) medium.",
+        "text": "Yersinia enterocolitica — pseudoappendicitis with terminal ileitis from undercooked pork.",
         "explanation": "Correct. The lecturer specifically described Y. enterocolitica as a Gram-negative facultative anaerobic rod with distinctive cold resistance (enhanced isolation at 4°C — a 'cold enrichment' technique). It causes enterocolitis and pseudoappendicitis (especially in children), classically presenting with fever, bloody diarrhea, and severe right lower quadrant abdominal pain that mimics appendicitis — but the inflammation is in the terminal ileum and mesenteric lymph nodes rather than the appendix itself. Acquisition is from contaminated meat (especially pork), milk, or water (about 1/100,000 people infected per year in the US). The laboratory uses cefsulodin-irgasan-novobiocin (CIN) medium for selective isolation. Other manifestations include septicemia, intra-abdominal abscess, arthritis, hepatitis, and osteomyelitis."
       }
     ],
@@ -501,7 +501,7 @@ window.Test_L177 = [
     "questionText": "A 22-year-old triathlete returns from the Hawaii Ironman race 10 days ago, having spent considerable time swimming in fresh-water streams and lakes during the swim leg and training. She now presents with high fever (39.5°C), severe myalgia (especially calf), jaundice, conjunctival suffusion (bilateral red-eye without discharge), and an acute kidney injury (creatinine 3.2 mg/dL). The lecturer specifically described this entity. Which of the following best identifies this syndrome and the causative organism?",
     "options": [
       {
-        "text": "Weil's disease — severe icteric leptospirosis caused by Leptospira interrogans acquired via skin/conjunctival penetration during fresh-water exposure (animal urine — especially rat — contaminates water sources); treat with IV penicillin or doxycycline.",
+        "text": "Weil's disease — severe icteric leptospirosis from fresh-water rat urine.",
         "explanation": "Correct. The lecturer specifically described Weil's disease as the severe, icteric form of leptospirosis (Leptospira interrogans, a thin spirochete with hooked ends). Transmission occurs through skin or conjunctival penetration during exposure to fresh water contaminated by animal urine (especially rats and dogs). Hawaii accounts for over 50% of US infections (100-200 per year) due to recreational water exposure. The clinical features include conjunctival suffusion (bilateral red eyes without discharge, a classic pearl), severe myalgia (especially of the calves), jaundice, acute kidney injury, and possible vascular collapse with hemorrhage. Weil's disease typically resolves without hepatic necrosis and usually with full renal recovery. Treatment is IV penicillin or doxycycline; doxycycline is the prophylactic agent for at-risk activities."
       },
       {
@@ -540,7 +540,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. While ehrlichiosis shares the morula appearance, the cellular host is monocytes (not neutrophils), and the vector is the Lone Star tick (not Ixodes). The morulae here are in neutrophils, fitting Anaplasma. This would be the correct answer if the morulae had been in monocytes after a Lone Star tick exposure in the southeastern US."
       },
       {
-        "text": "Anaplasma phagocytophilum (human granulocytic anaplasmosis) — transmitted by Ixodes ticks with small rodents as reservoirs; characteristic morulae within neutrophils on Giemsa-stained peripheral smear; classic labs include thrombocytopenia, leukopenia, and elevated transaminases; treat with doxycycline.",
+        "text": "Anaplasma phagocytophilum (human granulocytic anaplasmosis) — Ixodes-borne; morulae in neutrophils; treat doxycycline.",
         "explanation": "Correct. The lecturer specifically described Anaplasma phagocytophilum as causing human granulocytic anaplasmosis, transmitted by Ixodes ticks with small rodents as the principal reservoirs. The organism preferentially infects granulocytes (especially neutrophils) and forms characteristic intracytoplasmic 'morulae' (mulberry-like clusters) visible on Giemsa-stained peripheral blood smears. The classic laboratory triad — thrombocytopenia, leukopenia, and elevated transaminases — is shared with ehrlichiosis (Ehrlichia chaffeensis infects monocytes instead). Onset is 5-10 days post-tick-bite with high fever, headache, malaise, and myalgia; potential sequela is peripheral neuropathy. Treatment is doxycycline."
       },
       {
@@ -598,7 +598,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. While Brucella can rarely cause culture-negative endocarditis, the much more common 'culture-negative endocarditis from livestock exposure' organism is Coxiella burnetii. This would be the correct answer if Brucella endocarditis were specifically suspected with serologic evidence."
       },
       {
-        "text": "Chronic Q fever (Coxiella burnetii) endocarditis — classic cause of culture-negative endocarditis, especially in immunocompromised hosts or those with preexisting valvulopathy; diagnose by serology (immunofluorescence antibody); treat with doxycycline + hydroxychloroquine (long-duration regimen).",
+        "text": "Chronic Q fever (Coxiella burnetii) endocarditis — classic culture-negative endocarditis with preexisting valvulopathy.",
         "explanation": "Correct. The lecturer specifically described chronic Q fever as developing in patients who are immunocompromised or have preexisting valvulopathy — manifesting as subacute endocarditis with culture-negative blood cultures because Coxiella is a fastidious intracellular pathogen that requires serology for diagnosis. The exposure history (sheep rancher with longstanding bicuspid aortic valve and valve repair) and culture-negative blood cultures despite extended incubation are classic for Q fever endocarditis. Diagnosis is by serology (immunofluorescence antibody — phase I IgG titers ≥1:800 support chronic Q fever). Treatment is prolonged combination doxycycline + hydroxychloroquine (often for 18 months to 4 years), and surgical valve replacement may be necessary. Coxiella is also a known cause of granulomas in involved organs (hepatitis, pneumonia)."
       },
       {

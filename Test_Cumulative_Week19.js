@@ -5,7 +5,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 32-year-old American man returns from a three-week safari in Tanzania and presents to the emergency department with five days of fever, severe headache, and progressive confusion. He took no malaria chemoprophylaxis. Vital signs show temperature 40.1°C, heart rate 132/min, and blood pressure 88/52 mmHg. He is somnolent and unable to follow commands. Thick and thin blood smears reveal numerous P. falciparum ring forms with multiple rings per red cell, banana-shaped gametocytes, and a parasitemia of 12%. Which of the following is the most appropriate initial treatment?",
     "options": [
       {
-        "text": "Initiate intravenous artesunate (0, 12, 24 hours, then once daily) and transition to a complete course of an oral artemisinin-based combination once parasitemia falls below 1%",
+        "text": "Initiate IV artesunate, then transition to oral ACT once parasitemia falls below 1%",
         "explanation": "Correct. The patient has severe P. falciparum malaria (cerebral involvement, hypotension, parasitemia >5%). Parenteral artesunate is the preferred treatment for severe disease and produces the most rapid parasite kill. After initial parenteral therapy and once parasitemia drops below 1%, transition to a complete oral ACT course is required to complete cure. Monitor for delayed post-artesunate hemolysis (1-3 weeks later, especially with high initial parasitemia)."
       },
       {
@@ -51,7 +51,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. This describes necrotizing fasciitis, an invasive deep-tissue infection with pain out of proportion, crepitus, and systemic toxicity — not a toxin-mediated superficial blistering disease in a toddler. This would be the correct answer in a patient with bullae, crepitus, dusky skin, and a rapidly progressive course requiring surgical debridement."
       },
       {
-        "text": "Staphylococcus aureus exfoliative toxin (ETA/ETB) cleaves desmoglein-1 in the superficial epidermis, causing splitting at the granular layer with toxin-mediated sterile blisters",
+        "text": "S. aureus exfoliative toxin (ETA/ETB) cleaves desmoglein-1, splitting the granular layer",
         "explanation": "Correct. Staphylococcal scalded skin syndrome (SSSS) is caused by exfoliative (epidermolytic) toxins ETA and ETB produced by S. aureus at a distant focus (often nasopharynx, conjunctiva, or umbilicus). The toxin is a serine protease that cleaves desmoglein-1, a desmosomal protein that holds keratinocytes together in the superficial granular layer — producing superficial flaccid blisters that easily slough (positive Nikolsky sign). Because the toxin acts at a distance, cultures of the blister fluid are sterile. Mucous membranes are spared (a key distinguishing feature from SJS/TEN). Treatment is supportive care, fluid resuscitation, and antistaphylococcal antibiotics (e.g., nafcillin or vancomycin if MRSA risk)."
       }
     ],
@@ -81,7 +81,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Bullous pemphigoid produces tense bullae (not flaccid) in elderly patients with a negative Nikolsky sign and no mucosal involvement; the antibody is against BPAG2 at the dermal-epidermal junction. This would be the correct answer in an elderly patient with tense bullae on flexural skin, negative Nikolsky, and linear IgG along the DEJ on biopsy."
       },
       {
-        "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis (SJS/TEN) — sulfa-triggered T-cell-mediated full-thickness keratinocyte apoptosis affecting 10-30% (SJS-TEN overlap) or >30% (TEN) BSA; STOP the offending drug immediately, transfer to a burn unit, and provide aggressive supportive care",
+        "text": "SJS/TEN — stop the drug, transfer to burn unit, supportive care",
         "explanation": "Correct. SJS/TEN is a severe, often fatal mucocutaneous drug reaction characterized by T-cell-mediated keratinocyte apoptosis producing full-thickness epidermal necrosis with positive Nikolsky sign and prominent mucosal involvement. Sulfa drugs (especially TMP-SMX) are the most common trigger; others include aromatic anticonvulsants, allopurinol, NSAIDs, and nevirapine. BSA involvement defines severity (SJS <10%, SJS-TEN overlap 10-30%, TEN >30%). Mortality is 5-10% for SJS and >30% for TEN. Management: immediate withdrawal of the offending drug, burn unit transfer, fluid and electrolyte support, wound care, ophthalmologic consultation, and consideration of cyclosporine or IVIG in selected cases."
       }
     ],
@@ -133,7 +133,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. The hypodermis contributes to mobility but is not the source of Langer lines, which reflect the deeper dermal collagen architecture. This would be the correct answer in a question about subcutaneous injection mechanics."
       },
       {
-        "text": "Parallel orientation aligns with the predominant direction of type I collagen bundles in the reticular dermis, minimizing wound tension and scar formation",
+        "text": "Parallel orientation aligns with type I collagen bundles in the reticular dermis",
         "explanation": "Correct. Langer lines (also known as relaxed skin tension lines or cleavage lines) reflect the predominant orientation of type I collagen bundles and elastic fibers in the reticular dermis. Surgical incisions made parallel to these lines distribute tension along the natural collagen architecture, producing minimal wound widening and a finer, less conspicuous scar. Incisions made perpendicular to Langer lines lie against the collagen grain, generating chronic tension that produces wider, more prominent scars."
       },
       {
@@ -167,7 +167,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Rubella produces a much milder illness with posterior auricular/occipital lymphadenopathy and Forschheimer spots (palatal petechiae), not the severe respiratory prodrome and Koplik spots described. This would be the correct answer in a young adult with mild fever, postauricular adenopathy, and a face-down rash."
       },
       {
-        "text": "Measles (rubeola) — paramyxovirus producing the 'three Cs' (cough, coryza, conjunctivitis) plus Koplik spots, followed by a cephalad-to-caudad morbilliform rash involving palms and soles",
+        "text": "Measles (rubeola) — paramyxovirus; 3 Cs + Koplik spots, then morbilliform rash",
         "explanation": "Correct. Measles is a single-stranded RNA paramyxovirus and the most contagious common virus known to humans (R0 ~12-18). The prodrome features the 'three Cs' (Cough, Coryza, Conjunctivitis) followed by the pathognomonic Koplik spots (blue-white papules on a red base on the buccal mucosa) and then a cephalad-to-caudad morbilliform rash that classically involves the palms and soles. Complications include pneumonia (the most common cause of measles death), encephalitis, and the rare late SSPE. Prevention is by the MMR vaccine (requires ≥95% population coverage for herd immunity)."
       },
       {
@@ -185,7 +185,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 38-year-old immigrant from Mexico presents with two weeks of right upper quadrant pain, fever, and a tender hepatomegaly. Imaging reveals a single 6 cm hypoechoic lesion in the right hepatic lobe, and serology is positive for Entamoeba histolytica. After diagnosis is confirmed, the infectious disease team initiates therapy with a tissue-active agent followed by a luminal amebicide. Which of the following best describes the rationale for this two-drug strategy?",
     "options": [
       {
-        "text": "The tissue agent kills extra-intestinal trophozoites while the luminal agent eradicates cysts in the colonic lumen to prevent relapse and onward fecal-oral transmission",
+        "text": "The tissue agent kills extra-intestinal trophozoites; the luminal agent eradicates colonic cysts",
         "explanation": "Correct. Amebic liver abscess requires a two-drug strategy: a tissue agent (typically metronidazole or tinidazole) crosses into invaded tissues and kills trophozoites at the site of infection, while a luminal amebicide (paromomycin — a poorly absorbed aminoglycoside that inhibits parasite protein synthesis at the 30S/16S rRNA — or alternatives like iodoquinol or diloxanide furoate) eradicates the remaining cysts in the colonic lumen that the tissue agent does not reach. Skipping the luminal agent risks relapse from residual luminal cysts AND continued onward fecal-oral transmission to others."
       },
       {
@@ -219,7 +219,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Lipid formulations do not have intrinsically greater antifungal potency at the same dose; the rationale for switching is reduced toxicity that permits higher dosing if needed. This would be the correct answer if the new formulation had a fundamentally different mechanism."
       },
       {
-        "text": "Liposomal amphotericin B and lipid complex formulations have substantially reduced nephrotoxicity and infusion reactions compared with conventional amphotericin B deoxycholate, allowing higher dosing and improved tolerability — especially valuable in patients with renal injury",
+        "text": "Lipid amphotericin B formulations (L-AMB, ABLC) have substantially reduced nephrotoxicity and infusion reactions",
         "explanation": "Correct. Conventional amphotericin B deoxycholate is associated with near-universal nephrotoxicity (azotemia, AKI, renal tubular acidosis with potassium and magnesium wasting), infusion reactions, and anemia (from reduced renal EPO). Lipid formulations — liposomal AMB (L-AMB) and amphotericin B lipid complex (ABLC) — preferentially deliver the drug to reticuloendothelial cells and have substantially reduced nephrotoxicity and infusion-related toxicity. This allows higher dosing if needed and is particularly important in patients with baseline or evolving renal impairment. Concurrent normal saline hydration and electrolyte repletion are also standard."
       },
       {
@@ -309,7 +309,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Primaquine and tafenoquine are 8-aminoquinolines that cause severe oxidative hemolysis in G6PD-deficient patients; G6PD testing is mandatory before initiation. This would be the correct answer only in a setting where G6PD status was already documented as normal."
       },
       {
-        "text": "Test for glucose-6-phosphate dehydrogenase (G6PD) deficiency before initiating primaquine — a positive test mandates an alternative strategy because both primaquine and tafenoquine cause oxidative hemolysis in G6PD-deficient red cells",
+        "text": "Test for G6PD deficiency before primaquine — 8-aminoquinolines cause oxidative hemolysis in G6PD-deficient cells",
         "explanation": "Correct. P. vivax and P. ovale form dormant liver-stage hypnozoites that cause relapses months to years after the initial blood-stage infection. Eradication ('radical cure') requires an 8-aminoquinoline — either primaquine (30 mg base daily for 14 days) or single-dose tafenoquine — in addition to the schizonticide that clears the erythrocytic stage. Both 8-aminoquinolines cause severe oxidative hemolysis in G6PD-deficient red cells, so quantitative G6PD testing is mandatory before initiation. G6PD-deficient patients require alternative strategies such as weekly low-dose primaquine under close monitoring (mild deficiency) or no primaquine with chronic chloroquine suppression."
       },
       {
@@ -335,7 +335,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 58-year-old man with diabetes presents with 18 hours of rapidly progressive severe left thigh pain that he describes as 'far worse than the appearance.' Examination reveals dusky, slightly bullous skin with palpable crepitus and pain on light touch extending well beyond the visible area of erythema. He is febrile to 39.7°C and hypotensive at 86/52 mmHg. Which of the following is the most appropriate immediate management?",
     "options": [
       {
-        "text": "Emergent surgical debridement plus broad-spectrum intravenous antibiotics (covering MRSA, gram-negatives, and anaerobes) and aggressive volume resuscitation",
+        "text": "Emergent surgical debridement plus broad-spectrum IV antibiotics and fluid resuscitation",
         "explanation": "Correct. Necrotizing fasciitis is a rapidly advancing infection of the fascial planes — most commonly polymicrobial in diabetics (type I) or monomicrobial group A streptococcus (type II) — characterized by pain out of proportion to exam, dusky skin, bullae, crepitus (from gas-forming organisms), and systemic toxicity progressing to septic shock. Antibiotics alone are insufficient; survival depends on EMERGENT surgical debridement of all necrotic tissue. Broad-spectrum antibiotics (typically vancomycin + piperacillin-tazobactam + clindamycin for antitoxin effect) are added immediately, along with aggressive fluid resuscitation. Imaging should not delay the surgical consult."
       },
       {
@@ -403,7 +403,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Anthrax is a toxin-mediated disease, not a delayed-type hypersensitivity granulomatous reaction. This would be the correct answer in a question about cutaneous tuberculosis or sarcoidosis."
       },
       {
-        "text": "Bacillus anthracis lethal toxin (PA + LF, a zinc metalloprotease) cleaves MAP kinase signaling pathways in macrophages and keratinocytes, producing painless local necrosis; edema toxin (PA + EF, a calmodulin-activated adenylyl cyclase) drives the marked surrounding edema",
+        "text": "B. anthracis lethal toxin (PA + LF) produces painless necrosis; edema toxin (PA + EF) drives edema",
         "explanation": "Correct. Cutaneous anthrax is the most common form of human anthrax and results from B. anthracis spore inoculation through a cut or abrasion — classic exposures include hides, wool, and leather (tannery workers). The protective antigen (PA) is a B subunit that binds host cell receptors and translocates lethal factor (LF, a zinc metalloprotease that cleaves MAP kinase kinases) and edema factor (EF, a calmodulin-activated adenylyl cyclase that elevates cAMP) into the host cell. LF drives the painless black eschar by inhibiting protective signaling and producing local necrosis; EF drives the dramatic surrounding non-pitting edema by disrupting fluid homeostasis. Treatment for localized disease is oral amoxicillin or ciprofloxacin; systemic disease requires combination therapy (e.g., ciprofloxacin or doxycycline plus 1-2 additional agents)."
       },
       {
@@ -425,7 +425,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 34-year-old man with psoriasis vulgaris has thick erythematous plaques with silvery scale on his elbows, knees, and scalp. Skin biopsy demonstrates marked epidermal acanthosis, parakeratosis, elongated rete ridges, suprapapillary thinning, and a notably diminished granular layer. Which of the following best explains the diminished granular layer histology?",
     "options": [
       {
-        "text": "Accelerated keratinocyte turnover (8-10 days vs. the normal ~30 days) leaves insufficient time for the granular layer to fully develop, producing the histologically thin or absent stratum granulosum",
+        "text": "Accelerated keratinocyte turnover (8-10 days vs. ~30 days) leaves insufficient time for granular layer development",
         "explanation": "Correct. Psoriasis is characterized by markedly accelerated keratinocyte turnover — approximately 8-10 days from basal layer to desquamation, compared with the normal ~30 days. The shortened transit time leaves insufficient time for the keratinocytes to accumulate keratohyalin granules (filaggrin + trichohyalin) that would normally form the granular layer (stratum granulosum); the result is a histologically thin or absent granular layer, parakeratosis (retained nuclei in the cornified layer, because cells haven't fully matured), and the clinical silvery scale. Other psoriasis histologic features include Munro microabscesses (neutrophil aggregates in the superficial epidermis), acanthosis, elongated rete ridges, and suprapapillary thinning (Auspitz sign correlate)."
       },
       {
@@ -471,7 +471,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Healing pigmentary changes are not the principal distinguisher; both diseases can produce post-inflammatory pigment change, and monkeypox often heals with notable scarring. This would be the correct answer in a different sequela-based question."
       },
       {
-        "text": "Varicella lesions in any one body area are at VARIOUS stages of evolution (macules, papules, vesicles, crusts coexist) while monkeypox lesions in any one area are typically all at the SAME stage of development; monkeypox also classically begins on face/extremities (including palms and soles) and spreads centripetally",
+        "text": "Varicella lesions in one area are at VARIOUS stages; monkeypox lesions in one area are all at the SAME stage",
         "explanation": "Correct. The single most useful clinical distinction between primary varicella (chickenpox) and monkeypox is the synchrony of lesion stages within any given body area. Varicella demonstrates the classic 'dew drop on a rose petal' appearance with lesions in MULTIPLE stages (macules, papules, vesicles, pustules, and crusts) coexisting in the same anatomic region; monkeypox lesions in any one area are typically all at the SAME stage of development. Distribution also differs: varicella starts centrally (trunk) and spreads outward (centrifugally) and typically spares palms/soles, while monkeypox classically begins on the face and extremities (including palms and soles) and spreads centripetally."
       }
     ],
@@ -493,7 +493,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Melarsoprol is reserved for late-stage rhodesiense HAT (CNS involvement) because of fatal reactive encephalopathy in up to 18% of patients; it is not first-line for early-stage gambiense disease. This would be the correct answer in late-stage CNS rhodesiense HAT."
       },
       {
-        "text": "Oral fexinidazole, the preferred agent for early-stage gambiense (and rhodesiense) human African trypanosomiasis in patients ≥6 years and ≥20 kg",
+        "text": "Oral fexinidazole, the preferred agent for early-stage gambiense HAT",
         "explanation": "Correct. Fexinidazole is now the preferred first-line treatment for early-stage gambiense human African trypanosomiasis (and for non-severe late-stage gambiense HAT) in patients aged ≥6 years and ≥20 kg. It is oral (a major operational advantage in resource-limited settings), penetrates the blood-brain barrier (allowing single-agent treatment of both stages of gambiense disease), and is markedly safer than the older arsenical melarsoprol. For early-stage HAT in children <6 years or <20 kg who cannot take fexinidazole, pentamidine remains first-line."
       },
       {
@@ -523,7 +523,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Griseofulvin is active only against dermatophytes (tinea infections) and is the drug of choice for tinea capitis in children — it has no activity against invasive Aspergillus or other systemic fungi. This would be the correct answer in a child with tinea capitis."
       },
       {
-        "text": "Intravenous voriconazole — the drug of choice for invasive aspergillosis with the best survival evidence",
+        "text": "IV voriconazole — drug of choice for invasive aspergillosis",
         "explanation": "Correct. Voriconazole is the drug of choice for invasive aspergillosis based on randomized trial evidence of improved survival compared with conventional amphotericin B. Alternatives include liposomal amphotericin B, isavuconazole, and posaconazole. Voriconazole has several distinctive adverse effects to monitor: ophthalmic (transient blurred vision, color changes, photophobia; optic neuritis with prolonged therapy), peripheral neuropathy (may be irreversible), hallucinations and encephalopathy (at high IV concentrations), and periosteal disease from fluoride accumulation (it is trifluorinated). Therapeutic drug monitoring is helpful for optimizing efficacy and limiting toxicity."
       },
       {
@@ -553,7 +553,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. p53 mutations are central to squamous cell carcinoma (and many other cancers) and are seen in BCC as a secondary event, but the SIGNATURE driver of BCC is unrestrained Hedgehog signaling. This would be the correct answer if the question were about SCC pathogenesis."
       },
       {
-        "text": "Hedgehog signaling pathway activation — most commonly loss-of-function mutation in PTCH1 (the tumor suppressor that normally inhibits Smoothened), leading to unopposed SMO signaling and GLI-driven transcription of growth-promoting genes",
+        "text": "Hedgehog pathway activation — most commonly PTCH1 loss-of-function with unopposed SMO signaling",
         "explanation": "Correct. Basal cell carcinoma is the most common human cancer and is driven by inappropriate activation of the Hedgehog signaling pathway. Normally, the PTCH1 receptor inhibits Smoothened (SMO); loss-of-function mutations in PTCH1 (or activating mutations in SMO) remove that inhibition, allowing continuous SMO signaling that activates the GLI family of transcription factors and drives proliferation. UV radiation is the dominant environmental cause. Gorlin syndrome (basal cell nevus syndrome) is the hereditary form caused by germline PTCH1 mutations and presents with multiple early-onset BCCs. Targeted Hedgehog pathway inhibitors (vismodegib, sonidegib) are used for advanced or metastatic disease."
       },
       {
@@ -587,7 +587,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Vellus-to-terminal hair conversion is a developmental/pubertal process driven by androgens — not the explanation for diffuse hair shedding 3 months after a stressor. This would be the correct answer in a question about androgen-driven hair patterning at puberty."
       },
       {
-        "text": "Telogen — the resting phase; telogen effluvium classically follows a major stressor (illness, surgery, pregnancy, severe psychosocial stress, crash diet) by 2-3 months, producing diffuse shedding of club hairs",
+        "text": "Telogen — the resting phase; telogen effluvium classically follows a major stressor by 2-3 months",
         "explanation": "Correct. Scalp hair cycles through three phases: anagen (active growth, 2-7 years, ~85% of follicles), catagen (involutional, 2-3 weeks, 1-2% of follicles), and telogen (resting, ~100 days, ~15% of follicles). A major systemic stressor — surgery, severe illness, pregnancy/postpartum, crash dieting, or a high-stress life event — synchronously pushes a larger-than-normal fraction of anagen follicles into telogen. The hairs shed approximately 2-3 months later as the new anagen hairs grow in beneath them, producing diffuse hair loss with a positive hair pull test extracting telogen club hairs. The shedding is self-limited once the stressor resolves, and full recovery is expected."
       },
       {
@@ -613,7 +613,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Atovaquone-proguanil does not have a clinically meaningful CYP2C19 interaction with lithium and is not contraindicated in stable bipolar disorder. This would be the correct answer in a hypothetical scenario where such an interaction existed."
       },
       {
-        "text": "Mefloquine — contraindicated because of neuropsychiatric adverse effects (vivid dreams, anxiety, paranoia, hallucinations, frank psychosis) that can occur even in patients without prior psychiatric history; the risk is markedly higher in patients with established psychiatric disease (major depression, anxiety disorder, psychosis, bipolar disorder) or seizure disorder",
+        "text": "Mefloquine — contraindicated due to neuropsychiatric adverse effects in patients with bipolar disorder",
         "explanation": "Correct. Mefloquine is associated with neuropsychiatric adverse effects ranging from vivid dreams and anxiety to paranoia, hallucinations, and frank psychosis. The risk is markedly higher in patients with established major psychiatric disease — including bipolar disorder — or with a history of seizures, and mefloquine is contraindicated in these populations. Alternative chemoprophylaxis for this patient would be atovaquone-proguanil or doxycycline (depending on regimen tolerability and travel duration)."
       },
       {
@@ -639,7 +639,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Pre-formed staph enterotoxin in food causes acute self-limited vomiting and diarrhea within hours of ingestion — not multi-organ shock with rash. This would be the correct answer in a foodborne outbreak with rapid onset of GI symptoms after exposure to mayonnaise-based foods."
       },
       {
-        "text": "Toxic shock syndrome toxin-1 (TSST-1), a superantigen that bridges MHC class II molecules to the T-cell receptor non-specifically, producing massive polyclonal T-cell activation, a cytokine storm, capillary leak, and multi-organ failure",
+        "text": "TSST-1, a superantigen that bridges MHC II to TCR non-specifically, producing a cytokine storm",
         "explanation": "Correct. TSST-1 is a superantigen exotoxin produced by S. aureus that bypasses the normal antigen-specific immune response. Superantigens bridge the variable beta region of the T-cell receptor to MHC class II molecules on antigen-presenting cells in an antigen-independent fashion, activating up to 20% of all T cells simultaneously. The resulting cytokine storm (massive IL-1, TNF-α, IL-2, IFN-γ release) drives fever, profound vasodilation and capillary leak, shock, and multi-organ failure. The classic clinical pentad is fever, hypotension, diffuse macular erythroderma, mucosal hyperemia ('strawberry tongue'), and multi-organ involvement, with eventual desquamation of palms and soles. Menstrual TSS is the historical association (super-absorbent tampons), but non-menstrual TSS is now equally important (wound infections, postoperative)."
       },
       {
@@ -665,7 +665,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "An 82-year-old woman presents with several months of intense generalized pruritus that has recently been complicated by the appearance of tense, fluid-filled bullae on her trunk, axillae, and groin. The bullae do not slough when laterally rubbed (negative Nikolsky sign), and oral mucosa is uninvolved. Biopsy with direct immunofluorescence shows linear IgG and C3 deposition along the basement membrane zone. Which of the following best describes the molecular target of the autoantibody?",
     "options": [
       {
-        "text": "BPAG2 (collagen XVII), a transmembrane component of the hemidesmosome at the basement membrane zone — the autoantibody disrupts attachment of basal keratinocytes to the underlying lamina densa, producing SUBEPIDERMAL tense bullae with negative Nikolsky sign and linear IgG/C3 along the DEJ on direct immunofluorescence",
+        "text": "BPAG2 (collagen XVII), a hemidesmosome component at the basement membrane zone",
         "explanation": "Correct. Bullous pemphigoid is the most common autoimmune blistering disease of older adults and is caused by IgG autoantibodies against BPAG2 (also known as collagen XVII, BP180) and BPAG1 (BP230) — components of the hemidesmosome that anchor basal keratinocytes to the underlying basement membrane. Autoantibody binding leads to complement activation and inflammatory infiltration that produces a SUBEPIDERMAL blister (vs. the suprabasal blister of pemphigus). Because the cleavage is below the basal cell layer rather than between keratinocytes, the bullae are TENSE rather than flaccid and the Nikolsky sign is NEGATIVE. Oral mucosa is typically spared (in contrast to pemphigus vulgaris). Direct immunofluorescence shows LINEAR IgG and C3 along the DEJ. Treatment is high-potency topical or systemic corticosteroids ± steroid-sparing immunosuppression."
       },
       {
@@ -707,7 +707,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Topical therapy is grossly inadequate for systemic tularemia, which requires parenteral antimicrobial therapy. This would be the correct answer for mild localized impetigo."
       },
       {
-        "text": "Intramuscular or intravenous gentamicin (alternative: doxycycline or ciprofloxacin) — these are the first-line agents for tularemia",
+        "text": "IM or IV gentamicin — first-line for tularemia",
         "explanation": "Correct. Ulceroglandular tularemia (the most common form of tularemia) results from inoculation of Francisella tularensis through skin contact with infected animals (especially rabbits) or via tick bite, and presents with a papule that progresses to a necrotic ulcer plus painful regional lymphadenopathy. F. tularensis is geographically concentrated in Oklahoma, Arkansas, and Missouri. First-line therapy is parenteral gentamicin (an aminoglycoside); alternatives include doxycycline and ciprofloxacin. F. tularensis is an extreme laboratory biohazard — clinicians must alert the lab to handle specimens at BSL-3 — so serology is generally preferred to culture for diagnosis."
       },
       {
@@ -741,7 +741,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Nickel is not directly cytopathic; the reaction is immune-mediated through T cells. This would be the correct answer in a question about a directly toxic chemical irritant."
       },
       {
-        "text": "Langerhans cells in the stratum spinosum sampled and processed the haptenized nickel-protein complex, migrated through dermal lymphatics to regional lymph nodes, and presented antigen to naive T cells; on subsequent exposure the now-sensitized effector T cells migrate back to the skin and trigger a Type IV delayed (24-72 hour) cell-mediated eczematous response",
+        "text": "Langerhans cells presented haptenized nickel to T cells; Type IV delayed cell-mediated response on re-exposure",
         "explanation": "Correct. Allergic contact dermatitis is the prototypical Type IV (delayed-type, cell-mediated) hypersensitivity reaction in skin. Nickel acts as a hapten that binds host proteins and is taken up by Langerhans cells (specialized dendritic cells of the stratum spinosum that contain pathognomonic 'tennis racket'-shaped Birbeck granules). Antigen-loaded Langerhans cells migrate through dermal lymphatics to the regional lymph nodes and present the antigen-MHC complex to naive T cells, generating allergen-specific effector T cells (sensitization phase, ~10-14 days for new allergens). On RE-exposure, sensitized effector T cells migrate to the site of contact and orchestrate the delayed (24-72 hour) eczematous reaction characteristic of allergic contact dermatitis. Common offenders include nickel, poison ivy (urushiol), fragrances, neomycin, and latex."
       }
     ],
@@ -755,7 +755,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 68-year-old man presents with three days of burning pain on the right side of his trunk, followed yesterday by the eruption of grouped vesicles on an erythematous base in a band-like distribution from his back around to his anterior abdomen — strictly respecting the midline. He had chickenpox at age 6. Which of the following best describes the underlying pathophysiology and the most concerning long-term complication?",
     "options": [
       {
-        "text": "Reactivation of latent varicella-zoster virus from a dorsal root ganglion → unilateral dermatomal vesicular eruption; most concerning long-term complication is postherpetic neuralgia (chronic neuropathic pain), occurring in approximately 40% of patients over age 60",
+        "text": "Reactivation of latent VZV from a dorsal root ganglion → unilateral dermatomal eruption; complication is postherpetic neuralgia",
         "explanation": "Correct. Herpes zoster (shingles) is reactivation of latent varicella-zoster virus that has resided in the dorsal root or cranial nerve sensory ganglion since primary infection (chickenpox). Decreased cell-mediated immunity (age, immunosuppression, stress, malignancy) triggers reactivation; the virus travels down the sensory nerve and produces a UNILATERAL DERMATOMAL vesicular eruption that classically respects the midline. A prodrome of burning/tingling pain in the dermatome often precedes the rash by days. Postherpetic neuralgia (PHN) — chronic neuropathic pain persisting >90 days after rash resolution — occurs in ~40% of patients over age 60 and is the most common long-term morbid complication; this is the principal rationale for the recombinant zoster vaccine (Shingrix) in adults ≥50. Early antiviral therapy (within 72 hours of rash onset) reduces severity, duration, and PHN risk."
       },
       {
@@ -797,7 +797,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Pentavalent antimonials are used for leishmaniasis, not for Chagas disease. This would be the correct answer in cutaneous or mucocutaneous leishmaniasis."
       },
       {
-        "text": "Oral benznidazole twice daily for 60 days — the preferred first-line agent for acute Chagas disease, with cure rates exceeding 80%",
+        "text": "Oral benznidazole — first-line for acute Chagas disease",
         "explanation": "Correct. Benznidazole (a nitroimidazole activated by parasite nitroreductase to DNA-damaging radicals) is the preferred first-line agent for acute Chagas disease. It is better tolerated than nifurtimox, has simpler twice-daily dosing for 60 days, and achieves cure rates >80% in the acute phase. The therapeutic window is critical — acute-phase treatment is far more effective than chronic-phase treatment, which is incompletely effective once megaesophagus, megacolon, and dilated cardiomyopathy have developed. Nifurtimox is an alternative if benznidazole is not tolerated."
       },
       {
@@ -827,7 +827,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Fluconazole has variable efficacy in onychomycosis and is not the agent of choice for dermatophyte nail infection. This would be the correct answer in vulvovaginal candidiasis (single-dose 150 mg) or cryptococcal maintenance suppression."
       },
       {
-        "text": "Oral terbinafine 250 mg daily for 12 weeks (with baseline LFTs) — the drug of choice for dermatophyte onychomycosis",
+        "text": "Oral terbinafine — drug of choice for dermatophyte onychomycosis",
         "explanation": "Correct. Terbinafine is the drug of choice for dermatophyte onychomycosis. It inhibits squalene epoxidase, producing both ergosterol depletion AND toxic squalene accumulation — making it fungicidal against dermatophytes. It accumulates in keratin-rich tissues (skin, nails), allowing a defined oral course (typically 12 weeks for toenails) to clear the infection. Baseline LFTs are recommended because of rare hepatotoxicity (contraindicated in active liver disease). Topical agents are less effective; griseofulvin and oral azoles are alternatives but less effective than terbinafine for dermatophyte onychomycosis."
       },
       {
@@ -845,7 +845,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 71-year-old fair-skinned farmer presents with a 1.2 cm hyperkeratotic ulcerated nodule on his lower lip that has slowly enlarged over 3 months. Biopsy reveals nests of atypical keratinocytes invading the dermis with prominent keratin pearls and intercellular bridges. Which of the following best describes the principal environmental risk factor and most likely precursor lesion?",
     "options": [
       {
-        "text": "UV radiation; precursor = actinic keratosis (a premalignant squamous dysplasia with sandpapery texture on sun-exposed skin, 1-10% of which progress to SCC over time)",
+        "text": "UV radiation; precursor = actinic keratosis",
         "explanation": "Correct. Squamous cell carcinoma is the second most common skin cancer, and ultraviolet radiation is the dominant environmental risk factor. The classic precursor lesion is actinic keratosis — a premalignant squamous dysplasia presenting as sandpapery, scaly, rough patches on chronically sun-exposed skin in fair-skinned patients. Approximately 1-10% of actinic keratoses progress to invasive SCC over time, making field treatment (cryotherapy, 5-FU, imiquimod) of clinical importance. Immunosuppression (especially after solid organ transplantation) further accelerates progression. The lip is a high-yield SCC location (so-called 'farmer's lip'). Histology shows nests of atypical keratinocytes invading the dermis with keratin pearls and intercellular bridges; solar elastosis in the surrounding dermis is a common finding."
       },
       {
@@ -875,7 +875,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "A 72-year-old man presents with a rapidly growing 1.5 cm reddish-purple firm nodule on his cheek. Biopsy reveals a poorly differentiated tumor composed of small round blue cells with dense nuclei and scant cytoplasm; immunohistochemistry is positive for cytokeratin 20 (CK20) in a perinuclear dot pattern and for chromogranin and synaptophysin. The pathologist tells him the tumor arises from a cell type involved in fine touch sensation. Which of the following best describes the cell of origin?",
     "options": [
       {
-        "text": "Merkel cells — neural-crest-derived, modified epidermal cells in the stratum basale that mediate fine touch via adrenergic synapses with Aβ afferents; Merkel cell carcinoma is an aggressive neuroendocrine skin malignancy often associated with Merkel cell polyomavirus and intense UV exposure",
+        "text": "Merkel cells — neural-crest-derived basal cells that mediate fine touch via Aβ afferents",
         "explanation": "Correct. Merkel cells are neural-crest-derived modified epidermal cells located in the stratum basale of glabrous skin, most concentrated in fingertips. They serve as slowly adapting mechanoreceptors for fine touch and release norepinephrine onto Aβ sensory afferents via adrenergic-like synapses — they are not true neurons. Merkel cell carcinoma is an aggressive neuroendocrine skin malignancy of the elderly that classically presents as a rapidly growing reddish-purple nodule on the head, neck, or extremities. Most cases are associated with Merkel cell polyomavirus integration; sun-exposure and immunosuppression are additional risk factors. Immunohistochemistry shows CK20 in a perinuclear dot pattern plus neuroendocrine markers (chromogranin, synaptophysin). Treatment is wide local excision, sentinel lymph node biopsy, often radiation, and increasingly immune checkpoint inhibitors (PD-1/PD-L1) in advanced disease."
       },
       {
@@ -917,7 +917,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. This is the mechanism of atovaquone. This would be the correct answer in atovaquone-proguanil prophylaxis."
       },
       {
-        "text": "The unique endoperoxide bridge is cleaved by parasite heme iron to generate reactive carbon-centered radical intermediates that oxidatively damage multiple parasite proteins and lipids, producing rapid parasite death",
+        "text": "The endoperoxide bridge is cleaved by parasite heme iron to generate reactive radicals that damage parasite proteins",
         "explanation": "Correct. The defining chemical feature of artemisinins (artemether, artesunate, dihydroartemisinin) is the endoperoxide bridge — a 1,2,4-trioxane that is essential for antimalarial activity. Within the parasite, the iron in free heme (released during hemoglobin digestion) cleaves the endoperoxide bridge, generating highly reactive carbon-centered radical intermediates that alkylate and oxidatively damage multiple parasite proteins and lipids. The resulting widespread damage produces the rapid parasite kill that distinguishes artemisinins. ACT regimens always combine a short-acting artemisinin with a longer-acting partner drug (lumefantrine, mefloquine, piperaquine) to ensure sustained coverage and deter the emergence of artemisinin resistance."
       },
       {
@@ -939,7 +939,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Cellulitis is the deeper, less well-demarcated process; the sharply raised borders described favor the more superficial erysipelas. This would be the correct answer in a patient with diffuse, indistinct erythema spreading into the subcutaneous tissue."
       },
       {
-        "text": "Erysipelas — a superficial bacterial infection involving the upper dermis and lymphatics, usually caused by group A streptococcus, characterized by sharply demarcated raised borders distinguishing it from the deeper, less well-demarcated cellulitis",
+        "text": "Erysipelas — a superficial infection of the upper dermis and lymphatics (group A streptococcus) with sharply demarcated raised borders",
         "explanation": "Correct. Erysipelas is a superficial bacterial cellulitis involving the upper dermis and superficial lymphatics, classically caused by group A streptococcus. The infection produces a bright red, painful, warm, edematous plaque with a SHARPLY DEMARCATED, RAISED border that is easily palpable — the key distinguishing feature from cellulitis, which involves the deeper subcutaneous tissue and has poorly demarcated, gradually fading edges. The face and lower extremities are the most common sites. First-line therapy is penicillin or an antistreptococcal beta-lactam; coverage broadens to include S. aureus when the diagnosis or features overlap with cellulitis."
       },
       {
@@ -1003,7 +1003,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Plague produces painful bubo (axillary or inguinal lymphadenopathy) with systemic toxicity, not jaundice and AKI after fresh water exposure. This would be the correct answer in a Four Corners US patient with a painful axillary or inguinal bubo after camping."
       },
       {
-        "text": "Leptospira interrogans — a thin spirochete with hooked ends transmitted to humans via fresh water contaminated with animal (especially rat) urine; severe icteric disease is termed Weil's disease",
+        "text": "Leptospira interrogans — hooked-end spirochete (Weil's disease)",
         "explanation": "Correct. Leptospirosis is caused by Leptospira interrogans, a thin spirochete with characteristic 'hooked' ends (described as a question-mark or shepherd's crook on darkfield microscopy). Transmission to humans is through skin contact with fresh water contaminated by animal (especially rat) urine — recreational fresh-water exposure in Hawaii and similar settings is classic, as are occupational exposures (farmers, sewer workers). Most cases are mild, but severe disease (Weil's disease) features the classic triad of jaundice, acute kidney injury, and conjunctival suffusion plus myalgias and (often) hemorrhagic features. Diagnosis is by serology (MAT preferred over culture, which is fastidious); treatment is IV penicillin or doxycycline. Doxycycline is also used for pre-exposure prophylaxis."
       },
       {
@@ -1037,7 +1037,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Both conditions involve the skin, and albinism also involves the eyes (ocular albinism subset). The distinction is mechanistic, not anatomic. This would be the correct answer in a deliberately incorrect anatomic distractor."
       },
       {
-        "text": "Vitiligo results from autoimmune DESTRUCTION of melanocytes (melanocytes ABSENT on biopsy) and is associated with other autoimmune diseases (especially thyroid); albinism results from melanocytes that are PRESENT in normal numbers but cannot synthesize melanin (typically due to tyrosinase deficiency)",
+        "text": "Vitiligo: autoimmune destruction (melanocytes ABSENT); albinism: melanocytes PRESENT but cannot make melanin",
         "explanation": "Correct. The defining mechanistic distinction is whether melanocytes are present. In VITILIGO, autoimmune attack destroys melanocytes, leaving the basal layer DEVOID of melanocytes on biopsy; affected areas appear sharply demarcated depigmented patches that develop later in life. Approximately 20% of vitiligo patients have comorbid autoimmune disease — most commonly autoimmune thyroid disease — exactly as in this patient. In OCULOCUTANEOUS ALBINISM, melanocytes are PRESENT in normal numbers but cannot synthesize melanin (most commonly tyrosinase deficiency or related defects). Albinism is genetic (typically autosomal recessive), evident at birth, and involves skin, hair, and eyes."
       },
       {
@@ -1101,7 +1101,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. While long-term broad-spectrum antibiotics can modestly reduce vitamin K-producing flora, this is a slower and less dominant contributor than the CYP-mediated interaction. Acute vitamin K deficiency from antibiotic-induced flora changes is rarely the principal driver of the metronidazole-warfarin INR rise within days. This would be the correct answer if the question explicitly framed the mechanism around long-term antibiotic-induced flora depletion."
       },
       {
-        "text": "Metronidazole inhibits CYP2C9-mediated metabolism of the more potent S-enantiomer of warfarin, increasing warfarin levels and INR — this is a well-recognized clinically significant interaction requiring INR monitoring and downward warfarin dose adjustment",
+        "text": "Metronidazole inhibits CYP2C9 metabolism of the more potent S-warfarin enantiomer, raising INR",
         "explanation": "Correct. Warfarin is administered as a racemic mixture, with the S-enantiomer being substantially more potent than the R-enantiomer. CYP2C9 metabolizes S-warfarin. Metronidazole is a potent CYP2C9 inhibitor — its co-administration significantly reduces S-warfarin clearance, raising serum levels and INR within days and producing bleeding risk. The interaction is well-recognized and requires close INR monitoring (typically with a downward warfarin dose adjustment, often by ~25-50%) when the two drugs must be combined. Similar interactions occur with other CYP2C9 inhibitors (e.g., TMP-SMX, fluconazole, amiodarone)."
       }
     ],
@@ -1161,7 +1161,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Centripetal spread describes a rash that begins on the extremities and spreads toward the trunk; it does not describe the strictly midline-respecting band-like distribution here. This would be the correct answer in a patient with a rash that began on the wrists and ankles and progressed centripetally (RMSF, HFMD)."
       },
       {
-        "text": "Unilateral dermatomal pattern — follows a single spinal sensory nerve root and does NOT cross the midline; grouped vesicles in this distribution = herpes zoster (shingles) until proven otherwise",
+        "text": "Unilateral dermatomal pattern — follows a single spinal nerve root; grouped vesicles = herpes zoster",
         "explanation": "Correct. A dermatomal distribution refers to a region of skin innervated by a single spinal sensory nerve root. The most useful clinical feature is that the rash is UNILATERAL and STRICTLY respects the midline (because each dermatome stops at the midline). Grouped vesicles on an erythematous base in a dermatomal distribution are pathognomonic for herpes zoster (shingles) until proven otherwise. Treatment with antivirals (acyclovir, valacyclovir, or famciclovir) within 72 hours of rash onset reduces severity, duration, and the risk of postherpetic neuralgia."
       }
     ],
@@ -1191,7 +1191,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Trichotillomania presents with hair loss from compulsive pulling, producing irregular areas of broken hairs of various lengths. The clinical context of postpartum diffuse shedding does not fit. This would be the correct answer in a patient with patchy hair loss of various lengths and behavioral evidence of hair pulling."
       },
       {
-        "text": "Pulling extracts >6 telogen-phase club hairs out of approximately 50-60 grasped at the base — consistent with telogen effluvium following the major physiologic stressor of pregnancy and delivery",
+        "text": "Pulling extracts >6 telogen-phase club hairs — consistent with postpartum telogen effluvium",
         "explanation": "Correct. The hair pull test is performed by grasping approximately 50-60 hairs at the base and pulling firmly; >6 hairs extracted is considered positive and indicates active hair loss. The extracted hairs in telogen effluvium are club hairs (telogen phase), reflecting synchronous transit of an increased fraction of follicles from anagen to telogen after a major physiologic or psychological stressor. Postpartum hair loss is a textbook example: the hormonal milieu of pregnancy synchronizes follicles in anagen, and the dramatic postpartum hormonal change pushes them simultaneously into telogen, with shedding visible 2-3 months later. The condition is self-limited and full recovery is expected; reassurance is the cornerstone of management."
       }
     ],

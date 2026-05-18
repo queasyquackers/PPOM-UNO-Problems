@@ -13,8 +13,8 @@ window.Test_L185 = [
         "explanation": "Incorrect. Serotonin syndrome features hyperreflexia, clonus, hyperthermia, and tremor in addition to autonomic instability; lacrimation, rhinorrhea, and piloerection in a patient on stable methadone after starting an inducer point to opioid withdrawal, not serotonin excess. This would be the correct answer if the patient had inducible clonus, ocular clonus, and hyperthermia after adding an SSRI or linezolid."
       },
       {
-        "text": "Induction of CYP2B6 and CYP3A4 by the new agent, accelerating methadone metabolism and lowering its plasma concentration",
-        "explanation": "Correct. The drug described is efavirenz, the NNRTI famous for neuropsychiatric side effects (vivid dreams, dizziness, depression, insomnia) and for being a mixed inducer/inhibitor of cytochrome P450 enzymes. The lecturer specifically highlighted the efavirenz-methadone interaction: efavirenz induces CYP2B6 and CYP3A4, the principal metabolizers of methadone, decreasing methadone plasma concentrations and precipitating opioid withdrawal in patients on stable maintenance therapy. Management requires upward titration of the methadone dose with addiction medicine input."
+        "text": "CYP2B6/CYP3A4 induction accelerating methadone metabolism",
+        "explanation": "Correct. The drug described is efavirenz, the NNRTI famous for neuropsychiatric side effects (vivid dreams, dizziness, depression, insomnia) and for being a mixed inducer/inhibitor of cytochrome P450 enzymes. Induction of CYP2B6 and CYP3A4 by the new agent accelerates methadone metabolism and lowers its plasma concentration. The lecturer specifically highlighted the efavirenz-methadone interaction: efavirenz induces CYP2B6 and CYP3A4, the principal metabolizers of methadone, decreasing methadone plasma concentrations and precipitating opioid withdrawal in patients on stable maintenance therapy. Management requires upward titration of the methadone dose with addiction medicine input."
       },
       {
         "text": "Allosteric inhibition of mu-opioid receptors by the active metabolite of the NNRTI",
@@ -71,8 +71,8 @@ window.Test_L185 = [
         "explanation": "Incorrect. Mitochondrial toxicity from NRTIs classically causes lipoATROPHY (loss of subcutaneous fat, especially face and limbs) along with lactic acidosis, hepatic steatosis, and myopathy. This patient has central lipoHYPERTROPHY with Cushingoid features plus new hyperglycemia and dyslipidemia, which is the protease inhibitor metabolic syndrome. Also, tenofovir alafenamide is a second-generation NRTI with very low mitochondrial toxicity risk. This would be the correct answer if the patient presented with peripheral fat wasting, lactic acidosis, and hepatic steatosis."
       },
       {
-        "text": "Class adverse effect of the protease inhibitor: disturbed glucose and lipid metabolism with Cushingoid fat redistribution",
-        "explanation": "Correct. The boosted agent is a protease inhibitor (atazanavir or darunavir boosted with ritonavir or cobicistat). The lecturer specifically described the protease inhibitor CLASS adverse effects as GI upset, cardiac conduction abnormalities, and disturbances of glucose and lipid metabolism manifesting as Cushingoid fat redistribution (buffalo hump, round face, central obesity with thin extremities), elevated LDL and triglycerides, hyperglycemia, and insulin resistance. Patients must be counseled about and monitored for these effects, which may themselves require pharmacotherapy (e.g., statins, antihyperglycemics)."
+        "text": "Protease inhibitor class effect: dyslipidemia and Cushingoid fat redistribution",
+        "explanation": "Correct. The boosted agent is a protease inhibitor (atazanavir or darunavir boosted with ritonavir or cobicistat). This is a class adverse effect: disturbed glucose and lipid metabolism with Cushingoid fat redistribution. The lecturer specifically described the protease inhibitor CLASS adverse effects as GI upset, cardiac conduction abnormalities, and disturbances of glucose and lipid metabolism manifesting as Cushingoid fat redistribution (buffalo hump, round face, central obesity with thin extremities), elevated LDL and triglycerides, hyperglycemia, and insulin resistance. Patients must be counseled about and monitored for these effects, which may themselves require pharmacotherapy (e.g., statins, antihyperglycemics)."
       },
       {
         "text": "Immune reconstitution inflammatory syndrome unmasking subclinical Cushing disease",
@@ -385,7 +385,7 @@ window.Test_L185 = [
         "explanation": "Incorrect. Integrase strand transfer inhibition is the mechanism of INSTIs (dolutegravir, bictegravir, raltegravir, cabotegravir). Lenacapavir acts on the capsid protein p24, not on integrase. This would be the correct answer if the drug were cabotegravir (also long-acting injectable, every two months, but a different mechanism)."
       },
       {
-        "text": "Inhibition of viral uncoating, viral assembly/release, and capsid core formation at multiple life-cycle stages",
+        "text": "Multi-stage block of viral uncoating, assembly, and capsid formation",
         "explanation": "Correct. The drug is lenacapavir, the recently developed capsid inhibitor (approved 2022). The lecturer specifically taught that lenacapavir directly binds the interface between p24 capsid subunits in hexamers, induces a conformational change, and stabilizes them so that they cannot disassemble. This produces multi-stage interference with the HIV-1 life cycle: blockade of viral UNCOATING after entry (capsid does not dissociate to release the viral genome), interference with capsid-mediated NUCLEAR uptake of the preintegration complex, and disruption of viral ASSEMBLY/RELEASE by interfering with gag/gag-pol function and capsid core formation. It is given orally for a lead-in then subcutaneously every six months due to a very long half-life."
       },
       {
@@ -575,7 +575,7 @@ window.Test_L185 = [
         "explanation": "Incorrect. PEP is never monotherapy; it requires a multi-drug combination. While boosted atazanavir (with a 2-NRTI backbone) IS listed by the lecturer as an alternative PEP option, monotherapy is not. This would be the correct answer if the question described atazanavir as part of a triple-drug PEP combination, not monotherapy."
       },
       {
-        "text": "Tenofovir-emtricitabine plus dolutegravir, started as soon as possible, for 4 weeks",
+        "text": "Tenofovir-emtricitabine plus dolutegravir for 4 weeks",
         "explanation": "Correct. The lecturer specifically taught that the PREFERRED post-exposure prophylaxis regimen is TENOFOVIR (DISOPROXIL FUMARATE) + EMTRICITABINE + DOLUTEGRAVIR, started as SOON AS POSSIBLE after exposure, for FOUR WEEKS. Raltegravir is an acceptable alternative INSTI for PEP. PEP is also paired with follow-up HIV testing, counseling, and broader occupational/medical evaluation. Boosted PIs are listed as alternative options."
       },
       {
@@ -610,7 +610,7 @@ window.Test_L185 = [
         "explanation": "Incorrect. Polymerase gamma inhibition is the mechanism of NRTI mitochondrial toxicity (lactic acidosis, hepatic steatosis, lipoatrophy, peripheral neuropathy), not boosted PI drug interactions. The acute combination of obtundation plus digoxin level of 4.2 is a pharmacokinetic interaction story, not chronic mitochondrial toxicity. This would be the correct answer if the patient developed lactic acidosis with hepatic steatosis on long-term zidovudine."
       },
       {
-        "text": "Inhibition of CYP3A4 elevating midazolam levels and inhibition of P-glycoprotein elevating digoxin levels by the boosted PI regimen",
+        "text": "Boosted PI inhibition of CYP3A4 (midazolam) and P-glycoprotein (digoxin)",
         "explanation": "Correct. The lecturer specifically taught that boosted protease inhibitors (and the booster ritonavir or cobicistat) are STRONG INHIBITORS of both CYP3A4 and P-GLYCOPROTEIN. Midazolam is a CYP3A4 substrate with a narrow therapeutic window; CYP3A4 inhibition raises midazolam levels and produces profound sedation/respiratory depression. Digoxin is a P-glycoprotein substrate (pumped out of the intestine and other tissues); P-glycoprotein inhibition increases digoxin absorption and tissue levels, producing digoxin toxicity (nausea, vomiting, scooped ST segments, arrhythmias). This patient illustrates the dual CYP3A4 + P-gp inhibition 'thread' the lecturer described."
       }
     ],
