@@ -13,7 +13,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. HHV-6 (roseola) causes 3 days of high fever that abruptly resolves before a maculopapular rash appears (typically on the trunk first) — not slapped-cheek erythema with a later reticular rash, and HHV-6 does not classically cause transient aplastic crisis in sickle cell patients. This would be the correct answer if the toddler had high fever for several days that resolved just as a pink trunk-predominant rash erupted."
       },
       {
-        "text": "Parvovirus B19 — causes 'slapped cheek' rash with later reticular truncal rash, and transient aplastic crisis in patients with hemoglobinopathies.",
+        "text": "Parvovirus B19 — causes 'slapped cheek' then reticular truncal rash, plus aplastic crisis in hemoglobinopathies.",
         "explanation": "Correct. The lecturer specifically taught that Parvovirus B19 causes erythema infectiosum (Fifth disease) with the classic 'slapped cheek' macular erythema sparing nasal/perioral/periorbital areas, followed by a pruritic reticular rash on trunk and extremities. Critically, the lecturer also taught that Parvovirus B19 causes transient aplastic crisis in patients with underlying hemoglobinopathies (sickle cell, hemolytic anemias) — because B19 infects erythroid progenitor cells via the P antigen. The sister's profound anemia with an inappropriately low reticulocyte count is classic for B19-induced transient aplastic crisis. The toddler is no longer contagious now that the rash has appeared."
       },
       {
@@ -168,7 +168,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. Polysaccharide vaccines are used against encapsulated bacterial pathogens (e.g., S. pneumoniae, N. meningitidis), not viral exanthems. This would be the correct answer if the lesion were caused by an encapsulated bacterial infection."
       },
       {
-        "text": "Vaccination with a live attenuated virus vaccine — given as two doses at 12–15 months and at 4–6 years.",
+        "text": "Vaccination with a live attenuated virus vaccine.",
         "explanation": "Correct. The lecturer specifically described the varicella vaccine as a LIVE ATTENUATED virus given in two doses (12–15 months and 4–6 years), with ~92% efficacy after two doses, and contraindications of altered immunity, anaphylaxis, and pregnancy. The clinical picture — fever and cold prodrome, diffuse pruritic rash with macules → papules → vesicles → pustules → crusting, lesions in various stages of evolution ('dew drop on rose petal'), centrifugal trunk-to-extremity spread, and painful palatal vesicles — is classic varicella (chicken pox). The uncertain immunization history is the central clinical risk factor."
       },
       {
@@ -393,7 +393,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. PHN is a chronic pain syndrome, not a motor disorder; the dorsal root ganglion (sensory) is the site of VZV reactivation. This would be the correct answer if PHN were primarily a motor weakness syndrome, but it is a sensory pain phenomenon."
       },
       {
-        "text": "Postherpetic neuralgia occurs in approximately 40% of patients over age 60 after herpes zoster, with resolution in ~87% of patients at 6 months.",
+        "text": "PHN occurs in ~40% of patients >60 after zoster; ~87% resolve by 6 months.",
         "explanation": "Correct. The lecturer specifically taught that postherpetic neuralgia occurs in approximately 40% of patients over age 60 following herpes zoster, with resolution in approximately 87% of patients at 6 months. The 72-year-old patient's persistent dermatomal burning, lancinating pain at 5 months after his shingles eruption fits this complication exactly. Age is the dominant risk factor for postherpetic neuralgia after VZV reactivation, which is one reason the herpes zoster vaccine is recommended in patients 50 years and older."
       }
     ],
@@ -482,7 +482,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. Trigeminal neuralgia produces paroxysmal lancinating pain without a vesicular eruption; the V2 (maxillary) branch involves the cheek/upper jaw, not the forehead. This would be the correct answer if the patient had paroxysmal lancinating cheek pain without vesicles."
       },
       {
-        "text": "Herpes zoster ophthalmicus (VZV reactivation in ophthalmic division of CN V); the most concerning complication is potential loss of vision.",
+        "text": "Herpes zoster ophthalmicus (VZV reactivation in CN V1); most concerning complication is vision loss.",
         "explanation": "Correct. The lecturer specifically defined herpes zoster ophthalmicus as VZV reactivation involving the ophthalmic division of CN V, with prodrome of headache/malaise/fever, then unilateral pain of the eye, forehead, and top of the head; complications include conjunctivitis, uveitis, episcleritis, and keratitis, with potential LOSS OF VISION (the most serious complication, making EARLY DIAGNOSIS CRITICAL). Treatment is with acyclovir, valacyclovir, or famciclovir. The classic Hutchinson's sign (vesicles on the tip of the nose, indicating nasociliary nerve involvement) is a strong predictor of ocular involvement, though not directly mentioned here."
       },
       {
@@ -548,7 +548,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. HSV recurrences are reactivations of latent virus residing in sensory ganglia, not new exogenous re-exposures. This would be the correct answer if HSV recurrence required new re-exposure, but it is reactivation of latent ganglionic virus."
       },
       {
-        "text": "Reactivation triggers include sun, menses, trauma, and decreased immunity; recurrences are typically milder than the primary infection in immunocompetent hosts.",
+        "text": "Triggers include sun, menses, trauma, and ↓immunity; recurrences are typically milder than primary.",
         "explanation": "Correct. The lecturer specifically taught that HSV reactivation triggers include sun, menses, trauma, and decreased immunity, and that recurrences tend to be milder than the initial presentation in immunocompetent patients. In immunosuppressed patients, however, reactivation can be severe — disseminated disease, encephalitis, meningitis, or keratitis. Treatment is supportive or with acyclovir, valacyclovir, or famciclovir as needed; daily antivirals can be used for prophylaxis to reduce severity, frequency, and duration. HSV-1 recurrences (~1/yr) are typically less frequent than HSV-2 recurrences (~4/yr)."
       }
     ],
@@ -602,7 +602,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. The lecturer specifically taught that measles patients are infectious from 4 days BEFORE to 4 days AFTER the rash onset — including before the rash erupts. This would be the correct answer if infectivity were limited to the rash phase, but it extends 4 days before AND after."
       },
       {
-        "text": "The virus can remain suspended in air for up to 2 hours, and a single infectious person infects approximately 12–18 other individuals.",
+        "text": "Virus can remain suspended in air up to 2 hours; one infectious person infects ~12–18 others.",
         "explanation": "Correct. The lecturer explicitly stated that measles is one of the most contagious viruses — patients are infectious from 4 days BEFORE rash onset to 4 days AFTER rash onset; the virus can remain suspended for up to 2 hours in the air; and 1 infectious person infects about 12–18 other individuals. The reproductive number (R0) of ~12–18 is among the highest of any infectious disease, which is why ~95% population vaccination is required to maintain herd immunity. Postexposure prophylaxis with IVIG or MMR/MMRV vaccination must be given within 72 hours of exposure."
       },
       {

@@ -168,7 +168,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Coral-red Wood's lamp fluorescence is characteristic of erythrasma, a Corynebacterium minutissimum infection of intertriginous skin, not of papulosquamous truncal eruptions. This would be the correct answer if the patient had a brown patch in the groin with coral-red fluorescence."
       },
       {
-        "text": "A solitary larger oval patch on the trunk that preceded the smaller lesions by 1-2 weeks",
+        "text": "Solitary herald patch preceding the smaller lesions by 1-2 weeks",
         "explanation": "Correct. The herald patch - a single, larger, oval, scaly patch that precedes the generalized truncal eruption by days to weeks - is present in roughly 80% of pityriasis rosea cases and is absent in guttate psoriasis. Pityriasis rosea also tends to spare the extremities (confined to trunk and proximal limbs), aligns along skin lines (Christmas tree pattern on the back), and resolves within 6-12 weeks. Guttate psoriasis produces a more generalized teardrop eruption, often after streptococcal infection, and has no herald lesion."
       },
       {
@@ -296,7 +296,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Pseudohyphae with budding yeast and satellite pustules support Candida infection, typically in moist intertriginous regions, not patchy dyschromia on the upper trunk in summer. This would be the correct answer if the patient had a beefy-red rash in the groin with satellite pustules."
       },
       {
-        "text": "Short curved hyphae mixed with round yeast cells producing a spaghetti-and-meatballs pattern",
+        "text": "Short hyphae and round yeast in a spaghetti-and-meatballs pattern",
         "explanation": "Correct. Hoffman emphasized the 'spaghetti-and-meatballs' KOH appearance - short curved hyphae together with clusters of round yeast - as the diagnostic finding of tinea versicolor, caused by Malassezia species. The patchy hypopigmentation and hyperpigmentation on the upper trunk, summer predilection (hot, moist environment), and fine scale all support the diagnosis. Treatment is selenium sulfide shampoo applied as a body wash or topical antifungals."
       },
       {
@@ -323,7 +323,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Acyclovir treats herpesvirus infections and has no activity against Malassezia or other fungi. This would be the correct answer if the patient had grouped vesicles in a dermatomal distribution consistent with herpes zoster."
       },
       {
-        "text": "Selenium sulfide shampoo applied to affected skin and left on for 10-15 minutes before rinsing",
+        "text": "Selenium sulfide shampoo used as a body wash",
         "explanation": "Correct. Hoffman specifically recommended selenium sulfide shampoo (e.g., Selsun Blue) applied to the body and left in place for 10-15 minutes before rinsing as a practical, inexpensive treatment for tinea versicolor. Topical antifungals (azoles, terbinafine) are alternatives. Patients should be counseled that pigment normalization may take weeks to months after the yeast is cleared, even if the infection is successfully treated."
       },
       {
@@ -505,7 +505,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Autoimmune blistering disease produces vesicles or bullae, not an expanding scaly patch with faint central pallor following potent topical steroid therapy. The clinical picture does not match. This would be the correct answer if the patient had tense subepidermal bullae with linear basement membrane IgG."
       },
       {
-        "text": "Suppression of the inflammatory response to a dermatophyte by potent topical steroid (tinea incognito); stop the steroid and obtain a KOH preparation",
+        "text": "Tinea incognito - stop the steroid and obtain a KOH preparation",
         "explanation": "Correct. Tinea incognito describes a dermatophyte infection whose typical morphology (well-defined annular plaque with raised scaly border and central clearing) has been altered by topical corticosteroids - the steroid suppresses the cutaneous inflammatory response, allowing the fungus to spread silently while the lesion appears blurred and atypical. Hoffman specifically taught that the appropriate next step is to scrape the lesion and perform a KOH preparation to demonstrate hyphae, then treat with an appropriate antifungal. Continued steroid monotherapy will worsen the infection."
       },
       {

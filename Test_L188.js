@@ -447,7 +447,7 @@ window.Test_L188 = [
         "explanation": "Incorrect. A vascular tumor that enlarges in infancy and involutes by age 5-10 is strawberry nevus (infantile hemangioma). The lesion in this patient is a flat capillary malformation present at birth that does not undergo spontaneous involution, and is associated with eye and CNS findings. This would be the correct answer if the lesion were a red strawberry-appearing plaque expected to involute over childhood."
       },
       {
-        "text": "It is a capillary vascular malformation present at birth that does not involute and may be accompanied by ocular and leptomeningeal vascular anomalies",
+        "text": "It is a capillary malformation present at birth that does not involute and may have eye and CNS anomalies",
         "explanation": "Correct. The flat, unilateral, irregularly shaped red-to-violaceous patch present at birth that does not cross the midline is a port-wine stain (capillary vascular malformation). Hoffman teaches that port-wine stains do not undergo spontaneous involution and, when located in the V1 trigeminal distribution, may be associated with Sturge-Weber syndrome — port-wine stain plus vascular malformations of the eye and leptomeninges. The infant's seizures and ocular finding fit this syndrome."
       },
       {
@@ -474,7 +474,7 @@ window.Test_L188 = [
         "explanation": "Incorrect. A permanent capillary malformation present at birth that does not involute describes a port-wine stain, which is treated with laser. The lesion in this patient is a raised lobulated red 'strawberry' plaque that enlarged after birth — features of a strawberry nevus (infantile hemangioma), which typically involutes spontaneously. This would be the correct answer if the lesion were a flat red-violet birthmark in a dermatomal distribution."
       },
       {
-        "text": "It is a benign vascular tumor that enlarges rapidly during the first year of life but typically involutes by age 5 with most resolved by age 10",
+        "text": "It is a benign vascular tumor that enlarges rapidly in the first year of life but typically involutes by age 5",
         "explanation": "Correct. Hoffman describes strawberry nevus as a benign vascular tumor/proliferation that begins as a pale patch in the first month, enlarges rapidly during the first year, appears red-purple and soft to firm, and usually involutes by age 5 with a few persisting until age 10. Reassurance is generally appropriate because the natural history is spontaneous regression."
       },
       {

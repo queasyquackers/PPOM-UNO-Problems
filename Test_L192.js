@@ -79,7 +79,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Sympathomimetics cause cutaneous vasoconstriction and impaired heat dissipation, but this patient is on a beta-blocker, not a sympathomimetic, and the issue described is failure to mount tachycardia rather than failure to vasodilate. This would be the correct answer if the patient were using cocaine and presented with hyperthermia and vasoconstricted skin."
       },
       {
-        "text": "Impaired tachycardic response from negative chronotropic medication blocking compensation for reduced preload",
+        "text": "Blunted tachycardic response from negative chronotropic medication",
         "explanation": "Correct. Cutaneous vasodilation in response to heat reduces preload and stroke volume, so cardiac output is maintained only if heart rate rises. Beta-blockers like metoprolol blunt this compensatory tachycardia, so cardiac output falls, producing hypotension and risk of end-organ ischemia in a patient with fixed coronary lesions. Advanced age and dysrhythmias compound this risk, all of which Gindi highlights as reasons elderly cardiac patients decompensate during heat waves."
       },
       {
@@ -168,7 +168,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Isolated marrow suppression would not produce the global coagulation derangement (elevated INR, low fibrinogen, high D-dimer) seen here; that pattern is a consumptive coagulopathy. This would be the correct answer if the patient had chemotherapy-induced isolated thrombocytopenia without coagulation factor derangement."
       },
       {
-        "text": "Protein denaturation and cell necrosis releasing endotoxins, triggering inflammation, vascular endothelial damage, and activation of the coagulation cascade",
+        "text": "Protein denaturation and endotoxin release driving endothelial injury and DIC",
         "explanation": "Correct. Sustained core temperatures above 40°C produce direct cell toxicity through denaturation of proteins and cell necrosis, releasing endotoxins that drive a systemic inflammatory cascade and damage vascular endothelium. The increased vascular permeability activates the coagulation cascade, consuming platelets and factors to produce disseminated intravascular coagulation. This same multisystem cascade explains the heart failure, liver failure, ARDS, and renal dysfunction that accompany severe heat stroke."
       },
       {
@@ -234,7 +234,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Infection-driven pyrogen release causes true fever via hypothalamic set-point change, whereas heat stroke is an overwhelmed but not reset hypothalamus; the medications and ambient exposure are the proximate cause here. This would be the correct answer if she presented with a urinary source and bacteremia rather than a multi-day heat-wave exposure."
       },
       {
-        "text": "Pharmacologic impairment of sweating, volume depletion, and dopaminergic interference with the hypothalamic thermoregulatory center, compounded by inability to remove herself from a hot environment",
+        "text": "Drug-impaired sweating and thermoregulation plus volume depletion in a trapped patient",
         "explanation": "Correct. Classic heat stroke disproportionately affects elderly patients with psychologic, physiologic, or pharmacologic impairment and develops over a prolonged period in high ambient temperature. Her chlorpromazine has anticholinergic effects and depletes central dopamine stores that support hypothalamic thermoregulation, her diphenhydramine adds anticholinergic blockade of sweating, and her hydrochlorothiazide produces volume depletion and decreased cardiac output. The classic example Gindi cites is exactly this patient: an elderly person living alone with no air conditioning and impairing medications."
       },
       {
@@ -300,7 +300,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Sympathomimetic-driven vasoconstriction applies to drug users, not to infants left in cars. This would be the correct answer if a young adult using cocaine presented with hyperthermia and constricted skin vessels."
       },
       {
-        "text": "Immature thermoregulatory mechanisms, inability to remove themselves from the environment, and increased body-surface-to-volume ratio increasing heat gain",
+        "text": "Immature thermoregulation, inability to escape, and high surface-to-volume ratio",
         "explanation": "Correct. Infants left in non-ventilated cars are at particular risk because their thermoregulatory mechanisms are inchoate, they cannot remove themselves from the environment, and their increased body-surface-to-volume ratio means they gain heat from the environment faster than adults. Non-ventilated cars can reach 60°C (140°F) in under 10 minutes, which overwhelms even an intact thermoregulatory system. This is the same logic that explains the very young as a classic risk group along with the elderly."
       }
     ],
@@ -412,7 +412,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Antipyretics do not specifically precipitate DIC; the reason they are withheld is mechanistic and relates to where they act, not to a coagulation effect. This would be the correct answer if the question were about NSAID effects on platelet aggregation in a bleeding patient."
       },
       {
-        "text": "These agents act on a pyrogen-driven hypothalamic set point that is not the mechanism of hyperthermia in heat-related illness",
+        "text": "They act on a pyrogen-driven hypothalamic set point, which is not the mechanism here",
         "explanation": "Correct. Antipyretics interrupt the pyrogen-induced change in the hypothalamic set point that occurs in infectious fever. In heat-related illness the hypothalamus is healthy but has been overloaded by the environment, so there is no abnormal set point for antipyretics to reset, and they offer no benefit. They also add adverse risk (hepatotoxicity, nephrotoxicity, GI bleeding, antiplatelet effect) in a patient already at risk for hepatic and renal injury and coagulopathy from heat stroke."
       },
       {
@@ -513,7 +513,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Antipyretics have no role in heat illness, and abandoning surface cooling without an alternative is contraindicated. This would be the correct answer if the patient had a true infectious fever and surface cooling were not indicated."
       },
       {
-        "text": "Switch to an alternative cooling method such as ice packs to the groin and axilla or a cold-water immersion bath",
+        "text": "Switch to an alternative method such as ice packs to the groin and axilla",
         "explanation": "Correct. Gindi emphasizes that any single cooling method may be poorly tolerated, hinder resuscitative efforts, or be impractical, so the clinician should have several tricks up their sleeve and switch to an alternative when one method fails. In this case, evaporative cooling is interfering with monitoring; the team can pivot to ice packs in the groin and axilla, cold-water immersion, a body bag with ice, or cooling blankets to maintain core cooling toward the 37°C goal without overshooting."
       },
       {

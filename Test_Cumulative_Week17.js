@@ -13,7 +13,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Pre-formed cytokines in stored blood cause febrile non-hemolytic transfusion reactions (FNHTR), which present with isolated fever and chills without hemolysis, flank pain, or shock. This would be the correct answer if the only finding was an isolated rise in temperature of >1°C without hemoglobinuria or hypotension."
       },
       {
-        "text": "Recipient pre-formed IgM antibodies activating complement against incompatible donor red cell antigens",
+        "text": "Recipient IgM antibodies activating complement against donor red cell antigens",
         "explanation": "Correct. This is a classic acute hemolytic transfusion reaction (AHTR) from ABO incompatibility, most commonly caused by a clerical error. Naturally occurring anti-A or anti-B IgM antibodies bind donor red cells, fix complement efficiently, and produce massive intravascular hemolysis. The released free hemoglobin causes hemoglobinuria, the antigen-antibody complexes drive cytokine release with shock, and renal vasoconstriction with hemoglobin casts produces acute kidney injury and DIC."
       },
       {
@@ -287,7 +287,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Calcium directly competes with iron absorption, and antacids raise gastric pH, reducing the conversion to the absorbable ferrous form. This would be the correct answer if asking which combination causes the most failed iron repletion."
       },
       {
-        "text": "Take with a source of vitamin C such as orange juice to keep iron in the ferrous form",
+        "text": "Take with vitamin C to keep iron in the ferrous form",
         "explanation": "Correct. Ascorbic acid maintains iron in the reduced Fe²⁺ (ferrous) state, which is the form absorbed at the duodenal brush border. Pairing iron with vitamin C significantly enhances absorption and is the standard counseling point, along with warning the patient about benign darkening of the stool."
       },
       {
@@ -351,7 +351,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Although the net effect is to prevent immunization, tolerance induction is not the mechanism; the antibody simply clears the antigen before it can be presented. This would be the correct answer if discussing peripheral tolerance mechanisms unrelated to passive immunization."
       },
       {
-        "text": "Passively administered anti-D IgG binds any fetal Rh-positive red cells that enter the maternal circulation and clears them via splenic macrophages before the maternal immune system can mount an active response",
+        "text": "Passive anti-D IgG opsonizes fetal Rh-positive red cells in the maternal circulation for splenic clearance",
         "explanation": "Correct. RhoGAM consists of pre-formed anti-D IgG. After a sensitizing event (or prophylactically at 28 weeks), any fetal Rh-positive erythrocytes that enter the maternal circulation are rapidly opsonized by this passive antibody and cleared by splenic macrophages before maternal B cells can encounter the antigen and form persistent immune memory. This prevents the formation of maternal IgG anti-D that would otherwise cross the placenta in future pregnancies and cause hemolytic disease of the fetus and newborn."
       }
     ],
@@ -373,7 +373,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. This describes Bernard-Soulier syndrome, which causes giant platelets and thrombocytopenia. While both Bernard-Soulier and the answer choice show absent ristocetin agglutination, BSS produces large platelets and low counts. This would be the correct answer in a patient with thrombocytopenia and giant platelets on smear."
       },
       {
-        "text": "Quantitative or qualitative deficiency of a multifunctional adhesive glycoprotein that mediates platelet binding to subendothelium and stabilizes factor VIII",
+        "text": "Deficiency of an adhesive glycoprotein that mediates platelet binding to subendothelium and stabilizes factor VIII",
         "explanation": "Correct. This describes von Willebrand disease, the most common inherited bleeding disorder. vWF mediates platelet adhesion to exposed subendothelial collagen via the GPIb receptor (hence the abnormal ristocetin cofactor activity) and serves as a carrier protein for factor VIII (explaining the modestly prolonged aPTT). The mucocutaneous and menstrual bleeding pattern, autosomal dominant family history, and ristocetin abnormality are classic."
       },
       {
@@ -609,7 +609,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Hydroxyurea does not directly bind or chelate HbS. This would be the correct answer if the drug were designed as a small-molecule HbS-polymerization inhibitor."
       },
       {
-        "text": "Inhibition of ribonucleoside reductase, generating stress erythropoiesis with increased fetal hemoglobin production",
+        "text": "Inhibition of ribonucleoside reductase, driving stress erythropoiesis and raising HbF",
         "explanation": "Correct. Hydroxyurea inhibits ribonucleoside reductase, depleting deoxyribonucleotide pools and stalling DNA synthesis in proliferating cells. This induces stress erythropoiesis, recruiting more primitive precursors that produce a greater proportion of fetal hemoglobin (HbF). Because HbF does not co-polymerize with HbS, raising the HbF percentage reduces sickling, vaso-occlusion, and crisis frequency. The major dose-limiting toxicity is myelosuppression (especially neutropenia), so regular CBC monitoring is required."
       },
       {
@@ -681,7 +681,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Hemophilia A is X-linked recessive and produces deep tissue bleeds rather than this acquired multifactorial picture in an adult man with sepsis. This would be the correct answer in a male child with recurrent hemarthroses and an isolated prolonged PTT."
       },
       {
-        "text": "Systemic tissue factor release triggering uncontrolled coagulation with consumption of platelets and clotting factors and secondary fibrinolysis",
+        "text": "Systemic tissue factor release driving uncontrolled coagulation, factor consumption, and fibrinolysis",
         "explanation": "Correct. Disseminated intravascular coagulation is the classic complication of sepsis (especially gram-negative), obstetric catastrophes, malignancy, and trauma. Endothelial injury and microbial products release tissue factor systemically, igniting widespread thrombin generation that consumes platelets and clotting factors. Microthrombi shear red cells (producing schistocytes) and trigger fibrinolysis (driving the high D-dimer). The patient simultaneously clots and bleeds; treatment is to control the underlying trigger and replace consumed components."
       }
     ],
@@ -695,7 +695,7 @@ window.Test_Cumulative_Week17 = [
     "questionText": "A 70-year-old woman with a history of multiple prior transfusions for myelodysplastic syndrome is receiving her seventh unit of packed red cells this year. Forty minutes into the transfusion, she develops a temperature rise from 37.0°C to 38.7°C, shaking chills, and mild headache. Her blood pressure remains 128/76 mmHg, oxygen saturation is 98%, the urine is straw-colored, and she has no flank pain, rash, or wheezing. Which of the following best explains her reaction?",
     "options": [
       {
-        "text": "Pre-formed cytokines released from donor leukocytes during refrigerated storage triggering a febrile non-hemolytic transfusion reaction",
+        "text": "Pre-formed donor leukocyte cytokines from storage triggering a febrile non-hemolytic reaction",
         "explanation": "Correct. Febrile non-hemolytic transfusion reaction (FNHTR) is the most common transfusion reaction in multiply-transfused patients and results from cytokines accumulated in the donor unit during storage. It presents as fever, chills, and mild headache without hemolysis, shock, or respiratory compromise. Management is to pause the transfusion, give an antipyretic, and resume cautiously once hemolytic and septic causes are excluded; recurrent episodes are prevented by leukoreduction."
       },
       {
@@ -729,7 +729,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. This describes acute myeloid leukemia, not the indolent mature lymphocyte proliferation in this patient. This would be the correct answer in a young adult with pancytopenia and Auer rods on smear."
       },
       {
-        "text": "The most common adult leukemia in the Western world, characterized by clonal accumulation of mature-appearing B cells with smudge cells on smear",
+        "text": "The most common Western adult leukemia: clonal mature B cells with smudge cells on smear",
         "explanation": "Correct. Chronic lymphocytic leukemia (CLL) is the most common adult leukemia in the Western world. The malignant cells are mature-appearing small lymphocytes that are fragile and rupture during smear preparation, producing the characteristic smudge cells. The immunophenotype CD5+/CD19+/CD20-dim/CD23+ is essentially pathognomonic. CLL often presents as incidental lymphocytosis in older adults; treatment is reserved for symptomatic or progressive disease."
       },
       {
@@ -793,7 +793,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. This describes mesna, used with cyclophosphamide and ifosfamide. Methotrexate's nephrotoxicity is driven by crystal precipitation, not acrolein. This would be the correct answer in a patient starting high-dose cyclophosphamide."
       },
       {
-        "text": "It provides reduced folate (folinic acid) that bypasses methotrexate's blockade of dihydrofolate reductase in normal cells",
+        "text": "It supplies reduced folate that bypasses the DHFR blockade in normal cells",
         "explanation": "Correct. Methotrexate inhibits dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate and thereby halting thymidine and purine synthesis. Leucovorin (folinic acid) is already in the reduced form and enters cells via a transporter, bypassing the enzymatic block and 'rescuing' normal proliferating tissues from severe toxicity. Hydration and urine alkalinization additionally prevent methotrexate crystal precipitation in the renal tubules."
       },
       {
@@ -831,7 +831,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. PK deficiency produces chronic hemolysis with right-shifted O2 dissociation curve — not episodic oxidant-triggered hemolysis with bite cells. This would be the correct answer in a child with chronic hemolytic anemia and a normal G6PD assay."
       },
       {
-        "text": "Inadequate generation of NADPH in the hexose monophosphate shunt leaves red cells unable to regenerate reduced glutathione and clear oxidative damage",
+        "text": "Inadequate NADPH from the hexose monophosphate shunt prevents red cells from regenerating glutathione",
         "explanation": "Correct. G6PD deficiency is the most common human enzymopathy and is X-linked. G6PD is the rate-limiting enzyme of the pentose phosphate pathway, generating NADPH that maintains reduced glutathione — the red cell's principal antioxidant. Without it, oxidant stress (sulfa drugs, antimalarials, fava beans, dapsone, infection) precipitates hemoglobin into Heinz bodies (visible on crystal violet stain), which the spleen removes in 'bites.' Episodes are typically self-limited as older, more deficient cells lyse and a younger more resistant population replaces them."
       }
     ],
@@ -845,7 +845,7 @@ window.Test_Cumulative_Week17 = [
     "questionText": "A 65-year-old man with stable coronary artery disease has been taking 81 mg of aspirin daily for years. He requires a dental extraction. Coagulation testing reveals a prolonged bleeding time, normal PT, normal aPTT, and a normal platelet count. Which of the following best explains why his bleeding time is prolonged despite a normal platelet count?",
     "options": [
       {
-        "text": "Aspirin irreversibly acetylates platelet cyclooxygenase-1, abolishing thromboxane A2 production and impairing platelet aggregation for the lifespan of the platelet",
+        "text": "Aspirin irreversibly acetylates platelet COX-1, abolishing thromboxane A2 for the platelet's lifespan",
         "explanation": "Correct. Aspirin covalently acetylates a serine residue at the active site of platelet COX-1, irreversibly preventing the conversion of arachidonic acid to thromboxane A2 (TXA2). TXA2 normally activates additional platelets to aggregate at sites of injury. Because anucleate platelets cannot synthesize new COX-1, the inhibition lasts for the entire 7-10 day platelet lifespan, prolonging the bleeding time even with normal counts and a normal PT/aPTT."
       },
       {
@@ -947,7 +947,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. This describes chronic lymphocytic leukemia — a mature B-cell leukemia of older adults — not a plasma cell dyscrasia. This would be the correct answer in an elderly patient with isolated lymphocytosis and smudge cells."
       },
       {
-        "text": "Greater than 10% clonal plasma cells with sheets of mature plasma cells displacing normal marrow elements",
+        "text": "Greater than 10% clonal plasma cells displacing normal marrow elements",
         "explanation": "Correct. Multiple myeloma is diagnosed when there are >10% clonal plasma cells in the bone marrow plus end-organ damage captured by the CRAB mnemonic (HyperCalcemia, Renal failure, Anemia, Bone lesions) or other myeloma-defining events. The patient demonstrates the complete CRAB picture along with a monoclonal IgG kappa spike, and a confirmatory marrow biopsy showing the clonal plasma cell infiltrate seals the diagnosis."
       },
       {
@@ -1029,7 +1029,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Folic acid does not provoke immune hemolysis. This would be the correct answer only in a hypothetical drug-induced AIHA scenario."
       },
       {
-        "text": "Folate can correct the megaloblastic anemia of unrecognized B12 deficiency while allowing the neurologic damage to progress",
+        "text": "Folate can mask B12 deficiency while neurologic damage progresses",
         "explanation": "Correct. Folate supplementation can normalize the hematologic abnormality of B12 deficiency by bypassing the methionine synthase block at the level of DNA synthesis, but it does NOT correct the methylmalonyl-CoA mutase block. The accumulation of methylmalonyl-CoA and propionyl-CoA continues to disrupt myelin, allowing subacute combined degeneration to silently progress — sometimes irreversibly — while clinicians falsely believe the patient is improving."
       },
       {
@@ -1101,7 +1101,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. The patient's ferritin is normal, excluding iron deficiency. This would be the correct answer in a toddler with low ferritin from heavy cow's milk intake displacing iron-rich foods."
       },
       {
-        "text": "Inhibition of ALA dehydratase and ferrochelatase, blocking heme synthesis and producing accumulation of ribosomal aggregates in erythrocytes",
+        "text": "Inhibition of ALA dehydratase and ferrochelatase blocks heme synthesis in red cells",
         "explanation": "Correct. Lead poisoning inhibits multiple enzymes in heme synthesis — most notably ALA dehydratase and ferrochelatase — producing a microcytic anemia. Lead also impairs RNA degradation in maturing red cells, producing the diagnostic 'basophilic stippling' (residual ribosomal RNA aggregates). Neurologic injury is the gravest sequela in children, with developmental regression, behavioral changes, and (with severe exposure) encephalopathy. Environmental exposure (old paint, leaded plumbing) is the typical source."
       }
     ],
@@ -1115,7 +1115,7 @@ window.Test_Cumulative_Week17 = [
     "questionText": "A 32-year-old previously healthy man presents with fatigue, intermittent dark urine that is most noticeable in the morning, and a recent unprovoked hepatic vein thrombosis (Budd-Chiari syndrome). Labs reveal a normocytic anemia, elevated LDH, low haptoglobin, and a negative direct Coombs test. Flow cytometry on red cells and granulocytes demonstrates absence of CD55 and CD59. Which of the following best describes the underlying defect?",
     "options": [
       {
-        "text": "An acquired clonal PIG-A gene mutation in a hematopoietic stem cell prevents synthesis of the GPI anchor needed to attach complement-regulatory proteins to the cell surface",
+        "text": "An acquired clonal PIG-A mutation prevents GPI anchor synthesis in stem cells",
         "explanation": "Correct. Paroxysmal nocturnal hemoglobinuria (PNH) is caused by an acquired somatic mutation of the X-linked PIGA gene in a hematopoietic stem cell, blocking synthesis of the glycosylphosphatidylinositol (GPI) anchor. GPI-anchored proteins — including the complement inhibitors CD55 and CD59 — are then absent from the surface of all clonal progeny. Unchecked complement activation produces chronic intravascular hemolysis (hemoglobinuria, prominent in concentrated morning urine) and predisposes to thrombosis in unusual sites such as the hepatic, mesenteric, and cerebral veins. Diagnosis is by flow cytometry. Eculizumab (anti-C5) is the targeted therapy."
       },
       {
@@ -1179,7 +1179,7 @@ window.Test_Cumulative_Week17 = [
         "explanation": "Incorrect. Although prior sensitization can produce alloantibodies, the failure of his cells to react with anti-H lectin specifically points to absence of the H antigen — not a low-frequency Rh alloantibody. This would be the correct answer in a multiparous woman with new antibody screen positivity against a minor Rh antigen."
       },
       {
-        "text": "He has the Bombay (hh) phenotype: lacks the FUT1-encoded H antigen and therefore produces naturally occurring anti-H, anti-A, and anti-B antibodies that react with all standard donor units including type O",
+        "text": "He has the Bombay (hh) phenotype: absent H antigen with naturally occurring anti-H, anti-A, and anti-B",
         "explanation": "Correct. The Bombay phenotype results from absence of functional FUT1 (the H-transferase that builds the H antigen on which A and B sugars are subsequently added). On standard forward typing the patient appears type O because his red cells lack A and B; however, his serum contains potent anti-A, anti-B, AND anti-H antibodies. Standard 'universal donor' type O blood still expresses the H antigen and is therefore strongly incompatible. Bombay patients can only safely receive blood from other Bombay donors — a major counseling and registry issue."
       },
       {

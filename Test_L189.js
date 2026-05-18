@@ -567,7 +567,7 @@ window.Test_L189 = [
         "explanation": "Incorrect. Disseminated HSV would present with vesicular lesions and progressive multi-organ involvement in an immunocompromised host, not the diffuse macular erythema with septic shock and clear source of bacterial colonization described here. Antivirals do not address the toxin-mediated process. This would be the correct answer if a neonate had vesicular skin lesions, seizures, and hepatic failure from neonatal HSV infection."
       },
       {
-        "text": "Immediate removal of the retained packing along with aggressive IV fluids, vasopressors, and IV clindamycin plus vancomycin",
+        "text": "Remove the packing; give IV fluids, vasopressors, clindamycin, and vancomycin",
         "explanation": "Correct. The lecturer emphasized that toxic shock syndrome is driven by superantigen toxins from Staphylococcus aureus (TSST-1) or Group A Streptococcus that are produced at the site of colonization (tampon, surgical packing, abscess, or wound). The single most important initial step is rapid removal of the source of toxin production (in this case the retained vaginal packing), combined with aggressive IV fluid resuscitation, vasopressor support for shock, and broad antibiotic coverage with IV clindamycin (which suppresses toxin synthesis) plus vancomycin or nafcillin for staphylococcal coverage. Without source control, antibiotics alone cannot stop ongoing toxin production."
       },
       {

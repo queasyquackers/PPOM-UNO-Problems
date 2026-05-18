@@ -21,7 +21,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. While hereditary angioedema (C1 esterase inhibitor deficiency) is a recognized cause of bradykinin-mediated swelling discussed by the lecturer, the typical pruritic wheal-and-flare pattern of acute allergic urticaria after shellfish is IgE-mediated mast cell degranulation, not bradykinin-driven angioedema. This would be the correct answer if the patient had recurrent non-pruritic facial/laryngeal swelling without urticaria and a family history of similar attacks."
       },
       {
-        "text": "Localized mast cell degranulation triggered by IgE crosslinking, releasing histamine that activates H1/H2 receptors → increased vascular permeability → wheals and pruritus.",
+        "text": "Localized mast cell degranulation triggered by IgE crosslinking, with histamine release.",
         "explanation": "Correct. The lecturer specifically described urticaria as localized mast cell degranulation with histamine release, activating H1 and H2 receptors → increased vascular permeability and vasodilation → wheals and pruritus. The IgE-dependent, mast-cell-dependent mechanism corresponds to Type I hypersensitivity, classically triggered by antigens such as shellfish allergens that crosslink IgE on mast cell surfaces. When systemic, this same mechanism produces anaphylaxis. Histopathology shows dermal edema with spacing of dermal collagen bundles and a sparse perivenular infiltrate, with NO changes in the epidermis."
       }
     ],
@@ -40,7 +40,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Acanthosis describes diffuse epidermal hyperplasia (a key feature of psoriasis, not eczema), not the intercellular edema described here. This would be the correct answer if the biopsy showed marked epidermal thickening with elongated rete ridges as in psoriasis."
       },
       {
-        "text": "Spongiosis — intra-EPIDERMAL intercellular edema in the stratum spinosum, characteristic of eczematous dermatitis.",
+        "text": "Spongiosis — intra-epidermal intercellular edema, hallmark of eczematous dermatitis.",
         "explanation": "Correct. The lecturer specifically described spongiosis as the hallmark histopathologic finding of acute eczematous dermatitis: intra-epidermal intercellular edema that separates keratinocytes in the stratum spinosum, producing intra-epidermal vesicles. The lecturer specifically contrasted this with urticaria, which has DERMAL edema (no epidermal change). Mechanical shearing (e.g., scratching) of desmosomes/cell membranes leads to progressive intercellular fluid accumulation. Eczematous dermatitis is mediated by Type IV (T-cell mediated) hypersensitivity, distinguishing it from urticaria's Type I mechanism."
       },
       {
@@ -79,7 +79,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Anti-tTG/anti-eTG IgA antibodies and gluten association define dermatitis herpetiformis (associated with celiac disease), not atopic dermatitis. This would be the correct answer if the patient had grouped vesicles on extensor surfaces with celiac disease association."
       },
       {
-        "text": "It is a Type IV hypersensitivity reaction characterized by epidermal spongiosis, FLG (filaggrin) mutation-related barrier dysfunction, and the asthma/atopic/allergic rhinitis triad; treatment includes emollients, steroids, and dupilumab.",
+        "text": "Type IV hypersensitivity with epidermal spongiosis, FLG (filaggrin) barrier dysfunction, and the atopic triad.",
         "explanation": "Correct. The lecturer specifically described atopic dermatitis as a chronic relapsing inflammation caused by barrier dysfunction (filaggrin/FLG mutations) and immune dysregulation, presenting as part of the classic ATOPIC TRIAD (eczema + asthma + allergic rhinitis), most commonly in flexural areas (antecubital/popliteal fossae). There is increased risk for Staphylococcus aureus colonization. Chronic phase shows lichenified skin with hyperkeratosis, fissures, and fibrosis. Treatment includes emollients, topical/systemic steroids, and dupilumab (an IL-4/IL-13 receptor blocker)."
       },
       {
@@ -98,7 +98,7 @@ window.Test_L181 = [
     "questionText": "A 24-year-old man develops symmetric targetoid lesions on both hands and feet 10 days after a recurrence of orolabial cold sores. Examination shows multiple 1–2 cm lesions with three distinct concentric zones (a dark dusky center, a paler middle ring, and an erythematous outer ring). Less than 10% of his body surface is involved, and there is mild oral mucosal involvement. Based on the lecturer's framework for erythema multiforme, which of the following statements best describes the trigger and histopathology of this condition?",
     "options": [
       {
-        "text": "The most common trigger is herpes simplex virus (HSV), and histology shows interface dermatitis at the dermo-epidermal junction with possible sloughing and blistering.",
+        "text": "Most common trigger is HSV; histology shows interface dermatitis at the dermo-epidermal junction.",
         "explanation": "Correct. The lecturer specifically taught that HSV is the MOST COMMON trigger for erythema multiforme. Other triggers include Mycoplasma pneumoniae, EBV, CMV, VZV, histoplasmosis, drugs (sulfa drugs such as TMP-SMX, NSAIDs, penicillins, barbiturates, phenytoin), malignancies, and autoimmune disease (SLE, IBD). The mechanism is T-cell mediated (both CD4+ and CD8+) Type IV delayed hypersensitivity. Histopathology shows interface dermatitis (dermo-epidermal junction pathology) with possible sloughing and blistering. The lesions are classically targetoid with three concentric rings, with epidermal necrosis in the dusky center, in a symmetrical acral distribution involving less than 10% BSA."
       },
       {
@@ -137,8 +137,8 @@ window.Test_L181 = [
         "explanation": "Incorrect. Bullous pemphigoid produces tense subepidermal bullae with a NEGATIVE Nikolsky sign in elderly patients, not the >30% widespread epidermal detachment with positive Nikolsky sign described here. This would be the correct answer if the patient were elderly with tense bullae and no drug trigger."
       },
       {
-        "text": "Toxic Epidermal Necrolysis (TEN), defined by >30% body surface area involvement; the most important management step is immediate discontinuation of the offending drug plus supportive care; mortality >30%.",
-        "explanation": "Correct. The lecturer specifically defined the SJS/TEN spectrum by skin involvement: SJS = >10% BSA, TEN = >30% BSA. At 35% involvement, this patient meets the TEN definition. The lecturer specifically noted that sulfa drugs (such as TMP-SMX) are the most common drug trigger; mucocutaneous involvement (lips, oral, conjunctival, urethral, genital) is characteristic; lesions evolve erythematous macules → bullae → epidermal detachment with a positive Nikolsky sign; and management is stopping the offending drug and supportive care. Prognosis is 5–10% mortality for SJS and >30% for TEN — among the highest mortality of dermatologic emergencies."
+        "text": "Toxic Epidermal Necrolysis (TEN), defined by >30% BSA involvement; stop the offending drug plus supportive care.",
+        "explanation": "Correct. The lecturer specifically defined the SJS/TEN spectrum by skin involvement: SJS = >10% BSA, TEN = >30% BSA. At 35% involvement, this patient meets the TEN definition. Mortality is >30%, among the highest of dermatologic emergencies. The lecturer specifically noted that sulfa drugs (such as TMP-SMX) are the most common drug trigger; mucocutaneous involvement (lips, oral, conjunctival, urethral, genital) is characteristic; lesions evolve erythematous macules → bullae → epidermal detachment with a positive Nikolsky sign; and management is stopping the offending drug and supportive care. Prognosis is 5–10% mortality for SJS and >30% for TEN — among the highest mortality of dermatologic emergencies."
       },
       {
         "text": "Pemphigus vulgaris; management is wound care without specific drug discontinuation.",
@@ -292,7 +292,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Anti-tTG IgA describes dermatitis herpetiformis (gluten-associated, pruritic extensor vesicles), not bullous pemphigoid. This would be the correct answer if the patient had grouped extensor surface vesicles with celiac disease."
       },
       {
-        "text": "BPAG2 of hemidesmosomes (which attach basal keratinocytes to basement membrane); produces tense subepidermal blisters with negative Nikolsky sign.",
+        "text": "BPAG2 of hemidesmosomes; produces tense subepidermal blisters with negative Nikolsky sign.",
         "explanation": "Correct. The lecturer specifically taught that bullous pemphigoid is mediated by IgG autoantibodies against BPAG2, a component of HEMIDESMOSOMES that attach basal keratinocytes to the basement membrane. This produces SUBEPIDERMAL blisters (lamina lucida split) that are NON-ACANTHOLYTIC. Because the FULL THICKNESS of the epidermis serves as the blister roof, the bullae are TENSE and DO NOT RUPTURE easily (negative Nikolsky sign), in contrast to pemphigus vulgaris. Patients are typically elderly, with inner thigh/flexor/axillary/groin distribution; oral lesions are LESS LIKELY than in pemphigus vulgaris (and when they occur, typically appear AFTER skin lesions, not before). DIF shows linear, continuous IgG along the dermo-epidermal junction. Treatment is also immunosuppression."
       },
       {
@@ -319,7 +319,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. IgG against BPAG2 describes bullous pemphigoid (associated with linear IgG along DEJ, not granular IgA at papillae tips), and bullous pemphigoid is not specifically linked to hepatitis C. This would be the correct answer if the patient had tense subepidermal bullae with linear IgG and was elderly."
       },
       {
-        "text": "IgA antibodies to gluten that cross-react with reticulin; associated with celiac disease (gluten-sensitive enteropathy).",
+        "text": "IgA antibodies to gluten cross-reacting with reticulin; associated with celiac disease.",
         "explanation": "Correct. The lecturer specifically described dermatitis herpetiformis as a rare skin disorder with urticaria and grouped vesicles, mainly affecting males in their 30s–40s, with strong association with CELIAC DISEASE: IgA antibodies to gluten that cross-react with reticulin. Histopathology shows microabscesses (fibrin and neutrophils at tips of dermal papillae), basal cell layer vacuolization with dermo-epidermal junction separation forming SUBEPIDERMAL blisters, and direct immunofluorescence reveals a DISCONTINUOUS GRANULAR IgA deposit at TIPS OF DERMAL PAPILLAE (anti-tissue transglutaminase tTG and anti-epidermal transglutaminase eTG). The very pruritic, symmetric extensor surface (knees/elbows), back, and buttocks distribution is classic. The patient's GI symptoms (chronic diarrhea, weight loss) are the celiac disease manifestation."
       },
       {
@@ -362,7 +362,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Type IV interface dermatitis describes lichen planus or erythema multiforme, not acne vulgaris's multifactorial pathogenesis. This would be the correct answer if the patient had Wickham striae or targetoid lesions, which is not the presentation."
       },
       {
-        "text": "Follicular keratinization with keratin plug formation blocking sebum outflow; androgen-driven sebaceous gland hypertrophy; Propionibacterium acnes colonization converting sebum lipids to proinflammatory fatty acids; secondary follicular inflammation.",
+        "text": "Follicular keratin plug blocks sebum; androgen-driven sebaceous hypertrophy; P. acnes lipase; follicular inflammation.",
         "explanation": "Correct. The lecturer specifically described acne vulgaris pathogenesis as multifactorial with FOUR mechanisms: (1) keratinization of the lower follicular stalk with development of a keratin plug that blocks sebum outflow; (2) hypertrophy of sebaceous glands under the influence of androgens during puberty; (3) lipase-synthesizing bacteria (Propionibacterium acnes, now Cutibacterium acnes) colonize the hair follicle and convert sebum lipids into proinflammatory fatty acids; (4) secondary inflammation of the involved follicle. The clinical distinction between open comedones (blackheads — central black keratin plug from melanin OXIDATION, NOT dirt) and closed comedones (whiteheads — keratin plug trapped beneath the epidermal surface) reflects the plug-outflow obstruction step. Treatment includes antibiotics for bacterial elimination, and isotretinoin has strong anti-sebaceous action."
       }
     ],
@@ -385,7 +385,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Bullous pemphigoid is a subepidermal blistering disease (tense bullae, IgG vs. BPAG2), not a panniculitis with tender shin nodules. This would be the correct answer if the patient were elderly with tense subepidermal bullae and a negative Nikolsky sign."
       },
       {
-        "text": "Erythema nodosum, a panniculitis (inflammation of subcutaneous adipose tissue), commonly triggered by beta-hemolytic streptococcal infection.",
+        "text": "Erythema nodosum, a panniculitis of subcutaneous adipose, often triggered by beta-hemolytic strep.",
         "explanation": "Correct. The lecturer specifically defined erythema nodosum as PANNICULITIS — inflammatory reaction in subcutaneous adipose tissue — mostly involving the lower legs and shins, presenting as raised, poorly defined, painful erythematous nodules and plaques. Common triggers include INFECTIONS (beta-hemolytic strep — GAS/GBS, TB), drugs (sulfas, contraceptives), sarcoidosis, IBD, and neoplasms. The recent pharyngitis with elevated ASO titer is classic for post-streptococcal erythema nodusum. Histology shows thickened SEPTA between fat globules with septal fibrosis and infiltration by lymphocytes, histiocytes, and occasional eosinophils (i.e., septal panniculitis). Treat the underlying condition; the lesions usually self-resolve, with anti-inflammatory medications used if painful."
       },
       {
@@ -408,7 +408,7 @@ window.Test_L181 = [
     "questionText": "A 54-year-old woman of Northern European descent presents with persistent facial redness, visible small surface blood vessels on the cheeks and nose, and occasional inflammatory papules and pustules. She reports a long-standing tendency to flush easily with alcohol or hot drinks. She also notes new thickening of the skin of her nose. Based on the lecturer's framework for rosacea, which of the following statements best characterizes this condition?",
     "options": [
       {
-        "text": "Rosacea has 4 stages: flushing episodes → persistent erythema and telangiectasia → pustules/papules → rhinophyma; pathogenesis associated with elevated cutaneous cathelicidin levels.",
+        "text": "Rosacea has 4 stages: flushing → persistent erythema/telangiectasia → pustules/papules → rhinophyma; ↑ cathelicidin.",
         "explanation": "Correct. The lecturer specifically described rosacea as common in middle-aged and older patients (more often female), with four progressive stages: (1) flushing episodes, (2) persistent erythema and telangiectasia, (3) pustules and papules, and (4) rhinophyma (permanent thickening of nasal skin from confluent erythematous papules — more common in males). Ocular involvement can occur. The cause is unknown but there are high cutaneous levels of CATHELICIDIN, an antimicrobial peptide involved in innate immunity. The patient's progression through flushing → persistent erythema with telangiectasia → pustules/papules → emerging rhinophyma matches this exact sequence."
       },
       {
@@ -474,7 +474,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Hereditary angioedema is non-allergic and not driven by IgE or mast cells; the swelling is bradykinin-mediated. This would be the correct answer if the patient had urticaria with pruritus after exposure to an allergen (Type I)."
       },
       {
-        "text": "Hereditary angioneurotic edema from C1 esterase inhibitor deficiency, with increased bradykinin (vasoactive mediator) causing edema without histamine signs.",
+        "text": "Hereditary angioneurotic edema from C1 esterase inhibitor deficiency, with ↑ bradykinin causing edema.",
         "explanation": "Correct. The lecturer specifically described hereditary angioneurotic edema as a rare, potentially life-threatening genetic mutation with deficiency of C1 ESTERASE INHIBITOR → increased BRADYKININ (a vasoactive mediator). It was discussed in the context of urticaria pathogenesis as a 'Mast cell-INDEPENDENT, IgE-INDEPENDENT' mechanism — local factors that increase vascular permeability without degranulating mast cells. The clinical features — recurrent non-pruritic episodes of swelling (face, larynx, abdomen), family history, lack of histamine signs, decreased C4 (because of unregulated complement consumption) — match exactly. Importantly, antihistamines/epinephrine are NOT effective; specific therapies target the bradykinin pathway (e.g., C1 inhibitor concentrate, icatibant)."
       },
       {
@@ -517,7 +517,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Contact dermatitis would be limited to the contact area without involvement at other pressure/rubbing sites and would not have a family history component. This would be the correct answer if the rash were limited to the diaper area in the distribution of contact."
       },
       {
-        "text": "Genetic blistering disorder with defective epidermal-dermal adhesion (keratin, laminin, collagen mutations); fragile skin with blistering at pressure sites since birth.",
+        "text": "Genetic blistering disorder with defective epidermal-dermal adhesion; fragile skin from birth.",
         "explanation": "Correct. The lecturer specifically described epidermolysis bullosa as a GENETIC blistering disorder with DEFECTIVE EPIDERMAL-DERMAL ADHESION, with a wide range of phenotypes producing multiple subtypes depending on which epidermal or dermal protein is affected (keratin, laminin, collagen, etc.). The hallmark is fragile skin that BLISTERS FROM MINOR TRAUMA, with mucosal involvement in severe forms. The common feature is blisters at sites of pressure, rubbing, or trauma, occurring at or soon after birth. Severe forms may cause contractures and loss of use of hands/feet. Wound care and infection prevention are critical management priorities."
       }
     ],
@@ -540,7 +540,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Anti-desmoglein autoimmunity describes pemphigus vulgaris (flaccid blisters), not the greasy yellow scaly plaques of seborrheic dermatitis. This would be the correct answer if the patient had mucocutaneous flaccid blisters with acantholysis."
       },
       {
-        "text": "Chronic relapsing inflammatory disorder affecting sebaceous gland-rich areas, with increased sebum production and Malassezia yeast overgrowth associated; treat with antifungals, low-strength topical steroids, medicated shampoos (selenium sulfide, zinc pyrithione).",
+        "text": "Chronic inflammation of sebaceous-rich areas with Malassezia overgrowth; treat with antifungals.",
         "explanation": "Correct. The lecturer specifically described seborrheic dermatitis as a common (~5% of general population), chronic, relapsing inflammatory skin disorder affecting SEBACEOUS GLAND-RICH AREAS (scalp, forehead, face, central chest). The cause is unknown but associated with ↑ sebum production and overgrowth of MALASSEZIA YEAST. Clinically: scaly, greasy, yellow plaques; dandruff is a common scalp manifestation. Histopathology shows acute, subacute, or chronic spongiotic dermatitis with spongiosis and overlying scale crust (parakeratosis containing neutrophils and serum at hair follicle ostia). Treatment includes antifungals (targeting Malassezia), low-strength topical steroids, and medicated shampoos (SELENIUM SULFIDE, ZINC PYRITHIONE)."
       },
       {
