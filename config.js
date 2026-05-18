@@ -14,7 +14,11 @@ const SECTIONS = [
 ];
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
+// Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
 function getTestSection(testName) {
+    if (/^Pathoma-/.test(testName)) {
+        return SECTIONS.find(s => s.id === "hemonc") || null;
+    }
     const weekMatch = testName.match(/^(\d+)-/);
     if (!weekMatch) return null;
     const week = parseInt(weekMatch[1], 10);
@@ -258,7 +262,13 @@ const testsToLoad = [
     { name: "20-Dermatology: Dermatologic Emergencies (L189)", data: window.Test_L189 },
     { name: "20-Physiology: Thermoregulation (L190)", data: window.Test_L190 },
     { name: "20-Cold Related Injuries & Emergency Treatment of Hypothermia (L191)", data: window.Test_L191 },
-    { name: "20-Emergency Treatment of Hyperthermia (L192)", data: window.Test_L192 }
+    { name: "20-Emergency Treatment of Hyperthermia (L192)", data: window.Test_L192 },
+
+    // --- Pathoma (Section IV supplemental: Chapter 6 White Blood Cell Disorders) ---
+    { name: "Pathoma-Acute Leukemia (6.2)", data: window.Test_Pathoma_6_2 },
+    { name: "Pathoma-Chronic Leukemia (6.3)", data: window.Test_Pathoma_6_3 },
+    { name: "Pathoma-Myeloproliferative Disorders (6.4)", data: window.Test_Pathoma_6_4 },
+    { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 }
 
 ];
 

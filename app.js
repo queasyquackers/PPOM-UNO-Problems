@@ -242,9 +242,14 @@ document.addEventListener('DOMContentLoaded', () => {
             window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
         );
         const grouped = groupTests(sectionTests);
-        const groupKeys = Object.keys(grouped).sort((a, b) =>
-            a.localeCompare(b, undefined, { numeric: true })
-        );
+        // Week N groups sort first (numerically); non-Week groups (e.g. "Pathoma") sort after, alphabetically.
+        const groupKeys = Object.keys(grouped).sort((a, b) => {
+            const aWeek = a.startsWith('Week ');
+            const bWeek = b.startsWith('Week ');
+            if (aWeek && !bWeek) return -1;
+            if (!aWeek && bWeek) return 1;
+            return a.localeCompare(b, undefined, { numeric: true });
+        });
 
         const grid = document.createElement('div');
         grid.className = 'toc-grid';
@@ -254,7 +259,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const section = document.createElement('section');
             section.className = 'toc-week';
 
-            // Lecture range string (e.g. "L48 – L59")
+            // Lecture range string (e.g. "L48 – L59"). For ids that are themselves ranges
+            // (e.g. "6.5-6.7"), use only the first part of the first id and the last part of the last id.
             const ids = tests
                 .map(t => {
                     const m = t.name.match(/\(([^)]+)\)/);
@@ -262,7 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 })
                 .filter(Boolean);
             const rangeLabel = ids.length > 1
-                ? `${ids[0]} – ${ids[ids.length - 1]}`
+                ? `${ids[0].split('-')[0]} – ${ids[ids.length - 1].split('-').pop()}`
                 : (ids[0] || '');
 
             const heading = document.createElement('h3');
