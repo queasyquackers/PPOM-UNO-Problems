@@ -355,6 +355,12 @@ const PDF_MAPPING = {
     "L158": "pdfs/Lecture #158. E. Petcu (PPT).pdf",
     "L159": "pdfs/Lecture # 159. S. Lewis, M.D. (PPT).pdf",
 
+    // Pathoma Chapter 6 (White Blood Cell Disorders) - Section IV supplemental
+    "Pathoma-Acute Leukemia (6.2)": "pdfs/6.2 acute leukemia.pdf",
+    "Pathoma-Chronic Leukemia (6.3)": "pdfs/6.3 Chronic Leukemia.pdf",
+    "Pathoma-Myeloproliferative Disorders (6.4)": "pdfs/6.4 Myeloproliferative Disorders.pdf",
+    "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)": "pdfs/6.5-6.7 LAD, Lymphoma, Hodgkin Lymphoma.pdf",
+
     "L184": "pdfs/Lecture # 184. L. Goldstein, Pharm.D. (PPT).pdf",
     "20-Pharmacology: Antiretroviral Drugs Part 1 (L184)": "pdfs/Lecture # 184. L. Goldstein, Pharm.D. (PPT).pdf",
     "L185": "pdfs/Lecture # 185. L. Goldstein, Pharm.D. (PPT).pdf",
