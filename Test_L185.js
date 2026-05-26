@@ -242,7 +242,7 @@ window.Test_L185 = [
         "explanation": "Incorrect. Blocking fusion (the mechanism of enfuvirtide) would prevent the virus from entering the cell entirely; no virions would be produced or released. This would be the correct answer if the drug were enfuvirtide."
       }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: HIV protease inhibitors are reversible inhibitors of the viral aspartyl protease, preventing gag/gag-pol cleavage and producing immature, non-infectious virions. PIs act LATE in the viral life cycle, after assembly and budding.",
     "pdfPage": 17,
     "pdfQuote": "prevents proteolytic cleavage gag-pol"
