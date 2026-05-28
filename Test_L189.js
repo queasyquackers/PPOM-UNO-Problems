@@ -513,7 +513,7 @@ window.Test_L189 = [
         "explanation": "Incorrect. SSSS occurs predominantly in young children, spares the mucous membranes, and typically lacks a drug trigger. This adult woman with prominent mucosal involvement and a clear drug exposure does not fit the staphylococcal toxin-mediated pattern. This would be the correct answer if a 3-year-old presented with diffuse painful scalded-appearing skin with intact mucous membranes."
       },
       {
-        "text": "Stevens-Johnson syndrome because the involvement is less than 10% of body surface area",
+        "text": "Stevens-Johnson syndrome — defined by epidermal detachment of under 10% of the skin",
         "explanation": "Correct. The lecturer specifically taught that SJS is defined by epidermal detachment involving less than 10% of body surface area, while TEN is defined by greater than 30% involvement, with overlap between 10 and 30%. This patient has a drug-induced reaction at approximately 6% body surface area, painful dusky macules with sheet-like detachment, mucous membrane involvement, and a positive Nikolsky sign 10 days after sulfa antibiotic exposure, satisfying the criteria for SJS. Management includes immediate discontinuation of the culprit drug, ICU or burn unit transfer for supportive care, fluid and electrolyte management, and infection prevention."
       },
       {

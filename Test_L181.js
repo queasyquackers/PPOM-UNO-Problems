@@ -40,7 +40,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Acanthosis describes diffuse epidermal hyperplasia (a key feature of psoriasis, not eczema), not the intercellular edema described here. This would be the correct answer if the biopsy showed marked epidermal thickening with elongated rete ridges as in psoriasis."
       },
       {
-        "text": "Spongiosis — intra-epidermal intercellular edema, hallmark of eczematous dermatitis.",
+        "text": "Spongiosis — epidermal spongiotic swelling; hallmark of eczematous dermatitis.",
         "explanation": "Correct. The lecturer specifically described spongiosis as the hallmark histopathologic finding of acute eczematous dermatitis: intra-epidermal intercellular edema that separates keratinocytes in the stratum spinosum, producing intra-epidermal vesicles. The lecturer specifically contrasted this with urticaria, which has DERMAL edema (no epidermal change). Mechanical shearing (e.g., scratching) of desmosomes/cell membranes leads to progressive intercellular fluid accumulation. Eczematous dermatitis is mediated by Type IV (T-cell mediated) hypersensitivity, distinguishing it from urticaria's Type I mechanism."
       },
       {
@@ -176,7 +176,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Thinning of the epidermis over the tips of dermal papillae is one of the characteristic histopathologic findings in psoriatic plaques (related to Auspitz sign clinically — pinpoint bleeding when scale is removed), but is not the Munro microabscess. This would be the correct answer if the question asked about the cause of the Auspitz sign."
       },
       {
-        "text": "Aggregates of neutrophils within the superficial epidermis (spongiform pustules).",
+        "text": "Neutrophil collections within the stratum corneum.",
         "explanation": "Correct. The lecturer specifically defined Munro microabscesses as small aggregates of neutrophils forming within the superficial epidermis of psoriatic skin (spongiform pustules). The other psoriasis histopathology features specifically described were acanthosis (marked epidermal thickening), elongation of rete ridges into test-tube shapes, parakeratosis (retention of nuclei in stratum corneum), and thinning of the epidermis overlying dermal papillae tips (which underlies the Auspitz sign clinically). Recognizing these features distinguishes psoriasis from other scaly dermatoses."
       }
     ],
@@ -234,7 +234,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Aphthous ulcers are idiopathic painful round oral ulcers, not the reticular white network of Wickham striae. This would be the correct answer if the patient had recurrent painful round ulcers without skin findings."
       },
       {
-        "text": "Wickham striae — white dots or reticulated lines on the oral mucosa of lichen planus.",
+        "text": "Wickham striae — the oral mucosal hallmark of lichen planus.",
         "explanation": "Correct. The lecturer specifically defined Wickham striae as the white dots or reticulated lines seen in the oral mucosa of lichen planus. The clinical hallmarks (6 Ps: pruritic, purple, polygonal, planar, papules, plaques affecting skin, mucosa, nails, hair follicles) plus the typical symmetric distribution at wrists/elbows, association with hepatitis C, and the histopathology of interface dermatitis (band-like lymphocytic infiltrate at the dermo-epidermal junction), sawtoothing of rete ridges, Civatte bodies (anucleate necrotic basal keratinocytes), and hypergranulosis/hyperkeratosis are all classic features. Lichen planus is self-limited and resolves spontaneously over a few years."
       },
       {
@@ -408,7 +408,7 @@ window.Test_L181 = [
     "questionText": "A 54-year-old woman of Northern European descent presents with persistent facial redness, visible small surface blood vessels on the cheeks and nose, and occasional inflammatory papules and pustules. She reports a long-standing tendency to flush easily with alcohol or hot drinks. She also notes new thickening of the skin of her nose. Based on the lecturer's framework for rosacea, which of the following statements best characterizes this condition?",
     "options": [
       {
-        "text": "Rosacea has 4 stages: flushing → persistent erythema/telangiectasia → pustules/papules → rhinophyma; ↑ cathelicidin.",
+        "text": "Rosacea is a chronic inflammatory disorder with vascular hyperreactivity and elevated cathelicidin.",
         "explanation": "Correct. The lecturer specifically described rosacea as common in middle-aged and older patients (more often female), with four progressive stages: (1) flushing episodes, (2) persistent erythema and telangiectasia, (3) pustules and papules, and (4) rhinophyma (permanent thickening of nasal skin from confluent erythematous papules — more common in males). Ocular involvement can occur. The cause is unknown but there are high cutaneous levels of CATHELICIDIN, an antimicrobial peptide involved in innate immunity. The patient's progression through flushing → persistent erythema with telangiectasia → pustules/papules → emerging rhinophyma matches this exact sequence."
       },
       {
@@ -517,7 +517,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Contact dermatitis would be limited to the contact area without involvement at other pressure/rubbing sites and would not have a family history component. This would be the correct answer if the rash were limited to the diaper area in the distribution of contact."
       },
       {
-        "text": "Genetic blistering disorder with defective epidermal-dermal adhesion; fragile skin from birth.",
+        "text": "Inherited mechanobullous disorder (epidermolysis bullosa) presenting in the newborn.",
         "explanation": "Correct. The lecturer specifically described epidermolysis bullosa as a GENETIC blistering disorder with DEFECTIVE EPIDERMAL-DERMAL ADHESION, with a wide range of phenotypes producing multiple subtypes depending on which epidermal or dermal protein is affected (keratin, laminin, collagen, etc.). The hallmark is fragile skin that BLISTERS FROM MINOR TRAUMA, with mucosal involvement in severe forms. The common feature is blisters at sites of pressure, rubbing, or trauma, occurring at or soon after birth. Severe forms may cause contractures and loss of use of hands/feet. Wound care and infection prevention are critical management priorities."
       }
     ],
@@ -540,7 +540,7 @@ window.Test_L181 = [
         "explanation": "Incorrect. Anti-desmoglein autoimmunity describes pemphigus vulgaris (flaccid blisters), not the greasy yellow scaly plaques of seborrheic dermatitis. This would be the correct answer if the patient had mucocutaneous flaccid blisters with acantholysis."
       },
       {
-        "text": "Chronic inflammation of sebaceous-rich areas with Malassezia overgrowth; treat with antifungals.",
+        "text": "Chronic inflammatory dermatitis of sebum-rich skin that responds to antifungal therapy.",
         "explanation": "Correct. The lecturer specifically described seborrheic dermatitis as a common (~5% of general population), chronic, relapsing inflammatory skin disorder affecting SEBACEOUS GLAND-RICH AREAS (scalp, forehead, face, central chest). The cause is unknown but associated with ↑ sebum production and overgrowth of MALASSEZIA YEAST. Clinically: scaly, greasy, yellow plaques; dandruff is a common scalp manifestation. Histopathology shows acute, subacute, or chronic spongiotic dermatitis with spongiosis and overlying scale crust (parakeratosis containing neutrophils and serum at hair follicle ostia). Treatment includes antifungals (targeting Malassezia), low-strength topical steroids, and medicated shampoos (SELENIUM SULFIDE, ZINC PYRITHIONE)."
       },
       {

@@ -106,7 +106,7 @@ window.Test_L179 = [
         "explanation": "Incorrect. Plaques are persistent and solid, but the lesions here are transient and represent dermal edema, not solid tissue elevation. This would be the correct answer if the lesions were chronic, broadly raised, scaly plaques such as those of psoriasis."
       },
       {
-        "text": "Wheals — elevated, erythematous areas of dermal edema (urticaria/hives).",
+        "text": "Wheals — elevated superficial swellings (urticaria/hives).",
         "explanation": "Correct. The lecturer defined a wheal as an elevated, erythematous area of dermal edema — also called a welt, hive, or urticaria. The transient, pruritic, migrating, edematous, erythematous nature of these lesions in the setting of a new drug exposure is classic for acute urticaria. Wheals reflect histamine-mediated dermal vascular permeability rather than persistent tissue infiltration, which is why they migrate and resolve over hours."
       },
       {
@@ -358,7 +358,7 @@ window.Test_L179 = [
         "explanation": "Incorrect. Alopecia areata is a NONcicatricial alopecia, and follicular orifices are preserved (often with characteristic exclamation point hairs). This would be the correct answer if the patient had smooth round patches with retained follicular orifices."
       },
       {
-        "text": "The absence of follicular orifices indicates a cicatricial (scarring) alopecia.",
+        "text": "This is a cicatricial (scarring) alopecia, with permanent loss of the hair follicles.",
         "explanation": "Correct. The lecturer taught that the key feature distinguishing cicatricial (scarring) from noncicatricial alopecia is the absence of follicular orifices in cicatricial disease. When the follicles themselves have been destroyed and replaced by scar tissue, the orifices disappear — and the hair loss is typically permanent. This is in contrast to noncicatricial alopecias (alopecia areata, androgenic alopecia, telogen effluvium) where follicular orifices are preserved and regrowth is potentially possible."
       },
       {
@@ -591,7 +591,7 @@ window.Test_L179 = [
   {
     "id": 20,
     "category": "Dermatology: HPI - Intertriginous Distribution",
-    "questionText": "A 48-year-old woman with type 2 diabetes presents with a rash she has noticed in several skin folds. On examination, an erythematous, slightly macerated rash is noted in her axillae, the inframammary folds, and the inguinal areas. The lecturer specifically used a single term to describe areas where two skin surfaces contact each other. Which of the following terms best characterizes this distribution?",
+    "questionText": "A 48-year-old woman with type 2 diabetes presents with a rash she has noticed in several skin folds. On examination, an erythematous, slightly macerated rash is noted in her axillae, the inframammary folds, and the inguinal areas. The lecturer specifically used a single term for this distribution. Which of the following terms best characterizes it?",
     "options": [
       {
         "text": "Acral — affecting the distal portions of the limbs.",
@@ -602,7 +602,7 @@ window.Test_L179 = [
         "explanation": "Incorrect. Extensor surfaces are the posterior arm/forearm and anterior thigh/leg — opposite to the flexural/intertriginous distribution described. This would be the correct answer if the rash were on the elbows, knees, or shins (as in psoriasis)."
       },
       {
-        "text": "Intertriginous — areas where two skin surfaces contact each other.",
+        "text": "Intertriginous — sites where two opposing body surfaces appose and rub.",
         "explanation": "Correct. The lecturer specifically defined intertriginous areas as those where two skin surfaces contact each other, listing the axilla, inguinal area, intergluteal cleft, and inframammary folds — exactly the distribution described. The warm, moist environment of intertriginous areas predisposes to candidal intertrigo, especially in patients with diabetes mellitus or obesity. Webspaces between the fingers and toes also count as intertriginous areas."
       },
       {

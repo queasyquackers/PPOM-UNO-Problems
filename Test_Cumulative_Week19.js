@@ -287,7 +287,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Endocrine secretion bypasses ducts entirely and releases hormones into the bloodstream — sebaceous glands secrete onto the skin surface via the hair follicle and are exocrine, not endocrine. This would be the correct answer in a question about thyroid or adrenal hormone release."
       },
       {
-        "text": "Holocrine secretion — the entire glandular cell disintegrates and becomes part of the secretion",
+        "text": "Holocrine secretion — the whole secretory cell ruptures, releasing its contents",
         "explanation": "Correct. Sebaceous glands are the classic example of holocrine secretion: the secretory cells accumulate lipid-rich vesicles as they mature, then disintegrate entirely and become part of the secretion (sebum). New cells continuously replace those lost from a basal layer. Sebum lubricates the hair shaft and skin surface and contributes to antimicrobial defense. Sebaceous glands open into the infundibulum of the hair follicle and are stimulated by androgens — explaining their hypertrophy at puberty and central role in acne vulgaris."
       },
       {
@@ -665,7 +665,7 @@ window.Test_Cumulative_Week19 = [
     "questionText": "An 82-year-old woman presents with several months of intense generalized pruritus that has recently been complicated by the appearance of tense, fluid-filled bullae on her trunk, axillae, and groin. The bullae do not slough when laterally rubbed (negative Nikolsky sign), and oral mucosa is uninvolved. Biopsy with direct immunofluorescence shows linear IgG and C3 deposition along the basement membrane zone. Which of the following best describes the molecular target of the autoantibody?",
     "options": [
       {
-        "text": "BPAG2 (collagen XVII), a hemidesmosome component at the basement membrane zone",
+        "text": "BPAG2 (collagen XVII), a transmembrane hemidesmosomal protein",
         "explanation": "Correct. Bullous pemphigoid is the most common autoimmune blistering disease of older adults and is caused by IgG autoantibodies against BPAG2 (also known as collagen XVII, BP180) and BPAG1 (BP230) — components of the hemidesmosome that anchor basal keratinocytes to the underlying basement membrane. Autoantibody binding leads to complement activation and inflammatory infiltration that produces a SUBEPIDERMAL blister (vs. the suprabasal blister of pemphigus). Because the cleavage is below the basal cell layer rather than between keratinocytes, the bullae are TENSE rather than flaccid and the Nikolsky sign is NEGATIVE. Oral mucosa is typically spared (in contrast to pemphigus vulgaris). Direct immunofluorescence shows LINEAR IgG and C3 along the DEJ. Treatment is high-potency topical or systemic corticosteroids ± steroid-sparing immunosuppression."
       },
       {
@@ -1131,7 +1131,7 @@ window.Test_Cumulative_Week19 = [
         "explanation": "Incorrect. Griseofulvin is used for dermatophyte tinea capitis in children; it has no activity against Mucorales. This would be the correct answer in a child with tinea capitis."
       },
       {
-        "text": "Initiate intravenous liposomal amphotericin B AND arrange emergent surgical debridement; correct the underlying DKA",
+        "text": "Initiate IV liposomal amphotericin B plus emergent surgical debridement; correct the DKA",
         "explanation": "Correct. Rhinocerebral mucormycosis is an aggressive, angioinvasive fungal infection of the Mucorales family (e.g., Rhizopus, Mucor) that disproportionately affects patients with DKA, hematologic malignancy, neutropenia, or chronic immunosuppression. The histologic hallmark is broad, NON-SEPTATE hyphae with RIGHT-ANGLE branching (contrast Aspergillus: septate, acute-angle). Survival requires emergent intravenous liposomal amphotericin B PLUS emergent surgical debridement of all necrotic tissue, along with aggressive correction of the underlying metabolic derangement (DKA). Posaconazole and isavuconazole are the only azoles with Mucorales activity and are often used as oral step-down therapy after stabilization. Delays in either antifungal therapy or surgery dramatically worsen mortality."
       }
     ],

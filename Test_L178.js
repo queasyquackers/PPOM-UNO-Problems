@@ -183,7 +183,7 @@ window.Test_L178 = [
         "explanation": "Incorrect. Squalene epoxidase inhibition describes terbinafine. Azoles act DOWNSTREAM at 14-alpha-demethylase (after lanosterol is formed). This would be the correct answer if asking about terbinafine."
       },
       {
-        "text": "Binding the heme iron of lanosterol 14-alpha-demethylase (CYP51) → blocks conversion of lanosterol to ergosterol → ergosterol depletion AND accumulation of toxic 14-methylated sterol intermediates.",
+        "text": "Inhibition of fungal CYP51 (lanosterol 14-alpha-demethylase), halting conversion of lanosterol to ergosterol.",
         "explanation": "Correct. The lecturer specifically described 14-alpha-demethylase (CYP51, expressed by the ERG11 gene) as the azole target. Azoles bind the iron of the CYP heme, competitively inhibiting conversion of lanosterol to ergosterol. Two simultaneous effects occur: ergosterol DEPLETION (destabilizing the cell membrane) and ACCUMULATION of toxic 14-methylated sterol intermediates (further disrupting membrane integrity). Net effect is fungistatic growth arrest. Resistance mechanisms include ERG11 mutations (decreased binding affinity), efflux pump expression, and upregulated lanosterol production."
       },
       {
@@ -241,7 +241,7 @@ window.Test_L178 = [
         "explanation": "Incorrect. Direct ergosterol binding describes polyenes (AMB, nystatin). This would be the correct answer if asking about AMB."
       },
       {
-        "text": "Inhibition of squalene epoxidase (early in ergosterol synthesis) → ergosterol depletion plus toxic squalene accumulation → membrane dysfunction and fungal cell death.",
+        "text": "Inhibition of squalene epoxidase, an early step in ergosterol synthesis, causing toxic squalene to build up.",
         "explanation": "Correct. The lecturer described terbinafine as a squalene epoxidase inhibitor. The enzyme catalyzes an early step (squalene → squalene epoxide → eventually ergosterol). Inhibition has a dual effect: (1) ergosterol depletion destabilizes the membrane, and (2) toxic squalene accumulates causing membrane dysfunction and osmotic stress → fungicidal death (more potent than the fungistatic azoles). Terbinafine accumulates in keratin-rich tissues (skin, nails, fat), making it the DOC for onychomycosis (oral × 3 months — more effective than griseofulvin or itraconazole). It is a strong CYP2D6 inhibitor and can cause hepatotoxicity."
       },
       {
@@ -280,7 +280,7 @@ window.Test_L178 = [
         "explanation": "Incorrect. Ergosterol pore formation describes polyenes (AMB, nystatin). This would be the correct answer if asking about AMB."
       },
       {
-        "text": "Binding microtubules in keratin precursor cells; the drug-keratin complex is taken up by dermatophytes as hair/skin/nails are replaced, disrupting the mitotic spindle and arresting fungal mitosis at metaphase (fungistatic).",
+        "text": "Binding fungal microtubules, disrupting the mitotic spindle and arresting mitosis at metaphase (fungistatic).",
         "explanation": "Correct. The lecturer specifically described griseofulvin's mechanism as binding microtubules in keratin precursor cells of skin, hair, and nails. The drug-keratin complex is taken up by dermatophytes as the host keratin is replaced (slowly clearing infection). Inside the fungus, griseofulvin binds fungal tubulin, interferes with microtubule function, and inhibits mitosis at metaphase — fungistatic. Treatment is long (up to 18 months). Oral; absorption is improved by fatty food and by ultramicronized formulation. Contraindicated in pregnancy (teratogenic), hepatic failure, and porphyria. CYP INDUCER (reduces contraceptive and warfarin levels). Terbinafine has largely replaced it for onychomycosis, but griseofulvin remains useful for tinea capitis in children."
       }
     ],
@@ -466,7 +466,7 @@ window.Test_L178 = [
         "explanation": "Incorrect. Concentration-dependent marrow suppression is more characteristic of flucytosine (5-FU effect from gut bacterial activation). This would be the correct answer if asking about 5-FC toxicity."
       },
       {
-        "text": "Ophthalmic effects (blurred vision, photopsia, color changes, optic neuritis, scleritis), peripheral neuropathy (may be rapid and irreversible), hallucinations/encephalopathy (high IV concentrations), and periosteal disease (trifluorinated structure).",
+        "text": "Visual disturbances (photopsia, chromatopsia, optic neuritis), peripheral neuropathy, hallucinations, and periostitis.",
         "explanation": "Correct. The lecturer specifically detailed voriconazole-specific adverse effects: ophthalmic effects are the iconic finding (blurred vision, photopsia/flashes, color/vision changes, optic neuritis, scleritis, photophobia — often within hours of dose); peripheral neuropathy may be rapid-onset and irreversible; CNS effects include encephalopathy and hallucinations (especially with high IV concentrations); and chronic use can produce periosteal disease (trifluorinated structure → fluoride accumulates in bone matrix). For intolerant patients, posaconazole or isavuconazole are alternatives."
       }
     ],
