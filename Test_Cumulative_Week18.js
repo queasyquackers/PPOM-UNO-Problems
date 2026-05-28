@@ -767,7 +767,7 @@ window.Test_Cumulative_Week18 = [
         "explanation": "Incorrect. While influenza can produce rapidly progressive viral pneumonia, the clinical setting (rodent dropping exposure in rural southwestern US) makes hantavirus the more specific answer. This would be the correct answer during peak influenza season in a vaccinated household exposure."
       },
       {
-        "text": "Sin Nombre hantavirus pulmonary syndrome from rodent droppings",
+        "text": "Sin Nombre virus causing hantavirus cardiopulmonary syndrome",
         "explanation": "Correct. The classic 1993 'Four Corners' outbreak introduced the modern recognition of hantavirus pulmonary syndrome caused by Sin Nombre virus. Inhalation of aerosolized rodent (deer mouse) urine, droppings, or contaminated dust produces a febrile prodrome followed by abrupt non-cardiogenic pulmonary edema with mortality of approximately 30-40%. Treatment is intensive supportive care (mechanical ventilation, ECMO for select patients); rodent control is the primary preventive strategy. The other hantavirus syndrome is hemorrhagic fever with renal syndrome (HFRS) seen elsewhere in the world."
       },
       {

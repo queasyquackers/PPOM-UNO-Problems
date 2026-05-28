@@ -420,7 +420,7 @@ window.Test_L185 = [
         "explanation": "Incorrect. Premedication does NOT prevent immune-mediated severe cutaneous adverse reactions like SJS or TEN. Once a patient has had SJS to a drug class, RE-EXPOSURE is contraindicated regardless of premedication. This would be the correct answer for a mild urticarial reaction prevention scenario (e.g., contrast media), not for a documented prior SJS."
       },
       {
-        "text": "Switch to atazanavir (boosted) as the protease inhibitor since it lacks a sulfonamide moiety",
+        "text": "Switch to atazanavir, a protease inhibitor that lacks a sulfa group, given the SJS history",
         "explanation": "Correct. The lecturer specifically taught that DARUNAVIR contains a sulfonamide moiety and should be AVOIDED in patients with a history of sulfonamide allergy because severe skin rash can occur. Atazanavir, the alternative preferred protease inhibitor, does not have this sulfonamide concern. In a patient with prior SJS from TMP-SMX, switching to atazanavir (with appropriate gastric acid considerations and counseling about hyperbilirubinemia and stone risk) is the safer choice."
       },
       {

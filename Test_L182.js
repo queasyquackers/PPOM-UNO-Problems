@@ -160,7 +160,7 @@ window.Test_L182 = [
     "questionText": "A 65-year-old fair-skinned woman presents with multiple small tan to brown macules on the dorsal hands and forearms (sun-exposed areas) that have accumulated gradually over the past decade. On examination, the lesions are small (5–10 mm), oval, flat, and uniform in color. Histopathology shows linear melanocytic hyperplasia restricted to immediately above the basement membrane, with elongation and thinning of the rete ridges, but no clusters or nests of melanocytes. Based on the lecturer's framework, which of the following best describes this lesion?",
     "options": [
       {
-        "text": "Solar lentigo — common benign localized hyperplasia of melanocytes; not precancerous; lentiginous (linear) growth pattern, not progressing to malignancy.",
+        "text": "Solar lentigo — benign lentiginous (linear) melanocytic hyperplasia; not premalignant.",
         "explanation": "Correct. The lecturer specifically described solar lentigo as a common BENIGN localized hyperplasia of melanocytes, NOT PRECANCEROUS and generally not progressing to malignancy, exclusively in sun-exposed areas, typically age >40, with prevalence increasing in lightly pigmented individuals. Lesions are typically small (5–10 mm), oval-shaped, tan to brown macules. The lecturer emphasized that the LENTIGINOUS growth pattern (linear melanocyte proliferation along the dermo-epidermal junction, rather than forming clusters or nests) is also seen in a subtype of melanoma — lentigo maligna melanoma — which is important for differential diagnosis. Histology shows linear melanocytic hyperplasia restricted to immediately above the basement membrane, with elongation and thinning of the rete ridges."
       },
       {
@@ -238,7 +238,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. IgG autoantibodies against melanocytes describe the halo nevus phenomenon (autoimmune response against melanocytes at the DEJ producing leukoderma around a nevus), not the genetics of dysplastic nevi. This would be the correct answer if the question asked about the mechanism behind a halo of depigmentation surrounding a nevus."
       },
       {
-        "text": "Activating BRAF or NRAS mutations (proto-oncogenes) AND loss-of-function mutations in CDKN2A (a tumor suppressor); can be familial autosomal dominant.",
+        "text": "Activating BRAF/NRAS plus loss-of-function CDKN2A mutations; may be familial (autosomal dominant).",
         "explanation": "Correct. The lecturer specifically described dysplastic nevi as carrying ACTIVATING BRAF or NRAS mutations (proto-oncogenes) AND LOSS-OF-FUNCTION mutations in CDKN2A (a tumor suppressor). The familial autosomal dominant 'multiple dysplastic nevi and melanoma syndrome' (with hundreds of dysplastic nevi) is the specific syndromic context the lecturer named. Dysplastic nevi are potential precursors to melanoma — most never progress, but the risk for melanoma INCREASES WITH THE NUMBER of dysplastic nevi. The histopathology described (cellular atypia, bridging, fibrosis, melanin incontinence, lymphocytic infiltrates) is exactly what the lecturer specified as the hallmark architectural and cytological features of dysplastic nevi, in contrast to acquired or congenital nevi without atypia."
       }
     ],
@@ -323,7 +323,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. T3 is 2.01–4 mm per the lecturer's framework, and this lesion is 1.8 mm (T2). Stage IV requires distant metastases (M1), which this patient does not have. This would be the correct answer if Breslow depth were 2.01–4 mm with distant metastases."
       },
       {
-        "text": "T2 (1.01–2 mm); Stage I-II (localized primary, no nodal spread, no metastases), approximately 98% 5-year survival.",
+        "text": "T2 (1.01–2 mm); Stage I-II (localized), ~98% 5-year survival.",
         "explanation": "Correct. The lecturer specifically taught the AJCC TNM categories: T1 ≤1 mm; T2 1.01–2 mm; T3 2.01–4 mm; T4 >4 mm (with subcategories a [no ulceration] and b [with ulceration]). At 1.8 mm without ulceration, this lesion is T2a. Staging: Stage 0 = in situ (confined to epidermis); STAGE I-II = LOCALIZED or locally advanced primary tumor, NO NODAL SPREAD, NO METASTASES (T1-T4, N0, M0) with approximately 98% 5-YEAR SURVIVAL; Stage III = regional lymph node involvement (~35% 5-year survival); Stage IV = distant metastases. The patient's negative SLN biopsy and absence of metastases place her at Stage I-II with the excellent prognosis."
       },
       {
@@ -389,7 +389,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Blue nevus is a firm dark-blue/grey-black nodule with sharp borders due to dermal melanocyte proliferation, but does not have a depigmented halo. This would be the correct answer if the lesion were a dark blue-black nodule without a surrounding halo."
       },
       {
-        "text": "Halo nevus — depigmented (leukoderma) halo around a nevus from autoimmune attack on DEJ melanocytes.",
+        "text": "Halo nevus — a benign mole undergoing T-cell-mediated regression, leaving a pale rim.",
         "explanation": "Correct. The lecturer specifically described halo nevus as marked by a HALO of depigmentation (LEUKODERMA) surrounding a central nevus, due to an AUTOIMMUNE response against melanocytes at the dermo-epidermal junction. Halo nevi can occur in vitiligo and can INDICATE INCIPIENT VITILIGO — this patient's recent onset of depigmentation patch on her hand supports an evolving vitiligo process. The clinical association is high-yield because the appearance of a halo around a mole in a young patient prompts evaluation for concomitant vitiligo and discussion of natural history."
       },
       {
@@ -501,7 +501,7 @@ window.Test_L182 = [
     "questionText": "A 45-year-old man presents with a 1.5 cm well-circumscribed, firm, freely movable, dome-shaped, flesh-colored nodule on his scalp. Excision reveals a keratin-filled cyst lined by an epithelial wall that resembles follicular epithelium. Based on the lecturer's classification of epithelial/follicular inclusion cyst subtypes, which of the following best identifies the specific subtype described?",
     "options": [
       {
-        "text": "Pilar (trichilemmal) cyst — wall resembles follicular epithelium (pilar = hair); commonly on scalp.",
+        "text": "Pilar (trichilemmal) cyst — from the hair-follicle root sheath; typically on the scalp.",
         "explanation": "Correct. The lecturer specifically described the PILAR (TRICHILEMMAL) cyst as a subtype of epithelial/follicular inclusion cyst with a wall resembling FOLLICULAR EPITHELIUM (the Latin 'pilar' meaning hair). Pilar cysts are most commonly found on the SCALP, fitting this patient's presentation. The general epithelial cyst category includes invagination and cystic expansion of epidermis or, more commonly, a hair follicle, with characteristic clinical features of being well-circumscribed, firm, often movable, dome-shaped, and flesh-colored. Subtypes also include: epithelial inclusion (epidermis-like wall), dermoid (with multiple appendages), and steatocystoma (wall resembling sebaceous gland duct)."
       },
       {
@@ -544,7 +544,7 @@ window.Test_L182 = [
         "explanation": "Incorrect. Parakeratosis is retained nuclei in the stratum corneum (a feature of psoriasis or AK), not melanocyte upward migration. This would be the correct answer if the question asked about the keratin layer abnormality in psoriasis."
       },
       {
-        "text": "Pagetoid spread — single-cell and nested melanocyte migration upward through multiple epidermal layers, a hallmark of melanoma histopathology.",
+        "text": "Pagetoid spread — upward intraepidermal scatter of tumor cells, a hallmark of melanoma.",
         "explanation": "Correct. The lecturer specifically listed PAGETOID SPREAD as a key clinical/histopathologic feature of melanoma — single atypical melanocytes (and small nests) migrating UPWARD through MULTIPLE EPIDERMAL LAYERS, including the upper epidermis. Other key features of melanoma histopathology described by the lecturer include asymmetry, ulceration, cytologic atypia, and dermal mitoses. The term 'pagetoid' references the pattern's resemblance to Paget's disease cells. Recognizing pagetoid spread in a pigmented lesion is a high-yield histopathologic clue for melanoma."
       },
       {

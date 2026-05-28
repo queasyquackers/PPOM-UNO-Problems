@@ -168,7 +168,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Coral-red Wood's lamp fluorescence is characteristic of erythrasma, a Corynebacterium minutissimum infection of intertriginous skin, not of papulosquamous truncal eruptions. This would be the correct answer if the patient had a brown patch in the groin with coral-red fluorescence."
       },
       {
-        "text": "Solitary herald patch preceding the smaller lesions by 1-2 weeks",
+        "text": "An initial solitary 'herald' lesion days before the rest of the eruption",
         "explanation": "Correct. The herald patch - a single, larger, oval, scaly patch that precedes the generalized truncal eruption by days to weeks - is present in roughly 80% of pityriasis rosea cases and is absent in guttate psoriasis. Pityriasis rosea also tends to spare the extremities (confined to trunk and proximal limbs), aligns along skin lines (Christmas tree pattern on the back), and resolves within 6-12 weeks. Guttate psoriasis produces a more generalized teardrop eruption, often after streptococcal infection, and has no herald lesion."
       },
       {
@@ -323,7 +323,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Acyclovir treats herpesvirus infections and has no activity against Malassezia or other fungi. This would be the correct answer if the patient had grouped vesicles in a dermatomal distribution consistent with herpes zoster."
       },
       {
-        "text": "Selenium sulfide shampoo used as a body wash",
+        "text": "Topical selenium sulfide (an inexpensive OTC antifungal)",
         "explanation": "Correct. Hoffman specifically recommended selenium sulfide shampoo (e.g., Selsun Blue) applied to the body and left in place for 10-15 minutes before rinsing as a practical, inexpensive treatment for tinea versicolor. Topical antifungals (azoles, terbinafine) are alternatives. Patients should be counseled that pigment normalization may take weeks to months after the yeast is cleared, even if the infection is successfully treated."
       },
       {
@@ -377,7 +377,7 @@ window.Test_L186 = [
     "questionText": "A 45-year-old man with a 10-year history of plaque psoriasis on his elbows, knees, and scalp presents for routine follow-up. He has not noticed any new skin lesions, but he is concerned about his fingernails. On examination, several nails show small punctate depressions of the nail plate; one nail has distal separation of the plate from the bed with a whitish discoloration; and one nail has a discrete, well-circumscribed yellow-brown spot visible through the plate. Vital signs are normal. Which of the following nail findings in this patient is essentially pathognomonic for his underlying dermatologic disease?",
     "options": [
       {
-        "text": "Well-circumscribed yellow-brown discoloration beneath the nail plate ('oil spot')",
+        "text": "A localized brownish patch under the nail plate (the psoriatic 'oil-drop' sign)",
         "explanation": "Correct. Hoffman explicitly described the psoriatic 'oil spot' (a focal yellow-brown salmon-colored translucent area beneath the nail plate, caused by psoriasiform changes in the nail bed) as essentially pathognomonic for psoriasis. While pitting and onycholysis can occur in many conditions, an oil spot is highly specific for psoriatic nail disease. Recognizing it is helpful when other psoriatic findings are subtle."
       },
       {
@@ -548,7 +548,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. A deep-red plaque distributed across multiple intertriginous sites (axillae, inframammary folds, gluteal cleft, groin) and involving the genitalia suggests inverse psoriasis rather than tinea cruris. KOH is negative in inverse psoriasis. This would be the correct answer if the patient had similar deep-red plaques in multiple body folds with negative KOH and known plaque psoriasis elsewhere."
       },
       {
-        "text": "Sparing of the scrotum and penis with annular plaques limited to the inner thighs and groin",
+        "text": "Sparing of the genitals, unlike candidal intertrigo which involves the scrotum",
         "explanation": "Correct. Hoffman specifically taught that tinea cruris (jock itch), most often caused by Trichophyton rubrum, characteristically spares the scrotum and penis - in contrast to candidal intertrigo, inverse psoriasis, and eczema, all of which can involve genital skin. Combined with annular plaques and central clearing on the medial thighs and a positive KOH for hyphae, scrotal sparing is a key positive clinical clue."
       }
     ],
@@ -567,7 +567,7 @@ window.Test_L186 = [
         "explanation": "Incorrect. Coral-red Wood's lamp fluorescence is the hallmark of erythrasma due to Corynebacterium minutissimum, not candidal intertrigo. This would be the correct answer if the patient had a non-pustular brown intertriginous patch with coral-red fluorescence."
       },
       {
-        "text": "Discrete satellite pustules extending beyond the main border of a beefy red intertriginous plaque",
+        "text": "Satellite papules and pustules studding the skin around the plaque margin",
         "explanation": "Correct. Hoffman emphasized that satellite pustules outside the main border of a beefy red, glistening intertriginous plaque are the clinical hallmark of cutaneous candidiasis. Diabetes, obesity, elderly age, and immunocompromise all predispose by creating a warm, moist environment that favors Candida overgrowth. KOH confirmation showing pseudohyphae and budding yeast secures the diagnosis. Treatment includes drying the area and a topical anti-yeast agent."
       },
       {

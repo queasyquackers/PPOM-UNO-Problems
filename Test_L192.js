@@ -579,7 +579,7 @@ window.Test_L192 = [
         "explanation": "Incorrect. Miliaria rubra is treated with loose clothing, antihistamines, and topical calamine, chlorhexidine, or low-potency steroids — outpatient management is standard. This would be the correct answer if a secondary skin infection had developed requiring inpatient antibiotics."
       },
       {
-        "text": "Patient E (temperature 41.0°C with confusion and hot dry skin)",
+        "text": "Patient E (heat stroke)",
         "explanation": "Correct. This patient meets criteria for heat stroke (temperature >40°C with altered mental status), and the lecture is explicit that heat-stroke patients require admission, usually to the ICU. They are at high risk for multisystem complications including DIC, rhabdomyolysis with renal failure, hepatic failure, ARDS, and dysrhythmias from electrolyte derangements, all of which require multidisciplinary inpatient management. The hot dry skin further suggests classic heat stroke with overwhelmed sweating."
       }
     ],

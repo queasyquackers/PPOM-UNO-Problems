@@ -145,7 +145,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. Measles produces a morbilliform rash with prominent 3 C's prodrome and Koplik spots — not painful palmar/plantar vesicles with oral ulcers, and the child is fully immunized. This would be the correct answer if the child were unimmunized and presented with the 3 C's plus Koplik spots and cephalic-to-caudal rash."
       },
       {
-        "text": "Coxsackie virus A — causes hand-foot-mouth disease with painful oral ulcers and vesicles on palms, soles, and buttocks.",
+        "text": "Coxsackievirus A — an enterovirus causing hand-foot-and-mouth disease, common in young children.",
         "explanation": "Correct. The lecturer specifically described hand-foot-mouth disease as caused by enteroviruses (coxsackie viruses, enteroviruses, echoviruses), with a mild/absent prodrome of low-grade fever, then painful erythematous macules and vesicles that rupture into superficial ulcers with a gray-yellow base and erythematous rim, plus non-pruritic macules/papules/cloudy vesicles with erythematous halo on the hands, palms, feet, soles, buttocks, and extremities. Decreased oral intake from painful oral lesions is common. Peaks in summer/early fall with fecal-oral and respiratory transmission, most commonly in children under 10."
       }
     ],
@@ -300,7 +300,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. Scabies produces intensely pruritic excoriated papules with characteristic linear burrows in webspaces/wrists and is not associated with a herald patch or Christmas-tree pattern. This would be the correct answer if the patient had pruritic excoriations in finger webspaces with linear burrows."
       },
       {
-        "text": "Pityriasis rosea — eruption with herald patch followed by pruritic scaly plaques with collarette of scale in a Christmas-tree pattern.",
+        "text": "Pityriasis rosea — a self-limited papulosquamous eruption, likely post-viral (HHV-6/7).",
         "explanation": "Correct. The lecturer specifically described pityriasis rosea: an initial 3–5 cm isolated oval scaly pink HERALD PATCH with central clearing, followed over 1–2 weeks by very pruritic scaly erythematous plaques with a COLLARETTE of scale arranged in a CHRISTMAS-TREE pattern (cephalo-caudal spread). Diagnosis is clinical; testing to exclude tinea or syphilis may be considered. Treatment is supportive (antihistamines, topical steroids, UV light), and it resolves spontaneously in 6–8 weeks."
       }
     ],
@@ -350,7 +350,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. The lecturer's key distinguishing feature is that varicella lesions are in VARIOUS stages of evolution simultaneously ('dew drop on rose petal'), while in monkeypox lesions within one body area are all at the SAME stage. The patient is also up to date on the varicella vaccine. This would be the correct answer if the lesions were pruritic and at various stages of evolution."
       },
       {
-        "text": "Monkeypox (Mpox) — viral zoonotic infection with prodrome, then face/extremity rash with lesions at the same stage in any one body area.",
+        "text": "Monkeypox (Mpox) — an Orthopoxvirus zoonosis in which lesions evolve synchronously (unlike varicella).",
         "explanation": "Correct. The lecturer specifically described Mpox: a viral zoonotic infection caused by monkeypox virus, transmitted via skin-to-skin or mucosal contact (fomite possibly), with a 1–5 day prodrome of fever, chills, myalgias, and malaise. The exanthem starts on the FACE and EXTREMITIES (including palms and soles), with centripetal spread, evolving macules → papules → vesicles → pustules → crusts. Critically, lesions in any one area are all at the SAME stage and progress simultaneously — a key distinguishing feature from varicella, where lesions are in different stages. Tecovirimat may be used in select cases under expanded access protocols."
       },
       {
@@ -505,7 +505,7 @@ window.Test_L180 = [
         "explanation": "Incorrect. Koplik spots are pathognomonic for MEASLES (which presents with the 3 C's prodrome plus cephalic-to-caudal morbilliform rash and palm/sole involvement), not rubella. This would be the correct answer if the patient had measles with prominent cough/coryza/conjunctivitis and white papules on red buccal mucosa."
       },
       {
-        "text": "Forscheimer spots — petechiae on the soft palate associated with rubella.",
+        "text": "Forscheimer spots — a rose-colored enanthem characteristic of rubella.",
         "explanation": "Correct. The lecturer specifically described Forscheimer spots (petechiae on the soft palate) as the enanthem of rubella (German measles). Other rubella features described include mild or absent prodrome with low-grade fever/sore throat/malaise, posterior auricular and occipital (sometimes generalized) lymphadenopathy, a fine erythematous maculopapular rash starting on the face and becoming generalized within 24 hours, peaks in late winter/early spring, transmission via droplet/direct contact/transplacentally, with most infections now occurring outside the US or in under-immunized individuals. Treatment is supportive."
       },
       {

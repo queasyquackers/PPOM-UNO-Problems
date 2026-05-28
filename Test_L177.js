@@ -110,7 +110,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Green pigment and fruity odor on MacConkey describe Pseudomonas aeruginosa, which is Gram-negative. B. anthracis is Gram-positive. This would be the correct answer if the organism were Pseudomonas."
       },
       {
-        "text": "Long, thin Gram-positive rods in chains, non-hemolytic and non-motile (key distinction from B. cereus), capsule visualized with India ink, 'medusa head' colonies on sheep blood agar.",
+        "text": "Long Gram-positive rods in chains; non-motile and non-hemolytic (unlike B. cereus); 'medusa-head' colonies.",
         "explanation": "Correct. The lecturer specifically described B. anthracis as long, thin, Gram-positive rods that grow in chains and are visible on Gram stain. Key distinguishing features from B. cereus (which is hemolytic and motile) are that B. anthracis is non-hemolytic and non-motile. The poly-D-glutamic acid capsule is visualized with India ink (which reveals a clear halo around the cell), and colonies on sheep blood agar have a characteristic 'medusa head' appearance — irregular, comma-shaped projections at the edge. Spore formation requires low CO2 conditions in culture."
       },
       {
@@ -129,7 +129,7 @@ window.Test_L177 = [
     "questionText": "A medical student is asked to identify the pathogen, vector, and reservoir of Lyme disease in the United States. The lecturer specifically named all three. Which of the following correctly describes Lyme disease epidemiology?",
     "options": [
       {
-        "text": "Caused by Borrelia burgdorferi (a Gram-negative spirochete); transmitted by Ixodes ticks; reservoir is the white-footed mouse; white-tailed deer are essential for the tick life cycle; the leading vector-borne disease in the US with 95% of cases from Maine to Virginia and the Upper Midwest.",
+        "text": "Caused by Borrelia burgdorferi (a spirochete); transmitted by Ixodes ticks; reservoir is the white-footed mouse; concentrated in the Northeast and Upper Midwest.",
         "explanation": "Correct. The lecturer specifically identified Borrelia burgdorferi (a Gram-negative spirochete that stains poorly on Gram stain — Giemsa or Wright staining is preferred) as the cause of Lyme disease, transmitted via Ixodes (deer/blacklegged) tick saliva after a bite. The white-footed mouse is the reservoir host that maintains B. burgdorferi, and the white-tailed deer is essential for the tick life cycle (although deer themselves are not infected reservoirs). Lyme is the leading vector-borne disease in the US, with 95% of cases concentrated from Maine to Virginia along the east coast and in the Upper Midwest."
       },
       {
@@ -168,7 +168,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. This describes Brucella species, not Leptospira (which is Gram-negative, motile/flagellated, and a spirochete). This would be the correct answer if asking about brucellosis."
       },
       {
-        "text": "Thin spirochetes with hooked (question-mark or shepherd's crook) ends, flagellated, obligate aerobes that require supplemented media (Fletcher, EMJH, Tween 80-albumin) for growth.",
+        "text": "Thin spirochetes with hooked ('question-mark'/'shepherd's-crook') ends; flagellated obligate aerobes needing enriched media.",
         "explanation": "Correct. The lecturer specifically described Leptospira as thin spirochetes with characteristic hooked ends (often described as 'question-mark' or 'shepherd's crook' shape), flagellated, and obligate aerobes. Leptospira requires specialized supplemented media (Fletcher, EMJH, or Tween 80-albumin) for slow culture; darkfield microscopy is only useful if the organism has been cultured first. The microscopic agglutination test (MAT) is favored over culture for clinical diagnosis. Treatment is IV penicillin or doxycycline; doxycycline is the prophylactic agent."
       },
       {
@@ -226,7 +226,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. This reverses the actual cellular targets — Anaplasma is in granulocytes, Ehrlichia in monocytes. This would be the correct answer only if the tropism were reversed, which it is not."
       },
       {
-        "text": "Anaplasma phagocytophilum infects granulocytes (neutrophils); Ehrlichia chaffeensis infects monocytes; both form characteristic intracellular inclusions called 'morulae' on Giemsa-stained blood smears.",
+        "text": "Anaplasma infects granulocytes (neutrophils); Ehrlichia infects monocytes.",
         "explanation": "Correct. The lecturer specifically distinguished the two organisms by their cellular tropism: Anaplasma phagocytophilum primarily infects granulocytes (especially neutrophils/PMNs), causing human granulocytic anaplasmosis, while Ehrlichia chaffeensis primarily infects monocytes, causing human monocytic ehrlichiosis. Both prevent phagolysosome fusion and form characteristic intracellular inclusions called 'morulae' (mulberry-like clusters) visible on Giemsa-stained blood smears. Both are tick-transmitted Gram-negative organisms (though they lack peptidoglycan and LPS), both stain best with Giemsa or Wright, and both are treated with doxycycline. Vectors: Ehrlichia → Lone Star tick (Amblyomma americanum), Anaplasma → Ixodes tick."
       },
       {
@@ -354,7 +354,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Q fever presents more indolently with hepatitis/pneumonia and atypical-pneumonia-like features in farm workers, not the rapidly progressive shock with massive mediastinal widening of inhalation anthrax. This would be the correct answer if the patient had subacute atypical pneumonia after sheep/cattle exposure."
       },
       {
-        "text": "Inhalation anthrax ('wool-sorter's disease') → mediastinal widening, shock, death in 3 days.",
+        "text": "Inhalation anthrax ('wool-sorter's disease') from Bacillus anthracis — treat with ciprofloxacin.",
         "explanation": "Correct. The lecturer specifically described inhalation anthrax as 'wool-sorter's disease' — historically named for industrial workers who inhaled spores from contaminated wool. Spores are inhaled, taken up by alveolar macrophages, and delivered to mediastinal lymph nodes during a clinically latent period. The clinical course follows: initial nonspecific URI prodrome → development of mediastinal lymphadenopathy with fever, massive edema (from edema factor), shock, and death within 3 days. The 2001 USPS letter contamination is the iconic modern example. Spores are highly resilient. Empiric treatment is ciprofloxacin or doxycycline plus 1-2 additional agents (rifampin, vancomycin, penicillin, imipenem, clindamycin, or clarithromycin). There is NO person-to-person transmission."
       },
       {
@@ -443,7 +443,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. While cutaneous anthrax can occur in animal handlers, it is characteristically PAINLESS (compared to the painful ulcer of tularemia) and the exposure history fits tularemia better (rabbit hunting in Oklahoma vs. cattle/sheep hide handling). This would be the correct answer if the patient had a painless black eschar after handling cattle hides or animal products."
       },
       {
-        "text": "Ulceroglandular tularemia (Francisella tularensis) — the most common manifestation of tularemia, presenting as a papule progressing to necrotic ulcer at the inoculation site with regional lymphadenopathy and bacteremia; treat with gentamicin (alternates: doxycycline, ciprofloxacin).",
+        "text": "Ulceroglandular tularemia (Francisella tularensis) — ulcer at the inoculation site with regional lymphadenopathy; treat with gentamicin.",
         "explanation": "Correct. The lecturer specifically described ulceroglandular tularemia as the most common clinical manifestation of Francisella tularensis infection, presenting as a papule that progresses to a necrotic ulcer at the inoculation site with regional lymphadenopathy and possible bacteremia. Type A infections involve rabbits/hares as reservoirs and Ixodes/Dermacentor/Amblyomma ticks as vectors. The classic exposure history of this patient (skinning wild rabbits in Oklahoma — a top-incidence state with Arkansas and Missouri) is iconic for tularemia. Treatment of choice is gentamicin; doxycycline and ciprofloxacin are alternatives. Other clinical forms include oculoglandular, pneumonic, typhoidal, oropharyngeal, and gastrointestinal. Prompt tick removal can prevent infection."
       },
       {
@@ -486,7 +486,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Brucellosis presents with chronic undulant fever and constitutional symptoms over weeks, not acute pseudoappendicitis. This would be the correct answer if the patient had chronic fluctuating fever after unpasteurized dairy."
       },
       {
-        "text": "Yersinia enterocolitica — pseudoappendicitis with terminal ileitis from undercooked pork.",
+        "text": "Yersinia enterocolitica — gram-negative rod from swine; classic pseudoappendicitis.",
         "explanation": "Correct. The lecturer specifically described Y. enterocolitica as a Gram-negative facultative anaerobic rod with distinctive cold resistance (enhanced isolation at 4°C — a 'cold enrichment' technique). It causes enterocolitis and pseudoappendicitis (especially in children), classically presenting with fever, bloody diarrhea, and severe right lower quadrant abdominal pain that mimics appendicitis — but the inflammation is in the terminal ileum and mesenteric lymph nodes rather than the appendix itself. Acquisition is from contaminated meat (especially pork), milk, or water (about 1/100,000 people infected per year in the US). The laboratory uses cefsulodin-irgasan-novobiocin (CIN) medium for selective isolation. Other manifestations include septicemia, intra-abdominal abscess, arthritis, hepatitis, and osteomyelitis."
       }
     ],
@@ -575,7 +575,7 @@ window.Test_L177 = [
         "explanation": "Incorrect. Tularemia produces a PAINFUL ulcer (vs. painless of anthrax) and is typically associated with rabbit-blood or tick exposure (not animal hides specifically). This would be the correct answer if the patient had a painful inoculation-site ulcer after rabbit hunting."
       },
       {
-        "text": "Cutaneous anthrax (Bacillus anthracis) — painless papule progressing to ulcer with vesicles and necrotic eschar (necrosis from Lethal Factor), often with painful surrounding edema and lymphadenopathy; treat with amoxicillin (in this localized cutaneous form).",
+        "text": "Cutaneous anthrax (Bacillus anthracis) — acquired from contaminated animal products; treat with amoxicillin.",
         "explanation": "Correct. The lecturer specifically described cutaneous anthrax as classically beginning as a PAINLESS papule that progresses to ulcer with surrounding vesicles and then to a characteristic central necrotic black eschar (the necrosis is mediated by Lethal Factor, a zinc metalloprotease that triggers macrophage apoptosis). Painful surrounding edema (from Edema Factor, a calmodulin-dependent adenylate cyclase) and regional lymphadenopathy are typical. The classic exposure history (animal handlers, leather workers, hide importers) fits this patient. For uncomplicated cutaneous anthrax, amoxicillin is the recommended treatment; for systemic anthrax, empiric ciprofloxacin or doxycycline plus 1-2 additional agents (rifampin, vancomycin, etc.) is used."
       },
       {

@@ -995,7 +995,7 @@ const Test_L154 = [
     "options": [
       { "text": "TdT positivity", "explanation": "Incorrect. TdT marks LYMPHOID blasts (ALL), not myeloid." },
       { "text": "Smudge cells", "explanation": "Incorrect. Smudge cells are fragile cells seen in CLL, not AML." },
-      { "text": "Auer rods (crystalline cytoplasmic inclusions of fused MPO-positive granules)", "explanation": "Correct. Auer rods are needle-shaped or rod-like crystalline inclusions formed by fused azurophilic (MPO-positive) granules in myeloblasts. They are pathognomonic for AML and are especially abundant in M3 (acute PROMYELOCYTIC leukemia, APL) where they can form bundles ('faggot cells'). When seen, AML is virtually certain." },
+      { "text": "Auer rods", "explanation": "Correct. Auer rods are needle-shaped or rod-like crystalline inclusions formed by fused azurophilic (MPO-positive) granules in myeloblasts. They are pathognomonic for AML and are especially abundant in M3 (acute PROMYELOCYTIC leukemia, APL) where they can form bundles ('faggot cells'). When seen, AML is virtually certain." },
       { "text": "Tear-drop cells (dacrocytes)", "explanation": "Incorrect. Dacrocytes are seen in primary myelofibrosis and marrow infiltrative processes." },
       { "text": "Heinz bodies", "explanation": "Incorrect. Heinz bodies are denatured Hb inclusions in G6PD deficiency." }
     ],
@@ -1202,7 +1202,7 @@ const Test_L154 = [
     "questionText": "Which finding most strongly supports MYELODYSPLASTIC SYNDROME rather than aplastic anemia in a patient with pancytopenia?",
     "options": [
       { "text": "Hypocellular bone marrow", "explanation": "Incorrect. Hypocellular marrow points to aplastic anemia; MDS marrow is typically HYPERcellular with dysplastic features." },
-      { "text": "Hypercellular bone marrow with dysplastic morphology (pseudo-Pelger-Huet cells, ringed sideroblasts) and 5-19% blasts", "explanation": "Correct. MDS = clonal hematopoietic stem cell disorder with INEFFECTIVE hematopoiesis. The bone marrow is HYPERCELLULAR (paradoxically — cells are produced but die before maturation), with dysplastic features: pseudo-Pelger-Huet cells (bilobed neutrophils), ringed sideroblasts, hypogranular neutrophils, and 5-19% blasts (≥20% would be AML). Risk of transformation to AML. Treatment: hypomethylating agents (azacitidine, decitabine); transplant if eligible." },
+      { "text": "Hypercellular marrow with dysplastic changes and excess blasts", "explanation": "Correct. MDS = clonal hematopoietic stem cell disorder with INEFFECTIVE hematopoiesis. The bone marrow is HYPERCELLULAR (paradoxically — cells are produced but die before maturation), with dysplastic features: pseudo-Pelger-Huet cells (bilobed neutrophils), ringed sideroblasts, hypogranular neutrophils, and 5-19% blasts (≥20% would be AML). Risk of transformation to AML. Treatment: hypomethylating agents (azacitidine, decitabine); transplant if eligible." },
       { "text": "Normal megakaryocyte morphology", "explanation": "Incorrect. MDS shows dysplastic megakaryocytes (small, hypolobated)." },
       { "text": "Normal cytogenetics", "explanation": "Incorrect. MDS often has cytogenetic abnormalities (5q-, monosomy 7, trisomy 8)." },
       { "text": "Positive Coombs test", "explanation": "Incorrect. Coombs is not part of the MDS workup." }
