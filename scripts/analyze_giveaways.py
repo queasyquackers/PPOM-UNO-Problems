@@ -44,6 +44,7 @@ WEEK_FILES = {
     20: [
         "Test_L184.js", "Test_L185.js", "Test_L186.js", "Test_L187.js", "Test_L188.js",
         "Test_L189.js", "Test_L190.js", "Test_L191.js", "Test_L192.js",
+        "Test_Cumulative_Week20.js",
     ],
 }
 
