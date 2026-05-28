@@ -263,6 +263,7 @@ const testsToLoad = [
     { name: "20-Physiology: Thermoregulation (L190)", data: window.Test_L190 },
     { name: "20-Cold Related Injuries & Emergency Treatment of Hypothermia (L191)", data: window.Test_L191 },
     { name: "20-Emergency Treatment of Hyperthermia (L192)", data: window.Test_L192 },
+    { name: "20-Week 20 CUMULATIVE EXAM", data: window.Test_Cumulative_Week20 },
 
     // --- Pathoma (Section IV supplemental: Chapter 6 White Blood Cell Disorders) ---
     { name: "Pathoma-Acute Leukemia (6.2)", data: window.Test_Pathoma_6_2 },
