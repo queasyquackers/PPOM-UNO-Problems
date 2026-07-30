@@ -11,11 +11,19 @@ const SECTIONS = [
     { id: "psych",  romanNumeral: "II",  name: "Psychiatry",                      dek: "Mind and behavior.",             weeks: [6, 7, 8, 9] },
     { id: "msk",    romanNumeral: "III", name: "Musculoskeletal & Rheumatology",  dek: "Bone, joint, immune.",           weeks: [12, 13, 14, 15] },
     { id: "hemonc", romanNumeral: "IV",  name: "Hematology-Oncology",             dek: "Blood, marrow, malignancy.",     weeks: [17, 18, 19, 20] },
+    // Cardiovascular (semester 2). Scaffolded empty, ready for lectures 1–41.
+    // Tests are matched by a "Cardio-" name prefix (see getTestSection) rather
+    // than by week, so their lecture numbers can stay 1–41 without colliding.
+    { id: "cardio", romanNumeral: "V",   name: "Cardiovascular",                  dek: "The heart and circulation.",     weeks: [] },
 ];
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
+// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (L1)") live under Section V (Cardiovascular).
 function getTestSection(testName) {
+    if (/^Cardio-/.test(testName)) {
+        return SECTIONS.find(s => s.id === "cardio") || null;
+    }
     if (/^Pathoma-/.test(testName)) {
         return SECTIONS.find(s => s.id === "hemonc") || null;
     }
@@ -269,8 +277,8 @@ const testsToLoad = [
     { name: "Pathoma-Acute Leukemia (6.2)", data: window.Test_Pathoma_6_2 },
     { name: "Pathoma-Chronic Leukemia (6.3)", data: window.Test_Pathoma_6_3 },
     { name: "Pathoma-Myeloproliferative Disorders (6.4)", data: window.Test_Pathoma_6_4 },
-    { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 }
-
+    { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 },
+    { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
 ];
 
 if (typeof window !== "undefined") {

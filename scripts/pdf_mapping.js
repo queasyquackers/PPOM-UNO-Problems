@@ -379,6 +379,7 @@ const PDF_MAPPING = {
     "20-Cold Related Injuries & Emergency Treatment of Hypothermia (L191)": "pdfs/Lecture # 191. M. Gindi, M.D. (PPT).pdf",
     "L192": "pdfs/Lecture # 192. M. Gindi, M.D. (PPT)-1.pdf",
     "20-Emergency Treatment of Hyperthermia (L192)": "pdfs/Lecture # 192. M. Gindi, M.D. (PPT)-1.pdf",
+    "CV22": "pdfs/Lecture # 22. Y. Zhang, M.D., Ph.D. (PPT)-1.pdf",
 };
 
 

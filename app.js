@@ -181,7 +181,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
             );
             const isCurrent = sec.id === currentId;
-            const weeksLabel = sec.weeks.length > 1
+            const weeksLabel = !sec.weeks || sec.weeks.length === 0
+                ? 'Coming soon'
+                : sec.weeks.length > 1
                 ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
                 : `Week ${sec.weeks[0]}`;
 
@@ -210,7 +212,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!sec) return;
 
         getEl('toc-back-btn').classList.add('is-visible');
-        const weeksLabel = sec.weeks.length > 1
+        const weeksLabel = !sec.weeks || sec.weeks.length === 0
+            ? 'Coming soon'
+            : sec.weeks.length > 1
             ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
             : `Week ${sec.weeks[0]}`;
 
@@ -1212,7 +1216,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (question.pdfPage) {
                 shouldShowPDF = true;
                 // Extract lecture ID from test name (search for (Lxx) pattern)
-                const lectureIdMatch = currentTestName.match(/\((L\d+[a-z]?)\)/);
+                const lectureIdMatch = currentTestName.match(/\(((?:L|CV)\d+[a-z]?)\)/);
                 lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
                 pageNum = question.pdfPage;
                 console.log("Direct PDF reference - Lecture:", lectureId, "Page:", pageNum);
@@ -1686,7 +1690,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (q.pdfPage) {
                 shouldShowPDF = true;
                 // Extract lecture ID from test name (search for (Lxx) pattern)
-                const lectureIdMatch = currentTestName.match(/\((L\d+[a-z]?)\)/);
+                const lectureIdMatch = currentTestName.match(/\(((?:L|CV)\d+[a-z]?)\)/);
                 lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
                 pageNum = q.pdfPage;
             }
