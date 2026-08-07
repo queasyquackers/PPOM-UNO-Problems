@@ -280,6 +280,7 @@ const testsToLoad = [
     { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 },
     { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
     { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV1)", data: window.Test_CV1 },
+    { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV2)", data: window.Test_CV2 },
 ];
 
 if (typeof window !== "undefined") {

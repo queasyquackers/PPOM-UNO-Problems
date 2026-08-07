@@ -381,6 +381,7 @@ const PDF_MAPPING = {
     "20-Emergency Treatment of Hyperthermia (L192)": "pdfs/Lecture # 192. M. Gindi, M.D. (PPT)-1.pdf",
     "CV22": "pdfs/Lecture # 22. Y. Zhang, M.D., Ph.D. (PPT)-1.pdf",
     "CV1": "pdfs/Lecture # 1. H. Ettlinger S. Yao (PPT)-1.pdf",
+    "CV2": "pdfs/Lecture # 2. T. Li D.O. (PPT)-1.pdf",
 };
 
 
