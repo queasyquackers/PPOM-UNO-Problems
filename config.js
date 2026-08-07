@@ -279,6 +279,7 @@ const testsToLoad = [
     { name: "Pathoma-Myeloproliferative Disorders (6.4)", data: window.Test_Pathoma_6_4 },
     { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 },
     { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
+    { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV1)", data: window.Test_CV1 },
 ];
 
 if (typeof window !== "undefined") {
