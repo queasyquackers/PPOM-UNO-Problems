@@ -282,6 +282,7 @@ const testsToLoad = [
     { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV1)", data: window.Test_CV1 },
     { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV2)", data: window.Test_CV2 },
     { name: "Cardio-Anatomy: Genitourinary Embryology (CV3)", data: window.Test_CV3 },
+    { name: "Cardio-Physiology: Solute Transport & Fluid Movement (CV4)", data: window.Test_CV4 },
 ];
 
 if (typeof window !== "undefined") {

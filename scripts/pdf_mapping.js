@@ -383,6 +383,7 @@ const PDF_MAPPING = {
     "CV1": "pdfs/Lecture # 1. H. Ettlinger S. Yao (PPT)-1.pdf",
     "CV2": "pdfs/Lecture # 2. T. Li D.O. (PPT)-1.pdf",
     "CV3": "pdfs/Lecture #3. N. Solounias, Ph.D. (PPT).pdf",
+    "CV4": "pdfs/Lecture # 4. B.Askari Ph. D. (PPT).pdf",
 };
 
 
