@@ -283,6 +283,15 @@ const testsToLoad = [
     { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV2)", data: window.Test_CV2 },
     { name: "Cardio-Anatomy: Genitourinary Embryology (CV3)", data: window.Test_CV3 },
     { name: "Cardio-Physiology: Solute Transport & Fluid Movement (CV4)", data: window.Test_CV4 },
+    { name: "Cardio-Physiology: Organization of the Urinary System (CV6)", data: window.Test_CV6 },
+    { name: "Cardio-Physiology: GFR, Renal Blood Flow & Clearance (CV7)", data: window.Test_CV7 },
+    { name: "Cardio-Physiology: Regulation of Sodium & Water Excretion (CV8)", data: window.Test_CV8 },
+    { name: "Cardio-Physiology: K+, Ca++, Mg++ & Phosphate Transport (CV9)", data: window.Test_CV9 },
+    { name: "Cardio-Physiology: Urea, Glucose & Organic Solute Transport (CV10)", data: window.Test_CV10 },
+    { name: "Cardio-OMM: Osteopathy in the Cranial Field (CV11)", data: window.Test_CV11 },
+    { name: "Cardio-OMM: SBS Strain Patterns (CV12)", data: window.Test_CV12 },
+    { name: "Cardio-OMM: Intro to the Cranial Field & OA Decompression (CV13)", data: window.Test_CV13 },
+    { name: "Cardio-OMM: Cranial Strain Patterns, Condylar Decompression & Lifts (CV21)", data: window.Test_CV21 },
 ];
 
 if (typeof window !== "undefined") {

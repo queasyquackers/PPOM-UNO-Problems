@@ -384,6 +384,15 @@ const PDF_MAPPING = {
     "CV2": "pdfs/Lecture # 2. T. Li D.O. (PPT)-1.pdf",
     "CV3": "pdfs/Lecture #3. N. Solounias, Ph.D. (PPT).pdf",
     "CV4": "pdfs/Lecture # 4. B.Askari Ph. D. (PPT).pdf",
+    "CV6": "pdfs/Lecture # 6. B.Askari Ph. D. (PPT).pdf",
+    "CV7": "pdfs/Lecture # 7. B.Askari Ph. D. Kyle Dixson; Medical Scholar (PPT)-1.pdf",
+    "CV8": "pdfs/Lecture # 8. B.Askari Ph. D. Bryan Koflanovich; Medical Scholar (PPT).pdf",
+    "CV9": "pdfs/Lecture # 9. B.Askari Ph. D. (PPT).pdf",
+    "CV10": "pdfs/Lecture # 10. B.Askari Ph. D. (PPT).pdf",
+    "CV11": "pdfs/Lecture #11. H. Ettlinger, D.O. (PPT).pdf",
+    "CV12": "pdfs/Lecture # 12. S. Yao, D.O. (PPT).pdf",
+    "CV13": "pdfs/Lecture # 13. M. Ventimiglia D.O. (PPT).pdf",
+    "CV21": "pdfs/Lecture # 21. M. Terzella, D.O. (PPT)-1.pdf",
 };
 
 
