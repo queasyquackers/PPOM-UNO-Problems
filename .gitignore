@@ -31,5 +31,4 @@ compacted_transcripts/
 pad_distractors.py
 audit_lengths.py
 
-# New-semester raw files awaiting ingest (renumbering by lecture_pipeline.py)
-_incoming/
+# _incoming/ (new-semester raw drops) IS tracked, so drops sync between machines.
