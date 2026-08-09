@@ -393,6 +393,11 @@ const PDF_MAPPING = {
     "CV12": "pdfs/Lecture # 12. S. Yao, D.O. (PPT).pdf",
     "CV13": "pdfs/Lecture # 13. M. Ventimiglia D.O. (PPT).pdf",
     "CV21": "pdfs/Lecture # 21. M. Terzella, D.O. (PPT)-1.pdf",
+    "CV16": "pdfs/Lecture # 16. M. Carrillo- Sepulveda, Ph.D. (PPT).pdf",
+    "CV17": "pdfs/Lecture # 17. M. Carrillo- Sepulveda, Ph.D. (PPT).pdf",
+    "CV18": "pdfs/Lecture # 18. M. Gerdes, Ph.D. (PPT).pdf",
+    "CV19": "pdfs/Lecture # 19. M. Gerdes, Ph.D. (PPT)-3.pdf",
+    "CV23": "pdfs/Lecture # 23. Y. Zhang, M.D., Ph.D. (PPT)-1.pdf",
 };
 
 

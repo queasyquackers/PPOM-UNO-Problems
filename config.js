@@ -11,15 +11,17 @@ const SECTIONS = [
     { id: "psych",  romanNumeral: "II",  name: "Psychiatry",                      dek: "Mind and behavior.",             weeks: [6, 7, 8, 9] },
     { id: "msk",    romanNumeral: "III", name: "Musculoskeletal & Rheumatology",  dek: "Bone, joint, immune.",           weeks: [12, 13, 14, 15] },
     { id: "hemonc", romanNumeral: "IV",  name: "Hematology-Oncology",             dek: "Blood, marrow, malignancy.",     weeks: [17, 18, 19, 20] },
-    // Cardiovascular (semester 2). Scaffolded empty, ready for lectures 1–41.
+    // CPR Block 1 (semester 2): cardio, renal and pulmonary interwoven, lectures 1–41.
     // Tests are matched by a "Cardio-" name prefix (see getTestSection) rather
     // than by week, so their lecture numbers can stay 1–41 without colliding.
-    { id: "cardio", romanNumeral: "V",   name: "Cardiovascular",                  dek: "The heart and circulation.",     weeks: [] },
+    // The prefix and the "cardio" id are historical, from the block's original
+    // "Cardiovascular" name; they are routing keys, not display text.
+    { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [] },
 ];
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
-// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (L1)") live under Section V (Cardiovascular).
+// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1).
 function getTestSection(testName) {
     if (/^Cardio-/.test(testName)) {
         return SECTIONS.find(s => s.id === "cardio") || null;
@@ -292,6 +294,11 @@ const testsToLoad = [
     { name: "Cardio-OMM: SBS Strain Patterns (CV12)", data: window.Test_CV12 },
     { name: "Cardio-OMM: Intro to the Cranial Field & OA Decompression (CV13)", data: window.Test_CV13 },
     { name: "Cardio-OMM: Cranial Strain Patterns, Condylar Decompression & Lifts (CV21)", data: window.Test_CV21 },
+    { name: "Cardio-Physiology: Hemodynamics and Circulation (CV16)", data: window.Test_CV16 },
+    { name: "Cardio-Physiology: Arterial BP Regulation (CV17)", data: window.Test_CV17 },
+    { name: "Cardio-Histology: The Heart (CV18)", data: window.Test_CV18 },
+    { name: "Cardio-Histology: Vessels & Lymphatics (CV19)", data: window.Test_CV19 },
+    { name: "Cardio-Physiology: Cardiac Impulse Conduction & Autonomic Control (CV23)", data: window.Test_CV23 },
 ];
 
 if (typeof window !== "undefined") {
