@@ -2,6 +2,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // --- Helper Functions ---
+
+    // A test's lecture id is the LAST parenthetical: a title may carry its own,
+    // e.g. "OMM: Principles of Balanced Ligamentous Tension (BLT) (CV1)".
+    function lectureIdOf(name) {
+        const all = name.match(/\(([^)]+)\)/g);
+        return all ? all[all.length - 1].slice(1, -1) : null;
+    }
+
     function groupTests(tests) {
         const grouped = {};
         tests.forEach(test => {
@@ -18,6 +26,17 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (categoryMatch) {
                 groupKey = categoryMatch[1].trim();
                 displayName = categoryMatch[2].trim();
+            }
+
+            // CPR Block 1 groups by curriculum week, derived from the "(CVn)" in
+            // the name rather than a rename (test names are localStorage progress
+            // keys). The TOC filters by section before grouping, so these keys
+            // never mix with Neurology's weeks 1-4; the only other caller is the
+            // hidden #test-selector-nav, whose buttons are keyed per test name.
+            const cvMatch = test.name.match(/\(CV(\d+)\)/);
+            if (cvMatch && window.cprWeek) {
+                const wk = window.cprWeek(parseInt(cvMatch[1], 10));
+                if (wk) groupKey = `Week ${wk}`;
             }
 
             if (!grouped[groupKey]) {
@@ -266,10 +285,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Lecture range string (e.g. "L48 – L59"). For ids that are themselves ranges
             // (e.g. "6.5-6.7"), use only the first part of the first id and the last part of the last id.
             const ids = tests
-                .map(t => {
-                    const m = t.name.match(/\(([^)]+)\)/);
-                    return m ? m[1] : null;
-                })
+                .map(t => lectureIdOf(t.name))
                 .filter(Boolean);
             const rangeLabel = ids.length > 1
                 ? `${ids[0].split('-')[0]} – ${ids[ids.length - 1].split('-').pop()}`
@@ -285,10 +301,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             tests.forEach(testObj => {
                 const isCumulative = /CUMULATIVE/i.test(testObj.name);
-                const idMatch = testObj.name.match(/\(([^)]+)\)/);
-                const lectureId = idMatch
-                    ? idMatch[1]
-                    : (isCumulative ? 'Exam' : '');
+                const lectureId = lectureIdOf(testObj.name)
+                    || (isCumulative ? 'Exam' : '');
 
                 // Trim trailing "(L48)" from display label
                 const cleanLabel = testObj.displayName

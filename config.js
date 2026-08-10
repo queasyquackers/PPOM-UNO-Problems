@@ -16,7 +16,11 @@ const SECTIONS = [
     // than by week, so their lecture numbers can stay 1–41 without colliding.
     // The prefix and the "cardio" id are historical, from the block's original
     // "Cardiovascular" name; they are routing keys, not display text.
-    { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [] },
+    // weeks 1-4 restart with the new semester, so they repeat Neurology's. Safe:
+    // getTestSection matches the "Cardio-" prefix before it ever consults weeks,
+    // and the week lookup below returns the first match (Neurology) for "1-..."
+    // names. The array is here so the section card reads "Weeks 1-4".
+    { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [1, 2, 3, 4] },
 ];
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
@@ -35,10 +39,21 @@ function getTestSection(testName) {
     return SECTIONS.find(s => s.weeks.includes(week)) || null;
 }
 
+// CPR Block 1 curriculum weeks, by lecture number. The spans are uneven (week 3
+// covers 11 lectures, the rest 10), so they are listed rather than computed.
+// Tests keep their "Cardio-" routing prefix; the week is derived at render time
+// from the "(CVn)" in the test name, so no test has to be renamed to regroup.
+const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4]];
+function cprWeek(n) {
+    const row = CPR_WEEKS.find(([lo, hi]) => n >= lo && n <= hi);
+    return row ? row[2] : null;
+}
+
 if (typeof window !== "undefined") {
     window.BLOCK_INFO = BLOCK_INFO;
     window.SECTIONS = SECTIONS;
     window.getTestSection = getTestSection;
+    window.cprWeek = cprWeek;
 }
 // NOTE: `testsToLoad` itself is attached after the array literal below,
 // since the const is hoisted but not initialized until the assignment runs.
@@ -280,9 +295,8 @@ const testsToLoad = [
     { name: "Pathoma-Chronic Leukemia (6.3)", data: window.Test_Pathoma_6_3 },
     { name: "Pathoma-Myeloproliferative Disorders (6.4)", data: window.Test_Pathoma_6_4 },
     { name: "Pathoma-LAD, Lymphoma, & Hodgkin Lymphoma (6.5-6.7)", data: window.Test_Pathoma_6_5_7 },
-    { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
-    { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV1)", data: window.Test_CV1 },
-    { name: "Cardio-OMM: Balanced Ligamentous Tension (BLT) (CV2)", data: window.Test_CV2 },
+    { name: "Cardio-OMM: Principles of Balanced Ligamentous Tension (BLT) (CV1)", data: window.Test_CV1 },
+    { name: "Cardio-OMM: BLT - Cervical, Thoracic, Lumbosacral, Fibula (CV2)", data: window.Test_CV2 },
     { name: "Cardio-Anatomy: Genitourinary Embryology (CV3)", data: window.Test_CV3 },
     { name: "Cardio-Physiology: Solute Transport & Fluid Movement (CV4)", data: window.Test_CV4 },
     { name: "Cardio-Physiology: Organization of the Urinary System (CV6)", data: window.Test_CV6 },
@@ -293,11 +307,12 @@ const testsToLoad = [
     { name: "Cardio-OMM: Osteopathy in the Cranial Field (CV11)", data: window.Test_CV11 },
     { name: "Cardio-OMM: SBS Strain Patterns (CV12)", data: window.Test_CV12 },
     { name: "Cardio-OMM: Intro to the Cranial Field & OA Decompression (CV13)", data: window.Test_CV13 },
-    { name: "Cardio-OMM: Cranial Strain Patterns, Condylar Decompression & Lifts (CV21)", data: window.Test_CV21 },
     { name: "Cardio-Physiology: Hemodynamics and Circulation (CV16)", data: window.Test_CV16 },
     { name: "Cardio-Physiology: Arterial BP Regulation (CV17)", data: window.Test_CV17 },
     { name: "Cardio-Histology: The Heart (CV18)", data: window.Test_CV18 },
     { name: "Cardio-Histology: Vessels & Lymphatics (CV19)", data: window.Test_CV19 },
+    { name: "Cardio-OMM: Cranial Strain Patterns, Condylar Decompression & Lifts (CV21)", data: window.Test_CV21 },
+    { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
     { name: "Cardio-Physiology: Cardiac Impulse Conduction & Autonomic Control (CV23)", data: window.Test_CV23 },
 ];
 
