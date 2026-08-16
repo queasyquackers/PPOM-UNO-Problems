@@ -928,6 +928,99 @@ const Test_CV9 = [
     "clinicalPearl": "Key takeaway: Insulin, epinephrine and aldosterone all shift K+ into cells via the Na+/K+ ATPase (3 Na+ out, 2 K+ in, 1 ATP); roughly 80% of an acute K+ load is buffered this way while renal excretion lags by hours.",
     "pdfPage": 8,
     "pdfQuote": "Promote the transfer of [K+]Pl to [K+]IC via the Na+/K+ ATPase"
+  },
+  {
+    "id": 31,
+    "category": "Physiology: Renal Handling Equation",
+    "questionText": "A renal physiologist studying an anesthetized dog describes the kidney's handling of potassium with the standard relationship: urinary excretion rate = filtration rate - reabsorption rate + secretion rate. She performs two separate interventions in the same animal, and confirms before and after each that glomerular filtration rate and plasma potassium are unchanged. In the first intervention, a transport inhibitor halves the rate of tubular potassium reabsorption. In the second, a different agent halves the rate of tubular potassium secretion. Compared with baseline, in which direction does urinary potassium excretion move after each intervention?",
+    "options": [
+      {
+        "text": "Excretion rises after both interventions, since reabsorption and secretion both deliver potassium toward the urine",
+        "explanation": "Incorrect. Reabsorption and secretion enter the relationship with opposite signs because they move potassium in opposite directions across the tubular epithelium: reabsorption takes potassium out of the lumen and returns it to blood, so it is subtracted, while secretion adds potassium from blood into the lumen, so it is added. Two terms with opposite signs cannot both push excretion the same way when each is reduced. This would be the correct answer if both processes carried potassium from blood to lumen, which would make both of them additive terms."
+      },
+      {
+        "text": "Excretion falls after both interventions, since reducing any tubular transport process reduces the potassium that ultimately reaches the final urine",
+        "explanation": "Incorrect. This treats every tubular transport process as a route out of the body, but only secretion is. Reabsorption works against excretion, so blunting it leaves more potassium behind in the lumen and raises urinary output. This would be the correct answer if the question had halved the secretion term twice, or if it concerned a solute such as glucose that the nephron only reabsorbs and never secretes."
+      },
+      {
+        "text": "Excretion falls when reabsorption is halved and rises when secretion is halved",
+        "explanation": "Incorrect. The two directions are exactly reversed. Reducing a term that is subtracted must raise the result, and reducing a term that is added must lower it, so halving reabsorption raises excretion and halving secretion lowers it. This would be the correct answer if the relationship read urinary excretion = filtration + reabsorption - secretion, describing a nephron that moved potassium in the opposite direction at every step."
+      },
+      {
+        "text": "Excretion is unchanged after both interventions, because glomerular filtration rate and plasma potassium are held constant, so the filtered load fixes urinary excretion and the tubular terms can only shift potassium between compartments within the kidney without altering the amount that finally appears in the urine",
+        "explanation": "Incorrect. Filtration is only the first of three terms, and the lecture stresses that the rate at which a substance is excreted represents the sum of all three renal processes. Holding the filtration term constant is precisely what isolates the tubular terms, so a change in either one must show up in the urine. This would be the correct answer if the tubule were an inert conduit, as it nearly is for a marker such as inulin, which is filtered and then neither reabsorbed nor secreted."
+      },
+      {
+        "text": "Excretion rises when reabsorption is halved and falls when secretion is halved",
+        "explanation": "Correct. In urinary excretion rate = filtration rate - reabsorption rate + secretion rate, the sign in front of each term states the direction of its influence. Reabsorption carries a minus sign, so lowering it raises excretion; secretion carries a plus sign, so lowering it lowers excretion. The filtration term is held constant here because glomerular filtration rate and plasma potassium, the two variables that set the filtered load, are unchanged in both experiments. This is the same logic the lecture uses at the whole-nephron level: urinary potassium can climb above the filtered load only because the added secretion term grows, and it can fall to a tiny fraction of the filtered load only because the subtracted reabsorption term dominates."
+      }
+    ],
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Key takeaway: In urinary excretion = filtration - reabsorption + secretion, the sign on each term IS the physiology - reabsorption is subtracted because it opposes excretion, secretion is added because it drives excretion, so equal reductions in the two terms move urinary output in opposite directions.",
+    "pdfPage": 5,
+    "pdfQuote": "Urinary excretion rate = Filtration rate"
+  },
+  {
+    "id": 32,
+    "category": "Physiology: Filtered Load & GFR",
+    "questionText": "A 58-year-old man with chronic kidney disease has a glomerular filtration rate that is roughly half of what it was when he was first evaluated several years ago. His plasma potassium is 4.2 mEq/L, essentially identical to the value recorded at that first visit, and a dietitian confirms that his daily potassium intake has not changed. Twenty-four-hour urine collections show that he is still excreting very nearly all of the potassium he takes in each day, and he is in potassium balance. Which of the following best describes how the variables governing his potassium handling now relate to one another?",
+    "options": [
+      {
+        "text": "His filtered potassium load is lower than before, so a larger fraction of that load must now be excreted",
+        "explanation": "Correct. The filtered load is the product of two variables, the glomerular filtration rate and the plasma concentration of the solute. Here plasma potassium is deliberately held constant while glomerular filtration rate falls, so the filtered load falls in proportion with it. What he must excrete each day, however, is set by dietary intake rather than by the filtered load, and his intake is unchanged. When a fixed amount excreted is divided by a shrinking filtered load, the fraction of the filtered load appearing in the urine has to rise. The lecture describes the healthy person, with normal glomerular filtration rate and normal plasma potassium, filtering roughly 800 mmol/day and excreting only 10-15% of it; this patient sits at the same intake with a smaller filtered load, and the distal secretory system is what covers the difference."
+      },
+      {
+        "text": "His filtered potassium load is unchanged, because the plasma potassium concentration by itself determines the filtered load",
+        "explanation": "Incorrect. Plasma concentration is only one of the two factors in the product; the other is the volume of filtrate formed per unit time. Concentration alone tells you how much potassium is in each liter of filtrate, not how many liters are made. This would be the correct answer if the question asked about the potassium concentration of the fluid in Bowman's space rather than the amount of potassium delivered there per day."
+      },
+      {
+        "text": "His filtered potassium load is higher than before, because a lower glomerular filtration rate concentrates potassium in the fluid entering Bowman's space",
+        "explanation": "Incorrect. A falling glomerular filtration rate does not concentrate the filtrate. Glomerular filtrate is essentially protein-free plasma, so its potassium concentration tracks plasma potassium, which is unchanged in this man. Fewer liters filtered at the same concentration means less potassium filtered, not more. This would be the correct answer if his plasma potassium had risen, since raising either factor in the product raises the filtered load."
+      },
+      {
+        "text": "His filtered potassium load is lower than before, so a smaller fraction of that load must now be excreted",
+        "explanation": "Incorrect. The first clause is right and the second inverts the relationship. If the same daily amount of potassium leaves in the urine while the filtered load has shrunk, that amount necessarily represents a larger share of the filtered load, not a smaller one. This would be the correct answer if his dietary potassium intake had fallen in step with his glomerular filtration rate, which would hold the excreted fraction roughly constant."
+      },
+      {
+        "text": "His filtered potassium load is unchanged because the drop in glomerular filtration rate has been precisely offset by a compensatory rise in the filtration rate of each surviving nephron, so both the filtered load and the fraction of that load appearing in the urine are identical to the values recorded at his first visit",
+        "explanation": "Incorrect. Single-nephron hyperfiltration in surviving nephrons is real, but it is already included in the measured whole-kidney glomerular filtration rate, and that measured value is stated to be half of its former level. You cannot invoke a compensation that the measurement has already accounted for. This would be the correct answer if his measured whole-kidney glomerular filtration rate were reported as normal despite nephron loss."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Key takeaway: Filtered load = GFR x plasma concentration, so with plasma [K+] held constant a falling GFR lowers the filtered load; because daily K+ excretion is set by dietary intake and not by filtration, the FRACTION of the filtered load excreted must rise, and that adjustment is made by the distal K+ secretory system.",
+    "pdfPage": 11,
+    "pdfQuote": "In a healthy person (normal GFR and [K+]"
+  },
+  {
+    "id": 33,
+    "category": "Physiology: Regulated Step in K+ Excretion",
+    "questionText": "In a micropuncture study, two groups of rats are maintained on diets that differ only in potassium content, one very low and one very high. Glomerular filtration rate and plasma potassium are comparable in the two groups. Fluid sampled at the end of the proximal tubule shows that the same large majority of the filtered potassium has already been reclaimed in both groups, and collections from the thick ascending limb are likewise similar. The final urine, however, differs enormously: the low-potassium group excretes only a tiny percentage of the filtered load, while the high-potassium group excretes more than the whole filtered load. Which term in the renal handling of potassium accounts for the difference between the groups?",
+    "options": [
+      {
+        "text": "Glomerular filtration, because the filtered load is the variable the kidney tunes to dietary potassium",
+        "explanation": "Incorrect. The filtered load is the product of glomerular filtration rate and plasma potassium, and the question states that both of these are comparable between the groups, which fixes the filtration term. The kidney does not adapt to diet by adjusting how much potassium it filters. This would be the correct answer if the two groups had been separated by a difference in renal function or in plasma potassium rather than by diet alone."
+      },
+      {
+        "text": "Proximal reabsorption, which is strongly up-regulated on a low-potassium diet and shut off on a high-potassium diet",
+        "explanation": "Incorrect. The micropuncture data rule this out directly: end-proximal samples are the same in both groups. Proximal potassium reabsorption of roughly 80% of the filtered load is a paracellular process driven by electrodiffusion and solvent drag as water is reabsorbed, and it proceeds at much the same fractional rate whatever the diet. This would be the correct answer if the question had reported markedly different end-proximal potassium delivery between the two groups."
+      },
+      {
+        "text": "Thick ascending limb reabsorption through the Na+/K+/2Cl- cotransporter, the principal site at which the nephron adapts to dietary potassium",
+        "explanation": "Incorrect. The thick ascending limb reclaims only about 10% of the filtered potassium, and the study found similar handling there in both groups. Its cotransporter is important for potassium recycling and for generating the lumen-positive voltage, but it is not the dietary adaptation site. This would be the correct answer if the two groups differed in exposure to a high-ceiling loop diuretic instead of in diet."
+      },
+      {
+        "text": "Secretion by the distal nephron, the one term in the relationship that dietary potassium regulates",
+        "explanation": "Correct. Filtration is pinned by glomerular filtration rate and plasma potassium, and the proximal tubule and thick ascending limb reclaim large but essentially fixed fractions, leaving only about 10% of the filtered load to enter the distal convoluted tubule. Everything downstream of that point is variable: the distal potassium secretory system, comprising the distal convoluted tubule, connecting tubule, cortical collecting tubule and medullary collecting duct, is what the diet actually controls. Turn that term down and the urine carries 1-3% of the filtered load; turn it up and urinary potassium exceeds 150% of the filtered load. This is why the same equation can produce a hundredfold range of urinary output with the filtration and proximal reabsorption terms barely moving."
+      },
+      {
+        "text": "None of the tubular terms, because the difference reflects a change in how much potassium the colon secretes rather than anything the kidney does, with the gastrointestinal tract assuming the adaptive response whenever dietary potassium intake changes in either direction",
+        "explanation": "Incorrect. The measurements in question are of urine, so a change in stool potassium cannot explain them, and the gastrointestinal tract handles only a small share of daily potassium disposal in any case. The gut can raise its secretion in response to adrenal hormones, increased intake, or failing renal excretion, but the kidney remains the organ largely responsible for potassium excretion. This would be the correct answer if the two groups had shown identical urinary potassium and differed only in fecal potassium content."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Key takeaway: The proximal tubule (~80%) and thick ascending limb (~10%) reclaim a large but essentially FIXED fraction of the filtered K+ regardless of diet; the regulated term is distal secretion, which alone swings urinary output from 1-3% of the filtered load on a low-K+ diet to over 150% on a high-K+ diet.",
+    "pdfPage": 12,
+    "pdfQuote": "Urinary K+ content depends on the distal K+ secretory system"
   }
 ];
 

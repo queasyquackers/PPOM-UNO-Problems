@@ -928,6 +928,99 @@ const Test_CV10 = [
     "clinicalPearl": "Poison the basolateral Na+/K+-ATPase and proximal reabsorption fails globally, because the sodium gradient energizes both the amino acid solute carriers and the SGLTs. Combined aminoaciduria and glycosuria point to the shared driving force.",
     "pdfPage": 11,
     "pdfQuote": "AA enters the cell via Na+- or H+-driven transporters"
+  },
+  {
+    "id": 31,
+    "category": "Physiology: Renal Glucose Handling",
+    "questionText": "Two men undergo a controlled intravenous glucose infusion in a research unit. The infusion is titrated so that each man's plasma glucose is held steady at the same value for the entire study. Man 1 has normal renal function. Man 2 has chronic kidney disease with a glomerular filtration rate roughly half that of Man 1; his proximal tubular transporters are otherwise normal. Which of the following best describes the filtered load of glucose delivered to their tubules?",
+    "options": [
+      {
+        "text": "Man 1 has the larger filtered load, because filtered load is the product of filtration rate and plasma concentration",
+        "explanation": "Correct. Filtered load is the product of two variables, the glomerular filtration rate and the plasma concentration of a freely filtered solute. The infusion pins plasma glucose to the same value in both men, so plasma concentration is the term held constant and filtration rate is the only term left free to vary. Filtered load therefore moves in the same direction as filtration rate, and the man filtering more plasma per minute presents his tubules with more glucose per minute even though every milliliter of his filtrate carries the same glucose concentration as his neighbor's. This is why a patient with advanced chronic kidney disease can run a strikingly high plasma glucose and still spill relatively little glucose in the urine: the delivery term has shrunk even though the concentration term has not."
+      },
+      {
+        "text": "Man 2 has the larger filtered load, because a lower filtration rate concentrates glucose within the tubular fluid",
+        "explanation": "Incorrect. The glucose concentration of the fluid entering Bowman's space is set by the plasma concentration, not by how fast plasma is filtered, so a low filtration rate produces less filtrate per minute rather than richer filtrate. Nothing about reduced filtration makes early tubular fluid more concentrated in glucose. This would be the correct answer if the question asked about tubular fluid deep in the proximal tubule, where water reabsorption raises the luminal concentration of a solute left behind, which is exactly what happens to urea."
+      },
+      {
+        "text": "The two filtered loads are equal, because glucose in Bowman's space is at the same concentration as plasma in both men",
+        "explanation": "Incorrect. The premise is true and the conclusion does not follow. Glucose is small and unbound, so filtrate concentration does equal plasma concentration in both men, but a filtered load is a rate rather than a concentration: it is that concentration multiplied by the volume filtered per unit time. Two men can share a filtrate concentration and still differ greatly in load. This would be the correct answer if filtered load were defined by concentration alone rather than by concentration multiplied by filtration rate."
+      },
+      {
+        "text": "Man 2 has the larger filtered load, because a fall in filtration rate raises the plasma glucose that is presented for filtration",
+        "explanation": "Incorrect. This answer changes a variable the stem deliberately holds fixed. The infusion is titrated so that plasma glucose is identical in both men at every time point, so the concentration term cannot be the source of any difference between them. This would be the correct answer if the two men had been matched on infusion rate rather than on plasma concentration, in which case the man clearing less glucose would indeed drift to the higher plasma level."
+      },
+      {
+        "text": "The comparison cannot be made without each man's transport maximum, which is what sets the filtered load",
+        "explanation": "Incorrect. The transport maximum sits on the reabsorptive side of the comparison and describes how much glucose the carriers can reclaim; it has no influence on how much glucose is delivered to them. Filtered load is fixed entirely upstream, by filtration rate and plasma concentration. This would be the correct answer if the question had asked which man is more likely to develop glycosuria, since spillage depends on how the delivered load compares with the transport maximum."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Filtered load = glomerular filtration rate x plasma concentration. Hold the concentration constant and the load tracks the filtration rate; the transport maximum sits on the other side of the comparison and never changes what is delivered.",
+    "pdfPage": 7,
+    "pdfQuote": "a nephron with a larger glomerulus has a larger load of glucose to reabsorb"
+  },
+  {
+    "id": 32,
+    "category": "Physiology: Renal Glucose Handling",
+    "questionText": "In a stepwise glucose infusion study in a healthy subject, the urine first tests positive for glucose when plasma glucose reaches about 200 mg/dL. At that same moment, the measured whole-kidney rate of glucose reabsorption is still rising and has not yet flattened at its plateau of about 400 mg/min. Which of the following best explains why these two landmarks are not reached at the same time?",
+    "options": [
+      {
+        "text": "The threshold and the transport maximum are the same limit expressed in different units, so they are crossed at the same instant",
+        "explanation": "Incorrect. One is a concentration in mg/dL and the other is a rate in mg/min, so they are not two expressions of a single quantity and cannot be converted into one another. They also plainly do not coincide, which is the very observation the stem describes. This would be the correct answer if every nephron received an identical filtered load and carried an identical density of transporters, because the whole kidney would then saturate abruptly and the two landmarks would fall together."
+      },
+      {
+        "text": "Distal segments keep reabsorbing glucose until the proximal tubule is completely saturated, which delays the plateau",
+        "explanation": "Incorrect. Segments beyond the proximal tubule account for less than one percent of glucose reabsorption and hold essentially no reserve, which is precisely why glucose that escapes a saturated proximal tubule is lost in the urine rather than rescued downstream. This would be the correct answer if SGLT expression extended into the distal nephron and collecting ducts, but glucose transport is effectively confined to the proximal tubule."
+      },
+      {
+        "text": "Proximal tubular secretion of glucose begins at the threshold and accounts for the glucose found in the urine",
+        "explanation": "Incorrect. Glucose is reabsorbed and never secreted; the proximal tubule moves it from lumen to blood. Proximal secretion is reserved for organic anions and organic cations such as para-aminohippurate, creatinine, and many drugs. This would be the correct answer if the solute studied were para-aminohippurate, which is both filtered and secreted so that more appears in the urine than was filtered."
+      },
+      {
+        "text": "The threshold is a plasma concentration while the transport maximum is a rate, and nephrons saturate at different loads",
+        "explanation": "Correct. The two landmarks describe different variables. The threshold is a plasma concentration, about 200 mg/dL, at which glucose first appears in the urine, while the transport maximum is a rate of reabsorption, about 400 mg/min, at which the carriers as a population can do no more. They separate because nephrons are not identical: glomeruli differ in size, so single-nephron filtered loads differ, and SGLT2 and SGLT1 densities differ along the proximal tubule, so single-nephron capacities differ. Nephrons whose load outruns their own capacity begin leaking glucose while the rest of the kidney still has unoccupied carriers, so excretion starts before the whole-organ reabsorption curve flattens. That gap between first spillage and plateau is splay."
+      },
+      {
+        "text": "SGLT1 is recruited into the apical membrane only after SGLT2 saturates, and that recruitment defines the threshold",
+        "explanation": "Incorrect. SGLT1 is constitutively present in the S3 segment as a high-affinity, low-capacity scavenger rather than a reserve pool inserted on demand. The ceiling on reabsorption reflects full occupancy of carriers already resident in the membrane. This would be the correct answer if renal glucose transporters behaved like the insulin-responsive GLUT4 of muscle and fat, which genuinely is trafficked into the membrane in response to a signal."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Threshold and Tm are different variables: threshold is a plasma concentration (200 mg/dL) and Tm is a reabsorption rate (about 400 mg/min). Nephron heterogeneity in filtered load and transporter density makes the first spillage precede the plateau, and that separation is splay.",
+    "pdfPage": 7,
+    "pdfQuote": "different nephrons may have different distributions and densities of SGLT2"
+  },
+  {
+    "id": 33,
+    "category": "Physiology: Renal Glucose Handling",
+    "questionText": "A healthy volunteer is studied at two steady states during a glucose infusion. In the first, plasma glucose is held at 80 mg/dL; in the second, it is held at 150 mg/dL. Both values lie below the renal threshold, and the proximal tubular transporters remain unsaturated at both. The filtered load of glucose is accordingly higher in the second steady state than in the first. How does the renal clearance of glucose compare between the two steady states?",
+    "options": [
+      {
+        "text": "Clearance is higher at the second steady state, because clearance rises in proportion to the filtered load",
+        "explanation": "Incorrect. Clearance is driven by the excretion term, not by the filtered load. Below the threshold, a larger filtered load merely recruits more of the reabsorptive capacity that was sitting idle, leaving nothing in the urine to be cleared. This would be the correct answer if plasma glucose had been pushed above the threshold, where excretion climbs steeply as the filtered load outruns reabsorption and glucose clearance rises with it."
+      },
+      {
+        "text": "Clearance is zero at both, because reabsorption rises with the filtered load and the excretion rate stays at zero",
+        "explanation": "Correct. Clearance is the urinary excretion rate of a solute divided by its plasma concentration, so the numerator is what the kidney actually delivers to the urine rather than what it filters. Below the threshold every additional glucose molecule delivered by the rising filtered load is matched by additional reabsorption, because unoccupied carrier sites remain. Excretion therefore stays at zero, and a ratio with a zero numerator is zero however large the denominator grows. A clearance of exactly zero is the signature of complete reabsorption, and it holds all the way up to the threshold, beyond which excretion becomes positive and clearance begins to climb."
+      },
+      {
+        "text": "Clearance is lower at the second steady state, because the higher plasma concentration enlarges the denominator",
+        "explanation": "Incorrect. The denominator does grow with plasma concentration, but a ratio whose numerator is zero is already zero and cannot be driven lower; there is no glucose in the urine to divide by anything. This would be the correct answer if some glucose were already being excreted, in which case a rising denominator paired with a slowly rising numerator would indeed pull the ratio down."
+      },
+      {
+        "text": "Clearance equals the glomerular filtration rate at both, because glucose is freely filtered at the glomerulus",
+        "explanation": "Incorrect. Free filtration determines only how much glucose enters the tubule; clearance reflects how much survives the tubule to reach the urine, and complete reabsorption returns essentially all of it to the blood. Clearance equals the filtration rate only for a marker that is freely filtered and then neither reabsorbed nor secreted. This would be the correct answer if the infused substance were inulin."
+      },
+      {
+        "text": "Clearance exceeds the glomerular filtration rate at the second steady state, because saturation adds a secretory component",
+        "explanation": "Incorrect. Clearance can exceed the filtration rate only for a substance that the tubule secretes, and glucose has no secretory pathway; the stem also states that the transporters remain unsaturated at both steady states. This would be the correct answer if the infused substance were para-aminohippurate, whose proximal secretion makes its clearance an estimate of renal plasma flow."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Clearance is excretion divided by plasma concentration, so complete reabsorption gives a clearance of exactly zero. Below the renal threshold, reabsorption rises step for step with the filtered load and holds the numerator at zero, so raising plasma glucose does not budge the clearance.",
+    "pdfPage": 7,
+    "pdfQuote": "no glucose in the urine"
   }
 ];
 

@@ -928,6 +928,99 @@ const Test_CV4 = [
     "clinicalPearl": "Leaky epithelia (low electrical resistance) do bulk, near-isosmotic transepithelial transport; tight epithelia (high resistance) generate and hold large transepithelial concentration/osmotic gradients.",
     "pdfPage": 25,
     "pdfQuote": "Leaky epithelia perform bulk transepithelial transport"
+  },
+  {
+    "id": 31,
+    "category": "Physiology: Starling Forces",
+    "questionText": "A capillary bed is studied under conditions in which the bracketed pressure sum of Starling's hypothesis, (capillary hydrostatic minus interstitial hydrostatic) minus (plasma oncotic minus interstitial oncotic), works out to a negative value, so the bed is absorbing fluid. Pericytes and precapillary sphincters are then made to relax, recruiting previously unperfused capillary segments and thereby raising the filtration coefficient. All four pressure terms are experimentally clamped at their original values. What is the expected effect on transcapillary fluid movement?",
+    "options": [
+      {
+        "text": "Absorption continues in the same direction, but proceeds more rapidly",
+        "explanation": "Correct. The filtration coefficient sits outside the brackets and multiplies the entire pressure sum, so it is a scaling factor: it sets how much fluid moves per unit of net pressure, never which way that fluid moves. Direction is decided exclusively by the sign of the bracketed pressure sum, which filters when positive and absorbs when negative. Because the four pressures are clamped, the sign stays negative and the bed keeps absorbing; a larger Kf simply multiplies that same negative number by a larger factor, so the absorption is faster. Kf itself is nothing more than capillary wall permeability multiplied by total surface area, and recruiting perfused segments raises the surface-area half of that product."
+      },
+      {
+        "text": "Absorption reverses into filtration, because a larger filtration coefficient by definition biases the capillary toward outward fluid movement",
+        "explanation": "Incorrect. The word filtration in the term filtration coefficient names the process being scaled, not a direction being imposed; Kf multiplies both filtration and absorption identically and can never flip the sign of the pressure sum it multiplies. This would be the correct answer if capillary hydrostatic pressure had been raised, or plasma oncotic pressure lowered, so that the bracketed sum itself turned positive."
+      },
+      {
+        "text": "Absorption slows, because spreading the same pressure difference over a larger surface area lowers the driving force acting on each unit of capillary wall",
+        "explanation": "Incorrect. The pressure terms are intensive quantities set by hemodynamics and protein distribution, and they are not diluted by adding surface area; the vignette also clamps them. Adding exchange area multiplies flux rather than diminishing the driving force behind it. This would be the correct answer if surface area appeared in the denominator of Starling's hypothesis, but it appears in Kf, which is a multiplier."
+      },
+      {
+        "text": "Net fluid movement ceases, because the rise in the filtration coefficient exactly offsets the negative pressure sum",
+        "explanation": "Incorrect. A multiplier cannot cancel the quantity it multiplies; the product of a larger positive Kf and an unchanged negative pressure sum is a more strongly negative result, not zero. Net movement stops only when the bracketed pressure sum itself reaches zero, which happens when the hydrostatic and oncotic differences become equal. This would be the correct answer if the intervention had equalized the hydrostatic and oncotic pressure differences instead of altering Kf."
+      },
+      {
+        "text": "Fluid movement is unchanged, because the filtration coefficient governs only solute flux while water flux is set by the pressures alone",
+        "explanation": "Incorrect. Kf is the coefficient applied to fluid movement itself, describing the wall's permeability and surface area for filtration; the pressures determine direction, but they determine magnitude only in combination with Kf. Two beds with identical pressures but different Kf values move very different volumes of fluid. This would be the correct answer if Starling's hypothesis expressed fluid movement as a function of the pressures alone, without any coefficient."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Kf (permeability x surface area) multiplies the whole Starling pressure sum: it scales HOW MUCH fluid moves and never WHICH WAY. Direction belongs entirely to the sign of the bracket - positive filters, negative absorbs.",
+    "pdfPage": 23,
+    "pdfQuote": "Absorption occurs when it is negative."
+  },
+  {
+    "id": 32,
+    "category": "Physiology: Osmotic & Hydrostatic Forces",
+    "questionText": "A lecturer writes the van't Hoff relationship, pi = RTC, on the board and then describes two test solutions held at the same temperature. Solution X contains a small impermeant solute at 10 mmol/L; solution Y contains an impermeant macromolecule roughly twenty times heavier at 10 mmol/L. Neither solute dissociates. Without calculating anything, which solution exerts the greater osmotic pressure, and on what basis?",
+    "options": [
+      {
+        "text": "Solution Y, because osmotic pressure rises with the molecular weight of the dissolved solute",
+        "explanation": "Incorrect. Molecular weight appears nowhere in pi = RTC; the only solute-dependent variable is C, which counts particles rather than weighing them. A heavier particle is still one particle. This would be the correct answer if osmotic pressure were a mass-dependent rather than a colligative property, which would also make plasma proteins, not electrolytes, the dominant osmotic force across plasma membranes."
+      },
+      {
+        "text": "Solution X, because smaller particles diffuse more rapidly and therefore exert a stronger pull on water",
+        "explanation": "Incorrect. Diffusional mobility determines how quickly a solute redistributes, not how much osmotic pressure its presence generates; the van't Hoff relationship contains no mobility term. Speed and osmotic force are separate ideas. This would be the correct answer if the question asked which solute would equilibrate faster across a membrane permeable to both."
+      },
+      {
+        "text": "Solution Y, because the larger macromolecules occupy substantially more of the solution's volume and thereby displace a greater quantity of water from the compartment they occupy",
+        "explanation": "Incorrect. Excluded volume is not the mechanism in this framework; the lecture's model treats osmotic pressure as directly proportional to osmolality, meaning the concentration of osmotically active particles, with no term for the space those particles take up. This would be the correct answer if osmotic pressure were determined by solute volume fraction, which the van't Hoff relationship explicitly does not use."
+      },
+      {
+        "text": "Neither; the two are equal, because C counts particles and is independent of particle size",
+        "explanation": "Correct. In pi = RTC the gas constant R is universal and the absolute temperature T is matched between the two solutions, so the only variable that can distinguish them is C, the osmolality, which is a count of osmotically active particles per kilogram of water. Size, weight, and shape do not appear in the relationship at all, so equal particle concentrations give equal osmotic pressures no matter how large the particles are. This is exactly why the osmotic pressure of ICF and ECF is determined mainly by ions such as sodium and chloride and by small molecules such as glucose: they are vastly more numerous than proteins even though each one is tiny. It is also why a solute that dissociates into two ions generates more osmotic pressure than a nondissociating solute at the same molar concentration - dissociation raises the particle count, which is the variable that matters."
+      },
+      {
+        "text": "It cannot be determined, because the gas constant R differs between the two compounds",
+        "explanation": "Incorrect. R is a universal constant and does not vary from solute to solute, so it cannot be the source of a difference between two solutions. With R fixed and T matched, only C is free to vary. This would be the correct answer only if each solute carried its own constant, in which case the relationship could not be used to compare solutions at all."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "van't Hoff pi = RTC: osmotic pressure tracks the NUMBER of particles (C = osmolality), not their size or weight. That is why abundant small ions, not scarce large proteins, dominate the osmotic pressure of ICF and ECF.",
+    "pdfPage": 10,
+    "pdfQuote": "Small differences in osmolality can lead to significant pressure differences"
+  },
+  {
+    "id": 33,
+    "category": "Physiology: Starling Forces",
+    "questionText": "An investigator studies two otherwise identical capillary preparations. In preparation 1 the interstitial space is kept protein-free. In preparation 2 albumin is instilled directly into the interstitial space so that its protein concentration becomes substantial. Capillary hydrostatic pressure, interstitial hydrostatic pressure, plasma oncotic pressure, and the filtration coefficient are all matched between the two preparations. Which preparation shows greater net filtration, and which term of Starling's hypothesis accounts for the difference?",
+    "options": [
+      {
+        "text": "Preparation 1, because protein in the interstitium of preparation 2 pulls fluid back toward the capillary lumen",
+        "explanation": "Incorrect. This reverses the direction in which interstitial oncotic pressure acts. Protein pulls water toward itself, so interstitial protein pulls water outward into the tissue, away from the capillary; it is plasma protein that pulls fluid back in. This would be the correct answer if the albumin had been added to the plasma rather than to the interstitium, which would widen the oncotic difference and strengthen absorption."
+      },
+      {
+        "text": "Preparation 2, because interstitial oncotic pressure is subtracted from plasma oncotic pressure, weakening the inward pull",
+        "explanation": "Correct. Starling's hypothesis subtracts the oncotic difference from the hydrostatic difference, and within that oncotic difference the interstitial term is itself subtracted from the plasma term. Raising interstitial oncotic pressure therefore shrinks the plasma-minus-interstitial oncotic difference, which is the quantity that opposes filtration. With the hydrostatic push unchanged, a smaller opposing oncotic pull makes the bracketed sum more positive, and filtration increases. Normally plasma oncotic pressure greatly exceeds interstitial oncotic pressure because plasma proteins are too large to cross the capillary wall freely; anything that narrows that protein gradient shifts the balance toward filtration. The direction rule worth memorizing: capillary hydrostatic pressure and interstitial oncotic pressure favor filtration, while interstitial hydrostatic pressure and plasma oncotic pressure oppose it."
+      },
+      {
+        "text": "Preparation 2, because the instilled albumin raises interstitial hydrostatic pressure and pushes fluid outward through the wall",
+        "explanation": "Incorrect. This attributes the effect to the wrong term. Interstitial hydrostatic pressure is a mechanical tissue pressure that opposes filtration, and the vignette holds it constant; the variable actually changed is an oncotic one. Even if it had risen, a higher interstitial hydrostatic pressure would reduce filtration rather than increase it. This would be the correct answer if the intervention had raised interstitial oncotic pressure and interstitial hydrostatic pressure were the term that favored outward flow, both of which invert the relationship taught."
+      },
+      {
+        "text": "Neither preparation filters more, because interstitial oncotic pressure is not one of the variables in Starling's hypothesis",
+        "explanation": "Incorrect. Starling's hypothesis names five variables, and interstitial oncotic pressure is one of the four pressures, paired against plasma oncotic pressure. It is usually small only because the interstitium is normally nearly protein-free, not because it is absent from the relationship. This would be the correct answer if the relationship compared plasma oncotic pressure against hydrostatic terms alone."
+      },
+      {
+        "text": "Preparation 2, because interstitial protein raises the filtration coefficient by loosening the junctions between the endothelial cells that line the capillary wall",
+        "explanation": "Incorrect. The filtration coefficient reflects wall permeability and total surface area, and the vignette explicitly matches it between preparations; no mechanism was described by which interstitial protein opens interendothelial junctions. Naming Kf here also confuses the multiplier with the pressure term that actually changed. This would be the correct answer if the intervention had been a structural one, such as recruiting perfused surface area or increasing wall permeability."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Direction rule for the four Starling pressures: capillary hydrostatic and INTERSTITIAL oncotic favor filtration; interstitial hydrostatic and PLASMA oncotic oppose it. Raising interstitial protein narrows the oncotic difference and shifts the balance toward filtration.",
+    "pdfPage": 23,
+    "pdfQuote": "Filtration occurs when the result is positive"
   }
 ];
 

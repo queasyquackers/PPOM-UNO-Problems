@@ -1,5 +1,5 @@
 window.Test_L121 = [
-  id{
+  {
     "id": "121-1",
     "category": "First-Order High-Yield",
     "questionText": "A 45-year-old male presents with acute lower back pain that began after lifting a heavy box. He describes the pain as a sharp ache in the midline of his lower back. When gathering the history of present illness (HPI) using the OPQRST mnemonic, which of the following is an example of the 'R' component?",
@@ -30,7 +30,7 @@ window.Test_L121 = [
     "pdfPage": 6,
     "pdfQuote": "Radiation? (Into buttocks? Low Extremity?)"
   },
-  id{
+  {
     "id": "121-2",
     "category": "First-Order High-Yield",
     "questionText": "A 22-year-old female presents to the clinic with persistent low back pain. She notes that over the last few weeks she has also developed new-onset urinary incontinence and numbness in her groin. Which of the following 'red flag' symptoms is this patient describing?",
@@ -61,7 +61,7 @@ window.Test_L121 = [
     "pdfPage": 8,
     "pdfQuote": "Saddle anesthesia, bowel/bladder incontinence"
   },
-  id{
+  {
     "id": "121-3",
     "category": "First-Order High-Yield",
     "questionText": "When performing the Review of Systems (ROS) for a standardized patient encounter as taught in DPR, what are the minimum documentation requirements for a complete system?",
@@ -92,7 +92,7 @@ window.Test_L121 = [
     "pdfPage": 10,
     "pdfQuote": "At least 3 systems & At least 2 symptoms"
   },
-  id{
+  {
     "id": "121-4",
     "category": "First-Order High-Yield",
     "questionText": "A medical student is educating a patient who works remotely about proper ergonomics to prevent cervical spine pain. Where should the patient position their computer monitor?",
@@ -123,7 +123,7 @@ window.Test_L121 = [
     "pdfPage": 17,
     "pdfQuote": "Observation – Position of the head ... Computer top 1/3 eye level"
   },
-  id{
+  {
     "id": "121-5",
     "category": "First-Order High-Yield",
     "questionText": "A 35-year-old male is undergoing active range of motion testing of the cervical spine. Which of the following defines the normal expected degree range for cervical rotation?",
@@ -154,7 +154,7 @@ window.Test_L121 = [
     "pdfPage": 20,
     "pdfQuote": "Normal ROM - Rotation: 70-90 degrees"
   },
-  id{
+  {
     "id": "121-6",
     "category": "First-Order High-Yield",
     "questionText": "During a musculoskeletal examination of the cervical spine, the physician explains that 50% of cervical flexion and extension occurs at which specific joint?",
@@ -185,7 +185,7 @@ window.Test_L121 = [
     "pdfPage": 19,
     "pdfQuote": "50% of flexion/extension is the OA joint"
   },
-  id{
+  {
     "id": "121-7",
     "category": "First-Order High-Yield",
     "questionText": "A 55-year-old female presents with neck stiffness. On physical exam, the patient is seated and attempts to actively hold her head upright. She suddenly reports experiencing an 'electric shock' sensation that travels from her neck down into her spine and legs. Which of the following tests/signs is being described?",
@@ -216,7 +216,7 @@ window.Test_L121 = [
     "pdfPage": 29,
     "pdfQuote": "Lhermitte’s Sign (Barber chair phenomenon) – Patient is seated and attempts to actively hold head upright. Patient feels an “electric shock” sensation"
   },
-  id{
+  {
     "id": "121-8",
     "category": "First-Order High-Yield",
     "questionText": "A trauma patient is evaluated in the emergency department following a motor vehicle collision. Which of the following criteria is NOT part of the NEXUS criteria used to clinically clear the cervical spine?",
@@ -247,7 +247,7 @@ window.Test_L121 = [
     "pdfPage": 47,
     "pdfQuote": "NEXUS Criteria ... 1. No neurologic deficit 2. No spinal tenderness 3. No Altered mental status 4. No Intoxication 5. No Distracting/painful injury"
   },
-  id{
+  {
     "id": "121-9",
     "category": "First-Order High-Yield",
     "questionText": "A 14-year-old girl is undergoing a physical exam for school sports. The physician performs the Adams Forward Bend test to screen for scoliosis and notes a rib hump on the right side. During this test, what does the presence of the right-sided rib hump indicate regarding the underlying vertebral biomechanics?",
@@ -278,7 +278,7 @@ window.Test_L121 = [
     "pdfPage": 63,
     "pdfQuote": "Adams Test: The test is positive for scoliosis if there is a unilateral rib hump"
   },
-  id{
+  {
     "id": "121-10",
     "category": "First-Order High-Yield",
     "questionText": "A 28-year-old weightlifter presents with right-sided lower back pain that radiates below his knee. He has diminished sensation over the dorsal aspect of his foot and weakness with great toe dorsiflexion. Which nerve root is most likely affected?",
@@ -309,7 +309,7 @@ window.Test_L121 = [
     "pdfPage": 59,
     "pdfQuote": "Motor: Great toe dorsiflexion (L5) ... Sensation: Dorsal foot (L5)"
   },
-  id{
+  {
     "id": "121-11",
     "category": "First-Order High-Yield",
     "questionText": "A 40-year-old construction worker complains of low back pain shooting down the back of his right leg. During the physical exam, the physician passively raises the patient's right leg while keeping the knee extended. The patient reports a reproduction of his shooting pain at 45 degrees of elevation. Which of the following describes the anatomical basis for this positive test?",
@@ -340,7 +340,7 @@ window.Test_L121 = [
     "pdfPage": 66,
     "pdfQuote": "Positive test = indicated by pain in lower back or radiating pain down posterior aspect of leg ... Indication: Nerve root impingement"
   },
-  id{
+  {
     "id": "121-12",
     "category": "First-Order High-Yield",
     "questionText": "If a patient has a positive straight leg raise test at 50 degrees, which of the following maneuvers can be added to the test to further confirm the presence of L5 radiculopathy by placing additional tension on the nerve?",
@@ -371,7 +371,7 @@ window.Test_L121 = [
     "pdfPage": 68,
     "pdfQuote": "Braggard's Test: Dorsiflexion of the foot ... places tension on the L5 portion of the sciatic nerve."
   },
-  id{
+  {
     "id": "121-13",
     "category": "First-Order High-Yield",
     "questionText": "A 52-year-old male presents with right-sided neck pain that radiates down his right arm into his fingers. The physician performs a Spurling test. Which sequence of biomechanical motions is used to perform this test correctly?",
@@ -402,7 +402,7 @@ window.Test_L121 = [
     "pdfPage": 31,
     "pdfQuote": "Spurling Test: Rotate and sidebend head toward the affected side. Add extension ... provoked a downward compressive force."
   },
-  id{
+  {
     "id": "121-14",
     "category": "First-Order High-Yield",
     "questionText": "A patient with left-sided low back pain radiating down the left leg lies supine on the examination table. The physician lifts the patient's asymptomatic right leg (keeping the right knee straight). The patient immediately reports a sharp pain shooting down his left leg. What is the name of this test and what does it suggest?",
@@ -433,7 +433,7 @@ window.Test_L121 = [
     "pdfPage": 72,
     "pdfQuote": "Well’s (Opposite Straight Leg Raising) ... Test is positive for possible space occupying lesion"
   },
-  id{
+  {
     "id": "121-15",
     "category": "First-Order High-Yield",
     "questionText": "A 34-year-old female complains of numbness and tingling in her right hand that worsens when she carries a heavy purse or reaches overhead. The physician palpates her right radial pulse, abducts and extends her right arm, and asks her to rotate her head to the right and take a deep breath. Her radial pulse significantly diminishes. This maneuver characterizes which of the following tests?",
@@ -464,7 +464,7 @@ window.Test_L121 = [
     "pdfPage": 42,
     "pdfQuote": "Adson's Test ... Positive test indicated by diminished or absent radial pulse ... indicating Thoracic Outlet Syndrome"
   },
-  id{
+  {
     "id": "121-16",
     "category": "Second-Order Application",
     "questionText": "A 66-year-old male with a history of prostate cancer presents with progressively worsening mid-back pain over the past two months. The pain is gnawing, present at rest, and awakens him from sleep. He reports a 15-pound unintentional weight loss and generalized fatigue. On examination, he has focal tenderness over the T8 spinous process. Which of the following is the most appropriate next step in the workup of this patient?",
@@ -495,7 +495,7 @@ window.Test_L121 = [
     "pdfPage": 10,
     "pdfQuote": "RED FLAGS ... Hx of cancer, Unexplained weightloss ... pain at night"
   },
-  id{
+  {
     "id": "121-17",
     "category": "Second-Order Application",
     "questionText": "A 77-year-old male with long-standing Parkinson's disease is evaluated for severe, chronic back pain. When standing, his trunk is abnormally flexed forward, and he is unable to maintain an upright posture. When he lies supine on the examination table, however, the severe flexion deformity almost completely resolves. Based on the lecture case presentation, what is the clinical term for this patient's postural deformity?",
@@ -526,7 +526,7 @@ window.Test_L121 = [
     "pdfPage": 59,
     "pdfQuote": "Pronounced Camptocormia ... abnormal flexion of the trunk appearing in the standing position"
   },
-  id{
+  {
     "id": "121-18",
     "category": "Second-Order Application",
     "questionText": "A 30-year-old male is undergoing evaluation for chronic low back pain following a workers' compensation claim. The physician suspects non-organic etiology and performs the Hoover test. The examiner places one hand under each calcaneus while the patient remains supine. The patient is instructed to lift his allegedly weak right leg. Which of the following findings would suggest a lack of effort or malingering?",
@@ -557,7 +557,7 @@ window.Test_L121 = [
     "pdfPage": 74,
     "pdfQuote": "Hoover's Test ... If the patient is really trying, the opposite leg will push down to help raise the other leg."
   },
-  id{
+  {
     "id": "121-19",
     "category": "Second-Order Application",
     "questionText": "A 16-year-old gymnast complains of chronic, aching low back pain that worsens with back extension. Her physical exam is significant for pain upon performing the Stork test (standing on one leg and hyperextending the spine). The physician suspects a defect in the pars interarticularis. What is the most likely diagnosis?",
@@ -588,7 +588,7 @@ window.Test_L121 = [
     "pdfPage": 64,
     "pdfQuote": "Stork Test ... Patient stands on one leg and hyperextends ... stresses the posterior elements of the spine (Pars Interarticularis)"
   },
-  id{
+  {
     "id": "121-20",
     "category": "Second-Order Application",
     "questionText": "A 68-year-old female arrives at the emergency department after tripping on an area rug and falling backward from a standing position. She struck her head and now complains of moderate neck pain. She is awake, alert, not intoxicated, has no neurological deficits, and no other injuries. According to the Canadian C-Spine Rule, what is the best management strategy regarding cervical spine imaging?",
@@ -619,7 +619,7 @@ window.Test_L121 = [
     "pdfPage": 48,
     "pdfQuote": "Canadian C-Spine Rule ... Any High Risk Factor? (Age > 65 ... ) -> Radiography"
   },
-  id{
+  {
     "id": "121-21",
     "category": "Second-Order Application",
     "questionText": "A 43-year-old male with a history of intravenous drug use presents to the emergency department with severe, unremitting low back pain and a fever of 102.1°F (38.9°C). He states the pain has progressively worsened over the last week. On physical examination, he has exquisite focal tenderness over the L3 spinous process. He demonstrates an inability to dorsiflex his ankles bilaterally. Which of the following is the most likely underlying etiology of his presentation?",
@@ -650,7 +650,7 @@ window.Test_L121 = [
     "pdfPage": 10,
     "pdfQuote": "RED FLAGS ... IV Drug Use ... Fever ... Osteomyelitis"
   },
-  id{
+  {
     "id": "121-22",
     "category": "Second-Order Application",
     "questionText": "A 50-year-old female presents with right-sided neck pain that radiates into her right shoulder and down the lateral aspect of her arm. On neurological examination, she displays a diminished reflex when the examiner strikes the tendon in her antecubital fossa. She also exhibits weakness when attempting to flex her elbow against resistance. Which nerve root is most likely compressed?",
@@ -681,7 +681,7 @@ window.Test_L121 = [
     "pdfPage": 23,
     "pdfQuote": "C5 ... Motor: Deltoid/Biceps ... Reflex: Biceps"
   },
-  id{
+  {
     "id": "121-23",
     "category": "Second-Order Application",
     "questionText": "A 48-year-old male is evaluated for cervical radiculopathy. His physical exam reveals a diminished reflex when the tendon just above his right radial styloid process is struck. He also reports numbness over his right thumb. Which motor movement would you expect to be weakest during specific resistive testing?",
@@ -712,7 +712,7 @@ window.Test_L121 = [
     "pdfPage": 23,
     "pdfQuote": "C6 ... Motor: Wrist extension ... Reflex: Brachioradialis"
   },
-  id{
+  {
     "id": "121-24",
     "category": "Second-Order Application",
     "questionText": "A patient with a documented C7 nerve root impingement on the left side is demonstrating classic radicular findings. Based on your knowledge of cervical myotomes, dermatomes, and reflexes, which of the following clinical exam findings would confidently confirm this diagnosis?",
@@ -743,7 +743,7 @@ window.Test_L121 = [
     "pdfPage": 23,
     "pdfQuote": "C7 ... Middle finger ... Tricep reflex"
   },
-  id{
+  {
     "id": "121-25",
     "category": "Second-Order Application",
     "questionText": "A 55-year-old female presents with low back pain and radiating numbness into her medial right calf and the medial aspect of her right foot. She is asked to walk across the room and is noted to have a noticeable 'foot drop' due to profound weakness lifting her right foot when taking a step. She also has a diminished right patellar reflex. Which intervertebral disc is most likely herniated, compressing the affected nerve root?",
@@ -774,7 +774,7 @@ window.Test_L121 = [
     "pdfPage": 59,
     "pdfQuote": "L4 ... Motor: Ankle dorsiflexion ... Reflex: Patellar"
   },
-  id{
+  {
     "id": "121-26",
     "category": "Second-Order Application",
     "questionText": "A 32-year-old male arrives at the clinic with right leg pain. When the examiner taps the patient's right Achilles tendon with a reflex hammer, there is virtually no reflex response compared to a brisk response on the left. The patient is also unable to successfully walk on his 'tiptoes' on the right side. Sensation is decreased over the lateral aspect of his right foot. The patient's underlying pathology most likely involves which nerve root?",
@@ -805,7 +805,7 @@ window.Test_L121 = [
     "pdfPage": 59,
     "pdfQuote": "S1 ... Motor: Ankle plantar flexion ... Reflex: Achilles"
   },
-  id{
+  {
     "id": "121-27",
     "category": "Second-Order Application",
     "questionText": "A 25-year-old volleyball player has right shoulder and neck pain. She reports that occasionally her right arm 'falls asleep' and turns pale when serving the ball overhead. During evaluation, standard cervical range of motion and Spurling's tests are negative. However, when the patient rotates her head to the right, extends her neck, and takes a deep breath while the physician abducts and extends her right arm, the physician notes the radial pulse effectively disappears. What is the most appropriate osteopathic manipulative treatment target for this condition?",
@@ -836,7 +836,7 @@ window.Test_L121 = [
     "pdfPage": 42,
     "pdfQuote": "Adson's Test ... Positive test indicated by diminished or absent radial pulse ... indicating Thoracic Outlet Syndrome"
   },
-  id{
+  {
     "id": "121-28",
     "category": "Second-Order Application",
     "questionText": "A 58-year-old male with chronic, progressive low back pain is evaluated. X-rays of his lumbar spine reveal reduced facet joint space, subchondral sclerosis, and notable osteophyte formation at multiple levels perfectly aligned with the facets. There is no notable reduction in overall disc height. Based on the radiographic findings, what is the most precise clinicopathological diagnosis?",
@@ -867,7 +867,7 @@ window.Test_L121 = [
     "pdfPage": 51,
     "pdfQuote": "Osteoarthritis ... Osteophyte formation, bone calcification"
   },
-  id{
+  {
     "id": "121-29",
     "category": "Second-Order Application",
     "questionText": "A 16-year-old male athlete presents with a chronic, dull ache in his lower back that worsens during football practice when he tackles other players (a motion that rapidly hyperextends his spine). He has a positive Stork test on examination. A lateral lumbar X-ray surprisingly reveals that the L4 vertebral body has translated slightly anteriorly over the L5 vertebral body. What is the most appropriate terminology for this specific radiographic finding?",
@@ -898,7 +898,7 @@ window.Test_L121 = [
     "pdfPage": 64,
     "pdfQuote": "Spondylolisthesis: Slipping forward of one vertebrae"
   },
-  id{
+  {
     "id": "121-30",
     "category": "Second-Order Application",
     "questionText": "During a case presentation regarding a 77-year-old male with Parkinson's-related camptocormia and severe paraspinal muscle spasms, the physician performed a comprehensive OMT session. The treatments included FPR and myofascial release applied to the cervical, thoracic, and lumbar spine. Following the second and third visits, what functional outcome was considered the most significant marker of clinical improvement for this specific patient profile?",

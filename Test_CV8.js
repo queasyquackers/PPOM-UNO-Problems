@@ -928,6 +928,99 @@ const Test_CV8 = [
     "clinicalPearl": "Three timescales: baroreflex (seconds to minutes, autonomic, adapts), angiotensin II (minutes to hours, vasoconstriction), kidney (hours to days, actual volume). Only the kidney controls pressure long term, which is why chronic hypertension is a kidney volume problem.",
     "pdfPage": 43,
     "pdfQuote": "The sole controller of blood pressure over the long run"
+  },
+  {
+    "id": 31,
+    "category": "Physiology: Cardiovascular Primer",
+    "questionText": "Two patients are studied in a hemodynamics laboratory and are found to have exactly the same cardiac output. Patient A reaches that output with a slow heart rate and a large stroke volume, while Patient B reaches the same output with a fast heart rate and a small stroke volume. Their systemic arterioles differ: Patient A's are more constricted than Patient B's. Nothing else differs between them. Which patient has the higher mean arterial pressure, and which variable accounts for the difference?",
+    "options": [
+      {
+        "text": "Patient A, because cardiac output is matched, leaving resistance as the only term that can differ",
+        "explanation": "Correct. Mean arterial pressure is the product of cardiac output and total peripheral resistance, and cardiac output is itself the product of heart rate and stroke volume. Heart rate and stroke volume therefore enter the pressure equation only through their product, so two different heart rate and stroke volume combinations that give the same cardiac output contribute identically to pressure. With that term matched, the only variable left to explain a difference is total peripheral resistance, which is set by the systemic arterioles: more constriction means a smaller vessel radius, higher resistance, and higher pressure."
+      },
+      {
+        "text": "Patient B, because a faster heart rate raises pressure independently of cardiac output",
+        "explanation": "Incorrect. In the equations presented, heart rate reaches mean arterial pressure only by way of cardiac output; it has no separate pressure term of its own. Since cardiac output is stipulated to be identical, the difference in heart rate cannot be doing any work here. This would be the correct answer if heart rate influenced pressure through some route other than the product that forms cardiac output."
+      },
+      {
+        "text": "Patient A, because a larger stroke volume raises pressure even when cardiac output is unchanged",
+        "explanation": "Incorrect. Stroke volume, like heart rate, is a factor inside cardiac output and does not act on pressure by any other path. Once the product is fixed, shifting the split between rate and stroke volume changes nothing about mean arterial pressure. This would be the correct answer if stroke volume appeared as an independent term in the mean arterial pressure equation rather than inside cardiac output."
+      },
+      {
+        "text": "Neither, because identical cardiac outputs must give identical mean arterial pressures",
+        "explanation": "Incorrect. This drops the resistance term entirely and treats pressure as a function of flow alone, which is exactly the error the septic patient with high output and low pressure disproves. Flow and resistance are separate multiplied variables. This would be the correct answer if mean arterial pressure were determined by cardiac output alone, with arteriolar tone playing no role."
+      },
+      {
+        "text": "Patient B, because the faster heart rate shortens diastolic filling time so severely that preload and stroke volume collapse, dropping cardiac output below Patient A's and forcing the arterioles to dilate in compensation",
+        "explanation": "Incorrect. This answer rewrites the premise: the vignette explicitly holds cardiac output equal in both patients, so no chain of reasoning that ends with a lower cardiac output in Patient B can apply. Arteriolar tone is also given rather than derived. This would be the correct answer if cardiac output had been left free to vary between the two patients instead of being matched."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "MAP = CO x TPR and CO = HR x SV, so heart rate and stroke volume reach pressure only through their product. When cardiac output is matched, any difference in pressure must come from the resistance term set by arteriolar tone.",
+    "pdfPage": 13,
+    "pdfQuote": "Flow = Cardiac Output = Heart Rate (HR, in bpm)"
+  },
+  {
+    "id": 32,
+    "category": "Physiology: Renal Hemodynamics",
+    "questionText": "A patient with hypertension is started on an ACE inhibitor. Repeat renal studies show that renal blood flow and renal plasma flow have risen, while glomerular filtration rate has fallen slightly. Filtration fraction is defined as glomerular filtration rate divided by renal plasma flow. Which statement best explains the direction in which this ratio moves?",
+    "options": [
+      {
+        "text": "Filtration fraction rises, because the drug pinches the efferent arteriole and raises glomerular capillary pressure",
+        "explanation": "Incorrect. Pinching the efferent arteriole is the action of angiotensin II, and an ACE inhibitor reduces angiotensin II rather than mimicking it. The measured rise in renal plasma flow is also incompatible with efferent constriction, which restricts outflow. This would be the correct answer if the patient had received an angiotensin II infusion rather than a drug that blocks its production."
+      },
+      {
+        "text": "Filtration fraction is unchanged, because glomerular filtration rate and renal plasma flow always move together in the same direction and by the same proportion",
+        "explanation": "Incorrect. The two variables are locked together only when the tone change is at the afferent arteriole, where constriction lowers both and dilation raises both, leaving the ratio essentially flat. At the efferent arteriole they dissociate and move oppositely, which is exactly what was measured here. This would be the correct answer if the intervention had acted on the afferent arteriole instead of the efferent one."
+      },
+      {
+        "text": "Filtration fraction rises, because the denominator falls while the numerator is held constant",
+        "explanation": "Incorrect. Shrinking the denominator while holding the numerator does raise a ratio, so the reasoning is sound, but the premise is wrong: renal plasma flow rose in this patient rather than falling. This would be the correct answer if renal plasma flow had fallen while filtration was defended, which is the pattern angiotensin II produces in hemorrhage."
+      },
+      {
+        "text": "Filtration fraction falls, because the numerator falls while the denominator rises",
+        "explanation": "Correct. Filtration fraction is glomerular filtration rate over renal plasma flow, so anything that lowers the numerator while raising the denominator must lower the ratio. Removing angiotensin II relaxes the efferent arteriole and opens the drain, so blood escapes the glomerulus more easily: glomerular capillary pressure and therefore filtration fall, while total plasma flow through the kidney rises because outflow is no longer restricted. Angiotensin II does the mirror image, holding filtration up while plasma flow falls, which is why it raises filtration fraction."
+      },
+      {
+        "text": "Filtration fraction falls because the drug dilates the afferent arteriole, raising glomerular filtration rate and renal plasma flow together, and a proportional rise in both the numerator and the denominator drives the ratio downward",
+        "explanation": "Incorrect. This misplaces the site of action and misstates the arithmetic of a ratio: afferent dilation is the prostaglandin effect, not the ACE inhibitor effect, and raising the numerator and denominator in proportion leaves a ratio unchanged rather than lowering it. It also predicts a rise in filtration, which contradicts the measurements. This would be the correct answer if the question had described prostaglandin-mediated afferent dilation and asked which entry in the table shows no change in filtration fraction."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "FF = GFR / RPF. Efferent constriction (angiotensin II) props up the numerator while cutting the denominator, so FF rises; efferent dilation (ACE-i/ARB) does the reverse and FF falls. Afferent changes move both terms the same way, so FF is unchanged.",
+    "pdfPage": 36,
+    "pdfQuote": "FF = GFR / RPF"
+  },
+  {
+    "id": 33,
+    "category": "Physiology: Effective Circulating Volume",
+    "questionText": "Two patients are compared. Patient A has a normal serum albumin and no edema. Patient B has nephrotic syndrome with a markedly low serum albumin, extensive pitting edema, and a total extracellular fluid volume measured as larger than Patient A's. Which patient has the lower effective circulating volume, and which relationship explains it?",
+    "options": [
+      {
+        "text": "Patient A, because the pitting edema in Patient B represents extra fluid held inside the vascular compartment",
+        "explanation": "Incorrect. Edema is fluid accumulating in the interstitial space outside the vessels, which is precisely why it does not count toward the volume that perfuses tissue. Visible swelling therefore signals the opposite of a well-filled arterial circulation. This would be the correct answer if edema fluid collected inside the vessels rather than in the interstitium."
+      },
+      {
+        "text": "Patient B, because low plasma oncotic pressure shifts fluid from plasma into the interstitium",
+        "explanation": "Correct. The extracellular fluid is the sum of two subcompartments, interstitial fluid and plasma, and only the plasma portion perfuses tissue and is read by the volume and pressure receptors. A low serum albumin lowers plasma oncotic pressure, so Starling forces drive fluid out of the capillaries and into the interstitium. The interstitial share grows and total extracellular fluid rises, while the plasma share, and therefore effective circulating volume, falls. This is exactly how the two variables move in opposite directions: more water in the pipes, less water reaching the taps, and because the body acts on what it perceives, Patient B's kidney mounts a volume-defense response despite obvious fluid overload."
+      },
+      {
+        "text": "Neither, because effective circulating volume and total extracellular fluid volume are the same quantity",
+        "explanation": "Incorrect. Keeping these two apart is the whole point of the concept: effective circulating volume is only the perfusing portion of the arterial circulation, whereas total extracellular fluid counts everything, including interstitial fluid that is doing no perfusing at all. Collapsing them makes heart failure and nephrotic edema inexplicable. This would be the correct answer if the extracellular fluid were one well-mixed pool, every part of which perfused tissue."
+      },
+      {
+        "text": "Patient B, because a low serum albumin lowers plasma osmolality and therefore lowers serum sodium",
+        "explanation": "Incorrect. This names the wrong force and the wrong variable: albumin contributes negligibly to plasma osmolality, which sodium dominates, and osmolality is about concentration rather than about how much volume is perfusing tissue. The force albumin does govern is oncotic pressure across the capillary wall. This would be the correct answer if plasma protein were a major determinant of osmolality instead of a determinant of capillary fluid distribution."
+      },
+      {
+        "text": "Patient A, because a higher serum albumin concentration raises total peripheral resistance and thereby reduces the fraction of the circulation available to perfuse tissue, while a low albumin lowers resistance and improves tissue perfusion",
+        "explanation": "Incorrect. Total peripheral resistance is set by constriction and relaxation of the systemic arterioles, not by plasma protein concentration, and albumin acts on where fluid sits rather than on vessel radius. The direction is also backwards, since low albumin worsens rather than improves perfusion. This would be the correct answer if plasma protein concentration set arteriolar tone, which the primer assigns to the arterioles themselves."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "ECF and ECV are different variables and can move in opposite directions. Low plasma oncotic pressure shifts fluid from plasma into the interstitium, so total ECF rises as edema while the perfusing plasma fraction, which is what the body's sensors read, falls.",
+    "pdfPage": 14,
+    "pdfQuote": "edema with reduced effective circulating volume"
   }
 ];
 

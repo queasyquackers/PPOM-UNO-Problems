@@ -928,6 +928,130 @@ const Test_CV7 = [
     "clinicalPearl": "Hemoptysis + linear immunofluorescent IgG along the GBM = Goodpasture syndrome, an anti-type 4 collagen antibody attack on the middle layer of the filtration barrier. GPA also causes hemoptysis but adds chronic sinusitis, nosebleeds, and saddle-nose deformity.",
     "pdfPage": 14,
     "pdfQuote": "Type 4 collagen, heparan sulfate, glycoproteins"
+  },
+  {
+    "id": 31,
+    "category": "Renal Physiology: Clearance & Formulas",
+    "questionText": "A research nurse performs a 24-hour timed urine collection to measure a patient's creatinine clearance using C = (U x V) / P. Partway through the collection the patient voids into the toilet, and that portion of urine is lost, so the recorded urine flow rate is lower than the patient's true urine flow rate. The urine creatinine concentration assayed on the well-mixed remaining sample and the plasma creatinine drawn at the midpoint are both accurate. Without calculating anything, in which direction is the reported clearance in error, and which variable is responsible?",
+    "options": [
+      {
+        "text": "Falsely HIGH, because urine flow rate sits in the denominator of the clearance equation alongside plasma concentration",
+        "explanation": "Incorrect. This misplaces the variable: only the plasma concentration P occupies the denominator. Urine flow rate V is a numerator term, so losing volume cannot inflate the result. This would be the correct answer if clearance were defined as U divided by the product of V and P, which would make an undercollection look like better renal function."
+      },
+      {
+        "text": "Unchanged, because discarding part of a well-mixed collection raises the measured urine concentration by exactly as much as it lowers the recorded volume, so their product is preserved",
+        "explanation": "Incorrect. Concentration is an intensive property: removing some of a well-mixed sample changes how much you have, not how concentrated it is, so U is untouched while V falls. The product U x V therefore falls rather than holding steady. This would be the correct answer if the lost portion had been replaced with an equal volume of water, which would dilute U while restoring V and leave the excretion rate unchanged."
+      },
+      {
+        "text": "Falsely HIGH, because clearance varies inversely with the rate at which the substance appears in the urine",
+        "explanation": "Incorrect. The relationship is direct, not inverse: U x V IS the urinary excretion rate, and clearance is that excretion rate divided by the plasma concentration, so more creatinine appearing in the urine per minute means more plasma is being cleared. This would be the correct answer if clearance measured retention rather than removal, which reverses the meaning of the term."
+      },
+      {
+        "text": "Falsely LOW, because urine flow rate multiplies urine concentration in the numerator, so understating V understates the numerator while the denominator is untouched",
+        "explanation": "Correct. Clearance is the rate at which a substance is removed from the blood and put into the urine, and its equation has a two-part numerator (U x V, the urinary excretion rate) over a single denominator (P, the plasma concentration). U and V are directly proportional to clearance; P is inversely proportional. Losing urine shrinks V without touching either U or P, so the numerator falls, the denominator holds, and the quotient falls. The reported clearance therefore understates true GFR, which is why an incomplete collection is the classic reason a creatinine clearance comes back spuriously low. The teaching point is positional: know which letters sit above the line and which sits below."
+      },
+      {
+        "text": "Impossible to predict, because the direction of the error depends on whether the plasma creatinine specimen was obtained before or after the collection period began, information the vignette does not supply",
+        "explanation": "Incorrect. Timing of the plasma draw affects how representative P is, but the vignette states that P is accurate, and the direction of a numerator error is determined by the structure of the equation regardless of when P was sampled. A variable that appears only in the numerator can move the quotient in only one direction. This would be the correct answer if the error had been in a variable whose position in the formula were ambiguous, but every term in C = (U x V) / P has a fixed place."
+      }
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "In C = (U x V) / P, U and V are numerator terms (their product is the urinary excretion rate) and P is the sole denominator. Clearance moves WITH U and V and AGAINST P, so an incomplete urine collection lowers V and reports a falsely low clearance.",
+    "pdfPage": 13,
+    "pdfQuote": "rate at which a substance is removed from the blood"
+  },
+  {
+    "id": 32,
+    "category": "Renal Physiology: Clearance & Formulas",
+    "questionText": "Two volunteers are studied in a renal physiology laboratory. Simultaneous PAH clearance measurements show that their renal plasma flows are identical and normal. Volunteer 1, who has poorly controlled early type 2 diabetes, has an inulin clearance well above the normal range; volunteer 2 has an inulin clearance squarely within the normal range. No other measured variable differs. Which statement about their filtration fractions is correct?",
+    "options": [
+      {
+        "text": "Volunteer 1 has the higher filtration fraction, because the numerator of the ratio rose while the denominator was held constant",
+        "explanation": "Correct. Filtration fraction is GFR divided by RPF, the share of the plasma arriving at the kidney that actually crosses into Bowman space, normally about 20%. Inulin clearance is GFR (the numerator) and PAH clearance is effective RPF (the denominator). The vignette matches the denominators and raises only the numerator, and any ratio whose top term grows while its bottom term is fixed must increase: increasing GFR alone increases FF. This is the mirror image of the more familiar dehydration and renal artery stenosis pattern, where GFR is defended while RPF falls, shrinking the denominator to raise the same ratio. Either route to a high FF tells you filtration has outrun perfusion; which term moved tells you why."
+      },
+      {
+        "text": "Both have the same filtration fraction, because filtration fraction is fixed at approximately 20% in any kidney whose glomeruli are structurally intact",
+        "explanation": "Incorrect. Twenty percent is the normal average value of a computed ratio, not a physical constant that the kidney pins down; FF changes whenever either term changes, which is exactly what makes it diagnostically useful. If it were fixed, it could never distinguish a perfusion problem from a filter problem. This would be the correct answer if GFR and RPF were rigidly yoked so that neither could move without the other, which autoregulation is specifically designed to prevent."
+      },
+      {
+        "text": "Volunteer 2 has the higher filtration fraction, because a lower GFR leaves plasma in contact with the filtration barrier for a longer time",
+        "explanation": "Incorrect. Contact time is not a term in the equation, and in any case a lower GFR with the same RPF means a SMALLER fraction of the delivered plasma was filtered, which is a lower FF by definition. This inverts the relationship between the numerator and the ratio. This would be the correct answer if filtration fraction measured how long plasma lingered in the glomerulus rather than what proportion of it crossed the barrier."
+      },
+      {
+        "text": "Volunteer 1 has the lower filtration fraction, because a GFR above the normal range can only be produced by a proportional increase in renal plasma flow",
+        "explanation": "Incorrect. The premise contradicts the stem, which states the two plasma flows are identical; GFR can rise without RPF rising, as it does in early diabetic hyperfiltration when afferent tone falls and intraglomerular pressure climbs. Even if both terms had risen proportionally, the ratio would be unchanged rather than lower. This would be the correct answer if the two variables were locked in fixed proportion, in which case FF could never move at all."
+      },
+      {
+        "text": "Filtration fraction cannot be compared between the two, because the ratio is undefined until each volunteer's hematocrit is known and used to convert their measured plasma flows into whole blood flows",
+        "explanation": "Incorrect. Hematocrit is the variable that links renal PLASMA flow to renal BLOOD flow; it plays no part in the filtration fraction, whose denominator is plasma flow itself. Bringing hematocrit into this ratio imports a term from a different equation. This would be the correct answer if the question had asked how the two volunteers' renal blood flows compare, where RBF = RPF / (1 - Hct) makes hematocrit indispensable."
+      }
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "FF = GFR / RPF (inulin clearance over PAH clearance), normally ~20%. Raising the numerator alone (early diabetic hyperfiltration) raises FF; lowering the denominator alone (dehydration, renal artery stenosis) also raises FF; lowering the numerator alone (glomerular disease) lowers it.",
+    "pdfPage": 16,
+    "pdfQuote": "increasing GFR only increases FF"
+  },
+  {
+    "id": 33,
+    "category": "Renal Physiology: RBF & RPF",
+    "questionText": "Two patients undergo PAH clearance studies on the same afternoon, and their effective renal plasma flows come back identical. Patient 1 has polycythemia vera with a hematocrit of 60%; patient 2 has a hematocrit of 40%. PAH extraction is complete in both, and both are normotensive. Taking the measured plasma flows at face value, which patient must have the greater renal BLOOD flow, and which relationship establishes it?",
+    "options": [
+      {
+        "text": "Patient 2, because a hematocrit of 60% leaves a smaller plasma fraction, and a smaller plasma fraction means less blood is reaching the kidney",
+        "explanation": "Incorrect. A smaller plasma fraction means each milliliter of blood carries less plasma, which is a statement about blood composition, not about how much blood arrives. Holding the plasma delivered constant while the plasma content per milliliter falls requires MORE blood, not less. This would be the correct answer if the question had held renal BLOOD flow constant and asked about plasma flow, where a higher hematocrit does yield less plasma."
+      },
+      {
+        "text": "The two are equal, because renal blood flow and renal plasma flow are independent quantities linked only by the pressure gradient across the kidney",
+        "explanation": "Incorrect. The two are not independent; they are rigidly linked by the cellular fraction of blood, since RPF = RBF x (1 - Hct). The pressure gradient helps set how much blood flows, but it does not govern how that blood divides into cells and plasma. This would be the correct answer if plasma volume varied freely from blood volume, but plasma is by definition the non-cellular part of the blood that is already flowing."
+      },
+      {
+        "text": "Patient 1, because the extra red cell mass carries more oxygen per unit volume, and renal autoregulation responds to the increased oxygen content by dilating both arterioles to raise total blood delivery",
+        "explanation": "Incorrect. This reaches the right patient by inventing a mechanism: no oxygen-content-driven dilation of the renal arterioles was described, autoregulation responds to perfusion pressure and to macula densa sodium, and a higher oxygen content would if anything argue for less flow, not more. The correct reasoning is arithmetic structure, not a reflex. This would be the correct answer if the kidney matched its perfusion to blood oxygen content the way the coronary circulation matches flow to demand, which is not renal physiology."
+      },
+      {
+        "text": "Patient 2, because a hematocrit of 60% raises blood viscosity, and higher viscosity raises resistance, which by Ohm's law must lower flow through the kidney",
+        "explanation": "Incorrect. Every step of this reasoning is true as physiology and it is exactly why polycythemia tends to reduce renal perfusion, but it answers a question the stem has already settled: the plasma flows were MEASURED and came back equal. Viscosity explains how the flows got where they are; once they are given, the hematocrit term relating plasma flow to blood flow takes over. Recognizing which term is doing the work and which is a bystander is the skill being tested. This would be the correct answer if the two patients had been given the same renal blood flow and you were asked to predict what happened to it, rather than the same plasma flow."
+      },
+      {
+        "text": "Patient 1, because the plasma fraction (1 minus hematocrit) is the denominator that converts plasma flow into blood flow",
+        "explanation": "Correct. The relationship RPF = RBF x (1 - Hct) rearranges to RBF = RPF / (1 - Hct), so blood flow is plasma flow divided by the plasma fraction. Hematocrit and the plasma fraction move in opposite directions: raising hematocrit from 40% to 60% shrinks the plasma fraction, and shrinking a denominator while holding the numerator fixed raises the quotient. Physically, plasma is more dilute in the polycythemic patient's blood, so delivering the same volume of plasma per minute requires pushing more whole blood per minute. RPF is the filterable fluid the kidney actually gets; RBF is the total oxygen and nutrient delivery; hematocrit is the single variable that converts between them."
+      }
+    ],
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "RPF = RBF x (1 - Hct), so RBF = RPF / (1 - Hct). Hematocrit and plasma fraction move oppositely: at a fixed RPF, a higher hematocrit shrinks the denominator and mandates a higher RBF. Separately, a high hematocrit also raises viscosity and resistance, which tends to lower flow in the first place.",
+    "pdfPage": 11,
+    "pdfQuote": "RPF = RBF*(1-Hematocrit)"
+  },
+  {
+    "id": 34,
+    "category": "Renal Physiology: Hemodynamics",
+    "questionText": "An isolated kidney is perfused in a bioreactor while the investigator steps the perfusion pressure upward across a wide range. Renal venous pressure is clamped at zero throughout, blood is drawn from a single reservoir of fixed hematocrit, and the vasculature is anatomically intact. Measured renal blood flow stays nearly constant at every perfusion pressure tested. Considering Q = (delta P) / R together with Poiseuille's law, which variable is the kidney adjusting, and how?",
+    "options": [
+      {
+        "text": "Blood flow itself is the regulated variable, with the pressure gradient and resistance both adjusting passively around whatever flow the kidney selects",
+        "explanation": "Incorrect. Flow is the OUTCOME the kidney defends, not a knob it can turn; the pressure gradient is imposed by the investigator, so the only term left for the kidney to act on is resistance. Naming the constant quantity as the regulated one confuses the goal of the system with its effector. This would be the correct answer if the kidney could set flow directly without altering any determinant of flow, which no vascular bed can do."
+      },
+      {
+        "text": "Resistance must rise as the pressure gradient rises, and the kidney raises it by narrowing arteriolar radius",
+        "explanation": "Correct. In Q = (delta P) / R, holding Q constant while delta P climbs requires R to climb in step, so resistance is the regulated variable and constant flow is the regulated result. Poiseuille's law gives R three determinants: vessel length, blood viscosity, and radius to the fourth power. Length is anatomically fixed and viscosity is set by hematocrit, and neither can be changed moment to moment, which leaves radius as the only rapidly adjustable term. Because radius enters as the fourth power, a modest constriction of the afferent arteriole produces a large jump in resistance, which is why changes in afferent and efferent arteriole diameter are the kidney's principal control over renal blood flow, glomerular pressure, and GFR."
+      },
+      {
+        "text": "Blood viscosity must fall to offset the rising pressure gradient, holding the ratio constant",
+        "explanation": "Incorrect. Viscosity does sit in the resistance term and would work in the right direction, but it is determined by hematocrit, cannot be altered from moment to moment, and in this preparation is fixed by a single reservoir of blood. The kidney has no mechanism for thinning the blood as pressure rises. This would be the correct answer if the experiment had swapped in progressively more dilute blood, which would genuinely lower resistance and raise flow."
+      },
+      {
+        "text": "Vessel length must shorten as pressure rises, reducing resistance in step with the gradient",
+        "explanation": "Incorrect. Resistance is directly proportional to vessel length, so shortening the circuit would LOWER resistance and let flow rise, worsening rather than correcting the deviation, and vessel length is essentially fixed anatomy that cannot change acutely. This is the wrong variable moving the wrong way. This would be the correct answer if flow needed to be increased and length were adjustable, neither of which applies here."
+      },
+      {
+        "text": "The pressure gradient across the kidney never actually changes, because renal venous pressure rises by exactly as much as the arterial pressure does, leaving the numerator of the flow equation constant throughout the experiment",
+        "explanation": "Incorrect. The stem clamps renal venous pressure at zero, so the gradient (inflow minus outflow) really does rise every time perfusion pressure is stepped up; there is no downstream compensation available. Denying that the driving force changed removes the very challenge autoregulation exists to meet. This would be the correct answer if the outflow pressure floated upward with the inflow pressure, in which case flow would stay constant with no vascular adjustment at all."
+      }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "In Q = (delta P) / R, flow is what the kidney defends and resistance is what it adjusts. Of the three determinants of resistance (length, viscosity, radius), only radius can be changed moment to moment, and it acts to the FOURTH power, so afferent and efferent arteriolar diameter is the kidney's control lever.",
+    "pdfPage": 8,
+    "pdfQuote": "Changes in afferent and efferent arteriole diameter"
   }
 ];
 
