@@ -11,16 +11,18 @@ const SECTIONS = [
     { id: "psych",  romanNumeral: "II",  name: "Psychiatry",                      dek: "Mind and behavior.",             weeks: [6, 7, 8, 9] },
     { id: "msk",    romanNumeral: "III", name: "Musculoskeletal & Rheumatology",  dek: "Bone, joint, immune.",           weeks: [12, 13, 14, 15] },
     { id: "hemonc", romanNumeral: "IV",  name: "Hematology-Oncology",             dek: "Blood, marrow, malignancy.",     weeks: [17, 18, 19, 20] },
-    // CPR Block 1 (semester 2): cardio, renal and pulmonary interwoven, lectures 1–41.
+    // CPR Block 1 (semester 2): cardio, renal and pulmonary interwoven, lectures 1–54.
     // Tests are matched by a "Cardio-" name prefix (see getTestSection) rather
-    // than by week, so their lecture numbers can stay 1–41 without colliding.
+    // than by week, so their lecture numbers can stay 1–54 without colliding.
     // The prefix and the "cardio" id are historical, from the block's original
     // "Cardiovascular" name; they are routing keys, not display text.
-    // weeks 1-4 restart with the new semester, so they repeat Neurology's. Safe:
-    // getTestSection matches the "Cardio-" prefix before it ever consults weeks,
-    // and the week lookup below returns the first match (Neurology) for "1-..."
-    // names. The array is here so the section card reads "Weeks 1-4".
-    { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [1, 2, 3, 4] },
+    // weeks 1-5 restart with the new semester, so weeks 1-4 repeat Neurology's.
+    // Safe: getTestSection matches the "Cardio-" prefix before it ever consults
+    // weeks, and the week lookup below returns the first match (Neurology) for
+    // "1-..." names. Week 5 is unique to this section (Block 3 has no week 5),
+    // so it matches nothing else. The array is here so the section card reads
+    // "Weeks 1-5".
+    { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [1, 2, 3, 4, 5] },
 ];
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
@@ -40,10 +42,11 @@ function getTestSection(testName) {
 }
 
 // CPR Block 1 curriculum weeks, by lecture number. The spans are uneven (week 3
-// covers 11 lectures, the rest 10), so they are listed rather than computed.
+// covers 11 lectures, week 5 covers 13, the rest 10), so they are listed rather
+// than computed.
 // Tests keep their "Cardio-" routing prefix; the week is derived at render time
 // from the "(CVn)" in the test name, so no test has to be renamed to regroup.
-const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4]];
+const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5]];
 function cprWeek(n) {
     const row = CPR_WEEKS.find(([lo, hi]) => n >= lo && n <= hi);
     return row ? row[2] : null;
