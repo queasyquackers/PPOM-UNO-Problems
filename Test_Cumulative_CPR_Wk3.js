@@ -40,7 +40,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Inferior STEMI (II, III, aVF) means right coronary artery in about 85 percent of people. ALWAYS get V4R, because up to half extend to the right ventricle. Hypotension with CLEAR LUNGS after nitroglycerin is RV infarct until proven otherwise; treat with fluids, not nitrates or diuretics.",
-    "lectureSource": "CV27: EKG Introduction"
+    "lectureSource": "CV27: EKG Introduction",
+    "pdfLecture": "CV27",
+    "pdfPage": 9,
+    "pdfQuote": "L= lateral; V5-V6, I, aVL (LCX/LAD)"
   },
   {
     "id": 2,
@@ -70,7 +73,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Fast sodium channels have three states: RESTING (available), OPEN (phase 0), and INACTIVATED (unavailable until repolarized past about -60 mV). Class I drugs are use- and state-dependent, binding open and inactivated channels, which is why they target fast, depolarized, ischemic tissue selectively.",
-    "lectureSource": "CV22: Cardiac Action Potentials"
+    "lectureSource": "CV22: Cardiac Action Potentials",
+    "pdfLecture": "CV22",
+    "pdfPage": 17,
+    "pdfQuote": "Sodium channel illustration from Guyton and Hall Textbook of Medical Physiology, e13,"
   },
   {
     "id": 3,
@@ -100,7 +106,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: IV loop diuretics work in two phases: an early PROSTAGLANDIN-mediated VENODILATION that drops preload within minutes, then the natriuresis. NSAIDs block both this and the renal vasodilation that sustains drug delivery, which is a leading cause of diuretic resistance.",
-    "lectureSource": "CV30: Diuretic Agents Part 1"
+    "lectureSource": "CV30: Diuretic Agents Part 1",
+    "pdfLecture": "CV30",
+    "pdfPage": 37,
+    "pdfQuote": "Physiological responses to loop diuretics (NKCC2 inhibition)"
   },
   {
     "id": 4,
@@ -130,7 +139,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: ACh relaxes vessels only through an INTACT ENDOTHELIUM (M3 receptor, calcium, eNOS, NO, guanylyl cyclase, cGMP, PKG). Remove the endothelium and ACh CONSTRICTS. Nitroprusside and nitrates are endothelium-INDEPENDENT NO donors and still work when the endothelium is diseased.",
-    "lectureSource": "CV24: Vascular Endothelial Cells"
+    "lectureSource": "CV24: Vascular Endothelial Cells",
+    "pdfLecture": "CV24",
+    "pdfPage": 15,
+    "pdfQuote": "Nitric Oxide Signaling Cascade"
   },
   {
     "id": 5,
@@ -160,7 +172,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: On a PV loop, WIDTH is stroke volume. The right border is end-diastolic volume (preload); the ESPVR SLOPE is contractility; the end-systolic point position along that line reflects afterload. Same ESPVR plus rightward shift equals Frank-Starling, not increased inotropy.",
-    "lectureSource": "CV29: Cardiac Cycle Part II"
+    "lectureSource": "CV29: Cardiac Cycle Part II",
+    "pdfLecture": "CV29",
+    "pdfPage": 12,
+    "pdfQuote": "or preload of the ventricle, the"
   },
   {
     "id": 6,
@@ -190,7 +205,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Cranial sutures are BEVELED, so lifts begin with slight MEDIAL COMPRESSION to disengage before traction along the sutural plane. Frontal lift frees the frontal from the sphenoid anteriorly and superiorly; parietal lift frees the parietals from sphenoid and temporal superiorly. Never thrust.",
-    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts"
+    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts",
+    "pdfLecture": "CV21",
+    "pdfPage": 23,
+    "pdfQuote": "Frontozygomatic suture (superior to it)"
   },
   {
     "id": 7,
@@ -220,7 +238,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Quick axis check with leads I and aVF. Both up is normal; I up, aVF down is LAD; I down, aVF up is RAD; both down is extreme. The QRS vector points TOWARD hypertrophied muscle, so RAD plus tall R in V1 plus right atrial enlargement equals right ventricular hypertrophy, classically cor pulmonale.",
-    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals"
+    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals",
+    "pdfLecture": "CV26",
+    "pdfPage": 29,
+    "pdfQuote": "Axis= the major direction"
   },
   {
     "id": 8,
@@ -250,7 +271,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Phase 4 in the SA node is driven by the FUNNY CURRENT If (HCN channels, inward Na and K, activated by hyperpolarization, modulated directly by cAMP). Sympathetics steepen the slope, acetylcholine flattens it. Ivabradine blocks If and lowers rate alone, with no effect on conduction, contractility, or blood pressure.",
-    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control"
+    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control",
+    "pdfLecture": "CV23",
+    "pdfPage": 4,
+    "pdfQuote": "cation current (Na+, K+) or funny current (If)."
   },
   {
     "id": 9,
@@ -280,7 +304,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: THIAZIDES cause calcium RETENTION (block NCC, low intracellular Na, more basolateral Na-Ca exchange), so they treat hypercalciuric stones and help bone density. LOOPS cause calcium WASTING (abolish the lumen-positive potential), so they treat hypercalcemia. Both waste magnesium and potassium.",
-    "lectureSource": "CV31: Diuretic Agents Part 2"
+    "lectureSource": "CV31: Diuretic Agents Part 2",
+    "pdfLecture": "CV31",
+    "pdfPage": 11,
+    "pdfQuote": "basolateral membranes of the distal convoluted tubule"
   },
   {
     "id": 10,
@@ -310,7 +337,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: S4 is LATE diastolic (atrial kick into a STIFF ventricle: hypertension, aortic stenosis, HCM, ischemia) and is impossible in atrial fibrillation. S3 is EARLY diastolic (rapid filling into a DILATED, volume-overloaded ventricle) and can be normal in youth, athletes, and pregnancy.",
-    "lectureSource": "CV28: Cardiac Cycle Part I"
+    "lectureSource": "CV28: Cardiac Cycle Part I",
+    "pdfLecture": "CV28",
+    "pdfPage": 29,
+    "pdfQuote": "against a hypertrophied"
   },
   {
     "id": 11,
@@ -340,7 +370,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Hyperkalemia raises (depolarizes) the resting potential, which INACTIVATES fast sodium channels and slows conduction. ECG progression is peaked T waves, then PR prolongation, then loss of P waves, then QRS widening, then a sine wave. Give calcium first: it raises threshold immediately without lowering potassium.",
-    "lectureSource": "CV22: Cardiac Action Potentials"
+    "lectureSource": "CV22: Cardiac Action Potentials",
+    "pdfLecture": "CV22",
+    "pdfPage": 24,
+    "pdfQuote": "Increases T wave amplitude or peaked T wave,  widens QRS, VF or cardiac arrest)"
   },
   {
     "id": 12,
@@ -370,7 +403,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Smooth muscle has NO TROPONIN. Regulation is Ca-calmodulin activating MLCK, which phosphorylates the myosin light chain to allow cross-bridge cycling. cAMP/PKA inhibits MLCK and cGMP/PKG activates myosin light chain phosphatase, so BOTH can relax the vessel at unchanged calcium (calcium desensitization).",
-    "lectureSource": "CV25: Vascular Smooth Muscle Cells"
+    "lectureSource": "CV25: Vascular Smooth Muscle Cells",
+    "pdfLecture": "CV25",
+    "pdfPage": 18,
+    "pdfQuote": "Phosphorylation of myosin light chain"
   },
   {
     "id": 13,
@@ -430,7 +466,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The SLOPE of the ESPVR (end-systolic elastance) is the load-independent measure of CONTRACTILITY. Inotropes steepen it, so end-systolic volume falls and stroke volume rises at unchanged filling. Ejection fraction, by contrast, is load-dependent and a poorer index of true inotropic state.",
-    "lectureSource": "CV29: Cardiac Cycle Part II"
+    "lectureSource": "CV29: Cardiac Cycle Part II",
+    "pdfLecture": "CV29",
+    "pdfPage": 16,
+    "pdfQuote": "Contractility is an intrinsic measure of cardiac performance"
   },
   {
     "id": 15,
@@ -460,7 +499,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Acetazolamide inhibits carbonic anhydrase, blocking proximal bicarbonate reabsorption. The induced metabolic acidosis lifts the alkalotic brake on ventilation and speeds acclimatization. It is a WEAK diuretic (downstream segments compensate and it self-limits), and it causes hyperchloremic acidosis, paresthesias, and hypokalemia.",
-    "lectureSource": "CV30: Diuretic Agents Part 1"
+    "lectureSource": "CV30: Diuretic Agents Part 1",
+    "pdfLecture": "CV30",
+    "pdfPage": 29,
+    "pdfQuote": "Mountain sickness results from travel to a high altitude too quickly to adjust to"
   },
   {
     "id": 16,
@@ -490,7 +532,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The AV node is slow (about 0.05 m/s) because phase 0 is L-type CALCIUM current in small, poorly coupled cells. Its decremental conduction and long refractory period make it the rate-limiting gate in atrial fibrillation and flutter, which is why beta blockers, verapamil/diltiazem, and digoxin control rate.",
-    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control"
+    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control",
+    "pdfLecture": "CV23",
+    "pdfPage": 20,
+    "pdfQuote": "L-type calcium channel blocker"
   },
   {
     "id": 17,
@@ -520,7 +565,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: vWF is made by endothelium (Weibel-Palade bodies) and megakaryocytes and does two jobs: platelet ADHESION to collagen via GPIb under high shear, and carrying FACTOR VIII. Hence mucocutaneous bleeding plus a mildly long aPTT with a normal PT. DDAVP releases stored vWF from Weibel-Palade bodies.",
-    "lectureSource": "CV24: Vascular Endothelial Cells"
+    "lectureSource": "CV24: Vascular Endothelial Cells",
+    "pdfLecture": "CV24",
+    "pdfPage": 23,
+    "pdfQuote": "vWF binds to factor VIII and platelets to assist in the formation of a platelet plug"
   },
   {
     "id": 18,
@@ -550,7 +598,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Long QT means IKr blockade, prolonged phase 3, and EARLY AFTERDEPOLARIZATIONS from reactivated L-type calcium channels, giving torsades. Risk multiplies with hypokalemia, hypomagnesemia, bradycardia, and QT-prolonging drugs. Treat with IV magnesium regardless of the serum level, plus correction of potassium and rate.",
-    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals"
+    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals",
+    "pdfLecture": "CV26",
+    "pdfPage": 12,
+    "pdfQuote": "ventricular repolarization (aka"
   },
   {
     "id": 19,
@@ -580,7 +631,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: MRAs are weak diuretics but reduce mortality in HFrEF by blocking aldosterone-driven myocardial FIBROSIS and remodeling. Spironolactone is non-selective and hits androgen and progesterone receptors, giving gynecomastia; eplerenone is selective. Both risk hyperkalemia, especially with ACE inhibitors, ARBs, or CKD.",
-    "lectureSource": "CV31: Diuretic Agents Part 2"
+    "lectureSource": "CV31: Diuretic Agents Part 2",
+    "pdfLecture": "CV31",
+    "pdfPage": 33,
+    "pdfQuote": "Spironolactone and Eplerenone: Cautions"
   },
   {
     "id": 20,
@@ -610,7 +664,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: SBS COMPRESSION means markedly reduced amplitude with no directional preference; the head feels stuck. It is non-physiologic, nearly always traumatic, and the most symptomatic pattern (headache, depression, fatigue). Exclude intracranial injury after head trauma before any cranial treatment.",
-    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts"
+    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts",
+    "pdfLecture": "CV21",
+    "pdfPage": 5,
+    "pdfQuote": "Review of Non-Physiologic Strain Patterns"
   },
   {
     "id": 21,
@@ -640,7 +697,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: JVP waves are a (atrial contraction), c (tricuspid bulge), x descent (atrial relaxation), v (atrial filling), y descent (valve opens). Tricuspid regurgitation abolishes the x descent, giving a giant systolic cv wave, a Carvallo-positive holosystolic murmur, and a pulsatile liver. Absent a wave means atrial fibrillation; cannon a waves mean AV dissociation.",
-    "lectureSource": "CV28: Cardiac Cycle Part I"
+    "lectureSource": "CV28: Cardiac Cycle Part I",
+    "pdfLecture": "CV28",
+    "pdfPage": 14,
+    "pdfQuote": "\"a\" wave (a. systole)"
   },
   {
     "id": 22,
@@ -670,7 +730,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Refractoriness tracks recovery of fast sodium channels from INACTIVATION. Absolute refractory period means no response at any stimulus strength and prevents tetany. Relative refractory period means a slow, weakly propagated response. The VULNERABLE WINDOW near the T-wave peak is where R-on-T triggers reentry, which is why cardioversion is R-wave synchronized.",
-    "lectureSource": "CV22: Cardiac Action Potentials"
+    "lectureSource": "CV22: Cardiac Action Potentials",
+    "pdfLecture": "CV22",
+    "pdfPage": 35,
+    "pdfQuote": "Na+ channels: inactivated"
   },
   {
     "id": 23,
@@ -700,7 +763,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Vascular smooth muscle cells switch between a CONTRACTILE phenotype (alpha-actin and myosin high, quiescent) and a SYNTHETIC phenotype (proliferative, migratory, matrix-producing). Synthetic switching drives in-stent neointimal hyperplasia, fibrous cap formation, and hypertensive remodeling; drug-eluting stents target it directly.",
-    "lectureSource": "CV25: Vascular Smooth Muscle Cells"
+    "lectureSource": "CV25: Vascular Smooth Muscle Cells",
+    "pdfLecture": "CV25",
+    "pdfPage": 5,
+    "pdfQuote": "Secretory/Synthetic (synthesizing"
   },
   {
     "id": 24,
@@ -730,7 +796,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Loop diuretics act from the LUMEN and must be SECRETED there by proximal organic anion transporters, since protein binding blocks filtration. Resistance comes from poor gut absorption (bowel edema), reduced secretion (low GFR, competing anions, NSAIDs), prostaglandin blockade, and distal tubular hypertrophy. Answer with IV route, higher dose, stop the NSAID, then add a thiazide.",
-    "lectureSource": "CV30: Diuretic Agents Part 1"
+    "lectureSource": "CV30: Diuretic Agents Part 1",
+    "pdfLecture": "CV30",
+    "pdfPage": 39,
+    "pdfQuote": "produce clinically significant diuretic resistance."
   },
   {
     "id": 25,
@@ -760,7 +829,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: At 25 mm/s, one small box is 0.04 s and one large box is 0.20 s. Rate equals 1500 divided by small boxes, or 300 divided by large boxes (300-150-100-75-60-50). Sinus rhythm requires an upright P before every QRS in lead II with a constant PR of 120-200 ms.",
-    "lectureSource": "CV27: EKG Introduction"
+    "lectureSource": "CV27: EKG Introduction",
+    "pdfLecture": "CV27",
+    "pdfPage": 20,
+    "pdfQuote": "Or 1500 divided by the number of small boxes"
   },
   {
     "id": 26,
@@ -790,7 +862,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: VAGAL withdrawal is fast (M2, Gi, direct GIRK channel opening, and acetylcholine destroyed in milliseconds) and gets heart rate from about 65 to 100 within a beat or two. SYMPATHETIC activation is slower (beta-1, Gs, cAMP, PKA) and carries the rate above 100. Intrinsic SA node rate is about 100-110.",
-    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control"
+    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control",
+    "pdfLecture": "CV23",
+    "pdfPage": 35,
+    "pdfQuote": "Vagal stimulation on heart rate"
   },
   {
     "id": 27,
@@ -820,7 +895,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Reduced contractility DEPRESSES and FLATTENS the Frank-Starling curve, so extra preload yields little stroke volume, while the steep end-diastolic pressure-volume curve turns that volume into pulmonary congestion. There is no clinically relevant descending limb; the failing heart gets congestion without output.",
-    "lectureSource": "CV29: Cardiac Cycle Part II"
+    "lectureSource": "CV29: Cardiac Cycle Part II",
+    "pdfLecture": "CV29",
+    "pdfPage": 14,
+    "pdfQuote": "Starling Curves"
   },
   {
     "id": 28,
@@ -850,7 +928,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Calcium controls the PLATEAU and therefore the ST segment. HYPERcalcemia shortens ST and QT (T wave seems to sit on the QRS); HYPOcalcemia lengthens them and risks torsades. Potassium controls phase 3 and the T wave: high K gives peaked T waves, low K gives U waves and ST depression.",
-    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals"
+    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals",
+    "pdfLecture": "CV26",
+    "pdfPage": 10,
+    "pdfQuote": "ST segment depressions"
   },
   {
     "id": 29,
@@ -880,7 +961,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: NO to soluble guanylyl cyclase to cGMP to PKG causes relaxation; PDE-5 terminates it. Sildenafil blocks PDE-5, which is enriched in pulmonary vasculature and corpus cavernosum. NITRATES plus PDE-5 INHIBITORS equals catastrophic hypotension, an absolute contraindication. Riociguat (a cyclase stimulator) carries the same warning.",
-    "lectureSource": "CV24: Vascular Endothelial Cells"
+    "lectureSource": "CV24: Vascular Endothelial Cells",
+    "pdfLecture": "CV24",
+    "pdfPage": 16,
+    "pdfQuote": "PDE-5 degrades cGMP"
   },
   {
     "id": 30,
@@ -910,7 +994,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Mannitol is filtered and not reabsorbed, holding water in the tubule (osmotic diuresis) and pulling water from brain across an INTACT blood-brain barrier. Where the barrier is broken it leaks in and causes REBOUND edema. Follow serum osmolality and the osmolar gap; avoid in anuria and decompensated heart failure.",
-    "lectureSource": "CV31: Diuretic Agents Part 2"
+    "lectureSource": "CV31: Diuretic Agents Part 2",
+    "pdfLecture": "CV31",
+    "pdfPage": 41,
+    "pdfQuote": "parenchyma / eye tissue (the water is excreted in urine)"
   },
   {
     "id": 31,
@@ -940,7 +1027,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Digoxin inhibits the Na-K-ATPase, so intracellular Na rises, NCX extrudes less calcium, and SR calcium stores grow (positive inotropy). Potassium COMPETES for the same binding site, so HYPOkalemia worsens toxicity. Look for GI and visual symptoms plus increased automaticity WITH AV block; correct K and Mg, and use Fab fragments if severe.",
-    "lectureSource": "CV22: Cardiac Action Potentials"
+    "lectureSource": "CV22: Cardiac Action Potentials",
+    "pdfLecture": "CV22",
+    "pdfPage": 14,
+    "pdfQuote": "Electrolytes Homeostasis"
   },
   {
     "id": 32,
@@ -970,7 +1060,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Valves are opened and closed by PRESSURE GRADIENTS. Isovolumetric CONTRACTION runs from mitral closure (S1) to aortic opening, with rising pressure at constant end-diastolic volume and peak dP/dt. Isovolumetric RELAXATION runs from aortic closure (S2) to mitral opening, with falling pressure at constant end-systolic volume.",
-    "lectureSource": "CV28: Cardiac Cycle Part I"
+    "lectureSource": "CV28: Cardiac Cycle Part I",
+    "pdfLecture": "CV28",
+    "pdfPage": 17,
+    "pdfQuote": "Ventricular systole: Isovolumetric Contraction Phase"
   },
   {
     "id": 33,
@@ -1000,7 +1093,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Global inversion in lead I with an UPRIGHT aVR is either arm lead reversal or dextrocardia. The PRECORDIAL leads separate them: normal R wave progression means lead reversal, reversed or poor progression means dextrocardia. aVR should normally be negative, since it looks at the heart from the right shoulder.",
-    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals"
+    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals",
+    "pdfLecture": "CV26",
+    "pdfPage": 27,
+    "pdfQuote": "I=1 L=RA to LA (Right Arm to Left Arm)"
   },
   {
     "id": 34,
@@ -1030,7 +1126,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Loop diuretic OTOTOXICITY comes from NKCC1 inhibition in the stria vascularis and depends on PEAK concentration. Give large doses slowly (under about 4 mg/min) or as an infusion, and beware renal failure and concurrent aminoglycosides. Ethacrynic acid is the most ototoxic and is reserved for true sulfa allergy.",
-    "lectureSource": "CV30: Diuretic Agents Part 1"
+    "lectureSource": "CV30: Diuretic Agents Part 1",
+    "pdfLecture": "CV30",
+    "pdfPage": 44,
+    "pdfQuote": "Ototoxicity (inhibition of NKCC1 in the inner ear disrupt endolymph K+ balance"
   },
   {
     "id": 35,
@@ -1060,7 +1159,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Purkinje conduction is 2-4 m/s; myocyte-to-myocyte spread is 0.3-1 m/s. Bundle branch block forces the slow route, so QRS exceeds 120 ms. LBBB gives a broad monophasic R in I, aVL, V6 with QS in V1; RBBB gives rSR in V1 with a wide S in I and V6. LBBB also causes mechanical dyssynchrony, the basis for resynchronization therapy.",
-    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control"
+    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control",
+    "pdfLecture": "CV23",
+    "pdfPage": 22,
+    "pdfQuote": "Bundle branch block can be"
   },
   {
     "id": 36,
@@ -1090,7 +1192,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Both classes block L-type channels, but DIHYDROPYRIDINES (amlodipine, nifedipine) prefer the depolarized/inactivated channels of vascular smooth muscle and are pure vasodilators, while NON-DIHYDROPYRIDINES (verapamil, diltiazem) bind use-dependently to fast-cycling nodal and myocardial channels, giving rate control and negative inotropy.",
-    "lectureSource": "CV25: Vascular Smooth Muscle Cells"
+    "lectureSource": "CV25: Vascular Smooth Muscle Cells",
+    "pdfLecture": "CV25",
+    "pdfPage": 25,
+    "pdfQuote": "Amlodipine"
   },
   {
     "id": 37,
@@ -1120,7 +1225,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Facial bones follow cranial rules: PAIRED bones (maxillae, zygomata, palatines) externally rotate in flexion. The maxillary ostium sits HIGH on the medial wall, so drainage depends on mucociliary transport and ostial patency, not gravity. Treatment targets ostiomeatal congestion and venous and lymphatic drainage as an adjunct to medical care.",
-    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts"
+    "lectureSource": "CV21: Cranial Strain Patterns, Condylar Decompression and Lifts",
+    "pdfLecture": "CV21",
+    "pdfPage": 29,
+    "pdfQuote": "The maxillary sinus is"
   },
   {
     "id": 38,
@@ -1150,7 +1258,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Aortic stenosis causes angina with NORMAL coronaries. Demand rises (more mass, higher pressure), supply falls (subendocardial perfusion pressure equals aortic diastolic minus LV diastolic pressure, and capillary density lags hypertrophy). Angina, syncope, and heart failure are the triad; each marks a steep drop in survival without valve replacement.",
-    "lectureSource": "CV29: Cardiac Cycle Part II"
+    "lectureSource": "CV29: Cardiac Cycle Part II",
+    "pdfLecture": "CV29",
+    "pdfPage": 26,
+    "pdfQuote": "Chronic hypertension leads to LV hypertrophy"
   },
   {
     "id": 39,
@@ -1180,7 +1291,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Anaphylaxis is DISTRIBUTIVE shock plus a leaky barrier. Histamine at endothelial H1 receptors releases NO (vasodilation, warm shock) and contracts the endothelial cell (gap formation, plasma leak, HEMOCONCENTRATION). Epinephrine reverses both arms; large-volume fluids are still needed.",
-    "lectureSource": "CV24: Vascular Endothelial Cells"
+    "lectureSource": "CV24: Vascular Endothelial Cells",
+    "pdfLecture": "CV24",
+    "pdfPage": 21,
+    "pdfQuote": "Bradykinin and histamine cause"
   },
   {
     "id": 40,
@@ -1210,7 +1324,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Lead territories: II, III, aVF equal inferior (RCA); V1-V2 septal and V3-V4 anterior (LAD); I, aVL, V5-V6 lateral (LCx). Reciprocal change appears in the opposite leads. Circumflex infarcts often look electrocardiographically quiet and threaten the papillary muscles, so listen for a new mitral murmur.",
-    "lectureSource": "CV27: EKG Introduction"
+    "lectureSource": "CV27: EKG Introduction",
+    "pdfLecture": "CV27",
+    "pdfPage": 9,
+    "pdfQuote": "L= lateral; V5-V6, I, aVL (LCX/LAD)"
   },
   {
     "id": 41,
@@ -1240,7 +1357,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: FAST response (atrial, ventricular, Purkinje) means abundant IK1, a stable -85 mV, sodium-driven phase 0 at 200-300 V/s, a phase 1 notch, and a plateau. SLOW response (SA and AV nodes) means little IK1, no stable resting potential, phase 4 drift on If, and CALCIUM-driven phase 0 at 1-10 V/s with no notch or plateau.",
-    "lectureSource": "CV22: Cardiac Action Potentials"
+    "lectureSource": "CV22: Cardiac Action Potentials",
+    "pdfLecture": "CV22",
+    "pdfPage": 8,
+    "pdfQuote": "Phase 0"
   },
   {
     "id": 42,
@@ -1270,7 +1390,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Both potassium-sparing classes cut ENaC-driven sodium entry and therefore the lumen-negative potential that drives potassium secretion. MRAs (spironolactone, eplerenone) block the receptor and need aldosterone to be present; ENaC blockers (amiloride, triamterene) plug the channel and work regardless of aldosterone, which is why they suit Liddle syndrome and lithium-induced nephrogenic DI.",
-    "lectureSource": "CV31: Diuretic Agents Part 2"
+    "lectureSource": "CV31: Diuretic Agents Part 2",
+    "pdfLecture": "CV31",
+    "pdfPage": 34,
+    "pdfQuote": "What is the mechanism for the potassium -sparing effect of ENaC inhibitors and MR"
   },
   {
     "id": 43,
@@ -1300,7 +1423,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The MYOGENIC (Bayliss) response is intrinsic to smooth muscle and needs no endothelium or nerves: stretch opens mechanosensitive channels, the cell depolarizes, voltage-gated calcium enters, and the vessel constricts. It underlies autoregulation of cerebral, coronary, and renal flow and protects the glomerulus from pressure surges.",
-    "lectureSource": "CV25: Vascular Smooth Muscle Cells"
+    "lectureSource": "CV25: Vascular Smooth Muscle Cells",
+    "pdfLecture": "CV25",
+    "pdfPage": 14,
+    "pdfQuote": "response to changes in intraluminal pressure."
   },
   {
     "id": 44,
@@ -1330,7 +1456,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: SV = EDV - ESV; EF = SV / EDV; CO = SV x HR. A dilated ventricle can hold cardiac output normal at a terrible ejection fraction, but Laplace makes it pay in wall stress and oxygen demand. EF is load-dependent yet prognostically powerful, and therapy targets remodeling rather than acute output.",
-    "lectureSource": "CV29: Cardiac Cycle Part II"
+    "lectureSource": "CV29: Cardiac Cycle Part II",
+    "pdfLecture": "CV29",
+    "pdfPage": 23,
+    "pdfQuote": "Ejection Fraction (EF;  %)"
   },
   {
     "id": 45,
@@ -1360,7 +1489,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Pacemaker hierarchy is SA node 60-100, AV junction 40-60, His-Purkinje and ventricle 20-40, with the fastest suppressing the rest (overdrive suppression). In complete heart block, P waves march independently of QRS complexes; a NARROW escape at 40-60 is junctional and relatively stable, a WIDE escape at 20-40 is infranodal and unreliable, so pace it.",
-    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control"
+    "lectureSource": "CV23: Cardiac Impulse Conduction and Autonomic Control",
+    "pdfLecture": "CV23",
+    "pdfPage": 10,
+    "pdfQuote": "Cardiac pacemaker hierarchy"
   },
   {
     "id": 46,
@@ -1390,7 +1522,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: SUBENDOCARDIAL ischemia gives ST DEPRESSION (vector points away from the electrode) and does not localize well. TRANSMURAL injury gives ST ELEVATION in the leads over the affected wall (vector points toward the electrode) and does localize. Horizontal or downsloping depression of 1 mm or more at peak exercise is a positive stress test.",
-    "lectureSource": "CV27: EKG Introduction"
+    "lectureSource": "CV27: EKG Introduction",
+    "pdfLecture": "CV27",
+    "pdfPage": 32,
+    "pdfQuote": "Elevation or depression represents either ischemia or injury"
   },
   {
     "id": 47,
@@ -1420,7 +1555,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Renal prostaglandins dilate the afferent arteriole precisely when angiotensin II and sympathetic tone are high, and they mediate part of the loop diuretic response and stimulate renin. NSAIDs remove all three, causing acute kidney injury, diuretic resistance, and hyperkalemia. Avoid them in cirrhosis, heart failure, CKD, and volume depletion.",
-    "lectureSource": "CV30: Diuretic Agents Part 1"
+    "lectureSource": "CV30: Diuretic Agents Part 1",
+    "pdfLecture": "CV30",
+    "pdfPage": 21,
+    "pdfQuote": "Influence of Prostaglandins on Diuretic Efficacy and Inhibition by NSAIDs"
   },
   {
     "id": 48,
@@ -1450,7 +1588,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The ECG records the summed vector projected onto each lead axis, so anything between heart and electrode attenuates it: effusion, obesity, emphysema, myxedema, amyloid. DIFFUSE LOW VOLTAGE plus ELECTRICAL ALTERNANS (the heart swinging in fluid) means a large pericardial effusion; add tamponade physiology and it is an emergency.",
-    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals"
+    "lectureSource": "CV26: Basic ECG - Leads, Vectors and Intervals",
+    "pdfLecture": "CV26",
+    "pdfPage": 25,
+    "pdfQuote": "Orientation of the Heart: How this"
   },
   {
     "id": 49,
@@ -1480,7 +1621,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Flow-mediated dilation tests the ENDOTHELIUM (shear stress, eNOS, NO); nitroglycerin tests the SMOOTH MUSCLE (exogenous NO donor). Blunted FMD with preserved nitroglycerin response equals endothelial dysfunction, the earliest reversible stage of vascular disease, driven by oxidative stress from diabetes, hypertension, smoking, and dyslipidemia.",
-    "lectureSource": "CV24: Vascular Endothelial Cells"
+    "lectureSource": "CV24: Vascular Endothelial Cells",
+    "pdfLecture": "CV24",
+    "pdfPage": 39,
+    "pdfQuote": "Clinical Assessment of"
   },
   {
     "id": 50,
@@ -1510,7 +1654,10 @@ const Test_Cumulative_CPR_Wk3 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Mitral stenosis gives a loud S1, an opening snap, and a diastolic rumble with presystolic accentuation. A SHORTER S2-to-snap interval means MORE severe stenosis. Presystolic accentuation requires atrial contraction and disappears in atrial fibrillation, which these patients develop readily and which sharply raises embolic risk.",
-    "lectureSource": "CV28: Cardiac Cycle Part I"
+    "lectureSource": "CV28: Cardiac Cycle Part I",
+    "pdfLecture": "CV28",
+    "pdfPage": 11,
+    "pdfQuote": "Atrial contraction contributes to about 10 ml (out of about 140 ml) of LV blood"
   }
 ];
 

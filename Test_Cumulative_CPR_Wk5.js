@@ -72,7 +72,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The level of prevention is defined by the PATIENT'S disease state, not by the intervention itself. Identical exercise counseling is PRIMARY prevention in a healthy adult and TERTIARY prevention after a myocardial infarction.",
-    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication"
+    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication",
+    "pdfLecture": "CV43",
+    "pdfPage": 3,
+    "pdfQuote": "https://www.cdc.gov/pictureofamerica/pdfs/picture_of_america_prevention.pdf"
   },
   {
     "id": 3,
@@ -102,7 +105,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The RIGHT main bronchus is wider, shorter, and more vertical, so aspirated material goes right; SUPINE aspiration lands in the superior segment of the right LOWER lobe or the posterior segment of the right UPPER lobe, while UPRIGHT aspiration lands in the basal segments.",
-    "lectureSource": "CV44: Pulmonary Anatomy and Histology"
+    "lectureSource": "CV44: Pulmonary Anatomy and Histology",
+    "pdfLecture": "CV44",
+    "pdfPage": 9,
+    "pdfQuote": "Primary bronchi enter the lung after which they"
   },
   {
     "id": 4,
@@ -132,7 +138,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Spirometry measures only gas that moves through the mouth, so every volume containing RESIDUAL VOLUME (RV, FRC, TLC) needs helium dilution, nitrogen washout, or body plethysmography; dilution methods measure only COMMUNICATING gas and underestimate volumes when air is trapped, while plethysmography counts all thoracic gas.",
-    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology"
+    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology",
+    "pdfLecture": "CV45",
+    "pdfPage": 17,
+    "pdfQuote": "An indirect method to measure the residual volume. Essential to know"
   },
   {
     "id": 5,
@@ -162,7 +171,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Quiet inspiration is ACTIVE (diaphragm plus external intercostals) and quiet expiration is PASSIVE elastic recoil; forced breathing adds the sternocleidomastoid and scalenes to inspiration and makes expiration ACTIVE via the abdominal muscles and internal intercostals.",
-    "lectureSource": "CV46: Lung Mechanics and Pressures"
+    "lectureSource": "CV46: Lung Mechanics and Pressures",
+    "pdfLecture": "CV46",
+    "pdfPage": 13,
+    "pdfQuote": "In resting breathing, inspiration is active,"
   },
   {
     "id": 6,
@@ -192,7 +204,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Total airway cross-sectional area explodes at about generation 17, so bulk gas velocity falls to near zero and DIFFUSION takes over; cilia stop at the terminal bronchiole, so anything deposited beyond it is cleared by MACROPHAGES.",
-    "lectureSource": "CV47: Airways and Pulmonary Blood Flow"
+    "lectureSource": "CV47: Airways and Pulmonary Blood Flow",
+    "pdfLecture": "CV47",
+    "pdfPage": 5,
+    "pdfQuote": "Respiratory Tree"
   },
   {
     "id": 7,
@@ -222,7 +237,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: DLCO falls whenever Fick variables move against you, but the pattern tells you why. Fibrosis THICKENS the membrane with restriction, emphysema DESTROYS surface area with obstruction, and anemia lowers uptake with normal spirometry.",
-    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane"
+    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane",
+    "pdfLecture": "CV48",
+    "pdfPage": 7,
+    "pdfQuote": "A = Surface area"
   },
   {
     "id": 8,
@@ -252,7 +270,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Zone 1 lung is VENTILATED BUT NOT PERFUSED and is therefore alveolar dead space; it is normally trivial, but positive pressure ventilation raising alveolar pressure plus hemorrhage lowering pulmonary arterial pressure expands it, widening the arterial to end-tidal PCO2 gradient.",
-    "lectureSource": "CV49: Pulmonary Circulation"
+    "lectureSource": "CV49: Pulmonary Circulation",
+    "pdfLecture": "CV49",
+    "pdfPage": 18,
+    "pdfQuote": "Increase in alveolar pressure &"
   },
   {
     "id": 9,
@@ -282,7 +303,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Acid, carbon dioxide, heat, and 2,3-BPG shift the oxyhemoglobin curve RIGHT and raise P50, favoring tissue UNLOADING; alkalosis, hypothermia, fetal hemoglobin, and stored blood low in 2,3-BPG shift it LEFT and hold oxygen on.",
-    "lectureSource": "CV50: Transport of Gases in Blood"
+    "lectureSource": "CV50: Transport of Gases in Blood",
+    "pdfLecture": "CV50",
+    "pdfPage": 12,
+    "pdfQuote": "Changes in the O2-Hemoglobin Dissociation"
   },
   {
     "id": 10,
@@ -312,7 +336,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Emphysema RAISES compliance and shifts the pressure-volume curve up and to the left with a HIGHER FRC, while fibrosis LOWERS compliance and shifts it down and to the right with a LOWER FRC; compliance is the slope of the curve, and FRC is simply the volume where lung inward recoil balances chest wall outward recoil.",
-    "lectureSource": "CV51: Lung Mechanics"
+    "lectureSource": "CV51: Lung Mechanics",
+    "pdfLecture": "CV51",
+    "pdfPage": 14,
+    "pdfQuote": "Diseases Affecting Lung Compliance"
   },
   {
     "id": 11,
@@ -342,7 +369,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: In the upright lung both ventilation and perfusion increase toward the base, but PERFUSION increases more, so V/Q is HIGHEST at the apex, giving the apex high alveolar oxygen and low alveolar carbon dioxide.",
-    "lectureSource": "CV52: Ventilation-Perfusion Relationships"
+    "lectureSource": "CV52: Ventilation-Perfusion Relationships",
+    "pdfLecture": "CV52",
+    "pdfPage": 13,
+    "pdfQuote": "Natural regional differences in lungs"
   },
   {
     "id": 12,
@@ -372,7 +402,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: CENTRAL chemoreceptors sensing cerebrospinal fluid hydrogen ion generated from CO2 set ventilation minute to minute, while the carotid body HYPOXIC DRIVE stays nearly silent until arterial PO2 falls below about 60 mmHg.",
-    "lectureSource": "CV53: Control Mechanisms of Respiration"
+    "lectureSource": "CV53: Control Mechanisms of Respiration",
+    "pdfLecture": "CV53",
+    "pdfPage": 8,
+    "pdfQuote": "Decreases in pH (carotid bodies only)"
   },
   {
     "id": 13,
@@ -402,7 +435,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: VO2 max equals cardiac output times the arteriovenous oxygen difference, and in both healthy people and heart failure the CENTRAL term, maximal cardiac output, is the usual ceiling; a NARROW peak arteriovenous difference instead points to a peripheral or mitochondrial problem.",
-    "lectureSource": "CV54: Introduction to Exercise Physiology"
+    "lectureSource": "CV54: Introduction to Exercise Physiology",
+    "pdfLecture": "CV54",
+    "pdfPage": 36,
+    "pdfQuote": "Arteriovenous Oxygen Difference"
   },
   {
     "id": 14,
@@ -462,7 +498,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Work the FOUR statin benefit groups in order (clinical ASCVD, LDL 190 or greater, diabetes age 40 to 75, then calculated 10-year risk). Only the last group needs the pooled cohort equation: 7.5 to under 20 percent gets MODERATE intensity, 20 percent or greater gets HIGH intensity.",
-    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication"
+    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication",
+    "pdfLecture": "CV43",
+    "pdfPage": 30,
+    "pdfQuote": "ASCVD 10-year Risk >7.5%-9.9% consider with discussion"
   },
   {
     "id": 16,
@@ -492,7 +531,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Tap pleural fluid in the COSTODIAPHRAGMATIC recess and pass the needle ABOVE the lower rib to spare the neurovascular bundle in the costal groove; PARIETAL pleura is somatically innervated (sharp pain, phrenic referral to the shoulder tip) while VISCERAL pleura is pain insensitive.",
-    "lectureSource": "CV44: Pulmonary Anatomy and Histology"
+    "lectureSource": "CV44: Pulmonary Anatomy and Histology",
+    "pdfLecture": "CV44",
+    "pdfPage": 26,
+    "pdfQuote": "walls of the thoracic cage is called the parietal pleura, The space enclosed between"
   },
   {
     "id": 17,
@@ -522,7 +564,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: A low FVC with a NORMAL OR HIGH FEV1 to FVC ratio signals restriction, but only a reduced TOTAL LUNG CAPACITY confirms it; obstruction requires a ratio below about 0.70, and a low FEV1 alone proves nothing.",
-    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology"
+    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology",
+    "pdfLecture": "CV45",
+    "pdfPage": 24,
+    "pdfQuote": "The compliance of the lung is reduced,"
   },
   {
     "id": 18,
@@ -552,7 +597,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Intrapleural pressure is normally NEGATIVE because lung and chest wall recoil in opposite directions; in a tension pneumothorax a one way valve drives it POSITIVE, collapsing the lung, shifting the mediastinum away, and obstructing venous return.",
-    "lectureSource": "CV46: Lung Mechanics and Pressures"
+    "lectureSource": "CV46: Lung Mechanics and Pressures",
+    "pdfLecture": "CV46",
+    "pdfPage": 21,
+    "pdfQuote": "Negative Intrapleural Pressure"
   },
   {
     "id": 19,
@@ -582,7 +630,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Airway tone is vagal M3 constriction versus beta-2 relaxation; a NONSELECTIVE beta blocker, even as an eye drop, leaves cholinergic tone UNOPPOSED, and an antimuscarinic such as ipratropium works when albuterol cannot.",
-    "lectureSource": "CV47: Airways and Pulmonary Blood Flow"
+    "lectureSource": "CV47: Airways and Pulmonary Blood Flow",
+    "pdfLecture": "CV47",
+    "pdfPage": 8,
+    "pdfQuote": "Autonomic Regulation of Respiratory"
   },
   {
     "id": 20,
@@ -612,7 +663,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Nitrous oxide is purely PERFUSION limited, carbon monoxide is purely DIFFUSION limited because hemoglobin keeps its gradient wide open, and oxygen is normally perfusion limited but becomes diffusion limited when the membrane thickens, transit time shortens, or alveolar oxygen tension falls.",
-    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane"
+    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane",
+    "pdfLecture": "CV48",
+    "pdfPage": 12,
+    "pdfQuote": "Most CO not free as it immediately bids to Hgb ->Does not partake in pressure gradient"
   },
   {
     "id": 21,
@@ -642,7 +696,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Hypoxic pulmonary vasoconstriction is a LOCAL response of pulmonary arterial smooth muscle to low ALVEOLAR PO2; it is protective when hypoxia is regional because it matches perfusion to ventilation, but when hypoxia is global as in chronic lung disease or altitude it constricts the whole bed and causes pulmonary hypertension and cor pulmonale.",
-    "lectureSource": "CV49: Pulmonary Circulation"
+    "lectureSource": "CV49: Pulmonary Circulation",
+    "pdfLecture": "CV49",
+    "pdfPage": 24,
+    "pdfQuote": "Hypoxic Vasoconstriction"
   },
   {
     "id": 22,
@@ -672,7 +729,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: In anemia the PaO2 and the SaO2 are NORMAL while oxygen CONTENT and delivery are low; saturation reports what fraction of the hemoglobin present is loaded, never how much hemoglobin there is.",
-    "lectureSource": "CV50: Transport of Gases in Blood"
+    "lectureSource": "CV50: Transport of Gases in Blood",
+    "pdfLecture": "CV50",
+    "pdfPage": 8,
+    "pdfQuote": "The normal concentration of hemoglobin A in blood is 15 g/100 mL"
   },
   {
     "id": 23,
@@ -702,7 +762,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: The MEDIUM-sized bronchi of roughly the FOURTH through EIGHTH generations are the site of greatest airway resistance, because the small airways sit in PARALLEL and their vast combined cross-sectional area makes their summed resistance trivial; resistance falls as lung volume rises (radial traction) and falls with low-density heliox (less turbulent central flow).",
-    "lectureSource": "CV51: Lung Mechanics"
+    "lectureSource": "CV51: Lung Mechanics",
+    "pdfLecture": "CV51",
+    "pdfPage": 17,
+    "pdfQuote": "Air Flow, Pressure, and Resistance Relationships"
   },
   {
     "id": 24,
@@ -732,7 +795,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Hypoxemia from V/Q mismatch CORRECTS with 100 percent oxygen, while hypoxemia from a true shunt does NOT, because shunted blood never contacts ventilated alveoli.",
-    "lectureSource": "CV52: Ventilation-Perfusion Relationships"
+    "lectureSource": "CV52: Ventilation-Perfusion Relationships",
+    "pdfLecture": "CV52",
+    "pdfPage": 5,
+    "pdfQuote": "Example of a Non-Physiologic Right-to-Left Shunt"
   },
   {
     "id": 25,
@@ -762,7 +828,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Oxygen induced hypercapnia in severe COPD comes mostly from INCREASED DEAD SPACE after hypoxic pulmonary vasoconstriction is released and from the HALDANE effect, not from loss of hypoxic drive; titrate to a saturation of 88 to 92 percent rather than withholding oxygen.",
-    "lectureSource": "CV53: Control Mechanisms of Respiration"
+    "lectureSource": "CV53: Control Mechanisms of Respiration",
+    "pdfLecture": "CV53",
+    "pdfPage": 12,
+    "pdfQuote": "Causing Pulmonary Hypoxic Vasoconstriction; Remember Why?"
   },
   {
     "id": 26,
@@ -792,7 +861,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: At the anaerobic threshold, BICARBONATE buffering of lactic acid generates extra carbon dioxide, so VCO2 and ventilation rise out of proportion to VO2; a threshold occurring at a HIGHER percentage of VO2 max indicates better aerobic fitness.",
-    "lectureSource": "CV54: Introduction to Exercise Physiology"
+    "lectureSource": "CV54: Introduction to Exercise Physiology",
+    "pdfLecture": "CV54",
+    "pdfPage": 26,
+    "pdfQuote": "Lactate Threshold/Anaerobic"
   },
   {
     "id": 27,
@@ -852,7 +924,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: In an osteopathic SOAP note the structural EXAM findings are objective, somatic dysfunction is a DIAGNOSIS in the assessment, and the OMT technique plus post-treatment recheck go in the plan. The assessment must argue a diagnosis, not merely relist the problems.",
-    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication"
+    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication",
+    "pdfLecture": "CV43",
+    "pdfPage": 25,
+    "pdfQuote": "OSE: L rib 5-10 inhalation somatic dysfunction"
   },
   {
     "id": 29,
@@ -882,7 +957,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: TYPE II pneumocytes store surfactant in LAMELLAR BODIES and serve as alveolar stem cells, while TYPE I pneumocytes form 95 percent of the surface area and the 0.2 to 0.5 micrometer blood-air barrier of epithelium, fused basal laminae, and endothelium; dipalmitoylphosphatidylcholine is the key surface-tension-lowering phospholipid.",
-    "lectureSource": "CV44: Pulmonary Anatomy and Histology"
+    "lectureSource": "CV44: Pulmonary Anatomy and Histology",
+    "pdfLecture": "CV44",
+    "pdfPage": 18,
+    "pdfQuote": "allow blood-air barrier"
   },
   {
     "id": 30,
@@ -912,7 +990,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Pulmonary embolism creates ALVEOLAR dead space (ventilation without perfusion), so physiologic dead space greatly exceeds anatomic dead space and the arterial minus end tidal CO2 gradient widens; alveolar ventilation equals rate times (tidal volume minus dead space), so rising dead space forces minute ventilation up.",
-    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology"
+    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology",
+    "pdfLecture": "CV45",
+    "pdfPage": 32,
+    "pdfQuote": "Alveolar Dead Space"
   },
   {
     "id": 31,
@@ -942,7 +1023,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Transpulmonary pressure equals ALVEOLAR minus INTRAPLEURAL pressure and is the only true distending pressure of the lung; it stays positive even at end expiration when airflow and alveolar pressure are both zero.",
-    "lectureSource": "CV46: Lung Mechanics and Pressures"
+    "lectureSource": "CV46: Lung Mechanics and Pressures",
+    "pdfLecture": "CV46",
+    "pdfPage": 34,
+    "pdfQuote": "Transpulmonary pressure is (elastic recoil"
   },
   {
     "id": 32,
@@ -972,7 +1056,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Collapsing pressure equals two times tension divided by radius, so without surfactant SMALL alveoli empty into LARGE ones; surfactant lowers tension more as the alveolus shrinks, which raises compliance, stabilizes alveoli, and keeps fluid out of the airspace.",
-    "lectureSource": "CV47: Airways and Pulmonary Blood Flow"
+    "lectureSource": "CV47: Airways and Pulmonary Blood Flow",
+    "pdfLecture": "CV47",
+    "pdfPage": 18,
+    "pdfQuote": "long as the surface tension is"
   },
   {
     "id": 33,
@@ -1002,7 +1089,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Alveolar oxygen tension equals the fraction of inspired oxygen times barometric pressure minus 47, minus arterial carbon dioxide tension divided by 0.8. Hypoventilation lowers alveolar oxygen with a NORMAL alveolar to arterial gradient, whereas altitude lowers it by dropping barometric pressure and diffusion or shunt disease WIDENS the gradient.",
-    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane"
+    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane",
+    "pdfLecture": "CV48",
+    "pdfPage": 11,
+    "pdfQuote": "Bronchial blood flow and a"
   },
   {
     "id": 34,
@@ -1032,7 +1122,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Pulmonary vascular resistance FALLS as cardiac output rises through RECRUITMENT of closed capillaries and DISTENSION of open ones; remember also that alveolar vessels are squeezed at high lung volumes while extra-alveolar vessels are pulled open, making total pulmonary vascular resistance lowest at functional residual capacity.",
-    "lectureSource": "CV49: Pulmonary Circulation"
+    "lectureSource": "CV49: Pulmonary Circulation",
+    "pdfLecture": "CV49",
+    "pdfPage": 6,
+    "pdfQuote": "No significant effect on pulmonary"
   },
   {
     "id": 35,
@@ -1062,7 +1155,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Carbon dioxide moves as bicarbonate about 70 percent, carbamino hemoglobin about 23 percent, and dissolved about 7 percent; DEOXYgenated hemoglobin carries more carbon dioxide and buffers more protons, the HALDANE effect, and in tissue capillaries bicarbonate leaves the red cell while chloride enters.",
-    "lectureSource": "CV50: Transport of Gases in Blood"
+    "lectureSource": "CV50: Transport of Gases in Blood",
+    "pdfLecture": "CV50",
+    "pdfPage": 16,
+    "pdfQuote": "Deoxyhemoglobin binds CO2 More Readily"
   },
   {
     "id": 36,
@@ -1092,7 +1188,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Pursed-lip breathing adds resistance at the MOUTH, which keeps intraluminal airway pressure high and moves the equal pressure point DOWNSTREAM toward cartilage-supported airways, shortening the dynamically compressed segment and reducing air trapping in emphysema.",
-    "lectureSource": "CV51: Lung Mechanics"
+    "lectureSource": "CV51: Lung Mechanics",
+    "pdfLecture": "CV51",
+    "pdfPage": 22,
+    "pdfQuote": "Transmural pressure"
   },
   {
     "id": 37,
@@ -1152,7 +1251,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Cheyne-Stokes respiration in heart failure is a FEEDBACK LOOP instability from prolonged circulation time delaying CO2 information to the central chemoreceptors combined with high chemoreflex gain, and the apnea occurs when overshoot drives PaCO2 below the APNEIC THRESHOLD.",
-    "lectureSource": "CV53: Control Mechanisms of Respiration"
+    "lectureSource": "CV53: Control Mechanisms of Respiration",
+    "pdfLecture": "CV53",
+    "pdfPage": 10,
+    "pdfQuote": "Diagnostic Analysis of Breathing Patterns"
   },
   {
     "id": 39,
@@ -1182,7 +1284,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Endurance training lowers resting heart rate mainly by RAISING vagal tone while a larger stroke volume holds resting cardiac output constant; peak VO2 improves from BOTH a higher maximal cardiac output and greater skeletal muscle capillary and mitochondrial density.",
-    "lectureSource": "CV54: Introduction to Exercise Physiology"
+    "lectureSource": "CV54: Introduction to Exercise Physiology",
+    "pdfLecture": "CV54",
+    "pdfPage": 51,
+    "pdfQuote": "and reduced stroke volume augmentation during exercise."
   },
   {
     "id": 40,
@@ -1242,7 +1347,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: A patient who is ambivalent and thinking about quitting within months is in CONTEMPLATION, where the tool is a reflection that voices both sides, not a quit date. Setting a date and prescribing pharmacotherapy belongs to PREPARATION, roughly a thirty-day horizon.",
-    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication"
+    "lectureSource": "CV43: Cardiac Prevention and Clinical Communication",
+    "pdfLecture": "CV43",
+    "pdfPage": 41,
+    "pdfQuote": "Patient may not be ready or willing to change."
   },
   {
     "id": 42,
@@ -1272,7 +1380,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The respiratory diverticulum buds off the VENTRAL FOREGUT and is separated from the esophagus by the tracheoesophageal septum; esophageal atresia with a DISTAL fistula gives polyhydramnios, a coiled nasogastric tube, and a GAS-FILLED abdomen, whereas pure atresia gives a GASLESS abdomen.",
-    "lectureSource": "CV44: Pulmonary Anatomy and Histology"
+    "lectureSource": "CV44: Pulmonary Anatomy and Histology",
+    "pdfLecture": "CV44",
+    "pdfPage": 11,
+    "pdfQuote": "wall of primordial pharynx (foregut)."
   },
   {
     "id": 43,
@@ -1302,7 +1413,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: FRC is the volume where outward CHEST WALL recoil exactly balances inward LUNG recoil; it FALLS with obesity, supine posture, anesthesia with paralysis, and fibrosis, and RISES with emphysema, and a low FRC means a small oxygen reservoir and rapid desaturation during apnea.",
-    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology"
+    "lectureSource": "CV45: Basic Concepts in Respiratory Physiology",
+    "pdfLecture": "CV45",
+    "pdfPage": 13,
+    "pdfQuote": "Pregnancy"
   },
   {
     "id": 44,
@@ -1332,7 +1446,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Alveolar ventilation equals rate times (tidal volume minus DEAD SPACE), so rapid shallow breathing can keep minute ventilation normal while alveolar ventilation and PaCO2 both deteriorate; PaCO2 is inversely proportional to ALVEOLAR, not minute, ventilation.",
-    "lectureSource": "CV46: Lung Mechanics and Pressures"
+    "lectureSource": "CV46: Lung Mechanics and Pressures",
+    "pdfLecture": "CV46",
+    "pdfPage": 6,
+    "pdfQuote": "Pulmonary and Alveolar Ventilation"
   },
   {
     "id": 45,
@@ -1362,7 +1479,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The bronchial arteries feed the airways from the SYSTEMIC circulation, and because deep bronchial and thebesian veins empty into the LEFT heart, everyone carries a 2 to 3 percent anatomic right-to-left shunt that 100 percent oxygen cannot correct.",
-    "lectureSource": "CV47: Airways and Pulmonary Blood Flow"
+    "lectureSource": "CV47: Airways and Pulmonary Blood Flow",
+    "pdfLecture": "CV47",
+    "pdfPage": 16,
+    "pdfQuote": "Heads-Up on Shunts"
   },
   {
     "id": 46,
@@ -1392,7 +1512,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Oxygen normally has a threefold diffusion RESERVE, equilibrating in 0.25 of the 0.75 second capillary transit. Exercise shortens transit and altitude flattens the driving gradient, so the two together convert a perfusion limited gas into a DIFFUSION limited one even in normal lungs.",
-    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane"
+    "lectureSource": "CV48: Gas Diffusion and the Respiratory Membrane",
+    "pdfLecture": "CV48",
+    "pdfPage": 13,
+    "pdfQuote": "O2 Diffusion Limited by Pathology & High Altitude"
   },
   {
     "id": 47,
@@ -1422,7 +1545,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Cardiogenic pulmonary edema begins when capillary hydrostatic pressure, estimated by the WEDGE PRESSURE, outruns plasma oncotic pressure and maximal lymphatic drainage; interstitial edema appears above roughly 18 to 20 mm Hg and frank ALVEOLAR flooding above roughly 25 mm Hg, whereas permeability edema characteristically occurs with a normal or low filling pressure (wedge typically at or below 18 mm Hg), although the current Berlin definition no longer uses a wedge cutoff and instead requires that the edema not be fully explained by cardiac failure or volume overload.",
-    "lectureSource": "CV49: Pulmonary Circulation"
+    "lectureSource": "CV49: Pulmonary Circulation",
+    "pdfLecture": "CV49",
+    "pdfPage": 22,
+    "pdfQuote": "Pulmonary Edema - Starling Equation"
   },
   {
     "id": 48,
@@ -1452,7 +1578,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Pulse oximetry reads FALSELY NORMAL in carbon monoxide poisoning because carboxyhemoglobin mimics oxyhemoglobin at 660 nanometers, while methemoglobinemia pins the reading near 85 percent; only CO-OXIMETRY reports true fractional saturations.",
-    "lectureSource": "CV50: Transport of Gases in Blood"
+    "lectureSource": "CV50: Transport of Gases in Blood",
+    "pdfLecture": "CV50",
+    "pdfPage": 11,
+    "pdfQuote": "Pulse Oximetry:"
   },
   {
     "id": 49,
@@ -1482,7 +1611,10 @@ const Test_Cumulative_CPR_Wk5 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Surfactant deficiency RAISES alveolar surface tension, and by the law of Laplace (pressure equals 2 times tension divided by radius) the SMALLEST alveoli collapse first; the result is microatelectasis, LOW compliance, shunt-type hypoxemia, and greatly increased work of breathing, which grunting partially offsets by generating auto-PEEP.",
-    "lectureSource": "CV51: Lung Mechanics"
+    "lectureSource": "CV51: Lung Mechanics",
+    "pdfLecture": "CV51",
+    "pdfPage": 15,
+    "pdfQuote": "Surface Tension of Alveoli"
   },
   {
     "id": 50,

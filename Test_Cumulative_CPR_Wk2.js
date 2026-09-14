@@ -38,7 +38,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: MAP = DBP + 1/3 (pulse pressure), because about two thirds of the cardiac cycle is diastole. Pulse pressure = SBP - DBP and reflects stroke volume divided by arterial compliance. A WIDE pulse pressure with a normal MAP means a stiff aorta.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 27,
+    "pdfQuote": "Mean Arterial Pressure (MAP): 2 x Diastolic Pressure + Systolic Pressure"
   },
   {
     "id": 2,
@@ -68,7 +71,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: HIGH anion gap plus HIGH osmolar gap equals toxic alcohol until proven otherwise. Calculated osm = 2Na + glucose/18 + BUN/2.8. Winter formula checks compensation: expected PaCO2 = 1.5 x HCO3 + 8 (plus or minus 2). Envelope-shaped oxalate crystals mean ethylene glycol.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 6,
+    "pdfQuote": "Metabolic Sources of Nonvolatile Acids & Bases"
   },
   {
     "id": 3,
@@ -98,7 +104,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The intercalated disc couples cardiac myocytes both ways. TRANSVERSE parts (fascia adherens, desmosomes) transmit force; LONGITUDINAL parts (gap junctions with connexins) transmit current, making the myocardium a functional syncytium. Desmosomal mutations cause ARVC.",
-    "lectureSource": "CV18: Histology of the Heart"
+    "lectureSource": "CV18: Histology of the Heart",
+    "pdfLecture": "CV18",
+    "pdfPage": 18,
+    "pdfQuote": "Intercalated discs join cells, help synchronize myocyte"
   },
   {
     "id": 4,
@@ -128,7 +137,9 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The five components of the Primary Respiratory Mechanism are CNS motility, CSF fluctuation, dural membrane mobility, cranial bone articular mobility, and involuntary sacral motion. Rate is about 10-14 per minute, independent of pulse and thoracic respiration.",
-    "lectureSource": "CV11: Osteopathy in the Cranial Field"
+    "lectureSource": "CV11: Osteopathy in the Cranial Field",
+    "pdfLecture": "CV11",
+    "pdfPage": 17
   },
   {
     "id": 5,
@@ -158,7 +169,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The medullary gradient is built by the COUNTERCURRENT MULTIPLIER, whose single effect is NKCC2-driven NaCl reabsorption in the water-impermeable thick ascending limb. Loop diuretics abolish it, so the urine becomes isosthenuric (about 300 mOsm/kg) no matter how much ADH is present.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 15,
+    "pdfQuote": "Countercurrent exchange can multiply this single effect to produce a 900 mOsm"
   },
   {
     "id": 6,
@@ -188,7 +202,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Baroreceptors fire MORE when stretched. Less stretch (hypotension) equals less CN IX and X afferent traffic to the NTS, which disinhibits sympathetic outflow and withdraws vagal tone: tachycardia, increased contractility, arteriolar and venous constriction. Fastest reflex, but it resets over days.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 13,
+    "pdfQuote": "Baroreceptor Reflex - Mechanism"
   },
   {
     "id": 7,
@@ -218,7 +235,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ELASTIC arteries (aorta, brachiocephalic, common carotid, pulmonary) have media packed with elastic lamellae and provide the Windkessel effect that sustains diastolic flow. MUSCULAR arteries have a smooth-muscle media and distribute flow. Losing aortic elastin widens pulse pressure and permits dissection.",
-    "lectureSource": "CV19: Histology of Vessels and Lymphatics"
+    "lectureSource": "CV19: Histology of Vessels and Lymphatics",
+    "pdfLecture": "CV19",
+    "pdfPage": 12,
+    "pdfQuote": "the wall of the large elastic arteries to distend."
   },
   {
     "id": 8,
@@ -248,7 +268,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Respiratory acidosis compensation is ACUTE, HCO3 rises about 1 per 10 mmHg of PaCO2 (buffering only), versus CHRONIC, HCO3 rises about 3.5-4 per 10 mmHg (renal ammoniagenesis and new bicarbonate over 3-5 days). A near-normal pH with a very high PaCO2 means chronic retention.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 15,
+    "pdfQuote": "3. Chronic respiratory acidosis: Upregulation of activities of apical NHE3 and basolateral"
   },
   {
     "id": 9,
@@ -278,7 +301,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Q is proportional to (P x r^4) / (8 x viscosity x L). RADIUS TO THE FOURTH POWER dominates everything. For resuscitation choose short and wide, not long and narrow; a 16-gauge peripheral line beats a long central line. The same term explains why small changes in arteriolar caliber control flow.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 22,
+    "pdfQuote": "b. Doubling the length of the intravenous catheter"
   },
   {
     "id": 10,
@@ -308,7 +334,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Cosm = (Uosm x V) / Posm, and CH2O = V - Cosm. POSITIVE free water clearance (dilute urine, ADH off) means water is being excreted. NEGATIVE (concentrated urine, ADH on) means water is being retained, which is what drives the hyponatremia in SIADH.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 8,
+    "pdfQuote": "Kidneys produce urine that is less concentrated than plasma (< 300 mOsm)"
   },
   {
     "id": 11,
@@ -338,7 +367,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: PHYSIOLOGIC SBS strains are torsion and sidebending rotation; NON-PHYSIOLOGIC are lateral strain, vertical strain, and compression (the last usually traumatic and the most symptomatic). Torsion is named for the side of the SUPERIOR greater wing.",
-    "lectureSource": "CV12: SBS Strain Patterns"
+    "lectureSource": "CV12: SBS Strain Patterns",
+    "pdfLecture": "CV12",
+    "pdfPage": 45,
+    "pdfQuote": "Sphenoid and occiput rotate in"
   },
   {
     "id": 12,
@@ -368,7 +400,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: CPP = MAP - ICP. The Cushing triad is HYPERTENSION plus BRADYCARDIA plus IRREGULAR RESPIRATION. The hypertension is the CNS ischemic response defending brain perfusion; the bradycardia is the baroreflex answering it. It is a late, ominous sign of impending herniation.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 20,
+    "pdfQuote": "CUSHING REFLEX TRIAD"
   },
   {
     "id": 13,
@@ -398,7 +433,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Net acid excretion = titratable acid (fixed, phosphate-limited) + ammonium (ADAPTABLE, upregulated over days) - excreted bicarbonate. A NEGATIVE urine anion gap means lots of urinary ammonium and a normal kidney; a POSITIVE one in acidosis means the kidney is the problem (RTA).",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 11,
+    "pdfQuote": "+ recycles back to the proximal tubule and thin"
   },
   {
     "id": 14,
@@ -428,7 +466,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Fibrous pericardium (dense collagen, non-compliant) plus serous pericardium (parietal and visceral/epicardial mesothelium) with 15-50 mL of fluid between them. RAPID accumulation of only 150-200 mL causes tamponade; slow accumulation can reach litres. Pulsus paradoxus reflects a fixed total volume.",
-    "lectureSource": "CV18: Histology of the Heart"
+    "lectureSource": "CV18: Histology of the Heart",
+    "pdfLecture": "CV18",
+    "pdfPage": 9,
+    "pdfQuote": "Pericardium"
   },
   {
     "id": 15,
@@ -458,7 +499,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Laplace, wall stress = (P x r) / (2h). PRESSURE overload adds sarcomeres in PARALLEL, giving concentric hypertrophy that raises h and normalizes stress. VOLUME overload adds sarcomeres in SERIES, giving eccentric dilation that raises r and therefore stress, feeding a vicious cycle.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 24,
+    "pdfQuote": "Why does the wall tension increase with the radius"
   },
   {
     "id": 16,
@@ -488,7 +532,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The loop of Henle is the countercurrent MULTIPLIER (active, creates the gradient). The vasa recta are the countercurrent EXCHANGER (passive, preserves it). Both depend on hairpin geometry and on LOW medullary blood flow; increase that flow and the gradient washes out.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 17,
+    "pdfQuote": "matched by salt leaving the medulla in ascending vasa recta (taking blood"
   },
   {
     "id": 17,
@@ -518,7 +565,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: CONTINUOUS (muscle, skin, lung, and the CNS with its blood-brain barrier) is least permeable. FENESTRATED (gut, endocrine, choroid plexus, glomerulus) allows rapid water and small solute flux. DISCONTINUOUS sinusoids (liver, spleen, bone marrow) let cells and proteins through.",
-    "lectureSource": "CV19: Histology of Vessels and Lymphatics"
+    "lectureSource": "CV19: Histology of Vessels and Lymphatics",
+    "pdfLecture": "CV19",
+    "pdfPage": 19,
+    "pdfQuote": "vesicles; pores/diaphragms"
   },
   {
     "id": 18,
@@ -548,7 +598,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Use URINE CHLORIDE to split metabolic alkalosis. Below 20 means saline-responsive (vomiting, nasogastric suction, remote diuretic, contraction) and is treated with saline plus potassium. Above 20 with hypertension means mineralocorticoid excess and is treated with aldosterone blockade, not saline.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 19,
+    "pdfQuote": "Chronic volume depletion increases aldosterone levels"
   },
   {
     "id": 19,
@@ -578,7 +631,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Fick, CO = VO2 / (CaO2 - CvO2). Watch the units: content in mL per 100 mL must be multiplied by 10 to give mL per litre. A WIDE arteriovenous difference means low cardiac output with high extraction; a NARROW one means high output, as in sepsis or an arteriovenous fistula.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 37,
+    "pdfQuote": "Cardiac Output - Calculations"
   },
   {
     "id": 20,
@@ -608,7 +664,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: The infant occiput is FOUR unfused parts (basiocciput, two condylar, squamous). The hypoglossal canal (CN XII, tongue and suck) runs through the condylar parts and the jugular foramen (CN IX, X, XI) sits at the occipitotemporal junction, which is the anatomic rationale for condylar decompression in colic, poor latch, and torticollis.",
-    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression"
+    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression",
+    "pdfLecture": "CV13",
+    "pdfPage": 30,
+    "pdfQuote": "Hold until muscle and soft tissues begin to relax, and one has a"
   },
   {
     "id": 21,
@@ -638,7 +697,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Peripheral chemoreceptors (carotid and aortic bodies, glomus cells) mainly control VENTILATION and respond most to low PaO2. They only become significant blood pressure regulators once MAP falls below about 80 mmHg, when their own perfusion becomes inadequate.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 17,
+    "pdfQuote": "Peripheral chemoreceptors (in carotid &"
   },
   {
     "id": 22,
@@ -668,7 +730,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The 1200 mOsm/kg inner medulla is about half NaCl (countercurrent multiplier) and about half UREA (recycled through ADH-sensitive UT-A1). Protein malnutrition lowers urea generation and therefore caps maximum urine osmolality, even with normal kidneys and normal ADH.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 16,
+    "pdfQuote": "total osmolality in the deepest portion of the inner medulla."
   },
   {
     "id": 23,
@@ -698,7 +763,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Volume distribution is roughly systemic veins 65 percent, arteries 13 percent, pulmonary 10 percent, heart 7 percent, capillaries 5 percent. Veins are about 20 times more compliant than arteries, so venoconstriction is a powerful autotransfusion that can hide a 15 percent blood loss.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 7,
+    "pdfQuote": "volume of blood, how much it can hold."
   },
   {
     "id": 24,
@@ -728,7 +796,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Purkinje fibers are large, pale, glycogen-rich, myofibril-poor, and gap-junction-rich, giving the fastest conduction in the heart at 2-4 m/s. Conduction velocity tracks phase 0 sodium current, cell diameter, and gap junction density. The AV node is the opposite: slow, small, and poorly coupled.",
-    "lectureSource": "CV18: Histology of the Heart"
+    "lectureSource": "CV18: Histology of the Heart",
+    "pdfLecture": "CV18",
+    "pdfPage": 31,
+    "pdfQuote": "larger than normal myocytes. Conduction cells have fewer myofibrils,"
   },
   {
     "id": 25,
@@ -758,7 +829,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Normal-gap acidosis with a POSITIVE urine anion gap means the kidney is at fault. Type 1 (distal) means urine pH above 5.5, hypokalemia, and calcium phosphate stones. Type 2 (proximal) means urine pH below 5.5 once below threshold, hypokalemia, and often Fanconi. Type 4 means HYPERkalemia with a urine pH usually below 5.5.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 15,
+    "pdfQuote": "Regulation of Renal Acid Secretion"
   },
   {
     "id": 26,
@@ -788,7 +862,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Lymphatics are the ONLY route for interstitial protein to return to the circulation. Blind-ended, thin endothelium, absent or patchy basement membrane, overlapping flap valves, and anchoring filaments that open them when tissue swells. Blocking them gives protein-rich, non-pitting lymphedema with fibrosis.",
-    "lectureSource": "CV19: Histology of Vessels and Lymphatics"
+    "lectureSource": "CV19: Histology of Vessels and Lymphatics",
+    "pdfLecture": "CV19",
+    "pdfPage": 37,
+    "pdfQuote": "Lymphatic capillaries = tubes of endothelium which do not have"
   },
   {
     "id": 27,
@@ -818,7 +895,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: To DILUTE, you need active NaCl removal in the water-impermeable diluting segments (thick ascending limb and early DCT) PLUS suppressed ADH so the collecting duct stays impermeable. Minimum urine osmolality is about 50 mOsm/kg, which caps maximal water excretion near 15-20 L/day.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 12,
+    "pdfQuote": "Kidneys must produce a large volume of dilute urine (H2O diuresis)."
   },
   {
     "id": 28,
@@ -878,7 +958,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Output equals venous return at the intersection of the two curves. INOTROPE shifts the cardiac curve up, giving higher CO and LOWER CVP. VOLUME (or venoconstriction) raises mean systemic filling pressure and shifts venous return right, giving higher CO and HIGHER CVP. The direction of CVP change tells you which one moved.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 34,
+    "pdfQuote": "Normal Central Venous Pressure (CVP): 0-7 mmHg"
   },
   {
     "id": 30,
@@ -908,7 +991,9 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The CORE LINK is the dural tube, anchored at the foramen magnum, C2-C3, and S2. Because both ends are fixed and the middle is free, cranial and sacral mechanics are coupled. That is why involuntary sacral motion is one of the five components of the PRM and why sacral trauma can present as headache.",
-    "lectureSource": "CV11: Osteopathy in the Cranial Field"
+    "lectureSource": "CV11: Osteopathy in the Cranial Field",
+    "pdfLecture": "CV11",
+    "pdfPage": 42
   },
   {
     "id": 31,
@@ -938,7 +1023,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Net acid excretion = titratable acid + ammonium - urinary bicarbonate. TITRATABLE ACID (mostly phosphate, pKa 6.8) is capped by the filtered phosphate load. AMMONIUM is the adaptable arm and can rise many-fold over days, which is why it carries the burden of chronic acidosis.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 10,
+    "pdfQuote": "Kidneys excrete H+-bound phosphate in the urine."
   },
   {
     "id": 32,
@@ -968,7 +1056,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: ISOSTHENURIA (urine fixed near 300 mOsm/kg) is the concentrating signature of advanced CKD. Fewer nephrons means a high solute load per nephron with an obligatory osmotic diuresis, and medullary fibrosis destroys the gradient. These patients lose BOTH concentrating and diluting ability, which is why nocturia appears early.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 6,
+    "pdfQuote": "To conserve H2O  (e.g., restricted H2O intake or excessive loss), kidneys generate urine"
   },
   {
     "id": 33,
@@ -998,7 +1089,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: A fixed proximal stenosis is compensated by distal arteriolar dilation, which preserves RESTING flow but consumes CORONARY FLOW RESERVE. Symptoms appear only when demand rises. Because resistance varies with r^4, hemodynamic significance begins around 70 percent diameter stenosis.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 13,
+    "pdfQuote": "Blood Flow: Pressure and Resistance"
   },
   {
     "id": 34,
@@ -1028,7 +1122,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Cardiac myocytes are PERMANENT cells: injury heals by fibrous scar, and load is met by HYPERTROPHY (adding sarcomeres), never hyperplasia. Skeletal muscle has satellite cells and can regenerate; cardiac muscle does not. This is the basis of post-infarct remodeling and aneurysm formation.",
-    "lectureSource": "CV18: Histology of the Heart"
+    "lectureSource": "CV18: Histology of the Heart",
+    "pdfLecture": "CV18",
+    "pdfPage": 5,
+    "pdfQuote": "mammals is similar, with more myocytes in species with larger hearts."
   },
   {
     "id": 35,
@@ -1058,7 +1155,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ARTERIOLES are the resistance vessels: thick smooth muscle relative to a small lumen, dense sympathetic and metabolic control, and r^4 dependence. They set total peripheral resistance, distribute cardiac output between organs, and drop pressure to about 30 mmHg to protect the capillaries.",
-    "lectureSource": "CV19: Histology of Vessels and Lymphatics"
+    "lectureSource": "CV19: Histology of Vessels and Lymphatics",
+    "pdfLecture": "CV19",
+    "pdfPage": 17,
+    "pdfQuote": "Precapillary sphincter: slight thickening of smooth muscle at"
   },
   {
     "id": 36,
@@ -1088,7 +1188,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Respiratory alkalosis compensation is ACUTE, HCO3 falls about 2 per 10 mmHg drop in PaCO2, versus CHRONIC, about 4-5 per 10 mmHg over 2-3 days of renal bicarbonate excretion. Acetazolamide speeds acclimatization by forcing that same bicarbonate loss pharmacologically.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 23,
+    "pdfQuote": "Altitude"
   },
   {
     "id": 37,
@@ -1118,7 +1221,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: UNILATERAL renal artery stenosis with a normal other kidney is RENIN-dependent, giving high renin, secondary hyperaldosteronism with hypokalemia, and little volume overload. BILATERAL disease (or a solitary kidney) becomes VOLUME-dependent with suppressed renin, and is the setting where ACE inhibitors precipitate acute kidney injury.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 35,
+    "pdfQuote": "Costanzo, Physiology 5th ed., Saunders/Elsevier, 2014 (Chapter 4: pp. 160-161)"
   },
   {
     "id": 38,
@@ -1148,7 +1254,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ABSOLUTE contraindications to OCMM are acute intracranial bleed, increased intracranial pressure, acute skull fracture, CSF leak, acute stroke, and acute intracranial infection. RELATIVE ones include seizure disorder and recent concussion. Gentle does not mean risk-free.",
-    "lectureSource": "CV12: SBS Strain Patterns"
+    "lectureSource": "CV12: SBS Strain Patterns",
+    "pdfLecture": "CV12",
+    "pdfPage": 78,
+    "pdfQuote": "Acute intracranial bleeding"
   },
   {
     "id": 39,
@@ -1178,7 +1287,9 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The falx cerebri, falx cerebelli, and tentorium cerebelli form one continuous RECIPROCAL TENSION MEMBRANE converging at the straight sinus, which is SUTHERLAND'S FULCRUM, an automatically shifting suspension point. Tension anywhere in the system is answered everywhere, and it continues caudally as the core link to S2.",
-    "lectureSource": "CV11: Osteopathy in the Cranial Field"
+    "lectureSource": "CV11: Osteopathy in the Cranial Field",
+    "pdfLecture": "CV11",
+    "pdfPage": 41
   },
   {
     "id": 40,
@@ -1208,7 +1319,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Start with the BASELINE serum osmolality. LOW-normal means intake is driving output, that is, primary polydipsia. HIGH-normal means water loss is driving intake, that is, diabetes insipidus. Then deprive: no concentration plus a big desmopressin response means central; no concentration plus no response means nephrogenic.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 12,
+    "pdfQuote": "Kidneys must produce a large volume of dilute urine (H2O diuresis)."
   },
   {
     "id": 41,
@@ -1238,7 +1352,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: ALWAYS calculate the anion gap, even when the pH is normal. Correct it for albumin by adding 2.5 per 1 g/dL below 4. Then use delta-delta: if the gap rose more than the bicarbonate fell, a metabolic alkalosis coexists; if the bicarbonate fell more than the gap rose, a normal-gap acidosis coexists.",
-    "lectureSource": "CV14: Transport of Acids and Bases"
+    "lectureSource": "CV14: Transport of Acids and Bases",
+    "pdfLecture": "CV14",
+    "pdfPage": 17,
+    "pdfQuote": "Disorder pCO2"
   },
   {
     "id": 42,
@@ -1268,7 +1385,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Low-pressure ATRIAL volume receptors defend against volume overload: Bainbridge reflex raises heart rate, ADH is suppressed producing a water diuresis, and ANP is released producing a natriuresis. Arterial baroreceptors defend PRESSURE; atrial receptors defend VOLUME.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 21,
+    "pdfQuote": "Atrial Reflex / BAINBRIDGE Reflex"
   },
   {
     "id": 43,
@@ -1298,7 +1418,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Dural venous sinuses lie BETWEEN the periosteal and meningeal dura, have NO muscle and NO valves, and their walls are the same membranes that form the reciprocal tension membrane. Superior sagittal sinus in the attached falx, straight sinus at the falx-tentorium junction, which is also Sutherland's fulcrum.",
-    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression"
+    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression",
+    "pdfLecture": "CV13",
+    "pdfPage": 11,
+    "pdfQuote": "The mobility of the Dural"
   },
   {
     "id": 44,
@@ -1328,7 +1451,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Valve leaflets are AVASCULAR and trilaminar: fibrosa (collagen, outflow side, load-bearing and the site of calcific disease), spongiosa (proteoglycan shear layer), ventricularis (elastin, inflow side). Calcific aortic stenosis is an active atherosclerosis-like process, not passive wear. AV valves have chordae; semilunar valves do not.",
-    "lectureSource": "CV18: Histology of the Heart"
+    "lectureSource": "CV18: Histology of the Heart",
+    "pdfLecture": "CV18",
+    "pdfPage": 27,
+    "pdfQuote": "dense connective tissue (CT) core extending"
   },
   {
     "id": 45,
@@ -1358,7 +1484,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: FLEXION means midline bones flex, paired bones EXTERNALLY rotate, and the head widens and shortens. EXTENSION is the mirror image: paired bones internally rotate and the head narrows and lengthens. Through the core link, cranial flexion accompanies posterior-superior movement of the sacral base.",
-    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression"
+    "lectureSource": "CV13: Intro to the Cranial Field and OA Decompression",
+    "pdfLecture": "CV13",
+    "pdfPage": 22,
+    "pdfQuote": "Flexion midline bones,"
   },
   {
     "id": 46,
@@ -1388,7 +1517,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Minimum urine volume = daily solute load / maximum urine osmolality. About 600 mOsm at 1200 mOsm/kg means 500 mL/day. Seawater at about 1000 mOsm/L costs more water to excrete than it provides. The same formula explains why a patient stuck at 300 mOsm/kg must make 2 L/day.",
-    "lectureSource": "CV15: Urine Concentration and Dilution"
+    "lectureSource": "CV15: Urine Concentration and Dilution",
+    "pdfLecture": "CV15",
+    "pdfPage": 6,
+    "pdfQuote": "To conserve H2O  (e.g., restricted H2O intake or excessive loss), kidneys generate urine"
   },
   {
     "id": 47,
@@ -1418,7 +1550,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Veins are thin-walled, scant media, prominent adventitia, large lumen, with intimal VALVES in the limbs. They are capacitance vessels holding about two thirds of blood volume and depend on the SKELETAL MUSCLE PUMP. Prolonged standing idles the pump, valves fail, and the 90 mmHg hydrostatic column produces varicosities and dependent edema.",
-    "lectureSource": "CV19: Histology of Vessels and Lymphatics"
+    "lectureSource": "CV19: Histology of Vessels and Lymphatics",
+    "pdfLecture": "CV19",
+    "pdfPage": 27,
+    "pdfQuote": "Tunica media - smooth muscle (thinner than medium"
   },
   {
     "id": 48,
@@ -1448,7 +1583,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: VAULT HOLD, index on the sphenoid greater wings, middle anterior to the ears, ring on the mastoids, little on the occipital squama, thumbs off, forearms supported. Index and little fingers straddle the SBS, so the relative motion of sphenoid and occiput identifies the strain pattern.",
-    "lectureSource": "CV12: SBS Strain Patterns"
+    "lectureSource": "CV12: SBS Strain Patterns",
+    "pdfLecture": "CV12",
+    "pdfPage": 21,
+    "pdfQuote": "Virtually all hand contacts are on the vault, or membranous bone. From"
   },
   {
     "id": 49,
@@ -1478,7 +1616,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Valsalva has four phases; the therapeutic one is the RELEASE OVERSHOOT, which loads baroreceptors and produces a vagal surge that blocks the AV node. Because most regular narrow-complex tachycardias use the AV node in their circuit, transient nodal block terminates them. Leg elevation on release improves success.",
-    "lectureSource": "CV17: Arterial Blood Pressure Regulation"
+    "lectureSource": "CV17: Arterial Blood Pressure Regulation",
+    "pdfLecture": "CV17",
+    "pdfPage": 14,
+    "pdfQuote": "PHASE 3 (RELEASE OF STRAIN)"
   },
   {
     "id": 50,
@@ -1508,7 +1649,10 @@ const Test_Cumulative_CPR_Wk2 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The denervated transplanted heart has a HIGH resting rate (no vagal tone), a DELAYED and humoral exercise response (circulating catecholamines, not neural sympathetics), a SLOW recovery, an intact Frank-Starling mechanism, and no response to atropine. Warm-up and cool-down periods are essential.",
-    "lectureSource": "CV16: Hemodynamics and Circulation"
+    "lectureSource": "CV16: Hemodynamics and Circulation",
+    "pdfLecture": "CV16",
+    "pdfPage": 39,
+    "pdfQuote": "Alterations in Cardiac Output - Pump"
   }
 ];
 

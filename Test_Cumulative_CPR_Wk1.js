@@ -37,7 +37,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: In pre-renal states, angiotensin II constricts the EFFERENT arteriole to defend GFR while renal plasma flow falls. Filtration fraction rises, peritubular oncotic pressure rises, proximal urea reabsorption rises, and the BUN/Cr ratio climbs above 20:1.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 25,
+    "pdfQuote": "constricts the efferent arteriole in the kidneys (greater concentration of A T1 receptors)"
   },
   {
     "id": 2,
@@ -67,7 +70,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: No ureteric bud means no induction of the metanephric blastema, and therefore no kidney, no ureter, and no fetal urine. Bilateral agenesis produces the oligohydramnios (Potter) sequence: flat facies, limb contractures, and lethal pulmonary hypoplasia.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 26,
+    "pdfQuote": "metanephric blastema"
   },
   {
     "id": 3,
@@ -97,7 +103,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: 98 percent of body potassium is intracellular. Any process that lyses cells (rhabdomyolysis, tumor lysis, hemolysis) or shifts potassium out (acidemia, insulin deficiency, beta blockade, digoxin toxicity) can cause life-threatening hyperkalemia even with intact renal function.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 8,
+    "pdfQuote": "Transfer of excess K+ into cells: Rapid (A)."
   },
   {
     "id": 4,
@@ -127,7 +136,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Net filtration = Kf x [(Pc - Pi) - sigma(pi_c - pi_i)]. Inflammation raises Kf and lowers sigma, so the oncotic gradient loses its power to oppose filtration. That is why burns and sepsis cause edema despite hypotension.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 23,
+    "pdfQuote": "Capillary Filtration Coefficient"
   },
   {
     "id": 5,
@@ -157,7 +169,9 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: BLT is an INDIRECT technique. Disengage, exaggerate, and balance to the point of least ligamentous tension, then let inherent forces (respiratory cooperation and fluid fluctuation) do the correcting. The physician never pushes through the barrier.",
-    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension"
+    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension",
+    "pdfLecture": "CV1",
+    "pdfPage": 29
   },
   {
     "id": 6,
@@ -187,7 +201,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Glucose reabsorption is carrier-mediated and therefore saturable. Threshold is about 180-200 mg/dL and Tm is reached near 350 mg/dL; the rounded 'splay' between them reflects nephron heterogeneity. SGLT2 inhibitors simply move the threshold down.",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 5,
+    "pdfQuote": "Can generate a far larger glucose gradient across the apical membrane."
   },
   {
     "id": 7,
@@ -217,7 +234,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The kidney defends EFFECTIVE circulating volume (arterial filling), not total body volume. In heart failure, cirrhosis, and nephrosis the arterial tree is underfilled, so RAAS, sympathetics, and ADH all fire despite massive edema.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 16,
+    "pdfQuote": "Effective Circulating Volume (ECV) = portion of arterial"
   },
   {
     "id": 8,
@@ -247,7 +267,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The JGA has three parts: granular (juxtaglomerular) cells in the afferent arteriole that make renin, the macula densa of the thick ascending limb that senses luminal NaCl, and the extraglomerular mesangial cells that link them. Low macula densa NaCl means more renin.",
-    "lectureSource": "CV6: Organization of the Urinary System"
+    "lectureSource": "CV6: Organization of the Urinary System",
+    "pdfLecture": "CV6",
+    "pdfPage": 17,
+    "pdfQuote": "Granular cells (GC) of the afferent arterioles (juxtaglomerular or"
   },
   {
     "id": 9,
@@ -277,7 +300,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Urinary potassium is SECRETED, not filtered-and-spared. The regulated step is the principal cell of the late distal tubule and cortical collecting duct. The four amplifiers are aldosterone, high distal flow, high distal sodium delivery, and alkalosis.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 15,
+    "pdfQuote": "K+ Reabsorption in the Collecting Tubule"
   },
   {
     "id": 10,
@@ -307,7 +333,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Horseshoe kidney is trapped by the INFERIOR MESENTERIC ARTERY during ascent and sits at L3-L4. Look for it in Turner syndrome (and trisomy 18); complications are hydronephrosis, stones, infection, and increased vulnerability to blunt trauma.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 30,
+    "pdfQuote": "Horseshoe Kidney"
   },
   {
     "id": 11,
@@ -337,7 +366,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Clearance = (U x V) / P. Inulin clearance = GFR (filtered only, not secreted or reabsorbed). PAH clearance = effective RPF (filtered AND secreted). RBF = RPF / (1 - Hct). Filtration fraction = GFR / RPF, normally about 0.20.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 11,
+    "pdfQuote": "RBF: total blood volume delivered to kidney (global flow)"
   },
   {
     "id": 12,
@@ -367,7 +399,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: D5W = free water; it distributes 2/3 intracellular and 1/3 extracellular and lowers osmolarity everywhere. Isotonic saline stays extracellular. Hypertonic saline expands the ECF and shrinks cells. Match the fluid to the compartment you intend to fill.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 26,
+    "pdfQuote": "volume and composition of the body fluid compartments."
   },
   {
     "id": 13,
@@ -397,7 +432,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: BLT positions INTO the ease (the named freedoms of the dysfunction), then adds compression or traction to equalize ligamentous tension. Because no barrier is engaged, it is well tolerated in acute, guarded, frail, or post-traumatic patients.",
-    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula"
+    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula",
+    "pdfLecture": "CV2",
+    "pdfPage": 8,
+    "pdfQuote": "BLT of the Cervical Spine (C2-7)"
   },
   {
     "id": 14,
@@ -427,7 +465,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: BUN is not a pure GFR marker. It rises with high protein load (GI bleed, steroids, catabolism) and with hypovolemia (passive reabsorption), and it falls with malnutrition and with liver failure (the failing liver cannot convert ammonia to urea, so ammonia rises while BUN falls).",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 10,
+    "pdfQuote": "The greater the fluid reabsorption along the PT , the greater the"
   },
   {
     "id": 15,
@@ -457,7 +498,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: In SIADH the diagnostic hallmark is an inappropriately CONCENTRATED urine (Uosm above 100, usually well above Posm) in the setting of a low serum osmolality and clinical euvolemia. ADH acts on V2 receptors to insert aquaporin-2 into the collecting duct apical membrane.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 38,
+    "pdfQuote": "Sets how concentrated the urine is by controlling the water"
   },
   {
     "id": 16,
@@ -487,7 +531,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Parasympathetic (S2-S4, M3 muscarinic) contracts the detrusor to empty the bladder; sympathetic (T10-L2, alpha-1 and beta-3) stores urine. In BPH, anticholinergics and alpha-agonists are classic precipitants of acute urinary retention.",
-    "lectureSource": "CV6: Organization of the Urinary System"
+    "lectureSource": "CV6: Organization of the Urinary System",
+    "pdfLecture": "CV6",
+    "pdfPage": 25,
+    "pdfQuote": "pressure. Bladder tone, up to the point of triggering the micturition reflex, is"
   },
   {
     "id": 17,
@@ -517,7 +564,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The thick ascending limb reabsorbs Ca and Mg PARACELLULARLY, driven by the lumen-positive potential from ROMK potassium recycling. Loop diuretics abolish it (calcium and magnesium wasting); thiazides act distally and cause calcium RETENTION with magnesium wasting.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 23,
+    "pdfQuote": "Thick Ascending Limb"
   },
   {
     "id": 18,
@@ -547,7 +597,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The glomerular barrier filters by SIZE (endothelial fenestrae, GBM, slit diaphragm) and by CHARGE (anionic heparan sulfate and podocyte glycocalyx). Selective albuminuria with foot process effacement and normal light microscopy is minimal change disease.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 14,
+    "pdfQuote": "Visceral epithelial layer with Podocyte Foot Processes - Size Exclusion to less then 50"
   },
   {
     "id": 19,
@@ -577,7 +630,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Obstruction raises Bowman space hydrostatic pressure, which subtracts directly from net filtration pressure and lowers GFR. Posterior urethral valves (males only) give the triad of a thick trabeculated bladder, bilateral hydroureteronephrosis, and a dilated posterior urethra.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 25,
+    "pdfQuote": "Hydronephrosis"
   },
   {
     "id": 20,
@@ -607,7 +663,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Water crosses membranes only through aquaporins. ADH acts on V2 receptors, raising cAMP and inserting AQP2 into the collecting duct apical membrane. Central DI responds to desmopressin; nephrogenic DI (lithium, hypercalcemia, hypokalemia) does not.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 9,
+    "pdfQuote": "Facilitate the rapid transport of water across cell membranes via pores"
   },
   {
     "id": 21,
@@ -637,7 +696,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: ANP (atria) and BNP (ventricles) are released by STRETCH and act through cGMP: afferent dilation, efferent constriction, inhibition of medullary collecting duct sodium reabsorption, and suppression of renin, aldosterone, and ADH. In heart failure they are high but overwhelmed.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 32,
+    "pdfQuote": "The Natriuretic Peptides: released from cardiac"
   },
   {
     "id": 22,
@@ -667,7 +729,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The proximal tubule has two distinct saturable secretory systems: organic ANIONS (OAT1/OAT3: PAH, penicillin, methotrexate, diuretics, urate) and organic CATIONS (OCT2/MATE: creatinine, cimetidine, metformin). Drugs sharing a system compete and raise each other's levels.",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 17,
+    "pdfQuote": "Organic Anions & Cations Secreted"
   },
   {
     "id": 23,
@@ -697,7 +762,9 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: In the ligamentous articular mechanism, ligaments are proprioceptive guides, not passive straps. BLT is gentle, indirect, and uses inherent forces, making it a first-choice technique in osteoporosis, anticoagulation, acute injury, and frailty.",
-    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension"
+    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension",
+    "pdfLecture": "CV1",
+    "pdfPage": 30
   },
   {
     "id": 24,
@@ -727,7 +794,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: You cannot fix potassium without fixing magnesium. Intracellular Mg blocks ROMK; when Mg falls, the block is released and the principal cell dumps potassium into the urine. Always check and replace magnesium in refractory hypokalemia.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 15,
+    "pdfQuote": "High & variable apical K+ permeability (ROMK channel)"
   },
   {
     "id": 25,
@@ -757,7 +827,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The ideal GFR marker is freely filtered, not secreted, not reabsorbed, not metabolized (inulin, iohexol). Creatinine fails on two counts: generation tracks muscle mass (so serum Cr underestimates disease in the frail) and it is secreted (so CrCl overestimates GFR).",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 17,
+    "pdfQuote": "Cx>eGFR Clearance is higher then eGFR, similar to creatinine"
   },
   {
     "id": 26,
@@ -787,7 +860,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The renal cortex gets about 90 percent of renal blood flow; the medulla is deliberately underperfused to preserve the osmotic gradient. Countercurrent oxygen shunting in the vasa recta plus the huge ATP demand of the thick ascending limb make the outer medulla (S3 and mTAL) the first tissue to infarct in ischemic ATN.",
-    "lectureSource": "CV6: Organization of the Urinary System"
+    "lectureSource": "CV6: Organization of the Urinary System",
+    "pdfLecture": "CV6",
+    "pdfPage": 7,
+    "pdfQuote": "Vasa Recta: The capillary network for tubules in the medulla."
   },
   {
     "id": 27,
@@ -817,7 +893,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: 60-40-20 rule. TBW = 60 percent of body weight; ICF = 40 percent (2/3 of TBW); ECF = 20 percent (1/3 of TBW), split 1/4 plasma and 3/4 interstitium. ICF has no direct marker and is always computed as TBW minus ECF.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 5,
+    "pdfQuote": "Extracellular Fluid"
   },
   {
     "id": 28,
@@ -847,7 +926,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Seconds equals baroreflex, chemoreflex, CNS ischemic response. Minutes to hours equals RAAS vasoconstriction, capillary fluid shift, stress relaxation. Days and beyond equals renal pressure natriuresis, the only mechanism with infinite gain because the kidney can keep changing ECF volume indefinitely.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 43,
+    "pdfQuote": "The sole controller of blood pressure over the long run"
   },
   {
     "id": 29,
@@ -877,7 +959,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Mesonephric (Wolffian) duct needs testosterone to persist: epididymis, ductus deferens, seminal vesicle, ejaculatory duct. In females it regresses, leaving the epoophoron, paroophoron, and Gartner duct cysts. It also gives off the ureteric bud, so its anomalies come with renal anomalies.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 14,
+    "pdfQuote": "In females the paramesonephric duct is derived from the uterus as a diverticulum"
   },
   {
     "id": 30,
@@ -907,7 +992,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Amino acids are reabsorbed proximally by class-specific sodium-dependent carriers, so defects are selective. Cystinuria wastes COLA (Cystine, Ornithine, Lysine, Arginine); only cystine is insoluble, giving hexagonal crystals and recurrent stones from childhood.",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 11,
+    "pdfQuote": "Amino Acid Transport in the Nephron"
   },
   {
     "id": 31,
@@ -937,7 +1025,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Hypokalemia and metabolic alkalosis reinforce each other. K leaves cells and H enters, causing intracellular acidosis and extracellular alkalosis; the type A intercalated cell H-K-ATPase then trades secreted H for reclaimed K. Urine chloride below 20 marks a saline-responsive alkalosis.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 16,
+    "pdfQuote": "Intercalated cells:"
   },
   {
     "id": 32,
@@ -967,7 +1058,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Angiotensin II holds up GFR by constricting the EFFERENT arteriole. In bilateral renal artery stenosis (or stenosis of a solitary kidney), ACE inhibitors and ARBs remove that support and cause an abrupt, reversible fall in GFR with hyperkalemia.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 25,
+    "pdfQuote": "constricts the efferent arteriole in the kidneys (greater concentration of A T1 receptors)"
   },
   {
     "id": 33,
@@ -997,7 +1091,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The proximal and distal tibiofibular joints move together through the interosseous membrane, so treat both after an ankle inversion injury. BLT sequence at any joint: DISENGAGE, EXAGGERATE, BALANCE, then hold and let respiratory cooperation and fluid fluctuation finish the work.",
-    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula"
+    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula",
+    "pdfLecture": "CV2",
+    "pdfPage": 13,
+    "pdfQuote": "BLT of the Fibula (and interosseous"
   },
   {
     "id": 34,
@@ -1027,7 +1124,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ALDOSTERONE ESCAPE. Pressure natriuresis plus ANP/BNP limit sodium retention to about 1.5-2 L, so primary hyperaldosteronism causes hypertension WITHOUT edema. There is no escape from the kaliuresis, so hypokalemia and metabolic alkalosis persist.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 32,
+    "pdfQuote": "The Natriuretic Peptides: released from cardiac"
   },
   {
     "id": 35,
@@ -1057,7 +1157,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Transporting EPITHELIUM is polarized by tight junctions into apical and basolateral membranes with different proteins, with the basolateral Na-K-ATPase as the energy source. That polarity permits uphill, vectorial transport. ENDOTHELIUM is an exchange barrier and moves solute only down gradients.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 18,
+    "pdfQuote": "Epithelium: An uninterrupted sheet of cells that are joined together by junctional"
   },
   {
     "id": 36,
@@ -1087,7 +1190,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Cimetidine, trimethoprim, and dolutegravir block OCT2/MATE-mediated tubular SECRETION of creatinine. Serum creatinine rises and eGFR appears to fall, but true GFR is unchanged. No proteinuria, no sediment, and a stable measured clearance distinguish this from real injury.",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 16,
+    "pdfQuote": "Organic Base Secretory System (OASS)"
   },
   {
     "id": 37,
@@ -1117,7 +1223,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: LEAKY, high-capacity epithelium (proximal tubule: brush border, many mitochondria, AQP1) does bulk isosmotic reabsorption. TIGHT, low-capacity epithelium (distal nephron and collecting duct) does fine regulation and can hold steep gradients. Capacity and gradient trade off against each other.",
-    "lectureSource": "CV6: Organization of the Urinary System"
+    "lectureSource": "CV6: Organization of the Urinary System",
+    "pdfLecture": "CV6",
+    "pdfPage": 15,
+    "pdfQuote": "Reabsorbs 67% of the filtered H2O & electrolytes (isosmotic)"
   },
   {
     "id": 38,
@@ -1147,7 +1256,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: PTH and FGF23 are both PHOSPHATURIC (they internalize proximal NaPi-II cotransporters) but they oppose each other on vitamin D: PTH stimulates 1-alpha-hydroxylase, FGF23 inhibits it. FGF23 rises earliest in CKD and drives the low calcitriol of secondary hyperparathyroidism.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 28,
+    "pdfQuote": "Three separate Na+/phosphate cotransporters contribute: NaPi-IIa, NaPi-Iic"
   },
   {
     "id": 39,
@@ -1177,7 +1289,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: The urorectal septum divides the cloaca into the urogenital sinus (anterior) and anorectal canal (posterior). Incomplete descent means imperforate anus, often with a fistula, and because the mesonephric duct and ureteric bud enter here, renal anomalies travel with it. Think VACTERL.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 24,
+    "pdfQuote": "VACTERL association:"
   },
   {
     "id": 40,
@@ -1207,7 +1322,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Early diabetic nephropathy causes HYPERfiltration. High filtered glucose drags sodium in through SGLT2, so macula densa NaCl falls, tubuloglomerular feedback relaxes the afferent arteriole, and intraglomerular pressure rises. That pressure is what destroys the glomerulus, which is why SGLT2 inhibitors and RAAS blockade slow progression.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 21,
+    "pdfQuote": "Decreased perfusion due to many mechanism (HFrEF, dehydration, renal artery stenosis,"
   },
   {
     "id": 41,
@@ -1237,7 +1355,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Every chronic hypertension requires a rightward shift of the renal pressure natriuresis curve; otherwise the kidney would simply excrete the excess volume and normalize pressure. Salt sensitivity is that shift made visible with a sodium load.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 43,
+    "pdfQuote": "The sole controller of blood pressure over the long run"
   },
   {
     "id": 42,
@@ -1267,7 +1388,9 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: 'Natural agencies' is Still's principle that the body heals itself and the physician's job is to remove the obstruction. In BLT this is literal: the operator finds balance and then adds nothing, letting respiratory cooperation and fluid fluctuation perform the correction.",
-    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension"
+    "lectureSource": "CV1: Principles of Balanced Ligamentous Tension",
+    "pdfLecture": "CV1",
+    "pdfPage": 24
   },
   {
     "id": 43,
@@ -1297,7 +1420,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: In DKA the measured potassium lies. Insulin deficiency, acidemia, and hyperosmolarity shift potassium OUT of cells while osmotic diuresis depletes total body stores. Treatment reverses all the shifts at once, so anticipate a steep fall and hold insulin if K is below 3.3 mEq/L.",
-    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport"
+    "lectureSource": "CV9: K+, Ca++, Mg++ and Phosphate Transport",
+    "pdfLecture": "CV9",
+    "pdfPage": 9,
+    "pdfQuote": "Acidosis: PROCESS that causes an abnormal buildup of acid in the body"
   },
   {
     "id": 44,
@@ -1327,7 +1453,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: TUBULAR proteinuria (beta-2 microglobulin, retinol-binding protein, 1-2 g/day, normal albumin) means failure of proximal megalin-cubilin endocytosis. GLOMERULAR proteinuria is albumin-predominant and can be nephrotic. Tubular proteinuria plus glycosuria, phosphaturia, and acidosis equals Fanconi syndrome.",
-    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport"
+    "lectureSource": "CV10: Urea, Glucose and Organic Solute Transport",
+    "pdfLecture": "CV10",
+    "pdfPage": 13,
+    "pdfQuote": "Reabsorption of 96-99% of filtered albumin."
   },
   {
     "id": 45,
@@ -1357,7 +1486,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The kidney's three endocrine products are RENIN (juxtaglomerular granular cells), ERYTHROPOIETIN (peritubular interstitial fibroblasts, oxygen-sensing), and CALCITRIOL (proximal tubule 1-alpha-hydroxylase). CKD knocks out the last two, giving normocytic anemia plus hypocalcemia with secondary hyperparathyroidism.",
-    "lectureSource": "CV6: Organization of the Urinary System"
+    "lectureSource": "CV6: Organization of the Urinary System",
+    "pdfLecture": "CV6",
+    "pdfPage": 21,
+    "pdfQuote": "90% produced in kidneys  (Erythropoietin Producing Cells (EPCs), Peritubular"
   },
   {
     "id": 46,
@@ -1387,7 +1519,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The Gibbs-Donnan effect from impermeant intracellular anions would swell cells to lysis. The Na-K-ATPase solves it by making sodium an effective EXTRACELLULAR impermeant osmole. Stop the pump (ischemia, hypothermic storage, ouabain) and cells gain Na and water, lose K, and swell.",
-    "lectureSource": "CV4: Solute Transport and Fluid Movement"
+    "lectureSource": "CV4: Solute Transport and Fluid Movement",
+    "pdfLecture": "CV4",
+    "pdfPage": 16,
+    "pdfQuote": "Na+/K+ ATPase & Regulation of Cell Volume"
   },
   {
     "id": 47,
@@ -1417,7 +1552,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: In BLT, respiration is the inherent force. Ribs held in INHALATION are helped by exhalation; ribs held in EXHALATION are helped by inhalation. The technique's minimal force makes it ideal postoperatively, where restoring rib mechanics aids lymphatic flow and prevents atelectasis.",
-    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula"
+    "lectureSource": "CV2: BLT - Cervical, Thoracic, Lumbosacral, Fibula",
+    "pdfLecture": "CV2",
+    "pdfPage": 3,
+    "pdfQuote": "the affected ligaments in a position of equal tension in all appropriate planes so that"
   },
   {
     "id": 48,
@@ -1447,7 +1585,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The TRIPLE WHAMMY: diuretic (volume depletion) plus ACE inhibitor or ARB (no efferent constriction) plus NSAID (no afferent dilation) equals acute kidney injury with hyperkalemia. Vasodilatory prostaglandins protect the afferent arteriole precisely when angiotensin II and sympathetic tone are high.",
-    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance"
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 26,
+    "pdfQuote": "and volume depletion save kidney from ischemia (act as a \"shield\"), relax mesangial"
   },
   {
     "id": 49,
@@ -1477,7 +1618,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The ascending metanephros is supplied by a ladder of successively higher aortic branches, and lower rungs normally involute. A persistent rung is an accessory (polar) renal artery, found in about 25 percent of people. Renal arteries are END arteries, so each accessory vessel must be preserved in transplant or repair.",
-    "lectureSource": "CV3: Genitourinary Embryology"
+    "lectureSource": "CV3: Genitourinary Embryology",
+    "pdfLecture": "CV3",
+    "pdfPage": 21,
+    "pdfQuote": "Vascularization"
   },
   {
     "id": 50,
@@ -1507,7 +1651,10 @@ const Test_Cumulative_CPR_Wk1 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: The full loop diuretic signature is hypokalemia, hypomagnesemia, contraction metabolic alkalosis, dilutional hyponatremia from ADH, a hemodynamic creatinine rise, and diuretic braking from distal tubular hypertrophy. Sequential nephron blockade with a thiazide overcomes the braking.",
-    "lectureSource": "CV8: Regulation of Sodium and Water Excretion"
+    "lectureSource": "CV8: Regulation of Sodium and Water Excretion",
+    "pdfLecture": "CV8",
+    "pdfPage": 45,
+    "pdfQuote": "Signs of Edema in Heart Failure:"
   }
 ];
 

@@ -39,7 +39,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Normal is below 120/80, elevated is 120-129 with diastolic under 80, stage 1 is 130-139 or 80-89, stage 2 is 140 or higher or 90 or higher; the HIGHER number classifies. In stage 1, drugs are added only for established CVD, diabetes, CKD, or a 10-year risk of 10 percent or more.",
-    "lectureSource": "CV38: Clinical Hypertension"
+    "lectureSource": "CV38: Clinical Hypertension",
+    "pdfLecture": "CV38",
+    "pdfPage": 5,
+    "pdfQuote": "pressures, the higher value determines the stage."
   },
   {
     "id": 2,
@@ -69,7 +72,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ACE = kininase II, so inhibiting it raises BRADYKININ, giving dry cough (5-20 percent, resolves in 1-4 weeks after stopping) and non-urticarial ANGIOEDEMA (higher risk in Black patients, can appear years later). ARBs act downstream, so cough is not a class effect, but rare angioedema still occurs.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 38,
+    "pdfQuote": "ACEIs / ARBs: Adverse effects"
   },
   {
     "id": 3,
@@ -99,7 +105,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Shock profiles. HYPOVOLEMIC and CARDIOGENIC mean low output with high SVR (cold). OBSTRUCTIVE means low output with high filling pressures. DISTRIBUTIVE means HIGH output with LOW SVR (warm) and a HIGH mixed venous saturation from impaired extraction, even with a rising lactate.",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 23,
+    "pdfQuote": "Distributive shock is due to loss of vascular tone, leading to DECREASED RESISTANCE"
   },
   {
     "id": 4,
@@ -129,7 +138,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Scoliosis is a Cobb angle of 10 degrees or more with rotation, measured on a STANDING PA film and named for the CONVEXITY. Risser grades iliac apophyseal ossification 1 to 5 (25, 50, 75, 100 percent, then fused). Observe below 25 degrees, brace 25-45 degrees while growing, consider surgery above about 45-50. A LEFT thoracic curve warrants MRI.",
-    "lectureSource": "CV32: Scoliosis"
+    "lectureSource": "CV32: Scoliosis",
+    "pdfLecture": "CV32",
+    "pdfPage": 51,
+    "pdfQuote": "remaining, and is therefore at a greater risk for a scoliotic curve progression"
   },
   {
     "id": 5,
@@ -159,7 +171,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Only CARVEDILOL, METOPROLOL SUCCINATE, and BISOPROLOL reduce mortality in HFrEF. Beta-1 SELECTIVE agents (bisoprolol, metoprolol, atenolol) spare bronchial beta-2 and hepatic glycogenolysis, so they are preferred in COPD, asthma, and insulin-treated diabetes. Selectivity is relative and fades at high doses.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 47,
+    "pdfQuote": "Most patients with chronic heart failure"
   },
   {
     "id": 6,
@@ -189,7 +204,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Check technique first: Rotation (clavicles symmetric about spinous processes), Inspiration (9-10 posterior or 5-6 anterior ribs), Penetration (vertebral bodies faintly visible behind the heart), Projection (PA versus AP). The 0.50 cardiothoracic ratio is only valid on a well-inspired PA film; AP magnifies the heart.",
-    "lectureSource": "CV41: The Normal Chest X-Ray"
+    "lectureSource": "CV41: The Normal Chest X-Ray",
+    "pdfLecture": "CV41",
+    "pdfPage": 17,
+    "pdfQuote": "thumb but not absolute)"
   },
   {
     "id": 7,
@@ -219,7 +237,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Clonidine is a CENTRAL alpha-2 agonist that turns sympathetic outflow down. Stopping it abruptly causes rebound hypertension with tachycardia, tremor, and diaphoresis within 18-36 hours. Restart the drug; if urgent, use labetalol or phentolamine. NEVER a beta blocker alone, since unopposed alpha stimulation worsens it.",
-    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators"
+    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators",
+    "pdfLecture": "CV37",
+    "pdfPage": 21,
+    "pdfQuote": "Alpha-2 Agonists: Common and potentially serious adverse"
   },
   {
     "id": 8,
@@ -249,7 +270,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Approximate systolic reductions: DASH diet about 11 mmHg, weight loss about 1 mmHg per kg, aerobic exercise 5-8, sodium restriction 5-6, dietary potassium 4-5, alcohol moderation about 4. Effects are largely additive, so combined lifestyle change can rival one drug in low-risk stage 1 hypertension.",
-    "lectureSource": "CV39: Hypertension Management"
+    "lectureSource": "CV39: Hypertension Management",
+    "pdfLecture": "CV39",
+    "pdfPage": 10,
+    "pdfQuote": "Decline of 0.5 to 2 mmHg for every 1 kg of weight loss"
   },
   {
     "id": 9,
@@ -279,7 +303,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: The CV4 uses thenar contact on the occipital squama MEDIAL to the occipitomastoid sutures to resist flexion and exaggerate extension, producing a STILL POINT. Expect deepened respiration, a pause, flushing, and drowsiness, then a fuller rhythm. Contraindicated in acute intracranial bleed, raised ICP, skull fracture, CSF leak, stroke, and intracranial infection.",
-    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4"
+    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4",
+    "pdfLecture": "CV34",
+    "pdfPage": 24,
+    "pdfQuote": "3. The physician places the thenar eminences posteromedial to the patient's"
   },
   {
     "id": 10,
@@ -309,7 +336,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Heilig's formula sizes the STARTING lift by dividing the discrepancy by factors for duration, age, and degeneration, so chronic, older, and degenerative patients start smaller. Place it under the SHORT side, add about 1.5-2 mm every two weeks, and aim to level the SACRAL BASE rather than to equalize leg length. Treat somatic dysfunction alongside.",
-    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy"
+    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy",
+    "pdfLecture": "CV33",
+    "pdfPage": 30,
+    "pdfQuote": "Sacral Base Unleveling (SBU)"
   },
   {
     "id": 11,
@@ -339,7 +369,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Screen resistant hypertension, hypertension with hypokalemia, or an adrenal incidentaloma with the ALDOSTERONE-TO-RENIN RATIO. Primary hyperaldosteronism gives HIGH aldosterone with SUPPRESSED renin; renovascular disease gives both high; Liddle syndrome and Cushing give both low. Most patients are normokalemic, so do not wait for hypokalemia to screen.",
-    "lectureSource": "CV38: Clinical Hypertension"
+    "lectureSource": "CV38: Clinical Hypertension",
+    "pdfLecture": "CV38",
+    "pdfPage": 13,
+    "pdfQuote": "Types of Hypertension: Secondary HTN"
   },
   {
     "id": 12,
@@ -369,7 +402,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: VERAPAMIL and DILTIAZEM are negatively inotropic and dromotropic, so they are contraindicated in HFrEF and hazardous with a beta blocker (bradycardia, AV block, hypotension). DIHYDROPYRIDINES are vasoselective and cause reflex tachycardia and ankle edema. Amlodipine and felodipine are the ones considered safe in heart failure.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 23,
+    "pdfQuote": "Verapamil / Diltiazem Contraindications"
   },
   {
     "id": 13,
@@ -399,7 +435,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Cardiogenic shock means cardiac index below 2.2, wedge pressure above 18, and high SVR (cold and wet). The definitive treatment for STEMI-related shock is EARLY REVASCULARIZATION; inotropes, vasopressors, and mechanical support are bridges. Do not volume-load a high wedge pressure and do not add pure vasoconstriction to an already high SVR.",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 34,
+    "pdfQuote": "Cardiogenic Impaired cardiac function LV Systolic failure"
   },
   {
     "id": 14,
@@ -429,7 +468,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: ACE inhibitors, ARBs, and aliskiren are ALL contraindicated in pregnancy. Second and third trimester exposure causes fetal renal failure, oligohydramnios, pulmonary hypoplasia, limb contractures, and skull hypoplasia. Safe alternatives are labetalol, methyldopa, nifedipine, and hydralazine.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 40,
+    "pdfQuote": "Pregnancy:"
   },
   {
     "id": 15,
@@ -459,7 +501,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: BrAIST showed bracing significantly reduces progression to 50 degrees versus observation, with a clear DOSE-RESPONSE by measured wear time (about 90 percent success at 13 or more hours daily). Bracing prevents progression, it does not correct the curve, and it only works while growth remains, so adherence counselling is the key intervention.",
-    "lectureSource": "CV32: Scoliosis"
+    "lectureSource": "CV32: Scoliosis",
+    "pdfLecture": "CV32",
+    "pdfPage": 73,
+    "pdfQuote": "Bracing treatment is more effective with increased hours of daily wear:"
   },
   {
     "id": 16,
@@ -489,7 +534,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The SILHOUETTE SIGN. A border disappears when airless lung touches a soft-tissue structure of the same density. Right heart border effaced means right middle lobe; left heart border means lingula; hemidiaphragm effaced means LOWER lobe. Use it with the lateral film, where lower lobe disease lies posteriorly.",
-    "lectureSource": "CV41: The Normal Chest X-Ray"
+    "lectureSource": "CV41: The Normal Chest X-Ray",
+    "pdfLecture": "CV41",
+    "pdfPage": 16,
+    "pdfQuote": "Silhouette Sign"
   },
   {
     "id": 17,
@@ -519,7 +567,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Let the comorbidity pick the drug. Diabetes or CKD with albuminuria means ACE inhibitor or ARB. HFrEF means RAS inhibitor or ARNI plus an evidence-based beta blocker plus an MRA plus an SGLT2 inhibitor. Black patients without a compelling indication respond better to thiazides and CCBs. Hypercalciuric stones or osteoporosis favor a thiazide.",
-    "lectureSource": "CV39: Hypertension Management"
+    "lectureSource": "CV39: Hypertension Management",
+    "pdfLecture": "CV39",
+    "pdfPage": 20,
+    "pdfQuote": "Heart Failure with Reduced Ejection Fraction (HFrEF): Beta Blocker + ACE-I"
   },
   {
     "id": 18,
@@ -549,7 +600,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Alpha-1 blockers cause FIRST-DOSE orthostatic hypotension by removing arteriolar AND venous tone. Start low, dose at bedtime, and titrate slowly, especially in the elderly. They treat BPH at the same time (alpha-1A in prostate and bladder neck), but ALLHAT showed more heart failure than thiazides, so they are not first-line for hypertension alone.",
-    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators"
+    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators",
+    "pdfLecture": "CV37",
+    "pdfPage": 11,
+    "pdfQuote": "Check standing and recumbent blood pressure to check for persistent orthostatic"
   },
   {
     "id": 19,
@@ -579,7 +633,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Lift goes under the SHORT leg, uses FIRM non-compressible material, and moves to the OUTSIDE of the shoe beyond about 6-9 mm (tapered along the sole). Every regularly worn pair needs one, since intermittent correction defeats the adaptation. Reassess symptoms and sacral base level at each increment.",
-    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy"
+    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy",
+    "pdfLecture": "CV33",
+    "pdfPage": 49,
+    "pdfQuote": "Principles of lift therapy. Heel lift measurements made at midcalcaneal line. A Foot in"
   },
   {
     "id": 20,
@@ -609,7 +666,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: A normal initial hemoglobin NEVER excludes acute hemorrhage, since whole blood loss removes cells and plasma together. DO2 = CO x (1.34 x Hgb x SaO2 + 0.003 x PaO2), so delivery fails when output falls even with normal content. In young patients, hypotension is late; they compensate until roughly 30 percent volume loss.",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 13,
+    "pdfQuote": "Hypovolemic Shock:Pathophysiology"
   },
   {
     "id": 21,
@@ -639,7 +699,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: URGENCY means severe hypertension WITHOUT acute organ damage, treated orally over 24-48 hours. EMERGENCY means severe hypertension WITH acute organ damage, treated with titratable IV agents, lowering MAP no more than 25 percent in the first hour. Exceptions are aortic dissection (SBP under 120 fast) and stroke or eclampsia protocols. Never use sublingual nifedipine.",
-    "lectureSource": "CV38: Clinical Hypertension"
+    "lectureSource": "CV38: Clinical Hypertension",
+    "pdfLecture": "CV38",
+    "pdfPage": 17,
+    "pdfQuote": "Retinal hemorrhages, Papilledema"
   },
   {
     "id": 22,
@@ -669,7 +732,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: RAS inhibitors dilate the EFFERENT arteriole, so intraglomerular pressure and GFR fall a little and creatinine rises 10-30 percent. That is the MECHANISM of renoprotection, not toxicity. Continue if the rise is under 30 percent and stabilizes; recheck creatinine and potassium in 1-2 weeks; investigate if it exceeds 30 percent.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 37,
+    "pdfQuote": "ACEIs / ARBs: Adverse effects"
   },
   {
     "id": 23,
@@ -699,7 +765,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Severe-range hypertension in pregnancy is treated with IV LABETALOL, IV HYDRALAZINE, or oral immediate-release NIFEDIPINE; add MAGNESIUM SULFATE for seizure prophylaxis (antidote calcium gluconate) and plan DELIVERY, which is the definitive cure. Avoid ACE inhibitors, ARBs, atenolol, nitroprusside, and routine diuretics.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 39,
+    "pdfQuote": "Hypertensive emergencies: labetalol, esmolol (other classes of"
   },
   {
     "id": 24,
@@ -729,7 +798,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: The ADAMS FORWARD BEND TEST separates the two. A STRUCTURAL curve has fixed rotation, so the rib or lumbar hump persists or worsens. A FUNCTIONAL curve straightens out and has no hump; look for leg length discrepancy, pelvic obliquity, spasm, or antalgic posture and treat the cause. Only structural curves get Cobb films and bracing.",
-    "lectureSource": "CV32: Scoliosis"
+    "lectureSource": "CV32: Scoliosis",
+    "pdfLecture": "CV32",
+    "pdfPage": 11,
+    "pdfQuote": "away with rotational, side-bending, or forward bending"
   },
   {
     "id": 25,
@@ -759,7 +831,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Resistant hypertension means above goal on three drugs including a diuretic at optimal doses. Confirm with home readings and adherence, remove interfering substances (NSAIDs, alcohol, decongestants, stimulants), screen for secondary causes (sleep apnea first, then hyperaldosteronism), switch to CHLORTHALIDONE, and add SPIRONOLACTONE fourth per PATHWAY-2.",
-    "lectureSource": "CV39: Hypertension Management"
+    "lectureSource": "CV39: Hypertension Management",
+    "pdfLecture": "CV39",
+    "pdfPage": 20,
+    "pdfQuote": "Resistant Hypertension Aldosterone receptor antagonist, beta blocker , direct"
   },
   {
     "id": 26,
@@ -789,7 +864,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: The TEMPORAL BONE is the cranial troublemaker: petrous portion houses the cochlea and vestibular apparatus (tinnitus, vertigo, fullness), it articulates with the MANDIBLE (dental and TMJ links), the occipitomastoid suture sits at the JUGULAR FORAMEN (CN IX, X, XI and venous drainage), and the tentorium attaches along its petrous ridge.",
-    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4"
+    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4",
+    "pdfLecture": "CV34",
+    "pdfPage": 4,
+    "pdfQuote": "3. Assess the Occipito-Mastoid (OM) Suture for restriction. Importance? Consider"
   },
   {
     "id": 27,
@@ -849,7 +927,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Direct arteriolar vasodilators (hydralazine, minoxidil) cause reflex TACHYCARDIA and RAAS-driven SODIUM RETENTION, so they lose effect as monotherapy (pseudotolerance) and must be given with a beta blocker plus a loop diuretic. Hydralazine also causes drug-induced lupus (antihistone antibodies, slow acetylators); minoxidil causes hypertrichosis and pericardial effusion.",
-    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators"
+    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators",
+    "pdfLecture": "CV37",
+    "pdfPage": 31,
+    "pdfQuote": "Note: Because of preferential dilation of arterioles over veins, sympathetic reflexes"
   },
   {
     "id": 29,
@@ -879,7 +960,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: EPINEPHRINE IM in the anterolateral thigh is first-line and has no absolute contraindication in anaphylaxis. Alpha-1 reverses vasodilation and mucosal edema and tightens the leaky barrier, beta-1 supports output, beta-2 bronchodilates and stabilizes mast cells. Antihistamines and steroids are adjuncts only. Observe for biphasic reactions.",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 30,
+    "pdfQuote": "especially if present after epinephrine"
   },
   {
     "id": 30,
@@ -909,7 +993,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The SHORT leg gives a LOW sacral base on that side, a lumbar convexity TOWARD the low side, and a thoracic counter-curve with shoulder asymmetry, plus rotation and muscular adaptation (short quadratus lumborum on the concavity, irritable piriformis). Distinguish anatomic from functional shortening and treat pelvic somatic dysfunction before measuring for a lift.",
-    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy"
+    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy",
+    "pdfLecture": "CV33",
+    "pdfPage": 4,
+    "pdfQuote": "Caudal curve side-bending away from side of low sacral base, most often."
   },
   {
     "id": 31,
@@ -939,7 +1026,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Chronic pressure overload adds sarcomeres in PARALLEL, giving CONCENTRIC hypertrophy with diastolic dysfunction and preserved ejection fraction, while the same pressure load separately causes arteriolosclerosis in retina and kidney (AV nicking, benign nephrosclerosis); papilledema signals a MALIGNANT phase, not chronic damage.",
-    "lectureSource": "CV38: Clinical Hypertension"
+    "lectureSource": "CV38: Clinical Hypertension",
+    "pdfLecture": "CV38",
+    "pdfPage": 33,
+    "pdfQuote": "Left Ventricular Hypertrophy"
   },
   {
     "id": 32,
@@ -969,7 +1059,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Chronic beta blockade UPREGULATES cardiac beta receptors, so abrupt discontinuation exposes a supersensitive myocardium to normal catecholamines and causes rebound tachycardia, hypertension, and angina; always TAPER over one to two weeks.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 54,
+    "pdfQuote": "Beta Blockers Withdrawal Syndrome"
   },
   {
     "id": 33,
@@ -999,7 +1092,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Blocking the renin-angiotensin axis at two points, whether ACE inhibitor plus ARB or either one plus aliskiren, adds hyperkalemia, hypotension, and acute kidney injury with NO outcome benefit; aliskiren plus an ACE inhibitor or ARB is contraindicated in diabetes.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 44,
+    "pdfQuote": "1. Increased risk of hyperkalemia / hypotension / renal impairment"
   },
   {
     "id": 34,
@@ -1059,7 +1155,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The scoliometer measures ANGLE OF TRUNK ROTATION, not the Cobb angle; a reading of 7 degrees or more at the apex predicts a curve near 20 degrees and warrants standing radiographs, while lower cutoffs gain sensitivity at the cost of many false positive referrals.",
-    "lectureSource": "CV32: Scoliosis"
+    "lectureSource": "CV32: Scoliosis",
+    "pdfLecture": "CV32",
+    "pdfPage": 43,
+    "pdfQuote": "Scoliometer reading > or = to 7 degrees (may need treatment)"
   },
   {
     "id": 36,
@@ -1089,7 +1188,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: All three obstructive shocks raise the neck veins, but EQUALIZED diastolic pressures with pulsus paradoxus and clear lungs means tamponade (drain the pericardium), a HIGH right atrial pressure with a LOW wedge and a dilated right ventricle means massive pulmonary embolism (lyse it), and unilateral absent breath sounds with tracheal deviation means tension pneumothorax (needle the chest).",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 34,
+    "pdfQuote": "Cardiogenic Impaired cardiac function LV Systolic failure"
   },
   {
     "id": 37,
@@ -1119,7 +1221,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Methyldopa lowers blood pressure only after conversion to alpha-methylnorepinephrine, a FALSE TRANSMITTER acting on central alpha-2 receptors; monitor for a positive DIRECT COOMBS test with hemolytic anemia and for hepatotoxicity.",
-    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators"
+    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators",
+    "pdfLecture": "CV37",
+    "pdfPage": 18,
+    "pdfQuote": "Clonidine lowers heart rate and"
   },
   {
     "id": 38,
@@ -1149,7 +1254,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: The V-spread releases a restricted suture by directing the fluid tide from the point DIAMETRICALLY OPPOSITE the lesion, with two fingers straddling the suture as the receiving point; for a lateral suture such as the lambdoid this means the driving hand sits on the contralateral vault, and the endpoint is palpable softening, warmth or spreading under the V.",
-    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4"
+    "lectureSource": "CV34: Balanced Membranous Tension, V-Spread and CV4",
+    "pdfLecture": "CV34",
+    "pdfPage": 20,
+    "pdfQuote": "Department of Osteopathic Manipulative Medicine"
   },
   {
     "id": 39,
@@ -1179,7 +1287,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: On an AP portable film the anteriorly located heart is far from the detector and the beam is more divergent at 40 inches, so cardiac and mediastinal shadows are MAGNIFIED and cardiothoracic ratio is NOT interpretable; asymmetric clavicular heads relative to the spinous processes mark rotation, which alone can fake a widened mediastinum and a dense hilum.",
-    "lectureSource": "CV41: The Normal Chest X-Ray"
+    "lectureSource": "CV41: The Normal Chest X-Ray",
+    "pdfLecture": "CV41",
+    "pdfPage": 19,
+    "pdfQuote": "More magnification on AP films"
   },
   {
     "id": 40,
@@ -1209,7 +1320,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Start RAS inhibition early after an anterior myocardial infarction with reduced ejection fraction to blunt remodeling; LISINOPRIL and captopril are active as given, while enalapril, ramipril, and most others are ester PRODRUGS needing hepatic activation.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 31,
+    "pdfQuote": "Most ACEIs are prodrugs ARBsParent drug Active molecule"
   },
   {
     "id": 41,
@@ -1239,7 +1353,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: Dihydropyridine ankle edema comes from PRECAPILLARY arteriolar dilation raising capillary hydrostatic pressure, not from volume overload, so it is dose dependent and does NOT respond to diuretics; lower the dose or add an ACE inhibitor or ARB to dilate the venular side.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 22,
+    "pdfQuote": "CCBs Adverse Effects"
   },
   {
     "id": 42,
@@ -1269,7 +1386,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Primary hypertension arises from a rightward shift in renal pressure-natriuresis, so salt-sensitive patients run a LOW renin with a NORMAL aldosterone and normal potassium; add age-related aortic stiffening and the result is isolated systolic elevation with a WIDE pulse pressure.",
-    "lectureSource": "CV38: Clinical Hypertension"
+    "lectureSource": "CV38: Clinical Hypertension",
+    "pdfLecture": "CV38",
+    "pdfPage": 12,
+    "pdfQuote": "Types of Hypertension: Primary (Essential) HTN"
   },
   {
     "id": 43,
@@ -1299,7 +1419,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: Treat pelvic somatic dysfunction FIRST and reassess, because only unleveling that PERSISTS after the pelvis is neutral is anatomic and worth a lift. Chronic sacral base unleveling strains ligaments that refer pain nondermatomally, iliolumbar to the groin and sacrotuberous to the posterior thigh.",
-    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy"
+    "lectureSource": "CV33: Short Leg Syndrome and Heel Lift Therapy",
+    "pdfLecture": "CV33",
+    "pdfPage": 5,
+    "pdfQuote": "Treat all somatic dysfunction diagnoses as well as possible before sending patient for"
   },
   {
     "id": 44,
@@ -1329,7 +1452,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: In high-risk adults without diabetes or prior stroke, including those over 75 and those with chronic kidney disease, an intensive systolic goal of LESS THAN 130 mm Hg by routine office measurement lowers events and mortality; the trial number of 120 came from AUTOMATED readings after a rest period, frequently unobserved, which run lower than routine attended ones.",
-    "lectureSource": "CV39: Hypertension Management"
+    "lectureSource": "CV39: Hypertension Management",
+    "pdfLecture": "CV39",
+    "pdfPage": 9,
+    "pdfQuote": "Treatment: Goal Blood Pressure"
   },
   {
     "id": 45,
@@ -1359,7 +1485,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: Match the agent to the missing receptor, not to the diagnosis label: neurogenic shock loses alpha-1 tone AND cardiac beta-1 drive, so NOREPINEPHRINE (alpha-1 plus beta-1) beats pure alpha-1 phenylephrine, which triggers reflex bradycardia in a patient who cannot compensate.",
-    "lectureSource": "CV40: Shock Pathophysiology and Management"
+    "lectureSource": "CV40: Shock Pathophysiology and Management",
+    "pdfLecture": "CV40",
+    "pdfPage": 40,
+    "pdfQuote": "Norepinephrine Shock (distributive, cardiogenic,"
   },
   {
     "id": 46,
@@ -1389,7 +1518,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: Posterior-only fusion in a child with OPEN TRIRADIATE CARTILAGE lets the anterior vertebral physes keep growing around a fixed posterior tether, producing progressive rotation despite a solid fusion, the crankshaft phenomenon; congenital curves demand a search for cardiac, renal, and intraspinal anomalies before surgery.",
-    "lectureSource": "CV32: Scoliosis"
+    "lectureSource": "CV32: Scoliosis",
+    "pdfLecture": "CV32",
+    "pdfPage": 80,
+    "pdfQuote": "This phenomenon occurs after a posterior spinal fusion, where the anterior spine"
   },
   {
     "id": 47,
@@ -1419,7 +1551,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: Nitroprusside donates NITRIC OXIDE for balanced arterial and venous dilation but liberates CYANIDE; high infusion rates, prolonged use, or hepatic impairment produce lactic acidosis with a HIGH mixed venous oxygen saturation, treated by stopping the drug and giving hydroxocobalamin plus thiosulfate, while thiocyanate accumulation in renal failure is treated with dialysis.",
-    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators"
+    "lectureSource": "CV37: Alpha Blockers, Central Sympatholytics and Vasodilators",
+    "pdfLecture": "CV37",
+    "pdfPage": 32,
+    "pdfQuote": "Nitroprusside Excessive BP lowering"
   },
   {
     "id": 48,
@@ -1449,7 +1584,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: ACE inhibitors and ARBs raise potassium by cutting ANGIOTENSIN II DRIVE TO ALDOSTERONE, reducing distal secretion; the danger multiplies with chronic kidney disease, diabetes, potassium-sparing diuretics, NSAIDs, trimethoprim, heparin, and potassium-based salt substitutes.",
-    "lectureSource": "CV35: RAS Inhibitors"
+    "lectureSource": "CV35: RAS Inhibitors",
+    "pdfLecture": "CV35",
+    "pdfPage": 37,
+    "pdfQuote": "Hyperkalemia ACEIs and ARBs reduce aldosterone secretion, which impairs"
   },
   {
     "id": 49,
@@ -1479,7 +1617,10 @@ const Test_Cumulative_CPR_Wk4 = [
     ],
     "correctAnswerIndex": 4,
     "clinicalPearl": "Key takeaway: In pheochromocytoma give ALPHA blockade before any beta blocker, because blocking beta-2 vasodilation leaves alpha-1 vasoconstriction unopposed and can precipitate hypertensive crisis; in thyrotoxicosis, by contrast, propranolol is given FIRST and immediately.",
-    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers"
+    "lectureSource": "CV36: Calcium Channel Blockers and Beta Blockers",
+    "pdfLecture": "CV36",
+    "pdfPage": 52,
+    "pdfQuote": "Beta Blockers Adverse Effects and Mechanisms"
   },
   {
     "id": 50,
