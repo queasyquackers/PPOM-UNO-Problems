@@ -431,6 +431,13 @@ const PDF_MAPPING = {
     "CV52": "pdfs/Lecture # 52. J. Leheste, Ph.D. (PPT).pdf",
     "CV53": "pdfs/Lecture # 53. J. Leheste, Ph.D. (PPT).pdf",
     "CV54": "pdfs/Lecture # 54. J. Donoghue, Ph.D. (PPT)-1.pdf",
+    // FOM review lectures. These use an "FOM" prefix rather than a bare lecture number
+    // because lecture numbering restarts per course: "L60", "L61" and "L73" above are the
+    // PPOM 1 lectures at those numbers (Sacral MET, Gait and Movement, Neuronal Tumors),
+    // which are entirely different lectures from the FOM ones below.
+    "FOM60": "pdfs/FOM Lecture 60 - Ganesan - Human Genetics III.pdf",
+    "FOM61": "pdfs/FOM Lecture 61 - Ganesan - Human Genetics IV.pdf",
+    "FOM73": "pdfs/FOM Lecture 73 - Plummer - Histology of Blood.pdf",
 };
 
 

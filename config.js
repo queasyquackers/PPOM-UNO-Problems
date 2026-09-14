@@ -307,6 +307,8 @@ const testsToLoad = [
     { name: "Cardio-Physiology: Regulation of Sodium & Water Excretion (CV8)", data: window.Test_CV8 },
     { name: "Cardio-Physiology: K+, Ca++, Mg++ & Phosphate Transport (CV9)", data: window.Test_CV9 },
     { name: "Cardio-Physiology: Urea, Glucose & Organic Solute Transport (CV10)", data: window.Test_CV10 },
+
+    { name: "Cardio-WEEK 1 CUMULATIVE EXAM (CV1-10)", data: window.Test_Cumulative_CPR_Wk1 },
     { name: "Cardio-OMM: Osteopathy in the Cranial Field (CV11)", data: window.Test_CV11 },
     { name: "Cardio-OMM: SBS Strain Patterns (CV12)", data: window.Test_CV12 },
     { name: "Cardio-OMM: Intro to the Cranial Field & OA Decompression (CV13)", data: window.Test_CV13 },
@@ -316,6 +318,8 @@ const testsToLoad = [
     { name: "Cardio-Physiology: Arterial BP Regulation (CV17)", data: window.Test_CV17 },
     { name: "Cardio-Histology: The Heart (CV18)", data: window.Test_CV18 },
     { name: "Cardio-Histology: Vessels & Lymphatics (CV19)", data: window.Test_CV19 },
+
+    { name: "Cardio-WEEK 2 CUMULATIVE EXAM (CV11-19)", data: window.Test_Cumulative_CPR_Wk2 },
     { name: "Cardio-OMM: Cranial Strain Patterns, Condylar Decompression & Lifts (CV21)", data: window.Test_CV21 },
     { name: "Cardio-Physiology: Cardiac Action Potentials (CV22)", data: window.Test_CV22 },
     { name: "Cardio-Physiology: Cardiac Impulse Conduction & Autonomic Control (CV23)", data: window.Test_CV23 },
@@ -327,6 +331,8 @@ const testsToLoad = [
     { name: "Cardio-Physiology: Cardiac Cycle Part II - Loops, Laws & Cardiac Output (CV29)", data: window.Test_CV29 },
     { name: "Cardio-Pharmacology: Diuretic Agents Part 1 (CV30)", data: window.Test_CV30 },
     { name: "Cardio-Pharmacology: Diuretic Agents Part 2 (CV31)", data: window.Test_CV31 },
+
+    { name: "Cardio-WEEK 3 CUMULATIVE EXAM (CV21-31)", data: window.Test_Cumulative_CPR_Wk3 },
     { name: "Cardio-OMM: Scoliosis (CV32)", data: window.Test_CV32 },
     { name: "Cardio-OMM: Short Leg Syndrome & Heel Lift Therapy (CV33)", data: window.Test_CV33 },
     { name: "Cardio-OMM: Balanced Membranous Tension, V-Spread & CV4 (CV34)", data: window.Test_CV34 },
@@ -337,6 +343,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical Medicine: Hypertension Management (CV39)", data: window.Test_CV39 },
     { name: "Cardio-Physiology: Shock Pathophysiology & Management (CV40)", data: window.Test_CV40 },
     { name: "Cardio-Radiology: Introduction to the Normal Chest X-Ray (CV41)", data: window.Test_CV41 },
+
+    { name: "Cardio-WEEK 4 CUMULATIVE EXAM (CV32-41)", data: window.Test_Cumulative_CPR_Wk4 },
     { name: "Cardio-OMM: Osteopathic Considerations of Lower Back Pain (CV42)", data: window.Test_CV42 },
     { name: "Cardio-DPR: Cardiac Prevention & Clinical Communication (CV43)", data: window.Test_CV43 },
     { name: "Cardio-Anatomy: Pulmonary Anatomy & Histology (CV44)", data: window.Test_CV44 },
@@ -350,6 +358,22 @@ const testsToLoad = [
     { name: "Cardio-Physiology: Ventilation/Perfusion Relationships (CV52)", data: window.Test_CV52 },
     { name: "Cardio-Physiology: Control Mechanisms of Respiration (CV53)", data: window.Test_CV53 },
     { name: "Cardio-Physiology: Introduction to Exercise Physiology (CV54)", data: window.Test_CV54 },
+
+    { name: "Cardio-WEEK 5 CUMULATIVE EXAM (CV42-54)", data: window.Test_Cumulative_CPR_Wk5 },
+
+    // --- Review Lectures ---
+    // First-order recall sets for the lectures flagged as review material. Three come from
+    // FOM (L60, L61, L73) and six from PPOM 1. They keep the "Cardio-" prefix so they route to
+    // Section V, and the "Review:" marker puts them in their own group instead of a week.
+    { name: "Cardio-Review: Human Genetics III - Mendelian Exceptions & Genomic Imprinting (FOM60)", data: window.Test_Review_L60 },
+    { name: "Cardio-Review: Human Genetics IV - Multifactorial & Complex Disorders (FOM61)", data: window.Test_Review_L61 },
+    { name: "Cardio-Review: Histology of Blood (FOM73)", data: window.Test_Review_L73 },
+    { name: "Cardio-Review: Seizures and Epilepsy (L50)", data: window.Test_Review_L50 },
+    { name: "Cardio-Review: Headache (L63)", data: window.Test_Review_L63 },
+    { name: "Cardio-Review: Neurodevelopmental & Behavioral Problems in Children (L77)", data: window.Test_Review_L77 },
+    { name: "Cardio-Review: Hematopoiesis (L150)", data: window.Test_Review_L150 },
+    { name: "Cardio-Review: Laboratory Medicine and Anemias Part 1 (L151)", data: window.Test_Review_L151 },
+    { name: "Cardio-Review: Laboratory Medicine and Anemias Part 2 (L152)", data: window.Test_Review_L152 },
 ];
 
 if (typeof window !== "undefined") {

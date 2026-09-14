@@ -33,11 +33,18 @@ document.addEventListener('DOMContentLoaded', () => {
             // keys). The TOC filters by section before grouping, so these keys
             // never mix with Neurology's weeks 1-4; the only other caller is the
             // hidden #test-selector-nav, whose buttons are keyed per test name.
-            const cvMatch = test.name.match(/\(CV(\d+)\)/);
+            const cvMatch = test.name.match(/\(CV(\d+)(?:[-–]\d+)?\)/);
             if (cvMatch && window.cprWeek) {
                 const wk = window.cprWeek(parseInt(cvMatch[1], 10));
                 if (wk) groupKey = `Week ${wk}`;
             }
+
+            // CPR Block 1 also carries first-order review sets drawn from FOM and PPOM 1.
+            // They use the same "Cardio-" routing prefix so getTestSection files them under
+            // Section V, but they belong to no curriculum week, so they get their own group.
+            // The TOC sorts "Week N" groups first and the rest alphabetically, so this lands
+            // after Week 5 without any extra ordering rule.
+            if (/^Cardio-Review:/.test(test.name)) groupKey = "Review Lectures";
 
             if (!grouped[groupKey]) {
                 grouped[groupKey] = [];
@@ -1229,9 +1236,14 @@ document.addEventListener('DOMContentLoaded', () => {
             // Option 1: New format with direct pdfPage
             if (question.pdfPage) {
                 shouldShowPDF = true;
-                // Extract lecture ID from test name (search for (Lxx) pattern)
-                const lectureIdMatch = currentTestName.match(/\(((?:L|CV)\d+[a-z]?)\)/);
-                lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
+                // A question may name its own source lecture. That is required for tests that
+                // mix lectures (cumulative exams) and for ids the test-name pattern cannot carry
+                // (e.g. FOM60, where the bare number 60 belongs to a different course's lecture).
+                // Fall back to the id embedded in the test name for ordinary per-lecture tests.
+                const lectureIdMatch = currentTestName.match(/\(((?:L|CV|FOM)\d+[a-z]?)\)/);
+                lectureId = question.pdfLecture
+                    || (question.lectureSource || '').match(/^((?:L|CV|FOM)\d+[a-z]?)/)?.[1]
+                    || (lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim());
                 pageNum = question.pdfPage;
                 console.log("Direct PDF reference - Lecture:", lectureId, "Page:", pageNum);
             }
@@ -1703,9 +1715,14 @@ document.addEventListener('DOMContentLoaded', () => {
             // Option 1: New format with direct pdfPage
             if (q.pdfPage) {
                 shouldShowPDF = true;
-                // Extract lecture ID from test name (search for (Lxx) pattern)
-                const lectureIdMatch = currentTestName.match(/\(((?:L|CV)\d+[a-z]?)\)/);
-                lectureId = lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim();
+                // A question may name its own source lecture. That is required for tests that
+                // mix lectures (cumulative exams) and for ids the test-name pattern cannot carry
+                // (e.g. FOM60, where the bare number 60 belongs to a different course's lecture).
+                // Fall back to the id embedded in the test name for ordinary per-lecture tests.
+                const lectureIdMatch = currentTestName.match(/\(((?:L|CV|FOM)\d+[a-z]?)\)/);
+                lectureId = q.pdfLecture
+                    || (q.lectureSource || '').match(/^((?:L|CV|FOM)\d+[a-z]?)/)?.[1]
+                    || (lectureIdMatch ? lectureIdMatch[1] : currentTestName.replace(/^(\d+-)/, '').trim());
                 pageNum = q.pdfPage;
             }
             // Option 2: Legacy format with slideImagePath
