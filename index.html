@@ -273,7 +273,7 @@
             color: var(--text-primary);
         }
     </style>
-    <link rel="stylesheet" href="enhancements.css">
+    <link rel="stylesheet" href="enhancements.css?v=2">
 </head>
 
 <body class="antialiased min-h-screen pb-12">
@@ -515,6 +515,13 @@
                                     <div style="align-self: end; padding-bottom: 0.5rem;">
                                         <div class="summary-score-fraction" id="final-score"></div>
                                     </div>
+                                </div>
+
+                                <!-- CPR weekly exams only; filled by renderLectureBreakdown in app.js -->
+                                <div id="summary-by-lecture-section" style="display:none;">
+                                    <h3 class="editorial-h2">Performance by Lecture</h3>
+                                    <p class="summary-dek">Every lecture on this exam, weakest first. Start your review at the top.</p>
+                                    <ul class="summary-stat-list" id="summary-by-lecture"></ul>
                                 </div>
 
                                 <h3 class="editorial-h2" id="summary-weakest-heading" style="display:none;">
@@ -932,7 +939,7 @@
     <script src="Test_Review_L151.js"></script>
     <script src="Test_Review_L152.js"></script>
     <script src="config.js"></script>
-    <script src="app.js?v=9"></script>
+    <script src="app.js?v=11"></script>
     <script src="scripts/welcome-screen.js"></script>
 </body>
 
