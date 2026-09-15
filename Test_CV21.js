@@ -57,7 +57,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Extension phase in the vault hold: hands and fingers come together and move cephalad with palms moving medially — the exact mirror of flexion.",
+    "clinicalPearl": "Extension phase in the vault hold: hands and fingers come together and move cephalad with palms moving medially - the exact mirror of flexion.",
     "pdfPage": 4,
     "pdfQuote": "cephalad, palms move medially"
   },
@@ -84,7 +84,7 @@ const Test_CV21 = [
       },
       {
         "text": "The right hand moves caudad with its fingers spreading apart while the left hand moves cephalad with its fingers approximating",
-        "explanation": "Correct. In a right sidebending-rotation, the right hand and fingers feel as though they move toward the feet (caudad) with the fingers spreading apart — this is the side of the convexity, the side for which the pattern is named — while the left hand and fingers move cephalad with the fingers narrowing on the side of the concavity. The pattern is physiologic, involving two parallel vertical axes for sidebending and one A/P axis for rotation. A left sidebending-rotation produces exactly the opposite findings."
+        "explanation": "Correct. In a right sidebending-rotation, the right hand and fingers feel as though they move toward the feet (caudad) with the fingers spreading apart - this is the side of the convexity, the side for which the pattern is named - while the left hand and fingers move cephalad with the fingers narrowing on the side of the concavity. The pattern is physiologic, involving two parallel vertical axes for sidebending and one A/P axis for rotation. A left sidebending-rotation produces exactly the opposite findings."
       }
     ],
     "correctAnswerIndex": 4,
@@ -103,7 +103,7 @@ const Test_CV21 = [
       },
       {
         "text": "The right hand rotates cephalad, with the right index finger rising toward the operator, because the greater wing of the sphenoid moves cephalad on the right",
-        "explanation": "Correct. In a torsion, the two hands rotate in opposite directions around an anteroposterior axis, and the hand that rotates cephalad is on the side where the greater wing of the sphenoid moves cephalad — the side for which the torsion is named. In a right torsion, the operator feels the right index finger coming up toward them while the right pinky moves toward the patient's feet, with the left hand doing the opposite. This is a physiologic pattern because the occiput and sphenoid move around the single A/P axis in opposite directions."
+        "explanation": "Correct. In a torsion, the two hands rotate in opposite directions around an anteroposterior axis, and the hand that rotates cephalad is on the side where the greater wing of the sphenoid moves cephalad - the side for which the torsion is named. In a right torsion, the operator feels the right index finger coming up toward them while the right pinky moves toward the patient's feet, with the left hand doing the opposite. This is a physiologic pattern because the occiput and sphenoid move around the single A/P axis in opposite directions."
       },
       {
         "text": "The pattern is named for the side toward which both pinky fingers drift, so a right torsion means both pinkies have drifted toward the patient's right side",
@@ -119,7 +119,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Torsions are named for the side where the greater wing of the sphenoid moves cephalad — the side of the hand that rotates cephalad (index finger rising toward the operator).",
+    "clinicalPearl": "Torsions are named for the side where the greater wing of the sphenoid moves cephalad - the side of the hand that rotates cephalad (index finger rising toward the operator).",
     "pdfPage": 4,
     "pdfQuote": "Greater Wing of Sphenoid moves"
   },
@@ -150,7 +150,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Lateral strains are named for the direction of the basisphenoid (the side of the pinkies) — the index fingers drift OPPOSITE the name. Right lateral strain: index fingers left, pinkies right.",
+    "clinicalPearl": "Lateral strains are named for the direction of the basisphenoid (the side of the pinkies) - the index fingers drift OPPOSITE the name. Right lateral strain: index fingers left, pinkies right.",
     "pdfPage": 5,
     "pdfQuote": "side of the pinkies"
   },
@@ -165,7 +165,7 @@ const Test_CV21 = [
       },
       {
         "text": "The index fingers point toward the feet and the pinkies move toward the head as the hands rotate anteriorly",
-        "explanation": "Correct. In a superior shear, both index fingers point down toward the patient's feet while the pinkies move toward the head, and the hands rotate anteriorly. Because the sphenoid and occiput are moving around their two transverse axes in the SAME direction — something the sphenobasilar synchondrosis is not built to do — the pattern is classified as non-physiologic. The inferior shear is the exact mirror image, with the index fingers moving toward the head and the hands rotating posteriorly."
+        "explanation": "Correct. In a superior shear, both index fingers point down toward the patient's feet while the pinkies move toward the head, and the hands rotate anteriorly. Because the sphenoid and occiput are moving around their two transverse axes in the SAME direction - something the sphenobasilar synchondrosis is not built to do - the pattern is classified as non-physiologic. The inferior shear is the exact mirror image, with the index fingers moving toward the head and the hands rotating posteriorly."
       },
       {
         "text": "Both index fingers translate toward one side while both pinkies translate to the other",
@@ -192,7 +192,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "An acute skull fracture identified on imaging",
-        "explanation": "Incorrect. An acute skull fracture is an absolute contraindication to cranial manipulation — the lecturer grouped it with acute intracranial bleeding as a 'same thing, absolute contraindication.' No cranial technique should be applied to an acutely fractured skull. This would be the correct answer if the question had asked for an absolute contraindication."
+        "explanation": "Incorrect. An acute skull fracture is an absolute contraindication to cranial manipulation - the lecturer grouped it with acute intracranial bleeding as a 'same thing, absolute contraindication.' No cranial technique should be applied to an acutely fractured skull. This would be the correct answer if the question had asked for an absolute contraindication."
       },
       {
         "text": "Refusal of the patient to consent to cranial treatment",
@@ -204,11 +204,11 @@ const Test_CV21 = [
       },
       {
         "text": "Absence of any identifiable somatic dysfunction",
-        "explanation": "Incorrect. There must be some sort of somatic dysfunction to justify treatment; without one, there is nothing to treat and manipulation is not indicated — an absolute contraindication. Treating in the absence of dysfunction has no therapeutic target. This would be the correct answer if the question had asked which finding absolutely precludes treatment."
+        "explanation": "Incorrect. There must be some sort of somatic dysfunction to justify treatment; without one, there is nothing to treat and manipulation is not indicated - an absolute contraindication. Treating in the absence of dysfunction has no therapeutic target. This would be the correct answer if the question had asked which finding absolutely precludes treatment."
       },
       {
         "text": "Increased intracranial pressure",
-        "explanation": "Correct. The relative contraindications listed in lecture are coagulopathies, a space-occupying lesion in the cranium, and increased intracranial pressure — situations requiring clinical judgment rather than automatic exclusion. The absolute contraindications are lack of consent, absence of somatic dysfunction, acute intracranial bleeding/CVA, and acute skull fracture, with certain seizure states arguable as absolute or relative depending on the clinical situation. The lecturer's overriding rule: use common sense, and if you are not comfortable, do not do it."
+        "explanation": "Correct. The relative contraindications listed in lecture are coagulopathies, a space-occupying lesion in the cranium, and increased intracranial pressure - situations requiring clinical judgment rather than automatic exclusion. The absolute contraindications are lack of consent, absence of somatic dysfunction, acute intracranial bleeding/CVA, and acute skull fracture, with certain seizure states arguable as absolute or relative depending on the clinical situation. The lecturer's overriding rule: use common sense, and if you are not comfortable, do not do it."
       }
     ],
     "correctAnswerIndex": 4,
@@ -223,7 +223,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "At asterion, in the region of the transverse sinus where several cranial bones come together",
-        "explanation": "Correct. The lecturer singled out asterion — one of the two circled landmarks on the lateral skull view — as 'probably the place where you're going to feel the highest amplitude when you're in the vault contact.' The landmark chart lists asterion in association with the transverse sinus as the area of greatest amplitude in the vault contact. Asterion is also a former fontanelle site and lies near the parietal notch, which is why the parietal lift can improve motion there."
+        "explanation": "Correct. The lecturer singled out asterion - one of the two circled landmarks on the lateral skull view - as 'probably the place where you're going to feel the highest amplitude when you're in the vault contact.' The landmark chart lists asterion in association with the transverse sinus as the area of greatest amplitude in the vault contact. Asterion is also a former fontanelle site and lies near the parietal notch, which is why the parietal lift can improve motion there."
       },
       {
         "text": "At bregma, where the coronal and sagittal sutures intersect",
@@ -243,7 +243,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Asterion is the area of greatest amplitude in the vault contact — and it sits near the transverse sinus, where the tentorium cerebelli crosses.",
+    "clinicalPearl": "Asterion is the area of greatest amplitude in the vault contact - and it sits near the transverse sinus, where the tentorium cerebelli crosses.",
     "pdfPage": 11,
     "pdfQuote": "area of greatest amplitude in vault contact"
   },
@@ -258,11 +258,11 @@ const Test_CV21 = [
       },
       {
         "text": "The nasion is the point where the nasal bones meet the frontal processes of the maxillae laterally",
-        "explanation": "Incorrect. The frontal processes of the maxillae lie lateral to the nasal bones — the slide on the nasion spread warns that going too far lateral puts you on the frontal processes of the maxilla, off the intended landmark. The nasion is a midline structure, not a lateral one. This would be the correct answer if the nasion were located at the lateral nasal articulation, which is exactly the palpation error to avoid."
+        "explanation": "Incorrect. The frontal processes of the maxillae lie lateral to the nasal bones - the slide on the nasion spread warns that going too far lateral puts you on the frontal processes of the maxilla, off the intended landmark. The nasion is a midline structure, not a lateral one. This would be the correct answer if the nasion were located at the lateral nasal articulation, which is exactly the palpation error to avoid."
       },
       {
         "text": "The frontonasal suture is where the two nasal bones articulate with the frontal bone; the nasion is the single midline point where all three bones meet",
-        "explanation": "Correct. The frontonasal suture is the articulation of the two nasal bones with the frontal bone, and right in the midline — where the two nasal bones and the frontal bone come together — is the nasion. This distinction matters for the nasion spread, whose landmark is the nasal and frontal bones at that midline point, and it also matters conceptually because the ethmoid lies deep to the nasion, connecting this landmark to sinus drainage and to the dural attachments."
+        "explanation": "Correct. The frontonasal suture is the articulation of the two nasal bones with the frontal bone, and right in the midline - where the two nasal bones and the frontal bone come together - is the nasion. This distinction matters for the nasion spread, whose landmark is the nasal and frontal bones at that midline point, and it also matters conceptually because the ethmoid lies deep to the nasion, connecting this landmark to sinus drainage and to the dural attachments."
       },
       {
         "text": "The nasion is another name for the glabella on the frontal bone",
@@ -274,7 +274,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The frontonasal suture is the articulation of both nasal bones with the frontal bone; the nasion is the single midline point where the two nasal bones and the frontal bone meet — with the ethmoid lying deep to it.",
+    "clinicalPearl": "The frontonasal suture is the articulation of both nasal bones with the frontal bone; the nasion is the single midline point where the two nasal bones and the frontal bone meet - with the ethmoid lying deep to it.",
     "pdfPage": 14,
     "pdfQuote": "Frontonasal suture"
   },
@@ -297,11 +297,11 @@ const Test_CV21 = [
       },
       {
         "text": "The external occipital protuberance (inion), which marks the confluence of sinuses",
-        "explanation": "Correct. All of the venous sinuses inside the skull meet at the confluence of sinuses, and where the line of the transverse sinus meets the skull there is a little bump — the inion, or external occipital protuberance. The lecturer pointed this out specifically because later cranial techniques place the fingers on the EOP to help drain the venous sinuses. The superior nuchal line, another posterior landmark used throughout the year, extends from this region."
+        "explanation": "Correct. All of the venous sinuses inside the skull meet at the confluence of sinuses, and where the line of the transverse sinus meets the skull there is a little bump - the inion, or external occipital protuberance. The lecturer pointed this out specifically because later cranial techniques place the fingers on the EOP to help drain the venous sinuses. The superior nuchal line, another posterior landmark used throughout the year, extends from this region."
       },
       {
         "text": "The occipitomastoid suture posterior to the mastoid process",
-        "explanation": "Incorrect. The occipitomastoid suture runs between the occiput and the mastoid portion of the temporal bone laterally and does not form a midline palpable bump. The structure described — a bump where the transverse sinus meets the skull — is the external occipital protuberance. This would be the correct answer if the question had asked which suture lies just posterior to the mastoid process near asterion."
+        "explanation": "Incorrect. The occipitomastoid suture runs between the occiput and the mastoid portion of the temporal bone laterally and does not form a midline palpable bump. The structure described - a bump where the transverse sinus meets the skull - is the external occipital protuberance. This would be the correct answer if the question had asked which suture lies just posterior to the mastoid process near asterion."
       }
     ],
     "correctAnswerIndex": 3,
@@ -363,11 +363,11 @@ const Test_CV21 = [
       },
       {
         "text": "The articulation converges anteriorly and diverges posteriorly, so the condyles can wedge into the atlas in extension",
-        "explanation": "Correct. Where the occipital condyles articulate with the atlas there is an anterior convergence and a posterior divergence. Because of this wedge-like geometry, the condyles can get 'really jammed into the atlas' when the head is in extension — and that compressed occipitoatlantal relationship is exactly the dysfunction that condylar decompression is designed to treat. This anatomy also explains why severe OA compression on a structural exam points to condylar decompression as the technique of choice."
+        "explanation": "Correct. Where the occipital condyles articulate with the atlas there is an anterior convergence and a posterior divergence. Because of this wedge-like geometry, the condyles can get 'really jammed into the atlas' when the head is in extension - and that compressed occipitoatlantal relationship is exactly the dysfunction that condylar decompression is designed to treat. This anatomy also explains why severe OA compression on a structural exam points to condylar decompression as the technique of choice."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "The occipitoatlantal articulation converges anteriorly and diverges posteriorly — so the occipital condyles jam into the atlas in EXTENSION, the dysfunction treated by condylar decompression.",
+    "clinicalPearl": "The occipitoatlantal articulation converges anteriorly and diverges posteriorly - so the occipital condyles jam into the atlas in EXTENSION, the dysfunction treated by condylar decompression.",
     "pdfPage": 19,
     "pdfQuote": "Photographic Atlas of Anatomy"
   },
@@ -378,11 +378,11 @@ const Test_CV21 = [
     "options": [
       {
         "text": "It lies in the ethmoid bone where the frontal articulates, and restriction there obstructs the maxillary sinus ostium",
-        "explanation": "Incorrect. The relationship is reversed — the notch is in the FRONTAL bone, where the ethmoid articulates with it — and the sinuses whose drainage suffers are the frontal and ethmoid sinuses, not the maxillary. Maxillary drainage depends on the maxilla-zygoma pump. This would be the correct answer if the notch belonged to the ethmoid and drained the maxillary sinus, both of which contradict the lecture."
+        "explanation": "Incorrect. The relationship is reversed - the notch is in the FRONTAL bone, where the ethmoid articulates with it - and the sinuses whose drainage suffers are the frontal and ethmoid sinuses, not the maxillary. Maxillary drainage depends on the maxilla-zygoma pump. This would be the correct answer if the notch belonged to the ethmoid and drained the maxillary sinus, both of which contradict the lecture."
       },
       {
         "text": "It lies in the frontal bone where the ethmoid articulates, and restricted motion there impairs drainage of the frontal and ethmoid sinuses",
-        "explanation": "Correct. The ethmoid notch is in the frontal bone, and it is where the ethmoid articulates with the frontal. If there is not good motion between the ethmoid and the frontal, drainage of the frontal and ethmoid sinuses is impaired — the slide adds that ethmoid notch freedom may impact effective function of the ethmoid's cribriform plate. This anatomy is the core rationale for the frontal lift in sinus congestion, and it connects to the frontal lift's other indications: ethmoid restriction (dura attaching at the crista galli), headaches, trauma, concussions, eye complaints, frontal lobe mood and executive function disorders, and smell."
+        "explanation": "Correct. The ethmoid notch is in the frontal bone, and it is where the ethmoid articulates with the frontal. If there is not good motion between the ethmoid and the frontal, drainage of the frontal and ethmoid sinuses is impaired - the slide adds that ethmoid notch freedom may impact effective function of the ethmoid's cribriform plate. This anatomy is the core rationale for the frontal lift in sinus congestion, and it connects to the frontal lift's other indications: ethmoid restriction (dura attaching at the crista galli), headaches, trauma, concussions, eye complaints, frontal lobe mood and executive function disorders, and smell."
       },
       {
         "text": "It lies in the maxilla where the zygoma articulates, and restriction there impairs the pumping mechanism that normally drains the maxillary sinus of its secretions",
@@ -398,7 +398,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The ethmoid notch is in the FRONTAL bone where the ethmoid articulates; poor frontal-ethmoid motion impairs frontal and ethmoid sinus drainage — the anatomic rationale for the frontal lift.",
+    "clinicalPearl": "The ethmoid notch is in the FRONTAL bone where the ethmoid articulates; poor frontal-ethmoid motion impairs frontal and ethmoid sinus drainage - the anatomic rationale for the frontal lift.",
     "pdfPage": 21,
     "pdfQuote": "The ethmoid notch freedom may impact"
   },
@@ -417,7 +417,7 @@ const Test_CV21 = [
       },
       {
         "text": "The maxillary sinus ostium sits high up on the medial sidewall, so secretions must drain against gravity",
-        "explanation": "Correct. The maxillary sinus is the most common site of sinusitis, and the reason is anatomic: the opening of the sinus is high up on the medial sidewall of the sinus, so it cannot drain dependently. This is why the sinus relies on a mechanical pump — the movement between the maxilla and the zygoma during primary respiration — and why restriction anywhere in the frontal-maxilla-zygoma mechanism causes a drainage problem that the zygomatic lift is designed to address."
+        "explanation": "Correct. The maxillary sinus is the most common site of sinusitis, and the reason is anatomic: the opening of the sinus is high up on the medial sidewall of the sinus, so it cannot drain dependently. This is why the sinus relies on a mechanical pump - the movement between the maxilla and the zygoma during primary respiration - and why restriction anywhere in the frontal-maxilla-zygoma mechanism causes a drainage problem that the zygomatic lift is designed to address."
       },
       {
         "text": "The maxillary sinus lacks communication with the nasal cavity",
@@ -429,7 +429,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The maxillary sinus is the most common site of sinusitis because its ostium sits high on the medial sidewall — drainage is uphill and depends on the maxilla-zygoma pump.",
+    "clinicalPearl": "The maxillary sinus is the most common site of sinusitis because its ostium sits high on the medial sidewall - drainage is uphill and depends on the maxilla-zygoma pump.",
     "pdfPage": 29,
     "pdfQuote": "most common site of"
   },
@@ -452,7 +452,7 @@ const Test_CV21 = [
       },
       {
         "text": "The sigmoid, transverse, and superior petrosal sinuses",
-        "explanation": "Correct. The parietal notch is in proximity to the sigmoid sinus, the transverse sinus, and the superior petrosal sinus, so a restriction at the notch can cause a restriction in the dura around those venous sinuses. The notch is also close to asterion — if the parietal notch is locked up, motion at asterion decreases — which is why a parietal lift improves motion and function at asterion, improves parietal and temporal motion, and helps relieve dural strains within the skull."
+        "explanation": "Correct. The parietal notch is in proximity to the sigmoid sinus, the transverse sinus, and the superior petrosal sinus, so a restriction at the notch can cause a restriction in the dura around those venous sinuses. The notch is also close to asterion - if the parietal notch is locked up, motion at asterion decreases - which is why a parietal lift improves motion and function at asterion, improves parietal and temporal motion, and helps relieve dural strains within the skull."
       },
       {
         "text": "The straight sinus and great cerebral vein at the tentorial apex",
@@ -460,7 +460,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "The parietal notch lies near the sigmoid, transverse, and superior petrosal sinuses — a locked notch restricts the dura around these sinuses and decreases motion at asterion.",
+    "clinicalPearl": "The parietal notch lies near the sigmoid, transverse, and superior petrosal sinuses - a locked notch restricts the dura around these sinuses and decreases motion at asterion.",
     "pdfPage": 25,
     "pdfQuote": "Venous Sinuses &"
   },
@@ -471,11 +471,11 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Condylar decompression",
-        "explanation": "Correct. This infant has the classic profile for condylar decompression: colic (inconsolable evening crying) and suckling difficulty are listed clinical indications, along with headache, neck pain, low back pain, and plagiocephaly. The structural findings — the occiput compressed into the atlas toward extension — match the anatomy of the technique: the occipitoatlantal articulation converges anteriorly and diverges posteriorly, so the condyles jam into the atlas in extension, and decompression of the occipital condyles directly treats that compression."
+        "explanation": "Correct. This infant has the classic profile for condylar decompression: colic (inconsolable evening crying) and suckling difficulty are listed clinical indications, along with headache, neck pain, low back pain, and plagiocephaly. The structural findings - the occiput compressed into the atlas toward extension - match the anatomy of the technique: the occipitoatlantal articulation converges anteriorly and diverges posteriorly, so the condyles jam into the atlas in extension, and decompression of the occipital condyles directly treats that compression."
       },
       {
         "text": "Frontal lift",
-        "explanation": "Incorrect. The frontal lift addresses frontal bone and ethmoid restrictions and is indicated for sinus congestion, headaches, trauma, eye complaints, frontal lobe mood or executive dysfunction, and smell problems — none of which describe this infant. The dysfunction here is at the occipitoatlantal junction, not the frontal bone. This would be the correct answer if the patient had frontal sinus congestion or an ethmoid restriction."
+        "explanation": "Incorrect. The frontal lift addresses frontal bone and ethmoid restrictions and is indicated for sinus congestion, headaches, trauma, eye complaints, frontal lobe mood or executive dysfunction, and smell problems - none of which describe this infant. The dysfunction here is at the occipitoatlantal junction, not the frontal bone. This would be the correct answer if the patient had frontal sinus congestion or an ethmoid restriction."
       },
       {
         "text": "Zygomatic (maxillary) lift",
@@ -487,11 +487,11 @@ const Test_CV21 = [
       },
       {
         "text": "Parietal lift",
-        "explanation": "Incorrect. The parietal lift addresses parietal restrictions, venous sinus congestion around the parietal notch, and decreased motion at asterion — indications centered on headache, facial and venous sinus issues, and developmental abnormalities. The primary finding here is condylar compression at the skull base. This would be the correct answer if the exam had localized restriction to the parietal notch and asterion."
+        "explanation": "Incorrect. The parietal lift addresses parietal restrictions, venous sinus congestion around the parietal notch, and decreased motion at asterion - indications centered on headache, facial and venous sinus issues, and developmental abnormalities. The primary finding here is condylar compression at the skull base. This would be the correct answer if the exam had localized restriction to the parietal notch and asterion."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Suckling issues and colic in an infant are classic clinical indications for condylar decompression — the occipital condyles jam into the atlas in extension, often after difficult deliveries.",
+    "clinicalPearl": "Suckling issues and colic in an infant are classic clinical indications for condylar decompression - the occipital condyles jam into the atlas in extension, often after difficult deliveries.",
     "pdfPage": 20,
     "pdfQuote": "Suckling issues"
   },
@@ -518,11 +518,11 @@ const Test_CV21 = [
       },
       {
         "text": "Nasion spread",
-        "explanation": "Incorrect. The nasion spread shares several indications with the frontal lift — sinusitis, trauma, concussion, smell disorders — but it targets the nasal-frontal junction, and it does not carry the frontal lobe mood and executive function indications that make this vignette specific. The stated restriction is of the frontal bone itself at the ethmoid articulation, which the frontal lift addresses directly. This would be the correct answer if the findings had centered on the nasion with a sacral dysfunction or post-nasal drip."
+        "explanation": "Incorrect. The nasion spread shares several indications with the frontal lift - sinusitis, trauma, concussion, smell disorders - but it targets the nasal-frontal junction, and it does not carry the frontal lobe mood and executive function indications that make this vignette specific. The stated restriction is of the frontal bone itself at the ethmoid articulation, which the frontal lift addresses directly. This would be the correct answer if the findings had centered on the nasion with a sacral dysfunction or post-nasal drip."
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Frontal lift indications: frontal/ethmoid sinus congestion, headaches, trauma/concussion, eye complaints, frontal lobe mood and executive dysfunction, and impaired smell — think of it when frontal-ethmoid motion is restricted.",
+    "clinicalPearl": "Frontal lift indications: frontal/ethmoid sinus congestion, headaches, trauma/concussion, eye complaints, frontal lobe mood and executive dysfunction, and impaired smell - think of it when frontal-ethmoid motion is restricted.",
     "pdfPage": 23,
     "pdfQuote": "Frontal sinusitis/congestion"
   },
@@ -576,15 +576,15 @@ const Test_CV21 = [
       },
       {
         "text": "Gravity-dependent drainage through an ostium located at the most dependent portion of the sinus",
-        "explanation": "Incorrect. The maxillary ostium is high up on the medial sidewall of the sinus — the very reason the maxillary sinus is the most common site of sinusitis — so gravity works against drainage rather than accomplishing it. A pump is needed precisely because dependent drainage is impossible. This would be the correct answer if the ostium sat at the sinus floor, which reverses the actual anatomy."
+        "explanation": "Incorrect. The maxillary ostium is high up on the medial sidewall of the sinus - the very reason the maxillary sinus is the most common site of sinusitis - so gravity works against drainage rather than accomplishing it. A pump is needed precisely because dependent drainage is impossible. This would be the correct answer if the ostium sat at the sinus floor, which reverses the actual anatomy."
       },
       {
         "text": "Movement between the maxilla and the zygoma during primary respiration",
-        "explanation": "Correct. The pump of the maxillary sinus is produced by the movement between the maxilla and the zygoma. The zygoma's motion is very influential in assisting the pumping motion of the maxilla, and the maxilla hangs from the frontal bone while articulating with the zygoma — so a restriction anywhere in that mechanism (frontal, maxilla, or zygoma) causes a problem with maxillary sinus drainage. This is why the zygomatic lift is the technique paired with maxillary sinusitis."
+        "explanation": "Correct. The pump of the maxillary sinus is produced by the movement between the maxilla and the zygoma. The zygoma's motion is very influential in assisting the pumping motion of the maxilla, and the maxilla hangs from the frontal bone while articulating with the zygoma - so a restriction anywhere in that mechanism (frontal, maxilla, or zygoma) causes a problem with maxillary sinus drainage. This is why the zygomatic lift is the technique paired with maxillary sinusitis."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "The maxillary sinus pump is produced by movement between the maxilla and the zygoma — restriction of the zygoma, maxilla, or the frontal bone it hangs from impairs maxillary drainage.",
+    "clinicalPearl": "The maxillary sinus pump is produced by movement between the maxilla and the zygoma - restriction of the zygoma, maxilla, or the frontal bone it hangs from impairs maxillary drainage.",
     "pdfPage": 32,
     "pdfQuote": "pump of the maxillary sinus is produced"
   },
@@ -595,7 +595,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Asterion is a process of the frontal bone, so any frontal technique will restore its motion",
-        "explanation": "Incorrect. Asterion is a posterolateral landmark where bones come together near the occipitomastoid region — nowhere near the frontal bone, and not a bony process at all. The technique that improves asterion motion by way of an adjacent bone is the parietal lift. This would be the correct answer if asterion belonged to the frontal bone, which contradicts the landmark anatomy."
+        "explanation": "Incorrect. Asterion is a posterolateral landmark where bones come together near the occipitomastoid region - nowhere near the frontal bone, and not a bony process at all. The technique that improves asterion motion by way of an adjacent bone is the parietal lift. This would be the correct answer if asterion belonged to the frontal bone, which contradicts the landmark anatomy."
       },
       {
         "text": "The dura attaches at the nasion and transmits parietal lift forces down the entire dural tube to the sacrum and lower extremities",
@@ -603,7 +603,7 @@ const Test_CV21 = [
       },
       {
         "text": "The transverse sinus and tentorium cerebelli cross near asterion, and freeing the parietal improves motion and function at asterion",
-        "explanation": "Correct. The transverse sinus and the tentorium cerebelli cross near asterion, and the parietal notch lies in proximity to asterion — so when the parietal notch is locked up, motion at asterion decreases. If you need to free up asterion, you can start by freeing the parietal with a parietal lift, which improves motion and function at asterion, improves motion of the parietal and temporal bones, and helps relieve dural strains within the skull. This is the lecture's explicit rationale for choosing the parietal lift here."
+        "explanation": "Correct. The transverse sinus and the tentorium cerebelli cross near asterion, and the parietal notch lies in proximity to asterion - so when the parietal notch is locked up, motion at asterion decreases. If you need to free up asterion, you can start by freeing the parietal with a parietal lift, which improves motion and function at asterion, improves motion of the parietal and temporal bones, and helps relieve dural strains within the skull. This is the lecture's explicit rationale for choosing the parietal lift here."
       },
       {
         "text": "Asterion directly overlies the confluence of sinuses at the midline",
@@ -615,7 +615,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The transverse sinus and tentorium cerebelli cross near asterion. A locked parietal notch decreases asterion motion — so the parietal lift is the way in to free asterion.",
+    "clinicalPearl": "The transverse sinus and tentorium cerebelli cross near asterion. A locked parietal notch decreases asterion motion - so the parietal lift is the way in to free asterion.",
     "pdfPage": 26,
     "pdfQuote": "transverse sinus and tentorium cerebelli cross near asterion"
   },
@@ -626,7 +626,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Left torsion",
-        "explanation": "Correct. In a left torsion, the left hand twists so that the index finger comes up toward the operator and the left pinky moves toward the feet, with the opposite occurring in the right hand — exactly the findings described. The hand rotating cephalad marks the side where the greater wing of the sphenoid moves cephalad, which names the torsion. This is a physiologic pattern: the occiput and sphenoid rotate in opposite directions around a single anteroposterior axis."
+        "explanation": "Correct. In a left torsion, the left hand twists so that the index finger comes up toward the operator and the left pinky moves toward the feet, with the opposite occurring in the right hand - exactly the findings described. The hand rotating cephalad marks the side where the greater wing of the sphenoid moves cephalad, which names the torsion. This is a physiologic pattern: the occiput and sphenoid rotate in opposite directions around a single anteroposterior axis."
       },
       {
         "text": "Right torsion",
@@ -634,15 +634,15 @@ const Test_CV21 = [
       },
       {
         "text": "Left sidebending-rotation",
-        "explanation": "Incorrect. Sidebending-rotation produces caudad drift with finger spreading on the side of the convexity and cephalad drift with finger narrowing on the other side — whole-hand translation rather than the opposite twisting of the two hands felt here. The rotation of each hand in opposite directions around an A/P axis is the signature of torsion. This would be the correct answer if the left hand had moved caudad with fingers spreading while the right hand moved cephalad with fingers narrowing."
+        "explanation": "Incorrect. Sidebending-rotation produces caudad drift with finger spreading on the side of the convexity and cephalad drift with finger narrowing on the other side - whole-hand translation rather than the opposite twisting of the two hands felt here. The rotation of each hand in opposite directions around an A/P axis is the signature of torsion. This would be the correct answer if the left hand had moved caudad with fingers spreading while the right hand moved cephalad with fingers narrowing."
       },
       {
         "text": "Left lateral strain",
-        "explanation": "Incorrect. A lateral strain produces parallel translation: both index fingers drift toward one side and both pinkies toward the other — in a left lateral strain, index fingers toward the right and pinkies toward the left. The opposite rotation of the hands described here is torsion, not translation. This would be the correct answer if both index fingers had drifted toward the patient's right."
+        "explanation": "Incorrect. A lateral strain produces parallel translation: both index fingers drift toward one side and both pinkies toward the other - in a left lateral strain, index fingers toward the right and pinkies toward the left. The opposite rotation of the hands described here is torsion, not translation. This would be the correct answer if both index fingers had drifted toward the patient's right."
       },
       {
         "text": "Superior vertical shear",
-        "explanation": "Incorrect. In a superior shear both hands behave the same way — index fingers pointing toward the feet, pinkies toward the head, hands rotating anteriorly together — because sphenoid and occiput move around transverse axes in the same direction. The asymmetric, opposite rotation felt here excludes a shear. This would be the correct answer if both index fingers had pointed caudad with both hands rotating anteriorly."
+        "explanation": "Incorrect. In a superior shear both hands behave the same way - index fingers pointing toward the feet, pinkies toward the head, hands rotating anteriorly together - because sphenoid and occiput move around transverse axes in the same direction. The asymmetric, opposite rotation felt here excludes a shear. This would be the correct answer if both index fingers had pointed caudad with both hands rotating anteriorly."
       }
     ],
     "correctAnswerIndex": 0,
@@ -657,7 +657,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Left lateral strain",
-        "explanation": "Incorrect. In a left lateral strain the index fingers move toward the patient's RIGHT and the pinkies toward the left — the mirror image of what is described. Because lateral strains are named for the basisphenoid (the side of the pinkies), index fingers drifting left with pinkies right names the strain right, not left. This would be the correct answer if the index fingers had drifted toward the patient's right."
+        "explanation": "Incorrect. In a left lateral strain the index fingers move toward the patient's RIGHT and the pinkies toward the left - the mirror image of what is described. Because lateral strains are named for the basisphenoid (the side of the pinkies), index fingers drifting left with pinkies right names the strain right, not left. This would be the correct answer if the index fingers had drifted toward the patient's right."
       },
       {
         "text": "Right sidebending-rotation",
@@ -669,7 +669,7 @@ const Test_CV21 = [
       },
       {
         "text": "Right lateral strain",
-        "explanation": "Correct. In a right lateral strain, the operator feels both index fingers moving toward the patient's left and both pinkies moving toward the right. The pattern is named for the direction of the basisphenoid — corresponding to the side of the pinkies — not for the direction of the index fingers, which is 'different from what you expect when you're naming it.' The same-direction movement of sphenoid and occiput around parallel vertical axes makes this a non-physiologic pattern."
+        "explanation": "Correct. In a right lateral strain, the operator feels both index fingers moving toward the patient's left and both pinkies moving toward the right. The pattern is named for the direction of the basisphenoid - corresponding to the side of the pinkies - not for the direction of the index fingers, which is 'different from what you expect when you're naming it.' The same-direction movement of sphenoid and occiput around parallel vertical axes makes this a non-physiologic pattern."
       },
       {
         "text": "Inferior vertical shear",
@@ -677,7 +677,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Index fingers drifting LEFT with pinkies drifting RIGHT = RIGHT lateral strain — the name follows the basisphenoid (pinkies), opposite to the index fingers.",
+    "clinicalPearl": "Index fingers drifting LEFT with pinkies drifting RIGHT = RIGHT lateral strain - the name follows the basisphenoid (pinkies), opposite to the index fingers.",
     "pdfPage": 7,
     "pdfQuote": "Right Lat. Strain"
   },
@@ -692,23 +692,23 @@ const Test_CV21 = [
       },
       {
         "text": "Inferior vertical shear (strain)",
-        "explanation": "Correct. In an inferior shear, the index fingers move toward the head and the pinkies move toward the feet, with the hands rotating posteriorly — exactly what is described. Like the superior shear, this is a non-physiologic pattern: the sphenoid and occiput move around their two transverse axes in the same direction, which the sphenobasilar synchondrosis is not designed to accommodate. Distinguishing the two shears comes down to which way the index fingers point and which way the hands rotate."
+        "explanation": "Correct. In an inferior shear, the index fingers move toward the head and the pinkies move toward the feet, with the hands rotating posteriorly - exactly what is described. Like the superior shear, this is a non-physiologic pattern: the sphenoid and occiput move around their two transverse axes in the same direction, which the sphenobasilar synchondrosis is not designed to accommodate. Distinguishing the two shears comes down to which way the index fingers point and which way the hands rotate."
       },
       {
         "text": "Sphenobasilar synchondrosis (SBS) compression",
-        "explanation": "Incorrect. SBS compression involves no axes of motion at all — per the review chart it either feels rock-hard, like a bowling ball, or feels like all the cranial patterns at once. The distinct, directional finger movements described here indicate a shear rather than compression. This would be the correct answer if the cranium had felt globally rigid without any discernible directional pattern."
+        "explanation": "Incorrect. SBS compression involves no axes of motion at all - per the review chart it either feels rock-hard, like a bowling ball, or feels like all the cranial patterns at once. The distinct, directional finger movements described here indicate a shear rather than compression. This would be the correct answer if the cranium had felt globally rigid without any discernible directional pattern."
       },
       {
         "text": "Cranial extension pattern",
-        "explanation": "Incorrect. During the extension phase the whole hands come together and move cephalad with the palms moving medially — the fingers do not split, with index fingers and pinkies traveling toward opposite ends of the body. The split-direction finding marks a vertical shear. This would be the correct answer if both hands had approximated and drifted cephalad as a unit."
+        "explanation": "Incorrect. During the extension phase the whole hands come together and move cephalad with the palms moving medially - the fingers do not split, with index fingers and pinkies traveling toward opposite ends of the body. The split-direction finding marks a vertical shear. This would be the correct answer if both hands had approximated and drifted cephalad as a unit."
       },
       {
         "text": "Right lateral strain",
-        "explanation": "Incorrect. Lateral strains produce side-to-side parallel drift — in a right lateral strain the index fingers move toward the patient's left and the pinkies toward the right — rather than movement along the head-to-feet axis. The cephalad-caudad split described here is a shear. This would be the correct answer if the fingers had translated horizontally toward opposite sides."
+        "explanation": "Incorrect. Lateral strains produce side-to-side parallel drift - in a right lateral strain the index fingers move toward the patient's left and the pinkies toward the right - rather than movement along the head-to-feet axis. The cephalad-caudad split described here is a shear. This would be the correct answer if the fingers had translated horizontally toward opposite sides."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Inferior shear: index fingers toward the head, pinkies toward the feet, hands rotate posteriorly — the mirror image of the superior shear.",
+    "clinicalPearl": "Inferior shear: index fingers toward the head, pinkies toward the feet, hands rotate posteriorly - the mirror image of the superior shear.",
     "pdfPage": 5,
     "pdfQuote": "Fingers point up toward head"
   },
@@ -735,11 +735,11 @@ const Test_CV21 = [
       },
       {
         "text": "Do not perform cranial manipulation, because an acute skull fracture is an absolute contraindication",
-        "explanation": "Correct. The lecture lists acute skull fracture among the absolute contraindications to osteopathic cranial manipulative medicine, alongside lack of consent, absence of somatic dysfunction, and acute intracranial bleeding or CVA. This patient's fracture is acute, so cranial treatment must be withheld, and the common-sense rule reinforces the decision: if something seems like a contraindication, do not do it. Relative contraindications — coagulopathies, space-occupying lesions, increased ICP — involve judgment, but absolute ones do not."
+        "explanation": "Correct. The lecture lists acute skull fracture among the absolute contraindications to osteopathic cranial manipulative medicine, alongside lack of consent, absence of somatic dysfunction, and acute intracranial bleeding or CVA. This patient's fracture is acute, so cranial treatment must be withheld, and the common-sense rule reinforces the decision: if something seems like a contraindication, do not do it. Relative contraindications - coagulopathies, space-occupying lesions, increased ICP - involve judgment, but absolute ones do not."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "An acute skull fracture is an absolute contraindication to OCMM even without intracranial hemorrhage — no technique modification or consent makes it acceptable.",
+    "clinicalPearl": "An acute skull fracture is an absolute contraindication to OCMM even without intracranial hemorrhage - no technique modification or consent makes it acceptable.",
     "pdfPage": 10,
     "pdfQuote": "Acute skull fracture"
   },
@@ -750,7 +750,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Proceed with brief cranial treatment anyway, because documented somatic dysfunction establishes the medical indication and the benefit clearly outweighs any risk",
-        "explanation": "Incorrect. Medical indication never overrides refusal: lack of patient consent is an absolute contraindication, and 'if they don't consent, you can't do it.' Documented dysfunction satisfies a different prerequisite — the requirement that somatic dysfunction be present — but both conditions must be met. This would be the correct answer in no circumstance; consent is non-negotiable."
+        "explanation": "Incorrect. Medical indication never overrides refusal: lack of patient consent is an absolute contraindication, and 'if they don't consent, you can't do it.' Documented dysfunction satisfies a different prerequisite - the requirement that somatic dysfunction be present - but both conditions must be met. This would be the correct answer in no circumstance; consent is non-negotiable."
       },
       {
         "text": "Perform only the nasion spread, reasoning that its gentleness makes separate consent unnecessary",
@@ -758,7 +758,7 @@ const Test_CV21 = [
       },
       {
         "text": "Respect her refusal and do not perform cranial treatment, since lack of consent is an absolute contraindication",
-        "explanation": "Correct. The first contraindication discussed in lecture is lack of patient consent: if they do not consent, you cannot do it — full stop. This is classified as absolute, in the same category as absence of somatic dysfunction, acute intracranial bleeding, and acute skull fracture. Treating the regions she has agreed to while withholding cranial work honors both her autonomy and the safety framework; the cranial dysfunctions can be readdressed at a future visit if she changes her mind."
+        "explanation": "Correct. The first contraindication discussed in lecture is lack of patient consent: if they do not consent, you cannot do it - full stop. This is classified as absolute, in the same category as absence of somatic dysfunction, acute intracranial bleeding, and acute skull fracture. Treating the regions she has agreed to while withholding cranial work honors both her autonomy and the safety framework; the cranial dysfunctions can be readdressed at a future visit if she changes her mind."
       },
       {
         "text": "Ask a family member in the waiting room to authorize the cranial treatment on her behalf",
@@ -770,7 +770,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Lack of patient consent is an absolute contraindication to OCMM — indication and expected benefit are irrelevant if the patient says no.",
+    "clinicalPearl": "Lack of patient consent is an absolute contraindication to OCMM - indication and expected benefit are irrelevant if the patient says no.",
     "pdfPage": 10,
     "pdfQuote": "Lack of patient consent"
   },
@@ -781,7 +781,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "The severe occipitoatlantal (OA) compression",
-        "explanation": "Correct. The OA joint is where the occipital condyles articulate with the atlas, and its severe compression is precisely the dysfunction that condylar decompression treats: the condyles, wedged by the joint's anterior convergence and posterior divergence, become jammed into the atlas. The lecturer made this connection explicitly in the case discussion — the OA joint is part of the head, so 'maybe do a little condylar decompression there.' The other findings call for different tools: cervical techniques, rib and thoracic outlet work, and upper extremity BLT."
+        "explanation": "Correct. The OA joint is where the occipital condyles articulate with the atlas, and its severe compression is precisely the dysfunction that condylar decompression treats: the condyles, wedged by the joint's anterior convergence and posterior divergence, become jammed into the atlas. The lecturer made this connection explicitly in the case discussion - the OA joint is part of the head, so 'maybe do a little condylar decompression there.' The other findings call for different tools: cervical techniques, rib and thoracic outlet work, and upper extremity BLT."
       },
       {
         "text": "The severe C2 ERS right cervical somatic dysfunction with surrounding paravertebral spasm",
@@ -801,14 +801,14 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "On a structural exam, severe OA compression is the finding that points to condylar decompression — the OA joint is where the occipital condyles jam into the atlas.",
+    "clinicalPearl": "On a structural exam, severe OA compression is the finding that points to condylar decompression - the OA joint is where the occipital condyles jam into the atlas.",
     "pdfPage": 37,
     "pdfQuote": "OA compression (severe), frontonasal compression"
   },
   {
     "id": 27,
     "category": "OMM: Clinical Case Management",
-    "questionText": "A 62-year-old man receives his first OMT session — soft tissue, balanced ligamentous tension, and cranial techniques — for chronic neck pain and headaches. Before he leaves, the physician provides anticipatory guidance about the days following treatment. Which statement best reflects the counseling described in lecture?",
+    "questionText": "A 62-year-old man receives his first OMT session - soft tissue, balanced ligamentous tension, and cranial techniques - for chronic neck pain and headaches. Before he leaves, the physician provides anticipatory guidance about the days following treatment. Which statement best reflects the counseling described in lecture?",
     "options": [
       {
         "text": "Soreness after treatment is unexpected and should prompt an urgent return visit for reevaluation",
@@ -824,22 +824,22 @@ const Test_CV21 = [
       },
       {
         "text": "Any soreness will appear immediately, during the treatment session itself",
-        "explanation": "Incorrect. The soreness described is delayed-onset, appearing over the next day or two rather than during the session — and in older patients it typically takes at least two days. Immediate intra-treatment pain is not the phenomenon being counseled about. This would be the correct answer if post-OMT soreness behaved like immediate procedural pain, which it does not."
+        "explanation": "Incorrect. The soreness described is delayed-onset, appearing over the next day or two rather than during the session - and in older patients it typically takes at least two days. Immediate intra-treatment pain is not the phenomenon being counseled about. This would be the correct answer if post-OMT soreness behaved like immediate procedural pain, which it does not."
       },
       {
         "text": "Drink plenty of water, and expect possible soreness that in older patients often takes at least two days to appear",
-        "explanation": "Correct. The standard aftercare counseling is to stay well hydrated and to explain that the patient may feel sore over the next day or two — that this is normal. The lecturer added the age nuance: younger patients usually feel sore the next day or the second day, while older patients usually take at least two days before they start to feel sore. For this 62-year-old, warning him that soreness may be delayed prevents him from misinterpreting it, and the hydration advice completes the standard post-treatment instructions."
+        "explanation": "Correct. The standard aftercare counseling is to stay well hydrated and to explain that the patient may feel sore over the next day or two - that this is normal. The lecturer added the age nuance: younger patients usually feel sore the next day or the second day, while older patients usually take at least two days before they start to feel sore. For this 62-year-old, warning him that soreness may be delayed prevents him from misinterpreting it, and the hydration advice completes the standard post-treatment instructions."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Post-OMT counseling: hydrate well and expect possible soreness for a day or two — younger patients get sore the next day, older patients often take at least two days.",
+    "clinicalPearl": "Post-OMT counseling: hydrate well and expect possible soreness for a day or two - younger patients get sore the next day, older patients often take at least two days.",
     "pdfPage": 39,
     "pdfQuote": "Stay well hydrated"
   },
   {
     "id": 28,
     "category": "OMM: Clinical Case Management",
-    "questionText": "The 28-year-old nurse with tension headaches and upper-body somatic dysfunctions is prescribed a home exercise program targeting her cervical spine, pectoral muscles, and rhomboids. According to the regimen described in the lecture, which prescription is correct?",
+    "questionText": "A 28-year-old nurse with tension headaches has upper-body somatic dysfunctions on structural examination, including head-forward posture with protracted shoulders, bilateral pectoral spasm, and C2-5 paravertebral muscle spasm. She is prescribed a home exercise program targeting her cervical spine, pectoral muscles, and rhomboids. According to the regimen described in the lecture, which prescription is correct?",
     "options": [
       {
         "text": "Cervical and pectoral stretches once weekly, with rhomboid strengthening performed twice every day",
@@ -847,11 +847,11 @@ const Test_CV21 = [
       },
       {
         "text": "Cervical and pectoral stretches done as 3 sets of 20 seconds twice a day, with rhomboid strengthening once daily, 5-6 times per week",
-        "explanation": "Correct. The lecturer's prescription is to stretch each targeted muscle group about one minute twice a day — operationalized as 3 sets of 20-second stretches twice daily for the cervical spine and the pecs, stretching 'to stretch, not pain.' The rhomboids get a strengthening exercise, and because it is strengthening rather than stretching, it is done once a day, about 5 or 6 times a week. This pairing addresses the head-forward, protracted-shoulder pattern: stretch the tight pecs, strengthen the weak rhomboids."
+        "explanation": "Correct. The lecturer's prescription is to stretch each targeted muscle group about one minute twice a day - operationalized as 3 sets of 20-second stretches twice daily for the cervical spine and the pecs, stretching 'to stretch, not pain.' The rhomboids get a strengthening exercise, and because it is strengthening rather than stretching, it is done once a day, about 5 or 6 times a week. This pairing addresses the head-forward, protracted-shoulder pattern: stretch the tight pecs, strengthen the weak rhomboids."
       },
       {
         "text": "Stretch each muscle group to the point of mild pain for 5 sets of 60 seconds once daily, with rhomboid strengthening performed three times every day",
-        "explanation": "Incorrect. Both elements violate the instructions: stretching should go 'to stretch, not pain,' the sets are 3 of 20 seconds (about a minute per group) twice daily rather than 5 of 60 once daily, and strengthening is once daily — not three times a day. Overdosing strengthening and stretching into pain works against recovery. This would be the correct answer under no version of the prescribed regimen."
+        "explanation": "Incorrect. Both elements violate the instructions: stretching should go 'to stretch, not pain,' the sets are 3 of 20 seconds (about a minute per group) twice daily rather than 5 of 60 once daily, and strengthening is once daily - not three times a day. Overdosing strengthening and stretching into pain works against recovery. This would be the correct answer under no version of the prescribed regimen."
       },
       {
         "text": "Rhomboid stretches twice daily, with cervical and pectoral strengthening 5-6 times per week",
@@ -878,7 +878,7 @@ const Test_CV21 = [
       },
       {
         "text": "The occurrence of her headaches during stressful, short-staffed shifts at work",
-        "explanation": "Incorrect — as the single STRONGEST feature. The association with workplace stress is certainly consistent with her presentation and is addressed in the plan with meditation, prayer, and exercise, but stress is a trigger description rather than the discriminating clinical feature. The absence of photophobia and phonophobia in a bilateral, band-like headache is what the history most specifically documents against competing headache types. This would be the best answer if the question asked which factor to target with lifestyle modification."
+        "explanation": "Incorrect - as the single STRONGEST feature. The association with workplace stress is certainly consistent with her presentation and is addressed in the plan with meditation, prayer, and exercise, but stress is a trigger description rather than the discriminating clinical feature. The absence of photophobia and phonophobia in a bilateral, band-like headache is what the history most specifically documents against competing headache types. This would be the best answer if the question asked which factor to target with lifestyle modification."
       },
       {
         "text": "Her mother's history of type 2 diabetes mellitus",
@@ -886,7 +886,7 @@ const Test_CV21 = [
       },
       {
         "text": "The absence of photophobia and phonophobia with her bilateral temple pain",
-        "explanation": "Correct. The history specifically documents that she denies any light sensitivity or sound sensitivity, alongside bilateral 'both temples' location, a sharp quality that goes around her head, 1-2 hour duration, and relief with rest and ibuprofen — the constellation her neurologist labeled tension headache. The explicitly negative photophobia and phonophobia, combined with the bilateral band-like distribution, is the feature set that distinguishes her presentation. The case assessment carries this diagnosis forward with OMT, exercise, and stress-reduction as the plan."
+        "explanation": "Correct. The history specifically documents that she denies any light sensitivity or sound sensitivity, alongside bilateral 'both temples' location, a sharp quality that goes around her head, 1-2 hour duration, and relief with rest and ibuprofen - the constellation her neurologist labeled tension headache. The explicitly negative photophobia and phonophobia, combined with the bilateral band-like distribution, is the feature set that distinguishes her presentation. The case assessment carries this diagnosis forward with OMT, exercise, and stress-reduction as the plan."
       },
       {
         "text": "The 6-year total duration of her headache disorder",
@@ -905,7 +905,7 @@ const Test_CV21 = [
     "options": [
       {
         "text": "Sacral motion occurs around the same transverse axes as the sphenobasilar synchondrosis, so treating one resets the other",
-        "explanation": "Incorrect. Shared axis geometry was not the taught rationale for treating the nasion in sacral dysfunction; the connection is a physical, membranous one through the dura rather than a matter of parallel axes. This would be the correct answer if the lecture had linked cranium and sacrum through common axes of motion, which it did not — it linked them through the dural membrane."
+        "explanation": "Incorrect. Shared axis geometry was not the taught rationale for treating the nasion in sacral dysfunction; the connection is a physical, membranous one through the dura rather than a matter of parallel axes. This would be the correct answer if the lecture had linked cranium and sacrum through common axes of motion, which it did not - it linked them through the dural membrane."
       },
       {
         "text": "The nasion spread reflexively relaxes the lumbar paravertebral musculature through viscerosomatic segmental facilitation",
@@ -913,11 +913,11 @@ const Test_CV21 = [
       },
       {
         "text": "The dura attaches to the ethmoid, which lies deep to the nasion, and continues down to the sacrum",
-        "explanation": "Correct. The lecture states that anyone with sacral dysfunction gets the nasion treated 'because of the dural connections to the ethmoid, and then you have the connection of the dura down to the sacrum.' The ethmoid lies deep to the nasion, and the dural membrane runs as a continuous tube from its cranial attachments to its sacral attachment — so freeing the cranial end can influence the sacral end. This craniosacral dural continuity is why a facial technique appears on the treatment list for a pelvic dysfunction."
+        "explanation": "Correct. The lecture states that anyone with sacral dysfunction gets the nasion treated 'because of the dural connections to the ethmoid, and then you have the connection of the dura down to the sacrum.' The ethmoid lies deep to the nasion, and the dural membrane runs as a continuous tube from its cranial attachments to its sacral attachment - so freeing the cranial end can influence the sacral end. This craniosacral dural continuity is why a facial technique appears on the treatment list for a pelvic dysfunction."
       },
       {
         "text": "The frontal and ethmoid sinuses drain along fascial planes that continue into the pelvis",
-        "explanation": "Incorrect. Sinus drainage was discussed as a local facial-mechanism phenomenon — the ethmoid notch affecting frontal and ethmoid sinus drainage — not as a fascial pathway to the pelvis. The cranium-to-sacrum connection is dural, not a sinus drainage route. This would be the correct answer if secretions traveled fascially to the pelvis, which was never suggested."
+        "explanation": "Incorrect. Sinus drainage was discussed as a local facial-mechanism phenomenon - the ethmoid notch affecting frontal and ethmoid sinus drainage - not as a fascial pathway to the pelvis. The cranium-to-sacrum connection is dural, not a sinus drainage route. This would be the correct answer if secretions traveled fascially to the pelvis, which was never suggested."
       },
       {
         "text": "The ethmoid articulates directly with the sacral base through the vertebral bodies",
@@ -925,7 +925,7 @@ const Test_CV21 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Sacral somatic dysfunction is an indication for the nasion spread: the dura attaches to the ethmoid (deep to the nasion) and continues down to the sacrum — treat both ends of the dural tube.",
+    "clinicalPearl": "Sacral somatic dysfunction is an indication for the nasion spread: the dura attaches to the ethmoid (deep to the nasion) and continues down to the sacrum - treat both ends of the dural tube.",
     "pdfPage": 24,
     "pdfQuote": "via dural connections to ethmoid"
   }

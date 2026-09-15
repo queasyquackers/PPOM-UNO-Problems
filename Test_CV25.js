@@ -245,7 +245,7 @@ const Test_CV25 = [
     "correctAnswerIndex": 1,
     "clinicalPearl": "KCl contracts arteries: 60 mM potassium collapses the K+ gradient, depolarizes the membrane, and drives calcium influx.",
     "pdfPage": 24,
-    "pdfQuote": "KCl → depolarization of the membrane potential → Ca++ signaling"
+    "pdfQuote": "KCl -> depolarization of the membrane potential -> Ca++ signaling"
   },
   {
     "id": 9,

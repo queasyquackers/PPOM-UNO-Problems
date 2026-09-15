@@ -622,7 +622,7 @@ const Test_CV2 = [
   {
     "id": 21,
     "category": "OMM: Thoracic BLT",
-    "questionText": "Continuing the supine treatment of a T8 neutral, side bent left, rotated right dysfunction, the physician's fingers remain under the patient contacting the left transverse process of T8. The physician now lifts that finger, pushing the left transverse process anteriorly, and notes that lifting further intensifies the effect. Which motion is being induced, and why does it suit this patient?",
+    "questionText": "During the supine T4-12 BLT technique for a T8 neutral, side bent left, rotated right dysfunction, the physician's fingers are under the patient contacting the left transverse process of T8. The physician now lifts that finger, pushing the left transverse process anteriorly, and notes that lifting further intensifies the effect. Which motion is being induced, and why does it suit this patient?",
     "options": [
       {
         "text": "Left rotation of T8, matching the convexity of the group curve",

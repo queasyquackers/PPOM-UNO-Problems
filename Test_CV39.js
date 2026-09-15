@@ -95,7 +95,7 @@ const Test_CV39 = [
   {
     "id": 4,
     "category": "Cardiology: Evidence Base",
-    "questionText": "The same resident is asked what price was paid for the benefit seen with intensive blood pressure lowering in the trial described above. She recalls that the intensive arm had a 4 percent higher rate of serious adverse effects from antihypertensive medications, although this association did not reach statistical significance. Which cluster of adverse effects was reported?",
+    "questionText": "A resident is asked what price was paid for the benefit seen with intensive blood pressure lowering in a multicenter trial conducted from 2010 to 2015 that enrolled 9,361 patients over 50 years old with systolic pressures of 130 to 180 mmHg and at least one cardiovascular risk factor. She recalls that the intensive arm had a 4 percent higher rate of serious adverse effects from antihypertensive medications, although this association did not reach statistical significance. Which cluster of adverse effects was reported?",
     "options": [
       {
         "text": "Angioedema, bronchospasm and rash",

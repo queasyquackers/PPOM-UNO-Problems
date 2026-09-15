@@ -214,7 +214,7 @@ const Test_CV49 = [
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: smooth muscle exists only in pulmonary arteries and veins 50 micrometers or larger; arterioles and capillaries have none, so all active regulation happens on either side of the exchange bed.",
     "pdfPage": 7,
-    "pdfQuote": "Pulmonary arteries & veins > 50 μm have smooth muscle"
+    "pdfQuote": "Pulmonary arteries & veins > 50 micrometers have smooth muscle"
   },
   {
     "id": 8,
@@ -245,7 +245,7 @@ const Test_CV49 = [
     "correctAnswerIndex": 2,
     "clinicalPearl": "Key takeaway: PVR = (pulmonary artery pressure - left atrial pressure) / cardiac output = (14 - 8) / 6 = 1.0 mmHg/L/min, roughly ten times less than systemic vascular resistance.",
     "pdfPage": 11,
-    "pdfQuote": "PVR = 14mmHg − 8mmHg"
+    "pdfQuote": "PVR = 14mmHg - 8mmHg"
   },
   {
     "id": 9,
@@ -405,7 +405,7 @@ const Test_CV49 = [
   {
     "id": 14,
     "category": "Physiology: Alveolar Vessels",
-    "questionText": "The same isolated lung is now inflated toward total lung capacity while resistance is measured selectively within the intra-alveolar and septal capillaries. What happens to resistance in these alveolar vessels?",
+    "questionText": "An isolated perfused lung is inflated toward total lung capacity while resistance is measured selectively within the intra-alveolar and septal capillaries. What happens to resistance in these alveolar vessels?",
     "options": [
       {
         "text": "Resistance rises, because the stretched alveolar walls compress the capillaries within them",
@@ -586,7 +586,7 @@ const Test_CV49 = [
     "correctAnswerIndex": 3,
     "clinicalPearl": "Key takeaway: positive-pressure ventilation raises alveolar pressure and lowers transmural pressure; if alveolar pressure exceeds arterial pressure the region becomes an iatrogenic zone 1 - ventilated but unperfused.",
     "pdfPage": 18,
-    "pdfQuote": "Decrease in transmural pressure → Zone-1 risk"
+    "pdfQuote": "Decrease in transmural pressure -> Zone-1 risk"
   },
   {
     "id": 20,
@@ -622,7 +622,7 @@ const Test_CV49 = [
   {
     "id": 21,
     "category": "Physiology: Posture and Regional Perfusion",
-    "questionText": "The same recruit becomes lightheaded and is helped to the ground, where she lies supine. A repeat regional perfusion study performed while she is recumbent shows an essentially uniform distribution of blood flow from what had been apex to what had been base, and the previously demonstrated regional differences are no longer present. Which statement best explains the change?",
+    "questionText": "A healthy 22-year-old military recruit stands upright and motionless at attention during a prolonged morning formation, and a regional perfusion study shows markedly different blood flow at the apex and the base of her lungs. She becomes lightheaded and is helped to the ground, where she lies supine. A repeat regional perfusion study performed while she is recumbent shows an essentially uniform distribution of blood flow from what had been apex to what had been base, and the previously demonstrated regional differences are no longer present. Which statement best explains the change?",
     "options": [
       {
         "text": "Cardiac output fell during the presyncopal episode, and a low output abolishes pressure differences in the lung",

@@ -157,7 +157,7 @@ const Test_CV44 = [
   {
     "id": 6,
     "category": "Pulmonary Histology: Surfactant",
-    "questionText": "In the same specimen, attention turns to the plumper cell adjacent to the thin alveolar lining cell. It contains numerous large vacuoles and sits closely against its neighbor. The lecturer emphasizes that every one of the small ball-shaped alveoli must be lined by the product of this cell. Which consequence would be expected if this cell failed to produce that secretion?",
+    "questionText": "An electron micrograph of the alveolar wall shows an extremely attenuated alveolar lining cell and, adjacent to it, a plumper cell. The plumper cell contains numerous large vacuoles and sits closely against its neighbor. The lecturer emphasizes that every one of the small ball-shaped alveoli must be lined by the product of this cell. Which consequence would be expected if this cell failed to produce that secretion?",
     "options": [
       {
         "text": "Cartilage plates would fail to form in airways smaller than one millimeter in diameter",

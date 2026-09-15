@@ -560,7 +560,7 @@ const Test_CV10 = [
   {
     "id": 19,
     "category": "Physiology: Urea & BUN Interpretation",
-    "questionText": "The same 78-year-old woman is admitted and receives isotonic intravenous fluids. Over 48 hours her blood pressure normalizes, her pulse falls to 78/min, and urine output increases to 1.8 L/day. Repeat laboratory studies show that the blood urea nitrogen has fallen from 44 to 19 mg/dL while serum creatinine has changed only slightly. Which mechanism best explains the fall in her blood urea nitrogen?",
+    "questionText": "A 78-year-old woman is admitted after three days of vomiting and diarrhea with little oral intake. On arrival her blood pressure is 96/58 mmHg, her pulse is 112/min, and her urine output over the prior 24 hours was 300 mL. She receives isotonic intravenous fluids. Over 48 hours her blood pressure normalizes, her pulse falls to 78/min, and urine output increases to 1.8 L/day. Repeat laboratory studies show that the blood urea nitrogen has fallen from 44 to 19 mg/dL while serum creatinine has changed only slightly. Which mechanism best explains the fall in her blood urea nitrogen?",
     "options": [
       {
         "text": "Simple dilution of plasma urea by the infused fluid, with no change in renal urea handling",

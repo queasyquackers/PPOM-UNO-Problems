@@ -529,7 +529,7 @@ const Test_CV53 = [
   {
     "id": 18,
     "category": "Respiratory Physiology: Exercise",
-    "questionText": "During the same maximal exercise study, the investigator plots the oxygen-hemoglobin dissociation curve of blood sampled from an exercising quadriceps capillary bed and finds it displaced relative to the resting curve. The subject's arterial gases are unchanged from rest. Which description of the displacement and its functional consequence is correct?",
+    "questionText": "A 21-year-old competitive cyclist is studied on an ergometer at maximal effort, with oxygen consumption rising from 250 mL/min at rest to nearly 4000 mL/min. The investigator plots the oxygen-hemoglobin dissociation curve of blood sampled from an exercising quadriceps capillary bed and finds it displaced relative to the resting curve. The subject's arterial gases are unchanged from rest. Which description of the displacement and its functional consequence is correct?",
     "options": [
       {
         "text": "Affinity falls and P50 rises, so unloading to muscle is easier",
@@ -622,7 +622,7 @@ const Test_CV53 = [
   {
     "id": 21,
     "category": "Respiratory Physiology: High Altitude Pharmacology",
-    "questionText": "The same trekker is started on a medication used to blunt the acid-base disturbance of acute altitude sickness. Her physician explains that the drug works on an enzyme of the bicarbonate buffer system rather than on ventilation itself. Over the next two days her arterial pH falls back toward normal while her PaCO2 remains low and her symptoms improve. Which mechanism accounts for the drug's effect?",
+    "questionText": "A 34-year-old trekker arrives at 5,200 m and within hours develops headache, nausea, palpitations and insomnia. An arterial blood gas shows a PaO2 of 44 mmHg, a PaCO2 of 26 mmHg, and a pH of 7.52. She is started on a medication used to blunt the acid-base disturbance of acute altitude sickness. Her physician explains that the drug works on an enzyme of the bicarbonate buffer system rather than on ventilation itself. Over the next two days her arterial pH falls back toward normal while her PaCO2 remains low and her symptoms improve. Which mechanism accounts for the drug's effect?",
     "options": [
       {
         "text": "It blocks the epithelial sodium channel, promoting a bicarbonate diuresis",

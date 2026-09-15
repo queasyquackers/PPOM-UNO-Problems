@@ -121,7 +121,7 @@ const Test_CV9 = [
     "correctAnswerIndex": 1,
     "clinicalPearl": "Key takeaway: A rise in plasma K+ depolarizes pancreatic beta cells (insulin release) and adrenal zona glomerulosa cells (aldosterone release); both hormones then drive K+ into cells via the Na+/K+ ATPase.",
     "pdfPage": 8,
-    "pdfQuote": "Depolarization of pancreatic β cells → insulin release"
+    "pdfQuote": "Depolarization of pancreatic beta cells -> insulin release"
   },
   {
     "id": 5,

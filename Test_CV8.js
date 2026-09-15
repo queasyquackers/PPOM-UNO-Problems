@@ -431,7 +431,7 @@ const Test_CV8 = [
     "correctAnswerIndex": 4,
     "clinicalPearl": "Aldosterone is the potassium waster: it raises apical ENaC and basolateral Na-K-ATPase for sodium reabsorption while increasing potassium excretion (and H+ secretion via intercalated cells).",
     "pdfPage": 28,
-    "pdfQuote": "with ↑ K⁺ excretion (potassium wasting)"
+    "pdfQuote": "with increased K+ excretion (potassium wasting)"
   },
   {
     "id": 15,

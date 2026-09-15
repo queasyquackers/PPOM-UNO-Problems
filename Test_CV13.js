@@ -10,7 +10,7 @@ const Test_CV13 = [
       },
       {
         "text": "Voluntary mobility of the cranial bones under muscular control",
-        "explanation": "Incorrect. The cranial bones are mobile in the PRM, but that mobility is inherent and involuntary — it is not produced by voluntary muscle contraction. The word 'voluntary' disqualifies this option. This would be the correct answer if cranial bone motion were driven by skeletal muscle, which the lecture never claims."
+        "explanation": "Incorrect. The cranial bones are mobile in the PRM, but that mobility is inherent and involuntary - it is not produced by voluntary muscle contraction. The word 'voluntary' disqualifies this option. This would be the correct answer if cranial bone motion were driven by skeletal muscle, which the lecture never claims."
       },
       {
         "text": "Involuntary mobility of the sacrum between the ilia",
@@ -18,7 +18,7 @@ const Test_CV13 = [
       },
       {
         "text": "Active peristaltic pumping of venous blood by the dural sinuses",
-        "explanation": "Incorrect. The dural sinuses are simply spaces formed where the dural folds come together — the lecturer emphasized that veins and sinuses cannot pump blood at all. That inability is precisely why motion at the overlying sutures helps support venous drainage. This would be the correct answer if the sinuses possessed contractile walls, which they do not."
+        "explanation": "Incorrect. The dural sinuses are simply spaces formed where the dural folds come together - the lecturer emphasized that veins and sinuses cannot pump blood at all. That inability is precisely why motion at the overlying sutures helps support venous drainage. This would be the correct answer if the sinuses possessed contractile walls, which they do not."
       },
       {
         "text": "Rhythmic contraction of the thoracic diaphragm synchronized with the cranial impulse",
@@ -33,7 +33,7 @@ const Test_CV13 = [
   {
     "id": 2,
     "category": "OMM: Primary Respiratory Mechanism",
-    "questionText": "A lecturer describes the first phenomenon of the primary respiratory mechanism — the inherent motility of the brain and spinal cord — and notes that this motion is present from the earliest moments of development, when the sperm and the egg meet. Which of the following best characterizes this inherent motility of the central nervous system?",
+    "questionText": "A lecturer describes the first phenomenon of the primary respiratory mechanism - the inherent motility of the brain and spinal cord - and notes that this motion is present from the earliest moments of development, when the sperm and the egg meet. Which of the following best characterizes this inherent motility of the central nervous system?",
     "options": [
       {
         "text": "A coiling and uncoiling that moves synchronously with the phases of the PRM",
@@ -57,7 +57,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "CNS motility is a coiling and uncoiling that begins as its developmental motion — present from conception, with the notochord moving synchronously with the phases of the PRM.",
+    "clinicalPearl": "CNS motility is a coiling and uncoiling that begins as its developmental motion - present from conception, with the notochord moving synchronously with the phases of the PRM.",
     "pdfPage": 10,
     "pdfQuote": "a coiling and uncoiling"
   },
@@ -76,7 +76,7 @@ const Test_CV13 = [
       },
       {
         "text": "At the anterior dural attachment on the second sacral segment, where the core link anchors the membrane inferiorly",
-        "explanation": "Incorrect. The dura does attach anteriorly at the level of S2, which is why the sacrum shares in the primary respiratory motion, but that caudal anchor is the core link — not the fulcrum from which the cranial membranes arc. This would be the correct answer if the question asked why the sacrum moves involuntarily between the ilia."
+        "explanation": "Incorrect. The dura does attach anteriorly at the level of S2, which is why the sacrum shares in the primary respiratory motion, but that caudal anchor is the core link - not the fulcrum from which the cranial membranes arc. This would be the correct answer if the question asked why the sacrum moves involuntarily between the ilia."
       },
       {
         "text": "At the sella turcica beneath the pituitary gland",
@@ -119,14 +119,14 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The sagittal suture is the best example of a serrate suture — interlocking spicules allow a rocking motion so the parietal bones can widen, and it sits directly over the sagittal dural sinus.",
+    "clinicalPearl": "The sagittal suture is the best example of a serrate suture - interlocking spicules allow a rocking motion so the parietal bones can widen, and it sits directly over the sagittal dural sinus.",
     "pdfPage": 15,
     "pdfQuote": "interlocking spicules allow a rocking movement"
   },
   {
     "id": 5,
     "category": "OMM: Cranial Sutures",
-    "questionText": "Continuing the palpation exercise, the student follows the parietal bone inferiorly to the junction where the parietal and the squamous portion of the temporal bone come together in an overlapping fashion. Which motion does this suture allow, and what functional demand does that motion serve?",
+    "questionText": "During a cranial palpation exercise on a partner, a student follows the parietal bone inferiorly to the junction where the parietal and the squamous portion of the temporal bone come together in an overlapping fashion. Which motion does this suture allow, and what functional demand does that motion serve?",
     "options": [
       {
         "text": "Rocking, to allow progressive widening of the parietal bones",
@@ -142,7 +142,7 @@ const Test_CV13 = [
       },
       {
         "text": "Gliding, to accommodate the changing transverse diameter during inhalation and exhalation",
-        "explanation": "Correct. The squamous suture shows marked overlapping with little interdigitation, which allows a gliding movement. That glide is necessary to accommodate the increasing and decreasing transverse diameter of the cranium as the mechanism cycles through the inhalation and exhalation phases. Palpating it directly — a subtle overlapping shelf compared with the ridged sagittal suture — was specifically assigned as pre-lab homework."
+        "explanation": "Correct. The squamous suture shows marked overlapping with little interdigitation, which allows a gliding movement. That glide is necessary to accommodate the increasing and decreasing transverse diameter of the cranium as the mechanism cycles through the inhalation and exhalation phases. Palpating it directly - a subtle overlapping shelf compared with the ridged sagittal suture - was specifically assigned as pre-lab homework."
       },
       {
         "text": "Rotation, to accommodate motion of the paired bones around a vertical axis",
@@ -169,11 +169,11 @@ const Test_CV13 = [
       },
       {
         "text": "The cranium expands uniformly in all three dimensions as cerebrospinal fluid production briefly exceeds its absorption",
-        "explanation": "Incorrect. The PRM is an alternating change in shape, not a uniform swelling of the whole cranium, and the lecture never attributes the phases to an imbalance between CSF production and absorption. This would be the correct answer if cranial motion were a simple volume change, but it is a reciprocal reshaping — some diameters widen exactly as others narrow."
+        "explanation": "Incorrect. The PRM is an alternating change in shape, not a uniform swelling of the whole cranium, and the lecture never attributes the phases to an imbalance between CSF production and absorption. This would be the correct answer if cranial motion were a simple volume change, but it is a reciprocal reshaping - some diameters widen exactly as others narrow."
       },
       {
         "text": "The cranium narrows in every dimension as the paired bones internally rotate",
-        "explanation": "Incorrect. Internal rotation of the paired bones belongs to the exhalation phase, and even then the cranium does not narrow in every dimension — the anteroposterior and vertical dimensions increase while the transverse narrows. This would be the correct answer if some phase produced global narrowing, which neither phase does."
+        "explanation": "Incorrect. Internal rotation of the paired bones belongs to the exhalation phase, and even then the cranium does not narrow in every dimension - the anteroposterior and vertical dimensions increase while the transverse narrows. This would be the correct answer if some phase produced global narrowing, which neither phase does."
       },
       {
         "text": "The cranium lengthens vertically while the transverse diameter remains fixed",
@@ -223,7 +223,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "They move into internal rotation as the midline bones move into flexion",
-        "explanation": "Incorrect. Internal rotation of the paired bones accompanies extension of the midline bones during the exhalation phase — pairing internal rotation with flexion mixes the two phases together. This would be the correct answer if the stem had asked about the exhalation phase, where midline extension and paired internal rotation do travel together."
+        "explanation": "Incorrect. Internal rotation of the paired bones accompanies extension of the midline bones during the exhalation phase - pairing internal rotation with flexion mixes the two phases together. This would be the correct answer if the stem had asked about the exhalation phase, where midline extension and paired internal rotation do travel together."
       },
       {
         "text": "They move into flexion and extension along with the midline bones",
@@ -231,7 +231,7 @@ const Test_CV13 = [
       },
       {
         "text": "They remain stationary, since only the midline bones of the cranial base actually participate in the primary respiratory mechanism",
-        "explanation": "Incorrect. Every component of the mechanism moves — the mobility of the cranial bones is one of the five phenomena, and it includes the paired bones, whose external and internal rotation produces the palpable widening and narrowing at the lateral cranium. This would be the correct answer only if the PRM were confined to the midline, which contradicts the model."
+        "explanation": "Incorrect. Every component of the mechanism moves - the mobility of the cranial bones is one of the five phenomena, and it includes the paired bones, whose external and internal rotation produces the palpable widening and narrowing at the lateral cranium. This would be the correct answer only if the PRM were confined to the midline, which contradicts the model."
       },
       {
         "text": "They move into external rotation as the midline bones move into extension",
@@ -258,7 +258,7 @@ const Test_CV13 = [
       },
       {
         "text": "It moves posteriorly and superiorly",
-        "explanation": "Correct. The dura attaches anteriorly at the level of S2, tethering the sacrum into the reciprocal tension membrane — the core link. During the inhalation (flexion) phase the sacral base moves superiorly and posteriorly, and during the exhalation phase it moves inferiorly and anteriorly. This involuntary respiratory motion of the sacrum between the ilia is one of Sutherland's five phenomena and is why whole-body palpation can read the cranial mechanism from below."
+        "explanation": "Correct. The dura attaches anteriorly at the level of S2, tethering the sacrum into the reciprocal tension membrane - the core link. During the inhalation (flexion) phase the sacral base moves superiorly and posteriorly, and during the exhalation phase it moves inferiorly and anteriorly. This involuntary respiratory motion of the sacrum between the ilia is one of Sutherland's five phenomena and is why whole-body palpation can read the cranial mechanism from below."
       },
       {
         "text": "It rotates about a vertical axis toward the left",
@@ -270,7 +270,7 @@ const Test_CV13 = [
       },
       {
         "text": "It remains fixed while the ilia rotate around it",
-        "explanation": "Incorrect. The phenomenon is the involuntary mobility of the sacrum between the ilia — the sacrum is the moving element in this description, not a fixed axle for iliac motion. This would be the correct answer if the ilia were the involuntary movers in the PRM, but the mechanism is named for sacral motion."
+        "explanation": "Incorrect. The phenomenon is the involuntary mobility of the sacrum between the ilia - the sacrum is the moving element in this description, not a fixed axle for iliac motion. This would be the correct answer if the ilia were the involuntary movers in the PRM, but the mechanism is named for sacral motion."
       }
     ],
     "correctAnswerIndex": 1,
@@ -297,15 +297,15 @@ const Test_CV13 = [
       },
       {
         "text": "It moves superiorly",
-        "explanation": "Correct. During flexion the sphenobasilar junction moves superiorly, and during extension it moves inferiorly. This vertical excursion of the junction is what produces the vertical shape change associated with the phases of the primary respiratory mechanism — height decreases as the cranium widens transversely in flexion. The rotation of the midline bones during the inhalation and exhalation phases is named flexion and extension for exactly this SBJ-centered motion."
+        "explanation": "Correct. During flexion the sphenobasilar junction moves superiorly, and during extension it moves inferiorly. This vertical excursion of the junction is what produces the vertical shape change associated with the phases of the primary respiratory mechanism - height decreases as the cranium widens transversely in flexion. The rotation of the midline bones during the inhalation and exhalation phases is named flexion and extension for exactly this SBJ-centered motion."
       },
       {
         "text": "It remains stationary as a fixed pivot between the two rotating bones",
-        "explanation": "Incorrect. Although the sphenoid and occiput rotate in opposite directions, their junction is not a stationary hinge — it rises during flexion and descends during extension, generating the vertical shape change of the mechanism. This would be the correct answer if the SBJ behaved as an immobile fulcrum, but the described motion is a vertical excursion of the junction itself."
+        "explanation": "Incorrect. Although the sphenoid and occiput rotate in opposite directions, their junction is not a stationary hinge - it rises during flexion and descends during extension, generating the vertical shape change of the mechanism. This would be the correct answer if the SBJ behaved as an immobile fulcrum, but the described motion is a vertical excursion of the junction itself."
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "During flexion the sphenobasilar junction moves superiorly; during extension it moves inferiorly — the source of the vertical shape change of the PRM phases.",
+    "clinicalPearl": "During flexion the sphenobasilar junction moves superiorly; during extension it moves inferiorly - the source of the vertical shape change of the PRM phases.",
     "pdfPage": 21,
     "pdfQuote": "the sphenobasilar junction moves superiorly"
   },
@@ -324,7 +324,7 @@ const Test_CV13 = [
       },
       {
         "text": "The carotid canal, with the venous blood descending alongside the internal carotid artery in a shared sleeve of dura",
-        "explanation": "Incorrect. The carotid pathway is how arterial blood comes up into the cranium — the lecture describes arteries arriving through the carotid and vertebral systems, not venous blood leaving by that route. This would be the correct answer if the question asked how arterial inflow reaches the brain rather than how venous outflow leaves it."
+        "explanation": "Incorrect. The carotid pathway is how arterial blood comes up into the cranium - the lecture describes arteries arriving through the carotid and vertebral systems, not venous blood leaving by that route. This would be the correct answer if the question asked how arterial inflow reaches the brain rather than how venous outflow leaves it."
       },
       {
         "text": "The supraorbital foramen",
@@ -332,7 +332,7 @@ const Test_CV13 = [
       },
       {
         "text": "The jugular foramen",
-        "explanation": "Correct. The venous sinus drainage housed in the reciprocal tension membrane runs down toward the jugular foramen and then becomes the jugular vein, returning blood to the heart. Because sinuses are simply spaces between dural folds and cannot pump, this outflow depends on unobstructed, mobile surroundings — one reason the mobility of the dura and the sutures matters clinically. The jugular foramen is also on the pre-lab list of foramina to identify."
+        "explanation": "Correct. The venous sinus drainage housed in the reciprocal tension membrane runs down toward the jugular foramen and then becomes the jugular vein, returning blood to the heart. Because sinuses are simply spaces between dural folds and cannot pump, this outflow depends on unobstructed, mobile surroundings - one reason the mobility of the dura and the sutures matters clinically. The jugular foramen is also on the pre-lab list of foramina to identify."
       }
     ],
     "correctAnswerIndex": 4,
@@ -347,7 +347,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The greater wings of the sphenoid",
-        "explanation": "Correct. In the vault contact the index fingers rest on the greater wings of the sphenoid, the middle fingers on the temporal bone anterior to the ear, the ring fingers on the temporal bone posterior to the ear, and the little fingers on the squamous portion of the occiput. This finger map lets the physician monitor the vault bones — frontal, greater wing of sphenoid, parietal, squamous temporal, and squamous occiput — while remembering that the vault is accommodating what happens at the sphenobasilar junction below."
+        "explanation": "Correct. In the vault contact the index fingers rest on the greater wings of the sphenoid, the middle fingers on the temporal bone anterior to the ear, the ring fingers on the temporal bone posterior to the ear, and the little fingers on the squamous portion of the occiput. This finger map lets the physician monitor the vault bones - frontal, greater wing of sphenoid, parietal, squamous temporal, and squamous occiput - while remembering that the vault is accommodating what happens at the sphenobasilar junction below."
       },
       {
         "text": "The temporal bones posterior to the ears",
@@ -359,7 +359,7 @@ const Test_CV13 = [
       },
       {
         "text": "The mastoid processes of the temporal bones, immediately posterior to the external auditory meatus on each side",
-        "explanation": "Incorrect. The mastoid processes are landmarks from the palpation homework, and in the temporal (Becker variation) contact the thumbs deliberately slide antero-inferior to the mastoid tips to avoid compressing them — but no finger of the vault contact targets the mastoids. This would be the correct answer if the question asked which prominence the modified hold protects from compression."
+        "explanation": "Incorrect. The mastoid processes are landmarks from the palpation homework, and in the temporal (Becker variation) contact the thumbs deliberately slide antero-inferior to the mastoid tips to avoid compressing them - but no finger of the vault contact targets the mastoids. This would be the correct answer if the question asked which prominence the modified hold protects from compression."
       },
       {
         "text": "The parietal eminences superior to the squamous sutures",
@@ -382,11 +382,11 @@ const Test_CV13 = [
       },
       {
         "text": "The dura and the sense of its attachments",
-        "explanation": "Correct. The fronto-occipital contact is the hold the lecturer singled out as exceptionally good for palpating the dura and getting a sense of the dural attachments and how they feel. Different contacts are used because each offers a different view of what is going on with the anatomy — and this anteroposterior span from frontal bone to occipital squama, with the hand approximating the greater wings, is the dural view. From here the physician can also direct palpatory attention to the sphenobasilar region."
+        "explanation": "Correct. The fronto-occipital contact is the hold the lecturer singled out as exceptionally good for palpating the dura and getting a sense of the dural attachments and how they feel. Different contacts are used because each offers a different view of what is going on with the anatomy - and this anteroposterior span from frontal bone to occipital squama, with the hand approximating the greater wings, is the dural view. From here the physician can also direct palpatory attention to the sphenobasilar region."
       },
       {
         "text": "The interdigitations of the lambdoid suture",
-        "explanation": "Incorrect. While the caudad hand lies under the occiput, the purpose of this contact is not to examine one suture's interlocking texture — suture texture is the pre-lab self-palpation homework. This would be the correct answer if the question asked what a student should trace with fingertips on their own head to learn serrate architecture."
+        "explanation": "Incorrect. While the caudad hand lies under the occiput, the purpose of this contact is not to examine one suture's interlocking texture - suture texture is the pre-lab self-palpation homework. This would be the correct answer if the question asked what a student should trace with fingertips on their own head to learn serrate architecture."
       },
       {
         "text": "The venous pulsations of the confluence of sinuses through the scalp",
@@ -394,7 +394,7 @@ const Test_CV13 = [
       },
       {
         "text": "The nodding motion of the occipitoatlantal joint during cervical flexion",
-        "explanation": "Incorrect. The OA joint's nodding motion is engaged during the OA decompression techniques, where a finger contacts the C1 posterior tubercle or posterior arches — not by a frontal-to-occipital bridge across the vault. This would be the correct answer if the question described the hand placement for the occipitoatlantal treatment rather than a sensing contact."
+        "explanation": "Incorrect. The OA joint's nodding motion is engaged during the OA decompression techniques, where a finger contacts the C1 posterior tubercle or posterior arches - not by a frontal-to-occipital bridge across the vault. This would be the correct answer if the question described the hand placement for the occipitoatlantal treatment rather than a sensing contact."
       }
     ],
     "correctAnswerIndex": 1,
@@ -429,7 +429,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The Becker hold (thumbs toward the greater wings, fingers cradling temporals and occiput) surveys the posterior cranial fossa and cranial base — and suits small pediatric heads, with fingertips reaching toward the OA.",
+    "clinicalPearl": "The Becker hold (thumbs toward the greater wings, fingers cradling temporals and occiput) surveys the posterior cranial fossa and cranial base - and suits small pediatric heads, with fingertips reaching toward the OA.",
     "pdfPage": 28,
     "pdfQuote": "thumbs at the sphenoid greater wings"
   },
@@ -444,7 +444,7 @@ const Test_CV13 = [
       },
       {
         "text": "Thickened glabrous skin that mechanically amplifies vibration",
-        "explanation": "Incorrect. Skin thickness is not the property the lecture invokes, and amplifying vibration is not the described mechanism of cranial sensing — the motion being received is a slow, fine shape change, not a vibratory stimulus. This would be the correct answer if the CRI were a high-frequency vibration, which it is not."
+        "explanation": "Incorrect. Skin thickness is not the property the lecture invokes, and amplifying vibration is not the described mechanism of cranial sensing - the motion being received is a slow, fine shape change, not a vibratory stimulus. This would be the correct answer if the CRI were a high-frequency vibration, which it is not."
       },
       {
         "text": "Dense thermoreceptor fields that track the warmth of the underlying vasculature",
@@ -452,15 +452,15 @@ const Test_CV13 = [
       },
       {
         "text": "Rich proprioceptive innervation that detects fine motion",
-        "explanation": "Correct. The hands — and, notably, the soles of the feet — are heavily innervated with proprioceptors, which feel for fine motion. This is why the approach changes from pressing into muscle to receiving with a relaxed hand: sensing means receiving information afferently, as opposed to efferently coming in and doing something. Because tension degrades this reception and is felt by the patient, the physician continually checks in on their own posture, breathing, and comfort."
+        "explanation": "Correct. The hands - and, notably, the soles of the feet - are heavily innervated with proprioceptors, which feel for fine motion. This is why the approach changes from pressing into muscle to receiving with a relaxed hand: sensing means receiving information afferently, as opposed to efferently coming in and doing something. Because tension degrades this reception and is felt by the patient, the physician continually checks in on their own posture, breathing, and comfort."
       },
       {
         "text": "Efferent motor endings that actively probe the tissues for resistance",
-        "explanation": "Incorrect. This reverses the lecture's central distinction: sensing is afferent — receiving — whereas efferently coming in and doing something is the opposite of the skill being trained in the early parts of this lab. This would be the correct answer if the exercise were active motion testing against resistance, which comes only with treatment, not with beginning sensing."
+        "explanation": "Incorrect. This reverses the lecture's central distinction: sensing is afferent - receiving - whereas efferently coming in and doing something is the opposite of the skill being trained in the early parts of this lab. This would be the correct answer if the exercise were active motion testing against resistance, which comes only with treatment, not with beginning sensing."
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "The hands and the soles of the feet are heavily innervated with proprioceptors that feel fine motion — sensing is afferent (receiving), not efferent (doing).",
+    "clinicalPearl": "The hands and the soles of the feet are heavily innervated with proprioceptors that feel fine motion - sensing is afferent (receiving), not efferent (doing).",
     "pdfPage": 36,
     "pdfQuote": "Proprioception"
   },
@@ -471,11 +471,11 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The midline bones are rotating into extension",
-        "explanation": "Incorrect. Extension of the midline bones belongs to the receding portion of the cycle, when the coronal diameter narrows and the anteroposterior diameter and height increase. The swelling this examiner feels — coronal widening with A-P and height decrease — is the opposite pattern. This would be the correct answer if she were palpating the receding phase of the impulse."
+        "explanation": "Incorrect. Extension of the midline bones belongs to the receding portion of the cycle, when the coronal diameter narrows and the anteroposterior diameter and height increase. The swelling this examiner feels - coronal widening with A-P and height decrease - is the opposite pattern. This would be the correct answer if she were palpating the receding phase of the impulse."
       },
       {
         "text": "The paired bones are moving into external rotation",
-        "explanation": "Correct. The subtle swelling under relaxed hands — coronal diameter widening while the anteroposterior diameter and height decrease — is the palpatory signature of the flexion/external rotation phase of the cranial rhythmic impulse. During this inhalation phase the midline bones move into flexion and everything paired moves into external rotation, widening the cranium transversely. Recognizing the swelling-versus-receding alternation, then noting its amplitude, rate, and regularity, is exactly what the vault contact is designed to train."
+        "explanation": "Correct. The subtle swelling under relaxed hands - coronal diameter widening while the anteroposterior diameter and height decrease - is the palpatory signature of the flexion/external rotation phase of the cranial rhythmic impulse. During this inhalation phase the midline bones move into flexion and everything paired moves into external rotation, widening the cranium transversely. Recognizing the swelling-versus-receding alternation, then noting its amplitude, rate, and regularity, is exactly what the vault contact is designed to train."
       },
       {
         "text": "The sacral base is moving antero-inferior",
@@ -483,11 +483,11 @@ const Test_CV13 = [
       },
       {
         "text": "The central nervous system is lengthening and narrowing as it uncoils toward the opposite phase of the cycle",
-        "explanation": "Incorrect. Lengthening and narrowing — uncoiling — is the CNS behavior of the exhalation phase, when the cranium narrows transversely and gains height. During the swelling she palpates, the CNS is doing the opposite: shortening and widening as it coils. This would be the correct answer if the vignette described the receding portion of the impulse."
+        "explanation": "Incorrect. Lengthening and narrowing - uncoiling - is the CNS behavior of the exhalation phase, when the cranium narrows transversely and gains height. During the swelling she palpates, the CNS is doing the opposite: shortening and widening as it coils. This would be the correct answer if the vignette described the receding portion of the impulse."
       },
       {
         "text": "The transverse diameter of the cranium is narrowing",
-        "explanation": "Incorrect. The vignette states that the coronal diameter is widening; transverse narrowing defines the other phase of the alternating shape change. The two diameters trade reciprocally — transverse widening always travels with A-P narrowing. This would be the correct answer if the examiner were describing the receding, internal-rotation phase."
+        "explanation": "Incorrect. The vignette states that the coronal diameter is widening; transverse narrowing defines the other phase of the alternating shape change. The two diameters trade reciprocally - transverse widening always travels with A-P narrowing. This would be the correct answer if the examiner were describing the receding, internal-rotation phase."
       }
     ],
     "correctAnswerIndex": 1,
@@ -502,11 +502,11 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The sacral base moving postero-superior",
-        "explanation": "Incorrect. Postero-superior motion of the sacral base is the inhalation (flexion) phase finding, which pairs with coronal widening at the cranium — the opposite of what the cranial examiner is reporting. This would be the correct answer if the head examiner were feeling the swelling phase, with the transverse diameter broadening under the hands."
+        "explanation": "Incorrect. Postero-superior motion of the sacral base is the inhalation (flexion) phase finding, which pairs with coronal widening at the cranium - the opposite of what the cranial examiner is reporting. This would be the correct answer if the head examiner were feeling the swelling phase, with the transverse diameter broadening under the hands."
       },
       {
         "text": "The whole sacrum translating cephalad between the ilia",
-        "explanation": "Incorrect. The involuntary sacral motion of the mechanism is a tilting excursion of the sacral base — postero-superior in one phase, antero-inferior in the other — not a bodily cephalad slide of the entire bone between the ilia. This would be the correct answer if the PRM produced linear translation of the sacrum, which is not the described motion."
+        "explanation": "Incorrect. The involuntary sacral motion of the mechanism is a tilting excursion of the sacral base - postero-superior in one phase, antero-inferior in the other - not a bodily cephalad slide of the entire bone between the ilia. This would be the correct answer if the PRM produced linear translation of the sacrum, which is not the described motion."
       },
       {
         "text": "The sacrum sidebending and rotating around an oblique axis as the lumbar spine loads it from above",
@@ -514,15 +514,15 @@ const Test_CV13 = [
       },
       {
         "text": "No sacral motion, because the spinal dura terminates at the foramen magnum",
-        "explanation": "Incorrect. The dura does not end at the foramen magnum — it continues caudally and attaches anteriorly at the level of S2, which is precisely why the sacrum shares in the primary respiratory motion. This would be the correct answer only if the core link did not exist, and its existence is one of the five phenomena of the mechanism."
+        "explanation": "Incorrect. The dura does not end at the foramen magnum - it continues caudally and attaches anteriorly at the level of S2, which is precisely why the sacrum shares in the primary respiratory motion. This would be the correct answer only if the core link did not exist, and its existence is one of the five phenomena of the mechanism."
       },
       {
         "text": "The sacral base moving antero-inferior",
-        "explanation": "Correct. The cranial examiner is describing the exhalation (extension) phase: transverse narrowing with increasing anteroposterior and vertical dimensions. Because the dura attaches anteriorly at S2, the sacrum moves synchronously with the cranium through the reciprocal tension membrane — so during this phase the sacral base moves inferiorly and anteriorly. In the opposite, inhalation phase it would move superiorly and posteriorly. Two examiners palpating head and sacrum should feel one mechanism, phase-locked through the core link."
+        "explanation": "Correct. The cranial examiner is describing the exhalation (extension) phase: transverse narrowing with increasing anteroposterior and vertical dimensions. Because the dura attaches anteriorly at S2, the sacrum moves synchronously with the cranium through the reciprocal tension membrane - so during this phase the sacral base moves inferiorly and anteriorly. In the opposite, inhalation phase it would move superiorly and posteriorly. Two examiners palpating head and sacrum should feel one mechanism, phase-locked through the core link."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Cranial extension (receding, exhalation) pairs with antero-inferior sacral base motion; cranial flexion pairs with postero-superior motion — head and sacrum are phase-locked through the core link at S2.",
+    "clinicalPearl": "Cranial extension (receding, exhalation) pairs with antero-inferior sacral base motion; cranial flexion pairs with postero-superior motion - head and sacrum are phase-locked through the core link at S2.",
     "pdfPage": 24,
     "pdfQuote": "Sacral Base moves antero-inferior"
   },
@@ -533,7 +533,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "To avoid compressing the mastoid tips",
-        "explanation": "Correct. In the temporal contact — the Becker variation — the thumb tips are allowed to slide antero-inferior to the mastoid tips precisely so that the mastoids are not compressed. The instruction embodies the governing principle of every cranial contact: the physician comes to sense and feel life in motion, not to squeeze. A relaxed, non-compressive contact also keeps the patient comfortable, which matters because any tension or squeezing by the physician is transmitted to and felt by the patient."
+        "explanation": "Correct. In the temporal contact - the Becker variation - the thumb tips are allowed to slide antero-inferior to the mastoid tips precisely so that the mastoids are not compressed. The instruction embodies the governing principle of every cranial contact: the physician comes to sense and feel life in motion, not to squeeze. A relaxed, non-compressive contact also keeps the patient comfortable, which matters because any tension or squeezing by the physician is transmitted to and felt by the patient."
       },
       {
         "text": "To occlude the external auditory meatus and dampen ambient sound during the observation",
@@ -541,7 +541,7 @@ const Test_CV13 = [
       },
       {
         "text": "To anchor the thumbs firmly against bone so a mobilizing force can be applied",
-        "explanation": "Incorrect. The early parts of this lab are pure sensing — receiving information afferently — and no mobilizing force is applied through this hold. Anchoring for leverage contradicts the relaxed, non-squeezing quality every contact requires. This would be the correct answer if the hold were a treatment technique delivering force, rather than an observational contact."
+        "explanation": "Incorrect. The early parts of this lab are pure sensing - receiving information afferently - and no mobilizing force is applied through this hold. Anchoring for leverage contradicts the relaxed, non-squeezing quality every contact requires. This would be the correct answer if the hold were a treatment technique delivering force, rather than an observational contact."
       },
       {
         "text": "To apply direct pressure over the occipitomastoid suture and spring it open during the inhalation phase of the mechanism",
@@ -553,7 +553,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "In the temporal (Becker variation) contact, the thumb tips slide antero-inferior to the mastoid tips specifically so the mastoids are not compressed — sense, never squeeze.",
+    "clinicalPearl": "In the temporal (Becker variation) contact, the thumb tips slide antero-inferior to the mastoid tips specifically so the mastoids are not compressed - sense, never squeeze.",
     "pdfPage": 29,
     "pdfQuote": "to the mastoid tips so as not to compress"
   },
@@ -564,7 +564,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The thoracolumbar fascia transmits paraspinal muscle tone directly to the occiput",
-        "explanation": "Incorrect. The mechanism linking sacrum to cranium in this lecture is dural, not myofascial — the involuntary sacral motion is one of the five phenomena because of a membranous attachment, not because of paraspinal muscle tone. This would be the correct answer if the question asked about postural muscle chains rather than the primary respiratory mechanism."
+        "explanation": "Incorrect. The mechanism linking sacrum to cranium in this lecture is dural, not myofascial - the involuntary sacral motion is one of the five phenomena because of a membranous attachment, not because of paraspinal muscle tone. This would be the correct answer if the question asked about postural muscle chains rather than the primary respiratory mechanism."
       },
       {
         "text": "The sympathetic chain ganglia relay segmental reflexes from the sacrum to the cranial base",
@@ -572,15 +572,15 @@ const Test_CV13 = [
       },
       {
         "text": "The cerebrospinal fluid column hydraulically couples the sacrum to the vault, with pressure waves alone carrying the motion between the two ends of the canal",
-        "explanation": "Incorrect. Although CSF fluctuation is one of the five phenomena, the specific sacrum-to-cranium linkage taught is the dural attachment — a mechanical tether — rather than a purely hydraulic pressure column. This would be the correct answer if the fluctuation of the CSF were offered as the sole connection, but the lecture grounds sacral motion in the membrane."
+        "explanation": "Incorrect. Although CSF fluctuation is one of the five phenomena, the specific sacrum-to-cranium linkage taught is the dural attachment - a mechanical tether - rather than a purely hydraulic pressure column. This would be the correct answer if the fluctuation of the CSF were offered as the sole connection, but the lecture grounds sacral motion in the membrane."
       },
       {
         "text": "The dura attaches anteriorly at S2, linking the sacrum into the reciprocal tension membrane",
-        "explanation": "Correct. The dura attaches anteriorly at the level of S2, so the sacrum is tethered into the same reciprocal tension membrane that suspends the cranial bones — the core link. This is why the involuntary mobility of the sacrum between the ilia is one of the five phenomena of the PRM, and why the sacral base moves postero-superior in inhalation and antero-inferior in exhalation, synchronous with the cranium. A restriction at either end of this membranous system can therefore be reflected at the other."
+        "explanation": "Correct. The dura attaches anteriorly at the level of S2, so the sacrum is tethered into the same reciprocal tension membrane that suspends the cranial bones - the core link. This is why the involuntary mobility of the sacrum between the ilia is one of the five phenomena of the PRM, and why the sacral base moves postero-superior in inhalation and antero-inferior in exhalation, synchronous with the cranium. A restriction at either end of this membranous system can therefore be reflected at the other."
       },
       {
         "text": "The erector spinae aponeurosis suspends the sacrum from the temporal bones",
-        "explanation": "Incorrect. No such suspension exists in the lecture's anatomy; the erector spinae relate to the spine and pelvis, and the temporal bones are paired vault-region bones with no aponeurotic tether to the sacrum. This would be the correct answer only in an invented anatomy — the actual link is the dural attachment at S2."
+        "explanation": "Incorrect. No such suspension exists in the lecture's anatomy; the erector spinae relate to the spine and pelvis, and the temporal bones are paired vault-region bones with no aponeurotic tether to the sacrum. This would be the correct answer only in an invented anatomy - the actual link is the dural attachment at S2."
       }
     ],
     "correctAnswerIndex": 3,
@@ -591,7 +591,7 @@ const Test_CV13 = [
   {
     "id": 20,
     "category": "OMM: Dural Membranes & Venous Sinuses",
-    "questionText": "During lecture, the lecturer poses a puzzle: the suture with the greatest motion in the skull — the serrated sagittal suture between the parietal bones — lies directly over the sagittal dural sinus. She suggests this arrangement is not a coincidence. Which statement best explains why motion at this suture is physiologically useful?",
+    "questionText": "During lecture, the lecturer poses a puzzle: the suture with the greatest motion in the skull - the serrated sagittal suture between the parietal bones - lies directly over the sagittal dural sinus. She suggests this arrangement is not a coincidence. Which statement best explains why motion at this suture is physiologically useful?",
     "options": [
       {
         "text": "Suture motion pumps cerebrospinal fluid outward through the arachnoid granulations into the venous system",
@@ -599,7 +599,7 @@ const Test_CV13 = [
       },
       {
         "text": "Suture motion generates the arterial pulsation pressure required to perfuse the scalp, the periosteum, and the diploic bone of the vault",
-        "explanation": "Incorrect. Arterial perfusion pressure comes from the heart, delivered through the carotid and vertebral systems — sutures do not generate arterial pressure. The vascular structure underlying this suture is venous, not arterial. This would be the correct answer if the sagittal sinus were an artery requiring local pumping assistance, which reverses the actual vessels involved."
+        "explanation": "Incorrect. Arterial perfusion pressure comes from the heart, delivered through the carotid and vertebral systems - sutures do not generate arterial pressure. The vascular structure underlying this suture is venous, not arterial. This would be the correct answer if the sagittal sinus were an artery requiring local pumping assistance, which reverses the actual vessels involved."
       },
       {
         "text": "Venous sinuses cannot pump blood, so suture motion helps support venous drainage and prevent pooling",
@@ -607,7 +607,7 @@ const Test_CV13 = [
       },
       {
         "text": "Suture motion prevents the suture from fusing prematurely during adult life",
-        "explanation": "Incorrect. The lecture explains sutural motion in terms of accommodating the phases of the mechanism and supporting the structures beneath, not as a means of keeping the suture patent. This would be the correct answer if the argument were developmental — about maintaining suture patency — rather than about the venous channel lying directly underneath."
+        "explanation": "Incorrect. The lecture explains sutural motion in terms of accommodating the phases of the mechanism and supporting the structures beneath, not as a means of keeping the suture patent. This would be the correct answer if the argument were developmental - about maintaining suture patency - rather than about the venous channel lying directly underneath."
       },
       {
         "text": "Suture motion stretches the falx cerebri to maintain the fulcrum at the straight sinus",
@@ -626,19 +626,19 @@ const Test_CV13 = [
     "options": [
       {
         "text": "Remaining at the external occipital protuberance confirms correct placement for the technique",
-        "explanation": "Incorrect. The inion (external occipital protuberance) is only the starting landmark — the finger begins there and must slide down off the occiput to reach the atlas. Staying at the inion would place the contact on the occiput itself rather than stabilizing C1. This would be the correct answer if the technique were performed on the occipital squama, but the stabilizing contact belongs at the C1 posterior tubercle."
+        "explanation": "Incorrect. The inion (external occipital protuberance) is only the starting landmark - the finger begins there and must slide down off the occiput to reach the atlas. Staying at the inion would place the contact on the occiput itself rather than stabilizing C1. This would be the correct answer if the technique were performed on the occipital squama, but the stabilizing contact belongs at the C1 posterior tubercle."
       },
       {
         "text": "A prominent spinous process indicates she has reached C2 and has gone too far",
-        "explanation": "Correct. The hand placement rule of the OA decompression is to start with the middle finger on the inion and slide down until reaching the area of the C1 posterior tubercle — and if the finger is at the spinous process of C2, it has gone too far. The C1 posterior tubercle is the subtle target; the first prominent spinous process below the occiput belongs to C2. Once correctly placed, the physician curls the finger toward the glabella, stabilizing the atlas through the projected contact while the patient tucks the chin."
+        "explanation": "Correct. The hand placement rule of the OA decompression is to start with the middle finger on the inion and slide down until reaching the area of the C1 posterior tubercle - and if the finger is at the spinous process of C2, it has gone too far. The C1 posterior tubercle is the subtle target; the first prominent spinous process below the occiput belongs to C2. Once correctly placed, the physician curls the finger toward the glabella, stabilizing the atlas through the projected contact while the patient tucks the chin."
       },
       {
         "text": "The C1 posterior tubercle is the large, easily palpated projection she is feeling",
-        "explanation": "Incorrect. The posterior tubercle of the atlas is a small, subtle landmark, not a prominent projection — the conspicuous process just below the occiput is the C2 spinous process. Mistaking C2 for C1 is precisely the error the lecture's landmark rule guards against. This would be the correct answer if C1 bore the prominent midline process, but that prominence marks the level below the target."
+        "explanation": "Incorrect. The posterior tubercle of the atlas is a small, subtle landmark, not a prominent projection - the conspicuous process just below the occiput is the C2 spinous process. Mistaking C2 for C1 is precisely the error the lecture's landmark rule guards against. This would be the correct answer if C1 bore the prominent midline process, but that prominence marks the level below the target."
       },
       {
         "text": "She should move laterally to the transverse processes of the atlas and stabilize C1 from the sides, since the posterior midline of the atlas offers no reliable palpable contact",
-        "explanation": "Incorrect. The technique as taught uses the posterior midline — inion down to the C1 posterior tubercle — as its landmark path, and the atlas is stabilized through that projected posterior contact. The midline is reliable when the C2 rule is applied. This would be the correct answer if the technique were built on lateral contacts, which is not the described hand placement."
+        "explanation": "Incorrect. The technique as taught uses the posterior midline - inion down to the C1 posterior tubercle - as its landmark path, and the atlas is stabilized through that projected posterior contact. The midline is reliable when the C2 rule is applied. This would be the correct answer if the technique were built on lateral contacts, which is not the described hand placement."
       },
       {
         "text": "The finger should curl away from the glabella to hook under the tubercle",
@@ -646,7 +646,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "OA decompression landmark rule: inion, then slide down to the C1 posterior tubercle — a prominent spinous process means you are at C2 and have gone too far; then curl the finger toward the glabella.",
+    "clinicalPearl": "OA decompression landmark rule: inion, then slide down to the C1 posterior tubercle - a prominent spinous process means you are at C2 and have gone too far; then curl the finger toward the glabella.",
     "pdfPage": 30,
     "pdfQuote": "If at spinous process of C2"
   },
@@ -657,7 +657,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "Extend the head backward over the physician's fingers to open the joint anteriorly",
-        "explanation": "Incorrect. Extension is the opposite of the required movement — the technique depends on the head flexing forward at the occipitoatlantal joint while the atlas is held, which carries the occipital condyles posteriorly and tenses the regional ligaments. This would be the correct answer only if the technique sought anterior compression rather than condylar decompression."
+        "explanation": "Incorrect. Extension is the opposite of the required movement - the technique depends on the head flexing forward at the occipitoatlantal joint while the atlas is held, which carries the occipital condyles posteriorly and tenses the regional ligaments. This would be the correct answer only if the technique sought anterior compression rather than condylar decompression."
       },
       {
         "text": "Rotate the head to one side until firm resistance is met",
@@ -665,7 +665,7 @@ const Test_CV13 = [
       },
       {
         "text": "Flex the entire neck as far forward as possible to maximize the stretch on all of the posterior cervical musculature",
-        "explanation": "Incorrect. Whole-neck flexion is exactly the error the patient is already making. The technique explicitly requires that the neck not be flexed — the isolated nodding movement of the head at the occipitoatlantal joint is what separates the condyles from the atlas. This would be the correct answer if the goal were a global posterior muscle stretch, but the target is one specific joint."
+        "explanation": "Incorrect. Whole-neck flexion is exactly the error the patient is already making. The technique explicitly requires that the neck not be flexed - the isolated nodding movement of the head at the occipitoatlantal joint is what separates the condyles from the atlas. This would be the correct answer if the goal were a global posterior muscle stretch, but the target is one specific joint."
       },
       {
         "text": "Sidebend the head away from the side of greater tissue tension",
@@ -673,11 +673,11 @@ const Test_CV13 = [
       },
       {
         "text": "Tuck the chin toward the chest without flexing the neck",
-        "explanation": "Correct. The required movement is a chin tuck — the patient flexes the head, not the neck, producing the nodding movement that occurs at the occipitoatlantal joint. While the physician maintains caudad pressure on the posterior arches of the atlas, this nod carries the occipital condyles posteriorly, tenses the ligaments of the region, and stretches the contracted muscles of the occipital triangle. Whole-neck flexion would defeat the purpose by moving the lower cervical segments instead of isolating C0 on C1."
+        "explanation": "Correct. The required movement is a chin tuck - the patient flexes the head, not the neck, producing the nodding movement that occurs at the occipitoatlantal joint. While the physician maintains caudad pressure on the posterior arches of the atlas, this nod carries the occipital condyles posteriorly, tenses the ligaments of the region, and stretches the contracted muscles of the occipital triangle. Whole-neck flexion would defeat the purpose by moving the lower cervical segments instead of isolating C0 on C1."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "The corrective motion in OA decompression is a chin tuck — flexing the head, not the neck — producing the nodding movement of the occipitoatlantal joint.",
+    "clinicalPearl": "The corrective motion in OA decompression is a chin tuck - flexing the head, not the neck - producing the nodding movement of the occipitoatlantal joint.",
     "pdfPage": 31,
     "pdfQuote": "making sure not to flex the neck"
   },
@@ -688,7 +688,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The primary respiratory mechanism does not begin functioning until roughly the second year of life",
-        "explanation": "Incorrect. The primary respiratory motion begins at conception — the notochord itself moves in this motion — and continues throughout life, so an infant certainly has a functioning mechanism. This would be the correct answer if the PRM had a delayed onset, but its lifelong continuity is a core teaching of the lecture."
+        "explanation": "Incorrect. The primary respiratory motion begins at conception - the notochord itself moves in this motion - and continues throughout life, so an infant certainly has a functioning mechanism. This would be the correct answer if the PRM had a delayed onset, but its lifelong continuity is a core teaching of the lecture."
       },
       {
         "text": "The occipitoatlantal joint has not yet formed and cannot be engaged before walking age",
@@ -700,15 +700,15 @@ const Test_CV13 = [
       },
       {
         "text": "The infant's cranial bones and C1 ossification centers are not yet fused, so techniques must fit the developmental stage",
-        "explanation": "Correct. The standard OA decompression is specifically not to be used on infants and small children. Their cranial bones are not connected through sutures the way adult bones are — they are still, in effect, plates floating around — and the C1 ossification centers are incomplete. Techniques must be chosen to be safe for the different developmental stages of the body; the standard approach may be considered from roughly age 8 to 10 onward, while the alternative technique directed at the atlas is an important option for the pediatric population."
+        "explanation": "Correct. The standard OA decompression is specifically not to be used on infants and small children. Their cranial bones are not connected through sutures the way adult bones are - they are still, in effect, plates floating around - and the C1 ossification centers are incomplete. Techniques must be chosen to be safe for the different developmental stages of the body; the standard approach may be considered from roughly age 8 to 10 onward, while the alternative technique directed at the atlas is an important option for the pediatric population."
       },
       {
         "text": "The spinal dura acquires its anterior attachment to the upper cervical canal only after the sacrum completes its fusion at about age 25",
-        "explanation": "Incorrect. The dural anatomy — including the anterior attachment at S2 — is present from early life; sacral fusion by age 25 concerns the sacrum's five bony pieces, not the timing of dural attachments, and neither fact restricts the OA technique. This would be the correct answer only if dural attachments matured decades after birth, which the lecture does not claim."
+        "explanation": "Incorrect. The dural anatomy - including the anterior attachment at S2 - is present from early life; sacral fusion by age 25 concerns the sacrum's five bony pieces, not the timing of dural attachments, and neither fact restricts the OA technique. This would be the correct answer only if dural attachments matured decades after birth, which the lecture does not claim."
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "The standard OA decompression is NOT used on infants and small children — cranial bones are unfused plates and C1 ossification is incomplete; consider it from about age 8-10, and use the atlas-directed alternative in the pediatric population.",
+    "clinicalPearl": "The standard OA decompression is NOT used on infants and small children - cranial bones are unfused plates and C1 ossification is incomplete; consider it from about age 8-10, and use the atlas-directed alternative in the pediatric population.",
     "pdfPage": 30,
     "pdfQuote": "not to be used on infants and small children"
   },
@@ -719,7 +719,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "Holding one or more deep inspirations to their limit",
-        "explanation": "Correct. While the physician maintains the position, the patient holds one or more deep inspirations to their limit — this is the described enhancer of articular release in the alternative OA decompression. The nod has already carried the condyles posteriorly, tensed the regional ligaments, and stretched the contracted muscles of the occipital triangle; the held inspiration adds the respiratory assist. Afterward, the rate and amplitude of the CRI in the basioccipital region are retested, and occipitoatlantal motion can be reassessed for normalization."
+        "explanation": "Correct. While the physician maintains the position, the patient holds one or more deep inspirations to their limit - this is the described enhancer of articular release in the alternative OA decompression. The nod has already carried the condyles posteriorly, tensed the regional ligaments, and stretched the contracted muscles of the occipital triangle; the held inspiration adds the respiratory assist. Afterward, the rate and amplitude of the CRI in the basioccipital region are retested, and occipitoatlantal motion can be reassessed for normalization."
       },
       {
         "text": "Bearing down in a sustained Valsalva maneuver against a firmly closed glottis",
@@ -750,7 +750,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "An audible articulatory pop from the occipitoatlantal joint",
-        "explanation": "Incorrect. This is a sustained, gentle decompression, not a thrust technique — no cavitation is sought or expected. The endpoint is a palpatory sense of tissue change, not a sound. This would be the correct answer if the treatment were a high-velocity, low-amplitude technique, which the OA decompression is not."
+        "explanation": "Incorrect. This is a sustained, gentle decompression, not a thrust technique - no cavitation is sought or expected. The endpoint is a palpatory sense of tissue change, not a sound. This would be the correct answer if the treatment were a high-velocity, low-amplitude technique, which the OA decompression is not."
       },
       {
         "text": "Complete cessation of every palpable cranial and cervical motion sustained across several consecutive respiratory cycles",
@@ -758,7 +758,7 @@ const Test_CV13 = [
       },
       {
         "text": "Softening of the tissues with a sense of the occipital condyles decompressing from the C1 superior facets",
-        "explanation": "Correct. The instruction is to hold until the muscles and soft tissues begin to relax and the physician has a sense of the occipital condyles becoming decompressed from the receiving condyles of the C1 superior facets — then reassess. The endpoint is entirely palpatory: tissue softening plus the articular sense of separation. This deliberate, receptive waiting is consistent with the whole session's theme that treatment quality depends on sensing rather than forcing, and reassessment closes the loop."
+        "explanation": "Correct. The instruction is to hold until the muscles and soft tissues begin to relax and the physician has a sense of the occipital condyles becoming decompressed from the receiving condyles of the C1 superior facets - then reassess. The endpoint is entirely palpatory: tissue softening plus the articular sense of separation. This deliberate, receptive waiting is consistent with the whole session's theme that treatment quality depends on sensing rather than forcing, and reassessment closes the loop."
       },
       {
         "text": "A subjective report of warmth radiating toward the vertex of the head",
@@ -766,11 +766,11 @@ const Test_CV13 = [
       },
       {
         "text": "Blanching of the skin over the inion as the tissue pressure equalizes",
-        "explanation": "Incorrect. Skin blanching at the starting landmark would suggest excessive pressure — the opposite of this gentle technique's character — and is not a described sign of release. This would be the correct answer if completion were read from the skin surface, but the relevant change is deep tissue relaxation and articular separation."
+        "explanation": "Incorrect. Skin blanching at the starting landmark would suggest excessive pressure - the opposite of this gentle technique's character - and is not a described sign of release. This would be the correct answer if completion were read from the skin surface, but the relevant change is deep tissue relaxation and articular separation."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Hold the OA decompression until soft tissues relax and the occipital condyles are sensed decompressing from the C1 superior facets — then reassess. Ann Wales: treat the OA at the beginning and end of every treatment.",
+    "clinicalPearl": "Hold the OA decompression until soft tissues relax and the occipital condyles are sensed decompressing from the C1 superior facets - then reassess. Ann Wales: treat the OA at the beginning and end of every treatment.",
     "pdfPage": 30,
     "pdfQuote": "occipital condyles becoming decompressed"
   },
@@ -781,7 +781,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "At the cranial vault, where the cranial rhythmic impulse is most familiar to beginning students",
-        "explanation": "Incorrect. The whole-body sensing session is deliberately framed as starting away from the cranium — the objectives specify beginning at the feet (the lecturer allows starting from the head as an alternative, but the vault-first habit is what the exercise is designed to break). This would be the correct answer if the exercise were vault-specific CRI training rather than sensing the whole."
+        "explanation": "Incorrect. The whole-body sensing session is deliberately framed as starting away from the cranium - the objectives specify beginning at the feet (the lecturer allows starting from the head as an alternative, but the vault-first habit is what the exercise is designed to break). This would be the correct answer if the exercise were vault-specific CRI training rather than sensing the whole."
       },
       {
         "text": "At the sacrum, because its dural attachment at S2 makes it the strongest peripheral station of the mechanism",
@@ -793,15 +793,15 @@ const Test_CV13 = [
       },
       {
         "text": "At the thoracic diaphragm, synchronizing the examiner's attention with the patient's visible breathing",
-        "explanation": "Incorrect. Attention to one's own breath belongs to the examiner's self-preparation (posture, center, breath), but the palpation session on the partner does not start at the diaphragm — and the primary respiratory mechanism is distinct from thoracic respiration in any case. This would be the correct answer if the exercise tracked pulmonary breathing, which it deliberately does not."
+        "explanation": "Incorrect. Attention to one's own breath belongs to the examiner's self-preparation (posture, center, breath), but the palpation session on the partner does not start at the diaphragm - and the primary respiratory mechanism is distinct from thoracic respiration in any case. This would be the correct answer if the exercise tracked pulmonary breathing, which it deliberately does not."
       },
       {
         "text": "At the feet, sensing the whole from there",
-        "explanation": "Correct. The session objectives call for a palpation session focused on whole-body sensing, starting from the feet — and the lecturer's exercise 2 is exactly this: sensing the whole of a patient starting from the feet (or, alternatively, from the head). The setup details matter for the same reason the contacts do: feet flat on the floor and a pillow under the arms keep the examiner comfortable and supported, so the hands can simply receive. The PRM can be palpated throughout the body, which is what makes a feet-first approach possible."
+        "explanation": "Correct. The session objectives call for a palpation session focused on whole-body sensing, starting from the feet - and the lecturer's exercise 2 is exactly this: sensing the whole of a patient starting from the feet (or, alternatively, from the head). The setup details matter for the same reason the contacts do: feet flat on the floor and a pillow under the arms keep the examiner comfortable and supported, so the hands can simply receive. The PRM can be palpated throughout the body, which is what makes a feet-first approach possible."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Whole-body sensing starts from the feet (or the head). Set up your own comfort first — feet flat on the floor, pillow under the arms — so the hands can simply receive.",
+    "clinicalPearl": "Whole-body sensing starts from the feet (or the head). Set up your own comfort first - feet flat on the floor, pillow under the arms - so the hands can simply receive.",
     "pdfPage": 2,
     "pdfQuote": "whole-body sensing, starting from the feet"
   },
@@ -812,11 +812,11 @@ const Test_CV13 = [
     "options": [
       {
         "text": "Press more firmly, since deeper pressure recruits more mechanoreceptors and makes subtle motion easier to detect",
-        "explanation": "Incorrect. Cranial sensing is the opposite of the firm pressure used on muscle in earlier labs — the proprioceptors of the hands receive fine motion best through a relaxed, light contact, and squeezing makes the patient uncomfortable and guards the tissues. This would be the correct answer if the task were deep palpation of paraspinal structures, not receiving the cranial mechanism."
+        "explanation": "Incorrect. Cranial sensing is the opposite of the firm pressure used on muscle in earlier labs - the proprioceptors of the hands receive fine motion best through a relaxed, light contact, and squeezing makes the patient uncomfortable and guards the tissues. This would be the correct answer if the task were deep palpation of paraspinal structures, not receiving the cranial mechanism."
       },
       {
         "text": "Re-establish his own comfort and relaxation, since the physician's tension is transmitted to the patient",
-        "explanation": "Correct. The lecture's rule is to be comfortable, respond immediately to your own discomfort, and keep continually checking in with yourself — because when the physician is relaxed and supported, that translates to the hands, and when the physician is tense and squeezing, the patient feels it. Sensing means receiving information afferently, with the attention divided between observing oneself and what is being palpated. Correcting his posture, breathing, and grip restores both his instrument and his partner's comfort."
+        "explanation": "Correct. The lecture's rule is to be comfortable, respond immediately to your own discomfort, and keep continually checking in with yourself - because when the physician is relaxed and supported, that translates to the hands, and when the physician is tense and squeezing, the patient feels it. Sensing means receiving information afferently, with the attention divided between observing oneself and what is being palpated. Correcting his posture, breathing, and grip restores both his instrument and his partner's comfort."
       },
       {
         "text": "Ignore his own discomfort until the observation is complete so that the contact is never interrupted",
@@ -824,15 +824,15 @@ const Test_CV13 = [
       },
       {
         "text": "Convert from passive observation to an active, efferent motion testing of each individual cranial suture in sequence to gather more information",
-        "explanation": "Incorrect. The beginning portions of this lab are explicitly about sensing — receiving afferently with an open mind — not about efferently coming in and doing something. Active sutural motion testing is not the remedy for a failed receptive contact. This would be the correct answer if the lab had reached its treatment phase, but the problem described is one of physician tension, not insufficient testing."
+        "explanation": "Incorrect. The beginning portions of this lab are explicitly about sensing - receiving afferently with an open mind - not about efferently coming in and doing something. Active sutural motion testing is not the remedy for a failed receptive contact. This would be the correct answer if the lab had reached its treatment phase, but the problem described is one of physician tension, not insufficient testing."
       },
       {
         "text": "Ask the partner to consciously relax so that the rhythm becomes easier for the examiner to find",
-        "explanation": "Incorrect. The variable under the student's control — and the one the lecture emphasizes — is his own state, not the partner's effort. The partner's discomfort is itself being caused by the examiner's squeezing, so the correction begins with the examiner. This would be the correct answer if patient effort were the described prerequisite for palpating the mechanism, which it is not."
+        "explanation": "Incorrect. The variable under the student's control - and the one the lecture emphasizes - is his own state, not the partner's effort. The partner's discomfort is itself being caused by the examiner's squeezing, so the correction begins with the examiner. This would be the correct answer if patient effort were the described prerequisite for palpating the mechanism, which it is not."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Sensing is afferent — receiving, not doing. Continually check your own posture, breathing, and comfort: a tense, squeezing physician is felt by the patient.",
+    "clinicalPearl": "Sensing is afferent - receiving, not doing. Continually check your own posture, breathing, and comfort: a tense, squeezing physician is felt by the patient.",
     "pdfPage": 25,
     "pdfQuote": "respond immediately to your own discomfort"
   },
@@ -843,7 +843,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The dura secretes the cerebrospinal fluid that nourishes the nerves, and strain halts this secretion at its source",
-        "explanation": "Incorrect. CSF is not a dural secretion, and the lecture does not tie nerve dysfunction to any interruption of fluid production. The relationship between the nerves and the dura is anatomic and mechanical — a matter of passage, not nourishment. This would be the correct answer if the dura were a secretory organ supplying the nerves, which it is not."
+        "explanation": "Incorrect. CSF is not a dural secretion, and the lecture does not tie nerve dysfunction to any interruption of fluid production. The relationship between the nerves and the dura is anatomic and mechanical - a matter of passage, not nourishment. This would be the correct answer if the dura were a secretory organ supplying the nerves, which it is not."
       },
       {
         "text": "Cranial nerves receive their entire blood supply from the dural venous sinuses, and strain causes venous infarction of the nerve trunks as they exit",
@@ -855,7 +855,7 @@ const Test_CV13 = [
       },
       {
         "text": "Cranial nerves pierce the dura on the way to their targets, so dural or bony strain can affect their function",
-        "explanation": "Correct. The cranial nerves pierce through the dura in order to perform their functions and reach their destinations, and strains in the dura or in a cranial bone can therefore affect how these nerves perform and function. This is the mechanical logic behind cranial nerve entrapment as a listed component of cranial somatic dysfunction, alongside sutural restriction, dural restriction, and venous sinus congestion — and it is why the pre-lab insists on reviewing the nerve exits before hands go on."
+        "explanation": "Correct. The cranial nerves pierce through the dura in order to perform their functions and reach their destinations, and strains in the dura or in a cranial bone can therefore affect how these nerves perform and function. This is the mechanical logic behind cranial nerve entrapment as a listed component of cranial somatic dysfunction, alongside sutural restriction, dural restriction, and venous sinus congestion - and it is why the pre-lab insists on reviewing the nerve exits before hands go on."
       },
       {
         "text": "Dural strain compresses the pituitary gland, whose altered hormonal output changes the excitability of the nerves",
@@ -863,7 +863,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Cranial nerves pierce the dura to reach their targets — dural or cranial bone strain can therefore alter nerve function (cranial nerve entrapment, a component of cranial somatic dysfunction).",
+    "clinicalPearl": "Cranial nerves pierce the dura to reach their targets - dural or cranial bone strain can therefore alter nerve function (cranial nerve entrapment, a component of cranial somatic dysfunction).",
     "pdfPage": 37,
     "pdfQuote": "cranial nerve entrapments"
   },
@@ -874,11 +874,11 @@ const Test_CV13 = [
     "options": [
       {
         "text": "The movement of the primary respiratory mechanism may be palpated throughout the body",
-        "explanation": "Correct. The PRM is an alternating change in shape whose movement may be palpated throughout the body — it begins at conception, continues throughout life, and involves the whole linked system of CNS, fluid, membranes, bones, and sacrum. This is exactly why the whole-body sensing exercise starts from the feet, and why the lecturer suggests practicing on anything alive, from a family member to a tree or a pet. The rhythm's independence from the visible breath is expected: primary respiration is not pulmonary respiration."
+        "explanation": "Correct. The PRM is an alternating change in shape whose movement may be palpated throughout the body - it begins at conception, continues throughout life, and involves the whole linked system of CNS, fluid, membranes, bones, and sacrum. This is exactly why the whole-body sensing exercise starts from the feet, and why the lecturer suggests practicing on anything alive, from a family member to a tree or a pet. The rhythm's independence from the visible breath is expected: primary respiration is not pulmonary respiration."
       },
       {
         "text": "The pedal pulses transmit the cardiac rhythm into the soft tissues of the feet",
-        "explanation": "Incorrect. An arterial pulse would match the heart rate — a much faster rhythm than the slow motion described — and would be a localized pulsation rather than a subtle whole-tissue shape change. This would be the correct answer if she were palpating over the dorsalis pedis with a rate matching the radial pulse, which is not the described finding."
+        "explanation": "Incorrect. An arterial pulse would match the heart rate - a much faster rhythm than the slow motion described - and would be a localized pulsation rather than a subtle whole-tissue shape change. This would be the correct answer if she were palpating over the dorsalis pedis with a rate matching the radial pulse, which is not the described finding."
       },
       {
         "text": "Thoracic respiration is transmitted through the fascial planes of the lower extremity, and she is feeling a delayed mechanical echo of each breath",
@@ -886,7 +886,7 @@ const Test_CV13 = [
       },
       {
         "text": "Involuntary muscle fasciculations produce a rhythmic rippling in the relaxed limbs of most resting subjects",
-        "explanation": "Incorrect. Fasciculations are irregular, local twitches, not a slow, coordinated, cyclic motion of the whole part — and the lecture attributes the palpable peripheral rhythm to the mechanism, not to spontaneous muscle activity. This would be the correct answer if the finding were sporadic twitching rather than a regular alternating motion."
+        "explanation": "Incorrect. Fasciculations are irregular, local twitches, not a slow, coordinated, cyclic motion of the whole part - and the lecture attributes the palpable peripheral rhythm to the mechanism, not to spontaneous muscle activity. This would be the correct answer if the finding were sporadic twitching rather than a regular alternating motion."
       },
       {
         "text": "She is perceiving her own radial pulse reflected through her relaxed contact with the partner",
@@ -894,7 +894,7 @@ const Test_CV13 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "The PRM begins at conception, continues throughout life, and may be palpated throughout the body — which is why whole-body sensing can start at the feet, and why anything alive is fair practice material.",
+    "clinicalPearl": "The PRM begins at conception, continues throughout life, and may be palpated throughout the body - which is why whole-body sensing can start at the feet, and why anything alive is fair practice material.",
     "pdfPage": 17,
     "pdfQuote": "may be palpated throughout the body"
   },
@@ -905,7 +905,7 @@ const Test_CV13 = [
     "options": [
       {
         "text": "It is shortening and widening as it coils",
-        "explanation": "Incorrect. Shortening and widening — coiling — is the CNS behavior of the inhalation (flexion) phase, which the examiner would feel as a swelling with coronal widening. The receding pattern described here belongs to the opposite phase. This would be the correct answer if her hands were reporting transverse widening with decreasing height, the signature of flexion."
+        "explanation": "Incorrect. Shortening and widening - coiling - is the CNS behavior of the inhalation (flexion) phase, which the examiner would feel as a swelling with coronal widening. The receding pattern described here belongs to the opposite phase. This would be the correct answer if her hands were reporting transverse widening with decreasing height, the signature of flexion."
       },
       {
         "text": "It is swelling as choroid plexus production of cerebrospinal fluid transiently outpaces venous absorption",
@@ -913,7 +913,7 @@ const Test_CV13 = [
       },
       {
         "text": "It is lengthening and narrowing as it uncoils",
-        "explanation": "Correct. The receding pattern — coronal narrowing with increasing anteroposterior diameter and height — marks the exhalation (extension) phase, during which the central nervous system lengthens and narrows as it uncoils. In the same phase the paired bones move into internal rotation, the falx lengthens front to back, and the sacral base moves antero-inferior. The inhalation phase reverses every element: coiling CNS, external rotation, transverse widening, and a postero-superior sacral base."
+        "explanation": "Correct. The receding pattern - coronal narrowing with increasing anteroposterior diameter and height - marks the exhalation (extension) phase, during which the central nervous system lengthens and narrows as it uncoils. In the same phase the paired bones move into internal rotation, the falx lengthens front to back, and the sacral base moves antero-inferior. The inhalation phase reverses every element: coiling CNS, external rotation, transverse widening, and a postero-superior sacral base."
       },
       {
         "text": "It is pulsating in synchrony with the cardiac cycle",
@@ -921,7 +921,7 @@ const Test_CV13 = [
       },
       {
         "text": "It is retracting away from its dural coverings",
-        "explanation": "Incorrect. The CNS does not pull away from the dura during either phase — the dura reciprocates the motion of the CNS as the reciprocal tension membrane, remaining coupled to it and to the bones throughout the cycle. This would be the correct answer if the membranes and CNS moved independently, but their linked, reciprocating motion is the entire premise of the mechanism."
+        "explanation": "Incorrect. The CNS does not pull away from the dura during either phase - the dura reciprocates the motion of the CNS as the reciprocal tension membrane, remaining coupled to it and to the bones throughout the cycle. This would be the correct answer if the membranes and CNS moved independently, but their linked, reciprocating motion is the entire premise of the mechanism."
       }
     ],
     "correctAnswerIndex": 2,
