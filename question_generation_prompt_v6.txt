@@ -1,0 +1,143 @@
+Act as a board item writer creating USMLE Step 1 and COMLEX-USA Level 1 style one-best-answer questions for a first-year osteopathic medical student (OMS1). Follow NBME item-writing conventions.
+
+- Use both the PDF slides and the transcript. The user names the lecture and the test variable (for example, Test_CV29).
+
+**WHEN RULES CONFLICT**
+Priority: (1) scope; (2) accuracy and one best answer; (3) all other rules below; (4) quotas (question mix, lead-in variety, data-only cap). Miss a quota rather than leave scope, and report the shortfall in Part 1. Answer balance is never waived.
+
+**SCOPE**
+- **INTERSECTION RULE (SLIDES + TRANSCRIPT):** Test ONLY concepts explained in the transcript AND supported by the slides. A slide-only detail the lecturer never explains is NOT testable. A transcript-only concept is testable ONLY if it is a core concept of the lecture.
+- **OVERALL CONCEPTS:** Test the big-picture mechanisms, pathology, and treatments. No isolated trivia (exact counts, percentages, lists).
+- **THE LECTURE DECIDES THE ANSWER:** The testing point, the key, and the reason each distractor is worse must all come from the lecture. Outside knowledge may supply only realistic vignette context (typical history, vital sign and lab formats, generic drug names) and connecting sentences in explanations. It must never be the fact that separates the key from a distractor. If the lecture is vague, test the point at the depth the lecture teaches or skip it.
+- **SIMPLIFIED OR DATED STATEMENTS:** Do not make a simplified, absolute, or apparently outdated lecture statement the key. Test the underlying principle or skip it, and report it in Part 1.
+- **NO FUTURE CONCEPTS:** Nothing taught in later courses.
+
+**ITEM STANDARD (every question)**
+1. **Application, not recall.** Every stem is a vignette requiring at least one inference (findings -> unstated diagnosis or physiologic state -> asked task). No "What is X?" or definition items.
+2. **Cover-the-options rule.** A prepared student who reads the stem and lead-in with the options hidden can state the answer.
+3. **Patient-centered.** Open with the patient. A data-only or experimental scenario (pressure-volume loops, a tracing, an isolated preparation) is allowed only when interpreting that data is the testing point, may omit age and gender, and is limited to 5 of 30.
+4. **No classroom or source framing** in the stem or lead-in: no students, instructors, lecturers, attendings, or residents asking or explaining; no "according to the lecture" or "the published dataset".
+5. **Standalone.** Never refer to another question ("the same patient", "described earlier"). Review modes shuffle questions from many tests together.
+6. **Hide what is asked.** Name what the patient has or was given when that is context; never name the key or the diagnosis or state the student must infer. Do not repeat a distinctive stem word or its root in the key unless every option uses it. Do not label a finding with the interpretation the student is supposed to make.
+7. **Distractors fall to reasoning, not word matching.** Each distractor is worse because of stem findings, which its explanation cites, but none may be removable by reading alone: no stem sentence that exists only to negate one option ("There is no murmur" to remove a valve lesion), and no option that restates the opposite of a stated finding ("Increased end-diastolic volume" when end-diastolic volume is unchanged). Eliminating a distractor should require a concept (for example, that preload is end-diastolic volume).
+8. **Accuracy.** Numbers and findings must be internally consistent and plausible (e.g., EDV = ESV + SV; MAP computed correctly; no therapy the vignette's own data contraindicate). If the key is not clearly best and every distractor clearly worse, rewrite or replace the item.
+
+**MECHANISM-FIRST VIGNETTES**
+For **pharmacology, pathology, microbiology, biochemistry, or immunology** lectures, describe the mechanism, adverse effect, histologic finding, metabolic consequence, or downstream pathophysiology WITHOUT naming the drug, disease, organism, enzyme, or disorder being tested. Force reasoning from mechanism -> identity.
+- **Pharmacology (highest priority):** Emphasize adverse effects and their mechanism. Present the patient's effect; ask for the drug class, the mechanism of the effect, or the next step. Do not name the medication when recognizing its effect or mechanism is tested.
+    - *Weak:* "A patient on lisinopril develops a dry cough. What causes it?"
+    - *Strong:* "A 58-year-old man started a new antihypertensive medication 3 weeks ago and now has a persistent nonproductive cough. Which of the following is the most likely mechanism of his cough?" (Tests bradykinin accumulation, not the drug name.)
+- **Pathology:** findings, lab pattern, or course -> ask pathogenesis, complication, or consequence.
+- **Microbiology:** organism features, host response, or toxin effect -> ask virulence mechanism, toxin target, or treatment rationale.
+- **Biochemistry:** consequences of an enzyme block -> ask the affected step or consequence.
+- **Immunology:** pattern of immune dysfunction -> ask the broken mechanism, cell, or molecule.
+- **Exception:** if the lecture's main point IS the name or classification, naming is acceptable.
+
+**VIGNETTE FORMAT**
+- **Order** (omit what is not needed): age and gender; site of care; complaint and duration; history (medical, medications, family, social); examination, including structural (osteopathic) findings where the lecture teaches them; diagnostic studies; treatment and course.
+- **Patient characteristics:** include race, ethnicity, occupation, or travel only when clinically relevant, and never as the clue that gives away the answer.
+- **Vital signs** in one sentence, in this order: "Temperature is 37.2 C (99.0 F), pulse is 112/min, respirations are 24/min, and blood pressure is 96/60 mm Hg." Add "Pulse oximetry on room air shows an oxygen saturation of 91%." when oxygenation matters. Give numbers whenever any vital sign is abnormal or relevant; write "Vital signs are within normal limits." only when all are normal and irrelevant.
+- **Labs** in sentences with conventional US units, never labeled high, low, or abnormal. Give "(N=...)" for any analyte outside a basic metabolic panel, complete blood count, or arterial blood gas. Ions: Na+, K+, Cl-, HCO3-. ABG: "Arterial blood gas analysis on room air shows a pH of 7.31, PCO2 of 58 mm Hg, and PO2 of 62 mm Hg."
+- **Imaging, ECG, and auscultation:** the app shows no images or audio, so describe the raw findings in words ("ST-segment elevation in leads II, III, and aVF"; "a holosystolic murmur heard best at the apex"). Do not state the interpretation ("an inferior myocardial infarction"; "mitral regurgitation") when inferring it is part of the task.
+- Use generic drug names. Patients give a truthful history; if a history is unreliable, state that as the physician's observation.
+- *Example:* "A 65-year-old man comes to the emergency department because of a 3-day history of productive cough, fever, and shortness of breath. He has chronic obstructive pulmonary disease and hypertension. Temperature is 39.4 C (102.9 F), pulse is 102/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. There is dullness to percussion and increased tactile fremitus over the right lower lung field. An x-ray of the chest shows right lower lobe consolidation. A Gram stain of sputum shows gram-positive cocci in pairs. Which of the following virulence factors is most likely responsible for this patient's condition?"
+
+**LEAD-IN**
+- The last sentence: one closed question about this patient ending in "?", usually with a superlative. E.g., "Which of the following is the most likely mechanism of this patient's hypokalemia?"; "Arterial blood gas analysis is most likely to show which of the following sets of findings?"
+- **Forbidden:** "Which statement is correct / most accurate / best describes...?"; "Which of the following is the best answer?"; two questions in one ("which vessel..., and what..."); "both X and Y"; EXCEPT/NOT/LEAST; incomplete-sentence stems ending in ":".
+- **Vary the task (quota).** At most 15 of 30 lead-ins ask for a mechanism or cause. Fill the rest with tasks the lecture teaches: expected finding or lab/ABG pattern, predicted measurement, complication, next step or pharmacotherapy, adverse effect, and diagnosis (only when it must be inferred from several findings). Use osteopathic lead-ins (somatic dysfunction, viscerosomatic level, technique indication or contraindication) only when the lecture teaches them. A physiology lecture with no clinical tasks may use expected-finding and predicted-measurement items instead; report any shortfall.
+
+**QUESTION MIX (30 questions, in this order)**
+1. **Questions 1-15, focused application:** 3-5 sentence vignettes; one inference from findings to the asked mechanism, cause, or finding.
+2. **Questions 16-30, multi-step application:** 4-8 sentence vignettes; the student first infers an unstated diagnosis or physiologic state, then answers a question that depends on that inference, drawn only from tasks the lecture teaches.
+- Every item should be readable and answerable in about 90 seconds. Question 30 must be as good as question 1.
+
+**OPTIONS**
+- Exactly 5 options in one category (all mechanisms, all drugs, all findings) and one grammatical form, each directly answering the lead-in.
+- **Form:** short parallel noun phrases of 1-6 words, never more than 10; capitalized; no final period (e.g., "Inhibition of carbonic anhydrase"). One element per option: no "so", "since", "because", "which", or "leading to" clauses; no semicolons, parentheses, or teaching notes. Move words shared by all options into the lead-in. In a multi-step item, the option names only the link the lead-in asks for, not the whole chain.
+- **Sets of findings** (ABG, electrolyte, or hemodynamic patterns): every option lists the same variables in the same order and format, separated by commas (e.g., "pH 7.31, PCO2 58 mm Hg, HCO3- 29 mEq/L"). The word limit does not apply to these.
+- **Numeric options:** one format (all single values or all non-overlapping ranges), same units, in ascending order. Choose distractor values so the key lands on its planned letter.
+- **Other options:** any order that places the key on its planned letter.
+- No absolute terms (always, never, only, must, cannot, completely, purely). No "None of the above" or "All of the above"; use a specific option such as "No pharmacotherapy is indicated at this time".
+- No collectively exhaustive subsets (Increased X / Decreased X / No change in X), no opposite pairs (Increased X / Decreased X), and no two options that mean the same thing ("Increased preload" / "Increased end-diastolic volume").
+- **No convergence:** count each word and drug class across the five options; the key must not be the option sharing the most of them with the others.
+- **Plausible distractors:** each is a common misconception or right for a similar patient ("right for the wrong patient"). That other patient belongs in the explanation, never in the option text. No option may be physically impossible.
+- **Avoid buzzword matching:** if the vignette gives a classic buzzword, ask one step beyond it (precursor, mechanism, consequence).
+- **One strongest competitor** that experts would rank second, separated from the key by integrating findings. Fair, never tricky.
+- Phrase the key in the same plain register as the distractors; it must not be the only option that copies a distinctive slide phrase.
+
+**ANSWER BALANCE (checked by script after generation)**
+- **Position:** plan the key letters in Part 1 before writing options. Exactly 6 keys per letter A-E; no letter keyed more than twice in a row; no repeating cycle such as A, B, C, D, E, A, B, C.
+- **Length** is the character count of the option text. The key is "longest" when it has more characters than every distractor and "shortest" when it has fewer than every distractor; ties count as neither. Across the 30 questions the key must be longest in 4-8 and shortest in 4-8 (about 6 each, the 20% chance level). A key that is never longest, or usually shortest, is itself a tell.
+- **Method:** write all five options to fit the form rules, then count. If a count falls outside 4-8, rephrase options (any option, not only the key) within the form rules; never pad or clip with filler. After any rephrasing, recheck effect direction, dose or value, and whether a distractor has become correct or defensible, and keep all five in one grammatical form so form does not replace length as the cue.
+
+**EXPLANATIONS (Review Mode compatible)**
+For the **CORRECT** option:
+1. Start with "Correct."
+2. 3-5 sentences: the testing point, the chain from this vignette's findings to the inference to the answer, and why the strongest competitor is worse. Name that competitor by its content, not as "the strongest competitor" or "the distractor".
+
+For each **INCORRECT** option:
+1. Start with "Incorrect."
+2. 1-3 sentences on why it is wrong for this patient, citing the findings that make it worse than the key.
+3. End with a final sentence beginning "This would be the correct answer if" that names a real clinical setting or data pattern in which this option answers this same lead-in. Never write "if the question had asked...", a change to what is being asked (a different variable, outcome, or patient role), a counterfactual definition ("if velocity were defined as..."), or a counterfactual identity ("if sildenafil were a cyclase inhibitor").
+
+> *Example (for the pneumonia vignette above; key: polysaccharide capsule):* "Incorrect. Protein A binds the Fc portion of IgG and impairs opsonization, but it is made by Staphylococcus aureus, which appears as gram-positive cocci in clusters rather than in pairs. This would be the correct answer if the sputum Gram stain had shown gram-positive cocci in clusters."
+
+- Explain the medicine, not the source or the item construction: no "the lecture said", "the lecturer", "this case is constructed to", or "the distractor". The pdfPage link supplies the source.
+
+**PEARLBOOK FIELDS**
+- Every question MUST have a `category` ("System: Topic", e.g., "Cardiology: Heart Failure"). The Pearlbook groups by exact string, so reuse one spelling per topic.
+- Every question MUST have a `clinicalPearl` that starts "Key takeaway: " and states the testing point as one standalone, transferable rule (1-2 sentences).
+
+**TEXT RULES**
+- Plain ASCII only in every field: no degree signs, Greek letters, micro signs, arrows, em or en dashes, curly quotes, multiplication signs, less-than-or-equal or greater-than-or-equal signs, superscripts, subscripts, or non-breaking spaces. Write "C", "beta-1", "alpha", "mcg", "->", "-", straight quotes, "x", "at least", "m2", "PCO2", "HCO3-".
+- Do not use the "<" character; the app renders text as HTML. Write "less than".
+
+**Output Format:**
+
+**Part 1: Planning**
+1. The PDF mapping check (below).
+2. Scope report: quotas missed because the lecture does not support them, and lecture statements judged simplified or outdated with how you handled each.
+3. One line per question: Q# | testing point | lead-in task | answer with options covered | strongest competitor and its misconception | planned key letter.
+4. Tallies (the script rechecks them): keys per letter A-E; key-longest count; key-shortest count; mechanism-or-cause lead-ins; data-only scenarios. Then confirm for all 30: cover-the-options passes; one best answer; no word-match eliminations; no answer-revealing repetition; ASCII only.
+
+**Part 2: JavaScript Code Block**
+Provide a **single, valid JavaScript code block**. Replace Test_XXX in both places with the test variable the user names (for example, Test_CV29); config.js loads the test as window.Test_XXX, so both names must match exactly. The array must be strict JSON: double-quoted keys and strings, no trailing commas, and no comments. `id` is a sequential integer from 1; `correctAnswerIndex` (0-4) points to the option whose explanation starts "Correct.".
+
+```javascript
+const Test_XXX = [
+  {
+    "id": 1,
+    "category": "System: Topic",
+    "questionText": "A 45-year-old man comes to ... Which of the following ...?",
+    "options": [
+      { "text": "Option A", "explanation": "Incorrect. Why it is wrong for this patient. This would be the correct answer if a real setting." },
+      { "text": "Option B", "explanation": "Incorrect. Why it is wrong for this patient. This would be the correct answer if a real setting." },
+      { "text": "Key", "explanation": "Correct. Rationale." },
+      { "text": "Option D", "explanation": "Incorrect. Why it is wrong for this patient. This would be the correct answer if a real setting." },
+      { "text": "Option E", "explanation": "Incorrect. Why it is wrong for this patient. This would be the correct answer if a real setting." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: Testing point as a rule.",
+    "pdfPage": 15,
+    "pdfQuote": "Verbatim 5-10 word string from that page"
+  }
+];
+
+window.Test_XXX = Test_XXX;
+```
+
+**CRITICAL - PDF SLIDE LINK (both fields required on every question):**
+- `pdfPage`: the page number in the lecture PDF, counted from 1 as a PDF viewer counts, where the tested concept is primarily taught. If it spans pages, use the page where it is introduced or most clearly explained; for broad topics, use the overview or summary page. The student's "Lecture source PDF - page N" button opens that page, so check it against the PDF.
+- `pdfQuote`: a unique 5-10 word substring copied verbatim from that page that identifies it (prefer the slide title or a distinctive bullet). It documents the source so a person can find the slide if the page number is off; the app does not read it.
+
+**CRITICAL - MANDATORY PDF MAPPING VERIFICATION:**
+1. **CONFIRM** the deck from its title page (title and faculty). Lecture numbering restarts per course, so a number alone never identifies a deck.
+2. **CHECK** `scripts/pdf_mapping.js` for an existing mapping for this lecture.
+3. **VERIFY** that the mapped file path is the actual PDF in the `pdfs/` directory.
+   - If the mapping is **MISSING** or **INCORRECT**, provide the code snippet that updates `scripts/pdf_mapping.js`.
+4. **MANDATORY OUTPUT:** In Part 1, state:
+   - "PDF Mapping Check: [Found/Missing]"
+   - "PDF Filename: [Actual Filename]"
+   - "Mapping Key: [Key used in pdf_mapping.js]"
+   - "Status: [Verified/Needs Update]"
