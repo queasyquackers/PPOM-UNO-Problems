@@ -1580,6 +1580,57 @@ body.dark-mode .editorial-h2 {
   white-space: nowrap;
 }
 
+/* Per-lecture breakdown on cumulative exams (app.js renderLectureBreakdown). */
+.summary-dek {
+  font-family: var(--font-editorial-body);
+  font-style: italic;
+  color: var(--text-secondary);
+  margin: -0.5rem 0 0.25rem;
+}
+
+.summary-stat-list li.lecture-row {
+  display: block;
+  padding: 0.5rem 0 0.6rem;
+}
+
+.lecture-row-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.lecture-row-id {
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-secondary);
+  margin-right: 0.55rem;
+}
+
+.lecture-row-bar {
+  height: 4px;
+  margin-top: 0.35rem;
+  background: var(--border-color);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.lecture-row-bar > span {
+  display: block;
+  height: 100%;
+  background: var(--correct-border);
+}
+
+.lecture-row.is-weak .lecture-row-bar > span {
+  background: var(--incorrect-border);
+}
+
+.lecture-row.is-weak .summary-stat-score {
+  color: var(--incorrect-text);
+}
+
 .summary-actions {
   display: flex;
   gap: 1rem;

@@ -696,7 +696,79 @@ document.addEventListener('DOMContentLoaded', () => {
             strongestEl.innerHTML = '';
             strongestHeading.style.display = 'none';
         }
+
+        renderLectureBreakdown(testName, state);
     };
+
+    // Per-lecture breakdown for the CPR Block 1 weekly exams. A weekly exam mixes that week's
+    // lectures, so the total alone cannot tell a student what to review; this lists every
+    // lecture on the exam with its question count and percent correct, weakest first.
+    // Deliberately limited to the CPR weekly exams: their lecture labels were checked when they
+    // were built, while several older cumulative banks tag some questions with the wrong lecture
+    // number, which would file a missed question under the wrong lecture. Widen WEEKLY_EXAM to
+    // cover another block only after checking that bank's labels.
+    // Rows are keyed by lecture ID, not the full lectureSource string, so two wordings of one
+    // lecture's title share a row, and a source naming two lectures ("Lecture 52/53") stays a
+    // single row so no question is counted twice.
+    function renderLectureBreakdown(testName, state) {
+        const section = getEl('summary-by-lecture-section');
+        const list = getEl('summary-by-lecture');
+        if (!section || !list) return;
+
+        const WEEKLY_EXAM = /^Cardio-WEEK \d+ CUMULATIVE EXAM\b/;
+        if (!WEEKLY_EXAM.test(testName)) {
+            section.style.display = 'none';
+            list.innerHTML = '';
+            return;
+        }
+
+        const WEAK_BELOW_PCT = 70;
+        // "CV7: ..." -> CV7   "Lecture 50: ..." -> L50   "Lecture 52/53: ..." -> L52/53
+        const SOURCE_RE = /^\s*(?:((?:CV|FOM|L)\d+[a-z]?)|[Ll]ectures?\s+(\d+[a-z]?(?:\s*[\/&]\s*\d+[a-z]?)*))\s*:\s*(.*)$/;
+        const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+        const lectures = new Map();
+        state.questions.forEach((q, index) => {
+            const src = (q.lectureSource || '').trim();
+            const m = src.match(SOURCE_RE);
+            const id = m ? (m[1] || 'L' + m[2].replace(/\s+/g, '')) : '';
+            const title = m ? m[3].trim() : (src || 'Unattributed');
+            const key = id || title;
+            if (!lectures.has(key)) {
+                lectures.set(key, { id, titles: new Map(), correct: 0, total: 0, order: lectures.size });
+            }
+            const lec = lectures.get(key);
+            lec.titles.set(title, (lec.titles.get(title) || 0) + 1);
+            lec.total++;
+            // Every question counts toward the total: finishing an exam grades unanswered ones wrong.
+            if (state.userAnswers[index]?.isCorrect) lec.correct++;
+        });
+
+        const lectureNumber = (id) => parseInt((id.match(/\d+/) || ['0'])[0], 10);
+        const rows = [...lectures.values()].map(lec => {
+            let title = '', best = 0;
+            lec.titles.forEach((n, t) => { if (n > best) { best = n; title = t; } });   // most common wording
+            const exact = lec.total ? lec.correct / lec.total : 0;
+            return { ...lec, title, exact, pct: Math.round(exact * 100) };
+        });
+        // Weakest first; among equal scores, the lecture with more questions is the firmer signal.
+        rows.sort((a, b) =>
+            a.exact - b.exact || b.total - a.total || lectureNumber(a.id) - lectureNumber(b.id) || a.order - b.order);
+
+        list.innerHTML = rows.map(r => {
+            const pct = r.pct;
+            const idTag = r.id ? `<span class="lecture-row-id">${esc(r.id)}</span>` : '';
+            // Flag on the displayed (rounded) percent, so a row that reads 70% is never marked weak.
+            return `<li class="lecture-row${pct < WEAK_BELOW_PCT ? ' is-weak' : ''}">` +
+                `<div class="lecture-row-head">` +
+                `<span class="summary-stat-name">${idTag}${esc(r.title)}</span>` +
+                `<span class="summary-stat-score">${r.correct} / ${r.total} &nbsp;&middot;&nbsp; ${pct}%</span>` +
+                `</div>` +
+                `<div class="lecture-row-bar" aria-hidden="true"><span style="width: ${pct}%"></span></div>` +
+                `</li>`;
+        }).join('');
+        section.style.display = '';
+    }
 
     function switchToTest(testName) {
         if (currentTestName && testStates[currentTestName]) {
