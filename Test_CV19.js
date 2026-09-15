@@ -119,7 +119,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "In the media of large elastic arteries, the smooth muscle cells synthesize the collagen and ground substance — NOT fibroblasts, which serve as matrix cells only in the adventitia.",
+    "clinicalPearl": "In the media of large elastic arteries, the smooth muscle cells synthesize the collagen and ground substance - NOT fibroblasts, which serve as matrix cells only in the adventitia.",
     "pdfPage": 10,
     "pdfQuote": "made from smooth muscle cells, not"
   },
@@ -161,7 +161,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "A prominent internal elastic lamina",
-        "explanation": "Correct. Muscular arteries — most of the named arteries of the body, such as the internal thoracic and right coronary arteries — have a tunica intima composed of endothelium and a sparse subendothelium, but their internal elastic lamina is prominent and easily seen on elastin stains as a wavy refractile line beneath the endothelium. The media is the thickest, smooth-muscle-predominant layer, and an external elastic lamina is distinct mainly in the largest muscular arteries. The conspicuous internal elastic lamina is therefore the intimal hallmark of this vessel class."
+        "explanation": "Correct. Muscular arteries - most of the named arteries of the body, such as the internal thoracic and right coronary arteries - have a tunica intima composed of endothelium and a sparse subendothelium, but their internal elastic lamina is prominent and easily seen on elastin stains as a wavy refractile line beneath the endothelium. The media is the thickest, smooth-muscle-predominant layer, and an external elastic lamina is distinct mainly in the largest muscular arteries. The conspicuous internal elastic lamina is therefore the intimal hallmark of this vessel class."
       },
       {
         "text": "Fifty to seventy concentric fenestrated elastic sheets",
@@ -270,7 +270,7 @@ const Test_CV19 = [
       },
       {
         "text": "A slight thickening of smooth muscle at the origin of the capillary bed",
-        "explanation": "Correct. The precapillary sphincter is a slight thickening of smooth muscle at the origin of a capillary bed from an arteriole. By contracting or relaxing, it modulates blood flow into the capillary network downstream. Together with arteriolar tone — arterioles can dilate up to 100 percent from resting diameter and sustain up to 40 percent constriction for long periods — these sphincters determine how much blood enters a given bed and whether flow instead passes through thoroughfare channels."
+        "explanation": "Correct. The precapillary sphincter is a slight thickening of smooth muscle at the origin of a capillary bed from an arteriole. By contracting or relaxing, it modulates blood flow into the capillary network downstream. Together with arteriolar tone - arterioles can dilate up to 100 percent from resting diameter and sustain up to 40 percent constriction for long periods - these sphincters determine how much blood enters a given bed and whether flow instead passes through thoroughfare channels."
       }
     ],
     "correctAnswerIndex": 4,
@@ -285,7 +285,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "Capillary smooth muscle contraction in the gut with capillary dilation in muscle",
-        "explanation": "Incorrect. Capillaries contain no smooth muscle at all — their walls are endothelium and basal lamina — so capillaries themselves cannot actively constrict or dilate to redistribute flow. The control points lie upstream in the arterioles. This would be the correct answer only if capillary walls were contractile, which contradicts their basic structure."
+        "explanation": "Incorrect. Capillaries contain no smooth muscle at all - their walls are endothelium and basal lamina - so capillaries themselves cannot actively constrict or dilate to redistribute flow. The control points lie upstream in the arterioles. This would be the correct answer only if capillary walls were contractile, which contradicts their basic structure."
       },
       {
         "text": "Venous valve closure in the intestine with valve opening in skeletal muscle",
@@ -316,7 +316,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "A wall consisting only of endothelium with its basal lamina, lacking media and adventitia",
-        "explanation": "Correct. Capillaries are built for exchange: their wall is a single layer of endothelial cells (simple squamous epithelium) resting on a basal lamina, and in cross-section only one to three endothelial cells encircle the lumen. There is no tunica media and no tunica adventitia — the tunica intima is, as the lecturer put it, the whole game. This minimal barrier, 4 to 10 micrometers in vessel diameter, allows fluid containing gases, metabolites, and waste products to diffuse across the thin wall."
+        "explanation": "Correct. Capillaries are built for exchange: their wall is a single layer of endothelial cells (simple squamous epithelium) resting on a basal lamina, and in cross-section only one to three endothelial cells encircle the lumen. There is no tunica media and no tunica adventitia - the tunica intima is, as the lecturer put it, the whole game. This minimal barrier, 4 to 10 micrometers in vessel diameter, allows fluid containing gases, metabolites, and waste products to diffuse across the thin wall."
       },
       {
         "text": "A single circumferential smooth muscle layer that relaxes to open intercellular diffusion channels",
@@ -336,7 +336,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "The capillary wall is only endothelium (1-3 cells around the lumen) plus basal lamina — no tunica media, no tunica adventitia — making it the site of gas, metabolite, and waste exchange.",
+    "clinicalPearl": "The capillary wall is only endothelium (1-3 cells around the lumen) plus basal lamina - no tunica media, no tunica adventitia - making it the site of gas, metabolite, and waste exchange.",
     "pdfPage": 18,
     "pdfQuote": "Single layer of endothelial cells and"
   },
@@ -363,11 +363,11 @@ const Test_CV19 = [
       },
       {
         "text": "It permits passage of larger particles, serving absorption, filtration, and secretion",
-        "explanation": "Correct. Pores bridged by diaphragms define fenestrated capillaries, which are found precisely in organs engaged in absorption (intestine), filtration (kidney), and secretion (endocrine glands such as the thyroid). The fenestrations allow passage of larger particles than continuous capillaries permit, matching capillary morphology to organ function. This structure-function pairing — intestine, kidney, endocrine glands — is the high-yield association for this capillary type."
+        "explanation": "Correct. Pores bridged by diaphragms define fenestrated capillaries, which are found precisely in organs engaged in absorption (intestine), filtration (kidney), and secretion (endocrine glands such as the thyroid). The fenestrations allow passage of larger particles than continuous capillaries permit, matching capillary morphology to organ function. This structure-function pairing - intestine, kidney, endocrine glands - is the high-yield association for this capillary type."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Fenestrated capillaries (pores with diaphragms) serve absorption in the intestine, filtration in the kidney, and secretion in endocrine glands — passing larger particles than continuous capillaries.",
+    "clinicalPearl": "Fenestrated capillaries (pores with diaphragms) serve absorption in the intestine, filtration in the kidney, and secretion in endocrine glands - passing larger particles than continuous capillaries.",
     "pdfPage": 19,
     "pdfQuote": "absorption (intestine), filtration (kidney), and"
   },
@@ -398,7 +398,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Discontinuous capillaries (sinusoids) have gaps in BOTH the endothelium and the basal lamina, allowing whole blood cells to pass — found in liver, spleen, and bone marrow.",
+    "clinicalPearl": "Discontinuous capillaries (sinusoids) have gaps in BOTH the endothelium and the basal lamina, allowing whole blood cells to pass - found in liver, spleen, and bone marrow.",
     "pdfPage": 19,
     "pdfQuote": "pass blood cells (liver, spleen, and"
   },
@@ -429,7 +429,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Endothelium secretes BOTH antithrombogenic agents (thrombomodulin, prostacyclin, antithrombin III, heparin, TPA) and prothrombogenic agents (vWF, tissue thromboplastin) — preventing clot on intact vessels while enabling hemostasis at injury sites.",
+    "clinicalPearl": "Endothelium secretes BOTH antithrombogenic agents (thrombomodulin, prostacyclin, antithrombin III, heparin, TPA) and prothrombogenic agents (vWF, tissue thromboplastin) - preventing clot on intact vessels while enabling hemostasis at injury sites.",
     "pdfPage": 21,
     "pdfQuote": "Maintain non-thrombogenic barrier"
   },
@@ -460,7 +460,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "High endothelial venules (HEVs) are postcapillary venules in lymph nodes lined by prominent cuboidal (not squamous) endothelial cells — a tunica intima specialization for the lymphatic system.",
+    "clinicalPearl": "High endothelial venules (HEVs) are postcapillary venules in lymph nodes lined by prominent cuboidal (not squamous) endothelial cells - a tunica intima specialization for the lymphatic system.",
     "pdfPage": 24,
     "pdfQuote": "high endothelial venules (HEVs)"
   },
@@ -487,7 +487,7 @@ const Test_CV19 = [
       },
       {
         "text": "Volume overload from arterial blood bypassing the capillary bed into the venous system",
-        "explanation": "Correct. A penetrating wound can pierce both the aorta and the vena cava — which are often contained within a shared sheath — creating an AV fistula, an abnormal arteriovenous connection. Arterial blood then passes directly into the vena cava, bypassing the capillary beds and returning immediately to the heart, which imposes a volume overload. If the shunt is large, this can cause severe cardiac enlargement, exactly as seen in this patient with a widened pulse pressure, continuous bruit, and dilated chambers. This is the pathological counterpart of the normal AV shunts found in skin and erectile tissue."
+        "explanation": "Correct. A penetrating wound can pierce both the aorta and the vena cava - which are often contained within a shared sheath - creating an AV fistula, an abnormal arteriovenous connection. Arterial blood then passes directly into the vena cava, bypassing the capillary beds and returning immediately to the heart, which imposes a volume overload. If the shunt is large, this can cause severe cardiac enlargement, exactly as seen in this patient with a widened pulse pressure, continuous bruit, and dilated chambers. This is the pathological counterpart of the normal AV shunts found in skin and erectile tissue."
       }
     ],
     "correctAnswerIndex": 4,
@@ -506,7 +506,7 @@ const Test_CV19 = [
       },
       {
         "text": "Opening of the AV shunts so blood bypasses the superficial capillary beds and returns directly to the venules",
-        "explanation": "Incorrect. Open shunts route blood directly from arteriole to venule without traversing the skin capillaries, so the skin is not warmed and heat is retained in the core — the appropriate response to cold, not heat. This patient needs surface perfusion to radiate heat away. This would be the correct answer if the landscaper were working in freezing conditions and needed to conserve core temperature."
+        "explanation": "Incorrect. Open shunts route blood directly from arteriole to venule without traversing the skin capillaries, so the skin is not warmed and heat is retained in the core - the appropriate response to cold, not heat. This patient needs surface perfusion to radiate heat away. This would be the correct answer if the landscaper were working in freezing conditions and needed to conserve core temperature."
       },
       {
         "text": "Contraction of pericytes and their branching cytoplasmic processes to collapse the postcapillary venules of the skin",
@@ -537,7 +537,7 @@ const Test_CV19 = [
       },
       {
         "text": "They can give rise to both endothelial cells and smooth muscle cells for growing vessels",
-        "explanation": "Correct. The described cells are pericytes: they surround venules and capillaries with branching cytoplasmic processes and are enclosed by a basal lamina continuous with the endothelial basal lamina. Pericytes are derived from the same precursor cells that form endothelial cells, and during vessel growth — as in wound healing — they can give rise to both endothelial cells and smooth muscle cells. They are also contractile and can respond to nitric oxide, making them active participants in the microcirculation rather than passive bystanders."
+        "explanation": "Correct. The described cells are pericytes: they surround venules and capillaries with branching cytoplasmic processes and are enclosed by a basal lamina continuous with the endothelial basal lamina. Pericytes are derived from the same precursor cells that form endothelial cells, and during vessel growth - as in wound healing - they can give rise to both endothelial cells and smooth muscle cells. They are also contractile and can respond to nitric oxide, making them active participants in the microcirculation rather than passive bystanders."
       },
       {
         "text": "They form the high endothelial lining required for leukocyte entry into the wound",
@@ -603,7 +603,7 @@ const Test_CV19 = [
       },
       {
         "text": "They ensure unidirectional flow in a low-pressure system returning blood against gravity",
-        "explanation": "Correct. Veins are a low-pressure system, and in an erect mammal the blood returning from the legs must travel upward against the force of gravity. Valves — characteristic of medium veins and especially prominent in the legs — prevent retrograde flow, so that each increment of forward movement is preserved. Veins of the head and upper extremity face little gravitational opposition, which is why their valves and wall musculature are less developed; gravity even shapes regional vein structure, making a leg vein look different from a similar-sized vein from the upper body."
+        "explanation": "Correct. Veins are a low-pressure system, and in an erect mammal the blood returning from the legs must travel upward against the force of gravity. Valves - characteristic of medium veins and especially prominent in the legs - prevent retrograde flow, so that each increment of forward movement is preserved. Veins of the head and upper extremity face little gravitational opposition, which is why their valves and wall musculature are less developed; gravity even shapes regional vein structure, making a leg vein look different from a similar-sized vein from the upper body."
       },
       {
         "text": "They filter clotted post-mortem blood from the circulation",
@@ -626,7 +626,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "Its wall is already more muscularized than that of most veins",
-        "explanation": "Correct. The saphenous vein of the leg works against gravity throughout life, and as a result it is so muscular that it has a relatively thick muscular wall for a vein — the lecture describes it as already more 'muscularized.' This makes it better suited to withstand arterial pressures after grafting. In addition, veins can be removed much more readily than arteries, making the saphenous vein the preferred conduit for coronary bypass surgery. Gravity's effect on regional vein structure explains why a leg vein, rather than an upper-body vein, is chosen."
+        "explanation": "Correct. The saphenous vein of the leg works against gravity throughout life, and as a result it is so muscular that it has a relatively thick muscular wall for a vein - the lecture describes it as already more 'muscularized.' This makes it better suited to withstand arterial pressures after grafting. In addition, veins can be removed much more readily than arteries, making the saphenous vein the preferred conduit for coronary bypass surgery. Gravity's effect on regional vein structure explains why a leg vein, rather than an upper-body vein, is chosen."
       },
       {
         "text": "It contains fifty to seventy elastic lamellae like the aorta",
@@ -638,7 +638,7 @@ const Test_CV19 = [
       },
       {
         "text": "It lacks valves, allowing unimpeded flow after grafting",
-        "explanation": "Incorrect. The saphenous vein, like other medium veins of the leg, characteristically contains valves — indeed leg veins are where valves are most prominent. Valve presence is managed surgically and is not the histologic basis of preference. This would be the correct answer if leg veins were valveless, which is the opposite of their described structure."
+        "explanation": "Incorrect. The saphenous vein, like other medium veins of the leg, characteristically contains valves - indeed leg veins are where valves are most prominent. Valve presence is managed surgically and is not the histologic basis of preference. This would be the correct answer if leg veins were valveless, which is the opposite of their described structure."
       },
       {
         "text": "Its adventitia contains fenestrated capillaries that speed graft healing",
@@ -673,7 +673,7 @@ const Test_CV19 = [
       },
       {
         "text": "Longitudinally oriented smooth muscle within the thick tunica adventitia",
-        "explanation": "Correct. The tunica adventitia is the main layer of a large vein such as the vena cava, and it contains longitudinal smooth muscle along with fibroblasts, collagen, and elastic fibers — in cross-section this adventitial muscle appears cut transversely while the thin media's muscle runs circumferentially. Physiologically, the large veins serve as a blood reservoir: with a sudden need for increased cardiac output, as when fleeing danger, the smooth muscle of the large veins contracts and provides a sudden burst of blood to the heart. This is why the adventitial muscle of great veins matters far beyond its modest appearance."
+        "explanation": "Correct. The tunica adventitia is the main layer of a large vein such as the vena cava, and it contains longitudinal smooth muscle along with fibroblasts, collagen, and elastic fibers - in cross-section this adventitial muscle appears cut transversely while the thin media's muscle runs circumferentially. Physiologically, the large veins serve as a blood reservoir: with a sudden need for increased cardiac output, as when fleeing danger, the smooth muscle of the large veins contracts and provides a sudden burst of blood to the heart. This is why the adventitial muscle of great veins matters far beyond its modest appearance."
       }
     ],
     "correctAnswerIndex": 4,
@@ -688,19 +688,19 @@ const Test_CV19 = [
     "options": [
       {
         "text": "A muscular venule distended by post-mortem pooling of blood on the venous side",
-        "explanation": "Incorrect. A venule distended by post-mortem pooling would contain abundant red blood cells with occasional white cells — that description fits the adjacent RBC-packed vessel, not this one. The complete absence of red cells argues strongly against any blood vessel. This would be the correct answer for the neighboring vessel whose lumen is filled with red and white blood cells."
+        "explanation": "Incorrect. A venule distended by post-mortem pooling would contain abundant red blood cells with occasional white cells - that description fits the adjacent RBC-packed vessel, not this one. The complete absence of red cells argues strongly against any blood vessel. This would be the correct answer for the neighboring vessel whose lumen is filled with red and white blood cells."
       },
       {
         "text": "A lymphatic vessel containing coagulated lymph and white blood cells",
-        "explanation": "Correct. A dilated vessel with an indistinct, thin wall whose lumen contains homogeneous coagulated lymph and only white blood cells — no red blood cells — is a lymphatic. Lymph picks up white blood cells as it passes through lymph nodes, so lymphatics may show WBCs, but the absence of RBCs is the key identifier; if the vessel were filled with red cells it would likely be a venule. Lymphatics also tend to be even more dilated than the matched vein, with layering so indistinct that even the thoracic duct looks disorganized for its size."
+        "explanation": "Correct. A dilated vessel with an indistinct, thin wall whose lumen contains homogeneous coagulated lymph and only white blood cells - no red blood cells - is a lymphatic. Lymph picks up white blood cells as it passes through lymph nodes, so lymphatics may show WBCs, but the absence of RBCs is the key identifier; if the vessel were filled with red cells it would likely be a venule. Lymphatics also tend to be even more dilated than the matched vein, with layering so indistinct that even the thoracic duct looks disorganized for its size."
       },
       {
         "text": "An arteriole cut through the precapillary sphincter at the origin of its capillary bed",
-        "explanation": "Incorrect. An arteriole shows a proportionally thick wall with one to two smooth muscle layers and a round lumen — features matching the nearby thick-walled vessel, not this dilated thin-walled one. A sphincter section would emphasize muscle, not an attenuated wall. This would be the correct answer for the thick-walled round-lumened vessel in the field."
+        "explanation": "Incorrect. An arteriole shows a proportionally thick wall with one to two smooth muscle layers and a round lumen - features matching the nearby thick-walled vessel, not this dilated thin-walled one. A sphincter section would emphasize muscle, not an attenuated wall. This would be the correct answer for the thick-walled round-lumened vessel in the field."
       },
       {
         "text": "A continuous capillary of the type found in muscle, lung, and CNS, sectioned longitudinally",
-        "explanation": "Incorrect. Continuous capillaries are only 4 to 10 micrometers wide — the caliber of a single red cell — and could not appear as a markedly dilated channel of comparable size to venules; they also normally contain blood cells in single file. This would be the correct answer if the structure were a minute endothelial tube rather than a dilated vessel."
+        "explanation": "Incorrect. Continuous capillaries are only 4 to 10 micrometers wide - the caliber of a single red cell - and could not appear as a markedly dilated channel of comparable size to venules; they also normally contain blood cells in single file. This would be the correct answer if the structure were a minute endothelial tube rather than a dilated vessel."
       },
       {
         "text": "A small vein whose erythrocytes were lysed by prolonged formalin fixation",
@@ -708,7 +708,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Lymphatic identification: a dilated, thin-walled vessel with NO RBCs in the lumen — possibly WBCs only (picked up in lymph nodes) plus homogeneous coagulated lymph. RBC-filled lumen = blood vessel (likely venule).",
+    "clinicalPearl": "Lymphatic identification: a dilated, thin-walled vessel with NO RBCs in the lumen - possibly WBCs only (picked up in lymph nodes) plus homogeneous coagulated lymph. RBC-filled lumen = blood vessel (likely venule).",
     "pdfPage": 39,
     "pdfQuote": "presence of WBCs but no RBCs"
   },
@@ -719,7 +719,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "A reinforced continuous basal lamina that stiffens the vessel wall and resists compression by the swollen interstitium",
-        "explanation": "Incorrect. Lymphatic capillaries specifically lack a continuous basal lamina — that incompleteness is why they are so highly permeable to interstitial fluid and proteins. A rigid continuous basement membrane is neither present nor the patency mechanism. This would be the correct answer if lymphatic permeability depended on a robust basement membrane, which is the opposite of their described structure."
+        "explanation": "Incorrect. Lymphatic capillaries specifically lack a continuous basal lamina - that incompleteness is why they are so highly permeable to interstitial fluid and proteins. A rigid continuous basement membrane is neither present nor the patency mechanism. This would be the correct answer if lymphatic permeability depended on a robust basement membrane, which is the opposite of their described structure."
       },
       {
         "text": "One to two circumferential smooth muscle layers that contract to hold the lumen open against tissue pressure",
@@ -727,7 +727,7 @@ const Test_CV19 = [
       },
       {
         "text": "Anchoring filaments tethering the vessel to perivascular collagen that pull it open as tissue pressure rises",
-        "explanation": "Correct. Lymphatic capillaries possess anchoring filaments that extend between their incomplete basal lamina and the surrounding perivascular collagen. When tissue fluid builds up — as in inflammation — these filaments pull outward on the wall, causing the normally collapsed vessels to become more dilated and keeping them patent, so fluid can enter through gaps between the endothelial cells. Combined with the absence of a continuous basal lamina, this makes lymphatic capillaries more permeable than blood capillaries and highly effective at removing protein-rich fluid from intercellular spaces."
+        "explanation": "Correct. Lymphatic capillaries possess anchoring filaments that extend between their incomplete basal lamina and the surrounding perivascular collagen. When tissue fluid builds up - as in inflammation - these filaments pull outward on the wall, causing the normally collapsed vessels to become more dilated and keeping them patent, so fluid can enter through gaps between the endothelial cells. Combined with the absence of a continuous basal lamina, this makes lymphatic capillaries more permeable than blood capillaries and highly effective at removing protein-rich fluid from intercellular spaces."
       },
       {
         "text": "Cuboidal high endothelial cells that mechanically stent the lumen as they do in lymph node venules",
@@ -739,7 +739,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Lymphatic capillaries lack a continuous basal lamina (hence high permeability) and are held open by anchoring filaments tethered to perivascular collagen — rising tissue pressure dilates rather than collapses them.",
+    "clinicalPearl": "Lymphatic capillaries lack a continuous basal lamina (hence high permeability) and are held open by anchoring filaments tethered to perivascular collagen - rising tissue pressure dilates rather than collapses them.",
     "pdfPage": 37,
     "pdfQuote": "anchoring filaments extend between the incomplete"
   },
@@ -762,7 +762,7 @@ const Test_CV19 = [
       },
       {
         "text": "The right upper quadrant of the body",
-        "explanation": "Correct. The lymphatic system converges into two main channels that empty into the vascular system by draining into the large veins at the base of the neck, at the junctions of the internal jugular and subclavian veins. The thoracic duct — the largest lymphatic vessel — drains most of the body and empties on the left side, but the right upper quadrant is drained separately by the other main channel, the right lymphatic trunk (right lymphatic duct). Ligation of the thoracic duct therefore spares drainage from the right upper quadrant."
+        "explanation": "Correct. The lymphatic system converges into two main channels that empty into the vascular system by draining into the large veins at the base of the neck, at the junctions of the internal jugular and subclavian veins. The thoracic duct - the largest lymphatic vessel - drains most of the body and empties on the left side, but the right upper quadrant is drained separately by the other main channel, the right lymphatic trunk (right lymphatic duct). Ligation of the thoracic duct therefore spares drainage from the right upper quadrant."
       },
       {
         "text": "The retroperitoneum and pelvic organs",
@@ -781,7 +781,7 @@ const Test_CV19 = [
     "options": [
       {
         "text": "The lymphatic system has no central pump, so valved vessels depend on skeletal muscle compression to move lymph",
-        "explanation": "Correct. Unlike the blood circulation, which is driven by the heart, there is no central pump in the lymphatic system. Forward lymph flow depends on unidirectional valves combined with extrinsic forces — notably compression of the lymphatic vessels by contracting skeletal muscles. An immobile patient loses this muscular pumping, so protein-rich interstitial fluid accumulates in dependent tissues. The lecturer also noted that sluggish lymphatic flow may inadequately remove toxins, and that OMM lymphatic procedures may prove beneficial in supporting this process."
+        "explanation": "Correct. Unlike the blood circulation, which is driven by the heart, there is no central pump in the lymphatic system. Forward lymph flow depends on unidirectional valves combined with extrinsic forces - notably compression of the lymphatic vessels by contracting skeletal muscles. An immobile patient loses this muscular pumping, so protein-rich interstitial fluid accumulates in dependent tissues. The lecturer also noted that sluggish lymphatic flow may inadequately remove toxins, and that OMM lymphatic procedures may prove beneficial in supporting this process."
       },
       {
         "text": "Lymphatic endothelium requires exercise-induced nitric oxide from pericytes to remain permeable",
@@ -801,7 +801,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "There is no central pump in the lymphatic system: lymph moves via unidirectional valves plus skeletal muscle compression — the physiologic rationale for mobility and for OMM lymphatic techniques.",
+    "clinicalPearl": "There is no central pump in the lymphatic system: lymph moves via unidirectional valves plus skeletal muscle compression - the physiologic rationale for mobility and for OMM lymphatic techniques.",
     "pdfPage": 36,
     "pdfQuote": "No central pump in lymphatic system"
   },
@@ -816,7 +816,7 @@ const Test_CV19 = [
       },
       {
         "text": "The perfusion findings must be artifactual because PET was not used",
-        "explanation": "Incorrect. PET with radioisotopes was the traditional method for measuring microvascular flow — and reluctance to give radioisotopes is exactly why such measurements were rarely collected — but newer non-radioactive technologies are rapidly advancing and are the reason reports of microvascular impairment are increasing. The newer modality is a solution, not an artifact source. This would be the correct answer if only radioisotope PET could yield valid perfusion data, which the lecture contradicts."
+        "explanation": "Incorrect. PET with radioisotopes was the traditional method for measuring microvascular flow - and reluctance to give radioisotopes is exactly why such measurements were rarely collected - but newer non-radioactive technologies are rapidly advancing and are the reason reports of microvascular impairment are increasing. The newer modality is a solution, not an artifact source. This would be the correct answer if only radioisotope PET could yield valid perfusion data, which the lecture contradicts."
       },
       {
         "text": "Diastolic dysfunction with preserved ejection fraction excludes any vascular contribution",
@@ -824,15 +824,15 @@ const Test_CV19 = [
       },
       {
         "text": "She has classic obstructive ischemic heart disease requiring revascularization",
-        "explanation": "Incorrect. Obstructive ischemic heart disease is defined by narrowed epicardial coronary arteries — typically producing rest symptoms around 90 percent occlusion — and her angiogram shows widely patent vessels, so there is no target for stenting or bypass. Her ischemia resides in vessels below angiographic resolution. This would be the correct answer if angiography had demonstrated high-grade epicardial stenoses."
+        "explanation": "Incorrect. Obstructive ischemic heart disease is defined by narrowed epicardial coronary arteries - typically producing rest symptoms around 90 percent occlusion - and her angiogram shows widely patent vessels, so there is no target for stenting or bypass. Her ischemia resides in vessels below angiographic resolution. This would be the correct answer if angiography had demonstrated high-grade epicardial stenoses."
       },
       {
         "text": "She likely has ischemia at the microvascular level despite patent coronary arteries",
-        "explanation": "Correct. The lecture's clinical alert: many patients traditionally labeled non-ischemic because their epicardial coronary arteries are patent actually have impaired microvascular blood flow — ischemia at the microvascular level. This has been reported in dilated heart failure (HFrEF), non-dilated heart failure (HFpEF), and diabetic cardiomyopathy, and was historically underreported because measurement required PET with radioisotopes. This patient, with diabetes, HFpEF physiology, patent coronaries, and objectively reduced microvascular flow, exemplifies the emerging category the lecturer urges students to follow."
+        "explanation": "Correct. The lecture's clinical alert: many patients traditionally labeled non-ischemic because their epicardial coronary arteries are patent actually have impaired microvascular blood flow - ischemia at the microvascular level. This has been reported in dilated heart failure (HFrEF), non-dilated heart failure (HFpEF), and diabetic cardiomyopathy, and was historically underreported because measurement required PET with radioisotopes. This patient, with diabetes, HFpEF physiology, patent coronaries, and objectively reduced microvascular flow, exemplifies the emerging category the lecturer urges students to follow."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Many 'non-ischemic' heart disease patients (HFrEF, HFpEF, diabetic cardiomyopathy) have impaired microvascular blood flow — ischemia at the microvascular level despite patent epicardial coronaries.",
+    "clinicalPearl": "Many 'non-ischemic' heart disease patients (HFrEF, HFpEF, diabetic cardiomyopathy) have impaired microvascular blood flow - ischemia at the microvascular level despite patent epicardial coronaries.",
     "pdfPage": 33,
     "pdfQuote": "microvascular blood flow impairment"
   },
@@ -847,11 +847,11 @@ const Test_CV19 = [
       },
       {
         "text": "Arterioles lie below the resolution of coronary angiography, so no imaging modality could assess their flow",
-        "explanation": "Incorrect. While individual arterioles are indeed below angiographic resolution, microvascular blood flow itself has long been measurable — by PET — and newer non-radioactive technologies now quantify it increasingly well. The limitation was the risk profile of the traditional method, not absolute invisibility of microvascular perfusion. This would be the correct answer if no functional measurement of microvascular flow had ever existed."
+        "explanation": "Incorrect. While individual arterioles are indeed below angiographic resolution, microvascular blood flow itself has long been measurable - by PET - and newer non-radioactive technologies now quantify it increasingly well. The limitation was the risk profile of the traditional method, not absolute invisibility of microvascular perfusion. This would be the correct answer if no functional measurement of microvascular flow had ever existed."
       },
       {
         "text": "Insurance coverage excluded perfusion imaging in heart failure patients whose coronary angiograms were normal",
-        "explanation": "Incorrect. Reimbursement policy was not the barrier identified in the lecture; the stated reason was methodological — the traditional measurement technique required administering radioisotopes, which physicians avoid unless completely necessary. This would be the correct answer if the lecture had attributed the measurement gap to payment systems rather than to the radioisotope requirement of PET."
+        "explanation": "Incorrect. Reimbursement policy was not the barrier identified in the lecture; the stated reason was methodological - the traditional measurement technique required administering radioisotopes, which physicians avoid unless completely necessary. This would be the correct answer if the lecture had attributed the measurement gap to payment systems rather than to the radioisotope requirement of PET."
       },
       {
         "text": "The traditional measurement method, PET scanning, required radioisotopes that clinicians were reluctant to give",
@@ -863,26 +863,26 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Microvascular flow impairment was underreported because the traditional measure — PET — requires radioisotopes clinicians avoid; newer non-radioactive technologies are driving the surge in recognition.",
+    "clinicalPearl": "Microvascular flow impairment was underreported because the traditional measure - PET - requires radioisotopes clinicians avoid; newer non-radioactive technologies are driving the surge in recognition.",
     "pdfPage": 33,
     "pdfQuote": "traditional method to measure this"
   },
   {
     "id": 29,
     "category": "Histology: Elastic Arteries",
-    "questionText": "During a laboratory practical, a student confidently identifies the internal and external elastic laminae on a slide of a muscular artery, but on the next slide — an elastin-stained aorta — she cannot find discrete laminae at those boundaries and asks the instructor for help. What is the histologic explanation for her difficulty?",
+    "questionText": "During a laboratory practical, a student confidently identifies the internal and external elastic laminae on a slide of a muscular artery, but on the next slide - an elastin-stained aorta - she cannot find discrete laminae at those boundaries and asks the instructor for help. What is the histologic explanation for her difficulty?",
     "options": [
       {
         "text": "The aorta lacks elastin within its media entirely, so no laminae exist there to be found",
-        "explanation": "Incorrect. The aorta is the prototypical elastic artery and its media is loaded with elastic components — an elastin stain turns the aortic media strikingly dark. The difficulty is an excess and continuity of elastic sheets, not their absence. This would be the correct answer if the vessel were essentially inelastic, the opposite of aortic structure."
+        "explanation": "Incorrect. The aorta is the prototypical elastic artery and its media is loaded with elastic components - an elastin stain turns the aortic media strikingly dark. The difficulty is an excess and continuity of elastic sheets, not their absence. This would be the correct answer if the vessel were essentially inelastic, the opposite of aortic structure."
       },
       {
         "text": "Continuous fenestrated elastic sheets span the media, so only the innermost and outermost sheets mark the boundaries",
-        "explanation": "Correct. In large elastic arteries like the aorta, it is difficult to identify discrete internal and external elastic laminae because continuous sheets of fenestrated elastic lamellae run from the internal elastic lamina all the way through the media — with 50 to 70 elastin sheets in the aorta. Effectively, the innermost elastic sheet serves as the internal elastic lamina and the outermost sheet as the external elastic lamina. In a muscular artery, by contrast, the media is muscle-dominated with little elastin, so the two laminae stand out as discrete wavy lines."
+        "explanation": "Correct. In large elastic arteries like the aorta, it is difficult to identify discrete internal and external elastic laminae because continuous sheets of fenestrated elastic lamellae run from the internal elastic lamina all the way through the media - with 50 to 70 elastin sheets in the aorta. Effectively, the innermost elastic sheet serves as the internal elastic lamina and the outermost sheet as the external elastic lamina. In a muscular artery, by contrast, the media is muscle-dominated with little elastin, so the two laminae stand out as discrete wavy lines."
       },
       {
         "text": "The internal and external laminae of the aorta are built of collagen and ground substance, which elastin stains cannot reveal",
-        "explanation": "Incorrect. The aortic lamellae are elastin, which is precisely what the black elastin stain demonstrates throughout the media; collagen and ground substance are separate matrix components made by the medial smooth muscle. The staining is not the problem — the continuity of the sheets is. This would be the correct answer if aortic lamellae were collagenous, which contradicts their elastic nature."
+        "explanation": "Incorrect. The aortic lamellae are elastin, which is precisely what the black elastin stain demonstrates throughout the media; collagen and ground substance are separate matrix components made by the medial smooth muscle. The staining is not the problem - the continuity of the sheets is. This would be the correct answer if aortic lamellae were collagenous, which contradicts their elastic nature."
       },
       {
         "text": "In the aorta both elastic laminae have degenerated and been replaced by collagen by adulthood",
@@ -894,7 +894,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "In the aorta, 50-70 continuous fenestrated elastic sheets span the media, so discrete internal/external elastic laminae cannot be pinpointed — the innermost and outermost sheets serve those roles.",
+    "clinicalPearl": "In the aorta, 50-70 continuous fenestrated elastic sheets span the media, so discrete internal/external elastic laminae cannot be pinpointed - the innermost and outermost sheets serve those roles.",
     "pdfPage": 11,
     "pdfQuote": "elastin sheets 50-70 in aorta"
   },
@@ -925,7 +925,7 @@ const Test_CV19 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Arterioles set systemic vascular resistance: simultaneous dilation of the peripheral arterioles causes a sudden drop in systolic AND diastolic blood pressure — they regulate both regional flow and BP.",
+    "clinicalPearl": "Arterioles set systemic vascular resistance: simultaneous dilation of the peripheral arterioles causes a sudden drop in systolic AND diastolic blood pressure - they regulate both regional flow and BP.",
     "pdfPage": 17,
     "pdfQuote": "effect on blood flow and systemic"
   }

@@ -6,7 +6,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "About 2,500 capillaries per square millimeter with half of them perfused to meet resting energy needs",
-        "explanation": "Incorrect. These are the numbers of the hypertensive, hypertrophied ventricle, not the normal heart: hypertrophied myocytes push capillaries apart, dropping density to roughly 2,500/mm², and the overworked muscle keeps about half of them open even at rest. The normal ventricle has a much denser bed with far fewer capillaries recruited. This would be the correct answer if the section had come from a patient with long-standing systemic hypertension."
+        "explanation": "Incorrect. These are the numbers of the hypertensive, hypertrophied ventricle, not the normal heart: hypertrophied myocytes push capillaries apart, dropping density to roughly 2,500/mm2, and the overworked muscle keeps about half of them open even at rest. The normal ventricle has a much denser bed with far fewer capillaries recruited. This would be the correct answer if the section had come from a patient with long-standing systemic hypertension."
       },
       {
         "text": "About 4,000 capillaries per square millimeter with nearly all capillaries perfused to support continuous contraction",
@@ -14,7 +14,7 @@ const Test_CV18 = [
       },
       {
         "text": "About 4,000 capillaries per square millimeter with roughly one quarter perfused, leaving a large recruitable reserve",
-        "explanation": "Correct. The normal mammalian left ventricle contains about 4,000 capillaries/mm², with myocytes and capillaries running in parallel. At rest only about 1 in 4 capillaries is perfused, so simply opening the closed capillaries can quadruple myocardial blood flow. This high capillary reserve is the structural basis of the heart's ability to meet sudden increases in workload, and its loss in hypertension explains exertional chest pain."
+        "explanation": "Correct. The normal mammalian left ventricle contains about 4,000 capillaries/mm2, with myocytes and capillaries running in parallel. At rest only about 1 in 4 capillaries is perfused, so simply opening the closed capillaries can quadruple myocardial blood flow. This high capillary reserve is the structural basis of the heart's ability to meet sudden increases in workload, and its loss in hypertension explains exertional chest pain."
       },
       {
         "text": "About 1,000 capillaries per square millimeter arranged perpendicular to the myocytes for cross-flow exchange",
@@ -26,7 +26,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Normal LV myocardium has ~4,000 capillaries/mm² with only ~1/4 perfused at rest — a reserve that can quadruple flow on demand.",
+    "clinicalPearl": "Normal LV myocardium has ~4,000 capillaries/mm2 with only ~1/4 perfused at rest - a reserve that can quadruple flow on demand.",
     "pdfPage": 3,
     "pdfQuote": "High capillary reserve"
   },
@@ -84,7 +84,7 @@ const Test_CV18 = [
       },
       {
         "text": "Hypertrophy of existing myocytes, whose division ceased shortly after birth",
-        "explanation": "Correct. Myocyte proliferation ceases shortly after birth, and the entire subsequent 20-25 fold increase in heart weight is due to hypertrophy — an increase in the size of existing myocytes. Mammalian ventricles contain about 25 million myocytes per gram, giving the adult human heart roughly 7.5 billion myocytes, a number established in infancy. Non-myocytes continue to proliferate during physiologic growth, but the muscle itself grows only by cell enlargement."
+        "explanation": "Correct. Myocyte proliferation ceases shortly after birth, and the entire subsequent 20-25 fold increase in heart weight is due to hypertrophy - an increase in the size of existing myocytes. Mammalian ventricles contain about 25 million myocytes per gram, giving the adult human heart roughly 7.5 billion myocytes, a number established in infancy. Non-myocytes continue to proliferate during physiologic growth, but the muscle itself grows only by cell enlargement."
       }
     ],
     "correctAnswerIndex": 4,
@@ -119,7 +119,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Across mammals, mean myocyte size is similar — bigger species build bigger hearts with MORE myocytes (~25 million/gram; ~7.5 billion in a human heart).",
+    "clinicalPearl": "Across mammals, mean myocyte size is similar - bigger species build bigger hearts with MORE myocytes (~25 million/gram; ~7.5 billion in a human heart).",
     "pdfPage": 5,
     "pdfQuote": "more myocytes in species with larger hearts"
   },
@@ -161,7 +161,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "Abundant glycogen extracted during tissue processing plus fewer myofibrils than working myocytes",
-        "explanation": "Correct. The cells are Purkinje cells, modified cardiac myocytes of the conduction system. They stain pale for two reasons: they are loaded with glycogen, which tends to be washed out during tissue processing, and they contain far fewer myofibrils than working myocytes. The dark transverse lines are their intercalated discs — present but simpler than those of working myocytes because fewer contractile filaments attach to the fascia adherens, despite some textbooks claiming Purkinje cells lack discs."
+        "explanation": "Correct. The cells are Purkinje cells, modified cardiac myocytes of the conduction system. They stain pale for two reasons: they are loaded with glycogen, which tends to be washed out during tissue processing, and they contain far fewer myofibrils than working myocytes. The dark transverse lines are their intercalated discs - present but simpler than those of working myocytes because fewer contractile filaments attach to the fascia adherens, despite some textbooks claiming Purkinje cells lack discs."
       },
       {
         "text": "Lipid droplet accumulation plus loss of mitochondria in conduction tissue",
@@ -196,7 +196,7 @@ const Test_CV18 = [
       },
       {
         "text": "Elastic connective tissue lined by mesothelium, allowing rapid distension with effusions",
-        "explanation": "Incorrect. Although the mesothelial lining is right, the pericardium is dense fibrous connective tissue with essentially no acute give — the very reason effusions are dangerous. Rapid distension is precisely what the pericardium cannot do. This would be the correct answer if the sac stretched acutely, in which case pericardial fluid would accumulate harmlessly."
+        "explanation": "Incorrect. Although the mesothelial lining is right, the pericardium is dense fibrous connective tissue with essentially no acute give - the very reason effusions are dangerous. Rapid distension is precisely what the pericardium cannot do. This would be the correct answer if the sac stretched acutely, in which case pericardial fluid would accumulate harmlessly."
       },
       {
         "text": "Dense fibrous connective tissue lined by mesothelium on its inner surface",
@@ -212,7 +212,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The pericardium is dense fibrous CT lined by mesothelium — mesothelium faces mesothelium across a thin film of lubricating fluid.",
+    "clinicalPearl": "The pericardium is dense fibrous CT lined by mesothelium - mesothelium faces mesothelium across a thin film of lubricating fluid.",
     "pdfPage": 9,
     "pdfQuote": "Dense fibrous CT lined by mesothelium"
   },
@@ -239,7 +239,7 @@ const Test_CV18 = [
       },
       {
         "text": "Branching cells joined end-to-end at intercalated discs",
-        "explanation": "Correct. Cardiac myocytes share the sarcomeric striation pattern with skeletal muscle but are distinguished by branching — which occurs at the ends of the cells, at the intercalated discs — and by their junctional connections to many neighboring myocytes. The intercalated discs appear as dark transverse lines on H&E and contain the gap junctions that electrically couple the cells. Skeletal muscle fibers, by contrast, are unbranched, round in cross section, and multinucleated at the periphery."
+        "explanation": "Correct. Cardiac myocytes share the sarcomeric striation pattern with skeletal muscle but are distinguished by branching - which occurs at the ends of the cells, at the intercalated discs - and by their junctional connections to many neighboring myocytes. The intercalated discs appear as dark transverse lines on H&E and contain the gap junctions that electrically couple the cells. Skeletal muscle fibers, by contrast, are unbranched, round in cross section, and multinucleated at the periphery."
       }
     ],
     "correctAnswerIndex": 4,
@@ -258,7 +258,7 @@ const Test_CV18 = [
       },
       {
         "text": "Branching occurs at the ends of the cells, where each myocyte connects with many others",
-        "explanation": "Correct. Isolated myocyte studies show that no two myocytes are exactly alike; the shape is complex but approximates a cylinder, and branching occurs at the ends of the cells, at the intercalated discs. A given myocyte connects with many others — six, eight, or ten partner cells is typical — while true Y-shaped myocytes are rare. This extensive end-to-end connectivity underlies the electrical and mechanical integration of the myocardium."
+        "explanation": "Correct. Isolated myocyte studies show that no two myocytes are exactly alike; the shape is complex but approximates a cylinder, and branching occurs at the ends of the cells, at the intercalated discs. A given myocyte connects with many others - six, eight, or ten partner cells is typical - while true Y-shaped myocytes are rare. This extensive end-to-end connectivity underlies the electrical and mechanical integration of the myocardium."
       },
       {
         "text": "Each myocyte contacts only the two neighbors directly ahead of and behind it",
@@ -293,11 +293,11 @@ const Test_CV18 = [
       },
       {
         "text": "Capillaries force the superficial myocytes into an orientation perpendicular to the deeper fibers",
-        "explanation": "Incorrect. Capillaries run parallel to their myocytes at every depth of the wall — that is why capillary profiles are round wherever the myocytes are cross-sectioned and elongated where myocytes run longitudinally. Vessels follow the muscle, not the reverse. This would be the correct answer only if the vasculature dictated fiber direction, which was not taught."
+        "explanation": "Incorrect. Capillaries run parallel to their myocytes at every depth of the wall - that is why capillary profiles are round wherever the myocytes are cross-sectioned and elongated where myocytes run longitudinally. Vessels follow the muscle, not the reverse. This would be the correct answer only if the vasculature dictated fiber direction, which was not taught."
       },
       {
         "text": "Myocyte direction rotates about 180 degrees across the wall, like a Japanese fan",
-        "explanation": "Correct. As you move across the ventricular wall from endo- to epimyocardium, the heart muscle cells change their direction by about 180 degrees, in a pattern the lecturer likened to a Japanese fan. A single plane of section therefore catches surface fibers in cross section and mid-wall fibers longitudinally. The capillaries, which run parallel to the myocytes with an approximately 1:1 capillary-to-myocyte ratio, mirror the same rotation — round profiles at the surfaces and elongated profiles in the middle."
+        "explanation": "Correct. As you move across the ventricular wall from endo- to epimyocardium, the heart muscle cells change their direction by about 180 degrees, in a pattern the lecturer likened to a Japanese fan. A single plane of section therefore catches surface fibers in cross section and mid-wall fibers longitudinally. The capillaries, which run parallel to the myocytes with an approximately 1:1 capillary-to-myocyte ratio, mirror the same rotation - round profiles at the surfaces and elongated profiles in the middle."
       },
       {
         "text": "Papillary muscle fibers course through the wall at right angles to the working myocardium",
@@ -332,11 +332,11 @@ const Test_CV18 = [
       },
       {
         "text": "Cardiac muscle is heavily dependent on continuous aerobic metabolism",
-        "explanation": "Correct. Cardiac muscle devotes 25-35% of cell volume to mitochondria — about 35% in the rat with its faster metabolic rate and heart rate, and about 25% in the slower human heart — compared with only 3-5% in skeletal muscle. This very high mitochondrial content reflects the heart's high level of aerobic metabolism and its dependence on a continuous oxygen supply. It also explains why the myocardium is so densely vascularized, with a capillary-to-myocyte ratio of about 1:1."
+        "explanation": "Correct. Cardiac muscle devotes 25-35% of cell volume to mitochondria - about 35% in the rat with its faster metabolic rate and heart rate, and about 25% in the slower human heart - compared with only 3-5% in skeletal muscle. This very high mitochondrial content reflects the heart's high level of aerobic metabolism and its dependence on a continuous oxygen supply. It also explains why the myocardium is so densely vascularized, with a capillary-to-myocyte ratio of about 1:1."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Cardiac myocytes are 25-35% mitochondria by volume (rat ~35%, human ~25%) versus 3-5% in skeletal muscle — the heart is obligately aerobic.",
+    "clinicalPearl": "Cardiac myocytes are 25-35% mitochondria by volume (rat ~35%, human ~25%) versus 3-5% in skeletal muscle - the heart is obligately aerobic.",
     "pdfPage": 16,
     "pdfQuote": "occupy ~1/3 of myocyte"
   },
@@ -367,7 +367,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Spaces between myocytes on routine H&E are processing shrinkage artifact — in vivo, myocytes are packed so tightly their borders are hard to discern.",
+    "clinicalPearl": "Spaces between myocytes on routine H&E are processing shrinkage artifact - in vivo, myocytes are packed so tightly their borders are hard to discern.",
     "pdfPage": 20,
     "pdfQuote": "Perfusion-fixed tissue with better"
   },
@@ -398,7 +398,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Papillary muscles: finger-like projections ending in chordae tendineae, covered by endocardium, with myocytes and capillaries all running PARALLEL — the classic in vitro contractility preparation.",
+    "clinicalPearl": "Papillary muscles: finger-like projections ending in chordae tendineae, covered by endocardium, with myocytes and capillaries all running PARALLEL - the classic in vitro contractility preparation.",
     "pdfPage": 22,
     "pdfQuote": "Parallel myocytes and capillaries form the core"
   },
@@ -417,7 +417,7 @@ const Test_CV18 = [
       },
       {
         "text": "They are thin sheets of dense connective tissue with slow fibroblast metabolism, nourished by diffusion from chamber blood",
-        "explanation": "Correct. Valves and chordae tendineae are built as a dense fibrous connective tissue core covered on both sides by endothelium (simple squamous). Because these structures are relatively thin and their fibroblasts have very slow metabolism, diffusion from the blood circulating within the chambers provides adequate oxygenation and nutrition — no direct vascular supply is needed. The named sub-layers of collagen arrangement exist in textbooks but were explicitly de-emphasized by the lecturer."
+        "explanation": "Correct. Valves and chordae tendineae are built as a dense fibrous connective tissue core covered on both sides by endothelium (simple squamous). Because these structures are relatively thin and their fibroblasts have very slow metabolism, diffusion from the blood circulating within the chambers provides adequate oxygenation and nutrition - no direct vascular supply is needed. The named sub-layers of collagen arrangement exist in textbooks but were explicitly de-emphasized by the lecturer."
       },
       {
         "text": "Their endothelial covering generates ATP for the entire leaflet",
@@ -440,7 +440,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "The membranous interventricular septum contracting in synchrony with the ventricles",
-        "explanation": "Incorrect. The membranous (upper) interventricular septum is part of the cardiac skeleton and is dense fibrous connective tissue — it cannot contract at all. It contributes to the skeleton's structural role but is not a ring encircling the arterial valves. This would be the correct answer if the question asked which non-ring component of the cardiac skeleton lies within the septum."
+        "explanation": "Incorrect. The membranous (upper) interventricular septum is part of the cardiac skeleton and is dense fibrous connective tissue - it cannot contract at all. It contributes to the skeleton's structural role but is not a ring encircling the arterial valves. This would be the correct answer if the question asked which non-ring component of the cardiac skeleton lies within the septum."
       },
       {
         "text": "Circumferential smooth muscle sphincters at the base of each great artery",
@@ -452,15 +452,15 @@ const Test_CV18 = [
       },
       {
         "text": "Dense fibrous connective tissue rings of the cardiac skeleton surrounding the valves",
-        "explanation": "Correct. The cardiac skeleton — dense fibrous connective tissue, not bone — includes rings around the four major valves, the trigones between them, and the membranous portion of the interventricular septum. The rings around the pulmonary artery and aorta are critical: when the heart contracts and blood flows through at high pressure, the unyielding rings limit expansion of the openings. Without them the openings would dilate and allow regurgitation through the valves. The skeleton also literally helps hold the heart together from its central position."
+        "explanation": "Correct. The cardiac skeleton - dense fibrous connective tissue, not bone - includes rings around the four major valves, the trigones between them, and the membranous portion of the interventricular septum. The rings around the pulmonary artery and aorta are critical: when the heart contracts and blood flows through at high pressure, the unyielding rings limit expansion of the openings. Without them the openings would dilate and allow regurgitation through the valves. The skeleton also literally helps hold the heart together from its central position."
       },
       {
         "text": "The trabeculae carneae anchoring the ventricular outflow tracts",
-        "explanation": "Incorrect. The trabeculae carneae are the complicated muscular infoldings of the inner ventricular wall — they explain why the ventricular lumen looks spread out on low-power histology — but they do not encircle or stabilize the arterial valve openings. Valve-ring stability is the job of the fibrous skeleton. This would be the correct answer if the question asked why the inside of the ventricle appears so irregular on a low-power section."
+        "explanation": "Incorrect. The trabeculae carneae are the complicated muscular infoldings of the inner ventricular wall - they explain why the ventricular lumen looks spread out on low-power histology - but they do not encircle or stabilize the arterial valve openings. Valve-ring stability is the job of the fibrous skeleton. This would be the correct answer if the question asked why the inside of the ventricle appears so irregular on a low-power section."
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "The cardiac skeleton (dense fibrous CT: valve rings, trigones, membranous septum) keeps valve openings from dilating under pressure — its rigidity prevents regurgitation.",
+    "clinicalPearl": "The cardiac skeleton (dense fibrous CT: valve rings, trigones, membranous septum) keeps valve openings from dilating under pressure - its rigidity prevents regurgitation.",
     "pdfPage": 26,
     "pdfQuote": "surrounding 4 major valves"
   },
@@ -471,7 +471,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "Thrombotic occlusion of the penetrating arterioles within the hypertrophied ventricular wall",
-        "explanation": "Incorrect. Arteriolar thrombosis would produce fixed ischemia or microinfarcts rather than purely exertional pain, and no such lesion was described in the hypertensive remodeling taught in this lecture. The lesion here is geometric — capillary spacing — not occlusive. This would be the correct answer if the vignette described acute infarction with a region of myocyte loss and replacement fibrosis."
+        "explanation": "Incorrect. Arteriolar thrombosis would produce fixed ischemia or microinfarcts rather than purely exertional pain, and no such lesion was described in the hypertensive remodeling taught in this lecture. The lesion here is geometric - capillary spacing - not occlusive. This would be the correct answer if the vignette described acute infarction with a region of myocyte loss and replacement fibrosis."
       },
       {
         "text": "Hypertrophied myocytes have pushed capillaries apart, lowering capillary density and exhausting most of the capillary reserve at rest",
@@ -483,15 +483,15 @@ const Test_CV18 = [
       },
       {
         "text": "Replacement fibrosis has eliminated myocytes in the watershed zones of the ventricle",
-        "explanation": "Incorrect. Replacement fibrosis — a region of collagen where myocytes should be but are missing — is the signature of myocardial infarction, and this patient has no infarct history and patent coronaries. His pain is reversible with rest, indicating supply-demand mismatch rather than dead muscle. This would be the correct answer if imaging or histology showed a discrete scar in an infarcted territory."
+        "explanation": "Incorrect. Replacement fibrosis - a region of collagen where myocytes should be but are missing - is the signature of myocardial infarction, and this patient has no infarct history and patent coronaries. His pain is reversible with rest, indicating supply-demand mismatch rather than dead muscle. This would be the correct answer if imaging or histology showed a discrete scar in an infarcted territory."
       },
       {
         "text": "Coronary vasospasm triggered by exertional catecholamine release",
-        "explanation": "Incorrect. Vasospasm classically causes pain at rest rather than predictable exertional pain, and nothing in this lecture invoked spasm as the mechanism of hypertensive angina. The structural explanation — reduced capillary density with diminished reserve — accounts fully for effort-related symptoms. This would be the correct answer if the patient described episodic rest pain with transient ECG changes and normal exercise tolerance."
+        "explanation": "Incorrect. Vasospasm classically causes pain at rest rather than predictable exertional pain, and nothing in this lecture invoked spasm as the mechanism of hypertensive angina. The structural explanation - reduced capillary density with diminished reserve - accounts fully for effort-related symptoms. This would be the correct answer if the patient described episodic rest pain with transient ECG changes and normal exercise tolerance."
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Hypertensive hypertrophy causes angina with clean coronaries: myocytes enlarge and push capillaries apart (~2,500/mm²), and with ~1/2 of capillaries already open at rest, flow can only double on exertion.",
+    "clinicalPearl": "Hypertensive hypertrophy causes angina with clean coronaries: myocytes enlarge and push capillaries apart (~2,500/mm2), and with ~1/2 of capillaries already open at rest, flow can only double on exertion.",
     "pdfPage": 3,
     "pdfQuote": "myocytes enlarge and push capillaries apart"
   },
@@ -506,11 +506,11 @@ const Test_CV18 = [
       },
       {
         "text": "The visceral mesothelium secretes additional fluid when exposed to blood",
-        "explanation": "Incorrect. The small amount of normal pericardial fluid serves lubrication, and no blood-triggered hypersecretion was described; the danger comes from what the sac cannot do — stretch — rather than from added secretion. Even without any secretion, the hemorrhage itself fills the fixed space. This would be the correct answer if reactive effusion were the primary mechanism of acute traumatic tamponade, which it is not."
+        "explanation": "Incorrect. The small amount of normal pericardial fluid serves lubrication, and no blood-triggered hypersecretion was described; the danger comes from what the sac cannot do - stretch - rather than from added secretion. Even without any secretion, the hemorrhage itself fills the fixed space. This would be the correct answer if reactive effusion were the primary mechanism of acute traumatic tamponade, which it is not."
       },
       {
         "text": "Hemorrhage into the myocardium interrupts the conduction system",
-        "explanation": "Incorrect. The ultrasound localizes the blood to the pericardial sac around the heart, not within the muscle, and the presentation — distended neck veins, muffled sounds, hypotension — is classic restriction of filling. Conduction injury would present with arrhythmia or block. This would be the correct answer if the stab had transected conduction tissue and produced heart block rather than compressive physiology."
+        "explanation": "Incorrect. The ultrasound localizes the blood to the pericardial sac around the heart, not within the muscle, and the presentation - distended neck veins, muffled sounds, hypotension - is classic restriction of filling. Conduction injury would present with arrhythmia or block. This would be the correct answer if the stab had transected conduction tissue and produced heart block rather than compressive physiology."
       },
       {
         "text": "The elastic pericardium recoils and actively squeezes the ventricles during diastole",
@@ -518,7 +518,7 @@ const Test_CV18 = [
       },
       {
         "text": "The dense connective tissue pericardium cannot stretch acutely, so accumulating fluid restricts cardiac filling",
-        "explanation": "Correct. The pericardium is dense connective tissue lined by mesothelium, and dense connective tissue does not give. With an acute process there is no time for expansion, so even a modest volume of blood leaking into the pericardial sac raises pressure within the fixed compartment and restricts how much the heart can dilate and fill — cardiac tamponade. The lecturer contrasted this with dilated cardiomyopathy, in which the sac slowly enlarges over years, and noted the first successful open heart surgery (Daniel Williams, Chicago, 1893) treated exactly this kind of stab wound."
+        "explanation": "Correct. The pericardium is dense connective tissue lined by mesothelium, and dense connective tissue does not give. With an acute process there is no time for expansion, so even a modest volume of blood leaking into the pericardial sac raises pressure within the fixed compartment and restricts how much the heart can dilate and fill - cardiac tamponade. The lecturer contrasted this with dilated cardiomyopathy, in which the sac slowly enlarges over years, and noted the first successful open heart surgery (Daniel Williams, Chicago, 1893) treated exactly this kind of stab wound."
       }
     ],
     "correctAnswerIndex": 4,
@@ -533,7 +533,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "With slowly progressive cardiac enlargement, the pericardium can gradually expand",
-        "explanation": "Correct. Although the dense connective tissue pericardium cannot stretch acutely, it can grow and expand slowly in response to chronic cardiac enlargement. In dilated cardiomyopathy the heart dilates over months to years, giving the sac time to enlarge with it — which is why these massively dilated hearts in the anatomy lab sit within proportionally large pericardial sacs and why the patients did not develop tamponade. The acute-versus-chronic distinction is the key: rapid fluid accumulation restricts the heart, while slow enlargement is accommodated."
+        "explanation": "Correct. Although the dense connective tissue pericardium cannot stretch acutely, it can grow and expand slowly in response to chronic cardiac enlargement. In dilated cardiomyopathy the heart dilates over months to years, giving the sac time to enlarge with it - which is why these massively dilated hearts in the anatomy lab sit within proportionally large pericardial sacs and why the patients did not develop tamponade. The acute-versus-chronic distinction is the key: rapid fluid accumulation restricts the heart, while slow enlargement is accommodated."
       },
       {
         "text": "Chronic stretching converts the pericardium from dense to loose connective tissue",
@@ -549,11 +549,11 @@ const Test_CV18 = [
       },
       {
         "text": "Dilated cardiomyopathy thins the ventricular walls so that total cardiac volume remains unchanged within the sac",
-        "explanation": "Incorrect. In dilated cardiomyopathy the overall heart is genuinely and often massively enlarged — chamber dilation from myocyte lengthening far outweighs any wall thinning — which is why the pericardial sac must enlarge as well. The premise of unchanged total volume contradicts the gross findings. This would be the correct answer if chamber dilation and wall thinning exactly offset each other volumetrically, which they do not."
+        "explanation": "Incorrect. In dilated cardiomyopathy the overall heart is genuinely and often massively enlarged - chamber dilation from myocyte lengthening far outweighs any wall thinning - which is why the pericardial sac must enlarge as well. The premise of unchanged total volume contradicts the gross findings. This would be the correct answer if chamber dilation and wall thinning exactly offset each other volumetrically, which they do not."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "The pericardial sac CAN enlarge — but only slowly. Chronic cardiac enlargement (dilated cardiomyopathy) is accommodated; acute fluid is not.",
+    "clinicalPearl": "The pericardial sac CAN enlarge - but only slowly. Chronic cardiac enlargement (dilated cardiomyopathy) is accommodated; acute fluid is not.",
     "pdfPage": 9,
     "pdfQuote": "pericardium can expand slowly"
   },
@@ -568,7 +568,7 @@ const Test_CV18 = [
       },
       {
         "text": "Hyperplasia of working myocytes in response to elevated wall stress",
-        "explanation": "Incorrect. Adult myocytes cannot divide — proliferation ceased shortly after birth — so no overload state increases myocyte number. All viable-myocardium remodeling occurs through changes in the size and shape of existing cells. This would be the correct answer only during fetal life, when cardiac growth does proceed by myocyte proliferation."
+        "explanation": "Incorrect. Adult myocytes cannot divide - proliferation ceased shortly after birth - so no overload state increases myocyte number. All viable-myocardium remodeling occurs through changes in the size and shape of existing cells. This would be the correct answer only during fetal life, when cardiac growth does proceed by myocyte proliferation."
       },
       {
         "text": "Interstitial collagen expansion between otherwise unchanged myocytes that thickens the wall without any alteration of the muscle cells themselves",
@@ -576,7 +576,7 @@ const Test_CV18 = [
       },
       {
         "text": "Increased myocyte diameter from added contractile material",
-        "explanation": "Correct. In areas with viable myocardium, pressure overload leads to wall thickening from an increase in myocyte diameter — the cell widens as sarcomeres are added in parallel. This is the cellular signature of the concentric hypertrophy produced by hypertension and aortic stenosis, in which the ventricle must generate much higher pressures. The broader principle, established in the lecturer's laboratory, is that myocyte shape accurately reflects ventricular anatomy: thick walls mean wider myocytes, dilated chambers mean longer myocytes."
+        "explanation": "Correct. In areas with viable myocardium, pressure overload leads to wall thickening from an increase in myocyte diameter - the cell widens as sarcomeres are added in parallel. This is the cellular signature of the concentric hypertrophy produced by hypertension and aortic stenosis, in which the ventricle must generate much higher pressures. The broader principle, established in the lecturer's laboratory, is that myocyte shape accurately reflects ventricular anatomy: thick walls mean wider myocytes, dilated chambers mean longer myocytes."
       },
       {
         "text": "Purkinje cell hypertrophy within the subendocardial conduction network",
@@ -595,7 +595,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "Increase in myocyte diameter from parallel addition of myofibrils",
-        "explanation": "Incorrect. Increased myocyte diameter is the mechanism of wall thickening in pressure overload, producing a thick-walled, non-dilated ventricle — the opposite of this patient's geometry. His chamber has grown longer and wider internally, which maps to cell lengthening. This would be the correct answer if he had concentric hypertrophy from hypertension or aortic stenosis."
+        "explanation": "Incorrect. Increased myocyte diameter is the mechanism of wall thickening in pressure overload, producing a thick-walled, non-dilated ventricle - the opposite of this patient's geometry. His chamber has grown longer and wider internally, which maps to cell lengthening. This would be the correct answer if he had concentric hypertrophy from hypertension or aortic stenosis."
       },
       {
         "text": "Decrease in total myocyte number with compensatory enlargement of the surviving cells driven by regenerative signaling pathways",
@@ -603,7 +603,7 @@ const Test_CV18 = [
       },
       {
         "text": "Lengthening of myocytes from series addition of sarcomeres",
-        "explanation": "Correct. Chamber dilatation is due to increased myocyte length from series addition of sarcomeres — new sarcomeres added end-to-end elongate the cell, and the elongating cells enlarge the cavity. This was established in the lecturer's laboratory and generalizes as the rule that, in viable myocardium, myocyte shape accurately reflects ventricular anatomy: dilated chambers are made of longer myocytes, while thickened walls are made of wider myocytes. His scar-free dilated ventricle is therefore a chamber of lengthened cells."
+        "explanation": "Correct. Chamber dilatation is due to increased myocyte length from series addition of sarcomeres - new sarcomeres added end-to-end elongate the cell, and the elongating cells enlarge the cavity. This was established in the lecturer's laboratory and generalizes as the rule that, in viable myocardium, myocyte shape accurately reflects ventricular anatomy: dilated chambers are made of longer myocytes, while thickened walls are made of wider myocytes. His scar-free dilated ventricle is therefore a chamber of lengthened cells."
       },
       {
         "text": "Transformation of working myocytes into glycogen-rich conduction cells",
@@ -626,7 +626,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "Accumulation of interstitial collagen between myocytes, stiffening the ventricle",
-        "explanation": "Correct. Hypertension promotes interstitial fibrosis — a collection of collagen between myocytes — and because collagen has the tensile strength of steel, even modest accumulation makes the ventricle stiffer and impairs relaxation. Many of these patients progress to what is now called heart failure with preserved ejection fraction, the non-dilated type of heart failure, exactly matching this woman's preserved ejection fraction and diastolic dysfunction. Hypertension can also cause perivascular fibrosis around arteries and arterioles, contributing to vessel stiffness."
+        "explanation": "Correct. Hypertension promotes interstitial fibrosis - a collection of collagen between myocytes - and because collagen has the tensile strength of steel, even modest accumulation makes the ventricle stiffer and impairs relaxation. Many of these patients progress to what is now called heart failure with preserved ejection fraction, the non-dilated type of heart failure, exactly matching this woman's preserved ejection fraction and diastolic dysfunction. Hypertension can also cause perivascular fibrosis around arteries and arterioles, contributing to vessel stiffness."
       },
       {
         "text": "Lengthening of myocytes by series addition of sarcomeres, dilating the chamber and progressively reducing its ejection fraction",
@@ -634,11 +634,11 @@ const Test_CV18 = [
       },
       {
         "text": "Replacement fibrosis occupying a discrete region where myocytes have died",
-        "explanation": "Incorrect. Replacement fibrosis is the histologic footprint of myocardial infarction — an area that is all fibrotic with no myocytes — and nothing in her presentation suggests an infarct. Her stiffness is diffuse, produced by collagen woven between living myocytes rather than a focal scar replacing dead ones. This would be the correct answer if she had a history of infarction with a regional wall motion abnormality."
+        "explanation": "Incorrect. Replacement fibrosis is the histologic footprint of myocardial infarction - an area that is all fibrotic with no myocytes - and nothing in her presentation suggests an infarct. Her stiffness is diffuse, produced by collagen woven between living myocytes rather than a focal scar replacing dead ones. This would be the correct answer if she had a history of infarction with a regional wall motion abnormality."
       },
       {
         "text": "Proliferation of capillaries crowding out the working myocytes",
-        "explanation": "Incorrect. Capillaries do not proliferate in the hypertensive heart — the lecture emphasized that hypertrophying myocytes push a static capillary bed apart, lowering density. No mechanism of vascular crowding was described. This would be the correct answer only if hypertensive remodeling featured exuberant angiogenesis, which is the opposite of what occurs."
+        "explanation": "Incorrect. Capillaries do not proliferate in the hypertensive heart - the lecture emphasized that hypertrophying myocytes push a static capillary bed apart, lowering density. No mechanism of vascular crowding was described. This would be the correct answer only if hypertensive remodeling featured exuberant angiogenesis, which is the opposite of what occurs."
       },
       {
         "text": "Loss of atrial natriuretic peptide granules from atrial myocytes",
@@ -646,7 +646,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Interstitial fibrosis (collagen = tensile strength of steel) stiffens the ventricle and impairs relaxation — the road from hypertension to HFpEF, the non-dilated heart failure.",
+    "clinicalPearl": "Interstitial fibrosis (collagen = tensile strength of steel) stiffens the ventricle and impairs relaxation - the road from hypertension to HFpEF, the non-dilated heart failure.",
     "pdfPage": 34,
     "pdfQuote": "Interstitial fibrosis between myocytes"
   },
@@ -669,11 +669,11 @@ const Test_CV18 = [
       },
       {
         "text": "Chronic volume overload with series addition of sarcomeres",
-        "explanation": "Incorrect. Volume overload and series sarcomere addition change myocyte shape — lengthening the cells and dilating the chamber — but the myocytes remain present and viable. That remodeling produces no collagen-only territory. This would be the correct answer if the finding were a dilated thin-walled ventricle with elongated but intact myocytes."
+        "explanation": "Incorrect. Volume overload and series sarcomere addition change myocyte shape - lengthening the cells and dilating the chamber - but the myocytes remain present and viable. That remodeling produces no collagen-only territory. This would be the correct answer if the finding were a dilated thin-walled ventricle with elongated but intact myocytes."
       },
       {
         "text": "Myocardial infarction with myocyte necrosis and replacement fibrosis",
-        "explanation": "Correct. A myocardial infarction kills the myocytes in the affected territory, and because adult myocytes cannot proliferate, the dead muscle is replaced by collagen — replacement fibrosis. Histologically an infarct therefore looks like a large area of fibrosis located where myocytes should be but are missing, sharply contrasting with the surrounding viable myocardium. The lecturer's rule of thumb: when you see an area where myocytes are missing from their expected location, that is an infarcted area."
+        "explanation": "Correct. A myocardial infarction kills the myocytes in the affected territory, and because adult myocytes cannot proliferate, the dead muscle is replaced by collagen - replacement fibrosis. Histologically an infarct therefore looks like a large area of fibrosis located where myocytes should be but are missing, sharply contrasting with the surrounding viable myocardium. The lecturer's rule of thumb: when you see an area where myocytes are missing from their expected location, that is an infarcted area."
       }
     ],
     "correctAnswerIndex": 4,
@@ -692,7 +692,7 @@ const Test_CV18 = [
       },
       {
         "text": "Increased urinary sodium and water excretion, reducing blood volume",
-        "explanation": "Correct. The dense granules at the nuclear poles of atrial myocytes store atrial natriuretic peptide (ANP) — structures once called nonspecific granules before their function was discovered. As the name implies, natriuretic peptides stimulate natriuresis in the kidneys: when the atria are overloaded, granule release sends ANP through the blood to promote urinary sodium and water excretion, reducing blood volume. It is an elegant arrangement — the chamber that senses overload directly triggers the volume-unloading response."
+        "explanation": "Correct. The dense granules at the nuclear poles of atrial myocytes store atrial natriuretic peptide (ANP) - structures once called nonspecific granules before their function was discovered. As the name implies, natriuretic peptides stimulate natriuresis in the kidneys: when the atria are overloaded, granule release sends ANP through the blood to promote urinary sodium and water excretion, reducing blood volume. It is an elegant arrangement - the chamber that senses overload directly triggers the volume-unloading response."
       },
       {
         "text": "An increase in heart rate through direct stimulation of the sinoatrial node",
@@ -727,11 +727,11 @@ const Test_CV18 = [
       },
       {
         "text": "Ventricular BNP is stored bound to the sarcoplasmic reticulum membrane, rendering the storage granules invisible on standard electron microscopy",
-        "explanation": "Incorrect. No membrane-bound storage pool for BNP was described; the taught distinction is straightforward — the ventricle simply does not store this peptide, releasing it into the blood soon after synthesis. Invoking a hidden storage compartment contradicts the stated absence of storage. This would be the correct answer only if BNP had a cryptic storage site that electron microscopy misses, a mechanism that was never presented."
+        "explanation": "Incorrect. No membrane-bound storage pool for BNP was described; the taught distinction is straightforward - the ventricle simply does not store this peptide, releasing it into the blood soon after synthesis. Invoking a hidden storage compartment contradicts the stated absence of storage. This would be the correct answer only if BNP had a cryptic storage site that electron microscopy misses, a mechanism that was never presented."
       },
       {
         "text": "Ventricular myocytes produce BNP but secrete it into the blood without storing it",
-        "explanation": "Correct. The two natriuretic peptides are handled differently: ANP is stored in dense granules at the nuclear poles of atrial myocytes, whereas BNP is produced primarily in the ventricles — especially in heart disease — but is not stored; there are no granules in ventricular myocytes because the peptide is secreted into the blood fairly quickly after production. His elevated serum BNP therefore reflects ongoing ventricular production and prompt release driven by the overloaded, failing ventricle, not mobilization of a stored pool."
+        "explanation": "Correct. The two natriuretic peptides are handled differently: ANP is stored in dense granules at the nuclear poles of atrial myocytes, whereas BNP is produced primarily in the ventricles - especially in heart disease - but is not stored; there are no granules in ventricular myocytes because the peptide is secreted into the blood fairly quickly after production. His elevated serum BNP therefore reflects ongoing ventricular production and prompt release driven by the overloaded, failing ventricle, not mobilization of a stored pool."
       },
       {
         "text": "Circulating BNP originates from the postganglionic neurons of the epicardial autonomic ganglia",
@@ -739,7 +739,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "BNP is made by ventricles (especially in heart disease) but never stored — no granules — it is secreted promptly into blood. ANP alone is stored, in atrial granules.",
+    "clinicalPearl": "BNP is made by ventricles (especially in heart disease) but never stored - no granules - it is secreted promptly into blood. ANP alone is stored, in atrial granules.",
     "pdfPage": 33,
     "pdfQuote": "BNP is produced primarily in ventricles"
   },
@@ -758,11 +758,11 @@ const Test_CV18 = [
       },
       {
         "text": "They are modified cardiac muscle cells specialized to conduct impulses",
-        "explanation": "Correct. Although the conduction system provides electrical stimulation for the heart, it is not composed of nerves: nodal cells, the AV bundle, the bundle branches, and the Purkinje fibers are all modified cardiac muscle cells specialized to conduct impulses. Purkinje cells retain intercalated discs (simpler ones) and myofibrils (fewer of them), betraying their muscle identity. Autonomic nerves do innervate the system — the SA node is richly supplied — but the conducting cells themselves are muscle."
+        "explanation": "Correct. Although the conduction system provides electrical stimulation for the heart, it is not composed of nerves: nodal cells, the AV bundle, the bundle branches, and the Purkinje fibers are all modified cardiac muscle cells specialized to conduct impulses. Purkinje cells retain intercalated discs (simpler ones) and myofibrils (fewer of them), betraying their muscle identity. Autonomic nerves do innervate the system - the SA node is richly supplied - but the conducting cells themselves are muscle."
       },
       {
         "text": "They are Schwann-cell-wrapped nerve fibers continuous with the cardiac plexus that penetrates the myocardium from the epicardial surface",
-        "explanation": "Incorrect. Schwann-cell-wrapped nerve fibers do travel throughout the myocardium — a point the lecturer emphasized because textbooks omit it — but those are genuine nerves running among the myocytes, distinct from the conduction system. The His-Purkinje network is made of muscle cells, not of plexus branches. This would be the correct answer if the question asked about the innervation of the heart rather than the identity of the conduction system."
+        "explanation": "Incorrect. Schwann-cell-wrapped nerve fibers do travel throughout the myocardium - a point the lecturer emphasized because textbooks omit it - but those are genuine nerves running among the myocytes, distinct from the conduction system. The His-Purkinje network is made of muscle cells, not of plexus branches. This would be the correct answer if the question asked about the innervation of the heart rather than the identity of the conduction system."
       },
       {
         "text": "They are smooth muscle cells electrically coupled to working myocytes by gap junctions",
@@ -770,7 +770,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The conduction system — nodes, His bundle, bundle branches, Purkinje fibers — is modified cardiac MUSCLE, not nerve, though autonomic nerves richly innervate it.",
+    "clinicalPearl": "The conduction system - nodes, His bundle, bundle branches, Purkinje fibers - is modified cardiac MUSCLE, not nerve, though autonomic nerves richly innervate it.",
     "pdfPage": 31,
     "pdfQuote": "Modified cardiac muscle cells specialized to conduct"
   },
@@ -789,7 +789,7 @@ const Test_CV18 = [
       },
       {
         "text": "The higher intrinsic depolarization rate of the SA node compared with the AV node, which forces the atria to contract at an overall faster rate than the ventricles",
-        "explanation": "Incorrect. The SA node's highest intrinsic depolarization rate explains why it is the pacemaker that sets the rhythm for the whole heart, but atria and ventricles beat at the same rate in normal rhythm — one follows the other beat by beat. The atria lead within each beat because of the AV nodal delay. This would be the correct answer if the question asked why the SA node, rather than another site, serves as the heart's pacemaker."
+        "explanation": "Incorrect. The SA node's highest intrinsic depolarization rate explains why it is the pacemaker that sets the rhythm for the whole heart, but atria and ventricles beat at the same rate in normal rhythm - one follows the other beat by beat. The atria lead within each beat because of the AV nodal delay. This would be the correct answer if the question asked why the SA node, rather than another site, serves as the heart's pacemaker."
       },
       {
         "text": "Electrical insulation of the atria by the endocardial Purkinje network",
@@ -801,7 +801,7 @@ const Test_CV18 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "The AV nodal delay is what lets the atria finish contracting before the ventricles begin — the impulse then crosses the fibrous skeleton via the bundle of His.",
+    "clinicalPearl": "The AV nodal delay is what lets the atria finish contracting before the ventricles begin - the impulse then crosses the fibrous skeleton via the bundle of His.",
     "pdfPage": 30,
     "pdfQuote": "then picked up at the A-V node"
   },
@@ -828,7 +828,7 @@ const Test_CV18 = [
       },
       {
         "text": "Nodal cells are smaller, and Purkinje fibers larger, than working myocytes",
-        "explanation": "Correct. The cells of the SA and AV nodes are smaller than normal working myocytes, whereas the Purkinje fibers, AV bundle, and bundle branches are larger than normal cardiac myocytes. All conduction cells share a reduced contractile phenotype — far fewer myofibrils, few or no T-tubules — and are rich in glycogen, which washes out in processing and leaves Purkinje cells strikingly pale on routine stains. Remembering the size rule lets you identify each station of the conduction system histologically."
+        "explanation": "Correct. The cells of the SA and AV nodes are smaller than normal working myocytes, whereas the Purkinje fibers, AV bundle, and bundle branches are larger than normal cardiac myocytes. All conduction cells share a reduced contractile phenotype - far fewer myofibrils, few or no T-tubules - and are rich in glycogen, which washes out in processing and leaves Purkinje cells strikingly pale on routine stains. Remembering the size rule lets you identify each station of the conduction system histologically."
       }
     ],
     "correctAnswerIndex": 4,
@@ -874,7 +874,7 @@ const Test_CV18 = [
     "options": [
       {
         "text": "Endocardium, covered by endothelium",
-        "explanation": "Incorrect. The endocardium is the inner lining of the heart — endothelium over collagen, fibroblasts, smooth muscle, nerves, and Purkinje cells — and it contains no adipose tissue or major coronary vessels. The fat-rich field with large arteries identifies the opposite surface of the wall. This would be the correct answer if the section showed the chamber lining with subendothelial connective tissue and pale Purkinje cells."
+        "explanation": "Incorrect. The endocardium is the inner lining of the heart - endothelium over collagen, fibroblasts, smooth muscle, nerves, and Purkinje cells - and it contains no adipose tissue or major coronary vessels. The fat-rich field with large arteries identifies the opposite surface of the wall. This would be the correct answer if the section showed the chamber lining with subendothelial connective tissue and pale Purkinje cells."
       },
       {
         "text": "Myocardium, covered by endomysium",
@@ -882,7 +882,7 @@ const Test_CV18 = [
       },
       {
         "text": "Parietal pericardium, covered by endothelium",
-        "explanation": "Incorrect. The outer wall of the pericardial sac is dense fibrous connective tissue lined by mesothelium — not endothelium — and it lacks the coronary arteries and abundant fat of this specimen. Endothelium lines blood-contacting surfaces only. This would be the correct answer if the tissue were the fibrous sac itself and its lining were correctly named mesothelium."
+        "explanation": "Incorrect. The outer wall of the pericardial sac is dense fibrous connective tissue lined by mesothelium - not endothelium - and it lacks the coronary arteries and abundant fat of this specimen. Endothelium lines blood-contacting surfaces only. This would be the correct answer if the tissue were the fibrous sac itself and its lining were correctly named mesothelium."
       },
       {
         "text": "Epicardium, covered by mesothelium",
@@ -913,7 +913,7 @@ const Test_CV18 = [
       },
       {
         "text": "Numerous nerves travel within the myocardium itself, deep to the surface plexus",
-        "explanation": "Correct. The lecturer showed this image specifically because routine histology texts omit it: many nerves travel inside the heart, not just in the cardiac plexus on the outer surface seen in gross anatomy. The Schwann cell surrounding neurofibrils between myocytes — alongside fibroblasts and collagen bundles of the sparse interstitium — demonstrates intramyocardial nerves directly. Autonomic fibers also run to specific targets such as the richly innervated SA node, and these deep nerves are clearly doing something important in the heart."
+        "explanation": "Correct. The lecturer showed this image specifically because routine histology texts omit it: many nerves travel inside the heart, not just in the cardiac plexus on the outer surface seen in gross anatomy. The Schwann cell surrounding neurofibrils between myocytes - alongside fibroblasts and collagen bundles of the sparse interstitium - demonstrates intramyocardial nerves directly. Autonomic fibers also run to specific targets such as the richly innervated SA node, and these deep nerves are clearly doing something important in the heart."
       },
       {
         "text": "Schwann cells within the heart myelinate the intercalated discs to accelerate impulse conduction between adjacent working myocytes",
@@ -921,11 +921,11 @@ const Test_CV18 = [
       },
       {
         "text": "The structures represent conduction system cells wrapped by supporting glial elements",
-        "explanation": "Incorrect. Conduction cells are modified cardiac myocytes — large, glycogen-rich cells with intercalated discs — not small neurofibrils inside a Schwann cell. The image shows true nerves in the interstitium, an entirely different tissue element from the conduction system. This would be the correct answer if Purkinje fibers were glia-wrapped neural structures, a misconception the lecture explicitly corrected."
+        "explanation": "Incorrect. Conduction cells are modified cardiac myocytes - large, glycogen-rich cells with intercalated discs - not small neurofibrils inside a Schwann cell. The image shows true nerves in the interstitium, an entirely different tissue element from the conduction system. This would be the correct answer if Purkinje fibers were glia-wrapped neural structures, a misconception the lecture explicitly corrected."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Nerves do not stop at the surface plexus — Schwann-cell-wrapped fibers travel throughout the myocardium itself, a point most histology texts omit.",
+    "clinicalPearl": "Nerves do not stop at the surface plexus - Schwann-cell-wrapped fibers travel throughout the myocardium itself, a point most histology texts omit.",
     "pdfPage": 23,
     "pdfQuote": "Schwann cell (S), nerve fibers (N)"
   }

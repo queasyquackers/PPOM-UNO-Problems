@@ -498,7 +498,7 @@ const Test_CV50 = [
   {
     "id": 17,
     "category": "Toxicology: Carbon Monoxide",
-    "questionText": "The same 34-year-old man remains confused. His arterial PO2 is 98 mmHg and his standard pulse oximeter reads 99%, yet his serum lactate is 6.2 mmol/L and he shows clear clinical signs of tissue hypoxia. His hemoglobin concentration and cardiac output are both normal. Which mechanism best explains the discrepancy between his reassuring measured partial pressure and his failing oxygen delivery?",
+    "questionText": "A 34-year-old man pulled from a house with a malfunctioning gas furnace has co-oximetry showing that approximately half of his hemoglobin is complexed with carbon monoxide. He is confused. His arterial PO2 is 98 mmHg and his standard pulse oximeter reads 99%, yet his serum lactate is 6.2 mmol/L and he shows clear clinical signs of tissue hypoxia. His hemoglobin concentration and cardiac output are both normal. Which mechanism best explains the discrepancy between his reassuring measured partial pressure and his failing oxygen delivery?",
     "options": [
       {
         "text": "Occupied heme sites lower oxygen content while dissolved oxygen is unchanged",
@@ -715,7 +715,7 @@ const Test_CV50 = [
   {
     "id": 24,
     "category": "Respiratory Physiology: CO2 Transport",
-    "questionText": "In the same ventilated patient, an investigator adds an agent that selectively inhibits the red cell enzyme responsible for interconverting carbon dioxide, water, and carbonic acid. Blood is then sampled from an actively exercising limb where local carbon dioxide production is high. Which immediate consequence is expected inside the red blood cell?",
+    "questionText": "In a 52-year-old man mechanically ventilated after abdominal surgery, an investigator adds an agent that selectively inhibits the red cell enzyme responsible for interconverting carbon dioxide, water, and carbonic acid. Blood is then sampled from an actively exercising limb where local carbon dioxide production is high. Which immediate consequence is expected inside the red blood cell?",
     "options": [
       {
         "text": "Chloride would be driven into the cell at an accelerated rate to compensate for the enzymatic block",
@@ -777,7 +777,7 @@ const Test_CV50 = [
   {
     "id": 26,
     "category": "Respiratory Physiology: Haldane Effect",
-    "questionText": "The same woman's blood now returns to the pulmonary capillary bed and takes up oxygen from well-ventilated alveoli in which PCO2 is low. A student asks why this newly oxygenated hemoglobin gives up its carbon dioxide so readily, given that the lecture insists the oxygen and carbon dioxide binding sites on hemoglobin are physically distinct and not competitive. Which explanation is correct?",
+    "questionText": "A 61-year-old woman is walking on a treadmill during a stress test. Blood leaving her working quadriceps now returns to the pulmonary capillary bed and takes up oxygen from well-ventilated alveoli in which PCO2 is low. A student asks why this newly oxygenated hemoglobin gives up its carbon dioxide so readily, given that the lecture insists the oxygen and carbon dioxide binding sites on hemoglobin are physically distinct and not competitive. Which explanation is correct?",
     "options": [
       {
         "text": "Oxygen and carbon dioxide compete directly for the identical heme iron coordination position",

@@ -493,12 +493,12 @@ const Test_CV12 = [
     "correctAnswerIndex": 4,
     "clinicalPearl": "Torticollis involves the sternocleidomastoid (sidebends toward, rotates away), innervated by CN XI, which exits the jugular foramen at the occipitomastoid suture with CN IX and CN X; about 90% of the head's venous blood drains through this foramen.",
     "pdfPage": 38,
-    "pdfQuote": "Spinal Accessory – CN XI"
+    "pdfQuote": "Spinal Accessory - CN XI"
   },
   {
     "id": 17,
     "category": "OMM: Vault Hold Diagnosis",
-    "questionText": "While treating the infant from the previous case, the physician holds her head in a vault hold. The fingers of the physician's right hand spread apart and feel drawn inferiorly toward the baby's feet, while the fingers of the left hand approximate and drift superiorly toward the vertex. The two palms neither tilt toward one side nor roll in opposite directions. Which cranial strain pattern is present?",
+    "questionText": "While treating a 2-month-old girl whose neck is held twisted by a tight, cord-like sternocleidomastoid, the physician holds her head in a vault hold. The fingers of the physician's right hand spread apart and feel drawn inferiorly toward the baby's feet, while the fingers of the left hand approximate and drift superiorly toward the vertex. The two palms neither tilt toward one side nor roll in opposite directions. Which cranial strain pattern is present?",
     "options": [
       {
         "text": "Right sidebending-rotation",
@@ -555,7 +555,7 @@ const Test_CV12 = [
     "correctAnswerIndex": 2,
     "clinicalPearl": "Infant feeding and swallowing problems: think CN IX and X at the jugular foramen and CN XII at the hypoglossal canal; the newborn occiput is in 4 parts, and jammed occipital condyles can irritate these nerves, impairing latch and swallow.",
     "pdfPage": 40,
-    "pdfQuote": "CN 12 – Hypoglossal Canal"
+    "pdfQuote": "CN 12 - Hypoglossal Canal"
   },
   {
     "id": 19,
@@ -586,7 +586,7 @@ const Test_CV12 = [
     "correctAnswerIndex": 3,
     "clinicalPearl": "Colic and gastric irritation in infants map to the vagus (CN X) at the jugular foramen/OM suture; the vagus supplies parasympathetic rest-and-digest innervation to nearly every thoracic and abdominal organ, and treating this region has been shown to improve parasympathetic heart rate variability.",
     "pdfPage": 41,
-    "pdfQuote": "Vagus – CN X"
+    "pdfQuote": "Vagus - CN X"
   },
   {
     "id": 20,

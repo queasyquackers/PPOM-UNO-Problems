@@ -126,7 +126,7 @@ const Test_CV23 = [
   {
     "id": 5,
     "category": "Cardiac Electrophysiology: Determinants of Heart Rate",
-    "questionText": "A second compound is tested on the same sinoatrial node preparation. This agent shifts the maximum diastolic potential from -60 mV to -75 mV while leaving the threshold potential and the slope of diastolic depolarization unchanged. Based on the model of pacemaker modulation presented in this lecture, what happens to the spontaneous rate?",
+    "questionText": "A compound is tested on a spontaneously beating sinoatrial node preparation. This agent shifts the maximum diastolic potential from -60 mV to -75 mV while leaving the threshold potential and the slope of diastolic depolarization unchanged. Based on the model of pacemaker modulation presented in this lecture, what happens to the spontaneous rate?",
     "options": [
       {
         "text": "Faster, because a more negative membrane potential increases the electrochemical driving force for inward sodium current",
@@ -157,7 +157,7 @@ const Test_CV23 = [
   {
     "id": 6,
     "category": "Cardiac Electrophysiology: Determinants of Heart Rate",
-    "questionText": "A third agent is applied to the same preparation. Recordings show that the threshold potential has shifted from -40 mV to -30 mV, while the maximum diastolic potential and the slope of phase 4 depolarization are both unaffected. Which of the following correctly predicts the effect on heart rate and identifies the underlying reason?",
+    "questionText": "An agent is applied to a spontaneously beating sinoatrial node preparation. Recordings show that the threshold potential has shifted from -40 mV to -30 mV, while the maximum diastolic potential and the slope of phase 4 depolarization are both unaffected. Which of the following correctly predicts the effect on heart rate and identifies the underlying reason?",
     "options": [
       {
         "text": "The rate slows, because a greater distance must be covered to reach threshold",

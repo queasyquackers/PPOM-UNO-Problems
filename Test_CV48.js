@@ -59,7 +59,7 @@ const Test_CV48 = [
     "correctAnswerIndex": 0,
     "clinicalPearl": "Key takeaway: BTPS = 37 C (310 K), ambient pressure, saturated with water vapor, the lung's own state. STPD = 0 C (273 K), 760 mmHg, dry, used to standardize measurements.",
     "pdfPage": 3,
-    "pdfQuote": "STPD: standard temperature (0° C, or 273K)"
+    "pdfQuote": "STPD: standard temperature (0 C, or 273K)"
   },
   {
     "id": 3,

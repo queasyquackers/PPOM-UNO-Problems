@@ -746,7 +746,7 @@ const Test_CV43 = [
   {
     "id": 25,
     "category": "Preventive Cardiology: Completing the Risk Profile",
-    "questionText": "The same 65-year-old man's differential lists angina second, supported by his risk factors. He has hypertension treated with hydrochlorothiazide, a 30 pack-year tobacco history that ended 15 years ago, and a father who died of a myocardial infarction at age 82. His BMI is 26 and he denies diabetes. No lipid studies appear anywhere in his chart at any point. Which element of his cardiovascular risk profile remains unassessed and should therefore be addressed in the plan?",
+    "questionText": "A 65-year-old man presents with sharp left-sided chest pain, and the differential in his note lists angina second, supported by his risk factors. He has hypertension treated with hydrochlorothiazide, a 30 pack-year tobacco history that ended 15 years ago, and a father who died of a myocardial infarction at age 82. His BMI is 26 and he denies diabetes. No lipid studies appear anywhere in his chart at any point. Which element of his cardiovascular risk profile remains unassessed and should therefore be addressed in the plan?",
     "options": [
       {
         "text": "Body mass index, which has not been interpreted in the context of central obesity",

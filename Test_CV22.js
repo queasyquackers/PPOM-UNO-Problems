@@ -26,7 +26,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Only the SA node and AV node generate slow-response action potentials (phase 0 = L-type Ca²⁺ current); all other cardiac cells are fast-response (phase 0 = fast Na⁺ current).",
+    "clinicalPearl": "Only the SA node and AV node generate slow-response action potentials (phase 0 = L-type Ca2+ current); all other cardiac cells are fast-response (phase 0 = fast Na+ current).",
     "pdfPage": 7,
     "pdfQuote": "Cardiac myocytes and 2 types of cardiac action potentials... Sinus (SA) node... AV node... Slow response Action potential"
   },
@@ -212,7 +212,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "I_K1 (inward rectifier) opens below about -30 mV to complete phase 3 and uniquely stays open at rest, anchoring the resting potential near E(K⁺).",
+    "clinicalPearl": "I_K1 (inward rectifier) opens below about -30 mV to complete phase 3 and uniquely stays open at rest, anchoring the resting potential near E(K+).",
     "pdfPage": 20,
     "pdfQuote": "Rapid repolarization Phase 3... Inward rectifying K+ channel (IK1)"
   },
@@ -243,7 +243,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "The Na⁺/K⁺-ATPase is electrogenic (3 Na⁺ out : 2 K⁺ in), so its activity contributes a small hyperpolarizing influence while restoring ionic gradients.",
+    "clinicalPearl": "The Na+/K+-ATPase is electrogenic (3 Na+ out : 2 K+ in), so its activity contributes a small hyperpolarizing influence while restoring ionic gradients.",
     "pdfPage": 14,
     "pdfQuote": "Electrolytes Homeostasis... Na+/K+ ATPase... 3:2"
   },
@@ -274,7 +274,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Forward-mode Na⁺/Ca²⁺ exchange (3 Na⁺ in : 1 Ca²⁺ out) is electrogenic and depolarizing — a current implicated in triggered arrhythmias.",
+    "clinicalPearl": "Forward-mode Na+/Ca2+ exchange (3 Na+ in : 1 Ca2+ out) is electrogenic and depolarizing - a current implicated in triggered arrhythmias.",
     "pdfPage": 14,
     "pdfQuote": "Electrolytes Homeostasis... Na+/Ca++ exchanger"
   },
@@ -429,7 +429,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Long cardiac action potential (300-400 ms) → long effective refractory period → no summation or tetanus, allowing alternating filling and ejection.",
+    "clinicalPearl": "Long cardiac action potential (300-400 ms) -> long effective refractory period -> no summation or tetanus, allowing alternating filling and ejection.",
     "pdfPage": 39,
     "pdfQuote": "long plateau phase and the long effective refractory period prevent... a second action potential during cardiac contraction"
   },
@@ -460,14 +460,14 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Potassium channel blockers prolong action potential duration and therefore the effective refractory period — the basis of their antiarrhythmic action.",
+    "clinicalPearl": "Potassium channel blockers prolong action potential duration and therefore the effective refractory period - the basis of their antiarrhythmic action.",
     "pdfPage": 37,
     "pdfQuote": "a type of antiarrhythmic medication, known as the potassium channel blockers, can increase AP duration and ERP"
   },
   {
     "id": 16,
     "category": "Nephrology-Cardiology: Hyperkalemia Management",
-    "questionText": "A 62-year-old man with end-stage renal disease misses two dialysis sessions and presents with generalized weakness and palpitations. Temperature is 36.8°C (98.2°F), blood pressure 148/86 mmHg, pulse 54/min and regular, respirations 16/min, and oxygen saturation 97% on room air. Physical examination reveals diffuse muscle weakness without focal deficits. Serum potassium is 7.9 mEq/L. The electrocardiogram demonstrates tall, narrow, symmetrically peaked T waves and a QRS duration of 148 ms. Which cellular derangement best accounts for the widened QRS specifically?",
+    "questionText": "A 62-year-old man with end-stage renal disease misses two dialysis sessions and presents with generalized weakness and palpitations. Temperature is 36.8 C (98.2 F), blood pressure 148/86 mmHg, pulse 54/min and regular, respirations 16/min, and oxygen saturation 97% on room air. Physical examination reveals diffuse muscle weakness without focal deficits. Serum potassium is 7.9 mEq/L. The electrocardiogram demonstrates tall, narrow, symmetrically peaked T waves and a QRS duration of 148 ms. Which cellular derangement best accounts for the widened QRS specifically?",
     "options": [
       {
         "text": "Markedly accelerated ventricular repolarization resulting from a rise in open potassium channel number",
@@ -493,7 +493,7 @@ const Test_CV22 = [
     "correctAnswerIndex": 0,
     "clinicalPearl": "In hyperkalemia the widened QRS results from impaired fast sodium channel recovery (depolarized resting potential), whereas peaked T waves result from increased potassium conductance.",
     "pdfPage": 24,
-    "pdfQuote": "↑membrane potential slows Na channel recovery (slows phase 0 depolarization, widens QRS on ECG)"
+    "pdfQuote": "increased membrane potential slows Na channel recovery (slows phase 0 depolarization, widens QRS on ECG)"
   },
   {
     "id": 17,
@@ -522,14 +522,14 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "High-potassium cardioplegia arrests the heart by depolarizing myocytes so that fast sodium channels cannot recover — the therapeutic use of hyperkalemic arrest.",
+    "clinicalPearl": "High-potassium cardioplegia arrests the heart by depolarizing myocytes so that fast sodium channels cannot recover - the therapeutic use of hyperkalemic arrest.",
     "pdfPage": 25,
     "pdfQuote": "utilized clinically to arrest the heart during open heart surgery or heart transplantation by applying the cardioplegia solution"
   },
   {
     "id": 18,
     "category": "Cardiology: Hypokalemia and Repolarization",
-    "questionText": "A 44-year-old woman with bulimia nervosa presents with fatigue and palpitations. Temperature is 36.6°C (97.9°F), blood pressure 104/68 mmHg, pulse 92/min, and respirations 14/min. Examination shows dry mucous membranes and diminished deep tendon reflexes. Serum potassium is 2.4 mEq/L and magnesium is normal. Her electrocardiogram shows flattened T waves and a corrected QT interval of 520 ms. Which cellular change is most directly responsible for her prolonged QT interval?",
+    "questionText": "A 44-year-old woman with bulimia nervosa presents with fatigue and palpitations. Temperature is 36.6 C (97.9 F), blood pressure 104/68 mmHg, pulse 92/min, and respirations 14/min. Examination shows dry mucous membranes and diminished deep tendon reflexes. Serum potassium is 2.4 mEq/L and magnesium is normal. Her electrocardiogram shows flattened T waves and a corrected QT interval of 520 ms. Which cellular change is most directly responsible for her prolonged QT interval?",
     "options": [
       {
         "text": "A more negative resting potential increasing the distance to threshold",
@@ -553,7 +553,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Hypokalemia's dominant risk is decreased potassium conductance → delayed repolarization → prolonged action potential, flattened T waves, long QT, and ventricular tachyarrhythmia risk.",
+    "clinicalPearl": "Hypokalemia's dominant risk is decreased potassium conductance -> delayed repolarization -> prolonged action potential, flattened T waves, long QT, and ventricular tachyarrhythmia risk.",
     "pdfPage": 26,
     "pdfQuote": "2. Decrease K+ permeability (fewer channels open) Delays repolarization (increases AP duration, prolonged Q-T interval...)"
   },
@@ -584,7 +584,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Digitalis: Na⁺/K⁺-ATPase inhibition → ↑ intracellular Na⁺ → Na⁺/Ca²⁺ exchanger reverse mode → ↑ intracellular Ca²⁺ → increased contractility.",
+    "clinicalPearl": "Digitalis: Na+/K+-ATPase inhibition -> increased intracellular Na+ -> Na+/Ca2+ exchanger reverse mode -> increased intracellular Ca2+ -> increased contractility.",
     "pdfPage": 14,
     "pdfQuote": "In condition of increased intracellular sodium concentration, such as in the condition of digitalis treatment, the exchanger will try to pump out sodium and let in calcium"
   },
@@ -646,7 +646,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "In slow-response (nodal) fibers, the effective refractory period depends on L-type calcium channel recovery, and relative refractoriness extends into phase 4 — enabling AV nodal filtering.",
+    "clinicalPearl": "In slow-response (nodal) fibers, the effective refractory period depends on L-type calcium channel recovery, and relative refractoriness extends into phase 4 - enabling AV nodal filtering.",
     "pdfPage": 36,
     "pdfQuote": "The cause of effective refractory period in slow response fibers is the time required for calcium channels to return to their resting conformation"
   },
@@ -708,7 +708,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Diastolic calcium removal occurs via SERCA (into the SR) and the Na⁺/Ca²⁺ exchanger (out of the cell); impairing either delays relaxation.",
+    "clinicalPearl": "Diastolic calcium removal occurs via SERCA (into the SR) and the Na+/Ca2+ exchanger (out of the cell); impairing either delays relaxation.",
     "pdfPage": 28,
     "pdfQuote": "Sarco(endo)plasmic reticulum Ca++ ATPase, SERCA"
   },
@@ -739,7 +739,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Because nodal phase 0 depends on L-type calcium current, calcium channel blockers selectively slow AV nodal conduction — sodium channel blockers act on fast-response tissue instead.",
+    "clinicalPearl": "Because nodal phase 0 depends on L-type calcium current, calcium channel blockers selectively slow AV nodal conduction - sodium channel blockers act on fast-response tissue instead.",
     "pdfPage": 8,
     "pdfQuote": "Fast versus Slow APs... Cause of Phase 0 Depolarization: Opening of Na+ Channel / Opening of Ca2+ (L) Channel"
   },
@@ -801,7 +801,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "With only potassium conductance appreciable at rest, membrane potential approximates E(K⁺) (~ -96 mV); the measured -90 mV reflects leak currents and concentration variation.",
+    "clinicalPearl": "With only potassium conductance appreciable at rest, membrane potential approximates E(K+) (~ -96 mV); the measured -90 mV reflects leak currents and concentration variation.",
     "pdfPage": 13,
     "pdfQuote": "membrane potential equals relative conductance of potassium times its equilibrium potential..."
   },
@@ -863,7 +863,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Fast sodium channels held above threshold remain inactivated and cannot reopen; recovery requires repolarization below threshold — the basis of hyperkalemic arrest.",
+    "clinicalPearl": "Fast sodium channels held above threshold remain inactivated and cannot reopen; recovery requires repolarization below threshold - the basis of hyperkalemic arrest.",
     "pdfPage": 17,
     "pdfQuote": "the sodium channel will stay in inactivated state until member potential drops below the threshold level at the end of phase 3"
   },
@@ -925,7 +925,7 @@ const Test_CV22 = [
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Hypokalemia reduces potassium conductance, prolonging repolarization and QT — the substrate for polymorphic ventricular tachycardia in patients on diuretics.",
+    "clinicalPearl": "Hypokalemia reduces potassium conductance, prolonging repolarization and QT - the substrate for polymorphic ventricular tachycardia in patients on diuretics.",
     "pdfPage": 26,
     "pdfQuote": "Delays repolarization (increases AP duration, prolonged Q-T interval, increased risk of ventricular arrhythmia)"
   }

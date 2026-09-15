@@ -26,7 +26,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "All nephric structures — pronephros, mesonephros, and metanephros — derive from the intermediate mesoderm, which lies between the paraxial mesoderm and the lateral plate mesoderm.",
+    "clinicalPearl": "All nephric structures - pronephros, mesonephros, and metanephros - derive from the intermediate mesoderm, which lies between the paraxial mesoderm and the lateral plate mesoderm.",
     "pdfPage": 5,
     "pdfQuote": "All nephric structures, derive from the intermediate mesoderm"
   },
@@ -49,7 +49,7 @@ const Test_CV3 = [
       },
       {
         "text": "The coelom, the cavity formed by splitting of the lateral plate mesoderm",
-        "explanation": "Correct. The lecture states plainly that the kidney is a diverticulum of the coelom. The lateral plate splits into somatopleure and splanchnopleure with the coelom — meaning cavity — between them, containing the liver, guts, and stomach. The intermediate mesoderm is well connected to this cavity, and the forming kidney remains attached to the coelom before eventually separating to lie behind it as its own entity."
+        "explanation": "Correct. The lecture states plainly that the kidney is a diverticulum of the coelom. The lateral plate splits into somatopleure and splanchnopleure with the coelom - meaning cavity - between them, containing the liver, guts, and stomach. The intermediate mesoderm is well connected to this cavity, and the forming kidney remains attached to the coelom before eventually separating to lie behind it as its own entity."
       },
       {
         "text": "The neural tube, the dorsal tube that forms the brain and cord",
@@ -84,7 +84,7 @@ const Test_CV3 = [
       },
       {
         "text": "It arises as a diverticulum of the uterus in female embryos",
-        "explanation": "Incorrect. The structure the lecturer described as arising from the uterus as a diverticulum is the paramesonephric duct, which forms the oviduct — it is not a kidney at all. This would be the correct answer if the question had asked about the origin of the Mullerian duct."
+        "explanation": "Incorrect. The structure the lecturer described as arising from the uterus as a diverticulum is the paramesonephric duct, which forms the oviduct - it is not a kidney at all. This would be the correct answer if the question had asked about the origin of the Mullerian duct."
       }
     ],
     "correctAnswerIndex": 0,
@@ -115,11 +115,11 @@ const Test_CV3 = [
       },
       {
         "text": "Its glomeruli disappear, while its ducts and tubules remain as plumbing",
-        "explanation": "Correct. The mesonephros loses its glomeruli in the adult, but its ducts and tubules — the plumbing — remain. That surviving plumbing is recycled into the male reproductive tract as the epididymis and vas deferens, and it also contributes the trigone of the bladder and, through the ureteric bud, the ureter and calyces. This is why the lecturer calls the adult kidney a conglomerate of mesonephric and metanephric parts."
+        "explanation": "Correct. The mesonephros loses its glomeruli in the adult, but its ducts and tubules - the plumbing - remain. That surviving plumbing is recycled into the male reproductive tract as the epididymis and vas deferens, and it also contributes the trigone of the bladder and, through the ureteric bud, the ureter and calyces. This is why the lecturer calls the adult kidney a conglomerate of mesonephric and metanephric parts."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Mesonephros in the adult: the glomeruli vanish but the ducts and tubules remain — recycled as reproductive and urinary plumbing.",
+    "clinicalPearl": "Mesonephros in the adult: the glomeruli vanish but the ducts and tubules remain - recycled as reproductive and urinary plumbing.",
     "pdfPage": 5,
     "pdfQuote": "its ducts and tubules remain in the adult"
   },
@@ -138,7 +138,7 @@ const Test_CV3 = [
       },
       {
         "text": "Excretion of urine as well as passage of eggs and sperm",
-        "explanation": "Correct. In the fish stage, the mesonephric kidney excreted urine and also passed eggs and sperm through its duct system. Later, the body removed it from the responsibilities of urine excretion and egg transport, leaving it to deal only with the male gametes. The metanephric kidney took over urine excretion, and the retained mesonephric duct became the epididymis and vas deferens — an evolutionary story that explains the adult anatomy."
+        "explanation": "Correct. In the fish stage, the mesonephric kidney excreted urine and also passed eggs and sperm through its duct system. Later, the body removed it from the responsibilities of urine excretion and egg transport, leaving it to deal only with the male gametes. The metanephric kidney took over urine excretion, and the retained mesonephric duct became the epididymis and vas deferens - an evolutionary story that explains the adult anatomy."
       },
       {
         "text": "Urine excretion in females and sperm passage in males",
@@ -161,7 +161,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "An artery enters the capsule, twists extensively, and exits as an artery, with no vein in the circuit",
-        "explanation": "Correct. The glomerulus is an entirely arterial device: an artery enters Bowman's capsule, twists around chaotically inside the little cup, and exits the other side still as an artery — there is no vein anywhere in the circuit. As blood surges through the twisting vessel, urine is expressed to the outside of the vessel and trapped by Bowman's capsule, the first of two distillations. The second distillation occurs downstream in the convoluted tubules and loop of Henle."
+        "explanation": "Correct. The glomerulus is an entirely arterial device: an artery enters Bowman's capsule, twists around chaotically inside the little cup, and exits the other side still as an artery - there is no vein anywhere in the circuit. As blood surges through the twisting vessel, urine is expressed to the outside of the vessel and trapped by Bowman's capsule, the first of two distillations. The second distillation occurs downstream in the convoluted tubules and loop of Henle."
       },
       {
         "text": "An artery enters and a vein leaves, as in most organs of the body, allowing gas exchange to occur within the capsule",
@@ -181,7 +181,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "The glomerulus is all arterial — artery in, artery out, no vein; urine is 'distilled' out of the twisting artery and trapped by Bowman's capsule.",
+    "clinicalPearl": "The glomerulus is all arterial - artery in, artery out, no vein; urine is 'distilled' out of the twisting artery and trapped by Bowman's capsule.",
     "pdfPage": 10,
     "pdfQuote": "One in the looping artery of the glomerulus"
   },
@@ -192,7 +192,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "The metanephric blastema",
-        "explanation": "Incorrect. The metanephric blastema is the lump of intermediate mesoderm that the ureteric bud grows into and interacts with — it is the bud's target, not its origin. This would be the correct answer if the question had asked which structure the bud invades and induces to condense."
+        "explanation": "Incorrect. The metanephric blastema is the lump of intermediate mesoderm that the ureteric bud grows into and interacts with - it is the bud's target, not its origin. This would be the correct answer if the question had asked which structure the bud invades and induces to condense."
       },
       {
         "text": "The urogenital sinus",
@@ -204,7 +204,7 @@ const Test_CV3 = [
       },
       {
         "text": "The mesonephric duct",
-        "explanation": "Correct. The ureteric bud is a diverticulum — a little branch — of the mesonephric duct, just as a branch comes off a tree. Despite its small size it has enormous inductive power: it forms the ureter, renal pelvis, major and minor calyces, collecting ducts, and collecting tubules. This is also why the adult collecting system is considered mesonephric in origin even though it serves the metanephric kidney."
+        "explanation": "Correct. The ureteric bud is a diverticulum - a little branch - of the mesonephric duct, just as a branch comes off a tree. Despite its small size it has enormous inductive power: it forms the ureter, renal pelvis, major and minor calyces, collecting ducts, and collecting tubules. This is also why the adult collecting system is considered mesonephric in origin even though it serves the metanephric kidney."
       },
       {
         "text": "The allantois",
@@ -212,7 +212,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "The ureteric bud is a branch (diverticulum) of the mesonephric duct — a 'little branch with power' that builds the entire renal collecting system.",
+    "clinicalPearl": "The ureteric bud is a branch (diverticulum) of the mesonephric duct - a 'little branch with power' that builds the entire renal collecting system.",
     "pdfPage": 12,
     "pdfQuote": "Ureteric bud as a diverticulum of the mesonephric duct"
   },
@@ -227,11 +227,11 @@ const Test_CV3 = [
       },
       {
         "text": "Ureter, renal pelvis, major and minor calyces, collecting ducts, and collecting tubules",
-        "explanation": "Correct. The ureteric bud forms the collecting portion of the kidney: the ureter, the renal pelvis, the major and minor calyces, the collecting ducts, and the collecting tubules. It earns its name because it makes the ureter. All of this collecting plumbing is ultimately mesonephric in origin, since the bud itself branches off the mesonephric duct — which is why the lecturer calls the adult kidney a conglomerate of two systems."
+        "explanation": "Correct. The ureteric bud forms the collecting portion of the kidney: the ureter, the renal pelvis, the major and minor calyces, the collecting ducts, and the collecting tubules. It earns its name because it makes the ureter. All of this collecting plumbing is ultimately mesonephric in origin, since the bud itself branches off the mesonephric duct - which is why the lecturer calls the adult kidney a conglomerate of two systems."
       },
       {
         "text": "Trigone of the bladder, epididymis, and vas deferens",
-        "explanation": "Incorrect. These are derivatives of the mesonephric duct proper — the trigone forms by exstrophy of its distal portions, and the duct itself persists as the epididymis and vas deferens. This would be the correct answer if the row were for the mesonephric duct rather than for its ureteric branch."
+        "explanation": "Incorrect. These are derivatives of the mesonephric duct proper - the trigone forms by exstrophy of its distal portions, and the duct itself persists as the epididymis and vas deferens. This would be the correct answer if the row were for the mesonephric duct rather than for its ureteric branch."
       },
       {
         "text": "Bladder body and urethra",
@@ -258,7 +258,7 @@ const Test_CV3 = [
       },
       {
         "text": "The trigone of the bladder and the vas deferens",
-        "explanation": "Incorrect. Both of these are mesonephric duct derivatives — the trigone by exstrophy of the ducts' distal portions and the vas deferens as the persisting duct itself. This would be the correct answer if the question had asked what the mesonephric duct becomes in the adult male."
+        "explanation": "Incorrect. Both of these are mesonephric duct derivatives - the trigone by exstrophy of the ducts' distal portions and the vas deferens as the persisting duct itself. This would be the correct answer if the question had asked what the mesonephric duct becomes in the adult male."
       },
       {
         "text": "The bladder and the urethra",
@@ -270,7 +270,7 @@ const Test_CV3 = [
       },
       {
         "text": "Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule",
-        "explanation": "Correct. The metanephric blastema forms the excretory portion of the kidney: Bowman's capsule, the proximal convoluted tubule, the loop of Henle, and the distal convoluted tubule. The interaction is mutual — the blastema signals the ureteric bud to branch and grow, while the bud induces the blastema to condense and form these tubules. The excretory portion makes the urine, and the bud-derived collecting portion then conveys it toward the ureter and bladder."
+        "explanation": "Correct. The metanephric blastema forms the excretory portion of the kidney: Bowman's capsule, the proximal convoluted tubule, the loop of Henle, and the distal convoluted tubule. The interaction is mutual - the blastema signals the ureteric bud to branch and grow, while the bud induces the blastema to condense and form these tubules. The excretory portion makes the urine, and the bud-derived collecting portion then conveys it toward the ureter and bladder."
       }
     ],
     "correctAnswerIndex": 4,
@@ -305,7 +305,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "The metanephric (excretory) and mesonephric (collecting) systems join between the distal convoluted tubule and the collecting tubule — the lecturer's explicit 'memorize this for the exam' point.",
+    "clinicalPearl": "The metanephric (excretory) and mesonephric (collecting) systems join between the distal convoluted tubule and the collecting tubule - the lecturer's explicit 'memorize this for the exam' point.",
     "pdfPage": 11,
     "pdfQuote": "proximal convoluted tubule, loop of Henle, distal convoluted tubule"
   },
@@ -332,7 +332,7 @@ const Test_CV3 = [
       },
       {
         "text": "The epididymis and the vas deferens",
-        "explanation": "Correct. The mesonephric duct is retained in the adult male as the epididymis and the vas (ductus) deferens. Sperm formed in the testis descend through the epididymal tubules and collect into the mesonephric duct, which becomes the vas deferens. The same duct system also contributes the trigone of the bladder and, through its ureteric bud branch, the ureter and the calyces — the recycled 'plumbing' theme of the entire lecture."
+        "explanation": "Correct. The mesonephric duct is retained in the adult male as the epididymis and the vas (ductus) deferens. Sperm formed in the testis descend through the epididymal tubules and collect into the mesonephric duct, which becomes the vas deferens. The same duct system also contributes the trigone of the bladder and, through its ureteric bud branch, the ureter and the calyces - the recycled 'plumbing' theme of the entire lecture."
       }
     ],
     "correctAnswerIndex": 4,
@@ -347,7 +347,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "A new structure arising as a diverticulum of the uterus, which forms the oviduct",
-        "explanation": "Correct. The lecturer taught that the paramesonephric duct is an entirely new structure — not homologous to the mesonephric duct — and that it is derived from the uterus as a diverticulum, going on to form the oviduct in the adult. In the adult female, the paramesonephric system accounts for the uterus, the upper part of the vagina, and the oviducts. Its counterpart remnant in the male is the appendix of the testis."
+        "explanation": "Correct. The lecturer taught that the paramesonephric duct is an entirely new structure - not homologous to the mesonephric duct - and that it is derived from the uterus as a diverticulum, going on to form the oviduct in the adult. In the adult female, the paramesonephric system accounts for the uterus, the upper part of the vagina, and the oviducts. Its counterpart remnant in the male is the appendix of the testis."
       },
       {
         "text": "A direct continuation of the mesonephric duct into the pelvis",
@@ -367,7 +367,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Per the lecturer, the paramesonephric (Mullerian) duct is a new structure — a diverticulum of the uterus — that forms the oviduct; it is NOT homologous to the mesonephric duct.",
+    "clinicalPearl": "Per the lecturer, the paramesonephric (Mullerian) duct is a new structure - a diverticulum of the uterus - that forms the oviduct; it is NOT homologous to the mesonephric duct.",
     "pdfPage": 14,
     "pdfQuote": "paramesonephric duct is derived from the uterus"
   },
@@ -412,8 +412,8 @@ const Test_CV3 = [
         "explanation": "Incorrect. The metanephric blastema condenses high in the developing kidney to form nephron components, never in the bladder. This would be the correct answer if the question had asked how Bowman's capsule and the convoluted tubules arise."
       },
       {
-        "text": "By exstrophy — the distal mesonephric ducts turn inside out into the posterior bladder wall",
-        "explanation": "Correct. The distal portions of the mesonephric ducts become incorporated into the posterior wall of the bladder by a process called exstrophy, which means turned inside out — like pulling a sweater over your head so the inside becomes the outside. The resulting triangular patch is the trigone (Greek for triangle). The mesonephric ducts and the ureters/ureteric buds open in this region, while the remainder of the bladder derives from the urogenital sinus."
+        "text": "By exstrophy - the distal mesonephric ducts turn inside out into the posterior bladder wall",
+        "explanation": "Correct. The distal portions of the mesonephric ducts become incorporated into the posterior wall of the bladder by a process called exstrophy, which means turned inside out - like pulling a sweater over your head so the inside becomes the outside. The resulting triangular patch is the trigone (Greek for triangle). The mesonephric ducts and the ureters/ureteric buds open in this region, while the remainder of the bladder derives from the urogenital sinus."
       },
       {
         "text": "By outgrowth of the urogenital sinus, the same source as the rest of the bladder wall and the urethra",
@@ -421,7 +421,7 @@ const Test_CV3 = [
       },
       {
         "text": "By fusion of the paramesonephric ducts at the midline",
-        "explanation": "Incorrect. The paramesonephric ducts belong to the reproductive story — per the lecturer they relate to the uterus and oviducts — and they make no contribution to the bladder. This would be the correct answer if the question had involved the female genital tract rather than the urinary tract."
+        "explanation": "Incorrect. The paramesonephric ducts belong to the reproductive story - per the lecturer they relate to the uterus and oviducts - and they make no contribution to the bladder. This would be the correct answer if the question had involved the female genital tract rather than the urinary tract."
       },
       {
         "text": "By descent of the pronephros into the pelvis",
@@ -429,7 +429,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "The trigone is a mesonephric 'patch' on a urogenital sinus-derived bladder, formed by exstrophy (turning inside out) of the distal mesonephric ducts — flagged by the lecturer for the boards.",
+    "clinicalPearl": "The trigone is a mesonephric 'patch' on a urogenital sinus-derived bladder, formed by exstrophy (turning inside out) of the distal mesonephric ducts - flagged by the lecturer for the boards.",
     "pdfPage": 19,
     "pdfQuote": "Exstrophy of mesonephric ducts is the formation of trigone"
   },
@@ -448,7 +448,7 @@ const Test_CV3 = [
       },
       {
         "text": "Meeting the suprarenal (adrenal) gland, which stays in place",
-        "explanation": "Correct. The suprarenal gland does not rise with the kidney — it is always where it is — and when the ascending kidney reaches it, the ascent stops, as if the adrenal gland says 'you have reached your destination.' The lecturer even joked about the untested experiment of removing the adrenal gland to see whether the kidney would keep rising. Along the way the kidney is serially vascularized by nearby arteries and its ureter progressively lengthens."
+        "explanation": "Correct. The suprarenal gland does not rise with the kidney - it is always where it is - and when the ascending kidney reaches it, the ascent stops, as if the adrenal gland says 'you have reached your destination.' The lecturer even joked about the untested experiment of removing the adrenal gland to see whether the kidney would keep rising. Along the way the kidney is serially vascularized by nearby arteries and its ureter progressively lengthens."
       },
       {
         "text": "Fusion with the opposite kidney at the midline",
@@ -471,7 +471,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "Dysfunction of the urorectal septum, which failed to form a patent anal opening",
-        "explanation": "Correct. The urorectal septum normally partitions the cloaca and forms the sphincters and the opening of the anus; when it dysfunctions, the anus is not open — an imperforate anus. The clinical clue is a newborn who cannot defecate, discovered as failure to pass meconium, which is why checking anal patency is part of every newborn examination alongside testicular descent, color, breathing, and nostrils. This anomaly should also prompt screening for the other components of the VACTERL association."
+        "explanation": "Correct. The urorectal septum normally partitions the cloaca and forms the sphincters and the opening of the anus; when it dysfunctions, the anus is not open - an imperforate anus. The clinical clue is a newborn who cannot defecate, discovered as failure to pass meconium, which is why checking anal patency is part of every newborn examination alongside testicular descent, color, breathing, and nostrils. This anomaly should also prompt screening for the other components of the VACTERL association."
       },
       {
         "text": "Failure of the ureteric bud to contact the metanephric blastema",
@@ -491,7 +491,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Imperforate anus results from urorectal septum dysfunction; suspect it in a newborn who fails to pass meconium — the anus is checked at every newborn exam.",
+    "clinicalPearl": "Imperforate anus results from urorectal septum dysfunction; suspect it in a newborn who fails to pass meconium - the anus is checked at every newborn exam.",
     "pdfPage": 24,
     "pdfQuote": "Clinical: failure to pass meconium"
   },
@@ -518,11 +518,11 @@ const Test_CV3 = [
       },
       {
         "text": "Tracheoesophageal fistula, esophageal atresia, renal anomalies, and limb defects",
-        "explanation": "Correct. This infant already demonstrates the V (vertebral anomalies), A (anal atresia), and C (cardiovascular abnormalities) of the VACTERL association, so the remaining components must be sought: T for tracheoesophageal fistula (a tracheal branch leading nowhere, so air enters a blind chamber), E for esophageal atresia (the esophagus does not form), R for renal anomalies, and L for limb defects such as missing hands or inwardly bent feet. The lecturer stressed that although these arise from different chromosomes and genes, they go wrong together — and that this is board-exam material."
+        "explanation": "Correct. This infant already demonstrates the V (vertebral anomalies), A (anal atresia), and C (cardiovascular abnormalities) of the VACTERL association, so the remaining components must be sought: T for tracheoesophageal fistula (a tracheal branch leading nowhere, so air enters a blind chamber), E for esophageal atresia (the esophagus does not form), R for renal anomalies, and L for limb defects such as missing hands or inwardly bent feet. The lecturer stressed that although these arise from different chromosomes and genes, they go wrong together - and that this is board-exam material."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "VACTERL: Vertebral anomalies, Anal atresia, Cardiovascular abnormalities, TracheoEsophageal fistula, Esophageal atresia, Renal anomalies, Limb defects — different genes, but they occur together.",
+    "clinicalPearl": "VACTERL: Vertebral anomalies, Anal atresia, Cardiovascular abnormalities, TracheoEsophageal fistula, Esophageal atresia, Renal anomalies, Limb defects - different genes, but they occur together.",
     "pdfPage": 24,
     "pdfQuote": "vertebral anomalies, anal atresia, cardiovascular abnormalities"
   },
@@ -564,7 +564,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "The solitary kidney will inevitably fail from overwork during childhood",
-        "explanation": "Incorrect. The enlarged single kidney is not failing — it has hypertrophied precisely because it can successfully do the job of two, and one kidney is enough for a normal life. This would be the correct answer only if compensatory enlargement represented decompensation, which the lecture explicitly denies."
+        "explanation": "Incorrect. The enlarged single kidney is not failing - it has hypertrophied precisely because it can successfully do the job of two, and one kidney is enough for a normal life. This would be the correct answer only if compensatory enlargement represented decompensation, which the lecture explicitly denies."
       },
       {
         "text": "The enlarged kidney indicates an obstructed, fluid-filled collecting system with a bulging ureter that requires urgent drainage",
@@ -572,11 +572,11 @@ const Test_CV3 = [
       },
       {
         "text": "Unilateral renal agenesis with compensatory hypertrophy; one kidney is enough for a normal life",
-        "explanation": "Correct. A kidney that never formed — renal agenesis, from the Greek 'a-' meaning no and genesis meaning development — is not so bad when unilateral, because one kidney is enough. In a baby, the solitary kidney expands and enlarges, becoming hypertrophic because it performs the work of two kidneys. The lecturer noted that paired organs largely reflect the body's symmetry, and that an adult who loses one kidney does just fine — the same reason kidney donation is safe."
+        "explanation": "Correct. A kidney that never formed - renal agenesis, from the Greek 'a-' meaning no and genesis meaning development - is not so bad when unilateral, because one kidney is enough. In a baby, the solitary kidney expands and enlarges, becoming hypertrophic because it performs the work of two kidneys. The lecturer noted that paired organs largely reflect the body's symmetry, and that an adult who loses one kidney does just fine - the same reason kidney donation is safe."
       },
       {
         "text": "A pelvic kidney is likely hiding low next to the bladder and will complete its ascent later in childhood",
-        "explanation": "Incorrect. While a missed pelvic kidney belongs on the differential for a 'missing' kidney, careful scanning found none, and a pelvic kidney does not resume its ascent after birth — it stays where it is, functioning normally. This would be the correct answer if imaging had actually located a low-lying kidney beside the bladder."
+        "explanation": "Incorrect. While a missed pelvic kidney belongs on the differential for a 'missing' kidney, careful scanning found none, and a pelvic kidney does not resume its ascent after birth - it stays where it is, functioning normally. This would be the correct answer if imaging had actually located a low-lying kidney beside the bladder."
       },
       {
         "text": "The appearance reflects fusion of both kidneys into a single midline organ",
@@ -584,7 +584,7 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "Unilateral renal agenesis: the solitary kidney hypertrophies to do the work of two — one kidney is enough, which is also why kidney donation is safe.",
+    "clinicalPearl": "Unilateral renal agenesis: the solitary kidney hypertrophies to do the work of two - one kidney is enough, which is also why kidney donation is safe.",
     "pdfPage": 26,
     "pdfQuote": "Unilateral: remaining kidney undergoes hypertrophy"
   },
@@ -599,7 +599,7 @@ const Test_CV3 = [
       },
       {
         "text": "Loss of the protective fluid cushion, causing the fetus to press against the uterine wall and become molded",
-        "explanation": "Correct. Amniotic fluid — the baby's recirculated urine — is the fluid that protects the fetus and allows it to develop normally. With too little fluid (oligohydramnios, from oligo-, 'a little'), the fetus sticks to the wall of the uterus and gets deformed: the feet, the arms, and sometimes the face are pressed and molded against the wall, and the deformation is permanent — 'you're born this way.' The vignette's combination of low fluid and compressive deformities is exactly this mechanism."
+        "explanation": "Correct. Amniotic fluid - the baby's recirculated urine - is the fluid that protects the fetus and allows it to develop normally. With too little fluid (oligohydramnios, from oligo-, 'a little'), the fetus sticks to the wall of the uterus and gets deformed: the feet, the arms, and sometimes the face are pressed and molded against the wall, and the deformation is permanent - 'you're born this way.' The vignette's combination of low fluid and compressive deformities is exactly this mechanism."
       },
       {
         "text": "Excess fluid stretching the uterus and compressing the umbilical cord",
@@ -607,7 +607,7 @@ const Test_CV3 = [
       },
       {
         "text": "Failure of fetal swallowing, preventing normal tongue and tooth development",
-        "explanation": "Incorrect. Failed swallowing causes fluid to accumulate — polyhydramnios — and its developmental cost is to structures that depend on the act of swallowing, like the tongue and teeth. This fetus has too little fluid, not too much. This would be the correct answer if the vignette had described excess amniotic fluid with oral structure abnormalities."
+        "explanation": "Incorrect. Failed swallowing causes fluid to accumulate - polyhydramnios - and its developmental cost is to structures that depend on the act of swallowing, like the tongue and teeth. This fetus has too little fluid, not too much. This would be the correct answer if the vignette had described excess amniotic fluid with oral structure abnormalities."
       },
       {
         "text": "Fluid accumulating in the fetal ureters and distending the abdomen",
@@ -615,14 +615,14 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Oligohydramnios: too little amniotic fluid (fetal urine) removes the protective cushion, so the fetus is molded against the uterine wall — permanently deformed feet, arms, and face.",
+    "clinicalPearl": "Oligohydramnios: too little amniotic fluid (fetal urine) removes the protective cushion, so the fetus is molded against the uterine wall - permanently deformed feet, arms, and face.",
     "pdfPage": 27,
     "pdfQuote": "Insufficient amounts of amniotic fluid surrounding the fetus"
   },
   {
     "id": 21,
     "category": "Pathology: Polyhydramnios",
-    "questionText": "A 31-year-old woman with poorly controlled diabetes mellitus presents in labor at 37 weeks' gestation. When her membranes rupture, an enormous volume of fluid — described by the delivery nurse as 'a gallon or two' — pours out, and the obstetrician remarks that this was anticipated from her prenatal ultrasounds. Beyond the maternal diabetes itself, which fetal mechanism most directly produces this excess accumulation of amniotic fluid?",
+    "questionText": "A 31-year-old woman with poorly controlled diabetes mellitus presents in labor at 37 weeks' gestation. When her membranes rupture, an enormous volume of fluid - described by the delivery nurse as 'a gallon or two' - pours out, and the obstetrician remarks that this was anticipated from her prenatal ultrasounds. Beyond the maternal diabetes itself, which fetal mechanism most directly produces this excess accumulation of amniotic fluid?",
     "options": [
       {
         "text": "Overproduction of urine by hypertrophied fetal kidneys working for two",
@@ -638,11 +638,11 @@ const Test_CV3 = [
       },
       {
         "text": "Failure of the fetus to swallow and recirculate the amniotic fluid",
-        "explanation": "Correct. Amniotic fluid is the baby's urine, which the fetus normally swallows and recirculates continuously — they drink their own pee, and it is re-peed as the fetus grows. Polyhydramnios develops when the embryo and fetus do not swallow the fluid, or do not swallow enough of it, so fluid accumulates in excess; maternal diabetes can also cause it. A gush of one to two gallons at membrane rupture is the classic bedside clue, and the failure of swallowing itself carries consequences for tongue and tooth development."
+        "explanation": "Correct. Amniotic fluid is the baby's urine, which the fetus normally swallows and recirculates continuously - they drink their own pee, and it is re-peed as the fetus grows. Polyhydramnios develops when the embryo and fetus do not swallow the fluid, or do not swallow enough of it, so fluid accumulates in excess; maternal diabetes can also cause it. A gush of one to two gallons at membrane rupture is the classic bedside clue, and the failure of swallowing itself carries consequences for tongue and tooth development."
       },
       {
         "text": "Obstruction of the fetal ureters trapping urine within the kidneys",
-        "explanation": "Incorrect. Ureteral obstruction traps fluid inside the urinary tract, producing hydronephrosis — a distended kidney and bulging ureter — and would reduce, not increase, the urine reaching the amniotic space. This would be the correct answer if the ultrasound had shown a fluid-filled, enlarged fetal kidney rather than excess amniotic fluid."
+        "explanation": "Incorrect. Ureteral obstruction traps fluid inside the urinary tract, producing hydronephrosis - a distended kidney and bulging ureter - and would reduce, not increase, the urine reaching the amniotic space. This would be the correct answer if the ultrasound had shown a fluid-filled, enlarged fetal kidney rather than excess amniotic fluid."
       }
     ],
     "correctAnswerIndex": 3,
@@ -653,11 +653,11 @@ const Test_CV3 = [
   {
     "id": 22,
     "category": "Embryology: Function Drives Development",
-    "questionText": "A fetus with a gastrointestinal malformation is unable to swallow amniotic fluid for much of gestation, and polyhydramnios develops. The lecturer used this scenario to teach a broader principle: function is part of development — the heart beats before it is even a heart, and the limbs must keep moving for their joints to form correctly. Beyond the excess amniotic fluid, which additional problem should be anticipated in this fetus?",
+    "questionText": "A fetus with a gastrointestinal malformation is unable to swallow amniotic fluid for much of gestation, and polyhydramnios develops. The lecturer used this scenario to teach a broader principle: function is part of development - the heart beats before it is even a heart, and the limbs must keep moving for their joints to form correctly. Beyond the excess amniotic fluid, which additional problem should be anticipated in this fetus?",
     "options": [
       {
         "text": "Abnormal development of the tongue and teeth, which require swallowing activity to form correctly",
-        "explanation": "Correct. Swallowing of amniotic fluid is necessary to develop a normal tongue and normal teeth — the act of swallowing is required for these structures to form correctly, just as limb movement is required for normal joints and the beating of the early heart is part of building the heart itself. A fetus that cannot swallow therefore accumulates fluid (polyhydramnios) and simultaneously risks malformed oral structures. This is the lecture's 'function is part of development' principle in action."
+        "explanation": "Correct. Swallowing of amniotic fluid is necessary to develop a normal tongue and normal teeth - the act of swallowing is required for these structures to form correctly, just as limb movement is required for normal joints and the beating of the early heart is part of building the heart itself. A fetus that cannot swallow therefore accumulates fluid (polyhydramnios) and simultaneously risks malformed oral structures. This is the lecture's 'function is part of development' principle in action."
       },
       {
         "text": "Hypertrophy of the remaining kidney",
@@ -669,7 +669,7 @@ const Test_CV3 = [
       },
       {
         "text": "A shortened ureter from failure of renal ascent",
-        "explanation": "Incorrect. Ureteral length tracks the kidney's ascent — a kidney that stays low, as in pelvic kidney, simply keeps a short ureter and functions normally; swallowing plays no role in this process. This would be the correct answer if the question had concerned a kidney that failed to rise from the pelvis."
+        "explanation": "Incorrect. Ureteral length tracks the kidney's ascent - a kidney that stays low, as in pelvic kidney, simply keeps a short ureter and functions normally; swallowing plays no role in this process. This would be the correct answer if the question had concerned a kidney that failed to rise from the pelvis."
       },
       {
         "text": "Premature disintegration of the mesonephric glomeruli",
@@ -688,7 +688,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "The adrenal glands descended with the kidneys, dragging them caudally into the lower abdomen",
-        "explanation": "Incorrect. The suprarenal glands never move — they are always where they are, which is precisely why they serve as the normal stopping point for renal ascent. This would be the correct answer in no scenario; the adrenals neither ascend nor descend with the kidneys."
+        "explanation": "Incorrect. The suprarenal glands never move - they are always where they are, which is precisely why they serve as the normal stopping point for renal ascent. This would be the correct answer in no scenario; the adrenals neither ascend nor descend with the kidneys."
       },
       {
         "text": "The two ureters were too short to permit any ascent out of the pelvis",
@@ -700,15 +700,15 @@ const Test_CV3 = [
       },
       {
         "text": "The fused kidney never developed because the ureteric buds failed to reach the blastema",
-        "explanation": "Incorrect. Failure of the ureteric bud to reach the metanephric blastema produces renal agenesis — no kidney at all — whereas this patient has a fully formed, functioning, fused kidney in a low position. This would be the correct answer if imaging had shown an absent kidney with contralateral hypertrophy."
+        "explanation": "Incorrect. Failure of the ureteric bud to reach the metanephric blastema produces renal agenesis - no kidney at all - whereas this patient has a fully formed, functioning, fused kidney in a low position. This would be the correct answer if imaging had shown an absent kidney with contralateral hypertrophy."
       },
       {
         "text": "The fused kidney was caught beneath the inferior mesenteric artery during its ascent",
-        "explanation": "Correct. In horseshoe kidney, the two kidneys are connected by mistake, and when the fused mass attempts its normal ascent it cannot rise very far because the inferior mesenteric artery stops it — so it gets stuck low. Importantly, the anomaly is asymptomatic: it does not hurt the kidneys, and the lecturer emphasized that a person with a horseshoe kidney can live a completely normal life and even be an Olympic athlete, which fits this competitive swimmer's incidental discovery."
+        "explanation": "Correct. In horseshoe kidney, the two kidneys are connected by mistake, and when the fused mass attempts its normal ascent it cannot rise very far because the inferior mesenteric artery stops it - so it gets stuck low. Importantly, the anomaly is asymptomatic: it does not hurt the kidneys, and the lecturer emphasized that a person with a horseshoe kidney can live a completely normal life and even be an Olympic athlete, which fits this competitive swimmer's incidental discovery."
       }
     ],
     "correctAnswerIndex": 4,
-    "clinicalPearl": "Horseshoe kidney: the fused kidneys are caught beneath the inferior mesenteric artery during ascent and sit low — typically asymptomatic and compatible with a fully normal, even athletic, life.",
+    "clinicalPearl": "Horseshoe kidney: the fused kidneys are caught beneath the inferior mesenteric artery during ascent and sit low - typically asymptomatic and compatible with a fully normal, even athletic, life.",
     "pdfPage": 30,
     "pdfQuote": "Fusion of the right and left metanephroi near midline"
   },
@@ -719,7 +719,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "A hydronephrotic kidney that has been pushed down into the pelvis by fluid accumulating within its distended ureter",
-        "explanation": "Incorrect. Hydronephrosis is a fluid-filled enlargement of the kidney with a bulging ureter — it changes the kidney's size and appearance, not its location, and it would not leave labs and urinalysis pristine. This would be the correct answer if the imaging had shown a dilated, fluid-distended collecting system rather than a normal kidney in a low position."
+        "explanation": "Incorrect. Hydronephrosis is a fluid-filled enlargement of the kidney with a bulging ureter - it changes the kidney's size and appearance, not its location, and it would not leave labs and urinalysis pristine. This would be the correct answer if the imaging had shown a dilated, fluid-distended collecting system rather than a normal kidney in a low position."
       },
       {
         "text": "Unilateral renal agenesis with a compensatory pelvic mass",
@@ -727,7 +727,7 @@ const Test_CV3 = [
       },
       {
         "text": "A pelvic kidney that failed to ascend; it functions normally and requires no treatment",
-        "explanation": "Correct. A kidney that does not rise during development is called a pelvic kidney: it remains low, next to the bladder, exactly where the metanephric kidney originally formed. There is no problem with this — it functions normally, and the person would never know without an X-ray or other imaging, which is precisely how this patient's kidney was discovered. No intervention is needed."
+        "explanation": "Correct. A kidney that does not rise during development is called a pelvic kidney: it remains low, next to the bladder, exactly where the metanephric kidney originally formed. There is no problem with this - it functions normally, and the person would never know without an X-ray or other imaging, which is precisely how this patient's kidney was discovered. No intervention is needed."
       },
       {
         "text": "A horseshoe kidney arrested by the inferior mesenteric artery",
@@ -735,11 +735,11 @@ const Test_CV3 = [
       },
       {
         "text": "A kidney displaced downward after being pushed off its pedicle by the adrenal gland",
-        "explanation": "Incorrect. The adrenal gland is stationary and marks where a normally ascending kidney stops; it never displaces a kidney downward. This would be the correct answer in no scenario taught in this lecture — the adrenal is the finish line of ascent, not a source of displacement."
+        "explanation": "Incorrect. The adrenal gland is stationary and marks where a normally ascending kidney stops; it never displaces a kidney downward. This would be the correct answer in no scenario taught in this lecture - the adrenal is the finish line of ascent, not a source of displacement."
       }
     ],
     "correctAnswerIndex": 2,
-    "clinicalPearl": "A pelvic kidney simply never ascended — it sits next to the bladder, functions normally, and is usually an incidental imaging finding requiring no treatment.",
+    "clinicalPearl": "A pelvic kidney simply never ascended - it sits next to the bladder, functions normally, and is usually an incidental imaging finding requiring no treatment.",
     "pdfPage": 31,
     "pdfQuote": "Failure of one kidney to ascend"
   },
@@ -750,11 +750,11 @@ const Test_CV3 = [
     "options": [
       {
         "text": "The mesonephric duct, whose remaining portion in the male becomes the epididymis and vas deferens",
-        "explanation": "Incorrect. The mesonephric duct does not disintegrate in the male — it thrives, persisting as the epididymis and vas deferens and contributing the trigone. The little leftover dot is what remains of the system that regressed. This would be the correct answer if the question had asked about the small red remnants seen next to the oviducts in females, which are disintegrating mesonephric parts."
+        "explanation": "Incorrect. The mesonephric duct does not disintegrate in the male - it thrives, persisting as the epididymis and vas deferens and contributing the trigone. The little leftover dot is what remains of the system that regressed. This would be the correct answer if the question had asked about the small red remnants seen next to the oviducts in females, which are disintegrating mesonephric parts."
       },
       {
         "text": "The paramesonephric (Mullerian) duct, which disintegrates in the male",
-        "explanation": "Correct. In the male embryo, the paramesonephric (Mullerian) duct does not interact with the testis and disintegrates, but it leaves a little hint that it was there — the appendix of the testis, a small dot on the testis visible in the dissection lab. This is the mirror image of the female, where small red remnants of the regressing mesonephric system persist beside the oviducts. Both duct systems exist in both sexes early on, and each sex retains one while the other regresses to a vestige."
+        "explanation": "Correct. In the male embryo, the paramesonephric (Mullerian) duct does not interact with the testis and disintegrates, but it leaves a little hint that it was there - the appendix of the testis, a small dot on the testis visible in the dissection lab. This is the mirror image of the female, where small red remnants of the regressing mesonephric system persist beside the oviducts. Both duct systems exist in both sexes early on, and each sex retains one while the other regresses to a vestige."
       },
       {
         "text": "The pronephros, the primitive neck kidney",
@@ -762,7 +762,7 @@ const Test_CV3 = [
       },
       {
         "text": "The ureteric bud, the branch that forms the collecting system",
-        "explanation": "Incorrect. The ureteric bud is a working branch of the mesonephric duct that builds the ureter, pelvis, calyces, and collecting ducts — it does not regress into a testicular vestige. This would be the correct answer if the question had asked about the origin of the renal collecting system."
+        "explanation": "Incorrect. The ureteric bud is a working branch of the mesonephric duct that builds the ureter, pelvis, calyces, and collecting ducts - it does not regress into a testicular vestige. This would be the correct answer if the question had asked about the origin of the renal collecting system."
       },
       {
         "text": "The urogenital sinus, the anterior chamber of the cloaca",
@@ -781,11 +781,11 @@ const Test_CV3 = [
     "options": [
       {
         "text": "When one duct system begins to disintegrate",
-        "explanation": "Incorrect. Duct regression is a late, visible consequence of a decision made much earlier — the disappearing system was doomed from the start. This would be the correct answer if sex were decided at the time we can first see anatomic divergence, but the lecturer stresses that the embryo's cells knew all along."
+        "explanation": "Incorrect. Duct regression is a late, visible consequence of a decision made much earlier - the disappearing system was doomed from the start. This would be the correct answer if sex were decided at the time we can first see anatomic divergence, but the lecturer stresses that the embryo's cells knew all along."
       },
       {
         "text": "When the gonads first become identifiable as testes or ovaries on ultrasound examination",
-        "explanation": "Incorrect. Visible gonadal differentiation is when we outside observers can finally tell the sex, not when it is determined. The lecturer's point is exactly this gap: we are looking from far away with a microscope, but the embryo is not confused — it is just not talking to us. This would be the correct answer if determination and detection were the same event."
+        "explanation": "Incorrect. Visible gonadal differentiation is when we outside observers can finally tell the sex, not when it is determined. The lecturer's point is exactly this gap: we are looking from far away with a microscope, but the embryo is not confused - it is just not talking to us. This would be the correct answer if determination and detection were the same event."
       },
       {
         "text": "At implantation into the wall of the uterus",
@@ -793,7 +793,7 @@ const Test_CV3 = [
       },
       {
         "text": "At the moment of fertilization",
-        "explanation": "Correct. The decision is made at the moment of fertilization — that is exactly when sex is determined. The presence of both duct systems does not mean the embryo is undecided: the embryo's cells know very well what the future will be, but they are not telling us, and we only infer ambiguity because we see both systems from the outside. Each sex will keep one duct system and let the other regress to a vestige such as the appendix of the testis."
+        "explanation": "Correct. The decision is made at the moment of fertilization - that is exactly when sex is determined. The presence of both duct systems does not mean the embryo is undecided: the embryo's cells know very well what the future will be, but they are not telling us, and we only infer ambiguity because we see both systems from the outside. Each sex will keep one duct system and let the other regress to a vestige such as the appendix of the testis."
       },
       {
         "text": "During formation of the urogenital sinus",
@@ -801,18 +801,18 @@ const Test_CV3 = [
       }
     ],
     "correctAnswerIndex": 3,
-    "clinicalPearl": "Both duct systems exist in every early embryo, but sex is determined at the moment of fertilization — the embryo's cells 'know' long before we can see it.",
+    "clinicalPearl": "Both duct systems exist in every early embryo, but sex is determined at the moment of fertilization - the embryo's cells 'know' long before we can see it.",
     "pdfPage": 8,
     "pdfQuote": "Mesonephric duct or Wolffian duct"
   },
   {
     "id": 27,
     "category": "Anatomy: Urogenital Junction",
-    "questionText": "During a discussion of terminology, the lecturer asked the class where the urinary and genital systems actually meet — the anatomic justification for calling this one 'urogenital' system, as it is known in France, England, Germany, and every textbook. In the male, at which site do the two systems connect?",
+    "questionText": "During a discussion of terminology, the lecturer asked the class where the urinary and genital systems actually meet - the anatomic justification for calling this one 'urogenital' system, as it is known in France, England, Germany, and every textbook. In the male, at which site do the two systems connect?",
     "options": [
       {
         "text": "At the trigone of the bladder, where the ureters enter",
-        "explanation": "Incorrect. The trigone is where the ureters and the urinary stream converge within the bladder — an entirely urinary junction with no reproductive inflow. This would be the correct answer if the question had asked where the mesonephric-derived patch and ureteric orifices sit within the bladder."
+        "explanation": "Incorrect. The trigone is where the ureters and the urinary stream converge within the bladder - an entirely urinary junction with no reproductive inflow. This would be the correct answer if the question had asked where the mesonephric-derived patch and ureteric orifices sit within the bladder."
       },
       {
         "text": "At the tip of the penis, where the urethra opens externally",
@@ -820,7 +820,7 @@ const Test_CV3 = [
       },
       {
         "text": "Within the epididymis, where sperm collect after forming in the testis by meiosis",
-        "explanation": "Incorrect. The epididymis is purely reproductive plumbing — mesonephric duct territory conducting sperm toward the vas deferens — and carries no urine. This would be the correct answer if the question had asked where sperm are gathered before entering the vas deferens."
+        "explanation": "Incorrect. The epididymis is purely reproductive plumbing - mesonephric duct territory conducting sperm toward the vas deferens - and carries no urine. This would be the correct answer if the question had asked where sperm are gathered before entering the vas deferens."
       },
       {
         "text": "Inside the vas deferens, midway along its course",
@@ -828,7 +828,7 @@ const Test_CV3 = [
       },
       {
         "text": "At the orifice of the prostatic utricle, inside the prostate",
-        "explanation": "Correct. The connection is inside the prostate: the bladder sits above the prostate, and within the prostate lies a little tube with a small opening — the orifice of the prostatic utricle — which is exactly where the genital part connects to the urinary tract. The reproductive fluid enters there and mixes with the urine passing on either side of this tube, and that union is why the system is called urogenital. In the female, the equivalent connection is where the urethra empties at the front of the vagina."
+        "explanation": "Correct. The connection is inside the prostate: the bladder sits above the prostate, and within the prostate lies a little tube with a small opening - the orifice of the prostatic utricle - which is exactly where the genital part connects to the urinary tract. The reproductive fluid enters there and mixes with the urine passing on either side of this tube, and that union is why the system is called urogenital. In the female, the equivalent connection is where the urethra empties at the front of the vagina."
       }
     ],
     "correctAnswerIndex": 4,
@@ -839,19 +839,19 @@ const Test_CV3 = [
   {
     "id": 28,
     "category": "Embryology: Bud-Blastema Interaction",
-    "questionText": "An infant is evaluated for a congenital renal malformation. Imaging and histology reveal grossly abnormal, poorly branched collecting ducts, a malformed renal pelvis, and distorted calyces. In striking contrast, the individual nephron components — Bowman's capsules, proximal and distal convoluted tubules, and loops of Henle — appear well formed wherever they connect to patent collecting tubules. A defect in the differentiation of which embryonic structure best explains this pattern?",
+    "questionText": "An infant is evaluated for a congenital renal malformation. Imaging and histology reveal grossly abnormal, poorly branched collecting ducts, a malformed renal pelvis, and distorted calyces. In striking contrast, the individual nephron components - Bowman's capsules, proximal and distal convoluted tubules, and loops of Henle - appear well formed wherever they connect to patent collecting tubules. A defect in the differentiation of which embryonic structure best explains this pattern?",
     "options": [
       {
         "text": "The metanephric blastema, which condenses to form the excretory portion of the nephron",
-        "explanation": "Incorrect. The blastema-derived excretory structures — Bowman's capsule, the convoluted tubules, and the loop of Henle — are precisely the parts that formed well in this infant. This would be the correct answer if the biopsy had shown malformed nephrons draining into a normally branched collecting system, the mirror image of this case."
+        "explanation": "Incorrect. The blastema-derived excretory structures - Bowman's capsule, the convoluted tubules, and the loop of Henle - are precisely the parts that formed well in this infant. This would be the correct answer if the biopsy had shown malformed nephrons draining into a normally branched collecting system, the mirror image of this case."
       },
       {
         "text": "The ureteric bud, which forms the collecting portion of the kidney",
-        "explanation": "Correct. Every abnormal structure in this infant — collecting ducts, renal pelvis, and calyces — belongs to the collecting portion, which differentiates from the ureteric bud, the powerful little branch of the mesonephric duct. The spared structures all belong to the excretory portion formed by the metanephric blastema. Because the two systems form separately and then join between the distal convoluted tubule and the collecting tubule, a lesion can selectively affect one lineage, exactly as seen here."
+        "explanation": "Correct. Every abnormal structure in this infant - collecting ducts, renal pelvis, and calyces - belongs to the collecting portion, which differentiates from the ureteric bud, the powerful little branch of the mesonephric duct. The spared structures all belong to the excretory portion formed by the metanephric blastema. Because the two systems form separately and then join between the distal convoluted tubule and the collecting tubule, a lesion can selectively affect one lineage, exactly as seen here."
       },
       {
         "text": "The paramesonephric duct, the source of the oviduct",
-        "explanation": "Incorrect. The paramesonephric duct belongs to the genital system — per the lecturer it arises from the uterus and forms the oviduct — and contributes nothing to the kidney. This would be the correct answer if the malformation had involved the female genital tract rather than the renal collecting system."
+        "explanation": "Incorrect. The paramesonephric duct belongs to the genital system - per the lecturer it arises from the uterus and forms the oviduct - and contributes nothing to the kidney. This would be the correct answer if the malformation had involved the female genital tract rather than the renal collecting system."
       },
       {
         "text": "The urogenital sinus, which forms the bladder and urethra",
@@ -874,7 +874,7 @@ const Test_CV3 = [
     "options": [
       {
         "text": "The suprarenal arteries, supplied by the gland that normally stops the ascent",
-        "explanation": "Incorrect. The adrenal gland marks the finish line of a completed ascent; a kidney that never rose never came anywhere near it, and the adrenal does not lend its vessels to the kidney. This would be the correct answer in no scenario — the adrenal's role in this story is positional, not vascular."
+        "explanation": "Incorrect. The adrenal gland marks the finish line of a completed ascent; a kidney that never rose never came anywhere near it, and the adrenal does not lend its vessels to the kidney. This would be the correct answer in no scenario - the adrenal's role in this story is positional, not vascular."
       },
       {
         "text": "A single renal artery arising from the aorta at the usual adult level, elongated downward to reach the pelvis",
@@ -882,7 +882,7 @@ const Test_CV3 = [
       },
       {
         "text": "Nearby pelvic vessels such as the internal iliac artery",
-        "explanation": "Correct. The lecture teaches that when the kidney was down low, it was supplied by the internal iliac, then by vessels at successive levels — the region of the common iliac and upward — revascularizing itself on the way up until the aorta supplies it at its final position. A kidney that never ascends therefore keeps the blood supply of its low position: nearby pelvic vessels such as the internal iliac artery. Its function is entirely normal; only its location and vascular origin differ."
+        "explanation": "Correct. The lecture teaches that when the kidney was down low, it was supplied by the internal iliac, then by vessels at successive levels - the region of the common iliac and upward - revascularizing itself on the way up until the aorta supplies it at its final position. A kidney that never ascends therefore keeps the blood supply of its low position: nearby pelvic vessels such as the internal iliac artery. Its function is entirely normal; only its location and vascular origin differ."
       },
       {
         "text": "The inferior mesenteric artery, which caps the ascent of fused kidneys",
@@ -901,15 +901,15 @@ const Test_CV3 = [
   {
     "id": 30,
     "category": "Embryology: The Composite Kidney",
-    "questionText": "The lecturer called the adult kidney a 'conglomerate': recycled mesonephric plumbing joined to newly formed metanephric excretory units, with the book 'not making this very clear.' A developmental biologist mapping embryonic lineages across an adult kidney — from the glomeruli, through the tubules, out to the ureter — would correctly assign which of the following pairings?",
+    "questionText": "The lecturer called the adult kidney a 'conglomerate': recycled mesonephric plumbing joined to newly formed metanephric excretory units, with the book 'not making this very clear.' A developmental biologist mapping embryonic lineages across an adult kidney - from the glomeruli, through the tubules, out to the ureter - would correctly assign which of the following pairings?",
     "options": [
       {
         "text": "Calyces and collecting ducts to the mesonephric system; glomeruli and convoluted tubules to the metanephric blastema",
-        "explanation": "Correct. The tubing of the adult kidney — collecting tubules, collecting ducts, minor and major calyces, renal pelvis, and ureter — derives from the mesonephric system by way of the ureteric bud, while the metanephric blastema contributes the excretory units: Bowman's capsule, the proximal and distal convoluted tubules, and the loop of Henle, along with the new glomeruli. The two lineages meet between the distal convoluted tubule and the collecting tubule. This is exactly why the metanephric kidney 'contains a lot of mesonephric stuff in it.'"
+        "explanation": "Correct. The tubing of the adult kidney - collecting tubules, collecting ducts, minor and major calyces, renal pelvis, and ureter - derives from the mesonephric system by way of the ureteric bud, while the metanephric blastema contributes the excretory units: Bowman's capsule, the proximal and distal convoluted tubules, and the loop of Henle, along with the new glomeruli. The two lineages meet between the distal convoluted tubule and the collecting tubule. This is exactly why the metanephric kidney 'contains a lot of mesonephric stuff in it.'"
       },
       {
         "text": "Glomeruli and collecting ducts to the mesonephric system; calyces and convoluted tubules to the metanephric blastema",
-        "explanation": "Incorrect. This scrambles the two lineages: the calyces belong with the collecting ducts on the mesonephric side, and the glomeruli belong with the convoluted tubules on the metanephric side. This would be the correct answer if each system had contributed a mixture of collecting and excretory elements, but the split is clean — plumbing versus filtration."
+        "explanation": "Incorrect. This scrambles the two lineages: the calyces belong with the collecting ducts on the mesonephric side, and the glomeruli belong with the convoluted tubules on the metanephric side. This would be the correct answer if each system had contributed a mixture of collecting and excretory elements, but the split is clean - plumbing versus filtration."
       },
       {
         "text": "The entire kidney, from glomerulus to ureter, to the metanephric blastema alone, with no mesonephric contribution whatsoever",
@@ -921,7 +921,7 @@ const Test_CV3 = [
       },
       {
         "text": "Glomeruli and convoluted tubules to the mesonephric system; calyces and collecting ducts to the metanephric blastema",
-        "explanation": "Incorrect. This is the exact reversal of the true arrangement — a classic exam trap. The mesonephric contribution is the collecting plumbing, not the filtering units; the blastema builds the nephron's excretory portion, not the calyces. This would be the correct answer if the ureteric bud had condensed into nephrons while the blastema branched into ducts, the opposite of the interaction described."
+        "explanation": "Incorrect. This is the exact reversal of the true arrangement - a classic exam trap. The mesonephric contribution is the collecting plumbing, not the filtering units; the blastema builds the nephron's excretory portion, not the calyces. This would be the correct answer if the ureteric bud had condensed into nephrons while the blastema branched into ducts, the opposite of the interaction described."
       }
     ],
     "correctAnswerIndex": 0,
