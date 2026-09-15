@@ -2482,7 +2482,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // 4. Create Test Object
         const timeAttackTest = {
             name: "Time Attack",
-            displayName: "⚡ Time Attack (5 min)",
+            displayName: `⚡ Time Attack (${TIME_ATTACK_DURATION / 60} min)`,
             data: selectedQuestions
         };
 
