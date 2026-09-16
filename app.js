@@ -914,12 +914,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 // VALIDATION: Ensure mismatch in question count triggers reset (e.g. after content update)
                 if (state.userAnswers.length !== state.questions.length) {
                     console.warn("State mismatch detected (Question Count changed). Resetting progress.");
+                    // Same shape as a fresh test below: displayQuestion reads highlights.question, so a
+                    // record without it crashes the moment a changed test is reopened.
                     state.userAnswers = Array(state.questions.length).fill(null).map(() => ({
                         selectedIndex: null,
                         isSubmitted: false,
                         isCorrect: false,
                         strikedOutIndices: new Set(),
-                        highlightedIndices: new Set()
+                        highlights: { question: null, options: {} }
                     }));
                     state.flaggedQuestions = new Set();
                     state.currentQuestionIndex = 0;
