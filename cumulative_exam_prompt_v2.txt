@@ -1,0 +1,348 @@
+WEEKLY EXAM GENERATION PROMPT v2 - ONE CURRICULUM WEEK, 40 ITEMS
+
+One run produces ONE weekly exam file covering every lecture in one curriculum week. It is built on
+question_generation_prompt_v6.txt: the same scope rules, high-yield gate, item-writing standards and
+text rules, but a single mixed exam rather than two sets per lecture. Where this prompt and v6
+disagree, this prompt wins for weekly exams.
+
+  40 items per week.
+  Every non-OMM lecture: about 60% first-order RECALL items and 40% second/third-order BOARD items,
+    with at least one of each whenever the lecture has two or more items and supports an application.
+  OMM lectures: RECALL items only.
+  High-yield points only. Zero arithmetic. Every lab value given with its normal range.
+  Target answering time: about 16 minutes (recall about 18 seconds, board about 33 seconds).
+
+The weekly exam is a review tool. It must be fast and fair. The exams this replaces failed because
+items were far too long and hard, chased low-yield details, required arithmetic, and gave lab values
+without saying what was abnormal. Every rule below exists to prevent one of those failures.
+
+
+**INPUTS (per lecture in the week)**
+- The lecture PDF itself, not only extracted text: extraction drops bold, and some decks are
+  image-only (CV11 carries text on 1 of 68 slides). Read image-only slides visually.
+- The raw .srt transcript with timestamps, for dwell and verbal emphasis. Transcripts mis-transcribe
+  technical terms; the slide spelling always wins.
+- If a lecture has no transcript, say so in Part 1. Its points can qualify on slide signals alone
+  (S1, S2 or S3 required); S5, S6 and S7 are unavailable.
+- Confirm every deck by its title page. Lecture numbering restarts per course, so a number alone
+  never identifies a deck.
+
+
+**WHEN RULES CONFLICT**
+Priority: (1) scope; (2) accuracy and one best answer; (3) the high-yield gate; (4) every other rule;
+(5) counts and quotas. Miss a quota rather than leave scope, and report every shortfall in Part 1.
+Answer balance is never waived.
+
+
+**SCOPE (every item)**
+- INTERSECTION RULE: test only concepts that are on a slide AND explained in the transcript (slide
+  signals alone when no transcript exists, as above).
+- THE LECTURE DECIDES THE ANSWER. The testing point, the key, and the reason each distractor is worse
+  all come from that item's lecture. Outside knowledge may supply only scenery in a board vignette
+  (typical history, vital-sign format, generic drug names) and connecting words in explanations.
+- NO FUTURE CONCEPTS. Nothing from later courses or outside reading. Test at the depth taught.
+- Do not key a simplified, absolute or apparently outdated lecture statement. Test the underlying
+  principle or skip it, and report it.
+- Nothing from a slide marked "not tested", "beyond the scope", "optional" or "for your interest",
+  or verbally de-scoped by the lecturer.
+
+
+**STEP 1 - HIGH-YIELD INVENTORY (per lecture)**
+Classify every page: FRONT (title, objectives), CONTENT, BACK (references, feedback), QUESTION (the
+deck's own practice item), or SKIPPED (no usable content, or de-scoped).
+
+List testable points: one specific fact, rule, mechanism, relationship or clinical association per
+point, zero to three per CONTENT page, most pages one or none. A point needs at least one signal:
+
+  S1 OBJECTIVE     named on the learning-objectives slide - the specific concept, not merely the
+                   broad topic an objective sits under
+  S2 SUMMARY       restated on a summary, key points or take-home slide
+  S3 DECK QUESTION what the deck's own practice question tests
+  S4 BOLD          bold on the slide, if the deck passes the bold check
+  S5 VERBAL        "really important", "remember this", "you need to know", "on the boards",
+                   "high yield"
+  S6 DWELL         the lecturer spends about 1.5x the deck's average time per content slide on it
+  S7 REPEATED      the same specific claim restated at two separated points
+
+- BOLD CHECK: if more than roughly 40% of the deck's body text is bold, bold is the body style;
+  drop S4 for that deck. CV4, CV6, CV9, CV10, CV14 and CV15 are around 90%.
+- NEGATION GUARD: read around every flag. "That's not particularly high yield" and "that's just for
+  the USMLE" are exclusions. One announced sentence the lecturer never develops counts once.
+- Never list dated absolutes, historical figures, years, eponym trivia, exact numbers that are not
+  bold or an objective or repeated, or values readable only off a graph axis.
+
+Score each point:
+  YIELD 3  two or more signals including a slide signal (S1-S4) and a transcript signal (S5-S7)
+  YIELD 2  two signals of any kind, OR S1, S2, S3 or S5 alone
+  YIELD 1  one weaker signal: S4, S6 or S7 alone
+ONLY YIELD 2 AND 3 POINTS ARE TESTABLE. An item on a yield-1 point is a defect even if it is
+otherwise perfect. Prefer yield-3 points; use a yield-2 point only when a lecture's yield-3 points are
+used up or would cluster on one slide.
+
+Mark each point BOARD-SUITABLE when it supports a patient-centered application: findings that lead
+to a mechanism, an expected lab or hemodynamic pattern, a predicted direction of change, an adverse
+effect, a complication, or a next step. Pure definitions, histology identification, embryology naming
+and technique steps are not. OMM points are never board-suitable.
+
+
+**STEP 2 - ALLOCATION (40 items across the week)**
+1. Weight each lecture by its count of yield 2-3 points. OMM lectures weigh 0.6 of that.
+2. Give each lecture 2 items (fewer only if it has fewer yield 2-3 points).
+3. Hand out the remaining items one at a time to the lecture with the highest weight / (items so far
+   + 1), never past a cap of 7 per non-OMM lecture, 4 per OMM lecture, or the lecture's count of
+   yield 2-3 points.
+4. Within each non-OMM lecture with n items: board = round(0.4 x n), at least 1 when n is 2 or more
+   and the lecture has a board-suitable point, never more than its board-suitable points, and always
+   leaving at least one recall item. OMM lectures: board = 0.
+5. If the week cannot reach 40 with yield 2-3 points, write fewer and report the shortfall.
+
+
+====================================================================
+RECALL ITEMS (first-order)
+====================================================================
+
+**FORM**
+1. One fact, one question, no inference chain.
+2. No patient: no age, sex, vital signs, labs or case. A bare clinical noun is allowed only when it IS
+   the lecture content.
+3. Default shape is a declarative subject with a short interrogative tail: "Intrinsic factor is
+   secreted by which of the following cell types?" Reserve "Which of the following..." for genuine
+   list discrimination.
+4. Cover-the-options: a prepared student can state the answer with the options hidden.
+5. Do not repeat a distinctive stem word or its root in the key unless every option uses it.
+
+**WORD BUDGET (hard caps)**
+  stem                  at most 25 words, target 15
+  each option           at most 8 words, target 6
+  correct explanation   "Correct." then 2 sentences, at most 45 words
+  each incorrect expl.  at most 22 words INCLUDING the pivot sentence
+  clinicalPearl         at most 25 words after "Key takeaway: "
+
+**OPTIONS**
+A noun phrase with an optional brief appositive, so all five share one silhouette: "Albumin, made by
+the liver" / "Fibrinogen, a clotting protein" / "Immunoglobulin G antibody". Write distractors in the
+key's register; the key must not be the only option that copies slide wording.
+
+**EXPLANATIONS**
+Correct option: "Correct." then the fact and the one contrast that matters.
+Each incorrect option: "Incorrect." then one clause naming what the option actually is, then
+"This would be the correct answer if the question had asked about ...". In a recall item this pivot
+form is preferred: the identity of the wrong option is a second fact at almost no reading cost.
+
+At least 40% of recall items should be answered by a direction, relationship or variable (increases,
+shifts right, is inversely proportional to) rather than a name or value.
+
+
+====================================================================
+BOARD ITEMS (second/third-order)
+====================================================================
+
+**ITEM STANDARD**
+1. Application: the stem requires at least one inference, from findings to an unstated state, then
+   to the asked task. Keep the chain to one or two steps. This is review, not a trap.
+2. Cover-the-options: answerable from the stem and lead-in with the options hidden.
+3. Patient-centered: open with the patient. A data-only scenario (a described tracing or
+   pressure-volume loop) is allowed only when interpreting that data is the testing point, and at
+   most 2 per exam.
+4. Hide what is asked: name what the patient has or was given when that is context, but never name
+   the state the student must infer, and never label a finding with its interpretation.
+5. Mechanism-first for pharmacology and pathology: describe the effect, adverse effect or finding
+   without naming the drug class or disease being tested, unless the lecture's point IS the name.
+6. Distractors fall to reasoning, not word matching. Include one fair strongest competitor that
+   experts would rank second.
+7. Accuracy: numbers and findings internally consistent and plausible (EDV = ESV + SV; no therapy the
+   vignette's own data contraindicate).
+
+**VIGNETTE FORMAT**
+- Order, omitting what is not needed: age and sex; site of care; complaint and duration; history;
+  examination; diagnostic studies; treatment and course.
+- Vital signs in one sentence, and only the ones that matter: "Temperature is 37.2 C (99.0 F), pulse
+  is 112/min, respirations are 24/min, and blood pressure is 96/60 mm Hg."
+- Describe raw findings in words ("ST-segment elevation in leads II, III, and aVF"), because the app
+  shows no images; never the interpretation when inferring it is the task.
+- Generic drug names. Patients give a truthful history.
+
+**LEAD-IN**
+One closed question about this patient, ending in "?", usually with a superlative. Forbidden:
+"Which statement...", EXCEPT, NOT, LEAST, two questions in one, "both X and Y", stems ending in ":".
+Vary the task: mechanism or cause, expected finding or lab pattern, predicted direction of change,
+adverse effect, complication, next step.
+
+**WORD BUDGET (hard caps)**
+  stem                  at most 65 words, target 50 - shorter is better
+  each option           at most 12 words, target 1-6
+  correct explanation   "Correct." then 3-4 sentences, at most 60 words
+  each incorrect expl.  at most 35 words INCLUDING the pivot sentence
+  clinicalPearl         at most 30 words after "Key takeaway: "
+
+**OPTIONS**
+Short parallel noun phrases, capitalized, no final period. One element per option: no "so", "since",
+"because", "which" or "leading to" clauses; no semicolons or parentheses. Sets of findings (blood gas,
+electrolyte, hemodynamic patterns) list the same variables in the same order and format in every
+option. Numeric options share one format and units, in ascending order.
+
+**EXPLANATIONS**
+Correct option: "Correct." then the testing point, the chain from this vignette's findings to the
+answer, and why the strongest competitor is worse, named by its content.
+Each incorrect option: "Incorrect." then why it is wrong FOR THIS PATIENT citing the findings that make
+it worse, then "This would be the correct answer if" naming a REAL CLINICAL SETTING or data pattern.
+The "if the question had asked..." form is FORBIDDEN in board items, as are counterfactual definitions
+and counterfactual identities: the pivot varies the patient, not the question.
+
+
+====================================================================
+RULES FOR BOTH ITEM TYPES
+====================================================================
+
+**LAB VALUES (stricter than NBME style, and non-negotiable)**
+- Every lab value in a stem carries its normal range immediately after it: "a serum potassium of
+  6.1 mEq/L (N=3.5-5.0)". This includes basic metabolic panel, CBC, blood gas values and pH. Vital
+  signs need no range.
+- Never label a value high or low in the stem, but the CORRECT explanation must say which given
+  values are abnormal and what each abnormality indicates.
+- Include a lab value only when it is needed to reach the answer.
+
+**NUMBERS**
+- ZERO arithmetic in any item. Never ask the student to calculate, estimate a ratio, or combine numbers.
+- Recall stems contain fewer than three numbers.
+- At most 3 recall items and at most 1 board item per exam are keyed on an exact number, and only on a
+  threshold that is bold, an objective, or repeated by the lecturer.
+- At most 4 board stems contain three or more numbers, not counting the age and "(N=...)" ranges.
+- Permanently banned: percentage-guessing options, counting criteria, list positions, obscure
+  eponyms, values readable only off a graph axis, years and historical figures.
+
+**OPTIONS**
+- Exactly 5, one category and one grammatical form, each directly answering the stem.
+- No absolute terms (always, never, only, must, cannot, completely, purely) in any option.
+- No "None of the above" or "All of the above", no opposite pairs, no collectively exhaustive sets
+  (increased / decreased / no change), no two options meaning the same thing.
+- Every distractor is a real thing from the lecture or a common misconception, never filler.
+
+**VOICE AND TEXT**
+- Standalone: never refer to another item ("the same patient", "described earlier"). Review modes
+  shuffle items from many exams together.
+- No classroom or source framing anywhere: no students, instructors or lecturers, no "the lecture
+  said", no "according to".
+- Plain ASCII only in every field: write "C", "beta-1", "alpha", "mcg", "->", "-", "x", "at least",
+  "PCO2", "HCO3-". Never the "<" character; the app injects text as HTML, so write "less than".
+
+**CATEGORY**
+Recall items "Topic: Subtopic"; board items "System: Topic". Reuse strings within a lecture: one or
+two distinct categories per item type per lecture. The performance summary groups by exact string.
+
+**CLINICAL PEARL**
+Starts with the literal "Key takeaway: " and states the item's testing point as one standalone,
+transferable rule. It uses only facts already in that item's correct explanation.
+
+
+====================================================================
+EXAM-LEVEL RULES
+====================================================================
+
+**ORDER**
+Interleave the lectures round-robin, taking each lecture's items in slide order, so recall and board
+items mix and no lecture arrives as a block.
+
+**ANSWER BALANCE**
+- Position: exactly 8 keys per letter A-E. No letter keyed three times in a row, and no repeating
+  cycle such as A, B, C, D, E, A, B, C.
+- Length is the character count of the option text. The key is "longest" when it has more
+  characters than every distractor and "shortest" when it has fewer than every distractor; ties count
+  as neither. Across the 40 items the key must be longest in 5-11 AND shortest in 5-11. A key that is
+  never longest is itself a tell.
+- Method: write all five options to the form rules, then count. If a count falls outside 5-11,
+  rephrase within the form rules; never pad or clip with filler. After rephrasing, recheck that no
+  distractor became defensible and that meaning did not drift.
+
+**NO LEAKAGE**
+- No option string appears in two different items; one item's key is never another's distractor.
+- No two items share three or more option strings.
+
+**PER-LECTURE BREAKDOWN**
+The summary screen scores a finished weekly exam by lecture, keyed on the lecture id in lectureSource.
+Every item's lectureSource must name its own lecture exactly, or a missed item is reported under the
+wrong lecture.
+
+
+**SCHEMA**
+Every item carries, in this order: id, category, questionText, options (exactly 5, each {text,
+explanation}), correctAnswerIndex, clinicalPearl, lectureSource, pdfLecture, pdfPage, pdfQuote,
+itemType.
+- id: sequential integer from 1.
+- correctAnswerIndex (0-4) points to the option whose explanation starts "Correct.".
+- lectureSource: "CV7: Lecture Title", identical for every item from that lecture.
+- pdfLecture: the scripts/pdf_mapping.js key for that lecture, on every item.
+- pdfPage: the page, as a PDF viewer counts, where the keyed fact is PRIMARILY TAUGHT - not an
+  objectives or summary page when a teaching page exists, and not a question page.
+- pdfQuote: 2-10 words copied verbatim from that page, unique on it; prefer the slide title. Avoid
+  spans with subscripts or superscripts. On an image-only page with no extractable text, use "" and
+  report it. The app never renders pdfQuote; it is the audit anchor.
+- itemType: "recall" or "board".
+- Strict JSON inside the array: double-quoted keys and strings, no trailing commas, no comments.
+
+
+====================================================================
+OUTPUT FORMAT
+====================================================================
+
+**PART 1: PLANNING** (all of it, before any code)
+
+1. Lectures - one row per lecture: id | title | PDF filename | title page verified | transcript
+   (timestamped / text only / none) | bold density and whether S4 was used | OMM yes or no.
+2. Inventory summary - one row per lecture: content pages | skipped pages with reasons | yield-3,
+   yield-2 and board-suitable point counts.
+3. Allocation - one row per lecture: items | recall | board, with the arithmetic from Step 2, and any
+   shortfall.
+4. Item table - one row per item: id | lecture | itemType | pdfPage | testing point | signals |
+   verbatim evidence (a slide phrase or a 6-20 word transcript phrase) | planned key letter.
+5. Tallies:
+     items (40); recall and board totals; per lecture recall/board, OMM board = 0;
+     keys per letter (8 each); longest run of one letter (at most 2); key-longest (5-11);
+     key-shortest (5-11); longest recall stem (25 words) and option (8); longest board stem (65) and
+     option (12); longest correct explanation (recall 45, board 60); longest incorrect explanation
+     (recall 22, board 35); arithmetic items (0); lab values without "(N=...)" (0); recall stems with
+     3+ numbers (0); number-keyed items (recall 3, board 1); board stems with 3+ numbers (4);
+     data-only board items (2); shared option strings (0); ASCII only; no "<"; every explanation
+     starts "Correct." or "Incorrect."; every incorrect explanation contains "This would be the
+     correct answer if"; no board pivot uses "if the question"; every pearl starts "Key takeaway: ".
+6. Scope report - skipped slides and why; quotas missed and why; simplified or outdated statements
+   and how each was handled; image-only pages used.
+
+**PART 2: ONE JAVASCRIPT CODE BLOCK**
+
+```javascript
+// CPR Block 1 - Week N Cumulative Exam (Lectures CVa-CVb)
+const Test_Cumulative_CPR_WkN = [
+  {
+    "id": 1,
+    "category": "Renal Physiology: Glomerular Filtration",
+    "questionText": "Constriction of the efferent arteriole has which effect on glomerular filtration rate?",
+    "options": [
+      { "text": "Decreases it", "explanation": "Incorrect. ... This would be the correct answer if the question had asked about afferent arteriolar constriction." },
+      { "text": "Increases it", "explanation": "Correct. ..." },
+      { "text": "...", "explanation": "Incorrect. ... This would be the correct answer if ..." },
+      { "text": "...", "explanation": "Incorrect. ... This would be the correct answer if ..." },
+      { "text": "...", "explanation": "Incorrect. ... This would be the correct answer if ..." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Key takeaway: ...",
+    "lectureSource": "CV7: GFR, Renal Blood Flow and Clearance",
+    "pdfLecture": "CV7",
+    "pdfPage": 14,
+    "pdfQuote": "Verbatim slide title",
+    "itemType": "recall"
+  }
+];
+
+window.Test_Cumulative_CPR_WkN = Test_Cumulative_CPR_WkN;
+```
+
+**PART 3: REGISTRATION**
+- Replace the existing file of the same name. Keep the existing config.js entry unchanged, e.g.
+  { name: "Cardio-WEEK 1 CUMULATIVE EXAM (CV1-10)", data: window.Test_Cumulative_CPR_Wk1 }.
+  The test name is the permanent localStorage progress key: renaming it wipes students' scores.
+- Changing an exam's question count resets saved progress for that exam automatically (app.js
+  discards saved answers when the count differs), so a rebuilt 40-item exam never shows old answers
+  against new questions. If a rebuild keeps the SAME count, saved answers would land on the new
+  questions: change the count or clear that exam's progress.
+- index.html already loads the file. Bump the file's query-string version if one is present.
