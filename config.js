@@ -406,6 +406,12 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Myocardial Infarction [Boards] (CV66)", data: window.Test_CV66_Boards },
     { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Recall] (CV67)", data: window.Test_CV67_Recall },
     { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Boards] (CV67)", data: window.Test_CV67_Boards },
+    { name: "Cardio-Pharmacology: Management of Dyslipidemias [Recall] (CV72)", data: window.Test_CV72_Recall },
+    { name: "Cardio-Pharmacology: Management of Dyslipidemias [Boards] (CV72)", data: window.Test_CV72_Boards },
+    { name: "Cardio-Clinical Medicine: ACS and MI Part II [Recall] (CV75)", data: window.Test_CV75_Recall },
+    { name: "Cardio-Clinical Medicine: ACS and MI Part II [Boards] (CV75)", data: window.Test_CV75_Boards },
+    { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Recall] (CV78)", data: window.Test_CV78_Recall },
+    { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Boards] (CV78)", data: window.Test_CV78_Boards },
 ];
 
 if (typeof window !== "undefined") {
