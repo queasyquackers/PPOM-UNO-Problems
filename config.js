@@ -407,6 +407,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Recall] (CV67)", data: window.Test_CV67_Recall },
     { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Boards] (CV67)", data: window.Test_CV67_Boards },
     { name: "Cardio-WEEK 7 CUMULATIVE EXAM (CV58-67)", data: window.Test_Cumulative_CPR_Wk7 },
+    { name: "Cardio-Pharmacology: Angina Pectoris [Recall] (CV71)", data: window.Test_CV71_Recall },
+    { name: "Cardio-Pharmacology: Angina Pectoris [Boards] (CV71)", data: window.Test_CV71_Boards },
     { name: "Cardio-Pharmacology: Management of Dyslipidemias [Recall] (CV72)", data: window.Test_CV72_Recall },
     { name: "Cardio-Pharmacology: Management of Dyslipidemias [Boards] (CV72)", data: window.Test_CV72_Boards },
     { name: "Cardio-Clinical Medicine: Pulmonary Thromboembolism [Recall] (CV73)", data: window.Test_CV73_Recall },
