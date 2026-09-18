@@ -413,6 +413,8 @@ const testsToLoad = [
     { name: "Cardio-Pharmacology: Management of Dyslipidemias [Boards] (CV72)", data: window.Test_CV72_Boards },
     { name: "Cardio-Clinical Medicine: Pulmonary Thromboembolism [Recall] (CV73)", data: window.Test_CV73_Recall },
     { name: "Cardio-Clinical Medicine: Pulmonary Thromboembolism [Boards] (CV73)", data: window.Test_CV73_Boards },
+    { name: "Cardio-Clinical Medicine: Stable and Vasospastic Angina [Recall] (CV74)", data: window.Test_CV74_Recall },
+    { name: "Cardio-Clinical Medicine: Stable and Vasospastic Angina [Boards] (CV74)", data: window.Test_CV74_Boards },
     { name: "Cardio-Clinical Medicine: ACS and MI Part II [Recall] (CV75)", data: window.Test_CV75_Recall },
     { name: "Cardio-Clinical Medicine: ACS and MI Part II [Boards] (CV75)", data: window.Test_CV75_Boards },
     { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Recall] (CV78)", data: window.Test_CV78_Recall },
