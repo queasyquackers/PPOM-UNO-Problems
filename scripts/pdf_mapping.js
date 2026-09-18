@@ -440,6 +440,9 @@ const PDF_MAPPING = {
     "FOM73": "pdfs/FOM Lecture 73 - Plummer - Histology of Blood.pdf",
     "CV61": "pdfs/Lecture # 61. D. Zhang, Ph.D. (PPT)-1.pdf",
     "CV65": "pdfs/Lecture # 65. M. Plummer, M.D. (PPT).pdf",
+    "CV62": "pdfs/Lecture # 62. D. Zhang, Ph.D. (PPT)-1.pdf",
+    "CV64": "pdfs/Lecture # 64. S. Rivera- Martinez, D.O. (PPT).pdf",
+    "CV59": "pdfs/Lecture # 59. J. Leheste, Ph.D. (PPT).pdf",
 };
 
 
