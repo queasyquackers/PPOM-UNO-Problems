@@ -443,6 +443,11 @@ const PDF_MAPPING = {
     "CV62": "pdfs/Lecture # 62. D. Zhang, Ph.D. (PPT)-1.pdf",
     "CV64": "pdfs/Lecture # 64. S. Rivera- Martinez, D.O. (PPT).pdf",
     "CV59": "pdfs/Lecture # 59. J. Leheste, Ph.D. (PPT).pdf",
+    "CV58": "pdfs/Lecture # 58. P. Happel, D.O. (PPT)-1.pdf",
+    "CV60": "pdfs/Lecture # 60. W. Zaloga D.O. (PPT)-1.pdf",
+    "CV63": "pdfs/Lecture # 63. D. Zhang, Ph.D. (PPT)-1.pdf",
+    "CV66": "pdfs/Lecture # 66. M. Plummer, M.D. (PPT)-1.pdf",
+    "CV67": "pdfs/Lecture # 67. P. Happel, D.O. (PPT).pdf",
 };
 
 
