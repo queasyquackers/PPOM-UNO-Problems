@@ -23,14 +23,25 @@ const SECTIONS = [
     // so it matches nothing else. The array is here so the section card reads
     // "Weeks 1-5".
     { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [1, 2, 3, 4, 5] },
+    // CPR Block 2 (semester 2, weeks 7-11): lectures 55-112 continue the CV
+    // number space and keep the "Cardio-" prefix; getTestSection routes them
+    // here by the "(CVn)" lecture number, so no test name had to change.
+    { id: "cpr2",   romanNumeral: "VI",  name: "CPR Block 2",                     dek: "Ischemia, rhythm, valves, lung.", weeks: [7, 8, 9, 10, 11] },
 ];
+
+// First lecture number of CPR Block 2. CV numbers at or above it route to Section VI.
+const CPR2_FIRST_LECTURE = 55;
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
-// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1).
+// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1),
+// or Section VI (CPR Block 2) when the lecture number is CPR2_FIRST_LECTURE or higher.
 function getTestSection(testName) {
     if (/^Cardio-/.test(testName)) {
-        return SECTIONS.find(s => s.id === "cardio") || null;
+        // Weekly exams name a range "(CV55-67)"; its first number decides the block.
+        const cv = testName.match(/\(CV(\d+)(?:[-–]\d+)?\)\s*$/);
+        const id = cv && parseInt(cv[1], 10) >= CPR2_FIRST_LECTURE ? "cpr2" : "cardio";
+        return SECTIONS.find(s => s.id === id) || null;
     }
     if (/^Pathoma-/.test(testName)) {
         return SECTIONS.find(s => s.id === "hemonc") || null;
@@ -46,7 +57,8 @@ function getTestSection(testName) {
 // than computed.
 // Tests keep their "Cardio-" routing prefix; the week is derived at render time
 // from the "(CVn)" in the test name, so no test has to be renamed to regroup.
-const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5]];
+const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5],
+                   [55, 67, 7], [68, 78, 8], [79, 89, 9], [90, 99, 10], [100, 112, 11]];
 function cprWeek(n) {
     const row = CPR_WEEKS.find(([lo, hi]) => n >= lo && n <= hi);
     return row ? row[2] : null;
