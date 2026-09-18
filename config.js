@@ -386,6 +386,10 @@ const testsToLoad = [
     { name: "Cardio-Review: Hematopoiesis (L150)", data: window.Test_Review_L150 },
     { name: "Cardio-Review: Laboratory Medicine and Anemias Part 1 (L151)", data: window.Test_Review_L151 },
     { name: "Cardio-Review: Laboratory Medicine and Anemias Part 2 (L152)", data: window.Test_Review_L152 },
+    { name: "Cardio-Biochemistry: Cholesterol and Bile Acids [Recall] (CV61)", data: window.Test_CV61_Recall },
+    { name: "Cardio-Biochemistry: Cholesterol and Bile Acids [Boards] (CV61)", data: window.Test_CV61_Boards },
+    { name: "Cardio-Pathology: Atherosclerosis and Ischemic Heart Disease [Recall] (CV65)", data: window.Test_CV65_Recall },
+    { name: "Cardio-Pathology: Atherosclerosis and Ischemic Heart Disease [Boards] (CV65)", data: window.Test_CV65_Boards },
 ];
 
 if (typeof window !== "undefined") {

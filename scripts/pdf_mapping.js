@@ -438,6 +438,8 @@ const PDF_MAPPING = {
     "FOM60": "pdfs/FOM Lecture 60 - Ganesan - Human Genetics III.pdf",
     "FOM61": "pdfs/FOM Lecture 61 - Ganesan - Human Genetics IV.pdf",
     "FOM73": "pdfs/FOM Lecture 73 - Plummer - Histology of Blood.pdf",
+    "CV61": "pdfs/Lecture # 61. D. Zhang, Ph.D. (PPT)-1.pdf",
+    "CV65": "pdfs/Lecture # 65. M. Plummer, M.D. (PPT).pdf",
 };
 
 
