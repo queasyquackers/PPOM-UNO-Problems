@@ -472,6 +472,9 @@ const testsToLoad = [
     { name: "Cardio-Genetics: Cardiogenetics and Pulmonary Genetics [Boards] (CV110)", data: window.Test_CV110_Boards },
     { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Recall] (CV111)", data: window.Test_CV111_Recall },
     { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Boards] (CV111)", data: window.Test_CV111_Boards },
+    { name: "Cardio-Pathology: Obstructive Lung Disease [Recall] (CV112)", data: window.Test_CV112_Recall },
+    { name: "Cardio-Pathology: Obstructive Lung Disease [Boards] (CV112)", data: window.Test_CV112_Boards },
+    { name: "Cardio-WEEK 11 CUMULATIVE EXAM (CV104-112)", data: window.Test_Cumulative_CPR_Wk11 },
 ];
 
 if (typeof window !== "undefined") {
