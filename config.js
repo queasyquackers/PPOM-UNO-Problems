@@ -455,8 +455,11 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Restrictive and Miscellaneous Cardiomyopathies [Boards] (CV98)", data: window.Test_CV98_Boards },
     { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Recall] (CV99)", data: window.Test_CV99_Recall },
     { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Boards] (CV99)", data: window.Test_CV99_Boards },
+    { name: "Cardio-WEEK 10 CUMULATIVE EXAM (CV91-99)", data: window.Test_Cumulative_CPR_Wk10 },
     { name: "Cardio-DPR: Abnormal Respiratory Exam [Recall] (CV104)", data: window.Test_CV104_Recall },
     { name: "Cardio-DPR: Abnormal Respiratory Exam [Boards] (CV104)", data: window.Test_CV104_Boards },
+    { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Recall] (CV105)", data: window.Test_CV105_Recall },
+    { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Boards] (CV105)", data: window.Test_CV105_Boards },
 ];
 
 if (typeof window !== "undefined") {

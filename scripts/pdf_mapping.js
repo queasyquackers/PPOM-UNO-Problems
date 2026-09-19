@@ -472,6 +472,7 @@ const PDF_MAPPING = {
     "CV98": "pdfs/Lecture # 98. W. Zaloga D.O. (PPT).pdf",
     "CV99": "pdfs/Lecture # 99. P. Happel, D.O. (PPT).pdf",
     "CV104": "pdfs/Lecture # 104. M. Heller, D.O. (PPT).pdf",
+    "CV105": "pdfs/Lecture # 105. J. Holloway Ph. D. (PPT).pdf",
 };
 
 
