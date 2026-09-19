@@ -548,11 +548,19 @@ def check_file(path: Path, setkey, questions, varname, mapping, rep: Report, bas
     seq = [q.get("correctAnswerIndex") for q in questions
            if isinstance(q.get("correctAnswerIndex"), int)]
     dist = Counter(seq)
-    target = spec["keys_per_letter"]
+    # A Set A capped below 30 by a thin deck (min(30, 2 x content slides)) scales
+    # every quota to its real size: n/5 keys per letter, length tells at ~13-27%.
+    n_keys = len(seq)
+    scaled = setkey == "A" and n_keys < spec["items"]
+    target = n_keys // 5 if scaled else spec["keys_per_letter"]
     spread = "/".join(str(dist.get(i, 0)) for i in range(5))
-    rep.check("keys per letter A-E",
-              all(dist.get(i, 0) == target for i in range(5)),
-              f"{spread} vs {'/'.join([str(target)] * 5)}")
+    if scaled and n_keys % 5:
+        ok_keys = max(dist.get(i, 0) for i in range(5)) - min(dist.get(i, 0) for i in range(5)) <= 1
+        want = f"within 1 of {n_keys / 5:.1f}"
+    else:
+        ok_keys = all(dist.get(i, 0) == target for i in range(5))
+        want = "/".join([str(target)] * 5)
+    rep.check("keys per letter A-E", ok_keys, f"{spread} vs {want}")
 
     runs = [questions[i].get("id") for i in range(2, len(seq))
             if seq[i] == seq[i - 1] == seq[i - 2]]
@@ -580,10 +588,15 @@ def check_file(path: Path, setkey, questions, varname, mapping, rep: Report, bas
             longest.append(q.get("id"))
         if lens[idx] < min(others):
             shortest.append(q.get("id"))
-    lo, hi = spec["longest_range"]
+    def length_range(key):
+        lo, hi = spec[key]
+        if scaled:
+            lo, hi = (max(1, round(x * n_keys / spec["items"])) for x in (lo, hi))
+        return lo, hi
+    lo, hi = length_range("longest_range")
     rep.check("key strictly LONGEST count", rng(len(longest), lo, hi),
               f"{len(longest)} vs {lo}-{hi}", longest)
-    lo, hi = spec["shortest_range"]
+    lo, hi = length_range("shortest_range")
     rep.check("key strictly SHORTEST count", rng(len(shortest), lo, hi),
               f"{len(shortest)} vs {lo}-{hi}", shortest)
 
