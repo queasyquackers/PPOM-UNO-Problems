@@ -461,6 +461,8 @@ const PDF_MAPPING = {
     "CV84": "pdfs/Lecture # 84. T. Cohen, M.D. (PPT).pdf",
     "CV85": "pdfs/Lecture # 85. M. Pino, Ph. D. (PPT).pdf",
     "CV86": "pdfs/Lecture # 86. M. Heller, D.O. (PPT).pdf",
+    "CV87": "pdfs/Lecture # 87. H. Zwibel, D.O. (PPT).pdf",
+    "CV89": "pdfs/Lecture # 89. H. Zwibel, D.O. (PPT).pdf",
 };
 
 
