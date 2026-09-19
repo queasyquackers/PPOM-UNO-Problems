@@ -436,8 +436,12 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Potassium Disorders [Boards] (CV86)", data: window.Test_CV86_Boards },
     { name: "Cardio-Clinical: Calcium, Magnesium and Phosphate Disorders [Recall] (CV87)", data: window.Test_CV87_Recall },
     { name: "Cardio-Clinical: Calcium, Magnesium and Phosphate Disorders [Boards] (CV87)", data: window.Test_CV87_Boards },
+    { name: "Cardio-Clinical: Hypernatremia [Recall] (CV88)", data: window.Test_CV88_Recall },
+    { name: "Cardio-Clinical: Hypernatremia [Boards] (CV88)", data: window.Test_CV88_Boards },
     { name: "Cardio-Clinical: Hyponatremia [Recall] (CV89)", data: window.Test_CV89_Recall },
     { name: "Cardio-Clinical: Hyponatremia [Boards] (CV89)", data: window.Test_CV89_Boards },
+    { name: "Cardio-Pathology: Cardiac Valve Pathology [Recall] (CV91)", data: window.Test_CV91_Recall },
+    { name: "Cardio-Pathology: Cardiac Valve Pathology [Boards] (CV91)", data: window.Test_CV91_Boards },
 ];
 
 if (typeof window !== "undefined") {
