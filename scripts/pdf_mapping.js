@@ -486,6 +486,8 @@ const PDF_MAPPING = {
     "CV55": "pdfs/Lecture # 55. P. Noto, D.O. (PPT).pdf",
     "CV69": "pdfs/Lecture # 69. T. Flaum, D.O. (PPT).pdf",
     "CV90": "pdfs/Lecture #90. T. Flaum, D.O. (Visceral Lab on Abd Plexus).pdf",
+    "CV80": "pdfs/Lecture # 80. T. Li D.O. (PPT).pdf",
+    "CV79": "pdfs/Lecture # 79. H. Ettlinger, D.O._P. Bhushan D.O. (PPT).pdf",
 };
 
 
