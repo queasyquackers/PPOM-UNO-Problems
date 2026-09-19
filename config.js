@@ -460,6 +460,10 @@ const testsToLoad = [
     { name: "Cardio-DPR: Abnormal Respiratory Exam [Boards] (CV104)", data: window.Test_CV104_Boards },
     { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Recall] (CV105)", data: window.Test_CV105_Recall },
     { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Boards] (CV105)", data: window.Test_CV105_Boards },
+    { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Recall] (CV106)", data: window.Test_CV106_Recall },
+    { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Boards] (CV106)", data: window.Test_CV106_Boards },
+    { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Recall] (CV109)", data: window.Test_CV109_Recall },
+    { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Boards] (CV109)", data: window.Test_CV109_Boards },
 ];
 
 if (typeof window !== "undefined") {
