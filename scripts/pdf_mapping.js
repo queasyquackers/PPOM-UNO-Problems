@@ -490,6 +490,8 @@ const PDF_MAPPING = {
     "CV79": "pdfs/Lecture # 79. H. Ettlinger, D.O._P. Bhushan D.O. (PPT).pdf",
     "CV101": "pdfs/Lecture # 101. P. Kooyman D.O. (PPT).pdf",
     "CV100": "pdfs/Lecture # 100. M. Terzella, D.O. (PPT).pdf",
+    "CV102": "pdfs/Lecture # 102. P. Kooyman D.O. (PPT).pdf",
+    "CV103": "pdfs/Lecture #103 S. Yao D.O. (PPT).pdf",
 };
 
 
