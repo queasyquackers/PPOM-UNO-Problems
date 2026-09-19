@@ -440,8 +440,11 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Hypernatremia [Boards] (CV88)", data: window.Test_CV88_Boards },
     { name: "Cardio-Clinical: Hyponatremia [Recall] (CV89)", data: window.Test_CV89_Recall },
     { name: "Cardio-Clinical: Hyponatremia [Boards] (CV89)", data: window.Test_CV89_Boards },
+    { name: "Cardio-WEEK 9 CUMULATIVE EXAM (CV82-89)", data: window.Test_Cumulative_CPR_Wk9 },
     { name: "Cardio-Pathology: Cardiac Valve Pathology [Recall] (CV91)", data: window.Test_CV91_Recall },
     { name: "Cardio-Pathology: Cardiac Valve Pathology [Boards] (CV91)", data: window.Test_CV91_Boards },
+    { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Recall] (CV94)", data: window.Test_CV94_Recall },
+    { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Boards] (CV94)", data: window.Test_CV94_Boards },
 ];
 
 if (typeof window !== "undefined") {
