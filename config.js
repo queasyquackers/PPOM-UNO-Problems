@@ -451,6 +451,10 @@ const testsToLoad = [
     { name: "Cardio-Pharmacology: Heart Failure Management [Boards] (CV96)", data: window.Test_CV96_Boards },
     { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Recall] (CV97)", data: window.Test_CV97_Recall },
     { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Boards] (CV97)", data: window.Test_CV97_Boards },
+    { name: "Cardio-Pathology: Restrictive and Miscellaneous Cardiomyopathies [Recall] (CV98)", data: window.Test_CV98_Recall },
+    { name: "Cardio-Pathology: Restrictive and Miscellaneous Cardiomyopathies [Boards] (CV98)", data: window.Test_CV98_Boards },
+    { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Recall] (CV99)", data: window.Test_CV99_Recall },
+    { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Boards] (CV99)", data: window.Test_CV99_Boards },
 ];
 
 if (typeof window !== "undefined") {
