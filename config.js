@@ -430,6 +430,10 @@ const testsToLoad = [
     { name: "Cardio-Clinical Medicine: Atrial and Ventricular Arrhythmias [Boards] (CV83)", data: window.Test_CV83_Boards },
     { name: "Cardio-Clinical: ECG Blocks and Electrolytes [Recall] (CV84)", data: window.Test_CV84_Recall },
     { name: "Cardio-Clinical: ECG Blocks and Electrolytes [Boards] (CV84)", data: window.Test_CV84_Boards },
+    { name: "Cardio-Pharmacology: Antiarrhythmic Drugs [Recall] (CV85)", data: window.Test_CV85_Recall },
+    { name: "Cardio-Pharmacology: Antiarrhythmic Drugs [Boards] (CV85)", data: window.Test_CV85_Boards },
+    { name: "Cardio-Clinical: Potassium Disorders [Recall] (CV86)", data: window.Test_CV86_Recall },
+    { name: "Cardio-Clinical: Potassium Disorders [Boards] (CV86)", data: window.Test_CV86_Boards },
 ];
 
 if (typeof window !== "undefined") {
