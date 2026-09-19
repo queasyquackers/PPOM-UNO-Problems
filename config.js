@@ -462,6 +462,10 @@ const testsToLoad = [
     { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Boards] (CV105)", data: window.Test_CV105_Boards },
     { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Recall] (CV106)", data: window.Test_CV106_Recall },
     { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Boards] (CV106)", data: window.Test_CV106_Boards },
+    { name: "Cardio-Pathology: Myocarditis, Pericarditis and Cardiac Tumors [Recall] (CV107)", data: window.Test_CV107_Recall },
+    { name: "Cardio-Pathology: Myocarditis, Pericarditis and Cardiac Tumors [Boards] (CV107)", data: window.Test_CV107_Boards },
+    { name: "Cardio-Pathology: Inflammatory Heart Disease [Recall] (CV108)", data: window.Test_CV108_Recall },
+    { name: "Cardio-Pathology: Inflammatory Heart Disease [Boards] (CV108)", data: window.Test_CV108_Boards },
     { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Recall] (CV109)", data: window.Test_CV109_Recall },
     { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Boards] (CV109)", data: window.Test_CV109_Boards },
 ];
