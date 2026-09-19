@@ -23,14 +23,25 @@ const SECTIONS = [
     // so it matches nothing else. The array is here so the section card reads
     // "Weeks 1-5".
     { id: "cardio", romanNumeral: "V",   name: "CPR Block 1",                     dek: "Cardio, renal, pulmonary.",      weeks: [1, 2, 3, 4, 5] },
+    // CPR Block 2 (semester 2, weeks 7-11): lectures 55-112 continue the CV
+    // number space and keep the "Cardio-" prefix; getTestSection routes them
+    // here by the "(CVn)" lecture number, so no test name had to change.
+    { id: "cpr2",   romanNumeral: "VI",  name: "CPR Block 2",                     dek: "Ischemia, rhythm, valves, lung.", weeks: [7, 8, 9, 10, 11] },
 ];
+
+// First lecture number of CPR Block 2. CV numbers at or above it route to Section VI.
+const CPR2_FIRST_LECTURE = 55;
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
-// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1).
+// Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1),
+// or Section VI (CPR Block 2) when the lecture number is CPR2_FIRST_LECTURE or higher.
 function getTestSection(testName) {
     if (/^Cardio-/.test(testName)) {
-        return SECTIONS.find(s => s.id === "cardio") || null;
+        // Weekly exams name a range "(CV55-67)"; its first number decides the block.
+        const cv = testName.match(/\(CV(\d+)(?:[-–]\d+)?\)\s*$/);
+        const id = cv && parseInt(cv[1], 10) >= CPR2_FIRST_LECTURE ? "cpr2" : "cardio";
+        return SECTIONS.find(s => s.id === id) || null;
     }
     if (/^Pathoma-/.test(testName)) {
         return SECTIONS.find(s => s.id === "hemonc") || null;
@@ -46,7 +57,8 @@ function getTestSection(testName) {
 // than computed.
 // Tests keep their "Cardio-" routing prefix; the week is derived at render time
 // from the "(CVn)" in the test name, so no test has to be renamed to regroup.
-const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5]];
+const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5],
+                   [55, 67, 7], [68, 78, 8], [79, 89, 9], [90, 99, 10], [100, 112, 11]];
 function cprWeek(n) {
     const row = CPR_WEEKS.find(([lo, hi]) => n >= lo && n <= hi);
     return row ? row[2] : null;
@@ -374,6 +386,95 @@ const testsToLoad = [
     { name: "Cardio-Review: Hematopoiesis (L150)", data: window.Test_Review_L150 },
     { name: "Cardio-Review: Laboratory Medicine and Anemias Part 1 (L151)", data: window.Test_Review_L151 },
     { name: "Cardio-Review: Laboratory Medicine and Anemias Part 2 (L152)", data: window.Test_Review_L152 },
+    { name: "Cardio-DPR: Abnormal Cardiovascular Exam [Recall] (CV58)", data: window.Test_CV58_Recall },
+    { name: "Cardio-DPR: Abnormal Cardiovascular Exam [Boards] (CV58)", data: window.Test_CV58_Boards },
+    { name: "Cardio-Pathophysiology: Acid-Base Disorders [Recall] (CV59)", data: window.Test_CV59_Recall },
+    { name: "Cardio-Pathophysiology: Acid-Base Disorders [Boards] (CV59)", data: window.Test_CV59_Boards },
+    { name: "Cardio-Pathology: Pulmonary Vascular Disease [Recall] (CV60)", data: window.Test_CV60_Recall },
+    { name: "Cardio-Pathology: Pulmonary Vascular Disease [Boards] (CV60)", data: window.Test_CV60_Boards },
+    { name: "Cardio-Biochemistry: Cholesterol and Bile Acids [Recall] (CV61)", data: window.Test_CV61_Recall },
+    { name: "Cardio-Biochemistry: Cholesterol and Bile Acids [Boards] (CV61)", data: window.Test_CV61_Boards },
+    { name: "Cardio-Biochemistry: Lipoproteins [Recall] (CV62)", data: window.Test_CV62_Recall },
+    { name: "Cardio-Biochemistry: Lipoproteins [Boards] (CV62)", data: window.Test_CV62_Boards },
+    { name: "Cardio-Biochemistry: Dyslipidemias [Recall] (CV63)", data: window.Test_CV63_Recall },
+    { name: "Cardio-Biochemistry: Dyslipidemias [Boards] (CV63)", data: window.Test_CV63_Boards },
+    { name: "Cardio-Clinical Medicine: Clinical Dyslipidemia [Recall] (CV64)", data: window.Test_CV64_Recall },
+    { name: "Cardio-Clinical Medicine: Clinical Dyslipidemia [Boards] (CV64)", data: window.Test_CV64_Boards },
+    { name: "Cardio-Pathology: Atherosclerosis and Ischemic Heart Disease [Recall] (CV65)", data: window.Test_CV65_Recall },
+    { name: "Cardio-Pathology: Atherosclerosis and Ischemic Heart Disease [Boards] (CV65)", data: window.Test_CV65_Boards },
+    { name: "Cardio-Pathology: Myocardial Infarction [Recall] (CV66)", data: window.Test_CV66_Recall },
+    { name: "Cardio-Pathology: Myocardial Infarction [Boards] (CV66)", data: window.Test_CV66_Boards },
+    { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Recall] (CV67)", data: window.Test_CV67_Recall },
+    { name: "Cardio-Clinical Medicine: Introduction to Clinical Nutrition [Boards] (CV67)", data: window.Test_CV67_Boards },
+    { name: "Cardio-WEEK 7 CUMULATIVE EXAM (CV58-67)", data: window.Test_Cumulative_CPR_Wk7 },
+    { name: "Cardio-Pharmacology: Angina Pectoris [Recall] (CV71)", data: window.Test_CV71_Recall },
+    { name: "Cardio-Pharmacology: Angina Pectoris [Boards] (CV71)", data: window.Test_CV71_Boards },
+    { name: "Cardio-Pharmacology: Management of Dyslipidemias [Recall] (CV72)", data: window.Test_CV72_Recall },
+    { name: "Cardio-Pharmacology: Management of Dyslipidemias [Boards] (CV72)", data: window.Test_CV72_Boards },
+    { name: "Cardio-Clinical Medicine: Pulmonary Thromboembolism [Recall] (CV73)", data: window.Test_CV73_Recall },
+    { name: "Cardio-Clinical Medicine: Pulmonary Thromboembolism [Boards] (CV73)", data: window.Test_CV73_Boards },
+    { name: "Cardio-Clinical Medicine: Stable and Vasospastic Angina [Recall] (CV74)", data: window.Test_CV74_Recall },
+    { name: "Cardio-Clinical Medicine: Stable and Vasospastic Angina [Boards] (CV74)", data: window.Test_CV74_Boards },
+    { name: "Cardio-Clinical Medicine: ACS and MI Part II [Recall] (CV75)", data: window.Test_CV75_Recall },
+    { name: "Cardio-Clinical Medicine: ACS and MI Part II [Boards] (CV75)", data: window.Test_CV75_Boards },
+    { name: "Cardio-Clinical Medicine: Nutrition in CVD Prevention [Recall] (CV76)", data: window.Test_CV76_Recall },
+    { name: "Cardio-Clinical Medicine: Nutrition in CVD Prevention [Boards] (CV76)", data: window.Test_CV76_Boards },
+    { name: "Cardio-Clinical Medicine: Arterial, Venous and Lymphatic Disease [Recall] (CV77)", data: window.Test_CV77_Recall },
+    { name: "Cardio-Clinical Medicine: Arterial, Venous and Lymphatic Disease [Boards] (CV77)", data: window.Test_CV77_Boards },
+    { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Recall] (CV78)", data: window.Test_CV78_Recall },
+    { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Boards] (CV78)", data: window.Test_CV78_Boards },
+    { name: "Cardio-WEEK 8 CUMULATIVE EXAM (CV71-78)", data: window.Test_Cumulative_CPR_Wk8 },
+    { name: "Cardio-Physiology: Pathophysiology of Arrhythmias [Recall] (CV82)", data: window.Test_CV82_Recall },
+    { name: "Cardio-Physiology: Pathophysiology of Arrhythmias [Boards] (CV82)", data: window.Test_CV82_Boards },
+    { name: "Cardio-Clinical Medicine: Atrial and Ventricular Arrhythmias [Recall] (CV83)", data: window.Test_CV83_Recall },
+    { name: "Cardio-Clinical Medicine: Atrial and Ventricular Arrhythmias [Boards] (CV83)", data: window.Test_CV83_Boards },
+    { name: "Cardio-Clinical: ECG Blocks and Electrolytes [Recall] (CV84)", data: window.Test_CV84_Recall },
+    { name: "Cardio-Clinical: ECG Blocks and Electrolytes [Boards] (CV84)", data: window.Test_CV84_Boards },
+    { name: "Cardio-Pharmacology: Antiarrhythmic Drugs [Recall] (CV85)", data: window.Test_CV85_Recall },
+    { name: "Cardio-Pharmacology: Antiarrhythmic Drugs [Boards] (CV85)", data: window.Test_CV85_Boards },
+    { name: "Cardio-Clinical: Potassium Disorders [Recall] (CV86)", data: window.Test_CV86_Recall },
+    { name: "Cardio-Clinical: Potassium Disorders [Boards] (CV86)", data: window.Test_CV86_Boards },
+    { name: "Cardio-Clinical: Calcium, Magnesium and Phosphate Disorders [Recall] (CV87)", data: window.Test_CV87_Recall },
+    { name: "Cardio-Clinical: Calcium, Magnesium and Phosphate Disorders [Boards] (CV87)", data: window.Test_CV87_Boards },
+    { name: "Cardio-Clinical: Hypernatremia [Recall] (CV88)", data: window.Test_CV88_Recall },
+    { name: "Cardio-Clinical: Hypernatremia [Boards] (CV88)", data: window.Test_CV88_Boards },
+    { name: "Cardio-Clinical: Hyponatremia [Recall] (CV89)", data: window.Test_CV89_Recall },
+    { name: "Cardio-Clinical: Hyponatremia [Boards] (CV89)", data: window.Test_CV89_Boards },
+    { name: "Cardio-WEEK 9 CUMULATIVE EXAM (CV82-89)", data: window.Test_Cumulative_CPR_Wk9 },
+    { name: "Cardio-Pathology: Cardiac Valve Pathology [Recall] (CV91)", data: window.Test_CV91_Recall },
+    { name: "Cardio-Pathology: Cardiac Valve Pathology [Boards] (CV91)", data: window.Test_CV91_Boards },
+    { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Recall] (CV94)", data: window.Test_CV94_Recall },
+    { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Boards] (CV94)", data: window.Test_CV94_Boards },
+    { name: "Cardio-Clinical Medicine: Heart Failure [Recall] (CV95)", data: window.Test_CV95_Recall },
+    { name: "Cardio-Clinical Medicine: Heart Failure [Boards] (CV95)", data: window.Test_CV95_Boards },
+    { name: "Cardio-Pharmacology: Heart Failure Management [Recall] (CV96)", data: window.Test_CV96_Recall },
+    { name: "Cardio-Pharmacology: Heart Failure Management [Boards] (CV96)", data: window.Test_CV96_Boards },
+    { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Recall] (CV97)", data: window.Test_CV97_Recall },
+    { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Boards] (CV97)", data: window.Test_CV97_Boards },
+    { name: "Cardio-Pathology: Restrictive and Miscellaneous Cardiomyopathies [Recall] (CV98)", data: window.Test_CV98_Recall },
+    { name: "Cardio-Pathology: Restrictive and Miscellaneous Cardiomyopathies [Boards] (CV98)", data: window.Test_CV98_Boards },
+    { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Recall] (CV99)", data: window.Test_CV99_Recall },
+    { name: "Cardio-Clinical Medicine: Valvular Heart Disease [Boards] (CV99)", data: window.Test_CV99_Boards },
+    { name: "Cardio-WEEK 10 CUMULATIVE EXAM (CV91-99)", data: window.Test_Cumulative_CPR_Wk10 },
+    { name: "Cardio-DPR: Abnormal Respiratory Exam [Recall] (CV104)", data: window.Test_CV104_Recall },
+    { name: "Cardio-DPR: Abnormal Respiratory Exam [Boards] (CV104)", data: window.Test_CV104_Boards },
+    { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Recall] (CV105)", data: window.Test_CV105_Recall },
+    { name: "Cardio-Microbiology: Bacterial and Fungal Endocarditis [Boards] (CV105)", data: window.Test_CV105_Boards },
+    { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Recall] (CV106)", data: window.Test_CV106_Recall },
+    { name: "Cardio-Microbiology: Rheumatic Fever, Vasculitis and Cardiomyopathy [Boards] (CV106)", data: window.Test_CV106_Boards },
+    { name: "Cardio-Pathology: Myocarditis, Pericarditis and Cardiac Tumors [Recall] (CV107)", data: window.Test_CV107_Recall },
+    { name: "Cardio-Pathology: Myocarditis, Pericarditis and Cardiac Tumors [Boards] (CV107)", data: window.Test_CV107_Boards },
+    { name: "Cardio-Pathology: Inflammatory Heart Disease [Recall] (CV108)", data: window.Test_CV108_Recall },
+    { name: "Cardio-Pathology: Inflammatory Heart Disease [Boards] (CV108)", data: window.Test_CV108_Boards },
+    { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Recall] (CV109)", data: window.Test_CV109_Recall },
+    { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Boards] (CV109)", data: window.Test_CV109_Boards },
+    { name: "Cardio-Genetics: Cardiogenetics and Pulmonary Genetics [Recall] (CV110)", data: window.Test_CV110_Recall },
+    { name: "Cardio-Genetics: Cardiogenetics and Pulmonary Genetics [Boards] (CV110)", data: window.Test_CV110_Boards },
+    { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Recall] (CV111)", data: window.Test_CV111_Recall },
+    { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Boards] (CV111)", data: window.Test_CV111_Boards },
+    { name: "Cardio-Pathology: Obstructive Lung Disease [Recall] (CV112)", data: window.Test_CV112_Recall },
+    { name: "Cardio-Pathology: Obstructive Lung Disease [Boards] (CV112)", data: window.Test_CV112_Boards },
+    { name: "Cardio-WEEK 11 CUMULATIVE EXAM (CV104-112)", data: window.Test_Cumulative_CPR_Wk11 },
 ];
 
 if (typeof window !== "undefined") {
