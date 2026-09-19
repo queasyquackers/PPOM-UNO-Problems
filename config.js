@@ -447,6 +447,10 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Boards] (CV94)", data: window.Test_CV94_Boards },
     { name: "Cardio-Clinical Medicine: Heart Failure [Recall] (CV95)", data: window.Test_CV95_Recall },
     { name: "Cardio-Clinical Medicine: Heart Failure [Boards] (CV95)", data: window.Test_CV95_Boards },
+    { name: "Cardio-Pharmacology: Heart Failure Management [Recall] (CV96)", data: window.Test_CV96_Recall },
+    { name: "Cardio-Pharmacology: Heart Failure Management [Boards] (CV96)", data: window.Test_CV96_Boards },
+    { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Recall] (CV97)", data: window.Test_CV97_Recall },
+    { name: "Cardio-Pathology: Dilated and Hypertrophic Cardiomyopathies [Boards] (CV97)", data: window.Test_CV97_Boards },
 ];
 
 if (typeof window !== "undefined") {
