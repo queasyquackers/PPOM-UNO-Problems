@@ -445,6 +445,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Cardiac Valve Pathology [Boards] (CV91)", data: window.Test_CV91_Boards },
     { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Recall] (CV94)", data: window.Test_CV94_Recall },
     { name: "Cardio-Clinical: Pediatric Cardiac Considerations III [Boards] (CV94)", data: window.Test_CV94_Boards },
+    { name: "Cardio-Clinical Medicine: Heart Failure [Recall] (CV95)", data: window.Test_CV95_Recall },
+    { name: "Cardio-Clinical Medicine: Heart Failure [Boards] (CV95)", data: window.Test_CV95_Boards },
 ];
 
 if (typeof window !== "undefined") {
