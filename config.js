@@ -468,6 +468,10 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Inflammatory Heart Disease [Boards] (CV108)", data: window.Test_CV108_Boards },
     { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Recall] (CV109)", data: window.Test_CV109_Recall },
     { name: "Cardio-Clinical: Pediatric Pulmonary Disease [Boards] (CV109)", data: window.Test_CV109_Boards },
+    { name: "Cardio-Genetics: Cardiogenetics and Pulmonary Genetics [Recall] (CV110)", data: window.Test_CV110_Recall },
+    { name: "Cardio-Genetics: Cardiogenetics and Pulmonary Genetics [Boards] (CV110)", data: window.Test_CV110_Boards },
+    { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Recall] (CV111)", data: window.Test_CV111_Recall },
+    { name: "Cardio-Pathology: Atelectasis and Pulmonary Edema [Boards] (CV111)", data: window.Test_CV111_Boards },
 ];
 
 if (typeof window !== "undefined") {
