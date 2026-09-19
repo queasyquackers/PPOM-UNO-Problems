@@ -776,9 +776,12 @@ def check_file(path: Path, setkey, questions, varname, mapping, rep: Report, bas
     rep.check(f"items needing arithmetic (max {spec['max_arithmetic']}) (heuristic)",
               len(arith) <= spec["max_arithmetic"],
               f"{len(arith)} vs max {spec['max_arithmetic']}", sorted(set(arith)), level="WARN")
-    rep.check(f"direction/relationship keys (min {spec['min_direction_keys']})",
-              len(dirkeys) >= spec["min_direction_keys"],
-              f"{len(dirkeys)} of {n} vs min {spec['min_direction_keys']}")
+    min_dir = spec["min_direction_keys"]
+    if setkey == "A" and n < spec["items"]:   # capped Set A: same 40% share
+        min_dir = round(min_dir * n / spec["items"])
+    rep.check(f"direction/relationship keys (min {min_dir})",
+              len(dirkeys) >= min_dir,
+              f"{len(dirkeys)} of {n} vs min {min_dir}")
     rep.check("no counting-the-criteria items", not counting,
               f"{len(counting)} items", counting)
     if allnum:
