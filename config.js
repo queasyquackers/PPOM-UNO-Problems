@@ -419,6 +419,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical Medicine: ACS and MI Part II [Boards] (CV75)", data: window.Test_CV75_Boards },
     { name: "Cardio-Clinical Medicine: Nutrition in CVD Prevention [Recall] (CV76)", data: window.Test_CV76_Recall },
     { name: "Cardio-Clinical Medicine: Nutrition in CVD Prevention [Boards] (CV76)", data: window.Test_CV76_Boards },
+    { name: "Cardio-Clinical Medicine: Arterial, Venous and Lymphatic Disease [Recall] (CV77)", data: window.Test_CV77_Recall },
+    { name: "Cardio-Clinical Medicine: Arterial, Venous and Lymphatic Disease [Boards] (CV77)", data: window.Test_CV77_Boards },
     { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Recall] (CV78)", data: window.Test_CV78_Recall },
     { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Boards] (CV78)", data: window.Test_CV78_Boards },
 ];
