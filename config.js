@@ -423,6 +423,10 @@ const testsToLoad = [
     { name: "Cardio-Clinical Medicine: Arterial, Venous and Lymphatic Disease [Boards] (CV77)", data: window.Test_CV77_Boards },
     { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Recall] (CV78)", data: window.Test_CV78_Recall },
     { name: "Cardio-Pathology: Aortic Dissection and Aneurysmal Disease [Boards] (CV78)", data: window.Test_CV78_Boards },
+    { name: "Cardio-Physiology: Pathophysiology of Arrhythmias [Recall] (CV82)", data: window.Test_CV82_Recall },
+    { name: "Cardio-Physiology: Pathophysiology of Arrhythmias [Boards] (CV82)", data: window.Test_CV82_Boards },
+    { name: "Cardio-Clinical Medicine: Atrial and Ventricular Arrhythmias [Recall] (CV83)", data: window.Test_CV83_Recall },
+    { name: "Cardio-Clinical Medicine: Atrial and Ventricular Arrhythmias [Boards] (CV83)", data: window.Test_CV83_Boards },
 ];
 
 if (typeof window !== "undefined") {
