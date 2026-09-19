@@ -480,6 +480,18 @@ const PDF_MAPPING = {
     "CV110": "pdfs/Lecture #110. V. Rajagopalan, Ph.D. (Supplemental File ).pdf",
     "CV111": "pdfs/Lecture #111. E. Petcu, M.D. (PPT)-1.pdf",
     "CV112": "pdfs/Lecture # 112. M. Plummer, M.D. (PPT).pdf",
+    "CV56": "pdfs/Lecture # 56. M. Terzella, D.O. (PPT).pdf",
+    "CV57": "pdfs/Lecture # 57. M. Terzella, D.O. (PPT).pdf",
+    "CV68": "pdfs/Lecture # 68. T. Flaum, D.O. (PPT)-1.pdf",
+    "CV55": "pdfs/Lecture # 55. P. Noto, D.O. (PPT).pdf",
+    "CV69": "pdfs/Lecture # 69. T. Flaum, D.O. (PPT).pdf",
+    "CV90": "pdfs/Lecture #90. T. Flaum, D.O. (Visceral Lab on Abd Plexus).pdf",
+    "CV80": "pdfs/Lecture # 80. T. Li D.O. (PPT).pdf",
+    "CV79": "pdfs/Lecture # 79. H. Ettlinger, D.O._P. Bhushan D.O. (PPT).pdf",
+    "CV101": "pdfs/Lecture # 101. P. Kooyman D.O. (PPT).pdf",
+    "CV100": "pdfs/Lecture # 100. M. Terzella, D.O. (PPT).pdf",
+    "CV102": "pdfs/Lecture # 102. P. Kooyman D.O. (PPT).pdf",
+    "CV103": "pdfs/Lecture #103 S. Yao D.O. (PPT).pdf",
 };
 
 
