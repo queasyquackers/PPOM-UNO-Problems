@@ -57,6 +57,60 @@ document.addEventListener('DOMContentLoaded', () => {
         return grouped;
     }
 
+    // A lecture can carry two separately scored sets, "[Recall]" and "[Boards]". Each keeps its
+    // own test name (the progress key); the TOC shows the pair as one row and the sidebar
+    // switches between them.
+    const SET_TAG = /\s*\[(Recall|Boards)\]/;
+    const LAST_SET_KEY = 'practiceos_lastSetByLecture';
+
+    function setKindOf(name) {
+        const m = name.match(SET_TAG);
+        return m ? m[1] : null;
+    }
+
+    function lectureKeyOf(name) {
+        return name.replace(SET_TAG, '');
+    }
+
+    // { Recall, Boards } test names, or null when the test has no registered partner set.
+    function setPairOf(name) {
+        const kind = setKindOf(name);
+        if (!kind) return null;
+        const other = name.replace(`[${kind}]`, kind === 'Recall' ? '[Boards]' : '[Recall]');
+        if (!testsToLoad.some(t => t.name === other)) return null;
+        return kind === 'Recall' ? { Recall: name, Boards: other } : { Recall: other, Boards: name };
+    }
+
+    // One entry per TOC row: a pair is kept once, at the position of whichever set comes first.
+    function collapseSetPairs(tests) {
+        const seen = new Set();
+        return tests.filter(t => {
+            const key = setPairOf(t.name) ? `pair:${lectureKeyOf(t.name)}` : t.name;
+            if (seen.has(key)) return false;
+            seen.add(key);
+            return true;
+        });
+    }
+
+    // The set a TOC row opens: whichever of the pair was opened last, Recall by default.
+    function preferredSetOf(name) {
+        const pair = setPairOf(name);
+        if (!pair) return name;
+        let last = null;
+        try { last = JSON.parse(localStorage.getItem(LAST_SET_KEY) || '{}')[lectureKeyOf(name)]; }
+        catch { /* ignore */ }
+        return last === 'Boards' ? pair.Boards : pair.Recall;
+    }
+
+    function recordLastSet(name) {
+        if (!setPairOf(name)) return;
+        try {
+            const map = JSON.parse(localStorage.getItem(LAST_SET_KEY) || '{}');
+            map[lectureKeyOf(name)] = setKindOf(name);
+            localStorage.setItem(LAST_SET_KEY, JSON.stringify(map));
+        } catch { /* ignore */ }
+    }
+
     // --- State Management ---
     const testStates = {};
     let currentTestName = '';
@@ -176,14 +230,51 @@ document.addEventListener('DOMContentLoaded', () => {
                 answers.every(a => a && a.isSubmitted);
             if (!allSubmitted) {
                 if (touched === 0) return null;
-                return { text: `${submitted}/${total} in progress`, status: 'in_progress' };
+                return { text: `${submitted}/${total} in progress`, status: 'in_progress', submitted, total };
             }
             const correct = answers.filter(a => a && a.isCorrect).length;
             const pct = Math.round((correct / total) * 100);
-            return { text: `${correct}/${total} (${pct}%)`, status: 'done' };
+            return { text: `${correct}/${total} (${pct}%)`, status: 'done', pct };
         } catch {
             return null;
         }
+    };
+
+    // Score cell for a TOC row. A Recall/Boards pair shows both sets as "R 88% · B 75%": an
+    // unfinished set shows its submitted count and an untouched one a dash.
+    const _getRowScoreHtml = (testName) => {
+        const pair = setPairOf(testName);
+        if (!pair) {
+            const s = _getTestScoreLabel(testName);
+            return s
+                ? `<span class="toc-lecture-score${s.status === 'in_progress' ? ' is-in-progress' : ''}">${s.text}</span>`
+                : '';
+        }
+        const sets = [['R', 'Recall'], ['B', 'Boards']].map(([letter, kind]) =>
+            ({ letter, kind, score: _getTestScoreLabel(pair[kind]) }));
+        if (sets.every(s => !s.score)) return '';
+        const parts = sets.map(({ letter, score }) => {
+            if (!score) return `<span class="toc-set-score">${letter} &ndash;</span>`;
+            if (score.status === 'in_progress') {
+                return `<span class="toc-set-score is-in-progress">${letter} ${score.submitted}/${score.total}</span>`;
+            }
+            return `<span class="toc-set-score">${letter} ${score.pct}%</span>`;
+        });
+        const title = sets.map(({ kind, score }) => `${kind}: ${score ? score.text : 'not started'}`).join(' · ');
+        return `<span class="toc-lecture-score" title="${title}">${parts.join('')}</span>`;
+    };
+
+    // A TOC row is underway once any of its sets has a submitted answer.
+    const _isRowStarted = (testName) => {
+        const pair = setPairOf(testName);
+        return (pair ? [pair.Recall, pair.Boards] : [testName]).some(name => {
+            const stored = localStorage.getItem(`examProgress_${name}`);
+            if (!stored) return false;
+            try {
+                const state = JSON.parse(stored);
+                return !!(state.userAnswers && state.userAnswers.some(a => a.isSubmitted));
+            } catch { return false; }
+        });
     };
 
     const renderTOCSections = () => {
@@ -220,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div>
                     <h3 class="toc-section-card-name">${sec.name}</h3>
                     <p class="toc-section-card-dek">${sec.dek}</p>
-                    <span class="toc-section-card-meta">${weeksLabel} &middot; ${testsInSection.length} lectures</span>
+                    <span class="toc-section-card-meta">${weeksLabel} &middot; ${collapseSetPairs(testsInSection).length} lectures</span>
                 </div>
             `;
             card.onclick = () => renderTOCSectionDetail(sec.id);
@@ -244,21 +335,13 @@ document.addEventListener('DOMContentLoaded', () => {
             ? `Weeks ${sec.weeks[0]}–${sec.weeks[sec.weeks.length - 1]}`
             : `Week ${sec.weeks[0]}`;
 
-        // Section progress — count lectures with any submitted answers
-        const sectionTestsForCount = testsToLoad.filter(t =>
+        // Section progress — count lectures (a Recall/Boards pair is one) with any submitted answers
+        const sectionLecturesForCount = collapseSetPairs(testsToLoad.filter(t =>
             window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
-        );
-        let started = 0;
-        sectionTestsForCount.forEach(t => {
-            const stored = localStorage.getItem(`examProgress_${t.name}`);
-            if (!stored) return;
-            try {
-                const state = JSON.parse(stored);
-                if (state.userAnswers && state.userAnswers.some(a => a.isSubmitted)) started++;
-            } catch { /* ignore */ }
-        });
+        ));
+        const started = sectionLecturesForCount.filter(t => _isRowStarted(t.name)).length;
         const progressLabel = started > 0
-            ? ` &nbsp;&middot;&nbsp; ${started} of ${sectionTestsForCount.length} underway`
+            ? ` &nbsp;&middot;&nbsp; ${started} of ${sectionLecturesForCount.length} underway`
             : '';
 
         getEl('toc-eyebrow').innerHTML = `Section ${sec.romanNumeral} &middot; ${weeksLabel}${progressLabel}`;
@@ -285,7 +368,7 @@ document.addEventListener('DOMContentLoaded', () => {
         grid.className = 'toc-grid';
 
         groupKeys.forEach(groupName => {
-            const tests = grouped[groupName];
+            const tests = collapseSetPairs(grouped[groupName]);
             const section = document.createElement('section');
             section.className = 'toc-week';
 
@@ -310,21 +393,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 const isCumulative = /CUMULATIVE/i.test(testObj.name);
                 const lectureId = lectureIdOf(testObj.name)
                     || (isCumulative ? 'Exam' : '');
+                const pair = setPairOf(testObj.name);
 
-                // Trim trailing "(L48)" from display label
-                const cleanLabel = testObj.displayName
+                // Trim trailing "(L48)" from display label, and the set tag from a paired row
+                let cleanLabel = testObj.displayName
                     .replace(/\s*\([^)]+\)\s*$/, '')
                     .trim();
+                if (pair) cleanLabel = cleanLabel.replace(SET_TAG, '');
 
+                const isActive = pair
+                    ? currentTestName === pair.Recall || currentTestName === pair.Boards
+                    : testObj.name === currentTestName;
                 const li = document.createElement('li');
                 li.className = 'toc-lecture' +
                     (isCumulative ? ' is-cumulative' : '') +
-                    (testObj.name === currentTestName ? ' is-active' : '');
+                    (isActive ? ' is-active' : '');
 
-                const scoreLabel = _getTestScoreLabel(testObj.name);
-                const scoreHtml = scoreLabel
-                    ? `<span class="toc-lecture-score${scoreLabel.status === 'in_progress' ? ' is-in-progress' : ''}">${scoreLabel.text}</span>`
-                    : '';
+                const scoreHtml = _getRowScoreHtml(testObj.name);
                 li.innerHTML = `
                     <span class="toc-lecture-id">${lectureId}</span>
                     <button class="toc-lecture-btn" data-name="${testObj.name.replace(/"/g, '&quot;')}">${cleanLabel}</button>
@@ -332,11 +417,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
 
                 li.querySelector('.toc-lecture-btn').onclick = () => {
+                    const targetName = preferredSetOf(testObj.name);
                     // loadTestByName updates currentSection + records last lecture, then loads
                     if (typeof window !== 'undefined' && window.app && window.app.loadTestByName) {
-                        window.app.loadTestByName(testObj.name);
+                        window.app.loadTestByName(targetName);
                     } else {
-                        const original = testsToLoad.find(t => t.name === testObj.name);
+                        const original = testsToLoad.find(t => t.name === targetName);
                         if (original) loadTest(original);
                     }
                     closeTOC();
@@ -402,9 +488,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     const sectionTests = testsToLoad.filter(t =>
                         window.getTestSection ? window.getTestSection(t.name)?.id === sec.id : false
                     );
-                    const matched = sectionTests.filter(t =>
+                    const matched = collapseSetPairs(sectionTests.filter(t =>
                         t.name.toLowerCase().includes(q)
-                    );
+                    ));
                     if (matched.length === 0) return;
                     const section = document.createElement('section');
                     section.className = 'toc-week';
@@ -418,16 +504,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         const isCum = /CUMULATIVE/i.test(testObj.name);
                         const idMatch = testObj.name.match(/\(([^)]+)\)/);
                         const lectureId = idMatch ? idMatch[1] : (isCum ? 'Exam' : '');
-                        const displayName = testObj.name.replace(/^(\d+)-/, '').replace(/\s*\([^)]+\)\s*$/, '').trim();
+                        let displayName = testObj.name.replace(/^(\d+)-/, '').replace(/\s*\([^)]+\)\s*$/, '').trim();
+                        if (setPairOf(testObj.name)) displayName = displayName.replace(SET_TAG, '');
                         const li = document.createElement('li');
                         li.className = 'toc-lecture' + (isCum ? ' is-cumulative' : '');
-                        const scoreLabel = _getTestScoreLabel(testObj.name);
-                        const scoreHtml = scoreLabel
-                            ? `<span class="toc-lecture-score${scoreLabel.status === 'in_progress' ? ' is-in-progress' : ''}">${scoreLabel.text}</span>`
-                            : '';
+                        const scoreHtml = _getRowScoreHtml(testObj.name);
                         li.innerHTML = `<span class="toc-lecture-id">${lectureId}</span><button class="toc-lecture-btn">${displayName}</button>${scoreHtml}`;
                         li.querySelector('.toc-lecture-btn').onclick = () => {
-                            if (window.app?.loadTestByName) window.app.loadTestByName(testObj.name);
+                            if (window.app?.loadTestByName) window.app.loadTestByName(preferredSetOf(testObj.name));
                             closeTOC();
                         };
                         list.appendChild(li);
@@ -770,6 +854,25 @@ document.addEventListener('DOMContentLoaded', () => {
         section.style.display = '';
     }
 
+    // Sidebar switch between a lecture's Recall and Boards sets; hidden for tests without a pair.
+    function renderSetSwitch(testName) {
+        const wrap = getEl('set-switch');
+        if (!wrap) return;
+        const pair = setPairOf(testName);
+        wrap.classList.toggle('hidden', !pair);
+        if (!pair) return;
+        wrap.querySelectorAll('.set-switch-btn').forEach(btn => {
+            const name = pair[btn.dataset.set];
+            const test = testsToLoad.find(t => t.name === name);
+            btn.setAttribute('aria-pressed', String(name === testName));
+            btn.querySelector('.set-switch-count').textContent =
+                test && Array.isArray(test.data) ? ` · ${test.data.length}` : '';
+            btn.onclick = () => {
+                if (name !== currentTestName) loadTestByName(name);
+            };
+        });
+    }
+
     function switchToTest(testName) {
         if (currentTestName && testStates[currentTestName]) {
             pauseTimer(); // Stop previous timer to prevent overlap
@@ -794,6 +897,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const displayName = testName.replace(/^(\d+)-/, '').trim();
         getEl('exam-title').textContent = `Practice Exam: ${displayName}`;
+
+        recordLastSet(testName);
+        renderSetSwitch(testName);
 
         let resetBtnContainer = getEl('global-review-reset-container');
         if (!resetBtnContainer) {

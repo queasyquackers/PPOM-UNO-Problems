@@ -36,17 +36,23 @@
                     'Good evening.';
 
     // --- Aggregate progress stats ---
+    // A lecture's "[Recall]" and "[Boards]" sets are two tests but one lecture (as in the app's TOC),
+    // so lectures are counted by name with the set tag removed.
+    const lectureKeyOf = (name) => name.replace(/\s*\[(Recall|Boards)\]/, '');
     let totalAnswered = 0;
     let totalCorrect = 0;
     const sectionStats = {};
+    const allLectures = new Set();
 
     tests.forEach(test => {
+        const key = lectureKeyOf(test.name);
+        allLectures.add(key);
         const sec = sectionForTest(test.name);
         if (sec) {
             if (!sectionStats[sec.id]) {
-                sectionStats[sec.id] = { lectures: 0, answered: 0, correct: 0, touched: 0 };
+                sectionStats[sec.id] = { lectures: new Set(), answered: 0, correct: 0, touched: new Set() };
             }
-            sectionStats[sec.id].lectures++;
+            sectionStats[sec.id].lectures.add(key);
         }
 
         const stored = localStorage.getItem(`examProgress_${test.name}`);
@@ -60,9 +66,13 @@
             if (sec && ans > 0) {
                 sectionStats[sec.id].answered += ans;
                 sectionStats[sec.id].correct += cor;
-                sectionStats[sec.id].touched++;
+                sectionStats[sec.id].touched.add(key);
             }
         } catch { /* ignore */ }
+    });
+    Object.values(sectionStats).forEach(stats => {
+        stats.lectures = stats.lectures.size;
+        stats.touched = stats.touched.size;
     });
 
     const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : null;
@@ -92,7 +102,7 @@
 
     // Dateline
     const datelineParts = [];
-    datelineParts.push(`${tests.length} lectures across ${sections.length} sections`);
+    datelineParts.push(`${allLectures.size} lectures across ${sections.length} sections`);
     if (totalAnswered > 0) datelineParts.push(`${totalAnswered} questions answered`);
     if (accuracy !== null) datelineParts.push(`${accuracy}% accuracy`);
     const dateline = datelineParts.join('  ·  ');
