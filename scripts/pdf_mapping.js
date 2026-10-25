@@ -438,6 +438,20 @@ const PDF_MAPPING = {
     "FOM60": "pdfs/FOM Lecture 60 - Ganesan - Human Genetics III.pdf",
     "FOM61": "pdfs/FOM Lecture 61 - Ganesan - Human Genetics IV.pdf",
     "FOM73": "pdfs/FOM Lecture 73 - Plummer - Histology of Blood.pdf",
+    // CPR Block 2 review lectures. FOM77 and FOM78 are Liang's Signal Transduction I and II
+    // (FOM Physiology, prior semester). PPOM10, PPOM19, PPOM20, PPOM33, PPOM34 and PPOM39 are
+    // Grubisic's Autonomic Nervous System and Goldstein's five autonomic pharmacology lectures
+    // from PPOM 1. The PPOM prefix (rather than bare L10, L19 etc.) keeps these mappings from
+    // colliding with Block 3's own L10, L19, L20, L33, L34 and L39, which point to the same
+    // underlying PDFs but are registered as separate tests in the current curriculum.
+    "FOM77": "pdfs/Lecture # 77. Q. Liang, M.D., Ph.D. (PPT) - Signal Transduction I.pdf",
+    "FOM78": "pdfs/Lecture # 78. Q. Liang, M.D., Ph.D. (PPT) - Signal Transduction II.pdf",
+    "PPOM10": "pdfs/Lecture # 10. V. Grubisic, M.D., Ph.D. (PPT)-1.pdf",
+    "PPOM19": "pdfs/Lecture # 19. L. Goldstein, Pharm.D. (PPT).pdf",
+    "PPOM20": "pdfs/Lecture # 20. L. Goldstein, Pharm.D. (PPT).pdf",
+    "PPOM33": "pdfs/Lecture # 33. L. Goldstein, Pharm.D. (PPT).pdf",
+    "PPOM34": "pdfs/Lecture # 34. L. Goldstein, Pharm.D. (PPT).pdf",
+    "PPOM39": "pdfs/Lecture # 39. L. Goldstein, Pharm.D. (PPT)-1.pdf",
     "CV61": "pdfs/Lecture # 61. D. Zhang, Ph.D. (PPT)-1.pdf",
     "CV65": "pdfs/Lecture # 65. M. Plummer, M.D. (PPT).pdf",
     "CV62": "pdfs/Lecture # 62. D. Zhang, Ph.D. (PPT)-1.pdf",

@@ -45,6 +45,13 @@ document.addEventListener('DOMContentLoaded', () => {
             // The TOC sorts "Week N" groups first and the rest alphabetically, so this lands
             // after Week 5 without any extra ordering rule.
             if (/^Cardio-Review:/.test(test.name)) groupKey = "Review Lectures";
+            // CPR Block 2 has a parallel set of first-order review sets drawn from FOM Physiology
+            // (Signal Transduction) and PPOM 1 (Autonomic Nervous System, Cholinomimetics,
+            // Cholinesterase Inhibitors, Sympathomimetics, Adrenergic Antagonists). They use
+            // the "Cardio2-Review:" prefix so getTestSection routes them to Section VI, and
+            // group here under the same "Review Lectures" heading (unique per section because
+            // the TOC groups are per-section).
+            if (/^Cardio2-Review:/.test(test.name)) groupKey = "Review Lectures";
 
             if (!grouped[groupKey]) {
                 grouped[groupKey] = [];

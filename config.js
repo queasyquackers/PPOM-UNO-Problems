@@ -36,7 +36,11 @@ const CPR2_FIRST_LECTURE = 55;
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
 // Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1),
 // or Section VI (CPR Block 2) when the lecture number is CPR2_FIRST_LECTURE or higher.
+// Cardio2-Review-prefixed tests always route to Section VI (CPR Block 2), regardless of lecture id.
 function getTestSection(testName) {
+    if (/^Cardio2-Review:/.test(testName)) {
+        return SECTIONS.find(s => s.id === "cpr2") || null;
+    }
     if (/^Cardio-/.test(testName)) {
         // Weekly exams name a range "(CV55-67)"; its first number decides the block.
         const cv = testName.match(/\(CV(\d+)(?:[-–]\d+)?\)\s*$/);
@@ -503,6 +507,19 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Obstructive Lung Disease [Recall] (CV112)", data: window.Test_CV112_Recall },
     { name: "Cardio-Pathology: Obstructive Lung Disease [Boards] (CV112)", data: window.Test_CV112_Boards },
     { name: "Cardio-WEEK 11 CUMULATIVE EXAM (CV104-112)", data: window.Test_Cumulative_CPR_Wk11 },
+
+    // CPR Block 2 Review Lectures: first-order recall drills on PPOM 1 and FOM Physiology
+    // material being revisited as foundations for CPR Block 2. The "Cardio2-Review:" prefix
+    // routes them to Section VI (CPR Block 2) and groups them under "Review Lectures" after
+    // the weekly cards, parallel to CPR Block 1's own review set.
+    { name: "Cardio2-Review: Signal Transduction I (FOM77)", data: window.Test_Review_FOM77 },
+    { name: "Cardio2-Review: Signal Transduction II (FOM78)", data: window.Test_Review_FOM78 },
+    { name: "Cardio2-Review: Autonomic Nervous System (PPOM10)", data: window.Test_Review_PPOM10 },
+    { name: "Cardio2-Review: Cholinomimetics (PPOM19)", data: window.Test_Review_PPOM19 },
+    { name: "Cardio2-Review: Cholinesterase Inhibitors (PPOM20)", data: window.Test_Review_PPOM20 },
+    { name: "Cardio2-Review: Sympathomimetics Part 1 (PPOM33)", data: window.Test_Review_PPOM33 },
+    { name: "Cardio2-Review: Sympathomimetics Part 2 (PPOM34)", data: window.Test_Review_PPOM34 },
+    { name: "Cardio2-Review: Adrenergic Antagonists (PPOM39)", data: window.Test_Review_PPOM39 },
 ];
 
 if (typeof window !== "undefined") {
