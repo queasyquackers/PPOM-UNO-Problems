@@ -518,11 +518,11 @@ const testsToLoad = [
     { name: "Cardio2-Review: Signal Transduction I (FOM77)", data: window.Test_Review_FOM77 },
     { name: "Cardio2-Review: Signal Transduction II (FOM78)", data: window.Test_Review_FOM78 },
     { name: "Cardio2-Review: Autonomic Nervous System (PPOM10)", data: window.Test_Review_PPOM10 },
-    { name: "Cardio2-Review: Cholinomimetics (PPOM19)", data: window.Test_Review_PPOM19 },
-    { name: "Cardio2-Review: Cholinesterase Inhibitors (PPOM20)", data: window.Test_Review_PPOM20 },
-    { name: "Cardio2-Review: Sympathomimetics Part 1 (PPOM33)", data: window.Test_Review_PPOM33 },
-    { name: "Cardio2-Review: Sympathomimetics Part 2 (PPOM34)", data: window.Test_Review_PPOM34 },
-    { name: "Cardio2-Review: Adrenergic Antagonists (PPOM39)", data: window.Test_Review_PPOM39 },
+    { name: "Cardio2-Review: Cholinomimetics - Uses and Safety (PPOM19)", data: window.Test_Review_PPOM19 },
+    { name: "Cardio2-Review: Cholinesterase Inhibitors - Uses and Safety (PPOM20)", data: window.Test_Review_PPOM20 },
+    { name: "Cardio2-Review: Sympathomimetics Part 1 - Uses and Safety (PPOM33)", data: window.Test_Review_PPOM33 },
+    { name: "Cardio2-Review: Sympathomimetics Part 2 - Uses and Safety (PPOM34)", data: window.Test_Review_PPOM34 },
+    { name: "Cardio2-Review: Adrenergic Antagonists - Uses and Safety (PPOM39)", data: window.Test_Review_PPOM39 },
 ];
 
 if (typeof window !== "undefined") {
