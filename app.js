@@ -52,6 +52,9 @@ document.addEventListener('DOMContentLoaded', () => {
             // group here under the same "Review Lectures" heading (unique per section because
             // the TOC groups are per-section).
             if (/^Cardio2-Review:/.test(test.name)) groupKey = "Review Lectures";
+            // A whole-block exam spans every week, so its "(CV58-112)" range would otherwise file
+            // it under the first week. It gets its own group, which sorts after the last week.
+            if (/^Cardio-BLOCK \d+ CUMULATIVE EXAM\b/.test(test.name)) groupKey = "Block Exam";
 
             if (!grouped[groupKey]) {
                 grouped[groupKey] = [];
@@ -791,13 +794,13 @@ document.addEventListener('DOMContentLoaded', () => {
         renderLectureBreakdown(testName, state);
     };
 
-    // Per-lecture breakdown for the CPR Block 1 weekly exams. A weekly exam mixes that week's
+    // Per-lecture breakdown for the CPR weekly exams and the CPR block exam. These mix several
     // lectures, so the total alone cannot tell a student what to review; this lists every
     // lecture on the exam with its question count and percent correct, weakest first.
-    // Deliberately limited to the CPR weekly exams: their lecture labels were checked when they
-    // were built, while several older cumulative banks tag some questions with the wrong lecture
-    // number, which would file a missed question under the wrong lecture. Widen WEEKLY_EXAM to
-    // cover another block only after checking that bank's labels.
+    // Deliberately limited to the CPR weekly and block exams: their lecture labels were checked
+    // when they were built, while several older cumulative banks tag some questions with the wrong
+    // lecture number, which would file a missed question under the wrong lecture. Widen
+    // WEEKLY_EXAM to cover another bank only after checking that bank's labels.
     // Rows are keyed by lecture ID, not the full lectureSource string, so two wordings of one
     // lecture's title share a row, and a source naming two lectures ("Lecture 52/53") stays a
     // single row so no question is counted twice.
@@ -806,7 +809,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const list = getEl('summary-by-lecture');
         if (!section || !list) return;
 
-        const WEEKLY_EXAM = /^Cardio-WEEK \d+ CUMULATIVE EXAM\b/;
+        const WEEKLY_EXAM = /^Cardio-(WEEK|BLOCK) \d+ CUMULATIVE EXAM\b/;
         if (!WEEKLY_EXAM.test(testName)) {
             section.style.display = 'none';
             list.innerHTML = '';

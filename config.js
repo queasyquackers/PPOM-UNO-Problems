@@ -507,6 +507,9 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Obstructive Lung Disease [Recall] (CV112)", data: window.Test_CV112_Recall },
     { name: "Cardio-Pathology: Obstructive Lung Disease [Boards] (CV112)", data: window.Test_CV112_Boards },
     { name: "Cardio-WEEK 11 CUMULATIVE EXAM (CV104-112)", data: window.Test_Cumulative_CPR_Wk11 },
+    // Whole-block exam: 100 board-style items over every non-OMM Block 2 lecture (CV58-112).
+    // app.js gives it its own "Block Exam" group so the range does not file it under week 7.
+    { name: "Cardio-BLOCK 2 CUMULATIVE EXAM (CV58-112)", data: window.Test_Cumulative_CPR_Block2 },
 
     // CPR Block 2 Review Lectures: first-order recall drills on PPOM 1 and FOM Physiology
     // material being revisited as foundations for CPR Block 2. The "Cardio2-Review:" prefix
