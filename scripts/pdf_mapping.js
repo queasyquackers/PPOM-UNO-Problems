@@ -517,6 +517,11 @@ const PDF_MAPPING = {
     "CV119": "pdfs/Lecture 119 G. Saggio D.O. (PPT).pdf",
     "CV120": "pdfs/Lecture # 120. J. Golbin, D.O. (PPT).pdf",
     "CV121": "pdfs/Lecture # 121. J. Golbin, D.O. (PPT).pdf",
+    "CV122": "pdfs/Lecture # 122. R. Abu-Sbaih, D.O. (PPT).pdf",
+    "CV123": "pdfs/Lecture # 123. R. Abu-Sbaih, D.O. (PPT).pdf",
+    "CV124": "pdfs/Lecture # 124. P. Bhushan D.O. (PPT).pdf",
+    "CV128": "pdfs/Lecture # 128. M. Pino, Ph. D. (PPT)-1.pdf",
+    "CV132": "pdfs/Lecture # 132. E. Petcu, M.D. (PPT).pdf",
 };
 
 

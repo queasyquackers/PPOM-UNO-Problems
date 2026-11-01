@@ -548,6 +548,16 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Pulmonary Function Testing [Boards] (CV120)", data: window.Test_CV120_Boards },
     { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Recall] (CV121)", data: window.Test_CV121_Recall },
     { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Boards] (CV121)", data: window.Test_CV121_Boards },
+    { name: "Cardio-OMM: Obstetrics [Recall] (CV122)", data: window.Test_CV122_Recall },
+    { name: "Cardio-OMM: Obstetrics [Boards] (CV122)", data: window.Test_CV122_Boards },
+    { name: "Cardio-OMM: Gynecology [Recall] (CV123)", data: window.Test_CV123_Recall },
+    { name: "Cardio-OMM: Gynecology [Boards] (CV123)", data: window.Test_CV123_Boards },
+    { name: "Cardio-OMM: Genitourinary Considerations [Recall] (CV124)", data: window.Test_CV124_Recall },
+    { name: "Cardio-OMM: Genitourinary Considerations [Boards] (CV124)", data: window.Test_CV124_Boards },
+    { name: "Cardio-Pharmacology: Mycobacterial Infections [Recall] (CV128)", data: window.Test_CV128_Recall },
+    { name: "Cardio-Pharmacology: Mycobacterial Infections [Boards] (CV128)", data: window.Test_CV128_Boards },
+    { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Recall] (CV132)", data: window.Test_CV132_Recall },
+    { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Boards] (CV132)", data: window.Test_CV132_Boards },
 ];
 
 if (typeof window !== "undefined") {
