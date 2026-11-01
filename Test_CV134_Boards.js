@@ -234,35 +234,35 @@ const Test_CV134_Boards = [
   {
     "id": 8,
     "category": "Pulmonary: Obstructive Disease Mechanics",
-    "questionText": "A 35-year-old woman is brought to the emergency department with an asthma exacerbation. She is anxious, sitting upright and using her accessory muscles. Her chest and spine feel tight. The physician wants to lower her work of breathing with OMT. Which of the following approaches is most appropriate?",
+    "questionText": "A 54-year-old woman with asthma since childhood returns for follow-up. Over several years her breathlessness has become persistent between attacks, and albuterol helps less than it once did. Earlier examinations recorded a tight chest and spine. Which of the following structural findings is most likely now?",
     "options": [
       {
-        "text": "Gentle thoracic soft tissue treatment",
-        "explanation": "Correct. Improving compliance and excursion reduces her work of breathing, as in any obstructive patient. Her chest is tight and she is frightened, so the technique stays gentle. Forceful mobilization is worse because it suits a stable, stiff COPD chest and would send her into a panic attack."
+        "text": "Stiff chest and spine",
+        "explanation": "Correct. Asthmatic chests and spines feel tight, whereas COPD chests feel stiff. A lifelong asthmatic in her fifties can drift toward COPD, and these patients get a lot stiffer and harder to treat. Her persistent symptoms and waning albuterol response fit that drift. A tight chest is worse because it describes her earlier asthma."
       },
       {
-        "text": "Forceful mobilization of ribs and spine",
-        "explanation": "Incorrect. Force would provoke panic in an anxious, acutely ill asthmatic. This would be the correct answer if she had stable chronic COPD with a stiff chest."
+        "text": "Tight chest with supple spine",
+        "explanation": "Incorrect. Tightness fits her earlier asthma, but persistent symptoms and waning albuterol response suggest a drift toward COPD. This would be the correct answer if she were a younger asthmatic between typical attacks."
       },
       {
-        "text": "High-velocity upper thoracic thrust",
-        "explanation": "Incorrect. A thrust is also forceful and does not address a tight chest. This would be the correct answer if a stable patient had one isolated thoracic restriction."
+        "text": "Striking upper cervical dysfunction",
+        "explanation": "Incorrect. That marks a predominantly reactive airway, and her course over years points to chest change instead. This would be the correct answer if her attacks followed smoke exposure with a chest that moved well."
       },
       {
-        "text": "Thoracic lymph pump with recoil",
-        "explanation": "Incorrect. Recoil pumping is vigorous for a frightened patient who cannot exhale. This would be the correct answer if a calm inpatient had congestion between attacks."
+        "text": "Diminished excursion over one lobe",
+        "explanation": "Incorrect. Local loss of excursion fits consolidation, and her symptoms have built over years. This would be the correct answer if she had days of fever and productive cough."
       },
       {
-        "text": "No OMT until intubation",
-        "explanation": "Incorrect. Her mechanics can be helped now, and intubation is what treatment tries to prevent. This would be the correct answer if she were in extremis needing immediate airway control."
+        "text": "Upper thoracic reflex dysfunction",
+        "explanation": "Incorrect. Upper thoracic findings follow large airway secretions, and she describes none. This would be the correct answer if she had bronchitis with secretions lodged in the big airways."
       }
     ],
     "correctAnswerIndex": 0,
-    "clinicalPearl": "Key takeaway: Mechanics apply in acute asthma, but the anxious asthmatic needs gentle work, unlike a stable COPD chest.",
+    "clinicalPearl": "Key takeaway: As a lifelong asthmatic drifts toward COPD, the tight chest becomes stiffer and harder to treat.",
     "lectureSource": "CV134: Osteopathic Considerations in Pulmonary Disease, Part 2",
     "pdfLecture": "CV134",
-    "pdfPage": 44,
-    "pdfQuote": "reduce work of breathing"
+    "pdfPage": 37,
+    "pdfQuote": "Tight vs Stiff"
   },
   {
     "id": 9,
