@@ -554,6 +554,8 @@ const testsToLoad = [
     { name: "Cardio-OMM: Gynecology [Boards] (CV123)", data: window.Test_CV123_Boards },
     { name: "Cardio-OMM: Genitourinary Considerations [Recall] (CV124)", data: window.Test_CV124_Recall },
     { name: "Cardio-OMM: Genitourinary Considerations [Boards] (CV124)", data: window.Test_CV124_Boards },
+    { name: "Cardio-Clinical: ABG Interpretation and ARDS [Recall] (CV126)", data: window.Test_CV126_Recall },
+    { name: "Cardio-Clinical: ABG Interpretation and ARDS [Boards] (CV126)", data: window.Test_CV126_Boards },
     { name: "Cardio-Clinical: Tuberculosis [Recall] (CV127)", data: window.Test_CV127_Recall },
     { name: "Cardio-Clinical: Tuberculosis [Boards] (CV127)", data: window.Test_CV127_Boards },
     { name: "Cardio-Pharmacology: Mycobacterial Infections [Recall] (CV128)", data: window.Test_CV128_Recall },
