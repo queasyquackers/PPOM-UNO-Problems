@@ -528,6 +528,8 @@ const PDF_MAPPING = {
     "CV130": "pdfs/Lecture #130. J. Holloway, Ph.D. (PPT).pdf",
     "CV137": "pdfs/Lecture # 137. J. Holloway, Ph.D. (PPT).pdf",
     "CV139": "pdfs/Lecture # 139. M. Mourad, D.O. (PPT).pdf",
+    "CV133": "pdfs/Lecture # 133. M. Terzella, D.O. (PPT).pdf",
+    "CV141": "pdfs/Lecture # 141. C. Abraham M.D. (PPT).pdf",
 };
 
 

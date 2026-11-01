@@ -566,10 +566,14 @@ const testsToLoad = [
     { name: "Cardio-Microbiology: Respiratory Bacteria II [Boards] (CV131)", data: window.Test_CV131_Boards },
     { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Recall] (CV132)", data: window.Test_CV132_Recall },
     { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Boards] (CV132)", data: window.Test_CV132_Boards },
+    { name: "Cardio-OMM: Osteopathic Considerations in Cardiology [Recall] (CV133)", data: window.Test_CV133_Recall },
+    { name: "Cardio-OMM: Osteopathic Considerations in Cardiology [Boards] (CV133)", data: window.Test_CV133_Boards },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Recall] (CV137)", data: window.Test_CV137_Recall },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Boards] (CV137)", data: window.Test_CV137_Boards },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Recall] (CV139)", data: window.Test_CV139_Recall },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Boards] (CV139)", data: window.Test_CV139_Boards },
+    { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Recall] (CV141)", data: window.Test_CV141_Recall },
+    { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
 ];
 
 if (typeof window !== "undefined") {
