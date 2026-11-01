@@ -508,6 +508,15 @@ const PDF_MAPPING = {
     "CV103": "pdfs/Lecture #103 S. Yao D.O. (PPT).pdf",
     "CV92": "pdfs/Lecture # 92. T. Chan, D.O. (PPT)-1.pdf",
     "CV93": "pdfs/Lecture # 93. T. Chan, D.O. (PPT).pdf",
+    "CV113": "pdfs/Lecture #113 H. Ettlinger (PPT).pdf",
+    "CV114": "pdfs/Lecture # 114. H. Ettlinger, D.O.T. Flaum, D.O. (PPT).pdf",
+    "CV115": "pdfs/Lecture # 115. W. Tedjo. D.O. (PPT).pdf",
+    "CV116": "pdfs/Lecture # 116. W. Zaloga D.O. (PPT).pdf",
+    "CV117": "pdfs/Lecture # 117. W. Zaloga D.O. (PPT).pdf",
+    "CV118": "pdfs/Lecture # 118. M. Plummer, M.D. (PPT).pdf",
+    "CV119": "pdfs/Lecture 119 G. Saggio D.O. (PPT).pdf",
+    "CV120": "pdfs/Lecture # 120. J. Golbin, D.O. (PPT).pdf",
+    "CV121": "pdfs/Lecture # 121. J. Golbin, D.O. (PPT).pdf",
 };
 
 
