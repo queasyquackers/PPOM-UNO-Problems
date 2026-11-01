@@ -522,6 +522,7 @@ const PDF_MAPPING = {
     "CV124": "pdfs/Lecture # 124. P. Bhushan D.O. (PPT).pdf",
     "CV128": "pdfs/Lecture # 128. M. Pino, Ph. D. (PPT)-1.pdf",
     "CV132": "pdfs/Lecture # 132. E. Petcu, M.D. (PPT).pdf",
+    "CV127": "pdfs/Lecture # 127. E. Yusupov, D.O. (PPT).pdf",
 };
 
 
