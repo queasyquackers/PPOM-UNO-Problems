@@ -590,6 +590,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Nephrotic Syndrome [Boards] (CV148)", data: window.Test_CV148_Boards },
     { name: "Cardio-Pathology: Nephritic Syndrome [Recall] (CV149)", data: window.Test_CV149_Recall },
     { name: "Cardio-Pathology: Nephritic Syndrome [Boards] (CV149)", data: window.Test_CV149_Boards },
+    { name: "Cardio-Pharmacology: Influenza and SARS-CoV-2 Antivirals [Recall] (CV150)", data: window.Test_CV150_Recall },
+    { name: "Cardio-Pharmacology: Influenza and SARS-CoV-2 Antivirals [Boards] (CV150)", data: window.Test_CV150_Boards },
     { name: "Cardio-Pathology: Vascular Kidney Diseases [Recall] (CV151)", data: window.Test_CV151_Recall },
     { name: "Cardio-Pathology: Vascular Kidney Diseases [Boards] (CV151)", data: window.Test_CV151_Boards },
     { name: "Cardio-Clinical: Urinary Tract Infections [Recall] (CV153)", data: window.Test_CV153_Recall },
