@@ -27,15 +27,20 @@ const SECTIONS = [
     // number space and keep the "Cardio-" prefix; getTestSection routes them
     // here by the "(CVn)" lecture number, so no test name had to change.
     { id: "cpr2",   romanNumeral: "VI",  name: "CPR Block 2",                     dek: "Ischemia, rhythm, valves, lung.", weeks: [7, 8, 9, 10, 11] },
+    // CPR Block 3 (semester 2, weeks 13-17): lectures 113 and up, routed the same way.
+    { id: "cpr3",   romanNumeral: "VII", name: "CPR Block 3",                     dek: "Lung disease, infection, kidney.", weeks: [13, 14, 15, 16, 17] },
 ];
 
 // First lecture number of CPR Block 2. CV numbers at or above it route to Section VI.
 const CPR2_FIRST_LECTURE = 55;
+// First lecture number of CPR Block 3. CV numbers at or above it route to Section VII.
+const CPR3_FIRST_LECTURE = 113;
 
 // Map a test name (e.g. "6-Pharm: Sedative Hypnotics (L48)") to its section.
 // Pathoma-prefixed tests (e.g. "Pathoma-Acute Leukemia (6.2)") live under Section IV (Hematology-Oncology).
 // Cardio-prefixed tests (e.g. "Cardio-Hemodynamics (CV16)") live under Section V (CPR Block 1),
-// or Section VI (CPR Block 2) when the lecture number is CPR2_FIRST_LECTURE or higher.
+// Section VI (CPR Block 2) when the lecture number is CPR2_FIRST_LECTURE or higher,
+// or Section VII (CPR Block 3) when it is CPR3_FIRST_LECTURE or higher.
 // Cardio2-Review-prefixed tests always route to Section VI (CPR Block 2), regardless of lecture id.
 function getTestSection(testName) {
     if (/^Cardio2-Review:/.test(testName)) {
@@ -44,7 +49,8 @@ function getTestSection(testName) {
     if (/^Cardio-/.test(testName)) {
         // Weekly exams name a range "(CV55-67)"; its first number decides the block.
         const cv = testName.match(/\(CV(\d+)(?:[-–]\d+)?\)\s*$/);
-        const id = cv && parseInt(cv[1], 10) >= CPR2_FIRST_LECTURE ? "cpr2" : "cardio";
+        const n = cv ? parseInt(cv[1], 10) : 0;
+        const id = n >= CPR3_FIRST_LECTURE ? "cpr3" : n >= CPR2_FIRST_LECTURE ? "cpr2" : "cardio";
         return SECTIONS.find(s => s.id === id) || null;
     }
     if (/^Pathoma-/.test(testName)) {
@@ -62,7 +68,8 @@ function getTestSection(testName) {
 // Tests keep their "Cardio-" routing prefix; the week is derived at render time
 // from the "(CVn)" in the test name, so no test has to be renamed to regroup.
 const CPR_WEEKS = [[1, 10, 1], [11, 20, 2], [21, 31, 3], [32, 41, 4], [42, 54, 5],
-                   [55, 67, 7], [68, 78, 8], [79, 89, 9], [90, 99, 10], [100, 112, 11]];
+                   [55, 67, 7], [68, 78, 8], [79, 89, 9], [90, 99, 10], [100, 112, 11],
+                   [113, 121, 13], [122, 132, 14], [133, 142, 15], [143, 153, 16], [154, 163, 17]];
 function cprWeek(n) {
     const row = CPR_WEEKS.find(([lo, hi]) => n >= lo && n <= hi);
     return row ? row[2] : null;
@@ -523,6 +530,56 @@ const testsToLoad = [
     { name: "Cardio2-Review: Sympathomimetics Part 1 (PPOM33)", data: window.Test_Review_PPOM33 },
     { name: "Cardio2-Review: Sympathomimetics Part 2 (PPOM34)", data: window.Test_Review_PPOM34 },
     { name: "Cardio2-Review: Adrenergic Antagonists (PPOM39)", data: window.Test_Review_PPOM39 },
+    { name: "Cardio-OMM: The Hospitalized Patient [Recall] (CV113)", data: window.Test_CV113_Recall },
+    { name: "Cardio-OMM: The Hospitalized Patient [Boards] (CV113)", data: window.Test_CV113_Boards },
+    { name: "Cardio-OMM: Pulmonary Disease Part 1 [Recall] (CV114)", data: window.Test_CV114_Recall },
+    { name: "Cardio-OMM: Pulmonary Disease Part 1 [Boards] (CV114)", data: window.Test_CV114_Boards },
+    { name: "Cardio-OMM: Pulmonary Applications Part 1 [Recall] (CV115)", data: window.Test_CV115_Recall },
+    { name: "Cardio-OMM: Pulmonary Applications Part 1 [Boards] (CV115)", data: window.Test_CV115_Boards },
+    { name: "Cardio-Pathology: Idiopathic Pulmonary Fibrosis [Recall] (CV116)", data: window.Test_CV116_Recall },
+    { name: "Cardio-Pathology: Idiopathic Pulmonary Fibrosis [Boards] (CV116)", data: window.Test_CV116_Boards },
+    { name: "Cardio-Pathology: Sarcoidosis and Interstitial Lung Disorders [Recall] (CV117)", data: window.Test_CV117_Recall },
+    { name: "Cardio-Pathology: Sarcoidosis and Interstitial Lung Disorders [Boards] (CV117)", data: window.Test_CV117_Boards },
+    { name: "Cardio-Pathology: Occupational Lung Diseases [Recall] (CV118)", data: window.Test_CV118_Recall },
+    { name: "Cardio-Pathology: Occupational Lung Diseases [Boards] (CV118)", data: window.Test_CV118_Boards },
+    { name: "Cardio-Clinical: Obstructive and Restrictive Lung Diseases [Recall] (CV119)", data: window.Test_CV119_Recall },
+    { name: "Cardio-Clinical: Obstructive and Restrictive Lung Diseases [Boards] (CV119)", data: window.Test_CV119_Boards },
+    { name: "Cardio-Clinical: Pulmonary Function Testing [Recall] (CV120)", data: window.Test_CV120_Recall },
+    { name: "Cardio-Clinical: Pulmonary Function Testing [Boards] (CV120)", data: window.Test_CV120_Boards },
+    { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Recall] (CV121)", data: window.Test_CV121_Recall },
+    { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Boards] (CV121)", data: window.Test_CV121_Boards },
+    { name: "Cardio-OMM: Obstetrics [Recall] (CV122)", data: window.Test_CV122_Recall },
+    { name: "Cardio-OMM: Obstetrics [Boards] (CV122)", data: window.Test_CV122_Boards },
+    { name: "Cardio-OMM: Gynecology [Recall] (CV123)", data: window.Test_CV123_Recall },
+    { name: "Cardio-OMM: Gynecology [Boards] (CV123)", data: window.Test_CV123_Boards },
+    { name: "Cardio-OMM: Genitourinary Considerations [Recall] (CV124)", data: window.Test_CV124_Recall },
+    { name: "Cardio-OMM: Genitourinary Considerations [Boards] (CV124)", data: window.Test_CV124_Boards },
+    { name: "Cardio-Clinical: ABG Interpretation and ARDS [Recall] (CV126)", data: window.Test_CV126_Recall },
+    { name: "Cardio-Clinical: ABG Interpretation and ARDS [Boards] (CV126)", data: window.Test_CV126_Boards },
+    { name: "Cardio-Clinical: Tuberculosis [Recall] (CV127)", data: window.Test_CV127_Recall },
+    { name: "Cardio-Clinical: Tuberculosis [Boards] (CV127)", data: window.Test_CV127_Boards },
+    { name: "Cardio-Pharmacology: Mycobacterial Infections [Recall] (CV128)", data: window.Test_CV128_Recall },
+    { name: "Cardio-Pharmacology: Mycobacterial Infections [Boards] (CV128)", data: window.Test_CV128_Boards },
+    { name: "Cardio-Microbiology: Respiratory Bacteria I [Recall] (CV130)", data: window.Test_CV130_Recall },
+    { name: "Cardio-Microbiology: Respiratory Bacteria I [Boards] (CV130)", data: window.Test_CV130_Boards },
+    { name: "Cardio-Microbiology: Respiratory Bacteria II [Recall] (CV131)", data: window.Test_CV131_Recall },
+    { name: "Cardio-Microbiology: Respiratory Bacteria II [Boards] (CV131)", data: window.Test_CV131_Boards },
+    { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Recall] (CV132)", data: window.Test_CV132_Recall },
+    { name: "Cardio-Pathology: Pulmonary Infectious Diseases [Boards] (CV132)", data: window.Test_CV132_Boards },
+    { name: "Cardio-OMM: Osteopathic Considerations in Cardiology [Recall] (CV133)", data: window.Test_CV133_Recall },
+    { name: "Cardio-OMM: Osteopathic Considerations in Cardiology [Boards] (CV133)", data: window.Test_CV133_Boards },
+    { name: "Cardio-OMM: Pulmonary Disease Part 2 [Recall] (CV134)", data: window.Test_CV134_Recall },
+    { name: "Cardio-OMM: Pulmonary Disease Part 2 [Boards] (CV134)", data: window.Test_CV134_Boards },
+    { name: "Cardio-OMM: Thoracic Pumps, Rib FPR and Counterstrain [Recall] (CV135)", data: window.Test_CV135_Recall },
+    { name: "Cardio-OMM: Thoracic Pumps, Rib FPR and Counterstrain [Boards] (CV135)", data: window.Test_CV135_Boards },
+    { name: "Cardio-Microbiology: Opportunistic Mycoses [Recall] (CV137)", data: window.Test_CV137_Recall },
+    { name: "Cardio-Microbiology: Opportunistic Mycoses [Boards] (CV137)", data: window.Test_CV137_Boards },
+    { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Recall] (CV139)", data: window.Test_CV139_Recall },
+    { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Boards] (CV139)", data: window.Test_CV139_Boards },
+    { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Recall] (CV141)", data: window.Test_CV141_Recall },
+    { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
+    { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Recall] (CV142)", data: window.Test_CV142_Recall },
+    { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Boards] (CV142)", data: window.Test_CV142_Boards },
 ];
 
 if (typeof window !== "undefined") {
