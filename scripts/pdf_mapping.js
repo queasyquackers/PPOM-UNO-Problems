@@ -533,6 +533,8 @@ const PDF_MAPPING = {
     "CV134": "pdfs/Lecture # 134. H. Ettlinger, D.O.P. Bhushan D.O. (PPT).pdf",
     "CV135": "pdfs/Lecture # 135. T. Flaum, D.O. (PPT).pdf",
     "CV142": "pdfs/Lecture # 142. M. Plummer, M.D. (PPT).pdf",
+    "CV151": "pdfs/Lecture # 151. W. Zaloga D.O. (PPT).pdf",
+    "CV153": "pdfs/Lecture # 153. P. Happel, D.O. (PPT).pdf",
 };
 
 

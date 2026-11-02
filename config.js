@@ -580,6 +580,10 @@ const testsToLoad = [
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Recall] (CV142)", data: window.Test_CV142_Recall },
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Boards] (CV142)", data: window.Test_CV142_Boards },
+    { name: "Cardio-Pathology: Vascular Kidney Diseases [Recall] (CV151)", data: window.Test_CV151_Recall },
+    { name: "Cardio-Pathology: Vascular Kidney Diseases [Boards] (CV151)", data: window.Test_CV151_Boards },
+    { name: "Cardio-Clinical: Urinary Tract Infections [Recall] (CV153)", data: window.Test_CV153_Recall },
+    { name: "Cardio-Clinical: Urinary Tract Infections [Boards] (CV153)", data: window.Test_CV153_Boards },
 ];
 
 if (typeof window !== "undefined") {
