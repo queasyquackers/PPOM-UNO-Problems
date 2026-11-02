@@ -535,6 +535,8 @@ const PDF_MAPPING = {
     "CV142": "pdfs/Lecture # 142. M. Plummer, M.D. (PPT).pdf",
     "CV151": "pdfs/Lecture # 151. W. Zaloga D.O. (PPT).pdf",
     "CV153": "pdfs/Lecture # 153. P. Happel, D.O. (PPT).pdf",
+    "CV143": "pdfs/Lecture # 143. A. Loftis, D.O. (PPT).pdf",
+    "CV146": "pdfs/Lecture #146. J. Mazzie, D.O. (PPT).pdf",
 };
 
 
