@@ -584,6 +584,8 @@ const testsToLoad = [
     { name: "Cardio-DPR: Renal History and Physical Exam [Boards] (CV143)", data: window.Test_CV143_Boards },
     { name: "Cardio-Radiology: Chest Pathology [Recall] (CV146)", data: window.Test_CV146_Recall },
     { name: "Cardio-Radiology: Chest Pathology [Boards] (CV146)", data: window.Test_CV146_Boards },
+    { name: "Cardio-Pathology: Introduction to Glomerular Diseases [Recall] (CV147)", data: window.Test_CV147_Recall },
+    { name: "Cardio-Pathology: Introduction to Glomerular Diseases [Boards] (CV147)", data: window.Test_CV147_Boards },
     { name: "Cardio-Pathology: Nephrotic Syndrome [Recall] (CV148)", data: window.Test_CV148_Recall },
     { name: "Cardio-Pathology: Nephrotic Syndrome [Boards] (CV148)", data: window.Test_CV148_Boards },
     { name: "Cardio-Pathology: Nephritic Syndrome [Recall] (CV149)", data: window.Test_CV149_Recall },
