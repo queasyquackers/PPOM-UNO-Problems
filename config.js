@@ -578,6 +578,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Boards] (CV139)", data: window.Test_CV139_Boards },
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Recall] (CV141)", data: window.Test_CV141_Recall },
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
+    { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Recall] (CV142)", data: window.Test_CV142_Recall },
+    { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Boards] (CV142)", data: window.Test_CV142_Boards },
 ];
 
 if (typeof window !== "undefined") {
