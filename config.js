@@ -596,6 +596,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Vascular Kidney Diseases [Boards] (CV151)", data: window.Test_CV151_Boards },
     { name: "Cardio-Clinical: Urinary Tract Infections [Recall] (CV153)", data: window.Test_CV153_Recall },
     { name: "Cardio-Clinical: Urinary Tract Infections [Boards] (CV153)", data: window.Test_CV153_Boards },
+    { name: "Cardio-Clinical: Urinary Incontinence [Recall] (CV163)", data: window.Test_CV163_Recall },
+    { name: "Cardio-Clinical: Urinary Incontinence [Boards] (CV163)", data: window.Test_CV163_Boards },
 ];
 
 if (typeof window !== "undefined") {
