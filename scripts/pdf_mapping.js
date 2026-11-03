@@ -535,6 +535,19 @@ const PDF_MAPPING = {
     "CV142": "pdfs/Lecture # 142. M. Plummer, M.D. (PPT).pdf",
     "CV151": "pdfs/Lecture # 151. W. Zaloga D.O. (PPT).pdf",
     "CV153": "pdfs/Lecture # 153. P. Happel, D.O. (PPT).pdf",
+    "CV143": "pdfs/Lecture # 143. A. Loftis, D.O. (PPT).pdf",
+    "CV146": "pdfs/Lecture #146. J. Mazzie, D.O. (PPT).pdf",
+    "CV148": "pdfs/Lecture # 148. W. Zaloga D.O. (PPT)-1.pdf",
+    "CV149": "pdfs/Lecture # 149. W. Zaloga D.O. (PPT).pdf",
+    "CV147": "pdfs/Lecture 147. E. Petcu M.D. (PPT).pdf",
+    "CV150": "pdfs/Lecture # 150. L. Goldstein, Pharm.D. (PPT).pdf",
+    "CV163": "pdfs/Lecture # 163. A. Loftis, D.O. (PPT).pdf",
+    "CV154": "pdfs/Lecture # 154. P. Noto, D.O. (PPT).pdf",
+    "CV156": "pdfs/Lecture # 156. M. Plummer, M.D. (PPT).pdf",
+    "CV155": "pdfs/Lecture # 155. E. Petcu, M.D. (PPT).pdf",
+    "CV162": "pdfs/Lecture #162 G. Saggio (PPT).pdf",
+    "CV157": "pdfs/Lecture # 157. E. Petcu, M.D. (PPT).pdf",
+    "CV159": "pdfs/Lecture # 159. P. Ryo, D.O. (PPT).pdf",
 };
 
 
