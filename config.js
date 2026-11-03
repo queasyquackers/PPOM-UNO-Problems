@@ -604,6 +604,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Kidney Neoplasms [Boards] (CV156)", data: window.Test_CV156_Boards },
     { name: "Cardio-Pathology: Lower Urinary Tract [Recall] (CV157)", data: window.Test_CV157_Recall },
     { name: "Cardio-Pathology: Lower Urinary Tract [Boards] (CV157)", data: window.Test_CV157_Boards },
+    { name: "Cardio-Clinical: Chronic Kidney Disease [Recall] (CV159)", data: window.Test_CV159_Recall },
+    { name: "Cardio-Clinical: Chronic Kidney Disease [Boards] (CV159)", data: window.Test_CV159_Boards },
     { name: "Cardio-Clinical: Nephrolithiasis [Recall] (CV162)", data: window.Test_CV162_Recall },
     { name: "Cardio-Clinical: Nephrolithiasis [Boards] (CV162)", data: window.Test_CV162_Boards },
     { name: "Cardio-Clinical: Urinary Incontinence [Recall] (CV163)", data: window.Test_CV163_Recall },
