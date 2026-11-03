@@ -598,6 +598,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Urinary Tract Infections [Boards] (CV153)", data: window.Test_CV153_Boards },
     { name: "Cardio-OMM: Pulmonary Applications Part 2 [Recall] (CV154)", data: window.Test_CV154_Recall },
     { name: "Cardio-OMM: Pulmonary Applications Part 2 [Boards] (CV154)", data: window.Test_CV154_Boards },
+    { name: "Cardio-Pathology: Tubulointerstitial Disease [Recall] (CV155)", data: window.Test_CV155_Recall },
+    { name: "Cardio-Pathology: Tubulointerstitial Disease [Boards] (CV155)", data: window.Test_CV155_Boards },
     { name: "Cardio-Pathology: Kidney Neoplasms [Recall] (CV156)", data: window.Test_CV156_Recall },
     { name: "Cardio-Pathology: Kidney Neoplasms [Boards] (CV156)", data: window.Test_CV156_Boards },
     { name: "Cardio-Clinical: Urinary Incontinence [Recall] (CV163)", data: window.Test_CV163_Recall },
