@@ -582,6 +582,8 @@ const testsToLoad = [
     { name: "Cardio-Microbiology: Emerging Infections [Boards] (CV138)", data: window.Test_CV138_Boards },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Recall] (CV139)", data: window.Test_CV139_Recall },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Boards] (CV139)", data: window.Test_CV139_Boards },
+    { name: "Cardio-Microbiology: Nosocomial Infections [Recall] (CV140)", data: window.Test_CV140_Recall },
+    { name: "Cardio-Microbiology: Nosocomial Infections [Boards] (CV140)", data: window.Test_CV140_Boards },
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Recall] (CV141)", data: window.Test_CV141_Recall },
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Recall] (CV142)", data: window.Test_CV142_Recall },
