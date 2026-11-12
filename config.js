@@ -572,6 +572,8 @@ const testsToLoad = [
     { name: "Cardio-OMM: Pulmonary Disease Part 2 [Boards] (CV134)", data: window.Test_CV134_Boards },
     { name: "Cardio-OMM: Thoracic Pumps, Rib FPR and Counterstrain [Recall] (CV135)", data: window.Test_CV135_Recall },
     { name: "Cardio-OMM: Thoracic Pumps, Rib FPR and Counterstrain [Boards] (CV135)", data: window.Test_CV135_Boards },
+    { name: "Cardio-Microbiology: Respiratory Fungi [Recall] (CV136)", data: window.Test_CV136_Recall },
+    { name: "Cardio-Microbiology: Respiratory Fungi [Boards] (CV136)", data: window.Test_CV136_Boards },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Recall] (CV137)", data: window.Test_CV137_Recall },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Boards] (CV137)", data: window.Test_CV137_Boards },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Recall] (CV139)", data: window.Test_CV139_Recall },
