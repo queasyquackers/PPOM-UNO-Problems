@@ -602,6 +602,8 @@ const testsToLoad = [
     { name: "Cardio-Pharmacology: Influenza and SARS-CoV-2 Antivirals [Boards] (CV150)", data: window.Test_CV150_Boards },
     { name: "Cardio-Pathology: Vascular Kidney Diseases [Recall] (CV151)", data: window.Test_CV151_Recall },
     { name: "Cardio-Pathology: Vascular Kidney Diseases [Boards] (CV151)", data: window.Test_CV151_Boards },
+    { name: "Cardio-Microbiology: Urinary Tract Infections [Recall] (CV152)", data: window.Test_CV152_Recall },
+    { name: "Cardio-Microbiology: Urinary Tract Infections [Boards] (CV152)", data: window.Test_CV152_Boards },
     { name: "Cardio-Clinical: Urinary Tract Infections [Recall] (CV153)", data: window.Test_CV153_Recall },
     { name: "Cardio-Clinical: Urinary Tract Infections [Boards] (CV153)", data: window.Test_CV153_Boards },
     { name: "Cardio-OMM: Pulmonary Applications Part 2 [Recall] (CV154)", data: window.Test_CV154_Recall },
