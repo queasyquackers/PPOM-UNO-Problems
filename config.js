@@ -560,6 +560,8 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Tuberculosis [Boards] (CV127)", data: window.Test_CV127_Boards },
     { name: "Cardio-Pharmacology: Mycobacterial Infections [Recall] (CV128)", data: window.Test_CV128_Recall },
     { name: "Cardio-Pharmacology: Mycobacterial Infections [Boards] (CV128)", data: window.Test_CV128_Boards },
+    { name: "Cardio-Microbiology: Respiratory Viruses [Recall] (CV129)", data: window.Test_CV129_Recall },
+    { name: "Cardio-Microbiology: Respiratory Viruses [Boards] (CV129)", data: window.Test_CV129_Boards },
     { name: "Cardio-Microbiology: Respiratory Bacteria I [Recall] (CV130)", data: window.Test_CV130_Recall },
     { name: "Cardio-Microbiology: Respiratory Bacteria I [Boards] (CV130)", data: window.Test_CV130_Boards },
     { name: "Cardio-Microbiology: Respiratory Bacteria II [Recall] (CV131)", data: window.Test_CV131_Recall },
