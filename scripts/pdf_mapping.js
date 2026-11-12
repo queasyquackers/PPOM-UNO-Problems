@@ -550,6 +550,11 @@ const PDF_MAPPING = {
     "CV159": "pdfs/Lecture # 159. P. Ryo, D.O. (PPT).pdf",
     "CV161": "pdfs/Lecture #161. T. Chan, D.O. (PPT).pdf",
     "CV160": "pdfs/Lecture #160. T. Chan, D.O. (PPT)-1.pdf",
+    "CV129": "pdfs/Lecture #129. J. Holloway, Ph.D. (PPT).pdf",
+    "CV136": "pdfs/Lecture #136. J. Holloway, Ph.D. (PPT).pdf",
+    "CV138": "pdfs/Lecture # 138. T. Slieman, Ph.D. (PPT).pdf",
+    "CV140": "pdfs/Lecture # 140. C. Abraham M.D. (PPT).pdf",
+    "CV152": "pdfs/Lecture #152. J. Holloway, Ph.D. (PPT).pdf",
 };
 
 
