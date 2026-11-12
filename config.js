@@ -578,6 +578,8 @@ const testsToLoad = [
     { name: "Cardio-Microbiology: Respiratory Fungi [Boards] (CV136)", data: window.Test_CV136_Boards },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Recall] (CV137)", data: window.Test_CV137_Recall },
     { name: "Cardio-Microbiology: Opportunistic Mycoses [Boards] (CV137)", data: window.Test_CV137_Boards },
+    { name: "Cardio-Microbiology: Emerging Infections [Recall] (CV138)", data: window.Test_CV138_Recall },
+    { name: "Cardio-Microbiology: Emerging Infections [Boards] (CV138)", data: window.Test_CV138_Boards },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Recall] (CV139)", data: window.Test_CV139_Recall },
     { name: "Cardio-Clinical: Hospital-Acquired Pneumonia [Boards] (CV139)", data: window.Test_CV139_Boards },
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Recall] (CV141)", data: window.Test_CV141_Recall },
