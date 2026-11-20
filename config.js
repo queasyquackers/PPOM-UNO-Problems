@@ -590,6 +590,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Boards] (CV142)", data: window.Test_CV142_Boards },
     { name: "Cardio-DPR: Renal History and Physical Exam [Recall] (CV143)", data: window.Test_CV143_Recall },
     { name: "Cardio-DPR: Renal History and Physical Exam [Boards] (CV143)", data: window.Test_CV143_Boards },
+    { name: "Cardio-Pathology: Pulmonary and Pleural Neoplasms [Recall] (CV144)", data: window.Test_CV144_Recall },
+    { name: "Cardio-Pathology: Pulmonary and Pleural Neoplasms [Boards] (CV144)", data: window.Test_CV144_Boards },
     { name: "Cardio-Radiology: Chest Pathology [Recall] (CV146)", data: window.Test_CV146_Recall },
     { name: "Cardio-Radiology: Chest Pathology [Boards] (CV146)", data: window.Test_CV146_Boards },
     { name: "Cardio-Pathology: Introduction to Glomerular Diseases [Recall] (CV147)", data: window.Test_CV147_Recall },

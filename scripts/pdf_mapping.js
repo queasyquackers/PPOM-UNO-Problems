@@ -556,6 +556,7 @@ const PDF_MAPPING = {
     "CV140": "pdfs/Lecture # 140. C. Abraham M.D. (PPT).pdf",
     "CV152": "pdfs/Lecture #152. J. Holloway, Ph.D. (PPT).pdf",
     "CV145": "pdfs/Lecture # 145. J. Golbin, D.O. (PPT).pdf",
+    "CV144": "pdfs/Lecture # 144. J. Golbin, D.O. (PPT).pdf",
 };
 
 
