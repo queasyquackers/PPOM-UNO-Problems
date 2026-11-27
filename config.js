@@ -548,6 +548,7 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Pulmonary Function Testing [Boards] (CV120)", data: window.Test_CV120_Boards },
     { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Recall] (CV121)", data: window.Test_CV121_Recall },
     { name: "Cardio-Clinical: Asthma Findings and Diagnosis [Boards] (CV121)", data: window.Test_CV121_Boards },
+    { name: "Cardio-WEEK 13 CUMULATIVE EXAM (CV113-121)", data: window.Test_Cumulative_CPR_Wk13 },
     { name: "Cardio-OMM: Obstetrics [Recall] (CV122)", data: window.Test_CV122_Recall },
     { name: "Cardio-OMM: Obstetrics [Boards] (CV122)", data: window.Test_CV122_Boards },
     { name: "Cardio-OMM: Gynecology [Recall] (CV123)", data: window.Test_CV123_Recall },
@@ -588,6 +589,7 @@ const testsToLoad = [
     { name: "Cardio-Clinical: URIs and Community Acquired Pneumonia [Boards] (CV141)", data: window.Test_CV141_Boards },
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Recall] (CV142)", data: window.Test_CV142_Recall },
     { name: "Cardio-Pathology: Lung and Pleural Neoplasms [Boards] (CV142)", data: window.Test_CV142_Boards },
+    { name: "Cardio-WEEK 15 CUMULATIVE EXAM (CV133-142)", data: window.Test_Cumulative_CPR_Wk15 },
     { name: "Cardio-DPR: Renal History and Physical Exam [Recall] (CV143)", data: window.Test_CV143_Recall },
     { name: "Cardio-DPR: Renal History and Physical Exam [Boards] (CV143)", data: window.Test_CV143_Boards },
     { name: "Cardio-Pathology: Pulmonary and Pleural Neoplasms [Recall] (CV144)", data: window.Test_CV144_Recall },
@@ -610,6 +612,7 @@ const testsToLoad = [
     { name: "Cardio-Microbiology: Urinary Tract Infections [Boards] (CV152)", data: window.Test_CV152_Boards },
     { name: "Cardio-Clinical: Urinary Tract Infections [Recall] (CV153)", data: window.Test_CV153_Recall },
     { name: "Cardio-Clinical: Urinary Tract Infections [Boards] (CV153)", data: window.Test_CV153_Boards },
+    { name: "Cardio-WEEK 16 CUMULATIVE EXAM (CV143-153)", data: window.Test_Cumulative_CPR_Wk16 },
     { name: "Cardio-OMM: Pulmonary Applications Part 2 [Recall] (CV154)", data: window.Test_CV154_Recall },
     { name: "Cardio-OMM: Pulmonary Applications Part 2 [Boards] (CV154)", data: window.Test_CV154_Boards },
     { name: "Cardio-Pathology: Tubulointerstitial Disease [Recall] (CV155)", data: window.Test_CV155_Recall },
@@ -618,6 +621,8 @@ const testsToLoad = [
     { name: "Cardio-Pathology: Kidney Neoplasms [Boards] (CV156)", data: window.Test_CV156_Boards },
     { name: "Cardio-Pathology: Lower Urinary Tract [Recall] (CV157)", data: window.Test_CV157_Recall },
     { name: "Cardio-Pathology: Lower Urinary Tract [Boards] (CV157)", data: window.Test_CV157_Boards },
+    { name: "Cardio-Clinical: Acute Kidney Injury [Recall] (CV158)", data: window.Test_CV158_Recall },
+    { name: "Cardio-Clinical: Acute Kidney Injury [Boards] (CV158)", data: window.Test_CV158_Boards },
     { name: "Cardio-Clinical: Chronic Kidney Disease [Recall] (CV159)", data: window.Test_CV159_Recall },
     { name: "Cardio-Clinical: Chronic Kidney Disease [Boards] (CV159)", data: window.Test_CV159_Boards },
     { name: "Cardio-Clinical: Pediatric Renal and GU Considerations I [Recall] (CV160)", data: window.Test_CV160_Recall },
@@ -628,6 +633,11 @@ const testsToLoad = [
     { name: "Cardio-Clinical: Nephrolithiasis [Boards] (CV162)", data: window.Test_CV162_Boards },
     { name: "Cardio-Clinical: Urinary Incontinence [Recall] (CV163)", data: window.Test_CV163_Recall },
     { name: "Cardio-Clinical: Urinary Incontinence [Boards] (CV163)", data: window.Test_CV163_Boards },
+    { name: "Cardio-WEEK 17 CUMULATIVE EXAM (CV154-163)", data: window.Test_Cumulative_CPR_Wk17 },
+    // Whole-block exam: 100 board-style items over the non-OMM lectures of weeks 13, 15, 16 and 17
+    // (CV116-163). Week 14 is not included.
+    // app.js gives it its own "Block Exam" group so the range does not file it under week 13.
+    { name: "Cardio-BLOCK 3 CUMULATIVE EXAM (CV116-163)", data: window.Test_Cumulative_CPR_Block3 },
 ];
 
 if (typeof window !== "undefined") {
